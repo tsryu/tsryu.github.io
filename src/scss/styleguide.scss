@@ -56,14 +56,6 @@ h6 {
   line-height: 1.76;
   color: $dark;
 }
-p {
-  @include font-size(16);
-  font-weight: normal;
-  line-height: 1.75;
-  letter-spacing: normal;
-  color: $dark;
-  margin: 20px 0;
-}
 .text-h1,
 h1,
 .text-h2,
@@ -89,8 +81,16 @@ h6 {
   margin-top: -10px;
 }
 p {
-  margin-top: 20px;
-  margin-bottom: 20px;
+  @include font-size(16);
+  font-weight: normal;
+  line-height: 1.75;
+  letter-spacing: normal;
+  color: $dark;
+  margin: 20px 0;
+}
+// body에 p를 extend했을 때 margin 리셋
+body {
+  margin: 0;
 }
 // 이미지
 img {
