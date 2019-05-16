@@ -1,0 +1,93 @@
+// Media Query Breakpoint
+$screen-xs:       480px;
+$screen-sm:       768px;
+$screen-md:       992px;
+$screen-lg:       1170px;
+$screen-xs-min:   $screen-xs;
+$screen-sm-min:   $screen-sm;
+$screen-md-min:   $screen-md;
+$screen-lg-min:   $screen-lg;
+$screen-xs-max:   ($screen-sm-min - 1);
+$screen-sm-max:   ($screen-md-min - 1);
+$screen-md-max:   ($screen-lg-min - 1);
+
+$xs: "only screen and (max-width: 480px)";
+$sm-max: "only screen and (max-width: 767px)";
+$sm: "only screen and (min-width: 768px)";
+$md: "only screen and (min-width: 992px)";
+$lg: "only screen and (min-width: 1170px)";
+
+$screen-xs-min: $screen-xs;
+$screen-sm-min: $screen-sm;
+$screen-md-min: $screen-md;
+$screen-lg-min: $screen-lg;
+
+$iphone:  320px;
+$phone:   $screen-xs; // 480px
+$tablet:  $screen-sm; // 768px
+$desktop: $screen-lg; // 992px
+
+$screen-xs-max:              ($screen-sm-min - 1);
+$screen-sm-max:              ($screen-md-min - 1);
+$screen-md-max:              ($screen-lg-min - 1);
+
+// html
+$html-overflow-y:        scroll;
+
+
+// 기본색상
+$black: 				#000;
+$white: 				#fff;
+
+// 스타일가이드 색상
+$coral-red: #eb128b;
+$yellow: #ffd400;
+$violet: #821aae;
+$violet-hover: #661389;
+$dark: #0e0e10;
+$darker-grey: #3c3c46;
+$dark-grey: #7c7c83;
+$grey: #b4b4be;
+$light-grey: #ced4da;
+$lighter-grey: #fafafa;
+$lightest-grey: #f1f3f5;
+$dark-coral-red: #3d0035;
+$very-light-pink: #fff0f0;
+$light-coral-red: #fffbfb;
+$error: #f03e3e;
+
+// 변수 연결
+$brand:         $coral-red;
+$point:			$yellow;
+$link:          $dark;
+$text:          $dark;
+$line:          $grey;
+
+// 배경
+$body-bg:                $white;
+
+// 선택 영역
+$body-selection:         10;
+$body-user-select:       none;
+$div-user-select:        text;
+
+// 글꼴
+$light: 				 300;
+$normal:                 400;
+$medi:                 	 500;
+$bold:                   600;
+$bolder: 				 900;
+$web-font-breakpoint:    $tablet;
+
+$btn-font-weight: 				$normal;
+$font-size-base: 					16px;
+$line-height-base: 				1;
+
+$btn-default-color:  			$white;
+$btn-default-bg:  				$brand;
+$border-radius-base: 			0;
+$cursor-disabled:  				not-allowed;
+
+// 그리드
+$grid-gutter-width: 			30px;
+$container-sm: 					(1110px + $grid-gutter-width);

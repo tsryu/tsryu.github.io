@@ -1,0 +1,25 @@
+@charset 'utf-8';
+// 기본
+@import '___variables';
+@import '__normalize';
+@import '__fonts';
+@import '__mixins';
+@import '__module';
+@import '_init';
+
+// 외부 라이브러리
+// @import 'xeicon';
+// @import 'slick';
+
+// 컴포넌트, 본문 스타일
+@import 'styleguide';
+
+// 레이아웃
+@import '__layout';
+@import '_header';
+@import '_footer';
+// @import '_page';
+// @import '_list';
+
+// 홈
+@import 'home';
