@@ -12,6 +12,13 @@ const Header = ({ siteTitle }) => (
           <strong>CODING</strong>
         </Link>
       </h1>
+      <nav className="site-navigation">
+        <ul className="menu">
+          <li><Link to="/blog">blog</Link></li>
+          <li><Link to="/blog">self-guide</Link></li>
+          <li><Link to="/blog">about</Link></li>
+        </ul>
+      </nav>
     </div>
   </header>
 )

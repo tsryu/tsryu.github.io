@@ -14,3 +14,21 @@
 .logo {
   line-height: 1.5;
 }
+.site-navigation {
+  text-align: center;
+  font-size: 0;
+  .menu {
+    li{
+      padding-left: 0;
+      display: inline-block;
+      a {
+        font-size: 1.4rem;
+        display: block;
+        padding: 1.5rem;
+      }
+      &:before {
+        display: none;
+      }
+    }
+  }
+}
