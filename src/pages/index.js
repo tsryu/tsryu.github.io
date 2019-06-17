@@ -7,7 +7,7 @@ import SEO from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="홈" keywords={[`tsryu`, `류태석`, `프론트엔드 개발자`]} />
+    <SEO title="tsryu," keywords={[`tsryu`, `류태석`, `프론트엔드 개발자`]} />
     <section className="section">
       <h2 className="section-title">Career</h2>
       <ul className="list-career">

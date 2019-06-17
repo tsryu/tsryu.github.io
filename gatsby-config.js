@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `tsryu`,
-    description: `tsryu's developer blog`,
+    description: `류태석 프론트엔드 개발자 포트폴리오`,
     author: `@yuteta`,
   },
   plugins: [
@@ -25,7 +25,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/profile.png`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
