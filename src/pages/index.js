@@ -7,7 +7,7 @@ import SEO from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="tsryu," keywords={[`tsryu`, `류태석`, `프론트엔드 개발자`]} />
+    <SEO title="홈" keywords={[`tsryu`, `류태석`, `프론트엔드 개발자`]} />
     <section className="section">
       <h2 className="section-title">Career</h2>
       <ul className="list-career">
@@ -23,7 +23,7 @@ const IndexPage = () => (
     </section>
     <section className="section">
       <h2 className="section-title">Spec</h2>
-      <p>HTML, CSS, LESS, SCSS, JavaScript, ES6, Vue.js, Vuex, React.js, d3.js, Wordpress, git, grunt, gulp, bower</p>
+      <p>HTML, CSS, LESS, SCSS, JavaScript, jQuery, ES6, Vue.js, Vuex, React.js, d3.js, Wordpress, git, grunt, gulp, bower</p>
     </section>
     <section className="section">
       <h2 className="section-title">Portfolio</h2>
@@ -42,7 +42,7 @@ const IndexPage = () => (
         </li>
         <li className="item">
           <h3 className="item-title"><a href="https://www.neosherlock.com/" target="_blank" rel="noopener noreferrer">셜록프레스</a></h3>
-          <p className="item-excerpt">PM 및 전체 개발  / 후원신청폼 개발 / wordpress, less</p>
+          <p className="item-excerpt">PM, 퍼블리싱, 워드프레스 개발  / 후원신청폼 개발 / wordpress, less</p>
         </li>
         <li className="item">
           <h3 className="item-title"><a href="https://cavd.kr/" target="_blank" rel="noopener noreferrer">학대피해장애인지원센터</a></h3>
@@ -53,12 +53,12 @@ const IndexPage = () => (
           <p className="item-excerpt">전체 개발 / vue-cli + 워드프레스 테마 개발 / wordpress, vue.js, less</p>
         </li>
         <li className="item">
-          <h3 className="item-title"><a href="http://www.beautifulstore.org/" target="_blank" rel="noopener noreferrer">아름다운 가게 통합사이트</a></h3>
+          <h3 className="item-title"><a href="http://www.beautifulstore.org/" target="_blank" rel="noopener noreferrer">아름다운가게 통합사이트</a></h3>
           <p className="item-excerpt">퍼블리싱, 워드프레스 개발 / 워드프레스 멀티사이트 개발, 기증신청폼 유효성검사 및 인터랙션 개발 / wordpress</p>
         </li>
         <li className="item">
           <h3 className="item-title"><a href="https://purme.org/" target="_blank" rel="noopener noreferrer">푸르메재단</a></h3>
-          <p className="item-excerpt">워드프레스 개발, 퍼블리싱 / 주요 아카이브 개발, 접근성 대응 / wordpress, less</p>
+          <p className="item-excerpt">퍼블리싱, 워드프레스 개발 / 주요 아카이브 개발, 접근성 대응 / wordpress, less</p>
         </li>
         <li className="item">
           <h3 className="item-title"><a href="https://maru180.com/" target="_blank" rel="noopener noreferrer">마루180</a></h3>
