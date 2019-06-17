@@ -3,12 +3,36 @@
   padding: 4rem 0 2rem;
 }
 .brand {
-  text-transform: uppercase;
   letter-spacing: -0.05em;
   font-size: 4rem;
   line-height: 0.9;
-  strong {
+  &-image {
+    width: 15rem;
+    height: auto;
+    @include border-r(15rem);
+  }
+  &-title {
+    display: block;
     font-size: 5.3rem;
+    margin-top: 2rem;
+    .comma {
+      color: $brand;
+      font-family: $noto;
+    }
+  }
+  &-subtitle {
+    display: block;
+    font-size: 1.6rem;
+    margin-top: 2rem;
+    color: $darker-grey;
+    .divider {
+      margin: 0 1rem;
+      font-size: 1.4rem;
+      line-height: auto;
+      color: $light-grey;
+      font-weight: $light;
+      font-family: $noto;
+    }
   }
 }
 .logo {

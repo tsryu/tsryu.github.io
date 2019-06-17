@@ -1,0 +1,8 @@
+.section {
+    padding: 4rem 0 5rem;
+    border-top: 1px solid $light-grey;
+    &:first-child {
+        border-top: 0;
+    }
+    
+}
