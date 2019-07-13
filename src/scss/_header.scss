@@ -18,6 +18,10 @@
     .comma {
       color: $brand;
       font-family: $noto;
+      background: rgb(143,93,215);
+      background: linear-gradient(180deg, rgba(143,93,215,1) 0%, rgba(143,93,215,1) 60%, rgba(126,158,204,1) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
     }
   }
   &-subtitle {

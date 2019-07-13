@@ -8,7 +8,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="홈" keywords={[`tsryu`, `류태석`, `프론트엔드 개발자`]} />
     <section className="section">
-      <h2 className="section-title">Career</h2>
+      <h2 className="section-title">Career<span className="comma">,</span></h2>
       <ul className="list-career">
         <li className="item">
           <h3 className="item-title"><a href="https://trazy.com" target="_blank" rel="noopener noreferrer">트레이지</a></h3>
@@ -21,12 +21,16 @@ const IndexPage = () => (
       </ul>
     </section>
     <section className="section">
-      <h2 className="section-title">Spec</h2>
+      <h2 className="section-title">Spec<span className="comma">,</span></h2>
       <p>HTML, CSS, LESS, SCSS, JavaScript, jQuery, ES6, Vue.js, Vuex, React.js, d3.js, Wordpress, git, grunt, gulp, bower</p>
     </section>
     <section className="section">
-      <h2 className="section-title">Portfolio</h2>
+      <h2 className="section-title">Portfolio<span className="comma">,</span></h2>
       <ul className="list-portfolio">
+        <li className="item">
+          <h3 className="item-title"><a href="http://graphicmag.co.kr/" target="_blank" rel="noopener noreferrer">propaganda</a></h3>
+          <p className="item-excerpt">프론트엔드 개발, 워드프레스 개발 / vue.js + 워드프레스 테마 개발 / vue.js, wordpress, PostCSS</p>
+        </li>
         <li className="item">
           <h3 className="item-title"><a href="https://newsmapping.com/" target="_blank" rel="noopener noreferrer">대한민국 뉴스 소비 지도</a></h3>
           <p className="item-excerpt">전체 개발 / 데이터 시각화 및 지도 개발 / react.js, d3.js, openstreet map, scss</p>
@@ -73,32 +77,6 @@ const IndexPage = () => (
         </li>
       </ul>
     </section>
-   
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
   </Layout>
 )
 
