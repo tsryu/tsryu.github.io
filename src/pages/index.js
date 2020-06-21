@@ -18,21 +18,29 @@ const IndexPage = () => (
           <h3 className="item-title"><a href="https://slowalk.co.kr" target="_blank" rel="noopener noreferrer">슬로워크</a></h3>
           <p className="item-excerpt">프론트엔드 개발자 / 2014.02 ~ 2019.03</p>
         </li>
+        <li className="item">
+          <h3 className="item-title"><a href="https://trazy.com" target="_blank" rel="noopener noreferrer">트레이지</a></h3>
+          <p className="item-excerpt">프론트엔드 개발자 / 2019.07 ~</p>
+        </li>
       </ul>
     </section>
     <section className="section">
       <h2 className="section-title">Spec<span className="comma">,</span></h2>
-      <p>HTML, CSS, LESS, SCSS, JavaScript, jQuery, ES6, Vue.js, Vuex, React.js, d3.js, Wordpress, git, grunt, gulp, bower</p>
+      <p>HTML, CSS, LESS, SCSS, styled-components, JavaScript, TypeScript, Next.js, React.js, Redux, jQuery, ES6, Vue.js, Vuex, d3.js, Wordpress, git, grunt, gulp, bower</p>
     </section>
     <section className="section">
       <h2 className="section-title">Portfolio<span className="comma">,</span></h2>
       <ul className="list-portfolio">
         <li className="item">
+          <h3 className="item-title"><a href="https://trazy.com" target="_blank" rel="noopener noreferrer">Trazy</a></h3>
+          <p className="item-excerpt">팀장, 프론트엔드 개발 / 스타일 및 카트, 결제 프로세스 개발 / Next.js, Redux, Immutable.js, TypeScript, styled-components</p>
+        </li>
+        <li className="item">
           <h3 className="item-title"><a href="http://graphicmag.co.kr/" target="_blank" rel="noopener noreferrer">propaganda</a></h3>
           <p className="item-excerpt">프론트엔드 개발, 워드프레스 개발 / vue.js + 워드프레스 테마 개발 / vue.js, wordpress, PostCSS</p>
         </li>
         <li className="item">
-          <h3 className="item-title"><a href="https://newsmapping.com/" target="_blank" rel="noopener noreferrer">대한민국 뉴스 소비 지도</a></h3>
+          <h3 className="item-title"><a href="https://master.d3nlc0uyexnhon.amplifyapp.com" target="_blank" rel="noopener noreferrer">대한민국 뉴스 소비 지도</a></h3>
           <p className="item-excerpt">전체 개발 / 데이터 시각화 및 지도 개발 / react.js, d3.js, openstreet map, scss</p>
         </li>
         <li className="item">
@@ -46,14 +54,6 @@ const IndexPage = () => (
         <li className="item">
           <h3 className="item-title"><a href="https://www.neosherlock.com/" target="_blank" rel="noopener noreferrer">셜록프레스</a></h3>
           <p className="item-excerpt">PM, 퍼블리싱, 워드프레스 개발  / 후원신청폼 개발 / wordpress, less</p>
-        </li>
-        <li className="item">
-          <h3 className="item-title"><a href="https://cavd.kr/" target="_blank" rel="noopener noreferrer">학대피해장애인지원센터</a></h3>
-          <p className="item-excerpt">전체 개발 / create-react-app + 워드프레스 테마 개발 / wordpress, react.js, scss</p>
-        </li>
-        <li className="item">
-          <h3 className="item-title"><a href="https://odyssey.hs.kr/" target="_blank" rel="noopener noreferrer">오디세이학교</a></h3>
-          <p className="item-excerpt">전체 개발 / vue-cli + 워드프레스 테마 개발 / wordpress, vue.js, less</p>
         </li>
         <li className="item">
           <h3 className="item-title"><a href="http://www.beautifulstore.org/" target="_blank" rel="noopener noreferrer">아름다운가게 통합사이트</a></h3>
