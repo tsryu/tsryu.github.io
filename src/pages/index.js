@@ -36,16 +36,16 @@ const IndexPage = () => (
           <p className="item-excerpt">팀장, 프론트엔드 개발 / 스타일 및 카트, 결제 프로세스 개발 / Next.js, Redux, Immutable.js, TypeScript, styled-components</p>
         </li>
         <li className="item">
-          <h3 className="item-title"><a href="http://graphicmag.co.kr/" target="_blank" rel="noopener noreferrer">propaganda</a></h3>
-          <p className="item-excerpt">프론트엔드 개발, 워드프레스 개발 / vue.js + 워드프레스 테마 개발 / vue.js, wordpress, PostCSS</p>
-        </li>
-        <li className="item">
           <h3 className="item-title"><a href="https://master.d3nlc0uyexnhon.amplifyapp.com" target="_blank" rel="noopener noreferrer">대한민국 뉴스 소비 지도</a></h3>
           <p className="item-excerpt">전체 개발 / 데이터 시각화 및 지도 개발 / react.js, d3.js, openstreet map, scss</p>
         </li>
         <li className="item">
           <h3 className="item-title"><a href="https://www.socar.kr/" target="_blank" rel="noopener noreferrer">쏘카</a></h3>
           <p className="item-excerpt">PL, 프론트엔드 개발 / 회원관련 페이지 데이터 통신 및 상태관리 개발 / vue.js, vuex</p>
+        </li>
+        <li className="item">
+          <h3 className="item-title"><a href="http://graphicmag.co.kr/" target="_blank" rel="noopener noreferrer">propaganda</a></h3>
+          <p className="item-excerpt">프론트엔드 개발, 워드프레스 개발 / vue.js + 워드프레스 테마 개발 / vue.js, wordpress, PostCSS</p>
         </li>
         <li className="item">
           <h3 className="item-title"><a href="https://play.google.com/store/apps/details?id=com.tourlive" target="_blank" rel="noopener noreferrer">투어라이브</a></h3>
