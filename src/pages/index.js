@@ -14,7 +14,7 @@ const IndexPage = () => (
         <br />
         Trazy 프론트엔드 개발자, 류태석이라고 합니다.
       </p>
-      <h3 className="item-title">이래서 개발자가 됩니다 <span role="img" aria-label="">👨‍💻</span></h3>
+      <h3 className="item-title">개발하는 이유 <span role="img" aria-label="">👨‍💻</span></h3>
       <p>
       커뮤니티 개발로 웹 개발을 시작했습니다. <br/>사용자들이 제가 만든 웹에서 소통하는 모습을 보면 재밌고 뿌듯함을 느낍니다. <br/>프론트엔드는 사용자의 피드백이 바로 일어나는 공간이라 더 선호합니다.
       </p>
@@ -28,16 +28,7 @@ const IndexPage = () => (
       </p>
       <h3 className="item-title">이것도 좋아해요 <span role="img" aria-label="">⚽</span></h3>
       <p>
-        유럽 축구, 기타 연주, 콘솔 게임에 관심을 가지고 있습니다. <br/>취미를
-        기록하는{" "}
-        <a
-          href="https://blog.naver.com/yuteta"
-          target="_blank"
-          rel="noreferrer noopener"
-        >
-          개인 블로그
-        </a>
-        도 가끔 작성합니다.
+        유럽 축구, 기타 연주, 콘솔 게임에 관심을 가지고 있습니다. <br/>번아웃을 방지하기 위해 운동을 꾸준히 합니다.
       </p>
     </section>
     <section className="section">
