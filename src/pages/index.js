@@ -95,7 +95,7 @@ const IndexPage = () => (
         <li className="item">
           <h3 className="item-title">
             <a
-              href="https://master.d3nlc0uyexnhon.amplifyapp.com"
+              href="http://newsmapping.com"
               target="_blank"
               rel="noopener noreferrer"
             >
