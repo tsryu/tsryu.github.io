@@ -95,21 +95,6 @@ const IndexPage = () => (
         <li className="item">
           <h3 className="item-title">
             <a
-              href="http://newsmapping.com"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              대한민국 뉴스 소비 지도
-            </a>
-          </h3>
-          <p className="item-excerpt">
-            전체 개발 / 데이터 시각화 및 지도 개발 / react.js, d3.js, openstreet
-            map, scss
-          </p>
-        </li>
-        <li className="item">
-          <h3 className="item-title">
-            <a
               href="https://www.socar.kr/"
               target="_blank"
               rel="noopener noreferrer"
@@ -120,6 +105,21 @@ const IndexPage = () => (
           <p className="item-excerpt">
             PL, 프론트엔드 개발 / 회원관련 페이지 데이터 통신 및 상태관리 개발 /
             vue.js, vuex
+          </p>
+        </li>
+        <li className="item">
+          <h3 className="item-title">
+            <a
+              href="http://newsmapping.com"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              대한민국 뉴스 소비 지도
+            </a>
+          </h3>
+          <p className="item-excerpt">
+            전체 개발 / 데이터 시각화 및 지도 개발 / react.js, d3.js, openstreet
+            map, scss
           </p>
         </li>
         <li className="item">
