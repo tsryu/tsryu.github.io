@@ -2,9 +2,9 @@ name: Update Data from Generator
 
 on:
   schedule:
-    - cron: '0 22 * * *' # 오후 10시 UTC (오전 7시 KST)
-    - cron: '0 4 * * *' # 오전 4시 UTC (오후 1시 KST)
-    - cron: '0 10 * * *' # 오전 10시 UTC (저녁 7시 KST)
+    - cron: '30 21 * * *' # KST 6시 30분
+    - cron: '30 3 * * *' # KST 12시 30분
+    - cron: '30 9 * * *' # KST 18시 30분
   workflow_dispatch: # Trigger for manual execution
 
 jobs:
