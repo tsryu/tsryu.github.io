@@ -1,0 +1,247 @@
+/* @font-face {
+  font-family: 'Pretendard';
+  font-weight: 400;
+  font-style: normal;
+  src: url('https://cdn.jsdelivr.net/gh/webfontworld/pretendard/Pretendard-Regular.eot');
+  src: url('https://cdn.jsdelivr.net/gh/webfontworld/pretendard/Pretendard-Regular.eot?#iefix') format('embedded-opentype'),
+      url('https://cdn.jsdelivr.net/gh/webfontworld/pretendard/Pretendard-Regular.woff2') format('woff2'),
+      url('https://cdn.jsdelivr.net/gh/webfontworld/pretendard/Pretendard-Regular.woff') format('woff'),
+      url('https://cdn.jsdelivr.net/gh/webfontworld/pretendard/Pretendard-Regular.ttf') format("truetype");
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Pretendard';
+  font-weight: 700;
+  font-style: normal;
+  src: url('https://cdn.jsdelivr.net/gh/webfontworld/pretendard/Pretendard-Bold.eot');
+  src: url('https://cdn.jsdelivr.net/gh/webfontworld/pretendard/Pretendard-Bold.eot?#iefix') format('embedded-opentype'),
+      url('https://cdn.jsdelivr.net/gh/webfontworld/pretendard/Pretendard-Bold.woff2') format('woff2'),
+      url('https://cdn.jsdelivr.net/gh/webfontworld/pretendard/Pretendard-Bold.woff') format('woff'),
+      url('https://cdn.jsdelivr.net/gh/webfontworld/pretendard/Pretendard-Bold.ttf') format("truetype");
+  font-display: swap;
+} */
+
+body{
+  --swiper-navigation-size: 22px;
+  --swiper-theme-color: white;
+  /* font-family: 'Pretendard', sans-serif; */
+  font-family: -apple-system,BlinkMacSystemFont,Malgun Gothic,맑은 고딕,helvetica,Apple SD Gothic Neo,sans-serif;
+  font-size: 14px;
+  background-color: #2f2f2f;
+  color: #f9f7f1;
+  margin: 0;
+}
+p{
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+.head{
+  text-align: center;
+  position: relative;
+}
+
+.head .title {
+  white-space: nowrap;
+  margin: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  /* font-family: 'Times New Roman', Times, serif; */
+  font-weight: 900;
+  font-size: 80px;
+  text-transform: uppercase;
+}
+
+.subhead{
+  border-bottom: 2px solid #444;
+  border-top: 2px solid #444;
+  padding: 12px 0 12px 0;
+  color: #999;
+  font-size: 10px;
+  padding: 5px 0;
+}
+
+.column{
+  font-size: 14px;
+  line-height: 20px;
+  display: inline-block;
+  padding: 30px 10px;
+  vertical-align: top;
+  transition: all .7s;
+  border-right: 1px solid #444;
+  border-bottom: 1px solid #444;
+}
+.column .headline{
+  /* font-family: 'Times New Roman', Times, serif; */
+  /* text-align: center; */
+  text-align: left;
+  line-height: normal;
+  display: block;
+  margin: 0 auto;
+  text-transform: uppercase;
+  padding: 0 0 20px;
+}
+.column .headline a {
+  display: flex;
+  align-items: center;
+  color: inherit;
+  text-decoration: none;
+}
+
+.column .headline .text {
+  font-weight: 700;
+  font-size: 21px;
+  flex: 1;
+  margin-right: 4px;
+}
+
+.column .headline a .see-more {
+  font-size: 12px;
+  color: #aaa;
+}
+
+.column .figure {
+  margin: 0 0 20px;
+}
+.column .figcaption{
+font-style: italic;
+font-size: 12px;
+}
+
+.column .toggle-button {
+  font-size: 12px;
+  background: transparent;
+  padding: 7px;
+  text-align: center;
+  display: block;
+  color: white;
+  border: 1px solid white;
+  width: 100%;
+  margin-top: 15px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+  margin-right: -1px;
+  margin-bottom: -1px;
+}
+
+.media {
+  -webkit-filter: sepia(80%) contrast(1) opacity(0.8);
+  filter: sepia(80%) grayscale(1) contrast(1) opacity(0.8);
+  mix-blend-mode: multiply;
+  width: 100%;
+}
+.article {
+  padding: 7px 0;
+  color: inherit;
+  text-decoration: none;
+  display: flex;
+}
+
+.article .article-title {
+  flex: 1;
+  font-weight: 400;
+  font-size: 13px;
+  margin: 0;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.article .article-title.no-ellipsis {
+  white-space: normal;
+}
+
+.article:visited .article-title {
+  color: #aaa;
+}
+
+.article .article-thumbnail {
+  margin-right: 8px;
+}
+
+.article .article-thumbnail img {
+  display: block;
+  width: 60px;
+}
+
+.footer {
+  padding: 30px 0 50px;
+  text-align: center;
+  color: #999;
+  border-top: 2px solid #444;
+  font-size: 14px;
+}
+.footer a {
+  color: inherit;
+  font-weight: 700;
+  text-decoration: none;
+}
+.footer .copyright {
+  font-weight: 700;
+}
+.footer .request {
+  margin-top: 5px;
+  font-size: 12px;
+}
+.category-title {
+  font-size: 28px;
+  text-transform: uppercase;
+  text-align: center;
+  background: #fd746c;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ff9068, #fd746c);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ff9068, #fd746c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  margin: 0;
+  padding: 20px 0;
+}
+
+.category-title.news { }
+.category-title.social {
+  background: #833ab4;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
+}
+.category-title.culture {
+  background: #c2e59c;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #64b3f4, #c2e59c);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #64b3f4, #c2e59c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.category-title.game {
+  background: #f46b45;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #eea849, #f46b45);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #eea849, #f46b45); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.category-title.sports {
+  background: #e53935;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #e35d5b, #e53935);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #e35d5b, #e53935); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.swiper .swiper-button-next, .swiper .swiper-button-prev {
+  top: 35px;
+}
+
+/*________________________________________________________________________________________________________________________________*/
+/*MEDIAQUERIES*/
+@media only all and (max-width: 1200px) {
+  .grid-container {
+    grid-template-columns: 33.3333% 33.3333% 33.3333%;
+  }
+}
+@media only all and (max-width: 900px) {
+  .grid-container {
+    grid-template-columns: 50% 50%;
+  }
+}
+@media only all and (max-width: 600px) {
+  .grid-container {
+    grid-template-columns: 100%;
+    margin-right: 0;
+  }
+  .column {
+    border-right: 0;
+  }
+  .head .title{
+      font-size: 40px;
+  }
+}

@@ -1,0 +1,43 @@
+name: Update Data from Generator
+
+on:
+  schedule:
+    - cron: '0 22 * * *' # 오후 10시 UTC (오전 7시 KST)
+    - cron: '0 4 * * *' # 오전 4시 UTC (오후 1시 KST)
+    - cron: '0 10 * * *' # 오전 10시 UTC (저녁 7시 KST)
+  workflow_dispatch: # Trigger for manual execution
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Fetch RSS data
+        env:
+          PAT: ${{ secrets.PAT }}
+        run: |
+          git clone https://$PAT@github.com/tsryu/data-generator.git
+          cp data-generator/data/{rssData.json,apiData.json,webContent.json,buildTime.json} src/data/
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          git commit -m 'Update data from generator'
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build React app
+        run: npm install -g yarn && yarn && yarn build
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@4.2.0
+        with:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: build
