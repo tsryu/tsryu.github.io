@@ -33,7 +33,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Build React app
-        run: npm install -g yarn && yarn && yarn build
+        run: |
+          npm install -g yarn
+          yarn
+          yarn build
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@4.2.0

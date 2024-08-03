@@ -1,14 +1,14 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "tominews",
+    "short_name": "tominews",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png",
+            "src": "/tominews/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-256x256.png",
+            "src": "/tominews/android-chrome-256x256.png",
             "sizes": "256x256",
             "type": "image/png"
         }
