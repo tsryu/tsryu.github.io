@@ -10,6 +10,7 @@ import { Navigation } from 'swiper/modules';
 import 'swiper/css';
 import 'swiper/css/navigation';
 import { useMemo, useRef, ReactElement } from 'react';
+import usePullToRefresh from './hook/usePullToRefresh';
 
 type NewsEntry = [string, SectionType[]];
 
@@ -62,6 +63,7 @@ const mergeMultipleObjectsWithArrayConcat = (objects: RSSNews[]) => {
 };
 
 function App(): ReactElement {
+  usePullToRefresh();
   const refSwiper = useRef<SwiperRef>(null);
 
   const newsEntries = useMemo<NewsEntry[]>(() => {
