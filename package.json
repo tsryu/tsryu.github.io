@@ -4,6 +4,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
+    "@ctrl/react-adsense": "^1.7.0",
     "html-entities": "^2.5.2",
     "ramda": "^0.30.1",
     "react": "^18.2.0",
