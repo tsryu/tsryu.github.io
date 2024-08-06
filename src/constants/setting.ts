@@ -1,0 +1,6 @@
+const AD_CLIENT_ID = process.env.REACT_APP_GOOGLE_ADSENSE_CLIENT_ID;
+
+export { 
+  AD_CLIENT_ID,
+  //  AD_SLOT_TOP_BANNER_ID 
+}

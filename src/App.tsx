@@ -11,6 +11,8 @@ import 'swiper/css';
 import 'swiper/css/navigation';
 import { useMemo, useRef, ReactElement } from 'react';
 import usePullToRefresh from './hook/usePullToRefresh';
+// import { Adsense } from '@ctrl/react-adsense';
+// import { AD_CLIENT_ID, AD_SLOT_TOP_BANNER_ID } from './constants/setting';
 
 type NewsEntry = [string, SectionType[]];
 
@@ -89,6 +91,7 @@ function App(): ReactElement {
         </header>
         <div className="subhead">{updateTime || getFormattedDate()}</div>
       </div>
+      {/* <Adsense client={AD_CLIENT_ID} slot={AD_SLOT_TOP_BANNER_ID} /> */}
       {newsEntries && newsEntries.length > 0 ? (
         <Swiper
           ref={refSwiper}
