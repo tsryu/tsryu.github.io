@@ -26,6 +26,8 @@ export function Section({ section, updateHeight }: SectionProps) {
     updateHeight();
   }, [showAll, updateHeight]);
 
+  if (!data || data.length === 0) return null;
+
   return (
     <section className={`column ${name}`}>
       <div className="head">
