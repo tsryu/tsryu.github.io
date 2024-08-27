@@ -195,10 +195,6 @@
           "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EB%8A%98%EB%B4%84%EA%B0%80%EB%93%A0"
         },
         {
-          "title": "사랑의 하츄핑",
-          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EC%82%AC%EB%9E%91%EC%9D%98%20%ED%95%98%EC%B8%84%ED%95%91"
-        },
-        {
           "title": "트위스터스",
           "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%ED%8A%B8%EC%9C%84%EC%8A%A4%ED%84%B0%EC%8A%A4"
         },
@@ -215,12 +211,16 @@
           "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%ED%95%84%EC%82%AC%EC%9D%98%20%EC%B6%94%EA%B2%A9"
         },
         {
-          "title": "슈퍼배드 4",
-          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EC%8A%88%ED%8D%BC%EB%B0%B0%EB%93%9C%204"
+          "title": "사랑의 하츄핑",
+          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EC%82%AC%EB%9E%91%EC%9D%98%20%ED%95%98%EC%B8%84%ED%95%91"
         },
         {
           "title": "극장판 블루 록 -에피소드 나기-",
           "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EA%B7%B9%EC%9E%A5%ED%8C%90%20%EB%B8%94%EB%A3%A8%20%EB%A1%9D%20-%EC%97%90%ED%94%BC%EC%86%8C%EB%93%9C%20%EB%82%98%EA%B8%B0-"
+        },
+        {
+          "title": "데드풀과 울버린",
+          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EB%8D%B0%EB%93%9C%ED%92%80%EA%B3%BC%20%EC%9A%B8%EB%B2%84%EB%A6%B0"
         }
       ]
     }
@@ -245,9 +245,24 @@
           "imageUrl": "https://i.ytimg.com/vi/eaGWAhzCZOM/default.jpg"
         },
         {
+          "title": "[ZEROBASEONE] ZEROBASEONE (제로베이스원) 'GOOD SO BAD' MV",
+          "link": "https://www.youtube.com/watch?v=V5ACuj_jOnc",
+          "imageUrl": "https://i.ytimg.com/vi/V5ACuj_jOnc/default.jpg"
+        },
+        {
+          "title": "[OH MY GIRL] 오마이걸(OH MY GIRL) 'Classified' MV",
+          "link": "https://www.youtube.com/watch?v=VPg-HtAUeRQ",
+          "imageUrl": "https://i.ytimg.com/vi/VPg-HtAUeRQ/default.jpg"
+        },
+        {
           "title": "[릴파 lilpa] 댄스홀(ダンスホール, Dance Hall) - Mrs. GREEN APPLE / COVER by LILPA",
           "link": "https://www.youtube.com/watch?v=9x-z4uBmjvg",
           "imageUrl": "https://i.ytimg.com/vi/9x-z4uBmjvg/default.jpg"
+        },
+        {
+          "title": "[엘르 코리아_ELLE KOREA] [ENG] 이 둘이.. 연애한다고요?👀 #엄마친구아들 정소민 정해인의 환장 케미🤦🏻‍♀️🤦🏻 | ELLE KOREA",
+          "link": "https://www.youtube.com/watch?v=VXQHjLn8nfc",
+          "imageUrl": "https://i.ytimg.com/vi/VXQHjLn8nfc/default.jpg"
         },
         {
           "title": "[윤윤튜브 YoonhaYunjae Tube] 윤윤 유튜브 드릴 말씀이 있습니다!",
@@ -255,14 +270,34 @@
           "imageUrl": "https://i.ytimg.com/vi/GO4OU1FZcG0/default.jpg"
         },
         {
-          "title": "[띱 Deep] 전남친",
-          "link": "https://www.youtube.com/watch?v=gj8HhHxcDhc",
-          "imageUrl": "https://i.ytimg.com/vi/gj8HhHxcDhc/default.jpg"
+          "title": "[SMTOWN] JAEHYUN 재현 'Smoke' MV",
+          "link": "https://www.youtube.com/watch?v=lJGCD3H9xcg",
+          "imageUrl": "https://i.ytimg.com/vi/lJGCD3H9xcg/default.jpg"
+        },
+        {
+          "title": "[지유롭게] [VLOG] 오래 만난 커플은 어떻게 싸울까?⚡(꿀 떨어지는 데이트, 동거 일상)",
+          "link": "https://www.youtube.com/watch?v=M8eBfRSm4B8",
+          "imageUrl": "https://i.ytimg.com/vi/M8eBfRSm4B8/default.jpg"
+        },
+        {
+          "title": "[딸을 위한 레시피 Recipes for daughters] 1등 밑반찬🥇 진미채 씻지마세요. 이렇게 만들면 딱딱하지않고 촉촉말랑~ 대박집 진미채무침",
+          "link": "https://www.youtube.com/watch?v=BbWu1oH9PxA",
+          "imageUrl": "https://i.ytimg.com/vi/BbWu1oH9PxA/default.jpg"
         },
         {
           "title": "[파뿌리] 24시간동안 소고기 지옥 VS 돼지 지옥!! 더 버틸 수 없는 지옥은 무엇일까?!",
           "link": "https://www.youtube.com/watch?v=MTzPWOQ7_Cs",
           "imageUrl": "https://i.ytimg.com/vi/MTzPWOQ7_Cs/default.jpg"
+        },
+        {
+          "title": "[띱 Deep] 전남친",
+          "link": "https://www.youtube.com/watch?v=gj8HhHxcDhc",
+          "imageUrl": "https://i.ytimg.com/vi/gj8HhHxcDhc/default.jpg"
+        },
+        {
+          "title": "[공룡] 마크로 공포 콘텐츠를 만들어 봤습니다",
+          "link": "https://www.youtube.com/watch?v=2fIGqZWf1sI",
+          "imageUrl": "https://i.ytimg.com/vi/2fIGqZWf1sI/default.jpg"
         },
         {
           "title": "[브롤스타즈] 브롤 토크: 스폰지밥과 친구들이 브롤스타즈에?!🍍 [브롤스타즈]",
@@ -273,6 +308,16 @@
           "title": "[곽준빈의 세계기사식당] 한 달 수입이 2000만원인 알래스카 택시 기사의 삶ㅣ 미국3🇺🇸",
           "link": "https://www.youtube.com/watch?v=FDxvciNH6Vo",
           "imageUrl": "https://i.ytimg.com/vi/FDxvciNH6Vo/default.jpg"
+        },
+        {
+          "title": "[주호다] 오랜만에 찾아온 야식네끼",
+          "link": "https://www.youtube.com/watch?v=9LmLuQczwRY",
+          "imageUrl": "https://i.ytimg.com/vi/9LmLuQczwRY/default.jpg"
+        },
+        {
+          "title": "[남다리맥] (ENG)남기 아빠는 육아만렙💯",
+          "link": "https://www.youtube.com/watch?v=EP9ZSsFYGO4",
+          "imageUrl": "https://i.ytimg.com/vi/EP9ZSsFYGO4/default.jpg"
         },
         {
           "title": "[짧은대본 ShortPaper] 정착할 남자",
@@ -288,51 +333,6 @@
           "title": "[Bundesliga] Bayern Comeback in Thrilling Match! | VfL Wolfsburg - FC Bayern München 2-3 | MD1 – Bundesliga 24/25",
           "link": "https://www.youtube.com/watch?v=nPrN3KhDJXc",
           "imageUrl": "https://i.ytimg.com/vi/nPrN3KhDJXc/default.jpg"
-        },
-        {
-          "title": "[사나고 Sanago] 3D펜으로 번개맞는 뚱이 만들기",
-          "link": "https://www.youtube.com/watch?v=Gdw-v30-F-o",
-          "imageUrl": "https://i.ytimg.com/vi/Gdw-v30-F-o/default.jpg"
-        },
-        {
-          "title": "[KBS 한국방송] [#편스토랑] 이상우❤️김소연 부부 러브하우스 최초 공개⭐️ 오직 소연이를 위한 요리광인 이상우👨‍🍳 | KBS 240823 방송",
-          "link": "https://www.youtube.com/watch?v=LydbsVqLUMw",
-          "imageUrl": "https://i.ytimg.com/vi/LydbsVqLUMw/default.jpg"
-        },
-        {
-          "title": "[SBS Drama] [#습포이드] 너 지금 뭐하는 거야?💢 장나라 앞에서 무릎 꿇고 사과하는 최사라 #굿파트너 #goodpartner #sbsdrama",
-          "link": "https://www.youtube.com/watch?v=U0_cRfdu-H8",
-          "imageUrl": "https://i.ytimg.com/vi/U0_cRfdu-H8/default.jpg"
-        },
-        {
-          "title": "[샾잉 #ing] [#엄마친구아들 4화] 정소민 이용했던 전 직장동료 멱살 잡는 최고의 남사친 정해인🔥 누가 정소민 건드리는 건 못 참는 정해인👊",
-          "link": "https://www.youtube.com/watch?v=uMkO241dCyA",
-          "imageUrl": "https://i.ytimg.com/vi/uMkO241dCyA/default.jpg"
-        },
-        {
-          "title": "[Sabrina Carpenter - Topic] Espresso",
-          "link": "https://www.youtube.com/watch?v=kIft-LUHHVA",
-          "imageUrl": "https://i.ytimg.com/vi/kIft-LUHHVA/default.jpg"
-        },
-        {
-          "title": "[MBCdrama] [#백설공주에게죽음을] 4회 요약본 | ＂보영이 우리가 죽였잖아＂ 사건 당일 기억을 뒤쫓는 변요한과 무천시 살인 사건에 연관된 경찰서장 권해효? MBC240824방송",
-          "link": "https://www.youtube.com/watch?v=EJjju4uYcxo",
-          "imageUrl": "https://i.ytimg.com/vi/EJjju4uYcxo/default.jpg"
-        },
-        {
-          "title": "[SBS ] 김지상입니다, 죄송합니다.",
-          "link": "https://www.youtube.com/watch?v=OqjPd8qvMOc",
-          "imageUrl": "https://i.ytimg.com/vi/OqjPd8qvMOc/default.jpg"
-        },
-        {
-          "title": "[휘토피아 htopia] 미국 시누이 집에서 조카들과 보내는 여름 휴가 | 첫 미국 남부 여행✈️",
-          "link": "https://www.youtube.com/watch?v=fDgs6SIULnU",
-          "imageUrl": "https://i.ytimg.com/vi/fDgs6SIULnU/default.jpg"
-        },
-        {
-          "title": "[너튜브 Neotube] 마지막으로 END",
-          "link": "https://www.youtube.com/watch?v=AsMC8O-TSi4",
-          "imageUrl": "https://i.ytimg.com/vi/AsMC8O-TSi4/default.jpg"
         }
       ]
     }
