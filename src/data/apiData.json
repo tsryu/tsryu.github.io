@@ -183,6 +183,14 @@
       "isRanking": true,
       "data": [
         {
+          "title": "안녕, 할부지",
+          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EC%95%88%EB%85%95,%20%ED%95%A0%EB%B6%80%EC%A7%80"
+        },
+        {
+          "title": "비틀쥬스 비틀쥬스",
+          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EB%B9%84%ED%8B%80%EC%A5%AC%EC%8A%A4%20%EB%B9%84%ED%8B%80%EC%A5%AC%EC%8A%A4"
+        },
+        {
           "title": "에이리언: 로물루스",
           "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EC%97%90%EC%9D%B4%EB%A6%AC%EC%96%B8:%20%EB%A1%9C%EB%AC%BC%EB%A3%A8%EC%8A%A4"
         },
@@ -195,32 +203,24 @@
           "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EC%9E%84%EC%98%81%EC%9B%85%E2%94%82%EC%95%84%EC%9E%84%20%ED%9E%88%EC%96%B4%EB%A1%9C%20%EB%8D%94%20%EC%8A%A4%ED%83%80%EB%94%94%EC%9B%80"
         },
         {
-          "title": "빅토리",
-          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EB%B9%85%ED%86%A0%EB%A6%AC"
-        },
-        {
           "title": "소년시절의 너",
           "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EC%86%8C%EB%85%84%EC%8B%9C%EC%A0%88%EC%9D%98%20%EB%84%88"
-        },
-        {
-          "title": "늘봄가든",
-          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EB%8A%98%EB%B4%84%EA%B0%80%EB%93%A0"
         },
         {
           "title": "트위스터스",
           "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%ED%8A%B8%EC%9C%84%EC%8A%A4%ED%84%B0%EC%8A%A4"
         },
         {
-          "title": "행복의 나라",
-          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%ED%96%89%EB%B3%B5%EC%9D%98%20%EB%82%98%EB%9D%BC"
+          "title": "레드불 T1 다큐멘터리 : 함께 날아오르다",
+          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EB%A0%88%EB%93%9C%EB%B6%88%20T1%20%EB%8B%A4%ED%81%90%EB%A9%98%ED%84%B0%EB%A6%AC%20:%20%ED%95%A8%EA%BB%98%20%EB%82%A0%EC%95%84%EC%98%A4%EB%A5%B4%EB%8B%A4"
         },
         {
-          "title": "한국이 싫어서",
-          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%ED%95%9C%EA%B5%AD%EC%9D%B4%20%EC%8B%AB%EC%96%B4%EC%84%9C"
+          "title": "빅토리",
+          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EB%B9%85%ED%86%A0%EB%A6%AC"
         },
         {
-          "title": "사랑의 하츄핑",
-          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EC%82%AC%EB%9E%91%EC%9D%98%20%ED%95%98%EC%B8%84%ED%95%91"
+          "title": "늘봄가든",
+          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EB%8A%98%EB%B4%84%EA%B0%80%EB%93%A0"
         }
       ]
     }
@@ -260,6 +260,11 @@
           "imageUrl": "https://i.ytimg.com/vi/r9yPek7FhSQ/default.jpg"
         },
         {
+          "title": "[영탁스클럽 YOUNGTAKsClub] 영탁(YOUNGTAK) '슈퍼슈퍼 (SuperSuper)' MV",
+          "link": "https://www.youtube.com/watch?v=Ja1JbPOIW-A",
+          "imageUrl": "https://i.ytimg.com/vi/Ja1JbPOIW-A/default.jpg"
+        },
+        {
           "title": "[QWER] QWER '가짜 아이돌' Official MV",
           "link": "https://www.youtube.com/watch?v=JFGRPgYeu38",
           "imageUrl": "https://i.ytimg.com/vi/JFGRPgYeu38/default.jpg"
@@ -270,19 +275,9 @@
           "imageUrl": "https://i.ytimg.com/vi/Xe_iVN8FPeI/default.jpg"
         },
         {
-          "title": "[영탁스클럽 YOUNGTAKsClub] 영탁(YOUNGTAK) '슈퍼슈퍼 (SuperSuper)' MV",
-          "link": "https://www.youtube.com/watch?v=Ja1JbPOIW-A",
-          "imageUrl": "https://i.ytimg.com/vi/Ja1JbPOIW-A/default.jpg"
-        },
-        {
           "title": "[INB100] Hello, World | Coming Soon To Your Playlist | 백현 (BAEKHYUN)",
           "link": "https://www.youtube.com/watch?v=Rr0nPVJhv_U",
           "imageUrl": "https://i.ytimg.com/vi/Rr0nPVJhv_U/default.jpg"
-        },
-        {
-          "title": "[쿠팡플레이 Coupang Play] SNL 코리아 시즌6 | 전종서 편 하이라이트 | MZ 오피스 | 쿠팡플레이 | 쿠팡",
-          "link": "https://www.youtube.com/watch?v=NhJ3RogRo7Q",
-          "imageUrl": "https://i.ytimg.com/vi/NhJ3RogRo7Q/default.jpg"
         },
         {
           "title": "[온유 ONEW] 온유 ONEW '매력 (beat drum)' M/V",
@@ -290,14 +285,14 @@
           "imageUrl": "https://i.ytimg.com/vi/hps1BMuUOL4/default.jpg"
         },
         {
-          "title": "[랄랄ralral] 삼일동안 네시간 자는 집",
-          "link": "https://www.youtube.com/watch?v=iP4F8XAljDQ",
-          "imageUrl": "https://i.ytimg.com/vi/iP4F8XAljDQ/default.jpg"
-        },
-        {
           "title": "[MBN MUSIC] 전유진(チョンユジン) - 다시 사랑한다면(また愛したら)｜한일톱텐쇼 15회",
           "link": "https://www.youtube.com/watch?v=mUs3PLMGHo8",
           "imageUrl": "https://i.ytimg.com/vi/mUs3PLMGHo8/default.jpg"
+        },
+        {
+          "title": "[쿠팡플레이 Coupang Play] SNL 코리아 시즌6 | 전종서 편 하이라이트 | MZ 오피스 | 쿠팡플레이 | 쿠팡",
+          "link": "https://www.youtube.com/watch?v=NhJ3RogRo7Q",
+          "imageUrl": "https://i.ytimg.com/vi/NhJ3RogRo7Q/default.jpg"
         },
         {
           "title": "[HYBE LABELS] BOYNEXTDOOR (보이넥스트도어) '부모님 관람불가' Official MV",
@@ -310,19 +305,19 @@
           "imageUrl": "https://i.ytimg.com/vi/LJtMFC4nBV0/default.jpg"
         },
         {
+          "title": "[충주시] 1000억 충주맨 vs 6급 차은우",
+          "link": "https://www.youtube.com/watch?v=RBywDgO6dbU",
+          "imageUrl": "https://i.ytimg.com/vi/RBywDgO6dbU/default.jpg"
+        },
+        {
           "title": "[KFATV 대한민국 축구 국가대표팀] 국대 소집기 시즌1 (feat.첫 발탁! 긴장..설렘..) | 월드컵 3차 예선 EP.1",
           "link": "https://www.youtube.com/watch?v=hcjbO9TdjUU",
           "imageUrl": "https://i.ytimg.com/vi/hcjbO9TdjUU/default.jpg"
         },
         {
-          "title": "[차린건 쥐뿔도 없지만] [SUB]  나만의블랙스완당신을보고첫눈에반했습니다.   [차린건 쥐뿔도 없지만] EP.27 #이영지 #나띠",
-          "link": "https://www.youtube.com/watch?v=JV75AG5CTA0",
-          "imageUrl": "https://i.ytimg.com/vi/JV75AG5CTA0/default.jpg"
-        },
-        {
-          "title": "[DAY6 - Topic] 그녀가 웃었다 She Smiled",
-          "link": "https://www.youtube.com/watch?v=8XqtC-sD2sY",
-          "imageUrl": "https://i.ytimg.com/vi/8XqtC-sD2sY/default.jpg"
+          "title": "[랄랄ralral] 삼일동안 네시간 자는 집",
+          "link": "https://www.youtube.com/watch?v=iP4F8XAljDQ",
+          "imageUrl": "https://i.ytimg.com/vi/iP4F8XAljDQ/default.jpg"
         },
         {
           "title": "[옆집언니 최실장 stylist unnie] 2024 FW 트렌드 / 느낌 확 달라지는 가을 패션, 가을 옷 사기전 꼭 보세요~🍂",
@@ -330,9 +325,14 @@
           "imageUrl": "https://i.ytimg.com/vi/Uoc26K0dt9o/default.jpg"
         },
         {
-          "title": "[충주시] 1000억 충주맨 vs 6급 차은우",
-          "link": "https://www.youtube.com/watch?v=RBywDgO6dbU",
-          "imageUrl": "https://i.ytimg.com/vi/RBywDgO6dbU/default.jpg"
+          "title": "[차린건 쥐뿔도 없지만] [SUB]  나만의블랙스완당신을보고첫눈에반했습니다.   [차린건 쥐뿔도 없지만] EP.27 #이영지 #나띠",
+          "link": "https://www.youtube.com/watch?v=JV75AG5CTA0",
+          "imageUrl": "https://i.ytimg.com/vi/JV75AG5CTA0/default.jpg"
+        },
+        {
+          "title": "[NCT] 시즌 1 눈물의(?) 마지막 ˃̣̣o˂̣̣  전통 주점에서 오붓하게 마무리💚 | 김동 이동의 먹2U EP 11",
+          "link": "https://www.youtube.com/watch?v=vcRXjd51wDc",
+          "imageUrl": "https://i.ytimg.com/vi/vcRXjd51wDc/default.jpg"
         }
       ]
     }
