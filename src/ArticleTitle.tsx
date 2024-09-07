@@ -7,6 +7,7 @@ interface ArticleTitleProps {
   title: string;
   showThumbnail?: boolean;
   imageUrl?: string;
+  strikeThrough?: boolean;
 }
 export function ArticleTitle({
   order,
@@ -15,6 +16,7 @@ export function ArticleTitle({
   title,
   showThumbnail,
   imageUrl,
+  strikeThrough,
 }: ArticleTitleProps) {
   return (
     <>
@@ -23,7 +25,11 @@ export function ArticleTitle({
           <img src={imageUrl} alt="" />
         </span>
       )}
-      <h3 className={`article-title${noEllipsis ? ' no-ellipsis' : ''}`}>
+      <h3
+        className={`article-title${noEllipsis ? ' no-ellipsis' : ''}${
+          strikeThrough ? 'strike-through' : ''
+        }`}
+      >
         {isRanking && `${order}. `}
         {decode(title)}
       </h3>

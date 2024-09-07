@@ -157,6 +157,10 @@ font-size: 12px;
   white-space: normal;
 }
 
+.article .article-title .strike-through {
+  text-decoration: line-through;
+}
+
 .article:visited .article-title {
   color: #aaa;
 }

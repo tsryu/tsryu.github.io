@@ -2,6 +2,7 @@ interface Article {
   title: string;
   link?: string;
   imageUrl?: string;
+  strikeThrough?: boolean;
 }
 
 interface SectionType {
