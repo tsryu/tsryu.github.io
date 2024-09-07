@@ -157,7 +157,7 @@ font-size: 12px;
   white-space: normal;
 }
 
-.article .article-title .strike-through {
+.article .article-title.is-strike-through {
   text-decoration: line-through;
 }
 

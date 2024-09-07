@@ -35,7 +35,7 @@ export function Section({ section, updateHeight }: SectionProps) {
           <span className="text">{name}</span>
         </div>
       </div>
-      {displayedArticles.map(({ title, link, imageUrl }, i) =>
+      {displayedArticles.map(({ title, link, imageUrl, isStrikeThrough }, i) =>
         link ? (
           <a
             href={link}
@@ -52,6 +52,7 @@ export function Section({ section, updateHeight }: SectionProps) {
               noEllipsis={noEllipsis}
               title={title}
               imageUrl={imageUrl}
+              isStrikeThrough={isStrikeThrough}
             />
           </a>
         ) : (
@@ -62,6 +63,7 @@ export function Section({ section, updateHeight }: SectionProps) {
               noEllipsis={noEllipsis}
               title={title}
               imageUrl={imageUrl}
+              isStrikeThrough={isStrikeThrough}
             />
           </span>
         ),
