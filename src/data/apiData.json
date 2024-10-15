@@ -180,7 +180,49 @@
       "name": "한국 박스오피스",
       "category": "culture",
       "priority": 3,
-      "isRanking": true
+      "isRanking": true,
+      "data": [
+        {
+          "title": "베테랑2",
+          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EB%B2%A0%ED%85%8C%EB%9E%912"
+        },
+        {
+          "title": "대도시의 사랑법",
+          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EB%8C%80%EB%8F%84%EC%8B%9C%EC%9D%98%20%EC%82%AC%EB%9E%91%EB%B2%95"
+        },
+        {
+          "title": "노트북",
+          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EB%85%B8%ED%8A%B8%EB%B6%81"
+        },
+        {
+          "title": "와일드 로봇",
+          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EC%99%80%EC%9D%BC%EB%93%9C%20%EB%A1%9C%EB%B4%87"
+        },
+        {
+          "title": "조커: 폴리 아 되",
+          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EC%A1%B0%EC%BB%A4:%20%ED%8F%B4%EB%A6%AC%20%EC%95%84%20%EB%90%98"
+        },
+        {
+          "title": "너의 색",
+          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EB%84%88%EC%9D%98%20%EC%83%89"
+        },
+        {
+          "title": "비긴 어게인",
+          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EB%B9%84%EA%B8%B4%20%EC%96%B4%EA%B2%8C%EC%9D%B8"
+        },
+        {
+          "title": "트랜스포머 ONE",
+          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8%20ONE"
+        },
+        {
+          "title": "룩백",
+          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EB%A3%A9%EB%B0%B1"
+        },
+        {
+          "title": "명탐정 코난: 시한장치의 마천루",
+          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EB%AA%85%ED%83%90%EC%A0%95%20%EC%BD%94%EB%82%9C:%20%EC%8B%9C%ED%95%9C%EC%9E%A5%EC%B9%98%EC%9D%98%20%EB%A7%88%EC%B2%9C%EB%A3%A8"
+        }
+      ]
     }
   ],
   "social": [
@@ -213,9 +255,19 @@
           "imageUrl": "https://i.ytimg.com/vi/O5wKQzqXFkw/default.jpg"
         },
         {
+          "title": "[tvN SPORTS] [UFC] 브래드 타바레스 vs 박준용",
+          "link": "https://www.youtube.com/watch?v=L8kr00F_SPQ",
+          "imageUrl": "https://i.ytimg.com/vi/L8kr00F_SPQ/default.jpg"
+        },
+        {
           "title": "[JENNIE] JENNIE - Mantra (Official Music Video)",
           "link": "https://www.youtube.com/watch?v=bB3-CUMERIU",
           "imageUrl": "https://i.ytimg.com/vi/bB3-CUMERIU/default.jpg"
+        },
+        {
+          "title": "[Mozzarella Girl & Oppa] 이탈리아에선 볼 수 없는 킹크랩을 장인어른께 사드리자 반응이 ㅎㅎㅎ 강릉여행",
+          "link": "https://www.youtube.com/watch?v=TYX_jcEM0BM",
+          "imageUrl": "https://i.ytimg.com/vi/TYX_jcEM0BM/default.jpg"
         },
         {
           "title": "[박수홍 행복해다홍] [박수홍 행복해다홍] 임신 41주 자연분만 고집하다가 결국...",
@@ -243,6 +295,16 @@
           "imageUrl": "https://i.ytimg.com/vi/ycsBdzxySpg/default.jpg"
         },
         {
+          "title": "[김숙티비kimsookTV] 김숙X대구즈의 NEW 대구 10미! 노포+브런치+디저트 총망라",
+          "link": "https://www.youtube.com/watch?v=lnZK_Ord3n8",
+          "imageUrl": "https://i.ytimg.com/vi/lnZK_Ord3n8/default.jpg"
+        },
+        {
+          "title": "[KBS 다큐] 🏅한국 최초·아시아 여성 최초 노벨문학상 수상🏅 전세계가 주목한 작가 한강은 누구? | 노벨문학상 수상 특별기획 - 한강 | KBS 20241013 방송",
+          "link": "https://www.youtube.com/watch?v=7snj87PMxeQ",
+          "imageUrl": "https://i.ytimg.com/vi/7snj87PMxeQ/default.jpg"
+        },
+        {
           "title": "[요정재형] 박서준... 자극적이야..홓...*-_-*",
           "link": "https://www.youtube.com/watch?v=4O5JGMedXJI",
           "imageUrl": "https://i.ytimg.com/vi/4O5JGMedXJI/default.jpg"
@@ -251,26 +313,6 @@
           "title": "[김승현가족] 할머니댁을 너무 좋아하는 아기 ll 수빈언니 닮았네?👀",
           "link": "https://www.youtube.com/watch?v=5ixAhiF6AZc",
           "imageUrl": "https://i.ytimg.com/vi/5ixAhiF6AZc/default.jpg"
-        },
-        {
-          "title": "[Mozzarella Girl & Oppa] 이탈리아에선 볼 수 없는 킹크랩을 장인어른께 사드리자 반응이 ㅎㅎㅎ 강릉여행",
-          "link": "https://www.youtube.com/watch?v=TYX_jcEM0BM",
-          "imageUrl": "https://i.ytimg.com/vi/TYX_jcEM0BM/default.jpg"
-        },
-        {
-          "title": "[KBS 다큐] 🏅한국 최초·아시아 여성 최초 노벨문학상 수상🏅 전세계가 주목한 작가 한강은 누구? | 노벨문학상 수상 특별기획 - 한강 | KBS 20241013 방송",
-          "link": "https://www.youtube.com/watch?v=7snj87PMxeQ",
-          "imageUrl": "https://i.ytimg.com/vi/7snj87PMxeQ/default.jpg"
-        },
-        {
-          "title": "[tvN SPORTS] [UFC] 브래드 타바레스 vs 박준용",
-          "link": "https://www.youtube.com/watch?v=L8kr00F_SPQ",
-          "imageUrl": "https://i.ytimg.com/vi/L8kr00F_SPQ/default.jpg"
-        },
-        {
-          "title": "[김숙티비kimsookTV] 김숙X대구즈의 NEW 대구 10미! 노포+브런치+디저트 총망라",
-          "link": "https://www.youtube.com/watch?v=lnZK_Ord3n8",
-          "imageUrl": "https://i.ytimg.com/vi/lnZK_Ord3n8/default.jpg"
         },
         {
           "title": "[문학동네] [#문학동네는지금] 2024 #노벨문학상🏆현장 스케치 #한강",
@@ -283,14 +325,14 @@
           "imageUrl": "https://i.ytimg.com/vi/o1aY-2oLiyw/default.jpg"
         },
         {
+          "title": "[KODE 코드] 댕댕이 연상남만이 날 기억하고 있다. 서사 뚝딱 | 나연 VS 강훈 [트릭KODE]",
+          "link": "https://www.youtube.com/watch?v=canIn_8MOZc",
+          "imageUrl": "https://i.ytimg.com/vi/canIn_8MOZc/default.jpg"
+        },
+        {
           "title": "[유 퀴즈 온 더 튜브] [예고] 흑백요리사 우승자 권성준, 백악관 만찬 셰프 에드워드 리! 상금 3억의 행방과 셰프 이균의 이야기⭐#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.265",
           "link": "https://www.youtube.com/watch?v=2LyVIlxOP4Q",
           "imageUrl": "https://i.ytimg.com/vi/2LyVIlxOP4Q/default.jpg"
-        },
-        {
-          "title": "[쿠팡플레이 스포츠] [2026 FIFA 북중미 월드컵 아시아 3차 예선] 요르단 vs 대한민국 풀 하이라이트",
-          "link": "https://www.youtube.com/watch?v=SCazGUB4rWM",
-          "imageUrl": "https://i.ytimg.com/vi/SCazGUB4rWM/default.jpg"
         }
       ]
     }
