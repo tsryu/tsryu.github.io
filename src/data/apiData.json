@@ -191,12 +191,12 @@
           "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EB%8C%80%EB%8F%84%EC%8B%9C%EC%9D%98%20%EC%82%AC%EB%9E%91%EB%B2%95"
         },
         {
-          "title": "와일드 로봇",
-          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EC%99%80%EC%9D%BC%EB%93%9C%20%EB%A1%9C%EB%B4%87"
-        },
-        {
           "title": "노트북",
           "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EB%85%B8%ED%8A%B8%EB%B6%81"
+        },
+        {
+          "title": "와일드 로봇",
+          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EC%99%80%EC%9D%BC%EB%93%9C%20%EB%A1%9C%EB%B4%87"
         },
         {
           "title": "조커: 폴리 아 되",
@@ -207,16 +207,16 @@
           "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EB%84%88%EC%9D%98%20%EC%83%89"
         },
         {
+          "title": "비긴 어게인",
+          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EB%B9%84%EA%B8%B4%20%EC%96%B4%EA%B2%8C%EC%9D%B8"
+        },
+        {
           "title": "트랜스포머 ONE",
           "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8%20ONE"
         },
         {
-          "title": "사랑의 하츄핑",
-          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EC%82%AC%EB%9E%91%EC%9D%98%20%ED%95%98%EC%B8%84%ED%95%91"
-        },
-        {
-          "title": "더 커버넌트",
-          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EB%8D%94%20%EC%BB%A4%EB%B2%84%EB%84%8C%ED%8A%B8"
+          "title": "룩백",
+          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EB%A3%A9%EB%B0%B1"
         },
         {
           "title": "명탐정 코난: 시한장치의 마천루",
@@ -235,9 +235,19 @@
       "noEllipsis": true,
       "data": [
         {
+          "title": "[HYBE LABELS] SEVENTEEN (세븐틴) 'LOVE, MONEY, FAME (feat. DJ Khaled)' Official MV",
+          "link": "https://www.youtube.com/watch?v=5NPe8_gDSr4",
+          "imageUrl": "https://i.ytimg.com/vi/5NPe8_gDSr4/default.jpg"
+        },
+        {
           "title": "[차린건 쥐뿔도 없지만] [SUB] 노벨도파민상 후보 모셨습니다👩‍🎓  [차린건 쥐뿔도 없지만] EP.31 #이영지 #해원",
           "link": "https://www.youtube.com/watch?v=25zr0KrKpEQ",
           "imageUrl": "https://i.ytimg.com/vi/25zr0KrKpEQ/default.jpg"
+        },
+        {
+          "title": "[원지의하루] 나시고랭 먹으러 가본 자카르타⎪🇮🇩인도네시아1",
+          "link": "https://www.youtube.com/watch?v=SHjvvzQmMck",
+          "imageUrl": "https://i.ytimg.com/vi/SHjvvzQmMck/default.jpg"
         },
         {
           "title": "[위라클 WERACLE] 모든순간이 기적이었던 박위 송지은의 동화같은 결혼식",
@@ -270,14 +280,14 @@
           "imageUrl": "https://i.ytimg.com/vi/AYfFK5Doyow/default.jpg"
         },
         {
+          "title": "[유우키의 일본이야기 YUUKI] 일본의 숨겨진 별미 술안주 '바사시' [馬刺し]",
+          "link": "https://www.youtube.com/watch?v=aGbr76uqGfo",
+          "imageUrl": "https://i.ytimg.com/vi/aGbr76uqGfo/default.jpg"
+        },
+        {
           "title": "[tvN SPORTS] [UFC] 브래드 타바레스 vs 박준용",
           "link": "https://www.youtube.com/watch?v=L8kr00F_SPQ",
           "imageUrl": "https://i.ytimg.com/vi/L8kr00F_SPQ/default.jpg"
-        },
-        {
-          "title": "[쿠팡플레이 스포츠] [2026 FIFA 북중미 월드컵 아시아 3차 예선] 요르단 vs 대한민국 풀 하이라이트",
-          "link": "https://www.youtube.com/watch?v=SCazGUB4rWM",
-          "imageUrl": "https://i.ytimg.com/vi/SCazGUB4rWM/default.jpg"
         },
         {
           "title": "[김승현가족] 할머니댁을 너무 좋아하는 아기 ll 수빈언니 닮았네?👀",
@@ -285,9 +295,19 @@
           "imageUrl": "https://i.ytimg.com/vi/5ixAhiF6AZc/default.jpg"
         },
         {
+          "title": "[쿠팡플레이 스포츠] [2026 FIFA 북중미 월드컵 아시아 3차 예선] 요르단 vs 대한민국 풀 하이라이트",
+          "link": "https://www.youtube.com/watch?v=SCazGUB4rWM",
+          "imageUrl": "https://i.ytimg.com/vi/SCazGUB4rWM/default.jpg"
+        },
+        {
           "title": "[유 퀴즈 온 더 튜브] [예고] 흑백요리사 우승자 권성준, 백악관 만찬 셰프 에드워드 리! 상금 3억의 행방과 셰프 이균의 이야기⭐#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.265",
           "link": "https://www.youtube.com/watch?v=2LyVIlxOP4Q",
           "imageUrl": "https://i.ytimg.com/vi/2LyVIlxOP4Q/default.jpg"
+        },
+        {
+          "title": "[김숙티비kimsookTV] 메뉴 선택도 이븐한 김숙X대구즈의 치밀한 먹설계!! (ft. 대구 노포, 브런치, 디저트 등)",
+          "link": "https://www.youtube.com/watch?v=lnZK_Ord3n8",
+          "imageUrl": "https://i.ytimg.com/vi/lnZK_Ord3n8/default.jpg"
         },
         {
           "title": "[토모토모TomoTomo] 돌아온 좀비 할로윈 in 유니버셜 재팬👻 | 토모 인생 첫 타투(?)와 다툼?😡, 유니버셜 먹방, 호러나이트 좀비퍼레이드🧟, 어트랙션 꿀팁",
@@ -313,26 +333,6 @@
           "title": "[띱 Deep] 연애",
           "link": "https://www.youtube.com/watch?v=4JZbAi0_AqE",
           "imageUrl": "https://i.ytimg.com/vi/4JZbAi0_AqE/default.jpg"
-        },
-        {
-          "title": "[먹어볼래TryToEat] 마요네즈로 3.2kg 킹크랩 굽기",
-          "link": "https://www.youtube.com/watch?v=ePh2jBiZY-s",
-          "imageUrl": "https://i.ytimg.com/vi/ePh2jBiZY-s/default.jpg"
-        },
-        {
-          "title": "[haha ha] 보통 놈이 아니다",
-          "link": "https://www.youtube.com/watch?v=VFMmpK6pzv0",
-          "imageUrl": "https://i.ytimg.com/vi/VFMmpK6pzv0/default.jpg"
-        },
-        {
-          "title": "[김진짜 Real KIM] 김민재가 나폴리 시절 모습을 되찾은 이유",
-          "link": "https://www.youtube.com/watch?v=JUC6mySENn8",
-          "imageUrl": "https://i.ytimg.com/vi/JUC6mySENn8/default.jpg"
-        },
-        {
-          "title": "[KFATV 대한민국 축구 국가대표팀] 황희찬, 엄지성 선수의 빠른 쾌유를 빕니다 (feat. 이라크전 회복 훈련 start) | 월드컵 3차 예선 EP.12",
-          "link": "https://www.youtube.com/watch?v=ij2yPUAN2ew",
-          "imageUrl": "https://i.ytimg.com/vi/ij2yPUAN2ew/default.jpg"
         }
       ]
     }
