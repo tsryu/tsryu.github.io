@@ -195,8 +195,8 @@
           "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EB%8C%80%EB%8F%84%EC%8B%9C%EC%9D%98%20%EC%82%AC%EB%9E%91%EB%B2%95"
         },
         {
-          "title": "아마존 활명수",
-          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EC%95%84%EB%A7%88%EC%A1%B4%20%ED%99%9C%EB%AA%85%EC%88%98"
+          "title": "오후 네시",
+          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EC%98%A4%ED%9B%84%20%EB%84%A4%EC%8B%9C"
         },
         {
           "title": "베테랑2",
@@ -211,16 +211,16 @@
           "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EC%99%80%EC%9D%BC%EB%93%9C%20%EB%A1%9C%EB%B4%87"
         },
         {
-          "title": "오후 네시",
-          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EC%98%A4%ED%9B%84%20%EB%84%A4%EC%8B%9C"
+          "title": "연소일기",
+          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EC%97%B0%EC%86%8C%EC%9D%BC%EA%B8%B0"
         },
         {
           "title": "룸 넥스트 도어",
           "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EB%A3%B8%20%EB%84%A5%EC%8A%A4%ED%8A%B8%20%EB%8F%84%EC%96%B4"
         },
         {
-          "title": "청설",
-          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EC%B2%AD%EC%84%A4"
+          "title": "스마일 2",
+          "link": "https://search.naver.com/search.naver?query=%EC%98%81%ED%99%94%20%EC%8A%A4%EB%A7%88%EC%9D%BC%202"
         }
       ]
     }
@@ -235,6 +235,11 @@
       "noEllipsis": true,
       "data": [
         {
+          "title": "[KBS Kpop] [리무진서비스] EP.137 에스파 카리나 | aespa KARINA | Flowers, I Choose You, 1994년 어느 늦은 밤, Surrender",
+          "link": "https://www.youtube.com/watch?v=pZ9sgHCrJZw",
+          "imageUrl": "https://i.ytimg.com/vi/pZ9sgHCrJZw/default.jpg"
+        },
+        {
           "title": "[슛포러브] 이탈리아 레전드들이 평가하는 나폴리 맛피아 음식 수준 ㄷㄷㄷ 진짜 이탈리아인의 반응이 이정도???",
           "link": "https://www.youtube.com/watch?v=-CVvWNwjU48",
           "imageUrl": "https://i.ytimg.com/vi/-CVvWNwjU48/default.jpg"
@@ -243,6 +248,11 @@
           "title": "[오은영의 버킷리스트] 보기만해도 입꼬리 승천💚 우리집에 태요미가 놀러왔어요👶 [오은영의 버킷리스트]",
           "link": "https://www.youtube.com/watch?v=Eaw180JcX8c",
           "imageUrl": "https://i.ytimg.com/vi/Eaw180JcX8c/default.jpg"
+        },
+        {
+          "title": "[동네스타K] 긴 말 않겠습니다. 저희 동스케 월클 맞습니다. BTS 진 이게 되네?💜ㅣ동네스타K4 EP.31",
+          "link": "https://www.youtube.com/watch?v=rUdwTISGb60",
+          "imageUrl": "https://i.ytimg.com/vi/rUdwTISGb60/default.jpg"
         },
         {
           "title": "[빠니보틀 Pani Bottle] 귀, 위가 터질 것 같은 1일 4식 마카오 음식 일주 【마카오】",
@@ -255,14 +265,14 @@
           "imageUrl": "https://i.ytimg.com/vi/soSLgKeBQm4/default.jpg"
         },
         {
-          "title": "[걍밍경] 한 달을 차에서 먹고산 행사철 다비치",
-          "link": "https://www.youtube.com/watch?v=hE2wMo5Coco",
-          "imageUrl": "https://i.ytimg.com/vi/hE2wMo5Coco/default.jpg"
-        },
-        {
           "title": "[SBSKPOP X INKIGAYO] aespa (에스파) – Whiplash @인기가요 inkigayo 20241027",
           "link": "https://www.youtube.com/watch?v=p3kJOuNnkJg",
           "imageUrl": "https://i.ytimg.com/vi/p3kJOuNnkJg/default.jpg"
+        },
+        {
+          "title": "[걍밍경] 한 달을 차에서 먹고산 행사철 다비치",
+          "link": "https://www.youtube.com/watch?v=hE2wMo5Coco",
+          "imageUrl": "https://i.ytimg.com/vi/hE2wMo5Coco/default.jpg"
         },
         {
           "title": "[뜬뜬 DdeunDdeun] [EN] 단풍놀이는 핑계고 ㅣ EP.60",
@@ -285,9 +295,29 @@
           "imageUrl": "https://i.ytimg.com/vi/3T4gA1-sAzI/default.jpg"
         },
         {
+          "title": "[KBC 뉴스] \"내년에도 OK?\" 이범호 감독의 짧지만 강렬한 멘트..KIA 타이거즈 우승 축승회 현장 [케스픽]",
+          "link": "https://www.youtube.com/watch?v=PYZpIpFsQ3k",
+          "imageUrl": "https://i.ytimg.com/vi/PYZpIpFsQ3k/default.jpg"
+        },
+        {
           "title": "[MBCkpop] aespa (에스파) - Whiplash | Show! MusicCore | MBC241026방송",
           "link": "https://www.youtube.com/watch?v=eXk-CNSNcto",
           "imageUrl": "https://i.ytimg.com/vi/eXk-CNSNcto/default.jpg"
+        },
+        {
+          "title": "[SBSKPOP X INKIGAYO] [단독샷캠4K] 에스파 'Whiplash' 단독샷 별도녹화│aespa ONE TAKE STAGE│@SBS Inkigayo 241027",
+          "link": "https://www.youtube.com/watch?v=OZytLLasceA",
+          "imageUrl": "https://i.ytimg.com/vi/OZytLLasceA/default.jpg"
+        },
+        {
+          "title": "[THE K-POP] KISS OF LIFE, Igloo [THE SHOW 241029]",
+          "link": "https://www.youtube.com/watch?v=0Xqy-LesljM",
+          "imageUrl": "https://i.ytimg.com/vi/0Xqy-LesljM/default.jpg"
+        },
+        {
+          "title": "[KBS StarTV: 인물사전] 분위기 뭐야~ 첫째 서아가 잠든 사이 펼쳐지는 이정현 부부의 달달한 일상! 이렇게 정성을 들인다고? 해외 출장 가는 남편 위한  이정현의 특급 소고기 고추장 I KBS 편스토랑",
+          "link": "https://www.youtube.com/watch?v=fQaSPLfSshI",
+          "imageUrl": "https://i.ytimg.com/vi/fQaSPLfSshI/default.jpg"
         },
         {
           "title": "[tvN D ENT] [#정년이 6화] 갑자기 주인공이 되어버린 군졸...❗❓ 역할에 과몰입해 감정이 앞서며 급발진 연기 시전 한 정년이 ㄷㄷ | #갓구운클립",
@@ -303,36 +333,6 @@
           "title": "[박수홍 행복해다홍] [박수홍 행복해다홍] 박수홍 다시 태어나다 | 전복이 탄생 순간 | 출산브이로그 2편 | 딸 출산 | 딸바보 | 가족 완전체 |",
           "link": "https://www.youtube.com/watch?v=R0EigX2f25s",
           "imageUrl": "https://i.ytimg.com/vi/R0EigX2f25s/default.jpg"
-        },
-        {
-          "title": "[멜봉 네덜란드 MelBong] 네덜란드 온 동네 사람들이 도와 강아지를 찾아준 감동의 순간..!",
-          "link": "https://www.youtube.com/watch?v=Nr4HR7NUuaY",
-          "imageUrl": "https://i.ytimg.com/vi/Nr4HR7NUuaY/default.jpg"
-        },
-        {
-          "title": "[hongsi 홍시] 파티원이 한 명 더 늘었어요 (갑분 임밍아웃) / 족발, 게살솥밥, 게살크림고로케, 소불고기, 오징어볶음",
-          "link": "https://www.youtube.com/watch?v=wO1mLV6MnZo",
-          "imageUrl": "https://i.ytimg.com/vi/wO1mLV6MnZo/default.jpg"
-        },
-        {
-          "title": "[Bruno Mars] ROSÉ & Bruno Mars - APT. (Official Lyric Video)",
-          "link": "https://www.youtube.com/watch?v=8Ebqe2Dbzls",
-          "imageUrl": "https://i.ytimg.com/vi/8Ebqe2Dbzls/default.jpg"
-        },
-        {
-          "title": "[짧은대본 ShortPaper] 연애 술 문제",
-          "link": "https://www.youtube.com/watch?v=Jy1qr2tMXTU",
-          "imageUrl": "https://i.ytimg.com/vi/Jy1qr2tMXTU/default.jpg"
-        },
-        {
-          "title": "[카카오] 카톡에서 DAY6 팬미팅이 열렸다고?! 돌려받을 챌린지도 없는데 My Day를 위해 챌린지 차력쇼 하고간 DAY6🍀ㅣ팬톡회 EP.1ㅣDAY6",
-          "link": "https://www.youtube.com/watch?v=lNNL8C6A2eA",
-          "imageUrl": "https://i.ytimg.com/vi/lNNL8C6A2eA/default.jpg"
-        },
-        {
-          "title": "[유네린LIN] 다시 대학에 갑니다 | 드로우마이라이프, 새로운 30대의 시작📈",
-          "link": "https://www.youtube.com/watch?v=VbqvXr0zhUc",
-          "imageUrl": "https://i.ytimg.com/vi/VbqvXr0zhUc/default.jpg"
         }
       ]
     }
