@@ -16,10 +16,6 @@
     "start": "react-app-rewired start",
     "rename-manifest": "node scripts/rename-manifest.js",
     "build": "react-app-rewired build && yarn rename-manifest",
-    "rss": "node scripts/update-rss.js",
-    "api": "node scripts/update-api.js",
-    "web": "node scripts/update-web-content.js",
-    "all": "yarn rss && yarn web && yarn api",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
