@@ -16,7 +16,7 @@ import usePullToRefresh from './hook/usePullToRefresh';
 
 type NewsEntry = [string, SectionType[]];
 
-const CATEGORY_ORDER = ['news', 'social', 'culture', 'sports', 'game'];
+const CATEGORY_ORDER = ['news', 'social', 'culture', 'sports', 'game', 'hobby'];
 const currentYear = new Date().getFullYear();
 
 function getFormattedDate(): string {
