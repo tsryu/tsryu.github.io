@@ -88,7 +88,7 @@ function App(): ReactElement {
       <div className="head">
         <header>
           <h1 className="title">
-            <a href="/tominews/">TOMINEWS</a>
+            <a href="/">TOMINEWS</a>
           </h1>
         </header>
         <div className="subhead">{updateTime || getFormattedDate()}</div>
