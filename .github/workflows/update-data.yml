@@ -34,6 +34,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Build React app
+        env:
+          REACT_APP_GOOGLE_ADSENSE_CLIENT_ID: ${{ secrets.REACT_APP_GOOGLE_ADSENSE_CLIENT_ID }}
         run: |
           npm install -g yarn
           yarn
