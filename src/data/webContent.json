@@ -1,49 +1,96 @@
 {
   "news": [
     {
+      "name": "경제",
+      "url": "https://news.naver.com/section/101",
+      "category": "news",
+      "data": [
+        {
+          "link": "https://n.news.naver.com/mnews/article/030/0003321704",
+          "title": "SK이노베이션 AI 솔루션, 산업부 신기술 인증…글로벌 진단 시장 정조준"
+        },
+        {
+          "link": "https://n.news.naver.com/mnews/article/421/0008311497",
+          "title": "\"63빌딩 1251개 계단 도전\"…'한화생명 시그니처 63 RUN'[뉴스1 PICK]"
+        },
+        {
+          "link": "https://n.news.naver.com/mnews/article/277/0005607641",
+          "title": "제네시스, 세계 최고 권위 내구 레이스 '르망24시' 참가"
+        },
+        {
+          "link": "https://n.news.naver.com/mnews/article/001/0015449871",
+          "title": "'DSR 강화 전 막차?' 급증하는 서울 아파트 거래…비강남에 몰려"
+        },
+        {
+          "link": "https://n.news.naver.com/mnews/article/056/0011970226",
+          "title": "이달 5대은행 가계대출 벌써 2조원 늘어…불붙은 ‘영끌’"
+        },
+        {
+          "link": "https://n.news.naver.com/mnews/article/003/0013303889",
+          "title": "중기 66% \"최저임금, 낮추거나 동결해야\"…인상시 감원"
+        },
+        {
+          "link": "https://n.news.naver.com/mnews/article/031/0000940225",
+          "title": "대구신용보증재단, 남지점 개소…남구 소상공인 금융지원 강화"
+        },
+        {
+          "link": "https://n.news.naver.com/mnews/article/018/0006040066",
+          "title": "작년보다 세수 45조 더 걷어야…2차 추경에 조정 검토"
+        },
+        {
+          "link": "https://n.news.naver.com/mnews/article/018/0006040039",
+          "title": "\"장보기 무서워\" 진짜였다…숨 막히는 먹거리 체감물가"
+        },
+        {
+          "link": "https://n.news.naver.com/mnews/article/030/0003321695",
+          "title": "NH농협카드, 한국관광공사와 관광산업 강화 위해 협업"
+        }
+      ]
+    },
+    {
       "name": "사회",
       "url": "https://news.naver.com/section/102",
       "category": "news",
       "data": [
         {
-          "link": "https://n.news.naver.com/mnews/article/001/0015449233",
-          "title": "부산서 54년만에 6월 시간당 최다 강수량…크고 작은 피해 속출"
+          "link": "https://n.news.naver.com/mnews/article/025/0003448059",
+          "title": "당근 '문고리 거래'에 또 당했다…64명이 1700만원 털린 사연"
+        },
+        {
+          "link": "https://n.news.naver.com/mnews/article/119/0002967926",
+          "title": "가스 배관 타고 침입…대구 스토킹 살해범, 나흘 만에 세종서 검거"
         },
         {
           "link": "https://n.news.naver.com/mnews/article/008/0005207496",
           "title": "조은석 내란특검 \"검·경·과천청사 대상으로 사무공간 확인중\""
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/448/0000534955",
-          "title": "기상청 \"경북 영덕 북쪽서 규모 2.3 지진 발생\""
+          "link": "https://n.news.naver.com/mnews/article/032/0003376208",
+          "title": "한라레이더 “앞이 보이지 않는 구름 속에서도…하늘길 걱정마” [현장 화보]"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/011/0004496921",
-          "title": "피해자 숨졌는데…또래 성매매 강요한 10대, 항소심서 징역 3년"
+          "link": "https://n.news.naver.com/mnews/article/422/0000749619",
+          "title": "\"돌봄 적기 놓친 노인, 뒤늦게 지원받아도 우울 증상 크게 증가\""
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/001/0015449538",
-          "title": "제주 해수욕장서 중학생 숨져…미국 청소년 2명 구조도(종합)"
+          "link": "https://n.news.naver.com/mnews/article/014/0005363223",
+          "title": "AI시대 핵심 공공데이터 개방...300여개 기업 현장 수요조사 실시"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/421/0008311740",
-          "title": "대구 '신변보호 여성' 살해 용의자 나흘 만에 세종서 검거(종합)"
+          "link": "https://n.news.naver.com/mnews/article/437/0000444651",
+          "title": "'도쿄를 다시 위대하게'?…BTS 정국, 일본 우익 모자 착용 사과"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/008/0005207470",
-          "title": "\"북한으로 넘어갈래\" 접경지 철책 넘은 20대…벌써 두 번째 시도"
+          "link": "https://n.news.naver.com/mnews/article/030/0003321669",
+          "title": "'문과 침공' 현실이었다…주요 대학 정시서 이과생 '인문계 학과 합격자 55%' 차지"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/277/0005607542",
-          "title": "민간인 된 BTS 정국 모자에 日 '우익 문구' 논란…\"즉시 폐기했다\""
+          "link": "https://n.news.naver.com/mnews/article/003/0013303764",
+          "title": "서귀포 새섬 인근서 파도에 휩쓸린 60대 남성 숨져"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/215/0001212716",
-          "title": "건물 붕괴시키는 '흰개미' 또 발견됐다…'검역 구멍'"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/021/0002716002",
-          "title": "“우린 멈추지 않는다” 도심서 퀴어퍼레이드…기독교계 맞불집회"
+          "link": "https://n.news.naver.com/mnews/article/003/0013303714",
+          "title": "정차요구 무시하고 경찰관 끌고 10m 주행 혐의 50대, 1심 무죄"
         }
       ]
     },
@@ -53,36 +100,36 @@
       "category": "news",
       "data": [
         {
-          "link": "https://n.news.naver.com/mnews/article/018/0006039345",
-          "title": "'폐'는 아파도 말을하지 않아요"
+          "link": "https://n.news.naver.com/mnews/article/011/0004497049",
+          "title": "토니상 박천휴 \"'다시 찾으러 올게' 진짜 약속으로 믿은 로봇들의 바보같은 사랑이 메시지\""
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/052/0002205617",
-          "title": "내일 오후부터 또 전국 비...중부·남해안·제주 시간당 30mm[날씨]"
+          "link": "https://n.news.naver.com/mnews/article/025/0003448064",
+          "title": "수도권 올해 첫 폭염주의보…오후부터 전국에 또 거센 비 쏟아진다"
+        },
+        {
+          "link": "https://n.news.naver.com/mnews/article/056/0011970212",
+          "title": "오후부터 다시 전국 비…한낮 후텁지근[7시 날씨]"
+        },
+        {
+          "link": "https://n.news.naver.com/mnews/article/469/0000870413",
+          "title": "동성애 논란에 입시 경쟁까지… 한국과 닮은 듯 다른, 대만을 읽다"
         },
         {
           "link": "https://n.news.naver.com/mnews/article/025/0003447965",
           "title": "제주 250㎜·남해안 150㎜ 비오는 주말… 30도 안팎 후텁지근"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/088/0000953270",
-          "title": "<6월 15일   일요일(음력 5월20일)>[더사주 오늘의 띠별 운세]"
+          "link": "https://n.news.naver.com/mnews/article/052/0002205487",
+          "title": "예스24, '먹통' 닷새 만에 도서·티켓 등 일부 서비스 재개"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/366/0001085292",
-          "title": "‘재벌가 아이돌’ 신세계 정유경 딸 “母, 절대 ‘NO’… 가족 반대 심했다”"
+          "link": "https://n.news.naver.com/mnews/article/052/0002205728",
+          "title": "오늘 오후부터 또 전국 비...중부·남해안·제주 시간당 30mm"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/214/0001430216",
-          "title": "휴일 전국 차츰 비‥시간당 30mm 강한 비[날씨]"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/015/0005144507",
-          "title": "AI와 융합으로 인간수명 120세 넘어선다[책마을]"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/032/0003376107",
-          "title": "‘해킹 늑장 신고·거짓 해명 논란’ 예스24, 이 와중에 회장은 장녀에 지분 증여"
+          "link": "https://n.news.naver.com/mnews/article/022/0004043492",
+          "title": "의료사고, 시스템 오류·의료 문화 한계 속 벌어진 비극"
         }
       ]
     },
@@ -92,32 +139,32 @@
       "category": "news",
       "data": [
         {
-          "link": "https://n.news.naver.com/mnews/article/366/0001085222",
-          "title": "게임위, 5·18 왜곡 게임 ‘광주 런닝맨’ 전 세계 차단 조치"
+          "link": "https://n.news.naver.com/mnews/article/421/0008311331",
+          "title": "초유의 예스24 랜섬웨어 사태…\"백업 수준이 정상화 관건\""
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/031/0000940191",
-          "title": "게임이 4대 중독 물질? 성남시 공모전에 게임업계 '발칵'"
+          "link": "https://n.news.naver.com/mnews/article/366/0001085394",
+          "title": "휴대폰 보호필름으로 전기 만든다…17배 오래 가는 반투명 태양전지"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/421/0008311488",
-          "title": "\"일감 못 구한 연구자가 태반\"…기초과학계, 과제 수 확대 호소"
+          "link": "https://n.news.naver.com/mnews/article/001/0015449310",
+          "title": "\"통신업계, 방통위 실태점검 기간 중 '불법 보조금' 경쟁\""
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/448/0000534972",
-          "title": "\"갤럭시 S25가 공짜\"…SKT 영업 재개 앞두고 불법 보조금 기승"
+          "link": "https://n.news.naver.com/mnews/article/009/0005508656",
+          "title": "삼성 반도체 다시 살아나나…AMD에 HMB 공급 나서"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/030/0003321589",
-          "title": "텐센트 '넥슨' 인수설에 시장 화들짝... “성사 가능성 낮아”"
+          "link": "https://n.news.naver.com/mnews/article/092/0002378172",
+          "title": "수학 잘하니 약물 약효-부작용 찾는 것도 \"단한번에\""
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/025/0003447946",
-          "title": "‘2조5000억원’ 국가AI컴퓨팅센터 사업, 또 유찰된 이유는[팩플]"
+          "link": "https://n.news.naver.com/mnews/article/016/0002484971",
+          "title": "“연봉 1억, 파격 결단” AI 핵심인재…‘박사후연구원’ 400명 모신다"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/243/0000079549",
-          "title": "\"넷플릭스 홈 화면 곧 바뀝니다\"...12년 만에 개편 단행"
+          "link": "https://n.news.naver.com/mnews/article/001/0015449961",
+          "title": "'사흘만에 사르르'…KIST, 물에 녹는 고성능 메모리소자 개발"
         }
       ]
     },
@@ -127,44 +174,40 @@
       "category": "news",
       "data": [
         {
-          "link": "https://n.news.naver.com/mnews/article/001/0015449181",
-          "title": "트럼프 \"이스라엘의 이란 공격에 핵협상 위기?…그 반대일 것\"(종합2보)"
+          "link": "https://n.news.naver.com/mnews/article/056/0011970255",
+          "title": "일본제철, US스틸 인수하며 주기로 한 ‘황금주’…“경영 족쇄될 수도”"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/214/0001430156",
-          "title": "美 50개주서 14일 '노 킹스' 反트럼프 시위‥집권 2기 최대 규모"
+          "link": "https://n.news.naver.com/mnews/article/001/0015449235",
+          "title": "외교 원한다더니…\"트럼프 핵협상이 중동전쟁 길 텄다\""
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/437/0000444612",
-          "title": "이란, 이스라엘에 미사일 보복…텔아비브 30여명 부상"
+          "link": "https://n.news.naver.com/mnews/article/001/0015449717",
+          "title": "\"미국에 왕은 없다\" 트럼프 생일 맞아 美전역서 '反트럼프 시위'"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/214/0001430141",
-          "title": "이스라엘 선제공격에 중동 하늘길 차단‥우회·회항도 속출"
+          "link": "https://n.news.naver.com/mnews/article/215/0001212717",
+          "title": "美 \"훌륭한 회담\" 日 \"예단 삼가\"…6차 관세협상 온도차"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/056/0011970102",
-          "title": "중동 확전 위기…국제유가 급등·뉴욕 증시 하락"
+          "link": "https://n.news.naver.com/mnews/article/052/0002205708",
+          "title": "미국·이란 15일 6차 핵협상 결국 취소"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/003/0013302997",
-          "title": "이스라엘, 전세계 외교 공관 일시 폐쇄…“공공장소, 국가상징 표시 말라” 권고"
+          "link": "https://n.news.naver.com/mnews/article/055/0001266545",
+          "title": "트럼프 생일날 미 수도서 열병식…첫 임기 때 못한 한 풀었다"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/005/0001783002",
-          "title": "이란 국영매체 “이스라엘, 나탄즈 핵시설 추가 공격”"
+          "link": "https://n.news.naver.com/mnews/article/366/0001085353",
+          "title": "트럼프, 작년 한 해 동안 8200억원 벌었다…재산 2.1조 추정"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/014/0005363139",
-          "title": "\"완전한 지배권 갖는다\" 트럼프, 일본제철 US스틸 매수 승인"
+          "link": "https://n.news.naver.com/mnews/article/018/0006039513",
+          "title": "미중 관세전쟁 '휴전'에…보잉 항공기, 中 인도 재개"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/025/0003447955",
-          "title": "러, 이스라엘의 이란 공습에 \"용납 못해\"… 3차대전 우려도"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/003/0013303485",
-          "title": "교황, 이스라엘-이란 양측에 \"책임감과 이성 강력히 호소\""
+          "link": "https://n.news.naver.com/mnews/article/011/0004496906",
+          "title": "트럼프, 해병대까지 동원했다…'이민단속 반대시위' LA 현장서 민간인도 체포"
         }
       ]
     }
@@ -177,16 +220,20 @@
       "priority": 6,
       "data": [
         {
-          "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=65743483&page=&qf=&q=",
-          "title": "기타 가격 및 시세가 너무 올라서 슬프신분들"
-        },
-        {
           "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=65777230&page=&qf=&q=",
           "title": "아버지이신 뮬선배님들께 궁금합니다"
         },
         {
+          "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=65743483&page=&qf=&q=",
+          "title": "기타 가격 및 시세가 너무 올라서 슬프신분들"
+        },
+        {
           "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=65739362&page=&qf=&q=",
           "title": "나눔) 불용품 나눔합니다"
+        },
+        {
+          "link": "https://www.mule.co.kr/bbs/comm/writer?v=v&idx=65783711&page=&qf=&q=",
+          "title": "몽유(夢遊)"
         },
         {
           "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=65774798&page=&qf=&q=",
@@ -201,28 +248,24 @@
           "title": "직밴 하면서 어쩌다보니 정규 앨범을 냈습니다"
         },
         {
-          "link": "https://www.mule.co.kr/bbs/comm/writer?v=v&idx=65783711&page=&qf=&q=",
-          "title": "몽유(夢遊)"
-        },
-        {
           "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=65778005&page=&qf=&q=",
           "title": "DSL 기타 스트랩 무료나눔"
-        },
-        {
-          "link": "https://www.mule.co.kr/bbs/comm/politics?v=v&idx=65761660&page=&qf=&q=",
-          "title": "6.10민주항쟁의 날을 기리자는 글이 정사종으로 이동"
         },
         {
           "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=65787315&page=&qf=&q=",
           "title": "소소한 기본 기타 용품 나눔합니다."
         },
         {
-          "link": "https://www.mule.co.kr/bbs/comm/politics?v=v&idx=65754000&page=&qf=&q=",
-          "title": "이게 민원접수될만한 글인가?"
+          "link": "https://www.mule.co.kr/bbs/comm/politics?v=v&idx=65761660&page=&qf=&q=",
+          "title": "6.10민주항쟁의 날을 기리자는 글이 정사종으로 이동"
         },
         {
           "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=65763956&page=&qf=&q=",
           "title": "배송 받았는데 이펙터가 고장나서 왔네요 - 최초배송상태"
+        },
+        {
+          "link": "https://www.mule.co.kr/bbs/comm/politics?v=v&idx=65754000&page=&qf=&q=",
+          "title": "이게 민원접수될만한 글인가?"
         },
         {
           "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=65744807&page=&qf=&q=",
@@ -255,6 +298,10 @@
         {
           "link": "https://www.mule.co.kr/bbs/comm/gallery?v=v&idx=65770806&page=&qf=&q=",
           "title": "아빠가 기타 좀 치려는데.."
+        },
+        {
+          "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=65791839&page=&qf=&q=",
+          "title": "[뮬인늬우스] 2025년 6월 둘째 주 소식 정리"
         },
         {
           "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=65763287&page=&qf=&q=",
@@ -291,10 +338,6 @@
         {
           "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=65773980&page=&qf=&q=",
           "title": "보고, 6.10민주항쟁기념글 정사종에서 컴백홈"
-        },
-        {
-          "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=65770779&page=&qf=&q=",
-          "title": "내돈내산-기타 관리 용품 추천합니다!"
         }
       ]
     },
