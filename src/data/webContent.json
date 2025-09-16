@@ -1,36 +1,4 @@
 {
-  "news": [
-    {
-      "name": "경제",
-      "url": "https://news.naver.com/section/101",
-      "category": "news",
-      "data": []
-    },
-    {
-      "name": "사회",
-      "url": "https://news.naver.com/section/102",
-      "category": "news",
-      "data": []
-    },
-    {
-      "name": "생활/문화",
-      "url": "https://news.naver.com/section/103",
-      "category": "news",
-      "data": []
-    },
-    {
-      "name": "IT/과학",
-      "url": "https://news.naver.com/section/105",
-      "category": "news",
-      "data": []
-    },
-    {
-      "name": "세계",
-      "url": "https://news.naver.com/section/104",
-      "category": "news",
-      "data": []
-    }
-  ],
   "hobby": [
     {
       "name": "Mule",
@@ -143,20 +111,20 @@
           "title": "직접 리피니쉬 하는것도 나름 재밌네요"
         },
         {
-          "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=66530646&page=&qf=&q=",
-          "title": "추천 요정이 있나요..?"
-        },
-        {
           "link": "https://www.mule.co.kr/bbs/comm/politics?v=v&idx=66544499&page=&qf=&q=",
           "title": "재명이네 마을 쨈째미 분들 지금 이해를 못하시나 본데"
+        },
+        {
+          "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=66530646&page=&qf=&q=",
+          "title": "추천 요정이 있나요..?"
         },
         {
           "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=66556502&page=&qf=&q=",
           "title": "안쓰는 미디 키보드 나눔합니다. (조건있음!)"
         },
         {
-          "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=66526405&page=&qf=&q=",
-          "title": "워크맨 나눔(마감 및 발표 4번 windseeker님 당첨)"
+          "link": "https://www.mule.co.kr/bbs/comm/politics?v=v&idx=66552210&page=&qf=&q=",
+          "title": "속보! 이재명 대통령 일본에 수출쾌거!!"
         }
       ]
     },
