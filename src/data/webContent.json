@@ -1,221 +1,4 @@
 {
-  "news": [
-    {
-      "name": "경제",
-      "url": "https://news.naver.com/section/101",
-      "category": "news",
-      "data": [
-        {
-          "link": "https://n.news.naver.com/mnews/article/079/0004076549",
-          "title": "환불도, 보상도 안돼? 공정위, 운동시설 불공정 약관 털었다"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/028/0002771672",
-          "title": "스타벅스, 고객 ‘선불충전금’ 2조6천억 투자 쌈짓돈 굴려…408억 이자수익"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/015/0005198887",
-          "title": "트럼프 방한 코앞인데…안 풀리는 '관세 담판'"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/018/0006141481",
-          "title": "KB금융, 두바이 ICT 전시회 찾아 첨단산업 생산적금융 시동"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/011/0004545025",
-          "title": "이달 HBM4 공개…삼성, 세계 최소 2억화소 기술도 선봬"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/032/0003402922",
-          "title": "보호무역주의 확산 속 기술 규제도 증가…3분기 누적 역대 최고"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/015/0005198705",
-          "title": "최태원 '기술경영' 통했다…SK하이닉스, '10조 클럽' 눈앞"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/629/0000435143",
-          "title": "임직원 가족 위해 롯데월드 전체 대관…'롯데 러브 패밀리 페스티벌' 성료"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/214/0001455814",
-          "title": "정부, 프린스 그룹 등 '캄보디아 범죄조직' 금융제재 추진"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/277/0005666343",
-          "title": "구윤철 \"보유세 부담 낮고, 양도세 부담 커\"…세제 검토 시사"
-        }
-      ]
-    },
-    {
-      "name": "사회",
-      "url": "https://news.naver.com/section/102",
-      "category": "news",
-      "data": [
-        {
-          "link": "https://n.news.naver.com/mnews/article/008/0005264825",
-          "title": "\"차 뒷좌석에서, 너무하네\"…아이돌 커플 스킨십 영상으로 돈 뜯었다"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/025/0003476153",
-          "title": "'사면' 정경심, 최성해 총장 고소…\"조민 표창장 가짜 주장 위증\""
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/005/0001808599",
-          "title": "[속보] 경찰, ‘돈봉투 수수 의혹’ 김영환 충북지사 소환"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/421/0008548043",
-          "title": "10대 딸에 둔기 휘둘러 살해한 40대, 현행범 체포(종합)"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/079/0004076634",
-          "title": "정부, '캄보디아 범죄수익' 국내 환수 방안 추진"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/469/0000892657",
-          "title": "장애 청소년 구하려 철길 뛰어든 이기태 경감… '2025 경찰영웅'"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/018/0006141685",
-          "title": "'캄보디아 송환 64명' 곧 체포시한 만료…경찰, 구속영장 여부 판단"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/055/0001300873",
-          "title": "집값 띄우기·부정청약 다 잡아낸다…경찰, 부동산범죄 특별단속"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/015/0005198643",
-          "title": "국정자원 장애 시스템 복구율 51.8%…정오보다 9개 추가 복구"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/081/0003583310",
-          "title": "가려진 ‘핑크 리본’…연예인 술파티만 남은 유방암 캠페인"
-        }
-      ]
-    },
-    {
-      "name": "생활/문화",
-      "url": "https://news.naver.com/section/103",
-      "category": "news",
-      "data": [
-        {
-          "link": "https://n.news.naver.com/mnews/article/366/0001115668",
-          "title": "내일 아침 ‘초겨울’ 추위 온다…서울 5도, 강원 산지 첫눈"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/421/0008546912",
-          "title": "골다공증, 이런 습관만 바꿔도 평생 곧은 허리 지킨다[100세건강]"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/656/0000151860",
-          "title": "대전일보 오늘의 운세 양력 10월 20일, 음력 8월 29일"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/081/0003583404",
-          "title": "함안 낙화놀이에 흠뻑 빠진 日관광객들"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/422/0000792505",
-          "title": "내일 아침 초겨울 추위…서울 5도·강원 산지 첫눈[날씨]"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/022/0004076085",
-          "title": "케데헌 인기 타고 ‘국중박’ 첫 500만 돌파"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/023/0003935468",
-          "title": "삼국시대 비석부터 추사 김정희까지… 흥선 스님, 40년간 뜬 탁본 1143점 기증"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/660/0000095039",
-          "title": "월요일 아침 '전국 기온 뚝'...두꺼운 옷 챙기세요"
-        }
-      ]
-    },
-    {
-      "name": "IT/과학",
-      "url": "https://news.naver.com/section/105",
-      "category": "news",
-      "data": [
-        {
-          "link": "https://n.news.naver.com/mnews/article/346/0000098904",
-          "title": "세계 최대 ‘癌학회’ 개막… 주목할 항암제는?"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/009/0005575169",
-          "title": "SKT, 유엔 인권기구 만나 책임 있는 AI 논의"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/366/0001115673",
-          "title": "SK쉴더스, 해킹 공격으로 내부 문서 일부 유출... KISA에 신고"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/421/0008547466",
-          "title": "통신 3사 요금제 718개 '난립'…정부 '통합요금제' 연내 출시"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/018/0006141739",
-          "title": "KT 존재감 복원, 해법은 내부에 [김현아의 IT세상읽기]"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/003/0013543212",
-          "title": "우주청, 누리호·달탐사 성과 알린다…서울 ADEX 2025 참가"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/005/0001808728",
-          "title": "폴더블폰 삼국지… 앞서는 중국에 삼성·애플 반격 준비"
-        }
-      ]
-    },
-    {
-      "name": "세계",
-      "url": "https://news.naver.com/section/104",
-      "category": "news",
-      "data": [
-        {
-          "link": "https://n.news.naver.com/mnews/article/055/0001300858",
-          "title": "인천행 중국 여객기, 한국인 보조배터리 불로 상하이 비상착륙"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/016/0002543968",
-          "title": "“이스라엘군, 가자 남부 공습 시작”…위태로워진 휴전 협정"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/421/0008547630",
-          "title": "관세·美투자 논의 마러라고 회동 종료…재계 총수들 속속 귀국길"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/022/0004075921",
-          "title": "“트럼프, 11월 아시아 순방서 ‘김정은 회동’ 물밑 타진”"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/014/0005421258",
-          "title": "美中 경제수장 \"다음주 말레이서 만나 무역 대화·경주 정상회담 논의\""
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/032/0003402978",
-          "title": "미·중 갈등에 세계 반도체 업계 변화"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/052/0002261349",
-          "title": "WP \"푸틴, 트럼프에 우크라 도네츠크 전체 포기 요구\""
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/449/0000323798",
-          "title": "CNN ‘세계 최고의 빵 50선’에 계란빵 선정"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/422/0000792282",
-          "title": "트럼프-젤렌스키 회담 직후에도 러시아·우크라 공방은 지속"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/021/0002743459",
-          "title": "“걸을 때 민망한 소리에 수치심”…집단 소송 휘말린 ‘이 운동화’"
-        }
-      ]
-    }
-  ],
   "hobby": [
     {
       "name": "Mule",
@@ -248,16 +31,16 @@
           "title": "[뮬인늬우스] 2025년 10월 둘째 주 소식 정리"
         },
         {
-          "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=66827402&page=&qf=&q=",
-          "title": "나눔8) 다시 공룡 피크케이스 입니다."
+          "link": "https://www.mule.co.kr/bbs/comm/gallery?v=v&idx=66800666&page=&qf=&q=",
+          "title": "자작 퍼즈팩토리 케이스 도색했습니다."
         },
         {
           "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=66823715&page=&qf=&q=",
           "title": "오래전부터 내려오는 진상거래자 예방법"
         },
         {
-          "link": "https://www.mule.co.kr/bbs/comm/gallery?v=v&idx=66800666&page=&qf=&q=",
-          "title": "자작 퍼즈팩토리 케이스 도색했습니다."
+          "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=66827402&page=&qf=&q=",
+          "title": "나눔8) 다시 공룡 피크케이스 입니다."
         },
         {
           "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=66822719&page=&qf=&q=",
@@ -266,6 +49,10 @@
         {
           "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=66825864&page=&qf=&q=",
           "title": "요즘 같은 세상에 참어르신을 보네요"
+        },
+        {
+          "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=66834114&page=&qf=&q=",
+          "title": "[중요] 수입 대행 및 위탁 판매 거래 피해 주의 - 추가 안내 사항입니다."
         },
         {
           "link": "https://www.mule.co.kr/bbs/comm/politics?v=v&idx=66803883&page=&qf=&q=",
@@ -280,8 +67,8 @@
           "title": "나눔글) 고장난 이펙터 나눔합니다. 본문 확인해주세요!"
         },
         {
-          "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=66834114&page=&qf=&q=",
-          "title": "[중요] 수입 대행 및 위탁 판매 거래 피해 주의 - 추가 안내 사항입니다."
+          "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=66834269&page=&qf=&q=",
+          "title": "[무료 나눔 이벤트] 코코 스마트 전자 칼림바 무료 나눔 합니다!"
         },
         {
           "link": "https://www.mule.co.kr/bbs/comm/politics?v=v&idx=66799482&page=&qf=&q=",
@@ -300,10 +87,6 @@
           "title": "수포자 고딩 10개월 후"
         },
         {
-          "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=66834269&page=&qf=&q=",
-          "title": "[무료 나눔 이벤트] 코코 스마트 전자 칼림바 무료 나눔 합니다!"
-        },
-        {
           "link": "https://www.mule.co.kr/bbs/comm/gallery?v=v&idx=66825105&page=&qf=&q=",
           "title": "기추 했습니다!"
         },
@@ -314,6 +97,10 @@
         {
           "link": "https://www.mule.co.kr/bbs/comm/politics?v=v&idx=66800166&page=&qf=&q=",
           "title": "[속보]이화영 \"수사팀이 이재명 엮으면 형량 감면해주겠다고 했다\""
+        },
+        {
+          "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=66837003&page=&qf=&q=",
+          "title": "중학생 첫 깁슨 기추"
         },
         {
           "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=66790291&page=&qf=&q=",
@@ -332,16 +119,12 @@
           "title": "고종 찬양하시는 분들께"
         },
         {
+          "link": "https://www.mule.co.kr/bbs/comm/humor?v=v&idx=66823390&page=&qf=&q=",
+          "title": "국감장에서 오열한 검사... 부디 왕따 당하지 않길..."
+        },
+        {
           "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=66804580&page=&qf=&q=",
           "title": "캄보디아 조심하세요!! 공익 정보글 하나 남깁니다!!"
-        },
-        {
-          "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=66801763&page=&qf=&q=",
-          "title": "비교적 객관적인 자료를 바탕으로한 톤우드에 대하여"
-        },
-        {
-          "link": "https://www.mule.co.kr/bbs/comm/politics?v=v&idx=66797010&page=&qf=&q=",
-          "title": "마리화나(대마)는 가장 무서운 마약입니다."
         }
       ]
     },
