@@ -242,11 +242,11 @@
         },
         {
           "creator": "Naeri",
-          "title": "와우 해외 유저들이 만든 하우징 특이한 집들",
+          "title": "와우 해외 유저들이 만든 특이한 하우징 집 모음",
           "link": "https://bbs.ruliweb.com/pc/board/1003/read/2335458",
           "pubDate": "Sun, 26 Oct 2025 13:32:30 +0900",
           "author": "Naeri",
-          "content": "<img width=\"236\" height=\"177\" src=\"https://i1.ruliweb.com/thumb/25/10/26/19a1ec9e6a647f450.jpg\">",
+          "content": "<img width=\"236\" height=\"177\" src=\"https://i3.ruliweb.com/thumb/25/10/27/19a2158019b47f450.png\">",
           "contentSnippet": "",
           "categories": [
             ""
@@ -751,6 +751,19 @@
       "priority": 2,
       "data": [
         {
+          "creator": "베르세리아2",
+          "title": "PS2 발매 25주년 기념, IGN 선정 PS2 게임 TOP25",
+          "link": "https://bbs.ruliweb.com/ps/board/300001/read/2342636",
+          "pubDate": "Mon, 27 Oct 2025 02:40:03 +0900",
+          "author": "베르세리아2",
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "정보"
+          ],
+          "isoDate": "2025-10-26T17:40:03.000Z"
+        },
+        {
           "creator": "BurnCrow",
           "title": "'옛날 옛적에 괴혼' 패미통 리뷰 내용",
           "link": "https://bbs.ruliweb.com/ps/board/300001/read/2342634",
@@ -1100,19 +1113,6 @@
             "루머"
           ],
           "isoDate": "2025-10-25T04:31:13.000Z"
-        },
-        {
-          "creator": "베르세리아2",
-          "title": "엑스박스 3대 IP가 모두 소니 플랫폼에 출시 [헤일로,포르자,기어즈]",
-          "link": "https://bbs.ruliweb.com/ps/board/300001/read/2342593",
-          "pubDate": "Sat, 25 Oct 2025 13:09:31 +0900",
-          "author": "베르세리아2",
-          "content": "<img width=\"236\" height=\"177\" src=\"https://i1.ruliweb.com/thumb/25/10/25/19a198e56d59c16f.png\">",
-          "contentSnippet": "",
-          "categories": [
-            "정보"
-          ],
-          "isoDate": "2025-10-25T04:09:31.000Z"
         }
       ]
     }
@@ -1124,6 +1124,86 @@
       "category": "news",
       "priority": 1,
       "data": [
+        {
+          "title": "OpenAI, 이제 신원 확인을 요구하며 API 크레딧 환불 불가 정책 시행",
+          "link": "https://news.hada.io/topic?id=23936",
+          "pubDate": "2025-10-26T20:32:59.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>OpenAI가 <strong>API 사용자에게 신원 확인(ID verification)</strong> 절차를 의무화하며, <strong>미사용 크레딧 환불을 중단</strong>한 것으로 보고됨</li>\n<li>일부 사용자는 계정 접근을 위해 <strong>정부 발급 신분증 제출</strong>을 요구받았으며, 이를 거부할 경우 계정이 제한된다고 언급</li>\n<l...</p>",
+          "contentSnippet": "OpenAI가 API 사용자에게 신원 확인(ID verification) 절차를 의무화하며, 미사용 크레딧 환불을 중단한 것으로 보고됨\n일부 사용자는 계정 접근을 위해 정부 발급 신분증 제출을 요구받았으며, 이를 거부할 경우 계정이 제한된다고 언급",
+          "id": "https://news.hada.io/topic?id=23936",
+          "isoDate": "2025-10-26T20:32:59.000Z"
+        },
+        {
+          "title": "록 텀블러 사용 설명서",
+          "link": "https://news.hada.io/topic?id=23935",
+          "pubDate": "2025-10-26T19:33:35.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>거친 암석을 <strong>매끄럽고 광택 있는 보석 수준의 돌</strong>로 다듬는 과정을 단계별로 안내하는 실용 지침서</li>\n<li>\n<strong>적절한 경도(모스 경도 6~7)</strong> 와 크기를 가진 암석을 선택하고, 오염 방지 및 충분한 시간을 들이는 것이 핵심 원칙으로 제시됨</li>\n<li>과정은 <strong>4단계 연마...</p>",
+          "contentSnippet": "거친 암석을 매끄럽고 광택 있는 보석 수준의 돌로 다듬는 과정을 단계별로 안내하는 실용 지침서\n적절한 경도(모스 경도 6~7) 와 크기를 가진 암석을 선택하고, 오염 방지 및 충분한 시간을 들이는 것이 핵심 원칙으로 제시됨\n과정은 4단계 연마...",
+          "id": "https://news.hada.io/topic?id=23935",
+          "isoDate": "2025-10-26T19:33:35.000Z"
+        },
+        {
+          "title": "D2: 다이어그램 스크립팅 언어",
+          "link": "https://news.hada.io/topic?id=23934",
+          "pubDate": "2025-10-26T17:33:17.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>D2</strong>는 텍스트 기반으로 다이어그램을 작성할 수 있는 <strong>스크립팅 언어</strong>로, 코드로 시각 자료를 자동 생성하는 방식을 제공</li>\n<li>사용자는 간단한 문법으로 노드와 관계를 정의하면, <strong>자동 레이아웃 엔진</strong>이 이를 시각적으로 배치</li>\n<li>문서 내의 각 코드...</p>",
+          "contentSnippet": "D2는 텍스트 기반으로 다이어그램을 작성할 수 있는 스크립팅 언어로, 코드로 시각 자료를 자동 생성하는 방식을 제공\n사용자는 간단한 문법으로 노드와 관계를 정의하면, 자동 레이아웃 엔진이 이를 시각적으로 배치\n문서 내의 각 코드...",
+          "id": "https://news.hada.io/topic?id=23934",
+          "isoDate": "2025-10-26T17:33:17.000Z"
+        },
+        {
+          "title": "Show GN: Show: FlashRecord — 개발자용 초경량 터미널 녹화툴 - 스크린샷·GIF을 터미널에서",
+          "link": "https://news.hada.io/topic?id=23933",
+          "pubDate": "2025-10-26T17:23:09.000Z",
+          "author": "flamehaven01",
+          "content": "<p>안녕하세요, 매주 새롭고 유용한 툴을 제작하는 Flamehaven입니다. 이번 주에는 FlashRecord를 소개합니다.</p>\n<p>FlashRecord는 개발자 워크플로우에 바로 들어갈 수 있도록 설계된 초경량(≈2MB) <strong>Python-native CLI</strong> 스크린 캡처 도구입니다. GUI는 없고, 터미널에서 바로 스크린샷(<code>@sc</co",
+          "contentSnippet": "안녕하세요, 매주 새롭고 유용한 툴을 제작하는 Flamehaven입니다. 이번 주에는 FlashRecord를 소개합니다.\nFlashRecord는 개발자 워크플로우에 바로 들어갈 수 있도록 설계된 초경량(≈2MB) Python-native CLI 스크린 캡처 도구입니다. GUI는 없고, 터미널에서 바로 스크린샷(@sc</co",
+          "id": "https://news.hada.io/topic?id=23933",
+          "isoDate": "2025-10-26T17:23:09.000Z"
+        },
+        {
+          "title": "WebDAV는 아직 죽지 않았다",
+          "link": "https://news.hada.io/topic?id=23932",
+          "pubDate": "2025-10-26T16:37:41.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>파일 저장을 위해 <strong>S3 중심의 인프라</strong>가 사실상 표준이 되었지만, 개인 프로젝트나 자가 호스팅 환경에서는 <strong>WebDAV</strong>가 여전히 유용한 대안으로 제시됨</li>\n<li>작성자는 <strong>S3의 복잡성과 종속성</strong>에 피로감을 느끼고, 단순한 인증 기반 파일 저장소로 WebDAV를 다...</p>",
+          "contentSnippet": "파일 저장을 위해 S3 중심의 인프라가 사실상 표준이 되었지만, 개인 프로젝트나 자가 호스팅 환경에서는 WebDAV가 여전히 유용한 대안으로 제시됨\n작성자는 S3의 복잡성과 종속성에 피로감을 느끼고, 단순한 인증 기반 파일 저장소로 WebDAV를 다...",
+          "id": "https://news.hada.io/topic?id=23932",
+          "isoDate": "2025-10-26T16:37:41.000Z"
+        },
+        {
+          "title": "드래그 가능한 커스터마이징 기능을 갖춘 코드 기반 다이어그램 도구",
+          "link": "https://news.hada.io/topic?id=23931",
+          "pubDate": "2025-10-26T16:34:39.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>oxdraw</strong>는 Rust로 작성된 <strong>‘Diagram as Code’ 도구</strong>로, 코드 기반 다이어그램을 시각적으로 편집하고 재현 가능한 형태로 유지하도록 설계됨</li>\n<li>다이어그램은 <strong>Mermaid 문법</strong>으로 작성되며, 웹 인터페이스를 통해 노드 위치, 색상, 연결선 등을 <stron...</p>",
+          "contentSnippet": "oxdraw는 Rust로 작성된 ‘Diagram as Code’ 도구로, 코드 기반 다이어그램을 시각적으로 편집하고 재현 가능한 형태로 유지하도록 설계됨\n다이어그램은 Mermaid 문법으로 작성되며, 웹 인터페이스를 통해 노드 위치, 색상, 연결선 등을",
+          "id": "https://news.hada.io/topic?id=23931",
+          "isoDate": "2025-10-26T16:34:39.000Z"
+        },
+        {
+          "title": "CTO로서 내가 코드를 작성하는 이유",
+          "link": "https://news.hada.io/topic?id=23930",
+          "pubDate": "2025-10-26T15:38:42.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>많은 CTO들이 관리 중심으로 전환하지만, 이 글의 저자는 여전히 <strong>직접 코드를 작성하며 제품을 개발</strong>하는 방식을 유지</li>\n<li>그는 실험적 프로젝트, 긴급 고객 요청, 버그 수정 등 <strong>세 가지 유형의 개발 작업</strong>을 통해 조직 내에서 높은 레버리지를 창출</li>\n<li>코딩을 지속...</p>",
+          "contentSnippet": "많은 CTO들이 관리 중심으로 전환하지만, 이 글의 저자는 여전히 직접 코드를 작성하며 제품을 개발하는 방식을 유지\n그는 실험적 프로젝트, 긴급 고객 요청, 버그 수정 등 세 가지 유형의 개발 작업을 통해 조직 내에서 높은 레버리지를 창출\n코딩을 지속...",
+          "id": "https://news.hada.io/topic?id=23930",
+          "isoDate": "2025-10-26T15:38:42.000Z"
+        },
+        {
+          "title": "iOS 26 업데이트로 Pegasus 및 Predator 스파이웨어의 주요 IOC가 제거됨",
+          "link": "https://news.hada.io/topic?id=23929",
+          "pubDate": "2025-10-26T15:35:41.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>iOS 26에서는 <strong>shutdown.log 파일 처리 방식이 변경</strong>되어 Pegasus와 Predator 감염 흔적이 자동으로 삭제되는 현상 발생</li>\n<li>기존에는 이 로그가 <strong>iOS 악성코드 탐지의 핵심 포렌식 증거</strong>로 활용되어 왔으며, 감염 여부를 확인하는 주요 지표 역할을 수행</li>\n<li>Pegasus...</p>",
+          "contentSnippet": "iOS 26에서는 shutdown.log 파일 처리 방식이 변경되어 Pegasus와 Predator 감염 흔적이 자동으로 삭제되는 현상 발생\n기존에는 이 로그가 iOS 악성코드 탐지의 핵심 포렌식 증거로 활용되어 왔으며, 감염 여부를 확인하는 주요 지표 역할을 수행\nPegasus...",
+          "id": "https://news.hada.io/topic?id=23929",
+          "isoDate": "2025-10-26T15:35:41.000Z"
+        },
         {
           "title": "Show GN: Carduu - AI로 간단하게 만드는 초대장 & 설문 카드 서비스",
           "link": "https://news.hada.io/topic?id=23928",
@@ -1143,86 +1223,6 @@
           "contentSnippet": "프로그램이 실행되기 전, 커널이 execve 시스템 호출을 통해 프로세스를 생성하고 초기화하는 과정을 탐구한 기술 분석\n이 호출은 실행 파일 경로, 인자, 환경 변수를 전달하며, 커널은 이를 기반으로 ELF 형식의 실행 파일을 로드함\nELF 파일은 코드, 데...",
           "id": "https://news.hada.io/topic?id=23927",
           "isoDate": "2025-10-26T13:34:00.000Z"
-        },
-        {
-          "title": "디자인 씽킹(Design Thinking) 을 잘 하는 방법: 프로세스에서 인식으로",
-          "link": "https://news.hada.io/topic?id=23926",
-          "pubDate": "2025-10-26T12:13:19.000Z",
-          "author": "haegyung",
-          "content": "<p>디자인씽킹은 공감–정의–아이데이션–프로토타입–테스트 같은 단계 절차가 아니라,<br />\n세상을 다르게 보고 해석하는 인식의 구조다.</p>\n<p>전문가는 규칙을 따르지 않고, 상황 속 패턴을 인식하고 시뮬레이션하며 판단한다.<br />\nGary Klein의 RPD 모델처럼, 진짜 창의성은 절차가 아니라 ‘보는 법의 전환’",
-          "contentSnippet": "디자인씽킹은 공감–정의–아이데이션–프로토타입–테스트 같은 단계 절차가 아니라,\n전문가는 규칙을 따르지 않고, 상황 속 패턴을 인식하고 시뮬레이션하며 판단한다.\nGary Klein의 RPD 모델처럼, 진짜 창의성은 절차가 아니라 ‘보는 법의 전환’",
-          "id": "https://news.hada.io/topic?id=23926",
-          "isoDate": "2025-10-26T12:13:19.000Z"
-        },
-        {
-          "title": "리눅스 부팅 과정: 전원 버튼에서 커널까지",
-          "link": "https://news.hada.io/topic?id=23925",
-          "pubDate": "2025-10-26T10:34:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>컴퓨터의 <strong>전원 버튼을 누른 순간부터 리눅스 커널이 실행되기까지</strong>의 과정을 단계별로 설명한 기술 해설</li>\n<li>CPU가 <strong>리얼 모드(real mode)</strong> 에서 시작해 <strong>프로텍티드 모드(protected mode)</strong> 와 <strong>롱 모드(long mode)</strong> 로 진입하는 과정을 구...</p>",
-          "contentSnippet": "컴퓨터의 전원 버튼을 누른 순간부터 리눅스 커널이 실행되기까지의 과정을 단계별로 설명한 기술 해설\nCPU가 리얼 모드(real mode) 에서 시작해 프로텍티드 모드(protected mode) 와 롱 모드(long mode) 로 진입하는 과정을 구...",
-          "id": "https://news.hada.io/topic?id=23925",
-          "isoDate": "2025-10-26T10:34:01.000Z"
-        },
-        {
-          "title": "영국 온라인 안전법(Online Safety Act)은 Libera.Chat에 적용되지 않을 가능성이 높다는 법률 자문 결과",
-          "link": "https://news.hada.io/topic?id=23924",
-          "pubDate": "2025-10-26T08:33:44.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>오픈 IRC 네트워크 <strong>Libera.Chat</strong>이 영국의 <strong>Online Safety Act(온라인 안전법)</strong> 적용 여부에 대해 법률 자문을 받은 결과, <strong>영국과의 실질적 연계가 부족해 적용 대상이 아니라고 판단</strong>\n</li>\n<li>법률 자문에 따르면 Libera.Chat은 ‘규제 대상 서비스’에는 해...</p>",
-          "contentSnippet": "오픈 IRC 네트워크 Libera.Chat이 영국의 Online Safety Act(온라인 안전법) 적용 여부에 대해 법률 자문을 받은 결과, 영국과의 실질적 연계가 부족해 적용 대상이 아니라고 판단\n\n법률 자문에 따르면 Libera.Chat은 ‘규제 대상 서비스’에는 해...",
-          "id": "https://news.hada.io/topic?id=23924",
-          "isoDate": "2025-10-26T08:33:44.000Z"
-        },
-        {
-          "title": "캘리포니아, 배터리 에너지 저장에 투자하며 순환 정전 시대를 끝내다",
-          "link": "https://news.hada.io/topic?id=23923",
-          "pubDate": "2025-10-26T07:34:09.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>캘리포니아는 최근 몇 년간 <strong>대규모 배터리 에너지 저장 설비</strong>를 구축하며 여름철 정전 위기에서 벗어나고 있음</li>\n<li>이 시스템은 <strong>태양광 발전으로 생산된 전력을 저장해 일몰 후 공급</strong>함으로써 전력망의 안정성을 높임</li>\n<li>2020년 이후 배터리 저장 용량이 <strong>5...</p>",
-          "contentSnippet": "캘리포니아는 최근 몇 년간 대규모 배터리 에너지 저장 설비를 구축하며 여름철 정전 위기에서 벗어나고 있음\n이 시스템은 태양광 발전으로 생산된 전력을 저장해 일몰 후 공급함으로써 전력망의 안정성을 높임\n2020년 이후 배터리 저장 용량이 5...",
-          "id": "https://news.hada.io/topic?id=23923",
-          "isoDate": "2025-10-26T07:34:09.000Z"
-        },
-        {
-          "title": "클라우드플레어 창업자의 편지: 우리는 새로운 인터넷 비즈니스 모델의 직전 단계에 있을 수도 있음",
-          "link": "https://news.hada.io/topic?id=23922",
-          "pubDate": "2025-10-26T07:10:51.000Z",
-          "author": "day1swhan",
-          "content": "<p>한 줄 요약: 우리는 인터넷의 화폐가 <strong>트래픽</strong>에서 <strong>정답 기여도</strong>로 바뀌는 전환점에 있음. 창의적·지역적·독창적 콘텐츠에 직접 보상이 흐르도록 인프라·표준·시장을 설계하겠다는 선언</p>\n<ul>\n<li>\n<p>지난 15년 동안 인터넷의 근본적인 비즈니스 모델(보상 체계)는 트래픽이였음...</p>",
-          "contentSnippet": "한 줄 요약: 우리는 인터넷의 화폐가 트래픽에서 정답 기여도로 바뀌는 전환점에 있음. 창의적·지역적·독창적 콘텐츠에 직접 보상이 흐르도록 인프라·표준·시장을 설계하겠다는 선언\n지난 15년 동안 인터넷의 근본적인 비즈니스 모델(보상 체계)는 트래픽이였음...",
-          "id": "https://news.hada.io/topic?id=23922",
-          "isoDate": "2025-10-26T07:10:51.000Z"
-        },
-        {
-          "title": "Lightricks LTX-2 - 오픈소스 최초 오디오·비디오 통합 생성 모델",
-          "link": "https://news.hada.io/topic?id=23921",
-          "pubDate": "2025-10-26T05:15:16.000Z",
-          "author": "davespark",
-          "content": "<p>📝 TL;DR</p>\n<ul>\n<li>LTX-2 = 오픈소스 멀티모달 비디오 생성 모델의 새 기준</li>\n<li>4K+오디오를 소비자급 하드웨어에서 실시간 생성</li>\n<li>11월 말 모델 가중치+코드+벤치마크 전체 공개</li>\n<li>Lightricks 제작, arXiv 논문 공개됨</li>\n</ul>\n<p>🔑 Key Highlights</p>\n<ul>\n<li>\n<p>오픈소스 최초의 오",
-          "contentSnippet": "📝 TL;DR\nLTX-2 = 오픈소스 멀티모달 비디오 생성 모델의 새 기준\n4K+오디오를 소비자급 하드웨어에서 실시간 생성\n11월 말 모델 가중치+코드+벤치마크 전체 공개\nLightricks 제작, arXiv 논문 공개됨\n🔑 Key Highlights\n오픈소스 최초의 오",
-          "id": "https://news.hada.io/topic?id=23921",
-          "isoDate": "2025-10-26T05:15:16.000Z"
-        },
-        {
-          "title": "Show GN: Random Makers - Show HN과 Product Hunt 중간 어딘가의, 제품 알리기 게시판",
-          "link": "https://news.hada.io/topic?id=23920",
-          "pubDate": "2025-10-26T02:18:42.000Z",
-          "author": "robin",
-          "content": "<p>저도 제작자로서, 다른 분들이 만든 많은 제품들을 찾아보는데...</p>\n<p>너무 좋은 제품들이 많은 사람들에게 도달하지 못해서 묻히는 게 아쉬웠습니다.</p>\n<p>그래서 그런 제품 / 작품에게 작은 기회라도 만들어드리고 싶은 마음에 만들었습니다.</p>\n<p>특히, 글로벌 도전하는 분들이 한국에도 많아지는데 한국 -",
-          "contentSnippet": "저도 제작자로서, 다른 분들이 만든 많은 제품들을 찾아보는데...\n너무 좋은 제품들이 많은 사람들에게 도달하지 못해서 묻히는 게 아쉬웠습니다.\n그래서 그런 제품 / 작품에게 작은 기회라도 만들어드리고 싶은 마음에 만들었습니다.\n특히, 글로벌 도전하는 분들이 한국에도 많아지는데 한국 -",
-          "id": "https://news.hada.io/topic?id=23920",
-          "isoDate": "2025-10-26T02:18:42.000Z"
-        },
-        {
-          "title": "Synadia와 TigerBeetle, Zig Software Foundation에 51만 2천 달러 기부 약정",
-          "link": "https://news.hada.io/topic?id=23919",
-          "pubDate": "2025-10-26T00:32:25.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>시스템 프로그래밍과 분산 소프트웨어의 미래 발전</strong>을 위해 두 기업이 <strong>Zig Software Foundation(ZSF)</strong> 에 향후 2년간 총 <strong>51만 2천 달러</strong>를 기부하기로 약정</li>\n<li>Synadia는 <strong>클라우드와 엣지 전반의 안전한 연결성</strong>을 제공하는 플랫폼 기...</p>",
-          "contentSnippet": "시스템 프로그래밍과 분산 소프트웨어의 미래 발전을 위해 두 기업이 Zig Software Foundation(ZSF) 에 향후 2년간 총 51만 2천 달러를 기부하기로 약정\nSynadia는 클라우드와 엣지 전반의 안전한 연결성을 제공하는 플랫폼 기...",
-          "id": "https://news.hada.io/topic?id=23919",
-          "isoDate": "2025-10-26T00:32:25.000Z"
         }
       ]
     }
