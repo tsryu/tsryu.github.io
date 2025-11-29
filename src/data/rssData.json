@@ -1125,7 +1125,27 @@
       "priority": 1,
       "data": [
         {
-          "title": "에어버스 A320 – 강한 태양 복사가 비행 제어 핵심 데이터 손상 가능성",
+          "title": "소프트웨어 개발자의 고백: 더 이상 자기검열은 없다",
+          "link": "https://news.hada.io/topic?id=24713",
+          "pubDate": "2025-11-29T20:33:26.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>두려움과 자기검열을 멈추고</strong>, 그동안 인정하지 못했던 기술적·개인적 부족함을 공개한 개발자의 고백</li>\n<li>\n<strong>다형성(polymorphism)</strong> 개념을 10년 넘게 이해하지 못했고, <strong>SQL 실력을 잃었으며</strong>, 대부분의 코드를 <strong>자동화 테스트 없이 배포</strong...</p>",
+          "contentSnippet": "두려움과 자기검열을 멈추고, 그동안 인정하지 못했던 기술적·개인적 부족함을 공개한 개발자의 고백\n다형성(polymorphism) 개념을 10년 넘게 이해하지 못했고, SQL 실력을 잃었으며, 대부분의 코드를 자동화 테스트 없이 배포",
+          "id": "https://news.hada.io/topic?id=24713",
+          "isoDate": "2025-11-29T20:33:26.000Z"
+        },
+        {
+          "title": "로컬 RAG를 구축하고 싶다고?",
+          "link": "https://news.hada.io/topic?id=24712",
+          "pubDate": "2025-11-29T16:32:51.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Skald</strong>는 데이터를 제3자에게 전송하지 않고 완전히 <strong>자체 호스팅 가능한 RAG 시스템</strong>을 목표로 개발됨</li>\n<li>RAG 구성요소는 <strong>벡터 데이터베이스, 임베딩 모델, LLM, 리랭커, 문서 파서</strong>로 나뉘며, 각 요소에 대해 <strong>오픈소스 대안</strong>을 제시...</p>",
+          "contentSnippet": "Skald는 데이터를 제3자에게 전송하지 않고 완전히 자체 호스팅 가능한 RAG 시스템을 목표로 개발됨\nRAG 구성요소는 벡터 데이터베이스, 임베딩 모델, LLM, 리랭커, 문서 파서로 나뉘며, 각 요소에 대해 오픈소스 대안을 제시...",
+          "id": "https://news.hada.io/topic?id=24712",
+          "isoDate": "2025-11-29T16:32:51.000Z"
+        },
+        {
+          "title": "에어버스 A320 – 강한 태양 복사로 인해 비행 제어 핵심 데이터 손상 가능성",
           "link": "https://news.hada.io/topic?id=24711",
           "pubDate": "2025-11-29T12:32:58.000Z",
           "author": "neo",
@@ -1139,13 +1159,13 @@
           "link": "https://news.hada.io/topic?id=24710",
           "pubDate": "2025-11-29T11:33:11.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>대형 기술기업의 <strong>짧은 근속 기간과 잦은 조직 개편</strong>으로 인해, 많은 엔지니어가 자신이 익숙하지 않은 코드베이스에서 작업하는 구조</li>\n<li>코드 변경의 상당 부분이 <strong>입사 6개월 이내의 ‘초보자’ 수준 엔지니어</strong>에 의해 이루어지는 현실</li>\n<li>일부 숙련된 <strong>‘...</p>",
-          "contentSnippet": "대형 기술기업의 짧은 근속 기간과 잦은 조직 개편으로 인해, 많은 엔지니어가 자신이 익숙하지 않은 코드베이스에서 작업하는 구조\n코드 변경의 상당 부분이 입사 6개월 이내의 ‘초보자’ 수준 엔지니어에 의해 이루어지는 현실\n일부 숙련된 ‘...",
+          "content": "<ul>\n<li>대형 기술기업의 <strong>짧은 근속 기간과 잦은 조직 개편</strong>으로 인해, 많은 엔지니어가 자신이 익숙하지 않은 코드베이스에서 작업을 함</li>\n<li>코드 변경의 상당 부분이 <strong>입사 6개월 이내의 ‘초보자’ 수준 엔지니어</strong>에 의해 이루어지는 현실</li>\n<li>일부 숙련된 <strong>‘올드...</p>",
+          "contentSnippet": "대형 기술기업의 짧은 근속 기간과 잦은 조직 개편으로 인해, 많은 엔지니어가 자신이 익숙하지 않은 코드베이스에서 작업을 함\n코드 변경의 상당 부분이 입사 6개월 이내의 ‘초보자’ 수준 엔지니어에 의해 이루어지는 현실\n일부 숙련된 ‘올드...",
           "id": "https://news.hada.io/topic?id=24710",
           "isoDate": "2025-11-29T11:33:11.000Z"
         },
         {
-          "title": "Signal 앱을 개선한 독립 오픈소스 버전 Molly",
+          "title": "Molly - Signal 앱을 개선한 독립 오픈소스 버전 ",
           "link": "https://news.hada.io/topic?id=24709",
           "pubDate": "2025-11-29T09:32:52.000Z",
           "author": "neo",
@@ -1203,26 +1223,6 @@
           "contentSnippet": "개발하시면서 가장 자주 겪는 문제 중 하나가 포트 충돌일 거라 생각합니다.\n저도 이 과정을 하루 평균 10번 정도 했습니다.\n그래서 아예 작은 도구",
           "id": "https://news.hada.io/topic?id=24704",
           "isoDate": "2025-11-29T03:44:15.000Z"
-        },
-        {
-          "title": "Hacker News 댓글 2,800만 건을 벡터 임베딩 검색 데이터세트로 제공",
-          "link": "https://news.hada.io/topic?id=24703",
-          "pubDate": "2025-11-29T03:33:39.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Hacker News 데이터세트</strong>는 2,874만 개의 게시글과 댓글을 포함하며, 각 텍스트는 <strong>SentenceTransformers all-MiniLM-L6-v2 모델</strong>로 생성된 384차원 <strong>벡터 임베딩</strong>으로 구성</li>\n<li>데이터는 <strong>ClickHouse</strong>에서 제공하는 단일 <strong>Parquet...</p>",
-          "contentSnippet": "Hacker News 데이터세트는 2,874만 개의 게시글과 댓글을 포함하며, 각 텍스트는 SentenceTransformers all-MiniLM-L6-v2 모델로 생성된 384차원 벡터 임베딩으로 구성\n데이터는 ClickHouse에서 제공하는 단일 Parquet...",
-          "id": "https://news.hada.io/topic?id=24703",
-          "isoDate": "2025-11-29T03:33:39.000Z"
-        },
-        {
-          "title": "구글 나노바나나 프로 케이스북 (PDF, 118P)",
-          "link": "https://news.hada.io/topic?id=24702",
-          "pubDate": "2025-11-29T01:51:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>이미지 생성 모델 <strong>나노 바나나 프로</strong>의 다양한 활용 사례 모음집</li>\n<li>작성된 이미지와 프롬프트/같이 원 작성자 링크 첨부 (가능한 경우만)</li>\n<li>구글 드라이브 링크 118p / 77MB</li>\n</ul>\n...</p>",
-          "contentSnippet": "이미지 생성 모델 나노 바나나 프로의 다양한 활용 사례 모음집\n작성된 이미지와 프롬프트/같이 원 작성자 링크 첨부 (가능한 경우만)\n구글 드라이브 링크 118p / 77MB\n\n...",
-          "id": "https://news.hada.io/topic?id=24702",
-          "isoDate": "2025-11-29T01:51:01.000Z"
         }
       ]
     }
