@@ -7,6 +7,19 @@
       "priority": 1,
       "data": [
         {
+          "creator": "마이피드링크",
+          "title": "델, PC 가격 15~20% 인상…레노버도 1월 가격 인상",
+          "link": "https://bbs.ruliweb.com/pc/board/1003/read/2338288",
+          "pubDate": "Sun, 07 Dec 2025 02:44:49 +0900",
+          "author": "마이피드링크",
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            ""
+          ],
+          "isoDate": "2025-12-06T17:44:49.000Z"
+        },
+        {
           "creator": "롭스",
           "title": "[LOL] 2025 LoL KeSPA CUP 12/6(토) 경기 결과",
           "link": "https://bbs.ruliweb.com/pc/board/1003/read/2338287",
@@ -356,19 +369,6 @@
             ""
           ],
           "isoDate": "2025-12-06T10:34:59.000Z"
-        },
-        {
-          "creator": "Urial",
-          "title": "[게임 정보] 엠피리온 초심자용 함선 카탈로그 배포",
-          "link": "https://bbs.ruliweb.com/pc/board/1003/read/2338260",
-          "pubDate": "Sat, 06 Dec 2025 19:34:27 +0900",
-          "author": "Urial",
-          "content": "<img width=\"236\" height=\"177\" src=\"https://i1.ruliweb.com/thumb/25/12/06/19af3372ebd15ab4b.jpg\">",
-          "contentSnippet": "",
-          "categories": [
-            ""
-          ],
-          "isoDate": "2025-12-06T10:34:27.000Z"
         }
       ]
     },
@@ -751,6 +751,32 @@
       "priority": 2,
       "data": [
         {
+          "creator": "roness",
+          "title": "디지몬 스토리 타임 스트레인저 캐릭터 소개. 쿠레미 쿄코",
+          "link": "https://bbs.ruliweb.com/ps/board/300001/read/2344814",
+          "pubDate": "Sun, 07 Dec 2025 02:54:20 +0900",
+          "author": "roness",
+          "content": "<img width=\"236\" height=\"177\" src=\"https://i3.ruliweb.com/thumb/25/12/07/19af4cb202213b068.jpg\">",
+          "contentSnippet": "",
+          "categories": [
+            "PS5소프트"
+          ],
+          "isoDate": "2025-12-06T17:54:20.000Z"
+        },
+        {
+          "creator": "FLAWLESS빅토리",
+          "title": "[앵그리 죠]콜오브듀티 블렉옵스 7 리뷰",
+          "link": "https://bbs.ruliweb.com/ps/board/300001/read/2344813",
+          "pubDate": "Sun, 07 Dec 2025 00:33:04 +0900",
+          "author": "FLAWLESS빅토리",
+          "content": "<img width=\"236\" height=\"177\" src=\"https://i1.ruliweb.com/thumb/25/12/07/19af449b59b85b4.png\">",
+          "contentSnippet": "",
+          "categories": [
+            "PS5소프트"
+          ],
+          "isoDate": "2025-12-06T15:33:04.000Z"
+        },
+        {
           "creator": "뒤돌아 보지마",
           "title": "AGF 2025, 게임사가 말합니다. \"지스타 갈 이유 없겠는데요?\"",
           "link": "https://bbs.ruliweb.com/ps/board/300001/read/2344812",
@@ -1087,32 +1113,6 @@
             "PS5소프트"
           ],
           "isoDate": "2025-12-05T13:03:42.000Z"
-        },
-        {
-          "creator": "Taliss",
-          "title": "넷플릭스, 워너 브라더스를 827억 달러에 인수한다고 발표",
-          "link": "https://bbs.ruliweb.com/ps/board/300001/read/2344775",
-          "pubDate": "Fri, 05 Dec 2025 21:53:57 +0900",
-          "author": "Taliss",
-          "content": "<img width=\"236\" height=\"177\" src=\"https://i1.ruliweb.com/thumb/25/12/05/19aee8d614f58a88e.png\">",
-          "contentSnippet": "",
-          "categories": [
-            "정보"
-          ],
-          "isoDate": "2025-12-05T12:53:57.000Z"
-        },
-        {
-          "creator": "ㅅㄱㅊㄱㅎㅅㅋㄴㅁ",
-          "title": "스페인 주간 소프트, 하드웨어 판매량 (블랙 프라이데이 시즌)",
-          "link": "https://bbs.ruliweb.com/ps/board/300001/read/2344774",
-          "pubDate": "Fri, 05 Dec 2025 21:47:15 +0900",
-          "author": "ㅅㄱㅊㄱㅎㅅㅋㄴㅁ",
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "PS5하드"
-          ],
-          "isoDate": "2025-12-05T12:47:15.000Z"
         }
       ]
     }
@@ -1124,6 +1124,36 @@
       "category": "news",
       "priority": 1,
       "data": [
+        {
+          "title": "인텔을 떠나며",
+          "link": "https://news.hada.io/topic?id=24879",
+          "pubDate": "2025-12-06T20:33:17.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Brendan Gregg은 인텔에서의 <strong>3년 반 근무를 마치고 퇴사</strong>하고 새로운 기회를 수락했다고 밝혔다</li>\n<li>인텔 재직 중 <strong>AI Flame Graphs</strong>를 개발해 오픈소스로 공개하고, <strong>GPU 히트맵</strong> 및 <strong>Linux 스택 워킹 지원</strong>을 추진함</li>\n<li>\n<strong>e...</p>",
+          "contentSnippet": "Brendan Gregg은 인텔에서의 3년 반 근무를 마치고 퇴사하고 새로운 기회를 수락했다고 밝혔다\n인텔 재직 중 AI Flame Graphs를 개발해 오픈소스로 공개하고, GPU 히트맵 및 Linux 스택 워킹 지원을 추진함\ne...",
+          "id": "https://news.hada.io/topic?id=24879",
+          "isoDate": "2025-12-06T20:33:17.000Z"
+        },
+        {
+          "title": "케냐 법원이 종자 공유 금지법을 위헌으로 판결",
+          "link": "https://news.hada.io/topic?id=24878",
+          "pubDate": "2025-12-06T19:32:28.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>케냐 고등법원이 <strong>토종 종자 공유와 판매를 금지한 법 조항</strong>을 위헌으로 결정, 식량 안보를 위한 중요한 판결로 평가됨</li>\n<li>해당 법은 2012년 제정되어 <strong>종자 공유 시 최대 2년 징역 또는 100만 실링 벌금</strong>을 부과하고, 정부가 종자은행을 단속할 권한을 부여함</li>\n<li>법...</p>",
+          "contentSnippet": "케냐 고등법원이 토종 종자 공유와 판매를 금지한 법 조항을 위헌으로 결정, 식량 안보를 위한 중요한 판결로 평가됨\n해당 법은 2012년 제정되어 종자 공유 시 최대 2년 징역 또는 100만 실링 벌금을 부과하고, 정부가 종자은행을 단속할 권한을 부여함\n법...",
+          "id": "https://news.hada.io/topic?id=24878",
+          "isoDate": "2025-12-06T19:32:28.000Z"
+        },
+        {
+          "title": "사용자를 속이고 경고를 우회하는 현대식 SVG 클릭재킹 공격",
+          "link": "https://news.hada.io/topic?id=24877",
+          "pubDate": "2025-12-06T17:33:05.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>SVG 필터를 이용한 새로운 클릭재킹 기법</strong>이 제시되며, 기존 단순 클릭 유도 공격을 복잡한 상호작용형 공격으로 확장함</li>\n<li>\n<code>feColorMatrix</code>, <code>feDisplacementMap</code> 등 <strong>SVG 필터 요소들이 cross-origin iframe에도 적용 가능</strong>함이 확인되어, 이를...</p>",
+          "contentSnippet": "SVG 필터를 이용한 새로운 클릭재킹 기법이 제시되며, 기존 단순 클릭 유도 공격을 복잡한 상호작용형 공격으로 확장함\nfeColorMatrix, feDisplacementMap 등 SVG 필터 요소들이 cross-origin iframe에도 적용 가능함이 확인되어, 이를...",
+          "id": "https://news.hada.io/topic?id=24877",
+          "isoDate": "2025-12-06T17:33:05.000Z"
+        },
         {
           "title": "UniFi 5G",
           "link": "https://news.hada.io/topic?id=24875",
@@ -1193,36 +1223,6 @@
           "contentSnippet": "유출된 문서에 따르면 Chevron, ExxonMobil, Koch 등 11개 다국적 기업이 ‘Competitiveness Roundtable’이라는 이름으로 EU의 기업 지속가능성 실사 지침(CSDDD) 을 무력화하려 한 것으로 드러남\n이들은 EU 의회·위원회·회원국 정부뿐 아니라 트럼프 행정...",
           "id": "https://news.hada.io/topic?id=24869",
           "isoDate": "2025-12-06T00:52:47.000Z"
-        },
-        {
-          "title": "넷플릭스의 AV1 여정: 안드로이드에서 TV를 넘어 그 이후까지",
-          "link": "https://news.hada.io/topic?id=24868",
-          "pubDate": "2025-12-06T00:49:47.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>AV1 코덱</strong>이 넷플릭스 전체 스트리밍의 약 30%를 담당하며, 더 효율적이고 고품질의 영상 전송을 실현</li>\n<li>2020년 <strong>안드로이드 모바일</strong>에서 소프트웨어 디코더(dav1d) 기반으로 첫 도입 후, 2021년 <strong>스마트 TV</strong>, 2022년 <strong>웹 브라우저</strong>, 20...</p>",
-          "contentSnippet": "AV1 코덱이 넷플릭스 전체 스트리밍의 약 30%를 담당하며, 더 효율적이고 고품질의 영상 전송을 실현\n2020년 안드로이드 모바일에서 소프트웨어 디코더(dav1d) 기반으로 첫 도입 후, 2021년 스마트 TV, 2022년 웹 브라우저, 20...",
-          "id": "https://news.hada.io/topic?id=24868",
-          "isoDate": "2025-12-06T00:49:47.000Z"
-        },
-        {
-          "title": "Cloudflare 2025년 12월 5일 장애",
-          "link": "https://news.hada.io/topic?id=24867",
-          "pubDate": "2025-12-06T00:46:46.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>2025년 12월 5일 08:47 UTC에 <strong>Cloudflare 네트워크 일부가 심각한 장애</strong>를 겪었으며, 약 25분 후인 09:12에 완전히 복구됨</li>\n<li>전체 <strong>HTTP 트래픽의 약 28%</strong> 가 영향을 받았고, 특정 조건을 만족한 고객만 장애를 경험함</li>\n<li>원인은 <strong>React Server Components...</p>",
-          "contentSnippet": "2025년 12월 5일 08:47 UTC에 Cloudflare 네트워크 일부가 심각한 장애를 겪었으며, 약 25분 후인 09:12에 완전히 복구됨\n전체 HTTP 트래픽의 약 28% 가 영향을 받았고, 특정 조건을 만족한 고객만 장애를 경험함\n원인은 React Server Components...",
-          "id": "https://news.hada.io/topic?id=24867",
-          "isoDate": "2025-12-06T00:46:46.000Z"
-        },
-        {
-          "title": "Boring.Notch - Mac 노치를 기능 허브로 바꾸는 macOS 유틸",
-          "link": "https://news.hada.io/topic?id=24865",
-          "pubDate": "2025-12-06T00:31:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>MacBook 상단 노치 공간을 <strong>음악 제어, 시각화, 파일 셸, 시스템 정보</strong> 등 다양한 기능 패널로 확장하는 macOS 유틸리티</li>\n<li>음악 재생·앨범 아트·볼륨 제어·시각화 등 <strong>노치 위젯</strong> 제공</li>\n<li>\n<strong>파일을 노치 영역에 드래그</strong>해 <strong>AirDrop·공유·경�...</p>",
-          "contentSnippet": "MacBook 상단 노치 공간을 음악 제어, 시각화, 파일 셸, 시스템 정보 등 다양한 기능 패널로 확장하는 macOS 유틸리티\n음악 재생·앨범 아트·볼륨 제어·시각화 등 노치 위젯 제공\n파일을 노치 영역에 드래그해 AirDrop·공유·경�...",
-          "id": "https://news.hada.io/topic?id=24865",
-          "isoDate": "2025-12-06T00:31:01.000Z"
         }
       ]
     }
