@@ -7,6 +7,19 @@
       "priority": 1,
       "data": [
         {
+          "creator": "민초맛돈까스",
+          "title": "레고 포트나이트, 레고 닌자고 콜라보",
+          "link": "https://bbs.ruliweb.com/pc/board/1003/read/2338323",
+          "pubDate": "Mon, 08 Dec 2025 04:19:03 +0900",
+          "author": "민초맛돈까스",
+          "content": "<img width=\"236\" height=\"177\" src=\"https://i2.ruliweb.com/thumb/25/12/08/19afa400ea853a69d.png\">",
+          "contentSnippet": "",
+          "categories": [
+            ""
+          ],
+          "isoDate": "2025-12-07T19:19:03.000Z"
+        },
+        {
           "creator": "Trust No.1",
           "title": "종말 서바이벌 MMO FPS [파이오니아] - 조만간 발매 예정",
           "link": "https://bbs.ruliweb.com/pc/board/1003/read/2338322",
@@ -356,19 +369,6 @@
             ""
           ],
           "isoDate": "2025-12-07T00:44:15.000Z"
-        },
-        {
-          "creator": "ComShepard",
-          "title": "리듬 닥터 - 스팀 정식 출시",
-          "link": "https://bbs.ruliweb.com/pc/board/1003/read/2338295",
-          "pubDate": "Sun, 07 Dec 2025 09:41:46 +0900",
-          "author": "ComShepard",
-          "content": "<img width=\"236\" height=\"177\" src=\"https://i1.ruliweb.com/thumb/25/12/07/19af641406415e737.jpg\">",
-          "contentSnippet": "",
-          "categories": [
-            ""
-          ],
-          "isoDate": "2025-12-07T00:41:46.000Z"
         }
       ]
     },
@@ -1125,6 +1125,46 @@
       "priority": 1,
       "data": [
         {
+          "title": "논문을 위한 접근 가능한 형식으로서의 HTML (2023)",
+          "link": "https://news.hada.io/topic?id=24897",
+          "pubDate": "2025-12-07T18:32:51.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>arXiv는 연구 접근성 향상을 위해 <strong>PDF와 함께 HTML 형식의 논문 제공</strong>을 시작함</li>\n<li>200만 편이 넘는 논문 중 일부는 <strong>자동 변환 한계로 HTML 버전이 제공되지 않음</strong>, 변환 품질은 지속 개선 예정</li>\n<li>HTML은 <strong>스크린 리더, 음성 변환, 모바일 기기</strong> ...</p>",
+          "contentSnippet": "arXiv는 연구 접근성 향상을 위해 PDF와 함께 HTML 형식의 논문 제공을 시작함\n200만 편이 넘는 논문 중 일부는 자동 변환 한계로 HTML 버전이 제공되지 않음, 변환 품질은 지속 개선 예정\nHTML은 스크린 리더, 음성 변환, 모바일 기기 ...",
+          "id": "https://news.hada.io/topic?id=24897",
+          "isoDate": "2025-12-07T18:32:51.000Z"
+        },
+        {
+          "title": "유럽에서 20달러인 일반의약품이 미국에서는 처방전이 필요하고 800달러가 되는 이유",
+          "link": "https://news.hada.io/topic?id=24896",
+          "pubDate": "2025-12-07T17:33:23.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Miebo</strong>는 미국에서 한 달치 가격이 800달러 이상인 <strong>Bausch &amp; Lomb의 안구건조증 치료제</strong>로, 유럽에서는 <strong>EvoTears</strong>라는 이름으로 약 20달러에 일반의약품으로 판매됨</li>\n<li>동일한 약물이지만, 미국에서는 <strong>FDA 처방약 승인 절차</strong>를 거...</p>",
+          "contentSnippet": "Miebo는 미국에서 한 달치 가격이 800달러 이상인 Bausch & Lomb의 안구건조증 치료제로, 유럽에서는 EvoTears라는 이름으로 약 20달러에 일반의약품으로 판매됨\n동일한 약물이지만, 미국에서는 FDA 처방약 승인 절차를 거...",
+          "id": "https://news.hada.io/topic?id=24896",
+          "isoDate": "2025-12-07T17:33:23.000Z"
+        },
+        {
+          "title": "Perl의 쇠퇴는 기술적 문제가 아니라 문화적 문제였다",
+          "link": "https://news.hada.io/topic?id=24895",
+          "pubDate": "2025-12-07T16:33:23.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Perl의 쇠퇴 원인은 <strong>기술적 한계가 아니라 보수적이고 폐쇄적인 개발 문화</strong>에 있었다는 분석</li>\n<li>초기 UNIX <strong>시스템 관리자 문화</strong>에서 비롯된 배타적 태도와 ‘전문가 중심’의 자부심이 언어 발전을 가로막음</li>\n<li>Perl 6의 분열은 기술적 실패보다 <strong>커뮤니티...</p>",
+          "contentSnippet": "Perl의 쇠퇴 원인은 기술적 한계가 아니라 보수적이고 폐쇄적인 개발 문화에 있었다는 분석\n초기 UNIX 시스템 관리자 문화에서 비롯된 배타적 태도와 ‘전문가 중심’의 자부심이 언어 발전을 가로막음\nPerl 6의 분열은 기술적 실패보다 커뮤니티...",
+          "id": "https://news.hada.io/topic?id=24895",
+          "isoDate": "2025-12-07T16:33:23.000Z"
+        },
+        {
+          "title": "과거는 그렇게 귀엽지 않았다",
+          "link": "https://news.hada.io/topic?id=24894",
+          "pubDate": "2025-12-07T15:33:36.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>‘코티지코어(cottagecore)’</strong> 유행을 반가워했지만, 그 안에는 과거가 실제로 더 아름다웠다고 믿는 시선이 존재함</li>\n<li>\n<strong>로라 잉걸스 와일더의 『초원의 작은 집』</strong> 은 가족과 근면의 미덕을 그렸지만, 실제로는 장애가 있는 가족을 부양하며 겪은 <strong>가난과 실패...</p>",
+          "contentSnippet": "‘코티지코어(cottagecore)’ 유행을 반가워했지만, 그 안에는 과거가 실제로 더 아름다웠다고 믿는 시선이 존재함\n로라 잉걸스 와일더의 『초원의 작은 집』 은 가족과 근면의 미덕을 그렸지만, 실제로는 장애가 있는 가족을 부양하며 겪은 가난과 실패...",
+          "id": "https://news.hada.io/topic?id=24894",
+          "isoDate": "2025-12-07T15:33:36.000Z"
+        },
+        {
           "title": "내 차량 번호판이 감시되고 있는가 – Flock 데이터베이스에서 조회 여부 확인",
           "link": "https://news.hada.io/topic?id=24893",
           "pubDate": "2025-12-07T14:33:01.000Z",
@@ -1183,46 +1223,6 @@
           "contentSnippet": "하와이의 킬라우에아 화산이 분출하며 인근 지역의 웹캠이 파손되는 장면이 영상으로 촬영됨\n영상에는 용암 분출과 연기 상승 등 화산 활동의 강도가 뚜렷하게 나타남\n웹캠은 분출 현장을 실시간으로 기록하던 중 용암 또는 열 영향으로...",
           "id": "https://news.hada.io/topic?id=24888",
           "isoDate": "2025-12-07T09:33:02.000Z"
-        },
-        {
-          "title": "Tiny Core Linux: 그래픽 데스크톱을 포함한 23MB 리눅스 배포판",
-          "link": "https://news.hada.io/topic?id=24887",
-          "pubDate": "2025-12-07T00:49:47.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Tiny Core Linux</strong>는 모듈형 구조를 기반으로 한 초소형 <strong>그래픽 데스크톱 리눅스 배포판</strong>으로, 최소한의 커널과 루트 파일시스템으로 구성</li>\n<li>기본 시스템인 <strong>Core(11MB)</strong> 위에 Xvesa, FLTK, FLWM 등 확장 패키지를 추가해 <strong>TinyCore(약 16MB)</s...</p>",
-          "contentSnippet": "Tiny Core Linux는 모듈형 구조를 기반으로 한 초소형 그래픽 데스크톱 리눅스 배포판으로, 최소한의 커널과 루트 파일시스템으로 구성\n기본 시스템인 Core(11MB) 위에 Xvesa, FLTK, FLWM 등 확장 패키지를 추가해 TinyCore(약 16MB)",
-          "id": "https://news.hada.io/topic?id=24887",
-          "isoDate": "2025-12-07T00:49:47.000Z"
-        },
-        {
-          "title": "중국산 NanoKVM에서 숨겨진 마이크를 발견한 과정",
-          "link": "https://news.hada.io/topic?id=24886",
-          "pubDate": "2025-12-07T00:46:47.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>중국 <strong>Sipeed</strong>가 개발한 <strong>NanoKVM</strong>은 원격으로 PC나 서버를 제어할 수 있는 초소형 <strong>하드웨어 KVM 스위치</strong>로, 저가와 오픈소스 공개 약속으로 주목을 받았음</li>\n<li>장치는 <strong>HDMI·USB-C·이더넷 포트</strong>를 갖추고 브라우저를 통해 원격 제어가 가능...</p>",
-          "contentSnippet": "중국 Sipeed가 개발한 NanoKVM은 원격으로 PC나 서버를 제어할 수 있는 초소형 하드웨어 KVM 스위치로, 저가와 오픈소스 공개 약속으로 주목을 받았음\n장치는 HDMI·USB-C·이더넷 포트를 갖추고 브라우저를 통해 원격 제어가 가능...",
-          "id": "https://news.hada.io/topic?id=24886",
-          "isoDate": "2025-12-07T00:46:47.000Z"
-        },
-        {
-          "title": "유튜브, 창작자 동의 없이 AI로 영상 수정 및 오해 소지 있는 요약 추가",
-          "link": "https://news.hada.io/topic?id=24885",
-          "pubDate": "2025-12-07T00:43:47.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>유튜브가 일부 인기 채널 영상에 <strong>AI 기반 보정 기술</strong>을 적용하면서 창작자나 시청자에게 알리지 않은 사실이 드러남</li>\n<li>음악 유튜버 <strong>Rick Beato</strong>와 <strong>Rhett Shull</strong>이 자신의 영상에서 피부, 머리카락, 옷 주름 등이 미묘하게 달라진 것을 발견하며 문제 제...</p>",
-          "contentSnippet": "유튜브가 일부 인기 채널 영상에 AI 기반 보정 기술을 적용하면서 창작자나 시청자에게 알리지 않은 사실이 드러남\n음악 유튜버 Rick Beato와 Rhett Shull이 자신의 영상에서 피부, 머리카락, 옷 주름 등이 미묘하게 달라진 것을 발견하며 문제 제...",
-          "id": "https://news.hada.io/topic?id=24885",
-          "isoDate": "2025-12-07T00:43:47.000Z"
-        },
-        {
-          "title": "GrapheneOS는 전체 보안 프리뷰 패치를 제공하는 유일한 안드로이드 OS",
-          "link": "https://news.hada.io/topic?id=24884",
-          "pubDate": "2025-12-07T00:40:47.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>GrapheneOS</strong>는 안드로이드 기반 운영체제 중 유일하게 <strong>전체 보안 프리뷰 패치</strong>를 제공</li>\n<li>2025년 9월부터 <strong>2025년 12월 보안 패치</strong>를 미리 제공해 왔으며, 현재는 <strong>2026년 3월까지의 패치</strong>를 포함</li>\n<li>다른 제조사들은 패치 통합과...</p>",
-          "contentSnippet": "GrapheneOS는 안드로이드 기반 운영체제 중 유일하게 전체 보안 프리뷰 패치를 제공\n2025년 9월부터 2025년 12월 보안 패치를 미리 제공해 왔으며, 현재는 2026년 3월까지의 패치를 포함\n다른 제조사들은 패치 통합과...",
-          "id": "https://news.hada.io/topic?id=24884",
-          "isoDate": "2025-12-07T00:40:47.000Z"
         }
       ]
     }
