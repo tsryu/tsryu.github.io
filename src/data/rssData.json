@@ -7,6 +7,19 @@
       "priority": 1,
       "data": [
         {
+          "creator": "루리웹-347928827373",
+          "title": "에픽게임즈 연말까지 무료증정 게임 유출",
+          "link": "https://bbs.ruliweb.com/pc/board/1003/read/2338777",
+          "pubDate": "Sun, 14 Dec 2025 05:21:53 +0900",
+          "author": "루리웹-347928827373",
+          "content": "<img width=\"236\" height=\"177\" src=\"https://i1.ruliweb.com/thumb/25/12/14/19b196017bd53d19c.png\">",
+          "contentSnippet": "",
+          "categories": [
+            ""
+          ],
+          "isoDate": "2025-12-13T20:21:53.000Z"
+        },
+        {
           "creator": "모르스",
           "title": "알파 테스트부터 다르네, 배틀그라운드 차기작 PUBG: 블랙 버짓",
           "link": "https://bbs.ruliweb.com/pc/board/1003/read/2338776",
@@ -194,7 +207,7 @@
           "link": "https://bbs.ruliweb.com/pc/board/1003/read/2338762",
           "pubDate": "Sat, 13 Dec 2025 17:12:20 +0900",
           "author": "빡통이",
-          "content": "<img width=\"236\" height=\"177\" src=\"https://i3.ruliweb.com/thumb/25/12/13/19b16e95525583866.png\">",
+          "content": "<img width=\"236\" height=\"177\" src=\"https://i3.ruliweb.com/thumb/25/12/14/19b18532430583866.jpg\">",
           "contentSnippet": "",
           "categories": [
             ""
@@ -356,19 +369,6 @@
             ""
           ],
           "isoDate": "2025-12-13T03:28:51.000Z"
-        },
-        {
-          "creator": "Naeri",
-          "title": "디아블로4 증오의 군주 예약 구매 시 와우 하우징 아이템",
-          "link": "https://bbs.ruliweb.com/pc/board/1003/read/2338749",
-          "pubDate": "Sat, 13 Dec 2025 12:28:48 +0900",
-          "author": "Naeri",
-          "content": "<img width=\"236\" height=\"177\" src=\"https://i1.ruliweb.com/thumb/25/12/12/19b115836d347f450.jpg\">",
-          "contentSnippet": "",
-          "categories": [
-            ""
-          ],
-          "isoDate": "2025-12-13T03:28:48.000Z"
         }
       ]
     },
@@ -1125,6 +1125,76 @@
       "priority": 1,
       "data": [
         {
+          "title": "포탈은 중력을 휘어야 한다.",
+          "link": "https://news.hada.io/topic?id=25052",
+          "pubDate": "2025-12-13T19:47:39.000Z",
+          "author": "dongho42",
+          "content": "<ul>\n<li>\n<p>순진한(naive) 중력 모델의 문제점</p>\n<ul>\n<li>포털이 있어도 중력은 항상 “아래로”만 향한다고 가정함 (0:23).</li>\n<li>에너지 보존 법칙을 위반해서 영구기관(무한히 에너지 뽑기)이 가능해짐 (0:47).</li>\n<li>“포털 동작은 표면 모양에 의존하지 않는다”는 포털 공리를 깨뜨림 (3:13).</li>\n</u",
+          "contentSnippet": "순진한(naive) 중력 모델의 문제점\n포털이 있어도 중력은 항상 “아래로”만 향한다고 가정함 (0:23).\n에너지 보존 법칙을 위반해서 영구기관(무한히 에너지 뽑기)이 가능해짐 (0:47).\n“포털 동작은 표면 모양에 의존하지 않는다”는 포털 공리를 깨뜨림 (3:13).\n</u",
+          "id": "https://news.hada.io/topic?id=25052",
+          "isoDate": "2025-12-13T19:47:39.000Z"
+        },
+        {
+          "title": "GNU Unifont",
+          "link": "https://news.hada.io/topic?id=25051",
+          "pubDate": "2025-12-13T19:41:42.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>전 세계 유니코드 문자에 대한 <strong>글리프(문자 도형)</strong> 를 포함한 자유 폰트로, <strong>GNU 프로젝트</strong>의 일부로 유지되는 공개 폰트임</li>\n<li>\n<strong>BMP(기본 다국어 평면)</strong> 전체 65,536 코드포인트를 지원하며, <strong>SMP(보조 다국어 평면)</strong> 및 <strong>CSUR(Co...</p>",
+          "contentSnippet": "전 세계 유니코드 문자에 대한 글리프(문자 도형) 를 포함한 자유 폰트로, GNU 프로젝트의 일부로 유지되는 공개 폰트임\nBMP(기본 다국어 평면) 전체 65,536 코드포인트를 지원하며, SMP(보조 다국어 평면) 및 CSUR(Co...",
+          "id": "https://news.hada.io/topic?id=25051",
+          "isoDate": "2025-12-13T19:41:42.000Z"
+        },
+        {
+          "title": "코랄름 철도",
+          "link": "https://news.hada.io/topic?id=25050",
+          "pubDate": "2025-12-13T19:38:42.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>오스트리아의 <strong>슈타이어마르크주와 케른텐주를 연결하는 고속 철도 노선</strong>으로, 남부 노선(Southern Line)의 핵심 구간이자 유럽 주요 인프라 프로젝트 중 하나</li>\n<li>\n<strong>그라츠와 클라겐푸르트 간 이동 시간</strong>을 기존 약 3시간에서 <strong>45분으로 단축</strong>하며, 코랄페...</p>",
+          "contentSnippet": "오스트리아의 슈타이어마르크주와 케른텐주를 연결하는 고속 철도 노선으로, 남부 노선(Southern Line)의 핵심 구간이자 유럽 주요 인프라 프로젝트 중 하나\n그라츠와 클라겐푸르트 간 이동 시간을 기존 약 3시간에서 45분으로 단축하며, 코랄페...",
+          "id": "https://news.hada.io/topic?id=25050",
+          "isoDate": "2025-12-13T19:38:42.000Z"
+        },
+        {
+          "title": "Id Software 개발자들이 ‘벽에서 벽까지(wall-to-wall)’ 노조를 결성",
+          "link": "https://news.hada.io/topic?id=25049",
+          "pubDate": "2025-12-13T19:35:42.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Doom</strong>과 <strong>Quake</strong>을 개발한 id Software의 165명 직원이 <strong>미국 통신노동자협회(CWA)</strong> 산하로 노조 결성을 승인함</li>\n<li>이번 노조는 <strong>개발자, 아티스트, 프로그래머 등 전 직군</strong>을 포함하는 ‘wall-to-wall’ 형태로, 2023년 결성된 <strong>...</p>",
+          "contentSnippet": "Doom과 Quake을 개발한 id Software의 165명 직원이 미국 통신노동자협회(CWA) 산하로 노조 결성을 승인함\n이번 노조는 개발자, 아티스트, 프로그래머 등 전 직군을 포함하는 ‘wall-to-wall’ 형태로, 2023년 결성된 ...",
+          "id": "https://news.hada.io/topic?id=25049",
+          "isoDate": "2025-12-13T19:35:42.000Z"
+        },
+        {
+          "title": "Tor 프로젝트가 Rust로 전환 중",
+          "link": "https://news.hada.io/topic?id=25048",
+          "pubDate": "2025-12-13T16:33:21.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Tor 네트워크의 핵심 코드</strong>가 기존 C 언어에서 <strong>Rust 기반의 Arti</strong>로 전환되고 있음</li>\n<li>기존 C 코드에는 <strong>버퍼 오버플로우, use-after-free, 메모리 손상</strong> 등 취약점이 존재</li>\n<li>새 버전 <strong>Arti 1.8.0</strong>은 <strong>회로 타임아웃 재설...</p>",
+          "contentSnippet": "Tor 네트워크의 핵심 코드가 기존 C 언어에서 Rust 기반의 Arti로 전환되고 있음\n기존 C 코드에는 버퍼 오버플로우, use-after-free, 메모리 손상 등 취약점이 존재\n새 버전 Arti 1.8.0은 회로 타임아웃 재설...",
+          "id": "https://news.hada.io/topic?id=25048",
+          "isoDate": "2025-12-13T16:33:21.000Z"
+        },
+        {
+          "title": "Show GN: agentjson - Rust로 만든, LLM의 '깨진 JSON' 을 알아서 고쳐주는 JSON 파서",
+          "link": "https://news.hada.io/topic?id=25047",
+          "pubDate": "2025-12-13T15:37:32.000Z",
+          "author": "sigridjineth",
+          "content": "<p>LLM을 활용해서 서비스를 만들다 보면 결과물을 JSON 형식으로 받아야 할 때가 많은데, 이게 항상 깔끔하게 오질 않더라고요. 보통 마크다운 코드 블록(json ... )으로 감싸져서 오거나, 가끔은 문법이 살짝 깨진 채로 와서 파싱 에러가 나기도 하고요.</p>\n<p>매번 이걸 정규식으로 발라내거나 예외 처리 코드 넣기가",
+          "contentSnippet": "LLM을 활용해서 서비스를 만들다 보면 결과물을 JSON 형식으로 받아야 할 때가 많은데, 이게 항상 깔끔하게 오질 않더라고요. 보통 마크다운 코드 블록(json ... )으로 감싸져서 오거나, 가끔은 문법이 살짝 깨진 채로 와서 파싱 에러가 나기도 하고요.\n매번 이걸 정규식으로 발라내거나 예외 처리 코드 넣기가",
+          "id": "https://news.hada.io/topic?id=25047",
+          "isoDate": "2025-12-13T15:37:32.000Z"
+        },
+        {
+          "title": "쥐가 DOOM을 플레이하다",
+          "link": "https://news.hada.io/topic?id=25046",
+          "pubDate": "2025-12-13T15:33:17.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>쥐를 위한 완전한 VR 시스템</strong>을 제작해, 실제 쥐가 고전 게임 DOOM을 조작하고 탐험할 수 있도록 구현</li>\n<li>시스템은 <strong>모션 트래킹 볼</strong>, <strong>파노라마형 헤드셋</strong>, <strong>입력 트리거</strong>, <strong>보상 회로</strong>로 구성되며, 모든 하드웨어와 소프...</p>",
+          "contentSnippet": "쥐를 위한 완전한 VR 시스템을 제작해, 실제 쥐가 고전 게임 DOOM을 조작하고 탐험할 수 있도록 구현\n시스템은 모션 트래킹 볼, 파노라마형 헤드셋, 입력 트리거, 보상 회로로 구성되며, 모든 하드웨어와 소프...",
+          "id": "https://news.hada.io/topic?id=25046",
+          "isoDate": "2025-12-13T15:33:17.000Z"
+        },
+        {
           "title": "스마트 TV에 질렸다면? 광고와 추적에서 벗어나는 최선의 선택지",
           "link": "https://news.hada.io/topic?id=25045",
           "pubDate": "2025-12-13T12:33:02.000Z",
@@ -1153,76 +1223,6 @@
           "contentSnippet": "DDR5 메모리 모듈 비용 급등으로 Framework Laptop DIY Edition의 메모리 가격이 50% 인상됨. 하지만 시장 가격 대비 여전히 낮은 수준\nAI 데이터센터 확장으로 인한 수요 폭증이 전체 메모리 시장 가격 상승을 견인하며, 공급 지연과 고성능 서버용 메모리 우선 ...",
           "id": "https://news.hada.io/topic?id=25043",
           "isoDate": "2025-12-13T07:09:53.000Z"
-        },
-        {
-          "title": "macOS 26.2 부터 Thunderbolt를 통한 RDMA로 빠른 AI 클러스터 구성이 가능해짐",
-          "link": "https://news.hada.io/topic?id=25042",
-          "pubDate": "2025-12-13T06:32:50.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>macOS <strong>Tahoe 26.2</strong>에 <strong>Thunderbolt 5 기반 RDMA</strong> 기능이 새로 추가되어, MLX를 활용한 <strong>분산 AI 추론</strong> 등 저지연 통신이 가능해짐</li>\n<li>이는 <strong>“Mac을 고속 분산 컴퓨팅 노드로 취급할 수 있게 만드는 것”</strong> 으로, macOS가 단순한 데스크톱 ...</p>",
-          "contentSnippet": "macOS Tahoe 26.2에 Thunderbolt 5 기반 RDMA 기능이 새로 추가되어, MLX를 활용한 분산 AI 추론 등 저지연 통신이 가능해짐\n이는 “Mac을 고속 분산 컴퓨팅 노드로 취급할 수 있게 만드는 것” 으로, macOS가 단순한 데스크톱 ...",
-          "id": "https://news.hada.io/topic?id=25042",
-          "isoDate": "2025-12-13T06:32:50.000Z"
-        },
-        {
-          "title": "SQLite JSON을 전체 인덱스 속도로 활용하는 방법: 생성된 컬럼을 이용한 고속 쿼리",
-          "link": "https://news.hada.io/topic?id=25041",
-          "pubDate": "2025-12-13T04:33:00.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>SQLite의 JSON 기능</strong>을 활용해 원본 JSON 문서를 그대로 저장하고, 필요한 필드를 <strong>가상 생성 컬럼(virtual generated columns)</strong> 으로 추출해 인덱싱하는 방식 소개</li>\n<li>\n<code>json_extract</code> 함수를 이용해 JSON 내부 데이터를 컬럼처럼 다루며, <strong>B-tree 인...</p>",
-          "contentSnippet": "SQLite의 JSON 기능을 활용해 원본 JSON 문서를 그대로 저장하고, 필요한 필드를 가상 생성 컬럼(virtual generated columns) 으로 추출해 인덱싱하는 방식 소개\njson_extract 함수를 이용해 JSON 내부 데이터를 컬럼처럼 다루며, B-tree 인...",
-          "id": "https://news.hada.io/topic?id=25041",
-          "isoDate": "2025-12-13T04:33:00.000Z"
-        },
-        {
-          "title": "에픽, iOS 결제 소송 항소심 승소 후 “애플세의 종말” 선언",
-          "link": "https://news.hada.io/topic?id=25040",
-          "pubDate": "2025-12-13T00:41:38.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>미국 제9순회항소법원이 <strong>애플의 항소를 대부분 기각</strong>하며, iOS 앱스토어 결제 제한에 대한 법원의 <strong>‘의도적 위반’ 판결</strong>을 유지</li>\n<li>항소심은 애플이 외부 결제 사용 개발자에게 부과한 <strong>27% 수수료가 금지명령 위반</strong>이라 판단하고, 외부 결제 링크 디자...</p>",
-          "contentSnippet": "미국 제9순회항소법원이 애플의 항소를 대부분 기각하며, iOS 앱스토어 결제 제한에 대한 법원의 ‘의도적 위반’ 판결을 유지\n항소심은 애플이 외부 결제 사용 개발자에게 부과한 27% 수수료가 금지명령 위반이라 판단하고, 외부 결제 링크 디자...",
-          "id": "https://news.hada.io/topic?id=25040",
-          "isoDate": "2025-12-13T00:41:38.000Z"
-        },
-        {
-          "title": "Google이 Bear Blog 전체를 검색 색인에서 제거했지만 이유를 알 수 없음",
-          "link": "https://news.hada.io/topic?id=25039",
-          "pubDate": "2025-12-13T00:38:38.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>개인 블로그 <strong>blog.james-zhan.com</strong>이 개설 한 달 만에 <strong>Google 검색 색인에서 완전히 제외</strong>됨</li>\n<li>Google Search Console(GSC)에서 RSS 피드 URL을 잘못 검증한 직후, <strong>모든 게시물이 “Crawled – currently not indexed” 상태</strong>로 표시됨</li>\n<li>도메인...</p>",
-          "contentSnippet": "개인 블로그 blog.james-zhan.com이 개설 한 달 만에 Google 검색 색인에서 완전히 제외됨\nGoogle Search Console(GSC)에서 RSS 피드 URL을 잘못 검증한 직후, 모든 게시물이 “Crawled – currently not indexed” 상태로 표시됨\n도메인...",
-          "id": "https://news.hada.io/topic?id=25039",
-          "isoDate": "2025-12-13T00:38:38.000Z"
-        },
-        {
-          "title": "Nokia N900 되살리기",
-          "link": "https://news.hada.io/topic?id=25038",
-          "pubDate": "2025-12-13T00:35:37.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Nokia N900</strong>의 노후 배터리를 대체하고 <strong>USB-C 포트</strong>를 추가해 리눅스 스마트폰을 다시 작동시키는 복원 프로젝트</li>\n<li>기존 <strong>BL-5J 배터리</strong> 대신 <strong>슈퍼커패시터</strong>를 이용해 전원을 공급하고, 이를 배터리 슬롯에 맞게 3D 프린팅으로 제작...</p>",
-          "contentSnippet": "Nokia N900의 노후 배터리를 대체하고 USB-C 포트를 추가해 리눅스 스마트폰을 다시 작동시키는 복원 프로젝트\n기존 BL-5J 배터리 대신 슈퍼커패시터를 이용해 전원을 공급하고, 이를 배터리 슬롯에 맞게 3D 프린팅으로 제작...",
-          "id": "https://news.hada.io/topic?id=25038",
-          "isoDate": "2025-12-13T00:35:37.000Z"
-        },
-        {
-          "title": "Rad - Bash의 복잡함을 줄이고 Python처럼 읽기 쉬운 CLI 스크립팅 언어",
-          "link": "https://news.hada.io/topic?id=25037",
-          "pubDate": "2025-12-13T00:31:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>CLI 자동화와 유지보수성 향상</strong>을 위해 설계된 <strong>Python 유사 문법의 스크립팅 언어</strong>\n</li>\n<li>\n<strong>명령행 중심 설계</strong>: 인자 정의, 검증, <code>--help</code> 생성이 언어 수준에서 통합</li>\n<li>선언적 인자 구문을 통해 타입 검사, 유효성 검증, 기본값 설정...</p>",
-          "contentSnippet": "CLI 자동화와 유지보수성 향상을 위해 설계된 Python 유사 문법의 스크립팅 언어\n\n\n명령행 중심 설계: 인자 정의, 검증, --help 생성이 언어 수준에서 통합\n선언적 인자 구문을 통해 타입 검사, 유효성 검증, 기본값 설정...",
-          "id": "https://news.hada.io/topic?id=25037",
-          "isoDate": "2025-12-13T00:31:01.000Z"
-        },
-        {
-          "title": "openai 의 skills 도입 ",
-          "link": "https://news.hada.io/topic?id=25036",
-          "pubDate": "2025-12-12T23:59:57.000Z",
-          "author": "darjeeling",
-          "content": "<h2>OpenAI의 'Skills' 조용한 도입과 흥미로운 발견들</h2>\n<h3>&quot;해킹&quot;으로 찾아낸 숨겨진 기능</h3>\n<ul>\n<li>\n<strong>어떻게 발견했나?</strong>: 공식 발표가 아니라, Elias Judin이라는 유저가 ChatGPT의 코드 인터프리터 내부를 탐색하다가 <code>/home/oai/skills</code>라는 폴더를 발견했습니다.</l...</p>",
-          "contentSnippet": "OpenAI의 'Skills' 조용한 도입과 흥미로운 발견들\n\"해킹\"으로 찾아낸 숨겨진 기능\n어떻게 발견했나?: 공식 발표가 아니라, Elias Judin이라는 유저가 ChatGPT의 코드 인터프리터 내부를 탐색하다가 /home/oai/skills라는 폴더를 발견했습니다.",
-          "id": "https://news.hada.io/topic?id=25036",
-          "isoDate": "2025-12-12T23:59:57.000Z"
         }
       ]
     }
