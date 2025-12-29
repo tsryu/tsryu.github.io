@@ -7,6 +7,19 @@
       "priority": 1,
       "data": [
         {
+          "creator": "DZshk",
+          "title": "CD 프로젝트, GOG 매각",
+          "link": "https://bbs.ruliweb.com/pc/board/1003/read/2339472",
+          "pubDate": "Tue, 30 Dec 2025 04:14:23 +0900",
+          "author": "DZshk",
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            ""
+          ],
+          "isoDate": "2025-12-29T19:14:23.000Z"
+        },
+        {
           "creator": "Ruka151",
           "title": "[EZ2ON] REBOOT : R - # 패치 노트 - 12/29",
           "link": "https://bbs.ruliweb.com/pc/board/1003/read/2339471",
@@ -356,19 +369,6 @@
             ""
           ],
           "isoDate": "2025-12-29T00:37:36.000Z"
-        },
-        {
-          "creator": "Trust No.1",
-          "title": "헬하트 브레이커 - 공식 트레일러",
-          "link": "https://bbs.ruliweb.com/pc/board/1003/read/2339442",
-          "pubDate": "Mon, 29 Dec 2025 09:32:02 +0900",
-          "author": "Trust No.1",
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            ""
-          ],
-          "isoDate": "2025-12-29T00:32:02.000Z"
         }
       ]
     },
@@ -1125,6 +1125,56 @@
       "priority": 1,
       "data": [
         {
+          "title": "Unity의 Mono 문제: 왜 당신의 C# 코드는 기대보다 느리게 실행되는가",
+          "link": "https://news.hada.io/topic?id=25421",
+          "pubDate": "2025-12-29T19:33:14.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Unity가 사용하는 <strong>Mono 런타임</strong>은 최신 .NET 대비 현저히 느린 실행 속도를 보이며, 동일한 C# 코드가 <strong>최대 15배까지</strong> 차이 나는 사례가 있음</li>\n<li>실제 게임 코드에서 <strong>Mono 기반 Unity 실행은 100초</strong>, 동일 코드의 .NET 실행은 <strong>38초</strong>로 ...</p>",
+          "contentSnippet": "Unity가 사용하는 Mono 런타임은 최신 .NET 대비 현저히 느린 실행 속도를 보이며, 동일한 C# 코드가 최대 15배까지 차이 나는 사례가 있음\n실제 게임 코드에서 Mono 기반 Unity 실행은 100초, 동일 코드의 .NET 실행은 38초로 ...",
+          "id": "https://news.hada.io/topic?id=25421",
+          "isoDate": "2025-12-29T19:33:14.000Z"
+        },
+        {
+          "title": "소프트웨어 엔지니어는 약간의 냉소주의를 가져야 한다",
+          "link": "https://news.hada.io/topic?id=25420",
+          "pubDate": "2025-12-29T18:42:08.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>대형 기술 기업에서 일하는 <strong>소프트웨어 엔지니어의 현실적 태도</strong>를 다루며, 조직 내에서 효과적으로 일하기 위해서는 약간의 <strong>냉소주의</strong>가 필요함을 강조</li>\n<li>이상주의적 관점은 기업과 동료를 지나치게 부정적으로 보는 <strong>더 깊은 냉소주의</strong>로 이어질 수 있...</p>",
+          "contentSnippet": "대형 기술 기업에서 일하는 소프트웨어 엔지니어의 현실적 태도를 다루며, 조직 내에서 효과적으로 일하기 위해서는 약간의 냉소주의가 필요함을 강조\n이상주의적 관점은 기업과 동료를 지나치게 부정적으로 보는 더 깊은 냉소주의로 이어질 수 있...",
+          "id": "https://news.hada.io/topic?id=25420",
+          "isoDate": "2025-12-29T18:42:08.000Z"
+        },
+        {
+          "title": "Mockito 유지관리자가 10년 만에 자리에서 물러남",
+          "link": "https://news.hada.io/topic?id=25419",
+          "pubDate": "2025-12-29T18:39:08.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Java에서 가장 널리 사용되는 <strong>모킹 프레임워크 Mockito</strong>가 현재 5.x 버전으로 유지되고 있음</li>\n<li>최신 버전은 <strong>기본 mockmaker를 mockito-inline으로 전환</strong>하고, <strong>Java 11 이상</strong>을 요구함</li>\n<li>프로젝트는 <strong>Tidelift 구독 서비스</strong>를 통...</p>",
+          "contentSnippet": "Java에서 가장 널리 사용되는 모킹 프레임워크 Mockito가 현재 5.x 버전으로 유지되고 있음\n최신 버전은 기본 mockmaker를 mockito-inline으로 전환하고, Java 11 이상을 요구함\n프로젝트는 Tidelift 구독 서비스를 통...",
+          "id": "https://news.hada.io/topic?id=25419",
+          "isoDate": "2025-12-29T18:39:08.000Z"
+        },
+        {
+          "title": "AI가 메모리 칩을 대량 소비하면서 기기 가격 상승 가능성",
+          "link": "https://news.hada.io/topic?id=25418",
+          "pubDate": "2025-12-29T18:36:08.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>AI 데이터센터의 폭발적 성장</strong>으로 인해 <strong>RAM(랜덤 액세스 메모리)</strong> 수요가 공급을 초과하며 전 세계적인 메모리 부족 현상 발생</li>\n<li>\n<strong>DRAM 가격이 분기 대비 50% 상승</strong>, 다음 분기에도 <strong>40% 추가 상승</strong>이 예상되며, 2026년까지 가격 하락...</p>",
+          "contentSnippet": "AI 데이터센터의 폭발적 성장으로 인해 RAM(랜덤 액세스 메모리) 수요가 공급을 초과하며 전 세계적인 메모리 부족 현상 발생\nDRAM 가격이 분기 대비 50% 상승, 다음 분기에도 40% 추가 상승이 예상되며, 2026년까지 가격 하락...",
+          "id": "https://news.hada.io/topic?id=25418",
+          "isoDate": "2025-12-29T18:36:08.000Z"
+        },
+        {
+          "title": "4,800개의 GitHub 스타가 신뢰를 무너뜨린 이유",
+          "link": "https://news.hada.io/topic?id=25417",
+          "pubDate": "2025-12-29T18:17:16.000Z",
+          "author": "flamehaven01",
+          "content": "<h3>📌 핵심 요지 (TL;DR)</h3>\n<ul>\n<li>중국계 GitHub 리포지토리에서 코드·릴리즈·활동 변화 없이 Star가 4,000 → 4,800으로 급증한 사례 확인</li>\n<li>이를 계기로 “GitHub Star = 인기/품질”이라는 전제 자체에 문제 제기</li>\n<li>결론: GitHub Star 수는 프로젝트 품질이나 신뢰도를 판단하는 지표로 부적합...</p>",
+          "contentSnippet": "📌 핵심 요지 (TL;DR)\n중국계 GitHub 리포지토리에서 코드·릴리즈·활동 변화 없이 Star가 4,000 → 4,800으로 급증한 사례 확인\n이를 계기로 “GitHub Star = 인기/품질”이라는 전제 자체에 문제 제기\n결론: GitHub Star 수는 프로젝트 품질이나 신뢰도를 판단하는 지표로 부적합...",
+          "id": "https://news.hada.io/topic?id=25417",
+          "isoDate": "2025-12-29T18:17:16.000Z"
+        },
+        {
           "title": "Mac이 열로 인해 성능 저하(thermal throttling) 상태인지 알려주는 macOS 앱 개발기",
           "link": "https://news.hada.io/topic?id=25416",
           "pubDate": "2025-12-29T14:33:24.000Z",
@@ -1173,56 +1223,6 @@
           "contentSnippet": "오늘 새벽 감성으로 밤새서 만들어봤습니다.\n2026년 소망을 작성하면, 그걸 이루기 위한 실행계획을 부적처럼 만들어주는 서비스입니다 :)\n2026년을 시작하기 앞서 많은 사람들이 '올해는 꼭 다이어트 성공해야지' 같은 생각을 하지만,\n사실 그게 실행되는 일이 없던 부분에서 착안하여...\n...",
           "id": "https://news.hada.io/topic?id=25412",
           "isoDate": "2025-12-29T02:51:07.000Z"
-        },
-        {
-          "title": "타다 리스트를 1년 동안 유지하며 느낀 점 (One year of keeping a tada list)",
-          "link": "https://news.hada.io/topic?id=25410",
-          "pubDate": "2025-12-29T01:49:26.000Z",
-          "author": "davespark",
-          "content": "<p><strong>타다 리스트(Tada List)란?</strong></p>\n<ul>\n<li>투두 리스트(To-do List)의 반대 개념</li>\n<li>매일 완료한 일(To-done)을 기록하며 &quot;타다!&quot;처럼 성취를 축하하는 도구</li>\n</ul>\n<p><strong>실행 방법</strong></p>\n<ul>\n<li>개인 노트에 매달 전용 페이지 생성</li>\n<li>매일 그날 이룬 성과",
-          "contentSnippet": "타다 리스트(Tada List)란?\n투두 리스트(To-do List)의 반대 개념\n매일 완료한 일(To-done)을 기록하며 \"타다!\"처럼 성취를 축하하는 도구\n실행 방법\n개인 노트에 매달 전용 페이지 생성\n매일 그날 이룬 성과",
-          "id": "https://news.hada.io/topic?id=25410",
-          "isoDate": "2025-12-29T01:49:26.000Z"
-        },
-        {
-          "title": "창업자가 집중해야 할 '회사를 만드는 초석'들",
-          "link": "https://news.hada.io/topic?id=25409",
-          "pubDate": "2025-12-29T01:46:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>창업 초기부터 성장 단계까지 반복적으로 마주치는 <strong>공동창업자 선택, 역할 설계, 팀 구성, 피드백 수집, 문화 구축</strong>의 중요성에 대한 정리</li>\n<li>공동창업자 관계는 개인적 관계처럼 <strong>충분한 시간을 들여 검증</strong>해야 하며, 비슷한 사람이 아닌 <strong>상호보완적 스킬셋</st...</p>",
-          "contentSnippet": "창업 초기부터 성장 단계까지 반복적으로 마주치는 공동창업자 선택, 역할 설계, 팀 구성, 피드백 수집, 문화 구축의 중요성에 대한 정리\n공동창업자 관계는 개인적 관계처럼 충분한 시간을 들여 검증해야 하며, 비슷한 사람이 아닌 상호보완적 스킬셋",
-          "id": "https://news.hada.io/topic?id=25409",
-          "isoDate": "2025-12-29T01:46:02.000Z"
-        },
-        {
-          "title": "처리되지 않은 사진이 실제로 어떻게 보이는가",
-          "link": "https://news.hada.io/topic?id=25408",
-          "pubDate": "2025-12-29T01:32:36.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>디지털 카메라의 <strong>RAW 센서 데이터</strong>가 어떤 형태로 기록되는지를 단계별로 보여주는 실험</li>\n<li>초기 데이터는 <strong>14비트 ADC 출력</strong>을 0–255 RGB로 단순 매핑한 회색조 형태로, 실제 밝기 범위가 제한됨</li>\n<li>\n<strong>Bayer 필터</strong>를 적용해 각 픽셀의 색 필터 정...</p>",
-          "contentSnippet": "디지털 카메라의 RAW 센서 데이터가 어떤 형태로 기록되는지를 단계별로 보여주는 실험\n초기 데이터는 14비트 ADC 출력을 0–255 RGB로 단순 매핑한 회색조 형태로, 실제 밝기 범위가 제한됨\nBayer 필터를 적용해 각 픽셀의 색 필터 정...",
-          "id": "https://news.hada.io/topic?id=25408",
-          "isoDate": "2025-12-29T01:32:36.000Z"
-        },
-        {
-          "title": "AI를 비용 낭비 없이 운영하기 위한 실전 통합 모범 사례",
-          "link": "https://news.hada.io/topic?id=25407",
-          "pubDate": "2025-12-29T01:31:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>LLM과 AI 플랫폼을 <strong>프로덕션 환경</strong>에서 안정적으로 운영하기 위해, 변화에 대응하는 <strong>구조 중심 설계 방식</strong>이 필요함</li>\n<li>모델과 API 변경에 대비해 <strong>모든 AI 호출을 서비스로 분리</strong>하고, <strong>2중 실행 기반 마이그레이션 패턴</strong>을 적용함</li>...</p>",
-          "contentSnippet": "LLM과 AI 플랫폼을 프로덕션 환경에서 안정적으로 운영하기 위해, 변화에 대응하는 구조 중심 설계 방식이 필요함\n모델과 API 변경에 대비해 모든 AI 호출을 서비스로 분리하고, 2중 실행 기반 마이그레이션 패턴을 적용함\n...",
-          "id": "https://news.hada.io/topic?id=25407",
-          "isoDate": "2025-12-29T01:31:01.000Z"
-        },
-        {
-          "title": "작업을 공개하면 행운이 따른다",
-          "link": "https://news.hada.io/topic?id=25406",
-          "pubDate": "2025-12-29T01:16:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>행운은 통제 불가능한 외부 요인</strong>처럼 보이지만, <strong>작업물을 공개</strong>함으로써 좋은 기회를 만날 확률을 높일 수 있음</li>\n<li>\n<strong>행운의 표면적(Luck Surface Area)</strong> 은 “무언가를 하고(Doing Things)”와 “사람들에게 알리는(Telling People)” 정도의 곱으로 ...</p>",
-          "contentSnippet": "행운은 통제 불가능한 외부 요인처럼 보이지만, 작업물을 공개함으로써 좋은 기회를 만날 확률을 높일 수 있음\n행운의 표면적(Luck Surface Area) 은 “무언가를 하고(Doing Things)”와 “사람들에게 알리는(Telling People)” 정도의 곱으로 ...",
-          "id": "https://news.hada.io/topic?id=25406",
-          "isoDate": "2025-12-29T01:16:02.000Z"
         }
       ]
     }
