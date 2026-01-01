@@ -7,14 +7,34 @@
       "priority": 1,
       "data": [
         {
-          "title": "Show GN: Show HN: Web Push 기반 브라우저 간 파일 전송 시스템",
-          "link": "https://news.hada.io/topic?id=25491",
-          "pubDate": "2026-01-01T13:51:31.000Z",
-          "author": "letaem77a",
-          "content": "Show GN: Show HN: Web Push 기반 브라우저 간 파일 전송 시스템",
-          "contentSnippet": "Show GN: Show HN: Web Push 기반 브라우저 간 파일 전송 시스템",
-          "id": "https://news.hada.io/topic?id=25491",
-          "isoDate": "2026-01-01T13:51:31.000Z"
+          "title": "산업형 소프트웨어의 부상",
+          "link": "https://news.hada.io/topic?id=25494",
+          "pubDate": "2026-01-01T18:37:06.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>AI 코딩의 확산</strong>으로 소프트웨어 생산이 숙련 인력 중심의 수공예적 형태에서 <strong>자동화된 산업 생산 체계</strong>로 전환 중임</li>\n<li>생산비 절감과 대량 생산이 가능해지면서 <strong>‘일회용 소프트웨어’</strong> 라 불리는 저가·저품질 코드가 급증하는 현상 발생</li>\n<li>\n...</p>",
+          "contentSnippet": "AI 코딩의 확산으로 소프트웨어 생산이 숙련 인력 중심의 수공예적 형태에서 자동화된 산업 생산 체계로 전환 중임\n생산비 절감과 대량 생산이 가능해지면서 ‘일회용 소프트웨어’ 라 불리는 저가·저품질 코드가 급증하는 현상 발생\n\n...",
+          "id": "https://news.hada.io/topic?id=25494",
+          "isoDate": "2026-01-01T18:37:06.000Z"
+        },
+        {
+          "title": "메타, 사기 단속 압박을 피하기 위한 ‘플레이북’ 작성",
+          "link": "https://news.hada.io/topic?id=25493",
+          "pubDate": "2026-01-01T18:34:06.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>내부 문서에 따르면 <strong>Meta</strong>가 자사 플랫폼의 <strong>사기 행위 단속 요구를 완화하기 위한 전략 문서(‘플레이북’)</strong> 를 마련함</li>\n<li>이 문서는 정부와 규제 당국의 <strong>압박에 대응하는 내부 지침</strong>으로 사용된 것으로 나타남</li>\n<li>내용에는 <strong>비판을 최소화...</p>",
+          "contentSnippet": "내부 문서에 따르면 Meta가 자사 플랫폼의 사기 행위 단속 요구를 완화하기 위한 전략 문서(‘플레이북’) 를 마련함\n이 문서는 정부와 규제 당국의 압박에 대응하는 내부 지침으로 사용된 것으로 나타남\n내용에는 비판을 최소화...",
+          "id": "https://news.hada.io/topic?id=25493",
+          "isoDate": "2026-01-01T18:34:06.000Z"
+        },
+        {
+          "title": "웹 브라우저가 팝업 차단을 멈췄다",
+          "link": "https://news.hada.io/topic?id=25492",
+          "pubDate": "2026-01-01T14:33:05.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>2000년대 초반 웹 브라우저는 <strong>팝업 광고 남용</strong>으로 인해 사용자 불만이 커지자 기본 <strong>팝업 차단 기능</strong>을 도입함</li>\n<li>당시 <strong>Firefox 1.0(2004)</strong> 과 <strong>Internet Explorer</strong>의 기본 차단 기능은 큰 호응을 얻으며 웹 사용 경험을 개선함</li>\n<l...</p>",
+          "contentSnippet": "2000년대 초반 웹 브라우저는 팝업 광고 남용으로 인해 사용자 불만이 커지자 기본 팝업 차단 기능을 도입함\n당시 Firefox 1.0(2004) 과 Internet Explorer의 기본 차단 기능은 큰 호응을 얻으며 웹 사용 경험을 개선함",
+          "id": "https://news.hada.io/topic?id=25492",
+          "isoDate": "2026-01-01T14:33:05.000Z"
         },
         {
           "title": "대기 중 이산화탄소를 효율적으로 포집하는 새로운 방법 개발",
@@ -85,26 +105,6 @@
           "contentSnippet": "워런 버핏이 60년간 이끌어온 버크셔 해서웨이 CEO 자리에서 물러나고, 그렉 에이블이 1조 달러 규모의 기업을 이어받음\n버핏은 이사회 의장직을 유지하며 매일 사무실을 방문할 계획으로, 에이블은 3,820억 달러 현금...",
           "id": "https://news.hada.io/topic?id=25482",
           "isoDate": "2026-01-01T00:45:55.000Z"
-        },
-        {
-          "title": "해커뉴스, arXiv 등 600GB 인덱스를 Claude Code로 질의하는 ExoPriors의 ‘Alignment Scry’",
-          "link": "https://news.hada.io/topic?id=25481",
-          "pubDate": "2026-01-01T00:42:55.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>ExoPriors의 Alignment Scry</strong>는 Claude Code를 통해 arXiv, Hacker News, LessWrong 등에서 수집한 <strong>60M개 문서와 22M개 임베딩</strong>을 SQL과 벡터 연산으로 검색할 수 있는 플랫폼</li>\n<li>공개 API 키를 제공하며, <strong>BM25 기반 텍스트 검색</strong>과 <strong>pgvector ...</p>",
-          "contentSnippet": "ExoPriors의 Alignment Scry는 Claude Code를 통해 arXiv, Hacker News, LessWrong 등에서 수집한 60M개 문서와 22M개 임베딩을 SQL과 벡터 연산으로 검색할 수 있는 플랫폼\n공개 API 키를 제공하며, BM25 기반 텍스트 검색과 pgvector ...",
-          "id": "https://news.hada.io/topic?id=25481",
-          "isoDate": "2026-01-01T00:42:55.000Z"
-        },
-        {
-          "title": "나는 내 책 출판 계약을 취소했다",
-          "link": "https://news.hada.io/topic?id=25480",
-          "pubDate": "2026-01-01T00:39:55.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>2020~2022년 블로그 인기로 여러 <strong>기술서 출판사</strong>로부터 제안을 받았으나, 결국 한 대형 출판사와 계약을 체결해 <strong>프로그래밍 프로젝트 튜토리얼 모음집</strong>을 집필하기 시작함</li>\n<li>계약 조건은 <strong>115,500~132,000단어</strong>, <strong>350~400쪽</strong>, <strong>1...</p>",
-          "contentSnippet": "2020~2022년 블로그 인기로 여러 기술서 출판사로부터 제안을 받았으나, 결국 한 대형 출판사와 계약을 체결해 프로그래밍 프로젝트 튜토리얼 모음집을 집필하기 시작함\n계약 조건은 115,500~132,000단어, 350~400쪽, 1...",
-          "id": "https://news.hada.io/topic?id=25480",
-          "isoDate": "2026-01-01T00:39:55.000Z"
         }
       ]
     }
