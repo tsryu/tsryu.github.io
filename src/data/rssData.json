@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "2025년의 편지",
+          "link": "https://news.hada.io/topic?id=25518",
+          "pubDate": "2026-01-02T14:33:31.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>실리콘밸리와 중국 공산당</strong>은 모두 진지하고 유머가 결여된 권력 집단으로, 자기중심적 태도가 세계 질서에 큰 영향을 미치고 있음</li>\n<li>\n<strong>샌프란시스코의 기술 문화</strong>는 AI 중심으로 급격히 변했으며, 개방성과 공동체 정신을 유지하면서도 점점 더 내향적이고 자기 강화적...</p>",
+          "contentSnippet": "실리콘밸리와 중국 공산당은 모두 진지하고 유머가 결여된 권력 집단으로, 자기중심적 태도가 세계 질서에 큰 영향을 미치고 있음\n샌프란시스코의 기술 문화는 AI 중심으로 급격히 변했으며, 개방성과 공동체 정신을 유지하면서도 점점 더 내향적이고 자기 강화적...",
+          "id": "https://news.hada.io/topic?id=25518",
+          "isoDate": "2026-01-02T14:33:31.000Z"
+        },
+        {
+          "title": "Show GN: 2026년, ‘목표’ 말고 ‘실행’이 남는 만다라트 차트 만들기",
+          "link": "https://news.hada.io/topic?id=25517",
+          "pubDate": "2026-01-02T13:59:27.000Z",
+          "author": "ericjypark",
+          "content": "<p>올해는 AWS 자격증 따고, 사이드 프로젝트 런칭하고, 기술 블로그 시작해야지!</p>\n<p>1월 1일엔 이렇게 적지만, 2월쯤이면 &quot;...그래서 오늘은 뭘 하지?&quot; 여기서 멈춥니다. 저도 매년 그랬고요.</p>\n<p>그래서 2026년에는 달라져야겠다 생각하고 만다라트 방식으로 목표를 세워봤는데, 막연한 목표가 '측정",
+          "contentSnippet": "올해는 AWS 자격증 따고, 사이드 프로젝트 런칭하고, 기술 블로그 시작해야지!\n1월 1일엔 이렇게 적지만, 2월쯤이면 \"...그래서 오늘은 뭘 하지?\" 여기서 멈춥니다. 저도 매년 그랬고요.\n그래서 2026년에는 달라져야겠다 생각하고 만다라트 방식으로 목표를 세워봤는데, 막연한 목표가 '측정",
+          "id": "https://news.hada.io/topic?id=25517",
+          "isoDate": "2026-01-02T13:59:27.000Z"
+        },
+        {
+          "title": "파이썬 프로그래머가 알아야 할 주요 성능 수치",
+          "link": "https://news.hada.io/topic?id=25516",
+          "pubDate": "2026-01-02T09:33:06.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>파이썬의 연산·메모리·입출력 성능 수치</strong>를 체계적으로 측정한 벤치마크 결과로, 각 연산의 시간과 메모리 사용량을 정량화함</li>\n<li>\n<strong>속도 측면</strong>에서는 속성 접근 14ns, 리스트 추가 29ns, 파일 열기 9μs, FastAPI 응답 8.6μs 등 다양한 연산의 상대적 지연시간을 제시</l...</p>",
+          "contentSnippet": "파이썬의 연산·메모리·입출력 성능 수치를 체계적으로 측정한 벤치마크 결과로, 각 연산의 시간과 메모리 사용량을 정량화함\n속도 측면에서는 속성 접근 14ns, 리스트 추가 29ns, 파일 열기 9μs, FastAPI 응답 8.6μs 등 다양한 연산의 상대적 지연시간을 제시",
+          "id": "https://news.hada.io/topic?id=25516",
+          "isoDate": "2026-01-02T09:33:06.000Z"
+        },
+        {
           "title": "Show GN: 1시간 만에 만든 엘릭서 기반 실시간 커서 공유 게임 'Cursor Party'",
           "link": "https://news.hada.io/topic?id=25515",
           "pubDate": "2026-01-02T08:24:36.000Z",
@@ -75,36 +105,6 @@
           "contentSnippet": "인터넷이 창의와 공동체의 공간에서 산업화된 콘텐츠 공장으로 변질되었다는 비판 제기\n자동차·항생제·우주산업 등과 마찬가지로, 웹도 도구의 산업화와 독점화 과정을 거치며 인간의 자유를 제한하는 구조로 변함\n이에 대한 대안으로 ...",
           "id": "https://news.hada.io/topic?id=25509",
           "isoDate": "2026-01-02T02:33:08.000Z"
-        },
-        {
-          "title": "Show GN: 모던한 flutter_coverage_report 생성기",
-          "link": "https://news.hada.io/topic?id=25508",
-          "pubDate": "2026-01-02T02:33:02.000Z",
-          "author": "j0ker",
-          "content": "<p>Flutter 테스트 커버리지 리포트가 기본적으로는 genhtml로 생성이 되는데<br />\n디자인과 기능자체가 모던하지 않아서 모던한 형태의 리포트를 뽑을 수 있도록<br />\n혼자 사용하기 보다는 모두가 같이 사용하면 좋을것 같아서 오픈소스 형태로 공개하였습니다!</p>\n<ul>\n<li>다크/라이트 모드 지원</li>\n<li>파일트",
-          "contentSnippet": "Flutter 테스트 커버리지 리포트가 기본적으로는 genhtml로 생성이 되는데\n다크/라이트 모드 지원\n파일트",
-          "id": "https://news.hada.io/topic?id=25508",
-          "isoDate": "2026-01-02T02:33:02.000Z"
-        },
-        {
-          "title": "ACM이 이제 완전한 오픈 액세스로 전환",
-          "link": "https://news.hada.io/topic?id=25507",
-          "pubDate": "2026-01-02T00:58:22.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>컴퓨터 과학 분야의 주요 학회인 <strong>ACM(Association for Computing Machinery)</strong> 이 모든 출판물을 <strong>완전한 오픈 액세스(Open Access)</strong> 형태로 전환</li>\n<li>연구자와 독자가 <strong>ACM 디지털 라이브러리</strong>의 논문과 자료를 <strong>무료로 접근</strong>할 수 있게 됨...</p>",
-          "contentSnippet": "컴퓨터 과학 분야의 주요 학회인 ACM(Association for Computing Machinery) 이 모든 출판물을 완전한 오픈 액세스(Open Access) 형태로 전환\n연구자와 독자가 ACM 디지털 라이브러리의 논문과 자료를 무료로 접근할 수 있게 됨...",
-          "id": "https://news.hada.io/topic?id=25507",
-          "isoDate": "2026-01-02T00:58:22.000Z"
-        },
-        {
-          "title": "사회생활을 재부팅한 방법",
-          "link": "https://news.hada.io/topic?id=25506",
-          "pubDate": "2026-01-02T00:55:22.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>팬데믹과 재택근무, <strong>편안한 생활환경</strong> 속에서 인간관계가 단절되며 사회적 고립을 경험한 사례를 다룸</li>\n<li>개인적 자유와 <strong>공동체의 규범적 압력</strong> 사이의 긴장을 인식하며, 공동체를 경계하던 태도에서 변화가 일어남</li>\n<li>과거 ‘skeptics’ 커뮤니티 경험을 통해 <s...</p>",
-          "contentSnippet": "팬데믹과 재택근무, 편안한 생활환경 속에서 인간관계가 단절되며 사회적 고립을 경험한 사례를 다룸\n개인적 자유와 공동체의 규범적 압력 사이의 긴장을 인식하며, 공동체를 경계하던 태도에서 변화가 일어남\n과거 ‘skeptics’ 커뮤니티 경험을 통해",
-          "id": "https://news.hada.io/topic?id=25506",
-          "isoDate": "2026-01-02T00:55:22.000Z"
         }
       ]
     }
