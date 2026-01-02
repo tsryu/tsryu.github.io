@@ -7,6 +7,26 @@
       "priority": 1,
       "data": [
         {
+          "title": "Bundler가 uv만큼 빠를 수 있을까?",
+          "link": "https://news.hada.io/topic?id=25520",
+          "pubDate": "2026-01-02T19:32:54.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Bundler의 성능 한계</strong>를 분석하며, Python의 패키지 관리자 <strong>uv</strong>가 빠른 이유를 비교</li>\n<li>uv의 속도는 Rust 언어 때문이 아니라 <strong>병렬 다운로드, 글로벌 캐시, 메타데이터 기반 의존성 처리</strong> 등 구조적 설계 덕분임</li>\n<li>Bundler는 <strong>다운로드와...</p>",
+          "contentSnippet": "Bundler의 성능 한계를 분석하며, Python의 패키지 관리자 uv가 빠른 이유를 비교\nuv의 속도는 Rust 언어 때문이 아니라 병렬 다운로드, 글로벌 캐시, 메타데이터 기반 의존성 처리 등 구조적 설계 덕분임\nBundler는 다운로드와...",
+          "id": "https://news.hada.io/topic?id=25520",
+          "isoDate": "2026-01-02T19:32:54.000Z"
+        },
+        {
+          "title": "BYD, 2025년 460만 대 판매 달성하며 수정된 목표치 충족",
+          "link": "https://news.hada.io/topic?id=25519",
+          "pubDate": "2026-01-02T18:33:28.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>중국 전기차 제조사 <strong>BYD</strong>가 2025년 한 해 동안 <strong>460만 대의 차량 판매 목표를 달성</strong>\n</li>\n<li>이로써 <strong>Tesla를 제치고 세계 최대 전기차 제조사</strong>가 될 가능성이 제기됨</li>\n<li>BYD의 <strong>홍콩 상장 주가가 새해 첫 거래일에 최대 2.3% 상승</strong>\n</l...</p>",
+          "contentSnippet": "중국 전기차 제조사 BYD가 2025년 한 해 동안 460만 대의 차량 판매 목표를 달성\n\n이로써 Tesla를 제치고 세계 최대 전기차 제조사가 될 가능성이 제기됨\nBYD의 홍콩 상장 주가가 새해 첫 거래일에 최대 2.3% 상승",
+          "id": "https://news.hada.io/topic?id=25519",
+          "isoDate": "2026-01-02T18:33:28.000Z"
+        },
+        {
           "title": "2025년의 편지",
           "link": "https://news.hada.io/topic?id=25518",
           "pubDate": "2026-01-02T14:33:31.000Z",
@@ -85,26 +105,6 @@
           "contentSnippet": "비즈니스 가치를 재정의하는 에이전트형 AI의 부상\n2026년의 비즈니스 환경은 단순히 질문에 답하는 수준을 넘어 스스로 계획을 세우고 실행하는 Agentic AI(에이전틱 AI)에 의해 근본적으로 변화할 것입니다.\nGoogle Cloud의 리포트에 따르면, 에이전틱 AI는 목표를 이해하고 계획을 수립하며 다양한",
           "id": "https://news.hada.io/topic?id=25511",
           "isoDate": "2026-01-02T04:14:30.000Z"
-        },
-        {
-          "title": "핀란드, 주요 해저 통신 케이블 손상 후 선박과 선원 구금",
-          "link": "https://news.hada.io/topic?id=25510",
-          "pubDate": "2026-01-02T03:32:54.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>핀란드와 에스토니아를 연결하는 <strong>해저 통신 케이블이 손상</strong>된 사건과 관련해 핀란드 당국이 한 화물선을 나포하고 <strong>선원 14명을 구금</strong>함</li>\n<li>해당 선박은 세인트빈센트 그레나딘 국적의 <strong>‘Fitburg’호</strong>로, 핀란드 해역에서 <strong>닻줄이 내려진 상태</s...</p>",
-          "contentSnippet": "핀란드와 에스토니아를 연결하는 해저 통신 케이블이 손상된 사건과 관련해 핀란드 당국이 한 화물선을 나포하고 선원 14명을 구금함\n해당 선박은 세인트빈센트 그레나딘 국적의 ‘Fitburg’호로, 핀란드 해역에서 닻줄이 내려진 상태",
-          "id": "https://news.hada.io/topic?id=25510",
-          "isoDate": "2026-01-02T03:32:54.000Z"
-        },
-        {
-          "title": "모든 웹사이트를 파괴할 웹사이트",
-          "link": "https://news.hada.io/topic?id=25509",
-          "pubDate": "2026-01-02T02:33:08.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>인터넷이 <strong>창의와 공동체의 공간</strong>에서 <strong>산업화된 콘텐츠 공장</strong>으로 변질되었다는 비판 제기</li>\n<li>자동차·항생제·우주산업 등과 마찬가지로, 웹도 <strong>도구의 산업화와 독점화</strong> 과정을 거치며 인간의 자유를 제한하는 구조로 변함</li>\n<li>이에 대한 대안으로 ...</p>",
-          "contentSnippet": "인터넷이 창의와 공동체의 공간에서 산업화된 콘텐츠 공장으로 변질되었다는 비판 제기\n자동차·항생제·우주산업 등과 마찬가지로, 웹도 도구의 산업화와 독점화 과정을 거치며 인간의 자유를 제한하는 구조로 변함\n이에 대한 대안으로 ...",
-          "id": "https://news.hada.io/topic?id=25509",
-          "isoDate": "2026-01-02T02:33:08.000Z"
         }
       ]
     }
