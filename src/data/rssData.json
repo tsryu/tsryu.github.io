@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "Daft Punk의 ‘Harder, Better, Faster, Stronger’ BPM에 숨겨진 이스터에그?",
+          "link": "https://news.hada.io/topic?id=25531",
+          "pubDate": "2026-01-03T08:32:39.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Daft Punk의 대표곡 <strong>‘Harder, Better, Faster, Stronger’</strong> 의 실제 템포가 일반적으로 알려진 123 BPM이 아닌 <strong>123.45 BPM</strong>으로 측정됨</li>\n<li>작성자는 자신의 <strong>BPM 측정 앱 Tempi</strong>를 이용해 정밀 분석을 수행, 두 가지 음원 버전 모두 123.45에 근접한 결...</p>",
+          "contentSnippet": "Daft Punk의 대표곡 ‘Harder, Better, Faster, Stronger’ 의 실제 템포가 일반적으로 알려진 123 BPM이 아닌 123.45 BPM으로 측정됨\n작성자는 자신의 BPM 측정 앱 Tempi를 이용해 정밀 분석을 수행, 두 가지 음원 버전 모두 123.45에 근접한 결...",
+          "id": "https://news.hada.io/topic?id=25531",
+          "isoDate": "2026-01-03T08:32:39.000Z"
+        },
+        {
+          "title": "typed-pytest: MagicMock에서 잃어버린 IDE 자동완성과 타입 안전성 되찾기",
+          "link": "https://news.hada.io/topic?id=25530",
+          "pubDate": "2026-01-03T06:12:23.000Z",
+          "author": "tmdgusya",
+          "content": "<p>Pytest로 테스트 코드를 작성하면서 MagicMock을 사용할 때, IDE 자동완성이 안 되거나 메서드 이름을 잘못 적어(오타) 삽질했던 경험이 다들 한두 번씩은 있으실 겁니다.</p>\n<p>기존의 mock은 매우 강력하지만, 타입 힌트가 소실되어 mypy나 pyright 같은 타입 검사기의 도움을 받기 어려웠습니다. 이를 해결하기 위",
+          "contentSnippet": "Pytest로 테스트 코드를 작성하면서 MagicMock을 사용할 때, IDE 자동완성이 안 되거나 메서드 이름을 잘못 적어(오타) 삽질했던 경험이 다들 한두 번씩은 있으실 겁니다.\n기존의 mock은 매우 강력하지만, 타입 힌트가 소실되어 mypy나 pyright 같은 타입 검사기의 도움을 받기 어려웠습니다. 이를 해결하기 위",
+          "id": "https://news.hada.io/topic?id=25530",
+          "isoDate": "2026-01-03T06:12:23.000Z"
+        },
+        {
+          "title": "자신의 사이트에 게시하고, 다른 곳에 동시 배포하기",
+          "link": "https://news.hada.io/topic?id=25529",
+          "pubDate": "2026-01-03T03:33:09.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>POSSE(Publish on your Own Site, Syndicate Elsewhere)</strong> 는 개인 사이트에 먼저 게시한 뒤, 소셜미디어 등 외부 플랫폼에 복제본이나 링크를 배포하는 <strong>콘텐츠 자율 배포 방식</strong>\n</li>\n<li>이 방식은 <strong>콘텐츠 소유권과 원본 URL</strong>을 유지하면서도, <strong>친구...</p>",
+          "contentSnippet": "POSSE(Publish on your Own Site, Syndicate Elsewhere) 는 개인 사이트에 먼저 게시한 뒤, 소셜미디어 등 외부 플랫폼에 복제본이나 링크를 배포하는 콘텐츠 자율 배포 방식\n\n이 방식은 콘텐츠 소유권과 원본 URL을 유지하면서도, 친구...",
+          "id": "https://news.hada.io/topic?id=25529",
+          "isoDate": "2026-01-03T03:33:09.000Z"
+        },
+        {
           "title": "2026년 퍼블릭 도메인 데이 축하",
           "link": "https://news.hada.io/topic?id=25528",
           "pubDate": "2026-01-03T00:56:13.000Z",
@@ -75,36 +105,6 @@
           "contentSnippet": "다양한 OS에서 발생하는 파일 변경 이벤트를 정규화해 일관된 방식으로 전달하기 위해 개발된 도구로, fs.watch 계열 API의 한계를 보완\n맥·리눅스·윈도의 이벤트 차이를 흡수해 add / change / unlink 중심의 명확한 이벤트 모델 제공\n일부 에디터가 사용...",
           "id": "https://news.hada.io/topic?id=25522",
           "isoDate": "2026-01-03T00:31:01.000Z"
-        },
-        {
-          "title": "메타, 사기 광고를 완전히 단속하지 않고 검색을 어렵게 만들어",
-          "link": "https://news.hada.io/topic?id=25521",
-          "pubDate": "2026-01-02T23:33:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Meta</strong>가 자사 플랫폼의 <strong>사기 광고를 삭제하는 대신 검색이 어렵게 되도록 조정한 사실</strong>이 내부 문서에서 드러남</li>\n<li>일본 규제 당국이 <strong>광고주 실명 인증 제도</strong>를 요구할 가능성을 우려해, Meta는 <strong>규제기관·언론의 접근성을 낮추는 조치</strong...</p>",
-          "contentSnippet": "Meta가 자사 플랫폼의 사기 광고를 삭제하는 대신 검색이 어렵게 되도록 조정한 사실이 내부 문서에서 드러남\n일본 규제 당국이 광고주 실명 인증 제도를 요구할 가능성을 우려해, Meta는 규제기관·언론의 접근성을 낮추는 조치",
-          "id": "https://news.hada.io/topic?id=25521",
-          "isoDate": "2026-01-02T23:33:01.000Z"
-        },
-        {
-          "title": "Bundler가 uv만큼 빠를 수 있을까?",
-          "link": "https://news.hada.io/topic?id=25520",
-          "pubDate": "2026-01-02T19:32:54.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Bundler의 성능 한계</strong>를 분석하며, Python의 패키지 관리자 <strong>uv</strong>가 빠른 이유를 비교</li>\n<li>uv의 속도는 Rust 언어 때문이 아니라 <strong>병렬 다운로드, 글로벌 캐시, 메타데이터 기반 의존성 처리</strong> 등 구조적 설계 덕분임</li>\n<li>Bundler는 <strong>다운로드와...</p>",
-          "contentSnippet": "Bundler의 성능 한계를 분석하며, Python의 패키지 관리자 uv가 빠른 이유를 비교\nuv의 속도는 Rust 언어 때문이 아니라 병렬 다운로드, 글로벌 캐시, 메타데이터 기반 의존성 처리 등 구조적 설계 덕분임\nBundler는 다운로드와...",
-          "id": "https://news.hada.io/topic?id=25520",
-          "isoDate": "2026-01-02T19:32:54.000Z"
-        },
-        {
-          "title": "BYD, 2025년 차량 460만 대 판매로 수정된 연간 목표 달성",
-          "link": "https://news.hada.io/topic?id=25519",
-          "pubDate": "2026-01-02T18:33:28.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>중국 전기차 제조사 BYD가 2025년 <strong>460만 대 인도</strong>하며 연간 목표 달성</li>\n<li>2024년 대비 <strong>판매 7.7% 증가</strong>로 성장했지만, 전년도 고성장 대비 둔화 흐름 뚜렷함</li>\n<li>중국의 <strong>보조금 축소</strong>, 신모델 유입에 따른 경쟁 격화, 무역 장벽 등으로 2026년 압박...</p>",
-          "contentSnippet": "중국 전기차 제조사 BYD가 2025년 460만 대 인도하며 연간 목표 달성\n2024년 대비 판매 7.7% 증가로 성장했지만, 전년도 고성장 대비 둔화 흐름 뚜렷함\n중국의 보조금 축소, 신모델 유입에 따른 경쟁 격화, 무역 장벽 등으로 2026년 압박...",
-          "id": "https://news.hada.io/topic?id=25519",
-          "isoDate": "2026-01-02T18:33:28.000Z"
         }
       ]
     }
