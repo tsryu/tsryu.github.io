@@ -7,6 +7,16 @@
       "priority": 1,
       "data": [
         {
+          "title": "IPv6가 30주년을 맞았지만 여전히 세계를 장악하지 못한 이유",
+          "link": "https://news.hada.io/topic?id=25533",
+          "pubDate": "2026-01-03T14:33:31.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>1995년 등장한 <strong>IPv6</strong>는 32비트에서 128비트로 확장된 주소 체계를 통해 <strong>인터넷 주소 고갈 문제</strong>를 해결하려 했음</li>\n<li>그러나 <strong>IPv4와의 비호환성</strong>, <strong>기능적 차별성 부족</strong>, <strong>NAT의 확산</strong> 등으로 인해 전환이 지연됨</li>\n<l...</p>",
+          "contentSnippet": "1995년 등장한 IPv6는 32비트에서 128비트로 확장된 주소 체계를 통해 인터넷 주소 고갈 문제를 해결하려 했음\n그러나 IPv4와의 비호환성, 기능적 차별성 부족, NAT의 확산 등으로 인해 전환이 지연됨",
+          "id": "https://news.hada.io/topic?id=25533",
+          "isoDate": "2026-01-03T14:33:31.000Z"
+        },
+        {
           "title": "Daft Punk의 ‘Harder, Better, Faster, Stronger’ BPM에 숨겨진 이스터에그?",
           "link": "https://news.hada.io/topic?id=25531",
           "pubDate": "2026-01-03T08:32:39.000Z",
@@ -95,16 +105,6 @@
           "contentSnippet": "Ghostty 저장소는 사용자가 직접 Issue를 생성할 수 없고, 먼저 GitHub Discussions에서 논의를 시작해야 함\n프로젝트는 버그나 기능 요청 논의에 Issue 트래커를 사용하지 않으며, 모든 논의는 Discussions에서 진행됨\n논의가 충분히 구...",
           "id": "https://news.hada.io/topic?id=25523",
           "isoDate": "2026-01-03T00:41:13.000Z"
-        },
-        {
-          "title": "Chokidar - 효율적인 크로스플랫폼 파일 Watch 라이브러리 ",
-          "link": "https://news.hada.io/topic?id=25522",
-          "pubDate": "2026-01-03T00:31:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>다양한 OS에서 발생하는 파일 변경 이벤트를 <strong>정규화</strong>해 일관된 방식으로 전달하기 위해 개발된 도구로, fs.watch 계열 API의 한계를 보완</li>\n<li>맥·리눅스·윈도의 이벤트 차이를 흡수해 <strong>add / change / unlink 중심의 명확한 이벤트 모델</strong> 제공</li>\n<li>일부 에디터가 사용...</p>",
-          "contentSnippet": "다양한 OS에서 발생하는 파일 변경 이벤트를 정규화해 일관된 방식으로 전달하기 위해 개발된 도구로, fs.watch 계열 API의 한계를 보완\n맥·리눅스·윈도의 이벤트 차이를 흡수해 add / change / unlink 중심의 명확한 이벤트 모델 제공\n일부 에디터가 사용...",
-          "id": "https://news.hada.io/topic?id=25522",
-          "isoDate": "2026-01-03T00:31:01.000Z"
         }
       ]
     }
