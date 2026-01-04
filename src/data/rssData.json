@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "중국 DRAM 제조사 CXMT, 삼성·SK하이닉스·마이크론에 맞서 42억 달러 IPO 추진",
+          "link": "https://news.hada.io/topic?id=25559",
+          "pubDate": "2026-01-04T19:32:55.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>중국 <strong>DRAM 제조사 CXMT</strong>가 상하이 증권거래소 STAR 마켓 상장을 위해 약 <strong>42억 달러(295억 위안)</strong> 규모의 IPO를 신청</li>\n<li>조달 자금은 <strong>대량 생산 라인 업그레이드</strong>, <strong>DRAM 공정 기술 고도화</strong>, <strong>차세대 메모리 R&amp;D</strong>에 투...</p>",
+          "contentSnippet": "중국 DRAM 제조사 CXMT가 상하이 증권거래소 STAR 마켓 상장을 위해 약 42억 달러(295억 위안) 규모의 IPO를 신청\n조달 자금은 대량 생산 라인 업그레이드, DRAM 공정 기술 고도화, 차세대 메모리 R&D에 투...",
+          "id": "https://news.hada.io/topic?id=25559",
+          "isoDate": "2026-01-04T19:32:55.000Z"
+        },
+        {
+          "title": "AI 음성 에이전트를 활용한 구술시험 확장 실험",
+          "link": "https://news.hada.io/topic?id=25558",
+          "pubDate": "2026-01-04T18:33:16.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>대형 언어모델(LLM)</strong> 의 확산으로 기존 과제·시험이 학습 이해도를 측정하지 못하게 되자, 교수진은 <strong>ElevenLabs 음성 AI</strong>를 이용해 실시간 구술시험을 도입함</li>\n<li>시험은 프로젝트 설명과 사례 질의 두 부분으로 구성되어, 학생이 직접 <strong>결정 근거와 사고 과정...</p>",
+          "contentSnippet": "대형 언어모델(LLM) 의 확산으로 기존 과제·시험이 학습 이해도를 측정하지 못하게 되자, 교수진은 ElevenLabs 음성 AI를 이용해 실시간 구술시험을 도입함\n시험은 프로젝트 설명과 사례 질의 두 부분으로 구성되어, 학생이 직접 결정 근거와 사고 과정...",
+          "id": "https://news.hada.io/topic?id=25558",
+          "isoDate": "2026-01-04T18:33:16.000Z"
+        },
+        {
+          "title": "안드로이드에서 Swift로 완전한 네이티브 앱 개발이 가능해짐",
+          "link": "https://news.hada.io/topic?id=25557",
+          "pubDate": "2026-01-04T15:32:50.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Swift 언어로 안드로이드 네이티브 앱을 개발할 수 있는 환경</strong>이 공개되어, 기존 iOS 중심의 Swift 생태계가 확장됨</li>\n<li>\n<strong>Droid 프레임워크</strong>는 AndroidX, Flexbox, Material Design을 포함한 풍부한 구성요소를 제공</li>\n<li>\n<strong>SwiftUI와 유사한 선언형 문법</s...</p>",
+          "contentSnippet": "Swift 언어로 안드로이드 네이티브 앱을 개발할 수 있는 환경이 공개되어, 기존 iOS 중심의 Swift 생태계가 확장됨\nDroid 프레임워크는 AndroidX, Flexbox, Material Design을 포함한 풍부한 구성요소를 제공\nSwiftUI와 유사한 선언형 문법",
+          "id": "https://news.hada.io/topic?id=25557",
+          "isoDate": "2026-01-04T15:32:50.000Z"
+        },
+        {
           "title": "매초 복권 추첨 - 확률이 무너지는 모습을 실시간으로 보기",
           "link": "https://news.hada.io/topic?id=25556",
           "pubDate": "2026-01-04T14:37:16.000Z",
@@ -75,36 +105,6 @@
           "contentSnippet": "원래는 claude code와 cursor를 쓰다가 작년 퇴사 후 11월부터 antigravity로 갈아타고나서 이것저것 토이 웹서비스 프로젝트를 하루마다 만들고 있었는데, 갑자기 3일전(1/2)에 타워디펜스 게임을 만들어 보고 싶어졌습니다.\n원래 웹frontend개발자라 앱으로 감싸기는 귀찮고, 그냥 데스크탑 브라우저 환경에서...",
           "id": "https://news.hada.io/topic?id=25549",
           "isoDate": "2026-01-04T05:36:20.000Z"
-        },
-        {
-          "title": "Show GN: durable-streams-java - Durable Streams 의 Java 구현체",
-          "link": "https://news.hada.io/topic?id=25548",
-          "pubDate": "2026-01-04T04:07:55.000Z",
-          "author": "click",
-          "content": "<p><a href=\"https://news.hada.io/topic?id=25290\">Durable Streams</a> 를 보고 좋은 프로젝트라고 생각해서 제 주력 언어인 java 의 구현체도 만들어봤습니다.</p>\n<h3>주요 특징</h3>\n<ul>\n<li>\n<strong>특정 라이브러리 종속성 최소화</strong>: 최대한 특정 프레임워크나 특정 라이브러리에 종속되지 않는 구조로 ",
-          "contentSnippet": "Durable Streams 를 보고 좋은 프로젝트라고 생각해서 제 주력 언어인 java 의 구현체도 만들어봤습니다.\n주요 특징\n특정 라이브러리 종속성 최소화: 최대한 특정 프레임워크나 특정 라이브러리에 종속되지 않는 구조로",
-          "id": "https://news.hada.io/topic?id=25548",
-          "isoDate": "2026-01-04T04:07:55.000Z"
-        },
-        {
-          "title": "인터넷 없이 Windows 11/10을 공식적으로 활성화하는 방법이 중단됨",
-          "link": "https://news.hada.io/topic?id=25547",
-          "pubDate": "2026-01-04T03:33:10.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Microsoft가 Windows 11과 10의 오프라인 정품 인증 방식을 중단</strong>한 것으로 보고됨</li>\n<li>기존에는 <strong>전화 인증 등 인터넷 연결 없이도 정품 활성화가 가능</strong>했음</li>\n<li>이번 변경으로 인해 <strong>인터넷 연결이 필수적인 온라인 인증만 지원</strong>되는 형태로 전환됨...</p>",
-          "contentSnippet": "Microsoft가 Windows 11과 10의 오프라인 정품 인증 방식을 중단한 것으로 보고됨\n기존에는 전화 인증 등 인터넷 연결 없이도 정품 활성화가 가능했음\n이번 변경으로 인해 인터넷 연결이 필수적인 온라인 인증만 지원되는 형태로 전환됨...",
-          "id": "https://news.hada.io/topic?id=25547",
-          "isoDate": "2026-01-04T03:33:10.000Z"
-        },
-        {
-          "title": "StackOverflow 질문 수의 월별 변화 추이",
-          "link": "https://news.hada.io/topic?id=25546",
-          "pubDate": "2026-01-04T01:33:31.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>StackOverflow의 <strong>월별 질문 수 변화</strong>를 시각화한 데이터 쿼리 페이지</li>\n<li>\n<strong>data.stackexchange.com</strong>을 통해 기간별 질문 수를 조회할 수 있는 그래프 제공</li>\n<li>페이지 접근 시 <strong>JavaScript와 쿠키 활성화</strong>가 필요하며, 보안 확인 절차가 포함됨</li>...</p>",
-          "contentSnippet": "StackOverflow의 월별 질문 수 변화를 시각화한 데이터 쿼리 페이지\ndata.stackexchange.com을 통해 기간별 질문 수를 조회할 수 있는 그래프 제공\n페이지 접근 시 JavaScript와 쿠키 활성화가 필요하며, 보안 확인 절차가 포함됨\n...",
-          "id": "https://news.hada.io/topic?id=25546",
-          "isoDate": "2026-01-04T01:33:31.000Z"
         }
       ]
     }
