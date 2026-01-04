@@ -7,6 +7,26 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: 3일만에 antigravity로 만들어본 타워디펜스",
+          "link": "https://news.hada.io/topic?id=25549",
+          "pubDate": "2026-01-04T05:36:20.000Z",
+          "author": "cybrshin",
+          "content": "<p>원래는 claude code와 cursor를 쓰다가 작년 퇴사 후 11월부터 antigravity로 갈아타고나서 이것저것 토이 웹서비스 프로젝트를 하루마다 만들고 있었는데, 갑자기 3일전(1/2)에 타워디펜스 게임을 만들어 보고 싶어졌습니다.<br />\n원래 웹frontend개발자라 앱으로 감싸기는 귀찮고, 그냥 데스크탑 브라우저 환경에서...</p>",
+          "contentSnippet": "원래는 claude code와 cursor를 쓰다가 작년 퇴사 후 11월부터 antigravity로 갈아타고나서 이것저것 토이 웹서비스 프로젝트를 하루마다 만들고 있었는데, 갑자기 3일전(1/2)에 타워디펜스 게임을 만들어 보고 싶어졌습니다.\n원래 웹frontend개발자라 앱으로 감싸기는 귀찮고, 그냥 데스크탑 브라우저 환경에서...",
+          "id": "https://news.hada.io/topic?id=25549",
+          "isoDate": "2026-01-04T05:36:20.000Z"
+        },
+        {
+          "title": "Show GN: durable-streams-java - Durable Streams 의 Java 구현체",
+          "link": "https://news.hada.io/topic?id=25548",
+          "pubDate": "2026-01-04T04:07:55.000Z",
+          "author": "click",
+          "content": "<p><a href=\"https://news.hada.io/topic?id=25290\">Durable Streams</a> 를 보고 좋은 프로젝트라고 생각해서 제 주력 언어인 java 의 구현체도 만들어봤습니다.</p>\n<h3>주요 특징</h3>\n<ul>\n<li>\n<strong>특정 라이브러리 종속성 최소화</strong>: 최대한 특정 프레임워크나 특정 라이브러리에 종속되지 않는 구조로 ",
+          "contentSnippet": "Durable Streams 를 보고 좋은 프로젝트라고 생각해서 제 주력 언어인 java 의 구현체도 만들어봤습니다.\n주요 특징\n특정 라이브러리 종속성 최소화: 최대한 특정 프레임워크나 특정 라이브러리에 종속되지 않는 구조로",
+          "id": "https://news.hada.io/topic?id=25548",
+          "isoDate": "2026-01-04T04:07:55.000Z"
+        },
+        {
           "title": "인터넷 없이 Windows 11/10을 공식적으로 활성화하는 방법이 중단됨",
           "link": "https://news.hada.io/topic?id=25547",
           "pubDate": "2026-01-04T03:33:10.000Z",
@@ -85,26 +105,6 @@
           "contentSnippet": "less 명령어의 다양한 기능과 단축키 조합을 통해 파일 탐색, 검색, 필터링, 북마크, 옵션 전환 등을 효율적으로 수행할 수 있음\n여러 파일을 동시에 열고 :n, :p, :e, :d 명령으로 파일 간 이동·추가·삭제가...",
           "id": "https://news.hada.io/topic?id=25539",
           "isoDate": "2026-01-03T23:32:33.000Z"
-        },
-        {
-          "title": "Jank Lang 알파 버전 공개",
-          "link": "https://news.hada.io/topic?id=25538",
-          "pubDate": "2026-01-03T22:32:39.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Clojure 문법과 LLVM 기반 네이티브 성능</strong>을 결합한 프로그래밍 언어로, C++과의 <strong>매끄러운 상호운용성</strong>을 제공</li>\n<li>Clojure의 <strong>함수형·값 지향 특성</strong>을 유지하면서, JVM 대신 <strong>LLVM을 호스트 환경</strong>으로 사용</li>\n<li>모든 <strong>데이터...</p>",
-          "contentSnippet": "Clojure 문법과 LLVM 기반 네이티브 성능을 결합한 프로그래밍 언어로, C++과의 매끄러운 상호운용성을 제공\nClojure의 함수형·값 지향 특성을 유지하면서, JVM 대신 LLVM을 호스트 환경으로 사용\n모든 데이터...",
-          "id": "https://news.hada.io/topic?id=25538",
-          "isoDate": "2026-01-03T22:32:39.000Z"
-        },
-        {
-          "title": "스탠더드 이북스: 2026년 문학 분야 퍼블릭 도메인 데이",
-          "link": "https://news.hada.io/topic?id=25537",
-          "pubDate": "2026-01-03T20:32:45.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>매년 1월 1일은 전 세계에서 <strong>퍼블릭 도메인 데이</strong>로, 저작권이 만료된 작품들이 자유롭게 공개되는 날임</li>\n<li>2026년에는 <strong>1930년에 출판된 책들</strong>이 미국 퍼블릭 도메인에 편입되어 누구나 읽고, 공유하고, 재활용할 수 있게 됨</li>\n<li>스탠더드 이북스는 이를 맞아 <str...</p>",
-          "contentSnippet": "매년 1월 1일은 전 세계에서 퍼블릭 도메인 데이로, 저작권이 만료된 작품들이 자유롭게 공개되는 날임\n2026년에는 1930년에 출판된 책들이 미국 퍼블릭 도메인에 편입되어 누구나 읽고, 공유하고, 재활용할 수 있게 됨\n스탠더드 이북스는 이를 맞아",
-          "id": "https://news.hada.io/topic?id=25537",
-          "isoDate": "2026-01-03T20:32:45.000Z"
         }
       ]
     }
