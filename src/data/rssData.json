@@ -7,6 +7,26 @@
       "priority": 1,
       "data": [
         {
+          "title": "바이브코딩을 하면서 과몰입(터널)에 빠지지 않고, 진짜 몰입하는 법",
+          "link": "https://news.hada.io/topic?id=25583",
+          "pubDate": "2026-01-05T11:23:24.000Z",
+          "author": "haegyung",
+          "content": "<p>이 글은 바이브 코딩 중 생기는 <strong>과몰입(터널)</strong> 상태를 스스로 알아차리고, 짧은 실행‑루프로 다시 <strong>의도적 몰입</strong>으로 돌아오는 실전 프로토콜을 제안합니다.[1]</p>\n<h3>몰입 vs 과몰입(터널)</h3>\n<ul>\n<li>몰입은 세 축이 동시에 살아 있는 상태로 정의됩니다: <strong>주도감</st",
+          "contentSnippet": "이 글은 바이브 코딩 중 생기는 과몰입(터널) 상태를 스스로 알아차리고, 짧은 실행‑루프로 다시 의도적 몰입으로 돌아오는 실전 프로토콜을 제안합니다.[1]\n몰입 vs 과몰입(터널)\n몰입은 세 축이 동시에 살아 있는 상태로 정의됩니다: 주도감</st",
+          "id": "https://news.hada.io/topic?id=25583",
+          "isoDate": "2026-01-05T11:23:24.000Z"
+        },
+        {
+          "title": "AWS용 터미널 UI (taws) – 터미널 기반 AWS 리소스 뷰어 및 관리자",
+          "link": "https://news.hada.io/topic?id=25582",
+          "pubDate": "2026-01-05T08:32:56.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>taws</strong>는 터미널 환경에서 AWS 리소스를 탐색하고 관리할 수 있는 <strong>Rust 기반 UI 도구</strong>로, AWS 인프라를 실시간으로 관찰하고 제어할 수 있음</li>\n<li>\n<strong>94개 이상의 리소스 유형</strong>과 <strong>60개 이상의 AWS 서비스</strong>를 지원하며, <strong>프로필 및 리...</p>",
+          "contentSnippet": "taws는 터미널 환경에서 AWS 리소스를 탐색하고 관리할 수 있는 Rust 기반 UI 도구로, AWS 인프라를 실시간으로 관찰하고 제어할 수 있음\n94개 이상의 리소스 유형과 60개 이상의 AWS 서비스를 지원하며, 프로필 및 리...",
+          "id": "https://news.hada.io/topic?id=25582",
+          "isoDate": "2026-01-05T08:32:56.000Z"
+        },
+        {
           "title": "무릎 연골을 재생하고 관절염을 예방하는 항노화 주사",
           "link": "https://news.hada.io/topic?id=25581",
           "pubDate": "2026-01-05T07:32:57.000Z",
@@ -85,26 +105,6 @@
           "contentSnippet": "일상 속 작은 행동의 누적이 관리자와 구성원 사이에 강한 신뢰를 형성하며, 훌륭한 관리자의 차이를 만들어냄\n채용이나 성과 평가 같은 큰 결정보다, 토론을 피하지 않는 태도, 결정 권한 위임 같은 미세한 선택이 더 큰 영향을 미침\n취...",
           "id": "https://news.hada.io/topic?id=25573",
           "isoDate": "2026-01-05T01:21:01.000Z"
-        },
-        {
-          "title": "2025 JavaScript Rising Stars",
-          "link": "https://news.hada.io/topic?id=25572",
-          "pubDate": "2026-01-05T01:13:54.000Z",
-          "author": "soaple",
-          "content": "<p>2025년 한 해 동안 가장 많은 GitHub Star를 받은 자바스크립트 프로젝트 순위입니다.</p>\n<p>전체 프로젝트 부문<br />\n1위. n8n<br />\n2위. shadcn/ui<br />\n3위. React Bits<br />\n4위. Excalidraw<br />\n5위. Supabase<br />\n6위. Onlook<br />\n7위. Better Auth<br />\n8위. Dyad<br />\n9위. AFFiNE<br />\n10위. ",
-          "contentSnippet": "2025년 한 해 동안 가장 많은 GitHub Star를 받은 자바스크립트 프로젝트 순위입니다.\n전체 프로젝트 부문\n1위. n8n\n2위. shadcn/ui\n3위. React Bits\n4위. Excalidraw\n5위. Supabase\n6위. Onlook\n7위. Better Auth\n8위. Dyad\n9위. AFFiNE\n10위.",
-          "id": "https://news.hada.io/topic?id=25572",
-          "isoDate": "2026-01-05T01:13:54.000Z"
-        },
-        {
-          "title": "잘나가던 스타트업이 MSA 도입하고 6개월 만에 망할 뻔한 사연",
-          "link": "https://news.hada.io/topic?id=25571",
-          "pubDate": "2026-01-05T01:08:24.000Z",
-          "author": "baeba",
-          "content": "<p>최근 해외 기술 블로그에서 화제가 된 <em>&quot;Microservices Killed Our Startup. Monoliths Would’ve Saved Us&quot;</em> 라는 글을 읽고, 내용이 너무 뼈아프면서도 공감이 되어 요약 공유합니다.</p>\n<p>무조건적인 최신 기술 도입이 얼마나 위험한지 보여주는 좋은 &quot;오답 노트&quot; 같네요.</p>\n<hr /",
-          "contentSnippet": "최근 해외 기술 블로그에서 화제가 된 \"Microservices Killed Our Startup. Monoliths Would’ve Saved Us\" 라는 글을 읽고, 내용이 너무 뼈아프면서도 공감이 되어 요약 공유합니다.\n무조건적인 최신 기술 도입이 얼마나 위험한지 보여주는 좋은 \"오답 노트\" 같네요.\n<hr /",
-          "id": "https://news.hada.io/topic?id=25571",
-          "isoDate": "2026-01-05T01:08:24.000Z"
         }
       ]
     }
