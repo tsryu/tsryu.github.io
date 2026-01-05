@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "브라우저가 작동하는 방식에 대한 인터랙티브 가이드",
+          "link": "https://news.hada.io/topic?id=25586",
+          "pubDate": "2026-01-05T18:32:50.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>웹 엔지니어와 일반 사용자가 <strong>브라우저의 내부 동작 원리</strong>를 직관적으로 이해할 수 있도록 만든 <strong>인터랙티브 학습 가이드</strong>\n</li>\n<li>주소창 입력부터 <strong>HTTP 요청 생성, DNS 해석, TCP 연결, HTML 파싱, DOM 구성, 렌더링 파이프라인</strong>까지 과정을 단계별로 시각...</p>",
+          "contentSnippet": "웹 엔지니어와 일반 사용자가 브라우저의 내부 동작 원리를 직관적으로 이해할 수 있도록 만든 인터랙티브 학습 가이드\n\n주소창 입력부터 HTTP 요청 생성, DNS 해석, TCP 연결, HTML 파싱, DOM 구성, 렌더링 파이프라인까지 과정을 단계별로 시각...",
+          "id": "https://news.hada.io/topic?id=25586",
+          "isoDate": "2026-01-05T18:32:50.000Z"
+        },
+        {
+          "title": "단순한 데이터에 최소제곱 적합을 적용할 때 왜 편향이 있는 것처럼 보이는가",
+          "link": "https://news.hada.io/topic?id=25585",
+          "pubDate": "2026-01-05T17:33:20.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>선형 최소제곱 회귀선</strong>이 단순한 테스트 데이터에서 실제보다 기울어져 보이는 이유는 <strong>데이터 생성 과정의 특성</strong> 때문임</li>\n<li>회귀모형은 <strong>오차항이 X와 독립</strong>이라는 가정하에 ( Y = \\beta_0 + \\beta_1 X + \\varepsilon ) 형태를 따름</li>\n<li>\n<strong>...</p>",
+          "contentSnippet": "선형 최소제곱 회귀선이 단순한 테스트 데이터에서 실제보다 기울어져 보이는 이유는 데이터 생성 과정의 특성 때문임\n회귀모형은 오차항이 X와 독립이라는 가정하에 ( Y = \\beta_0 + \\beta_1 X + \\varepsilon ) 형태를 따름\n...",
+          "id": "https://news.hada.io/topic?id=25585",
+          "isoDate": "2026-01-05T17:33:20.000Z"
+        },
+        {
+          "title": "Show GN: DuckDB 위에서 dplyr 스타일 파이프라인을 실험해봤습니다",
+          "link": "https://news.hada.io/topic?id=25584",
+          "pubDate": "2026-01-05T15:07:48.000Z",
+          "author": "mrchypark",
+          "content": "<p>DuckDB를 분석 작업에 쓰면서<br />\nSQL만으로도 충분히 많은 일을 할 수 있다고 느꼈습니다.</p>\n<p>다만 개인적으로는,<br />\nSQL을 쓰다 보면 분석 과정이 길어질수록<br />\nCTE를 점점 많이 쓰게 되는 패턴이 반복됐습니다.</p>\n<p>중간 상태를 이름 붙여 고정하지 않으면<br />\n제가 어떤 생각 순서로 이 쿼리를",
+          "contentSnippet": "DuckDB를 분석 작업에 쓰면서\n다만 개인적으로는,\n중간 상태를 이름 붙여 고정하지 않으면\n제가 어떤 생각 순서로 이 쿼리를",
+          "id": "https://news.hada.io/topic?id=25584",
+          "isoDate": "2026-01-05T15:07:48.000Z"
+        },
+        {
           "title": "바이브코딩을 하면서 과몰입(터널)에 빠지지 않고, 진짜 몰입하는 법",
           "link": "https://news.hada.io/topic?id=25583",
           "pubDate": "2026-01-05T11:23:24.000Z",
@@ -75,36 +105,6 @@
           "contentSnippet": "기술이 일상에 깊이 침투한 시대, AI가 인간을 대체하는 구조가 아니라 인간을 중심에 두는 ‘AI in the human loop’ 시대로의 전환이 본격화되며 외로움·보안 같은 핵심 문제 해결의 전환점이 형성됨\n전 세계 6명 중 1명이 겪는 외로움 위기에 대응해, 로봇 컴패...",
           "id": "https://news.hada.io/topic?id=25576",
           "isoDate": "2026-01-05T02:01:02.000Z"
-        },
-        {
-          "title": "빠르게 일하는 날과 느리게 일하는 날",
-          "link": "https://news.hada.io/topic?id=25575",
-          "pubDate": "2026-01-05T01:41:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>매일 동일한 생산성을 유지하지 않고 <strong>집중이 극대화되는 날과 그렇지 않은 날을 구분해 일하는 방식</strong>\n</li>\n<li>엔지니어의 <strong>업무 집중도는 날마다 다르며</strong>, 이를 문제로 보지 않고 자연스럽게 받아들이는 것이 오히려 생산성에 유리함</li>\n<li>집중 상태가 아닐 때 고난도 프...</p>",
-          "contentSnippet": "매일 동일한 생산성을 유지하지 않고 집중이 극대화되는 날과 그렇지 않은 날을 구분해 일하는 방식\n\n엔지니어의 업무 집중도는 날마다 다르며, 이를 문제로 보지 않고 자연스럽게 받아들이는 것이 오히려 생산성에 유리함\n집중 상태가 아닐 때 고난도 프...",
-          "id": "https://news.hada.io/topic?id=25575",
-          "isoDate": "2026-01-05T01:41:02.000Z"
-        },
-        {
-          "title": "웹 개발이 다시 재미있어졌다",
-          "link": "https://news.hada.io/topic?id=25574",
-          "pubDate": "2026-01-05T01:32:49.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>과거에는 <strong>PHP 4, jQuery, Dreamweaver</strong> 등으로 웹사이트를 단순한 구조로 만들 수 있었고, 한 개발자가 전체 과정을 관리할 수 있었음</li>\n<li>현재는 <strong>프론트엔드와 백엔드의 복잡성</strong>이 크게 증가해, 빌드 파이프라인·테스트·인프라 관리 등 각 영역이 깊은 전문성을 요구함...</p>",
-          "contentSnippet": "과거에는 PHP 4, jQuery, Dreamweaver 등으로 웹사이트를 단순한 구조로 만들 수 있었고, 한 개발자가 전체 과정을 관리할 수 있었음\n현재는 프론트엔드와 백엔드의 복잡성이 크게 증가해, 빌드 파이프라인·테스트·인프라 관리 등 각 영역이 깊은 전문성을 요구함...",
-          "id": "https://news.hada.io/topic?id=25574",
-          "isoDate": "2026-01-05T01:32:49.000Z"
-        },
-        {
-          "title": "성공적인 관리자의 아주 작은 습관들",
-          "link": "https://news.hada.io/topic?id=25573",
-          "pubDate": "2026-01-05T01:21:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>일상 속 <strong>작은 행동의 누적</strong>이 관리자와 구성원 사이에 강한 신뢰를 형성하며, 훌륭한 관리자의 차이를 만들어냄</li>\n<li>채용이나 성과 평가 같은 큰 결정보다, <strong>토론을 피하지 않는 태도</strong>, 결정 권한 위임 같은 <strong>미세한 선택</strong>이 더 큰 영향을 미침</li>\n<li>취...</p>",
-          "contentSnippet": "일상 속 작은 행동의 누적이 관리자와 구성원 사이에 강한 신뢰를 형성하며, 훌륭한 관리자의 차이를 만들어냄\n채용이나 성과 평가 같은 큰 결정보다, 토론을 피하지 않는 태도, 결정 권한 위임 같은 미세한 선택이 더 큰 영향을 미침\n취...",
-          "id": "https://news.hada.io/topic?id=25573",
-          "isoDate": "2026-01-05T01:21:01.000Z"
         }
       ]
     }
