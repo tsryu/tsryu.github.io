@@ -7,104 +7,104 @@
       "priority": 1,
       "data": [
         {
-          "title": "중국 DRAM 제조사 CXMT, 삼성·SK하이닉스·마이크론에 맞서 42억 달러 IPO 추진",
-          "link": "https://news.hada.io/topic?id=25559",
-          "pubDate": "2026-01-04T19:32:55.000Z",
+          "title": "Claude Code On-the-Go",
+          "link": "https://news.hada.io/topic?id=25578",
+          "pubDate": "2026-01-05T02:32:50.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>중국 <strong>DRAM 제조사 CXMT</strong>가 상하이 증권거래소 STAR 마켓 상장을 위해 약 <strong>42억 달러(295억 위안)</strong> 규모의 IPO를 신청</li>\n<li>조달 자금은 <strong>대량 생산 라인 업그레이드</strong>, <strong>DRAM 공정 기술 고도화</strong>, <strong>차세대 메모리 R&amp;D</strong>에 투...</p>",
-          "contentSnippet": "중국 DRAM 제조사 CXMT가 상하이 증권거래소 STAR 마켓 상장을 위해 약 42억 달러(295억 위안) 규모의 IPO를 신청\n조달 자금은 대량 생산 라인 업그레이드, DRAM 공정 기술 고도화, 차세대 메모리 R&D에 투...",
-          "id": "https://news.hada.io/topic?id=25559",
-          "isoDate": "2026-01-04T19:32:55.000Z"
+          "content": "<ul>\n<li>\n<strong>스마트폰만으로 6개의 Claude Code 에이전트를 병렬 실행</strong>하며 개발 작업을 수행하는 구성 설명</li>\n<li>\n<strong>Termius와 mosh</strong>, <strong>Tailscale VPN</strong>, <strong>Vultr VM</strong>을 조합해 노트북 없이도 안정적인 원격 개발 환경 유지</li>\n<li>\n<strong>tmux 세션 ...</p>",
+          "contentSnippet": "스마트폰만으로 6개의 Claude Code 에이전트를 병렬 실행하며 개발 작업을 수행하는 구성 설명\nTermius와 mosh, Tailscale VPN, Vultr VM을 조합해 노트북 없이도 안정적인 원격 개발 환경 유지\ntmux 세션 ...",
+          "id": "https://news.hada.io/topic?id=25578",
+          "isoDate": "2026-01-05T02:32:50.000Z"
         },
         {
-          "title": "AI 음성 에이전트를 활용한 구술시험 확장 실험",
-          "link": "https://news.hada.io/topic?id=25558",
-          "pubDate": "2026-01-04T18:33:16.000Z",
+          "title": "아마존 CTO의 2026년 이후 기술 예측",
+          "link": "https://news.hada.io/topic?id=25576",
+          "pubDate": "2026-01-05T02:01:02.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>대형 언어모델(LLM)</strong> 의 확산으로 기존 과제·시험이 학습 이해도를 측정하지 못하게 되자, 교수진은 <strong>ElevenLabs 음성 AI</strong>를 이용해 실시간 구술시험을 도입함</li>\n<li>시험은 프로젝트 설명과 사례 질의 두 부분으로 구성되어, 학생이 직접 <strong>결정 근거와 사고 과정...</p>",
-          "contentSnippet": "대형 언어모델(LLM) 의 확산으로 기존 과제·시험이 학습 이해도를 측정하지 못하게 되자, 교수진은 ElevenLabs 음성 AI를 이용해 실시간 구술시험을 도입함\n시험은 프로젝트 설명과 사례 질의 두 부분으로 구성되어, 학생이 직접 결정 근거와 사고 과정...",
-          "id": "https://news.hada.io/topic?id=25558",
-          "isoDate": "2026-01-04T18:33:16.000Z"
+          "content": "<ul>\n<li>기술이 일상에 깊이 침투한 시대, <strong>AI가 인간을 대체하는 구조가 아니라 인간을 중심에 두는 ‘AI in the human loop’ 시대로의 전환</strong>이 본격화되며 외로움·보안 같은 핵심 문제 해결의 전환점이 형성됨</li>\n<li>전 세계 6명 중 1명이 겪는 <strong>외로움 위기</strong>에 대응해, 로봇 컴패...</p>",
+          "contentSnippet": "기술이 일상에 깊이 침투한 시대, AI가 인간을 대체하는 구조가 아니라 인간을 중심에 두는 ‘AI in the human loop’ 시대로의 전환이 본격화되며 외로움·보안 같은 핵심 문제 해결의 전환점이 형성됨\n전 세계 6명 중 1명이 겪는 외로움 위기에 대응해, 로봇 컴패...",
+          "id": "https://news.hada.io/topic?id=25576",
+          "isoDate": "2026-01-05T02:01:02.000Z"
         },
         {
-          "title": "안드로이드에서 Swift로 완전한 네이티브 앱 개발이 가능해짐",
-          "link": "https://news.hada.io/topic?id=25557",
-          "pubDate": "2026-01-04T15:32:50.000Z",
+          "title": "빠르게 일하는 날과 느리게 일하는 날",
+          "link": "https://news.hada.io/topic?id=25575",
+          "pubDate": "2026-01-05T01:41:02.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Swift 언어로 안드로이드 네이티브 앱을 개발할 수 있는 환경</strong>이 공개되어, 기존 iOS 중심의 Swift 생태계가 확장됨</li>\n<li>\n<strong>Droid 프레임워크</strong>는 AndroidX, Flexbox, Material Design을 포함한 풍부한 구성요소를 제공</li>\n<li>\n<strong>SwiftUI와 유사한 선언형 문법</s...</p>",
-          "contentSnippet": "Swift 언어로 안드로이드 네이티브 앱을 개발할 수 있는 환경이 공개되어, 기존 iOS 중심의 Swift 생태계가 확장됨\nDroid 프레임워크는 AndroidX, Flexbox, Material Design을 포함한 풍부한 구성요소를 제공\nSwiftUI와 유사한 선언형 문법",
-          "id": "https://news.hada.io/topic?id=25557",
-          "isoDate": "2026-01-04T15:32:50.000Z"
+          "content": "<ul>\n<li>매일 동일한 생산성을 유지하지 않고 <strong>집중이 극대화되는 날과 그렇지 않은 날을 구분해 일하는 방식</strong>\n</li>\n<li>엔지니어의 <strong>업무 집중도는 날마다 다르며</strong>, 이를 문제로 보지 않고 자연스럽게 받아들이는 것이 오히려 생산성에 유리함</li>\n<li>집중 상태가 아닐 때 고난도 프...</p>",
+          "contentSnippet": "매일 동일한 생산성을 유지하지 않고 집중이 극대화되는 날과 그렇지 않은 날을 구분해 일하는 방식\n\n엔지니어의 업무 집중도는 날마다 다르며, 이를 문제로 보지 않고 자연스럽게 받아들이는 것이 오히려 생산성에 유리함\n집중 상태가 아닐 때 고난도 프...",
+          "id": "https://news.hada.io/topic?id=25575",
+          "isoDate": "2026-01-05T01:41:02.000Z"
         },
         {
-          "title": "매초 복권 추첨 - 확률이 무너지는 모습을 실시간으로 보기",
-          "link": "https://news.hada.io/topic?id=25556",
-          "pubDate": "2026-01-04T14:37:16.000Z",
+          "title": "웹 개발이 다시 재미있어졌다",
+          "link": "https://news.hada.io/topic?id=25574",
+          "pubDate": "2026-01-05T01:32:49.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>Powerball과 EuroJackpot을 <strong>매초 자동으로 추첨</strong>해 복권 당첨 확률의 현실을 시각화하는 웹사이트</li>\n<li>Powerball의 <strong>잭팟 확률은 2억9,220만분의 1</strong>, EuroJackpot은 <strong>1억3,980만분의 1</strong>로, 인간이 체감하기 어려운 수준의 낮은 확률</li>\n<li>사이트는 이 ...</p>",
-          "contentSnippet": "Powerball과 EuroJackpot을 매초 자동으로 추첨해 복권 당첨 확률의 현실을 시각화하는 웹사이트\nPowerball의 잭팟 확률은 2억9,220만분의 1, EuroJackpot은 1억3,980만분의 1로, 인간이 체감하기 어려운 수준의 낮은 확률\n사이트는 이 ...",
-          "id": "https://news.hada.io/topic?id=25556",
-          "isoDate": "2026-01-04T14:37:16.000Z"
+          "content": "<ul>\n<li>과거에는 <strong>PHP 4, jQuery, Dreamweaver</strong> 등으로 웹사이트를 단순한 구조로 만들 수 있었고, 한 개발자가 전체 과정을 관리할 수 있었음</li>\n<li>현재는 <strong>프론트엔드와 백엔드의 복잡성</strong>이 크게 증가해, 빌드 파이프라인·테스트·인프라 관리 등 각 영역이 깊은 전문성을 요구함...</p>",
+          "contentSnippet": "과거에는 PHP 4, jQuery, Dreamweaver 등으로 웹사이트를 단순한 구조로 만들 수 있었고, 한 개발자가 전체 과정을 관리할 수 있었음\n현재는 프론트엔드와 백엔드의 복잡성이 크게 증가해, 빌드 파이프라인·테스트·인프라 관리 등 각 영역이 깊은 전문성을 요구함...",
+          "id": "https://news.hada.io/topic?id=25574",
+          "isoDate": "2026-01-05T01:32:49.000Z"
         },
         {
-          "title": "베네수엘라 수도 카라카스에서 폭발 발생, 트럼프 “미국이 마두로 대통령 부부를 생포했다” 발표",
-          "link": "https://news.hada.io/topic?id=25555",
-          "pubDate": "2026-01-04T14:34:16.000Z",
+          "title": "성공적인 관리자의 아주 작은 습관들",
+          "link": "https://news.hada.io/topic?id=25573",
+          "pubDate": "2026-01-05T01:21:01.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>미국이 <strong>니콜라스 마두로 베네수엘라 대통령과 부인 실리아 플로레스</strong>를 새벽 기습 작전으로 체포해 국외로 이송했다고 도널드 트럼프가 발표</li>\n<li>트럼프는 이를 “<strong>훌륭한 작전</strong>”이라 칭하며 미군의 대규모 공습과 지상 작전이 동반됐다고 언급</li>\n<li>미국 법무장관 팸...</p>",
-          "contentSnippet": "미국이 니콜라스 마두로 베네수엘라 대통령과 부인 실리아 플로레스를 새벽 기습 작전으로 체포해 국외로 이송했다고 도널드 트럼프가 발표\n트럼프는 이를 “훌륭한 작전”이라 칭하며 미군의 대규모 공습과 지상 작전이 동반됐다고 언급\n미국 법무장관 팸...",
-          "id": "https://news.hada.io/topic?id=25555",
-          "isoDate": "2026-01-04T14:34:16.000Z"
+          "content": "<ul>\n<li>일상 속 <strong>작은 행동의 누적</strong>이 관리자와 구성원 사이에 강한 신뢰를 형성하며, 훌륭한 관리자의 차이를 만들어냄</li>\n<li>채용이나 성과 평가 같은 큰 결정보다, <strong>토론을 피하지 않는 태도</strong>, 결정 권한 위임 같은 <strong>미세한 선택</strong>이 더 큰 영향을 미침</li>\n<li>취...</p>",
+          "contentSnippet": "일상 속 작은 행동의 누적이 관리자와 구성원 사이에 강한 신뢰를 형성하며, 훌륭한 관리자의 차이를 만들어냄\n채용이나 성과 평가 같은 큰 결정보다, 토론을 피하지 않는 태도, 결정 권한 위임 같은 미세한 선택이 더 큰 영향을 미침\n취...",
+          "id": "https://news.hada.io/topic?id=25573",
+          "isoDate": "2026-01-05T01:21:01.000Z"
         },
         {
-          "title": "우리가 ‘힘듦’을 겪는 이유",
-          "link": "https://news.hada.io/topic?id=25554",
-          "pubDate": "2026-01-04T12:33:03.000Z",
+          "title": "2025 JavaScript Rising Stars",
+          "link": "https://news.hada.io/topic?id=25572",
+          "pubDate": "2026-01-05T01:13:54.000Z",
+          "author": "soaple",
+          "content": "<p>2025년 한 해 동안 가장 많은 GitHub Star를 받은 자바스크립트 프로젝트 순위입니다.</p>\n<p>전체 프로젝트 부문<br />\n1위. n8n<br />\n2위. shadcn/ui<br />\n3위. React Bits<br />\n4위. Excalidraw<br />\n5위. Supabase<br />\n6위. Onlook<br />\n7위. Better Auth<br />\n8위. Dyad<br />\n9위. AFFiNE<br />\n10위. ",
+          "contentSnippet": "2025년 한 해 동안 가장 많은 GitHub Star를 받은 자바스크립트 프로젝트 순위입니다.\n전체 프로젝트 부문\n1위. n8n\n2위. shadcn/ui\n3위. React Bits\n4위. Excalidraw\n5위. Supabase\n6위. Onlook\n7위. Better Auth\n8위. Dyad\n9위. AFFiNE\n10위.",
+          "id": "https://news.hada.io/topic?id=25572",
+          "isoDate": "2026-01-05T01:13:54.000Z"
+        },
+        {
+          "title": "잘나가던 스타트업이 MSA 도입하고 6개월 만에 망할 뻔한 사연",
+          "link": "https://news.hada.io/topic?id=25571",
+          "pubDate": "2026-01-05T01:08:24.000Z",
+          "author": "baeba",
+          "content": "<p>최근 해외 기술 블로그에서 화제가 된 <em>&quot;Microservices Killed Our Startup. Monoliths Would’ve Saved Us&quot;</em> 라는 글을 읽고, 내용이 너무 뼈아프면서도 공감이 되어 요약 공유합니다.</p>\n<p>무조건적인 최신 기술 도입이 얼마나 위험한지 보여주는 좋은 &quot;오답 노트&quot; 같네요.</p>\n<hr /",
+          "contentSnippet": "최근 해외 기술 블로그에서 화제가 된 \"Microservices Killed Our Startup. Monoliths Would’ve Saved Us\" 라는 글을 읽고, 내용이 너무 뼈아프면서도 공감이 되어 요약 공유합니다.\n무조건적인 최신 기술 도입이 얼마나 위험한지 보여주는 좋은 \"오답 노트\" 같네요.\n<hr /",
+          "id": "https://news.hada.io/topic?id=25571",
+          "isoDate": "2026-01-05T01:08:24.000Z"
+        },
+        {
+          "title": "Claude Code 창시자 Boris Cherny가 Claude Code를 사용하는 방법",
+          "link": "https://news.hada.io/topic?id=25570",
+          "pubDate": "2026-01-05T01:01:01.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>한 필자가 자신의 글 스타일을 모방한 <strong>AI 글쓰기 모델</strong>을 실험한 사례를 통해, 인공지능이 인간의 사고 과정을 대체할 수 없음을 보여줌</li>\n<li>AI가 생성한 글은 겉보기엔 자연스럽지만, 세부적으로 보면 <strong>논리의 방향과 어조가 어긋나는 ‘언캐니 밸리’ 현상</strong>을 보임</li>...</p>",
-          "contentSnippet": "한 필자가 자신의 글 스타일을 모방한 AI 글쓰기 모델을 실험한 사례를 통해, 인공지능이 인간의 사고 과정을 대체할 수 없음을 보여줌\nAI가 생성한 글은 겉보기엔 자연스럽지만, 세부적으로 보면 논리의 방향과 어조가 어긋나는 ‘언캐니 밸리’ 현상을 보임\n...",
-          "id": "https://news.hada.io/topic?id=25554",
-          "isoDate": "2026-01-04T12:33:03.000Z"
+          "content": "<ul>\n<li>자신의 실제 작업 환경과 워크플로우를 공개, 터미널에서 <strong>5개의 Claude를 병렬 실행</strong>하고 웹에서 5~10개를 추가로 운영하는 방식 소개</li>\n<li>모든 작업에 <strong>Opus 4.5 with thinking</strong>을 사용하며, 크고 느리지만 조정이 적게 필요하고 도구 활용 능력이 뛰어나 결과적으로 더 ...</p>",
+          "contentSnippet": "자신의 실제 작업 환경과 워크플로우를 공개, 터미널에서 5개의 Claude를 병렬 실행하고 웹에서 5~10개를 추가로 운영하는 방식 소개\n모든 작업에 Opus 4.5 with thinking을 사용하며, 크고 느리지만 조정이 적게 필요하고 도구 활용 능력이 뛰어나 결과적으로 더 ...",
+          "id": "https://news.hada.io/topic?id=25570",
+          "isoDate": "2026-01-05T01:01:01.000Z"
         },
         {
-          "title": "C3 프로그래밍 언어",
-          "link": "https://news.hada.io/topic?id=25553",
-          "pubDate": "2026-01-04T11:32:49.000Z",
+          "title": "2026년에 드디어 Wayland을 쓸 수 있을까?",
+          "link": "https://news.hada.io/topic?id=25569",
+          "pubDate": "2026-01-05T00:49:17.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>C 언어의 문법과 의미를 계승하면서 안전성과 사용성을 강화한 진화형 언어</strong>로, 기존 C 개발자에게 익숙한 환경을 유지</li>\n<li>\n<strong>완전한 C ABI 호환성</strong>을 제공해 C/C++ 프로젝트에 바로 통합 가능하며, vkQuake 일부 코드가 C3로 변환되어 c3c 컴파일러로 빌드된 사례 존재...</p>",
-          "contentSnippet": "C 언어의 문법과 의미를 계승하면서 안전성과 사용성을 강화한 진화형 언어로, 기존 C 개발자에게 익숙한 환경을 유지\n완전한 C ABI 호환성을 제공해 C/C++ 프로젝트에 바로 통합 가능하며, vkQuake 일부 코드가 C3로 변환되어 c3c 컴파일러로 빌드된 사례 존재...",
-          "id": "https://news.hada.io/topic?id=25553",
-          "isoDate": "2026-01-04T11:32:49.000Z"
+          "content": "<ul>\n<li>\n<strong>Wayland</strong>는 X11의 후속 그래픽 스택으로 2008년에 시작되었지만, 작성자는 18년 동안 자신의 시스템에서 제대로 사용할 수 없었다고 평가함</li>\n<li>2025년 기준 <strong>nVidia 드라이버의 GBM 및 explicit sync 지원</strong>으로 기본 실행은 가능해졌으나, 여전히 <strong>8K 모니터 TIL...</p>",
+          "contentSnippet": "Wayland는 X11의 후속 그래픽 스택으로 2008년에 시작되었지만, 작성자는 18년 동안 자신의 시스템에서 제대로 사용할 수 없었다고 평가함\n2025년 기준 nVidia 드라이버의 GBM 및 explicit sync 지원으로 기본 실행은 가능해졌으나, 여전히 8K 모니터 TIL...",
+          "id": "https://news.hada.io/topic?id=25569",
+          "isoDate": "2026-01-05T00:49:17.000Z"
         },
         {
-          "title": "Microsoft가 인터넷 없이 Windows 11/10을 정식으로 활성화하는 방법을 중단",
-          "link": "https://news.hada.io/topic?id=25552",
-          "pubDate": "2026-01-04T10:33:22.000Z",
+          "title": "스트리트 파이터 II, 더 월드 워리어 (2021)",
+          "link": "https://news.hada.io/topic?id=25568",
+          "pubDate": "2026-01-05T00:46:17.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Windows 11과 10의 오프라인 정품 인증 기능</strong>이 공식적으로 중단되어, 인터넷 연결 없이 제품을 활성화할 수 없게 됨</li>\n<li>기존에는 <strong>전화 인증(telephone activation)</strong> 방식을 통해 네트워크 없이도 정품 인증이 가능했음</li>\n<li>Microsoft가 이 방식을 <strong>조용히...</p>",
-          "contentSnippet": "Windows 11과 10의 오프라인 정품 인증 기능이 공식적으로 중단되어, 인터넷 연결 없이 제품을 활성화할 수 없게 됨\n기존에는 전화 인증(telephone activation) 방식을 통해 네트워크 없이도 정품 인증이 가능했음\nMicrosoft가 이 방식을 조용히...",
-          "id": "https://news.hada.io/topic?id=25552",
-          "isoDate": "2026-01-04T10:33:22.000Z"
-        },
-        {
-          "title": "Show GN: Redis / Valkey용 GUI 툴 (근데 이제 큐·스케줄을 곁들인) - Redimo",
-          "link": "https://news.hada.io/topic?id=25551",
-          "pubDate": "2026-01-04T10:24:56.000Z",
-          "author": "shh6155",
-          "content": "<p>Redis / Valkey를 쓰면서 기존 GUI 툴들이 제 사용 패턴과 잘 맞지 않아 직접 하나 만들어봤습니다.</p>\n<p>이 툴은 Tauri 기반이라 비교적 가볍게 동작하고,<br />\n실제로 Redis를 많이 사용하는 유즈케이스인 큐나 스케줄 관리에 맞춘 전용 뷰를 제공합니다.<br />\n(BullMQ, Celery 같은 케이스를 염두에 두고 만들",
-          "contentSnippet": "Redis / Valkey를 쓰면서 기존 GUI 툴들이 제 사용 패턴과 잘 맞지 않아 직접 하나 만들어봤습니다.\n이 툴은 Tauri 기반이라 비교적 가볍게 동작하고,\n실제로 Redis를 많이 사용하는 유즈케이스인 큐나 스케줄 관리에 맞춘 전용 뷰를 제공합니다.\n(BullMQ, Celery 같은 케이스를 염두에 두고 만들",
-          "id": "https://news.hada.io/topic?id=25551",
-          "isoDate": "2026-01-04T10:24:56.000Z"
-        },
-        {
-          "title": "Show GN: 3일만에 antigravity로 만들어본 타워디펜스",
-          "link": "https://news.hada.io/topic?id=25549",
-          "pubDate": "2026-01-04T05:36:20.000Z",
-          "author": "cybrshin",
-          "content": "<p>원래는 claude code와 cursor를 쓰다가 작년 퇴사 후 11월부터 antigravity로 갈아타고나서 이것저것 토이 웹서비스 프로젝트를 하루마다 만들고 있었는데, 갑자기 3일전(1/2)에 타워디펜스 게임을 만들어 보고 싶어졌습니다.<br />\n원래 웹frontend개발자라 앱으로 감싸기는 귀찮고, 그냥 데스크탑 브라우저 환경에서...</p>",
-          "contentSnippet": "원래는 claude code와 cursor를 쓰다가 작년 퇴사 후 11월부터 antigravity로 갈아타고나서 이것저것 토이 웹서비스 프로젝트를 하루마다 만들고 있었는데, 갑자기 3일전(1/2)에 타워디펜스 게임을 만들어 보고 싶어졌습니다.\n원래 웹frontend개발자라 앱으로 감싸기는 귀찮고, 그냥 데스크탑 브라우저 환경에서...",
-          "id": "https://news.hada.io/topic?id=25549",
-          "isoDate": "2026-01-04T05:36:20.000Z"
+          "content": "<ul>\n<li>아케이드 게임 <strong>Street Fighter II</strong>의 부제 ‘World Warrior’가 출시 직전까지 <strong>‘World Warrier’로 오타</strong>가 있었던 일화를 다룸</li>\n<li>그래픽 디자이너 <strong>Akiman</strong>이 GFX ROM이 이미 굽혀진 상태에서 수정이 불가능하자, <strong>스프라이트 조합으로 ‘e’를...</p>",
+          "contentSnippet": "아케이드 게임 Street Fighter II의 부제 ‘World Warrior’가 출시 직전까지 ‘World Warrier’로 오타가 있었던 일화를 다룸\n그래픽 디자이너 Akiman이 GFX ROM이 이미 굽혀진 상태에서 수정이 불가능하자, 스프라이트 조합으로 ‘e’를...",
+          "id": "https://news.hada.io/topic?id=25568",
+          "isoDate": "2026-01-05T00:46:17.000Z"
         }
       ]
     }
