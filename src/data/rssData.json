@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "무릎 연골을 재생하고 관절염을 예방하는 항노화 주사",
+          "link": "https://news.hada.io/topic?id=25581",
+          "pubDate": "2026-01-05T07:32:57.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>15-PGDH 단백질 억제제</strong>가 노화나 부상으로 손상된 무릎 연골을 재생시키고 관절염 발생을 막는 효과를 보임</li>\n<li>이 치료법은 <strong>줄기세포를 사용하지 않고 기존 연골세포(연골세포, chondrocyte)</strong> 의 유전자 발현을 젊은 상태로 되돌려 재생을 유도함</li>\n<li>노화한 생쥐...</p>",
+          "contentSnippet": "15-PGDH 단백질 억제제가 노화나 부상으로 손상된 무릎 연골을 재생시키고 관절염 발생을 막는 효과를 보임\n이 치료법은 줄기세포를 사용하지 않고 기존 연골세포(연골세포, chondrocyte) 의 유전자 발현을 젊은 상태로 되돌려 재생을 유도함\n노화한 생쥐...",
+          "id": "https://news.hada.io/topic?id=25581",
+          "isoDate": "2026-01-05T07:32:57.000Z"
+        },
+        {
+          "title": "ArmSoM CM5, 에지 인텔리전스로 차세대 실시간 해양 음향 모니터링 구현",
+          "link": "https://news.hada.io/topic?id=25580",
+          "pubDate": "2026-01-05T06:28:31.000Z",
+          "author": "armsomyla",
+          "content": "<p>주요 진전: 뉴질랜드 웡아레이 항구에서 13개월 이상 성공적으로 가동된 후, ArmSoM CM5 시스템 온 모듈을 탑재한 세계 최초 AI 고래 조난 조기 경보 부표가 2025년 12월 골든베이 ‘Farewell Spit’ 해역에 정식 배치되었습니다.</p>\n<p>기술적 과제와 해결방안: 기존 해양 음향 모니터링의 데이터 지연, 높은 비용,",
+          "contentSnippet": "주요 진전: 뉴질랜드 웡아레이 항구에서 13개월 이상 성공적으로 가동된 후, ArmSoM CM5 시스템 온 모듈을 탑재한 세계 최초 AI 고래 조난 조기 경보 부표가 2025년 12월 골든베이 ‘Farewell Spit’ 해역에 정식 배치되었습니다.\n기술적 과제와 해결방안: 기존 해양 음향 모니터링의 데이터 지연, 높은 비용,",
+          "id": "https://news.hada.io/topic?id=25580",
+          "isoDate": "2026-01-05T06:28:31.000Z"
+        },
+        {
+          "title": "Show GN: TTF - Tailscale TPM 오류 해결 유틸리티",
+          "link": "https://news.hada.io/topic?id=25579",
+          "pubDate": "2026-01-05T05:35:57.000Z",
+          "author": "mirseo",
+          "content": "<p>안녕하세요!</p>\n<p>최근에 메인보드를 교체했는데, 멀쩡하던 Tailscale 노드가 연결되지 않는 현상이 있었습니다.</p>\n<p>문서를 찾아본 결과 TPM 변경 으로 인한 문제가 발생하는 사안이었는데, 제 환경에서는 이것저것 테스트로 인해 여러 번 변경하게 되어서 TPM 관련 파일을 지우고 초기화하는 작업을 수행하는 ",
+          "contentSnippet": "안녕하세요!\n최근에 메인보드를 교체했는데, 멀쩡하던 Tailscale 노드가 연결되지 않는 현상이 있었습니다.\n문서를 찾아본 결과 TPM 변경 으로 인한 문제가 발생하는 사안이었는데, 제 환경에서는 이것저것 테스트로 인해 여러 번 변경하게 되어서 TPM 관련 파일을 지우고 초기화하는 작업을 수행하는",
+          "id": "https://news.hada.io/topic?id=25579",
+          "isoDate": "2026-01-05T05:35:57.000Z"
+        },
+        {
           "title": "Claude Code On-the-Go",
           "link": "https://news.hada.io/topic?id=25578",
           "pubDate": "2026-01-05T02:32:50.000Z",
@@ -75,36 +105,6 @@
           "contentSnippet": "최근 해외 기술 블로그에서 화제가 된 \"Microservices Killed Our Startup. Monoliths Would’ve Saved Us\" 라는 글을 읽고, 내용이 너무 뼈아프면서도 공감이 되어 요약 공유합니다.\n무조건적인 최신 기술 도입이 얼마나 위험한지 보여주는 좋은 \"오답 노트\" 같네요.\n<hr /",
           "id": "https://news.hada.io/topic?id=25571",
           "isoDate": "2026-01-05T01:08:24.000Z"
-        },
-        {
-          "title": "Claude Code 창시자 Boris Cherny가 Claude Code를 사용하는 방법",
-          "link": "https://news.hada.io/topic?id=25570",
-          "pubDate": "2026-01-05T01:01:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>자신의 실제 작업 환경과 워크플로우를 공개, 터미널에서 <strong>5개의 Claude를 병렬 실행</strong>하고 웹에서 5~10개를 추가로 운영하는 방식 소개</li>\n<li>모든 작업에 <strong>Opus 4.5 with thinking</strong>을 사용하며, 크고 느리지만 조정이 적게 필요하고 도구 활용 능력이 뛰어나 결과적으로 더 ...</p>",
-          "contentSnippet": "자신의 실제 작업 환경과 워크플로우를 공개, 터미널에서 5개의 Claude를 병렬 실행하고 웹에서 5~10개를 추가로 운영하는 방식 소개\n모든 작업에 Opus 4.5 with thinking을 사용하며, 크고 느리지만 조정이 적게 필요하고 도구 활용 능력이 뛰어나 결과적으로 더 ...",
-          "id": "https://news.hada.io/topic?id=25570",
-          "isoDate": "2026-01-05T01:01:01.000Z"
-        },
-        {
-          "title": "2026년에 드디어 Wayland을 쓸 수 있을까?",
-          "link": "https://news.hada.io/topic?id=25569",
-          "pubDate": "2026-01-05T00:49:17.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Wayland</strong>는 X11의 후속 그래픽 스택으로 2008년에 시작되었지만, 작성자는 18년 동안 자신의 시스템에서 제대로 사용할 수 없었다고 평가함</li>\n<li>2025년 기준 <strong>nVidia 드라이버의 GBM 및 explicit sync 지원</strong>으로 기본 실행은 가능해졌으나, 여전히 <strong>8K 모니터 TIL...</p>",
-          "contentSnippet": "Wayland는 X11의 후속 그래픽 스택으로 2008년에 시작되었지만, 작성자는 18년 동안 자신의 시스템에서 제대로 사용할 수 없었다고 평가함\n2025년 기준 nVidia 드라이버의 GBM 및 explicit sync 지원으로 기본 실행은 가능해졌으나, 여전히 8K 모니터 TIL...",
-          "id": "https://news.hada.io/topic?id=25569",
-          "isoDate": "2026-01-05T00:49:17.000Z"
-        },
-        {
-          "title": "스트리트 파이터 II, 더 월드 워리어 (2021)",
-          "link": "https://news.hada.io/topic?id=25568",
-          "pubDate": "2026-01-05T00:46:17.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>아케이드 게임 <strong>Street Fighter II</strong>의 부제 ‘World Warrior’가 출시 직전까지 <strong>‘World Warrier’로 오타</strong>가 있었던 일화를 다룸</li>\n<li>그래픽 디자이너 <strong>Akiman</strong>이 GFX ROM이 이미 굽혀진 상태에서 수정이 불가능하자, <strong>스프라이트 조합으로 ‘e’를...</p>",
-          "contentSnippet": "아케이드 게임 Street Fighter II의 부제 ‘World Warrior’가 출시 직전까지 ‘World Warrier’로 오타가 있었던 일화를 다룸\n그래픽 디자이너 Akiman이 GFX ROM이 이미 굽혀진 상태에서 수정이 불가능하자, 스프라이트 조합으로 ‘e’를...",
-          "id": "https://news.hada.io/topic?id=25568",
-          "isoDate": "2026-01-05T00:46:17.000Z"
         }
       ]
     }
