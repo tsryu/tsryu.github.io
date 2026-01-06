@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "바이브 코딩으로 어디까지 개발할 수 있을까?",
+          "link": "https://news.hada.io/topic?id=25611",
+          "pubDate": "2026-01-06T12:34:56.000Z",
+          "author": "sungmin330",
+          "content": "<p>프로덕트 자체보다 기술 및 구현 사이드에서 느낀 점을 회고한 내용입니다.</p>\n<p>완벽히 개인적인 생각입니다.</p>\n<p>대학교 4학년 학기중에 배우면서 개발한 프로젝트임을 감안해서 봐 주세요!</p>\n<h3>왜 이 프로젝트를 시작하게 되었는가</h3>\n<ul>\n<li>스타트업을 차린다는 마인드로 프로덕트 개발. PM/PO 관점",
+          "contentSnippet": "프로덕트 자체보다 기술 및 구현 사이드에서 느낀 점을 회고한 내용입니다.\n완벽히 개인적인 생각입니다.\n대학교 4학년 학기중에 배우면서 개발한 프로젝트임을 감안해서 봐 주세요!\n왜 이 프로젝트를 시작하게 되었는가\n스타트업을 차린다는 마인드로 프로덕트 개발. PM/PO 관점",
+          "id": "https://news.hada.io/topic?id=25611",
+          "isoDate": "2026-01-06T12:34:56.000Z"
+        },
+        {
+          "title": "Show GN: 초경량 온디바이스 TTS ‘Supertonic 2’ — 다국어 지원 업데이트",
+          "link": "https://news.hada.io/topic?id=25610",
+          "pubDate": "2026-01-06T10:13:47.000Z",
+          "author": "creampy",
+          "content": "<p>Supertonic이 이제 5개 언어를 지원합니다 (한국어 · 스페인어 · 프랑스어 · 포르투갈어 · 영어)</p>\n<p>Supertonic은 로컬 환경에서 실행되도록 설계된 TTS 모델로 웹브라우저, 일반 PC, 모바일 및 Raspberry Pi 같은 소형 디바이스까지 폭넓게 지원하는 초경량 모델입니다.</p>\n<p>주요 특징은 다음과 같습니다....</p>",
+          "contentSnippet": "Supertonic이 이제 5개 언어를 지원합니다 (한국어 · 스페인어 · 프랑스어 · 포르투갈어 · 영어)\nSupertonic은 로컬 환경에서 실행되도록 설계된 TTS 모델로 웹브라우저, 일반 PC, 모바일 및 Raspberry Pi 같은 소형 디바이스까지 폭넓게 지원하는 초경량 모델입니다.\n주요 특징은 다음과 같습니다....",
+          "id": "https://news.hada.io/topic?id=25610",
+          "isoDate": "2026-01-06T10:13:47.000Z"
+        },
+        {
+          "title": "VSCode에서 Zed로 전환한 경험",
+          "link": "https://news.hada.io/topic?id=25608",
+          "pubDate": "2026-01-06T08:33:25.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>VSCode의 잦은 AI 기능 추가와 불안정성</strong>으로 인해 기존 사용자 경험이 저하되며, 새로운 대안을 찾게 된 사례</li>\n<li>\n<strong>Zed</strong>는 Rust로 작성된 <strong>가볍고 빠른 IDE</strong>로, VSCode 사용자에게 익숙한 UI와 키 바인딩을 제공</li>\n<li>Python 개발 환경 설정 시 <st...</p>",
+          "contentSnippet": "VSCode의 잦은 AI 기능 추가와 불안정성으로 인해 기존 사용자 경험이 저하되며, 새로운 대안을 찾게 된 사례\nZed는 Rust로 작성된 가볍고 빠른 IDE로, VSCode 사용자에게 익숙한 UI와 키 바인딩을 제공\nPython 개발 환경 설정 시",
+          "id": "https://news.hada.io/topic?id=25608",
+          "isoDate": "2026-01-06T08:33:25.000Z"
+        },
+        {
           "title": "구경꾼들이여, 이제 내려와서 직접 뛸 시간이다.",
           "link": "https://news.hada.io/topic?id=25607",
           "pubDate": "2026-01-06T06:42:50.000Z",
@@ -75,36 +105,6 @@
           "contentSnippet": "기존 Microsoft Office 브랜드가 “Microsoft 365 Copilot 앱” 으로 전환되어, 생성형 AI 기능을 중심으로 한 통합 플랫폼으로 재구성됨\nWord, Excel, PowerPoint, Outlook 등 기존 오피스 앱과 Copilot이 하나의 환경에서 통합 작동\n개인, 비즈니스, 교...",
           "id": "https://news.hada.io/topic?id=25598",
           "isoDate": "2026-01-06T02:03:36.000Z"
-        },
-        {
-          "title": "AI 시대에 꼭 알아야할 핵심 용어집 (168p PDF)",
-          "link": "https://news.hada.io/topic?id=25597",
-          "pubDate": "2026-01-06T02:01:27.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>NIA(한국지능정보사회진흥원)이 발간한 <strong>&quot;2025 AI 동향과 이슈로 살펴보는 AI 시대에 꼭 알아야 할 핵심용어집&quot;</strong>\n</li>\n<li>1장: <strong>AI 필수용어 100선</strong> - AI 기술과 정책 흐름을 이해하는데 필수적인 용어들</li>\n<li>2장: 2025년 <strong>AI 이슈를 월별로 정리</stro...</p>",
-          "contentSnippet": "NIA(한국지능정보사회진흥원)이 발간한 \"2025 AI 동향과 이슈로 살펴보는 AI 시대에 꼭 알아야 할 핵심용어집\"\n\n1장: AI 필수용어 100선 - AI 기술과 정책 흐름을 이해하는데 필수적인 용어들\n2장: 2025년 AI 이슈를 월별로 정리",
-          "id": "https://news.hada.io/topic?id=25597",
-          "isoDate": "2026-01-06T02:01:27.000Z"
-        },
-        {
-          "title": "헬렌 폭풍 중, 단순한 텍스트 웹사이트만 원했다",
-          "link": "https://news.hada.io/topic?id=25596",
-          "pubDate": "2026-01-06T00:59:11.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>헬렌 허리케인</strong>으로 인한 정전과 통신 불안정 상황에서 <strong>가벼운 웹 접근성</strong>의 필요성이 드러남</li>\n<li>복잡한 <strong>이미지·스크립트 중심 웹사이트</strong>가 모바일 환경에서 거의 작동하지 않음</li>\n<li>단순한 <strong>텍스트 기반 페이지</strong>가 정보 전달과 접...</p>",
-          "contentSnippet": "헬렌 허리케인으로 인한 정전과 통신 불안정 상황에서 가벼운 웹 접근성의 필요성이 드러남\n복잡한 이미지·스크립트 중심 웹사이트가 모바일 환경에서 거의 작동하지 않음\n단순한 텍스트 기반 페이지가 정보 전달과 접...",
-          "id": "https://news.hada.io/topic?id=25596",
-          "isoDate": "2026-01-06T00:59:11.000Z"
-        },
-        {
-          "title": "베네수엘라 정전 중 발생한 BGP 이상 현상",
-          "link": "https://news.hada.io/topic?id=25595",
-          "pubDate": "2026-01-06T00:56:11.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>베네수엘라 정전 사태와 동시에 <strong>CANTV(AS8048)</strong> 를 중심으로 한 <strong>BGP 라우팅 이상 현상</strong>이 관측됨</li>\n<li>\n<strong>Cloudflare Radar</strong> 데이터에 따르면 1월 2일 CANTV 경로를 포함한 8개의 IP 프리픽스가 <strong>비정상적인 AS 경로</strong>를 통해 라우팅됨</li>\n...</p>",
-          "contentSnippet": "베네수엘라 정전 사태와 동시에 CANTV(AS8048) 를 중심으로 한 BGP 라우팅 이상 현상이 관측됨\nCloudflare Radar 데이터에 따르면 1월 2일 CANTV 경로를 포함한 8개의 IP 프리픽스가 비정상적인 AS 경로를 통해 라우팅됨\n...",
-          "id": "https://news.hada.io/topic?id=25595",
-          "isoDate": "2026-01-06T00:56:11.000Z"
         }
       ]
     }
