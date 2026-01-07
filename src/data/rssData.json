@@ -7,6 +7,66 @@
       "priority": 1,
       "data": [
         {
+          "title": "Claude Code에 숨겨진 멀티 에이전트 시스템 오픈소스로 공개 (CC Mirror)",
+          "link": "https://news.hada.io/topic?id=25638",
+          "pubDate": "2026-01-07T08:00:02.000Z",
+          "author": "davespark",
+          "content": "<p><strong>배경</strong></p>\n<ul>\n<li>Anthropic의 Claude Code에 완성된 멀티 에이전트 ‘팀 모드’ 기능이 존재</li>\n<li>공식적으로 비활성화된 상태 (기능 플래그로 제어됨)</li>\n<li>개발자 Numman Ali가 코드 분석 중 발견</li>\n<li>오픈소스 프로젝트 CC Mirror로 활성화 및 패키징</li>\n</ul>\n<p><strong>CC M",
+          "contentSnippet": "배경\nAnthropic의 Claude Code에 완성된 멀티 에이전트 ‘팀 모드’ 기능이 존재\n공식적으로 비활성화된 상태 (기능 플래그로 제어됨)\n개발자 Numman Ali가 코드 분석 중 발견\n오픈소스 프로젝트 CC Mirror로 활성화 및 패키징\nCC M",
+          "id": "https://news.hada.io/topic?id=25638",
+          "isoDate": "2026-01-07T08:00:02.000Z"
+        },
+        {
+          "title": "Show GN: Agentic Patterns Snippets - AI 에이전트 설계 패턴 99개 카드 뷰어",
+          "link": "https://news.hada.io/topic?id=25637",
+          "pubDate": "2026-01-07T07:05:12.000Z",
+          "author": "esc5221",
+          "content": "<p>해커뉴스에 올라왔던 awesome-agentic-patterns를 카드 형태로 훑어볼 수 있게 만들었습니다.</p>\n<p>원본은 AI 에이전트 실전 설계 패턴 99개 모음집입니다. 에이전트 개발할 때 참고할 만한 패턴들이 정리되어 있습니다.</p>\n<p>두고두고 참고하기 좋은 내용인데, 좀더 깔끔하게 보고싶다는 생각이 들어서<br />\n각",
+          "contentSnippet": "해커뉴스에 올라왔던 awesome-agentic-patterns를 카드 형태로 훑어볼 수 있게 만들었습니다.\n원본은 AI 에이전트 실전 설계 패턴 99개 모음집입니다. 에이전트 개발할 때 참고할 만한 패턴들이 정리되어 있습니다.\n두고두고 참고하기 좋은 내용인데, 좀더 깔끔하게 보고싶다는 생각이 들어서\n각",
+          "id": "https://news.hada.io/topic?id=25637",
+          "isoDate": "2026-01-07T07:05:12.000Z"
+        },
+        {
+          "title": "Logi Options+ 인증서 만료로 macOS 실행 불가",
+          "link": "https://news.hada.io/topic?id=25636",
+          "pubDate": "2026-01-07T05:10:00.000Z",
+          "author": "shblue21",
+          "content": "<ul>\n<li>Logi Options+ / Logi 앱이 macOS에서 갑자기 실행/동작하지 않는 이슈</li>\n<li>Reddit 스레드에선 /Applications/logioptionsplus.app에서 codesign --extract-certificates로 인증서를 추출한 뒤 openssl x509로 유효기간을 확인했고, 코드사이닝(서명) 인증서가 Not After: Jan 6 2026 GMT로 만료</li>\n<li...</p>",
+          "contentSnippet": "Logi Options+ / Logi 앱이 macOS에서 갑자기 실행/동작하지 않는 이슈\nReddit 스레드에선 /Applications/logioptionsplus.app에서 codesign --extract-certificates로 인증서를 추출한 뒤 openssl x509로 유효기간을 확인했고, 코드사이닝(서명) 인증서가 Not After: Jan 6 2026 GMT로 만료",
+          "id": "https://news.hada.io/topic?id=25636",
+          "isoDate": "2026-01-07T05:10:00.000Z"
+        },
+        {
+          "title": "Show GN: Gemini CLI가 4일 만에 만든 목표 관리 툴 Planning Journey",
+          "link": "https://news.hada.io/topic?id=25635",
+          "pubDate": "2026-01-07T05:02:09.000Z",
+          "author": "tk2rush90",
+          "content": "<p>안녕하세요, 제가 원하는 방식으로 목표를 관리하고 싶어 직접 만든 Planning Journey를 소개합니다.</p>\n<p>시중에 많은 투두 리스트가 있지만, 정작 '기간별 목표'를 명확히 관리할 수 있는 무료 앱은 찾기 어렵더군요. 그래서 4일 동안 Gemini CLI의 도움을 받아 평소 원하던 기능들을 담아 제작했습니다. 다른 업",
+          "contentSnippet": "안녕하세요, 제가 원하는 방식으로 목표를 관리하고 싶어 직접 만든 Planning Journey를 소개합니다.\n시중에 많은 투두 리스트가 있지만, 정작 '기간별 목표'를 명확히 관리할 수 있는 무료 앱은 찾기 어렵더군요. 그래서 4일 동안 Gemini CLI의 도움을 받아 평소 원하던 기능들을 담아 제작했습니다. 다른 업",
+          "id": "https://news.hada.io/topic?id=25635",
+          "isoDate": "2026-01-07T05:02:09.000Z"
+        },
+        {
+          "title": "Show GN: PonderTTT - TTT 기반 적응형 연산 할당",
+          "link": "https://news.hada.io/topic?id=25634",
+          "pubDate": "2026-01-07T04:49:56.000Z",
+          "author": "devworld",
+          "content": "<p>안녕하세요, 고등학생 독립 연구로 진행한 첫 arXiv 논문입니다.</p>\n<p><a href=\"https://arxiv.org/abs/2601.00894\">Paper</a> | <a href=\"https://github.com/deveworld/PonderTTT\">Code</a></p>\n<p>핵심 아이디어:<br />\nLLM이 쉬운 입력과 어려운 입력에 동일한 연산을 쓰는 게 비효율적이라, TTT 레이어의 reco",
+          "contentSnippet": "안녕하세요, 고등학생 독립 연구로 진행한 첫 arXiv 논문입니다.\nPaper | Code\n핵심 아이디어:\nLLM이 쉬운 입력과 어려운 입력에 동일한 연산을 쓰는 게 비효율적이라, TTT 레이어의 reco",
+          "id": "https://news.hada.io/topic?id=25634",
+          "isoDate": "2026-01-07T04:49:56.000Z"
+        },
+        {
+          "title": "Show GN: CodeSyncer - AI 코딩 어시스턴트용 컨텍스트 관리 CLI 도구",
+          "link": "https://news.hada.io/topic?id=25633",
+          "pubDate": "2026-01-07T04:12:19.000Z",
+          "author": "bitjaru0402",
+          "content": "<p>AI 코딩 어시스턴트(Claude Code, Cursor 등)를 사용할 때<br />\n세션이 바뀌면 컨텍스트가 날아가는 문제를 해결하기 위해 만든 도구입니다.</p>\n<p>주요 기능:</p>\n<ul>\n<li>프로젝트 구조 스캔 후 AI가 파싱할 수 있는 마크다운 문서 자동 생성</li>\n<li>멀티레포/모노레포 지원 (Turborepo, pnpm, Nx, Lerna 등)...</p>",
+          "contentSnippet": "AI 코딩 어시스턴트(Claude Code, Cursor 등)를 사용할 때\n주요 기능:\n프로젝트 구조 스캔 후 AI가 파싱할 수 있는 마크다운 문서 자동 생성\n멀티레포/모노레포 지원 (Turborepo, pnpm, Nx, Lerna 등)...",
+          "id": "https://news.hada.io/topic?id=25633",
+          "isoDate": "2026-01-07T04:12:19.000Z"
+        },
+        {
           "title": "Show GN: basic_RV32s: 오픈소스 RISC-V RV32I CPU 설계 길잡이",
           "link": "https://news.hada.io/topic?id=25632",
           "pubDate": "2026-01-07T03:38:19.000Z",
@@ -45,66 +105,6 @@
           "contentSnippet": "Qwen3-30B-A3B-Instruct-2507 모델이 라즈베리 파이 5(16GB) 에서 실시간으로 동작하며, 8.03 TPS와 94.18%의 BF16 품질을 유지\nByteShape의 ShapeLearn 비트길이 학습법을 통해 각 장치의 메모리 한도 내에서 속도와 품질의 균형",
           "id": "https://news.hada.io/topic?id=25628",
           "isoDate": "2026-01-07T01:38:05.000Z"
-        },
-        {
-          "title": "C가 최고다 (2025)",
-          "link": "https://news.hada.io/topic?id=25627",
-          "pubDate": "2026-01-07T00:55:37.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>SQLite는 2000년부터 <strong>C 언어로 구현된 경량 데이터베이스 엔진</strong>으로, 다른 언어로 다시 작성할 계획이 없음</li>\n<li>C는 <strong>성능</strong>, <strong>호환성</strong>, <strong>의존성 최소화</strong>, <strong>안정성</strong> 측면에서 SQLite에 가장 적합한 언어로 평가됨</li>\n<li>객...</p>",
-          "contentSnippet": "SQLite는 2000년부터 C 언어로 구현된 경량 데이터베이스 엔진으로, 다른 언어로 다시 작성할 계획이 없음\nC는 성능, 호환성, 의존성 최소화, 안정성 측면에서 SQLite에 가장 적합한 언어로 평가됨\n객...",
-          "id": "https://news.hada.io/topic?id=25627",
-          "isoDate": "2026-01-07T00:55:37.000Z"
-        },
-        {
-          "title": "해커뉴스 게시물의 65%가 부정적 감정을 띠며, 이들이 더 높은 성과를 보임",
-          "link": "https://news.hada.io/topic?id=25626",
-          "pubDate": "2026-01-07T00:52:37.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>해커뉴스의 <strong>게시물 감정 분석 연구</strong>에서 전체의 약 65%가 부정적 감정으로 분류되었으며, 이 게시물들이 평균적으로 더 높은 점수를 기록</li>\n<li>부정적 게시물의 평균 점수는 <strong>35.6점</strong>, 전체 평균은 <strong>28점</strong>으로, 약 <strong>27%의 성과 프리미엄</strong>이 ...</p>",
-          "contentSnippet": "해커뉴스의 게시물 감정 분석 연구에서 전체의 약 65%가 부정적 감정으로 분류되었으며, 이 게시물들이 평균적으로 더 높은 점수를 기록\n부정적 게시물의 평균 점수는 35.6점, 전체 평균은 28점으로, 약 27%의 성과 프리미엄이 ...",
-          "id": "https://news.hada.io/topic?id=25626",
-          "isoDate": "2026-01-07T00:52:37.000Z"
-        },
-        {
-          "title": "AI 시대의 코드 리뷰",
-          "link": "https://news.hada.io/topic?id=25625",
-          "pubDate": "2026-01-07T00:51:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>AI가 코드 리뷰를 없앤 게 아니라, 오히려 <strong>입증 책임을 명확히</strong> 함</li>\n<li>수동 검증이나 자동화된 테스트와 같은 <strong>증거를 첨부</strong>하여 변경 사항을 배포하고, 그 후에 <strong>리뷰를 통해 위험, 의도, 책임 소재를 파악</strong>해야함</li>\n<li>개인 개발자는 AI의 속도를 따...</p>",
-          "contentSnippet": "AI가 코드 리뷰를 없앤 게 아니라, 오히려 입증 책임을 명확히 함\n수동 검증이나 자동화된 테스트와 같은 증거를 첨부하여 변경 사항을 배포하고, 그 후에 리뷰를 통해 위험, 의도, 책임 소재를 파악해야함\n개인 개발자는 AI의 속도를 따...",
-          "id": "https://news.hada.io/topic?id=25625",
-          "isoDate": "2026-01-07T00:51:01.000Z"
-        },
-        {
-          "title": "포스트-아메리칸 인터넷",
-          "link": "https://news.hada.io/topic?id=25624",
-          "pubDate": "2026-01-07T00:49:37.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>‘포스트-아메리칸 인터넷’</strong> 은 미국 중심의 기술·법·경제 질서에서 벗어나, 각국이 <strong>디지털 주권과 상호운용성</strong>을 회복할 수 있는 새로운 인터넷 질서를 제시함</li>\n<li>미국의 <strong>반우회피(anticircumvention) 법제</strong>가 전 세계에 확산되며, 사용자가 제품을 ...</p>",
-          "contentSnippet": "‘포스트-아메리칸 인터넷’ 은 미국 중심의 기술·법·경제 질서에서 벗어나, 각국이 디지털 주권과 상호운용성을 회복할 수 있는 새로운 인터넷 질서를 제시함\n미국의 반우회피(anticircumvention) 법제가 전 세계에 확산되며, 사용자가 제품을 ...",
-          "id": "https://news.hada.io/topic?id=25624",
-          "isoDate": "2026-01-07T00:49:37.000Z"
-        },
-        {
-          "title": "AWS가 토요일에 GPU 가격을 15% 인상, 당신이 눈치채지 않길 바랐을지도",
-          "link": "https://news.hada.io/topic?id=25623",
-          "pubDate": "2026-01-07T00:46:37.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>AWS가 <strong>EC2 Capacity Blocks for ML</strong>의 GPU 인스턴스 가격을 약 <strong>15% 인상</strong>, p5e.48xlarge와 p5en.48xlarge 인스턴스의 시간당 요금이 대부분 지역에서 각각 <strong>$34.61→$39.80</strong>, <strong>$36.18→$41.61</strong>로 상승</li>\n<li>미국 서부(북부 캘리포니아) 지역...</p>",
-          "contentSnippet": "AWS가 EC2 Capacity Blocks for ML의 GPU 인스턴스 가격을 약 15% 인상, p5e.48xlarge와 p5en.48xlarge 인스턴스의 시간당 요금이 대부분 지역에서 각각 $34.61→$39.80, $36.18→$41.61로 상승\n미국 서부(북부 캘리포니아) 지역...",
-          "id": "https://news.hada.io/topic?id=25623",
-          "isoDate": "2026-01-07T00:46:37.000Z"
-        },
-        {
-          "title": "베트남, 건너뛸 수 없는 온라인 광고 금지…5초 후 ‘건너뛰기’ 버튼 의무화",
-          "link": "https://news.hada.io/topic?id=25622",
-          "pubDate": "2026-01-07T00:43:37.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>베트남 정부가 <strong>온라인 광고 규제 강화</strong>를 위해 <strong>‘건너뛸 수 없는 광고’를 금지</strong>하고, 영상 광고의 경우 <strong>5초 후 건너뛰기 버튼</strong>을 반드시 표시하도록 규정</li>\n<li>새 규정은 <strong>2026년 2월 15일 시행되는 시행령 제342호(Decree No. 342)</strong> 에 ...</p>",
-          "contentSnippet": "베트남 정부가 온라인 광고 규제 강화를 위해 ‘건너뛸 수 없는 광고’를 금지하고, 영상 광고의 경우 5초 후 건너뛰기 버튼을 반드시 표시하도록 규정\n새 규정은 2026년 2월 15일 시행되는 시행령 제342호(Decree No. 342) 에 ...",
-          "id": "https://news.hada.io/topic?id=25622",
-          "isoDate": "2026-01-07T00:43:37.000Z"
         }
       ]
     }
