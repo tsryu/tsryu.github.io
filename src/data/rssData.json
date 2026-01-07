@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "Prism.Tools – 무료이자 개인정보 보호 중심의 개발자 유틸리티",
+          "link": "https://news.hada.io/topic?id=25645",
+          "pubDate": "2026-01-07T17:33:30.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Prism.Tools</strong>는 설치 없이 웹 브라우저에서 실행되는 <strong>클라이언트 사이드 개발자 도구 모음</strong>으로 구성됨</li>\n<li>코드 포매터, JSON 변환기, <strong>보안 관련 생성기</strong> 등 다양한 기능을 제공하며 모든 처리가 로컬에서 이루어짐</li>\n<li>\n<strong>CSS·디자인 생성...</p>",
+          "contentSnippet": "Prism.Tools는 설치 없이 웹 브라우저에서 실행되는 클라이언트 사이드 개발자 도구 모음으로 구성됨\n코드 포매터, JSON 변환기, 보안 관련 생성기 등 다양한 기능을 제공하며 모든 처리가 로컬에서 이루어짐\nCSS·디자인 생성...",
+          "id": "https://news.hada.io/topic?id=25645",
+          "isoDate": "2026-01-07T17:33:30.000Z"
+        },
+        {
+          "title": "폭스바겐, 물리적 버튼을 다시 도입",
+          "link": "https://news.hada.io/topic?id=25644",
+          "pubDate": "2026-01-07T15:33:15.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>폭스바겐이 <strong>신형 ID. Polo</strong>를 통해 <strong>물리적 버튼 중심의 인테리어</strong>를 공개하며 기존의 터치식 제어 방식을 대폭 수정</li>\n<li>새로운 조작계는 <strong>스티어링 휠과 대시보드에 다수의 버튼과 스위치</strong>를 배치해, 기존의 <strong>정전식 터치 버튼</strong>을 대체...</p>",
+          "contentSnippet": "폭스바겐이 신형 ID. Polo를 통해 물리적 버튼 중심의 인테리어를 공개하며 기존의 터치식 제어 방식을 대폭 수정\n새로운 조작계는 스티어링 휠과 대시보드에 다수의 버튼과 스위치를 배치해, 기존의 정전식 터치 버튼을 대체...",
+          "id": "https://news.hada.io/topic?id=25644",
+          "isoDate": "2026-01-07T15:33:15.000Z"
+        },
+        {
+          "title": "Show GN: HRPO-X v1.0.1 - 하이브리드 추론 최적화 프레임워크 구현체",
+          "link": "https://news.hada.io/topic?id=25643",
+          "pubDate": "2026-01-07T15:22:24.000Z",
+          "author": "flamehaven01",
+          "content": "<h3>TL;DR</h3>\n<ul>\n<li>HRPO는 <strong>latent 추론 + discrete 추론 토큰</strong>을 혼합하는 강화학습 기반 추론 기법</li>\n<li>논문 수식 자체는 단순하지만, 실제 구현 시 <strong>불안정성·진동·분산 실패</strong>가 바로 발생</li>\n<li>HRPO-X는 논문 충실도보다 <strong>운영 실패 모드 대응</strong>에 초점...</p>",
+          "contentSnippet": "TL;DR\nHRPO는 latent 추론 + discrete 추론 토큰을 혼합하는 강화학습 기반 추론 기법\n논문 수식 자체는 단순하지만, 실제 구현 시 불안정성·진동·분산 실패가 바로 발생\nHRPO-X는 논문 충실도보다 운영 실패 모드 대응에 초점...",
+          "id": "https://news.hada.io/topic?id=25643",
+          "isoDate": "2026-01-07T15:22:24.000Z"
+        },
+        {
           "title": "Gmail 앱은 왜 700MB나 될까?",
           "link": "https://news.hada.io/topic?id=25642",
           "pubDate": "2026-01-07T11:33:15.000Z",
@@ -75,36 +105,6 @@
           "contentSnippet": "Logi Options+ / Logi 앱이 macOS에서 갑자기 실행/동작하지 않는 이슈\nReddit 스레드에선 /Applications/logioptionsplus.app에서 codesign --extract-certificates로 인증서를 추출한 뒤 openssl x509로 유효기간을 확인했고, 코드사이닝(서명) 인증서가 Not After: Jan 6 2026 GMT로 만료",
           "id": "https://news.hada.io/topic?id=25636",
           "isoDate": "2026-01-07T05:10:00.000Z"
-        },
-        {
-          "title": "Show GN: Gemini CLI가 4일 만에 만든 목표 관리 툴 Planning Journey",
-          "link": "https://news.hada.io/topic?id=25635",
-          "pubDate": "2026-01-07T05:02:09.000Z",
-          "author": "tk2rush90",
-          "content": "<p>안녕하세요, 제가 원하는 방식으로 목표를 관리하고 싶어 직접 만든 Planning Journey를 소개합니다.</p>\n<p>시중에 많은 투두 리스트가 있지만, 정작 '기간별 목표'를 명확히 관리할 수 있는 무료 앱은 찾기 어렵더군요. 그래서 4일 동안 Gemini CLI의 도움을 받아 평소 원하던 기능들을 담아 제작했습니다. 다른 업",
-          "contentSnippet": "안녕하세요, 제가 원하는 방식으로 목표를 관리하고 싶어 직접 만든 Planning Journey를 소개합니다.\n시중에 많은 투두 리스트가 있지만, 정작 '기간별 목표'를 명확히 관리할 수 있는 무료 앱은 찾기 어렵더군요. 그래서 4일 동안 Gemini CLI의 도움을 받아 평소 원하던 기능들을 담아 제작했습니다. 다른 업",
-          "id": "https://news.hada.io/topic?id=25635",
-          "isoDate": "2026-01-07T05:02:09.000Z"
-        },
-        {
-          "title": "Show GN: PonderTTT - TTT 기반 적응형 연산 할당",
-          "link": "https://news.hada.io/topic?id=25634",
-          "pubDate": "2026-01-07T04:49:56.000Z",
-          "author": "devworld",
-          "content": "<p>안녕하세요, 고등학생 독립 연구로 진행한 첫 arXiv 논문입니다.</p>\n<p><a href=\"https://arxiv.org/abs/2601.00894\">Paper</a> | <a href=\"https://github.com/deveworld/PonderTTT\">Code</a></p>\n<p>핵심 아이디어:<br />\nLLM이 쉬운 입력과 어려운 입력에 동일한 연산을 쓰는 게 비효율적이라, TTT 레이어의 reco",
-          "contentSnippet": "안녕하세요, 고등학생 독립 연구로 진행한 첫 arXiv 논문입니다.\nPaper | Code\n핵심 아이디어:\nLLM이 쉬운 입력과 어려운 입력에 동일한 연산을 쓰는 게 비효율적이라, TTT 레이어의 reco",
-          "id": "https://news.hada.io/topic?id=25634",
-          "isoDate": "2026-01-07T04:49:56.000Z"
-        },
-        {
-          "title": "Show GN: CodeSyncer - AI 코딩 어시스턴트용 컨텍스트 관리 CLI 도구",
-          "link": "https://news.hada.io/topic?id=25633",
-          "pubDate": "2026-01-07T04:12:19.000Z",
-          "author": "bitjaru0402",
-          "content": "<p>AI 코딩 어시스턴트(Claude Code, Cursor 등)를 사용할 때<br />\n세션이 바뀌면 컨텍스트가 날아가는 문제를 해결하기 위해 만든 도구입니다.</p>\n<p>주요 기능:</p>\n<ul>\n<li>프로젝트 구조 스캔 후 AI가 파싱할 수 있는 마크다운 문서 자동 생성</li>\n<li>멀티레포/모노레포 지원 (Turborepo, pnpm, Nx, Lerna 등)...</p>",
-          "contentSnippet": "AI 코딩 어시스턴트(Claude Code, Cursor 등)를 사용할 때\n주요 기능:\n프로젝트 구조 스캔 후 AI가 파싱할 수 있는 마크다운 문서 자동 생성\n멀티레포/모노레포 지원 (Turborepo, pnpm, Nx, Lerna 등)...",
-          "id": "https://news.hada.io/topic?id=25633",
-          "isoDate": "2026-01-07T04:12:19.000Z"
         }
       ]
     }
