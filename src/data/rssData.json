@@ -7,104 +7,104 @@
       "priority": 1,
       "data": [
         {
-          "title": "로맨스는 끝났다: 오픈소스(OSS) 임계점과 생존 전략",
-          "link": "https://news.hada.io/topic?id=25616",
-          "pubDate": "2026-01-06T17:07:51.000Z",
-          "author": "flamehaven01",
-          "content": "<h4>📌 핵심 요지 (TL;DR)</h4>\n<ul>\n<li>\n<p>오픈소스는 보통 “크게” 망하지 않음. 그러나 조용히 유지보수가 끊기면서 무너지는 중.</p>\n</li>\n<li>\n<p>유지보수 자원 고갈 + 기업의 라이선스 전환 + AI 기반 ‘추출’ 이 동시 발생</p>\n</li>\n<li>\n<p>오픈소스의 생존 조건: 공정 과금(라이선스/상업 정책) + 공공 ",
-          "contentSnippet": "📌 핵심 요지 (TL;DR)\n오픈소스는 보통 “크게” 망하지 않음. 그러나 조용히 유지보수가 끊기면서 무너지는 중.\n유지보수 자원 고갈 + 기업의 라이선스 전환 + AI 기반 ‘추출’ 이 동시 발생\n오픈소스의 생존 조건: 공정 과금(라이선스/상업 정책) + 공공",
-          "id": "https://news.hada.io/topic?id=25616",
-          "isoDate": "2026-01-06T17:07:51.000Z"
+          "title": "Show GN: basic_RV32s: 오픈소스 RISC-V RV32I CPU 설계 길잡이",
+          "link": "https://news.hada.io/topic?id=25632",
+          "pubDate": "2026-01-07T03:38:19.000Z",
+          "author": "khwl1026",
+          "content": "<p>4가지 CPU와 2개의 SoC 설계를 통한 실습으로 RISC-V CPU 설계의 기초를 익힐 수 있는 basic_RV32s 를 소개합니다.</p>\n<p><strong>basic_RV32s 요약</strong></p>\n<ul>\n<li>군복무중 6개월동안 만든 <strong>FPGA 동작 가능한</strong> softcore RISC-V RV32I CPU</li>\n<li>Dhrystone <strong>1.11 DMIPS/MHz</stron",
+          "contentSnippet": "4가지 CPU와 2개의 SoC 설계를 통한 실습으로 RISC-V CPU 설계의 기초를 익힐 수 있는 basic_RV32s 를 소개합니다.\nbasic_RV32s 요약\n군복무중 6개월동안 만든 FPGA 동작 가능한 softcore RISC-V RV32I CPU\nDhrystone 1.11 DMIPS/MHz</stron",
+          "id": "https://news.hada.io/topic?id=25632",
+          "isoDate": "2026-01-07T03:38:19.000Z"
         },
         {
-          "title": "X, Grok이 생성한 아동 성착취물(CSAM)에 대해 이용자 책임을 주장하며 해결책은 발표하지 않음",
-          "link": "https://news.hada.io/topic?id=25615",
-          "pubDate": "2026-01-06T16:38:06.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>AI 챗봇 Grok</strong>이 미성년자를 성적 대상화한 이미지를 생성한 사건 이후, 플랫폼 <strong>X가 이용자에게 책임을 돌리고 있음</strong>\n</li>\n<li>X는 자사 모델을 훈련시킨 주체임에도, <strong>불법 콘텐츠 생성에 대한 내부 조치나 수정 계획을 공개하지 않음</strong>\n</li>\n<li>기존에는 ...</p>",
-          "contentSnippet": "AI 챗봇 Grok이 미성년자를 성적 대상화한 이미지를 생성한 사건 이후, 플랫폼 X가 이용자에게 책임을 돌리고 있음\n\nX는 자사 모델을 훈련시킨 주체임에도, 불법 콘텐츠 생성에 대한 내부 조치나 수정 계획을 공개하지 않음\n\n기존에는 ...",
-          "id": "https://news.hada.io/topic?id=25615",
-          "isoDate": "2026-01-06T16:38:06.000Z"
-        },
-        {
-          "title": "DoNotNotify – Android에서 알림을 기록하고 지능적으로 차단",
-          "link": "https://news.hada.io/topic?id=25614",
-          "pubDate": "2026-01-06T16:35:06.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>DoNotNotify</strong>는 Android용 고급 알림 관리 앱으로, 원치 않는 방해를 차단하고 <strong>집중력 회복</strong>을 지원</li>\n<li>모든 알림 처리를 <strong>오프라인</strong>에서 수행하며, 서버 전송이나 추적이 전혀 없는 <strong>개인정보 보호 중심 설계</strong>\n</li>\n<li>앱 이름, 메시...</p>",
-          "contentSnippet": "DoNotNotify는 Android용 고급 알림 관리 앱으로, 원치 않는 방해를 차단하고 집중력 회복을 지원\n모든 알림 처리를 오프라인에서 수행하며, 서버 전송이나 추적이 전혀 없는 개인정보 보호 중심 설계\n\n앱 이름, 메시...",
-          "id": "https://news.hada.io/topic?id=25614",
-          "isoDate": "2026-01-06T16:35:06.000Z"
-        },
-        {
-          "title": "Show GN: 청약온: 소득 정보 자동 계산 및 청약 추천",
-          "link": "https://news.hada.io/topic?id=25613",
-          "pubDate": "2026-01-06T16:18:53.000Z",
-          "author": "jic5760",
-          "content": "<p>이전부터 청약에 대해 알아보려고 마음은 먹고 있었지만,<br />\n워낙 많은 청약 종류가 있고, 어느 것이 소득 기준 등에 맞는지 아는 것이 쉬운 일은 아니었습니다.</p>\n<p>그래서 간편하게 본인/배우자의 소득(근로소득/종합소득)을 불러와 평균 월 소득을 계산하고<br />\n&quot;도시근로자 가구원수별 가구당 월평균",
-          "contentSnippet": "이전부터 청약에 대해 알아보려고 마음은 먹고 있었지만,\n그래서 간편하게 본인/배우자의 소득(근로소득/종합소득)을 불러와 평균 월 소득을 계산하고\n\"도시근로자 가구원수별 가구당 월평균",
-          "id": "https://news.hada.io/topic?id=25613",
-          "isoDate": "2026-01-06T16:18:53.000Z"
-        },
-        {
-          "title": "Brave, 광고 차단 엔진 전면 개편으로 메모리 사용량 75% 절감",
-          "link": "https://news.hada.io/topic?id=25612",
-          "pubDate": "2026-01-06T14:33:00.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Rust 기반 광고 차단 엔진</strong>이 대대적으로 개편되어 메모리 사용량이 <strong>75% 감소</strong>\n</li>\n<li>새 구조는 <strong>FlatBuffers 포맷</strong>을 도입해 약 10만 개의 기본 필터를 <strong>제로카피 바이너리 형식</strong>으로 저장</li>\n<li>이로 인해 <strong>모든 플랫폼(데스크...</p>",
-          "contentSnippet": "Rust 기반 광고 차단 엔진이 대대적으로 개편되어 메모리 사용량이 75% 감소\n\n새 구조는 FlatBuffers 포맷을 도입해 약 10만 개의 기본 필터를 제로카피 바이너리 형식으로 저장\n이로 인해 모든 플랫폼(데스크...",
-          "id": "https://news.hada.io/topic?id=25612",
-          "isoDate": "2026-01-06T14:33:00.000Z"
-        },
-        {
-          "title": "바이브 코딩으로 어디까지 개발할 수 있을까?",
-          "link": "https://news.hada.io/topic?id=25611",
-          "pubDate": "2026-01-06T12:34:56.000Z",
-          "author": "sungmin330",
-          "content": "<p>프로덕트 자체보다 기술 및 구현 사이드에서 느낀 점을 회고한 내용입니다.</p>\n<p>완벽히 개인적인 생각입니다.</p>\n<p>대학교 4학년 학기중에 배우면서 개발한 프로젝트임을 감안해서 봐 주세요!</p>\n<h3>왜 이 프로젝트를 시작하게 되었는가</h3>\n<ul>\n<li>스타트업을 차린다는 마인드로 프로덕트 개발. PM/PO 관점",
-          "contentSnippet": "프로덕트 자체보다 기술 및 구현 사이드에서 느낀 점을 회고한 내용입니다.\n완벽히 개인적인 생각입니다.\n대학교 4학년 학기중에 배우면서 개발한 프로젝트임을 감안해서 봐 주세요!\n왜 이 프로젝트를 시작하게 되었는가\n스타트업을 차린다는 마인드로 프로덕트 개발. PM/PO 관점",
-          "id": "https://news.hada.io/topic?id=25611",
-          "isoDate": "2026-01-06T12:34:56.000Z"
-        },
-        {
-          "title": "Show GN: 초경량 온디바이스 TTS ‘Supertonic 2’ — 다국어 지원 업데이트",
-          "link": "https://news.hada.io/topic?id=25610",
-          "pubDate": "2026-01-06T10:13:47.000Z",
-          "author": "creampy",
-          "content": "<p>Supertonic이 이제 5개 언어를 지원합니다 (한국어 · 스페인어 · 프랑스어 · 포르투갈어 · 영어)</p>\n<p>Supertonic은 로컬 환경에서 실행되도록 설계된 TTS 모델로 웹브라우저, 일반 PC, 모바일 및 Raspberry Pi 같은 소형 디바이스까지 폭넓게 지원하는 초경량 모델입니다.</p>\n<p>주요 특징은 다음과 같습니다....</p>",
-          "contentSnippet": "Supertonic이 이제 5개 언어를 지원합니다 (한국어 · 스페인어 · 프랑스어 · 포르투갈어 · 영어)\nSupertonic은 로컬 환경에서 실행되도록 설계된 TTS 모델로 웹브라우저, 일반 PC, 모바일 및 Raspberry Pi 같은 소형 디바이스까지 폭넓게 지원하는 초경량 모델입니다.\n주요 특징은 다음과 같습니다....",
-          "id": "https://news.hada.io/topic?id=25610",
-          "isoDate": "2026-01-06T10:13:47.000Z"
-        },
-        {
-          "title": "VSCode에서 Zed로 전환한 경험",
-          "link": "https://news.hada.io/topic?id=25608",
-          "pubDate": "2026-01-06T08:33:25.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>VSCode의 잦은 AI 기능 추가와 불안정성</strong>으로 인해 기존 사용자 경험이 저하되며, 새로운 대안을 찾게 된 사례</li>\n<li>\n<strong>Zed</strong>는 Rust로 작성된 <strong>가볍고 빠른 IDE</strong>로, VSCode 사용자에게 익숙한 UI와 키 바인딩을 제공</li>\n<li>Python 개발 환경 설정 시 <st...</p>",
-          "contentSnippet": "VSCode의 잦은 AI 기능 추가와 불안정성으로 인해 기존 사용자 경험이 저하되며, 새로운 대안을 찾게 된 사례\nZed는 Rust로 작성된 가볍고 빠른 IDE로, VSCode 사용자에게 익숙한 UI와 키 바인딩을 제공\nPython 개발 환경 설정 시",
-          "id": "https://news.hada.io/topic?id=25608",
-          "isoDate": "2026-01-06T08:33:25.000Z"
-        },
-        {
-          "title": "구경꾼들이여, 이제 내려와서 직접 뛸 시간이다.",
-          "link": "https://news.hada.io/topic?id=25607",
-          "pubDate": "2026-01-06T06:42:50.000Z",
+          "title": "AI가 절대 대체할 수 없는 인간의 유일한 능력은? ",
+          "link": "https://news.hada.io/topic?id=25630",
+          "pubDate": "2026-01-07T01:47:31.000Z",
           "author": "haebom",
-          "content": "<p>지난 10년간 스타트업 생태계를 지켜보며 가장 많이 본 것은 '비평가'들이었습니다. 그들은 분석하고 예측하지만, 결코 안전지대 밖으로 나오지 않습니다.</p>\n<p>인공지능 덕분에 이제 과장을 조금 보테어 누구든 제품, 서비스를 만드는게 가능해졌습니다. 이제 관중석에 앉아서 뭐는 어떻고 저떻고 평론하고 팝콘 뜯",
-          "contentSnippet": "지난 10년간 스타트업 생태계를 지켜보며 가장 많이 본 것은 '비평가'들이었습니다. 그들은 분석하고 예측하지만, 결코 안전지대 밖으로 나오지 않습니다.\n인공지능 덕분에 이제 과장을 조금 보테어 누구든 제품, 서비스를 만드는게 가능해졌습니다. 이제 관중석에 앉아서 뭐는 어떻고 저떻고 평론하고 팝콘 뜯",
-          "id": "https://news.hada.io/topic?id=25607",
-          "isoDate": "2026-01-06T06:42:50.000Z"
+          "content": "<h3>⚡️ 핵심 요약</h3>\n<ol>\n<li>AI 시대에 인간이 길러야 할 유일한 능력은 '미감', 즉 무엇이 좋은지 알아보고 설명할 수 있는 취향의 영역이다.</li>\n<li>AI는 노동의 가치를 싸게 만들지만, 인간다운 가치, 집요함, 그리고 '굳이 이렇게까지 하는' 장인정신은 더욱 빛을 발할 것이다.</li>\n<li>자신만의 세계관과 ...</p>",
+          "contentSnippet": "⚡️ 핵심 요약\nAI 시대에 인간이 길러야 할 유일한 능력은 '미감', 즉 무엇이 좋은지 알아보고 설명할 수 있는 취향의 영역이다.\nAI는 노동의 가치를 싸게 만들지만, 인간다운 가치, 집요함, 그리고 '굳이 이렇게까지 하는' 장인정신은 더욱 빛을 발할 것이다.\n자신만의 세계관과 ...",
+          "id": "https://news.hada.io/topic?id=25630",
+          "isoDate": "2026-01-07T01:47:31.000Z"
         },
         {
-          "title": "Show GN: 데이글 - 글을 쓰는 사람들을 위한 공간",
-          "link": "https://news.hada.io/topic?id=25605",
-          "pubDate": "2026-01-06T05:45:03.000Z",
-          "author": "caribjin",
-          "content": "<p><strong>데이글</strong>(Deigl)은 자신의 글을 쓰고 관심사가 같은 다양한 사람들과 공유하며 소통할 수 있는 블로그 &amp; 커뮤니티 플랫폼입니다.</p>\n<p>데이글의 핵심 가치로 삼고자 하는 것은 바로 &quot;<strong>사람들 간의 커뮤니케이션</strong>&quot;입니다.<br />\n자신만의 글을 쓰고, 다른 이들의 좋은 ",
-          "contentSnippet": "데이글(Deigl)은 자신의 글을 쓰고 관심사가 같은 다양한 사람들과 공유하며 소통할 수 있는 블로그 & 커뮤니티 플랫폼입니다.\n데이글의 핵심 가치로 삼고자 하는 것은 바로 \"사람들 간의 커뮤니케이션\"입니다.\n자신만의 글을 쓰고, 다른 이들의 좋은",
-          "id": "https://news.hada.io/topic?id=25605",
-          "isoDate": "2026-01-06T05:45:03.000Z"
+          "title": "Opus 4.5는 지금까지 경험한 AI 에이전트와는 전혀 다르다",
+          "link": "https://news.hada.io/topic?id=25629",
+          "pubDate": "2026-01-07T01:40:23.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>Claude Opus 4.5</strong>는 기존 AI 코딩 에이전트와 달리, 개발자의 개입 없이도 완성도 높은 애플리케이션을 구축할 수 있는 수준의 <strong>자율적 개발 능력</strong>을 보여줌</li>\n<li>단순한 <strong>Windows 이미지 변환 유틸리티</strong>부터 <strong>영상 녹화·편집 도구</strong>, <stro...</p>",
+          "contentSnippet": "Claude Opus 4.5는 기존 AI 코딩 에이전트와 달리, 개발자의 개입 없이도 완성도 높은 애플리케이션을 구축할 수 있는 수준의 자율적 개발 능력을 보여줌\n단순한 Windows 이미지 변환 유틸리티부터 영상 녹화·편집 도구,",
+          "id": "https://news.hada.io/topic?id=25629",
+          "isoDate": "2026-01-07T01:40:23.000Z"
+        },
+        {
+          "title": "라즈베리 파이에서 실시간으로 구동되는 300억 파라미터 Qwen 모델",
+          "link": "https://news.hada.io/topic?id=25628",
+          "pubDate": "2026-01-07T01:38:05.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>Qwen3-30B-A3B-Instruct-2507</strong> 모델이 <strong>라즈베리 파이 5(16GB)</strong> 에서 실시간으로 동작하며, 8.03 TPS와 94.18%의 BF16 품질을 유지</li>\n<li>ByteShape의 <strong>ShapeLearn 비트길이 학습법</strong>을 통해 각 장치의 메모리 한도 내에서 <strong>속도와 품질의 균형</stro...</p>",
+          "contentSnippet": "Qwen3-30B-A3B-Instruct-2507 모델이 라즈베리 파이 5(16GB) 에서 실시간으로 동작하며, 8.03 TPS와 94.18%의 BF16 품질을 유지\nByteShape의 ShapeLearn 비트길이 학습법을 통해 각 장치의 메모리 한도 내에서 속도와 품질의 균형",
+          "id": "https://news.hada.io/topic?id=25628",
+          "isoDate": "2026-01-07T01:38:05.000Z"
+        },
+        {
+          "title": "C가 최고다 (2025)",
+          "link": "https://news.hada.io/topic?id=25627",
+          "pubDate": "2026-01-07T00:55:37.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>SQLite는 2000년부터 <strong>C 언어로 구현된 경량 데이터베이스 엔진</strong>으로, 다른 언어로 다시 작성할 계획이 없음</li>\n<li>C는 <strong>성능</strong>, <strong>호환성</strong>, <strong>의존성 최소화</strong>, <strong>안정성</strong> 측면에서 SQLite에 가장 적합한 언어로 평가됨</li>\n<li>객...</p>",
+          "contentSnippet": "SQLite는 2000년부터 C 언어로 구현된 경량 데이터베이스 엔진으로, 다른 언어로 다시 작성할 계획이 없음\nC는 성능, 호환성, 의존성 최소화, 안정성 측면에서 SQLite에 가장 적합한 언어로 평가됨\n객...",
+          "id": "https://news.hada.io/topic?id=25627",
+          "isoDate": "2026-01-07T00:55:37.000Z"
+        },
+        {
+          "title": "해커뉴스 게시물의 65%가 부정적 감정을 띠며, 이들이 더 높은 성과를 보임",
+          "link": "https://news.hada.io/topic?id=25626",
+          "pubDate": "2026-01-07T00:52:37.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>해커뉴스의 <strong>게시물 감정 분석 연구</strong>에서 전체의 약 65%가 부정적 감정으로 분류되었으며, 이 게시물들이 평균적으로 더 높은 점수를 기록</li>\n<li>부정적 게시물의 평균 점수는 <strong>35.6점</strong>, 전체 평균은 <strong>28점</strong>으로, 약 <strong>27%의 성과 프리미엄</strong>이 ...</p>",
+          "contentSnippet": "해커뉴스의 게시물 감정 분석 연구에서 전체의 약 65%가 부정적 감정으로 분류되었으며, 이 게시물들이 평균적으로 더 높은 점수를 기록\n부정적 게시물의 평균 점수는 35.6점, 전체 평균은 28점으로, 약 27%의 성과 프리미엄이 ...",
+          "id": "https://news.hada.io/topic?id=25626",
+          "isoDate": "2026-01-07T00:52:37.000Z"
+        },
+        {
+          "title": "AI 시대의 코드 리뷰",
+          "link": "https://news.hada.io/topic?id=25625",
+          "pubDate": "2026-01-07T00:51:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>AI가 코드 리뷰를 없앤 게 아니라, 오히려 <strong>입증 책임을 명확히</strong> 함</li>\n<li>수동 검증이나 자동화된 테스트와 같은 <strong>증거를 첨부</strong>하여 변경 사항을 배포하고, 그 후에 <strong>리뷰를 통해 위험, 의도, 책임 소재를 파악</strong>해야함</li>\n<li>개인 개발자는 AI의 속도를 따...</p>",
+          "contentSnippet": "AI가 코드 리뷰를 없앤 게 아니라, 오히려 입증 책임을 명확히 함\n수동 검증이나 자동화된 테스트와 같은 증거를 첨부하여 변경 사항을 배포하고, 그 후에 리뷰를 통해 위험, 의도, 책임 소재를 파악해야함\n개인 개발자는 AI의 속도를 따...",
+          "id": "https://news.hada.io/topic?id=25625",
+          "isoDate": "2026-01-07T00:51:01.000Z"
+        },
+        {
+          "title": "포스트-아메리칸 인터넷",
+          "link": "https://news.hada.io/topic?id=25624",
+          "pubDate": "2026-01-07T00:49:37.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>‘포스트-아메리칸 인터넷’</strong> 은 미국 중심의 기술·법·경제 질서에서 벗어나, 각국이 <strong>디지털 주권과 상호운용성</strong>을 회복할 수 있는 새로운 인터넷 질서를 제시함</li>\n<li>미국의 <strong>반우회피(anticircumvention) 법제</strong>가 전 세계에 확산되며, 사용자가 제품을 ...</p>",
+          "contentSnippet": "‘포스트-아메리칸 인터넷’ 은 미국 중심의 기술·법·경제 질서에서 벗어나, 각국이 디지털 주권과 상호운용성을 회복할 수 있는 새로운 인터넷 질서를 제시함\n미국의 반우회피(anticircumvention) 법제가 전 세계에 확산되며, 사용자가 제품을 ...",
+          "id": "https://news.hada.io/topic?id=25624",
+          "isoDate": "2026-01-07T00:49:37.000Z"
+        },
+        {
+          "title": "AWS가 토요일에 GPU 가격을 15% 인상, 당신이 눈치채지 않길 바랐을지도",
+          "link": "https://news.hada.io/topic?id=25623",
+          "pubDate": "2026-01-07T00:46:37.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>AWS가 <strong>EC2 Capacity Blocks for ML</strong>의 GPU 인스턴스 가격을 약 <strong>15% 인상</strong>, p5e.48xlarge와 p5en.48xlarge 인스턴스의 시간당 요금이 대부분 지역에서 각각 <strong>$34.61→$39.80</strong>, <strong>$36.18→$41.61</strong>로 상승</li>\n<li>미국 서부(북부 캘리포니아) 지역...</p>",
+          "contentSnippet": "AWS가 EC2 Capacity Blocks for ML의 GPU 인스턴스 가격을 약 15% 인상, p5e.48xlarge와 p5en.48xlarge 인스턴스의 시간당 요금이 대부분 지역에서 각각 $34.61→$39.80, $36.18→$41.61로 상승\n미국 서부(북부 캘리포니아) 지역...",
+          "id": "https://news.hada.io/topic?id=25623",
+          "isoDate": "2026-01-07T00:46:37.000Z"
+        },
+        {
+          "title": "베트남, 건너뛸 수 없는 온라인 광고 금지…5초 후 ‘건너뛰기’ 버튼 의무화",
+          "link": "https://news.hada.io/topic?id=25622",
+          "pubDate": "2026-01-07T00:43:37.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>베트남 정부가 <strong>온라인 광고 규제 강화</strong>를 위해 <strong>‘건너뛸 수 없는 광고’를 금지</strong>하고, 영상 광고의 경우 <strong>5초 후 건너뛰기 버튼</strong>을 반드시 표시하도록 규정</li>\n<li>새 규정은 <strong>2026년 2월 15일 시행되는 시행령 제342호(Decree No. 342)</strong> 에 ...</p>",
+          "contentSnippet": "베트남 정부가 온라인 광고 규제 강화를 위해 ‘건너뛸 수 없는 광고’를 금지하고, 영상 광고의 경우 5초 후 건너뛰기 버튼을 반드시 표시하도록 규정\n새 규정은 2026년 2월 15일 시행되는 시행령 제342호(Decree No. 342) 에 ...",
+          "id": "https://news.hada.io/topic?id=25622",
+          "isoDate": "2026-01-07T00:43:37.000Z"
         }
       ]
     }
