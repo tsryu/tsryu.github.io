@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: Page Ready - Framer는 어렵고 Wix는 무거워서 만든, '글과 이미지'에만 집중하는 초간단 웹빌더",
+          "link": "https://news.hada.io/topic?id=25660",
+          "pubDate": "2026-01-08T06:41:19.000Z",
+          "author": "vb6ko",
+          "content": "<p>안녕하세요. 1인 개발자입니다.</p>\n<p>최근 지인들의 부탁으로 홈페이지를 몇 개 만들어주다가, 기존 노코드/웹빌더 툴들의 한계점을 느껴 직접 서비스를 만들게 되었습니다.</p>\n<ol>\n<li>\n<p>만들게 된 배경 (Pain Point)<br />\n개발자인 저에게도, 비개발자인 지인들에게도 기존 툴들은 각각의 장벽이 있었습니다",
+          "contentSnippet": "안녕하세요. 1인 개발자입니다.\n최근 지인들의 부탁으로 홈페이지를 몇 개 만들어주다가, 기존 노코드/웹빌더 툴들의 한계점을 느껴 직접 서비스를 만들게 되었습니다.\n만들게 된 배경 (Pain Point)\n개발자인 저에게도, 비개발자인 지인들에게도 기존 툴들은 각각의 장벽이 있었습니다",
+          "id": "https://news.hada.io/topic?id=25660",
+          "isoDate": "2026-01-08T06:41:19.000Z"
+        },
+        {
+          "title": "K-뷰티, 번역기 돌리면 망합니다. 그래서 AI 번역 에이전트를 만들었습니다️",
+          "link": "https://news.hada.io/topic?id=25659",
+          "pubDate": "2026-01-08T06:22:54.000Z",
+          "author": "yongrak",
+          "content": "<p>&quot;진정에 좋다&quot; → &quot;Good for calming&quot; (❌) 미국 Z세대는 이 문구를 보고 지갑을 열지 않습니다.</p>\n<p>그들이 반응하는 언어는 &quot;Game-changer for redness&quot; 혹은 &quot;Barrier repair with Artemisia&quot; 같은 '증명된 혜택'입니다 .</p>\n<p>K-뷰티의 미국 수출은 역대 최고치를 ",
+          "contentSnippet": "\"진정에 좋다\" → \"Good for calming\" (❌) 미국 Z세대는 이 문구를 보고 지갑을 열지 않습니다.\n그들이 반응하는 언어는 \"Game-changer for redness\" 혹은 \"Barrier repair with Artemisia\" 같은 '증명된 혜택'입니다 .\nK-뷰티의 미국 수출은 역대 최고치를",
+          "id": "https://news.hada.io/topic?id=25659",
+          "isoDate": "2026-01-08T06:22:54.000Z"
+        },
+        {
+          "title": "GLM으로 유명한 중국의 Z.ai, IPO 진행 $560M 이상의 가치",
+          "link": "https://news.hada.io/topic?id=25658",
+          "pubDate": "2026-01-08T03:56:10.000Z",
+          "author": "haebom",
+          "content": "GLM으로 유명한 중국의 Z.ai, IPO 진행 $560M 이상의 가치",
+          "contentSnippet": "GLM으로 유명한 중국의 Z.ai, IPO 진행 $560M 이상의 가치",
+          "id": "https://news.hada.io/topic?id=25658",
+          "isoDate": "2026-01-08T03:56:10.000Z"
+        },
+        {
           "title": "NIA가 전망한 2026년 12대 AI·디지털 트렌드 [28p PDF]",
           "link": "https://news.hada.io/topic?id=25657",
           "pubDate": "2026-01-08T02:41:02.000Z",
@@ -75,36 +105,6 @@
           "contentSnippet": "1960년대 중반 설탕 산업이 영양학자들과 협력해 심장병의 원인을 지방과 콜레스테롤로 집중시키고, 자당(sucrose)의 위험성은 축소한 사실이 공개됨\n공개된 산업 내부 문서는 1954년부터 설탕 업계가 저지방 식단이 확산될 경우 1인당 설...",
           "id": "https://news.hada.io/topic?id=25651",
           "isoDate": "2026-01-08T00:42:41.000Z"
-        },
-        {
-          "title": "Tailwind 제작사, 엔지니어링 팀의 75% 해고",
-          "link": "https://news.hada.io/topic?id=25650",
-          "pubDate": "2026-01-08T00:39:41.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Tailwind CSS 문서에 <strong>LLM 최적화용 <code>/llms.txt</code> 엔드포인트</strong>를 추가하는 PR이 커뮤니티에서 논란을 일으킴</li>\n<li>제안된 기능은 모든 문서 페이지를 <strong>텍스트 전용으로 결합해 대형 언어 모델(LLM)</strong> 이 쉽게 학습할 수 있도록 하는 구조</li>\n<li>Tailwind Labs 측...</p>",
-          "contentSnippet": "Tailwind CSS 문서에 LLM 최적화용 /llms.txt 엔드포인트를 추가하는 PR이 커뮤니티에서 논란을 일으킴\n제안된 기능은 모든 문서 페이지를 텍스트 전용으로 결합해 대형 언어 모델(LLM) 이 쉽게 학습할 수 있도록 하는 구조\nTailwind Labs 측...",
-          "id": "https://news.hada.io/topic?id=25650",
-          "isoDate": "2026-01-08T00:39:41.000Z"
-        },
-        {
-          "title": "Biscuit - PostgreSQL에서 LIKE / ILIKE 패턴 검색을 고속화하기 위한 전용 인덱스",
-          "link": "https://news.hada.io/topic?id=25649",
-          "pubDate": "2026-01-08T00:31:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>와일드카드가 많은 문자열 검색을 빠르게 처리하기 위해 설계된 <strong>PostgreSQL 전용 인덱스 접근 방식(IAM)</strong>\n<ul>\n<li>불필요한 heap 접근과 성능 손실이 구조적으로 발생하는 pg_trgm의 한계를 보완</li>\n</ul>\n</li>\n<li>문자와 위치를 기준으로 한 <strong>Bitmap Position Index</strong>를 사...</p>",
-          "contentSnippet": "와일드카드가 많은 문자열 검색을 빠르게 처리하기 위해 설계된 PostgreSQL 전용 인덱스 접근 방식(IAM)\n\n불필요한 heap 접근과 성능 손실이 구조적으로 발생하는 pg_trgm의 한계를 보완\n문자와 위치를 기준으로 한 Bitmap Position Index를 사...",
-          "id": "https://news.hada.io/topic?id=25649",
-          "isoDate": "2026-01-08T00:31:01.000Z"
-        },
-        {
-          "title": "Strange.website",
-          "link": "https://news.hada.io/topic?id=25648",
-          "pubDate": "2026-01-07T23:33:04.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>인터넷과 인간의 관계</strong>를 초현실적 서사로 표현하는 실험적 웹사이트로, 각 게시물은 웹이 살아 있는 존재처럼 묘사됨</li>\n<li>게시물들은 <strong>웹사이트가 감정·의지·기억을 가진 존재</strong>로 등장하며, 인간 창작자와의 관계나 기술 진화의 어두운 면을 탐구함</li>\n<li>\n<strong>A...</p>",
-          "contentSnippet": "인터넷과 인간의 관계를 초현실적 서사로 표현하는 실험적 웹사이트로, 각 게시물은 웹이 살아 있는 존재처럼 묘사됨\n게시물들은 웹사이트가 감정·의지·기억을 가진 존재로 등장하며, 인간 창작자와의 관계나 기술 진화의 어두운 면을 탐구함\nA...",
-          "id": "https://news.hada.io/topic?id=25648",
-          "isoDate": "2026-01-07T23:33:04.000Z"
         }
       ]
     }
