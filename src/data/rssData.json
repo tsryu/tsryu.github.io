@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: AI-SLOP Detector — AI가 만든 ‘과장 거짓 코드’ 분석 탐지 도구",
+          "link": "https://news.hada.io/topic?id=25694",
+          "pubDate": "2026-01-09T12:45:47.000Z",
+          "author": "flamehaven01",
+          "content": "<p>##이 도구는 개인적인 실패 경험에서 출발했습니다.</p>\n<p>며칠 전, 저는 자신만만하게<br />\n“HRPO-X v1.0.1 – 하이브리드 추론 최적화 프레임워크 구현체”라는<br />\n거창한 이름의 리포지토리를 공개했습니다.<br />\n최신 논문을 기반으로 아키텍처를 구현했다고 믿었던 프로젝트였습니다.</p>\n<p>하지만 공개",
+          "contentSnippet": "##이 도구는 개인적인 실패 경험에서 출발했습니다.\n며칠 전, 저는 자신만만하게\n하지만 공개",
+          "id": "https://news.hada.io/topic?id=25694",
+          "isoDate": "2026-01-09T12:45:47.000Z"
+        },
+        {
+          "title": "Show GN: Fullstack Starter - AI-native 개발을 위한 프로덕션 레디 모노레포 템플릿",
+          "link": "https://news.hada.io/topic?id=25691",
+          "pubDate": "2026-01-09T10:35:49.000Z",
+          "author": "gracefullight",
+          "content": "<p>안드레 카파시가 최근 이런 글을 남겼습니다. &quot;지난 1년간 등장한 것들을 제대로 엮기만 하면 10배는 강력해질 수 있을 것 같은데, 그걸 못 하면 실력 문제다.&quot; 하지만 에이전트, 서브에이전트, 프롬프트, 컨텍스트, MCP, 워크플로우... 매뉴얼 없이 던져진 도구이기도 합니다.</p>\n<p>알렉스 와미는 &quot",
+          "contentSnippet": "안드레 카파시가 최근 이런 글을 남겼습니다. \"지난 1년간 등장한 것들을 제대로 엮기만 하면 10배는 강력해질 수 있을 것 같은데, 그걸 못 하면 실력 문제다.\" 하지만 에이전트, 서브에이전트, 프롬프트, 컨텍스트, MCP, 워크플로우... 매뉴얼 없이 던져진 도구이기도 합니다.\n알렉스 와미는 \"",
+          "id": "https://news.hada.io/topic?id=25691",
+          "isoDate": "2026-01-09T10:35:49.000Z"
+        },
+        {
+          "title": "칼 뉴포트가 분석한 AI 에이전트 2025년 약속이 빗나간 이유",
+          "link": "https://news.hada.io/topic?id=25689",
+          "pubDate": "2026-01-09T08:55:32.000Z",
+          "author": "davespark",
+          "content": "<p>2025년 OpenAI 샘 알트먼 등은 AI 에이전트가 노동력에 합류해 생산성을 혁신할 것이라고 예측했으나, 실제 제품(예: ChatGPT Agent)은 단순 작업도 실패하며 기대에 미치지 못했다. Cal Newport는 프로그래밍 외 영역으로 능력이 전이되지 않았고, LLM 기반 기술의 한계 때문이라고 분석. 안드레이 카파시도 “에이전...</p>",
+          "contentSnippet": "2025년 OpenAI 샘 알트먼 등은 AI 에이전트가 노동력에 합류해 생산성을 혁신할 것이라고 예측했으나, 실제 제품(예: ChatGPT Agent)은 단순 작업도 실패하며 기대에 미치지 못했다. Cal Newport는 프로그래밍 외 영역으로 능력이 전이되지 않았고, LLM 기반 기술의 한계 때문이라고 분석. 안드레이 카파시도 “에이전...",
+          "id": "https://news.hada.io/topic?id=25689",
+          "isoDate": "2026-01-09T08:55:32.000Z"
+        },
+        {
           "title": "Vibe Kanban: AI 코딩 에이전트 작업을 병렬로 관리하는 칸반 보드",
           "link": "https://news.hada.io/topic?id=25688",
           "pubDate": "2026-01-09T08:14:06.000Z",
@@ -75,36 +105,6 @@
           "contentSnippet": "AI 중심 개발이 코드 보조 단계를 넘어 개발 전반의 중심으로 이동하며, 개발자는 구현보다 구조와 의도 설계에 더 집중\n메타 프레임워크의 표준화가 가속되며 Next.js·Nuxt 같은 플랫폼이 라우팅, 데이터 처리, 서버 기능을 아우르는 기본 출발점으로 정착\n...",
           "id": "https://news.hada.io/topic?id=25682",
           "isoDate": "2026-01-09T01:56:01.000Z"
-        },
-        {
-          "title": "Show GN: Bookdot - 종이책 독서 기록 iOS 앱",
-          "link": "https://news.hada.io/topic?id=25681",
-          "pubDate": "2026-01-09T01:34:35.000Z",
-          "author": "trilliwon",
-          "content": "<p>종이책에서 마음에 드는 문장을 사진으로 찍으면 OCR로 텍스트를 추출해 저장하는 iOS 독서 기록 앱입니다.</p>\n<p>만들게 된 배경</p>\n<p>종이책의 문장을 기록하려면 직접 타이핑해야 하는 게 불편했습니다. 전자책은 복사가 되지만 종이책은 안 되니까요. &quot;사진 한 장으로 끝나는&quot; 독서노트 앱을 만들고",
-          "contentSnippet": "종이책에서 마음에 드는 문장을 사진으로 찍으면 OCR로 텍스트를 추출해 저장하는 iOS 독서 기록 앱입니다.\n만들게 된 배경\n종이책의 문장을 기록하려면 직접 타이핑해야 하는 게 불편했습니다. 전자책은 복사가 되지만 종이책은 안 되니까요. \"사진 한 장으로 끝나는\" 독서노트 앱을 만들고",
-          "id": "https://news.hada.io/topic?id=25681",
-          "isoDate": "2026-01-09T01:34:35.000Z"
-        },
-        {
-          "title": "베네수엘라에서 발생한 BGP 이상 현상 분석",
-          "link": "https://news.hada.io/topic?id=25680",
-          "pubDate": "2026-01-09T01:33:24.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>베네수엘라의 <strong>CANTV(AS8048)</strong> 네트워크에서 여러 차례 <strong>BGP 라우트 누출(route leak)</strong> 이 발생해, 일부 네트워크 경로가 비정상적으로 전파됨</li>\n<li>Cloudflare Radar 데이터에 따르면 12월 이후 <strong>11건의 누출 이벤트</strong>가 확인되었으며, 이는 <strong>라우팅 ...</p>",
-          "contentSnippet": "베네수엘라의 CANTV(AS8048) 네트워크에서 여러 차례 BGP 라우트 누출(route leak) 이 발생해, 일부 네트워크 경로가 비정상적으로 전파됨\nCloudflare Radar 데이터에 따르면 12월 이후 11건의 누출 이벤트가 확인되었으며, 이는 라우팅 ...",
-          "id": "https://news.hada.io/topic?id=25680",
-          "isoDate": "2026-01-09T01:33:24.000Z"
-        },
-        {
-          "title": "이란의 라우팅 정보 | Cloudflare Radar",
-          "link": "https://news.hada.io/topic?id=25679",
-          "pubDate": "2026-01-09T00:54:42.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Cloudflare Radar는 <strong>이란의 BGP 라우팅 동향과 통계</strong>를 제공하며, 공표된 IP 주소 공간과 관련 ASN을 포함함</li>\n<li>페이지에는 <strong>전 세계 라우팅 테이블 항목 통계</strong>와 <strong>인터넷 라우팅 이상 현상</strong> 탐지 내용이 포함됨</li>\n<li>\n<strong>베네수엘라에서 1월 2일...</p>",
-          "contentSnippet": "Cloudflare Radar는 이란의 BGP 라우팅 동향과 통계를 제공하며, 공표된 IP 주소 공간과 관련 ASN을 포함함\n페이지에는 전 세계 라우팅 테이블 항목 통계와 인터넷 라우팅 이상 현상 탐지 내용이 포함됨\n베네수엘라에서 1월 2일...",
-          "id": "https://news.hada.io/topic?id=25679",
-          "isoDate": "2026-01-09T00:54:42.000Z"
         }
       ]
     }
