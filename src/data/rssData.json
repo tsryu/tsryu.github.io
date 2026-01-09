@@ -7,6 +7,46 @@
       "priority": 1,
       "data": [
         {
+          "title": "Vibe Kanban: AI 코딩 에이전트 작업을 병렬로 관리하는 칸반 보드",
+          "link": "https://news.hada.io/topic?id=25688",
+          "pubDate": "2026-01-09T08:14:06.000Z",
+          "author": "imjlk",
+          "content": "<p>Claude Code, OpenAI Codex 등의 AI 코딩 에이전트가 작업을 수행하는 동안 발생하는 대기 시간을 활용하여, 여러 작업을 안전하게 병렬로 실행하고 관리할 수 있게 돕는 오픈 소스 데스크탑 애플리케이션.</p>\n<p><strong>주요 특징</strong></p>\n<ul>\n<li>\n<strong>격리된 Git 작업 트리(Worktrees):</strong> 각 작",
+          "contentSnippet": "Claude Code, OpenAI Codex 등의 AI 코딩 에이전트가 작업을 수행하는 동안 발생하는 대기 시간을 활용하여, 여러 작업을 안전하게 병렬로 실행하고 관리할 수 있게 돕는 오픈 소스 데스크탑 애플리케이션.\n주요 특징\n격리된 Git 작업 트리(Worktrees): 각 작",
+          "id": "https://news.hada.io/topic?id=25688",
+          "isoDate": "2026-01-09T08:14:06.000Z"
+        },
+        {
+          "title": "Show GN: YOB : 컨테이너로 만드는 OS",
+          "link": "https://news.hada.io/topic?id=25687",
+          "pubDate": "2026-01-09T07:48:54.000Z",
+          "author": "yuntae",
+          "content": "<p>긱뉴스에도 몇 번 올라온 bootc를 이용한 프로젝트입니다. (https://news.hada.io/topic?id=19473)<br />\n이 프로젝트를 통해 <em><strong>누구나 쉽게, Linux OS(RHEL Familiy)를 컨테이너 이미지 다루는 것과 유사하게, 선언적으로 관리하고 빌드할 수 있습니다.</strong></em></p>\n<p>Docker, OCI-based registry(",
+          "contentSnippet": "긱뉴스에도 몇 번 올라온 bootc를 이용한 프로젝트입니다. (https://news.hada.io/topic?id=19473)\n누구나 쉽게, Linux OS(RHEL Familiy)를 컨테이너 이미지 다루는 것과 유사하게, 선언적으로 관리하고 빌드할 수 있습니다.\nDocker, OCI-based registry(",
+          "id": "https://news.hada.io/topic?id=25687",
+          "isoDate": "2026-01-09T07:48:54.000Z"
+        },
+        {
+          "title": "Show GN: Zlack: Tauri로 만든 경량 데스크톱 Slack 클라이언트",
+          "link": "https://news.hada.io/topic?id=25686",
+          "pubDate": "2026-01-09T04:55:37.000Z",
+          "author": "sknah",
+          "content": "<p>Zlack은 Slack 웹을 기반으로 하면서, Electron 대신 Tauri로 구현한 경량 데스크톱 Slack 클라이언트입니다.<br />\n웹 Slack의 사용성은 그대로 유지하면서도, 데스크톱 환경에서 필요한 네이티브 알림과 안정적인 실행을 목표로 개발했습니다.</p>\n<p>Electron기반 Slack 클라이언트가 메모리 사용량과 리소스 점유",
+          "contentSnippet": "Zlack은 Slack 웹을 기반으로 하면서, Electron 대신 Tauri로 구현한 경량 데스크톱 Slack 클라이언트입니다.\nElectron기반 Slack 클라이언트가 메모리 사용량과 리소스 점유",
+          "id": "https://news.hada.io/topic?id=25686",
+          "isoDate": "2026-01-09T04:55:37.000Z"
+        },
+        {
+          "title": "Show GN: 사용하지 않는 MCP 도구를 꺼서 토큰을 아껴주는 오픈소스",
+          "link": "https://news.hada.io/topic?id=25685",
+          "pubDate": "2026-01-09T03:50:15.000Z",
+          "author": "changhoi",
+          "content": "<p>저는 Linear MCP를 쓰는데, 이게 거의 System tool 급으로 토큰을 차지합니다. 근데 제가 사용해야하는 도구는 몇 개 정해져있거든요. 저는 Claude Code의 컨텍스트를 깔끔하게 유지하는 게 정말 중요하다고 생각하는 사람이라, 아주 간단한 오픈소스를 만들었습니다.</p>\n<p>간단한 Proxy로 MCP를 감싸면 로컬에 도구",
+          "contentSnippet": "저는 Linear MCP를 쓰는데, 이게 거의 System tool 급으로 토큰을 차지합니다. 근데 제가 사용해야하는 도구는 몇 개 정해져있거든요. 저는 Claude Code의 컨텍스트를 깔끔하게 유지하는 게 정말 중요하다고 생각하는 사람이라, 아주 간단한 오픈소스를 만들었습니다.\n간단한 Proxy로 MCP를 감싸면 로컬에 도구",
+          "id": "https://news.hada.io/topic?id=25685",
+          "isoDate": "2026-01-09T03:50:15.000Z"
+        },
+        {
           "title": "12년의 데이터로 본 한국 스타트업 생태계: 스타트업 트렌드리포트 결산",
           "link": "https://news.hada.io/topic?id=25684",
           "pubDate": "2026-01-09T03:14:04.000Z",
@@ -65,46 +105,6 @@
           "contentSnippet": "Cloudflare Radar는 이란의 BGP 라우팅 동향과 통계를 제공하며, 공표된 IP 주소 공간과 관련 ASN을 포함함\n페이지에는 전 세계 라우팅 테이블 항목 통계와 인터넷 라우팅 이상 현상 탐지 내용이 포함됨\n베네수엘라에서 1월 2일...",
           "id": "https://news.hada.io/topic?id=25679",
           "isoDate": "2026-01-09T00:54:42.000Z"
-        },
-        {
-          "title": "Jeff Dean Facts",
-          "link": "https://news.hada.io/topic?id=25678",
-          "pubDate": "2026-01-09T00:51:42.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Google 엔지니어 Jeff Dean</strong>의 전설적인 프로그래밍 능력을 풍자한 <strong>유머 모음집</strong>을 한곳에 정리한 저장소</li>\n<li>원래 <strong>Quora 게시물</strong>에서 시작된 농담들을 기반으로 하며, 이후 <strong>다른 출처의 버전들을 통합</strong>해 구성</li>\n<li>내용은 “Jeff...</p>",
-          "contentSnippet": "Google 엔지니어 Jeff Dean의 전설적인 프로그래밍 능력을 풍자한 유머 모음집을 한곳에 정리한 저장소\n원래 Quora 게시물에서 시작된 농담들을 기반으로 하며, 이후 다른 출처의 버전들을 통합해 구성\n내용은 “Jeff...",
-          "id": "https://news.hada.io/topic?id=25678",
-          "isoDate": "2026-01-09T00:51:42.000Z"
-        },
-        {
-          "title": "Google AI Studio가 이제 Tailwind CSS를 후원함",
-          "link": "https://news.hada.io/topic?id=25677",
-          "pubDate": "2026-01-09T00:48:42.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Google AI Studio</strong>가 <strong>Tailwind CSS</strong>의 공식 후원사로 참여한다고 밝힘</li>\n<li>AI Studio 의 Lead 인 Logan Kilpatrick 이 X를 통해 내용을 공개</li>\n<li>구체적인 <strong>후원 규모나 조건</strong>은 언급되지 않음</li>\n</ul>\n...</p>",
-          "contentSnippet": "Google AI Studio가 Tailwind CSS의 공식 후원사로 참여한다고 밝힘\nAI Studio 의 Lead 인 Logan Kilpatrick 이 X를 통해 내용을 공개\n구체적인 후원 규모나 조건은 언급되지 않음\n\n...",
-          "id": "https://news.hada.io/topic?id=25677",
-          "isoDate": "2026-01-09T00:48:42.000Z"
-        },
-        {
-          "title": "Project Patchouli: 오픈소스 전자기 유도식 드로잉 태블릿 하드웨어",
-          "link": "https://news.hada.io/topic?id=25676",
-          "pubDate": "2026-01-09T00:45:42.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Project Patchouli</strong>는 전자기 유도(EMR) 기반 드로잉 태블릿 하드웨어를 <strong>오픈소스로 구현</strong>한 프로젝트로, 코일 배열과 RF 프런트엔드, 디지털 신호처리 알고리듬을 포함함</li>\n<li>상용 부품으로 구성된 설계를 통해 <strong>다양한 제조사의 펜과 호환</strong>되며, 초저지...</p>",
-          "contentSnippet": "Project Patchouli는 전자기 유도(EMR) 기반 드로잉 태블릿 하드웨어를 오픈소스로 구현한 프로젝트로, 코일 배열과 RF 프런트엔드, 디지털 신호처리 알고리듬을 포함함\n상용 부품으로 구성된 설계를 통해 다양한 제조사의 펜과 호환되며, 초저지...",
-          "id": "https://news.hada.io/topic?id=25676",
-          "isoDate": "2026-01-09T00:45:42.000Z"
-        },
-        {
-          "title": "오픈 인프라스트럭처 맵",
-          "link": "https://news.hada.io/topic?id=25675",
-          "pubDate": "2026-01-09T00:42:42.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>전 세계의 <strong>전력, 통신, 석유, 가스 인프라</strong>를 시각화한 오픈소스 지도 플랫폼</li>\n<li>\n<strong>OpenStreetMap 데이터</strong>를 기반으로 발전소, 송전선, 통신망, 파이프라인 등 주요 인프라를 표시</li>\n<li>전력망은 <strong>전압 등급별(10kV~550kV 이상, HVDC 포함)</strong> 로 구분해...</p>",
-          "contentSnippet": "전 세계의 전력, 통신, 석유, 가스 인프라를 시각화한 오픈소스 지도 플랫폼\nOpenStreetMap 데이터를 기반으로 발전소, 송전선, 통신망, 파이프라인 등 주요 인프라를 표시\n전력망은 전압 등급별(10kV~550kV 이상, HVDC 포함) 로 구분해...",
-          "id": "https://news.hada.io/topic?id=25675",
-          "isoDate": "2026-01-09T00:42:42.000Z"
         }
       ]
     }
