@@ -7,6 +7,46 @@
       "priority": 1,
       "data": [
         {
+          "title": "Rust와 async 기반의 현대적 임베디드 프레임워크 Embassy",
+          "link": "https://news.hada.io/topic?id=25698",
+          "pubDate": "2026-01-09T20:33:16.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Embassy</strong>는 Rust 언어와 <strong>비동기(async)</strong> 기능을 활용해 안전하고 효율적인 임베디드 애플리케이션을 빠르게 개발할 수 있도록 설계된 <strong>차세대 프레임워크</strong>\n</li>\n<li>런타임이나 가비지 컬렉터 없이 <strong>컴파일 타임 메모리·스레드 안전성</strong>을 확보...</p>",
+          "contentSnippet": "Embassy는 Rust 언어와 비동기(async) 기능을 활용해 안전하고 효율적인 임베디드 애플리케이션을 빠르게 개발할 수 있도록 설계된 차세대 프레임워크\n\n런타임이나 가비지 컬렉터 없이 컴파일 타임 메모리·스레드 안전성을 확보...",
+          "id": "https://news.hada.io/topic?id=25698",
+          "isoDate": "2026-01-09T20:33:16.000Z"
+        },
+        {
+          "title": "Sopro TTS: CPU에서 실행되는 제로샷 음성 복제 지원 1억6900만 파라미터 TTS 모델",
+          "link": "https://news.hada.io/topic?id=25697",
+          "pubDate": "2026-01-09T18:33:23.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Sopro TTS</strong>는 영어 기반의 경량 <strong>텍스트-음성 변환 모델</strong>로, 제로샷 음성 복제와 스트리밍 생성을 지원</li>\n<li>\n<strong>1억6900만 개 파라미터</strong>를 가지며, <strong>CPU에서 0.25 RTF</strong> 속도로 30초 오디오를 약 7.5초에 생성</li>\n<li>\n<strong>3~12초 길이...</p>",
+          "contentSnippet": "Sopro TTS는 영어 기반의 경량 텍스트-음성 변환 모델로, 제로샷 음성 복제와 스트리밍 생성을 지원\n1억6900만 개 파라미터를 가지며, CPU에서 0.25 RTF 속도로 30초 오디오를 약 7.5초에 생성\n3~12초 길이...",
+          "id": "https://news.hada.io/topic?id=25697",
+          "isoDate": "2026-01-09T18:33:23.000Z"
+        },
+        {
+          "title": "미네소타 당국, ICE 총격 사망 사건 증거 접근 불가…FBI는 공동 수사 거부",
+          "link": "https://news.hada.io/topic?id=25696",
+          "pubDate": "2026-01-09T17:32:48.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>미네소타주 수사국은 <strong>이민세관단속국(ICE) 요원에 의한 총격 사망 사건</strong> 수사에서 배제되어 사건 자료와 증거에 접근할 수 없다고 발표</li>\n<li>\n<strong>연방검찰청(U.S. Attorney’s Office)</strong> 이 당초 FBI와 공동으로 진행하기로 한 수사에서 미네소타주 기관의 참여를 차단함</li>...</p>",
+          "contentSnippet": "미네소타주 수사국은 이민세관단속국(ICE) 요원에 의한 총격 사망 사건 수사에서 배제되어 사건 자료와 증거에 접근할 수 없다고 발표\n연방검찰청(U.S. Attorney’s Office) 이 당초 FBI와 공동으로 진행하기로 한 수사에서 미네소타주 기관의 참여를 차단함\n...",
+          "id": "https://news.hada.io/topic?id=25696",
+          "isoDate": "2026-01-09T17:32:48.000Z"
+        },
+        {
+          "title": "AI 코딩 보조 도구가 점점 나빠지고 있는가?",
+          "link": "https://news.hada.io/topic?id=25695",
+          "pubDate": "2026-01-09T16:33:46.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>최근 <strong>AI 코딩 보조 도구의 품질 저하</strong>가 관찰되며, 작업 속도와 정확도가 이전보다 떨어지고 있음</li>\n<li>최신 <strong>LLM(대형 언어 모델)</strong> 들은 문법 오류 대신 겉보기엔 정상 작동하지만 실제로는 잘못된 결과를 내는 <strong>‘조용한 실패(silent failure)’</strong> 를 자주...</p>",
+          "contentSnippet": "최근 AI 코딩 보조 도구의 품질 저하가 관찰되며, 작업 속도와 정확도가 이전보다 떨어지고 있음\n최신 LLM(대형 언어 모델) 들은 문법 오류 대신 겉보기엔 정상 작동하지만 실제로는 잘못된 결과를 내는 ‘조용한 실패(silent failure)’ 를 자주...",
+          "id": "https://news.hada.io/topic?id=25695",
+          "isoDate": "2026-01-09T16:33:46.000Z"
+        },
+        {
           "title": "Show GN: AI-SLOP Detector — AI가 만든 ‘과장 거짓 코드’ 분석 탐지 도구",
           "link": "https://news.hada.io/topic?id=25694",
           "pubDate": "2026-01-09T12:45:47.000Z",
@@ -65,46 +105,6 @@
           "contentSnippet": "Zlack은 Slack 웹을 기반으로 하면서, Electron 대신 Tauri로 구현한 경량 데스크톱 Slack 클라이언트입니다.\nElectron기반 Slack 클라이언트가 메모리 사용량과 리소스 점유",
           "id": "https://news.hada.io/topic?id=25686",
           "isoDate": "2026-01-09T04:55:37.000Z"
-        },
-        {
-          "title": "Show GN: 사용하지 않는 MCP 도구를 꺼서 토큰을 아껴주는 오픈소스",
-          "link": "https://news.hada.io/topic?id=25685",
-          "pubDate": "2026-01-09T03:50:15.000Z",
-          "author": "changhoi",
-          "content": "<p>저는 Linear MCP를 쓰는데, 이게 거의 System tool 급으로 토큰을 차지합니다. 근데 제가 사용해야하는 도구는 몇 개 정해져있거든요. 저는 Claude Code의 컨텍스트를 깔끔하게 유지하는 게 정말 중요하다고 생각하는 사람이라, 아주 간단한 오픈소스를 만들었습니다.</p>\n<p>간단한 Proxy로 MCP를 감싸면 로컬에 도구",
-          "contentSnippet": "저는 Linear MCP를 쓰는데, 이게 거의 System tool 급으로 토큰을 차지합니다. 근데 제가 사용해야하는 도구는 몇 개 정해져있거든요. 저는 Claude Code의 컨텍스트를 깔끔하게 유지하는 게 정말 중요하다고 생각하는 사람이라, 아주 간단한 오픈소스를 만들었습니다.\n간단한 Proxy로 MCP를 감싸면 로컬에 도구",
-          "id": "https://news.hada.io/topic?id=25685",
-          "isoDate": "2026-01-09T03:50:15.000Z"
-        },
-        {
-          "title": "12년의 데이터로 본 한국 스타트업 생태계: 스타트업 트렌드리포트 결산",
-          "link": "https://news.hada.io/topic?id=25684",
-          "pubDate": "2026-01-09T03:14:04.000Z",
-          "author": "neo",
-          "content": "<h2>Intro. 12년의 데이터를 한 번에 읽는 이유</h2>\n<ul>\n<li>2014년부터 2025년까지 발간된 스타트업 트렌드리포트를 하나의 시계열 데이터로 묶어, 한국 스타트업 생태계 인식의 변화를 정리</li>\n<li>단년도 성과 평가가 아니라, 반복 질문을 통해 <strong>판단 기준과 인식 구조의 이동</strong>을 추적하는 접근 방...</p>",
-          "contentSnippet": "Intro. 12년의 데이터를 한 번에 읽는 이유\n2014년부터 2025년까지 발간된 스타트업 트렌드리포트를 하나의 시계열 데이터로 묶어, 한국 스타트업 생태계 인식의 변화를 정리\n단년도 성과 평가가 아니라, 반복 질문을 통해 판단 기준과 인식 구조의 이동을 추적하는 접근 방...",
-          "id": "https://news.hada.io/topic?id=25684",
-          "isoDate": "2026-01-09T03:14:04.000Z"
-        },
-        {
-          "title": "크레이그리스트는 인터넷에서 마지막 남은 진짜 장소",
-          "link": "https://news.hada.io/topic?id=25683",
-          "pubDate": "2026-01-09T03:00:06.000Z",
-          "author": "davespark",
-          "content": "<p>Is Craigslist the Last Real Place on the Internet?</p>\n<ul>\n<li>Craigslist는 AI·알고리즘 중심의 현대 인터넷에서 사라져가는 <strong>초기 인터넷의 순수성과 진정성</strong>을 유지하는 <strong>마지막 진짜 공간</strong>으로 평가됨</li>\n<li>밀레니얼 및 젊은 세대가 여전히 Craigslist를 일상적으로 사용",
-          "contentSnippet": "Is Craigslist the Last Real Place on the Internet?\nCraigslist는 AI·알고리즘 중심의 현대 인터넷에서 사라져가는 초기 인터넷의 순수성과 진정성을 유지하는 마지막 진짜 공간으로 평가됨\n밀레니얼 및 젊은 세대가 여전히 Craigslist를 일상적으로 사용",
-          "id": "https://news.hada.io/topic?id=25683",
-          "isoDate": "2026-01-09T03:00:06.000Z"
-        },
-        {
-          "title": "2026년 웹 개발의 기본값이 되는 변화들",
-          "link": "https://news.hada.io/topic?id=25682",
-          "pubDate": "2026-01-09T01:56:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>AI 중심 개발</strong>이 코드 보조 단계를 넘어 개발 전반의 중심으로 이동하며, 개발자는 구현보다 구조와 의도 설계에 더 집중</li>\n<li>\n<strong>메타 프레임워크의 표준화</strong>가 가속되며 Next.js·Nuxt 같은 플랫폼이 라우팅, 데이터 처리, 서버 기능을 아우르는 기본 출발점으로 정착</li>...</p>",
-          "contentSnippet": "AI 중심 개발이 코드 보조 단계를 넘어 개발 전반의 중심으로 이동하며, 개발자는 구현보다 구조와 의도 설계에 더 집중\n메타 프레임워크의 표준화가 가속되며 Next.js·Nuxt 같은 플랫폼이 라우팅, 데이터 처리, 서버 기능을 아우르는 기본 출발점으로 정착\n...",
-          "id": "https://news.hada.io/topic?id=25682",
-          "isoDate": "2026-01-09T01:56:01.000Z"
         }
       ]
     }
