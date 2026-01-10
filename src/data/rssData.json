@@ -7,6 +7,66 @@
       "priority": 1,
       "data": [
         {
+          "title": "에르되시 문제 #728, AI가 거의 자율적으로 해결",
+          "link": "https://news.hada.io/topic?id=25715",
+          "pubDate": "2026-01-10T07:33:31.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>에르되시 문제 #728</strong>이 최근 <strong>AI 도구에 의해 거의 자율적으로 해결</strong>되며 수학 연구 자동화의 새로운 이정표를 세움</li>\n<li>문제는 원래 <strong>Erdős, Graham, Ruzsa, Strauss</strong>가 1975년에 제기한 <strong>이항계수의 소인수분해 관련 질문</strong>으로, 애매한 ...</p>",
+          "contentSnippet": "에르되시 문제 #728이 최근 AI 도구에 의해 거의 자율적으로 해결되며 수학 연구 자동화의 새로운 이정표를 세움\n문제는 원래 Erdős, Graham, Ruzsa, Strauss가 1975년에 제기한 이항계수의 소인수분해 관련 질문으로, 애매한 ...",
+          "id": "https://news.hada.io/topic?id=25715",
+          "isoDate": "2026-01-10T07:33:31.000Z"
+        },
+        {
+          "title": "미국 감시 인프라의 비밀번호를 53회 하드코딩한 Flock Safety",
+          "link": "https://news.hada.io/topic?id=25714",
+          "pubDate": "2026-01-10T06:32:45.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>미국 전역의 <strong>감시 네트워크를 운영하는 Flock Safety</strong>가 ArcGIS API 키를 하드코딩해 53개의 공개 자바스크립트 번들에서 노출시킨 사실이 확인됨</li>\n<li>이 키는 <strong>약 12,000개 기관의 위치·탐지 데이터를 통합 관리하는 ArcGIS 환경</strong>에 접근할 수 있었으며, IP·리퍼러 제한이...</p>",
+          "contentSnippet": "미국 전역의 감시 네트워크를 운영하는 Flock Safety가 ArcGIS API 키를 하드코딩해 53개의 공개 자바스크립트 번들에서 노출시킨 사실이 확인됨\n이 키는 약 12,000개 기관의 위치·탐지 데이터를 통합 관리하는 ArcGIS 환경에 접근할 수 있었으며, IP·리퍼러 제한이...",
+          "id": "https://news.hada.io/topic?id=25714",
+          "isoDate": "2026-01-10T06:32:45.000Z"
+        },
+        {
+          "title": "Mypy에서 Ty로: Ruff 제작사가 만든 초고속 Rust 기반 Python 타입 체커 도입 가이드",
+          "link": "https://news.hada.io/topic?id=25713",
+          "pubDate": "2026-01-10T05:46:46.000Z",
+          "author": "darjeeling",
+          "content": "<p>요약:</p>\n<ul>\n<li>Astral(Ruff 제작사)에서 공개한 Rust 기반의 새로운 Python 타입 체커 'ty'의 도입 및 마이그레이션 방법을 다룹니다.</li>\n<li>'ty'는 기본적으로 Mypy의 엄격(strict) 모드와 유사하게 동작하며, 'uv'를 통한 설치 및 실행을 기본적으로 지원합니다.</li>\n<li>아직 공식 pre-commit 지원은 없으",
+          "contentSnippet": "요약:\nAstral(Ruff 제작사)에서 공개한 Rust 기반의 새로운 Python 타입 체커 'ty'의 도입 및 마이그레이션 방법을 다룹니다.\n'ty'는 기본적으로 Mypy의 엄격(strict) 모드와 유사하게 동작하며, 'uv'를 통한 설치 및 실행을 기본적으로 지원합니다.\n아직 공식 pre-commit 지원은 없으",
+          "id": "https://news.hada.io/topic?id=25713",
+          "isoDate": "2026-01-10T05:46:46.000Z"
+        },
+        {
+          "title": "리눅스용 오리온 알파 버전 공개",
+          "link": "https://news.hada.io/topic?id=25712",
+          "pubDate": "2026-01-10T05:32:56.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Kagi의 웹 브라우저 Orion</strong>이 리눅스용 <strong>알파 단계 버전</strong>으로 공개되어 초기 테스트가 가능함</li>\n<li>이 버전은 <strong>시각적 구성요소 전반</strong>이 구현되어 있으며, 메뉴·대화상자·툴바 등 기본 UI가 작동함</li>\n<li>\n<strong>탭 관리 기능</strong>이 대부분 완성...</p>",
+          "contentSnippet": "Kagi의 웹 브라우저 Orion이 리눅스용 알파 단계 버전으로 공개되어 초기 테스트가 가능함\n이 버전은 시각적 구성요소 전반이 구현되어 있으며, 메뉴·대화상자·툴바 등 기본 UI가 작동함\n탭 관리 기능이 대부분 완성...",
+          "id": "https://news.hada.io/topic?id=25712",
+          "isoDate": "2026-01-10T05:32:56.000Z"
+        },
+        {
+          "title": "Anthropic 엔지니어링: AI 에이전트 평가(Evals)의 실용적 가이드와 방법론",
+          "link": "https://news.hada.io/topic?id=25711",
+          "pubDate": "2026-01-10T04:32:34.000Z",
+          "author": "darjeeling",
+          "content": "<p>요약:</p>\n<ul>\n<li>기존 LLM 벤치마크만으로는 도구 사용과 다단계 추론을 수행하는 'AI 에이전트'의 성능을 정확히 측정하기 어려움.</li>\n<li>에이전트 평가는 소프트웨어 테스트와 유사하게 단위 테스트(Unit Tests)와 통합 테스트(Integration Tests)를 결합해야 함.</li>\n<li>결정론적 코드 채점(Code-based)과",
+          "contentSnippet": "요약:\n기존 LLM 벤치마크만으로는 도구 사용과 다단계 추론을 수행하는 'AI 에이전트'의 성능을 정확히 측정하기 어려움.\n에이전트 평가는 소프트웨어 테스트와 유사하게 단위 테스트(Unit Tests)와 통합 테스트(Integration Tests)를 결합해야 함.\n결정론적 코드 채점(Code-based)과",
+          "id": "https://news.hada.io/topic?id=25711",
+          "isoDate": "2026-01-10T04:32:34.000Z"
+        },
+        {
+          "title": "Show GN: 상태머신 기반의 결정론적 LLM 에이전트 데모",
+          "link": "https://news.hada.io/topic?id=25710",
+          "pubDate": "2026-01-10T03:59:51.000Z",
+          "author": "eggplantiny",
+          "content": "<p>상태 머신을 기반으로 한 결정론적 LLM 에이전트 아키텍처를 실험적으로 구현한 데모입니다.</p>\n<p>모든 사용자 상태는 서버가 아닌 브라우저의 IndexedDB에 저장되며,<br />\nLLM은 실행이나 상태 변경이 아니라 사용자 입력을 의도로 해석 및 분류하는 단계에만 사용됩니다.</p>\n<p>데모 환경에서는 하루 최대 30회",
+          "contentSnippet": "상태 머신을 기반으로 한 결정론적 LLM 에이전트 아키텍처를 실험적으로 구현한 데모입니다.\n모든 사용자 상태는 서버가 아닌 브라우저의 IndexedDB에 저장되며,\n데모 환경에서는 하루 최대 30회",
+          "id": "https://news.hada.io/topic?id=25710",
+          "isoDate": "2026-01-10T03:59:51.000Z"
+        },
+        {
           "title": "CES 2026 최고의 제품들",
           "link": "https://news.hada.io/topic?id=25708",
           "pubDate": "2026-01-10T02:31:02.000Z",
@@ -45,66 +105,6 @@
           "contentSnippet": "Simon 스타일의 음악 청음 게임으로, 사용자가 들은 멜로디를 피아노로 재현하도록 구성\n악보 표시 연습 모드와 귀로 연주하는 모드 두 가지 방식 지원\nMIDI 키보드 연결을 통해 실제 악기 입력으로 연습 가능\n...",
           "id": "https://news.hada.io/topic?id=25705",
           "isoDate": "2026-01-10T00:49:32.000Z"
-        },
-        {
-          "title": "베트남 정부, 루팅된 스마트폰의 \"모든 은행 앱 사용 금지\"",
-          "link": "https://news.hada.io/topic?id=25704",
-          "pubDate": "2026-01-10T00:46:32.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>베트남 중앙은행이 발표한 <strong>‘77/2025/TT-NHNN’ 개정안</strong>은 루팅·부트로더 언락·ADB 연결 등 보안 취약 환경에서 <strong>모바일 뱅킹 앱 실행을 차단</strong>하도록 규정</li>\n<li>새 규정은 <strong>3월 1일부터 시행</strong>되며, 앱이 이러한 징후를 감지하면 <strong>자동 종료 및 사용자...</p>",
-          "contentSnippet": "베트남 중앙은행이 발표한 ‘77/2025/TT-NHNN’ 개정안은 루팅·부트로더 언락·ADB 연결 등 보안 취약 환경에서 모바일 뱅킹 앱 실행을 차단하도록 규정\n새 규정은 3월 1일부터 시행되며, 앱이 이러한 징후를 감지하면 자동 종료 및 사용자...",
-          "id": "https://news.hada.io/topic?id=25704",
-          "isoDate": "2026-01-10T00:46:32.000Z"
-        },
-        {
-          "title": "유럽연합 집행위원회, 오픈소스 관련 증거 수집 공고 발표",
-          "link": "https://news.hada.io/topic?id=25703",
-          "pubDate": "2026-01-10T00:43:32.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>유럽연합 집행위원회가 <strong>‘유럽 오픈 디지털 생태계 전략’</strong> 수립을 위해 오픈소스 관련 <strong>증거(Call for Evidence)</strong> 수집 절차를 개시함</li>\n<li>비EU 국가 소프트웨어 의존도를 줄이고 <strong>디지털 주권과 공급망 보안</strong>을 강화하는 것이 핵심 목표</li>\n<li>오픈소...</p>",
-          "contentSnippet": "유럽연합 집행위원회가 ‘유럽 오픈 디지털 생태계 전략’ 수립을 위해 오픈소스 관련 증거(Call for Evidence) 수집 절차를 개시함\n비EU 국가 소프트웨어 의존도를 줄이고 디지털 주권과 공급망 보안을 강화하는 것이 핵심 목표\n오픈소...",
-          "id": "https://news.hada.io/topic?id=25703",
-          "isoDate": "2026-01-10T00:43:32.000Z"
-        },
-        {
-          "title": "Anthropic이 Claude Code 구독의 서드파티 사용을 차단",
-          "link": "https://news.hada.io/topic?id=25702",
-          "pubDate": "2026-01-10T00:40:32.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>여러 사용자가 <strong>Claude Max</strong> 기능이 갑자기 작동하지 않고 오류 메시지를 표시한다고 보고</li>\n<li>문제는 <strong>OpenCode 1.1.8 버전</strong>에서 발생했으며, 재연결 시도 후에도 동일한 오류가 지속됨</li>\n<li>일부 사용자는 <strong>Anthropic의 정책 변경</strong>으로 인해 외부 클라...</p>",
-          "contentSnippet": "여러 사용자가 Claude Max 기능이 갑자기 작동하지 않고 오류 메시지를 표시한다고 보고\n문제는 OpenCode 1.1.8 버전에서 발생했으며, 재연결 시도 후에도 동일한 오류가 지속됨\n일부 사용자는 Anthropic의 정책 변경으로 인해 외부 클라...",
-          "id": "https://news.hada.io/topic?id=25702",
-          "isoDate": "2026-01-10T00:40:32.000Z"
-        },
-        {
-          "title": "metacode - 액션 코멘트 표준화를 위한 선언적 주석 언어와 파서",
-          "link": "https://news.hada.io/topic?id=25701",
-          "pubDate": "2026-01-10T00:31:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>Python 생태계의 lint·포맷터·타입체커·커버리지 도구들이 사용하는 <strong>특수 주석(action comment)을 하나의 표준으로 통합</strong>하기 위해 제안된 라이브러리</li>\n<li>\n<code># noqa</code>, <code># fmt: off</code>, <code># type: ignore</code>처럼 <strong>사실상 관행이지만 표준은 없는 주석...</p>",
-          "contentSnippet": "Python 생태계의 lint·포맷터·타입체커·커버리지 도구들이 사용하는 특수 주석(action comment)을 하나의 표준으로 통합하기 위해 제안된 라이브러리\n# noqa, # fmt: off, # type: ignore처럼 사실상 관행이지만 표준은 없는 주석...",
-          "id": "https://news.hada.io/topic?id=25701",
-          "isoDate": "2026-01-10T00:31:01.000Z"
-        },
-        {
-          "title": "푸리에 변환의 불합리할 정도로 뛰어난 효용성",
-          "link": "https://news.hada.io/topic?id=25700",
-          "pubDate": "2026-01-09T21:37:32.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>푸리에 변환</strong>이 실제 기술 응용에서 얼마나 강력하게 작동하는지를 보여주는 발표</li>\n<li>발표자는 <strong>Teardown 2025</strong> 행사에서 OFDM(직교 주파수 분할 다중화) 관련 사례를 중심으로 설명함</li>\n<li>슬라이드 PDF, <strong>Jupyter 노트북</strong>, <strong>DVB-T 디코더 코...</p>",
-          "contentSnippet": "푸리에 변환이 실제 기술 응용에서 얼마나 강력하게 작동하는지를 보여주는 발표\n발표자는 Teardown 2025 행사에서 OFDM(직교 주파수 분할 다중화) 관련 사례를 중심으로 설명함\n슬라이드 PDF, Jupyter 노트북, DVB-T 디코더 코...",
-          "id": "https://news.hada.io/topic?id=25700",
-          "isoDate": "2026-01-09T21:37:32.000Z"
-        },
-        {
-          "title": "살인을 살인이라 부르자",
-          "link": "https://news.hada.io/topic?id=25699",
-          "pubDate": "2026-01-09T21:34:32.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>미니애폴리스에서 <strong>Renee Good</strong>가 <strong>ICE 요원 Jonathan Ross</strong>에게 총격으로 사망한 사건이 발생, 명백히 정당화될 수 없는 행위로 묘사됨</li>\n<li>\n<strong>뉴욕타임스의 프레임별 분석 영상</strong>은 세 개의 각도에서 사건을 보여주며, 정부 인사들의 ‘정당방위’ 혹은 ‘국...</p>",
-          "contentSnippet": "미니애폴리스에서 Renee Good가 ICE 요원 Jonathan Ross에게 총격으로 사망한 사건이 발생, 명백히 정당화될 수 없는 행위로 묘사됨\n뉴욕타임스의 프레임별 분석 영상은 세 개의 각도에서 사건을 보여주며, 정부 인사들의 ‘정당방위’ 혹은 ‘국...",
-          "id": "https://news.hada.io/topic?id=25699",
-          "isoDate": "2026-01-09T21:34:32.000Z"
         }
       ]
     }
