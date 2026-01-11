@@ -7,6 +7,86 @@
       "priority": 1,
       "data": [
         {
+          "title": "Oh My Zsh는 불필요한 부하를 추가함",
+          "link": "https://news.hada.io/topic?id=25725",
+          "pubDate": "2026-01-11T01:05:39.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>Oh My Zsh(OMZ)</strong> 는 여전히 널리 추천되지만, 셸 시작 시간을 느리게 만드는 <strong>불필요한 스크립트 부하</strong>를 초래함</li>\n<li>OMZ는 셸 스크립트로 작성되어 새 터미널 탭을 열 때마다 모든 스크립트를 해석해야 하며, <strong>기본 설정만으로도 약 0.38초의 지연</strong>이 발...</p>",
+          "contentSnippet": "Oh My Zsh(OMZ) 는 여전히 널리 추천되지만, 셸 시작 시간을 느리게 만드는 불필요한 스크립트 부하를 초래함\nOMZ는 셸 스크립트로 작성되어 새 터미널 탭을 열 때마다 모든 스크립트를 해석해야 하며, 기본 설정만으로도 약 0.38초의 지연이 발...",
+          "id": "https://news.hada.io/topic?id=25725",
+          "isoDate": "2026-01-11T01:05:39.000Z"
+        },
+        {
+          "title": "다크 스카이를 추모하며: 데이터 시각화의 걸작",
+          "link": "https://news.hada.io/topic?id=25724",
+          "pubDate": "2026-01-11T00:37:48.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Dark Sky</strong>는 단순한 날씨 예보 앱이 아니라, <strong>맥락 기반 정보 디자인의 대표 사례</strong>로 평가됨</li>\n<li>사용자의 위치와 시간에 따라 <strong>날씨 데이터를 시각적으로 맥락화</strong>해 보여주는 설계가 핵심</li>\n<li>온도·강수량·바람 방향 등 수치를 <strong>직관적 그래...</p>",
+          "contentSnippet": "Dark Sky는 단순한 날씨 예보 앱이 아니라, 맥락 기반 정보 디자인의 대표 사례로 평가됨\n사용자의 위치와 시간에 따라 날씨 데이터를 시각적으로 맥락화해 보여주는 설계가 핵심\n온도·강수량·바람 방향 등 수치를 직관적 그래...",
+          "id": "https://news.hada.io/topic?id=25724",
+          "isoDate": "2026-01-11T00:37:48.000Z"
+        },
+        {
+          "title": "시트로엥 C15를 소개합니다",
+          "link": "https://news.hada.io/topic?id=25723",
+          "pubDate": "2026-01-11T00:34:48.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>시트로엥 C15</strong>는 대형 SUV나 픽업트럭보다 효율적이고 실용적인 차량으로 제시됨</li>\n<li>글쓴이는 미국인과 영국 부유층이 “시골에 살아서 필요하다”며 <strong>과도하게 큰 차량을 구매하는 행태</strong>를 비판</li>\n<li>C15는 <strong>가격, 연비, 적재용량, 오프로드 성능, 배출가스...</p>",
+          "contentSnippet": "시트로엥 C15는 대형 SUV나 픽업트럭보다 효율적이고 실용적인 차량으로 제시됨\n글쓴이는 미국인과 영국 부유층이 “시골에 살아서 필요하다”며 과도하게 큰 차량을 구매하는 행태를 비판\nC15는 가격, 연비, 적재용량, 오프로드 성능, 배출가스...",
+          "id": "https://news.hada.io/topic?id=25723",
+          "isoDate": "2026-01-11T00:34:48.000Z"
+        },
+        {
+          "title": "Wirebrowser - 브라우저 내부 분석용 CDP 기반 네트워크·메모리 통합 디버깅 도구",
+          "link": "https://news.hada.io/topic?id=25722",
+          "pubDate": "2026-01-11T00:31:02.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>Chrome DevTools Protocol을 기반으로 <strong>네트워크 조작과 JavaScript 메모리 분석을 하나의 환경으로 통합</strong>한 클라이언트 분석 도구</li>\n<li>HTTP 요청·응답을 <strong>실시간으로 가로채고 수정·차단·재생</strong>할 수 있는 네트워크 인터셉터 제공</li>\n<li>실행 중인 JavaScript 힙을 대상...</p>",
+          "contentSnippet": "Chrome DevTools Protocol을 기반으로 네트워크 조작과 JavaScript 메모리 분석을 하나의 환경으로 통합한 클라이언트 분석 도구\nHTTP 요청·응답을 실시간으로 가로채고 수정·차단·재생할 수 있는 네트워크 인터셉터 제공\n실행 중인 JavaScript 힙을 대상...",
+          "id": "https://news.hada.io/topic?id=25722",
+          "isoDate": "2026-01-11T00:31:02.000Z"
+        },
+        {
+          "title": "Dwitter - 자바스크립트 140자 데모 모음",
+          "link": "https://news.hada.io/topic?id=25721",
+          "pubDate": "2026-01-10T22:33:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Dwitter</strong>는 140자 이내의 <strong>JavaScript 코드로 시각적 데모를 작성하고 공유</strong>할 수 있는 플랫폼</li>\n<li>각 게시물은 ‘<strong>dweet</strong>’이라 불리며, 코드와 함께 <strong>즉시 실행되는 그래픽 애니메이션</strong>을 표시</li>\n<li>사용자들은 <strong>댓글, 리믹스...</p>",
+          "contentSnippet": "Dwitter는 140자 이내의 JavaScript 코드로 시각적 데모를 작성하고 공유할 수 있는 플랫폼\n각 게시물은 ‘dweet’이라 불리며, 코드와 함께 즉시 실행되는 그래픽 애니메이션을 표시\n사용자들은 댓글, 리믹스...",
+          "id": "https://news.hada.io/topic?id=25721",
+          "isoDate": "2026-01-10T22:33:02.000Z"
+        },
+        {
+          "title": "웹어셈블리에는 무슨 일이 있었나",
+          "link": "https://news.hada.io/topic?id=25720",
+          "pubDate": "2026-01-10T21:33:16.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>WebAssembly(Wasm)</strong> 은 여전히 다양한 실제 제품에서 핵심 기술로 사용되고 있으며, <strong>게임 엔진·디자인 툴·웹 컨테이너</strong> 등에서 중요한 역할을 수행</li>\n<li>언어 자체는 <strong>하드웨어에 효율적으로 매핑되는 구조</strong>를 가지며, <strong>안전성과 이식성</strong>을...</p>",
+          "contentSnippet": "WebAssembly(Wasm) 은 여전히 다양한 실제 제품에서 핵심 기술로 사용되고 있으며, 게임 엔진·디자인 툴·웹 컨테이너 등에서 중요한 역할을 수행\n언어 자체는 하드웨어에 효율적으로 매핑되는 구조를 가지며, 안전성과 이식성을...",
+          "id": "https://news.hada.io/topic?id=25720",
+          "isoDate": "2026-01-10T21:33:16.000Z"
+        },
+        {
+          "title": "윈도우를 리눅스로 교체했는데 모든 게 잘 작동하고 있어요",
+          "link": "https://news.hada.io/topic?id=25719",
+          "pubDate": "2026-01-10T20:56:39.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>Windows 11의 불편함</strong>에 지친 사용자가 메인 데스크톱 운영체제를 <strong>Linux로 전환</strong>해 일주일간 사용한 경험을 기록</li>\n<li>설치한 배포판은 <strong>CachyOS(Arch 기반)</strong> 로, 최신 하드웨어와 <strong>게임 최적화</strong>에 중점을 둔 구성</li>\n<li>\n<strong>GPU ...</p>",
+          "contentSnippet": "Windows 11의 불편함에 지친 사용자가 메인 데스크톱 운영체제를 Linux로 전환해 일주일간 사용한 경험을 기록\n설치한 배포판은 CachyOS(Arch 기반) 로, 최신 하드웨어와 게임 최적화에 중점을 둔 구성\nGPU ...",
+          "id": "https://news.hada.io/topic?id=25719",
+          "isoDate": "2026-01-10T20:56:39.000Z"
+        },
+        {
+          "title": "런던–캘커타 버스 노선",
+          "link": "https://news.hada.io/topic?id=25718",
+          "pubDate": "2026-01-10T20:32:55.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>1957년 개통된 <strong>런던–캘커타 국제 장거리 버스 노선</strong>은 당시 세계에서 가장 긴 버스 노선 중 하나로 약 1만 마일(1만6천km)을 운행</li>\n<li>\n<strong>50일 이상 소요되는 여정</strong>으로, 런던에서 출발해 벨기에·서독·오스트리아·유고슬라비아·불가리아·터키·이란·아프가니스탄·파키스�...</p>",
+          "contentSnippet": "1957년 개통된 런던–캘커타 국제 장거리 버스 노선은 당시 세계에서 가장 긴 버스 노선 중 하나로 약 1만 마일(1만6천km)을 운행\n50일 이상 소요되는 여정으로, 런던에서 출발해 벨기에·서독·오스트리아·유고슬라비아·불가리아·터키·이란·아프가니스탄·파키스�...",
+          "id": "https://news.hada.io/topic?id=25718",
+          "isoDate": "2026-01-10T20:32:55.000Z"
+        },
+        {
           "title": "마크다운이 세상을 장악한 이유",
           "link": "https://news.hada.io/topic?id=25717",
           "pubDate": "2026-01-10T16:37:46.000Z",
@@ -25,86 +105,6 @@
           "contentSnippet": "운동이 우울증 완화에 심리치료와 유사한 수준의 효과를 보인다는 대규모 임상시험 검토 결과 제시\n항우울제와 비교했을 때도 유사한 개선 효과가 관찰되었으나, 해당 근거의 확실성은 낮은 수준으로 평가됨\n가벼운~중간 강도의 운동을 여러 차...",
           "id": "https://news.hada.io/topic?id=25716",
           "isoDate": "2026-01-10T16:34:46.000Z"
-        },
-        {
-          "title": "에르되시 문제 #728, AI가 거의 자율적으로 해결",
-          "link": "https://news.hada.io/topic?id=25715",
-          "pubDate": "2026-01-10T07:33:31.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>에르되시 문제 #728</strong>이 최근 <strong>AI 도구에 의해 거의 자율적으로 해결</strong>되며 수학 연구 자동화의 새로운 이정표를 세움</li>\n<li>문제는 원래 <strong>Erdős, Graham, Ruzsa, Strauss</strong>가 1975년에 제기한 <strong>이항계수의 소인수분해 관련 질문</strong>으로, 애매한 ...</p>",
-          "contentSnippet": "에르되시 문제 #728이 최근 AI 도구에 의해 거의 자율적으로 해결되며 수학 연구 자동화의 새로운 이정표를 세움\n문제는 원래 Erdős, Graham, Ruzsa, Strauss가 1975년에 제기한 이항계수의 소인수분해 관련 질문으로, 애매한 ...",
-          "id": "https://news.hada.io/topic?id=25715",
-          "isoDate": "2026-01-10T07:33:31.000Z"
-        },
-        {
-          "title": "미국 감시 인프라의 비밀번호를 53회 하드코딩한 Flock Safety",
-          "link": "https://news.hada.io/topic?id=25714",
-          "pubDate": "2026-01-10T06:32:45.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>미국 전역의 <strong>감시 네트워크를 운영하는 Flock Safety</strong>가 ArcGIS API 키를 하드코딩해 53개의 공개 자바스크립트 번들에서 노출시킨 사실이 확인됨</li>\n<li>이 키는 <strong>약 12,000개 기관의 위치·탐지 데이터를 통합 관리하는 ArcGIS 환경</strong>에 접근할 수 있었으며, IP·리퍼러 제한이...</p>",
-          "contentSnippet": "미국 전역의 감시 네트워크를 운영하는 Flock Safety가 ArcGIS API 키를 하드코딩해 53개의 공개 자바스크립트 번들에서 노출시킨 사실이 확인됨\n이 키는 약 12,000개 기관의 위치·탐지 데이터를 통합 관리하는 ArcGIS 환경에 접근할 수 있었으며, IP·리퍼러 제한이...",
-          "id": "https://news.hada.io/topic?id=25714",
-          "isoDate": "2026-01-10T06:32:45.000Z"
-        },
-        {
-          "title": "Mypy에서 Ty로: Ruff 제작사가 만든 초고속 Rust 기반 Python 타입 체커 도입 가이드",
-          "link": "https://news.hada.io/topic?id=25713",
-          "pubDate": "2026-01-10T05:46:46.000Z",
-          "author": "darjeeling",
-          "content": "<p>요약:</p>\n<ul>\n<li>Astral(Ruff 제작사)에서 공개한 Rust 기반의 새로운 Python 타입 체커 'ty'의 도입 및 마이그레이션 방법을 다룹니다.</li>\n<li>'ty'는 기본적으로 Mypy의 엄격(strict) 모드와 유사하게 동작하며, 'uv'를 통한 설치 및 실행을 기본적으로 지원합니다.</li>\n<li>아직 공식 pre-commit 지원은 없으",
-          "contentSnippet": "요약:\nAstral(Ruff 제작사)에서 공개한 Rust 기반의 새로운 Python 타입 체커 'ty'의 도입 및 마이그레이션 방법을 다룹니다.\n'ty'는 기본적으로 Mypy의 엄격(strict) 모드와 유사하게 동작하며, 'uv'를 통한 설치 및 실행을 기본적으로 지원합니다.\n아직 공식 pre-commit 지원은 없으",
-          "id": "https://news.hada.io/topic?id=25713",
-          "isoDate": "2026-01-10T05:46:46.000Z"
-        },
-        {
-          "title": "리눅스용 오리온 알파 버전 공개",
-          "link": "https://news.hada.io/topic?id=25712",
-          "pubDate": "2026-01-10T05:32:56.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Kagi의 웹 브라우저 Orion</strong>이 리눅스용 <strong>알파 단계 버전</strong>으로 공개되어 초기 테스트가 가능함</li>\n<li>이 버전은 <strong>시각적 구성요소 전반</strong>이 구현되어 있으며, 메뉴·대화상자·툴바 등 기본 UI가 작동함</li>\n<li>\n<strong>탭 관리 기능</strong>이 대부분 완성...</p>",
-          "contentSnippet": "Kagi의 웹 브라우저 Orion이 리눅스용 알파 단계 버전으로 공개되어 초기 테스트가 가능함\n이 버전은 시각적 구성요소 전반이 구현되어 있으며, 메뉴·대화상자·툴바 등 기본 UI가 작동함\n탭 관리 기능이 대부분 완성...",
-          "id": "https://news.hada.io/topic?id=25712",
-          "isoDate": "2026-01-10T05:32:56.000Z"
-        },
-        {
-          "title": "Anthropic 엔지니어링: AI 에이전트 평가(Evals)의 실용적 가이드와 방법론",
-          "link": "https://news.hada.io/topic?id=25711",
-          "pubDate": "2026-01-10T04:32:34.000Z",
-          "author": "darjeeling",
-          "content": "<p>요약:</p>\n<ul>\n<li>기존 LLM 벤치마크만으로는 도구 사용과 다단계 추론을 수행하는 'AI 에이전트'의 성능을 정확히 측정하기 어려움.</li>\n<li>에이전트 평가는 소프트웨어 테스트와 유사하게 단위 테스트(Unit Tests)와 통합 테스트(Integration Tests)를 결합해야 함.</li>\n<li>결정론적 코드 채점(Code-based)과",
-          "contentSnippet": "요약:\n기존 LLM 벤치마크만으로는 도구 사용과 다단계 추론을 수행하는 'AI 에이전트'의 성능을 정확히 측정하기 어려움.\n에이전트 평가는 소프트웨어 테스트와 유사하게 단위 테스트(Unit Tests)와 통합 테스트(Integration Tests)를 결합해야 함.\n결정론적 코드 채점(Code-based)과",
-          "id": "https://news.hada.io/topic?id=25711",
-          "isoDate": "2026-01-10T04:32:34.000Z"
-        },
-        {
-          "title": "Show GN: 상태머신 기반의 결정론적 LLM 에이전트 데모",
-          "link": "https://news.hada.io/topic?id=25710",
-          "pubDate": "2026-01-10T03:59:51.000Z",
-          "author": "eggplantiny",
-          "content": "<p>상태 머신을 기반으로 한 결정론적 LLM 에이전트 아키텍처를 실험적으로 구현한 데모입니다.</p>\n<p>모든 사용자 상태는 서버가 아닌 브라우저의 IndexedDB에 저장되며,<br />\nLLM은 실행이나 상태 변경이 아니라 사용자 입력을 의도로 해석 및 분류하는 단계에만 사용됩니다.</p>\n<p>데모 환경에서는 하루 최대 30회",
-          "contentSnippet": "상태 머신을 기반으로 한 결정론적 LLM 에이전트 아키텍처를 실험적으로 구현한 데모입니다.\n모든 사용자 상태는 서버가 아닌 브라우저의 IndexedDB에 저장되며,\n데모 환경에서는 하루 최대 30회",
-          "id": "https://news.hada.io/topic?id=25710",
-          "isoDate": "2026-01-10T03:59:51.000Z"
-        },
-        {
-          "title": "CES 2026 최고의 제품들",
-          "link": "https://news.hada.io/topic?id=25708",
-          "pubDate": "2026-01-10T02:31:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>NYT Wirecutter 가 뽑은 가장 손에 넣고 싶은 제품들 리스트</li>\n<li>2026년 CES는 <strong>&quot;서투른 로봇의 해&quot;</strong> :\n<ul>\n<li>SwitchBot, LG, Sharpa, Unitree 등이 빨래 개기(어설프게), 카드 딜링(매우 느리게), 탁구(의아하게), 격투기(이상하게)를 수행하는 로봇 시연</li>\n<li>춤추는 로...</p>",
-          "contentSnippet": "NYT Wirecutter 가 뽑은 가장 손에 넣고 싶은 제품들 리스트\n2026년 CES는 \"서투른 로봇의 해\" :\n\nSwitchBot, LG, Sharpa, Unitree 등이 빨래 개기(어설프게), 카드 딜링(매우 느리게), 탁구(의아하게), 격투기(이상하게)를 수행하는 로봇 시연\n춤추는 로...",
-          "id": "https://news.hada.io/topic?id=25708",
-          "isoDate": "2026-01-10T02:31:02.000Z"
-        },
-        {
-          "title": "컴퓨터 과학을 위한 수학 (2018) [PDF]",
-          "link": "https://news.hada.io/topic?id=25707",
-          "pubDate": "2026-01-10T00:55:33.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>MIT에서 제공하는 <strong>컴퓨터 과학 전공자를 위한 수학 교재</strong>로, 논리와 증명부터 확률, 재귀, 그래프 이론까지 핵심 수학 개념을 체계적으로 다룸</li>\n<li>\n<strong>증명, 구조, 카운팅, 확률, 점화식</strong>의 다섯 파트로 구성되어 있으며, 각 파트는 이론적 기초와 컴퓨터 과학 응용을 함께...</p>",
-          "contentSnippet": "MIT에서 제공하는 컴퓨터 과학 전공자를 위한 수학 교재로, 논리와 증명부터 확률, 재귀, 그래프 이론까지 핵심 수학 개념을 체계적으로 다룸\n증명, 구조, 카운팅, 확률, 점화식의 다섯 파트로 구성되어 있으며, 각 파트는 이론적 기초와 컴퓨터 과학 응용을 함께...",
-          "id": "https://news.hada.io/topic?id=25707",
-          "isoDate": "2026-01-10T00:55:33.000Z"
         }
       ]
     }
