@@ -7,6 +7,46 @@
       "priority": 1,
       "data": [
         {
+          "title": "RSA는 함락되었다.",
+          "link": "https://news.hada.io/topic?id=25734",
+          "pubDate": "2026-01-11T12:57:51.000Z",
+          "author": "axgux",
+          "content": "<ol>\n<li>RSA 암호체계가 물리적 한계에 의해 함락되었다고 주장</li>\n<li>구형 기계(저사양)으로도 충분히 실현 가능하다고 알려짐</li>\n<li>수학적 접근보다는 물리적 접근을 사용</li>\n<li>이는 P-NP 문제와도 관련되어 사실이라면 암호학계와 수학계 모두에 큰 충격을 시사할 것으로 예상됨</li>\n<li>zenodo에 이미 ...</p>",
+          "contentSnippet": "RSA 암호체계가 물리적 한계에 의해 함락되었다고 주장\n구형 기계(저사양)으로도 충분히 실현 가능하다고 알려짐\n수학적 접근보다는 물리적 접근을 사용\n이는 P-NP 문제와도 관련되어 사실이라면 암호학계와 수학계 모두에 큰 충격을 시사할 것으로 예상됨\nzenodo에 이미 ...",
+          "id": "https://news.hada.io/topic?id=25734",
+          "isoDate": "2026-01-11T12:57:51.000Z"
+        },
+        {
+          "title": "Show GN: DXE - 컴퓨터 프로그래머의 무인 합주실 창업기",
+          "link": "https://news.hada.io/topic?id=25733",
+          "pubDate": "2026-01-11T12:55:47.000Z",
+          "author": "segfault87",
+          "content": "<ul>\n<li>강남구 테헤란로에 24시간 운영되는 무인 합주실을 창업하고 운영 중에 있습니다.</li>\n<li>이 과정에서 예약 시스템과 자동화 시스템을 직접 구축하였습니다.</li>\n<li>사업을 준비하면서 어떤 생각을 했는지, 그리고 지난 3개월간 운영하면서 어떤 점들을 느꼈는지를 공유합니다.</li>\n<li>소스 코드는 모두 ...</p>",
+          "contentSnippet": "강남구 테헤란로에 24시간 운영되는 무인 합주실을 창업하고 운영 중에 있습니다.\n이 과정에서 예약 시스템과 자동화 시스템을 직접 구축하였습니다.\n사업을 준비하면서 어떤 생각을 했는지, 그리고 지난 3개월간 운영하면서 어떤 점들을 느꼈는지를 공유합니다.\n소스 코드는 모두 ...",
+          "id": "https://news.hada.io/topic?id=25733",
+          "isoDate": "2026-01-11T12:55:47.000Z"
+        },
+        {
+          "title": "Sprites - 상태 저장형 샌드박스",
+          "link": "https://news.hada.io/topic?id=25732",
+          "pubDate": "2026-01-11T12:32:39.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Fly.io</strong>가 새롭게 공개한 <strong>‘<a href=\"https://sprites.dev/\">Sprites</a>’</strong> 는 기존의 일회용 샌드박스를 대체하는 <strong>지속형 클라우드 컴퓨터</strong> 개념</li>\n<li>\n<strong>1~2초 내 생성</strong> 가능하며, <strong>자동 유휴 상태 전환</strong>, <strong>체크...</p>",
+          "contentSnippet": "Fly.io가 새롭게 공개한 ‘Sprites’ 는 기존의 일회용 샌드박스를 대체하는 지속형 클라우드 컴퓨터 개념\n1~2초 내 생성 가능하며, 자동 유휴 상태 전환, 체크...",
+          "id": "https://news.hada.io/topic?id=25732",
+          "isoDate": "2026-01-11T12:32:39.000Z"
+        },
+        {
+          "title": "Trails - Claude Code로 100권의 책 사이의 연결을 발견",
+          "link": "https://news.hada.io/topic?id=25730",
+          "pubDate": "2026-01-11T09:33:58.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Claude Code</strong>를 활용해 100권의 책에서 <strong>주제 간 연관성</strong>을 자동으로 탐색한 웹 기반 프로젝트</li>\n<li>각 책의 개념을 분석해 <strong>‘Useful Lies’, ‘Invisible Crack’, ‘Name Game’</strong> 등 40여 개의 <strong>테마별 연결(trail)</strong> 로 시각화</li>\n<li...</p>",
+          "contentSnippet": "Claude Code를 활용해 100권의 책에서 주제 간 연관성을 자동으로 탐색한 웹 기반 프로젝트\n각 책의 개념을 분석해 ‘Useful Lies’, ‘Invisible Crack’, ‘Name Game’ 등 40여 개의 테마별 연결(trail) 로 시각화",
+          "id": "https://news.hada.io/topic?id=25730",
+          "isoDate": "2026-01-11T09:33:58.000Z"
+        },
+        {
           "title": "Ghostty의 가장 큰 메모리 누수를 찾아 수정하기",
           "link": "https://news.hada.io/topic?id=25729",
           "pubDate": "2026-01-11T06:32:36.000Z",
@@ -65,46 +105,6 @@
           "contentSnippet": "Dark Sky는 단순한 날씨 예보 앱이 아니라, 맥락 기반 정보 디자인의 대표 사례로 평가됨\n사용자의 위치와 시간에 따라 날씨 데이터를 시각적으로 맥락화해 보여주는 설계가 핵심\n온도·강수량·바람 방향 등 수치를 직관적 그래...",
           "id": "https://news.hada.io/topic?id=25724",
           "isoDate": "2026-01-11T00:37:48.000Z"
-        },
-        {
-          "title": "시트로엥 C15를 소개합니다",
-          "link": "https://news.hada.io/topic?id=25723",
-          "pubDate": "2026-01-11T00:34:48.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>시트로엥 C15</strong>는 대형 SUV나 픽업트럭보다 효율적이고 실용적인 차량으로 제시됨</li>\n<li>글쓴이는 미국인과 영국 부유층이 “시골에 살아서 필요하다”며 <strong>과도하게 큰 차량을 구매하는 행태</strong>를 비판</li>\n<li>C15는 <strong>가격, 연비, 적재용량, 오프로드 성능, 배출가스...</p>",
-          "contentSnippet": "시트로엥 C15는 대형 SUV나 픽업트럭보다 효율적이고 실용적인 차량으로 제시됨\n글쓴이는 미국인과 영국 부유층이 “시골에 살아서 필요하다”며 과도하게 큰 차량을 구매하는 행태를 비판\nC15는 가격, 연비, 적재용량, 오프로드 성능, 배출가스...",
-          "id": "https://news.hada.io/topic?id=25723",
-          "isoDate": "2026-01-11T00:34:48.000Z"
-        },
-        {
-          "title": "Wirebrowser - 브라우저 내부 분석용 CDP 기반 네트워크·메모리 통합 디버깅 도구",
-          "link": "https://news.hada.io/topic?id=25722",
-          "pubDate": "2026-01-11T00:31:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>Chrome DevTools Protocol을 기반으로 <strong>네트워크 조작과 JavaScript 메모리 분석을 하나의 환경으로 통합</strong>한 클라이언트 분석 도구</li>\n<li>HTTP 요청·응답을 <strong>실시간으로 가로채고 수정·차단·재생</strong>할 수 있는 네트워크 인터셉터 제공</li>\n<li>실행 중인 JavaScript 힙을 대상...</p>",
-          "contentSnippet": "Chrome DevTools Protocol을 기반으로 네트워크 조작과 JavaScript 메모리 분석을 하나의 환경으로 통합한 클라이언트 분석 도구\nHTTP 요청·응답을 실시간으로 가로채고 수정·차단·재생할 수 있는 네트워크 인터셉터 제공\n실행 중인 JavaScript 힙을 대상...",
-          "id": "https://news.hada.io/topic?id=25722",
-          "isoDate": "2026-01-11T00:31:02.000Z"
-        },
-        {
-          "title": "Dwitter - 자바스크립트 140자 데모 모음",
-          "link": "https://news.hada.io/topic?id=25721",
-          "pubDate": "2026-01-10T22:33:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Dwitter</strong>는 140자 이내의 <strong>JavaScript 코드로 시각적 데모를 작성하고 공유</strong>할 수 있는 플랫폼</li>\n<li>각 게시물은 ‘<strong>dweet</strong>’이라 불리며, 코드와 함께 <strong>즉시 실행되는 그래픽 애니메이션</strong>을 표시</li>\n<li>사용자들은 <strong>댓글, 리믹스...</p>",
-          "contentSnippet": "Dwitter는 140자 이내의 JavaScript 코드로 시각적 데모를 작성하고 공유할 수 있는 플랫폼\n각 게시물은 ‘dweet’이라 불리며, 코드와 함께 즉시 실행되는 그래픽 애니메이션을 표시\n사용자들은 댓글, 리믹스...",
-          "id": "https://news.hada.io/topic?id=25721",
-          "isoDate": "2026-01-10T22:33:02.000Z"
-        },
-        {
-          "title": "웹어셈블리에는 무슨 일이 있었나",
-          "link": "https://news.hada.io/topic?id=25720",
-          "pubDate": "2026-01-10T21:33:16.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>WebAssembly(Wasm)</strong> 은 여전히 다양한 실제 제품에서 핵심 기술로 사용되고 있으며, <strong>게임 엔진·디자인 툴·웹 컨테이너</strong> 등에서 중요한 역할을 수행</li>\n<li>언어 자체는 <strong>하드웨어에 효율적으로 매핑되는 구조</strong>를 가지며, <strong>안전성과 이식성</strong>을...</p>",
-          "contentSnippet": "WebAssembly(Wasm) 은 여전히 다양한 실제 제품에서 핵심 기술로 사용되고 있으며, 게임 엔진·디자인 툴·웹 컨테이너 등에서 중요한 역할을 수행\n언어 자체는 하드웨어에 효율적으로 매핑되는 구조를 가지며, 안전성과 이식성을...",
-          "id": "https://news.hada.io/topic?id=25720",
-          "isoDate": "2026-01-10T21:33:16.000Z"
         }
       ]
     }
