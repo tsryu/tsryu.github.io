@@ -7,6 +7,66 @@
       "priority": 1,
       "data": [
         {
+          "title": "Ferrite – Rust로 제작된 네이티브 Mermaid 다이어그램 렌더링 지원 Markdown 편집기",
+          "link": "https://news.hada.io/topic?id=25772",
+          "pubDate": "2026-01-12T18:42:45.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Ferrite</strong>는 Markdown, JSON, YAML, TOML 파일을 빠르고 가볍게 편집할 수 있는 <strong>Rust 기반 텍스트 에디터</strong>\n</li>\n<li>\n<strong>egui 프레임워크</strong>를 사용해 네이티브 수준의 반응성과 크로스플랫폼 실행 환경을 제공</li>\n<li>\n<strong>WYSIWYG 미리보기</strong>, <st...</p>",
+          "contentSnippet": "Ferrite는 Markdown, JSON, YAML, TOML 파일을 빠르고 가볍게 편집할 수 있는 Rust 기반 텍스트 에디터\n\n\negui 프레임워크를 사용해 네이티브 수준의 반응성과 크로스플랫폼 실행 환경을 제공\nWYSIWYG 미리보기,",
+          "id": "https://news.hada.io/topic?id=25772",
+          "isoDate": "2026-01-12T18:42:45.000Z"
+        },
+        {
+          "title": "현재 작업 중인 것은 무엇입니까? (2026년 1월)",
+          "link": "https://news.hada.io/topic?id=25771",
+          "pubDate": "2026-01-12T18:39:45.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Hacker News 커뮤니티</strong>가 매달 진행하는 공개 토론 스레드로, 사용자들이 자신이 개발 중인 프로젝트나 아이디어를 공유함</li>\n<li>참여자들은 <strong>스타트업, 오픈소스, 개인 개발, 연구 프로젝트</strong> 등 다양한 분야의 진행 상황을 소개함</li>\n<li>댓글을 통해 <strong>기술 스택...</p>",
+          "contentSnippet": "Hacker News 커뮤니티가 매달 진행하는 공개 토론 스레드로, 사용자들이 자신이 개발 중인 프로젝트나 아이디어를 공유함\n참여자들은 스타트업, 오픈소스, 개인 개발, 연구 프로젝트 등 다양한 분야의 진행 상황을 소개함\n댓글을 통해 기술 스택...",
+          "id": "https://news.hada.io/topic?id=25771",
+          "isoDate": "2026-01-12T18:39:45.000Z"
+        },
+        {
+          "title": "내 집 광섬유 네트워크가 문자 그대로 분해되었다",
+          "link": "https://news.hada.io/topic?id=25770",
+          "pubDate": "2026-01-12T18:36:45.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>주택 내부에 매설된 <strong>광섬유 케이블이 손으로 만지자 부서지고 금속선이 튀어나오는 등 물리적으로 붕괴된 사례</strong>가 발생</li>\n<li>케이블은 <strong>FS.com에서 구매한 군용 등급(armoured) 제품</strong>으로, 약 3년 반 전 설치되어 <strong>PVC 배관을 통해 시멘트 바닥 아래에 매설</strong...</p>",
+          "contentSnippet": "주택 내부에 매설된 광섬유 케이블이 손으로 만지자 부서지고 금속선이 튀어나오는 등 물리적으로 붕괴된 사례가 발생\n케이블은 FS.com에서 구매한 군용 등급(armoured) 제품으로, 약 3년 반 전 설치되어 PVC 배관을 통해 시멘트 바닥 아래에 매설",
+          "id": "https://news.hada.io/topic?id=25770",
+          "isoDate": "2026-01-12T18:36:45.000Z"
+        },
+        {
+          "title": "소프트웨어 엔지니어링의 향후 2년",
+          "link": "https://news.hada.io/topic?id=25769",
+          "pubDate": "2026-01-12T17:33:51.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>AI 코딩 에이전트의 확산</strong>으로 개발 방식이 급격히 변화하며, 기업은 성장보다 <strong>효율성과 숙련 인력 중심의 구조</strong>로 전환 중</li>\n<li>\n<strong>주니어 개발자 채용 감소</strong>와 <strong>AI 보조를 전제로 한 새로운 역할 구조</strong>가 병존하며, 생존 전략의 재정의 필...</p>",
+          "contentSnippet": "AI 코딩 에이전트의 확산으로 개발 방식이 급격히 변화하며, 기업은 성장보다 효율성과 숙련 인력 중심의 구조로 전환 중\n주니어 개발자 채용 감소와 AI 보조를 전제로 한 새로운 역할 구조가 병존하며, 생존 전략의 재정의 필...",
+          "id": "https://news.hada.io/topic?id=25769",
+          "isoDate": "2026-01-12T17:33:51.000Z"
+        },
+        {
+          "title": "이 게임은 Windows, Linux, 브라우저에서 실행되는 단일 13KiB 파일임",
+          "link": "https://news.hada.io/topic?id=25768",
+          "pubDate": "2026-01-12T16:33:08.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>13KiB 크기의 단일 파일</strong>로 Windows, Linux, 브라우저에서 모두 실행되는 <strong>Snake 게임</strong>으로, 세 플랫폼을 하나의 소스에서 지원</li>\n<li>뱀을 조작해 먹이를 먹고 벽에 부딪히지 않도록 하는 <strong>고전적인 Snake 규칙</strong>을 따르며, 점수·레벨·미로 구조가 포함됨...</p>",
+          "contentSnippet": "13KiB 크기의 단일 파일로 Windows, Linux, 브라우저에서 모두 실행되는 Snake 게임으로, 세 플랫폼을 하나의 소스에서 지원\n뱀을 조작해 먹이를 먹고 벽에 부딪히지 않도록 하는 고전적인 Snake 규칙을 따르며, 점수·레벨·미로 구조가 포함됨...",
+          "id": "https://news.hada.io/topic?id=25768",
+          "isoDate": "2026-01-12T16:33:08.000Z"
+        },
+        {
+          "title": "메타, 미국 AI 혁신을 위한 최대 6.6GW 규모의 원자력 에너지 프로젝트 발표",
+          "link": "https://news.hada.io/topic?id=25767",
+          "pubDate": "2026-01-12T15:33:55.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>메타가 <strong>Vistra, TerraPower, Oklo</strong>와의 협약을 통해 기존 원전의 수명 연장과 차세대 원자로 개발을 추진하며, 최대 <strong>6.6GW의 청정 전력</strong>을 확보</li>\n<li>이 협약은 <strong>미국 내 원자력 인프라 강화</strong>와 <strong>AI 산업 전력 수요 대응</strong>을 목표로 하며, 오...</p>",
+          "contentSnippet": "메타가 Vistra, TerraPower, Oklo와의 협약을 통해 기존 원전의 수명 연장과 차세대 원자로 개발을 추진하며, 최대 6.6GW의 청정 전력을 확보\n이 협약은 미국 내 원자력 인프라 강화와 AI 산업 전력 수요 대응을 목표로 하며, 오...",
+          "id": "https://news.hada.io/topic?id=25767",
+          "isoDate": "2026-01-12T15:33:55.000Z"
+        },
+        {
           "title": "Anthropic: Claude Code를 이용해 Claude Code 경쟁 제품을 개발하는 행위 금지",
           "link": "https://news.hada.io/topic?id=25766",
           "pubDate": "2026-01-12T13:32:56.000Z",
@@ -45,66 +105,6 @@
           "contentSnippet": "미미로그는 하루 100자 이내의 가벼운 로그를 쓰면 AI가 내 이야기를 기반으로 외국어 학습 콘텐츠를 만들어주는 앱입니다.\n왜 만들었나요?\n오늘 하루도 그냥 지나가는 게 아쉬웠습니다. 뭔가 남기고 싶은데 일기는 부담스럽고, 외국어 공부는 매번 작심삼일. 그래서 생각했습니다 — 한 줄이라도 쓰면",
           "id": "https://news.hada.io/topic?id=25762",
           "isoDate": "2026-01-12T11:15:02.000Z"
-        },
-        {
-          "title": "Show GN: Hibernate Reactive Coroutines - Hibernate Reactive를 Spring Data JPA처럼",
-          "link": "https://news.hada.io/topic?id=25761",
-          "pubDate": "2026-01-12T08:36:49.000Z",
-          "author": "abcdkh1209",
-          "content": "<p>안녕하세요. Hibernate Reactive + Kotlin Coroutines 환경에서 Spring Data JPA의 편의성을 제공하는 라이브러리를 만들어서 공유합니다.</p>\n<h3>만들게 된 계기</h3>\n<p>Hibernate Reactive를 사용하면서 Spring Data JPA의 <code>findByEmail()</code>, <code>@Query</code> 같은 기능들이 없어서 불편했습니다. ",
-          "contentSnippet": "안녕하세요. Hibernate Reactive + Kotlin Coroutines 환경에서 Spring Data JPA의 편의성을 제공하는 라이브러리를 만들어서 공유합니다.\n만들게 된 계기\nHibernate Reactive를 사용하면서 Spring Data JPA의 findByEmail(), @Query 같은 기능들이 없어서 불편했습니다.",
-          "id": "https://news.hada.io/topic?id=25761",
-          "isoDate": "2026-01-12T08:36:49.000Z"
-        },
-        {
-          "title": "중국에서 개최된 AGI Next Frontier Summit 정리 (260110)",
-          "link": "https://news.hada.io/topic?id=25760",
-          "pubDate": "2026-01-12T08:15:19.000Z",
-          "author": "haebom",
-          "content": "<ul>\n<li>\n<p><strong>중국 AI 리더들의 냉정한 자기 진단</strong>: 9조원 가치 Zhipu AI IPO 이틀 후 베이징 서밋에서 &quot;미국과의 격차는 오히려 벌어지고 있다&quot;고 경고. 알리바바 린쥔양은 &quot;3~5년 내 OpenAI 추월 확률 20% 미만&quot;이라고 단언</p>\n</li>\n<li>\n<p><strong>구조적 병목의 실체</stron",
-          "contentSnippet": "중국 AI 리더들의 냉정한 자기 진단: 9조원 가치 Zhipu AI IPO 이틀 후 베이징 서밋에서 \"미국과의 격차는 오히려 벌어지고 있다\"고 경고. 알리바바 린쥔양은 \"3~5년 내 OpenAI 추월 확률 20% 미만\"이라고 단언\n구조적 병목의 실체</stron",
-          "id": "https://news.hada.io/topic?id=25760",
-          "isoDate": "2026-01-12T08:15:19.000Z"
-        },
-        {
-          "title": "AI로 대체될 세계를 준비하는 개발자",
-          "link": "https://news.hada.io/topic?id=25759",
-          "pubDate": "2026-01-12T07:47:15.000Z",
-          "author": "patakeique",
-          "content": "<p>얼마전 &quot;2038년 개발자 대체&quot;를 이야기한 <strong><a href=\"https://news.hada.io/topic?id=24907\">개발자는 언제쯤 AI에게 대체될까?</a></strong> 글의 후속 아티클</p>\n<h4>OpenAI 5단계 AGI 로드맵과 개발자의 미래 시나리오</h4>\n<ul>\n<li>\n<strong>급진적 변화 주기</strong>: OpenAI 로드맵 기반, ...</p>",
-          "contentSnippet": "얼마전 \"2038년 개발자 대체\"를 이야기한 개발자는 언제쯤 AI에게 대체될까? 글의 후속 아티클\nOpenAI 5단계 AGI 로드맵과 개발자의 미래 시나리오\n급진적 변화 주기: OpenAI 로드맵 기반, ...",
-          "id": "https://news.hada.io/topic?id=25759",
-          "isoDate": "2026-01-12T07:47:15.000Z"
-        },
-        {
-          "title": "CLI 에이전트가 홈 서버에서의 셀프호스팅을 쉽고 재미있게 만든다",
-          "link": "https://news.hada.io/topic?id=25757",
-          "pubDate": "2026-01-12T03:33:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>셀프호스팅 환경</strong>이 최근 몇 년 사이 크게 개선되어, 일반 사용자도 개인 서버를 직접 운영하기 쉬워짐</li>\n<li>\n<strong>Claude Code</strong> 같은 <strong>CLI 기반 AI 에이전트</strong>가 등장하면서 복잡한 설정 없이 명령어 수준에서 서버 관리 가능</li>\n<li>저전력 <strong>미니 PC...</p>",
-          "contentSnippet": "셀프호스팅 환경이 최근 몇 년 사이 크게 개선되어, 일반 사용자도 개인 서버를 직접 운영하기 쉬워짐\nClaude Code 같은 CLI 기반 AI 에이전트가 등장하면서 복잡한 설정 없이 명령어 수준에서 서버 관리 가능\n저전력 미니 PC...",
-          "id": "https://news.hada.io/topic?id=25757",
-          "isoDate": "2026-01-12T03:33:02.000Z"
-        },
-        {
-          "title": "코드 없는 오픈소스 라이브러리, AI가 알아서 구현합니다",
-          "link": "https://news.hada.io/topic?id=25756",
-          "pubDate": "2026-01-12T02:58:14.000Z",
-          "author": "davespark",
-          "content": "<p>Drew Breunig가 만든 <code>whenwords</code>라는 오픈소스 프로젝트는 <strong>코드 없이</strong> SPEC.md(명세)와 tests.yaml(테스트 케이스)만 제공하면 AI(Claude 등)가 자동으로 코드를 만들어주는 실험.</p>\n<p>Ruby, Python 등 여러 언어에서 실제로 동작을 확인했으며, 간단한 유틸리티 함수 5개를 성공적으",
-          "contentSnippet": "Drew Breunig가 만든 whenwords라는 오픈소스 프로젝트는 코드 없이 SPEC.md(명세)와 tests.yaml(테스트 케이스)만 제공하면 AI(Claude 등)가 자동으로 코드를 만들어주는 실험.\nRuby, Python 등 여러 언어에서 실제로 동작을 확인했으며, 간단한 유틸리티 함수 5개를 성공적으",
-          "id": "https://news.hada.io/topic?id=25756",
-          "isoDate": "2026-01-12T02:58:14.000Z"
-        },
-        {
-          "title": "2026년을 대비한 나의 LLM 코딩 워크플로우",
-          "link": "https://news.hada.io/topic?id=25755",
-          "pubDate": "2026-01-12T01:36:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>AI 코딩 어시스턴트</strong>가 2025년을 거치며 실전 개발의 핵심 도구로 자리 잡았고, 효과적인 활용을 위해서는 구조화된 워크플로우와 인간의 책임 있는 개입이 필수</li>\n<li>코드 생성을 바로 요청하기보다 <strong>명확한 스펙과 계획 수립</strong>을 선행하고, 이를 기반으로 단계별 구현을 ...</p>",
-          "contentSnippet": "AI 코딩 어시스턴트가 2025년을 거치며 실전 개발의 핵심 도구로 자리 잡았고, 효과적인 활용을 위해서는 구조화된 워크플로우와 인간의 책임 있는 개입이 필수\n코드 생성을 바로 요청하기보다 명확한 스펙과 계획 수립을 선행하고, 이를 기반으로 단계별 구현을 ...",
-          "id": "https://news.hada.io/topic?id=25755",
-          "isoDate": "2026-01-12T01:36:02.000Z"
         }
       ]
     }
