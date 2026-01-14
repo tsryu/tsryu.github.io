@@ -7,6 +7,56 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: Devup UI가 vanilla-extract를 공식 지원합니다",
+          "link": "https://news.hada.io/topic?id=25813",
+          "pubDate": "2026-01-14T15:08:36.000Z",
+          "author": "owjs3901",
+          "content": "<p>Devup UI가 vanilla-extract를 공식 지원합니다</p>\n<p>css.ts, css.js 파일 그대로 사용 가능하며 별도의 vanilla-extract 플러그인 없이도 정상 동작합니다</p>\n<p>import 위치를 바꿀 필요도 없고<br />\n기존 코드 그대로 즉시 적용 가능합니다<br />\n👉 마이그레이션 비용 거의 제로<br />\n(일부 함수는 제한될 수",
+          "contentSnippet": "Devup UI가 vanilla-extract를 공식 지원합니다\ncss.ts, css.js 파일 그대로 사용 가능하며 별도의 vanilla-extract 플러그인 없이도 정상 동작합니다\nimport 위치를 바꿀 필요도 없고\n기존 코드 그대로 즉시 적용 가능합니다\n👉 마이그레이션 비용 거의 제로\n(일부 함수는 제한될 수",
+          "id": "https://news.hada.io/topic?id=25813",
+          "isoDate": "2026-01-14T15:08:36.000Z"
+        },
+        {
+          "title": "Yolobox – 홈 디렉터리를 보호하면서 AI 코딩 에이전트를 완전 권한으로 실행하기",
+          "link": "https://news.hada.io/topic?id=25812",
+          "pubDate": "2026-01-14T12:46:46.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>AI 코딩 에이전트</strong>를 완전한 시스템 권한으로 실행하되, 사용자의 <strong>홈 디렉터리 손상 위험을 차단</strong>하는 도구</li>\n<li>\n<strong>Claude Code, Codex, Gemini CLI, OpenCode</strong> 등 주요 AI CLI가 사전 구성되어 <strong>‘YOLO 모드’</strong> 로 실행 가능</li>\n<li>\n...</p>",
+          "contentSnippet": "AI 코딩 에이전트를 완전한 시스템 권한으로 실행하되, 사용자의 홈 디렉터리 손상 위험을 차단하는 도구\nClaude Code, Codex, Gemini CLI, OpenCode 등 주요 AI CLI가 사전 구성되어 ‘YOLO 모드’ 로 실행 가능\n\n...",
+          "id": "https://news.hada.io/topic?id=25812",
+          "isoDate": "2026-01-14T12:46:46.000Z"
+        },
+        {
+          "title": "Mozilla의 오픈소스 AI 전략",
+          "link": "https://news.hada.io/topic?id=25811",
+          "pubDate": "2026-01-14T12:45:12.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>지능의 미래를 ‘소유’할 것인가 ‘임대’할 것인가</strong>라는 문제의식 아래, Mozilla는 사용자가 통제할 수 있는 <strong>오픈소스 AI 생태계</strong> 구축을 추진</li>\n<li>현재 <strong>폐쇄형 AI 시스템</strong>이 사용 편의성으로 우위를 점하고 있으나, Mozilla는 이를 <strong>개발자 경...</p>",
+          "contentSnippet": "지능의 미래를 ‘소유’할 것인가 ‘임대’할 것인가라는 문제의식 아래, Mozilla는 사용자가 통제할 수 있는 오픈소스 AI 생태계 구축을 추진\n현재 폐쇄형 AI 시스템이 사용 편의성으로 우위를 점하고 있으나, Mozilla는 이를 개발자 경...",
+          "id": "https://news.hada.io/topic?id=25811",
+          "isoDate": "2026-01-14T12:45:12.000Z"
+        },
+        {
+          "title": "일회용 전자담배 안에 들어 있는 놀라운 수준의 기술",
+          "link": "https://news.hada.io/topic?id=25810",
+          "pubDate": "2026-01-14T11:33:13.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>공원에서 발견한 <strong>Fizzy Max III 60K</strong> 일회용 전자담배를 분해한 결과, 내부에 <strong>USB-C 포트와 디스플레이, 마이크로프로세서</strong>가 포함되어 있었음</li>\n<li>이 기기는 <strong>800mAh 리튬폴리머 배터리</strong>를 탑재하고 있으며, 배터리 잔량과 액상 잔량을 표시하는 <strong...</p>",
+          "contentSnippet": "공원에서 발견한 Fizzy Max III 60K 일회용 전자담배를 분해한 결과, 내부에 USB-C 포트와 디스플레이, 마이크로프로세서가 포함되어 있었음\n이 기기는 800mAh 리튬폴리머 배터리를 탑재하고 있으며, 배터리 잔량과 액상 잔량을 표시하는",
+          "id": "https://news.hada.io/topic?id=25810",
+          "isoDate": "2026-01-14T11:33:13.000Z"
+        },
+        {
+          "title": "AI 스크레이퍼 때문에 좋은 서비스를 유지할 수 없는 이유",
+          "link": "https://news.hada.io/topic?id=25807",
+          "pubDate": "2026-01-14T08:33:24.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>최근 <strong>AI 기업들의 무단 데이터 수집</strong>으로 MetaBrainz의 서버가 과부하를 겪고 있음</li>\n<li>이들은 <strong>robots.txt 규칙을 무시</strong>하고 MusicBrainz 데이터를 <strong>페이지 단위로 크롤링</strong>하며, 이는 수백 년이 걸릴 비효율적 방식임</li>\n<li>같은 행위가 <strong>Liste...</p>",
+          "contentSnippet": "최근 AI 기업들의 무단 데이터 수집으로 MetaBrainz의 서버가 과부하를 겪고 있음\n이들은 robots.txt 규칙을 무시하고 MusicBrainz 데이터를 페이지 단위로 크롤링하며, 이는 수백 년이 걸릴 비효율적 방식임\n같은 행위가 Liste...",
+          "id": "https://news.hada.io/topic?id=25807",
+          "isoDate": "2026-01-14T08:33:24.000Z"
+        },
+        {
           "title": "AI가 코드를 짤 수는 있지만, 감옥에 갈 수는 없다",
           "link": "https://news.hada.io/topic?id=25806",
           "pubDate": "2026-01-14T07:13:33.000Z",
@@ -55,56 +105,6 @@
           "contentSnippet": "인공지능 기업 Anthropic이 Python Software Foundation(PSF) 에 2년간 총 150만 달러를 기부해 Python 생태계의 보안 강화를 지원\n이 기부금은 PyPI 사용자 보호, 공급망 공격 방지,",
           "id": "https://news.hada.io/topic?id=25802",
           "isoDate": "2026-01-14T02:37:58.000Z"
-        },
-        {
-          "title": "지역 저널리즘은 민주주의가 우리 곁에서 작동하는 방식",
-          "link": "https://news.hada.io/topic?id=25801",
-          "pubDate": "2026-01-14T02:34:58.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>민주주의는 <strong>지역 사회의 일상적 참여와 책임 구조</strong> 속에서 유지되며, 그 핵심 매개가 지역 저널리즘임</li>\n<li>지역 기자들은 <strong>회의 취재, 공공기록 검토, 정책 추적</strong>을 통해 시민이 ‘무엇이 왜 중요한가’를 이해하도록 돕는 역할 수행</li>\n<li>지역 보도의 약화는 단순한 ...</p>",
-          "contentSnippet": "민주주의는 지역 사회의 일상적 참여와 책임 구조 속에서 유지되며, 그 핵심 매개가 지역 저널리즘임\n지역 기자들은 회의 취재, 공공기록 검토, 정책 추적을 통해 시민이 ‘무엇이 왜 중요한가’를 이해하도록 돕는 역할 수행\n지역 보도의 약화는 단순한 ...",
-          "id": "https://news.hada.io/topic?id=25801",
-          "isoDate": "2026-01-14T02:34:58.000Z"
-        },
-        {
-          "title": "Chromium이 JpegXL을 병합함",
-          "link": "https://news.hada.io/topic?id=25800",
-          "pubDate": "2026-01-14T00:52:04.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Chromium 코드베이스에 JpegXL 디코더가 통합</strong>되어, 브라우저가 JXL 포맷 이미지를 처리할 수 있게 됨</li>\n<li>변경 사항은 Gerrit 코드 리뷰 페이지에서 <strong>“Wire up JXL decoder”</strong> 라는 제목으로 확인 가능</li>\n<li>이 병합은 <strong>JpegXL 포맷 지원을 위한 핵심 단계...</p>",
-          "contentSnippet": "Chromium 코드베이스에 JpegXL 디코더가 통합되어, 브라우저가 JXL 포맷 이미지를 처리할 수 있게 됨\n변경 사항은 Gerrit 코드 리뷰 페이지에서 “Wire up JXL decoder” 라는 제목으로 확인 가능\n이 병합은 JpegXL 포맷 지원을 위한 핵심 단계...",
-          "id": "https://news.hada.io/topic?id=25800",
-          "isoDate": "2026-01-14T00:52:04.000Z"
-        },
-        {
-          "title": "스콧 애덤스, ‘딜버트’ 창작자, 전립선암 투병 끝에 68세로 별세",
-          "link": "https://news.hada.io/topic?id=25799",
-          "pubDate": "2026-01-14T00:49:04.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>‘딜버트’의 창작자 스콧 애덤스</strong>가 전립선암으로 68세에 사망, 그의 풍자적 직장 문화 만화로 유명했던 경력이 마무리됨</li>\n<li>전 부인 셸리 마일스가 <strong>유튜브 방송 ‘Real Coffee with Scott Adams’</strong> 에서 그의 사망을 확인</li>\n<li>애덤스는 암이 뼈로 전이된 사실과...</p>",
-          "contentSnippet": "‘딜버트’의 창작자 스콧 애덤스가 전립선암으로 68세에 사망, 그의 풍자적 직장 문화 만화로 유명했던 경력이 마무리됨\n전 부인 셸리 마일스가 유튜브 방송 ‘Real Coffee with Scott Adams’ 에서 그의 사망을 확인\n애덤스는 암이 뼈로 전이된 사실과...",
-          "id": "https://news.hada.io/topic?id=25799",
-          "isoDate": "2026-01-14T00:49:04.000Z"
-        },
-        {
-          "title": "Apple, 창작 앱들을 한데 모은 Apple Creator Studio 공개",
-          "link": "https://news.hada.io/topic?id=25798",
-          "pubDate": "2026-01-14T00:46:04.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>영상, 음악, 이미지, 문서 제작을 위한 <strong>전문급 창작 앱 모음</strong>으로, Final Cut Pro·Logic Pro·Pixelmator Pro 등 주요 앱을 하나의 구독으로 제공</li>\n<li>\n<strong>AI 기반 기능</strong>과 <strong>프리미엄 콘텐츠</strong>가 Keynote·Pages·Numbers 등에 추가되어 생산성과 표현력을 강화...</p>",
-          "contentSnippet": "영상, 음악, 이미지, 문서 제작을 위한 전문급 창작 앱 모음으로, Final Cut Pro·Logic Pro·Pixelmator Pro 등 주요 앱을 하나의 구독으로 제공\nAI 기반 기능과 프리미엄 콘텐츠가 Keynote·Pages·Numbers 등에 추가되어 생산성과 표현력을 강화...",
-          "id": "https://news.hada.io/topic?id=25798",
-          "isoDate": "2026-01-14T00:46:04.000Z"
-        },
-        {
-          "title": "AI 생성 음악, Bandcamp에서 금지",
-          "link": "https://news.hada.io/topic?id=25797",
-          "pubDate": "2026-01-14T00:43:04.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Bandcamp</strong>가 플랫폼에서 <strong>AI로 생성된 음악 업로드를 금지</strong>함</li>\n<li>커뮤니티 게시물에 따르면, <strong>AI 생성 콘텐츠가 삭제되거나 업로드가 거부되는 사례</strong>가 보고됨</li>\n<li>이 조치는 <strong>음악의 진정성 및 저작권 문제</strong>와 관련된 우려 속에서 ...</p>",
-          "contentSnippet": "Bandcamp가 플랫폼에서 AI로 생성된 음악 업로드를 금지함\n커뮤니티 게시물에 따르면, AI 생성 콘텐츠가 삭제되거나 업로드가 거부되는 사례가 보고됨\n이 조치는 음악의 진정성 및 저작권 문제와 관련된 우려 속에서 ...",
-          "id": "https://news.hada.io/topic?id=25797",
-          "isoDate": "2026-01-14T00:43:04.000Z"
         }
       ]
     }
