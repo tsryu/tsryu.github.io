@@ -7,6 +7,46 @@
       "priority": 1,
       "data": [
         {
+          "title": "Redis를 떠나 SolidQueue로 옮기는 이유",
+          "link": "https://news.hada.io/topic?id=25849",
+          "pubDate": "2026-01-15T14:58:13.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>Rails 8</strong>은 기본 스택에서 <strong>Redis 의존성을 제거</strong>하고, <strong>SolidQueue·SolidCache·SolidCable</strong>을 통해 모든 작업을 <strong>관계형 데이터베이스(RDB)</strong> 위에서 처리하도록 전환</li>\n<li>Redis는 빠르고 안정적이지만, <strong>설정·보안·클러스터 관리�...</p>",
+          "contentSnippet": "Rails 8은 기본 스택에서 Redis 의존성을 제거하고, SolidQueue·SolidCache·SolidCable을 통해 모든 작업을 관계형 데이터베이스(RDB) 위에서 처리하도록 전환\nRedis는 빠르고 안정적이지만, 설정·보안·클러스터 관리�...",
+          "id": "https://news.hada.io/topic?id=25849",
+          "isoDate": "2026-01-15T14:58:13.000Z"
+        },
+        {
+          "title": "Show GN: 한눈에 - 여러 주소를 지도에서 한번에 볼 수 있는 웹앱",
+          "link": "https://news.hada.io/topic?id=25848",
+          "pubDate": "2026-01-15T12:10:22.000Z",
+          "author": "fighting23957",
+          "content": "<p>청약 공고나 행복주택 공고문을 보면, 공급된 집들의 주소만 보이고 정확한 위치를 파악하기가 어려웠습니다.<br />\n한 개 한 개 지도에 넣어서 보자니 불편해서 만들어봤습니다.</p>\n<p>많은 개수의 주소를 넣어도 지도로 간편하게 위치를 파악할 수 있습니다.<br />\n정확한 주소가 아니어도 쓸모없는 미사여구가 붙",
+          "contentSnippet": "청약 공고나 행복주택 공고문을 보면, 공급된 집들의 주소만 보이고 정확한 위치를 파악하기가 어려웠습니다.\n많은 개수의 주소를 넣어도 지도로 간편하게 위치를 파악할 수 있습니다.\n정확한 주소가 아니어도 쓸모없는 미사여구가 붙",
+          "id": "https://news.hada.io/topic?id=25848",
+          "isoDate": "2026-01-15T12:10:22.000Z"
+        },
+        {
+          "title": "창의성은 왜 AI 시대의 가장 실용적 스킬이 되었나",
+          "link": "https://news.hada.io/topic?id=25845",
+          "pubDate": "2026-01-15T09:27:24.000Z",
+          "author": "davespark",
+          "content": "<p><strong>핵심 메시지:</strong></p>\n<p>AI가 “통계적으로 가능성 높은” 결과물을 대량 생산하는 시대, 인간의 진짜 우위는 <strong>무엇을 만들 가치가 있는지 선택하는 능력</strong>(취향, 판단, 방향 설정)에 있습니다.</p>\n<p><strong>래리 페이지의 교훈:</strong><br />\n1996년 다른 검색엔진들이 페이지 콘텐",
+          "contentSnippet": "핵심 메시지:\nAI가 “통계적으로 가능성 높은” 결과물을 대량 생산하는 시대, 인간의 진짜 우위는 무엇을 만들 가치가 있는지 선택하는 능력(취향, 판단, 방향 설정)에 있습니다.\n래리 페이지의 교훈:\n1996년 다른 검색엔진들이 페이지 콘텐",
+          "id": "https://news.hada.io/topic?id=25845",
+          "isoDate": "2026-01-15T09:27:24.000Z"
+        },
+        {
+          "title": "Show GN: 스크린샷 찍는 MAC 앱 개발하였읍니다. 근데 좀 신기한..",
+          "link": "https://news.hada.io/topic?id=25843",
+          "pubDate": "2026-01-15T08:17:22.000Z",
+          "author": "byunjin11",
+          "content": "<p>Rust + Tauri + React 로 MAC UI 에 존재하는 하위 요소들을 감지하여 캡처할 수 있습니다.</p>\n<p>프로그램이든, 웹 사이트 안에 요소든 다 가능합니다</p>\n<p>풀화면 캡처도 가능합니다</p>\n",
+          "contentSnippet": "Rust + Tauri + React 로 MAC UI 에 존재하는 하위 요소들을 감지하여 캡처할 수 있습니다.\n프로그램이든, 웹 사이트 안에 요소든 다 가능합니다\n풀화면 캡처도 가능합니다",
+          "id": "https://news.hada.io/topic?id=25843",
+          "isoDate": "2026-01-15T08:17:22.000Z"
+        },
+        {
           "title": "EPUB와 HTML 설문 결과 및 다음 단계",
           "link": "https://news.hada.io/topic?id=25842",
           "pubDate": "2026-01-15T07:45:12.000Z",
@@ -65,46 +105,6 @@
           "contentSnippet": "Anthropic이 Anthropic Labs를 공식적으로 확장·강화하며 발표했습니다.\nLabs의 정체\n실험적인 제품을 빠르게 만들고 테스트·배양하는 전담 팀입니다.\n기존에 연구 미리보기 형태로",
           "id": "https://news.hada.io/topic?id=25836",
           "isoDate": "2026-01-15T03:39:36.000Z"
-        },
-        {
-          "title": "구글 Gemini, 개인화 지능 기능 도입",
-          "link": "https://news.hada.io/topic?id=25835",
-          "pubDate": "2026-01-15T03:08:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Gemini Personal Intelligence</strong>는 Gmail·Photos·YouTube·Search를 연결해 사용자 컨텍스트를 반영한 답변과 작업 수행을 제공하는 기능</li>\n<li>단일 탭으로 <strong>연결 앱 선택</strong>이 가능하며, 각 앱의 정보가 결합되어 텍스트·사진·영상 전반에서 맞춤 응답 제공</li>\n<li>이메일·�...</p>",
-          "contentSnippet": "Gemini Personal Intelligence는 Gmail·Photos·YouTube·Search를 연결해 사용자 컨텍스트를 반영한 답변과 작업 수행을 제공하는 기능\n단일 탭으로 연결 앱 선택이 가능하며, 각 앱의 정보가 결합되어 텍스트·사진·영상 전반에서 맞춤 응답 제공\n이메일·�...",
-          "id": "https://news.hada.io/topic?id=25835",
-          "isoDate": "2026-01-15T03:08:02.000Z"
-        },
-        {
-          "title": "Show GN: OpenAPI Diff - API 변경 사항 체크 사이트",
-          "link": "https://news.hada.io/topic?id=25834",
-          "pubDate": "2026-01-15T02:55:34.000Z",
-          "author": "kaipi",
-          "content": "<p>안녕하세요!<br />\n백엔드 개발자로서 매 버전마다 API 인터페이스 공유할 때 변경 사항을 일일히 확인하고,<br />\n어떤 부분이 변경되는 지 적는 게 다소 피곤하다고 느껴졌습니다.</p>\n<p>간단하게 OpenAPI Spec 파일을 올리면 API 의 어떤 부분들이 변경되는지 시각화해서 보여줄 수 있도록 개발했습니다!</p>\n<p>",
-          "contentSnippet": "안녕하세요!\n간단하게 OpenAPI Spec 파일을 올리면 API 의 어떤 부분들이 변경되는지 시각화해서 보여줄 수 있도록 개발했습니다!",
-          "id": "https://news.hada.io/topic?id=25834",
-          "isoDate": "2026-01-15T02:55:34.000Z"
-        },
-        {
-          "title": "구글 UCP - 범용 상거래 프로토콜",
-          "link": "https://news.hada.io/topic?id=25833",
-          "pubDate": "2026-01-15T02:51:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Universal Commerce Protocol(UCP)</strong> 은 검색과 Gemini 같은 AI 화면에서 바로 구매로 이어지도록 만든 <strong>개방형 상거래 표준</strong>으로, <strong>AI 대화 흐름을 실제 결제로 자연스럽게 연결</strong>함</li>\n<li>판매자가 <strong>공식 판매자 지위와 고객 데이터 소유권</strong>...</p>",
-          "contentSnippet": "Universal Commerce Protocol(UCP) 은 검색과 Gemini 같은 AI 화면에서 바로 구매로 이어지도록 만든 개방형 상거래 표준으로, AI 대화 흐름을 실제 결제로 자연스럽게 연결함\n판매자가 공식 판매자 지위와 고객 데이터 소유권...",
-          "id": "https://news.hada.io/topic?id=25833",
-          "isoDate": "2026-01-15T02:51:02.000Z"
-        },
-        {
-          "title": "SparkFun, 행동강령 위반으로 Adafruit과의 거래 중단 공식 발표",
-          "link": "https://news.hada.io/topic?id=25832",
-          "pubDate": "2026-01-15T02:33:08.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>SparkFun은 <strong>자사 행동강령(Code of Conduct) 위반</strong>을 이유로 <strong>Adafruit Industries와의 거래를 중단</strong>했다고 발표</li>\n<li>위반 사례로는 <strong>모욕적·공격적 이메일 발송 및 고객을 사적인 문제에 부적절하게 개입시킨 행위</strong>가 명시됨</li>\n<li>회사는 이 결정이 ...</p>",
-          "contentSnippet": "SparkFun은 자사 행동강령(Code of Conduct) 위반을 이유로 Adafruit Industries와의 거래를 중단했다고 발표\n위반 사례로는 모욕적·공격적 이메일 발송 및 고객을 사적인 문제에 부적절하게 개입시킨 행위가 명시됨\n회사는 이 결정이 ...",
-          "id": "https://news.hada.io/topic?id=25832",
-          "isoDate": "2026-01-15T02:33:08.000Z"
         }
       ]
     }
