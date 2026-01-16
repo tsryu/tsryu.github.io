@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "모든 AI 프로젝트는 결국 에이전트가 된다",
+          "link": "https://news.hada.io/topic?id=25870",
+          "pubDate": "2026-01-16T06:45:27.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>프로젝트 진행중에 단순한 <strong>스크립트 작성에서 자율적 AI 에이전트 구축</strong>으로 발전하는 과정이 반복적으로 나타남</li>\n<li>개발중인 도구들에 대해 도구 접근권을 부여하자 단순 대화형 모델이 <strong>계획·실행·반복 가능한 에이전트</strong>로 전환됨</li>\n<li>분류기나 조건문 기반 로직은...</p>",
+          "contentSnippet": "프로젝트 진행중에 단순한 스크립트 작성에서 자율적 AI 에이전트 구축으로 발전하는 과정이 반복적으로 나타남\n개발중인 도구들에 대해 도구 접근권을 부여하자 단순 대화형 모델이 계획·실행·반복 가능한 에이전트로 전환됨\n분류기나 조건문 기반 로직은...",
+          "id": "https://news.hada.io/topic?id=25870",
+          "isoDate": "2026-01-16T06:45:27.000Z"
+        },
+        {
+          "title": "Vercel, React 모범 사례 저장소 공개 ",
+          "link": "https://news.hada.io/topic?id=25869",
+          "pubDate": "2026-01-16T06:24:05.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>Vercel이 <strong>React와 Next.js의 10년 이상 성능 최적화 경험</strong>을 기반으로 한 구조화된 저장소 <code>React-Best-Practices</code>를 공개함</li>\n<li>이 저장소는 <strong>AI 에이전트와 LLM</strong>이 코드 리뷰나 리팩터링 시 일관된 최적화 결정을 내릴 수 있도록 설계됨</li>\n<li>핵심은 <st...</p>",
+          "contentSnippet": "Vercel이 React와 Next.js의 10년 이상 성능 최적화 경험을 기반으로 한 구조화된 저장소 React-Best-Practices를 공개함\n이 저장소는 AI 에이전트와 LLM이 코드 리뷰나 리팩터링 시 일관된 최적화 결정을 내릴 수 있도록 설계됨\n핵심은",
+          "id": "https://news.hada.io/topic?id=25869",
+          "isoDate": "2026-01-16T06:24:05.000Z"
+        },
+        {
+          "title": "아이디어는 싸다, 실행은 더 싸다",
+          "link": "https://news.hada.io/topic?id=25868",
+          "pubDate": "2026-01-16T03:47:57.000Z",
+          "author": "davespark",
+          "content": "<h4>기존 통념 → 완전 뒤집힘</h4>\n<ul>\n<li>과거 15년간 개발자로 살아오면서 믿었던 진리: <strong>“아이디어는 싸고(cheap), 실행(execution)이 전부다”</strong>\n</li>\n<li>이제는 <strong>아이디어는 여전히 싸지만, 실행마저 훨씬 더 싸졌다</strong>(execution is cheaper)</li>\n</ul>\n<h4>AI 덕분에 실제로 일...</p>",
+          "contentSnippet": "기존 통념 → 완전 뒤집힘\n과거 15년간 개발자로 살아오면서 믿었던 진리: “아이디어는 싸고(cheap), 실행(execution)이 전부다”\n\n이제는 아이디어는 여전히 싸지만, 실행마저 훨씬 더 싸졌다(execution is cheaper)\nAI 덕분에 실제로 일...",
+          "id": "https://news.hada.io/topic?id=25868",
+          "isoDate": "2026-01-16T03:47:57.000Z"
+        },
+        {
           "title": "AI가 AI를 학습하면 생기는 일, ‘모델 붕괴’ 현상과 예방법",
           "link": "https://news.hada.io/topic?id=25867",
           "pubDate": "2026-01-16T03:21:26.000Z",
@@ -75,36 +105,6 @@
           "contentSnippet": "\"The lazygit of SQL Databases\"\n\n무거운 GUI 도구 대신 터미널 안에서 바로 DB에 연결해 쿼리하기 위해 개발\nPostgreSQL, MySQL, SQLite, SQL Server를 포함해 20개 이상의 로컬·클라우드 데이터베이스 지원\n\nSnowf...",
           "id": "https://news.hada.io/topic?id=25860",
           "isoDate": "2026-01-16T00:31:02.000Z"
-        },
-        {
-          "title": "장시간 실행되는 자율 코딩의 확장",
-          "link": "https://news.hada.io/topic?id=25859",
-          "pubDate": "2026-01-15T23:59:37.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>Cursor가 수주간 <strong>자율 코딩 에이전트</strong>를 병렬로 실행하며 대규모 프로젝트를 완성할 수 있는지 실험함</li>\n<li>초기에는 <strong>동적 협업 구조</strong>를 사용했으나, 락(lock) 충돌과 작업 중복으로 병목 현상이 발생</li>\n<li>이후 <strong>계획자(Planner)</strong> 와 <strong>작업자(...</p>",
-          "contentSnippet": "Cursor가 수주간 자율 코딩 에이전트를 병렬로 실행하며 대규모 프로젝트를 완성할 수 있는지 실험함\n초기에는 동적 협업 구조를 사용했으나, 락(lock) 충돌과 작업 중복으로 병목 현상이 발생\n이후 계획자(Planner) 와 작업자(...",
-          "id": "https://news.hada.io/topic?id=25859",
-          "isoDate": "2026-01-15T23:59:37.000Z"
-        },
-        {
-          "title": "위키백과 25주년",
-          "link": "https://news.hada.io/topic?id=25858",
-          "pubDate": "2026-01-15T23:57:22.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>인터넷 지식의 <strong>중추 역할</strong>을 해온 위키백과는 2001년 빈 웹사이트에서 출발해 25년간 자원봉사자들의 협업으로 성장한 온라인 백과사전</li>\n<li>현재 <strong>300여 개 언어, 6,500만 개 문서, 25만 명의 편집자</strong>가 참여하며 매달 약 150억 회 조회되는 세계 최대 규모의 지식 플랫폼...</p>",
-          "contentSnippet": "인터넷 지식의 중추 역할을 해온 위키백과는 2001년 빈 웹사이트에서 출발해 25년간 자원봉사자들의 협업으로 성장한 온라인 백과사전\n현재 300여 개 언어, 6,500만 개 문서, 25만 명의 편집자가 참여하며 매달 약 150억 회 조회되는 세계 최대 규모의 지식 플랫폼...",
-          "id": "https://news.hada.io/topic?id=25858",
-          "isoDate": "2026-01-15T23:57:22.000Z"
-        },
-        {
-          "title": "애플, Nvidia 와 TSMC 생산 용량 확보를 위해 경쟁중",
-          "link": "https://news.hada.io/topic?id=25857",
-          "pubDate": "2026-01-15T23:54:50.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>TSMC의 생산 능력</strong>이 AI 붐으로 포화되면서, 애플이 <strong>엔비디아와 생산 용량을 두고 경쟁</strong>하는 상황</li>\n<li>엔비디아의 GPU 수요 급증으로 <strong>웨이퍼 점유율</strong>이 커졌고, 애플은 더 이상 TSMC의 최대 고객이 아닐 가능성이 있음</li>\n<li>TSMC 매출은 36% 증가했...</p>",
-          "contentSnippet": "TSMC의 생산 능력이 AI 붐으로 포화되면서, 애플이 엔비디아와 생산 용량을 두고 경쟁하는 상황\n엔비디아의 GPU 수요 급증으로 웨이퍼 점유율이 커졌고, 애플은 더 이상 TSMC의 최대 고객이 아닐 가능성이 있음\nTSMC 매출은 36% 증가했...",
-          "id": "https://news.hada.io/topic?id=25857",
-          "isoDate": "2026-01-15T23:54:50.000Z"
         }
       ]
     }
