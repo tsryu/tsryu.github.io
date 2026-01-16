@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "이란에서 인터넷이 끊겨도 Bluetooth와 Wi-Fi로 연결을 유지하는 Briar",
+          "link": "https://news.hada.io/topic?id=25874",
+          "pubDate": "2026-01-16T11:33:29.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Briar 메신저</strong>는 인터넷이 차단된 상황에서도 <strong>Bluetooth와 Wi-Fi 직접 연결</strong>을 통해 통신을 지속할 수 있는 <strong>보안 중심 오프라인 메시징 앱</strong>\n</li>\n<li>중앙 서버 없이 <strong>기기 간 직접 통신(P2P)</strong> 구조로 동작하며, 인터넷 연결 시에는 <strong...</p>",
+          "contentSnippet": "Briar 메신저는 인터넷이 차단된 상황에서도 Bluetooth와 Wi-Fi 직접 연결을 통해 통신을 지속할 수 있는 보안 중심 오프라인 메시징 앱\n\n중앙 서버 없이 기기 간 직접 통신(P2P) 구조로 동작하며, 인터넷 연결 시에는",
+          "id": "https://news.hada.io/topic?id=25874",
+          "isoDate": "2026-01-16T11:33:29.000Z"
+        },
+        {
+          "title": "오픈코드를 디스코드에서 컨트롤 할 수 있는 오픈소스 플러그인, Kimaki",
+          "link": "https://news.hada.io/topic?id=25873",
+          "pubDate": "2026-01-16T10:16:42.000Z",
+          "author": "sdkfile",
+          "content": "<p>kimaki는 디스코드 안에서 AI 코딩 에이전트(OpenCode 기반)를 직접 조작할 수 있게 해주는 봇입니다</p>\n<p>디스코드의 각 채널을 로컬 머신의 특정 프로젝트 디렉터리와 연결하고, 채널에 메시지를 보내면 AI가 해당 코드베이스를 읽고 수정하거나 터미널 명령을 실행합니다.<br />\n텍스트 입력뿐 아니라 파일 첨부",
+          "contentSnippet": "kimaki는 디스코드 안에서 AI 코딩 에이전트(OpenCode 기반)를 직접 조작할 수 있게 해주는 봇입니다\n디스코드의 각 채널을 로컬 머신의 특정 프로젝트 디렉터리와 연결하고, 채널에 메시지를 보내면 AI가 해당 코드베이스를 읽고 수정하거나 터미널 명령을 실행합니다.\n텍스트 입력뿐 아니라 파일 첨부",
+          "id": "https://news.hada.io/topic?id=25873",
+          "isoDate": "2026-01-16T10:16:42.000Z"
+        },
+        {
+          "title": "Pocket TTS: CPU에 목소리를 부여하는 고품질 TTS",
+          "link": "https://news.hada.io/topic?id=25871",
+          "pubDate": "2026-01-16T08:33:33.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>1억 개의 파라미터로 구성된 <strong>Pocket TTS</strong>는 음성 복제 기능을 갖춘 <strong>경량 텍스트-음성 변환 모델</strong>로, 일반 노트북 CPU에서도 실시간 실행 가능</li>\n<li>기존의 대형 <strong>LLM 기반 TTS(10억 개 이상 파라미터)</strong> 와 소형 <strong>Kokoro TTS(8,200만 파라미터)</str...</p>",
+          "contentSnippet": "1억 개의 파라미터로 구성된 Pocket TTS는 음성 복제 기능을 갖춘 경량 텍스트-음성 변환 모델로, 일반 노트북 CPU에서도 실시간 실행 가능\n기존의 대형 LLM 기반 TTS(10억 개 이상 파라미터) 와 소형 Kokoro TTS(8,200만 파라미터)",
+          "id": "https://news.hada.io/topic?id=25871",
+          "isoDate": "2026-01-16T08:33:33.000Z"
+        },
+        {
           "title": "모든 AI 프로젝트는 결국 에이전트가 된다",
           "link": "https://news.hada.io/topic?id=25870",
           "pubDate": "2026-01-16T06:45:27.000Z",
@@ -75,36 +105,6 @@
           "contentSnippet": "중국은 지난해 전 세계 신규 풍력·태양광 설비의 절반 이상을 설치하며 재생에너지 확장을 주도\n2024년 5월 한 달 동안만 폴란드 전체 전력 수요를 충당할 수준의 재생에너지를 추가 설치\n동부의 도시 옥상부터 서부 사막의 초대형 풍력단지",
           "id": "https://news.hada.io/topic?id=25863",
           "isoDate": "2026-01-16T00:43:23.000Z"
-        },
-        {
-          "title": "팔란티어가 ICE의 단속 지역 선정을 지원하는 앱 ‘ELITE’",
-          "link": "https://news.hada.io/topic?id=25862",
-          "pubDate": "2026-01-16T00:40:23.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>팔란티어(Palantir)</strong> 가 미국 이민세관단속국(<strong>ICE</strong>)을 위해 개발 중인 <strong>‘ELITE’ 도구</strong>는 지도에 추방 대상자를 표시하고, 각 인물의 <strong>개인 정보 요약(dossier)</strong> 과 <strong>주소 신뢰도 점수(confidence score)</strong> 를 제공함</li>\n<li...</p>",
-          "contentSnippet": "팔란티어(Palantir) 가 미국 이민세관단속국(ICE)을 위해 개발 중인 ‘ELITE’ 도구는 지도에 추방 대상자를 표시하고, 각 인물의 개인 정보 요약(dossier) 과 주소 신뢰도 점수(confidence score) 를 제공함",
-          "id": "https://news.hada.io/topic?id=25862",
-          "isoDate": "2026-01-16T00:40:23.000Z"
-        },
-        {
-          "title": "의심스러워 보이도록 설계된 URL 단축기",
-          "link": "https://news.hada.io/topic?id=25861",
-          "pubDate": "2026-01-16T00:37:22.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>CreepyLink</strong>은 링크를 가능한 한 <strong>의심스럽게 보이게 만드는 URL 단축 서비스</strong>\n</li>\n<li>일반적인 단축기와 달리, <strong>불안감이나 스팸 느낌을 주는 형태의 링크</strong>를 생성</li>\n<li>사용자는 단축된 링크를 통해 <strong>의도적으로 ‘수상한’ 인상을 연출</stro...</p>",
-          "contentSnippet": "CreepyLink은 링크를 가능한 한 의심스럽게 보이게 만드는 URL 단축 서비스\n\n일반적인 단축기와 달리, 불안감이나 스팸 느낌을 주는 형태의 링크를 생성\n사용자는 단축된 링크를 통해 의도적으로 ‘수상한’ 인상을 연출",
-          "id": "https://news.hada.io/topic?id=25861",
-          "isoDate": "2026-01-16T00:37:22.000Z"
-        },
-        {
-          "title": "sqlit - 터미널에서 DB를 빠르고 직관적으로 다루기 위한 TUI 기반 SQL 클라이언트",
-          "link": "https://news.hada.io/topic?id=25860",
-          "pubDate": "2026-01-16T00:31:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>&quot;The lazygit of SQL Databases&quot;</strong>\n</li>\n<li>무거운 GUI 도구 대신 <strong>터미널 안에서 바로 DB에 연결해 쿼리</strong>하기 위해 개발</li>\n<li>PostgreSQL, MySQL, SQLite, SQL Server를 포함해 <strong>20개 이상의 로컬·클라우드 데이터베이스 지원</strong>\n<ul>\n<li>Snowf...</p>",
-          "contentSnippet": "\"The lazygit of SQL Databases\"\n\n무거운 GUI 도구 대신 터미널 안에서 바로 DB에 연결해 쿼리하기 위해 개발\nPostgreSQL, MySQL, SQLite, SQL Server를 포함해 20개 이상의 로컬·클라우드 데이터베이스 지원\n\nSnowf...",
-          "id": "https://news.hada.io/topic?id=25860",
-          "isoDate": "2026-01-16T00:31:02.000Z"
         }
       ]
     }
