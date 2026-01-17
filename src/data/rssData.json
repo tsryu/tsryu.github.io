@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: syntux - 웹을 위한 생성형 UI 프레임워크",
+          "link": "https://news.hada.io/topic?id=25901",
+          "pubDate": "2026-01-17T07:02:14.000Z",
+          "author": "colonelparrot",
+          "content": "Show GN: syntux - 웹을 위한 생성형 UI 프레임워크",
+          "contentSnippet": "Show GN: syntux - 웹을 위한 생성형 UI 프레임워크",
+          "id": "https://news.hada.io/topic?id=25901",
+          "isoDate": "2026-01-17T07:02:14.000Z"
+        },
+        {
+          "title": "6일짜리 및 IP 주소 인증서 일반 제공 개시",
+          "link": "https://news.hada.io/topic?id=25900",
+          "pubDate": "2026-01-17T06:32:54.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Let's Encrypt</strong>가 <strong>6일 유효기간의 단기 인증서</strong>와 <strong>IP 주소 기반 인증서</strong>를 정식으로 제공 시작</li>\n<li>단기 인증서는 <strong>160시간(약 6일 16시간)</strong> 동안 유효하며, ACME 클라이언트에서 ‘shortlived’ 프로필을 선택해 발급 가능</li>\n<li>이...</p>",
+          "contentSnippet": "Let's Encrypt가 6일 유효기간의 단기 인증서와 IP 주소 기반 인증서를 정식으로 제공 시작\n단기 인증서는 160시간(약 6일 16시간) 동안 유효하며, ACME 클라이언트에서 ‘shortlived’ 프로필을 선택해 발급 가능\n이...",
+          "id": "https://news.hada.io/topic?id=25900",
+          "isoDate": "2026-01-17T06:32:54.000Z"
+        },
+        {
+          "title": "동독 열기구 탈출",
+          "link": "https://news.hada.io/topic?id=25899",
+          "pubDate": "2026-01-17T04:32:35.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>1979년 9월 16일, 두 가족이 직접 만든 <strong>열기구로 동독에서 서독으로 탈출</strong>한 사건으로, 냉전기 국경 감시망을 뚫은 대표적 사례</li>\n<li>\n<strong>Peter Strelzyk</strong>과 <strong>Günter Wetzel</strong>이 1년 반 동안 세 차례 시도 끝에 성공했으며, 첫 시도는 실패해 당국의 수사 대상...</p>",
+          "contentSnippet": "1979년 9월 16일, 두 가족이 직접 만든 열기구로 동독에서 서독으로 탈출한 사건으로, 냉전기 국경 감시망을 뚫은 대표적 사례\nPeter Strelzyk과 Günter Wetzel이 1년 반 동안 세 차례 시도 끝에 성공했으며, 첫 시도는 실패해 당국의 수사 대상...",
+          "id": "https://news.hada.io/topic?id=25899",
+          "isoDate": "2026-01-17T04:32:35.000Z"
+        },
+        {
           "title": "Open Responses - LLM간 호환을 위한 오픈 규격 ",
           "link": "https://news.hada.io/topic?id=25898",
           "pubDate": "2026-01-17T02:50:02.000Z",
@@ -75,36 +105,6 @@
           "contentSnippet": "공항에서 큰 소리로 영상을 보던 사람을 계기로, 주변 소음을 되돌려 들려주는 웹앱이 제작됨\n앱은 마이크로 입력된 소리를 약 2초 지연 후 재생하여 상대방이 스스로 소리를 줄이게 만드는 방식\n개발자는 Claude AI를 이용해 한 번의 프...",
           "id": "https://news.hada.io/topic?id=25892",
           "isoDate": "2026-01-17T00:37:48.000Z"
-        },
-        {
-          "title": "Carquet - Parquet 파일을 읽고 쓰기 위한 고성능 순수 C 라이브러리",
-          "link": "https://news.hada.io/topic?id=25891",
-          "pubDate": "2026-01-17T00:31:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>Apache Parquet 포맷을 <strong>C 환경에서 직접 지원</strong>하기 위해 개발된 <strong>프로덕션 수준의 순수 C 구현체</strong> 라이브러리</li>\n<li>\n<strong>C11 표준 기반</strong>으로 작성되어, <strong>C++ 런타임이나 예외 처리 없이</strong> 동작하며 <strong>zstd와 zlib만 외부 의존성</strong>으...</p>",
-          "contentSnippet": "Apache Parquet 포맷을 C 환경에서 직접 지원하기 위해 개발된 프로덕션 수준의 순수 C 구현체 라이브러리\nC11 표준 기반으로 작성되어, C++ 런타임이나 예외 처리 없이 동작하며 zstd와 zlib만 외부 의존성으...",
-          "id": "https://news.hada.io/topic?id=25891",
-          "isoDate": "2026-01-17T00:31:02.000Z"
-        },
-        {
-          "title": "Handy – 무료 오픈소스 음성 인식 앱",
-          "link": "https://news.hada.io/topic?id=25890",
-          "pubDate": "2026-01-16T23:37:16.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Handy</strong>는 <strong>완전 오프라인</strong>으로 작동하는 <strong>무료 오픈소스 음성-텍스트 변환 데스크톱 앱</strong>으로, 개인 정보 보호 중심의 설계를 갖춤</li>\n<li>\n<strong>Tauri(Rust + React/TypeScript)</strong> 기반으로 제작되어, 단축키를 눌러 말하면 음성이 바로 텍스트 필...</p>",
-          "contentSnippet": "Handy는 완전 오프라인으로 작동하는 무료 오픈소스 음성-텍스트 변환 데스크톱 앱으로, 개인 정보 보호 중심의 설계를 갖춤\nTauri(Rust + React/TypeScript) 기반으로 제작되어, 단축키를 눌러 말하면 음성이 바로 텍스트 필...",
-          "id": "https://news.hada.io/topic?id=25890",
-          "isoDate": "2026-01-16T23:37:16.000Z"
-        },
-        {
-          "title": "농업을 시작했다",
-          "link": "https://news.hada.io/topic?id=25889",
-          "pubDate": "2026-01-16T23:34:16.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>오픈소스 개발자로 알려진 <strong>Dylan Araps</strong>가 인터넷 활동을 중단하고 <strong>농부로 전향한 이유와 과정</strong>을 공개</li>\n<li>장시간 컴퓨터 앞에서 일하며 <strong>신체적·정신적 소진</strong>을 겪고, 결국 번아웃과 존재적 위기를 맞음</li>\n<li>회복 과정에서 <strong>독서와 성경 읽...</p>",
-          "contentSnippet": "오픈소스 개발자로 알려진 Dylan Araps가 인터넷 활동을 중단하고 농부로 전향한 이유와 과정을 공개\n장시간 컴퓨터 앞에서 일하며 신체적·정신적 소진을 겪고, 결국 번아웃과 존재적 위기를 맞음\n회복 과정에서 독서와 성경 읽...",
-          "id": "https://news.hada.io/topic?id=25889",
-          "isoDate": "2026-01-16T23:34:16.000Z"
         }
       ]
     }
