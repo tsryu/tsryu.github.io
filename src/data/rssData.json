@@ -7,104 +7,104 @@
       "priority": 1,
       "data": [
         {
-          "title": "모든 국가는 소셜 미디어 계정 최소 연령을 16세로 설정해야 함",
-          "link": "https://news.hada.io/topic?id=25883",
-          "pubDate": "2026-01-16T18:42:31.000Z",
+          "title": "Open Responses - LLM간 호환을 위한 오픈 규격 ",
+          "link": "https://news.hada.io/topic?id=25898",
+          "pubDate": "2026-01-17T02:50:02.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>호주</strong>가 2025년에 소셜 미디어 계정 최소 연령을 <strong>16세</strong>로 정한 이후, 여러 국가에서 유사한 법안을 검토 중임</li>\n<li>사춘기 동안 뇌 발달이 급격히 이루어지므로, <strong>15세는 여전히 사춘기 단계</strong>에 속해 있으며 이 시기 소셜 미디어 노출은 장기적 손상을 초...</p>",
-          "contentSnippet": "호주가 2025년에 소셜 미디어 계정 최소 연령을 16세로 정한 이후, 여러 국가에서 유사한 법안을 검토 중임\n사춘기 동안 뇌 발달이 급격히 이루어지므로, 15세는 여전히 사춘기 단계에 속해 있으며 이 시기 소셜 미디어 노출은 장기적 손상을 초...",
-          "id": "https://news.hada.io/topic?id=25883",
-          "isoDate": "2026-01-16T18:42:31.000Z"
+          "content": "<ul>\n<li>\n<strong>다중 LLM 제공자 간 상호운용성</strong>을 목표로 하는 오픈소스 규격과 생태계로, OpenAI Responses API를 기반으로 공통 인터페이스를 정의</li>\n<li>요청과 응답을 <strong>공유 스키마</strong>로 기술해, 최소한의 변환 작업만으로 여러 모델 제공자에서 동일한 방식으로 실행 가능</li>\n<li>메...</p>",
+          "contentSnippet": "다중 LLM 제공자 간 상호운용성을 목표로 하는 오픈소스 규격과 생태계로, OpenAI Responses API를 기반으로 공통 인터페이스를 정의\n요청과 응답을 공유 스키마로 기술해, 최소한의 변환 작업만으로 여러 모델 제공자에서 동일한 방식으로 실행 가능\n메...",
+          "id": "https://news.hada.io/topic?id=25898",
+          "isoDate": "2026-01-17T02:50:02.000Z"
         },
         {
-          "title": "AI 검증 없이 과장된 열풍을 퍼뜨리는 ‘Influentists’ 현상",
-          "link": "https://news.hada.io/topic?id=25882",
-          "pubDate": "2026-01-16T18:39:31.000Z",
+          "title": "CS146S: The Modern Software Developer (한국어)",
+          "link": "https://news.hada.io/topic?id=25897",
+          "pubDate": "2026-01-17T00:51:02.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>스탠포드 CS146S 강좌의 공식 한국어 버전</li>\n<li>Reading 자료의 한국어 번역 제공 및 YouTube 한국어 강의 시리즈도 제공 예정</li>\n<li>총 10주 과정으로 구성\n<ul>\n<li>Week 1: Introduction to Coding LLMs and AI Development</li>\n<li>Week 2: The Anatomy of Coding Agents</li>\n<li>Week 3: The AI ...</p>",
+          "contentSnippet": "스탠포드 CS146S 강좌의 공식 한국어 버전\nReading 자료의 한국어 번역 제공 및 YouTube 한국어 강의 시리즈도 제공 예정\n총 10주 과정으로 구성\n\nWeek 1: Introduction to Coding LLMs and AI Development\nWeek 2: The Anatomy of Coding Agents\nWeek 3: The AI ...",
+          "id": "https://news.hada.io/topic?id=25897",
+          "isoDate": "2026-01-17T00:51:02.000Z"
+        },
+        {
+          "title": "Cursor의 최신 ‘브라우저 실험’, 근거 없는 성공 암시",
+          "link": "https://news.hada.io/topic?id=25896",
+          "pubDate": "2026-01-17T00:49:48.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>소프트웨어 업계에서 <strong>AI가 인간 개발자의 역할을 대체한다는 과장된 주장</strong>이 확산되고 있음</li>\n<li>구글의 Jaana Dogan이 “Claude Code가 1시간 만에 우리가 1년간 만든 시스템을 재현했다”고 트윗하며 논란이 시작됨</li>\n<li>실제로는 <strong>AI가 기존 아이디어를 구현한 수준의 시연용...</p>",
-          "contentSnippet": "소프트웨어 업계에서 AI가 인간 개발자의 역할을 대체한다는 과장된 주장이 확산되고 있음\n구글의 Jaana Dogan이 “Claude Code가 1시간 만에 우리가 1년간 만든 시스템을 재현했다”고 트윗하며 논란이 시작됨\n실제로는 AI가 기존 아이디어를 구현한 수준의 시연용...",
-          "id": "https://news.hada.io/topic?id=25882",
-          "isoDate": "2026-01-16T18:39:31.000Z"
+          "content": "<ul>\n<li>Cursor는 <strong>‘자율 코딩 에이전트’가 수주간 작동하는 실험</strong>을 진행하며, 인간 팀이 수개월 걸리는 프로젝트를 자동화할 수 있는지를 탐구했다고 설명</li>\n<li>이 시스템을 검증하기 위해 <strong>‘웹 브라우저를 처음부터 만드는’ 목표</strong>를 설정하고, 에이전트들이 약 일주일간 100만...</p>",
+          "contentSnippet": "Cursor는 ‘자율 코딩 에이전트’가 수주간 작동하는 실험을 진행하며, 인간 팀이 수개월 걸리는 프로젝트를 자동화할 수 있는지를 탐구했다고 설명\n이 시스템을 검증하기 위해 ‘웹 브라우저를 처음부터 만드는’ 목표를 설정하고, 에이전트들이 약 일주일간 100만...",
+          "id": "https://news.hada.io/topic?id=25896",
+          "isoDate": "2026-01-17T00:49:48.000Z"
         },
         {
-          "title": "SSH로 접속 가능한 Linux 박스: 연결 해제 시 자동 일시중단",
-          "link": "https://news.hada.io/topic?id=25881",
-          "pubDate": "2026-01-16T18:36:31.000Z",
+          "title": "캐나다, 중국산 전기차 관세 100%에서 6%로 대폭 인하",
+          "link": "https://news.hada.io/topic?id=25895",
+          "pubDate": "2026-01-17T00:46:48.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>SSH 명령 한 줄</strong>로 즉시 Linux 인스턴스를 생성하고 접속할 수 있는 <strong>클라우드 환경</strong> 제공</li>\n<li>\n<strong>회원가입이나 설정 과정 없이</strong> SSH만으로 박스 생성, 연결, 삭제, 결제 관리 가능</li>\n<li>인스턴스는 <strong>연결이 끊기면 자동으로 일시중단</strong>...</p>",
-          "contentSnippet": "SSH 명령 한 줄로 즉시 Linux 인스턴스를 생성하고 접속할 수 있는 클라우드 환경 제공\n회원가입이나 설정 과정 없이 SSH만으로 박스 생성, 연결, 삭제, 결제 관리 가능\n인스턴스는 연결이 끊기면 자동으로 일시중단...",
-          "id": "https://news.hada.io/topic?id=25881",
-          "isoDate": "2026-01-16T18:36:31.000Z"
+          "content": "<ul>\n<li>캐나다 정부가 중국과의 <strong>‘전략적 파트너십’</strong> 을 통해 중국산 전기차 수입을 재개하고, 기존 100% 관세를 <strong>6.1%로 인하</strong>\n</li>\n<li>이번 조치는 미국의 <strong>보호무역 기조와 결별</strong>하는 결정으로, BYD Seagull 등 <strong>저가형 전기차</strong>의 캐나다 시장 진...</p>",
+          "contentSnippet": "캐나다 정부가 중국과의 ‘전략적 파트너십’ 을 통해 중국산 전기차 수입을 재개하고, 기존 100% 관세를 6.1%로 인하\n\n이번 조치는 미국의 보호무역 기조와 결별하는 결정으로, BYD Seagull 등 저가형 전기차의 캐나다 시장 진...",
+          "id": "https://news.hada.io/topic?id=25895",
+          "isoDate": "2026-01-17T00:46:48.000Z"
         },
         {
-          "title": "AI 때문에 기술 문서 작성자를 해고하거나 채용하지 않은 사람들에게",
-          "link": "https://news.hada.io/topic?id=25880",
-          "pubDate": "2026-01-16T16:33:12.000Z",
+          "title": "OpenBSD-current이 Apple Hypervisor에서 게스트로 실행 가능",
+          "link": "https://news.hada.io/topic?id=25894",
+          "pubDate": "2026-01-17T00:43:48.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>AI가 인간 기술 문서 작성자를 대체할 수 있다는 믿음</strong>으로 채용을 중단하거나 해고한 결정이 <strong>심각한 실수</strong>임을 경고</li>\n<li>\n<strong>AI가 생성한 문서</strong>는 지능이나 공감 능력이 없으며, <strong>제품의 진실과 맥락을 담지 못하는 빈 껍데기</strong>에 불과함...</p>",
-          "contentSnippet": "AI가 인간 기술 문서 작성자를 대체할 수 있다는 믿음으로 채용을 중단하거나 해고한 결정이 심각한 실수임을 경고\nAI가 생성한 문서는 지능이나 공감 능력이 없으며, 제품의 진실과 맥락을 담지 못하는 빈 껍데기에 불과함...",
-          "id": "https://news.hada.io/topic?id=25880",
-          "isoDate": "2026-01-16T16:33:12.000Z"
+          "content": "<ul>\n<li>\n<strong>OpenBSD/arm64</strong>가 이제 <strong>Apple Hypervisor</strong> 환경에서 게스트 운영체제로 동작 가능해짐</li>\n<li>Helg Bredow와 Stefan Fritsch의 일련의 커밋을 통해 <strong>그래픽 처리와 네트워크 기능</strong>이 수정 및 개선됨</li>\n<li>viogpu 드라이버에서 <strong>프레임버퍼 동기화...</p>",
+          "contentSnippet": "OpenBSD/arm64가 이제 Apple Hypervisor 환경에서 게스트 운영체제로 동작 가능해짐\nHelg Bredow와 Stefan Fritsch의 일련의 커밋을 통해 그래픽 처리와 네트워크 기능이 수정 및 개선됨\nviogpu 드라이버에서 프레임버퍼 동기화...",
+          "id": "https://news.hada.io/topic?id=25894",
+          "isoDate": "2026-01-17T00:43:48.000Z"
         },
         {
-          "title": "F/OSS 史唯: 우리는 LLM을 거부할 게 아니라 되찾아 와야 한다",
-          "link": "https://news.hada.io/topic?id=25879",
-          "pubDate": "2026-01-16T16:18:31.000Z",
-          "author": "hongminhee",
-          "content": "<h5>F/OSS를 LLM 훈련에서 막을 게 아니라, 훈련 결과 모델을 해방시켜야 한다는 주장</h5>\n<ul>\n<li>최근 〈<a href=\"https://chronicles.mad-scientist.club/tales/on-floss-and-training-llms/\">자유·오픈 소스 소프트웨어와 LLM 학습에 관해</a>〉(On FLOSS and training LLMs) 글이 F/OSS 커뮤니티의 좌절감을 잘 표...</p>",
-          "contentSnippet": "F/OSS를 LLM 훈련에서 막을 게 아니라, 훈련 결과 모델을 해방시켜야 한다는 주장\n최근 〈자유·오픈 소스 소프트웨어와 LLM 학습에 관해〉(On FLOSS and training LLMs) 글이 F/OSS 커뮤니티의 좌절감을 잘 표...",
-          "id": "https://news.hada.io/topic?id=25879",
-          "isoDate": "2026-01-16T16:18:31.000Z"
-        },
-        {
-          "title": "Show GN: Dev Toolkit - 개발자를 위한 간단한 유틸리티 모음",
-          "link": "https://news.hada.io/topic?id=25877",
-          "pubDate": "2026-01-16T15:07:41.000Z",
-          "author": "mansukim1125",
-          "content": "<p>제가 필요해서 만들었습니다.</p>\n<p>JSON 비교, JSON minify, 타임존 변환 같은 거 할 때마다 도구 검색해서 사용하기 귀찮더라고요.</p>\n<p>들어있는 도구:</p>\n<ul>\n<li>Base64 인코딩/디코딩</li>\n<li>JSON Prettier</li>\n<li>Env Converter (dotenv ↔ IntelliJ env)</li>\n<li>JSON/XML 비교</li>\n<li>JWT 인코더",
-          "contentSnippet": "제가 필요해서 만들었습니다.\nJSON 비교, JSON minify, 타임존 변환 같은 거 할 때마다 도구 검색해서 사용하기 귀찮더라고요.\n들어있는 도구:\nBase64 인코딩/디코딩\nJSON Prettier\nEnv Converter (dotenv ↔ IntelliJ env)\nJSON/XML 비교\nJWT 인코더",
-          "id": "https://news.hada.io/topic?id=25877",
-          "isoDate": "2026-01-16T15:07:41.000Z"
-        },
-        {
-          "title": "정교하지 않은 예측은 독입니다. 그래서 과감히 가리고 배포했습니다.",
-          "link": "https://news.hada.io/topic?id=25875",
-          "pubDate": "2026-01-16T14:18:12.000Z",
-          "author": "yongrak",
-          "content": "<p>오는 2월 졸업을 앞둔 경제학도이자, 6개월간의 AI 부스트캠프를 거쳐 <strong>K-뷰티  대시보드</strong>를 1인 개발하고 있습니다. 경제학 전공자로서 시계열 모델(Prophet)에 구글 트렌드와 거시 지표를 결합하면 뭔가 될까? 싶었지만, 현실은 3일째 디버깅..의 연속이었습니다..</p>\n<p><strong>직면한 기술적 한",
-          "contentSnippet": "오는 2월 졸업을 앞둔 경제학도이자, 6개월간의 AI 부스트캠프를 거쳐 K-뷰티  대시보드를 1인 개발하고 있습니다. 경제학 전공자로서 시계열 모델(Prophet)에 구글 트렌드와 거시 지표를 결합하면 뭔가 될까? 싶었지만, 현실은 3일째 디버깅..의 연속이었습니다..\n직면한 기술적 한",
-          "id": "https://news.hada.io/topic?id=25875",
-          "isoDate": "2026-01-16T14:18:12.000Z"
-        },
-        {
-          "title": "이란에서 인터넷이 끊겨도 Bluetooth와 Wi-Fi로 연결을 유지하는 Briar",
-          "link": "https://news.hada.io/topic?id=25874",
-          "pubDate": "2026-01-16T11:33:29.000Z",
+          "title": "단순한 브라우저 (Just the Browser)",
+          "link": "https://news.hada.io/topic?id=25893",
+          "pubDate": "2026-01-17T00:40:48.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Briar 메신저</strong>는 인터넷이 차단된 상황에서도 <strong>Bluetooth와 Wi-Fi 직접 연결</strong>을 통해 통신을 지속할 수 있는 <strong>보안 중심 오프라인 메시징 앱</strong>\n</li>\n<li>중앙 서버 없이 <strong>기기 간 직접 통신(P2P)</strong> 구조로 동작하며, 인터넷 연결 시에는 <strong...</p>",
-          "contentSnippet": "Briar 메신저는 인터넷이 차단된 상황에서도 Bluetooth와 Wi-Fi 직접 연결을 통해 통신을 지속할 수 있는 보안 중심 오프라인 메시징 앱\n\n중앙 서버 없이 기기 간 직접 통신(P2P) 구조로 동작하며, 인터넷 연결 시에는",
-          "id": "https://news.hada.io/topic?id=25874",
-          "isoDate": "2026-01-16T11:33:29.000Z"
+          "content": "<ul>\n<li>데스크톱 웹 브라우저에서 <strong>AI 기능, 원격 데이터 수집, 스폰서 콘텐츠, 제품 통합</strong> 등을 제거해 순수한 브라우저 환경만 남기는 프로젝트</li>\n<li>\n<strong>Google Chrome, Microsoft Edge, Mozilla Firefox</strong>용 구성 파일과 설치 스크립트를 제공하며, 모든 자료는 <strong>GitHub 오...</p>",
+          "contentSnippet": "데스크톱 웹 브라우저에서 AI 기능, 원격 데이터 수집, 스폰서 콘텐츠, 제품 통합 등을 제거해 순수한 브라우저 환경만 남기는 프로젝트\nGoogle Chrome, Microsoft Edge, Mozilla Firefox용 구성 파일과 설치 스크립트를 제공하며, 모든 자료는 GitHub 오...",
+          "id": "https://news.hada.io/topic?id=25893",
+          "isoDate": "2026-01-17T00:40:48.000Z"
         },
         {
-          "title": "오픈코드를 디스코드에서 컨트롤 할 수 있는 오픈소스 플러그인, Kimaki",
-          "link": "https://news.hada.io/topic?id=25873",
-          "pubDate": "2026-01-16T10:16:42.000Z",
-          "author": "sdkfile",
-          "content": "<p>kimaki는 디스코드 안에서 AI 코딩 에이전트(OpenCode 기반)를 직접 조작할 수 있게 해주는 봇입니다</p>\n<p>디스코드의 각 채널을 로컬 머신의 특정 프로젝트 디렉터리와 연결하고, 채널에 메시지를 보내면 AI가 해당 코드베이스를 읽고 수정하거나 터미널 명령을 실행합니다.<br />\n텍스트 입력뿐 아니라 파일 첨부",
-          "contentSnippet": "kimaki는 디스코드 안에서 AI 코딩 에이전트(OpenCode 기반)를 직접 조작할 수 있게 해주는 봇입니다\n디스코드의 각 채널을 로컬 머신의 특정 프로젝트 디렉터리와 연결하고, 채널에 메시지를 보내면 AI가 해당 코드베이스를 읽고 수정하거나 터미널 명령을 실행합니다.\n텍스트 입력뿐 아니라 파일 첨부",
-          "id": "https://news.hada.io/topic?id=25873",
-          "isoDate": "2026-01-16T10:16:42.000Z"
-        },
-        {
-          "title": "Pocket TTS: CPU에 목소리를 부여하는 고품질 TTS",
-          "link": "https://news.hada.io/topic?id=25871",
-          "pubDate": "2026-01-16T08:33:33.000Z",
+          "title": "STFU",
+          "link": "https://news.hada.io/topic?id=25892",
+          "pubDate": "2026-01-17T00:37:48.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>1억 개의 파라미터로 구성된 <strong>Pocket TTS</strong>는 음성 복제 기능을 갖춘 <strong>경량 텍스트-음성 변환 모델</strong>로, 일반 노트북 CPU에서도 실시간 실행 가능</li>\n<li>기존의 대형 <strong>LLM 기반 TTS(10억 개 이상 파라미터)</strong> 와 소형 <strong>Kokoro TTS(8,200만 파라미터)</str...</p>",
-          "contentSnippet": "1억 개의 파라미터로 구성된 Pocket TTS는 음성 복제 기능을 갖춘 경량 텍스트-음성 변환 모델로, 일반 노트북 CPU에서도 실시간 실행 가능\n기존의 대형 LLM 기반 TTS(10억 개 이상 파라미터) 와 소형 Kokoro TTS(8,200만 파라미터)",
-          "id": "https://news.hada.io/topic?id=25871",
-          "isoDate": "2026-01-16T08:33:33.000Z"
+          "content": "<ul>\n<li>공항에서 큰 소리로 영상을 보던 사람을 계기로, <strong>주변 소음을 되돌려 들려주는 웹앱</strong>이 제작됨</li>\n<li>앱은 <strong>마이크로 입력된 소리를 약 2초 지연 후 재생</strong>하여 상대방이 스스로 소리를 줄이게 만드는 방식</li>\n<li>개발자는 <strong>Claude AI</strong>를 이용해 한 번의 프...</p>",
+          "contentSnippet": "공항에서 큰 소리로 영상을 보던 사람을 계기로, 주변 소음을 되돌려 들려주는 웹앱이 제작됨\n앱은 마이크로 입력된 소리를 약 2초 지연 후 재생하여 상대방이 스스로 소리를 줄이게 만드는 방식\n개발자는 Claude AI를 이용해 한 번의 프...",
+          "id": "https://news.hada.io/topic?id=25892",
+          "isoDate": "2026-01-17T00:37:48.000Z"
+        },
+        {
+          "title": "Carquet - Parquet 파일을 읽고 쓰기 위한 고성능 순수 C 라이브러리",
+          "link": "https://news.hada.io/topic?id=25891",
+          "pubDate": "2026-01-17T00:31:02.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>Apache Parquet 포맷을 <strong>C 환경에서 직접 지원</strong>하기 위해 개발된 <strong>프로덕션 수준의 순수 C 구현체</strong> 라이브러리</li>\n<li>\n<strong>C11 표준 기반</strong>으로 작성되어, <strong>C++ 런타임이나 예외 처리 없이</strong> 동작하며 <strong>zstd와 zlib만 외부 의존성</strong>으...</p>",
+          "contentSnippet": "Apache Parquet 포맷을 C 환경에서 직접 지원하기 위해 개발된 프로덕션 수준의 순수 C 구현체 라이브러리\nC11 표준 기반으로 작성되어, C++ 런타임이나 예외 처리 없이 동작하며 zstd와 zlib만 외부 의존성으...",
+          "id": "https://news.hada.io/topic?id=25891",
+          "isoDate": "2026-01-17T00:31:02.000Z"
+        },
+        {
+          "title": "Handy – 무료 오픈소스 음성 인식 앱",
+          "link": "https://news.hada.io/topic?id=25890",
+          "pubDate": "2026-01-16T23:37:16.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Handy</strong>는 <strong>완전 오프라인</strong>으로 작동하는 <strong>무료 오픈소스 음성-텍스트 변환 데스크톱 앱</strong>으로, 개인 정보 보호 중심의 설계를 갖춤</li>\n<li>\n<strong>Tauri(Rust + React/TypeScript)</strong> 기반으로 제작되어, 단축키를 눌러 말하면 음성이 바로 텍스트 필...</p>",
+          "contentSnippet": "Handy는 완전 오프라인으로 작동하는 무료 오픈소스 음성-텍스트 변환 데스크톱 앱으로, 개인 정보 보호 중심의 설계를 갖춤\nTauri(Rust + React/TypeScript) 기반으로 제작되어, 단축키를 눌러 말하면 음성이 바로 텍스트 필...",
+          "id": "https://news.hada.io/topic?id=25890",
+          "isoDate": "2026-01-16T23:37:16.000Z"
+        },
+        {
+          "title": "농업을 시작했다",
+          "link": "https://news.hada.io/topic?id=25889",
+          "pubDate": "2026-01-16T23:34:16.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>오픈소스 개발자로 알려진 <strong>Dylan Araps</strong>가 인터넷 활동을 중단하고 <strong>농부로 전향한 이유와 과정</strong>을 공개</li>\n<li>장시간 컴퓨터 앞에서 일하며 <strong>신체적·정신적 소진</strong>을 겪고, 결국 번아웃과 존재적 위기를 맞음</li>\n<li>회복 과정에서 <strong>독서와 성경 읽...</p>",
+          "contentSnippet": "오픈소스 개발자로 알려진 Dylan Araps가 인터넷 활동을 중단하고 농부로 전향한 이유와 과정을 공개\n장시간 컴퓨터 앞에서 일하며 신체적·정신적 소진을 겪고, 결국 번아웃과 존재적 위기를 맞음\n회복 과정에서 독서와 성경 읽...",
+          "id": "https://news.hada.io/topic?id=25889",
+          "isoDate": "2026-01-16T23:34:16.000Z"
         }
       ]
     }
