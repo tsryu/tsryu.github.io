@@ -7,104 +7,104 @@
       "priority": 1,
       "data": [
         {
-          "title": "Show GN: Spine - 한국에서 만든, 마법 없는 백엔드 웹 프레임워크",
-          "link": "https://news.hada.io/topic?id=25923",
-          "pubDate": "2026-01-18T14:03:16.000Z",
-          "author": "narubrown",
-          "content": "<ul>\n<li>Spine은 실행 흐름을 숨기지 않고 명시적으로 드러내는 Go 기반 백엔드 웹 프레임워크</li>\n<li>단일 Pipeline이 전체 실행 순서를 소유하며, Controller는 비즈니스 로직에만 집중</li>\n<li>메서드 시그니처가 곧 API 계약이며, 어노테이션이나 컨벤션 기반 자동화 없음</li>\n<li>요청 순서가 코드에서 명확히...</p>",
-          "contentSnippet": "Spine은 실행 흐름을 숨기지 않고 명시적으로 드러내는 Go 기반 백엔드 웹 프레임워크\n단일 Pipeline이 전체 실행 순서를 소유하며, Controller는 비즈니스 로직에만 집중\n메서드 시그니처가 곧 API 계약이며, 어노테이션이나 컨벤션 기반 자동화 없음\n요청 순서가 코드에서 명확히...",
-          "id": "https://news.hada.io/topic?id=25923",
-          "isoDate": "2026-01-18T14:03:16.000Z"
-        },
-        {
-          "title": "자금 조달이 나를 망가뜨렸다",
-          "link": "https://news.hada.io/topic?id=25922",
-          "pubDate": "2026-01-18T12:32:37.000Z",
+          "title": "LWN이 지금까지 겪은 가장 심각한 스크레이퍼 공격을 받고 있음",
+          "link": "https://news.hada.io/topic?id=25935",
+          "pubDate": "2026-01-18T19:37:00.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>스타트업 공동창업자는 <strong>직장을 그만두고 직접 회사를 세우며 초기 자금 조달 과정에서 겪은 심리적 변화</strong>를 서술</li>\n<li>공동창업자 중 한 명의 <strong>생활비 문제로 인해 계획보다 일찍 투자 유치</strong>를 결정, 엔젤 투자자와 초기 VC로부터 자금을 확보</li>\n<li>이후 <strong>제품 ...</p>",
-          "contentSnippet": "스타트업 공동창업자는 직장을 그만두고 직접 회사를 세우며 초기 자금 조달 과정에서 겪은 심리적 변화를 서술\n공동창업자 중 한 명의 생활비 문제로 인해 계획보다 일찍 투자 유치를 결정, 엔젤 투자자와 초기 VC로부터 자금을 확보\n이후 제품 ...",
-          "id": "https://news.hada.io/topic?id=25922",
-          "isoDate": "2026-01-18T12:32:37.000Z"
+          "content": "<ul>\n<li>\n<strong>LWN.net</strong>이 수만 개의 주소에서 발생한 <strong>대규모 스크레이핑 기반 DDoS 공격</strong>을 받고 있으며, 사이트 응답 속도가 저하되고 있음</li>\n<li>Jonathan Corbet은 <strong>AI 관련 스크레이퍼</strong>로부터 사이트를 방어해야 하는 상황을 언급하며, 독자 접근에 장벽을 두고 싶지...</p>",
+          "contentSnippet": "LWN.net이 수만 개의 주소에서 발생한 대규모 스크레이핑 기반 DDoS 공격을 받고 있으며, 사이트 응답 속도가 저하되고 있음\nJonathan Corbet은 AI 관련 스크레이퍼로부터 사이트를 방어해야 하는 상황을 언급하며, 독자 접근에 장벽을 두고 싶지...",
+          "id": "https://news.hada.io/topic?id=25935",
+          "isoDate": "2026-01-18T19:37:00.000Z"
         },
         {
-          "title": "Show GN: 나의 영상 시청 기록을 간단하게 남기는 서비스",
-          "link": "https://news.hada.io/topic?id=25921",
-          "pubDate": "2026-01-18T09:37:38.000Z",
-          "author": "ah2dius",
-          "content": "<p>시청 하는 플랫폼이 많아지면서 책보다는 영상 시청에 몰입이 많아지고 있답니다.</p>\n<p>마냥 흘러보내지말고 어디에 기록해보자 로 시작한 서비스입니다.<br />\n기록 하다보면 나의 타임라인이 생기고 나의 감상평을 다시 읽어볼수있게요.</p>\n<p>저의 필요에 의해 만들기 시작한 거라 로그인이 없었는데 다른 사람",
-          "contentSnippet": "시청 하는 플랫폼이 많아지면서 책보다는 영상 시청에 몰입이 많아지고 있답니다.\n마냥 흘러보내지말고 어디에 기록해보자 로 시작한 서비스입니다.\n저의 필요에 의해 만들기 시작한 거라 로그인이 없었는데 다른 사람",
-          "id": "https://news.hada.io/topic?id=25921",
-          "isoDate": "2026-01-18T09:37:38.000Z"
-        },
-        {
-          "title": "Show GN: What is My Korean Name? 서비스를 만들었습니다",
-          "link": "https://news.hada.io/topic?id=25920",
-          "pubDate": "2026-01-18T09:12:22.000Z",
-          "author": "up0617",
-          "content": "<ol>\n<li></li>\n</ol>\n<p>바이브코딩이 화제가 된지도 한참, 이제는 바이브코딩을 넘어서 oh-my-opencode 같은 에이전트 기반 개발이 미래 SW 엔지니어링 환경의 중심이 되리라는 시각이 널리 퍼지고 있습니다.</p>\n<p>회사에서도 cursor 같은 서비스를 제공해주지만, 아무래도 프로덕션 레벨의 서비스를 AI에 맡기기에는",
-          "contentSnippet": "바이브코딩이 화제가 된지도 한참, 이제는 바이브코딩을 넘어서 oh-my-opencode 같은 에이전트 기반 개발이 미래 SW 엔지니어링 환경의 중심이 되리라는 시각이 널리 퍼지고 있습니다.\n회사에서도 cursor 같은 서비스를 제공해주지만, 아무래도 프로덕션 레벨의 서비스를 AI에 맡기기에는",
-          "id": "https://news.hada.io/topic?id=25920",
-          "isoDate": "2026-01-18T09:12:22.000Z"
-        },
-        {
-          "title": "애플 아이콘을 거꾸로 배열하면 디자인 실력이 점점 향상되는 사람의 포트폴리오처럼 보인다",
-          "link": "https://news.hada.io/topic?id=25918",
-          "pubDate": "2026-01-18T04:33:19.000Z",
+          "title": "뉴스처럼 보이지 않아도 뉴스가 될 수 있음을 25년간 증명한 위키백과",
+          "link": "https://news.hada.io/topic?id=25934",
+          "pubDate": "2026-01-18T19:34:00.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>애플의 앱 아이콘 변천을 <strong>역순으로 배열</strong>했을 때, 마치 디자이너가 점점 실력을 쌓아가는 과정처럼 보인다는 게시물이 화제가 됨</li>\n<li>여러 사용자가 <strong>스큐어모피즘(skeuomorphism)</strong> 시절의 아이콘을 높이 평가하며, 최근의 단순화된 디자인을 비판</li>\n<li>일부는 아이콘...</p>",
-          "contentSnippet": "애플의 앱 아이콘 변천을 역순으로 배열했을 때, 마치 디자이너가 점점 실력을 쌓아가는 과정처럼 보인다는 게시물이 화제가 됨\n여러 사용자가 스큐어모피즘(skeuomorphism) 시절의 아이콘을 높이 평가하며, 최근의 단순화된 디자인을 비판\n일부는 아이콘...",
-          "id": "https://news.hada.io/topic?id=25918",
-          "isoDate": "2026-01-18T04:33:19.000Z"
+          "content": "<ul>\n<li>\n<strong>위키백과의 25주년</strong>을 맞아, 이 플랫폼이 전통적 뉴스 형식과 다른 방식으로 세계의 사건을 기록하고 있다는 점이 강조됨</li>\n<li>매주 가장 많이 수정된 문서를 보여주는 <strong>Weeklypedia</strong>를 통해, 자원봉사자들이 시사 사건을 백과사전식으로 정리하는 과정을 확인할 수 있음...</p>",
+          "contentSnippet": "위키백과의 25주년을 맞아, 이 플랫폼이 전통적 뉴스 형식과 다른 방식으로 세계의 사건을 기록하고 있다는 점이 강조됨\n매주 가장 많이 수정된 문서를 보여주는 Weeklypedia를 통해, 자원봉사자들이 시사 사건을 백과사전식으로 정리하는 과정을 확인할 수 있음...",
+          "id": "https://news.hada.io/topic?id=25934",
+          "isoDate": "2026-01-18T19:34:00.000Z"
         },
         {
-          "title": "AI 에이전트를 위한 효과적인 스펙 작성 방법 - Addy Osmani",
-          "link": "https://news.hada.io/topic?id=25917",
-          "pubDate": "2026-01-18T03:10:50.000Z",
-          "author": "davespark",
-          "content": "<ul>\n<li>AI 에이전트 생산성 가장 큰 차이를 만드는 것 → <strong>명확하고 구조화된 SPEC</strong>\n</li>\n<li>나쁜 SPEC = 모호함 → AI 드리프트, 반복 실패, 컨텍스트 초과</li>\n<li>좋은 SPEC = 살아있는 문서 (SPEC.md) + 지속 업데이트</li>\n</ul>\n<p><strong>좋은 SPEC의 핵심 구성 요소</strong></p>\n<ul>\n<li",
-          "contentSnippet": "AI 에이전트 생산성 가장 큰 차이를 만드는 것 → 명확하고 구조화된 SPEC\n\n나쁜 SPEC = 모호함 → AI 드리프트, 반복 실패, 컨텍스트 초과\n좋은 SPEC = 살아있는 문서 (SPEC.md) + 지속 업데이트\n좋은 SPEC의 핵심 구성 요소\n\n<li",
-          "id": "https://news.hada.io/topic?id=25917",
-          "isoDate": "2026-01-18T03:10:50.000Z"
-        },
-        {
-          "title": "개발자를 대체하려는 반복되는 꿈",
-          "link": "https://news.hada.io/topic?id=25916",
-          "pubDate": "2026-01-18T02:32:49.000Z",
+          "title": "ClickHouse, Langfuse 인수",
+          "link": "https://news.hada.io/topic?id=25932",
+          "pubDate": "2026-01-18T18:42:38.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>지난 50여 년간 <strong>소프트웨어 개발을 단순화해 개발자 의존을 줄이려는 시도</strong>가 반복되어 왔음</li>\n<li>1960년대 <strong>COBOL</strong>에서 시작해 <strong>CASE 도구</strong>, <strong>Visual Basic</strong>, <strong>로우코드·노코드</strong>, 그리고 최근의 <strong>AI 코드 도우미</st...</p>",
-          "contentSnippet": "지난 50여 년간 소프트웨어 개발을 단순화해 개발자 의존을 줄이려는 시도가 반복되어 왔음\n1960년대 COBOL에서 시작해 CASE 도구, Visual Basic, 로우코드·노코드, 그리고 최근의 AI 코드 도우미",
-          "id": "https://news.hada.io/topic?id=25916",
-          "isoDate": "2026-01-18T02:32:49.000Z"
+          "content": "<ul>\n<li>\n<strong>ClickHouse가 Langfuse를 인수</strong>, 양사는 오픈소스 기반 AI 엔지니어링 플랫폼 개발을 지속</li>\n<li>\n<strong>Langfuse는 오픈소스와 셀프호스팅 모델을 유지</strong>, 라이선스나 클라우드 서비스 운영 방식에 즉각적 변화 없음</li>\n<li>ClickHouse의 <strong>기술·리소스 지원으로 성능, ...</p>",
+          "contentSnippet": "ClickHouse가 Langfuse를 인수, 양사는 오픈소스 기반 AI 엔지니어링 플랫폼 개발을 지속\nLangfuse는 오픈소스와 셀프호스팅 모델을 유지, 라이선스나 클라우드 서비스 운영 방식에 즉각적 변화 없음\nClickHouse의 기술·리소스 지원으로 성능, ...",
+          "id": "https://news.hada.io/topic?id=25932",
+          "isoDate": "2026-01-18T18:42:38.000Z"
         },
         {
-          "title": "미국 전력 수요가 2025년에 급증 – 태양광이 그중 61%를 담당",
-          "link": "https://news.hada.io/topic?id=25915",
-          "pubDate": "2026-01-18T00:36:41.000Z",
+          "title": "라이트 모드의 ‘InFFFFFFlation’ 현상",
+          "link": "https://news.hada.io/topic?id=25931",
+          "pubDate": "2026-01-18T18:39:38.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>2025년 미국의 <strong>전력 수요가 135테라와트시(TWh)</strong> 증가하며 3.1% 상승, 지난 10년 중 네 번째로 큰 연간 증가폭을 기록</li>\n<li>같은 해 <strong>태양광 발전량이 83TWh 늘어나며 2024년 대비 27% 증가</strong>, 전체 전력 수요 증가분의 61%를 충당</li>\n<li>\n<strong>텍사스·중서부·중대서�...</p>",
-          "contentSnippet": "2025년 미국의 전력 수요가 135테라와트시(TWh) 증가하며 3.1% 상승, 지난 10년 중 네 번째로 큰 연간 증가폭을 기록\n같은 해 태양광 발전량이 83TWh 늘어나며 2024년 대비 27% 증가, 전체 전력 수요 증가분의 61%를 충당\n텍사스·중서부·중대서�...",
-          "id": "https://news.hada.io/topic?id=25915",
-          "isoDate": "2026-01-18T00:36:41.000Z"
+          "content": "<ul>\n<li>\n<strong>MacOS의 기본 UI 밝기</strong>가 지난 16년간 꾸준히 증가해, 최신 버전에서는 거의 <strong>100% 흰색 수준</strong>에 도달</li>\n<li>작성자는 <strong>MacOS 스크린샷 라이브러리</strong>에서 각 버전의 창 이미지를 수집해 <strong>Pillow로 평균 명도</strong>를 계산하고 이를 그래프로 시각화...</p>",
+          "contentSnippet": "MacOS의 기본 UI 밝기가 지난 16년간 꾸준히 증가해, 최신 버전에서는 거의 100% 흰색 수준에 도달\n작성자는 MacOS 스크린샷 라이브러리에서 각 버전의 창 이미지를 수집해 Pillow로 평균 명도를 계산하고 이를 그래프로 시각화...",
+          "id": "https://news.hada.io/topic?id=25931",
+          "isoDate": "2026-01-18T18:39:38.000Z"
         },
         {
-          "title": "ASCII 문자는 픽셀이 아니다: ASCII 렌더링의 심층 탐구",
-          "link": "https://news.hada.io/topic?id=25914",
-          "pubDate": "2026-01-18T00:33:41.000Z",
+          "title": "그린란드 통제 반대 이유로 8개 유럽국 수입품에 10% 관세 부과 발표",
+          "link": "https://news.hada.io/topic?id=25930",
+          "pubDate": "2026-01-18T18:36:38.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>이미지의 <strong>윤곽과 형태를 보존하는 ASCII 렌더링 기법</strong>을 개발해, 기존 방식의 흐릿한 가장자리 문제를 해결</li>\n<li>픽셀 단위의 단순 명암 매핑 대신, 각 <strong>문자의 시각적 형태(shape)</strong> 를 수치화해 매칭하는 <strong>고차원 벡터 기반 접근법</strong>을 사용</li>\n<li>문자별...</p>",
-          "contentSnippet": "이미지의 윤곽과 형태를 보존하는 ASCII 렌더링 기법을 개발해, 기존 방식의 흐릿한 가장자리 문제를 해결\n픽셀 단위의 단순 명암 매핑 대신, 각 문자의 시각적 형태(shape) 를 수치화해 매칭하는 고차원 벡터 기반 접근법을 사용\n문자별...",
-          "id": "https://news.hada.io/topic?id=25914",
-          "isoDate": "2026-01-18T00:33:41.000Z"
+          "content": "<ul>\n<li>미국이 <strong>그린란드 통제권</strong>을 확보하려는 과정에서, 이에 반대한 <strong>8개 유럽국</strong>에 대해 10% <strong>수입 관세</strong>를 부과할 계획이 발표됨</li>\n<li>대상 국가는 <strong>덴마크, 노르웨이, 스웨덴, 프랑스, 독일, 영국, 네덜란드, 핀란드</strong>이며, 6월 1일까지 합의가...</p>",
+          "contentSnippet": "미국이 그린란드 통제권을 확보하려는 과정에서, 이에 반대한 8개 유럽국에 대해 10% 수입 관세를 부과할 계획이 발표됨\n대상 국가는 덴마크, 노르웨이, 스웨덴, 프랑스, 독일, 영국, 네덜란드, 핀란드이며, 6월 1일까지 합의가...",
+          "id": "https://news.hada.io/topic?id=25930",
+          "isoDate": "2026-01-18T18:36:38.000Z"
         },
         {
-          "title": "GraphQLite - Cypher 쿼리 언어와 내장 그래프 알고리듬을 지원하는 SQLite 확장",
-          "link": "https://news.hada.io/topic?id=25913",
-          "pubDate": "2026-01-18T00:31:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>SQLite</strong>에 <strong>그래프 DB 기능을 추가</strong>하기 위해 개발된 확장 모듈로, <strong>Cypher 쿼리 언어</strong> 지원</li>\n<li>단일 파일 기반의 경량형 DB인 SQLite 환경에서 <strong>관계형 + 그래프형 데이터 모델링</strong>을 동시에 수행 가능</li>\n<li>\n<strong>MATCH, CREATE,...</p>",
-          "contentSnippet": "SQLite에 그래프 DB 기능을 추가하기 위해 개발된 확장 모듈로, Cypher 쿼리 언어 지원\n단일 파일 기반의 경량형 DB인 SQLite 환경에서 관계형 + 그래프형 데이터 모델링을 동시에 수행 가능\nMATCH, CREATE,...",
-          "id": "https://news.hada.io/topic?id=25913",
-          "isoDate": "2026-01-18T00:31:02.000Z"
+          "title": "터키어 문법 격(case)에 기반한 프로그래밍 언어 Kip",
+          "link": "https://news.hada.io/topic?id=25929",
+          "pubDate": "2026-01-18T17:32:37.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Kip</strong>은 터키어의 <strong>문법 격과 서법(mood)</strong> 을 타입 시스템에 통합한 <strong>실험적 프로그래밍 언어</strong>로, 자연어 형태론과 타입 이론의 결합을 탐구함</li>\n<li>터키어의 <strong>명사 격 변화와 모음 조화</strong>를 코드 구조에 반영해, 함수 인자 관계를 격 접미사...</p>",
+          "contentSnippet": "Kip은 터키어의 문법 격과 서법(mood) 을 타입 시스템에 통합한 실험적 프로그래밍 언어로, 자연어 형태론과 타입 이론의 결합을 탐구함\n터키어의 명사 격 변화와 모음 조화를 코드 구조에 반영해, 함수 인자 관계를 격 접미사...",
+          "id": "https://news.hada.io/topic?id=25929",
+          "isoDate": "2026-01-18T17:32:37.000Z"
+        },
+        {
+          "title": "FLUX.2 [klein]: 상호작용형 시각 지능을 향하여",
+          "link": "https://news.hada.io/topic?id=25928",
+          "pubDate": "2026-01-18T16:32:43.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>FLUX.2 [klein]</strong> 은 이미지 생성과 편집을 통합한 <strong>초고속 시각 생성 모델군</strong>으로, 1초 미만의 추론 속도와 소비자용 GPU 호환성을 제공</li>\n<li>텍스트-이미지, 이미지 편집, 다중 참조 생성 기능을 <strong>단일 아키텍처</strong>에서 지원하며, 품질은 대형 모델 수준 유...</p>",
+          "contentSnippet": "FLUX.2 [klein] 은 이미지 생성과 편집을 통합한 초고속 시각 생성 모델군으로, 1초 미만의 추론 속도와 소비자용 GPU 호환성을 제공\n텍스트-이미지, 이미지 편집, 다중 참조 생성 기능을 단일 아키텍처에서 지원하며, 품질은 대형 모델 수준 유...",
+          "id": "https://news.hada.io/topic?id=25928",
+          "isoDate": "2026-01-18T16:32:43.000Z"
+        },
+        {
+          "title": "마이크로소프트 패치 이후 PC가 종료를 거부함",
+          "link": "https://news.hada.io/topic?id=25927",
+          "pubDate": "2026-01-18T15:41:47.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>1월 <strong>Patch Tuesday 업데이트</strong> 이후 일부 <strong>Windows 11 23H2 PC</strong>가 종료나 최대 절전 모드로 전환되지 않는 문제 발생</li>\n<li>원인은 <strong>Secure Launch 기능</strong>과 관련된 버그로, 가상화 기반 보안을 사용하는 시스템에서 종료·재시작·최대 절전이 완료되지 않음</l...</p>",
+          "contentSnippet": "1월 Patch Tuesday 업데이트 이후 일부 Windows 11 23H2 PC가 종료나 최대 절전 모드로 전환되지 않는 문제 발생\n원인은 Secure Launch 기능과 관련된 버그로, 가상화 기반 보안을 사용하는 시스템에서 종료·재시작·최대 절전이 완료되지 않음",
+          "id": "https://news.hada.io/topic?id=25927",
+          "isoDate": "2026-01-18T15:41:47.000Z"
+        },
+        {
+          "title": "도시 지도를 예술 포스터로 변환하는 MapToPoster",
+          "link": "https://news.hada.io/topic?id=25926",
+          "pubDate": "2026-01-18T15:38:47.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>전 세계 <strong>도시 지도를 미니멀한 예술 포스터</strong>로 생성할 수 있는 Python 기반 오픈소스 도구</li>\n<li>\n<strong>OpenStreetMap(OSMnx)</strong> 데이터를 활용해 도로, 수로, 공원 등의 지형 요소를 시각화하고, <strong>matplotlib</strong>으로 렌더링</li>\n<li>17가지 <strong>테마 스타일</s...</p>",
+          "contentSnippet": "전 세계 도시 지도를 미니멀한 예술 포스터로 생성할 수 있는 Python 기반 오픈소스 도구\nOpenStreetMap(OSMnx) 데이터를 활용해 도로, 수로, 공원 등의 지형 요소를 시각화하고, matplotlib으로 렌더링\n17가지 테마 스타일",
+          "id": "https://news.hada.io/topic?id=25926",
+          "isoDate": "2026-01-18T15:38:47.000Z"
+        },
+        {
+          "title": "ChatGPT 광고 도입 및 접근성 확대 방침",
+          "link": "https://news.hada.io/topic?id=25925",
+          "pubDate": "2026-01-18T15:35:47.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>OpenAI는 <strong>ChatGPT Free 및 Go 요금제에 광고를 도입</strong>해 더 많은 사용자가 비용 부담 없이 AI 기능을 이용할 수 있도록 계획 중임</li>\n<li>\n<strong>ChatGPT Go</strong>는 월 8달러로 메시지, 이미지 생성, 파일 업로드, 메모리 기능을 제공하며, <strong>171개국에서 출시</strong>됨</li>\n...</p>",
+          "contentSnippet": "OpenAI는 ChatGPT Free 및 Go 요금제에 광고를 도입해 더 많은 사용자가 비용 부담 없이 AI 기능을 이용할 수 있도록 계획 중임\nChatGPT Go는 월 8달러로 메시지, 이미지 생성, 파일 업로드, 메모리 기능을 제공하며, 171개국에서 출시됨\n...",
+          "id": "https://news.hada.io/topic?id=25925",
+          "isoDate": "2026-01-18T15:35:47.000Z"
         }
       ]
     }
