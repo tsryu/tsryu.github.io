@@ -7,6 +7,86 @@
       "priority": 1,
       "data": [
         {
+          "title": "AI 에이전트를 위한 효과적인 스펙 작성 방법 - Addy Osmani",
+          "link": "https://news.hada.io/topic?id=25917",
+          "pubDate": "2026-01-18T03:10:50.000Z",
+          "author": "davespark",
+          "content": "<ul>\n<li>AI 에이전트 생산성 가장 큰 차이를 만드는 것 → <strong>명확하고 구조화된 SPEC</strong>\n</li>\n<li>나쁜 SPEC = 모호함 → AI 드리프트, 반복 실패, 컨텍스트 초과</li>\n<li>좋은 SPEC = 살아있는 문서 (SPEC.md) + 지속 업데이트</li>\n</ul>\n<p><strong>좋은 SPEC의 핵심 구성 요소</strong></p>\n<ul>\n<li",
+          "contentSnippet": "AI 에이전트 생산성 가장 큰 차이를 만드는 것 → 명확하고 구조화된 SPEC\n\n나쁜 SPEC = 모호함 → AI 드리프트, 반복 실패, 컨텍스트 초과\n좋은 SPEC = 살아있는 문서 (SPEC.md) + 지속 업데이트\n좋은 SPEC의 핵심 구성 요소\n\n<li",
+          "id": "https://news.hada.io/topic?id=25917",
+          "isoDate": "2026-01-18T03:10:50.000Z"
+        },
+        {
+          "title": "개발자를 대체하려는 반복되는 꿈",
+          "link": "https://news.hada.io/topic?id=25916",
+          "pubDate": "2026-01-18T02:32:49.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>지난 50여 년간 <strong>소프트웨어 개발을 단순화해 개발자 의존을 줄이려는 시도</strong>가 반복되어 왔음</li>\n<li>1960년대 <strong>COBOL</strong>에서 시작해 <strong>CASE 도구</strong>, <strong>Visual Basic</strong>, <strong>로우코드·노코드</strong>, 그리고 최근의 <strong>AI 코드 도우미</st...</p>",
+          "contentSnippet": "지난 50여 년간 소프트웨어 개발을 단순화해 개발자 의존을 줄이려는 시도가 반복되어 왔음\n1960년대 COBOL에서 시작해 CASE 도구, Visual Basic, 로우코드·노코드, 그리고 최근의 AI 코드 도우미",
+          "id": "https://news.hada.io/topic?id=25916",
+          "isoDate": "2026-01-18T02:32:49.000Z"
+        },
+        {
+          "title": "미국 전력 수요가 2025년에 급증 – 태양광이 그중 61%를 담당",
+          "link": "https://news.hada.io/topic?id=25915",
+          "pubDate": "2026-01-18T00:36:41.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>2025년 미국의 <strong>전력 수요가 135테라와트시(TWh)</strong> 증가하며 3.1% 상승, 지난 10년 중 네 번째로 큰 연간 증가폭을 기록</li>\n<li>같은 해 <strong>태양광 발전량이 83TWh 늘어나며 2024년 대비 27% 증가</strong>, 전체 전력 수요 증가분의 61%를 충당</li>\n<li>\n<strong>텍사스·중서부·중대서�...</p>",
+          "contentSnippet": "2025년 미국의 전력 수요가 135테라와트시(TWh) 증가하며 3.1% 상승, 지난 10년 중 네 번째로 큰 연간 증가폭을 기록\n같은 해 태양광 발전량이 83TWh 늘어나며 2024년 대비 27% 증가, 전체 전력 수요 증가분의 61%를 충당\n텍사스·중서부·중대서�...",
+          "id": "https://news.hada.io/topic?id=25915",
+          "isoDate": "2026-01-18T00:36:41.000Z"
+        },
+        {
+          "title": "ASCII 문자는 픽셀이 아니다: ASCII 렌더링의 심층 탐구",
+          "link": "https://news.hada.io/topic?id=25914",
+          "pubDate": "2026-01-18T00:33:41.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>이미지의 <strong>윤곽과 형태를 보존하는 ASCII 렌더링 기법</strong>을 개발해, 기존 방식의 흐릿한 가장자리 문제를 해결</li>\n<li>픽셀 단위의 단순 명암 매핑 대신, 각 <strong>문자의 시각적 형태(shape)</strong> 를 수치화해 매칭하는 <strong>고차원 벡터 기반 접근법</strong>을 사용</li>\n<li>문자별...</p>",
+          "contentSnippet": "이미지의 윤곽과 형태를 보존하는 ASCII 렌더링 기법을 개발해, 기존 방식의 흐릿한 가장자리 문제를 해결\n픽셀 단위의 단순 명암 매핑 대신, 각 문자의 시각적 형태(shape) 를 수치화해 매칭하는 고차원 벡터 기반 접근법을 사용\n문자별...",
+          "id": "https://news.hada.io/topic?id=25914",
+          "isoDate": "2026-01-18T00:33:41.000Z"
+        },
+        {
+          "title": "GraphQLite - Cypher 쿼리 언어와 내장 그래프 알고리듬을 지원하는 SQLite 확장",
+          "link": "https://news.hada.io/topic?id=25913",
+          "pubDate": "2026-01-18T00:31:02.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>SQLite</strong>에 <strong>그래프 DB 기능을 추가</strong>하기 위해 개발된 확장 모듈로, <strong>Cypher 쿼리 언어</strong> 지원</li>\n<li>단일 파일 기반의 경량형 DB인 SQLite 환경에서 <strong>관계형 + 그래프형 데이터 모델링</strong>을 동시에 수행 가능</li>\n<li>\n<strong>MATCH, CREATE,...</p>",
+          "contentSnippet": "SQLite에 그래프 DB 기능을 추가하기 위해 개발된 확장 모듈로, Cypher 쿼리 언어 지원\n단일 파일 기반의 경량형 DB인 SQLite 환경에서 관계형 + 그래프형 데이터 모델링을 동시에 수행 가능\nMATCH, CREATE,...",
+          "id": "https://news.hada.io/topic?id=25913",
+          "isoDate": "2026-01-18T00:31:02.000Z"
+        },
+        {
+          "title": "Show GN: K-뷰티 수출 데이터를 한눈에 보는 대시보드",
+          "link": "https://news.hada.io/topic?id=25912",
+          "pubDate": "2026-01-18T00:07:25.000Z",
+          "author": "yongrak",
+          "content": "<blockquote>\n<p>rjeeling 님 피드백을 반영하여 Show GN 카테고리에 재업로드합니다. 조언 감사합니다!</p>\n</blockquote>\n<p>2월 졸업을 앞둔 경제학도이자, 6개월간의 MS AI교육 과정을 거쳐 K-뷰티 대시보드를 1인 개발하고 있습니다. 경제학 전공자로서 AI사이드 프로젝트로 시계열 모델(Prophet)에 구글 트렌드와 ",
+          "contentSnippet": "rjeeling 님 피드백을 반영하여 Show GN 카테고리에 재업로드합니다. 조언 감사합니다!\n2월 졸업을 앞둔 경제학도이자, 6개월간의 MS AI교육 과정을 거쳐 K-뷰티 대시보드를 1인 개발하고 있습니다. 경제학 전공자로서 AI사이드 프로젝트로 시계열 모델(Prophet)에 구글 트렌드와",
+          "id": "https://news.hada.io/topic?id=25912",
+          "isoDate": "2026-01-18T00:07:25.000Z"
+        },
+        {
+          "title": "델 UltraSharp 52 썬더볼트 허브 모니터",
+          "link": "https://news.hada.io/topic?id=25911",
+          "pubDate": "2026-01-17T21:38:09.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>6K <strong>울트라와이드 커브드 디스플레이</strong>로 멀티태스킹과 시각적 선명도를 극대화한 모델</li>\n<li>\n<strong>120Hz 주사율</strong>과 <strong>IPS Black 패널 기술</strong>을 적용해 색 정확도와 명암비를 향상</li>\n<li>\n<strong>99% DCI-P3</strong>, <strong>100% sRGB</strong>, <strong>100...</p>",
+          "contentSnippet": "6K 울트라와이드 커브드 디스플레이로 멀티태스킹과 시각적 선명도를 극대화한 모델\n120Hz 주사율과 IPS Black 패널 기술을 적용해 색 정확도와 명암비를 향상\n99% DCI-P3, 100% sRGB, 100...",
+          "id": "https://news.hada.io/topic?id=25911",
+          "isoDate": "2026-01-17T21:38:09.000Z"
+        },
+        {
+          "title": "DuckDB가 데이터 처리할 때 나의 첫 번째 선택인 이유",
+          "link": "https://news.hada.io/topic?id=25910",
+          "pubDate": "2026-01-17T21:35:09.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>DuckDB</strong>는 단일 머신에서 대규모 테이블 데이터를 빠르고 간단하게 처리할 수 있는 <strong>오픈소스 SQL 엔진</strong>으로, 최근 데이터 엔지니어링에서 널리 사용됨</li>\n<li>\n<strong>설치가 간단</strong>하고 의존성이 없으며, Python 환경에서 즉시 실행 가능해 <strong>CI·테스트 자동...</p>",
+          "contentSnippet": "DuckDB는 단일 머신에서 대규모 테이블 데이터를 빠르고 간단하게 처리할 수 있는 오픈소스 SQL 엔진으로, 최근 데이터 엔지니어링에서 널리 사용됨\n설치가 간단하고 의존성이 없으며, Python 환경에서 즉시 실행 가능해 CI·테스트 자동...",
+          "id": "https://news.hada.io/topic?id=25910",
+          "isoDate": "2026-01-17T21:35:09.000Z"
+        },
+        {
           "title": "눈을 뜨면 어디에나 있는 ‘슬롭(Slop)’",
           "link": "https://news.hada.io/topic?id=25909",
           "pubDate": "2026-01-17T20:33:09.000Z",
@@ -25,86 +105,6 @@
           "contentSnippet": "‘딜버트’의 창작자 스콧 애덤스의 생애와 사상, 그리고 몰락 과정을 분석하며, 그가 남긴 문화적 유산을 되짚은 글\n초기 ‘딜버트’는 직장 내 무능한 관리자와 소외된 엔지니어의 세계를 풍자하며, ‘똑똑하지만 인정받지 못하는 사람들’의 감정을 대변\n...",
           "id": "https://news.hada.io/topic?id=25908",
           "isoDate": "2026-01-17T18:33:15.000Z"
-        },
-        {
-          "title": "LLM 구조화 출력 핸드북",
-          "link": "https://news.hada.io/topic?id=25907",
-          "pubDate": "2026-01-17T16:36:57.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>대규모 언어 모델(LLM)</strong> 이 JSON, XML, 코드 등 구조화된 형식을 생성할 때 발생하는 불안정성을 해결하기 위한 <strong>개발자용 실무 가이드</strong>\n</li>\n<li>확률적 특성으로 인해 출력이 비결정적으로 깨질 수 있으며, 이를 보완하기 위한 <strong>결정적 구조화 기법</strong>을 다룸...</p>",
-          "contentSnippet": "대규모 언어 모델(LLM) 이 JSON, XML, 코드 등 구조화된 형식을 생성할 때 발생하는 불안정성을 해결하기 위한 개발자용 실무 가이드\n\n확률적 특성으로 인해 출력이 비결정적으로 깨질 수 있으며, 이를 보완하기 위한 결정적 구조화 기법을 다룸...",
-          "id": "https://news.hada.io/topic?id=25907",
-          "isoDate": "2026-01-17T16:36:57.000Z"
-        },
-        {
-          "title": "UPS 화물기 추락과 연관된 부품 결함을 보잉이 알고 있었다고 NTSB 보고서가 밝힘",
-          "link": "https://news.hada.io/topic?id=25906",
-          "pubDate": "2026-01-17T16:33:57.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>켄터키에서 추락한 <strong>UPS MD-11F 화물기</strong>의 엔진 장착 구조물에서 발견된 균열이, <strong>보잉이 15년 전 유사 기종에서 이미 인지했던 결함</strong>으로 드러남</li>\n<li>\n<strong>NTSB(미국 교통안전위원회)</strong> 는 엔진 장착부의 피로 균열이 사고 원인과 관련됐다고 밝혔으며, 보잉이...</p>",
-          "contentSnippet": "켄터키에서 추락한 UPS MD-11F 화물기의 엔진 장착 구조물에서 발견된 균열이, 보잉이 15년 전 유사 기종에서 이미 인지했던 결함으로 드러남\nNTSB(미국 교통안전위원회) 는 엔진 장착부의 피로 균열이 사고 원인과 관련됐다고 밝혔으며, 보잉이...",
-          "id": "https://news.hada.io/topic?id=25906",
-          "isoDate": "2026-01-17T16:33:57.000Z"
-        },
-        {
-          "title": "미켈란젤로가 12~13세에 그린 첫 회화 작품",
-          "link": "https://news.hada.io/topic?id=25905",
-          "pubDate": "2026-01-17T14:32:52.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>르네상스 거장 <strong>미켈란젤로</strong>가 12~13세 무렵에 그린 것으로 알려진 <strong>〈성 안토니우스의 고난(The Torment of Saint Anthony)〉</strong> 은 초기부터 뛰어난 기법과 창의성을 보여주는 작품임</li>\n<li>이 그림은 원래 널리 알려진 판화를 바탕으로 했지만, <strong>적외선 촬영에서 드러...</p>",
-          "contentSnippet": "르네상스 거장 미켈란젤로가 12~13세 무렵에 그린 것으로 알려진 〈성 안토니우스의 고난(The Torment of Saint Anthony)〉 은 초기부터 뛰어난 기법과 창의성을 보여주는 작품임\n이 그림은 원래 널리 알려진 판화를 바탕으로 했지만, 적외선 촬영에서 드러...",
-          "id": "https://news.hada.io/topic?id=25905",
-          "isoDate": "2026-01-17T14:32:52.000Z"
-        },
-        {
-          "title": "개별 나무 목록",
-          "link": "https://news.hada.io/topic?id=25903",
-          "pubDate": "2026-01-17T11:33:06.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>전 세계에서 <strong>역사적·문화적·자연적 가치</strong>를 지닌 개별 나무들을 지역별로 정리한 목록</li>\n<li>아프리카, 아시아, 유럽, 아메리카, 오세아니아 등으로 구분되며, <strong>살아 있는 나무·역사적 나무·화석화된 나무</strong>로 세분</li>\n<li>각 항목은 <strong>종, 위치, 추정 수령, 특징</s...</p>",
-          "contentSnippet": "전 세계에서 역사적·문화적·자연적 가치를 지닌 개별 나무들을 지역별로 정리한 목록\n아프리카, 아시아, 유럽, 아메리카, 오세아니아 등으로 구분되며, 살아 있는 나무·역사적 나무·화석화된 나무로 세분\n각 항목은 종, 위치, 추정 수령, 특징",
-          "id": "https://news.hada.io/topic?id=25903",
-          "isoDate": "2026-01-17T11:33:06.000Z"
-        },
-        {
-          "title": "Show GN: syntux - 웹을 위한 생성형 UI 프레임워크",
-          "link": "https://news.hada.io/topic?id=25901",
-          "pubDate": "2026-01-17T07:02:14.000Z",
-          "author": "colonelparrot",
-          "content": "Show GN: syntux - 웹을 위한 생성형 UI 프레임워크",
-          "contentSnippet": "Show GN: syntux - 웹을 위한 생성형 UI 프레임워크",
-          "id": "https://news.hada.io/topic?id=25901",
-          "isoDate": "2026-01-17T07:02:14.000Z"
-        },
-        {
-          "title": "6일짜리 및 IP 주소 인증서 일반 제공 개시",
-          "link": "https://news.hada.io/topic?id=25900",
-          "pubDate": "2026-01-17T06:32:54.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Let's Encrypt</strong>가 <strong>6일 유효기간의 단기 인증서</strong>와 <strong>IP 주소 기반 인증서</strong>를 정식으로 제공 시작</li>\n<li>단기 인증서는 <strong>160시간(약 6일 16시간)</strong> 동안 유효하며, ACME 클라이언트에서 ‘shortlived’ 프로필을 선택해 발급 가능</li>\n<li>이...</p>",
-          "contentSnippet": "Let's Encrypt가 6일 유효기간의 단기 인증서와 IP 주소 기반 인증서를 정식으로 제공 시작\n단기 인증서는 160시간(약 6일 16시간) 동안 유효하며, ACME 클라이언트에서 ‘shortlived’ 프로필을 선택해 발급 가능\n이...",
-          "id": "https://news.hada.io/topic?id=25900",
-          "isoDate": "2026-01-17T06:32:54.000Z"
-        },
-        {
-          "title": "동독 열기구 탈출",
-          "link": "https://news.hada.io/topic?id=25899",
-          "pubDate": "2026-01-17T04:32:35.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>1979년 9월 16일, 두 가족이 직접 만든 <strong>열기구로 동독에서 서독으로 탈출</strong>한 사건으로, 냉전기 국경 감시망을 뚫은 대표적 사례</li>\n<li>\n<strong>Peter Strelzyk</strong>과 <strong>Günter Wetzel</strong>이 1년 반 동안 세 차례 시도 끝에 성공했으며, 첫 시도는 실패해 당국의 수사 대상...</p>",
-          "contentSnippet": "1979년 9월 16일, 두 가족이 직접 만든 열기구로 동독에서 서독으로 탈출한 사건으로, 냉전기 국경 감시망을 뚫은 대표적 사례\nPeter Strelzyk과 Günter Wetzel이 1년 반 동안 세 차례 시도 끝에 성공했으며, 첫 시도는 실패해 당국의 수사 대상...",
-          "id": "https://news.hada.io/topic?id=25899",
-          "isoDate": "2026-01-17T04:32:35.000Z"
-        },
-        {
-          "title": "Open Responses - LLM간 호환을 위한 오픈 규격 ",
-          "link": "https://news.hada.io/topic?id=25898",
-          "pubDate": "2026-01-17T02:50:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>다중 LLM 제공자 간 상호운용성</strong>을 목표로 하는 오픈소스 규격과 생태계로, OpenAI Responses API를 기반으로 공통 인터페이스를 정의</li>\n<li>요청과 응답을 <strong>공유 스키마</strong>로 기술해, 최소한의 변환 작업만으로 여러 모델 제공자에서 동일한 방식으로 실행 가능</li>\n<li>메...</p>",
-          "contentSnippet": "다중 LLM 제공자 간 상호운용성을 목표로 하는 오픈소스 규격과 생태계로, OpenAI Responses API를 기반으로 공통 인터페이스를 정의\n요청과 응답을 공유 스키마로 기술해, 최소한의 변환 작업만으로 여러 모델 제공자에서 동일한 방식으로 실행 가능\n메...",
-          "id": "https://news.hada.io/topic?id=25898",
-          "isoDate": "2026-01-17T02:50:02.000Z"
         }
       ]
     }
