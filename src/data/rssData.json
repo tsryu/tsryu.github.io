@@ -7,14 +7,24 @@
       "priority": 1,
       "data": [
         {
-          "title": "Show GN: Show GN: Syntux – 웹을 위한 생성형 UI 구축",
-          "link": "https://news.hada.io/topic?id=25958",
-          "pubDate": "2026-01-19T07:14:47.000Z",
-          "author": "colonelparrot",
-          "content": "<p>베타 테스터를 모집 중입니다! 이 기술은 아직 최첨단 단계에 있습니다 :)</p>\n",
-          "contentSnippet": "베타 테스터를 모집 중입니다! 이 기술은 아직 최첨단 단계에 있습니다 :)",
-          "id": "https://news.hada.io/topic?id=25958",
-          "isoDate": "2026-01-19T07:14:47.000Z"
+          "title": "Show GN: Claude Code Achievements - Claude Code를 게임처럼 즐기는 업적 시스템",
+          "link": "https://news.hada.io/topic?id=25961",
+          "pubDate": "2026-01-19T12:47:52.000Z",
+          "author": "subinium",
+          "content": "<p>Claude Code를 처음 배울 때 어떤 기능이 있는지, 뭘 써봐야 하는지 막막할 수 있습니다.</p>\n<p>이 플러그인은 Claude Code 사용 경험을 게임화합니다.<br />\n파일 편집, 커밋, MCP 연동, 서브에이전트 활용 등 다양한 기능을 사용할 때마다<br />\n업적이 해금되고 알림이 뜹니다.</p>\n<ul>\n<li>🏆 4개 스킬 트리에 ",
+          "contentSnippet": "Claude Code를 처음 배울 때 어떤 기능이 있는지, 뭘 써봐야 하는지 막막할 수 있습니다.\n이 플러그인은 Claude Code 사용 경험을 게임화합니다.\n🏆 4개 스킬 트리에",
+          "id": "https://news.hada.io/topic?id=25961",
+          "isoDate": "2026-01-19T12:47:52.000Z"
+        },
+        {
+          "title": "죽은 인터넷 이론",
+          "link": "https://news.hada.io/topic?id=25959",
+          "pubDate": "2026-01-19T10:33:30.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>AI 생성 콘텐츠</strong>가 인터넷 상호작용의 상당 부분을 차지하게 된 현상을 다룸</li>\n<li>HackerNews에서 <strong>오픈소스 프로젝트의 AI 생성 여부</strong>를 두고 벌어진 논쟁을 계기로, 작성자는 댓글조차 AI가 쓴 것처럼 보이는 패턴을 관찰</li>\n<li>과거 IRC와 phpBB 포럼 시절에는 <str...</p>",
+          "contentSnippet": "AI 생성 콘텐츠가 인터넷 상호작용의 상당 부분을 차지하게 된 현상을 다룸\nHackerNews에서 오픈소스 프로젝트의 AI 생성 여부를 두고 벌어진 논쟁을 계기로, 작성자는 댓글조차 AI가 쓴 것처럼 보이는 패턴을 관찰\n과거 IRC와 phpBB 포럼 시절에는",
+          "id": "https://news.hada.io/topic?id=25959",
+          "isoDate": "2026-01-19T10:33:30.000Z"
         },
         {
           "title": "그림자 속 휴대전화 추적 소프트웨어에 수백만 달러를 투자한 텍사스 경찰, 사용 내역은 공개하지 않아",
@@ -95,16 +105,6 @@
           "contentSnippet": "노벨평화상 메달과 증서는 수상 사실을 상징하는 물리적 표식이며, 상의 명예와 인정은 수상자와 영구히 연결됨\n수상자는 상이 발표된 이후 타인과 상을 공유하거나 양도할 수 없으며, 노벨평화상은 취소될 수 없음\n\n...",
           "id": "https://news.hada.io/topic?id=25950",
           "isoDate": "2026-01-19T01:02:42.000Z"
-        },
-        {
-          "title": "AI 에이전트를 위한 좋은 스펙 작성법",
-          "link": "https://news.hada.io/topic?id=25949",
-          "pubDate": "2026-01-19T01:02:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>AI 코딩 에이전트에게 방대한 스펙을 한꺼번에 던지면 제대로 작동하지 않으며, 핵심은 <strong>스마트 스펙 작성</strong>에 있음</li>\n<li>고수준 비전을 먼저 제시하고 AI가 세부 계획을 확장하도록 한 뒤, <strong>Plan Mode</strong>에서 읽기 전용으로 계획을 검토하고 코드 작성 단계로 전환하는 방식 권...</p>",
-          "contentSnippet": "AI 코딩 에이전트에게 방대한 스펙을 한꺼번에 던지면 제대로 작동하지 않으며, 핵심은 스마트 스펙 작성에 있음\n고수준 비전을 먼저 제시하고 AI가 세부 계획을 확장하도록 한 뒤, Plan Mode에서 읽기 전용으로 계획을 검토하고 코드 작성 단계로 전환하는 방식 권...",
-          "id": "https://news.hada.io/topic?id=25949",
-          "isoDate": "2026-01-19T01:02:02.000Z"
         }
       ]
     }
