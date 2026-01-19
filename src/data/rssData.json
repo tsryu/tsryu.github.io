@@ -7,104 +7,104 @@
       "priority": 1,
       "data": [
         {
-          "title": "LWN이 지금까지 겪은 가장 심각한 스크레이퍼 공격을 받고 있음",
-          "link": "https://news.hada.io/topic?id=25935",
-          "pubDate": "2026-01-18T19:37:00.000Z",
+          "title": "Apple Creator Studio에 관한 소고와 관찰",
+          "link": "https://news.hada.io/topic?id=25954",
+          "pubDate": "2026-01-19T02:18:01.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>LWN.net</strong>이 수만 개의 주소에서 발생한 <strong>대규모 스크레이핑 기반 DDoS 공격</strong>을 받고 있으며, 사이트 응답 속도가 저하되고 있음</li>\n<li>Jonathan Corbet은 <strong>AI 관련 스크레이퍼</strong>로부터 사이트를 방어해야 하는 상황을 언급하며, 독자 접근에 장벽을 두고 싶지...</p>",
-          "contentSnippet": "LWN.net이 수만 개의 주소에서 발생한 대규모 스크레이핑 기반 DDoS 공격을 받고 있으며, 사이트 응답 속도가 저하되고 있음\nJonathan Corbet은 AI 관련 스크레이퍼로부터 사이트를 방어해야 하는 상황을 언급하며, 독자 접근에 장벽을 두고 싶지...",
-          "id": "https://news.hada.io/topic?id=25935",
-          "isoDate": "2026-01-18T19:37:00.000Z"
+          "content": "<ul>\n<li>Apple이 <strong>Final Cut Pro, Logic Pro, Motion, Pixelmator Pro</strong> 등 전문 창작 앱을 하나의 <strong>Creator Studio 구독 번들</strong>로 묶어 출시했으며, iWork 앱(Keynote, Pages, Numbers)의 일부 신기능도 유료화</li>\n<li>새로운 앱 아이콘들은 <strong>Liquid Glass 디자인 가이드라인</s...</p>",
+          "contentSnippet": "Apple이 Final Cut Pro, Logic Pro, Motion, Pixelmator Pro 등 전문 창작 앱을 하나의 Creator Studio 구독 번들로 묶어 출시했으며, iWork 앱(Keynote, Pages, Numbers)의 일부 신기능도 유료화\n새로운 앱 아이콘들은 Liquid Glass 디자인 가이드라인",
+          "id": "https://news.hada.io/topic?id=25954",
+          "isoDate": "2026-01-19T02:18:01.000Z"
         },
         {
-          "title": "뉴스처럼 보이지 않아도 뉴스가 될 수 있음을 25년간 증명한 위키백과",
-          "link": "https://news.hada.io/topic?id=25934",
-          "pubDate": "2026-01-18T19:34:00.000Z",
+          "title": "Ask HN: 소프트웨어 스타트업, 지금도 할 만한가요?",
+          "link": "https://news.hada.io/topic?id=25953",
+          "pubDate": "2026-01-19T01:36:02.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>위키백과의 25주년</strong>을 맞아, 이 플랫폼이 전통적 뉴스 형식과 다른 방식으로 세계의 사건을 기록하고 있다는 점이 강조됨</li>\n<li>매주 가장 많이 수정된 문서를 보여주는 <strong>Weeklypedia</strong>를 통해, 자원봉사자들이 시사 사건을 백과사전식으로 정리하는 과정을 확인할 수 있음...</p>",
-          "contentSnippet": "위키백과의 25주년을 맞아, 이 플랫폼이 전통적 뉴스 형식과 다른 방식으로 세계의 사건을 기록하고 있다는 점이 강조됨\n매주 가장 많이 수정된 문서를 보여주는 Weeklypedia를 통해, 자원봉사자들이 시사 사건을 백과사전식으로 정리하는 과정을 확인할 수 있음...",
-          "id": "https://news.hada.io/topic?id=25934",
-          "isoDate": "2026-01-18T19:34:00.000Z"
+          "content": "<ul>\n<li>소프트웨어에서 <strong>해자(moat)</strong> 가 약해졌고 <strong>대기업이 빠르게 복제할수 있기 때문</strong>에 걱정이라는 질문에 대한 답변들</li>\n<li>기능이 아니라 <strong>실행·유통·신뢰·워크플로 이해</strong>가 핵심 경쟁력이 되면서 해자가 이동했음</li>\n<li>대기업보다 더 현실적인 위협으로...</p>",
+          "contentSnippet": "소프트웨어에서 해자(moat) 가 약해졌고 대기업이 빠르게 복제할수 있기 때문에 걱정이라는 질문에 대한 답변들\n기능이 아니라 실행·유통·신뢰·워크플로 이해가 핵심 경쟁력이 되면서 해자가 이동했음\n대기업보다 더 현실적인 위협으로...",
+          "id": "https://news.hada.io/topic?id=25953",
+          "isoDate": "2026-01-19T01:36:02.000Z"
         },
         {
-          "title": "ClickHouse, Langfuse 인수",
-          "link": "https://news.hada.io/topic?id=25932",
-          "pubDate": "2026-01-18T18:42:38.000Z",
+          "title": "소셜 파일시스템",
+          "link": "https://news.hada.io/topic?id=25952",
+          "pubDate": "2026-01-19T01:33:06.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>ClickHouse가 Langfuse를 인수</strong>, 양사는 오픈소스 기반 AI 엔지니어링 플랫폼 개발을 지속</li>\n<li>\n<strong>Langfuse는 오픈소스와 셀프호스팅 모델을 유지</strong>, 라이선스나 클라우드 서비스 운영 방식에 즉각적 변화 없음</li>\n<li>ClickHouse의 <strong>기술·리소스 지원으로 성능, ...</p>",
-          "contentSnippet": "ClickHouse가 Langfuse를 인수, 양사는 오픈소스 기반 AI 엔지니어링 플랫폼 개발을 지속\nLangfuse는 오픈소스와 셀프호스팅 모델을 유지, 라이선스나 클라우드 서비스 운영 방식에 즉각적 변화 없음\nClickHouse의 기술·리소스 지원으로 성능, ...",
-          "id": "https://news.hada.io/topic?id=25932",
-          "isoDate": "2026-01-18T18:42:38.000Z"
+          "content": "<ul>\n<li>\n<strong>파일 중심 개인 컴퓨팅</strong>의 개념을 <strong>소셜 컴퓨팅</strong>으로 확장해, 사용자가 만든 모든 콘텐츠를 앱이 아닌 자신이 소유하는 구조로 설명</li>\n<li>AT 프로토콜을 기반으로, <strong>앱 간 데이터 상호운용</strong>을 가능하게 하는 <strong>분산형 소셜 파일시스템</strong> 개념...</p>",
+          "contentSnippet": "파일 중심 개인 컴퓨팅의 개념을 소셜 컴퓨팅으로 확장해, 사용자가 만든 모든 콘텐츠를 앱이 아닌 자신이 소유하는 구조로 설명\nAT 프로토콜을 기반으로, 앱 간 데이터 상호운용을 가능하게 하는 분산형 소셜 파일시스템 개념...",
+          "id": "https://news.hada.io/topic?id=25952",
+          "isoDate": "2026-01-19T01:33:06.000Z"
         },
         {
-          "title": "라이트 모드의 ‘InFFFFFFlation’ 현상",
-          "link": "https://news.hada.io/topic?id=25931",
-          "pubDate": "2026-01-18T18:39:38.000Z",
+          "title": "Claude Code로 롤러코스터 타이쿤을 플레이해봤어요",
+          "link": "https://news.hada.io/topic?id=25951",
+          "pubDate": "2026-01-19T01:19:02.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>MacOS의 기본 UI 밝기</strong>가 지난 16년간 꾸준히 증가해, 최신 버전에서는 거의 <strong>100% 흰색 수준</strong>에 도달</li>\n<li>작성자는 <strong>MacOS 스크린샷 라이브러리</strong>에서 각 버전의 창 이미지를 수집해 <strong>Pillow로 평균 명도</strong>를 계산하고 이를 그래프로 시각화...</p>",
-          "contentSnippet": "MacOS의 기본 UI 밝기가 지난 16년간 꾸준히 증가해, 최신 버전에서는 거의 100% 흰색 수준에 도달\n작성자는 MacOS 스크린샷 라이브러리에서 각 버전의 창 이미지를 수집해 Pillow로 평균 명도를 계산하고 이를 그래프로 시각화...",
-          "id": "https://news.hada.io/topic?id=25931",
-          "isoDate": "2026-01-18T18:39:38.000Z"
+          "content": "<ul>\n<li>\n<strong>클로드 코드</strong>를 오픈소스 게임 <strong>RollerCoaster Tycoon 2(OpenRCT2)</strong> 에 통합해, AI가 실제로 놀이공원을 운영하도록 실험한 프로젝트</li>\n<li>AI는 <strong>재정, 손님 불만, 놀이기구 고장 데이터</strong> 등 100여 개 지표를 분석해, 음료 매대 설치·직원 고용·입장료 조정...</p>",
+          "contentSnippet": "클로드 코드를 오픈소스 게임 RollerCoaster Tycoon 2(OpenRCT2) 에 통합해, AI가 실제로 놀이공원을 운영하도록 실험한 프로젝트\nAI는 재정, 손님 불만, 놀이기구 고장 데이터 등 100여 개 지표를 분석해, 음료 매대 설치·직원 고용·입장료 조정...",
+          "id": "https://news.hada.io/topic?id=25951",
+          "isoDate": "2026-01-19T01:19:02.000Z"
         },
         {
-          "title": "그린란드 통제 반대 이유로 8개 유럽국 수입품에 10% 관세 부과 발표",
-          "link": "https://news.hada.io/topic?id=25930",
-          "pubDate": "2026-01-18T18:36:38.000Z",
+          "title": "노벨상과 수상자는 분리될 수 없다",
+          "link": "https://news.hada.io/topic?id=25950",
+          "pubDate": "2026-01-19T01:02:42.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>미국이 <strong>그린란드 통제권</strong>을 확보하려는 과정에서, 이에 반대한 <strong>8개 유럽국</strong>에 대해 10% <strong>수입 관세</strong>를 부과할 계획이 발표됨</li>\n<li>대상 국가는 <strong>덴마크, 노르웨이, 스웨덴, 프랑스, 독일, 영국, 네덜란드, 핀란드</strong>이며, 6월 1일까지 합의가...</p>",
-          "contentSnippet": "미국이 그린란드 통제권을 확보하려는 과정에서, 이에 반대한 8개 유럽국에 대해 10% 수입 관세를 부과할 계획이 발표됨\n대상 국가는 덴마크, 노르웨이, 스웨덴, 프랑스, 독일, 영국, 네덜란드, 핀란드이며, 6월 1일까지 합의가...",
-          "id": "https://news.hada.io/topic?id=25930",
-          "isoDate": "2026-01-18T18:36:38.000Z"
+          "content": "<ul>\n<li>\n<strong>노벨평화상 메달과 증서</strong>는 수상 사실을 상징하는 물리적 표식이며, 상의 <strong>명예와 인정은 수상자와 영구히 연결</strong>됨</li>\n<li>수상자는 상이 발표된 이후 <strong>타인과 상을 공유하거나 양도할 수 없으며</strong>, 노벨평화상은 <strong>취소될 수 없음</strong>\n</li>\n<li>...</p>",
+          "contentSnippet": "노벨평화상 메달과 증서는 수상 사실을 상징하는 물리적 표식이며, 상의 명예와 인정은 수상자와 영구히 연결됨\n수상자는 상이 발표된 이후 타인과 상을 공유하거나 양도할 수 없으며, 노벨평화상은 취소될 수 없음\n\n...",
+          "id": "https://news.hada.io/topic?id=25950",
+          "isoDate": "2026-01-19T01:02:42.000Z"
         },
         {
-          "title": "터키어 문법 격(case)에 기반한 프로그래밍 언어 Kip",
-          "link": "https://news.hada.io/topic?id=25929",
-          "pubDate": "2026-01-18T17:32:37.000Z",
+          "title": "AI 에이전트를 위한 좋은 스펙 작성법",
+          "link": "https://news.hada.io/topic?id=25949",
+          "pubDate": "2026-01-19T01:02:02.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Kip</strong>은 터키어의 <strong>문법 격과 서법(mood)</strong> 을 타입 시스템에 통합한 <strong>실험적 프로그래밍 언어</strong>로, 자연어 형태론과 타입 이론의 결합을 탐구함</li>\n<li>터키어의 <strong>명사 격 변화와 모음 조화</strong>를 코드 구조에 반영해, 함수 인자 관계를 격 접미사...</p>",
-          "contentSnippet": "Kip은 터키어의 문법 격과 서법(mood) 을 타입 시스템에 통합한 실험적 프로그래밍 언어로, 자연어 형태론과 타입 이론의 결합을 탐구함\n터키어의 명사 격 변화와 모음 조화를 코드 구조에 반영해, 함수 인자 관계를 격 접미사...",
-          "id": "https://news.hada.io/topic?id=25929",
-          "isoDate": "2026-01-18T17:32:37.000Z"
+          "content": "<ul>\n<li>AI 코딩 에이전트에게 방대한 스펙을 한꺼번에 던지면 제대로 작동하지 않으며, 핵심은 <strong>스마트 스펙 작성</strong>에 있음</li>\n<li>고수준 비전을 먼저 제시하고 AI가 세부 계획을 확장하도록 한 뒤, <strong>Plan Mode</strong>에서 읽기 전용으로 계획을 검토하고 코드 작성 단계로 전환하는 방식 권...</p>",
+          "contentSnippet": "AI 코딩 에이전트에게 방대한 스펙을 한꺼번에 던지면 제대로 작동하지 않으며, 핵심은 스마트 스펙 작성에 있음\n고수준 비전을 먼저 제시하고 AI가 세부 계획을 확장하도록 한 뒤, Plan Mode에서 읽기 전용으로 계획을 검토하고 코드 작성 단계로 전환하는 방식 권...",
+          "id": "https://news.hada.io/topic?id=25949",
+          "isoDate": "2026-01-19T01:02:02.000Z"
         },
         {
-          "title": "FLUX.2 [klein]: 상호작용형 시각 지능을 향하여",
-          "link": "https://news.hada.io/topic?id=25928",
-          "pubDate": "2026-01-18T16:32:43.000Z",
+          "title": "명령줄 도구가 Hadoop 클러스터보다 235배 빠를 수 있다 (2014)",
+          "link": "https://news.hada.io/topic?id=25948",
+          "pubDate": "2026-01-19T00:59:41.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>FLUX.2 [klein]</strong> 은 이미지 생성과 편집을 통합한 <strong>초고속 시각 생성 모델군</strong>으로, 1초 미만의 추론 속도와 소비자용 GPU 호환성을 제공</li>\n<li>텍스트-이미지, 이미지 편집, 다중 참조 생성 기능을 <strong>단일 아키텍처</strong>에서 지원하며, 품질은 대형 모델 수준 유...</p>",
-          "contentSnippet": "FLUX.2 [klein] 은 이미지 생성과 편집을 통합한 초고속 시각 생성 모델군으로, 1초 미만의 추론 속도와 소비자용 GPU 호환성을 제공\n텍스트-이미지, 이미지 편집, 다중 참조 생성 기능을 단일 아키텍처에서 지원하며, 품질은 대형 모델 수준 유...",
-          "id": "https://news.hada.io/topic?id=25928",
-          "isoDate": "2026-01-18T16:32:43.000Z"
+          "content": "<ul>\n<li>약 <strong>1.75GB의 체스 경기 데이터</strong>를 Hadoop 대신 명령줄 도구로 처리한 결과, <strong>12초 만에 완료</strong>되어 Hadoop의 26분 대비 235배 이상 빠른 성능을 보임</li>\n<li>\n<strong>grep, sort, uniq, awk, xargs, mawk</strong> 등 기본 셸 명령을 조합해 <strong>스트리밍 처리 파이프라인...</p>",
+          "contentSnippet": "약 1.75GB의 체스 경기 데이터를 Hadoop 대신 명령줄 도구로 처리한 결과, 12초 만에 완료되어 Hadoop의 26분 대비 235배 이상 빠른 성능을 보임\ngrep, sort, uniq, awk, xargs, mawk 등 기본 셸 명령을 조합해 스트리밍 처리 파이프라인...",
+          "id": "https://news.hada.io/topic?id=25948",
+          "isoDate": "2026-01-19T00:59:41.000Z"
         },
         {
-          "title": "마이크로소프트 패치 이후 PC가 종료를 거부함",
-          "link": "https://news.hada.io/topic?id=25927",
-          "pubDate": "2026-01-18T15:41:47.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>1월 <strong>Patch Tuesday 업데이트</strong> 이후 일부 <strong>Windows 11 23H2 PC</strong>가 종료나 최대 절전 모드로 전환되지 않는 문제 발생</li>\n<li>원인은 <strong>Secure Launch 기능</strong>과 관련된 버그로, 가상화 기반 보안을 사용하는 시스템에서 종료·재시작·최대 절전이 완료되지 않음</l...</p>",
-          "contentSnippet": "1월 Patch Tuesday 업데이트 이후 일부 Windows 11 23H2 PC가 종료나 최대 절전 모드로 전환되지 않는 문제 발생\n원인은 Secure Launch 기능과 관련된 버그로, 가상화 기반 보안을 사용하는 시스템에서 종료·재시작·최대 절전이 완료되지 않음",
-          "id": "https://news.hada.io/topic?id=25927",
-          "isoDate": "2026-01-18T15:41:47.000Z"
+          "title": "FileStack에서 S3로: 별것 아닌 마이그레이션이 가져다 준 것들",
+          "link": "https://news.hada.io/topic?id=25947",
+          "pubDate": "2026-01-19T00:57:51.000Z",
+          "author": "mintplo",
+          "content": "<p>FileStack에 의존하던 회사 로고/프로필 이미지 업로드를 S3로 통합하면서 겪었던 문제와 해결 과정을 정리한 글입니다.</p>\n<h4>도입 배경</h4>\n<ul>\n<li>초기에 FileStack은 “핵심이 아닌 업로드 기능” 구현 시간을 크게 줄여줬고, 프로덕션에서도 오랫동안 문제 없이 사용</li>\n<li>시간이 지나 S3 인프라가 갖춰",
+          "contentSnippet": "FileStack에 의존하던 회사 로고/프로필 이미지 업로드를 S3로 통합하면서 겪었던 문제와 해결 과정을 정리한 글입니다.\n도입 배경\n초기에 FileStack은 “핵심이 아닌 업로드 기능” 구현 시간을 크게 줄여줬고, 프로덕션에서도 오랫동안 문제 없이 사용\n시간이 지나 S3 인프라가 갖춰",
+          "id": "https://news.hada.io/topic?id=25947",
+          "isoDate": "2026-01-19T00:57:51.000Z"
         },
         {
-          "title": "도시 지도를 예술 포스터로 변환하는 MapToPoster",
-          "link": "https://news.hada.io/topic?id=25926",
-          "pubDate": "2026-01-18T15:38:47.000Z",
+          "title": "Erdos 281이 ChatGPT 5.2 Pro로 해결됨",
+          "link": "https://news.hada.io/topic?id=25946",
+          "pubDate": "2026-01-19T00:56:41.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>전 세계 <strong>도시 지도를 미니멀한 예술 포스터</strong>로 생성할 수 있는 Python 기반 오픈소스 도구</li>\n<li>\n<strong>OpenStreetMap(OSMnx)</strong> 데이터를 활용해 도로, 수로, 공원 등의 지형 요소를 시각화하고, <strong>matplotlib</strong>으로 렌더링</li>\n<li>17가지 <strong>테마 스타일</s...</p>",
-          "contentSnippet": "전 세계 도시 지도를 미니멀한 예술 포스터로 생성할 수 있는 Python 기반 오픈소스 도구\nOpenStreetMap(OSMnx) 데이터를 활용해 도로, 수로, 공원 등의 지형 요소를 시각화하고, matplotlib으로 렌더링\n17가지 테마 스타일",
-          "id": "https://news.hada.io/topic?id=25926",
-          "isoDate": "2026-01-18T15:38:47.000Z"
+          "content": "<ul>\n<li>Erdős #281은 무한히 많은 합동식들을 어떻게 고르더라도, 그 어느 합동식에도 해당하지 않는 정수들이 거의 남지 않는 상황을 전제로 한 문제</li>\n<li>이러한 상황이 참이라면, 실제로는 무한한 합동식을 모두 사용하지 않아도 처음 몇 개만으로도 거의 모든 정수가 걸러진다고 말할 수 있는지에 대한 것</li...</p>",
+          "contentSnippet": "Erdős #281은 무한히 많은 합동식들을 어떻게 고르더라도, 그 어느 합동식에도 해당하지 않는 정수들이 거의 남지 않는 상황을 전제로 한 문제\n이러한 상황이 참이라면, 실제로는 무한한 합동식을 모두 사용하지 않아도 처음 몇 개만으로도 거의 모든 정수가 걸러진다고 말할 수 있는지에 대한 것",
+          "id": "https://news.hada.io/topic?id=25946",
+          "isoDate": "2026-01-19T00:56:41.000Z"
         },
         {
-          "title": "ChatGPT 광고 도입 및 접근성 확대 방침",
-          "link": "https://news.hada.io/topic?id=25925",
-          "pubDate": "2026-01-18T15:35:47.000Z",
+          "title": "A$AP Rocky, Gaussian Splatting을 활용한 ‘Helicopter’ 뮤직비디오 공개",
+          "link": "https://news.hada.io/topic?id=25945",
+          "pubDate": "2026-01-19T00:53:41.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>OpenAI는 <strong>ChatGPT Free 및 Go 요금제에 광고를 도입</strong>해 더 많은 사용자가 비용 부담 없이 AI 기능을 이용할 수 있도록 계획 중임</li>\n<li>\n<strong>ChatGPT Go</strong>는 월 8달러로 메시지, 이미지 생성, 파일 업로드, 메모리 기능을 제공하며, <strong>171개국에서 출시</strong>됨</li>\n...</p>",
-          "contentSnippet": "OpenAI는 ChatGPT Free 및 Go 요금제에 광고를 도입해 더 많은 사용자가 비용 부담 없이 AI 기능을 이용할 수 있도록 계획 중임\nChatGPT Go는 월 8달러로 메시지, 이미지 생성, 파일 업로드, 메모리 기능을 제공하며, 171개국에서 출시됨\n...",
-          "id": "https://news.hada.io/topic?id=25925",
-          "isoDate": "2026-01-18T15:35:47.000Z"
+          "content": "<ul>\n<li>A$AP Rocky의 신곡 <strong>‘Helicopter’ 뮤직비디오</strong>는 거의 모든 인물 연기를 <strong>볼류메트릭 캡처와 Gaussian Splatting</strong>으로 구현한 작품</li>\n<li>촬영은 <strong>Evercoast의 56대 RGB-D 카메라 배열</strong>을 사용해 실제 퍼포먼스를 3D로 기록하고, 후반에는 <strong>Houdini·O...</p>",
+          "contentSnippet": "A$AP Rocky의 신곡 ‘Helicopter’ 뮤직비디오는 거의 모든 인물 연기를 볼류메트릭 캡처와 Gaussian Splatting으로 구현한 작품\n촬영은 Evercoast의 56대 RGB-D 카메라 배열을 사용해 실제 퍼포먼스를 3D로 기록하고, 후반에는 Houdini·O...",
+          "id": "https://news.hada.io/topic?id=25945",
+          "isoDate": "2026-01-19T00:53:41.000Z"
         }
       ]
     }
