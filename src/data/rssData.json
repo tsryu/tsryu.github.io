@@ -7,6 +7,26 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN:  AxumKit - 프로덕션 수준의 Rust 백엔드 API 템플릿",
+          "link": "https://news.hada.io/topic?id=25963",
+          "pubDate": "2026-01-19T18:42:15.000Z",
+          "author": "levish",
+          "content": "<p>Rust로 백엔드를 만들어보면서 자주 쓰게 되는 구조와 패턴들을 정리해서 템플릿으로 만들었습니다.</p>\n<h2>포함된 기능</h2>\n<p>🔐 인증: Redis 세션 + OAuth2 (Google/GitHub)<br />\n🗄️ 데이터베이스: PostgreSQL + SeaORM + migrations<br />\n⚙️ 백그라운드 워커: NATS JetStream (이메일, 검색 인덱싱, cron",
+          "contentSnippet": "Rust로 백엔드를 만들어보면서 자주 쓰게 되는 구조와 패턴들을 정리해서 템플릿으로 만들었습니다.\n포함된 기능\n🔐 인증: Redis 세션 + OAuth2 (Google/GitHub)\n🗄️ 데이터베이스: PostgreSQL + SeaORM + migrations\n⚙️ 백그라운드 워커: NATS JetStream (이메일, 검색 인덱싱, cron",
+          "id": "https://news.hada.io/topic?id=25963",
+          "isoDate": "2026-01-19T18:42:15.000Z"
+        },
+        {
+          "title": "ThinkNext Design",
+          "link": "https://news.hada.io/topic?id=25962",
+          "pubDate": "2026-01-19T16:33:21.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>브랜드 정체성과 가치</strong>를 시각적·물리적·경험적으로 구현하는 디자인 철학을 중심으로, 감성과 목적을 결합한 창의적 결과물 제시</li>\n<li>\n<strong>공감과 목적성</strong>을 출발점으로 사용자의 욕구를 이해하고, 새로운 것과 익숙한 것을 재해석하는 접근 강조</li>\n<li>IBM과 Lenovo 제...</p>",
+          "contentSnippet": "브랜드 정체성과 가치를 시각적·물리적·경험적으로 구현하는 디자인 철학을 중심으로, 감성과 목적을 결합한 창의적 결과물 제시\n공감과 목적성을 출발점으로 사용자의 욕구를 이해하고, 새로운 것과 익숙한 것을 재해석하는 접근 강조\nIBM과 Lenovo 제...",
+          "id": "https://news.hada.io/topic?id=25962",
+          "isoDate": "2026-01-19T16:33:21.000Z"
+        },
+        {
           "title": "Show GN: Claude Code Achievements - Claude Code를 게임처럼 즐기는 업적 시스템",
           "link": "https://news.hada.io/topic?id=25961",
           "pubDate": "2026-01-19T12:47:52.000Z",
@@ -85,26 +105,6 @@
           "contentSnippet": "파일 중심 개인 컴퓨팅의 개념을 소셜 컴퓨팅으로 확장해, 사용자가 만든 모든 콘텐츠를 앱이 아닌 자신이 소유하는 구조로 설명\nAT 프로토콜을 기반으로, 앱 간 데이터 상호운용을 가능하게 하는 분산형 소셜 파일시스템 개념...",
           "id": "https://news.hada.io/topic?id=25952",
           "isoDate": "2026-01-19T01:33:06.000Z"
-        },
-        {
-          "title": "Claude Code로 롤러코스터 타이쿤을 플레이해봤어요",
-          "link": "https://news.hada.io/topic?id=25951",
-          "pubDate": "2026-01-19T01:19:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>클로드 코드</strong>를 오픈소스 게임 <strong>RollerCoaster Tycoon 2(OpenRCT2)</strong> 에 통합해, AI가 실제로 놀이공원을 운영하도록 실험한 프로젝트</li>\n<li>AI는 <strong>재정, 손님 불만, 놀이기구 고장 데이터</strong> 등 100여 개 지표를 분석해, 음료 매대 설치·직원 고용·입장료 조정...</p>",
-          "contentSnippet": "클로드 코드를 오픈소스 게임 RollerCoaster Tycoon 2(OpenRCT2) 에 통합해, AI가 실제로 놀이공원을 운영하도록 실험한 프로젝트\nAI는 재정, 손님 불만, 놀이기구 고장 데이터 등 100여 개 지표를 분석해, 음료 매대 설치·직원 고용·입장료 조정...",
-          "id": "https://news.hada.io/topic?id=25951",
-          "isoDate": "2026-01-19T01:19:02.000Z"
-        },
-        {
-          "title": "노벨상과 수상자는 분리될 수 없다",
-          "link": "https://news.hada.io/topic?id=25950",
-          "pubDate": "2026-01-19T01:02:42.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>노벨평화상 메달과 증서</strong>는 수상 사실을 상징하는 물리적 표식이며, 상의 <strong>명예와 인정은 수상자와 영구히 연결</strong>됨</li>\n<li>수상자는 상이 발표된 이후 <strong>타인과 상을 공유하거나 양도할 수 없으며</strong>, 노벨평화상은 <strong>취소될 수 없음</strong>\n</li>\n<li>...</p>",
-          "contentSnippet": "노벨평화상 메달과 증서는 수상 사실을 상징하는 물리적 표식이며, 상의 명예와 인정은 수상자와 영구히 연결됨\n수상자는 상이 발표된 이후 타인과 상을 공유하거나 양도할 수 없으며, 노벨평화상은 취소될 수 없음\n\n...",
-          "id": "https://news.hada.io/topic?id=25950",
-          "isoDate": "2026-01-19T01:02:42.000Z"
         }
       ]
     }
