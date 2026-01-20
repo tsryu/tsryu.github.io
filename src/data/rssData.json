@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: Show GN: 팀 실무에서 쓰기 쉬운 Pipe 중심 TypeScript 함수형 유틸 fp-pack",
+          "link": "https://news.hada.io/topic?id=25984",
+          "pubDate": "2026-01-20T15:26:41.000Z",
+          "author": "superlucky84",
+          "content": "<h4>1. 동기 – 왜 만들었나</h4>\n<p>사람마다 함수형 프로그래밍에서 중요하게 보는 가치는 다를 수 있다고 생각합니다.<br />\n어떤 분은 이론적인 정합성을, 어떤 분은 추상화의 일관성을 더 중요하게 보실 수도 있을 것 같습니다.</p>\n<p>저는 그중에서도<br />\n<strong><code>pipe</code>를 통해 데이터 흐름을 선언",
+          "contentSnippet": "1. 동기 – 왜 만들었나\n사람마다 함수형 프로그래밍에서 중요하게 보는 가치는 다를 수 있다고 생각합니다.\n저는 그중에서도\npipe를 통해 데이터 흐름을 선언",
+          "id": "https://news.hada.io/topic?id=25984",
+          "isoDate": "2026-01-20T15:26:41.000Z"
+        },
+        {
+          "title": "CNAME이 먼저인가, A 레코드가 먼저인가",
+          "link": "https://news.hada.io/topic?id=25981",
+          "pubDate": "2026-01-20T09:39:31.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>2026년 1월 8일, <strong>Cloudflare의 1.1.1.1 서비스 업데이트</strong>가 DNS 응답 내 레코드 순서를 바꾸면서 전 세계 일부 사용자에게 <strong>DNS 해석 실패</strong>가 발생</li>\n<li>문제의 원인은 <strong>CNAME 레코드가 A/AAAA 레코드 뒤로 이동</strong>한 코드 변경으로, 일부 <strong>DNS 클라이...</p>",
+          "contentSnippet": "2026년 1월 8일, Cloudflare의 1.1.1.1 서비스 업데이트가 DNS 응답 내 레코드 순서를 바꾸면서 전 세계 일부 사용자에게 DNS 해석 실패가 발생\n문제의 원인은 CNAME 레코드가 A/AAAA 레코드 뒤로 이동한 코드 변경으로, 일부 DNS 클라이...",
+          "id": "https://news.hada.io/topic?id=25981",
+          "isoDate": "2026-01-20T09:39:31.000Z"
+        },
+        {
+          "title": "애플, 광고와 검색결과의 경계를 흐리는 새로운 앱스토어 디자인 테스트 중",
+          "link": "https://news.hada.io/topic?id=25980",
+          "pubDate": "2026-01-20T09:36:31.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>iPhone용 <strong>App Store 검색광고 디자인</strong>이 변경되어, 기존의 파란색 배경이 사라진 형태로 일부 사용자에게 테스트 중임</li>\n<li>새 디자인에서는 광고와 일반 검색결과의 구분이 <strong>‘Ad’ 배너 표시</strong>만으로 이루어짐</li>\n<li>현재 <strong>iOS 26.3 사용자 일부</strong>에게만...</p>",
+          "contentSnippet": "iPhone용 App Store 검색광고 디자인이 변경되어, 기존의 파란색 배경이 사라진 형태로 일부 사용자에게 테스트 중임\n새 디자인에서는 광고와 일반 검색결과의 구분이 ‘Ad’ 배너 표시만으로 이루어짐\n현재 iOS 26.3 사용자 일부에게만...",
+          "id": "https://news.hada.io/topic?id=25980",
+          "isoDate": "2026-01-20T09:36:31.000Z"
+        },
+        {
           "title": "AI 리서치의 미래: 레시피에서 밀키트로",
           "link": "https://news.hada.io/topic?id=25979",
           "pubDate": "2026-01-20T06:51:54.000Z",
@@ -75,36 +105,6 @@
           "contentSnippet": "디자이너가 Claude Code 같은 CLI 기반 에이전트를 작업대처럼 쓰며, 빠르게 만들고 고치는 방식 확산\nCursor의 비주얼 에디터로 패딩·간격 같은 미세 조정을 즉시 확인해, 프롬프트 왕복을 줄임\n필요한 UI 효과를 못 찾으면 작은 플레이그라운드...",
           "id": "https://news.hada.io/topic?id=25973",
           "isoDate": "2026-01-20T02:16:02.000Z"
-        },
-        {
-          "title": "Gemini AI 앱의 비주얼 디자인 설계 과정",
-          "link": "https://news.hada.io/topic?id=25972",
-          "pubDate": "2026-01-20T01:41:47.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>Gemini 앱의 시각 언어</strong>는 지속적으로 진화하는 AI 어시스턴트의 기능을 사용자가 직관적으로 이해하고 신뢰할 수 있도록 설계됨</li>\n<li>사용자가 AI를 이해하고 신뢰하도록 돕기 위해 <strong>직관성·몰입감·친근함·신뢰성</strong>을 핵심 목표로 설정</li>\n<li>\n<strong>그라데이션, 원...</p>",
-          "contentSnippet": "Gemini 앱의 시각 언어는 지속적으로 진화하는 AI 어시스턴트의 기능을 사용자가 직관적으로 이해하고 신뢰할 수 있도록 설계됨\n사용자가 AI를 이해하고 신뢰하도록 돕기 위해 직관성·몰입감·친근함·신뢰성을 핵심 목표로 설정\n그라데이션, 원...",
-          "id": "https://news.hada.io/topic?id=25972",
-          "isoDate": "2026-01-20T01:41:47.000Z"
-        },
-        {
-          "title": "좋은 마이크로매니저가 되는 법",
-          "link": "https://news.hada.io/topic?id=25971",
-          "pubDate": "2026-01-20T01:31:02.000Z",
-          "author": "neo",
-          "content": "<blockquote>\n<p>모든 마이크로매니지먼트가 나쁜 걸까? 최고의 스타트업 리더들이 얘기하는 <strong>디테일과 위임의 균형을 맞추는 법</strong></p>\n</blockquote>\n<ul>\n<li>마이크로매니지먼트는 무조건 피해야 할 행동이 아니라, <strong>상황과 목적에 따라 생산적으로 사용될 수 있는 관리 도구</strong>임</li>\n...</p>",
-          "contentSnippet": "모든 마이크로매니지먼트가 나쁜 걸까? 최고의 스타트업 리더들이 얘기하는 디테일과 위임의 균형을 맞추는 법\n마이크로매니지먼트는 무조건 피해야 할 행동이 아니라, 상황과 목적에 따라 생산적으로 사용될 수 있는 관리 도구임\n...",
-          "id": "https://news.hada.io/topic?id=25971",
-          "isoDate": "2026-01-20T01:31:02.000Z"
-        },
-        {
-          "title": "버밍햄 감옥에서 보낸 편지 (1963)",
-          "link": "https://news.hada.io/topic?id=25970",
-          "pubDate": "2026-01-20T00:50:30.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>인종차별과 부정의</strong>가 만연한 버밍햄에서, 비폭력 시민 불복종 운동의 정당성을 밝히는 글</li>\n<li>\n<strong>정의로운 법과 부정한 법</strong>의 구분을 통해, 도덕적 책임으로서의 불복종을 주장</li>\n<li>\n<strong>백인 온건파와 교회 지도자들</strong>의 침묵과 안일함을 강하게 비판하...</p>",
-          "contentSnippet": "인종차별과 부정의가 만연한 버밍햄에서, 비폭력 시민 불복종 운동의 정당성을 밝히는 글\n정의로운 법과 부정한 법의 구분을 통해, 도덕적 책임으로서의 불복종을 주장\n백인 온건파와 교회 지도자들의 침묵과 안일함을 강하게 비판하...",
-          "id": "https://news.hada.io/topic?id=25970",
-          "isoDate": "2026-01-20T00:50:30.000Z"
         }
       ]
     }
