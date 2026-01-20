@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "AI 리서치의 미래: 레시피에서 밀키트로",
+          "link": "https://news.hada.io/topic?id=25979",
+          "pubDate": "2026-01-20T06:51:54.000Z",
+          "author": "flamehaven01",
+          "content": "<h3>핵심 요약 (TL;DR)</h3>\n<ul>\n<li>\n<p><strong>AI 논문 폭증 = 진보 + 동시에 ‘Noise Tax’</strong></p>\n<ul>\n<li>2013 → 2023 연간 AI 논문: <strong>~102,000 → ~242,000</strong>\n</li>\n<li>같은 기간 CS 논문 중 AI 비중: <strong>21.6% → 41.8%</strong>\n</li>\n</ul>\n</li>\n<li>\n<p>논문이 늘수록 <strong",
+          "contentSnippet": "핵심 요약 (TL;DR)\nAI 논문 폭증 = 진보 + 동시에 ‘Noise Tax’\n2013 → 2023 연간 AI 논문: ~102,000 → ~242,000\n\n같은 기간 CS 논문 중 AI 비중: 21.6% → 41.8%\n\n\n\n\n논문이 늘수록 <strong",
+          "id": "https://news.hada.io/topic?id=25979",
+          "isoDate": "2026-01-20T06:51:54.000Z"
+        },
+        {
+          "title": "1월 19일 G4(심각) 수준의 지자기 폭풍 발생 | NOAA / NWS 우주기상예측센터",
+          "link": "https://news.hada.io/topic?id=25978",
+          "pubDate": "2026-01-20T06:32:56.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>NOAA 우주기상예측센터</strong>는 2026년 1월 19일 <strong>G4(Severe)</strong> 수준의 지자기 폭풍이 발생했다고 발표</li>\n<li>\n<strong>CME(코로나 질량 방출)</strong> 충격이 도달한 19일 오후 2시 38분(미 동부시간)에 G4 수준이 처음 기록됨</li>\n<li>CME 통과는 저녁까지 계속될 것으로 예상...</p>",
+          "contentSnippet": "NOAA 우주기상예측센터는 2026년 1월 19일 G4(Severe) 수준의 지자기 폭풍이 발생했다고 발표\nCME(코로나 질량 방출) 충격이 도달한 19일 오후 2시 38분(미 동부시간)에 G4 수준이 처음 기록됨\nCME 통과는 저녁까지 계속될 것으로 예상...",
+          "id": "https://news.hada.io/topic?id=25978",
+          "isoDate": "2026-01-20T06:32:56.000Z"
+        },
+        {
+          "title": "Show GN: 의존성 디렉토리를 한 번에 정리하는 CLI 도구",
+          "link": "https://news.hada.io/topic?id=25977",
+          "pubDate": "2026-01-20T04:18:47.000Z",
+          "author": "kuneosu",
+          "content": "<p>여러 프로젝트를 진행하다 보면 node_modules, venv, target, <strong>pycache</strong> 같은 디렉토리들이 수십 GB씩 디스크를 잡아먹고 있기 마련입니다.</p>\n<p>dep-clean은 지정한 경로 하위의 모든 의존성/캐시 디렉토리를 스캔하고, 인터랙티브 체크박스 UI로 선택해서 삭제할 수 있는 CLI도구입니다.</p>\n<h2>",
+          "contentSnippet": "여러 프로젝트를 진행하다 보면 node_modules, venv, target, pycache 같은 디렉토리들이 수십 GB씩 디스크를 잡아먹고 있기 마련입니다.\ndep-clean은 지정한 경로 하위의 모든 의존성/캐시 디렉토리를 스캔하고, 인터랙티브 체크박스 UI로 선택해서 삭제할 수 있는 CLI도구입니다.",
+          "id": "https://news.hada.io/topic?id=25977",
+          "isoDate": "2026-01-20T04:18:47.000Z"
+        },
+        {
           "title": "위키피디아 25년 만의 대전환, AI 기업들과 유료 계약 체결",
           "link": "https://news.hada.io/topic?id=25976",
           "pubDate": "2026-01-20T03:29:30.000Z",
@@ -75,36 +105,6 @@
           "contentSnippet": "인종차별과 부정의가 만연한 버밍햄에서, 비폭력 시민 불복종 운동의 정당성을 밝히는 글\n정의로운 법과 부정한 법의 구분을 통해, 도덕적 책임으로서의 불복종을 주장\n백인 온건파와 교회 지도자들의 침묵과 안일함을 강하게 비판하...",
           "id": "https://news.hada.io/topic?id=25970",
           "isoDate": "2026-01-20T00:50:30.000Z"
-        },
-        {
-          "title": "Amazon, 2026년 3월 31일부터 모든 재고 혼합 종료",
-          "link": "https://news.hada.io/topic?id=25969",
-          "pubDate": "2026-01-20T00:47:30.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Amazon</strong>이 2026년 3월 31일부터 <strong>모든 재고 혼합(commingling)</strong> 방식을 중단함</li>\n<li>재고 혼합은 동일 상품을 여러 판매자의 재고로 통합해 관리하던 <strong>FBA(Fulfillment by Amazon)</strong> 운영 방식</li>\n<li>이번 조치는 판매자별 <strong>재고 추적과 품질 관리...</p>",
-          "contentSnippet": "Amazon이 2026년 3월 31일부터 모든 재고 혼합(commingling) 방식을 중단함\n재고 혼합은 동일 상품을 여러 판매자의 재고로 통합해 관리하던 FBA(Fulfillment by Amazon) 운영 방식\n이번 조치는 판매자별 재고 추적과 품질 관리...",
-          "id": "https://news.hada.io/topic?id=25969",
-          "isoDate": "2026-01-20T00:47:30.000Z"
-        },
-        {
-          "title": "Radboud 대학교, 직원용 표준 스마트폰으로 Fairphone 선정",
-          "link": "https://news.hada.io/topic?id=25968",
-          "pubDate": "2026-01-20T00:44:30.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Radboud 대학교</strong>가 직원용 표준 스마트폰으로 <strong>Fairphone</strong>을 채택, 지속가능성과 비용 효율, 관리 용이성을 이유로 결정</li>\n<li>Fairphone은 <strong>배터리·화면 등 부품 교체가 쉬운 구조</strong>로 수명이 길고, 재활용 플라스틱·알루미늄 등 <strong>공정 소재</strong...</p>",
-          "contentSnippet": "Radboud 대학교가 직원용 표준 스마트폰으로 Fairphone을 채택, 지속가능성과 비용 효율, 관리 용이성을 이유로 결정\nFairphone은 배터리·화면 등 부품 교체가 쉬운 구조로 수명이 길고, 재활용 플라스틱·알루미늄 등 공정 소재",
-          "id": "https://news.hada.io/topic?id=25968",
-          "isoDate": "2026-01-20T00:44:30.000Z"
-        },
-        {
-          "title": "블루투스 기반 분산형 피어 투 피어 메시징 애플리케이션",
-          "link": "https://news.hada.io/topic?id=25967",
-          "pubDate": "2026-01-20T00:41:30.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>bitchat</strong>은 인터넷이나 서버 없이 <strong>블루투스 메시 네트워크</strong>를 통해 작동하는 <strong>분산형 메시징 앱</strong>\n</li>\n<li>각 기기가 <strong>클라이언트이자 서버</strong>로 동작하며, 주변 기기를 자동으로 탐색하고 메시지를 <strong>멀티홉으로 중계</strong>\n</li>\n<l...</p>",
-          "contentSnippet": "bitchat은 인터넷이나 서버 없이 블루투스 메시 네트워크를 통해 작동하는 분산형 메시징 앱\n\n각 기기가 클라이언트이자 서버로 동작하며, 주변 기기를 자동으로 탐색하고 메시지를 멀티홉으로 중계",
-          "id": "https://news.hada.io/topic?id=25967",
-          "isoDate": "2026-01-20T00:41:30.000Z"
         }
       ]
     }
