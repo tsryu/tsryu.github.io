@@ -7,6 +7,46 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: CmdLens - Claude Code 명령어 실행 전 위험도를 자동으로 표시하는 플러그인",
+          "link": "https://news.hada.io/topic?id=26019",
+          "pubDate": "2026-01-21T13:59:49.000Z",
+          "author": "choam2426",
+          "content": "<p>Claude Code가 Bash 명령어를 실행할 때 위험도와 복구 방법을 자동으로 표시해주는 플러그인입니다.</p>\n<p>주요 기능:</p>\n<ul>\n<li>모든 명령어에 🟢 Safe / 🟡 Caution / 🔴 Danger 위험도 표시</li>\n<li>복구 가능 여부와 되돌리는 방법 안내</li>\n<li>외부 API 호출 없음, 추가 패키지 불필요</li>\n<li>한국어/",
+          "contentSnippet": "Claude Code가 Bash 명령어를 실행할 때 위험도와 복구 방법을 자동으로 표시해주는 플러그인입니다.\n주요 기능:\n모든 명령어에 🟢 Safe / 🟡 Caution / 🔴 Danger 위험도 표시\n복구 가능 여부와 되돌리는 방법 안내\n외부 API 호출 없음, 추가 패키지 불필요\n한국어/",
+          "id": "https://news.hada.io/topic?id=26019",
+          "isoDate": "2026-01-21T13:59:49.000Z"
+        },
+        {
+          "title": "비전통적 PostgreSQL 최적화 기법",
+          "link": "https://news.hada.io/topic?id=26018",
+          "pubDate": "2026-01-21T12:32:48.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>PostgreSQL 쿼리 성능을 높이기 위한 비전통적 최적화 방법</strong>을 제시하며, 기존 인덱스 추가나 쿼리 재작성 외의 창의적 접근을 다룸</li>\n<li>\n<strong>체크 제약조건 기반의 전체 테이블 스캔 제거</strong>, <strong>함수 기반 인덱스로 낮은 카디널리티 최적화</strong>, <strong>Hash 인덱...</p>",
+          "contentSnippet": "PostgreSQL 쿼리 성능을 높이기 위한 비전통적 최적화 방법을 제시하며, 기존 인덱스 추가나 쿼리 재작성 외의 창의적 접근을 다룸\n체크 제약조건 기반의 전체 테이블 스캔 제거, 함수 기반 인덱스로 낮은 카디널리티 최적화, Hash 인덱...",
+          "id": "https://news.hada.io/topic?id=26018",
+          "isoDate": "2026-01-21T12:32:48.000Z"
+        },
+        {
+          "title": "인공지능 시대의 Slack: 금광 \"맥락\"을 독점하는 진짜 돈 버는 B2C 플랫폼",
+          "link": "https://news.hada.io/topic?id=26017",
+          "pubDate": "2026-01-21T11:58:03.000Z",
+          "author": "davespark",
+          "content": "<p>AI 시대의 진짜 금광은 <strong>“맥락(Context)” 독점</strong>이며, 이를 가장 편리하게 관리·활용하게 해주는 <strong>B2C 인터페이스 플랫폼</strong>이 승자가 될 것.</p>\n<ul>\n<li>\n<strong>인공지능 시대의 새로운 Slack</strong> → 인간-AI-인간 협업을 연결하는 중앙 맥락 관리 플랫폼</li>\n<li>(Slack = ",
+          "contentSnippet": "AI 시대의 진짜 금광은 “맥락(Context)” 독점이며, 이를 가장 편리하게 관리·활용하게 해주는 B2C 인터페이스 플랫폼이 승자가 될 것.\n인공지능 시대의 새로운 Slack → 인간-AI-인간 협업을 연결하는 중앙 맥락 관리 플랫폼\n(Slack =",
+          "id": "https://news.hada.io/topic?id=26017",
+          "isoDate": "2026-01-21T11:58:03.000Z"
+        },
+        {
+          "title": "캘리포니아, 25년 만에 가뭄 완전 해소",
+          "link": "https://news.hada.io/topic?id=26015",
+          "pubDate": "2026-01-21T09:33:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>기록적인 <strong>겨울 폭우</strong> 이후 캘리포니아 전역에서 25년 만에 처음으로 <strong>‘비정상적 건조 지역’이 0%</strong> 로 확인됨</li>\n<li>주 전역의 <strong>17개 주요 저수지 중 14곳</strong>이 70% 이상 수위를 유지하며, <strong>산불 위험도 거의 제로 수준</strong>으로 평가됨</li>\n<li>...</p>",
+          "contentSnippet": "기록적인 겨울 폭우 이후 캘리포니아 전역에서 25년 만에 처음으로 ‘비정상적 건조 지역’이 0% 로 확인됨\n주 전역의 17개 주요 저수지 중 14곳이 70% 이상 수위를 유지하며, 산불 위험도 거의 제로 수준으로 평가됨\n...",
+          "id": "https://news.hada.io/topic?id=26015",
+          "isoDate": "2026-01-21T09:33:01.000Z"
+        },
+        {
           "title": "Show GN: 9개의 Claude 에이전트가 협업하는 멀티에이전트 개발 시스템",
           "link": "https://news.hada.io/topic?id=26013",
           "pubDate": "2026-01-21T08:06:26.000Z",
@@ -65,46 +105,6 @@
           "contentSnippet": "\"AI는 코드를 짤 수는 있지만, 감옥에 갈 수는 없습니다.\"\n뉴스레터를 쓰며 가장 오랫동안 곱씹은 문장입니다. 기능은 1초 만에 복제되지만, '책임'과 '신뢰'는 복제할 수 없습니다.\n누구나 20분이면 툴을 만드는 시대, 이제는 AI가 절대 흉내 낼 수 없는 3가지 본질을 설계해야 합니다.",
           "id": "https://news.hada.io/topic?id=26008",
           "isoDate": "2026-01-21T03:19:01.000Z"
-        },
-        {
-          "title": "Show GN: SwiftCast - Claude Code에서 AI 프로바이더 전환 및 사용량 모니터링 도구",
-          "link": "https://news.hada.io/topic?id=26006",
-          "pubDate": "2026-01-21T01:56:12.000Z",
-          "author": "devload",
-          "content": "<p>Claude Code 사용 시 Anthropic API와 GLM(Z.AI) 간 실시간 전환이 가능한 데스크톱<br />\n앱입니다.</p>\n<p>주요 기능:<br />\n• 프록시 기반으로 Claude Code 설정 변경 없이 프로바이더 전환<br />\n• 세션별 다른 벤더/모델 설정 (멀티 세션 지원)<br />\n• 토큰 사용량 실시간 모니터링 (모델별, 일별, 세션별 통",
-          "contentSnippet": "Claude Code 사용 시 Anthropic API와 GLM(Z.AI) 간 실시간 전환이 가능한 데스크톱\n주요 기능:\n• 프록시 기반으로 Claude Code 설정 변경 없이 프로바이더 전환\n• 세션별 다른 벤더/모델 설정 (멀티 세션 지원)\n• 토큰 사용량 실시간 모니터링 (모델별, 일별, 세션별 통",
-          "id": "https://news.hada.io/topic?id=26006",
-          "isoDate": "2026-01-21T01:56:12.000Z"
-        },
-        {
-          "title": "LLM과 당신의 커리어",
-          "link": "https://news.hada.io/topic?id=26005",
-          "pubDate": "2026-01-21T01:55:10.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>소프트웨어 개발자의 커리어 구축</strong>에서 가장 안정적인 방식은 실용적 문제 해결 능력과 함께 기존 코드를 <strong>‘블랙박스’로 보지 않는 태도</strong>를 유지하는 것</li>\n<li>LLM을 이용한 코딩은 <strong>Rails나 Stack Overflow 활용과 본질적으로 다르지 않으며</strong>, 단지 더 빠...</p>",
-          "contentSnippet": "소프트웨어 개발자의 커리어 구축에서 가장 안정적인 방식은 실용적 문제 해결 능력과 함께 기존 코드를 ‘블랙박스’로 보지 않는 태도를 유지하는 것\nLLM을 이용한 코딩은 Rails나 Stack Overflow 활용과 본질적으로 다르지 않으며, 단지 더 빠...",
-          "id": "https://news.hada.io/topic?id=26005",
-          "isoDate": "2026-01-21T01:55:10.000Z"
-        },
-        {
-          "title": "Show GN: [BETA] 어젯밤 그 꿈, AI가 해석해드립니다.",
-          "link": "https://news.hada.io/topic?id=26004",
-          "pubDate": "2026-01-21T01:45:18.000Z",
-          "author": "hayeseung",
-          "content": "<p>꿈을 쓰거나 클릭만 하세요.<br />\nAI가 요약 · 의미 · 감정 · 조언까지 정리해드립니다.</p>\n<p>꿈해몽을 검색하다가<br />\n늘 비슷한 설명만 나오는 것이 아쉬워<br />\nAI 기반 꿈해몽 서비스를 직접 만들었습니다.</p>\n<p>정답을 단정하지 않고,<br />\n꿈의 분위기와 감정을 중심으로<br />\n현실에 도움이 되는 방",
-          "contentSnippet": "꿈을 쓰거나 클릭만 하세요.\n꿈해몽을 검색하다가\n정답을 단정하지 않고,\n꿈의 분위기와 감정을 중심으로\n현실에 도움이 되는 방",
-          "id": "https://news.hada.io/topic?id=26004",
-          "isoDate": "2026-01-21T01:45:18.000Z"
-        },
-        {
-          "title": "챗봇 시대의 대학 시험 운영하기",
-          "link": "https://news.hada.io/topic?id=26003",
-          "pubDate": "2026-01-21T01:36:05.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>오픈소스 전략</strong> 수업의 시험에서 학생들이 스스로 학습하도록 유도하기 위해, 인터넷 접속과 자료 활용을 모두 허용하는 <strong>비전통적 시험 방식</strong>을 운영해봄</li>\n<li>학생들에게 <strong>챗봇 사용 여부를 사전에 선택</strong>하게 하고, 사용 시에는 <strong>출처 명시·프롬�...</p>",
-          "contentSnippet": "오픈소스 전략 수업의 시험에서 학생들이 스스로 학습하도록 유도하기 위해, 인터넷 접속과 자료 활용을 모두 허용하는 비전통적 시험 방식을 운영해봄\n학생들에게 챗봇 사용 여부를 사전에 선택하게 하고, 사용 시에는 출처 명시·프롬�...",
-          "id": "https://news.hada.io/topic?id=26003",
-          "isoDate": "2026-01-21T01:36:05.000Z"
         }
       ]
     }
