@@ -7,104 +7,104 @@
       "priority": 1,
       "data": [
         {
-          "title": "에이전틱 코딩이 실제로 효과가 있는지에 대한 증거를 묻는 질문",
-          "link": "https://news.hada.io/topic?id=26020",
-          "pubDate": "2026-01-21T17:33:43.000Z",
+          "title": "Sony와 TCL의 파트너십이 TV 시장의 미래에 의미하는 것",
+          "link": "https://news.hada.io/topic?id=26036",
+          "pubDate": "2026-01-22T02:52:57.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>에이전틱 코딩(agentic coding)</strong> 이 실제 개발 현장에서 작동하는지에 대한 <strong>경험적 증거</strong>를 요청하는 질문임</li>\n<li>자동화된 코드 생성이나 <strong>AI 에이전트 기반 프로그래밍</strong>의 실효성을 검증하려는 목적</li>\n<li>커뮤니티 내에서 <strong>성공 사례, 실패 ...</p>",
-          "contentSnippet": "에이전틱 코딩(agentic coding) 이 실제 개발 현장에서 작동하는지에 대한 경험적 증거를 요청하는 질문임\n자동화된 코드 생성이나 AI 에이전트 기반 프로그래밍의 실효성을 검증하려는 목적\n커뮤니티 내에서 성공 사례, 실패 ...",
-          "id": "https://news.hada.io/topic?id=26020",
-          "isoDate": "2026-01-21T17:33:43.000Z"
+          "content": "<ul>\n<li>Sony가 TCL과 <strong>TV 사업 파트너십</strong>을 논의하며, 지분 49:51 구조의 합작 가능성이 제기됨</li>\n<li>아직 <strong>양해각서 단계</strong>로, 계약·규제 승인까지 수개월이 필요해 실제 제품은 2027년 이후 등장 가능성 있음</li>\n<li>Sony는 <strong>TCL의 수직 통합 제조 역량</strong>을 통해 ...</p>",
+          "contentSnippet": "Sony가 TCL과 TV 사업 파트너십을 논의하며, 지분 49:51 구조의 합작 가능성이 제기됨\n아직 양해각서 단계로, 계약·규제 승인까지 수개월이 필요해 실제 제품은 2027년 이후 등장 가능성 있음\nSony는 TCL의 수직 통합 제조 역량을 통해 ...",
+          "id": "https://news.hada.io/topic?id=26036",
+          "isoDate": "2026-01-22T02:52:57.000Z"
         },
         {
-          "title": "Show GN: CmdLens - Claude Code 명령어 실행 전 위험도를 자동으로 표시하는 플러그인",
-          "link": "https://news.hada.io/topic?id=26019",
-          "pubDate": "2026-01-21T13:59:49.000Z",
-          "author": "choam2426",
-          "content": "<p>Claude Code가 Bash 명령어를 실행할 때 위험도와 복구 방법을 자동으로 표시해주는 플러그인입니다.</p>\n<p>주요 기능:</p>\n<ul>\n<li>모든 명령어에 🟢 Safe / 🟡 Caution / 🔴 Danger 위험도 표시</li>\n<li>복구 가능 여부와 되돌리는 방법 안내</li>\n<li>외부 API 호출 없음, 추가 패키지 불필요</li>\n<li>한국어/",
-          "contentSnippet": "Claude Code가 Bash 명령어를 실행할 때 위험도와 복구 방법을 자동으로 표시해주는 플러그인입니다.\n주요 기능:\n모든 명령어에 🟢 Safe / 🟡 Caution / 🔴 Danger 위험도 표시\n복구 가능 여부와 되돌리는 방법 안내\n외부 API 호출 없음, 추가 패키지 불필요\n한국어/",
-          "id": "https://news.hada.io/topic?id=26019",
-          "isoDate": "2026-01-21T13:59:49.000Z"
-        },
-        {
-          "title": "비전통적 PostgreSQL 최적화 기법",
-          "link": "https://news.hada.io/topic?id=26018",
-          "pubDate": "2026-01-21T12:32:48.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>PostgreSQL 쿼리 성능을 높이기 위한 비전통적 최적화 방법</strong>을 제시하며, 기존 인덱스 추가나 쿼리 재작성 외의 창의적 접근을 다룸</li>\n<li>\n<strong>체크 제약조건 기반의 전체 테이블 스캔 제거</strong>, <strong>함수 기반 인덱스로 낮은 카디널리티 최적화</strong>, <strong>Hash 인덱...</p>",
-          "contentSnippet": "PostgreSQL 쿼리 성능을 높이기 위한 비전통적 최적화 방법을 제시하며, 기존 인덱스 추가나 쿼리 재작성 외의 창의적 접근을 다룸\n체크 제약조건 기반의 전체 테이블 스캔 제거, 함수 기반 인덱스로 낮은 카디널리티 최적화, Hash 인덱...",
-          "id": "https://news.hada.io/topic?id=26018",
-          "isoDate": "2026-01-21T12:32:48.000Z"
-        },
-        {
-          "title": "인공지능 시대의 Slack: 금광 \"맥락\"을 독점하는 진짜 돈 버는 B2C 플랫폼",
-          "link": "https://news.hada.io/topic?id=26017",
-          "pubDate": "2026-01-21T11:58:03.000Z",
-          "author": "davespark",
-          "content": "<p>AI 시대의 진짜 금광은 <strong>“맥락(Context)” 독점</strong>이며, 이를 가장 편리하게 관리·활용하게 해주는 <strong>B2C 인터페이스 플랫폼</strong>이 승자가 될 것.</p>\n<ul>\n<li>\n<strong>인공지능 시대의 새로운 Slack</strong> → 인간-AI-인간 협업을 연결하는 중앙 맥락 관리 플랫폼</li>\n<li>(Slack = ",
-          "contentSnippet": "AI 시대의 진짜 금광은 “맥락(Context)” 독점이며, 이를 가장 편리하게 관리·활용하게 해주는 B2C 인터페이스 플랫폼이 승자가 될 것.\n인공지능 시대의 새로운 Slack → 인간-AI-인간 협업을 연결하는 중앙 맥락 관리 플랫폼\n(Slack =",
-          "id": "https://news.hada.io/topic?id=26017",
-          "isoDate": "2026-01-21T11:58:03.000Z"
-        },
-        {
-          "title": "캘리포니아, 25년 만에 가뭄 완전 해소",
-          "link": "https://news.hada.io/topic?id=26015",
-          "pubDate": "2026-01-21T09:33:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>기록적인 <strong>겨울 폭우</strong> 이후 캘리포니아 전역에서 25년 만에 처음으로 <strong>‘비정상적 건조 지역’이 0%</strong> 로 확인됨</li>\n<li>주 전역의 <strong>17개 주요 저수지 중 14곳</strong>이 70% 이상 수위를 유지하며, <strong>산불 위험도 거의 제로 수준</strong>으로 평가됨</li>\n<li>...</p>",
-          "contentSnippet": "기록적인 겨울 폭우 이후 캘리포니아 전역에서 25년 만에 처음으로 ‘비정상적 건조 지역’이 0% 로 확인됨\n주 전역의 17개 주요 저수지 중 14곳이 70% 이상 수위를 유지하며, 산불 위험도 거의 제로 수준으로 평가됨\n...",
-          "id": "https://news.hada.io/topic?id=26015",
-          "isoDate": "2026-01-21T09:33:01.000Z"
-        },
-        {
-          "title": "Show GN: 9개의 Claude 에이전트가 협업하는 멀티에이전트 개발 시스템",
-          "link": "https://news.hada.io/topic?id=26013",
-          "pubDate": "2026-01-21T08:06:26.000Z",
-          "author": "kuneosu",
-          "content": "<p>9개의 전문화된 Claude 에이전트가 협업하여 소프트웨어 개발을 자동화하는 시스템입니다.</p>\n<h3>어떤 프로젝트인가요?</h3>\n<p>사용자가 &quot;TODO 앱 만들어줘&quot;라고 요청하면, 9개의 AI 에이전트가 실제 개발팀처럼 역할을 나눠 작업합니다:</p>\n<ul>\n<li>Orchestrator: 전체 워크플로우 관리</li>\n<li>Req",
-          "contentSnippet": "9개의 전문화된 Claude 에이전트가 협업하여 소프트웨어 개발을 자동화하는 시스템입니다.\n어떤 프로젝트인가요?\n사용자가 \"TODO 앱 만들어줘\"라고 요청하면, 9개의 AI 에이전트가 실제 개발팀처럼 역할을 나눠 작업합니다:\nOrchestrator: 전체 워크플로우 관리\nReq",
-          "id": "https://news.hada.io/topic?id=26013",
-          "isoDate": "2026-01-21T08:06:26.000Z"
-        },
-        {
-          "title": "Nvidia 주가 폭락 확률 예측",
-          "link": "https://news.hada.io/topic?id=26012",
-          "pubDate": "2026-01-21T05:33:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>2026년 예측 대회에서 <strong>Nvidia 주가가 2026년 중 하루라도 100달러 이하로 떨어질 확률</strong>을 계산한 분석임</li>\n<li>단순 무편향 랜덤워크 대신, <strong>수익률과 변동성의 시간 규모 차이</strong>를 고려한 모델을 사용함</li>\n<li>\n<strong>옵션 시장의 암묵적 변동성(implied volatility)...</p>",
-          "contentSnippet": "2026년 예측 대회에서 Nvidia 주가가 2026년 중 하루라도 100달러 이하로 떨어질 확률을 계산한 분석임\n단순 무편향 랜덤워크 대신, 수익률과 변동성의 시간 규모 차이를 고려한 모델을 사용함\n옵션 시장의 암묵적 변동성(implied volatility)...",
-          "id": "https://news.hada.io/topic?id=26012",
-          "isoDate": "2026-01-21T05:33:01.000Z"
-        },
-        {
-          "title": "Show GN: mdto.page – 마크다운을 바로 공유 가능한 웹페이지와 PDF로",
-          "link": "https://news.hada.io/topic?id=26011",
-          "pubDate": "2026-01-21T03:45:44.000Z",
-          "author": "hyeongjin",
-          "content": "<p>mdto.page는 마크다운 파일을 업로드하면<br />\n유효 기간이 있는 공유 가능한 웹페이지를 바로 만들어주는 작은 도구입니다.<br />\n생성된 페이지는 pdf로도 다운로드할 수 있습니다.</p>\n<p>이력서, 문서, 노트 등을 마크다운으로 작성해두고<br />\n로그인이나 별도 설정 없이 빠르게 공유하고 싶어서 만들었습니다",
-          "contentSnippet": "mdto.page는 마크다운 파일을 업로드하면\n이력서, 문서, 노트 등을 마크다운으로 작성해두고\n로그인이나 별도 설정 없이 빠르게 공유하고 싶어서 만들었습니다",
-          "id": "https://news.hada.io/topic?id=26011",
-          "isoDate": "2026-01-21T03:45:44.000Z"
-        },
-        {
-          "title": "X, 추천 피드 알고리듬 공개",
-          "link": "https://news.hada.io/topic?id=26010",
-          "pubDate": "2026-01-21T03:33:02.000Z",
+          "title": "AI가 제도적 기반을 파괴하는 방식",
+          "link": "https://news.hada.io/topic?id=26035",
+          "pubDate": "2026-01-22T02:51:19.000Z",
           "author": "xguru",
-          "content": "<ul>\n<li>X &quot;For You&quot; 피드의 개인화된 콘텐츠 추천 품질을 높이기 위해 개발된 <strong>머신러닝 기반 추천 시스템</strong>\n</li>\n<li>\n<strong>팔로우한 계정(Thunder)</strong> 과 <strong>비팔로우 콘텐츠(Phoenix Retrieval)</strong> 2가지 소스를 결합해 피드 구성</li>\n<li>모든 후보 게시물을 <stro...</p>",
-          "contentSnippet": "X \"For You\" 피드의 개인화된 콘텐츠 추천 품질을 높이기 위해 개발된 머신러닝 기반 추천 시스템\n\n\n팔로우한 계정(Thunder) 과 비팔로우 콘텐츠(Phoenix Retrieval) 2가지 소스를 결합해 피드 구성\n모든 후보 게시물을",
-          "id": "https://news.hada.io/topic?id=26010",
-          "isoDate": "2026-01-21T03:33:02.000Z"
+          "content": "<ul>\n<li>\n<strong>민주주의의 핵심 제도</strong>인 법치, 대학, 언론은 협력과 안정, 적응을 가능하게 하는 구조로 설명됨</li>\n<li>이러한 제도는 <strong>권위의 위계와 규칙의 틀 안에서 진화와 적응</strong>을 지속하며 정당성을 유지함</li>\n<li>\n<strong>투명성·협력·책임성</strong>을 기반으로 한 제도는 개인...</p>",
+          "contentSnippet": "민주주의의 핵심 제도인 법치, 대학, 언론은 협력과 안정, 적응을 가능하게 하는 구조로 설명됨\n이러한 제도는 권위의 위계와 규칙의 틀 안에서 진화와 적응을 지속하며 정당성을 유지함\n투명성·협력·책임성을 기반으로 한 제도는 개인...",
+          "id": "https://news.hada.io/topic?id=26035",
+          "isoDate": "2026-01-22T02:51:19.000Z"
         },
         {
-          "title": "26,000년의 천문학적 기념물이 눈앞에 숨겨져 있다",
-          "link": "https://news.hada.io/topic?id=26009",
-          "pubDate": "2026-01-21T03:32:45.000Z",
+          "title": "Show GN: AI 기도문 생성기",
+          "link": "https://news.hada.io/topic?id=26034",
+          "pubDate": "2026-01-22T02:42:06.000Z",
+          "author": "hayeseung",
+          "content": "<p>말이 떠오르지 않을 때,<br />\nAI가 기도의 문장을 정리합니다.<br />\n과하지 않은 표현으로<br />\n진심을 담아드립니다.</p>\n<p>ㅤ<br />\nㅤ<br />\nㅤ<br />\nㅤ<br />\nㅤ<br />\nㅤ</p>\n<p>AI 언어 모델 : gemini-2.0-flash</p>\n<p>// ---- 기도문 생성기 프롬프트 ----<br />\n$prompt = '<br />\n너는 기독교 신앙을 ",
+          "contentSnippet": "말이 떠오르지 않을 때,\nㅤ\nㅤ\nAI 언어 모델 : gemini-2.0-flash\n// ---- 기도문 생성기 프롬프트 ----\n$prompt = '\n너는 기독교 신앙을",
+          "id": "https://news.hada.io/topic?id=26034",
+          "isoDate": "2026-01-22T02:42:06.000Z"
+        },
+        {
+          "title": "Apple, iOS 27에서 Siri를 iPhone·Mac 내장 챗봇으로 개편해 OpenAI에 대응할 것",
+          "link": "https://news.hada.io/topic?id=26033",
+          "pubDate": "2026-01-22T02:41:52.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>후버댐 서쪽 광장</strong>에는 지구의 <strong>축 세차 운동(25,772년 주기)</strong> 을 기준으로 댐 완공 시점을 표시한 천문 지도가 설치되어 있음</li>\n<li>이 <strong>테라조 바닥 지도</strong>는 별자리와 행성의 위치를 통해 댐이 완성된 날짜를 하루 단위로 특정할 수 있도록 설계됨</li>\n...</p>",
-          "contentSnippet": "후버댐 서쪽 광장에는 지구의 축 세차 운동(25,772년 주기) 을 기준으로 댐 완공 시점을 표시한 천문 지도가 설치되어 있음\n이 테라조 바닥 지도는 별자리와 행성의 위치를 통해 댐이 완성된 날짜를 하루 단위로 특정할 수 있도록 설계됨\n...",
-          "id": "https://news.hada.io/topic?id=26009",
-          "isoDate": "2026-01-21T03:32:45.000Z"
+          "content": "<ul>\n<li>Apple이 기존 음성 비서를 넘어 <strong>생성형 AI 챗봇</strong>으로 Siri를 재설계해 iOS·macOS 전반에 통합 예정</li>\n<li>새 챗봇 <strong>Campos</strong>는 음성과 텍스트 기반 대화를 모두 지원하며, 기존 Siri 인터페이스를 대체</li>\n<li>현재 Siri 대비 <strong>대화형 상호작용</strong>과 작업 수행...</p>",
+          "contentSnippet": "Apple이 기존 음성 비서를 넘어 생성형 AI 챗봇으로 Siri를 재설계해 iOS·macOS 전반에 통합 예정\n새 챗봇 Campos는 음성과 텍스트 기반 대화를 모두 지원하며, 기존 Siri 인터페이스를 대체\n현재 Siri 대비 대화형 상호작용과 작업 수행...",
+          "id": "https://news.hada.io/topic?id=26033",
+          "isoDate": "2026-01-22T02:41:52.000Z"
+        },
+        {
+          "title": "리눅스 프롬 스크래치",
+          "link": "https://news.hada.io/topic?id=26032",
+          "pubDate": "2026-01-22T02:37:15.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>사용자가 <strong>리눅스 시스템을 직접 소스 코드로부터 구축</strong>하도록 안내하는 단계별 매뉴얼</li>\n<li>\n<strong>버전 12.4</strong>는 2025년 9월 1일에 공개되었으며, 최신 <strong>커널 6.16.1</strong>과 <strong>GCC 15.2.0</strong>, <strong>Glibc 2.42</strong> 등을 포함</li>\n<li>시스템 빌...</p>",
+          "contentSnippet": "사용자가 리눅스 시스템을 직접 소스 코드로부터 구축하도록 안내하는 단계별 매뉴얼\n버전 12.4는 2025년 9월 1일에 공개되었으며, 최신 커널 6.16.1과 GCC 15.2.0, Glibc 2.42 등을 포함\n시스템 빌...",
+          "id": "https://news.hada.io/topic?id=26032",
+          "isoDate": "2026-01-22T02:37:15.000Z"
+        },
+        {
+          "title": "Vimeo에서 Bending Spoons가 거의 모든 직원을 해고했다는 보고",
+          "link": "https://news.hada.io/topic?id=26031",
+          "pubDate": "2026-01-22T02:34:15.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Vimeo 운영사 Bending Spoons</strong>가 전날 <strong>대부분의 직원을 해고</strong>한 것으로 알려짐</li>\n<li>해고 규모는 “거의 모든 직원”으로 표현될 정도로 <strong>대규모 인력 감축</strong>임</li>\n<li>구체적인 <strong>해고 인원 수나 부서별 영향</strong>에 대한 정보는 언급되지 않...</p>",
+          "contentSnippet": "Vimeo 운영사 Bending Spoons가 전날 대부분의 직원을 해고한 것으로 알려짐\n해고 규모는 “거의 모든 직원”으로 표현될 정도로 대규모 인력 감축임\n구체적인 해고 인원 수나 부서별 영향에 대한 정보는 언급되지 않...",
+          "id": "https://news.hada.io/topic?id=26031",
+          "isoDate": "2026-01-22T02:34:15.000Z"
+        },
+        {
+          "title": "Show HN 게시물 비율은 증가하지만 점수는 하락 중",
+          "link": "https://news.hada.io/topic?id=26030",
+          "pubDate": "2026-01-22T02:09:03.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>최근 <strong>Show HN 게시물 비율이 급격히 증가</strong>했으며, 특히 <strong>LLM(대형 언어 모델)</strong> 의 등장 이후 상승세가 두드러짐</li>\n<li>2012~2022년 동안 약 2~3% 수준이던 비율이 <strong>2025년 12월에는 12% 이상</strong>으로 확대됨</li>\n<li>반면 <strong>평균 점수는 하락세</strong>...</p>",
+          "contentSnippet": "최근 Show HN 게시물 비율이 급격히 증가했으며, 특히 LLM(대형 언어 모델) 의 등장 이후 상승세가 두드러짐\n2012~2022년 동안 약 2~3% 수준이던 비율이 2025년 12월에는 12% 이상으로 확대됨\n반면 평균 점수는 하락세...",
+          "id": "https://news.hada.io/topic?id=26030",
+          "isoDate": "2026-01-22T02:09:03.000Z"
+        },
+        {
+          "title": "Show GN: Grovr - Git Worktree를 쉽게 관리할 수 있는 데스크톱 애플리케이션",
+          "link": "https://news.hada.io/topic?id=26029",
+          "pubDate": "2026-01-22T01:39:07.000Z",
+          "author": "jak3b",
+          "content": "<p>AI로 여러 작업을 병렬로 진행하시는 분들은 Git Worktree를 많이 활용하실 텐데요.</p>\n<p>근데 Worktree가 많아지면 관리가 어려워집니다. 어떤 작업이 어디 있는지, 티켓이 뭐였는지, PR은 올렸는지 한눈에 파악하기 힘들고, 브랜치 생성이나 Worktree 전환도 매번 번거롭더라고요.</p>\n<p>그래서 Worktree를 좀 더",
+          "contentSnippet": "AI로 여러 작업을 병렬로 진행하시는 분들은 Git Worktree를 많이 활용하실 텐데요.\n근데 Worktree가 많아지면 관리가 어려워집니다. 어떤 작업이 어디 있는지, 티켓이 뭐였는지, PR은 올렸는지 한눈에 파악하기 힘들고, 브랜치 생성이나 Worktree 전환도 매번 번거롭더라고요.\n그래서 Worktree를 좀 더",
+          "id": "https://news.hada.io/topic?id=26029",
+          "isoDate": "2026-01-22T01:39:07.000Z"
+        },
+        {
+          "title": "cURL, 버그 바운티 제도 폐지",
+          "link": "https://news.hada.io/topic?id=26028",
+          "pubDate": "2026-01-22T00:46:27.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>오픈소스 라이브러리 <strong>cURL</strong>이 AI가 생성한 무의미한 버그 리포트의 급증을 막기 위해 <strong>버그 바운티 제도</strong>를 종료함</li>\n<li>유지관리자 <strong>Daniel Stenberg</strong>는 AI가 만든 보고서 대부분이 <strong>“순수한 허위”</strong> 이며, 검증에 많은 시간이 소요된다고...</p>",
+          "contentSnippet": "오픈소스 라이브러리 cURL이 AI가 생성한 무의미한 버그 리포트의 급증을 막기 위해 버그 바운티 제도를 종료함\n유지관리자 Daniel Stenberg는 AI가 만든 보고서 대부분이 “순수한 허위” 이며, 검증에 많은 시간이 소요된다고...",
+          "id": "https://news.hada.io/topic?id=26028",
+          "isoDate": "2026-01-22T00:46:27.000Z"
+        },
+        {
+          "title": "ChartGPU – WebGPU 기반 고성능 차트 라이브러리 (1M 포인트를 60fps로 렌더링)",
+          "link": "https://news.hada.io/topic?id=26027",
+          "pubDate": "2026-01-22T00:43:27.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>WebGPU</strong>를 활용해 대규모 데이터셋을 부드럽게 렌더링하는 <strong>오픈소스 차트 라이브러리</strong>임</li>\n<li>\n<strong>TypeScript</strong>로 작성되었으며, <strong>라인·영역·막대·산점도·파이·캔들스틱</strong> 등 다양한 시리즈 타입을 지원</li>\n<li>\n<strong>호버 하이라이트...</p>",
+          "contentSnippet": "WebGPU를 활용해 대규모 데이터셋을 부드럽게 렌더링하는 오픈소스 차트 라이브러리임\nTypeScript로 작성되었으며, 라인·영역·막대·산점도·파이·캔들스틱 등 다양한 시리즈 타입을 지원\n호버 하이라이트...",
+          "id": "https://news.hada.io/topic?id=26027",
+          "isoDate": "2026-01-22T00:43:27.000Z"
         }
       ]
     }
