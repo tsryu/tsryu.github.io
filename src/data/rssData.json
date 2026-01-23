@@ -7,6 +7,66 @@
       "priority": 1,
       "data": [
         {
+          "title": "영국과 미국의 ‘영웅’ 개념에 대한 더글러스 애덤스의 문화적 차이 분석",
+          "link": "https://news.hada.io/topic?id=26070",
+          "pubDate": "2026-01-23T12:33:11.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>더글러스 애덤스</strong>는 『은하수를 여행하는 히치하이커를 위한 안내서』의 주인공 <strong>아서 덴트</strong>가 미국인에게는 비영웅적으로 보이지만, 영국에서는 전형적인 영웅상으로 받아들여진다고 설명</li>\n<li>영국에서는 <strong>패배와 무력함을 자각한 인물</strong>을 영웅으로 여기...</p>",
+          "contentSnippet": "더글러스 애덤스는 『은하수를 여행하는 히치하이커를 위한 안내서』의 주인공 아서 덴트가 미국인에게는 비영웅적으로 보이지만, 영국에서는 전형적인 영웅상으로 받아들여진다고 설명\n영국에서는 패배와 무력함을 자각한 인물을 영웅으로 여기...",
+          "id": "https://news.hada.io/topic?id=26070",
+          "isoDate": "2026-01-23T12:33:11.000Z"
+        },
+        {
+          "title": "OpenAI: 8억 명의 사용자를 지탱하는 PostgreSQL 대규모 확장 전략",
+          "link": "https://news.hada.io/topic?id=26069",
+          "pubDate": "2026-01-23T11:52:13.000Z",
+          "author": "darjeeling",
+          "content": "<p>요약:</p>\n<ul>\n<li>OpenAI는 단일 Primary와 약 50개의 Read Replica(Azure Flexible Server)로 수백만 QPS와 8억 명의 사용자를 처리하고 있습니다.</li>\n<li>쓰기 부하 분산을 위해 샤딩이 가능한 워크로드는 Azure Cosmos DB로 이관하고, 애플리케이션 레벨에서 'Lazy Write' 등을 적용해 쓰기를 최적화했습니다.",
+          "contentSnippet": "요약:\nOpenAI는 단일 Primary와 약 50개의 Read Replica(Azure Flexible Server)로 수백만 QPS와 8억 명의 사용자를 처리하고 있습니다.\n쓰기 부하 분산을 위해 샤딩이 가능한 워크로드는 Azure Cosmos DB로 이관하고, 애플리케이션 레벨에서 'Lazy Write' 등을 적용해 쓰기를 최적화했습니다.",
+          "id": "https://news.hada.io/topic?id=26069",
+          "isoDate": "2026-01-23T11:52:13.000Z"
+        },
+        {
+          "title": "소프트웨어의 유튜브 모먼트가 일어나고 있다 ",
+          "link": "https://news.hada.io/topic?id=26068",
+          "pubDate": "2026-01-23T11:00:10.000Z",
+          "author": "davespark",
+          "content": "<p>(a16z Substack, Anish A 작성)</p>\n<p><strong>핵심 비유</strong></p>\n<ul>\n<li>2005년 유튜브 등장처럼 소프트웨어도 지금 &quot;유튜브 모먼트&quot;를 맞이 중</li>\n<li>당시엔 뚜렷한 니즈가 없어 보였지만 → 지금은 문화적으로 TV보다 훨씬 큰 영향력 + 5500억 달러 규모로 성장</li>\n<li>소프트웨어도 비슷한",
+          "contentSnippet": "(a16z Substack, Anish A 작성)\n핵심 비유\n2005년 유튜브 등장처럼 소프트웨어도 지금 \"유튜브 모먼트\"를 맞이 중\n당시엔 뚜렷한 니즈가 없어 보였지만 → 지금은 문화적으로 TV보다 훨씬 큰 영향력 + 5500억 달러 규모로 성장\n소프트웨어도 비슷한",
+          "id": "https://news.hada.io/topic?id=26068",
+          "isoDate": "2026-01-23T11:00:10.000Z"
+        },
+        {
+          "title": "vLLM 메모리 누수 디버깅: 힙(Heap) 너머 UCX와 mmap의 미스터리",
+          "link": "https://news.hada.io/topic?id=26067",
+          "pubDate": "2026-01-23T10:09:23.000Z",
+          "author": "darjeeling",
+          "content": "<p>요약:</p>\n<ul>\n<li>\n<strong>문제 상황</strong>: vLLM의 Prefill/Decode 분리(disaggregated) 서빙 환경에서 분당 400MB의 시스템 메모리(RSS) 누수가 발생했으나, 일반적인 Python 프로파일러로는 감지되지 않음.</li>\n<li>\n<strong>원인 분석</strong>: Heaptrack과 pmap으로 힙이 아닌 익명 메모리 매핑(mmap)에",
+          "contentSnippet": "요약:\n문제 상황: vLLM의 Prefill/Decode 분리(disaggregated) 서빙 환경에서 분당 400MB의 시스템 메모리(RSS) 누수가 발생했으나, 일반적인 Python 프로파일러로는 감지되지 않음.\n원인 분석: Heaptrack과 pmap으로 힙이 아닌 익명 메모리 매핑(mmap)에",
+          "id": "https://news.hada.io/topic?id=26067",
+          "isoDate": "2026-01-23T10:09:23.000Z"
+        },
+        {
+          "title": "vLLM 제작자들이 설립한 'Inferact', 오픈소스 추론 엔진 상용화 위해 1억 5천만 달러 시드 투자 유치",
+          "link": "https://news.hada.io/topic?id=26066",
+          "pubDate": "2026-01-23T09:21:58.000Z",
+          "author": "darjeeling",
+          "content": "<p>요약:</p>\n<ul>\n<li>오픈소스 LLM 추론 엔진인 vLLM의 제작자들이 설립한 스타트업 'Inferact'가 1억 5천만 달러(약 2,100억 원) 규모의 시드 투자를 유치하며 기업 가치 8억 달러를 인정받음.</li>\n<li>이번 투자는 a16z와 Lightspeed가 주도했으며, 확보된 자금은 vLLM 기반의 엔터프라이즈급 AI 추론 플랫폼 구축 ",
+          "contentSnippet": "요약:\n오픈소스 LLM 추론 엔진인 vLLM의 제작자들이 설립한 스타트업 'Inferact'가 1억 5천만 달러(약 2,100억 원) 규모의 시드 투자를 유치하며 기업 가치 8억 달러를 인정받음.\n이번 투자는 a16z와 Lightspeed가 주도했으며, 확보된 자금은 vLLM 기반의 엔터프라이즈급 AI 추론 플랫폼 구축",
+          "id": "https://news.hada.io/topic?id=26066",
+          "isoDate": "2026-01-23T09:21:58.000Z"
+        },
+        {
+          "title": "SSH가 키 입력마다 100개의 패킷을 보내는 이유",
+          "link": "https://news.hada.io/topic?id=26065",
+          "pubDate": "2026-01-23T08:33:25.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>SSH 세션에서 단일 키 입력 시 <strong>수백 개의 패킷이 전송되는 현상</strong>이 발견되어 원인을 추적한 사례</li>\n<li>\n<code>tcpdump</code> 분석 결과, 대부분의 패킷이 <strong>36바이트 크기의 반복 메시지</strong>로 구성되어 있었으며, 약 20ms 간격으로 발생</li>\n<li>원인은 2023년 SSH에 추가된...</p>",
+          "contentSnippet": "SSH 세션에서 단일 키 입력 시 수백 개의 패킷이 전송되는 현상이 발견되어 원인을 추적한 사례\ntcpdump 분석 결과, 대부분의 패킷이 36바이트 크기의 반복 메시지로 구성되어 있었으며, 약 20ms 간격으로 발생\n원인은 2023년 SSH에 추가된...",
+          "id": "https://news.hada.io/topic?id=26065",
+          "isoDate": "2026-01-23T08:33:25.000Z"
+        },
+        {
           "title": "Show GN: 데이터의 벡터구조를 수학적으로 붕괴시켜 영구삭제하는 VANI를 개발했습니다",
           "link": "https://news.hada.io/topic?id=26064",
           "pubDate": "2026-01-23T07:32:24.000Z",
@@ -45,66 +105,6 @@
           "contentSnippet": "\"5년 전에 사서 들고 있었으면 테슬라가 현대차보다 수익률이 좋나?\"\n이런 궁금증이 있을 때마다 이걸 좀 쉽게 비교할 수 있는 서비스를 찾아봤지만...\n잘 없는거 같아서 만들",
           "id": "https://news.hada.io/topic?id=26061",
           "isoDate": "2026-01-23T05:55:11.000Z"
-        },
-        {
-          "title": "Claude.md 파일 생성 작업으로 Claude 계정이 차단된 사례",
-          "link": "https://news.hada.io/topic?id=26060",
-          "pubDate": "2026-01-23T05:33:33.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>개인 프로젝트 자동화를 위해 <strong>Claude Code CLI</strong>를 사용하던 중, <code>CLAUDE.md</code> 파일을 생성하는 과정에서 계정이 <strong>예고 없이 비활성화</strong>됨</li>\n<li>두 개의 Claude 인스턴스를 병렬로 실행해 한쪽이 다른 쪽의 오류를 수정하도록 하는 <strong>자동 반복 루프</strong...</p>",
-          "contentSnippet": "개인 프로젝트 자동화를 위해 Claude Code CLI를 사용하던 중, CLAUDE.md 파일을 생성하는 과정에서 계정이 예고 없이 비활성화됨\n두 개의 Claude 인스턴스를 병렬로 실행해 한쪽이 다른 쪽의 오류를 수정하도록 하는 자동 반복 루프",
-          "id": "https://news.hada.io/topic?id=26060",
-          "isoDate": "2026-01-23T05:33:33.000Z"
-        },
-        {
-          "title": "Spotify가 Anna’s Archive 상대 소송에서 승소하여 .org 도메인 폐쇄",
-          "link": "https://news.hada.io/topic?id=26059",
-          "pubDate": "2026-01-23T05:01:27.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>Anna’s Archive</strong>의 .org 도메인이 1월 초 정지되었으며, 이는 <strong>Spotify와 주요 음반사들의 소송</strong> 결과로 확인됨</li>\n<li>\n<a href=\"https://news.hada.io/topic?id=25216\">Spotify 전체 백업본을 토렌트로 공개</a> 한 이후, <strong>Spotify, Sony, Warner, UMG</strong> 등...</p>",
-          "contentSnippet": "Anna’s Archive의 .org 도메인이 1월 초 정지되었으며, 이는 Spotify와 주요 음반사들의 소송 결과로 확인됨\nSpotify 전체 백업본을 토렌트로 공개 한 이후, Spotify, Sony, Warner, UMG 등...",
-          "id": "https://news.hada.io/topic?id=26059",
-          "isoDate": "2026-01-23T05:01:27.000Z"
-        },
-        {
-          "title": "Claude Chill: 터미널에서 Claude Code의 깜빡임 현상 수정하기",
-          "link": "https://news.hada.io/topic?id=26058",
-          "pubDate": "2026-01-23T04:50:40.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>Claude Chill</strong>은 Claude Code가 터미널 전체를 반복적으로 다시 그릴 때 발생하는 <strong>지연과 깜빡임 문제를 완화하는 PTY 프록시 도구</strong>\n</li>\n<li>Claude Code가 사용하는 <strong>동기화 출력(sync blocks)</strong> 을 가로채고, <strong>VT100 기반 렌더링</strong>으로 화면...</p>",
-          "contentSnippet": "Claude Chill은 Claude Code가 터미널 전체를 반복적으로 다시 그릴 때 발생하는 지연과 깜빡임 문제를 완화하는 PTY 프록시 도구\n\nClaude Code가 사용하는 동기화 출력(sync blocks) 을 가로채고, VT100 기반 렌더링으로 화면...",
-          "id": "https://news.hada.io/topic?id=26058",
-          "isoDate": "2026-01-23T04:50:40.000Z"
-        },
-        {
-          "title": "Show GN: OncallManager, your oncall schedule manager on the Slack",
-          "link": "https://news.hada.io/topic?id=26057",
-          "pubDate": "2026-01-23T04:50:08.000Z",
-          "author": "badafishsing",
-          "content": "<p>제가 겪은 많은 경우 oncall schedule을 manual하게 관리하는것을 보았어요, 그러다 보니 실제 정해진 시간에 딱 맞춰서 다음사람에게 넘기는것도 일이고, 또한 내가 언제 다음 온콜인지를 알지못해서 휴가 등으로 겹쳐서 혼선이 오는 경우도 많이 보았습니다!</p>\n<p>제가 다녔던 몇몇 회사에서 도입을 해보았고 내부",
-          "contentSnippet": "제가 겪은 많은 경우 oncall schedule을 manual하게 관리하는것을 보았어요, 그러다 보니 실제 정해진 시간에 딱 맞춰서 다음사람에게 넘기는것도 일이고, 또한 내가 언제 다음 온콜인지를 알지못해서 휴가 등으로 겹쳐서 혼선이 오는 경우도 많이 보았습니다!\n제가 다녔던 몇몇 회사에서 도입을 해보았고 내부",
-          "id": "https://news.hada.io/topic?id=26057",
-          "isoDate": "2026-01-23T04:50:08.000Z"
-        },
-        {
-          "title": "뉴욕시를 거대한 아이소메트릭 픽셀 아트로 표현한 지도 프로젝트",
-          "link": "https://news.hada.io/topic?id=26056",
-          "pubDate": "2026-01-23T01:50:13.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>뉴욕시 전역을 <strong>아이소메트릭 픽셀 아트</strong> 형식으로 시각화한 대규모 디지털 지도</li>\n<li>\n<strong>건물, 거리, 공원 등 도시 구조물</strong>을 픽셀 단위로 정교하게 재현</li>\n<li>웹 기반 인터페이스를 통해 <strong>확대·축소 및 탐색 기능</strong> 제공</li>\n<li>예술적 표현과 도시 데...</p>",
-          "contentSnippet": "뉴욕시 전역을 아이소메트릭 픽셀 아트 형식으로 시각화한 대규모 디지털 지도\n건물, 거리, 공원 등 도시 구조물을 픽셀 단위로 정교하게 재현\n웹 기반 인터페이스를 통해 확대·축소 및 탐색 기능 제공\n예술적 표현과 도시 데...",
-          "id": "https://news.hada.io/topic?id=26056",
-          "isoDate": "2026-01-23T01:50:13.000Z"
-        },
-        {
-          "title": "ChatGPT 사용시 당신의 뇌에는 인지 부채(Cognitive Debt) 가 축적됩니다",
-          "link": "https://news.hada.io/topic?id=26055",
-          "pubDate": "2026-01-23T01:47:13.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>대규모 언어모델(LLM)</strong> 을 활용한 에세이 작성이 인간의 <strong>뇌 활동과 인지 부하</strong>에 미치는 영향을 실험적으로 분석한 연구</li>\n<li>LLM 사용자는 <strong>작문 소유감이 낮고</strong>, 자신의 글을 정확히 인용하는 데 어려움을 겪었으며, 장기적으로 <strong>언어·행동·신�...</p>",
-          "contentSnippet": "대규모 언어모델(LLM) 을 활용한 에세이 작성이 인간의 뇌 활동과 인지 부하에 미치는 영향을 실험적으로 분석한 연구\nLLM 사용자는 작문 소유감이 낮고, 자신의 글을 정확히 인용하는 데 어려움을 겪었으며, 장기적으로 언어·행동·신�...",
-          "id": "https://news.hada.io/topic?id=26055",
-          "isoDate": "2026-01-23T01:47:13.000Z"
         }
       ]
     }
