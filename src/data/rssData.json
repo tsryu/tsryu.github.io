@@ -7,104 +7,104 @@
       "priority": 1,
       "data": [
         {
-          "title": "오픈소스 프로젝트가 더 이상 외부 기여를 받지 않겠다고 선언",
-          "link": "https://news.hada.io/topic?id=26044",
-          "pubDate": "2026-01-22T12:15:44.000Z",
-          "author": "nayounsang1",
-          "content": "<p>스타 44.7k규모의 오픈소스 tldraw가 issues, bug reports 그리고 discussions을 제외한 외부 기여자의 PR은 자동으로 닫는 정책을 도입했습니다.<br />\n맥락과 코드베이스 이해없이 무분별하게 AI-generated된 PR로 인해 받는 고통이 원인입니다.<br />\n이 정책은 임시고, Github이 기여를 관리할 수 있는 좋은 툴을...</p>",
-          "contentSnippet": "스타 44.7k규모의 오픈소스 tldraw가 issues, bug reports 그리고 discussions을 제외한 외부 기여자의 PR은 자동으로 닫는 정책을 도입했습니다.\n맥락과 코드베이스 이해없이 무분별하게 AI-generated된 PR로 인해 받는 고통이 원인입니다.\n이 정책은 임시고, Github이 기여를 관리할 수 있는 좋은 툴을...",
-          "id": "https://news.hada.io/topic?id=26044",
-          "isoDate": "2026-01-22T12:15:44.000Z"
-        },
-        {
-          "title": "Show GN: FastAPI-fastkit: Python & FastAPI 입문자를 위한 올인원 프로젝트 스캐폴딩 도구",
-          "link": "https://news.hada.io/topic?id=26043",
-          "pubDate": "2026-01-22T08:46:13.000Z",
-          "author": "bnbong",
-          "content": "<p>안녕하세요, 요즘 AI 개발 분야가 뜨겁다 못해 용암 감자로 부상하면서 Python 백엔드 프레임워크인 FastAPI도 정말 많은 유입이 생겼는데요,</p>\n<p>저는 오랫동안 FastAPI를 사용하고 사랑해온 개발자로서  FastAPI에 입문하는 개발자분들을 돕고 싶은 마음으로 이 프로젝트를 개발하게 되었습니다.</p>\n<p>FastAPI",
-          "contentSnippet": "안녕하세요, 요즘 AI 개발 분야가 뜨겁다 못해 용암 감자로 부상하면서 Python 백엔드 프레임워크인 FastAPI도 정말 많은 유입이 생겼는데요,\n저는 오랫동안 FastAPI를 사용하고 사랑해온 개발자로서  FastAPI에 입문하는 개발자분들을 돕고 싶은 마음으로 이 프로젝트를 개발하게 되었습니다.\nFastAPI",
-          "id": "https://news.hada.io/topic?id=26043",
-          "isoDate": "2026-01-22T08:46:13.000Z"
-        },
-        {
-          "title": "Skip이 이제 무료이자 오픈소스로 전환",
-          "link": "https://news.hada.io/topic?id=26042",
-          "pubDate": "2026-01-22T07:32:59.000Z",
+          "title": "뉴욕시를 거대한 아이소메트릭 픽셀 아트로 표현한 지도 프로젝트",
+          "link": "https://news.hada.io/topic?id=26056",
+          "pubDate": "2026-01-23T01:50:13.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Skip 1.7 버전부터 모든 라이선스 제약이 제거되어</strong>, 누구나 무료로 사용할 수 있는 <strong>완전한 오픈소스 도구</strong>로 전환됨</li>\n<li>Swift와 SwiftUI 기반으로 <strong>iOS와 Android 앱을 하나의 코드베이스로 개발</strong>할 수 있는 <strong>크로스플랫폼 네이티브 프레임워크...</p>",
-          "contentSnippet": "Skip 1.7 버전부터 모든 라이선스 제약이 제거되어, 누구나 무료로 사용할 수 있는 완전한 오픈소스 도구로 전환됨\nSwift와 SwiftUI 기반으로 iOS와 Android 앱을 하나의 코드베이스로 개발할 수 있는 크로스플랫폼 네이티브 프레임워크...",
-          "id": "https://news.hada.io/topic?id=26042",
-          "isoDate": "2026-01-22T07:32:59.000Z"
+          "content": "<ul>\n<li>뉴욕시 전역을 <strong>아이소메트릭 픽셀 아트</strong> 형식으로 시각화한 대규모 디지털 지도</li>\n<li>\n<strong>건물, 거리, 공원 등 도시 구조물</strong>을 픽셀 단위로 정교하게 재현</li>\n<li>웹 기반 인터페이스를 통해 <strong>확대·축소 및 탐색 기능</strong> 제공</li>\n<li>예술적 표현과 도시 데...</p>",
+          "contentSnippet": "뉴욕시 전역을 아이소메트릭 픽셀 아트 형식으로 시각화한 대규모 디지털 지도\n건물, 거리, 공원 등 도시 구조물을 픽셀 단위로 정교하게 재현\n웹 기반 인터페이스를 통해 확대·축소 및 탐색 기능 제공\n예술적 표현과 도시 데...",
+          "id": "https://news.hada.io/topic?id=26056",
+          "isoDate": "2026-01-23T01:50:13.000Z"
         },
         {
-          "title": "이렇게 높은 퀄리티의 요약 서비스가 무료라고?",
-          "link": "https://news.hada.io/topic?id=26041",
-          "pubDate": "2026-01-22T06:36:28.000Z",
-          "author": "kkumaeunsonyeon",
-          "content": "<p>메이커 소개</p>\n<p>Q. asbubam 님 안녕하세요. 본인 소개 부탁드려요</p>\n<p>A. 안녕하세요. SecondB.ai 를 개발하고 있는 @asbubam 입니다. 아스부밤이라고 읽습니다.</p>\n<p>Q. SecondB.ai 서비스 소개를 부탁드려요</p>\n<p>A. SecondB.ai(세컨비) 는 Youtube 영상과, 웹 사이트, PDF 문서를 읽기 쉬운 문장의 형태",
-          "contentSnippet": "메이커 소개\nQ. asbubam 님 안녕하세요. 본인 소개 부탁드려요\nA. 안녕하세요. SecondB.ai 를 개발하고 있는 @asbubam 입니다. 아스부밤이라고 읽습니다.\nQ. SecondB.ai 서비스 소개를 부탁드려요\nA. SecondB.ai(세컨비) 는 Youtube 영상과, 웹 사이트, PDF 문서를 읽기 쉬운 문장의 형태",
-          "id": "https://news.hada.io/topic?id=26041",
-          "isoDate": "2026-01-22T06:36:28.000Z"
-        },
-        {
-          "title": "AI 시대, 리팩터링은 더 이상 노가다가 아니다",
-          "link": "https://news.hada.io/topic?id=26040",
-          "pubDate": "2026-01-22T06:23:06.000Z",
-          "author": "whatsup",
-          "content": "<p>AI + Codemod로 Design System 레거시를 정리한 글입니다.<br />\n대규모 리팩터링을 앞두고 있는 분들께 참고가 되었으면 합니다.</p>\n<h3>문제 발생 배경</h3>\n<ul>\n<li>사내 Design System에서 Typography 등 다수 컴포넌트가 Deprecated</li>\n<li>새 Design System + Tailwind 도입 후 한 코드베이스 안에 Depreca",
-          "contentSnippet": "AI + Codemod로 Design System 레거시를 정리한 글입니다.\n문제 발생 배경\n사내 Design System에서 Typography 등 다수 컴포넌트가 Deprecated\n새 Design System + Tailwind 도입 후 한 코드베이스 안에 Depreca",
-          "id": "https://news.hada.io/topic?id=26040",
-          "isoDate": "2026-01-22T06:23:06.000Z"
-        },
-        {
-          "title": "Show GN: 전자책 검색기 - 전자책 검색과 대출이 불편해서 만들었습니다",
-          "link": "https://news.hada.io/topic?id=26039",
-          "pubDate": "2026-01-22T06:17:24.000Z",
-          "author": "hyungyunlim",
-          "content": "<p>전재책을 리더기로 보는 분들이 많이 늘어나고 있는데요.</p>\n<p>공공 도서관에서도 전자책을 무료로 빌릴 수 있습니다. 다만, 개별 도서관에 로그인을해서 책을 검색해서 이용가능한지 확인하고, 대출을 하면, 그 책을 볼 수 있는 앱에서 다시 다운 받거나 해야 합니다.</p>\n<p>전자책 검색하면,</p>\n<p>어떤 서점/플",
-          "contentSnippet": "전재책을 리더기로 보는 분들이 많이 늘어나고 있는데요.\n공공 도서관에서도 전자책을 무료로 빌릴 수 있습니다. 다만, 개별 도서관에 로그인을해서 책을 검색해서 이용가능한지 확인하고, 대출을 하면, 그 책을 볼 수 있는 앱에서 다시 다운 받거나 해야 합니다.\n전자책 검색하면,\n어떤 서점/플",
-          "id": "https://news.hada.io/topic?id=26039",
-          "isoDate": "2026-01-22T06:17:24.000Z"
-        },
-        {
-          "title": "Show GN: Ollama 기반의 epub 번역기",
-          "link": "https://news.hada.io/topic?id=26038",
-          "pubDate": "2026-01-22T05:07:54.000Z",
-          "author": "jayhanx",
-          "content": "<p>영어로 된 무료 전자책들이 좋은게 많은데, 한국어로 편하게 읽으려고 바이브코딩으로 만들었습니다.<br />\nOllama가 설치 되어있어야하고, 번역을 위한 모델이 필요합니다.<br />\n제 개인 맥에서는 TranslateGemma 4B 모델을 쓰고 있는데, 번역 품질도 충분히 좋고 속도도 쾌적해서 추천합니다.</p>\n",
-          "contentSnippet": "영어로 된 무료 전자책들이 좋은게 많은데, 한국어로 편하게 읽으려고 바이브코딩으로 만들었습니다.\nOllama가 설치 되어있어야하고, 번역을 위한 모델이 필요합니다.\n제 개인 맥에서는 TranslateGemma 4B 모델을 쓰고 있는데, 번역 품질도 충분히 좋고 속도도 쾌적해서 추천합니다.",
-          "id": "https://news.hada.io/topic?id=26038",
-          "isoDate": "2026-01-22T05:07:54.000Z"
-        },
-        {
-          "title": "클로드의 새로운 헌법",
-          "link": "https://news.hada.io/topic?id=26037",
-          "pubDate": "2026-01-22T04:33:11.000Z",
+          "title": "ChatGPT 사용시 당신의 뇌에는 인지 부채(Cognitive Debt) 가 축적됩니다",
+          "link": "https://news.hada.io/topic?id=26055",
+          "pubDate": "2026-01-23T01:47:13.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>Anthropic이 <strong>AI 모델 Claude의 가치와 행동 원칙을 규정한 새로운 헌법</strong>을 공개</li>\n<li>헌법은 Claude의 <strong>훈련 과정 핵심 요소</strong>로, 모델의 성격과 판단 방식을 직접적으로 형성</li>\n<li>새 버전은 단순한 규칙 나열이 아닌, <strong>행동의 이유와 맥락을 설명하는 서사적 구...</p>",
-          "contentSnippet": "Anthropic이 AI 모델 Claude의 가치와 행동 원칙을 규정한 새로운 헌법을 공개\n헌법은 Claude의 훈련 과정 핵심 요소로, 모델의 성격과 판단 방식을 직접적으로 형성\n새 버전은 단순한 규칙 나열이 아닌, 행동의 이유와 맥락을 설명하는 서사적 구...",
-          "id": "https://news.hada.io/topic?id=26037",
-          "isoDate": "2026-01-22T04:33:11.000Z"
+          "content": "<ul>\n<li>\n<strong>대규모 언어모델(LLM)</strong> 을 활용한 에세이 작성이 인간의 <strong>뇌 활동과 인지 부하</strong>에 미치는 영향을 실험적으로 분석한 연구</li>\n<li>LLM 사용자는 <strong>작문 소유감이 낮고</strong>, 자신의 글을 정확히 인용하는 데 어려움을 겪었으며, 장기적으로 <strong>언어·행동·신�...</p>",
+          "contentSnippet": "대규모 언어모델(LLM) 을 활용한 에세이 작성이 인간의 뇌 활동과 인지 부하에 미치는 영향을 실험적으로 분석한 연구\nLLM 사용자는 작문 소유감이 낮고, 자신의 글을 정확히 인용하는 데 어려움을 겪었으며, 장기적으로 언어·행동·신�...",
+          "id": "https://news.hada.io/topic?id=26055",
+          "isoDate": "2026-01-23T01:47:13.000Z"
         },
         {
-          "title": "Sony와 TCL의 파트너십이 TV 시장의 미래에 의미하는 것",
-          "link": "https://news.hada.io/topic?id=26036",
-          "pubDate": "2026-01-22T02:52:57.000Z",
+          "title": "NeurIPS 2025 승인 논문에서 GPTZero가 100건의 새로운 환각 인용을 발견",
+          "link": "https://news.hada.io/topic?id=26054",
+          "pubDate": "2026-01-23T01:44:13.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>Sony가 TCL과 <strong>TV 사업 파트너십</strong>을 논의하며, 지분 49:51 구조의 합작 가능성이 제기됨</li>\n<li>아직 <strong>양해각서 단계</strong>로, 계약·규제 승인까지 수개월이 필요해 실제 제품은 2027년 이후 등장 가능성 있음</li>\n<li>Sony는 <strong>TCL의 수직 통합 제조 역량</strong>을 통해 ...</p>",
-          "contentSnippet": "Sony가 TCL과 TV 사업 파트너십을 논의하며, 지분 49:51 구조의 합작 가능성이 제기됨\n아직 양해각서 단계로, 계약·규제 승인까지 수개월이 필요해 실제 제품은 2027년 이후 등장 가능성 있음\nSony는 TCL의 수직 통합 제조 역량을 통해 ...",
-          "id": "https://news.hada.io/topic?id=26036",
-          "isoDate": "2026-01-22T02:52:57.000Z"
+          "content": "<ul>\n<li>\n<strong>GPTZero의 Hallucination Check 도구</strong>가 NeurIPS 2025 승인 논문 5,290편 중 4,841편을 분석해 <strong>100건 이상의 ‘환각 인용(hallucinated citations)’</strong> 을 확인</li>\n<li>다수의 논문에서 <strong>존재하지 않는 저자, 잘못된 DOI·URL, 조작된 제목</strong> 등 <strong>AI 생...</p>",
+          "contentSnippet": "GPTZero의 Hallucination Check 도구가 NeurIPS 2025 승인 논문 5,290편 중 4,841편을 분석해 100건 이상의 ‘환각 인용(hallucinated citations)’ 을 확인\n다수의 논문에서 존재하지 않는 저자, 잘못된 DOI·URL, 조작된 제목 등 AI 생...",
+          "id": "https://news.hada.io/topic?id=26054",
+          "isoDate": "2026-01-23T01:44:13.000Z"
         },
         {
-          "title": "AI가 제도적 기반을 파괴하는 방식",
-          "link": "https://news.hada.io/topic?id=26035",
-          "pubDate": "2026-01-22T02:51:19.000Z",
+          "title": "쓸모없는 리포트로 시간을 낭비하게 하면 당신을 밴하고 공개적으로 조롱할 것이다",
+          "link": "https://news.hada.io/topic?id=26052",
+          "pubDate": "2026-01-23T01:41:13.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>curl 오픈소스 프로젝트</strong> 의 <code>/.well-known/security.txt</code> 에 기재된 내용</li>\n<li>자체 제품에서 발견된 보안 문제에 대한 보고를 접수하지만, 보고된 문제에 대해 <strong>금전적 보상이나 보상 형태의 혜택은 제공하지 않음</strong>\n</li>\n<li>대신, 확인된 문제에는 <strong...</p>",
+          "contentSnippet": "curl 오픈소스 프로젝트 의 /.well-known/security.txt 에 기재된 내용\n자체 제품에서 발견된 보안 문제에 대한 보고를 접수하지만, 보고된 문제에 대해 금전적 보상이나 보상 형태의 혜택은 제공하지 않음\n\n대신, 확인된 문제에는",
+          "id": "https://news.hada.io/topic?id=26052",
+          "isoDate": "2026-01-23T01:41:13.000Z"
+        },
+        {
+          "title": "인터넷 투표는 안전하지 않으며 공공 선거에 사용되어서는 안 된다",
+          "link": "https://news.hada.io/topic?id=26051",
+          "pubDate": "2026-01-23T01:39:19.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>인터넷 투표는 <strong>기술적으로 안전하게 구현할 수 없는 시스템</strong>으로, 수십 년간의 연구에서도 해결책이 발견되지 않았음</li>\n<li>\n<strong>스마트폰·컴퓨터 악성코드, 서버 해킹, 선거관리 서버 침입</strong> 등으로 인해 투표 조작이 가능하며, 한 명의 공격자가 대규모 조작을 할 수 있음</li...</p>",
+          "contentSnippet": "인터넷 투표는 기술적으로 안전하게 구현할 수 없는 시스템으로, 수십 년간의 연구에서도 해결책이 발견되지 않았음\n스마트폰·컴퓨터 악성코드, 서버 해킹, 선거관리 서버 침입 등으로 인해 투표 조작이 가능하며, 한 명의 공격자가 대규모 조작을 할 수 있음",
+          "id": "https://news.hada.io/topic?id=26051",
+          "isoDate": "2026-01-23T01:39:19.000Z"
+        },
+        {
+          "title": "검색의 새벽을 기다리며: 검색 인덱스, 구글 판결, 그리고 Kagi에 미치는 영향",
+          "link": "https://news.hada.io/topic?id=26050",
+          "pubDate": "2026-01-23T01:36:19.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>전 세계 검색 시장의 <strong>90% 이상을 구글이 점유</strong>하며, 이는 AI 발전과 정보 접근의 핵심 인프라를 한 기업이 통제하는 구조로 이어짐</li>\n<li>미국 법원은 2024년 8월 구글이 <strong>일반 검색 서비스에서 독점적 지위를 남용했다</strong>고 판결, 이후 <strong>DOJ(미 법무부)</strong> 가 인...</p>",
+          "contentSnippet": "전 세계 검색 시장의 90% 이상을 구글이 점유하며, 이는 AI 발전과 정보 접근의 핵심 인프라를 한 기업이 통제하는 구조로 이어짐\n미국 법원은 2024년 8월 구글이 일반 검색 서비스에서 독점적 지위를 남용했다고 판결, 이후 DOJ(미 법무부) 가 인...",
+          "id": "https://news.hada.io/topic?id=26050",
+          "isoDate": "2026-01-23T01:36:19.000Z"
+        },
+        {
+          "title": "Qwen3-TTS 패밀리 오픈소스 공개: 음성 디자인, 클론, 생성 기능 제공",
+          "link": "https://news.hada.io/topic?id=26049",
+          "pubDate": "2026-01-23T01:33:18.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Qwen3-TTS</strong>는 음성 복제, 음성 디자인, 초고품질 인간형 음성 생성, 자연어 기반 제어를 지원하는 <strong>다국어 음성 생성 모델 시리즈</strong>\n</li>\n<li>중국어,영어,일본어,한국어 등 <strong>10개 주요 언어 및 다양한 방언</strong>을 지원하며, 1.7B와 0.6B 두 가지 모델 크기로 제공...</p>",
+          "contentSnippet": "Qwen3-TTS는 음성 복제, 음성 디자인, 초고품질 인간형 음성 생성, 자연어 기반 제어를 지원하는 다국어 음성 생성 모델 시리즈\n\n중국어,영어,일본어,한국어 등 10개 주요 언어 및 다양한 방언을 지원하며, 1.7B와 0.6B 두 가지 모델 크기로 제공...",
+          "id": "https://news.hada.io/topic?id=26049",
+          "isoDate": "2026-01-23T01:33:18.000Z"
+        },
+        {
+          "title": "유럽에서 풍력과 태양광이 화석연료를 추월",
+          "link": "https://news.hada.io/topic?id=26048",
+          "pubDate": "2026-01-23T01:30:18.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>유럽연합 전역에서 <strong>풍력과 태양광 발전이 처음으로 화석연료 발전량을 넘어섬</strong>, 이는 전력 구조의 중요한 전환점</li>\n<li>\n<strong>태양광 발전의 급속한 확장</strong>이 주요 요인으로, 전체 전력의 30%를 풍력·태양광이, 29%를 화석연료가 차지</li>\n<li>헝가리·그리스·스페인 등 5개국에서...</p>",
+          "contentSnippet": "유럽연합 전역에서 풍력과 태양광 발전이 처음으로 화석연료 발전량을 넘어섬, 이는 전력 구조의 중요한 전환점\n태양광 발전의 급속한 확장이 주요 요인으로, 전체 전력의 30%를 풍력·태양광이, 29%를 화석연료가 차지\n헝가리·그리스·스페인 등 5개국에서...",
+          "id": "https://news.hada.io/topic?id=26048",
+          "isoDate": "2026-01-23T01:30:18.000Z"
+        },
+        {
+          "title": "Sweep, 오픈 가중치 기반 1.5B 모델로 코드 ‘다음 편집’ 자동완성 지원",
+          "link": "https://news.hada.io/topic?id=26047",
+          "pubDate": "2026-01-23T01:27:18.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>1.5B 파라미터</strong>를 가진 Sweep Next-Edit 모델은 사용자의 <strong>다음 코드 수정</strong>을 예측해 자동완성 기능을 제공</li>\n<li>\n<strong>로컬 환경</strong>에서 500ms 이하의 속도로 실행되며, <strong>4배 이상 큰 모델보다 높은 성능</strong>을 보임</li>\n<li>\n<strong>Q8_0 GGUF 양...</p>",
+          "contentSnippet": "1.5B 파라미터를 가진 Sweep Next-Edit 모델은 사용자의 다음 코드 수정을 예측해 자동완성 기능을 제공\n로컬 환경에서 500ms 이하의 속도로 실행되며, 4배 이상 큰 모델보다 높은 성능을 보임\nQ8_0 GGUF 양...",
+          "id": "https://news.hada.io/topic?id=26047",
+          "isoDate": "2026-01-23T01:27:18.000Z"
+        },
+        {
+          "title": "소프트 삭제의 어려움",
+          "link": "https://news.hada.io/topic?id=26046",
+          "pubDate": "2026-01-23T01:21:04.000Z",
           "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>민주주의의 핵심 제도</strong>인 법치, 대학, 언론은 협력과 안정, 적응을 가능하게 하는 구조로 설명됨</li>\n<li>이러한 제도는 <strong>권위의 위계와 규칙의 틀 안에서 진화와 적응</strong>을 지속하며 정당성을 유지함</li>\n<li>\n<strong>투명성·협력·책임성</strong>을 기반으로 한 제도는 개인...</p>",
-          "contentSnippet": "민주주의의 핵심 제도인 법치, 대학, 언론은 협력과 안정, 적응을 가능하게 하는 구조로 설명됨\n이러한 제도는 권위의 위계와 규칙의 틀 안에서 진화와 적응을 지속하며 정당성을 유지함\n투명성·협력·책임성을 기반으로 한 제도는 개인...",
-          "id": "https://news.hada.io/topic?id=26035",
-          "isoDate": "2026-01-22T02:51:19.000Z"
+          "content": "<ul>\n<li>데이터 복구와 규제 준수를 위해 <strong><code>archived_at</code> 열 기반의 소프트 삭제</strong>가 자주 사용되지만, 시간이 지나면 <strong>복잡성과 비효율</strong>이 커짐</li>\n<li>이 방식은 <strong>쿼리, 인덱스, 마이그레이션, 복원 로직</strong>을 복잡하게 만들고, 대부분의 보관 데이터가 다시...</p>",
+          "contentSnippet": "데이터 복구와 규제 준수를 위해 archived_at 열 기반의 소프트 삭제가 자주 사용되지만, 시간이 지나면 복잡성과 비효율이 커짐\n이 방식은 쿼리, 인덱스, 마이그레이션, 복원 로직을 복잡하게 만들고, 대부분의 보관 데이터가 다시...",
+          "id": "https://news.hada.io/topic?id=26046",
+          "isoDate": "2026-01-23T01:21:04.000Z"
         }
       ]
     }
