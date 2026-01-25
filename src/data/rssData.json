@@ -7,6 +7,46 @@
       "priority": 1,
       "data": [
         {
+          "title": "유럽, 미국 인터넷 기술 의존에서 벗어나려는 움직임",
+          "link": "https://news.hada.io/topic?id=26111",
+          "pubDate": "2026-01-25T14:36:52.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>유럽은 <strong>미국 빅테크 중심의 인터넷 인프라 의존</strong>이 가져올 위험을 줄이기 위해 <strong>디지털 자립</strong>을 강화 중임</li>\n<li>\n<strong>AWS, Microsoft Azure, Google Cloud</strong>가 유럽 <strong>클라우드 시장의 약 70%</strong> 를 점유하고 있으며, 이는 기술적·지정학적 리스크를...</p>",
+          "contentSnippet": "유럽은 미국 빅테크 중심의 인터넷 인프라 의존이 가져올 위험을 줄이기 위해 디지털 자립을 강화 중임\nAWS, Microsoft Azure, Google Cloud가 유럽 클라우드 시장의 약 70% 를 점유하고 있으며, 이는 기술적·지정학적 리스크를...",
+          "id": "https://news.hada.io/topic?id=26111",
+          "isoDate": "2026-01-25T14:36:52.000Z"
+        },
+        {
+          "title": "내 블로그에 Bluesky 댓글 섹션을 추가했다",
+          "link": "https://news.hada.io/topic?id=26110",
+          "pubDate": "2026-01-25T14:33:51.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>정적 사이트에서도 <strong>Bluesky API</strong>를 이용해 댓글을 표시할 수 있도록 구현한 사례</li>\n<li>Bluesky가 <strong>계정 인증, 스팸 관리, 저장소, 모더레이션</strong>을 처리하므로 별도 서버 유지가 불필요</li>\n<li>구현은 약 <strong>200줄의 TypeScript 코드</strong>로 구성되며, <code>@blu...</p>",
+          "contentSnippet": "정적 사이트에서도 Bluesky API를 이용해 댓글을 표시할 수 있도록 구현한 사례\nBluesky가 계정 인증, 스팸 관리, 저장소, 모더레이션을 처리하므로 별도 서버 유지가 불필요\n구현은 약 200줄의 TypeScript 코드로 구성되며, @blu...",
+          "id": "https://news.hada.io/topic?id=26110",
+          "isoDate": "2026-01-25T14:33:51.000Z"
+        },
+        {
+          "title": "Show GN: [Show GN] 공식 문서 번역 워크플로 개발 – Spring & MySQL 공식 문서 번역 및 검색",
+          "link": "https://news.hada.io/topic?id=26108",
+          "pubDate": "2026-01-25T13:30:02.000Z",
+          "author": "dankim0124",
+          "content": "<h4>소개</h4>\n<p>안녕하세요.</p>\n<p>이번에 공식 문서 시리즈를 번역하는 워크플로를 만들었고,  Mysql 과 Spring boot 의 번역 결과를 검색 가능한 형태로 공개했습니다.</p>\n<p>저는 면접 전후로 공식 문서를 훑어보는 편인데, 비슷한 용도로 쓰실 분들께도 도움이 되었으면 좋겠습니다.</p>\n<p>실제 프롬프트, 서비",
+          "contentSnippet": "소개\n안녕하세요.\n이번에 공식 문서 시리즈를 번역하는 워크플로를 만들었고,  Mysql 과 Spring boot 의 번역 결과를 검색 가능한 형태로 공개했습니다.\n저는 면접 전후로 공식 문서를 훑어보는 편인데, 비슷한 용도로 쓰실 분들께도 도움이 되었으면 좋겠습니다.\n실제 프롬프트, 서비",
+          "id": "https://news.hada.io/topic?id=26108",
+          "isoDate": "2026-01-25T13:30:02.000Z"
+        },
+        {
+          "title": "[Russ Cox] 부동 소수점 변환의 혁신: 더 쉽고, 더 빠르며, 더 간단하게",
+          "link": "https://news.hada.io/topic?id=26107",
+          "pubDate": "2026-01-25T13:07:04.000Z",
+          "author": "darjeeling",
+          "content": "<p>요약:</p>\n<ul>\n<li>Russ Cox가 제안하는 새로운 부동 소수점 변환 알고리즘은 기존의 복잡한 알고리즘(Ryū, Dragonbox 등)보다 단순하면서도 성능이 뛰어납니다.</li>\n<li>'Unrounded Scaling'이라는 핵심 프리미티브를 통해 2진수와 10진수 사이의 변환을 64비트 곱셈 한 번 수준으로 가속화합니다.</li>\n<li>이 구",
+          "contentSnippet": "요약:\nRuss Cox가 제안하는 새로운 부동 소수점 변환 알고리즘은 기존의 복잡한 알고리즘(Ryū, Dragonbox 등)보다 단순하면서도 성능이 뛰어납니다.\n'Unrounded Scaling'이라는 핵심 프리미티브를 통해 2진수와 10진수 사이의 변환을 64비트 곱셈 한 번 수준으로 가속화합니다.\n이 구",
+          "id": "https://news.hada.io/topic?id=26107",
+          "isoDate": "2026-01-25T13:07:04.000Z"
+        },
+        {
           "title": "BirdyChat, 유럽 최초의 WhatsApp 상호운용 채팅 앱으로 출시",
           "link": "https://news.hada.io/topic?id=26105",
           "pubDate": "2026-01-25T00:49:24.000Z",
@@ -65,46 +105,6 @@
           "contentSnippet": "모노레포 환경의 릴리스 자동화를 목표로 설계된 Rust 기반 CLI 및 GitHub 통합 도구\n다중 생태계 지원 : Rust(Crates), JS/TS(npm), Elixir(Hex), Python(PyPI) 등\n변경 로그 생성, 버전 증가(Version Bump) , 패키지 배포를 자동 처리",
           "id": "https://news.hada.io/topic?id=26099",
           "isoDate": "2026-01-25T00:31:02.000Z"
-        },
-        {
-          "title": "Zotero 8 릴리즈 - 개인용 연구 관리 소프트웨어 ",
-          "link": "https://news.hada.io/topic?id=26098",
-          "pubDate": "2026-01-25T00:11:17.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>논문, 기사, 책, PDF 등 연구 자료를 <strong>수집·정리·주석·인용·공유</strong>까지 하나의 도구에서 처리</li>\n<li>Mac, Windows, Linux, iOS, Android 지원</li>\n<li>브라우저 확장 기능으로 웹 탐색 중 논문·기사·도서 정보를 <strong>자료 유형을 자동 인식하고, 한 번의 클릭으로 자동 수집</strong> 가...</p>",
-          "contentSnippet": "논문, 기사, 책, PDF 등 연구 자료를 수집·정리·주석·인용·공유까지 하나의 도구에서 처리\nMac, Windows, Linux, iOS, Android 지원\n브라우저 확장 기능으로 웹 탐색 중 논문·기사·도서 정보를 자료 유형을 자동 인식하고, 한 번의 클릭으로 자동 수집 가...",
-          "id": "https://news.hada.io/topic?id=26098",
-          "isoDate": "2026-01-25T00:11:17.000Z"
-        },
-        {
-          "title": "Comma openpilot – 오픈소스 운전자 보조 시스템",
-          "link": "https://news.hada.io/topic?id=26097",
-          "pubDate": "2026-01-25T00:09:39.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>기존 차량에 장착해 <strong>AI 기반 운전자 보조 기능</strong>을 제공하는 장치</li>\n<li>\n<strong>차선 유지, 어댑티브 크루즈, 자동 차선 변경, 360도 시야, OTA 업데이트</strong> 기능을 지원</li>\n<li>\n<strong>토요타, 현대, 포드</strong> 등 주요 제조사 차량을 포함한 <strong>27개 브랜드, 325종 이...</p>",
-          "contentSnippet": "기존 차량에 장착해 AI 기반 운전자 보조 기능을 제공하는 장치\n차선 유지, 어댑티브 크루즈, 자동 차선 변경, 360도 시야, OTA 업데이트 기능을 지원\n토요타, 현대, 포드 등 주요 제조사 차량을 포함한 27개 브랜드, 325종 이...",
-          "id": "https://news.hada.io/topic?id=26097",
-          "isoDate": "2026-01-25T00:09:39.000Z"
-        },
-        {
-          "title": "Whosthere - Go로 작성된 현대적 TUI 기반 LAN 탐색 도구",
-          "link": "https://news.hada.io/topic?id=26096",
-          "pubDate": "2026-01-24T22:32:43.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Whosthere</strong>는 Go 언어로 작성된 <strong>로컬 네트워크 탐색 도구</strong>로, 직관적인 <strong>터미널 사용자 인터페이스(TUI)</strong> 제공\n<ul>\n<li>LAN 내 장치를 발견하고 탐색하며, 네트워크 구조를 이해할 수 있음</li>\n</ul>\n</li>\n<li>\n<strong>Linux</strong>, <strong>macOS</st...</p>",
-          "contentSnippet": "Whosthere는 Go 언어로 작성된 로컬 네트워크 탐색 도구로, 직관적인 터미널 사용자 인터페이스(TUI) 제공\n\nLAN 내 장치를 발견하고 탐색하며, 네트워크 구조를 이해할 수 있음\nLinux, macOS",
-          "id": "https://news.hada.io/topic?id=26096",
-          "isoDate": "2026-01-24T22:32:43.000Z"
-        },
-        {
-          "title": "Radicle: 자율적 코드 포지",
-          "link": "https://news.hada.io/topic?id=26095",
-          "pubDate": "2026-01-24T20:37:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Radicle</strong>은 Git 위에 구축된 <strong>탈중앙형 오픈소스 코드 협업 네트워크</strong>로, 중앙 서버 없이 동료 간 직접 저장소를 복제하고 관리함</li>\n<li>모든 데이터와 <strong>소셜 아티팩트</strong>는 공개키 암호로 서명되어 <strong>진위와 작성자 검증</strong>이 가능함</li>\n<li>사...</p>",
-          "contentSnippet": "Radicle은 Git 위에 구축된 탈중앙형 오픈소스 코드 협업 네트워크로, 중앙 서버 없이 동료 간 직접 저장소를 복제하고 관리함\n모든 데이터와 소셜 아티팩트는 공개키 암호로 서명되어 진위와 작성자 검증이 가능함\n사...",
-          "id": "https://news.hada.io/topic?id=26095",
-          "isoDate": "2026-01-24T20:37:02.000Z"
         }
       ]
     }
