@@ -7,6 +7,96 @@
       "priority": 1,
       "data": [
         {
+          "title": "BirdyChat, 유럽 최초의 WhatsApp 상호운용 채팅 앱으로 출시",
+          "link": "https://news.hada.io/topic?id=26105",
+          "pubDate": "2026-01-25T00:49:24.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>BirdyChat</strong>이 <strong>Digital Markets Act(DMA)</strong> 하에서 <strong>WhatsApp과 메시지를 주고받을 수 있는 유럽 최초의 채팅 앱</strong>으로 발표됨</li>\n<li>이번 상호운용 기능으로 <strong>BirdyChat 사용자</strong>는 <strong>WhatsApp 사용자와 전화번호만으로 직접 대화</stro...</p>",
+          "contentSnippet": "BirdyChat이 Digital Markets Act(DMA) 하에서 WhatsApp과 메시지를 주고받을 수 있는 유럽 최초의 채팅 앱으로 발표됨\n이번 상호운용 기능으로 BirdyChat 사용자는 WhatsApp 사용자와 전화번호만으로 직접 대화",
+          "id": "https://news.hada.io/topic?id=26105",
+          "isoDate": "2026-01-25T00:49:24.000Z"
+        },
+        {
+          "title": "영국 전화선으로 기가비트 이더넷 구현하기",
+          "link": "https://news.hada.io/topic?id=26103",
+          "pubDate": "2026-01-25T00:43:24.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>기존 <strong>전화선 배선</strong>을 활용해 <strong>기가비트 이더넷 연결</strong>을 성공적으로 구축한 사례</li>\n<li>기존 <strong>전력선 어댑터(G.hn 2400)</strong> 는 속도와 안정성 모두 한계가 있었으며, 이를 대체할 방법으로 전화선을 재활용</li>\n<li>독일 제조사 <strong>Gigacopper G4201TM</s...</p>",
+          "contentSnippet": "기존 전화선 배선을 활용해 기가비트 이더넷 연결을 성공적으로 구축한 사례\n기존 전력선 어댑터(G.hn 2400) 는 속도와 안정성 모두 한계가 있었으며, 이를 대체할 방법으로 전화선을 재활용\n독일 제조사 Gigacopper G4201TM",
+          "id": "https://news.hada.io/topic?id=26103",
+          "isoDate": "2026-01-25T00:43:24.000Z"
+        },
+        {
+          "title": "MS는 FBI 요청 시 Windows PC 데이터 암호화 키를 제공함",
+          "link": "https://news.hada.io/topic?id=26102",
+          "pubDate": "2026-01-25T00:40:24.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Windows 11은 <strong>Microsoft 계정 연동을 강제</strong>하며, 이로 인해 <strong>BitLocker 암호화 키가 자동으로 클라우드에 백업</strong>됨</li>\n<li>Microsoft는 <strong>법적 명령이 있을 경우 FBI에 해당 키를 제공</strong>한다고 확인, 이는 PC 데이터 복호화와 접근을 가능하게 함</li>\n<li>실제로...</p>",
+          "contentSnippet": "Windows 11은 Microsoft 계정 연동을 강제하며, 이로 인해 BitLocker 암호화 키가 자동으로 클라우드에 백업됨\nMicrosoft는 법적 명령이 있을 경우 FBI에 해당 키를 제공한다고 확인, 이는 PC 데이터 복호화와 접근을 가능하게 함\n실제로...",
+          "id": "https://news.hada.io/topic?id=26102",
+          "isoDate": "2026-01-25T00:40:24.000Z"
+        },
+        {
+          "title": "남미니애폴리스에서 연방 요원에게 사살된 남성",
+          "link": "https://news.hada.io/topic?id=26101",
+          "pubDate": "2026-01-25T00:37:24.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>남미니애폴리스에서 <strong>연방 요원들이 한 남성을 사살</strong>하며 현장에서 시위대와의 충돌이 발생</li>\n<li>사망자는 <strong>37세의 알렉스 제프리 프레티</strong>, 미니애폴리스 거주자로 <strong>보훈병원 중환자실 간호사</strong>로 확인</li>\n<li>\n<strong>국토안보부(DHS)</strong> 는 프레티...</p>",
+          "contentSnippet": "남미니애폴리스에서 연방 요원들이 한 남성을 사살하며 현장에서 시위대와의 충돌이 발생\n사망자는 37세의 알렉스 제프리 프레티, 미니애폴리스 거주자로 보훈병원 중환자실 간호사로 확인\n국토안보부(DHS) 는 프레티...",
+          "id": "https://news.hada.io/topic?id=26101",
+          "isoDate": "2026-01-25T00:37:24.000Z"
+        },
+        {
+          "title": "Claude Code의 새로운 숨겨진 기능 Swarms, 멀티 에이전트 팀 모드 공개",
+          "link": "https://news.hada.io/topic?id=26100",
+          "pubDate": "2026-01-25T00:35:28.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>Swarms는 Claude Code 내부에 존재하지만 공개되지 않았던 <strong>멀티 에이전트 오케스트레이션</strong> 기능</li>\n<li>사용자는 더 이상 단일 AI 코더와 대화하지 않고 <strong>팀 리드 역할의 AI와 상호작용</strong>\n</li>\n<li>팀 리드는 직접 코드를 작성하지 않고 <strong>계획 수립과 작업 분배, 결과...</p>",
+          "contentSnippet": "Swarms는 Claude Code 내부에 존재하지만 공개되지 않았던 멀티 에이전트 오케스트레이션 기능\n사용자는 더 이상 단일 AI 코더와 대화하지 않고 팀 리드 역할의 AI와 상호작용\n\n팀 리드는 직접 코드를 작성하지 않고 계획 수립과 작업 분배, 결과...",
+          "id": "https://news.hada.io/topic?id=26100",
+          "isoDate": "2026-01-25T00:35:28.000Z"
+        },
+        {
+          "title": "Sampo - 모노레포용 변경 로그, 버전 관리, 배포 자동화 도구",
+          "link": "https://news.hada.io/topic?id=26099",
+          "pubDate": "2026-01-25T00:31:02.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>모노레포 환경의 릴리스 자동화</strong>를 목표로 설계된 Rust 기반 CLI 및 GitHub 통합 도구</li>\n<li>\n<strong>다중 생태계 지원</strong> : Rust(Crates), JS/TS(npm), Elixir(Hex), Python(PyPI) 등</li>\n<li>변경 로그 생성, 버전 증가(Version Bump) , 패키지 배포를 자동 처리</li>\n<li>\n<str...</p>",
+          "contentSnippet": "모노레포 환경의 릴리스 자동화를 목표로 설계된 Rust 기반 CLI 및 GitHub 통합 도구\n다중 생태계 지원 : Rust(Crates), JS/TS(npm), Elixir(Hex), Python(PyPI) 등\n변경 로그 생성, 버전 증가(Version Bump) , 패키지 배포를 자동 처리",
+          "id": "https://news.hada.io/topic?id=26099",
+          "isoDate": "2026-01-25T00:31:02.000Z"
+        },
+        {
+          "title": "Zotero 8 릴리즈 - 개인용 연구 관리 소프트웨어 ",
+          "link": "https://news.hada.io/topic?id=26098",
+          "pubDate": "2026-01-25T00:11:17.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>논문, 기사, 책, PDF 등 연구 자료를 <strong>수집·정리·주석·인용·공유</strong>까지 하나의 도구에서 처리</li>\n<li>Mac, Windows, Linux, iOS, Android 지원</li>\n<li>브라우저 확장 기능으로 웹 탐색 중 논문·기사·도서 정보를 <strong>자료 유형을 자동 인식하고, 한 번의 클릭으로 자동 수집</strong> 가...</p>",
+          "contentSnippet": "논문, 기사, 책, PDF 등 연구 자료를 수집·정리·주석·인용·공유까지 하나의 도구에서 처리\nMac, Windows, Linux, iOS, Android 지원\n브라우저 확장 기능으로 웹 탐색 중 논문·기사·도서 정보를 자료 유형을 자동 인식하고, 한 번의 클릭으로 자동 수집 가...",
+          "id": "https://news.hada.io/topic?id=26098",
+          "isoDate": "2026-01-25T00:11:17.000Z"
+        },
+        {
+          "title": "Comma openpilot – 오픈소스 운전자 보조 시스템",
+          "link": "https://news.hada.io/topic?id=26097",
+          "pubDate": "2026-01-25T00:09:39.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>기존 차량에 장착해 <strong>AI 기반 운전자 보조 기능</strong>을 제공하는 장치</li>\n<li>\n<strong>차선 유지, 어댑티브 크루즈, 자동 차선 변경, 360도 시야, OTA 업데이트</strong> 기능을 지원</li>\n<li>\n<strong>토요타, 현대, 포드</strong> 등 주요 제조사 차량을 포함한 <strong>27개 브랜드, 325종 이...</p>",
+          "contentSnippet": "기존 차량에 장착해 AI 기반 운전자 보조 기능을 제공하는 장치\n차선 유지, 어댑티브 크루즈, 자동 차선 변경, 360도 시야, OTA 업데이트 기능을 지원\n토요타, 현대, 포드 등 주요 제조사 차량을 포함한 27개 브랜드, 325종 이...",
+          "id": "https://news.hada.io/topic?id=26097",
+          "isoDate": "2026-01-25T00:09:39.000Z"
+        },
+        {
+          "title": "Whosthere - Go로 작성된 현대적 TUI 기반 LAN 탐색 도구",
+          "link": "https://news.hada.io/topic?id=26096",
+          "pubDate": "2026-01-24T22:32:43.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Whosthere</strong>는 Go 언어로 작성된 <strong>로컬 네트워크 탐색 도구</strong>로, 직관적인 <strong>터미널 사용자 인터페이스(TUI)</strong> 제공\n<ul>\n<li>LAN 내 장치를 발견하고 탐색하며, 네트워크 구조를 이해할 수 있음</li>\n</ul>\n</li>\n<li>\n<strong>Linux</strong>, <strong>macOS</st...</p>",
+          "contentSnippet": "Whosthere는 Go 언어로 작성된 로컬 네트워크 탐색 도구로, 직관적인 터미널 사용자 인터페이스(TUI) 제공\n\nLAN 내 장치를 발견하고 탐색하며, 네트워크 구조를 이해할 수 있음\nLinux, macOS",
+          "id": "https://news.hada.io/topic?id=26096",
+          "isoDate": "2026-01-24T22:32:43.000Z"
+        },
+        {
           "title": "Radicle: 자율적 코드 포지",
           "link": "https://news.hada.io/topic?id=26095",
           "pubDate": "2026-01-24T20:37:02.000Z",
@@ -15,96 +105,6 @@
           "contentSnippet": "Radicle은 Git 위에 구축된 탈중앙형 오픈소스 코드 협업 네트워크로, 중앙 서버 없이 동료 간 직접 저장소를 복제하고 관리함\n모든 데이터와 소셜 아티팩트는 공개키 암호로 서명되어 진위와 작성자 검증이 가능함\n사...",
           "id": "https://news.hada.io/topic?id=26095",
           "isoDate": "2026-01-24T20:37:02.000Z"
-        },
-        {
-          "title": "새로운 YC 홈페이지",
-          "link": "https://news.hada.io/topic?id=26094",
-          "pubDate": "2026-01-24T20:34:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Y Combinator(이하 YC)</strong> 는 2005년 설립된 스타트업 투자 기관으로, 매년 네 차례 선발된 기업에 <strong>$500,000 투자</strong>와 3개월 집중 프로그램을 제공</li>\n<li>이 프로그램을 통해 <strong>Airbnb, Stripe, Coinbase, DoorDash, Dropbox, Reddit, Replit</strong> 등 다수의 유니콘...</p>",
-          "contentSnippet": "Y Combinator(이하 YC) 는 2005년 설립된 스타트업 투자 기관으로, 매년 네 차례 선발된 기업에 $500,000 투자와 3개월 집중 프로그램을 제공\n이 프로그램을 통해 Airbnb, Stripe, Coinbase, DoorDash, Dropbox, Reddit, Replit 등 다수의 유니콘...",
-          "id": "https://news.hada.io/topic?id=26094",
-          "isoDate": "2026-01-24T20:34:02.000Z"
-        },
-        {
-          "title": "테슬라, 오토파일럿 중단하고 차선 유지 기능을 월 99달러 구독제로 전환",
-          "link": "https://news.hada.io/topic?id=26093",
-          "pubDate": "2026-01-24T17:33:07.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>테슬라가 기존 <strong>Autopilot 기능을 중단</strong>하고, 차량의 <strong>차선 유지 및 자율 조향 기능을 FSD(Fully Self-Driving)</strong> 구독 서비스로만 제공</li>\n<li>2월 14일까지는 <strong>8,000달러 일시 결제</strong>로 이용 가능하지만, 이후에는 <strong>월 99달러 구독제</strong>만 선택 가...</p>",
-          "contentSnippet": "테슬라가 기존 Autopilot 기능을 중단하고, 차량의 차선 유지 및 자율 조향 기능을 FSD(Fully Self-Driving) 구독 서비스로만 제공\n2월 14일까지는 8,000달러 일시 결제로 이용 가능하지만, 이후에는 월 99달러 구독제만 선택 가...",
-          "id": "https://news.hada.io/topic?id=26093",
-          "isoDate": "2026-01-24T17:33:07.000Z"
-        },
-        {
-          "title": "바이닐 레코드로 부팅하기",
-          "link": "https://news.hada.io/topic?id=26092",
-          "pubDate": "2026-01-24T15:37:21.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>일반적인 PC 부팅 매체 대신 <strong>턴테이블(레코드 플레이어)</strong> 을 이용해 IBM PC를 부팅한 실험</li>\n<li>\n<strong>64KB 크기의 FreeDOS 기반 RAM 디스크 이미지</strong>를 아날로그 오디오 신호로 변환해 10인치 바이닐에 기록</li>\n<li>PC의 <strong>카세트 인터페이스</strong>를 활용해 오디오...</p>",
-          "contentSnippet": "일반적인 PC 부팅 매체 대신 턴테이블(레코드 플레이어) 을 이용해 IBM PC를 부팅한 실험\n64KB 크기의 FreeDOS 기반 RAM 디스크 이미지를 아날로그 오디오 신호로 변환해 10인치 바이닐에 기록\nPC의 카세트 인터페이스를 활용해 오디오...",
-          "id": "https://news.hada.io/topic?id=26092",
-          "isoDate": "2026-01-24T15:37:21.000Z"
-        },
-        {
-          "title": "가스 타운의 에이전트 패턴, 설계 병목, 그리고 대규모 바이브코딩",
-          "link": "https://news.hada.io/topic?id=26091",
-          "pubDate": "2026-01-24T15:34:21.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Gas Town</strong>은 여러 코딩 에이전트를 동시에 운영하는 <strong>Steve Yegge의 실험적 오케스트레이터 시스템</strong>으로, 자동화된 개발 환경의 미래를 탐색하는 <strong>디자인 픽션</strong> 형태의 프로젝트임</li>\n<li>이 시스템은 수십 개의 에이전트가 협업해 코드를 작성하지만, 실제 ...</p>",
-          "contentSnippet": "Gas Town은 여러 코딩 에이전트를 동시에 운영하는 Steve Yegge의 실험적 오케스트레이터 시스템으로, 자동화된 개발 환경의 미래를 탐색하는 디자인 픽션 형태의 프로젝트임\n이 시스템은 수십 개의 에이전트가 협업해 코드를 작성하지만, 실제 ...",
-          "id": "https://news.hada.io/topic?id=26091",
-          "isoDate": "2026-01-24T15:34:21.000Z"
-        },
-        {
-          "title": "Codex 에이전트 루프 해체하기",
-          "link": "https://news.hada.io/topic?id=26090",
-          "pubDate": "2026-01-24T14:33:10.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Codex CLI</strong>는 로컬 환경에서 안전하고 효율적으로 <strong>고품질 소프트웨어 변경을 수행하는 에이전트</strong>로 설계됨</li>\n<li>핵심 구조인 <strong>에이전트 루프(agent loop)</strong> 는 사용자 입력, 모델 추론, 도구 호출을 순환적으로 연결해 의미 있는 작업을 수행</li>\n<li>루프...</p>",
-          "contentSnippet": "Codex CLI는 로컬 환경에서 안전하고 효율적으로 고품질 소프트웨어 변경을 수행하는 에이전트로 설계됨\n핵심 구조인 에이전트 루프(agent loop) 는 사용자 입력, 모델 추론, 도구 호출을 순환적으로 연결해 의미 있는 작업을 수행\n루프...",
-          "id": "https://news.hada.io/topic?id=26090",
-          "isoDate": "2026-01-24T14:33:10.000Z"
-        },
-        {
-          "title": "OpenAI Codex CLI 내부 동작 분석: 에이전트 루프와 프롬프트 캐싱 전략",
-          "link": "https://news.hada.io/topic?id=26089",
-          "pubDate": "2026-01-24T13:52:08.000Z",
-          "author": "darjeeling",
-          "content": "<p>요약:</p>\n<ul>\n<li>\n<strong>에이전트 루프(Agent Loop)의 구조</strong>: Codex CLI가 사용자 입력, 모델 추론, 도구(Tool) 실행을 조율하여 실제 작업을 수행하는 순환적 프로세스를 상세히 설명합니다.</li>\n<li>\n<strong>프롬프트 구성 및 Responses API</strong>: 시스템 명령, 도구 정의, 로컬 환경 컨텍스트가",
-          "contentSnippet": "요약:\n에이전트 루프(Agent Loop)의 구조: Codex CLI가 사용자 입력, 모델 추론, 도구(Tool) 실행을 조율하여 실제 작업을 수행하는 순환적 프로세스를 상세히 설명합니다.\n프롬프트 구성 및 Responses API: 시스템 명령, 도구 정의, 로컬 환경 컨텍스트가",
-          "id": "https://news.hada.io/topic?id=26089",
-          "isoDate": "2026-01-24T13:52:08.000Z"
-        },
-        {
-          "title": "AI가 옥수수를 재배할 수 있을까?",
-          "link": "https://news.hada.io/topic?id=26088",
-          "pubDate": "2026-01-24T09:33:06.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>AI가 실제 옥수수를 재배하는 실험</strong>으로, 모든 농사 의사결정을 인공지능 <strong>Claude Code</strong>가 수행</li>\n<li>Claude Code는 <strong>센서 데이터와 기상 예보를 통합 분석</strong>해 파종, 관개, 수확 시점을 결정하고 <strong>인간 운영자와 장비를 조율</strong>\n</li>\n<li>시...</p>",
-          "contentSnippet": "AI가 실제 옥수수를 재배하는 실험으로, 모든 농사 의사결정을 인공지능 Claude Code가 수행\nClaude Code는 센서 데이터와 기상 예보를 통합 분석해 파종, 관개, 수확 시점을 결정하고 인간 운영자와 장비를 조율\n\n시...",
-          "id": "https://news.hada.io/topic?id=26088",
-          "isoDate": "2026-01-24T09:33:06.000Z"
-        },
-        {
-          "title": "구글, 웹 검색 제품 및 Programmable Search Engine 기능 업데이트",
-          "link": "https://news.hada.io/topic?id=26087",
-          "pubDate": "2026-01-24T01:59:55.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>Google은 <strong>Programmable Search Engine(프로그래머블 검색 엔진)</strong> 을 개편해 웹사이트별, 엔터프라이즈, 전체 웹 검색 등 <strong>세 가지 사용 사례별 솔루션</strong>으로 단순화함</li>\n<li>\n<strong>사이트 전용 검색</strong>은 ‘Programmable Search Element’로 통합되어, 최대 50개 도...</p>",
-          "contentSnippet": "Google은 Programmable Search Engine(프로그래머블 검색 엔진) 을 개편해 웹사이트별, 엔터프라이즈, 전체 웹 검색 등 세 가지 사용 사례별 솔루션으로 단순화함\n사이트 전용 검색은 ‘Programmable Search Element’로 통합되어, 최대 50개 도...",
-          "id": "https://news.hada.io/topic?id=26087",
-          "isoDate": "2026-01-24T01:59:55.000Z"
-        },
-        {
-          "title": "지니 길들이기: \"Kent Beck처럼\"",
-          "link": "https://news.hada.io/topic?id=26086",
-          "pubDate": "2026-01-24T01:51:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>AI 코딩 도구(지니)에게 <strong>&quot;Kent Beck처럼 코딩해&quot;</strong> 라는 페르소나 프롬프트를 추가하면 코드 품질이 개선되는지 실험한 결과, 테스트 스타일과 변수 명명은 개선되었으나 <strong>아키텍처 설계</strong>는 변하지 않음</li>\n<li>\n<strong>Rope 데이터 구조</strong>를 구현하는 프로...</p>",
-          "contentSnippet": "AI 코딩 도구(지니)에게 \"Kent Beck처럼 코딩해\" 라는 페르소나 프롬프트를 추가하면 코드 품질이 개선되는지 실험한 결과, 테스트 스타일과 변수 명명은 개선되었으나 아키텍처 설계는 변하지 않음\nRope 데이터 구조를 구현하는 프로...",
-          "id": "https://news.hada.io/topic?id=26086",
-          "isoDate": "2026-01-24T01:51:01.000Z"
         }
       ]
     }
