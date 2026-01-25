@@ -7,6 +7,46 @@
       "priority": 1,
       "data": [
         {
+          "title": "라즈베리 파이 드래그 레이스: Pi 1부터 Pi 5까지의 성능 비교",
+          "link": "https://news.hada.io/topic?id=26115",
+          "pubDate": "2026-01-25T19:41:15.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>2012년 첫 출시된 <strong>Raspberry Pi 1부터 2023년의 Pi 5까지</strong> 약 13년간의 성능 발전을 실제 테스트로 비교</li>\n<li>각 세대의 <strong>CPU·GPU 성능, 전력 효율, 네트워크 속도, 저장장치 성능</strong>을 동일 조건에서 측정</li>\n<li>\n<strong>Pi 5는 Pi 1 대비 약 600배 빠른 CPU 성능</stro...</p>",
+          "contentSnippet": "2012년 첫 출시된 Raspberry Pi 1부터 2023년의 Pi 5까지 약 13년간의 성능 발전을 실제 테스트로 비교\n각 세대의 CPU·GPU 성능, 전력 효율, 네트워크 속도, 저장장치 성능을 동일 조건에서 측정\nPi 5는 Pi 1 대비 약 600배 빠른 CPU 성능",
+          "id": "https://news.hada.io/topic?id=26115",
+          "isoDate": "2026-01-25T19:41:15.000Z"
+        },
+        {
+          "title": "저궤도 위성 임무 Clarity-1의 사후 분석 (이미지 및 비행 데이터 포함)",
+          "link": "https://news.hada.io/topic?id=26114",
+          "pubDate": "2026-01-25T19:38:15.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Albedo의 첫 위성 <strong>Clarity-1</strong>은 초저궤도(VLEO)에서의 지속 운용 가능성을 입증하며, 상업 위성으로는 전례 없는 환경에서 성공적으로 작동함</li>\n<li>\n<strong>공기저항 계수</strong>가 설계 목표보다 12% 우수했고, <strong>원자산소(AO)</strong> 내구성이 검증되어 275km 고도에서 5년 수...</p>",
+          "contentSnippet": "Albedo의 첫 위성 Clarity-1은 초저궤도(VLEO)에서의 지속 운용 가능성을 입증하며, 상업 위성으로는 전례 없는 환경에서 성공적으로 작동함\n공기저항 계수가 설계 목표보다 12% 우수했고, 원자산소(AO) 내구성이 검증되어 275km 고도에서 5년 수...",
+          "id": "https://news.hada.io/topic?id=26114",
+          "isoDate": "2026-01-25T19:38:15.000Z"
+        },
+        {
+          "title": "Chromium에서 금지된 C++ 기능들",
+          "link": "https://news.hada.io/topic?id=26113",
+          "pubDate": "2026-01-25T19:35:15.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Chromium 프로젝트는 최신 <strong>C++ 표준 기능의 사용 범위와 금지 항목</strong>을 명확히 정의해 코드 일관성과 보안성을 유지함</li>\n<li>\n<strong>C++11~C++23</strong>까지 각 표준별로 허용·금지·검토(TBD) 상태가 구분되며, <strong>Abseil 라이브러리</strong>도 동일한 기준을 적용받음</li>\n<li>금...</p>",
+          "contentSnippet": "Chromium 프로젝트는 최신 C++ 표준 기능의 사용 범위와 금지 항목을 명확히 정의해 코드 일관성과 보안성을 유지함\nC++11~C++23까지 각 표준별로 허용·금지·검토(TBD) 상태가 구분되며, Abseil 라이브러리도 동일한 기준을 적용받음\n금...",
+          "id": "https://news.hada.io/topic?id=26113",
+          "isoDate": "2026-01-25T19:35:15.000Z"
+        },
+        {
+          "title": "폴란드 전력망을 노린 전례 없는 와이퍼 악성코드 공격",
+          "link": "https://news.hada.io/topic?id=26112",
+          "pubDate": "2026-01-25T17:34:27.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>폴란드의 <strong>전력망</strong>이 러시아와 연계된 것으로 추정되는 <strong>새로운 와이퍼 악성코드(DynoWiper)</strong> 공격을 받았으나, 전력 공급에는 차질이 발생하지 않음</li>\n<li>공격은 <strong>2025년 12월 말</strong>에 발생했으며, <strong>재생에너지 설비와 배전 운영자 간 통신</strong>을...</p>",
+          "contentSnippet": "폴란드의 전력망이 러시아와 연계된 것으로 추정되는 새로운 와이퍼 악성코드(DynoWiper) 공격을 받았으나, 전력 공급에는 차질이 발생하지 않음\n공격은 2025년 12월 말에 발생했으며, 재생에너지 설비와 배전 운영자 간 통신을...",
+          "id": "https://news.hada.io/topic?id=26112",
+          "isoDate": "2026-01-25T17:34:27.000Z"
+        },
+        {
           "title": "유럽, 미국 인터넷 기술 의존에서 벗어나려는 움직임",
           "link": "https://news.hada.io/topic?id=26111",
           "pubDate": "2026-01-25T14:36:52.000Z",
@@ -27,7 +67,7 @@
           "isoDate": "2026-01-25T14:33:51.000Z"
         },
         {
-          "title": "Show GN: [Show GN] 공식 문서 번역 워크플로 개발 – Spring & MySQL 공식 문서 번역 및 검색",
+          "title": "Show GN: 공식 문서 번역 워크플로 개발 – Spring & MySQL 공식 문서 번역 및 검색",
           "link": "https://news.hada.io/topic?id=26108",
           "pubDate": "2026-01-25T13:30:02.000Z",
           "author": "dankim0124",
@@ -65,46 +105,6 @@
           "contentSnippet": "기존 전화선 배선을 활용해 기가비트 이더넷 연결을 성공적으로 구축한 사례\n기존 전력선 어댑터(G.hn 2400) 는 속도와 안정성 모두 한계가 있었으며, 이를 대체할 방법으로 전화선을 재활용\n독일 제조사 Gigacopper G4201TM",
           "id": "https://news.hada.io/topic?id=26103",
           "isoDate": "2026-01-25T00:43:24.000Z"
-        },
-        {
-          "title": "MS는 FBI 요청 시 Windows PC 데이터 암호화 키를 제공함",
-          "link": "https://news.hada.io/topic?id=26102",
-          "pubDate": "2026-01-25T00:40:24.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Windows 11은 <strong>Microsoft 계정 연동을 강제</strong>하며, 이로 인해 <strong>BitLocker 암호화 키가 자동으로 클라우드에 백업</strong>됨</li>\n<li>Microsoft는 <strong>법적 명령이 있을 경우 FBI에 해당 키를 제공</strong>한다고 확인, 이는 PC 데이터 복호화와 접근을 가능하게 함</li>\n<li>실제로...</p>",
-          "contentSnippet": "Windows 11은 Microsoft 계정 연동을 강제하며, 이로 인해 BitLocker 암호화 키가 자동으로 클라우드에 백업됨\nMicrosoft는 법적 명령이 있을 경우 FBI에 해당 키를 제공한다고 확인, 이는 PC 데이터 복호화와 접근을 가능하게 함\n실제로...",
-          "id": "https://news.hada.io/topic?id=26102",
-          "isoDate": "2026-01-25T00:40:24.000Z"
-        },
-        {
-          "title": "남미니애폴리스에서 연방 요원에게 사살된 남성",
-          "link": "https://news.hada.io/topic?id=26101",
-          "pubDate": "2026-01-25T00:37:24.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>남미니애폴리스에서 <strong>연방 요원들이 한 남성을 사살</strong>하며 현장에서 시위대와의 충돌이 발생</li>\n<li>사망자는 <strong>37세의 알렉스 제프리 프레티</strong>, 미니애폴리스 거주자로 <strong>보훈병원 중환자실 간호사</strong>로 확인</li>\n<li>\n<strong>국토안보부(DHS)</strong> 는 프레티...</p>",
-          "contentSnippet": "남미니애폴리스에서 연방 요원들이 한 남성을 사살하며 현장에서 시위대와의 충돌이 발생\n사망자는 37세의 알렉스 제프리 프레티, 미니애폴리스 거주자로 보훈병원 중환자실 간호사로 확인\n국토안보부(DHS) 는 프레티...",
-          "id": "https://news.hada.io/topic?id=26101",
-          "isoDate": "2026-01-25T00:37:24.000Z"
-        },
-        {
-          "title": "Claude Code의 새로운 숨겨진 기능 Swarms, 멀티 에이전트 팀 모드 공개",
-          "link": "https://news.hada.io/topic?id=26100",
-          "pubDate": "2026-01-25T00:35:28.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>Swarms는 Claude Code 내부에 존재하지만 공개되지 않았던 <strong>멀티 에이전트 오케스트레이션</strong> 기능</li>\n<li>사용자는 더 이상 단일 AI 코더와 대화하지 않고 <strong>팀 리드 역할의 AI와 상호작용</strong>\n</li>\n<li>팀 리드는 직접 코드를 작성하지 않고 <strong>계획 수립과 작업 분배, 결과...</p>",
-          "contentSnippet": "Swarms는 Claude Code 내부에 존재하지만 공개되지 않았던 멀티 에이전트 오케스트레이션 기능\n사용자는 더 이상 단일 AI 코더와 대화하지 않고 팀 리드 역할의 AI와 상호작용\n\n팀 리드는 직접 코드를 작성하지 않고 계획 수립과 작업 분배, 결과...",
-          "id": "https://news.hada.io/topic?id=26100",
-          "isoDate": "2026-01-25T00:35:28.000Z"
-        },
-        {
-          "title": "Sampo - 모노레포용 변경 로그, 버전 관리, 배포 자동화 도구",
-          "link": "https://news.hada.io/topic?id=26099",
-          "pubDate": "2026-01-25T00:31:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>모노레포 환경의 릴리스 자동화</strong>를 목표로 설계된 Rust 기반 CLI 및 GitHub 통합 도구</li>\n<li>\n<strong>다중 생태계 지원</strong> : Rust(Crates), JS/TS(npm), Elixir(Hex), Python(PyPI) 등</li>\n<li>변경 로그 생성, 버전 증가(Version Bump) , 패키지 배포를 자동 처리</li>\n<li>\n<str...</p>",
-          "contentSnippet": "모노레포 환경의 릴리스 자동화를 목표로 설계된 Rust 기반 CLI 및 GitHub 통합 도구\n다중 생태계 지원 : Rust(Crates), JS/TS(npm), Elixir(Hex), Python(PyPI) 등\n변경 로그 생성, 버전 증가(Version Bump) , 패키지 배포를 자동 처리",
-          "id": "https://news.hada.io/topic?id=26099",
-          "isoDate": "2026-01-25T00:31:02.000Z"
         }
       ]
     }
