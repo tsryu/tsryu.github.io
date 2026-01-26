@@ -7,6 +7,16 @@
       "priority": 1,
       "data": [
         {
+          "title": "3.5%의 법칙: 소수의 참여가 세상을 바꾸는 방법",
+          "link": "https://news.hada.io/topic?id=26143",
+          "pubDate": "2026-01-26T16:33:24.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>비폭력 저항 운동</strong>은 무장 투쟁보다 두 배 이상 높은 성공률을 보이며, <strong>인구의 3.5%가 적극 참여할 경우 실패 사례가 없었던 것으로 나타남</strong>\n</li>\n<li>1900~2006년 사이의 323개 운동을 분석한 결과, 비폭력 운동은 <strong>53%의 성공률</strong>, 폭력 운동은 <strong>26%...</p>",
+          "contentSnippet": "비폭력 저항 운동은 무장 투쟁보다 두 배 이상 높은 성공률을 보이며, 인구의 3.5%가 적극 참여할 경우 실패 사례가 없었던 것으로 나타남\n\n1900~2006년 사이의 323개 운동을 분석한 결과, 비폭력 운동은 53%의 성공률, 폭력 운동은 26%...",
+          "id": "https://news.hada.io/topic?id=26143",
+          "isoDate": "2026-01-26T16:33:24.000Z"
+        },
+        {
           "title": "이란 보건 당국자들 “사망자 3만 명 넘을 수 있다”",
           "link": "https://news.hada.io/topic?id=26142",
           "pubDate": "2026-01-26T14:33:17.000Z",
@@ -95,16 +105,6 @@
           "contentSnippet": "ISMS 사후심사 대응 과정에서 AWS 계정에 쌓여 있던 Access Key들을 점검하다가, Role 기반 인증으로 전환한 경험을 정리한 글입니다.\n도입 배경\nIAM 콘솔을 보니 Access Key가 여러 곳(CI/CD, 배포 스크립트, 로컬 개발 등)에 퍼져 있었고, 어디서 어떻게 쓰이는지 추적이 어려웠음",
           "id": "https://news.hada.io/topic?id=26133",
           "isoDate": "2026-01-26T01:48:21.000Z"
-        },
-        {
-          "title": "타입은 어떻게 증명이 되는가 — TypeScript 타입 시스템과 Curry–Howard 대응",
-          "link": "https://news.hada.io/topic?id=26132",
-          "pubDate": "2026-01-26T01:26:47.000Z",
-          "author": "bboydart91",
-          "content": "<p>요약:</p>\n<ul>\n<li>TypeScript의 타입 시스템을 단순한 정적 타입 검사기가 아니라 논리학의 증명 시스템으로 해석하는 관점을 제시합니다.</li>\n<li>Curry–Howard 대응(Type = Proposition, Program = Proof)을 기반으로, 타입 추론이 가능한 이유를 개념적으로 설명합니다.</li>\n<li>함수 타입, 제네릭, 조건부 타",
-          "contentSnippet": "요약:\nTypeScript의 타입 시스템을 단순한 정적 타입 검사기가 아니라 논리학의 증명 시스템으로 해석하는 관점을 제시합니다.\nCurry–Howard 대응(Type = Proposition, Program = Proof)을 기반으로, 타입 추론이 가능한 이유를 개념적으로 설명합니다.\n함수 타입, 제네릭, 조건부 타",
-          "id": "https://news.hada.io/topic?id=26132",
-          "isoDate": "2026-01-26T01:26:47.000Z"
         }
       ]
     }
