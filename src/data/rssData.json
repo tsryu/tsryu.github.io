@@ -7,6 +7,26 @@
       "priority": 1,
       "data": [
         {
+          "title": "Windows 11의 패치 화요일 악몽이 심화됨 — 일부 PC 부팅 불가 문제 확인",
+          "link": "https://news.hada.io/topic?id=26170",
+          "pubDate": "2026-01-27T17:38:20.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>1월 13일 배포된 <strong>Windows 11 보안 업데이트</strong> 이후 일부 PC가 부팅되지 않는 문제가 발생</li>\n<li>Microsoft는 <strong>“UNMOUNTABLE_BOOT_VOLUME” 오류 코드</strong>와 함께 검은 화면이 표시되는 현상을 공식 확인</li>\n<li>문제는 <strong>Windows 11 24H2 및 25H2 버전</strong>의 실제...</p>",
+          "contentSnippet": "1월 13일 배포된 Windows 11 보안 업데이트 이후 일부 PC가 부팅되지 않는 문제가 발생\nMicrosoft는 “UNMOUNTABLE_BOOT_VOLUME” 오류 코드와 함께 검은 화면이 표시되는 현상을 공식 확인\n문제는 Windows 11 24H2 및 25H2 버전의 실제...",
+          "id": "https://news.hada.io/topic?id=26170",
+          "isoDate": "2026-01-27T17:38:20.000Z"
+        },
+        {
+          "title": "ChatGPT 컨테이너, 이제 bash 실행·패키지 설치·파일 다운로드 지원",
+          "link": "https://news.hada.io/topic?id=26169",
+          "pubDate": "2026-01-27T17:35:19.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>ChatGPT의 <strong>컨테이너 실행 환경</strong>이 대규모로 확장되어, 이제 <strong>Bash 명령 실행</strong>, <strong>pip/npm 패키지 설치</strong>, <strong>파일 다운로드</strong>가 가능해짐</li>\n<li>Python 중심이던 기존 환경에 <strong>Node.js, Ruby, Go, Java, Swift, Kotlin, C, C++ 등 10여 개 ...</p>",
+          "contentSnippet": "ChatGPT의 컨테이너 실행 환경이 대규모로 확장되어, 이제 Bash 명령 실행, pip/npm 패키지 설치, 파일 다운로드가 가능해짐\nPython 중심이던 기존 환경에 Node.js, Ruby, Go, Java, Swift, Kotlin, C, C++ 등 10여 개 ...",
+          "id": "https://news.hada.io/topic?id=26169",
+          "isoDate": "2026-01-27T17:35:19.000Z"
+        },
+        {
           "title": "구글 클라우드, 공식적으로 요금 인상 발표… 북미는 2배 인상",
           "link": "https://news.hada.io/topic?id=26168",
           "pubDate": "2026-01-27T14:31:28.000Z",
@@ -85,26 +105,6 @@
           "contentSnippet": "2세대 울트라 와이드밴드 칩으로 50% 더 멀리까지 찾기 가능한 \"정밀 탐색\" 기능 제공\n블루투스 칩도 업그레이드 되어 파악 범위 확장\n소리가 50% 더 커짐\n물품 위치 공유기능과 연동되어, 사용자 물품 분실시 항공사 등에 임시로 위치를 공유해줄 수 있음\n\n분실...",
           "id": "https://news.hada.io/topic?id=26159",
           "isoDate": "2026-01-27T02:36:02.000Z"
-        },
-        {
-          "title": "건강 검색 시 Google AI Overviews가 의료 사이트보다 YouTube를 더 많이 인용한다는 연구 결과",
-          "link": "https://news.hada.io/topic?id=26158",
-          "pubDate": "2026-01-27T01:58:54.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>독일에서 수행된 연구에 따르면 Google의 <strong>AI Overviews</strong>가 건강 관련 질문에 답할 때 <strong>의료 기관보다 YouTube를 더 자주 인용</strong>함</li>\n<li>분석된 5만여 개의 건강 검색 중 <strong>YouTube가 전체 인용의 4.43%</strong> 를 차지하며, 병원·정부·학술 기관보다 높은 비중을 보...</p>",
-          "contentSnippet": "독일에서 수행된 연구에 따르면 Google의 AI Overviews가 건강 관련 질문에 답할 때 의료 기관보다 YouTube를 더 자주 인용함\n분석된 5만여 개의 건강 검색 중 YouTube가 전체 인용의 4.43% 를 차지하며, 병원·정부·학술 기관보다 높은 비중을 보...",
-          "id": "https://news.hada.io/topic?id=26158",
-          "isoDate": "2026-01-27T01:58:54.000Z"
-        },
-        {
-          "title": "Show GN: 연저계좌 리밸런싱하다가 지쳐서 리밸런서 서비스를 만들었습니다 : Q-Balancer",
-          "link": "https://news.hada.io/topic?id=26157",
-          "pubDate": "2026-01-27T01:47:32.000Z",
-          "author": "cybrshin",
-          "content": "<p>제 한국투자증권 연저계좌를 손으로 리밸런싱하다가 너무 힘들고 현타가 와서 리밸런서를 만들게 되었습니다.<br />\n(리밸런싱이 왜 힘드냐고 생각하실수 있는데, 시장가 매매는 하기 싫어서 지정가로 매매를 하려고 하면 체결이 잘 안되서 여러번 확인해야하고, 결국 다른일하다가 여러날 걸리는 경우가 많더라구요....</p>",
-          "contentSnippet": "제 한국투자증권 연저계좌를 손으로 리밸런싱하다가 너무 힘들고 현타가 와서 리밸런서를 만들게 되었습니다.\n(리밸런싱이 왜 힘드냐고 생각하실수 있는데, 시장가 매매는 하기 싫어서 지정가로 매매를 하려고 하면 체결이 잘 안되서 여러번 확인해야하고, 결국 다른일하다가 여러날 걸리는 경우가 많더라구요....",
-          "id": "https://news.hada.io/topic?id=26157",
-          "isoDate": "2026-01-27T01:47:32.000Z"
         }
       ]
     }
