@@ -7,6 +7,26 @@
       "priority": 1,
       "data": [
         {
+          "title": "애플, 더 긴 범위와 향상된 탐색 기능을 갖춘 새로운 AirTag 공개",
+          "link": "https://news.hada.io/topic?id=26162",
+          "pubDate": "2026-01-27T08:34:12.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>차세대 <strong>AirTag</strong>는 <strong>확장된 Bluetooth 범위</strong>와 <strong>더 강력한 Precision Finding</strong> 기능을 통해 분실물 탐색 효율을 높인 제품</li>\n<li>\n<strong>2세대 Ultra Wideband 칩</strong>과 개선된 Bluetooth 칩을 탑재해 이전 세대보다 최대 <strong>50% 더 먼 거리</str...</p>",
+          "contentSnippet": "차세대 AirTag는 확장된 Bluetooth 범위와 더 강력한 Precision Finding 기능을 통해 분실물 탐색 효율을 높인 제품\n2세대 Ultra Wideband 칩과 개선된 Bluetooth 칩을 탑재해 이전 세대보다 최대 50% 더 먼 거리",
+          "id": "https://news.hada.io/topic?id=26162",
+          "isoDate": "2026-01-27T08:34:12.000Z"
+        },
+        {
+          "title": "Item Flow 1부: CSS의 새로운 웹 구조 설정 방식",
+          "link": "https://news.hada.io/topic?id=26161",
+          "pubDate": "2026-01-27T06:03:16.000Z",
+          "author": "carnoxen",
+          "content": "<h3>배경</h3>\n<p>오랜 시간이 흐르면서 Flexbox와 Grid 레이아웃은 CSS만으로 가능해졌으나,<br />\nMasonry 레이아웃은 아직까지도 JavaScript의 힘을 빌려야 했습니다. 이 레이아웃 때문에 브라우저 간 여러 논의가 진행되었습니다. Chrome은 새로운 레이아웃을 구현했고(<code>display: masonry</code>), Firefox와 S...</p>",
+          "contentSnippet": "배경\n오랜 시간이 흐르면서 Flexbox와 Grid 레이아웃은 CSS만으로 가능해졌으나,\ndisplay: masonry), Firefox와 S...",
+          "id": "https://news.hada.io/topic?id=26161",
+          "isoDate": "2026-01-27T06:03:16.000Z"
+        },
+        {
           "title": "AI 전용 페이지는 정말 효과가 있을까, 18,000개 인용 데이터가 말하는 진실",
           "link": "https://news.hada.io/topic?id=26160",
           "pubDate": "2026-01-27T02:39:30.000Z",
@@ -85,26 +105,6 @@
           "contentSnippet": "대규모 강화학습과 파라미터 확장을 통해 사실 지식, 복잡한 추론, 인간 선호 정렬 등 여러 영역에서 성능을 높인 최신 추론 중심 모델\n\n19개 벤치마크에서 GPT-5.2-Thinking, Claude-Opus-4.5, Gemini 3 Pro ...",
           "id": "https://news.hada.io/topic?id=26153",
           "isoDate": "2026-01-27T00:54:02.000Z"
-        },
-        {
-          "title": "데이터 분석 개발자를 대체하려는 시도가 1974년부터 매 10년마다 반복된 이유",
-          "link": "https://news.hada.io/topic?id=26152",
-          "pubDate": "2026-01-27T00:51:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>데이터 분석 개발자 대체의 꿈</strong>은 SQL부터 AI까지 50년간 반복되어 왔으며, 도구는 바뀌었지만 전문가 필요성은 사라지지 않음</li>\n<li>\n<strong>각 시대의 도구</strong>는 실제 생산성을 높였으나, 비즈니스 이해와 모델링 판단이라는 핵심 작업은 자동화되지 않음</li>\n<li>\n<strong>셀프...</p>",
-          "contentSnippet": "데이터 분석 개발자 대체의 꿈은 SQL부터 AI까지 50년간 반복되어 왔으며, 도구는 바뀌었지만 전문가 필요성은 사라지지 않음\n각 시대의 도구는 실제 생산성을 높였으나, 비즈니스 이해와 모델링 판단이라는 핵심 작업은 자동화되지 않음\n셀프...",
-          "id": "https://news.hada.io/topic?id=26152",
-          "isoDate": "2026-01-27T00:51:02.000Z"
-        },
-        {
-          "title": "Fedora Asahi Remix가 이제 Apple M3에서 작동",
-          "link": "https://news.hada.io/topic?id=26151",
-          "pubDate": "2026-01-27T00:51:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Apple M3 칩에서 <strong>Fedora Asahi Remix 기반의 Linux KDE Plasma 데스크톱</strong>이 정상적으로 구동됨</li>\n<li>호주에 거주하는 고등학교 2학년(10학년) 개발자인 <a href=\"https://github.com/IntegralPilot\">Michael Reeves (Integralpilot)</a> 가 동작하는 사진을 공개</li>\n<li>개발 협업에 참여...</p>",
-          "contentSnippet": "Apple M3 칩에서 Fedora Asahi Remix 기반의 Linux KDE Plasma 데스크톱이 정상적으로 구동됨\n호주에 거주하는 고등학교 2학년(10학년) 개발자인 Michael Reeves (Integralpilot) 가 동작하는 사진을 공개\n개발 협업에 참여...",
-          "id": "https://news.hada.io/topic?id=26151",
-          "isoDate": "2026-01-27T00:51:02.000Z"
         }
       ]
     }
