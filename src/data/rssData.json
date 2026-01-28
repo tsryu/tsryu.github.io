@@ -7,104 +7,104 @@
       "priority": 1,
       "data": [
         {
-          "title": "Windows 11의 패치 화요일 악몽이 심화됨 — 일부 PC 부팅 불가 문제 확인",
-          "link": "https://news.hada.io/topic?id=26170",
-          "pubDate": "2026-01-27T17:38:20.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>1월 13일 배포된 <strong>Windows 11 보안 업데이트</strong> 이후 일부 PC가 부팅되지 않는 문제가 발생</li>\n<li>Microsoft는 <strong>“UNMOUNTABLE_BOOT_VOLUME” 오류 코드</strong>와 함께 검은 화면이 표시되는 현상을 공식 확인</li>\n<li>문제는 <strong>Windows 11 24H2 및 25H2 버전</strong>의 실제...</p>",
-          "contentSnippet": "1월 13일 배포된 Windows 11 보안 업데이트 이후 일부 PC가 부팅되지 않는 문제가 발생\nMicrosoft는 “UNMOUNTABLE_BOOT_VOLUME” 오류 코드와 함께 검은 화면이 표시되는 현상을 공식 확인\n문제는 Windows 11 24H2 및 25H2 버전의 실제...",
-          "id": "https://news.hada.io/topic?id=26170",
-          "isoDate": "2026-01-27T17:38:20.000Z"
-        },
-        {
-          "title": "ChatGPT 컨테이너, 이제 bash 실행·패키지 설치·파일 다운로드 지원",
-          "link": "https://news.hada.io/topic?id=26169",
-          "pubDate": "2026-01-27T17:35:19.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>ChatGPT의 <strong>컨테이너 실행 환경</strong>이 대규모로 확장되어, 이제 <strong>Bash 명령 실행</strong>, <strong>pip/npm 패키지 설치</strong>, <strong>파일 다운로드</strong>가 가능해짐</li>\n<li>Python 중심이던 기존 환경에 <strong>Node.js, Ruby, Go, Java, Swift, Kotlin, C, C++ 등 10여 개 ...</p>",
-          "contentSnippet": "ChatGPT의 컨테이너 실행 환경이 대규모로 확장되어, 이제 Bash 명령 실행, pip/npm 패키지 설치, 파일 다운로드가 가능해짐\nPython 중심이던 기존 환경에 Node.js, Ruby, Go, Java, Swift, Kotlin, C, C++ 등 10여 개 ...",
-          "id": "https://news.hada.io/topic?id=26169",
-          "isoDate": "2026-01-27T17:35:19.000Z"
-        },
-        {
-          "title": "구글 클라우드, 공식적으로 요금 인상 발표… 북미는 2배 인상",
-          "link": "https://news.hada.io/topic?id=26168",
-          "pubDate": "2026-01-27T14:31:28.000Z",
-          "author": "haebom",
-          "content": "<p>구글은 2026년 5월 1일부로 CDN Interconnect, Direct Peering, Carrier Peering 등 데이터 전송 방식에 대한 가격 조정을 공식 발표했음. 이번 인상에서 북미 지역 요금은 2배로 인상되며, 유럽·아시아 역시 큰 폭의 조정</p>\n<ul>\n<li>북미: 0.08달러/GB (기존 0.04달러/GB → 2배)</li>\n<li>유럽: 0.08달러/GB (기",
-          "contentSnippet": "구글은 2026년 5월 1일부로 CDN Interconnect, Direct Peering, Carrier Peering 등 데이터 전송 방식에 대한 가격 조정을 공식 발표했음. 이번 인상에서 북미 지역 요금은 2배로 인상되며, 유럽·아시아 역시 큰 폭의 조정\n북미: 0.08달러/GB (기존 0.04달러/GB → 2배)\n유럽: 0.08달러/GB (기",
-          "id": "https://news.hada.io/topic?id=26168",
-          "isoDate": "2026-01-27T14:31:28.000Z"
-        },
-        {
-          "title": "Moonshot AI, Kimi K2.5 모델 공개",
-          "link": "https://news.hada.io/topic?id=26165",
-          "pubDate": "2026-01-27T13:03:09.000Z",
-          "author": "princox",
-          "content": "<p>원문 링크 https://www.kimi.com/blog/kimi-k2-5.html</p>\n<p>이번 모델은 시각적 에이전트 지능에 초점을 맞췄다고 합니다.<br />\nHLE 벤치마크 50.2%로 글로벌 SOTA를 달성했고 비전과 코딩 분야에서도 오픈소스 모델 중 1위를 기록했습니다.</p>\n<p>최대 100개의 하위 에이전트가 1,500번의 도구 호출을 수행하며 ",
-          "contentSnippet": "원문 링크 https://www.kimi.com/blog/kimi-k2-5.html\n이번 모델은 시각적 에이전트 지능에 초점을 맞췄다고 합니다.\n최대 100개의 하위 에이전트가 1,500번의 도구 호출을 수행하며",
-          "id": "https://news.hada.io/topic?id=26165",
-          "isoDate": "2026-01-27T13:03:09.000Z"
-        },
-        {
-          "title": "Show GN: 글빛 - 글의 분위기를 색상으로 표현해주는 웹앱",
-          "link": "https://news.hada.io/topic?id=26164",
-          "pubDate": "2026-01-27T10:36:56.000Z",
-          "author": "tobwithu",
-          "content": "<p>글의 분위기를 AI로 분석해서 색상으로 표현해주는 웹앱입니다.<br />\n자신이 쓴 글이 너무 감정적이거나 어두워서 흑역사를 만들지는 않을까 염려될 때 미리 체크해 볼 수 있습니다.<br />\n노래 가사나 시를 넣어서 분위기를 알아보는 것도 재미있습니다.<br />\n'골든'의 가사를 넣으니 금색 비스무리하게 나오더군요...</p>",
-          "contentSnippet": "글의 분위기를 AI로 분석해서 색상으로 표현해주는 웹앱입니다.\n자신이 쓴 글이 너무 감정적이거나 어두워서 흑역사를 만들지는 않을까 염려될 때 미리 체크해 볼 수 있습니다.\n노래 가사나 시를 넣어서 분위기를 알아보는 것도 재미있습니다.\n'골든'의 가사를 넣으니 금색 비스무리하게 나오더군요...",
-          "id": "https://news.hada.io/topic?id=26164",
-          "isoDate": "2026-01-27T10:36:56.000Z"
-        },
-        {
-          "title": "이란 역사상 최악의 학살로 3만6,500명 이상 사망, 문서로 드러나",
-          "link": "https://news.hada.io/topic?id=26163",
-          "pubDate": "2026-01-27T09:33:15.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>1월 8~9일 전국 시위 진압 과정에서 <strong>이란 보안군이 3만6,500명 이상을 살해</strong>, 이틀간의 시위로는 사상 최악의 학살 발생</li>\n<li>\n<strong>기밀 문서·현장 보고·의료진 증언</strong>을 검토한 결과, 병원 내 부상자에게 <strong>‘마무리 사격’</strong> 이 가해진 정황 확인</li>\n<li>\n<st...</p>",
-          "contentSnippet": "1월 8~9일 전국 시위 진압 과정에서 이란 보안군이 3만6,500명 이상을 살해, 이틀간의 시위로는 사상 최악의 학살 발생\n기밀 문서·현장 보고·의료진 증언을 검토한 결과, 병원 내 부상자에게 ‘마무리 사격’ 이 가해진 정황 확인",
-          "id": "https://news.hada.io/topic?id=26163",
-          "isoDate": "2026-01-27T09:33:15.000Z"
-        },
-        {
-          "title": "애플, 더 긴 범위와 향상된 탐색 기능을 갖춘 새로운 AirTag 공개",
-          "link": "https://news.hada.io/topic?id=26162",
-          "pubDate": "2026-01-27T08:34:12.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>차세대 <strong>AirTag</strong>는 <strong>확장된 Bluetooth 범위</strong>와 <strong>더 강력한 Precision Finding</strong> 기능을 통해 분실물 탐색 효율을 높인 제품</li>\n<li>\n<strong>2세대 Ultra Wideband 칩</strong>과 개선된 Bluetooth 칩을 탑재해 이전 세대보다 최대 <strong>50% 더 먼 거리</str...</p>",
-          "contentSnippet": "차세대 AirTag는 확장된 Bluetooth 범위와 더 강력한 Precision Finding 기능을 통해 분실물 탐색 효율을 높인 제품\n2세대 Ultra Wideband 칩과 개선된 Bluetooth 칩을 탑재해 이전 세대보다 최대 50% 더 먼 거리",
-          "id": "https://news.hada.io/topic?id=26162",
-          "isoDate": "2026-01-27T08:34:12.000Z"
-        },
-        {
-          "title": "Item Flow 1부: CSS의 새로운 웹 구조 설정 방식",
-          "link": "https://news.hada.io/topic?id=26161",
-          "pubDate": "2026-01-27T06:03:16.000Z",
-          "author": "carnoxen",
-          "content": "<h3>배경</h3>\n<p>오랜 시간이 흐르면서 Flexbox와 Grid 레이아웃은 CSS만으로 가능해졌으나,<br />\nMasonry 레이아웃은 아직까지도 JavaScript의 힘을 빌려야 했습니다. 이 레이아웃 때문에 브라우저 간 여러 논의가 진행되었습니다. Chrome은 새로운 레이아웃을 구현했고(<code>display: masonry</code>), Firefox와 S...</p>",
-          "contentSnippet": "배경\n오랜 시간이 흐르면서 Flexbox와 Grid 레이아웃은 CSS만으로 가능해졌으나,\ndisplay: masonry), Firefox와 S...",
-          "id": "https://news.hada.io/topic?id=26161",
-          "isoDate": "2026-01-27T06:03:16.000Z"
-        },
-        {
-          "title": "AI 전용 페이지는 정말 효과가 있을까, 18,000개 인용 데이터가 말하는 진실",
-          "link": "https://news.hada.io/topic?id=26160",
-          "pubDate": "2026-01-27T02:39:30.000Z",
-          "author": "davespark",
-          "content": "<p><strong>핵심 결론</strong></p>\n<ul>\n<li>AI 전용 페이지(LLM 전용 콘텐츠)의 형식 자체는 거의 효과 없음</li>\n<li>인용 여부는 <strong>독점적·유용한 정보</strong> 제공 여부에 달림 (형식이 아님)</li>\n<li>표준 SEO + 사용자 중심의 잘 만들어진 일반 페이지가 AI 인용에도 가장 효과적</li>\n</ul>\n<p><strong",
-          "contentSnippet": "핵심 결론\nAI 전용 페이지(LLM 전용 콘텐츠)의 형식 자체는 거의 효과 없음\n인용 여부는 독점적·유용한 정보 제공 여부에 달림 (형식이 아님)\n표준 SEO + 사용자 중심의 잘 만들어진 일반 페이지가 AI 인용에도 가장 효과적\n<strong",
-          "id": "https://news.hada.io/topic?id=26160",
-          "isoDate": "2026-01-27T02:39:30.000Z"
-        },
-        {
-          "title": "애플, 더 정확해진 2세대 AirTag 공개",
-          "link": "https://news.hada.io/topic?id=26159",
-          "pubDate": "2026-01-27T02:36:02.000Z",
+          "title": "아이폰 5s, 출시 13년 만에 새로운 소프트웨어 업데이트 제공",
+          "link": "https://news.hada.io/topic?id=26193",
+          "pubDate": "2026-01-28T02:58:02.000Z",
           "author": "xguru",
-          "content": "<ul>\n<li>2세대 울트라 와이드밴드 칩으로 50% 더 멀리까지 찾기 가능한 &quot;정밀 탐색&quot; 기능 제공</li>\n<li>블루투스 칩도 업그레이드 되어 파악 범위 확장</li>\n<li>소리가 50% 더 커짐</li>\n<li>물품 위치 공유기능과 연동되어, 사용자 물품 분실시 항공사 등에 임시로 위치를 공유해줄 수 있음\n<ul>\n<li>분실...</p>",
-          "contentSnippet": "2세대 울트라 와이드밴드 칩으로 50% 더 멀리까지 찾기 가능한 \"정밀 탐색\" 기능 제공\n블루투스 칩도 업그레이드 되어 파악 범위 확장\n소리가 50% 더 커짐\n물품 위치 공유기능과 연동되어, 사용자 물품 분실시 항공사 등에 임시로 위치를 공유해줄 수 있음\n\n분실...",
-          "id": "https://news.hada.io/topic?id=26159",
-          "isoDate": "2026-01-27T02:36:02.000Z"
+          "content": "<ul>\n<li>애플이 <strong>iOS 26.2.1</strong> 공개와 함께, 여전히 <strong>iOS 12</strong>를 사용하는 기기용으로 새로운 버전 <strong>iOS 12.5.8</strong>을 배포</li>\n<li>이번 업데이트는 <strong>iPhone 5s</strong>와 <strong>iPhone 6</strong>에 제공되며, 각각 출시 13년·12년이 지난 기기임</li>\n<li>업데이...</p>",
+          "contentSnippet": "애플이 iOS 26.2.1 공개와 함께, 여전히 iOS 12를 사용하는 기기용으로 새로운 버전 iOS 12.5.8을 배포\n이번 업데이트는 iPhone 5s와 iPhone 6에 제공되며, 각각 출시 13년·12년이 지난 기기임\n업데이...",
+          "id": "https://news.hada.io/topic?id=26193",
+          "isoDate": "2026-01-28T02:58:02.000Z"
+        },
+        {
+          "title": "오늘부터 Apple Watch에서 고혈압 알림 기능 제공",
+          "link": "https://news.hada.io/topic?id=26191",
+          "pubDate": "2026-01-28T02:46:01.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>이제 대한민국 사용자도 2026/1/27 오늘부터 Apple Watch에서 고혈압 알림 기능을 사용할 수 있음</li>\n<li>Apple Watch가 만성 고혈압의 징후를 감지하면 사용자에게 알림을 보내줌\n<ul>\n<li>‘건강’ 앱에서 기능을 설정하면, 알고리즘이 백그라운드에서 30일 동안의 데이터를 분석하고, 만성 고혈압 징후가 ...</p>",
+          "contentSnippet": "이제 대한민국 사용자도 2026/1/27 오늘부터 Apple Watch에서 고혈압 알림 기능을 사용할 수 있음\nApple Watch가 만성 고혈압의 징후를 감지하면 사용자에게 알림을 보내줌\n\n‘건강’ 앱에서 기능을 설정하면, 알고리즘이 백그라운드에서 30일 동안의 데이터를 분석하고, 만성 고혈압 징후가 ...",
+          "id": "https://news.hada.io/topic?id=26191",
+          "isoDate": "2026-01-28T02:46:01.000Z"
+        },
+        {
+          "title": "히드로 공항, 100ml 액체 반입 제한 폐지",
+          "link": "https://news.hada.io/topic?id=26190",
+          "pubDate": "2026-01-28T02:45:18.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>영국 최대 공항인 <strong>히드로(Heathrow)</strong> 가 모든 터미널에 <strong>첨단 CT 보안 스캐너</strong>를 도입하며, 액체 반입 제한을 <strong>2리터</strong>로 확대</li>\n<li>승객은 노트북 등 <strong>전자기기와 액체류를 가방에 그대로 둔 채</strong> 보안 검색대를 통과할 수 있으며, 투명 비닐...</p>",
+          "contentSnippet": "영국 최대 공항인 히드로(Heathrow) 가 모든 터미널에 첨단 CT 보안 스캐너를 도입하며, 액체 반입 제한을 2리터로 확대\n승객은 노트북 등 전자기기와 액체류를 가방에 그대로 둔 채 보안 검색대를 통과할 수 있으며, 투명 비닐...",
+          "id": "https://news.hada.io/topic?id=26190",
+          "isoDate": "2026-01-28T02:45:18.000Z"
+        },
+        {
+          "title": "Postgres 베스트 프랙티스를 AI 에이전트에 직접 가르치는 Agent Skills 공개",
+          "link": "https://news.hada.io/topic?id=26188",
+          "pubDate": "2026-01-28T02:24:50.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>AI 코딩 에이전트가 <strong>Postgres를 올바르게 다루지 못하는 문제</strong>를 해결하기 위해, 데이터베이스 규칙을 명시적으로 제공하는 Agent Skills 공개</li>\n<li>Postgres는 <strong>수십 년간 축적된 기능, 엣지 케이스, 성능 특성</strong>이 있어 에이전트가 작동하지만 <strong>전체 테이블 스캔을...</p>",
+          "contentSnippet": "AI 코딩 에이전트가 Postgres를 올바르게 다루지 못하는 문제를 해결하기 위해, 데이터베이스 규칙을 명시적으로 제공하는 Agent Skills 공개\nPostgres는 수십 년간 축적된 기능, 엣지 케이스, 성능 특성이 있어 에이전트가 작동하지만 전체 테이블 스캔을...",
+          "id": "https://news.hada.io/topic?id=26188",
+          "isoDate": "2026-01-28T02:24:50.000Z"
+        },
+        {
+          "title": "OpenAI, 논문 작성 및 협업 도구 Prism 공개",
+          "link": "https://news.hada.io/topic?id=26187",
+          "pubDate": "2026-01-28T01:36:01.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>과학 논문 <strong>작성·수정·협업 전 과정</strong>을 통합해서 처리하도록 설계된 <strong>무료 AI 워크스페이스</strong>\n</li>\n<li>수학·과학 추론에 특화된 <strong>GPT-5.2 기반</strong>으로 문서 전체 맥락을 이해하며 수식, 인용, 구조를 함께 다룰 수 있음</li>\n<li>\n<strong>무제한 프로젝트와 공동...</p>",
+          "contentSnippet": "과학 논문 작성·수정·협업 전 과정을 통합해서 처리하도록 설계된 무료 AI 워크스페이스\n\n수학·과학 추론에 특화된 GPT-5.2 기반으로 문서 전체 맥락을 이해하며 수식, 인용, 구조를 함께 다룰 수 있음\n무제한 프로젝트와 공동...",
+          "id": "https://news.hada.io/topic?id=26187",
+          "isoDate": "2026-01-28T01:36:01.000Z"
+        },
+        {
+          "title": "Show GN: 치지직 클립 다운로더 크롬익스텐션",
+          "link": "https://news.hada.io/topic?id=26186",
+          "pubDate": "2026-01-28T01:35:07.000Z",
+          "author": "aciddust",
+          "content": "<p>크롬익스텐션 방식으로 작동하는 치지직 클립 다운로더입니다<br />\n외부 페이지 이동이나 API 호출 없이 작동합니다</p>\n<p>별도의 스크립트를 작성하거나<br />\nffmpeg 같은 별도의 프로그램을 사용하는게 번거로워서<br />\n브라우저에서 팝업이나 사이드패널로 사용할 수 있도록 만들어보았습니다.</p>\n<p>라이브 ",
+          "contentSnippet": "크롬익스텐션 방식으로 작동하는 치지직 클립 다운로더입니다\n별도의 스크립트를 작성하거나\n라이브",
+          "id": "https://news.hada.io/topic?id=26186",
+          "isoDate": "2026-01-28T01:35:07.000Z"
+        },
+        {
+          "title": "미 정부, 트럼프 취임 이후 1만 명 이상 STEM 박사 인력 손실",
+          "link": "https://news.hada.io/topic?id=26184",
+          "pubDate": "2026-01-28T00:51:54.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>미국 연방정부에서 <strong>과학·기술·공학·수학(STEM) 및 보건 분야 박사 학위자 10,109명</strong>이 2025년에 퇴직·해고·이직으로 떠남</li>\n<li>이는 전체 연방 인력 이탈의 3%에 불과하지만, <strong>STEM 박사 인력의 14%</strong> 에 해당하는 규모</li>\n<li>14개 주요 연구기관에서 <strong>퇴직자 대...</p>",
+          "contentSnippet": "미국 연방정부에서 과학·기술·공학·수학(STEM) 및 보건 분야 박사 학위자 10,109명이 2025년에 퇴직·해고·이직으로 떠남\n이는 전체 연방 인력 이탈의 3%에 불과하지만, STEM 박사 인력의 14% 에 해당하는 규모\n14개 주요 연구기관에서 퇴직자 대...",
+          "id": "https://news.hada.io/topic?id=26184",
+          "isoDate": "2026-01-28T00:51:54.000Z"
+        },
+        {
+          "title": "Andrej Karpathy의 최근 몇 주간 Claude 코딩 경험에 대한 단상",
+          "link": "https://news.hada.io/topic?id=26183",
+          "pubDate": "2026-01-28T00:51:01.000Z",
+          "author": "xguru",
+          "content": "<h2>코딩 워크플로우의 변화</h2>\n<ul>\n<li>2024년 11월에는 <strong>80% 수동+자동완성</strong>, 20% 에이전트 코딩이었으나, 12월에는 이 비율이 역전되어 80% 에이전트 코딩, 20% 수정/터치업으로 전환</li>\n<li>실질적으로 <strong>영어로 프로그래밍</strong>하는 상황이 되었으며, LLM에게 어떤 코드를 작성할지 ...</p>",
+          "contentSnippet": "코딩 워크플로우의 변화\n2024년 11월에는 80% 수동+자동완성, 20% 에이전트 코딩이었으나, 12월에는 이 비율이 역전되어 80% 에이전트 코딩, 20% 수정/터치업으로 전환\n실질적으로 영어로 프로그래밍하는 상황이 되었으며, LLM에게 어떤 코드를 작성할지 ...",
+          "id": "https://news.hada.io/topic?id=26183",
+          "isoDate": "2026-01-28T00:51:01.000Z"
+        },
+        {
+          "title": "Kimi, 오픈소스 비주얼 SOTA-에이전틱 모델 Kimi K2.5 공개",
+          "link": "https://news.hada.io/topic?id=26182",
+          "pubDate": "2026-01-28T00:48:53.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Kimi K2.5</strong>는 약 15조 개의 시각·텍스트 토큰으로 추가 학습된 <strong>멀티모달 오픈소스 모델</strong>로, 코드 작성과 비전 처리 능력을 통합</li>\n<li>최대 <strong>100개의 하위 에이전트</strong>를 병렬로 제어하는 <strong>Agent Swarm</strong> 구조를 통해 복잡한 작업을 4.5배 빠르...</p>",
+          "contentSnippet": "Kimi K2.5는 약 15조 개의 시각·텍스트 토큰으로 추가 학습된 멀티모달 오픈소스 모델로, 코드 작성과 비전 처리 능력을 통합\n최대 100개의 하위 에이전트를 병렬로 제어하는 Agent Swarm 구조를 통해 복잡한 작업을 4.5배 빠르...",
+          "id": "https://news.hada.io/topic?id=26182",
+          "isoDate": "2026-01-28T00:48:53.000Z"
+        },
+        {
+          "title": "기술의 사춘기: 강력한 AI의 위험에 맞서고 극복하기 — Dario Amodei",
+          "link": "https://news.hada.io/topic?id=26181",
+          "pubDate": "2026-01-28T00:46:33.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>강력한 AI</strong>가 1~2년 내 도래할 가능성이 있으며, 이는 노벨상 수상자보다 뛰어난 지능을 갖춘 수백만 개의 AI 인스턴스가 <strong>&quot;데이터센터 안의 천재 국가&quot;</strong> 를 형성하는 수준을 의미</li>\n<li>AI가 가져올 5가지 핵심 위험은 <strong>자율성 상실</strong>, <strong>파...</p>",
+          "contentSnippet": "강력한 AI가 1~2년 내 도래할 가능성이 있으며, 이는 노벨상 수상자보다 뛰어난 지능을 갖춘 수백만 개의 AI 인스턴스가 \"데이터센터 안의 천재 국가\" 를 형성하는 수준을 의미\nAI가 가져올 5가지 핵심 위험은 자율성 상실, 파...",
+          "id": "https://news.hada.io/topic?id=26181",
+          "isoDate": "2026-01-28T00:46:33.000Z"
         }
       ]
     }
