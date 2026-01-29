@@ -7,6 +7,46 @@
       "priority": 1,
       "data": [
         {
+          "title": "Yahoo, Anthropic의 Claude 기반 AI 검색 엔진 ‘Scout’ 베타 출시",
+          "link": "https://news.hada.io/topic?id=26226",
+          "pubDate": "2026-01-29T08:00:21.000Z",
+          "author": "davespark",
+          "content": "<p>Microsoft Bing grounding API + Yahoo 30년 검색 데이터 + 2.5억 사용자 인사이트 활용</p>\n<p><strong>가장 큰 차별점: 링크 적극 노출</strong></p>\n<ul>\n<li>다른 AI 검색 (ChatGPT, Perplexity, Google AI Mode)은 링크 숨김 또는 아이콘/연한 버튼 처리</li>\n<li>Scout는 답변 본문에 파란색 링크 직접 삽입 + ",
+          "contentSnippet": "Microsoft Bing grounding API + Yahoo 30년 검색 데이터 + 2.5억 사용자 인사이트 활용\n가장 큰 차별점: 링크 적극 노출\n다른 AI 검색 (ChatGPT, Perplexity, Google AI Mode)은 링크 숨김 또는 아이콘/연한 버튼 처리\nScout는 답변 본문에 파란색 링크 직접 삽입 +",
+          "id": "https://news.hada.io/topic?id=26226",
+          "isoDate": "2026-01-29T08:00:21.000Z"
+        },
+        {
+          "title": "LLM과의 대화가 내 사고를 향상시킨 이유",
+          "link": "https://news.hada.io/topic?id=26225",
+          "pubDate": "2026-01-29T07:06:21.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>LLM과의 대화</strong>는 개인의 사고 명료성과 언어 표현 능력을 높여줌</li>\n<li>오랫동안 <strong>암묵적으로 알고 있었지만 말로 표현하지 못했던 생각</strong>을 LLM이 문장으로 정리해 주며, 새로운 학습이 아닌 인식의 순간이 발생</li>\n<li>프로그래머의 경험처럼 <strong>직관·패턴 인식·설�...</p>",
+          "contentSnippet": "LLM과의 대화는 개인의 사고 명료성과 언어 표현 능력을 높여줌\n오랫동안 암묵적으로 알고 있었지만 말로 표현하지 못했던 생각을 LLM이 문장으로 정리해 주며, 새로운 학습이 아닌 인식의 순간이 발생\n프로그래머의 경험처럼 직관·패턴 인식·설�...",
+          "id": "https://news.hada.io/topic?id=26225",
+          "isoDate": "2026-01-29T07:06:21.000Z"
+        },
+        {
+          "title": "WD-40의 제조법을 아는 사람들",
+          "link": "https://news.hada.io/topic?id=26224",
+          "pubDate": "2026-01-29T06:19:14.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>WD-40의 <strong>비밀 공식</strong>은 극소수 임원만 접근 가능한 형태로 관리되며, CEO조차 30년 이상 근무 후에야 열람 가능했음</li>\n<li>이 제조법은 샌디에이고의 <strong>은행 금고</strong>에 수기로 보관되며, 지난 30년간 단 세 번만 금고 밖으로 이동했음</li>\n<li>연구개발 책임자조차 전체 공식을...</p>",
+          "contentSnippet": "WD-40의 비밀 공식은 극소수 임원만 접근 가능한 형태로 관리되며, CEO조차 30년 이상 근무 후에야 열람 가능했음\n이 제조법은 샌디에이고의 은행 금고에 수기로 보관되며, 지난 30년간 단 세 번만 금고 밖으로 이동했음\n연구개발 책임자조차 전체 공식을...",
+          "id": "https://news.hada.io/topic?id=26224",
+          "isoDate": "2026-01-29T06:19:14.000Z"
+        },
+        {
+          "title": "MoltBot 제작자: “나는 읽지 않은 코드를 배포한다”",
+          "link": "https://news.hada.io/topic?id=26222",
+          "pubDate": "2026-01-29T04:11:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>AI 에이전트</strong>를 활용해 혼자서 1월에만 <strong>6,600건 이상의 커밋</strong>을 기록한 Peter Steinberger의 워크플로우를 다룬 인터뷰 기사</li>\n<li>Moltbot(구 Clawdbot)은 현재 <strong>GitHub 역대 가장 빠른 스타 성장</strong>을 기록 중이며, Google 검색량에서 Claude Code와 Codex...</p>",
+          "contentSnippet": "AI 에이전트를 활용해 혼자서 1월에만 6,600건 이상의 커밋을 기록한 Peter Steinberger의 워크플로우를 다룬 인터뷰 기사\nMoltbot(구 Clawdbot)은 현재 GitHub 역대 가장 빠른 스타 성장을 기록 중이며, Google 검색량에서 Claude Code와 Codex...",
+          "id": "https://news.hada.io/topic?id=26222",
+          "isoDate": "2026-01-29T04:11:01.000Z"
+        },
+        {
           "title": "에어포일 (2024)",
           "link": "https://news.hada.io/topic?id=26221",
           "pubDate": "2026-01-29T03:32:58.000Z",
@@ -65,46 +105,6 @@
           "contentSnippet": "C#과 TypeScript의 설계자 Anders Hejlsberg로부터 얻은 7가지 교훈\nHejlsberg의 40년 경력에서 반복되는 패턴:\n1. 빠른 피드백이 거의 모든 것보다 중요하다\n초기",
           "id": "https://news.hada.io/topic?id=26215",
           "isoDate": "2026-01-29T02:18:56.000Z"
-        },
-        {
-          "title": "우리는 모두 표절자가 되었는가?",
-          "link": "https://news.hada.io/topic?id=26214",
-          "pubDate": "2026-01-29T01:54:28.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>AI 시대에 <strong>지적 재산 도용</strong>의 기준이 모호해지면서 표절의 정의와 허용 범위에 대한 논쟁이 격화되고 있음</li>\n<li>\n<strong>표절</strong>은 문학과 음악, 연설 전반에 걸쳐 오랜 역사 속에서 반복되어 왔으며, 유명 작품조차 쉽게 통과된 사례가 존재함</li>\n<li>\n<strong>명확한 정의 부재...</p>",
-          "contentSnippet": "AI 시대에 지적 재산 도용의 기준이 모호해지면서 표절의 정의와 허용 범위에 대한 논쟁이 격화되고 있음\n표절은 문학과 음악, 연설 전반에 걸쳐 오랜 역사 속에서 반복되어 왔으며, 유명 작품조차 쉽게 통과된 사례가 존재함\n명확한 정의 부재...",
-          "id": "https://news.hada.io/topic?id=26214",
-          "isoDate": "2026-01-29T01:54:28.000Z"
-        },
-        {
-          "title": "QMD - 퀵 마크다운 서치",
-          "link": "https://news.hada.io/topic?id=26213",
-          "pubDate": "2026-01-29T00:46:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>개인 노트, 기술 문서, 회의록 등 다양한 <strong>Markdown 기반 문서를 로컬에서 검색</strong>하기 위해 개발된 <strong>경량 CLI 검색 엔진</strong>\n</li>\n<li>\n<strong>BM25 전체 텍스트 검색</strong>, <strong>벡터 의미 검색</strong>, <strong>LLM 재순위화(re-ranking)</strong> 를 결합한 <strong>하...</p>",
-          "contentSnippet": "개인 노트, 기술 문서, 회의록 등 다양한 Markdown 기반 문서를 로컬에서 검색하기 위해 개발된 경량 CLI 검색 엔진\n\n\nBM25 전체 텍스트 검색, 벡터 의미 검색, LLM 재순위화(re-ranking) 를 결합한 하...",
-          "id": "https://news.hada.io/topic?id=26213",
-          "isoDate": "2026-01-29T00:46:02.000Z"
-        },
-        {
-          "title": "미국 이민세관단속국(ICE)과 Palantir: 미국 요원이 건강 데이터를 이용해 ‘불법 이민자’를 추적",
-          "link": "https://news.hada.io/topic?id=26212",
-          "pubDate": "2026-01-29T00:43:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>미국 <strong>이민세관단속국(ICE)</strong> 요원들이 <strong>Palantir</strong>가 개발한 앱을 통해 수백만 명의 미국인의 <strong>건강기록 데이터를 활용해 불법 이민자를 추적 및 체포</strong>\n</li>\n<li>이 앱 <strong>Elite(Enhanced Leads Identification and Targeting for Enforcement)</strong> 는...</p>",
-          "contentSnippet": "미국 이민세관단속국(ICE) 요원들이 Palantir가 개발한 앱을 통해 수백만 명의 미국인의 건강기록 데이터를 활용해 불법 이민자를 추적 및 체포\n\n이 앱 Elite(Enhanced Leads Identification and Targeting for Enforcement) 는...",
-          "id": "https://news.hada.io/topic?id=26212",
-          "isoDate": "2026-01-29T00:43:01.000Z"
-        },
-        {
-          "title": "아마존, AI와 효율성 강화 속에서 전 세계적으로 1만6천 명 감원",
-          "link": "https://news.hada.io/topic?id=26211",
-          "pubDate": "2026-01-29T00:40:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Amazon의 글로벌 구조조정</strong>으로 기업 부문 인력 <strong>1만6천 명 감원 확정</strong>, 지난해 10월 이후 누적 <strong>약 3만 명 감원</strong>\n</li>\n<li>전체 직원 158만 명 중 물류 인력을 제외한 <strong>사무직 인력의 약 10%</strong> 에 해당하며, 회사 설립 이래 최대 규모 감원</l...</p>",
-          "contentSnippet": "Amazon의 글로벌 구조조정으로 기업 부문 인력 1만6천 명 감원 확정, 지난해 10월 이후 누적 약 3만 명 감원\n\n전체 직원 158만 명 중 물류 인력을 제외한 사무직 인력의 약 10% 에 해당하며, 회사 설립 이래 최대 규모 감원",
-          "id": "https://news.hada.io/topic?id=26211",
-          "isoDate": "2026-01-29T00:40:01.000Z"
         }
       ]
     }
