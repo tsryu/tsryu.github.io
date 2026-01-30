@@ -7,104 +7,104 @@
       "priority": 1,
       "data": [
         {
-          "title": "이메일은 그렇게 작동하지 않습니다, HSBC",
-          "link": "https://news.hada.io/topic?id=26234",
-          "pubDate": "2026-01-29T19:33:26.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>HSBC가 고객의 <strong>이메일 수신 여부를 추적 픽셀로 판단</strong>한 결과, 실제로는 정상 수신 중인 고객에게 “메일이 반송됐다”는 잘못된 통지를 보냄</li>\n<li>은행은 고객이 이메일 주소를 업데이트해야 한다고 요구했으나, <strong>고객 계정에는 이미 올바른 주소가 등록되어 있었음</strong>\n</li...</p>",
-          "contentSnippet": "HSBC가 고객의 이메일 수신 여부를 추적 픽셀로 판단한 결과, 실제로는 정상 수신 중인 고객에게 “메일이 반송됐다”는 잘못된 통지를 보냄\n은행은 고객이 이메일 주소를 업데이트해야 한다고 요구했으나, 고객 계정에는 이미 올바른 주소가 등록되어 있었음",
-          "id": "https://news.hada.io/topic?id=26234",
-          "isoDate": "2026-01-29T19:33:26.000Z"
+          "title": "Protobuf를 제거하고 Rust↔C 직접 바인딩으로 성능 5배 개선",
+          "link": "https://news.hada.io/topic?id=26253",
+          "pubDate": "2026-01-30T03:54:40.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>PostgreSQL 확장 프록시인 <strong>PgDog</strong>가 SQL 파싱 성능을 높이기 위해 <strong>Protobuf 직렬화 대신 Rust 직접 바인딩</strong>을 도입</li>\n<li>기존 Protobuf 기반 구조를 <strong>C–Rust 직접 변환(bindgen + Claude 생성 래퍼)</strong> 으로 교체해 <strong>파싱 5.45배, 디파싱 9.64배</st...</p>",
+          "contentSnippet": "PostgreSQL 확장 프록시인 PgDog가 SQL 파싱 성능을 높이기 위해 Protobuf 직렬화 대신 Rust 직접 바인딩을 도입\n기존 Protobuf 기반 구조를 C–Rust 직접 변환(bindgen + Claude 생성 래퍼) 으로 교체해 파싱 5.45배, 디파싱 9.64배",
+          "id": "https://news.hada.io/topic?id=26253",
+          "isoDate": "2026-01-30T03:54:40.000Z"
         },
         {
-          "title": "HN 아케이드",
-          "link": "https://news.hada.io/topic?id=26233",
-          "pubDate": "2026-01-29T18:32:59.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Hacker News 커뮤니티에서 소개된 게임들을 한곳에 모아 탐색할 수 있는 웹사이트</strong>\n</li>\n<li>사용자는 다양한 <strong>HN 게시물 기반 게임</strong>을 한눈에 확인 가능</li>\n<li>사이트는 <strong>간단한 인터페이스</strong>로 구성되어 있으며, 별도의 설치 없이 바로 이용 가능</li>\n<l...</p>",
-          "contentSnippet": "Hacker News 커뮤니티에서 소개된 게임들을 한곳에 모아 탐색할 수 있는 웹사이트\n\n사용자는 다양한 HN 게시물 기반 게임을 한눈에 확인 가능\n사이트는 간단한 인터페이스로 구성되어 있으며, 별도의 설치 없이 바로 이용 가능",
-          "id": "https://news.hada.io/topic?id=26233",
-          "isoDate": "2026-01-29T18:32:59.000Z"
+          "title": "2025년까지의 IP 주소 현황",
+          "link": "https://news.hada.io/topic?id=26252",
+          "pubDate": "2026-01-30T03:53:00.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>전 세계 <strong>IPv4 주소가 사실상 고갈</strong>되었지만, <strong>IPv6 전환 속도는 여전히 느림</strong>\n</li>\n<li>\n<strong>IPv4 거래 시장</strong>은 2022년 이후 가격 하락세로, 2025년 평균 <strong>주소당 22달러</strong>, 거래량은 3,300만 개 수준</li>\n<li>\n<strong>NAT</strong> 기술이 IPv4 ...</p>",
+          "contentSnippet": "전 세계 IPv4 주소가 사실상 고갈되었지만, IPv6 전환 속도는 여전히 느림\n\n\nIPv4 거래 시장은 2022년 이후 가격 하락세로, 2025년 평균 주소당 22달러, 거래량은 3,300만 개 수준\nNAT 기술이 IPv4 ...",
+          "id": "https://news.hada.io/topic?id=26252",
+          "isoDate": "2026-01-30T03:53:00.000Z"
         },
         {
-          "title": "ASML 인력 구조조정, 약 1,700개 직무 순감축 가능성",
-          "link": "https://news.hada.io/topic?id=26232",
-          "pubDate": "2026-01-29T17:33:32.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>ASML은 <strong>엔지니어링과 혁신 중심의 조직 재편</strong>을 추진하며, 기술(Technology) 및 IT 부문을 간소화할 계획</li>\n<li>기술 조직은 기존 <strong>프로젝트/매트릭스 구조에서 제품·모듈 중심 구조</strong>로 전환해 의사결정과 프로세스를 단순화</li>\n<li>이 과정에서 일부 <strong>리더십 직무...</p>",
-          "contentSnippet": "ASML은 엔지니어링과 혁신 중심의 조직 재편을 추진하며, 기술(Technology) 및 IT 부문을 간소화할 계획\n기술 조직은 기존 프로젝트/매트릭스 구조에서 제품·모듈 중심 구조로 전환해 의사결정과 프로세스를 단순화\n이 과정에서 일부 리더십 직무...",
-          "id": "https://news.hada.io/topic?id=26232",
-          "isoDate": "2026-01-29T17:33:32.000Z"
-        },
-        {
-          "title": "영국 정부의 ‘AI Skills Hub’, PwC가 410만 파운드에 제작",
-          "link": "https://news.hada.io/topic?id=26231",
-          "pubDate": "2026-01-29T15:32:54.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>영국 정부가 <strong>2030년까지 1,000만 명에게 AI 기술을 제공</strong>하겠다는 목표로 ‘AI Skills Hub’ 웹사이트를 공개</li>\n<li>이 사이트는 <strong>PwC가 약 410만 파운드(약 565만 달러)</strong> 에 납품했으며, 실제 기능은 외부 학습 플랫폼으로의 <strong>링크 제공에 그침</strong>\n</li>\n<li>...</p>",
-          "contentSnippet": "영국 정부가 2030년까지 1,000만 명에게 AI 기술을 제공하겠다는 목표로 ‘AI Skills Hub’ 웹사이트를 공개\n이 사이트는 PwC가 약 410만 파운드(약 565만 달러) 에 납품했으며, 실제 기능은 외부 학습 플랫폼으로의 링크 제공에 그침\n\n...",
-          "id": "https://news.hada.io/topic?id=26231",
-          "isoDate": "2026-01-29T15:32:54.000Z"
-        },
-        {
-          "title": "테슬라, 모델 S와 X 생산 중단",
-          "link": "https://news.hada.io/topic?id=26229",
-          "pubDate": "2026-01-29T13:33:19.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>테슬라가 <strong>모델 S와 모델 X 차량 생산을 종료</strong>하고, 캘리포니아 프리몬트 공장을 <strong>휴머노이드 로봇 Optimus 생산라인으로 전환</strong>\n</li>\n<li>두 모델은 테슬라의 <strong>가장 오래된 차량</strong>으로, 최근 몇 년간 <strong>전기차 경쟁 심화로 가격 인하</strong>가 이어짐</l...</p>",
-          "contentSnippet": "테슬라가 모델 S와 모델 X 차량 생산을 종료하고, 캘리포니아 프리몬트 공장을 휴머노이드 로봇 Optimus 생산라인으로 전환\n\n두 모델은 테슬라의 가장 오래된 차량으로, 최근 몇 년간 전기차 경쟁 심화로 가격 인하가 이어짐",
-          "id": "https://news.hada.io/topic?id=26229",
-          "isoDate": "2026-01-29T13:33:19.000Z"
-        },
-        {
-          "title": "Show GN: lx: 완전한 개발자의 통제하의 바이브 코딩 도구",
-          "link": "https://news.hada.io/topic?id=26228",
-          "pubDate": "2026-01-29T10:56:45.000Z",
-          "author": "chebread",
-          "content": "<h3>서론</h3>\n<p>안녕하세요. 컴퓨터 공학에 흥미가 있는 학생입니다. 이번에 <a href=\"https://github.com/chebread/lx\">lx</a> 라는 프로그램을 개발하게 되어 글을 읽기만 하던 GeekNews에 처음으로 포스팅을 해보고자 합니다.</p>\n<p>근래에 AI에게 자연어로 명령하면 코드를 알아서 다 짜주는 바이브 코딩이 대세입",
-          "contentSnippet": "서론\n안녕하세요. 컴퓨터 공학에 흥미가 있는 학생입니다. 이번에 lx 라는 프로그램을 개발하게 되어 글을 읽기만 하던 GeekNews에 처음으로 포스팅을 해보고자 합니다.\n근래에 AI에게 자연어로 명령하면 코드를 알아서 다 짜주는 바이브 코딩이 대세입",
-          "id": "https://news.hada.io/topic?id=26228",
-          "isoDate": "2026-01-29T10:56:45.000Z"
-        },
-        {
-          "title": "애플, iOS 앱 내 모든 Patreon 창작자 수익에서 최대 30% 수수료 부과 예정",
-          "link": "https://news.hada.io/topic?id=26227",
-          "pubDate": "2026-01-29T10:32:59.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>애플이 <strong>iOS Patreon 결제에 App Store 인앱결제 적용</strong>을 요구하며, <strong>2026년 11월 1일까지 인앱결제 시스템으로 전환</strong>을 요구함</li>\n<li>Patreon 앱에서의 후원 결제를 <strong>디지털 상품</strong>으로 간주하고, <strong>최대 30% 수수료</strong>를 부과하는 정책을 유지...</p>",
-          "contentSnippet": "애플이 iOS Patreon 결제에 App Store 인앱결제 적용을 요구하며, 2026년 11월 1일까지 인앱결제 시스템으로 전환을 요구함\nPatreon 앱에서의 후원 결제를 디지털 상품으로 간주하고, 최대 30% 수수료를 부과하는 정책을 유지...",
-          "id": "https://news.hada.io/topic?id=26227",
-          "isoDate": "2026-01-29T10:32:59.000Z"
-        },
-        {
-          "title": "Yahoo, Anthropic의 Claude 기반 AI 검색 엔진 ‘Scout’ 베타 출시",
-          "link": "https://news.hada.io/topic?id=26226",
-          "pubDate": "2026-01-29T08:00:21.000Z",
+          "title": "AI에게 창의적이 되라고 하지 마라. 대신 전두엽을 절제하라",
+          "link": "https://news.hada.io/topic?id=26251",
+          "pubDate": "2026-01-30T03:39:02.000Z",
           "author": "davespark",
-          "content": "<p>Microsoft Bing grounding API + Yahoo 30년 검색 데이터 + 2.5억 사용자 인사이트 활용</p>\n<p><strong>가장 큰 차별점: 링크 적극 노출</strong></p>\n<ul>\n<li>다른 AI 검색 (ChatGPT, Perplexity, Google AI Mode)은 링크 숨김 또는 아이콘/연한 버튼 처리</li>\n<li>Scout는 답변 본문에 파란색 링크 직접 삽입 + ",
-          "contentSnippet": "Microsoft Bing grounding API + Yahoo 30년 검색 데이터 + 2.5억 사용자 인사이트 활용\n가장 큰 차별점: 링크 적극 노출\n다른 AI 검색 (ChatGPT, Perplexity, Google AI Mode)은 링크 숨김 또는 아이콘/연한 버튼 처리\nScout는 답변 본문에 파란색 링크 직접 삽입 +",
-          "id": "https://news.hada.io/topic?id=26226",
-          "isoDate": "2026-01-29T08:00:21.000Z"
+          "content": "<p>AI에게 “창의적으로 해줘”라고 부탁하는 건 거의 효과가 없다. → AI는 그냥 가장 흔한/진부한 답을 내놓을 뿐이다.</p>\n<p>진짜 창의적인 결과가 나오려면 <strong>AI를 일부러 ‘lobotomize(전두엽 절제)’</strong> 해야 한다.<br />\n즉, AI가 평소에 가장 쉽게 쓰는 단어·패턴·비유를 강제로 <strong>금지</str",
+          "contentSnippet": "AI에게 “창의적으로 해줘”라고 부탁하는 건 거의 효과가 없다. → AI는 그냥 가장 흔한/진부한 답을 내놓을 뿐이다.\n진짜 창의적인 결과가 나오려면 AI를 일부러 ‘lobotomize(전두엽 절제)’ 해야 한다.\n금지</str",
+          "id": "https://news.hada.io/topic?id=26251",
+          "isoDate": "2026-01-30T03:39:02.000Z"
         },
         {
-          "title": "LLM과의 대화가 내 사고를 향상시킨 이유",
-          "link": "https://news.hada.io/topic?id=26225",
-          "pubDate": "2026-01-29T07:06:21.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>LLM과의 대화</strong>는 개인의 사고 명료성과 언어 표현 능력을 높여줌</li>\n<li>오랫동안 <strong>암묵적으로 알고 있었지만 말로 표현하지 못했던 생각</strong>을 LLM이 문장으로 정리해 주며, 새로운 학습이 아닌 인식의 순간이 발생</li>\n<li>프로그래머의 경험처럼 <strong>직관·패턴 인식·설�...</p>",
-          "contentSnippet": "LLM과의 대화는 개인의 사고 명료성과 언어 표현 능력을 높여줌\n오랫동안 암묵적으로 알고 있었지만 말로 표현하지 못했던 생각을 LLM이 문장으로 정리해 주며, 새로운 학습이 아닌 인식의 순간이 발생\n프로그래머의 경험처럼 직관·패턴 인식·설�...",
-          "id": "https://news.hada.io/topic?id=26225",
-          "isoDate": "2026-01-29T07:06:21.000Z"
+          "title": "마크 앤드리슨: 진짜 AI 붐은 아직 시작도 안 했다 [유튜브]",
+          "link": "https://news.hada.io/topic?id=26250",
+          "pubDate": "2026-01-30T03:31:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>지난 50년간 경제 내 기술 변화는 <strong>생산성 지표상 매우 느렸으며</strong>, AI는 인구 감소와 맞물려 경제 성장을 유지할 핵심 기술로 부상</li>\n<li>AI는 모래를 사고로 바꾸는 <strong>'현자의 돌'</strong> 과 같은 기술이며, 개인의 능력을 10배 이상 증폭시키는 슈퍼파워드 개인 시대를 열고 있음...</p>",
+          "contentSnippet": "지난 50년간 경제 내 기술 변화는 생산성 지표상 매우 느렸으며, AI는 인구 감소와 맞물려 경제 성장을 유지할 핵심 기술로 부상\nAI는 모래를 사고로 바꾸는 '현자의 돌' 과 같은 기술이며, 개인의 능력을 10배 이상 증폭시키는 슈퍼파워드 개인 시대를 열고 있음...",
+          "id": "https://news.hada.io/topic?id=26250",
+          "isoDate": "2026-01-30T03:31:02.000Z"
         },
         {
-          "title": "WD-40의 제조법을 아는 사람들",
-          "link": "https://news.hada.io/topic?id=26224",
-          "pubDate": "2026-01-29T06:19:14.000Z",
+          "title": "피지컬 AI 모델 시장 지도: 로봇 지능을 둘러싼 경쟁의 이면",
+          "link": "https://news.hada.io/topic?id=26249",
+          "pubDate": "2026-01-30T02:51:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>로보틱스 분야는 2025년 <strong>407억 달러</strong>라는 역대 최고 투자를 유치했으며, 전년 대비 74% 증가해 전체 벤처 자금의 9%를 차지하며 AI 소프트웨어와 함께 투자 선도 분야로 부상</li>\n<li>\n<strong>피지컬/물리적 AI</strong>는 로봇이 사전 프로그래밍된 규칙이 아닌 데이터로부터 학습하여 물리...</p>",
+          "contentSnippet": "로보틱스 분야는 2025년 407억 달러라는 역대 최고 투자를 유치했으며, 전년 대비 74% 증가해 전체 벤처 자금의 9%를 차지하며 AI 소프트웨어와 함께 투자 선도 분야로 부상\n피지컬/물리적 AI는 로봇이 사전 프로그래밍된 규칙이 아닌 데이터로부터 학습하여 물리...",
+          "id": "https://news.hada.io/topic?id=26249",
+          "isoDate": "2026-01-30T02:51:01.000Z"
+        },
+        {
+          "title": "모질라, OpenAI·Anthropic에 맞서는 ‘AI 반란군 연합’ 구축",
+          "link": "https://news.hada.io/topic?id=26248",
+          "pubDate": "2026-01-30T02:13:37.000Z",
           "author": "xguru",
-          "content": "<ul>\n<li>WD-40의 <strong>비밀 공식</strong>은 극소수 임원만 접근 가능한 형태로 관리되며, CEO조차 30년 이상 근무 후에야 열람 가능했음</li>\n<li>이 제조법은 샌디에이고의 <strong>은행 금고</strong>에 수기로 보관되며, 지난 30년간 단 세 번만 금고 밖으로 이동했음</li>\n<li>연구개발 책임자조차 전체 공식을...</p>",
-          "contentSnippet": "WD-40의 비밀 공식은 극소수 임원만 접근 가능한 형태로 관리되며, CEO조차 30년 이상 근무 후에야 열람 가능했음\n이 제조법은 샌디에이고의 은행 금고에 수기로 보관되며, 지난 30년간 단 세 번만 금고 밖으로 이동했음\n연구개발 책임자조차 전체 공식을...",
-          "id": "https://news.hada.io/topic?id=26224",
-          "isoDate": "2026-01-29T06:19:14.000Z"
+          "content": "<ul>\n<li>\n<strong>모질라</strong>가 거대 AI 기업의 독점을 견제하기 위해 <strong>‘AI 반란군 연합’</strong> 이라 불리는 개방형 협력 네트워크를 구축 중임</li>\n<li>이 연합은 <strong>스타트업·개발자·공익 기술인</strong>이 참여해 <strong>신뢰할 수 있고 투명한 AI</strong>를 만드는 것을 목표로 함</li>\n...</p>",
+          "contentSnippet": "모질라가 거대 AI 기업의 독점을 견제하기 위해 ‘AI 반란군 연합’ 이라 불리는 개방형 협력 네트워크를 구축 중임\n이 연합은 스타트업·개발자·공익 기술인이 참여해 신뢰할 수 있고 투명한 AI를 만드는 것을 목표로 함\n...",
+          "id": "https://news.hada.io/topic?id=26248",
+          "isoDate": "2026-01-30T02:13:37.000Z"
+        },
+        {
+          "title": "Node.js 메인테이너가 경고하는 AI 시대 개발자의 진짜 위험",
+          "link": "https://news.hada.io/topic?id=26247",
+          "pubDate": "2026-01-30T01:46:22.000Z",
+          "author": "davespark",
+          "content": "<p>Node.js 메인테이너 Matteo Collina의 경고 메시지:<br />\nAI 시대에 가장 위험한 건 기술 자체가 아니라, <strong>“AI가 썼으니 괜찮아”라는 무책임한 태도</strong>다.</p>\n<p><strong>핵심 주장</strong></p>\n<ul>\n<li>AI는 코드를 매우 빠르게 생성하지만 <strong>진짜 위험</strong>은 코드 작성 속도가 아니라",
+          "contentSnippet": "Node.js 메인테이너 Matteo Collina의 경고 메시지:\n“AI가 썼으니 괜찮아”라는 무책임한 태도다.\n핵심 주장\nAI는 코드를 매우 빠르게 생성하지만 진짜 위험은 코드 작성 속도가 아니라",
+          "id": "https://news.hada.io/topic?id=26247",
+          "isoDate": "2026-01-30T01:46:22.000Z"
+        },
+        {
+          "title": "미국 사이버보안국 수장이 ChatGPT에 민감한 정부 문서를 업로드했다는 보도",
+          "link": "https://news.hada.io/topic?id=26246",
+          "pubDate": "2026-01-30T01:33:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>미국 <strong>사이버보안 및 기반시설 보안국(CISA)</strong> 의 임시 국장이 <strong>기밀 수준의 정부 계약 문서</strong>를 ChatGPT에 업로드한 것으로 보도됨</li>\n<li>해당 문서는 “<strong>공식 사용 전용(For Official Use Only)</strong> ”으로 표시되어 있었으며, <strong>내부 보안 경보와 연방 조...</p>",
+          "contentSnippet": "미국 사이버보안 및 기반시설 보안국(CISA) 의 임시 국장이 기밀 수준의 정부 계약 문서를 ChatGPT에 업로드한 것으로 보도됨\n해당 문서는 “공식 사용 전용(For Official Use Only) ”으로 표시되어 있었으며, 내부 보안 경보와 연방 조...",
+          "id": "https://news.hada.io/topic?id=26246",
+          "isoDate": "2026-01-30T01:33:01.000Z"
+        },
+        {
+          "title": "Mermaid ASCII: 터미널에서 Mermaid 다이어그램 렌더링",
+          "link": "https://news.hada.io/topic?id=26245",
+          "pubDate": "2026-01-30T00:57:19.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>beautiful-mermaid</strong>는 Mermaid 다이어그램을 <strong>SVG 또는 ASCII 아트</strong>로 렌더링하는 초고속 TypeScript 기반 도구</li>\n<li>\n<strong>5가지 다이어그램 유형</strong>(Flowchart, State, Sequence, Class, ER)을 지원하며, <strong>터미널과 브라우저 모두에서 작동</strong>\n...</p>",
+          "contentSnippet": "beautiful-mermaid는 Mermaid 다이어그램을 SVG 또는 ASCII 아트로 렌더링하는 초고속 TypeScript 기반 도구\n5가지 다이어그램 유형(Flowchart, State, Sequence, Class, ER)을 지원하며, 터미널과 브라우저 모두에서 작동\n...",
+          "id": "https://news.hada.io/topic?id=26245",
+          "isoDate": "2026-01-30T00:57:19.000Z"
+        },
+        {
+          "title": "프로젝트 지니: 무한하고 상호작용적인 세계를 실험하다",
+          "link": "https://news.hada.io/topic?id=26244",
+          "pubDate": "2026-01-30T00:54:19.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>구글의 <strong>Project Genie</strong>는 사용자가 텍스트와 이미지를 이용해 <strong>상호작용 가능한 가상 세계를 생성·탐험·리믹스</strong>할 수 있는 실험적 연구 프로토타입</li>\n<li>\n<strong>Genie 3</strong> 모델을 기반으로 하며, 사용자의 움직임에 따라 <strong>실시간으로 경로와 환경을 생성...</p>",
+          "contentSnippet": "구글의 Project Genie는 사용자가 텍스트와 이미지를 이용해 상호작용 가능한 가상 세계를 생성·탐험·리믹스할 수 있는 실험적 연구 프로토타입\nGenie 3 모델을 기반으로 하며, 사용자의 움직임에 따라 실시간으로 경로와 환경을 생성...",
+          "id": "https://news.hada.io/topic?id=26244",
+          "isoDate": "2026-01-30T00:54:19.000Z"
         }
       ]
     }
