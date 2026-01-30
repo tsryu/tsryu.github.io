@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "Python subprocess/psutil: 15년 묵은 Busy-loop 폴링을 끝내고 진정한 이벤트 기반 대기로 전환",
+          "link": "https://news.hada.io/topic?id=26263",
+          "pubDate": "2026-01-30T16:35:59.000Z",
+          "author": "darjeeling",
+          "content": "<p>요약:</p>\n<ul>\n<li>Python의 <code>subprocess</code> 모듈과 <code>psutil</code> 라이브러리는 지난 15년 동안 프로세스 종료 대기(<code>wait()</code>) 시 <code>sleep</code>과 <code>waitpid</code>를 반복하는 비효율적인 'Busy-loop 폴링' 방식을 사용해왔음.</li>\n<li>이 방식은 불필요한 CPU Wake-up, 배터",
+          "contentSnippet": "요약:\nPython의 subprocess 모듈과 psutil 라이브러리는 지난 15년 동안 프로세스 종료 대기(wait()) 시 sleep과 waitpid를 반복하는 비효율적인 'Busy-loop 폴링' 방식을 사용해왔음.\n이 방식은 불필요한 CPU Wake-up, 배터",
+          "id": "https://news.hada.io/topic?id=26263",
+          "isoDate": "2026-01-30T16:35:59.000Z"
+        },
+        {
+          "title": "AGENTS.md가 에이전트 평가에서 skills보다 우수한 성능을 보임",
+          "link": "https://news.hada.io/topic?id=26262",
+          "pubDate": "2026-01-30T16:33:17.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Next.js 16 API</strong>를 대상으로 한 평가에서, 프로젝트 루트에 포함된 <strong><code>AGENTS.md</code> 문서 인덱스</strong>가 skills 기반 접근보다 높은 정확도를 기록</li>\n<li>skills는 에이전트가 필요 시 호출하는 <strong>도메인 지식 패키지</strong> 형태지만, 호출이 불안정해 <stron...</p>",
+          "contentSnippet": "Next.js 16 API를 대상으로 한 평가에서, 프로젝트 루트에 포함된 AGENTS.md 문서 인덱스가 skills 기반 접근보다 높은 정확도를 기록\nskills는 에이전트가 필요 시 호출하는 도메인 지식 패키지 형태지만, 호출이 불안정해",
+          "id": "https://news.hada.io/topic?id=26262",
+          "isoDate": "2026-01-30T16:33:17.000Z"
+        },
+        {
+          "title": "카운티가 법원 보안 점검 중 체포된 모의해킹 전문가들에게 60만 달러를 지급",
+          "link": "https://news.hada.io/topic?id=26261",
+          "pubDate": "2026-01-30T15:33:25.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>2019년 아이오와주 법원 보안 점검 중 체포된 <strong>보안 전문가 두 명</strong>이 부당 체포 및 명예훼손 소송에서 <strong>60만 달러 합의금</strong>을 받게 됨</li>\n<li>두 사람은 <strong>Coalfire Labs 소속 침투테스터</strong>로, 아이오와 사법부의 <strong>공식 허가를 받은 ‘레드팀’ 모의침입 테...</p>",
+          "contentSnippet": "2019년 아이오와주 법원 보안 점검 중 체포된 보안 전문가 두 명이 부당 체포 및 명예훼손 소송에서 60만 달러 합의금을 받게 됨\n두 사람은 Coalfire Labs 소속 침투테스터로, 아이오와 사법부의 공식 허가를 받은 ‘레드팀’ 모의침입 테...",
+          "id": "https://news.hada.io/topic?id=26261",
+          "isoDate": "2026-01-30T15:33:25.000Z"
+        },
+        {
           "title": "OpenClaw, ClawdBot의 세번째 이름",
           "link": "https://news.hada.io/topic?id=26260",
           "pubDate": "2026-01-30T11:04:31.000Z",
@@ -75,36 +105,6 @@
           "contentSnippet": "PostgreSQL 확장 프록시인 PgDog가 SQL 파싱 성능을 높이기 위해 Protobuf 직렬화 대신 Rust 직접 바인딩을 도입\n기존 Protobuf 기반 구조를 C–Rust 직접 변환(bindgen + Claude 생성 래퍼) 으로 교체해 파싱 5.45배, 디파싱 9.64배",
           "id": "https://news.hada.io/topic?id=26253",
           "isoDate": "2026-01-30T03:54:40.000Z"
-        },
-        {
-          "title": "2025년까지의 IP 주소 현황",
-          "link": "https://news.hada.io/topic?id=26252",
-          "pubDate": "2026-01-30T03:53:00.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>전 세계 <strong>IPv4 주소가 사실상 고갈</strong>되었지만, <strong>IPv6 전환 속도는 여전히 느림</strong>\n</li>\n<li>\n<strong>IPv4 거래 시장</strong>은 2022년 이후 가격 하락세로, 2025년 평균 <strong>주소당 22달러</strong>, 거래량은 3,300만 개 수준</li>\n<li>\n<strong>NAT</strong> 기술이 IPv4 ...</p>",
-          "contentSnippet": "전 세계 IPv4 주소가 사실상 고갈되었지만, IPv6 전환 속도는 여전히 느림\n\n\nIPv4 거래 시장은 2022년 이후 가격 하락세로, 2025년 평균 주소당 22달러, 거래량은 3,300만 개 수준\nNAT 기술이 IPv4 ...",
-          "id": "https://news.hada.io/topic?id=26252",
-          "isoDate": "2026-01-30T03:53:00.000Z"
-        },
-        {
-          "title": "AI에게 창의적이 되라고 하지 마라. 대신 전두엽을 절제하라",
-          "link": "https://news.hada.io/topic?id=26251",
-          "pubDate": "2026-01-30T03:39:02.000Z",
-          "author": "davespark",
-          "content": "<p>AI에게 “창의적으로 해줘”라고 부탁하는 건 거의 효과가 없다. → AI는 그냥 가장 흔한/진부한 답을 내놓을 뿐이다.</p>\n<p>진짜 창의적인 결과가 나오려면 <strong>AI를 일부러 ‘lobotomize(전두엽 절제)’</strong> 해야 한다.<br />\n즉, AI가 평소에 가장 쉽게 쓰는 단어·패턴·비유를 강제로 <strong>금지</str",
-          "contentSnippet": "AI에게 “창의적으로 해줘”라고 부탁하는 건 거의 효과가 없다. → AI는 그냥 가장 흔한/진부한 답을 내놓을 뿐이다.\n진짜 창의적인 결과가 나오려면 AI를 일부러 ‘lobotomize(전두엽 절제)’ 해야 한다.\n금지</str",
-          "id": "https://news.hada.io/topic?id=26251",
-          "isoDate": "2026-01-30T03:39:02.000Z"
-        },
-        {
-          "title": "마크 앤드리슨: 진짜 AI 붐은 아직 시작도 안 했다 [유튜브]",
-          "link": "https://news.hada.io/topic?id=26250",
-          "pubDate": "2026-01-30T03:31:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>지난 50년간 경제 내 기술 변화는 <strong>생산성 지표상 매우 느렸으며</strong>, AI는 인구 감소와 맞물려 경제 성장을 유지할 핵심 기술로 부상</li>\n<li>AI는 모래를 사고로 바꾸는 <strong>'현자의 돌'</strong> 과 같은 기술이며, 개인의 능력을 10배 이상 증폭시키는 슈퍼파워드 개인 시대를 열고 있음...</p>",
-          "contentSnippet": "지난 50년간 경제 내 기술 변화는 생산성 지표상 매우 느렸으며, AI는 인구 감소와 맞물려 경제 성장을 유지할 핵심 기술로 부상\nAI는 모래를 사고로 바꾸는 '현자의 돌' 과 같은 기술이며, 개인의 능력을 10배 이상 증폭시키는 슈퍼파워드 개인 시대를 열고 있음...",
-          "id": "https://news.hada.io/topic?id=26250",
-          "isoDate": "2026-01-30T03:31:02.000Z"
         }
       ]
     }
