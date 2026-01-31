@@ -7,6 +7,26 @@
       "priority": 1,
       "data": [
         {
+          "title": "TypeScript 10만 줄을 Rust로, Claude Code 실전 포팅기",
+          "link": "https://news.hada.io/topic?id=26279",
+          "pubDate": "2026-01-31T14:53:10.000Z",
+          "author": "davespark",
+          "content": "<p>전 Facebook 엔지니어 Christopher Chedeau (Vjeux)가 <strong>Pokemon Showdown</strong> 배틀 엔진(약 10만 줄 TypeScript)을 <strong>Claude Code</strong>를 활용해 <strong>Rust</strong>로 포팅한 실험</p>\n<p><strong>프로젝트 목표</strong></p>\n<ul>\n<li>Pokemon 배틀 AI 학습용 고속 오라클(참조 시스템) 구",
+          "contentSnippet": "전 Facebook 엔지니어 Christopher Chedeau (Vjeux)가 Pokemon Showdown 배틀 엔진(약 10만 줄 TypeScript)을 Claude Code를 활용해 Rust로 포팅한 실험\n프로젝트 목표\nPokemon 배틀 AI 학습용 고속 오라클(참조 시스템) 구",
+          "id": "https://news.hada.io/topic?id=26279",
+          "isoDate": "2026-01-31T14:53:10.000Z"
+        },
+        {
+          "title": "HTTP 고양이들",
+          "link": "https://news.hada.io/topic?id=26278",
+          "pubDate": "2026-01-31T12:32:43.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>HTTP 상태 코드를 <strong>고양이 이미지</strong>로 표현한 웹 서비스로, 각 코드별로 시각적 반응을 제공</li>\n<li>사용자는 <code>https://http.cat/[status_code]</code> 형식의 URL을 통해 <strong>특정 상태 코드 이미지</strong>를 바로 조회 가능</li>\n<li>\n<code>.jpg</code> 확장자를 추가하면 <stro...</p>",
+          "contentSnippet": "HTTP 상태 코드를 고양이 이미지로 표현한 웹 서비스로, 각 코드별로 시각적 반응을 제공\n사용자는 https://http.cat/[status_code] 형식의 URL을 통해 특정 상태 코드 이미지를 바로 조회 가능\n.jpg 확장자를 추가하면",
+          "id": "https://news.hada.io/topic?id=26278",
+          "isoDate": "2026-01-31T12:32:43.000Z"
+        },
+        {
           "title": "AI 지원이 코딩 기술 형성에 미치는 영향",
           "link": "https://news.hada.io/topic?id=26275",
           "pubDate": "2026-01-31T08:33:12.000Z",
@@ -85,26 +105,6 @@
           "contentSnippet": "AI 에이전트들이 게시글을 공유·토론·추천하는 소셜 네트워크로, 인간 사용자는 관찰자로 참여 가능\n플랫폼에는 약 10만 개의 AI 에이전트, 1만2천 개의 서브몰트(submolt) , 8천여 개의 게시글, 7만9천여 개의 댓글...",
           "id": "https://news.hada.io/topic?id=26267",
           "isoDate": "2026-01-31T00:39:13.000Z"
-        },
-        {
-          "title": "clopus-watcher - Claude Code 형태의 자율 24/7 온콜 엔지니어",
-          "link": "https://news.hada.io/topic?id=26266",
-          "pubDate": "2026-01-31T00:31:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>Kubernetes 환경의 장애 대응 자동화</strong>를 목표로 한 <strong>AI 기반 감시 도구</strong>\n</li>\n<li>Claude Code를 활용해 <strong>Pod 상태를 실시간 분석</strong>하고, 오류를 감지해 <strong>자동 수정 또는 리포트 생성</strong> 수행</li>\n<li>\n<strong>CronJob</strong> 형태로 주기적 ...</p>",
-          "contentSnippet": "Kubernetes 환경의 장애 대응 자동화를 목표로 한 AI 기반 감시 도구\n\nClaude Code를 활용해 Pod 상태를 실시간 분석하고, 오류를 감지해 자동 수정 또는 리포트 생성 수행\nCronJob 형태로 주기적 ...",
-          "id": "https://news.hada.io/topic?id=26266",
-          "isoDate": "2026-01-31T00:31:01.000Z"
-        },
-        {
-          "title": "많은 인구 통계 수치가 조작되어 있다",
-          "link": "https://news.hada.io/topic?id=26264",
-          "pubDate": "2026-01-30T23:33:28.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>파푸아뉴기니와 나이지리아</strong> 등 여러 국가의 인구 통계가 실제와 크게 다르며, 정부조차 정확한 수치를 알지 못함</li>\n<li>파푸아뉴기니의 경우 <strong>2000년 인구조사 자료를 단순 추정</strong>해 2022년 인구를 940만 명으로 발표했으나, <strong>UN 보고서는 약 1,700만 명</strong>으...</p>",
-          "contentSnippet": "파푸아뉴기니와 나이지리아 등 여러 국가의 인구 통계가 실제와 크게 다르며, 정부조차 정확한 수치를 알지 못함\n파푸아뉴기니의 경우 2000년 인구조사 자료를 단순 추정해 2022년 인구를 940만 명으로 발표했으나, UN 보고서는 약 1,700만 명으...",
-          "id": "https://news.hada.io/topic?id=26264",
-          "isoDate": "2026-01-30T23:33:28.000Z"
         }
       ]
     }
