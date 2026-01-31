@@ -7,6 +7,26 @@
       "priority": 1,
       "data": [
         {
+          "title": "AI 지원이 코딩 기술 형성에 미치는 영향",
+          "link": "https://news.hada.io/topic?id=26275",
+          "pubDate": "2026-01-31T08:33:12.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>앤트로픽이 <strong>AI 코딩 도우미를 사용하는게 개발자의 학습과 숙련도에 어떤 영향을 주는지</strong> 실험적으로 검증한 연구</li>\n<li>무작위 통제 실험 결과, <strong>AI를 사용한 그룹의 개념 이해도와 디버깅 능력이 평균 17% 낮았으며</strong>, 속도 향상은 통계적으로 유의하지 않았음</li>\n<li>그...</p>",
+          "contentSnippet": "앤트로픽이 AI 코딩 도우미를 사용하는게 개발자의 학습과 숙련도에 어떤 영향을 주는지 실험적으로 검증한 연구\n무작위 통제 실험 결과, AI를 사용한 그룹의 개념 이해도와 디버깅 능력이 평균 17% 낮았으며, 속도 향상은 통계적으로 유의하지 않았음\n그...",
+          "id": "https://news.hada.io/topic?id=26275",
+          "isoDate": "2026-01-31T08:33:12.000Z"
+        },
+        {
+          "title": "토스 프론트엔드 챕터 140명 조직을 운영하며 배운 것",
+          "link": "https://news.hada.io/topic?id=26274",
+          "pubDate": "2026-01-31T06:53:56.000Z",
+          "author": "bboydart91",
+          "content": "<p>조직의 탁월함은 사람으로 만들지만 지속성은 시스템이 만든다</p>\n<ul>\n<li>토스 프론트엔드 챕터 리드로 2년 반간 고민해온 대규모 조직 운영 경험을 정리한 글</li>\n<li>토스 프론트엔드 챕터는 커뮤니티 기준 250명, 코어 챕터만 140명 규모의 대조직</li>\n<li>10명일 때와 140명일 때는 게임의 룰 자체가 다르며",
+          "contentSnippet": "조직의 탁월함은 사람으로 만들지만 지속성은 시스템이 만든다\n토스 프론트엔드 챕터 리드로 2년 반간 고민해온 대규모 조직 운영 경험을 정리한 글\n토스 프론트엔드 챕터는 커뮤니티 기준 250명, 코어 챕터만 140명 규모의 대조직\n10명일 때와 140명일 때는 게임의 룰 자체가 다르며",
+          "id": "https://news.hada.io/topic?id=26274",
+          "isoDate": "2026-01-31T06:53:56.000Z"
+        },
+        {
           "title": "Moltbook - 인터넷에서 지금 가장 흥미로운 곳",
           "link": "https://news.hada.io/topic?id=26273",
           "pubDate": "2026-01-31T01:22:48.000Z",
@@ -85,26 +105,6 @@
           "contentSnippet": "파푸아뉴기니와 나이지리아 등 여러 국가의 인구 통계가 실제와 크게 다르며, 정부조차 정확한 수치를 알지 못함\n파푸아뉴기니의 경우 2000년 인구조사 자료를 단순 추정해 2022년 인구를 940만 명으로 발표했으나, UN 보고서는 약 1,700만 명으...",
           "id": "https://news.hada.io/topic?id=26264",
           "isoDate": "2026-01-30T23:33:28.000Z"
-        },
-        {
-          "title": "Python subprocess/psutil: 15년 묵은 Busy-loop 폴링을 끝내고 진정한 이벤트 기반 대기로 전환",
-          "link": "https://news.hada.io/topic?id=26263",
-          "pubDate": "2026-01-30T16:35:59.000Z",
-          "author": "darjeeling",
-          "content": "<p>요약:</p>\n<ul>\n<li>Python의 <code>subprocess</code> 모듈과 <code>psutil</code> 라이브러리는 지난 15년 동안 프로세스 종료 대기(<code>wait()</code>) 시 <code>sleep</code>과 <code>waitpid</code>를 반복하는 비효율적인 'Busy-loop 폴링' 방식을 사용해왔음.</li>\n<li>이 방식은 불필요한 CPU Wake-up, 배터",
-          "contentSnippet": "요약:\nPython의 subprocess 모듈과 psutil 라이브러리는 지난 15년 동안 프로세스 종료 대기(wait()) 시 sleep과 waitpid를 반복하는 비효율적인 'Busy-loop 폴링' 방식을 사용해왔음.\n이 방식은 불필요한 CPU Wake-up, 배터",
-          "id": "https://news.hada.io/topic?id=26263",
-          "isoDate": "2026-01-30T16:35:59.000Z"
-        },
-        {
-          "title": "AGENTS.md가 에이전트 평가에서 skills보다 우수한 성능을 보임",
-          "link": "https://news.hada.io/topic?id=26262",
-          "pubDate": "2026-01-30T16:33:17.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Next.js 16 API</strong>를 대상으로 한 평가에서, 프로젝트 루트에 포함된 <strong><code>AGENTS.md</code> 문서 인덱스</strong>가 skills 기반 접근보다 높은 정확도를 기록</li>\n<li>skills는 에이전트가 필요 시 호출하는 <strong>도메인 지식 패키지</strong> 형태지만, 호출이 불안정해 <stron...</p>",
-          "contentSnippet": "Next.js 16 API를 대상으로 한 평가에서, 프로젝트 루트에 포함된 AGENTS.md 문서 인덱스가 skills 기반 접근보다 높은 정확도를 기록\nskills는 에이전트가 필요 시 호출하는 도메인 지식 패키지 형태지만, 호출이 불안정해",
-          "id": "https://news.hada.io/topic?id=26262",
-          "isoDate": "2026-01-30T16:33:17.000Z"
         }
       ]
     }
