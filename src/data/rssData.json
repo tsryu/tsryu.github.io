@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "천 달러짜리 아이폰이 계산을 못한다",
+          "link": "https://news.hada.io/topic?id=26340",
+          "pubDate": "2026-02-02T07:32:45.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>iPhone 16 Pro Max에서 <strong>MLX LLM 실행 시 잘못된 수치 출력</strong>이 발생하며, 같은 코드가 iPhone 15 Pro와 MacBook Pro에서는 정상 작동함</li>\n<li>\n<strong>텐서 값이 한 자릿수 이상 차이</strong>를 보이며, 동일 입력에도 결과가 왜곡되는 현상 확인</li>\n<li>문제 원인은 <strong>Neural Eng...</p>",
+          "contentSnippet": "iPhone 16 Pro Max에서 MLX LLM 실행 시 잘못된 수치 출력이 발생하며, 같은 코드가 iPhone 15 Pro와 MacBook Pro에서는 정상 작동함\n텐서 값이 한 자릿수 이상 차이를 보이며, 동일 입력에도 결과가 왜곡되는 현상 확인\n문제 원인은 Neural Eng...",
+          "id": "https://news.hada.io/topic?id=26340",
+          "isoDate": "2026-02-02T07:32:45.000Z"
+        },
+        {
+          "title": "Show GN: 깔끔한 스타일의 AI 텍스트 에디터",
+          "link": "https://news.hada.io/topic?id=26338",
+          "pubDate": "2026-02-02T05:48:06.000Z",
+          "author": "revoirb612",
+          "content": "<p>처음 쓰는 소개글이라 긴장되네요.<br />\n멋진 텍스트 에디터 많지만 한 군데 정착하지 못해서 직접 만들어봤습니다.<br />\n바닐라 자바스크립트라는 점이 좀 특징이랄까요?<br />\n아주 짧은 피드백이라도 받아봤으면..</p>\n",
+          "contentSnippet": "처음 쓰는 소개글이라 긴장되네요.\n멋진 텍스트 에디터 많지만 한 군데 정착하지 못해서 직접 만들어봤습니다.\n바닐라 자바스크립트라는 점이 좀 특징이랄까요?\n아주 짧은 피드백이라도 받아봤으면..",
+          "id": "https://news.hada.io/topic?id=26338",
+          "isoDate": "2026-02-02T05:48:06.000Z"
+        },
+        {
+          "title": "NanoClaw – Apple 컨테이너 격리 환경에서 실행되는 500줄짜리 TypeScript 기반 Claude 어시스턴트",
+          "link": "https://news.hada.io/topic?id=26337",
+          "pubDate": "2026-02-02T04:32:58.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>NanoClaw</strong>는 Apple 컨테이너에서 실행되는 개인용 <strong>Claude 기반 AI 어시스턴트</strong>로, 단일 프로세스 구조와 소수의 파일로 구성된 경량형 시스템</li>\n<li>각 <strong>그룹별 컨테이너 격리</strong>를 통해 대화 기록과 파일 시스템을 분리하며, <strong>WhatsApp 메시징</stro...</p>",
+          "contentSnippet": "NanoClaw는 Apple 컨테이너에서 실행되는 개인용 Claude 기반 AI 어시스턴트로, 단일 프로세스 구조와 소수의 파일로 구성된 경량형 시스템\n각 그룹별 컨테이너 격리를 통해 대화 기록과 파일 시스템을 분리하며, WhatsApp 메시징",
+          "id": "https://news.hada.io/topic?id=26337",
+          "isoDate": "2026-02-02T04:32:58.000Z"
+        },
+        {
           "title": "Sequoia: 오픈 웹을 위한 퍼블리싱 도구",
           "link": "https://news.hada.io/topic?id=26336",
           "pubDate": "2026-02-02T03:06:26.000Z",
@@ -75,36 +105,6 @@
           "contentSnippet": "1. 병렬 작업을 최대한 활용\n3~5개의 git worktree를 동시에 실행하고 각각 별도의 Claude 세션을 병렬로 운영하는 것이 클로드 코드 팀 내부에서 최고의 생산성 향상 팁\n\n일부는 git checkout 방식을 선호하지만, 대부분의 Claude Code...",
           "id": "https://news.hada.io/topic?id=26330",
           "isoDate": "2026-02-02T01:31:02.000Z"
-        },
-        {
-          "title": "2026 기술 트렌드 보고서: AI 에이전트부터 소버린 AI, 피지컬 AI까지",
-          "link": "https://news.hada.io/topic?id=26329",
-          "pubDate": "2026-02-02T01:17:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>CB Insights가 올해 기술 트렌드 14가지를 분석한 보고서(102p PDF). <strong>AI 에이전트</strong>, <strong>스테이블코인</strong>, <strong>데이터센터 인프라</strong>, <strong>피지컬 AI</strong> 등 핵심 분야를 다룸</li>\n<li>AI 에이전트의 ROI 측정이 기업들의 주요 과제로 부상, <strong>생산성 향상...</p>",
-          "contentSnippet": "CB Insights가 올해 기술 트렌드 14가지를 분석한 보고서(102p PDF). AI 에이전트, 스테이블코인, 데이터센터 인프라, 피지컬 AI 등 핵심 분야를 다룸\nAI 에이전트의 ROI 측정이 기업들의 주요 과제로 부상, 생산성 향상...",
-          "id": "https://news.hada.io/topic?id=26329",
-          "isoDate": "2026-02-02T01:17:01.000Z"
-        },
-        {
-          "title": "Claude Skills 구축을 위한 완벽 가이드",
-          "link": "https://news.hada.io/topic?id=26328",
-          "pubDate": "2026-02-02T01:02:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Claude Skills</strong>는 반복되는 작업 흐름을 한 번 정의해 <strong>지속적으로 재사용</strong>하도록 설계된 워크플로 지식 패키지</li>\n<li>앤트로픽이 직접 작성한 <strong><a href=\"https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf\">33p PDF 가이...</p>",
-          "contentSnippet": "Claude Skills는 반복되는 작업 흐름을 한 번 정의해 지속적으로 재사용하도록 설계된 워크플로 지식 패키지\n앤트로픽이 직접 작성한 33p PDF 가이...",
-          "id": "https://news.hada.io/topic?id=26328",
-          "isoDate": "2026-02-02T01:02:01.000Z"
-        },
-        {
-          "title": "어드벤처 게임 스튜디오: 어드벤처 게임 제작을 위한 오픈소스 소프트웨어",
-          "link": "https://news.hada.io/topic?id=26327",
-          "pubDate": "2026-02-02T00:49:57.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Adventure Game Studio(AGS)</strong> 는 그래픽 기반 <strong>포인트 앤 클릭 어드벤처 게임</strong>을 제작할 수 있는 <strong>오픈소스 툴</strong>로, 무료로 제공됨</li>\n<li>\n<strong>Windows용 통합 개발 환경(IDE)</strong> 을 통해 그래픽 가져오기, 스크립트 작성, 테스트 기능을 하나로 통...</p>",
-          "contentSnippet": "Adventure Game Studio(AGS) 는 그래픽 기반 포인트 앤 클릭 어드벤처 게임을 제작할 수 있는 오픈소스 툴로, 무료로 제공됨\nWindows용 통합 개발 환경(IDE) 을 통해 그래픽 가져오기, 스크립트 작성, 테스트 기능을 하나로 통...",
-          "id": "https://news.hada.io/topic?id=26327",
-          "isoDate": "2026-02-02T00:49:57.000Z"
         }
       ]
     }
