@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "개발자의 직관과 읽기 좋은 코드, 그리고 뇌과학: 우리는 왜 특정 코드에 편안함을 느낄까?",
+          "link": "https://news.hada.io/topic?id=26369",
+          "pubDate": "2026-02-03T12:16:22.000Z",
+          "author": "bboydart91",
+          "content": "<p>'읽기 좋은 코드'에 대한 논의는 흔히 개인의 취항이나 관습의 영역으로 치부되지만, 사실 그 기저에는 인지과학적 원리가 작동하고 있습니다. 이 글은 개발자의 '직관'을 뇌과학적 관점에서 분해하고, 가독성이라는 추상적인 감각을 논리적인 구조로 분석합니다.</p>\n<ol>\n<li>\n<p>직관은 마법이 아닌 고도의 패턴 매",
+          "contentSnippet": "'읽기 좋은 코드'에 대한 논의는 흔히 개인의 취항이나 관습의 영역으로 치부되지만, 사실 그 기저에는 인지과학적 원리가 작동하고 있습니다. 이 글은 개발자의 '직관'을 뇌과학적 관점에서 분해하고, 가독성이라는 추상적인 감각을 논리적인 구조로 분석합니다.\n직관은 마법이 아닌 고도의 패턴 매",
+          "id": "https://news.hada.io/topic?id=26369",
+          "isoDate": "2026-02-03T12:16:22.000Z"
+        },
+        {
+          "title": "미국 해상 풍력 발전 공사 전면 재개 명령",
+          "link": "https://news.hada.io/topic?id=26368",
+          "pubDate": "2026-02-03T11:34:31.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>미국 법원이 <strong>모든 해상 풍력 발전 건설 재개</strong>를 명령하며, 트럼프 행정부의 차단 조치를 중단시킴</li>\n<li>트럼프 행정부는 <strong>해상 및 일부 육상 풍력 프로젝트 인허가를 금지하는 행정명령</strong>을 발동했으나, 법원은 이를 <strong>자의적이고 변덕적인 조치</strong>로 판결해 무...</p>",
+          "contentSnippet": "미국 법원이 모든 해상 풍력 발전 건설 재개를 명령하며, 트럼프 행정부의 차단 조치를 중단시킴\n트럼프 행정부는 해상 및 일부 육상 풍력 프로젝트 인허가를 금지하는 행정명령을 발동했으나, 법원은 이를 자의적이고 변덕적인 조치로 판결해 무...",
+          "id": "https://news.hada.io/topic?id=26368",
+          "isoDate": "2026-02-03T11:34:31.000Z"
+        },
+        {
+          "title": "Anki 소유권, AnkiHub로 이전",
+          "link": "https://news.hada.io/topic?id=26367",
+          "pubDate": "2026-02-03T09:33:10.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Anki의 소유권이 AnkiHub로 이전</strong>되며, 새로운 리더십 아래에서 프로젝트의 발전 방향이 재정비되는 과정</li>\n<li>AnkiHub는 <strong>학생 중심의 교육 기술 회사</strong>로, Anki의 오픈소스 철학과 사용자 중심 원칙을 유지할 것을 명시</li>\n<li>향후 <strong>UI/UX 개선</strong>, <str...</p>",
+          "contentSnippet": "Anki의 소유권이 AnkiHub로 이전되며, 새로운 리더십 아래에서 프로젝트의 발전 방향이 재정비되는 과정\nAnkiHub는 학생 중심의 교육 기술 회사로, Anki의 오픈소스 철학과 사용자 중심 원칙을 유지할 것을 명시\n향후 UI/UX 개선,",
+          "id": "https://news.hada.io/topic?id=26367",
+          "isoDate": "2026-02-03T09:33:10.000Z"
+        },
+        {
           "title": "TSA의 ‘신분증 없이 비행 시 45달러 수수료’는 불법",
           "link": "https://news.hada.io/topic?id=26366",
           "pubDate": "2026-02-03T06:33:17.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "Nvidia Shield TV는 2015년 출시 이후 10년 가까이 지속적인 소프트웨어 업데이트를 받아온 안드로이드 기반 셋톱박스임\n당시 대부분의 안드로이드 기기가 1~2회 업데이트에 그쳤던 상황에서, 장기 지원 정책은 매우 이례적이었음\nNvid...",
           "id": "https://news.hada.io/topic?id=26314",
           "isoDate": "2026-02-01T18:34:35.000Z"
-        },
-        {
-          "title": "ipinfo를 집에서 사용하기: 지연 시간을 이용해 CLI에서 IP의 위치를 찾는 방법",
-          "link": "https://news.hada.io/topic?id=26313",
-          "pubDate": "2026-02-01T17:32:56.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>지연 시간(latency)</strong> 을 활용해 IP 주소를 <strong>국가·주·도시 단위로 추정</strong>할 수 있는 <strong>CLI 도구</strong>\n</li>\n<li>\n<strong>Globalping 네트워크의 3000개 이상 프로브</strong>를 이용해, 각 IP에 대해 <strong>ping과 traceroute 측정</strong>을 수행하고</li>\n<li>\n...</p>",
-          "contentSnippet": "지연 시간(latency) 을 활용해 IP 주소를 국가·주·도시 단위로 추정할 수 있는 CLI 도구\n\n\nGlobalping 네트워크의 3000개 이상 프로브를 이용해, 각 IP에 대해 ping과 traceroute 측정을 수행하고\n\n...",
-          "id": "https://news.hada.io/topic?id=26313",
-          "isoDate": "2026-02-01T17:32:56.000Z"
-        },
-        {
-          "title": "드라이런(dry-run) 옵션의 장점에 대하여",
-          "link": "https://news.hada.io/topic?id=26312",
-          "pubDate": "2026-02-01T16:33:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>보고서 생성 애플리케이션 개발 과정에서 <strong>–dry-run 옵션</strong>을 추가해 실행 결과를 시뮬레이션할 수 있도록 한 사례</li>\n<li>이 옵션은 실제 변경 없이 어떤 작업이 수행될지를 출력해, <strong>안전한 테스트와 빠른 피드백</strong>을 가능하게 함</li>\n<li>개발자는 이를 통해 설정과 접근성...</p>",
-          "contentSnippet": "보고서 생성 애플리케이션 개발 과정에서 –dry-run 옵션을 추가해 실행 결과를 시뮬레이션할 수 있도록 한 사례\n이 옵션은 실제 변경 없이 어떤 작업이 수행될지를 출력해, 안전한 테스트와 빠른 피드백을 가능하게 함\n개발자는 이를 통해 설정과 접근성...",
-          "id": "https://news.hada.io/topic?id=26312",
-          "isoDate": "2026-02-01T16:33:01.000Z"
-        },
-        {
-          "title": "ThorVG 1.0 릴리즈 - 경량 크로스플랫폼 벡터 그래픽 엔진",
-          "link": "https://news.hada.io/topic?id=26311",
-          "pubDate": "2026-02-01T15:40:29.000Z",
-          "author": "wuming84",
-          "content": "<p>v0에서 v1으로의 세대 전환 - 단순한 기능 추가를 넘어, 렌더링 품질과 성능 향상, 그리고 실제 플랫폼과의 통합성 개선에 초점을 둔 릴리즈.</p>\n<p><strong>[주요 업데이트 사항]</strong></p>\n<p><strong>렌더링 &amp; 시각 품질</strong></p>\n<ul>\n<li>텍스트 렌더링 개선 (더 정밀한 레이아웃 처리)</li>\n<li>시",
-          "contentSnippet": "v0에서 v1으로의 세대 전환 - 단순한 기능 추가를 넘어, 렌더링 품질과 성능 향상, 그리고 실제 플랫폼과의 통합성 개선에 초점을 둔 릴리즈.\n[주요 업데이트 사항]\n렌더링 & 시각 품질\n텍스트 렌더링 개선 (더 정밀한 레이아웃 처리)\n시",
-          "id": "https://news.hada.io/topic?id=26311",
-          "isoDate": "2026-02-01T15:40:29.000Z"
         }
       ]
     }
