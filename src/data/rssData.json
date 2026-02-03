@@ -7,6 +7,26 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: Show GN: Sandy - AI 에이전트가 매번 생각하는게 답답해서 만들었습니다",
+          "link": "https://news.hada.io/topic?id=26372",
+          "pubDate": "2026-02-03T15:36:41.000Z",
+          "author": "wer2774",
+          "content": "<p>AI 에이전트에 산데비스탄을 달아줬습니다.</p>\n<p>자동화 에이전트가 사람보다 느리면 의미가 있을까요?<br />\n클릭 한 번에 몇 초씩 멈칫거리는 게 답답해서 생각해봤습니다.<br />\n사람도 반복하면 생각 없이 손이 먼저 움직이잖아요. AI도 그렇게 할 수 있지 않을까?</p>\n<p>🐢 기존 에이전트<br />\nObserve → L",
+          "contentSnippet": "AI 에이전트에 산데비스탄을 달아줬습니다.\n자동화 에이전트가 사람보다 느리면 의미가 있을까요?\n🐢 기존 에이전트\nObserve → L",
+          "id": "https://news.hada.io/topic?id=26372",
+          "isoDate": "2026-02-03T15:36:41.000Z"
+        },
+        {
+          "title": "몰트북 해킹: AI 소셜 네트워크에서 150만 개의 API 키 노출",
+          "link": "https://news.hada.io/topic?id=26371",
+          "pubDate": "2026-02-03T15:33:24.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>AI 에이전트 전용 소셜 플랫폼 <strong>Moltbook</strong>의 데이터베이스가 잘못 구성되어, 150만 개의 <strong>API 인증 토큰</strong>과 3만5천 개의 이메일, 비공개 메시지가 외부에 노출됨</li>\n<li>클라이언트 측 자바스크립트에 <strong>Supabase API 키</strong>가 하드코딩되어 있었고, <strong>Row L...</p>",
+          "contentSnippet": "AI 에이전트 전용 소셜 플랫폼 Moltbook의 데이터베이스가 잘못 구성되어, 150만 개의 API 인증 토큰과 3만5천 개의 이메일, 비공개 메시지가 외부에 노출됨\n클라이언트 측 자바스크립트에 Supabase API 키가 하드코딩되어 있었고, Row L...",
+          "id": "https://news.hada.io/topic?id=26371",
+          "isoDate": "2026-02-03T15:33:24.000Z"
+        },
+        {
           "title": "개발자의 직관과 읽기 좋은 코드, 그리고 뇌과학: 우리는 왜 특정 코드에 편안함을 느낄까?",
           "link": "https://news.hada.io/topic?id=26369",
           "pubDate": "2026-02-03T12:16:22.000Z",
@@ -485,26 +505,6 @@
           "contentSnippet": "대형 언어 모델(LLM) 사용이 인간의 인지 능력을 약화시킬 수 있다는 비판에 대해, 단순히 \"사고할 거리가 무한하니 걱정할 필요 없다\"는 주장은 문제의 복잡성을 간과함\n개인적 글쓰기와 소통에서 LLM을 사용하면 의미와 표현이 분리될 수 없는 언어의 본질",
           "id": "https://news.hada.io/topic?id=26317",
           "isoDate": "2026-02-01T19:32:57.000Z"
-        },
-        {
-          "title": "시위자 식별에 ICE 앱 ‘Mobile Fortify’ 사용, Global Entry·PreCheck 자격 박탈 발생",
-          "link": "https://news.hada.io/topic?id=26315",
-          "pubDate": "2026-02-01T18:37:35.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>ICE가 ‘Mobile Fortify’ 앱을 사용해 얼굴과 지문을 비접촉 방식으로 스캔</strong>, 개인의 이름과 신상 정보를 즉시 조회하는 사례가 법원 문서에서 드러남</li>\n<li>이러한 <strong>식별 행위 이후 Global Entry와 TSA PreCheck 자격이 취소되는 사례</strong>가 보고되며, 신뢰 여행자 프로그램...</p>",
-          "contentSnippet": "ICE가 ‘Mobile Fortify’ 앱을 사용해 얼굴과 지문을 비접촉 방식으로 스캔, 개인의 이름과 신상 정보를 즉시 조회하는 사례가 법원 문서에서 드러남\n이러한 식별 행위 이후 Global Entry와 TSA PreCheck 자격이 취소되는 사례가 보고되며, 신뢰 여행자 프로그램...",
-          "id": "https://news.hada.io/topic?id=26315",
-          "isoDate": "2026-02-01T18:37:35.000Z"
-        },
-        {
-          "title": "Nvidia가 10년간 공들여 Shield TV를 가장 오래 업데이트된 안드로이드 기기로 만든 과정",
-          "link": "https://news.hada.io/topic?id=26314",
-          "pubDate": "2026-02-01T18:34:35.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Nvidia Shield TV</strong>는 2015년 출시 이후 10년 가까이 지속적인 <strong>소프트웨어 업데이트</strong>를 받아온 안드로이드 기반 셋톱박스임</li>\n<li>당시 대부분의 안드로이드 기기가 1~2회 업데이트에 그쳤던 상황에서, <strong>장기 지원 정책</strong>은 매우 이례적이었음</li>\n<li>Nvid...</p>",
-          "contentSnippet": "Nvidia Shield TV는 2015년 출시 이후 10년 가까이 지속적인 소프트웨어 업데이트를 받아온 안드로이드 기반 셋톱박스임\n당시 대부분의 안드로이드 기기가 1~2회 업데이트에 그쳤던 상황에서, 장기 지원 정책은 매우 이례적이었음\nNvid...",
-          "id": "https://news.hada.io/topic?id=26314",
-          "isoDate": "2026-02-01T18:34:35.000Z"
         }
       ]
     }
