@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "가솔린 내 납 사용 금지의 효과, 머리카락에서 입증됨",
+          "link": "https://news.hada.io/topic?id=26400",
+          "pubDate": "2026-02-04T19:33:23.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>유타대 연구진이 100년간의 <strong>머리카락 시료 분석</strong>을 통해 납 농도가 100배 감소했음을 확인</li>\n<li>1970년 <strong>미국 환경보호청(EPA)</strong> 설립 전에는 산업, 도료, 수도관, 자동차 배기가스 등에서 납 노출이 광범위했음</li>\n<li>연구 결과, 1970년대 이후 <strong>가솔린 내 납 제...</p>",
+          "contentSnippet": "유타대 연구진이 100년간의 머리카락 시료 분석을 통해 납 농도가 100배 감소했음을 확인\n1970년 미국 환경보호청(EPA) 설립 전에는 산업, 도료, 수도관, 자동차 배기가스 등에서 납 노출이 광범위했음\n연구 결과, 1970년대 이후 가솔린 내 납 제...",
+          "id": "https://news.hada.io/topic?id=26400",
+          "isoDate": "2026-02-04T19:33:23.000Z"
+        },
+        {
+          "title": "Notepad++ 공급망 공격 분석",
+          "link": "https://news.hada.io/topic?id=26399",
+          "pubDate": "2026-02-04T18:33:18.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Notepad++ 업데이트 인프라가 침해되어 악성 업데이트가 배포된 공급망 공격</strong>이 2025년 중반부터 10월까지 지속됨</li>\n<li>공격자는 <strong>Cobalt Strike Beacon</strong>과 <strong>Metasploit 다운로더</strong>를 활용해 세 차례에 걸친 <strong>서로 다른 감염 체인</strong>을 운영...</p>",
+          "contentSnippet": "Notepad++ 업데이트 인프라가 침해되어 악성 업데이트가 배포된 공급망 공격이 2025년 중반부터 10월까지 지속됨\n공격자는 Cobalt Strike Beacon과 Metasploit 다운로더를 활용해 세 차례에 걸친 서로 다른 감염 체인을 운영...",
+          "id": "https://news.hada.io/topic?id=26399",
+          "isoDate": "2026-02-04T18:33:18.000Z"
+        },
+        {
+          "title": "Show GN: gn-text: 터미널용 GeekNews 리더",
+          "link": "https://news.hada.io/topic?id=26398",
+          "pubDate": "2026-02-04T15:11:19.000Z",
+          "author": "cosine20",
+          "content": "<p>최근에 터미널에서 HackerNews를 볼 수 있게 해주는 <a href=\"https://github.com/piqoni/hn-text\">hn-text</a> 프로그램을 알게되었습니다만, 꽤나 유용하게 쓰고있어서 이를 기반으로 GeekNews용 리더를 만들게 되었습니다.</p>\n<p>기본적인 코드 뼈대는 hn-text를 포크하여 재사용했기 때문에 대부분의 사용법과 U",
+          "contentSnippet": "최근에 터미널에서 HackerNews를 볼 수 있게 해주는 hn-text 프로그램을 알게되었습니다만, 꽤나 유용하게 쓰고있어서 이를 기반으로 GeekNews용 리더를 만들게 되었습니다.\n기본적인 코드 뼈대는 hn-text를 포크하여 재사용했기 때문에 대부분의 사용법과 U",
+          "id": "https://news.hada.io/topic?id=26398",
+          "isoDate": "2026-02-04T15:11:19.000Z"
+        },
+        {
           "title": "프랑스에서 X 사무실 압수수색, 영국은 Grok에 대한 새 조사 착수",
           "link": "https://news.hada.io/topic?id=26397",
           "pubDate": "2026-02-04T11:33:14.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "AI 사용자 간 생산성 격차가 급격히 벌어지고 있으며, ‘파워 유저’ 는 Claude Code, MCPs 등 고급 AI 도구를 적극 활용하는 반면, 대다수는 여전히 ChatGPT 수준의 대화형 사용에 머무름\n\n대기업은 보안 정책, 폐쇄적...",
           "id": "https://news.hada.io/topic?id=26345",
           "isoDate": "2026-02-02T13:33:31.000Z"
-        },
-        {
-          "title": "FOSDEM 2026 – 유럽 최대의 오픈소스 개발자 컨퍼런스 참관기",
-          "link": "https://news.hada.io/topic?id=26344",
-          "pubDate": "2026-02-02T12:33:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>올해는 <strong>디지털 주권과 기술 독립</strong>을 중심 주제로 삼아, 오픈소스가 단순한 자유 소프트웨어를 넘어 미래 인프라 기반임을 강조</li>\n<li>\n<strong>자체 호스팅, 개방형 인프라, 커뮤니티 주도 개발</strong>이 핵심 화두로 자리 잡았으며, FreeBSD·SmolBSD·DN42 등 다양한 프로젝트가 <strong>...</p>",
-          "contentSnippet": "올해는 디지털 주권과 기술 독립을 중심 주제로 삼아, 오픈소스가 단순한 자유 소프트웨어를 넘어 미래 인프라 기반임을 강조\n자체 호스팅, 개방형 인프라, 커뮤니티 주도 개발이 핵심 화두로 자리 잡았으며, FreeBSD·SmolBSD·DN42 등 다양한 프로젝트가 ...",
-          "id": "https://news.hada.io/topic?id=26344",
-          "isoDate": "2026-02-02T12:33:01.000Z"
-        },
-        {
-          "title": "한국어 능력을 평가하는 VLM 벤치마크 3가지 공개 (KO-VQA, KO-VDC, KO-OCRAG)",
-          "link": "https://news.hada.io/topic?id=26343",
-          "pubDate": "2026-02-02T12:13:36.000Z",
-          "author": "kyujin",
-          "content": "<h3>최근에 VLM에 대한 관심이 높아지면서, <strong>다양한 영역에서 VLM의 한국어 능력을 확인할 수 있는 벤치마크</strong>를 공개함.</h3>\n<p>해당 프로젝트에서는 총 3개의 벤치마크를 소개하고 있음.</p>\n<ul>\n<li>KO-VQA: 다양한 도메인의 한국어 문서 이해 능력 및 문서 기반의 답변 추론 능력에 대해 평가</li>\n",
-          "contentSnippet": "최근에 VLM에 대한 관심이 높아지면서, 다양한 영역에서 VLM의 한국어 능력을 확인할 수 있는 벤치마크를 공개함.\n해당 프로젝트에서는 총 3개의 벤치마크를 소개하고 있음.\nKO-VQA: 다양한 도메인의 한국어 문서 이해 능력 및 문서 기반의 답변 추론 능력에 대해 평가",
-          "id": "https://news.hada.io/topic?id=26343",
-          "isoDate": "2026-02-02T12:13:36.000Z"
-        },
-        {
-          "title": "애플 I 광고 (1976)",
-          "link": "https://news.hada.io/topic?id=26342",
-          "pubDate": "2026-02-02T11:32:45.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>1976년 공개된 <strong>Apple I 광고</strong>는 단일 보드에 <strong>비디오 터미널과 8KB RAM</strong>을 통합한 저가형 마이크로컴퓨터를 소개</li>\n<li>\n<strong>MOS 6502 프로세서</strong> 기반으로, 키보드와 모니터만 연결하면 즉시 사용할 수 있는 완전 조립형 시스템으로 설명</li>\n<li>\n<strong>$66...</p>",
-          "contentSnippet": "1976년 공개된 Apple I 광고는 단일 보드에 비디오 터미널과 8KB RAM을 통합한 저가형 마이크로컴퓨터를 소개\nMOS 6502 프로세서 기반으로, 키보드와 모니터만 연결하면 즉시 사용할 수 있는 완전 조립형 시스템으로 설명\n$66...",
-          "id": "https://news.hada.io/topic?id=26342",
-          "isoDate": "2026-02-02T11:32:45.000Z"
         }
       ]
     }
