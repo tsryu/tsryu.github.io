@@ -7,12 +7,52 @@
       "priority": 1,
       "data": [
         {
-          "title": "Deno Sandbox",
+          "title": "문서 번역을 정적 결과물이 아닌 버저닝된 소프트웨어 자산으로 다뤄본 경험",
+          "link": "https://news.hada.io/topic?id=26395",
+          "pubDate": "2026-02-04T08:03:42.000Z",
+          "author": "skytin1004",
+          "content": "<p>대규모 오픈소스 문서 저장소의 번역 자동화를 운영하면서<br />\n번역이 틀리지 않았음에도 조용히 outdated 되는 문제를 반복해서 겪었습니다.</p>\n<p>이 경험을 통해 깨달은 점은<br />\n문제의 핵심이 번역 품질이 아니라 동기화와 상태 관리에 있다는 것이었습니다.</p>\n<p>문서가 빠르게 변하는 환경에서<br />\n번",
+          "contentSnippet": "대규모 오픈소스 문서 저장소의 번역 자동화를 운영하면서\n이 경험을 통해 깨달은 점은\n문서가 빠르게 변하는 환경에서\n번",
+          "id": "https://news.hada.io/topic?id=26395",
+          "isoDate": "2026-02-04T08:03:42.000Z"
+        },
+        {
+          "title": "뉴욕주 예산안, 모든 3D 프린터에 ‘차단 기술’ 의무화 추진",
+          "link": "https://news.hada.io/topic?id=26394",
+          "pubDate": "2026-02-04T07:33:19.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>뉴욕주가 <strong>모든 3D 프린터에 ‘차단 기술(blocking technology)’을 탑재하도록 요구하는 예산안</strong>을 추진 중임</li>\n<li>이 조항은 <strong>불법 무기나 제한된 물품의 3D 프린팅을 방지</strong>하기 위한 규제 목적을 가짐</li>\n<li>법안이 통과될 경우, <strong>소비자용·산업용 프린터 모두...</p>",
+          "contentSnippet": "뉴욕주가 모든 3D 프린터에 ‘차단 기술(blocking technology)’을 탑재하도록 요구하는 예산안을 추진 중임\n이 조항은 불법 무기나 제한된 물품의 3D 프린팅을 방지하기 위한 규제 목적을 가짐\n법안이 통과될 경우, 소비자용·산업용 프린터 모두...",
+          "id": "https://news.hada.io/topic?id=26394",
+          "isoDate": "2026-02-04T07:33:19.000Z"
+        },
+        {
+          "title": "Show GN: AI 에이전트를 위한 Electron DevTools (MCP)",
+          "link": "https://news.hada.io/topic?id=26392",
+          "pubDate": "2026-02-04T06:18:01.000Z",
+          "author": "ohah173",
+          "content": "<h3>만들게 된 경위</h3>\n<p>AI에게 mcp 서버를 제공하면 퀄리티가 확 올라가는걸 느꼈습니다.</p>\n<p>electorn MCP가 찾아보니 있긴 있는데 동작은 하나 좀 빈약하거나..<br />\n된다고는 하는데 제가 잘 실행을 못하는건지 안되거나 하는 케이스가 많더군요</p>\n<p>아니면 잘 되는데 제가 제대로 설정을 못 했거나.....</p>",
+          "contentSnippet": "만들게 된 경위\nAI에게 mcp 서버를 제공하면 퀄리티가 확 올라가는걸 느꼈습니다.\nelectorn MCP가 찾아보니 있긴 있는데 동작은 하나 좀 빈약하거나..\n아니면 잘 되는데 제가 제대로 설정을 못 했거나.....",
+          "id": "https://news.hada.io/topic?id=26392",
+          "isoDate": "2026-02-04T06:18:01.000Z"
+        },
+        {
+          "title": "우주 데이터센터는 말이 안 된다",
+          "link": "https://news.hada.io/topic?id=26391",
+          "pubDate": "2026-02-04T05:33:21.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>SpaceX가 xAI를 인수</strong>하며 우주 데이터센터 구축을 추진하며, Google과 여러 스타트업도 같은 목표를 추구 중임</li>\n<li>Google 연구는 <strong>저궤도 발사비가 1kg당 200달러</strong>로 떨어질 경우, 2035년쯤 지상 데이터센터와 경쟁 가능성이 있다고 제시함</li>\n<li>그러나 <strong>GP...</p>",
+          "contentSnippet": "SpaceX가 xAI를 인수하며 우주 데이터센터 구축을 추진하며, Google과 여러 스타트업도 같은 목표를 추구 중임\nGoogle 연구는 저궤도 발사비가 1kg당 200달러로 떨어질 경우, 2035년쯤 지상 데이터센터와 경쟁 가능성이 있다고 제시함\n그러나 GP...",
+          "id": "https://news.hada.io/topic?id=26391",
+          "isoDate": "2026-02-04T05:33:21.000Z"
+        },
+        {
+          "title": "Deno Sandbox 공개",
           "link": "https://news.hada.io/topic?id=26390",
           "pubDate": "2026-02-04T03:32:59.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Deno Sandbox</strong>는 신뢰할 수 없는 코드를 안전하게 실행하기 위한 <strong>보안 Linux 마이크로VM 환경</strong>을 제공</li>\n<li>코드 실행 중 <strong>비밀키 보호</strong>와 <strong>네트워크 접근 제어</strong>를 통해 LLM 생성 코드나 사용자 코드의 <strong>데이터 유출 위험을 차단...</p>",
-          "contentSnippet": "Deno Sandbox는 신뢰할 수 없는 코드를 안전하게 실행하기 위한 보안 Linux 마이크로VM 환경을 제공\n코드 실행 중 비밀키 보호와 네트워크 접근 제어를 통해 LLM 생성 코드나 사용자 코드의 데이터 유출 위험을 차단...",
+          "content": "<ul>\n<li>신뢰할 수 없는 코드를 안전하게 실행하기 위한 <strong>보안 Linux 마이크로VM 환경</strong>을 제공</li>\n<li>코드 실행 중 <strong>비밀키 보호</strong>와 <strong>네트워크 접근 제어</strong>를 통해 LLM 생성 코드나 사용자 코드의 <strong>데이터 유출 위험을 차단</strong>\n</li>\n<li>\n<strong>sandbo...</p>",
+          "contentSnippet": "신뢰할 수 없는 코드를 안전하게 실행하기 위한 보안 Linux 마이크로VM 환경을 제공\n코드 실행 중 비밀키 보호와 네트워크 접근 제어를 통해 LLM 생성 코드나 사용자 코드의 데이터 유출 위험을 차단\n\n\nsandbo...",
           "id": "https://news.hada.io/topic?id=26390",
           "isoDate": "2026-02-04T03:32:59.000Z"
         },
@@ -465,46 +505,6 @@
           "contentSnippet": "iPhone 16 Pro Max에서 MLX LLM 실행 시 잘못된 수치 출력이 발생하며, 같은 코드가 iPhone 15 Pro와 MacBook Pro에서는 정상 작동함\n텐서 값이 한 자릿수 이상 차이를 보이며, 동일 입력에도 결과가 왜곡되는 현상 확인\n문제 원인은 Neural Eng...",
           "id": "https://news.hada.io/topic?id=26340",
           "isoDate": "2026-02-02T07:32:45.000Z"
-        },
-        {
-          "title": "Show GN: 깔끔한 스타일의 AI 텍스트 에디터",
-          "link": "https://news.hada.io/topic?id=26338",
-          "pubDate": "2026-02-02T05:48:06.000Z",
-          "author": "revoirb612",
-          "content": "<p>처음 쓰는 소개글이라 긴장되네요.<br />\n멋진 텍스트 에디터 많지만 한 군데 정착하지 못해서 직접 만들어봤습니다.<br />\n바닐라 자바스크립트라는 점이 좀 특징이랄까요?<br />\n아주 짧은 피드백이라도 받아봤으면..</p>\n",
-          "contentSnippet": "처음 쓰는 소개글이라 긴장되네요.\n멋진 텍스트 에디터 많지만 한 군데 정착하지 못해서 직접 만들어봤습니다.\n바닐라 자바스크립트라는 점이 좀 특징이랄까요?\n아주 짧은 피드백이라도 받아봤으면..",
-          "id": "https://news.hada.io/topic?id=26338",
-          "isoDate": "2026-02-02T05:48:06.000Z"
-        },
-        {
-          "title": "NanoClaw – Apple 컨테이너 격리 환경에서 실행되는 500줄짜리 TypeScript 기반 Claude 어시스턴트",
-          "link": "https://news.hada.io/topic?id=26337",
-          "pubDate": "2026-02-02T04:32:58.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>NanoClaw</strong>는 Apple 컨테이너에서 실행되는 개인용 <strong>Claude 기반 AI 어시스턴트</strong>로, 단일 프로세스 구조와 소수의 파일로 구성된 경량형 시스템</li>\n<li>각 <strong>그룹별 컨테이너 격리</strong>를 통해 대화 기록과 파일 시스템을 분리하며, <strong>WhatsApp 메시징</stro...</p>",
-          "contentSnippet": "NanoClaw는 Apple 컨테이너에서 실행되는 개인용 Claude 기반 AI 어시스턴트로, 단일 프로세스 구조와 소수의 파일로 구성된 경량형 시스템\n각 그룹별 컨테이너 격리를 통해 대화 기록과 파일 시스템을 분리하며, WhatsApp 메시징",
-          "id": "https://news.hada.io/topic?id=26337",
-          "isoDate": "2026-02-02T04:32:58.000Z"
-        },
-        {
-          "title": "Sequoia: 오픈 웹을 위한 퍼블리싱 도구",
-          "link": "https://news.hada.io/topic?id=26336",
-          "pubDate": "2026-02-02T03:06:26.000Z",
-          "author": "davespark",
-          "content": "<p>Steve Simkins(stevedylan.dev)가 발표한 <strong>Sequoia</strong>는 기존에 운영하던 <strong>자체 호스팅 블로그</strong>를 <strong>AT Protocol</strong>(ATProto, Bluesky의 기반 프로토콜)에 쉽게 올릴 수 있게 해주는 <strong>CLI 도구</strong>입니다.</p>\n<h4>핵심 목적</h4>\n<ul>\n<li>이미 만들어진 블로그",
-          "contentSnippet": "Steve Simkins(stevedylan.dev)가 발표한 Sequoia는 기존에 운영하던 자체 호스팅 블로그를 AT Protocol(ATProto, Bluesky의 기반 프로토콜)에 쉽게 올릴 수 있게 해주는 CLI 도구입니다.\n핵심 목적\n이미 만들어진 블로그",
-          "id": "https://news.hada.io/topic?id=26336",
-          "isoDate": "2026-02-02T03:06:26.000Z"
-        },
-        {
-          "title": "40년 된 복제 방지 동글 해제하기",
-          "link": "https://news.hada.io/topic?id=26335",
-          "pubDate": "2026-02-02T02:32:49.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>1990년대 회계용 <strong>RPG II 컴파일러</strong>가 요구하던 <strong>패러럴 포트 동글</strong>을 분석해 동작을 복원한 사례</li>\n<li>원본 소프트웨어는 <strong>Windows 98 환경의 DOS 콘솔</strong>에서 실행되며, 동글이 없으면 작동하지 않음</li>\n<li>디스크 이미지를 에뮬레이터로 옮겨 분석한 결과...</p>",
-          "contentSnippet": "1990년대 회계용 RPG II 컴파일러가 요구하던 패러럴 포트 동글을 분석해 동작을 복원한 사례\n원본 소프트웨어는 Windows 98 환경의 DOS 콘솔에서 실행되며, 동글이 없으면 작동하지 않음\n디스크 이미지를 에뮬레이터로 옮겨 분석한 결과...",
-          "id": "https://news.hada.io/topic?id=26335",
-          "isoDate": "2026-02-02T02:32:49.000Z"
         }
       ]
     }
