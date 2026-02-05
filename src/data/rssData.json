@@ -7,6 +7,26 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: agent-skill-cast - 여러 레포의 AI 에이전트 스킬을 동기화하는 CLI",
+          "link": "https://news.hada.io/topic?id=26425",
+          "pubDate": "2026-02-05T14:46:26.000Z",
+          "author": "devenv",
+          "content": "<p>zip이나 위키 대신 git으로 AI 에이전트의 스킬을 공유하는 CLI 도구를 만들어봤습니다.<br />\n마법을 시전하는 것처럼 스킬을 시전한다는 의미에서 이름을 cast로 지었습니다.</p>\n<p><strong>[ 개발 계기 ]</strong><br />\n크게 2가지 계기가 있습니다.</p>\n<p><strong>첫 번째 문제</strong><br />\n스킬을 만들고 ",
+          "contentSnippet": "zip이나 위키 대신 git으로 AI 에이전트의 스킬을 공유하는 CLI 도구를 만들어봤습니다.\n[ 개발 계기 ]\n첫 번째 문제\n스킬을 만들고",
+          "id": "https://news.hada.io/topic?id=26425",
+          "isoDate": "2026-02-05T14:46:26.000Z"
+        },
+        {
+          "title": "에프스타인 PDF의 디지털 포렌식 사례 연구",
+          "link": "https://news.hada.io/topic?id=26424",
+          "pubDate": "2026-02-05T12:33:26.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>미국 법무부가 <strong>Epstein Files Transparency Act</strong>에 따라 공개한 PDF 문서들을 대상으로, 파일 구조와 구문을 중심으로 한 <strong>디지털 포렌식 분석</strong>이 수행됨</li>\n<li>분석 결과, 공개된 <strong>EFTA 데이터세트 01–07의 PDF들은 올바르게 편집(redaction)</strong> 되어 있으며...</p>",
+          "contentSnippet": "미국 법무부가 Epstein Files Transparency Act에 따라 공개한 PDF 문서들을 대상으로, 파일 구조와 구문을 중심으로 한 디지털 포렌식 분석이 수행됨\n분석 결과, 공개된 EFTA 데이터세트 01–07의 PDF들은 올바르게 편집(redaction) 되어 있으며...",
+          "id": "https://news.hada.io/topic?id=26424",
+          "isoDate": "2026-02-05T12:33:26.000Z"
+        },
+        {
           "title": "AI가 B2B SaaS를 죽이고 있다",
           "link": "https://news.hada.io/topic?id=26423",
           "pubDate": "2026-02-05T08:33:32.000Z",
@@ -485,26 +505,6 @@
           "contentSnippet": "Zig 언어는 libc 기능을 Zig 표준 라이브러리로 직접 구현하는 방향으로 전환 중이며, 기존 C 소스 코드를 점진적으로 제거 중임\n현재까지 약 250개의 C 소스 파일이 삭제되었고, 2032개가 남아 있음\n이 전환으로 컴파일 속도 향상,",
           "id": "https://news.hada.io/topic?id=26373",
           "isoDate": "2026-02-03T22:32:44.000Z"
-        },
-        {
-          "title": "Show GN: Sandy - AI 에이전트가 매번 생각하는게 답답해서 만들었습니다",
-          "link": "https://news.hada.io/topic?id=26372",
-          "pubDate": "2026-02-03T15:36:41.000Z",
-          "author": "wer2774",
-          "content": "<p>AI 에이전트에 산데비스탄을 달아줬습니다.</p>\n<p>자동화 에이전트가 사람보다 느리면 의미가 있을까요?<br />\n클릭 한 번에 몇 초씩 멈칫거리는 게 답답해서 생각해봤습니다.<br />\n사람도 반복하면 생각 없이 손이 먼저 움직이잖아요. AI도 그렇게 할 수 있지 않을까?</p>\n<p>🐢 기존 에이전트<br />\nObserve → L",
-          "contentSnippet": "AI 에이전트에 산데비스탄을 달아줬습니다.\n자동화 에이전트가 사람보다 느리면 의미가 있을까요?\n🐢 기존 에이전트\nObserve → L",
-          "id": "https://news.hada.io/topic?id=26372",
-          "isoDate": "2026-02-03T15:36:41.000Z"
-        },
-        {
-          "title": "MoltBook 해킹: Supabase 설정 오류로 150만 개의 API 키 노출",
-          "link": "https://news.hada.io/topic?id=26371",
-          "pubDate": "2026-02-03T15:33:24.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>AI 에이전트 전용 소셜 플랫폼 <strong>Moltbook</strong>의 데이터베이스가 잘못 구성되어, 150만 개의 <strong>API 인증 토큰</strong>과 3만5천 개의 이메일, 비공개 메시지가 외부에 노출됨</li>\n<li>클라이언트 측 자바스크립트에 <strong>Supabase API 키</strong>가 하드코딩되어 있었고, <strong>Row L...</p>",
-          "contentSnippet": "AI 에이전트 전용 소셜 플랫폼 Moltbook의 데이터베이스가 잘못 구성되어, 150만 개의 API 인증 토큰과 3만5천 개의 이메일, 비공개 메시지가 외부에 노출됨\n클라이언트 측 자바스크립트에 Supabase API 키가 하드코딩되어 있었고, Row L...",
-          "id": "https://news.hada.io/topic?id=26371",
-          "isoDate": "2026-02-03T15:33:24.000Z"
         }
       ]
     }
