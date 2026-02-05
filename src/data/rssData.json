@@ -7,6 +7,66 @@
       "priority": 1,
       "data": [
         {
+          "title": "AI가 B2B SaaS를 죽이고 있다",
+          "link": "https://news.hada.io/topic?id=26423",
+          "pubDate": "2026-02-05T08:33:32.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>AI 기반 ‘바이브 코딩(vibe coding)’</strong> 의 확산으로 기업 고객이 직접 맞춤형 툴을 만들 수 있게 되면서 기존 <strong>B2B SaaS 모델이 위협</strong>받고 있음</li>\n<li>고객들은 더 이상 고정된 SaaS 기능에 만족하지 않고, <strong>유연성과 즉각적 커스터마이징</strong>을 요구하며, 충...</p>",
+          "contentSnippet": "AI 기반 ‘바이브 코딩(vibe coding)’ 의 확산으로 기업 고객이 직접 맞춤형 툴을 만들 수 있게 되면서 기존 B2B SaaS 모델이 위협받고 있음\n고객들은 더 이상 고정된 SaaS 기능에 만족하지 않고, 유연성과 즉각적 커스터마이징을 요구하며, 충...",
+          "id": "https://news.hada.io/topic?id=26423",
+          "isoDate": "2026-02-05T08:33:32.000Z"
+        },
+        {
+          "title": "Show GN: Claude Code 스웜 인텔리전스 플러그인",
+          "link": "https://news.hada.io/topic?id=26422",
+          "pubDate": "2026-02-05T06:53:57.000Z",
+          "author": "xhfleodhkd",
+          "content": "<p>지인분이 만든, Claude Code 플러그인입니다.<br />\n저도 최근에 멀티에이전트 모드를 조금씩 들여다 보고 있는 와중에<br />\n이런거 출시하셨다고 해서 소개차 글을 올려봅니다.<br />\n깃허브에 많은 피드백을 주시면 개발자분께 많은 도움이 됩니다.</p>\n",
+          "contentSnippet": "지인분이 만든, Claude Code 플러그인입니다.\n저도 최근에 멀티에이전트 모드를 조금씩 들여다 보고 있는 와중에\n이런거 출시하셨다고 해서 소개차 글을 올려봅니다.\n깃허브에 많은 피드백을 주시면 개발자분께 많은 도움이 됩니다.",
+          "id": "https://news.hada.io/topic?id=26422",
+          "isoDate": "2026-02-05T06:53:57.000Z"
+        },
+        {
+          "title": "Show GN: Locatorjs를 Angular에서 쓰고 싶어서 만든 ngx-locator",
+          "link": "https://news.hada.io/topic?id=26421",
+          "pubDate": "2026-02-05T06:49:04.000Z",
+          "author": "antepost24",
+          "content": "<p>리액트 개발하면서 유용하게 쓴 LocatorJs 익스텐션이 앵귤러는 지원을 안해서 직접 라이브러리 형태로 만들어보았습니다.<br />\nAngular 개발자가 한국에 얼마나 있을지는 모르겠지만, 도움될까하여 올려봅니다. (저는 업무에 증맬루 잘 쓰고 있습니다)</p>\n<p>아직 많이 부족한 주니어 개발자다보니 완성도가 좋지 ",
+          "contentSnippet": "리액트 개발하면서 유용하게 쓴 LocatorJs 익스텐션이 앵귤러는 지원을 안해서 직접 라이브러리 형태로 만들어보았습니다.\n아직 많이 부족한 주니어 개발자다보니 완성도가 좋지",
+          "id": "https://news.hada.io/topic?id=26421",
+          "isoDate": "2026-02-05T06:49:04.000Z"
+        },
+        {
+          "title": "Show GN: SessionCast - 모바일에서 Claude Code 원격 제어하기 (무료) ",
+          "link": "https://news.hada.io/topic?id=26420",
+          "pubDate": "2026-02-05T06:03:51.000Z",
+          "author": "devload",
+          "content": "<p>SessionCast 개발자입니다. 만들게 된 계기부터 말씀드릴게요.</p>\n<p>회사에서 밤새 프로젝트 작업을 해놨습니다.<br />\n다음 날 고객사 미팅에 갔는데...</p>\n<p>&quot;아, 문서를 안 만들어놨네. Claude한테 질문 한 번만 하면 되는데...&quot;</p>\n<p>노트북을 열어봤자 회사 PC의 Claude Code는 저 멀리.<br />\n",
+          "contentSnippet": "SessionCast 개발자입니다. 만들게 된 계기부터 말씀드릴게요.\n회사에서 밤새 프로젝트 작업을 해놨습니다.\n\"아, 문서를 안 만들어놨네. Claude한테 질문 한 번만 하면 되는데...\"\n노트북을 열어봤자 회사 PC의 Claude Code는 저 멀리.",
+          "id": "https://news.hada.io/topic?id=26420",
+          "isoDate": "2026-02-05T06:03:51.000Z"
+        },
+        {
+          "title": "LLM 코딩 에이전트를 활용한 pycparser의 Recursive Descent 파서 재작성기",
+          "link": "https://news.hada.io/topic?id=26419",
+          "pubDate": "2026-02-05T05:20:37.000Z",
+          "author": "darjeeling",
+          "content": "<p>요약:</p>\n<ul>\n<li>20년 가까이 PLY(Python Lex-Yacc)를 기반으로 작동하던 C 언어 파서 'pycparser'를 LLM 코딩 에이전트(Codex)를 활용해 수동 작성 방식의 Recursive Descent 파서로 완전히 교체한 과정을 다룹니다.</li>\n<li>외부 의존성(PLY) 제거, 유지보수 난이도 감소, 성능 30% 향상이라는 성과를 거두었으",
+          "contentSnippet": "요약:\n20년 가까이 PLY(Python Lex-Yacc)를 기반으로 작동하던 C 언어 파서 'pycparser'를 LLM 코딩 에이전트(Codex)를 활용해 수동 작성 방식의 Recursive Descent 파서로 완전히 교체한 과정을 다룹니다.\n외부 의존성(PLY) 제거, 유지보수 난이도 감소, 성능 30% 향상이라는 성과를 거두었으",
+          "id": "https://news.hada.io/topic?id=26419",
+          "isoDate": "2026-02-05T05:20:37.000Z"
+        },
+        {
+          "title": "Show GN: 로제타 페이지 - 블로그, 아티클 번역 서비스",
+          "link": "https://news.hada.io/topic?id=26418",
+          "pubDate": "2026-02-05T05:16:16.000Z",
+          "author": "gomjellie",
+          "content": "<p>혹시 좋은 해외 글을 번역해서 지인들에게 공유하고 싶은데, 매번 '브라우저 번역기 돌려봐'라고 말하기 번거롭지 않으셨나요?</p>\n<p>브라우저 번역기의 퀄리티가 최신 AI에 비하면 떨어지기도 하고, 공유 받는사람의 브라우저에 따라서 다르기 때문에 고정된 번역결과를 제공하면 좋겠다는 생각이 있었는데요.</p>\n",
+          "contentSnippet": "혹시 좋은 해외 글을 번역해서 지인들에게 공유하고 싶은데, 매번 '브라우저 번역기 돌려봐'라고 말하기 번거롭지 않으셨나요?\n브라우저 번역기의 퀄리티가 최신 AI에 비하면 떨어지기도 하고, 공유 받는사람의 브라우저에 따라서 다르기 때문에 고정된 번역결과를 제공하면 좋겠다는 생각이 있었는데요.",
+          "id": "https://news.hada.io/topic?id=26418",
+          "isoDate": "2026-02-05T05:16:16.000Z"
+        },
+        {
           "title": "Ask GN: 에이전트 개발 관련한 커뮤니티를 추천해주심 감사하겠습니다 ",
           "link": "https://news.hada.io/topic?id=26417",
           "pubDate": "2026-02-05T03:49:01.000Z",
@@ -445,66 +505,6 @@
           "contentSnippet": "AI 에이전트 전용 소셜 플랫폼 Moltbook의 데이터베이스가 잘못 구성되어, 150만 개의 API 인증 토큰과 3만5천 개의 이메일, 비공개 메시지가 외부에 노출됨\n클라이언트 측 자바스크립트에 Supabase API 키가 하드코딩되어 있었고, Row L...",
           "id": "https://news.hada.io/topic?id=26371",
           "isoDate": "2026-02-03T15:33:24.000Z"
-        },
-        {
-          "title": "개발자의 직관과 읽기 좋은 코드, 그리고 뇌과학: 우리는 왜 특정 코드에 편안함을 느낄까?",
-          "link": "https://news.hada.io/topic?id=26369",
-          "pubDate": "2026-02-03T12:16:22.000Z",
-          "author": "bboydart91",
-          "content": "<p>'읽기 좋은 코드'에 대한 논의는 흔히 개인의 취항이나 관습의 영역으로 치부되지만, 사실 그 기저에는 인지과학적 원리가 작동하고 있습니다. 이 글은 개발자의 '직관'을 뇌과학적 관점에서 분해하고, 가독성이라는 추상적인 감각을 논리적인 구조로 분석합니다.</p>\n<ol>\n<li>\n<p>직관은 마법이 아닌 고도의 패턴 매",
-          "contentSnippet": "'읽기 좋은 코드'에 대한 논의는 흔히 개인의 취항이나 관습의 영역으로 치부되지만, 사실 그 기저에는 인지과학적 원리가 작동하고 있습니다. 이 글은 개발자의 '직관'을 뇌과학적 관점에서 분해하고, 가독성이라는 추상적인 감각을 논리적인 구조로 분석합니다.\n직관은 마법이 아닌 고도의 패턴 매",
-          "id": "https://news.hada.io/topic?id=26369",
-          "isoDate": "2026-02-03T12:16:22.000Z"
-        },
-        {
-          "title": "미국 해상 풍력 발전 공사 전면 재개 명령",
-          "link": "https://news.hada.io/topic?id=26368",
-          "pubDate": "2026-02-03T11:34:31.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>미국 법원이 <strong>모든 해상 풍력 발전 건설 재개</strong>를 명령하며, 트럼프 행정부의 차단 조치를 중단시킴</li>\n<li>트럼프 행정부는 <strong>해상 및 일부 육상 풍력 프로젝트 인허가를 금지하는 행정명령</strong>을 발동했으나, 법원은 이를 <strong>자의적이고 변덕적인 조치</strong>로 판결해 무...</p>",
-          "contentSnippet": "미국 법원이 모든 해상 풍력 발전 건설 재개를 명령하며, 트럼프 행정부의 차단 조치를 중단시킴\n트럼프 행정부는 해상 및 일부 육상 풍력 프로젝트 인허가를 금지하는 행정명령을 발동했으나, 법원은 이를 자의적이고 변덕적인 조치로 판결해 무...",
-          "id": "https://news.hada.io/topic?id=26368",
-          "isoDate": "2026-02-03T11:34:31.000Z"
-        },
-        {
-          "title": "Anki 소유권, AnkiHub로 이전",
-          "link": "https://news.hada.io/topic?id=26367",
-          "pubDate": "2026-02-03T09:33:10.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Anki의 소유권이 AnkiHub로 이전</strong>되며, 새로운 리더십 아래에서 프로젝트의 발전 방향이 재정비중</li>\n<li>AnkiHub는 <strong>학생 중심의 교육 기술 회사</strong>로, Anki의 오픈소스 철학과 사용자 중심 원칙을 유지할 것을 명시</li>\n<li>향후 <strong>UI/UX 개선</strong>, <strong>버스...</p>",
-          "contentSnippet": "Anki의 소유권이 AnkiHub로 이전되며, 새로운 리더십 아래에서 프로젝트의 발전 방향이 재정비중\nAnkiHub는 학생 중심의 교육 기술 회사로, Anki의 오픈소스 철학과 사용자 중심 원칙을 유지할 것을 명시\n향후 UI/UX 개선, 버스...",
-          "id": "https://news.hada.io/topic?id=26367",
-          "isoDate": "2026-02-03T09:33:10.000Z"
-        },
-        {
-          "title": "TSA의 ‘신분증 없이 비행 시 45달러 수수료’는 불법",
-          "link": "https://news.hada.io/topic?id=26366",
-          "pubDate": "2026-02-03T06:33:17.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>미국 <strong>TSA(교통안전청)</strong> 이 REAL ID가 없는 승객에게 <strong>45달러 수수료를 부과</strong>하기 시작했으나, 현행 법률상 신분증 제시나 수수료 납부 의무는 없음</li>\n<li>\n<strong>국내선 탑승 시 신분증 제시를 요구하는 법률은 존재하지 않으며</strong>, 1996년 클린턴 행정부의 행정명령...</p>",
-          "contentSnippet": "미국 TSA(교통안전청) 이 REAL ID가 없는 승객에게 45달러 수수료를 부과하기 시작했으나, 현행 법률상 신분증 제시나 수수료 납부 의무는 없음\n국내선 탑승 시 신분증 제시를 요구하는 법률은 존재하지 않으며, 1996년 클린턴 행정부의 행정명령...",
-          "id": "https://news.hada.io/topic?id=26366",
-          "isoDate": "2026-02-03T06:33:17.000Z"
-        },
-        {
-          "title": "AI 코딩 도구가 개발자 학습을 방해한다, Anthropic 연구 발견",
-          "link": "https://news.hada.io/topic?id=26364",
-          "pubDate": "2026-02-03T05:31:13.000Z",
-          "author": "davespark",
-          "content": "<p><strong>핵심 한 줄 요약</strong><br />\nAI 코딩 도구는 사용 방식에 따라 학습을 돕거나 망칠 수 있다. 개념 이해를 위한 적극적 질문이 핵심이며, 완전 위임은 속도도 학습도 모두 놓친다.</p>\n<p><strong>연구 개요</strong></p>\n<ul>\n<li>Anthropic 연구팀 진행</li>\n<li>대상: 52명 소프트웨어 엔지니어</li>\n...</p>",
-          "contentSnippet": "핵심 한 줄 요약\n연구 개요\nAnthropic 연구팀 진행\n대상: 52명 소프트웨어 엔지니어\n...",
-          "id": "https://news.hada.io/topic?id=26364",
-          "isoDate": "2026-02-03T05:31:13.000Z"
-        },
-        {
-          "title": "Todd C. Miller – 30년 넘게 Sudo를 유지보수한 개발자",
-          "link": "https://news.hada.io/topic?id=26363",
-          "pubDate": "2026-02-03T04:32:45.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>30년 이상 Sudo 프로젝트의 메인테이너</strong>로 활동해 왔으며, 현재 <strong>지속적인 유지보수와 개발을 위한 후원자</strong>를 찾고 있음</li>\n<li>Sudo는 시스템 관리자가 사용자 권한을 제어할 수 있게 하는 <strong>중요한 Unix/Linux 보안 도구</strong>로, Miller가 장기간 관리 중임</li...</p>",
-          "contentSnippet": "30년 이상 Sudo 프로젝트의 메인테이너로 활동해 왔으며, 현재 지속적인 유지보수와 개발을 위한 후원자를 찾고 있음\nSudo는 시스템 관리자가 사용자 권한을 제어할 수 있게 하는 중요한 Unix/Linux 보안 도구로, Miller가 장기간 관리 중임",
-          "id": "https://news.hada.io/topic?id=26363",
-          "isoDate": "2026-02-03T04:32:45.000Z"
         }
       ]
     }
