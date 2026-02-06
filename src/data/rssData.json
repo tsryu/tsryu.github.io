@@ -7,6 +7,56 @@
       "priority": 1,
       "data": [
         {
+          "title": "Anthropic에서 소개하는 Opus 4.6 최대한 활용하기",
+          "link": "https://news.hada.io/topic?id=26459",
+          "pubDate": "2026-02-06T08:25:54.000Z",
+          "author": "princox",
+          "content": "<p>Claude Opus 4.6는 의미 있는 업그레이드입니다. 복잡한 작업을 위해 맥락을 수집하고, 어려운 작업에 더 오래 매달리며, 독립적으로 작업할 때와 사용자에게 확인을 구할 때를 더 잘 판단합니다.<br />\nOpus 4.6는 여전히 Claude 특유의 개성과 가치관을 유지하지만, 약간의 행동 변화도 느낄 수 있습니다. 효과적으...</p>",
+          "contentSnippet": "Claude Opus 4.6는 의미 있는 업그레이드입니다. 복잡한 작업을 위해 맥락을 수집하고, 어려운 작업에 더 오래 매달리며, 독립적으로 작업할 때와 사용자에게 확인을 구할 때를 더 잘 판단합니다.\nOpus 4.6는 여전히 Claude 특유의 개성과 가치관을 유지하지만, 약간의 행동 변화도 느낄 수 있습니다. 효과적으...",
+          "id": "https://news.hada.io/topic?id=26459",
+          "isoDate": "2026-02-06T08:25:54.000Z"
+        },
+        {
+          "title": "BMW의 '새 혁신'은 사실상 수리할 권리에 대한 '중지'",
+          "link": "https://news.hada.io/topic?id=26458",
+          "pubDate": "2026-02-06T07:10:09.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>BMW가 <strong>자사 로고 모양의 독점 보안 나사</strong>에 대한 특허를 출원, 이는 차량 소유자가 직접 수리하지 못하도록 설계된 구조</li>\n<li>이 나사는 <strong>브랜드 로고를 우선시한 디자인</strong>으로, 일반 공구로는 토크를 견디지 못해 나사나 비트가 쉽게 손상됨</li>\n<li>특허 문서에는 “<str...</p>",
+          "contentSnippet": "BMW가 자사 로고 모양의 독점 보안 나사에 대한 특허를 출원, 이는 차량 소유자가 직접 수리하지 못하도록 설계된 구조\n이 나사는 브랜드 로고를 우선시한 디자인으로, 일반 공구로는 토크를 견디지 못해 나사나 비트가 쉽게 손상됨\n특허 문서에는 “",
+          "id": "https://news.hada.io/topic?id=26458",
+          "isoDate": "2026-02-06T07:10:09.000Z"
+        },
+        {
+          "title": "Craft Agents, CLI 없이 Claude Code를 쓰는 오픈소스 에이전트 UI",
+          "link": "https://news.hada.io/topic?id=26457",
+          "pubDate": "2026-02-06T07:02:11.000Z",
+          "author": "davespark",
+          "content": "<p>Claude Code의 터미널 불편함을 해결한 오픈소스 GUI 데스크톱 앱<br />\n개발자: Craft CTO 발린트 오로스 (Valint Orosz) → Apache 2.0 라이선스 공개</p>\n<ul>\n<li>\n<p><strong>문제점 (기존 Claude Code)</strong></p>\n<ul>\n<li>플랜 검토 어려움</li>\n<li>변경 이유 파악 힘듦</li>\n<li>멀티태스킹 제한</li>\n<l",
+          "contentSnippet": "Claude Code의 터미널 불편함을 해결한 오픈소스 GUI 데스크톱 앱\n문제점 (기존 Claude Code)\n플랜 검토 어려움\n변경 이유 파악 힘듦\n멀티태스킹 제한\n<l",
+          "id": "https://news.hada.io/topic?id=26457",
+          "isoDate": "2026-02-06T07:02:11.000Z"
+        },
+        {
+          "title": "LinkedIn이 2,953개의 브라우저 확장을 검사함",
+          "link": "https://news.hada.io/topic?id=26454",
+          "pubDate": "2026-02-06T06:32:53.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>LinkedIn 웹사이트가 페이지를 불러올 때마다 <strong>2,953개의 Chrome 확장 프로그램 존재 여부를 탐지</strong>함</li>\n<li>저장소는 LinkedIn이 확인하는 <strong>모든 확장 ID와 이름, Chrome Web Store 링크</strong>를 문서화함</li>\n<li>전체 확장 중 <strong>약 78%는 Chrome Web Store에서</strong>,...</p>",
+          "contentSnippet": "LinkedIn 웹사이트가 페이지를 불러올 때마다 2,953개의 Chrome 확장 프로그램 존재 여부를 탐지함\n저장소는 LinkedIn이 확인하는 모든 확장 ID와 이름, Chrome Web Store 링크를 문서화함\n전체 확장 중 약 78%는 Chrome Web Store에서,...",
+          "id": "https://news.hada.io/topic?id=26454",
+          "isoDate": "2026-02-06T06:32:53.000Z"
+        },
+        {
+          "title": "Abilities에서 AI 에이전트로: WordPress MCP Adapter 소개",
+          "link": "https://news.hada.io/topic?id=26453",
+          "pubDate": "2026-02-06T06:14:11.000Z",
+          "author": "davespark",
+          "content": "<h4>핵심 요약</h4>\n<ul>\n<li>WordPress는 AI 에이전트 시대를 맞아 <strong>Abilities API</strong>(WordPress 6.9부터 도입)를 기반으로 한 새로운 공식 도구인 <strong>WordPress MCP Adapter</strong>를 발표.</li>\n<li>이 어댑터는 WordPress 내부의 기능(Abilities)을 <strong>Model Context Protocol (MCP)</stro...</p>",
+          "contentSnippet": "핵심 요약\nWordPress는 AI 에이전트 시대를 맞아 Abilities API(WordPress 6.9부터 도입)를 기반으로 한 새로운 공식 도구인 WordPress MCP Adapter를 발표.\n이 어댑터는 WordPress 내부의 기능(Abilities)을 Model Context Protocol (MCP)",
+          "id": "https://news.hada.io/topic?id=26453",
+          "isoDate": "2026-02-06T06:14:11.000Z"
+        },
+        {
           "title": "Daum (Kakao) 우편번호 서비스 도메인 &amp; JS API 네임스페이스 변경 안내 (사전 공지)",
           "link": "https://news.hada.io/topic?id=26451",
           "pubDate": "2026-02-06T03:01:15.000Z",
@@ -455,56 +505,6 @@
           "contentSnippet": "AI 코딩 도구의 등장으로 깊이 사고하는 경험이 급격히 줄어들면서, 엔지니어로서의 성장이 정체된 느낌을 받고 있음\n내 안에 있는 '빌더(Builder)'와 '싱커(Thinker)' 중, 빌더는 AI 덕분에 만족되지만 싱커는 굶주리고...",
           "id": "https://news.hada.io/topic?id=26405",
           "isoDate": "2026-02-05T00:38:31.000Z"
-        },
-        {
-          "title": "Google의 공식 MCP 서버 모음",
-          "link": "https://news.hada.io/topic?id=26404",
-          "pubDate": "2026-02-05T00:28:38.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>Google이 관리하는 <strong>원격 MCP 서버</strong>와 <strong>오픈소스 MCP 서버</strong>의 공식 리스트</li>\n<li>원격 서버는 <strong>Google Maps, BigQuery, GKE, Compute Engine</strong> 등 주요 Google Cloud 서비스와 연동 지원</li>\n<li>오픈소스 서버는 <strong>Google Workspace, Firebase, Cloud ...</p>",
-          "contentSnippet": "Google이 관리하는 원격 MCP 서버와 오픈소스 MCP 서버의 공식 리스트\n원격 서버는 Google Maps, BigQuery, GKE, Compute Engine 등 주요 Google Cloud 서비스와 연동 지원\n오픈소스 서버는 Google Workspace, Firebase, Cloud ...",
-          "id": "https://news.hada.io/topic?id=26404",
-          "isoDate": "2026-02-05T00:28:38.000Z"
-        },
-        {
-          "title": "221 Cannon은 매물로 나와 있지 않음",
-          "link": "https://news.hada.io/topic?id=26403",
-          "pubDate": "2026-02-04T23:33:34.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>미국 코네티컷주 윌턴의 <strong>221 Cannon Road 부지</strong>가 실제 소유자 동의 없이 반복적으로 매물로 등록되는 <strong>부동산 사기 사건</strong> 발생</li>\n<li>사기범은 <strong>소유자 행세</strong>를 하며 부동산 중개인에게 접근, <strong>정확한 토지 정보와 위조 신분증</strong>을 이용해 거...</p>",
-          "contentSnippet": "미국 코네티컷주 윌턴의 221 Cannon Road 부지가 실제 소유자 동의 없이 반복적으로 매물로 등록되는 부동산 사기 사건 발생\n사기범은 소유자 행세를 하며 부동산 중개인에게 접근, 정확한 토지 정보와 위조 신분증을 이용해 거...",
-          "id": "https://news.hada.io/topic?id=26403",
-          "isoDate": "2026-02-04T23:33:34.000Z"
-        },
-        {
-          "title": "Bunny Database",
-          "link": "https://news.hada.io/topic?id=26402",
-          "pubDate": "2026-02-04T22:33:18.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Bunny Database</strong>는 SQLite와 호환되는 <strong>엣지 기반 관리형 데이터베이스 서비스</strong>로, 유휴 시 자동으로 중단되고 전 세계 어디서나 낮은 지연시간을 유지함</li>\n<li>\n<strong>DBaaS 플랫폼의 고비용 구조</strong>와 복잡한 설정 문제를 해결하기 위해, 간단한 배포와 사용량 기...</p>",
-          "contentSnippet": "Bunny Database는 SQLite와 호환되는 엣지 기반 관리형 데이터베이스 서비스로, 유휴 시 자동으로 중단되고 전 세계 어디서나 낮은 지연시간을 유지함\nDBaaS 플랫폼의 고비용 구조와 복잡한 설정 문제를 해결하기 위해, 간단한 배포와 사용량 기...",
-          "id": "https://news.hada.io/topic?id=26402",
-          "isoDate": "2026-02-04T22:33:18.000Z"
-        },
-        {
-          "title": "Show GN: LibTTAK - 데이터에 수명을 부여하는 Epoch 기반 C 시스템 라이브러리",
-          "link": "https://news.hada.io/topic?id=26401",
-          "pubDate": "2026-02-04T20:49:42.000Z",
-          "author": "gg5823",
-          "content": "<p><strong>본문:</strong><br />\nC의 <code>malloc/free</code>나 RAII 방식은 비즈니스 로직을 자원 관리 코드로 오염시키곤 합니다. <strong>LibTTAK</strong>은 이를 해결하기 위해 메모리 수명을 데이터 모델(Epoch)로 관리합니다.</p>\n<ul>\n<li>\n<strong>Lifetime as Data</strong>: 할당 시점에 수명을 명시하여 ",
-          "contentSnippet": "본문:\nmalloc/free나 RAII 방식은 비즈니스 로직을 자원 관리 코드로 오염시키곤 합니다. LibTTAK은 이를 해결하기 위해 메모리 수명을 데이터 모델(Epoch)로 관리합니다.\nLifetime as Data: 할당 시점에 수명을 명시하여",
-          "id": "https://news.hada.io/topic?id=26401",
-          "isoDate": "2026-02-04T20:49:42.000Z"
-        },
-        {
-          "title": "가솔린 내 납 사용 금지의 효과, 머리카락에서 입증됨",
-          "link": "https://news.hada.io/topic?id=26400",
-          "pubDate": "2026-02-04T19:33:23.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>유타대 연구진이 100년간의 <strong>머리카락 시료 분석</strong>을 통해 납 농도가 100배 감소했음을 확인</li>\n<li>1970년 <strong>미국 환경보호청(EPA)</strong> 설립 전에는 산업, 도료, 수도관, 자동차 배기가스 등에서 납 노출이 광범위했음</li>\n<li>연구 결과, 1970년대 이후 <strong>가솔린 내 납 제...</p>",
-          "contentSnippet": "유타대 연구진이 100년간의 머리카락 시료 분석을 통해 납 농도가 100배 감소했음을 확인\n1970년 미국 환경보호청(EPA) 설립 전에는 산업, 도료, 수도관, 자동차 배기가스 등에서 납 노출이 광범위했음\n연구 결과, 1970년대 이후 가솔린 내 납 제...",
-          "id": "https://news.hada.io/topic?id=26400",
-          "isoDate": "2026-02-04T19:33:23.000Z"
         }
       ]
     }
