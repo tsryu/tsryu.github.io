@@ -7,6 +7,56 @@
       "priority": 1,
       "data": [
         {
+          "title": "AMD가 수정하지 않겠다고 한 원격 코드 실행(RCE) 취약점",
+          "link": "https://news.hada.io/topic?id=26467",
+          "pubDate": "2026-02-06T20:37:23.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>AMD의 <strong>AutoUpdate 소프트웨어</strong>에서 원격 코드 실행(RCE) 취약점이 발견되어 보고되었으나, AMD는 이를 수정하지 않기로 결정함</li>\n<li>업데이트 구성 파일에 저장된 URL이 <strong>HTTP 프로토콜</strong>을 사용해 실행 파일을 다운로드하도록 되어 있어, <strong>MITM(중간자 공격)</stron...</p>",
+          "contentSnippet": "AMD의 AutoUpdate 소프트웨어에서 원격 코드 실행(RCE) 취약점이 발견되어 보고되었으나, AMD는 이를 수정하지 않기로 결정함\n업데이트 구성 파일에 저장된 URL이 HTTP 프로토콜을 사용해 실행 파일을 다운로드하도록 되어 있어, MITM(중간자 공격)",
+          "id": "https://news.hada.io/topic?id=26467",
+          "isoDate": "2026-02-06T20:37:23.000Z"
+        },
+        {
+          "title": "제프리 엡스타인을 만나지 않았던 때",
+          "link": "https://news.hada.io/topic?id=26466",
+          "pubDate": "2026-02-06T20:34:23.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>양자정보 연구자 스콧 애런슨은 자신이 <strong>제프리 엡스타인 관련 문서 26건에 이름이 등장</strong>한다는 사실을 알고 놀랐다고 밝힘</li>\n<li>그는 엡스타인을 <strong>한 번도 만나거나 연락한 적이 없으며</strong>, 2010년 ‘자연 속 암호학(Cryptography in Nature)’ 연구 자금 논의 과정에서 중개...</p>",
+          "contentSnippet": "양자정보 연구자 스콧 애런슨은 자신이 제프리 엡스타인 관련 문서 26건에 이름이 등장한다는 사실을 알고 놀랐다고 밝힘\n그는 엡스타인을 한 번도 만나거나 연락한 적이 없으며, 2010년 ‘자연 속 암호학(Cryptography in Nature)’ 연구 자금 논의 과정에서 중개...",
+          "id": "https://news.hada.io/topic?id=26466",
+          "isoDate": "2026-02-06T20:34:23.000Z"
+        },
+        {
+          "title": "유럽연합 집행위원회, Microsoft Teams 대체를 위한 Matrix 오픈소스 통신 도입 시험",
+          "link": "https://news.hada.io/topic?id=26465",
+          "pubDate": "2026-02-06T18:33:23.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>유럽연합 집행위원회가 <strong>유럽산 오픈소스 통신 소프트웨어</strong>를 내부 커뮤니케이션에 시험 도입 중임</li>\n<li>이 시스템은 <strong>Matrix 프로토콜</strong>을 기반으로 하며, <strong>디지털 주권 확보</strong>를 위한 노력의 일환으로 추진됨</li>\n<li>Matrix는 <strong>비영리단체가 관리하...</p>",
+          "contentSnippet": "유럽연합 집행위원회가 유럽산 오픈소스 통신 소프트웨어를 내부 커뮤니케이션에 시험 도입 중임\n이 시스템은 Matrix 프로토콜을 기반으로 하며, 디지털 주권 확보를 위한 노력의 일환으로 추진됨\nMatrix는 비영리단체가 관리하...",
+          "id": "https://news.hada.io/topic?id=26465",
+          "isoDate": "2026-02-06T18:33:23.000Z"
+        },
+        {
+          "title": "CIA가 ‘The World Factbook’ 발행을 중단하고 아카이브를 삭제",
+          "link": "https://news.hada.io/topic?id=26464",
+          "pubDate": "2026-02-06T16:33:04.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>CIA가 1971년부터 운영해 온 <strong>공개 정보 데이터베이스 ‘The World Factbook’</strong> 의 발행을 중단하고 웹사이트를 폐쇄함</li>\n<li>사이트 전체가 <strong>302 리디렉션</strong>으로 전환되어, 기존 콘텐츠와 과거 버전 아카이브가 모두 접근 불가 상태가 됨</li>\n<li>이 자료는 <strong>공공 도...</p>",
+          "contentSnippet": "CIA가 1971년부터 운영해 온 공개 정보 데이터베이스 ‘The World Factbook’ 의 발행을 중단하고 웹사이트를 폐쇄함\n사이트 전체가 302 리디렉션으로 전환되어, 기존 콘텐츠와 과거 버전 아카이브가 모두 접근 불가 상태가 됨\n이 자료는 공공 도...",
+          "id": "https://news.hada.io/topic?id=26464",
+          "isoDate": "2026-02-06T16:33:04.000Z"
+        },
+        {
+          "title": "Show GN: react-kakao-postcode - 카카오 우편번호 서비스 React 라이브러리",
+          "link": "https://news.hada.io/topic?id=26463",
+          "pubDate": "2026-02-06T15:53:54.000Z",
+          "author": "abcdkh1209",
+          "content": "<p>카카오 우편번호 서비스의 도메인 및 네임스페이스 변경(daum.Postcode → kakao.Postcode, CDN t1.daumcdn.net → t1.kakaocdn.net)에 대응하는 React 라이브러리입니다.</p>\n<p>react-daum-postcode에 영감을 받아, 2026년 3월 서비스 도메인 변경 전에 새로운 구조로 만들었습니다.</p>\n<p>주요 특징:</p>\n<ul>\n<l",
+          "contentSnippet": "카카오 우편번호 서비스의 도메인 및 네임스페이스 변경(daum.Postcode → kakao.Postcode, CDN t1.daumcdn.net → t1.kakaocdn.net)에 대응하는 React 라이브러리입니다.\nreact-daum-postcode에 영감을 받아, 2026년 3월 서비스 도메인 변경 전에 새로운 구조로 만들었습니다.\n주요 특징:\n\n<l",
+          "id": "https://news.hada.io/topic?id=26463",
+          "isoDate": "2026-02-06T15:53:54.000Z"
+        },
+        {
           "title": "에이프스타인 PDF를 원본 인코딩 첨부파일에서 복원하기",
           "link": "https://news.hada.io/topic?id=26462",
           "pubDate": "2026-02-06T13:32:56.000Z",
@@ -455,56 +505,6 @@
           "contentSnippet": "Alibaba Group이 개발한 MySQL 기반 오픈소스 브랜치로, OLTP와 OLAP 기능을 통합한 데이터베이스 엔진\nDuckDB 컬럼형 엔진을 내장해 분석 쿼리에서 최대 200배 빠른 성능을 제공\nHNSW 기반 벡터 검색을 지원하며, 최...",
           "id": "https://news.hada.io/topic?id=26414",
           "isoDate": "2026-02-05T03:11:26.000Z"
-        },
-        {
-          "title": "소프트웨어 서바이벌 3.0 – 무엇을 만들어야 살아남는가",
-          "link": "https://news.hada.io/topic?id=26413",
-          "pubDate": "2026-02-05T02:31:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>AI가 모든 소프트웨어를 작성하는 시대에는 <strong>토큰(추론 비용)을 절약하는 소프트웨어</strong>가 <strong>진화론적 선택 압력</strong>을 통해 살아남게 될 것</li>\n<li>\n<strong>생존 비율</strong> 공식을 통해 소프트웨어의 적합도를 측정하며, 인지 절약이 인지 비용을 넘어서는 경우(1을 초과)에만...</p>",
-          "contentSnippet": "AI가 모든 소프트웨어를 작성하는 시대에는 토큰(추론 비용)을 절약하는 소프트웨어가 진화론적 선택 압력을 통해 살아남게 될 것\n생존 비율 공식을 통해 소프트웨어의 적합도를 측정하며, 인지 절약이 인지 비용을 넘어서는 경우(1을 초과)에만...",
-          "id": "https://news.hada.io/topic?id=26413",
-          "isoDate": "2026-02-05T02:31:02.000Z"
-        },
-        {
-          "title": "Clawdbot / OpenClaw에 대한 현실적이지만 매우 낙관적인 전망",
-          "link": "https://news.hada.io/topic?id=26412",
-          "pubDate": "2026-02-05T02:04:06.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>OpenClaw</strong>는 개인의 일정, 메시지, 웹 작업 등을 자동화해주는 <strong>AI 비서형 시스템</strong>으로, 최근 폭발적인 관심을 받고 있음</li>\n<li>사용자는 OpenClaw를 통해 <strong>문자 메시지 기반 일정 관리, 가격 모니터링, 가정 내 재고 관리, 예약 및 양식 자동화</strong> 등을 수행...</p>",
-          "contentSnippet": "OpenClaw는 개인의 일정, 메시지, 웹 작업 등을 자동화해주는 AI 비서형 시스템으로, 최근 폭발적인 관심을 받고 있음\n사용자는 OpenClaw를 통해 문자 메시지 기반 일정 관리, 가격 모니터링, 가정 내 재고 관리, 예약 및 양식 자동화 등을 수행...",
-          "id": "https://news.hada.io/topic?id=26412",
-          "isoDate": "2026-02-05T02:04:06.000Z"
-        },
-        {
-          "title": "Show GN: 소셜 아카이버 - SNS 포스팅의 저장 및 관리가 불편해서 만들었습니다",
-          "link": "https://news.hada.io/topic?id=26411",
-          "pubDate": "2026-02-05T01:43:38.000Z",
-          "author": "hyungyunlim",
-          "content": "<p>SNS를 개인적으로 많이 하지 않고, 좋아하지도 않습니다. 다만, SNS에서 좋은 글을 올려주시는 몇몇 분들 때문에 들어가서 종종 봅니다.</p>\n<p>글들을 저장하기 위해 플랫폼에서 저장하기 같은 기능을 제공하는데 이게 결국 플랫폼마다 파편화 되어있습니다. 인스타그램에서 저장한 건 인스타그램에서만 볼 수 있고,",
-          "contentSnippet": "SNS를 개인적으로 많이 하지 않고, 좋아하지도 않습니다. 다만, SNS에서 좋은 글을 올려주시는 몇몇 분들 때문에 들어가서 종종 봅니다.\n글들을 저장하기 위해 플랫폼에서 저장하기 같은 기능을 제공하는데 이게 결국 플랫폼마다 파편화 되어있습니다. 인스타그램에서 저장한 건 인스타그램에서만 볼 수 있고,",
-          "id": "https://news.hada.io/topic?id=26411",
-          "isoDate": "2026-02-05T01:43:38.000Z"
-        },
-        {
-          "title": "Claude Code에 /insights 기능 추가",
-          "link": "https://news.hada.io/topic?id=26409",
-          "pubDate": "2026-02-05T01:00:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>클로드 코드가 <strong>지난 한 달간의 메시지 기록</strong>을 읽어서 <strong>사용 패턴을 분석</strong>하고 보고서를 작성해줌</li>\n<li>\n<strong>프로젝트들을 요약</strong>해주고, Claude Code를 어떻게 사용하는지, 그리고 <strong>워크플로 개선을 위한 제안</strong>도 제공</li>\n<li>Claude Code v2...</p>",
-          "contentSnippet": "클로드 코드가 지난 한 달간의 메시지 기록을 읽어서 사용 패턴을 분석하고 보고서를 작성해줌\n프로젝트들을 요약해주고, Claude Code를 어떻게 사용하는지, 그리고 워크플로 개선을 위한 제안도 제공\nClaude Code v2...",
-          "id": "https://news.hada.io/topic?id=26409",
-          "isoDate": "2026-02-05T01:00:02.000Z"
-        },
-        {
-          "title": "Claude는 사고를 위한 공간입니다",
-          "link": "https://news.hada.io/topic?id=26408",
-          "pubDate": "2026-02-05T00:47:32.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Anthropic은 광고가 경쟁과 제품 발견에 기여함을 인정하지만, <strong>Claude 대화 내 광고는 부적합</strong>하다고 생각함</li>\n<li>\n<strong>Claude</strong>는 사용자의 사고와 업무를 돕는 <strong>광고 없는 AI 어시스턴트</strong>로 설계되었으며,<br />\n<strong>광고 기반 모델</strong>은 사용자 이...</p>",
-          "contentSnippet": "Anthropic은 광고가 경쟁과 제품 발견에 기여함을 인정하지만, Claude 대화 내 광고는 부적합하다고 생각함\nClaude는 사용자의 사고와 업무를 돕는 광고 없는 AI 어시스턴트로 설계되었으며,\n광고 기반 모델은 사용자 이...",
-          "id": "https://news.hada.io/topic?id=26408",
-          "isoDate": "2026-02-05T00:47:32.000Z"
         }
       ]
     }
