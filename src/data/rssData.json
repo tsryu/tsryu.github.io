@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "에이프스타인 PDF를 원본 인코딩 첨부파일에서 복원하기",
+          "link": "https://news.hada.io/topic?id=26462",
+          "pubDate": "2026-02-06T13:32:56.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>미 법무부가 공개한 <strong>에이프스타인 이메일 아카이브</strong>는 잘못된 인코딩과 과도한 검열로 인해 심각한 오류와 비판을 받고 있음</li>\n<li>일부 이메일에는 <strong><code>Content-Transfer-Encoding: base64</code></strong> 형식의 첨부파일이 그대로 포함되어 있어, 이 데이터를 복원하면 원본 ...</p>",
+          "contentSnippet": "미 법무부가 공개한 에이프스타인 이메일 아카이브는 잘못된 인코딩과 과도한 검열로 인해 심각한 오류와 비판을 받고 있음\n일부 이메일에는 Content-Transfer-Encoding: base64 형식의 첨부파일이 그대로 포함되어 있어, 이 데이터를 복원하면 원본 ...",
+          "id": "https://news.hada.io/topic?id=26462",
+          "isoDate": "2026-02-06T13:32:56.000Z"
+        },
+        {
+          "title": "Show GN: 1인 개발 프로그램 2.0까지 업데이트하며 느낀 것들",
+          "link": "https://news.hada.io/topic?id=26461",
+          "pubDate": "2026-02-06T11:14:51.000Z",
+          "author": "gundol97",
+          "content": "<p>3~4주 전에 GeekShow에 AutoBandStudio 출시 글을 올렸었습니다. (https://news.hada.io/topic?id=25731)<br />\n지금은 650회를 넘겼고 65개국에서 사용 중입니다.</p>\n<p>그 사이에 느낀 것들을 공유합니다.</p>\n<p>[1. 마케팅이 제일 어렵다.]</p>\n<ul>\n<li>에브리타임, Reddit, 커리어리, 유튜브 쇼츠 다 해봤습니",
+          "contentSnippet": "3~4주 전에 GeekShow에 AutoBandStudio 출시 글을 올렸었습니다. (https://news.hada.io/topic?id=25731)\n그 사이에 느낀 것들을 공유합니다.\n[1. 마케팅이 제일 어렵다.]\n에브리타임, Reddit, 커리어리, 유튜브 쇼츠 다 해봤습니",
+          "id": "https://news.hada.io/topic?id=26461",
+          "isoDate": "2026-02-06T11:14:51.000Z"
+        },
+        {
+          "title": "AI 에이전트가 인간을 고용한다, RentAHuman 플랫폼의 등장",
+          "link": "https://news.hada.io/topic?id=26460",
+          "pubDate": "2026-02-06T11:09:46.000Z",
+          "author": "davespark",
+          "content": "<p><strong>플랫폼 개요</strong></p>\n<ul>\n<li>창립자: 소프트웨어 엔지니어 Alexander Liteplo (크립토 배경)</li>\n<li>출시 시기: 2026년 2월 초 (최근 며칠 전)</li>\n<li>슬로건: “Robots need your body” (로봇이 당신의 몸을 원한다)</li>\n<li>핵심 개념: AI 에이전트가 물리적 세계 작업을 인간에게 직접 위임·�",
+          "contentSnippet": "플랫폼 개요\n창립자: 소프트웨어 엔지니어 Alexander Liteplo (크립토 배경)\n출시 시기: 2026년 2월 초 (최근 며칠 전)\n슬로건: “Robots need your body” (로봇이 당신의 몸을 원한다)\n핵심 개념: AI 에이전트가 물리적 세계 작업을 인간에게 직접 위임·�",
+          "id": "https://news.hada.io/topic?id=26460",
+          "isoDate": "2026-02-06T11:09:46.000Z"
+        },
+        {
           "title": "Anthropic에서 소개하는 Opus 4.6 최대한 활용하기",
           "link": "https://news.hada.io/topic?id=26459",
           "pubDate": "2026-02-06T08:25:54.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "Anthropic은 광고가 경쟁과 제품 발견에 기여함을 인정하지만, Claude 대화 내 광고는 부적합하다고 생각함\nClaude는 사용자의 사고와 업무를 돕는 광고 없는 AI 어시스턴트로 설계되었으며,\n광고 기반 모델은 사용자 이...",
           "id": "https://news.hada.io/topic?id=26408",
           "isoDate": "2026-02-05T00:47:32.000Z"
-        },
-        {
-          "title": "아이폰 ‘락다운 모드’ 때문에 FBI가 워싱턴포스트 기자의 아이폰을 열지 못함",
-          "link": "https://news.hada.io/topic?id=26407",
-          "pubDate": "2026-02-05T00:44:32.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>락다운 모드가 활성화된 아이폰</strong>으로 인해 FBI가 압수한 기자의 기기를 포렌식 분석하지 못한 사실이 법원 문서에서 드러남</li>\n<li>워싱턴포스트 기자의 아이폰은 압수 당시 <strong>전원이 켜진 상태였지만 락다운 모드</strong>로 인해 추출 불가 상태였음</li>\n<li>FBI의 <strong>Comput...</p>",
-          "contentSnippet": "락다운 모드가 활성화된 아이폰으로 인해 FBI가 압수한 기자의 기기를 포렌식 분석하지 못한 사실이 법원 문서에서 드러남\n워싱턴포스트 기자의 아이폰은 압수 당시 전원이 켜진 상태였지만 락다운 모드로 인해 추출 불가 상태였음\nFBI의 Comput...",
-          "id": "https://news.hada.io/topic?id=26407",
-          "isoDate": "2026-02-05T00:44:32.000Z"
-        },
-        {
-          "title": "Voxtral Transcribe 2 모델 공개",
-          "link": "https://news.hada.io/topic?id=26406",
-          "pubDate": "2026-02-05T00:41:32.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>초저지연 <strong>실시간 음성 인식</strong>과 <strong>고정밀 화자 분리</strong> 기능을 갖춘 <strong>차세대 음성-텍스트 변환 모델</strong>\n</li>\n<li>두 가지 모델로 구성되며, <strong>Voxtral Mini Transcribe V2</strong>는 배치 처리용, <strong>Voxtral Realtime</strong>은 실시간 응용을 위한 구...</p>",
-          "contentSnippet": "초저지연 실시간 음성 인식과 고정밀 화자 분리 기능을 갖춘 차세대 음성-텍스트 변환 모델\n\n두 가지 모델로 구성되며, Voxtral Mini Transcribe V2는 배치 처리용, Voxtral Realtime은 실시간 응용을 위한 구...",
-          "id": "https://news.hada.io/topic?id=26406",
-          "isoDate": "2026-02-05T00:41:32.000Z"
-        },
-        {
-          "title": "깊이 생각하던 시절이 그리워요",
-          "link": "https://news.hada.io/topic?id=26405",
-          "pubDate": "2026-02-05T00:38:31.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>AI 코딩 도구의 등장으로 <strong>깊이 사고하는 경험</strong>이 급격히 줄어들면서, 엔지니어로서의 <strong>성장이 정체</strong>된 느낌을 받고 있음</li>\n<li>내 안에 있는 <strong>'빌더(Builder)'와 '싱커(Thinker)'</strong> 중, <strong>빌더는 AI 덕분에 만족</strong>되지만 <strong>싱커는 굶주리고...</p>",
-          "contentSnippet": "AI 코딩 도구의 등장으로 깊이 사고하는 경험이 급격히 줄어들면서, 엔지니어로서의 성장이 정체된 느낌을 받고 있음\n내 안에 있는 '빌더(Builder)'와 '싱커(Thinker)' 중, 빌더는 AI 덕분에 만족되지만 싱커는 굶주리고...",
-          "id": "https://news.hada.io/topic?id=26405",
-          "isoDate": "2026-02-05T00:38:31.000Z"
         }
       ]
     }
