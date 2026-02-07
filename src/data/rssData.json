@@ -7,6 +7,26 @@
       "priority": 1,
       "data": [
         {
+          "title": "소프트웨어 엔지니어링의 제3의 황금기 - Grady Booch",
+          "link": "https://news.hada.io/topic?id=26485",
+          "pubDate": "2026-02-07T12:52:13.000Z",
+          "author": "gogokow27",
+          "content": "<p><strong>The third golden age of software engineering – thanks to AI, with Grady Booch</strong></p>\n<p>본 영상은 소프트웨어 공학의 선구자인 그레이디 부치(Grady Booch)와의 대담을 통해, 인공지능(AI)의 부상이 소프트웨어 엔지니어링의 종말을 의미한다는 주장을 반박하고, 오히려 우리가 '제3의 황금기'에",
+          "contentSnippet": "The third golden age of software engineering – thanks to AI, with Grady Booch\n본 영상은 소프트웨어 공학의 선구자인 그레이디 부치(Grady Booch)와의 대담을 통해, 인공지능(AI)의 부상이 소프트웨어 엔지니어링의 종말을 의미한다는 주장을 반박하고, 오히려 우리가 '제3의 황금기'에",
+          "id": "https://news.hada.io/topic?id=26485",
+          "isoDate": "2026-02-07T12:52:13.000Z"
+        },
+        {
+          "title": "PDF에 급하게 서명이 필요하거나 날인이 필요할 때",
+          "link": "https://news.hada.io/topic?id=26484",
+          "pubDate": "2026-02-07T12:22:21.000Z",
+          "author": "bigsea01",
+          "content": "<p>PDF 무료라고 속이고 회사에서 설치해서 사용하면 아이피 추적해서 회사에서 사용은 저작권법 위반이라고 협박하는 것에 한 번 당해서 직접 만들어서 무료로 공개하였습니다!!</p>\n",
+          "contentSnippet": "PDF 무료라고 속이고 회사에서 설치해서 사용하면 아이피 추적해서 회사에서 사용은 저작권법 위반이라고 협박하는 것에 한 번 당해서 직접 만들어서 무료로 공개하였습니다!!",
+          "id": "https://news.hada.io/topic?id=26484",
+          "isoDate": "2026-02-07T12:22:21.000Z"
+        },
+        {
           "title": "Heroku 최신 업데이트",
           "link": "https://news.hada.io/topic?id=26483",
           "pubDate": "2026-02-07T08:33:01.000Z",
@@ -485,26 +505,6 @@
           "contentSnippet": "숙련된 중장년층 인력의 가치가 재조명되며, 기업들이 이들을 유지하려는 움직임이 확산 중임\nB&Q와 BMW 사례에서 고령 근로자 중심의 실험이 생산성과 수익성 향상으로 이어졌음\nAARP, OECD, BCG 연구는 50세 이상 근로자가 많은...",
           "id": "https://news.hada.io/topic?id=26431",
           "isoDate": "2026-02-05T19:37:29.000Z"
-        },
-        {
-          "title": "Fluid - 인프라를 위한 Claude Code",
-          "link": "https://news.hada.io/topic?id=26430",
-          "pubDate": "2026-02-05T19:34:29.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>AI 에이전트가 실제 인프라를 안전하게 다룰 수 있도록 <strong>샌드박스 복제 환경</strong>을 만드는 터미널 기반 도구</li>\n<li>복제된 VM이나 <strong>Kubernetes 클러스터</strong>에서 명령 실행, 파일 수정, 연결 테스트를 수행하고 결과를 <strong>Ansible Playbook</strong> 형태로 자동 생성</li>\n<l...</p>",
-          "contentSnippet": "AI 에이전트가 실제 인프라를 안전하게 다룰 수 있도록 샌드박스 복제 환경을 만드는 터미널 기반 도구\n복제된 VM이나 Kubernetes 클러스터에서 명령 실행, 파일 수정, 연결 테스트를 수행하고 결과를 Ansible Playbook 형태로 자동 생성",
-          "id": "https://news.hada.io/topic?id=26430",
-          "isoDate": "2026-02-05T19:34:29.000Z"
-        },
-        {
-          "title": "Microsoft의 핵심 AI 제품 Copilot이 큰 문제에 직면하다",
-          "link": "https://news.hada.io/topic?id=26429",
-          "pubDate": "2026-02-05T18:37:48.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>OpenAI와의 파트너십이 약화되는 가운데, Microsoft가 <strong>Copilot 챗봇</strong>을 ChatGPT 대안으로 키우려는 전략이 브랜드 혼선과 상호운용성 문제로 난항을 겪고 있음</li>\n<li>Microsoft 365의 <strong>4억 5,000만 이상 유료 좌석</strong> 중 Copilot 판매 좌석은 1,500만에 그치며, 주요 이용자 비...</p>",
-          "contentSnippet": "OpenAI와의 파트너십이 약화되는 가운데, Microsoft가 Copilot 챗봇을 ChatGPT 대안으로 키우려는 전략이 브랜드 혼선과 상호운용성 문제로 난항을 겪고 있음\nMicrosoft 365의 4억 5,000만 이상 유료 좌석 중 Copilot 판매 좌석은 1,500만에 그치며, 주요 이용자 비...",
-          "id": "https://news.hada.io/topic?id=26429",
-          "isoDate": "2026-02-05T18:37:48.000Z"
         }
       ]
     }
