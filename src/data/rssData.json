@@ -7,6 +7,56 @@
       "priority": 1,
       "data": [
         {
+          "title": "Heroku 최신 업데이트",
+          "link": "https://news.hada.io/topic?id=26483",
+          "pubDate": "2026-02-07T08:33:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Heroku가 <strong>안정성·보안·신뢰성·지원 중심의 유지 엔지니어링 모델</strong>로 전환하며, 새로운 기능 개발보다 품질과 운영 우수성 유지에 집중</li>\n<li>현재 <strong>모든 기존 및 신규 일반 고객</strong>은 가격, 결제, 서비스, 일상적 사용 방식에 <strong>변경 없이</strong> Heroku를 계속 이용...</p>",
+          "contentSnippet": "Heroku가 안정성·보안·신뢰성·지원 중심의 유지 엔지니어링 모델로 전환하며, 새로운 기능 개발보다 품질과 운영 우수성 유지에 집중\n현재 모든 기존 및 신규 일반 고객은 가격, 결제, 서비스, 일상적 사용 방식에 변경 없이 Heroku를 계속 이용...",
+          "id": "https://news.hada.io/topic?id=26483",
+          "isoDate": "2026-02-07T08:33:01.000Z"
+        },
+        {
+          "title": "X, Pay-Per-Use API 가격 플랜 도입",
+          "link": "https://news.hada.io/topic?id=26482",
+          "pubDate": "2026-02-07T06:15:21.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>사용한 만큼만 비용</strong>을 내는 종량제 방식</li>\n<li>개발자 콘솔에서 <strong>크레딧</strong>을 먼저 구매하고, <strong>API 요청시마다 차감</strong>하는 구조</li>\n<li>\n<strong>엔드포인트 별로 가격이 다름</strong> : 게시물 생성 $0.010, 게시물 읽기 $0.005, DM 보내기 $0.015 등</li...</p>",
+          "contentSnippet": "사용한 만큼만 비용을 내는 종량제 방식\n개발자 콘솔에서 크레딧을 먼저 구매하고, API 요청시마다 차감하는 구조\n엔드포인트 별로 가격이 다름 : 게시물 생성 $0.010, 게시물 읽기 $0.005, DM 보내기 $0.015 등",
+          "id": "https://news.hada.io/topic?id=26482",
+          "isoDate": "2026-02-07T06:15:21.000Z"
+        },
+        {
+          "title": "해커스 (1995) 애니메이티드 익스피리언스",
+          "link": "https://news.hada.io/topic?id=26481",
+          "pubDate": "2026-02-07T05:34:29.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>1995년 영화 <strong>‘Hackers’</strong> 를 기반으로 한 <strong>인터랙티브 애니메이션 웹 경험</strong>으로, 사용자가 직접 조작하며 탐험할 수 있는 형태</li>\n<li>\n<strong>데스크톱</strong>에서는 W,A,S,D 키로 이동하고 Q,E로 시점을 회전하며, <strong>스페이스바와 쉬프트키</strong>로 상하 이동...</p>",
+          "contentSnippet": "1995년 영화 ‘Hackers’ 를 기반으로 한 인터랙티브 애니메이션 웹 경험으로, 사용자가 직접 조작하며 탐험할 수 있는 형태\n데스크톱에서는 W,A,S,D 키로 이동하고 Q,E로 시점을 회전하며, 스페이스바와 쉬프트키로 상하 이동...",
+          "id": "https://news.hada.io/topic?id=26481",
+          "isoDate": "2026-02-07T05:34:29.000Z"
+        },
+        {
+          "title": "GitHub Actions가 엔지니어링 팀을 서서히 죽이고 있다",
+          "link": "https://news.hada.io/topic?id=26480",
+          "pubDate": "2026-02-07T05:32:52.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>Repo에 기본으로 포함된 CI</strong>라는 이유로 널리 쓰이지만, <strong>구조적 비효율성과 불안정한 사용자 경험</strong>이 개발자 생산성을 저하시킴</li>\n<li>\n<strong>로그 뷰어의 느린 로딩과 브라우저 충돌</strong>, 복잡한 <strong>YAML 구문과 표현식 오류</strong>가 반복적인 디버깅을 초...</p>",
+          "contentSnippet": "Repo에 기본으로 포함된 CI라는 이유로 널리 쓰이지만, 구조적 비효율성과 불안정한 사용자 경험이 개발자 생산성을 저하시킴\n로그 뷰어의 느린 로딩과 브라우저 충돌, 복잡한 YAML 구문과 표현식 오류가 반복적인 디버깅을 초...",
+          "id": "https://news.hada.io/topic?id=26480",
+          "isoDate": "2026-02-07T05:32:52.000Z"
+        },
+        {
+          "title": "Show GN: Mailhub - 이메일 주소를 감추세요",
+          "link": "https://news.hada.io/topic?id=26479",
+          "pubDate": "2026-02-07T05:22:50.000Z",
+          "author": "kami7",
+          "content": "<p>모두들 즐거운 주말 보내고 계실까요 😄</p>\n<p>처음으로 제 프로젝트를 공개하려니 긴장되네요..ㅎㅎ</p>\n<p>개인정보 유출 사건사고를 접하다가 만들어본 서비스입니다.</p>\n<p>사실 전 Apple의 Hide My Email 서비스를 이용중인데요, Hide My Email은 iCloud 구독해야 쓸수있기도 하고, Safari나 애플 생태계에서 ",
+          "contentSnippet": "모두들 즐거운 주말 보내고 계실까요 😄\n처음으로 제 프로젝트를 공개하려니 긴장되네요..ㅎㅎ\n개인정보 유출 사건사고를 접하다가 만들어본 서비스입니다.\n사실 전 Apple의 Hide My Email 서비스를 이용중인데요, Hide My Email은 iCloud 구독해야 쓸수있기도 하고, Safari나 애플 생태계에서",
+          "id": "https://news.hada.io/topic?id=26479",
+          "isoDate": "2026-02-07T05:22:50.000Z"
+        },
+        {
           "title": "문명 III의 오픈소스, 크로스플랫폼 재구현 프로젝트 OpenCiv3",
           "link": "https://news.hada.io/topic?id=26478",
           "pubDate": "2026-02-07T03:33:01.000Z",
@@ -455,56 +505,6 @@
           "contentSnippet": "OpenAI와의 파트너십이 약화되는 가운데, Microsoft가 Copilot 챗봇을 ChatGPT 대안으로 키우려는 전략이 브랜드 혼선과 상호운용성 문제로 난항을 겪고 있음\nMicrosoft 365의 4억 5,000만 이상 유료 좌석 중 Copilot 판매 좌석은 1,500만에 그치며, 주요 이용자 비...",
           "id": "https://news.hada.io/topic?id=26429",
           "isoDate": "2026-02-05T18:37:48.000Z"
-        },
-        {
-          "title": "Ghidra MCP 서버 – AI 기반 리버스 엔지니어링을 위한 110개 도구 제공",
-          "link": "https://news.hada.io/topic?id=26428",
-          "pubDate": "2026-02-05T18:34:48.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Ghidra MCP Server</strong>는 Ghidra의 리버스 엔지니어링 기능을 <strong>AI 및 자동화 프레임워크</strong>와 연결하는 <strong>Model Context Protocol(MCP)</strong> 서버</li>\n<li>110개의 MCP 도구와 <strong>132개 엔드포인트</strong>를 통해 함수 분석, 데이터 구조 탐색, 문자열 추출 등 ...</p>",
-          "contentSnippet": "Ghidra MCP Server는 Ghidra의 리버스 엔지니어링 기능을 AI 및 자동화 프레임워크와 연결하는 Model Context Protocol(MCP) 서버\n110개의 MCP 도구와 132개 엔드포인트를 통해 함수 분석, 데이터 구조 탐색, 문자열 추출 등 ...",
-          "id": "https://news.hada.io/topic?id=26428",
-          "isoDate": "2026-02-05T18:34:48.000Z"
-        },
-        {
-          "title": "대해제: 대규모 엔 캐리 트레이드 청산이 글로벌 시장을 뒤흔들다",
-          "link": "https://news.hada.io/topic?id=26427",
-          "pubDate": "2026-02-05T17:33:15.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>최근 <strong>주식·암호화폐·금속 시장의 급등락</strong>은 일본 엔 캐리 트레이드의 강제 청산에서 비롯된 현상으로 설명됨</li>\n<li>일본은행(BOJ)의 <strong>2025년 12월 금리 인상(0.75%)</strong> 과 다카이치 사나에 내각의 긴축적 신호가 글로벌 자금 조달 구조를 급격히 변화시킴</li>\n<li>\n<strong>노...</p>",
-          "contentSnippet": "최근 주식·암호화폐·금속 시장의 급등락은 일본 엔 캐리 트레이드의 강제 청산에서 비롯된 현상으로 설명됨\n일본은행(BOJ)의 2025년 12월 금리 인상(0.75%) 과 다카이치 사나에 내각의 긴축적 신호가 글로벌 자금 조달 구조를 급격히 변화시킴\n노...",
-          "id": "https://news.hada.io/topic?id=26427",
-          "isoDate": "2026-02-05T17:33:15.000Z"
-        },
-        {
-          "title": "기니아충, 인류 두 번째 박멸 질병으로 향하다 — 2025년 인류 감염 10건만 보고",
-          "link": "https://news.hada.io/topic?id=26426",
-          "pubDate": "2026-02-05T15:34:28.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>기니아충 감염증(Dracunculiasis)</strong> 이 2025년 전 세계에서 단 10건만 보고되며, 인류 두 번째 박멸 질병으로 가까워짐</li>\n<li>1986년 박멸 프로그램 시작 당시 <strong>3백50만 건</strong>이던 감염이 40년 만에 거의 사라짐</li>\n<li>2025년 인류 감염은 <strong>차드 4건, 에티오피아 4건...</p>",
-          "contentSnippet": "기니아충 감염증(Dracunculiasis) 이 2025년 전 세계에서 단 10건만 보고되며, 인류 두 번째 박멸 질병으로 가까워짐\n1986년 박멸 프로그램 시작 당시 3백50만 건이던 감염이 40년 만에 거의 사라짐\n2025년 인류 감염은 차드 4건, 에티오피아 4건...",
-          "id": "https://news.hada.io/topic?id=26426",
-          "isoDate": "2026-02-05T15:34:28.000Z"
-        },
-        {
-          "title": "Show GN: agent-skill-cast - 여러 레포의 AI 에이전트 스킬을 동기화하는 CLI",
-          "link": "https://news.hada.io/topic?id=26425",
-          "pubDate": "2026-02-05T14:46:26.000Z",
-          "author": "devenv",
-          "content": "<p>zip이나 위키 대신 git으로 AI 에이전트의 스킬을 공유하는 CLI 도구를 만들어봤습니다.<br />\n마법을 시전하는 것처럼 스킬을 시전한다는 의미에서 이름을 cast로 지었습니다.</p>\n<p><strong>[ 개발 계기 ]</strong><br />\n크게 2가지 계기가 있습니다.</p>\n<p><strong>첫 번째 문제</strong><br />\n스킬을 만들고 ",
-          "contentSnippet": "zip이나 위키 대신 git으로 AI 에이전트의 스킬을 공유하는 CLI 도구를 만들어봤습니다.\n[ 개발 계기 ]\n첫 번째 문제\n스킬을 만들고",
-          "id": "https://news.hada.io/topic?id=26425",
-          "isoDate": "2026-02-05T14:46:26.000Z"
-        },
-        {
-          "title": "에프스타인 PDF의 디지털 포렌식 사례 연구",
-          "link": "https://news.hada.io/topic?id=26424",
-          "pubDate": "2026-02-05T12:33:26.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>미국 법무부가 <strong>Epstein Files Transparency Act</strong>에 따라 공개한 PDF 문서들을 대상으로, 파일 구조와 구문을 중심으로 한 <strong>디지털 포렌식 분석</strong>이 수행됨</li>\n<li>분석 결과, 공개된 <strong>EFTA 데이터세트 01–07의 PDF들은 올바르게 편집(redaction)</strong> 되어 있으며...</p>",
-          "contentSnippet": "미국 법무부가 Epstein Files Transparency Act에 따라 공개한 PDF 문서들을 대상으로, 파일 구조와 구문을 중심으로 한 디지털 포렌식 분석이 수행됨\n분석 결과, 공개된 EFTA 데이터세트 01–07의 PDF들은 올바르게 편집(redaction) 되어 있으며...",
-          "id": "https://news.hada.io/topic?id=26424",
-          "isoDate": "2026-02-05T12:33:26.000Z"
         }
       ]
     }
