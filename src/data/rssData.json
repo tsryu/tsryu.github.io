@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "512바이트로 만든 C 컴파일러 SectorC",
+          "link": "https://news.hada.io/topic?id=26507",
+          "pubDate": "2026-02-08T13:32:48.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>x86-16 어셈블리로 작성된 <strong>SectorC</strong>는 x86 머신의 <strong>부트 섹터(512바이트)</strong> 안에 들어가는 초소형 C 컴파일러로, 실제 동작 가능한 프로그램을 작성할 수 있을 만큼의 <strong>C 언어 부분집합</strong>을 지원함</li>\n<li>\n<strong>전역 변수, 함수, if/while 문, 연산자, 포인...</p>",
+          "contentSnippet": "x86-16 어셈블리로 작성된 SectorC는 x86 머신의 부트 섹터(512바이트) 안에 들어가는 초소형 C 컴파일러로, 실제 동작 가능한 프로그램을 작성할 수 있을 만큼의 C 언어 부분집합을 지원함\n전역 변수, 함수, if/while 문, 연산자, 포인...",
+          "id": "https://news.hada.io/topic?id=26507",
+          "isoDate": "2026-02-08T13:32:48.000Z"
+        },
+        {
+          "title": "직접 만들지 않는 소프트웨어는 설계할 수 없다",
+          "link": "https://news.hada.io/topic?id=26506",
+          "pubDate": "2026-02-08T09:24:23.000Z",
+          "author": "ashbyash",
+          "content": "<p>대형 소프트웨어 시스템을 실제로 작업하는 엔지니어만이 설계 과정에 의미 있게 참여할 수 있으며, 구체적인 세부 사항에 대한 이해 없는 일반적인 설계 조언은 실무에서 무용함을 강조.</p>\n<p><strong>일반적인 소프트웨어 설계(Generic software design)의 한계</strong></p>\n<ul>\n<li>도메인에 대한 이해는 있으",
+          "contentSnippet": "대형 소프트웨어 시스템을 실제로 작업하는 엔지니어만이 설계 과정에 의미 있게 참여할 수 있으며, 구체적인 세부 사항에 대한 이해 없는 일반적인 설계 조언은 실무에서 무용함을 강조.\n일반적인 소프트웨어 설계(Generic software design)의 한계\n도메인에 대한 이해는 있으",
+          "id": "https://news.hada.io/topic?id=26506",
+          "isoDate": "2026-02-08T09:24:23.000Z"
+        },
+        {
+          "title": "Show GN: Markdown Sticky notes for macOS",
+          "link": "https://news.hada.io/topic?id=26505",
+          "pubDate": "2026-02-08T08:23:14.000Z",
+          "author": "jsp627",
+          "content": "<p>항상 Markdown이 되는 Sticky notes가 있었으면 싶었는데요.<br />\nObsidian에 sticky note extension이 있기는 한데 electron이다보니 무거워서 Swift 기반으로 만들어(만들라고 시켜)봤습니다.</p>\n<p>Claude Code로 만들었습니다.</p>\n<h4>주요 기능</h4>\n<ul>\n<li>마크다운 실시간 렌더링 (헤딩, 볼드, 리스트, 테",
+          "contentSnippet": "항상 Markdown이 되는 Sticky notes가 있었으면 싶었는데요.\nClaude Code로 만들었습니다.\n주요 기능\n마크다운 실시간 렌더링 (헤딩, 볼드, 리스트, 테",
+          "id": "https://news.hada.io/topic?id=26505",
+          "isoDate": "2026-02-08T08:23:14.000Z"
+        },
+        {
           "title": "벨팅을 안전하게 익히는 보컬 가이드",
           "link": "https://news.hada.io/topic?id=26504",
           "pubDate": "2026-02-08T07:33:04.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "저희 부모님이 식당하셔서, 주로 식당에 관한 아이디어로 서비스로 만드는데요.\n코로나때는 수기명부를 대체한 \"간편 출입자 명부\" 를 만들어서, 전국 휴게소에서 공식 활용했었는데 이번에는 완전무료 QR주문 서비스입니다.\n모바일, 태블릿, PC 등 모든 기기에 완벽 대응하고 전세계 대상이",
           "id": "https://news.hada.io/topic?id=26455",
           "isoDate": "2026-02-06T06:35:03.000Z"
-        },
-        {
-          "title": "LinkedIn이 2,953개의 브라우저 확장을 검사함",
-          "link": "https://news.hada.io/topic?id=26454",
-          "pubDate": "2026-02-06T06:32:53.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>LinkedIn 웹사이트가 페이지를 불러올 때마다 <strong>2,953개의 Chrome 확장 프로그램 존재 여부를 탐지</strong>함</li>\n<li>저장소는 LinkedIn이 확인하는 <strong>모든 확장 ID와 이름, Chrome Web Store 링크</strong>를 문서화함</li>\n<li>전체 확장 중 <strong>약 78%는 Chrome Web Store에서</strong>,...</p>",
-          "contentSnippet": "LinkedIn 웹사이트가 페이지를 불러올 때마다 2,953개의 Chrome 확장 프로그램 존재 여부를 탐지함\n저장소는 LinkedIn이 확인하는 모든 확장 ID와 이름, Chrome Web Store 링크를 문서화함\n전체 확장 중 약 78%는 Chrome Web Store에서,...",
-          "id": "https://news.hada.io/topic?id=26454",
-          "isoDate": "2026-02-06T06:32:53.000Z"
-        },
-        {
-          "title": "Abilities에서 AI 에이전트로: WordPress MCP Adapter 소개",
-          "link": "https://news.hada.io/topic?id=26453",
-          "pubDate": "2026-02-06T06:14:11.000Z",
-          "author": "davespark",
-          "content": "<h4>핵심 요약</h4>\n<ul>\n<li>WordPress는 AI 에이전트 시대를 맞아 <strong>Abilities API</strong>(WordPress 6.9부터 도입)를 기반으로 한 새로운 공식 도구인 <strong>WordPress MCP Adapter</strong>를 발표.</li>\n<li>이 어댑터는 WordPress 내부의 기능(Abilities)을 <strong>Model Context Protocol (MCP)</stro...</p>",
-          "contentSnippet": "핵심 요약\nWordPress는 AI 에이전트 시대를 맞아 Abilities API(WordPress 6.9부터 도입)를 기반으로 한 새로운 공식 도구인 WordPress MCP Adapter를 발표.\n이 어댑터는 WordPress 내부의 기능(Abilities)을 Model Context Protocol (MCP)",
-          "id": "https://news.hada.io/topic?id=26453",
-          "isoDate": "2026-02-06T06:14:11.000Z"
-        },
-        {
-          "title": "Daum (Kakao) 우편번호 서비스 도메인 &amp; JS API 네임스페이스 변경 안내 (사전 공지)",
-          "link": "https://news.hada.io/topic?id=26451",
-          "pubDate": "2026-02-06T03:01:15.000Z",
-          "author": "rkjun",
-          "content": "<ol>\n<li>공식 가이드 페이지</li>\n</ol>\n<ul>\n<li>현재: <a href=\"https://postcode.map.daum.net/guide\">https://postcode.map.daum.net/guide</a>\n</li>\n<li>2026-03-10 이후: <code>postcode.map.kakao.com</code> 으로 이전 예정</li>\n</ul>\n<ol start=\"2\">\n<li>CDN 도메인 변경 (적용 완료)</li>\n</ol>\n<ul>\n<li>기...</p>",
-          "contentSnippet": "공식 가이드 페이지\n현재: https://postcode.map.daum.net/guide\n\n2026-03-10 이후: postcode.map.kakao.com 으로 이전 예정\nCDN 도메인 변경 (적용 완료)\n기...",
-          "id": "https://news.hada.io/topic?id=26451",
-          "isoDate": "2026-02-06T03:01:15.000Z"
         }
       ]
     }
