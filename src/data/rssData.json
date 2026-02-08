@@ -7,6 +7,126 @@
       "priority": 1,
       "data": [
         {
+          "title": "TypeScript로 이해하는 펑터, 어플리케이티브 펑터, 모나드",
+          "link": "https://news.hada.io/topic?id=26500",
+          "pubDate": "2026-02-08T03:00:06.000Z",
+          "author": "bboydart91",
+          "content": "<p>본문</p>\n<ul>\n<li>펑터의 map만으로는 해결할 수 없는 두 가지 문제(컨테이너 안 함수가 갇히는 문제, 합성 시 맥락 중첩 문제)에서 출발하여 어플리케이티브 펑터와 모나드까지 도달하는 과정을 TypeScript 코드로 설명</li>\n<li>1988년 에우제니오 모지(Eugenio Moggi)가 프로그램을 A → B가 아닌 A → T(B)로 모",
+          "contentSnippet": "본문\n펑터의 map만으로는 해결할 수 없는 두 가지 문제(컨테이너 안 함수가 갇히는 문제, 합성 시 맥락 중첩 문제)에서 출발하여 어플리케이티브 펑터와 모나드까지 도달하는 과정을 TypeScript 코드로 설명\n1988년 에우제니오 모지(Eugenio Moggi)가 프로그램을 A → B가 아닌 A → T(B)로 모",
+          "id": "https://news.hada.io/topic?id=26500",
+          "isoDate": "2026-02-08T03:00:06.000Z"
+        },
+        {
+          "title": "2.5배 빠르고 6배 비싼 Claude Opus 4.6 Fast Mode 공개 ",
+          "link": "https://news.hada.io/topic?id=26499",
+          "pubDate": "2026-02-08T02:44:43.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>동일한 <strong>Opus 4.6 모델</strong>을 사용하되 API 구성을 바꿔 <strong>지연 시간을 최소화</strong>\n</li>\n<li>빠른 반복, 라이브 디버깅 등 시간에 민감한 <strong>대화형 작업</strong>에 최적화</li>\n<li>CLI 또는 VS Code 확장에서 <code>/fast</code> 입력해 <strong>온·오프 토글</strong> 또는 사...</p>",
+          "contentSnippet": "동일한 Opus 4.6 모델을 사용하되 API 구성을 바꿔 지연 시간을 최소화\n\n빠른 반복, 라이브 디버깅 등 시간에 민감한 대화형 작업에 최적화\nCLI 또는 VS Code 확장에서 /fast 입력해 온·오프 토글 또는 사...",
+          "id": "https://news.hada.io/topic?id=26499",
+          "isoDate": "2026-02-08T02:44:43.000Z"
+        },
+        {
+          "title": "AI 열풍이 다른 산업 전반에 걸쳐 공급 부족을 초래하고 있음",
+          "link": "https://news.hada.io/topic?id=26498",
+          "pubDate": "2026-02-08T01:36:09.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>주요 AI 기업 5곳의 올해 투자 규모가 약 <strong>7,000억 달러</strong>에 달하며, 이는 2025년 지출의 거의 두 배이자 미국 국방 예산의 3/4에 해당하는 전례 없는 수준</li>\n<li>데이터센터 건설에 자원이 집중되면서 <strong>전기기사 부족</strong>, 메모리 칩 가격 상승, 스마트폰·PC 가격 인상 등 다른 ...</p>",
+          "contentSnippet": "주요 AI 기업 5곳의 올해 투자 규모가 약 7,000억 달러에 달하며, 이는 2025년 지출의 거의 두 배이자 미국 국방 예산의 3/4에 해당하는 전례 없는 수준\n데이터센터 건설에 자원이 집중되면서 전기기사 부족, 메모리 칩 가격 상승, 스마트폰·PC 가격 인상 등 다른 ...",
+          "id": "https://news.hada.io/topic?id=26498",
+          "isoDate": "2026-02-08T01:36:09.000Z"
+        },
+        {
+          "title": "우리의 장인 정신을 애도합니다",
+          "link": "https://news.hada.io/topic?id=26497",
+          "pubDate": "2026-02-08T00:37:37.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>AI 코드 생성 도구의 부상</strong>으로 인해 프로그래머의 역할이 단순한 검수자로 축소되고 있음</li>\n<li>AI 코딩 도구의 가장 불편한 진실은 <strong>실제로 작동한다</strong>는 것이며, 이를 믿지 않는다면 6개월만 기다리면 됨</li>\n<li>시니어 개발자가 도덕적 원칙으로 AI 사용을 거부할 수 ...</p>",
+          "contentSnippet": "AI 코드 생성 도구의 부상으로 인해 프로그래머의 역할이 단순한 검수자로 축소되고 있음\nAI 코딩 도구의 가장 불편한 진실은 실제로 작동한다는 것이며, 이를 믿지 않는다면 6개월만 기다리면 됨\n시니어 개발자가 도덕적 원칙으로 AI 사용을 거부할 수 ...",
+          "id": "https://news.hada.io/topic?id=26497",
+          "isoDate": "2026-02-08T00:37:37.000Z"
+        },
+        {
+          "title": "프랑스의 오픈소스 온라인 오피스 제품군 ‘La Suite numérique’",
+          "link": "https://news.hada.io/topic?id=26496",
+          "pubDate": "2026-02-08T00:34:36.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>프랑스 정부가 주도하는 <strong>오픈소스 디지털 협업 플랫폼</strong>으로, 온라인 오피스 환경을 위한 다양한 애플리케이션을 제공</li>\n<li>주요 구성 요소는 <strong>문서 협업, 화상회의, 파일 공유, 팀 관리</strong> 등으로, Django와 React 기반으로 개발</li>\n<li>모든 코드는 <strong>MIT 라이선스...</p>",
+          "contentSnippet": "프랑스 정부가 주도하는 오픈소스 디지털 협업 플랫폼으로, 온라인 오피스 환경을 위한 다양한 애플리케이션을 제공\n주요 구성 요소는 문서 협업, 화상회의, 파일 공유, 팀 관리 등으로, Django와 React 기반으로 개발\n모든 코드는 MIT 라이선스...",
+          "id": "https://news.hada.io/topic?id=26496",
+          "isoDate": "2026-02-08T00:34:36.000Z"
+        },
+        {
+          "title": "EmulatorJS - 콘솔 게임을 위한 웹 기반 프런트엔드",
+          "link": "https://news.hada.io/topic?id=26495",
+          "pubDate": "2026-02-08T00:31:02.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>RetroArch</strong>의 다양한 콘솔 에뮬레이션을 <strong>웹 환경에서 실행</strong>하기 위해 개발된 <strong>JavaScript 기반 프런트엔드</strong>\n</li>\n<li>브라우저만으로 <strong>Nintendo, Sega, Atari, PlayStation, Commodore</strong> 등 주요 레트로 시스템을 지원하는 <strong>셀프 호스팅...</p>",
+          "contentSnippet": "RetroArch의 다양한 콘솔 에뮬레이션을 웹 환경에서 실행하기 위해 개발된 JavaScript 기반 프런트엔드\n\n브라우저만으로 Nintendo, Sega, Atari, PlayStation, Commodore 등 주요 레트로 시스템을 지원하는 셀프 호스팅...",
+          "id": "https://news.hada.io/topic?id=26495",
+          "isoDate": "2026-02-08T00:31:02.000Z"
+        },
+        {
+          "title": "소프트웨어 팩토리와 에이전트 시대의 도래",
+          "link": "https://news.hada.io/topic?id=26493",
+          "pubDate": "2026-02-07T23:40:33.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>StrongDM AI팀</strong>은 <strong>코드를 보지 않고도 고품질 소프트웨어를 만드는 Software Factory</strong> 개념을 주장</li>\n<li>명세/시나리오 기반으로 에이전트가 코드를 작성하고, 테스트 하네스를 실행, <strong>인간의 검토 없이</strong> 수렴하는 <strong>비대화형 개발 방식</strong>\n...</p>",
+          "contentSnippet": "StrongDM AI팀은 코드를 보지 않고도 고품질 소프트웨어를 만드는 Software Factory 개념을 주장\n명세/시나리오 기반으로 에이전트가 코드를 작성하고, 테스트 하네스를 실행, 인간의 검토 없이 수렴하는 비대화형 개발 방식\n...",
+          "id": "https://news.hada.io/topic?id=26493",
+          "isoDate": "2026-02-07T23:40:33.000Z"
+        },
+        {
+          "title": "Monty - AI 생성 코드를 안전하게 실행하는 경량 Python 인터프리터 ",
+          "link": "https://news.hada.io/topic?id=26492",
+          "pubDate": "2026-02-07T22:33:03.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>AI가 생성한 코드를 안전하게 실행하기 위해 설계된 <strong>Rust 기반의 경량 Python 인터프리터</strong>로, 컨테이너 샌드박스의 복잡성과 지연을 제거</li>\n<li>\n<strong>파일시스템·환경변수·네트워크 접근을 완전히 차단</strong>하고, 개발자가 지정한 외부 함수만 호출 가능</li>\n<li>\n<strong>1 마이크...</p>",
+          "contentSnippet": "AI가 생성한 코드를 안전하게 실행하기 위해 설계된 Rust 기반의 경량 Python 인터프리터로, 컨테이너 샌드박스의 복잡성과 지연을 제거\n파일시스템·환경변수·네트워크 접근을 완전히 차단하고, 개발자가 지정한 외부 함수만 호출 가능\n1 마이크...",
+          "id": "https://news.hada.io/topic?id=26492",
+          "isoDate": "2026-02-07T22:33:03.000Z"
+        },
+        {
+          "title": "AI로 고품질 코드를 효과적으로 작성하는 방법",
+          "link": "https://news.hada.io/topic?id=26491",
+          "pubDate": "2026-02-07T21:33:20.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>AI와 협업하는 개발 환경</strong>에서는 인간이 프로젝트의 방향과 의사결정을 명확히 정의해야 품질을 유지할 수 있음</li>\n<li>\n<strong>정확한 문서화</strong>를 통해 AI와 다른 개발자 모두가 요구사항과 제약을 명확히 이해하도록 해야 함</li>\n<li>\n<strong>디버그 시스템과 코드 리뷰 체계...</p>",
+          "contentSnippet": "AI와 협업하는 개발 환경에서는 인간이 프로젝트의 방향과 의사결정을 명확히 정의해야 품질을 유지할 수 있음\n정확한 문서화를 통해 AI와 다른 개발자 모두가 요구사항과 제약을 명확히 이해하도록 해야 함\n디버그 시스템과 코드 리뷰 체계...",
+          "id": "https://news.hada.io/topic?id=26491",
+          "isoDate": "2026-02-07T21:33:20.000Z"
+        },
+        {
+          "title": "기억을 잃었을 때 컴퓨터 접근을 복구하는 방법",
+          "link": "https://news.hada.io/topic?id=26490",
+          "pubDate": "2026-02-07T20:41:15.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>파일을 암호화하고 <strong>복구 키를 여러 친구에게 분할해 보관</strong>할 수 있는 오프라인 도구로, <strong>Shamir의 비밀 분할 알고리듬</strong>을 사용</li>\n<li>예를 들어 5명의 친구에게 키 조각을 나누고, <strong>3명이 협력하면 복구 가능</strong>, 단 한 명만으로는 접근 불가</li>\n<li>각 친구...</p>",
+          "contentSnippet": "파일을 암호화하고 복구 키를 여러 친구에게 분할해 보관할 수 있는 오프라인 도구로, Shamir의 비밀 분할 알고리듬을 사용\n예를 들어 5명의 친구에게 키 조각을 나누고, 3명이 협력하면 복구 가능, 단 한 명만으로는 접근 불가\n각 친구...",
+          "id": "https://news.hada.io/topic?id=26490",
+          "isoDate": "2026-02-07T20:41:15.000Z"
+        },
+        {
+          "title": "벡티(Vecti) – 빛의 속도로 디자인하기",
+          "link": "https://news.hada.io/topic?id=26489",
+          "pubDate": "2026-02-07T20:38:15.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>복잡한 UX 워크플로를 <strong>직관적인 시각적 솔루션</strong>으로 전환하는 <strong>협업형 디자인 도구</strong>로, 브라우저 기반에서 작동</li>\n<li>여러 사용자가 동시에 편집·검토할 수 있는 <strong>실시간 협업 기능</strong>과 <strong>고성능 렌더링 엔진</strong>을 제공</li>\n<li>\n<strong>공유 ...</p>",
+          "contentSnippet": "복잡한 UX 워크플로를 직관적인 시각적 솔루션으로 전환하는 협업형 디자인 도구로, 브라우저 기반에서 작동\n여러 사용자가 동시에 편집·검토할 수 있는 실시간 협업 기능과 고성능 렌더링 엔진을 제공\n공유 ...",
+          "id": "https://news.hada.io/topic?id=26489",
+          "isoDate": "2026-02-07T20:38:15.000Z"
+        },
+        {
+          "title": "LiteBox - Microsoft가 오픈소스로 공개한 보안 중심 라이브러리 OS ",
+          "link": "https://news.hada.io/topic?id=26488",
+          "pubDate": "2026-02-07T20:35:15.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>커널 모드와 사용자 모드 실행을 모두 지원하는 <strong>보안 중심 라이브러리 OS</strong>로, 호스트 인터페이스를 최소화해 공격 표면을 줄이는 <strong>샌드박싱 환경</strong> 제공</li>\n<li>\n<strong>Rust 기반</strong>으로 작성되었으며, <code>nix</code> 및 <code>rustix</code> 스타일의 상위 인터페...</p>",
+          "contentSnippet": "커널 모드와 사용자 모드 실행을 모두 지원하는 보안 중심 라이브러리 OS로, 호스트 인터페이스를 최소화해 공격 표면을 줄이는 샌드박싱 환경 제공\nRust 기반으로 작성되었으며, nix 및 rustix 스타일의 상위 인터페...",
+          "id": "https://news.hada.io/topic?id=26488",
+          "isoDate": "2026-02-07T20:35:15.000Z"
+        },
+        {
           "title": "AI가 본 적 없는 .NET UI 프레임워크로 IDE를 만들 때, 에이전트는 어떻게 API를 파악하는가",
           "link": "https://news.hada.io/topic?id=26487",
           "pubDate": "2026-02-07T17:49:40.000Z",
@@ -385,126 +505,6 @@
           "contentSnippet": "CIA가 전 세계 수백만 명이 이용하던 무료 온라인 데이터베이스 ‘World Factbook’의 발행을 중단한다고 발표\n이 자료집은 언론인과 학계에서 자주 인용되던 국가별 통계 및 기본 정보를 제공해 왔음\nCIA 웹사이트 공지에는 중단 사유가 명시되...",
           "id": "https://news.hada.io/topic?id=26445",
           "isoDate": "2026-02-06T00:52:47.000Z"
-        },
-        {
-          "title": "Flock CEO가 Deflock을 ‘테러 조직’으로 규정 (2025) [영상]",
-          "link": "https://news.hada.io/topic?id=26444",
-          "pubDate": "2026-02-06T00:49:47.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Flock CEO</strong>가 영상에서 경쟁 단체 <strong>Deflock</strong>을 ‘테러 조직’으로 언급</li>\n<li>발언은 <strong>공개 인터뷰 또는 발표 영상</strong> 형태로 촬영된 것으로 확인</li>\n<li>영상 내용 외 추가적인 <strong>맥락, 근거, 반응</strong> 등은 제공되지 않음</li>\n<li>\n<strong>D...</p>",
-          "contentSnippet": "Flock CEO가 영상에서 경쟁 단체 Deflock을 ‘테러 조직’으로 언급\n발언은 공개 인터뷰 또는 발표 영상 형태로 촬영된 것으로 확인\n영상 내용 외 추가적인 맥락, 근거, 반응 등은 제공되지 않음\nD...",
-          "id": "https://news.hada.io/topic?id=26444",
-          "isoDate": "2026-02-06T00:49:47.000Z"
-        },
-        {
-          "title": "내부 호스트명이 클라우드에 유출될 때",
-          "link": "https://news.hada.io/topic?id=26443",
-          "pubDate": "2026-02-06T00:46:47.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>가정용 <strong>NAS 장비</strong>의 웹 인터페이스가 내부 전용 호스트네임을 외부 서비스로 전송하는 사례 발견</li>\n<li>NAS 웹 UI에 포함된 <strong>sentry.io 오류 보고 스크립트</strong>가 스택 트레이스와 함께 내부 호스트네임을 외부로 전송</li>\n<li>sentry.io 측에서 해당 호스트네임으로 <strong>...</p>",
-          "contentSnippet": "가정용 NAS 장비의 웹 인터페이스가 내부 전용 호스트네임을 외부 서비스로 전송하는 사례 발견\nNAS 웹 UI에 포함된 sentry.io 오류 보고 스크립트가 스택 트레이스와 함께 내부 호스트네임을 외부로 전송\nsentry.io 측에서 해당 호스트네임으로 ...",
-          "id": "https://news.hada.io/topic?id=26443",
-          "isoDate": "2026-02-06T00:46:47.000Z"
-        },
-        {
-          "title": "OpenClaw는 Apple Intelligence가 되었어야 할 모습",
-          "link": "https://news.hada.io/topic?id=26442",
-          "pubDate": "2026-02-06T00:43:47.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>AI 에이전트 구동을 위해 <strong>Mac Mini 판매가 급증</strong>하고 있으며, 이를 견인하는 것은 <strong>OpenClaw</strong>\n</li>\n<li>\n<strong>실제 컴퓨터를 조작·자동화</strong>할 수 있는 AI 비서 프레임워크로, <strong>Mac 하드웨어의 킬러 앱</strong>으로 부상</li>\n<li>Apple은 하드웨어·생태계·�...</p>",
-          "contentSnippet": "AI 에이전트 구동을 위해 Mac Mini 판매가 급증하고 있으며, 이를 견인하는 것은 OpenClaw\n\n\n실제 컴퓨터를 조작·자동화할 수 있는 AI 비서 프레임워크로, Mac 하드웨어의 킬러 앱으로 부상\nApple은 하드웨어·생태계·�...",
-          "id": "https://news.hada.io/topic?id=26442",
-          "isoDate": "2026-02-06T00:43:47.000Z"
-        },
-        {
-          "title": "클라우드를 임대하지 말고, 직접 소유하세요",
-          "link": "https://news.hada.io/topic?id=26441",
-          "pubDate": "2026-02-06T00:40:46.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>CommaAI</strong>는 모든 모델 학습과 데이터 처리를 자체 <strong>데이터센터</strong>에서 수행하며, 약 <strong>500만 달러 규모의 인프라</strong>를 직접 운영중</li>\n<li>클라우드 의존은 <strong>비용 상승과 통제력 상실</strong>로 이어질 수 있으며, 자체 컴퓨트 운영은 <strong>엔지니어링...</p>",
-          "contentSnippet": "CommaAI는 모든 모델 학습과 데이터 처리를 자체 데이터센터에서 수행하며, 약 500만 달러 규모의 인프라를 직접 운영중\n클라우드 의존은 비용 상승과 통제력 상실로 이어질 수 있으며, 자체 컴퓨트 운영은 엔지니어링...",
-          "id": "https://news.hada.io/topic?id=26441",
-          "isoDate": "2026-02-06T00:40:46.000Z"
-        },
-        {
-          "title": "SmythOS/sre - 에이전트형 AI를 위한 클라우드 네이티브 런타임",
-          "link": "https://news.hada.io/topic?id=26440",
-          "pubDate": "2026-02-06T00:31:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>에이전트형 AI의 OS 계층</strong>을 목표로 만든 오픈소스 런타임 환경으로, <strong>보안성·모듈성·확장성</strong>을 갖춘 <strong>클라우드 네이티브 플랫폼</strong> 제공</li>\n<li>로컬, 클라우드 및 엣지 환경 전반에서 AI 에이전트를 구축, 실행 및 관리할 수 있음</li>\n<li>\n<strong>LLM, Ve...</p>",
-          "contentSnippet": "에이전트형 AI의 OS 계층을 목표로 만든 오픈소스 런타임 환경으로, 보안성·모듈성·확장성을 갖춘 클라우드 네이티브 플랫폼 제공\n로컬, 클라우드 및 엣지 환경 전반에서 AI 에이전트를 구축, 실행 및 관리할 수 있음\nLLM, Ve...",
-          "id": "https://news.hada.io/topic?id=26440",
-          "isoDate": "2026-02-06T00:31:01.000Z"
-        },
-        {
-          "title": "Agent Teams - Claude Code 세션 팀 오케스트레이션",
-          "link": "https://news.hada.io/topic?id=26439",
-          "pubDate": "2026-02-06T00:25:56.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>여러 <strong>Claude Code 인스턴스</strong>를 하나의 팀으로 구성해 병렬로 작업을 분배·조율하는 실험적 기능으로, 리드 세션이 팀원을 생성하고 작업을 할당하며 결과를 종합</li>\n<li>기존 <strong>서브에이전트</strong>와 달리 팀원 간 직접 메시지 교환이 가능하며, 사용자도 리드를 거치지 않고 개별 ...</p>",
-          "contentSnippet": "여러 Claude Code 인스턴스를 하나의 팀으로 구성해 병렬로 작업을 분배·조율하는 실험적 기능으로, 리드 세션이 팀원을 생성하고 작업을 할당하며 결과를 종합\n기존 서브에이전트와 달리 팀원 간 직접 메시지 교환이 가능하며, 사용자도 리드를 거치지 않고 개별 ...",
-          "id": "https://news.hada.io/topic?id=26439",
-          "isoDate": "2026-02-06T00:25:56.000Z"
-        },
-        {
-          "title": "Claude Opus 4.6 추가 사용 프로모션",
-          "link": "https://news.hada.io/topic?id=26438",
-          "pubDate": "2026-02-06T00:24:30.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>Claude Opus 4.6 출시</strong>에 맞춰 Pro 및 Max 이용자에게 <strong>한정 기간 동안 50달러 상당의 추가 사용 크레딧</strong>을 제공</li>\n<li>대상은 2026년 2월 4일 이전에 Pro 또는 Max 구독을 시작하고, 2월 16일 이전에 <strong>추가 사용(extra usage)</strong> 기능을 활성화한 사용자</li...</p>",
-          "contentSnippet": "Claude Opus 4.6 출시에 맞춰 Pro 및 Max 이용자에게 한정 기간 동안 50달러 상당의 추가 사용 크레딧을 제공\n대상은 2026년 2월 4일 이전에 Pro 또는 Max 구독을 시작하고, 2월 16일 이전에 추가 사용(extra usage) 기능을 활성화한 사용자",
-          "id": "https://news.hada.io/topic?id=26438",
-          "isoDate": "2026-02-06T00:24:30.000Z"
-        },
-        {
-          "title": "나의 AI 도입 여정",
-          "link": "https://news.hada.io/topic?id=26437",
-          "pubDate": "2026-02-06T00:23:49.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>HashiCorp를 엑싯하고 Ghostty를 만들고 있는 미첼 하시모토가 AI 도구를 실제 업무에 통합하기까지의 과정을 정리</li>\n<li>\n<strong>비효율 → 적응 → 생산성 향상</strong>의 세 단계로 구분하며, 각 단계에서의 시행착오와 학습 과정을 구체적으로 기록</li>\n<li>챗봇 기반 코딩의 한계를 인식한 뒤, <str...</p>",
-          "contentSnippet": "HashiCorp를 엑싯하고 Ghostty를 만들고 있는 미첼 하시모토가 AI 도구를 실제 업무에 통합하기까지의 과정을 정리\n비효율 → 적응 → 생산성 향상의 세 단계로 구분하며, 각 단계에서의 시행착오와 학습 과정을 구체적으로 기록\n챗봇 기반 코딩의 한계를 인식한 뒤,",
-          "id": "https://news.hada.io/topic?id=26437",
-          "isoDate": "2026-02-06T00:23:49.000Z"
-        },
-        {
-          "title": "Show GN: Linear MCP Fast – 로컬 캐시에서 읽는 10x 빠른 Linear MCP",
-          "link": "https://news.hada.io/topic?id=26436",
-          "pubDate": "2026-02-05T22:06:53.000Z",
-          "author": "liabilityuk0",
-          "content": "<p>Linear로 업무 관리하는 용도로 Claude Code를 쓰고 있는데요. 이슈를 가져올 때마다 Linear MCP로 호출하다보니 Context Window를 너무 많이 사용하고, 시간도 오래 걸리는게 너무 불편했습니다.</p>\n<p>그래서 Linear 앱의 로컬 캐시를 직접 읽어 API 호출 없이 Linear를 훑어볼 수 있는 MCP를 만들었습니다. API 호",
-          "contentSnippet": "Linear로 업무 관리하는 용도로 Claude Code를 쓰고 있는데요. 이슈를 가져올 때마다 Linear MCP로 호출하다보니 Context Window를 너무 많이 사용하고, 시간도 오래 걸리는게 너무 불편했습니다.\n그래서 Linear 앱의 로컬 캐시를 직접 읽어 API 호출 없이 Linear를 훑어볼 수 있는 MCP를 만들었습니다. API 호",
-          "id": "https://news.hada.io/topic?id=26436",
-          "isoDate": "2026-02-05T22:06:53.000Z"
-        },
-        {
-          "title": "프랑스 스트리머, Palantir와 Peter Thiel 비판 후 Qonto에서 계좌 해지",
-          "link": "https://news.hada.io/topic?id=26435",
-          "pubDate": "2026-02-05T21:32:36.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>프랑스의 한 <strong>스트리머가 Palantir와 Peter Thiel을 비판한 뒤</strong>, 온라인 은행 <strong>Qonto로부터 계좌 해지 통보</strong>를 받음</li>\n<li>스트리머는 자신의 <strong>Twitter 쓰레드</strong>를 통해 이 사실을 공개</li>\n<li>Qonto는 해지 사유에 대해 <strong>구체적인 설명을 제공하지 않...</p>",
-          "contentSnippet": "프랑스의 한 스트리머가 Palantir와 Peter Thiel을 비판한 뒤, 온라인 은행 Qonto로부터 계좌 해지 통보를 받음\n스트리머는 자신의 Twitter 쓰레드를 통해 이 사실을 공개\nQonto는 해지 사유에 대해 구체적인 설명을 제공하지 않...",
-          "id": "https://news.hada.io/topic?id=26435",
-          "isoDate": "2026-02-05T21:32:36.000Z"
-        },
-        {
-          "title": "GPT-5.3-Codex 공개",
-          "link": "https://news.hada.io/topic?id=26434",
-          "pubDate": "2026-02-05T21:24:14.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>GPT-5.2-Codex의 코딩 성능과 GPT-5.2의 <strong>추론·전문 지식</strong>을 한 모델로 결합, <strong>25% 더 빠른 속도</strong> 제공</li>\n<li>Codex의 에이전틱 작업 범위를 <strong>장기 실행 작업</strong>까지 확장하고, 작업 중간에도 방향을 바꾸고 피드백을 반영하는 <strong>실시간 상호작용 협업</s...</p>",
-          "contentSnippet": "GPT-5.2-Codex의 코딩 성능과 GPT-5.2의 추론·전문 지식을 한 모델로 결합, 25% 더 빠른 속도 제공\nCodex의 에이전틱 작업 범위를 장기 실행 작업까지 확장하고, 작업 중간에도 방향을 바꾸고 피드백을 반영하는 실시간 상호작용 협업",
-          "id": "https://news.hada.io/topic?id=26434",
-          "isoDate": "2026-02-05T21:24:14.000Z"
-        },
-        {
-          "title": "Claude Opus 4.6 공개",
-          "link": "https://news.hada.io/topic?id=26433",
-          "pubDate": "2026-02-05T21:22:37.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>향상된 <strong>코딩 능력과 장기적 작업 지속성</strong>을 갖춘 Anthropic의 최신 AI 모델로, 1M 토큰 컨텍스트 윈도우를 베타로 지원</li>\n<li>주요 벤치마크에서 업계 최고 수준의 점수를 기록하며, GPT-5.2보다 약 144 Elo 포인트 우위</li>\n<li>\n<strong>코드 리뷰·디버깅</strong>, <strong>대규모 코드...</p>",
-          "contentSnippet": "향상된 코딩 능력과 장기적 작업 지속성을 갖춘 Anthropic의 최신 AI 모델로, 1M 토큰 컨텍스트 윈도우를 베타로 지원\n주요 벤치마크에서 업계 최고 수준의 점수를 기록하며, GPT-5.2보다 약 144 Elo 포인트 우위\n코드 리뷰·디버깅, 대규모 코드...",
-          "id": "https://news.hada.io/topic?id=26433",
-          "isoDate": "2026-02-05T21:22:37.000Z"
         }
       ]
     }
