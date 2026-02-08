@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "C로 게임을 만드는 이유 (그렇다, C로)",
+          "link": "https://news.hada.io/topic?id=26510",
+          "pubDate": "2026-02-08T17:32:55.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>개인 프로젝트의 모든 게임을 <strong>‘순수 C’로 개발</strong>하며, 이는 현재 드문 선택임</li>\n<li>언어 선택의 핵심 기준은 <strong>신뢰성, 이식성, 장기적 지속 가능성</strong>으로, 특정 OS나 플랫폼에 종속되지 않음</li>\n<li>\n<strong>단순성과 빠른 컴파일 속도</strong>, 그리고 <strong>엄격한...</p>",
+          "contentSnippet": "개인 프로젝트의 모든 게임을 ‘순수 C’로 개발하며, 이는 현재 드문 선택임\n언어 선택의 핵심 기준은 신뢰성, 이식성, 장기적 지속 가능성으로, 특정 OS나 플랫폼에 종속되지 않음\n단순성과 빠른 컴파일 속도, 그리고 엄격한...",
+          "id": "https://news.hada.io/topic?id=26510",
+          "isoDate": "2026-02-08T17:32:55.000Z"
+        },
+        {
+          "title": "리눅스 없이 작동하는 ESP32-S3용 셸·앱 설치기·Vi·C 컴파일러 데모 BreezyBox",
+          "link": "https://news.hada.io/topic?id=26509",
+          "pubDate": "2026-02-08T16:32:46.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>ESP32-S3 마이크로컨트롤러를 <strong>즉시 부팅 가능한 소형 PC</strong>로 전환해 셸, 편집기, 컴파일러, 앱 설치기를 제공하는 데모 프로젝트</li>\n<li>\n<strong>BreezyBox</strong>는 ESP-IDF용 미니 셸 컴포넌트로, UNIX 유사 명령과 vterm, VFS 기능을 포함</li>\n<li>이 데모는 <strong>Waveshare ESP32-...</p>",
+          "contentSnippet": "ESP32-S3 마이크로컨트롤러를 즉시 부팅 가능한 소형 PC로 전환해 셸, 편집기, 컴파일러, 앱 설치기를 제공하는 데모 프로젝트\nBreezyBox는 ESP-IDF용 미니 셸 컴포넌트로, UNIX 유사 명령과 vterm, VFS 기능을 포함\n이 데모는 Waveshare ESP32-...",
+          "id": "https://news.hada.io/topic?id=26509",
+          "isoDate": "2026-02-08T16:32:46.000Z"
+        },
+        {
+          "title": "미국, 대공황 이후 1월 기준 가장 빠른 고용 감소세 기록",
+          "link": "https://news.hada.io/topic?id=26508",
+          "pubDate": "2026-02-08T15:32:55.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>미국의 <strong>1월 고용 감소 속도</strong>가 대공황 이후 가장 빠른 수준으로 나타남</li>\n<li>\n<strong>일자리 상실 규모</strong>가 최근 수년 중 최고치를 기록하며 경기 둔화 우려가 제기됨</li>\n<li>\n<strong>고용시장 위축</strong>이 특정 산업군에 집중되었는지 여부는 명확히 언급되지 않음</li>\n...</p>",
+          "contentSnippet": "미국의 1월 고용 감소 속도가 대공황 이후 가장 빠른 수준으로 나타남\n일자리 상실 규모가 최근 수년 중 최고치를 기록하며 경기 둔화 우려가 제기됨\n고용시장 위축이 특정 산업군에 집중되었는지 여부는 명확히 언급되지 않음\n...",
+          "id": "https://news.hada.io/topic?id=26508",
+          "isoDate": "2026-02-08T15:32:55.000Z"
+        },
+        {
           "title": "512바이트로 만든 C 컴파일러 SectorC",
           "link": "https://news.hada.io/topic?id=26507",
           "pubDate": "2026-02-08T13:32:48.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "BMW가 자사 로고 모양의 독점 보안 나사에 대한 특허를 출원, 이는 차량 소유자가 직접 수리하지 못하도록 설계된 구조\n이 나사는 브랜드 로고를 우선시한 디자인으로, 일반 공구로는 토크를 견디지 못해 나사나 비트가 쉽게 손상됨\n특허 문서에는 “",
           "id": "https://news.hada.io/topic?id=26458",
           "isoDate": "2026-02-06T07:10:09.000Z"
-        },
-        {
-          "title": "Craft Agents, CLI 없이 Claude Code를 쓰는 오픈소스 에이전트 UI",
-          "link": "https://news.hada.io/topic?id=26457",
-          "pubDate": "2026-02-06T07:02:11.000Z",
-          "author": "davespark",
-          "content": "<p>Claude Code의 터미널 불편함을 해결한 오픈소스 GUI 데스크톱 앱<br />\n개발자: Craft CTO 발린트 오로스 (Valint Orosz) → Apache 2.0 라이선스 공개</p>\n<ul>\n<li>\n<p><strong>문제점 (기존 Claude Code)</strong></p>\n<ul>\n<li>플랜 검토 어려움</li>\n<li>변경 이유 파악 힘듦</li>\n<li>멀티태스킹 제한</li>\n<l",
-          "contentSnippet": "Claude Code의 터미널 불편함을 해결한 오픈소스 GUI 데스크톱 앱\n문제점 (기존 Claude Code)\n플랜 검토 어려움\n변경 이유 파악 힘듦\n멀티태스킹 제한\n<l",
-          "id": "https://news.hada.io/topic?id=26457",
-          "isoDate": "2026-02-06T07:02:11.000Z"
-        },
-        {
-          "title": "Show GN: 학원, 유치원 등의 시설 관리 웹서비스",
-          "link": "https://news.hada.io/topic?id=26456",
-          "pubDate": "2026-02-06T06:36:38.000Z",
-          "author": "likelove98",
-          "content": "<p>이번엔 학교, 학원, 유치원, 어린이집, 반려동물 시설, 문화센터, 스포츠센터 등등의 시설 관리 서비스입니다.</p>\n<p>저희 아들이 초딩 5학년인데, 만날 아들도 그렇고 저희 부부도 그렇고 학원 셔틀 언제오나 기다리기 힘들더라구요.</p>\n<p>그리고 태권도 학원에 데리러 갔는데, 출석을 키오스크로 하길래 여쭤보니",
-          "contentSnippet": "이번엔 학교, 학원, 유치원, 어린이집, 반려동물 시설, 문화센터, 스포츠센터 등등의 시설 관리 서비스입니다.\n저희 아들이 초딩 5학년인데, 만날 아들도 그렇고 저희 부부도 그렇고 학원 셔틀 언제오나 기다리기 힘들더라구요.\n그리고 태권도 학원에 데리러 갔는데, 출석을 키오스크로 하길래 여쭤보니",
-          "id": "https://news.hada.io/topic?id=26456",
-          "isoDate": "2026-02-06T06:36:38.000Z"
-        },
-        {
-          "title": "Show GN: 소상공인분들을 위한 완전무료 QR주문 서비스",
-          "link": "https://news.hada.io/topic?id=26455",
-          "pubDate": "2026-02-06T06:35:03.000Z",
-          "author": "likelove98",
-          "content": "<p>저희 부모님이 식당하셔서, 주로 식당에 관한 아이디어로 서비스로 만드는데요.</p>\n<p>코로나때는 수기명부를 대체한 &quot;간편 출입자 명부&quot; 를 만들어서, 전국 휴게소에서 공식 활용했었는데 이번에는 완전무료 QR주문 서비스입니다.</p>\n<p>모바일, 태블릿, PC 등 모든 기기에 완벽 대응하고 전세계 대상이",
-          "contentSnippet": "저희 부모님이 식당하셔서, 주로 식당에 관한 아이디어로 서비스로 만드는데요.\n코로나때는 수기명부를 대체한 \"간편 출입자 명부\" 를 만들어서, 전국 휴게소에서 공식 활용했었는데 이번에는 완전무료 QR주문 서비스입니다.\n모바일, 태블릿, PC 등 모든 기기에 완벽 대응하고 전세계 대상이",
-          "id": "https://news.hada.io/topic?id=26455",
-          "isoDate": "2026-02-06T06:35:03.000Z"
         }
       ]
     }
