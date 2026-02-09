@@ -7,12 +7,42 @@
       "priority": 1,
       "data": [
         {
-          "title": "AI가 쉬운 일은 더 쉽게, 어려운 일은 더 어렵게 만드는 이유",
+          "title": "조기 발병 치매 위험과 혈중 오메가-3의 역상관 관계",
+          "link": "https://news.hada.io/topic?id=26540",
+          "pubDate": "2026-02-09T14:33:22.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>40~64세 성인을 대상으로 한 대규모 코호트 분석에서 <strong>혈중 오메가-3 지방산 농도</strong>가 높을수록 <strong>조기 발병 치매(EOD)</strong> 위험이 낮은 것으로 나타남</li>\n<li>총 21만7천여 명을 평균 8.3년간 추적한 결과, <strong>오메가-3 상위 20% 집단(Q5)</strong> 은 하위 20%(Q1) 대비 <st...</p>",
+          "contentSnippet": "40~64세 성인을 대상으로 한 대규모 코호트 분석에서 혈중 오메가-3 지방산 농도가 높을수록 조기 발병 치매(EOD) 위험이 낮은 것으로 나타남\n총 21만7천여 명을 평균 8.3년간 추적한 결과, 오메가-3 상위 20% 집단(Q5) 은 하위 20%(Q1) 대비",
+          "id": "https://news.hada.io/topic?id=26540",
+          "isoDate": "2026-02-09T14:33:22.000Z"
+        },
+        {
+          "title": "Show GN: Discord Agent Bridge - Discord 메시지로 AI 코딩 에이전트를 원격 제어하고 모니터링",
+          "link": "https://news.hada.io/topic?id=26539",
+          "pubDate": "2026-02-09T13:54:50.000Z",
+          "author": "coaksen",
+          "content": "<p>OpenClaw 같은 메신저 기반 에이전트 제어 도구를 보고 영감을 받았는데, 별도 설치 없이 이미 쓰고 있는 Discord에서 장시간 돌아가는 AI 에이전트 작업을 모니터링하고<br />\n외부에서도 프로젝트를 제어할 수 있으면 좋겠다는 생각에 만들었습니다.</p>\n<ul>\n<li>tmux 세션에서 에이전트를 실행하고, 30초마다 출력",
+          "contentSnippet": "OpenClaw 같은 메신저 기반 에이전트 제어 도구를 보고 영감을 받았는데, 별도 설치 없이 이미 쓰고 있는 Discord에서 장시간 돌아가는 AI 에이전트 작업을 모니터링하고\ntmux 세션에서 에이전트를 실행하고, 30초마다 출력",
+          "id": "https://news.hada.io/topic?id=26539",
+          "isoDate": "2026-02-09T13:54:50.000Z"
+        },
+        {
+          "title": "게임 속 도로의 예술",
+          "link": "https://news.hada.io/topic?id=26534",
+          "pubDate": "2026-02-09T10:32:49.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>도시 건설 게임에서 <strong>도로 시스템의 사실적 구현</strong>은 핵심 요소로, 단순한 시각적 요소를 넘어 구조적 완성도를 결정하는 기반임</li>\n<li>기존 게임들은 <strong>Bezier 스플라인</strong>을 사용해 도로를 표현하지만, 이는 실제 도로의 <strong>곡률과 평행성 유지</strong>에 한계를 가짐</l...</p>",
+          "contentSnippet": "도시 건설 게임에서 도로 시스템의 사실적 구현은 핵심 요소로, 단순한 시각적 요소를 넘어 구조적 완성도를 결정하는 기반임\n기존 게임들은 Bezier 스플라인을 사용해 도로를 표현하지만, 이는 실제 도로의 곡률과 평행성 유지에 한계를 가짐",
+          "id": "https://news.hada.io/topic?id=26534",
+          "isoDate": "2026-02-09T10:32:49.000Z"
+        },
+        {
+          "title": "AI는 쉬운 부분을 더 쉽게, 어려운 부분을 더 어렵게 만든다",
           "link": "https://news.hada.io/topic?id=26533",
           "pubDate": "2026-02-09T08:33:02.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>AI 코딩 도구</strong>는 코드 작성 속도를 높이지만, <strong>조사·맥락 이해·검증</strong> 같은 핵심 작업은 여전히 사람의 몫으로 남음</li>\n<li>단순한 코드 생성에 의존하면 <strong>이해 없이 복사·붙여넣기</strong>하는 개발 문화가 생기며, 품질과 책임감이 약화됨</li>\n<li>\n<strong>AI가 ...</p>",
-          "contentSnippet": "AI 코딩 도구는 코드 작성 속도를 높이지만, 조사·맥락 이해·검증 같은 핵심 작업은 여전히 사람의 몫으로 남음\n단순한 코드 생성에 의존하면 이해 없이 복사·붙여넣기하는 개발 문화가 생기며, 품질과 책임감이 약화됨\nAI가 ...",
+          "content": "<ul>\n<li>AI 코딩 도구가 코드 작성이라는 <strong>쉬운 작업을 자동화</strong>하면서, 개발자에게는 조사·맥락 파악·검증이라는 어려운 작업만 남게 되는 구조적 문제 발생</li>\n<li>개발자가 AI 출력을 직접 이해하지 않고 &quot;<strong>AI가 대신 해줬다</strong>&quot;고 말하는 현상은 과거 StackOverflow 복사-붙...</p>",
+          "contentSnippet": "AI 코딩 도구가 코드 작성이라는 쉬운 작업을 자동화하면서, 개발자에게는 조사·맥락 파악·검증이라는 어려운 작업만 남게 되는 구조적 문제 발생\n개발자가 AI 출력을 직접 이해하지 않고 \"AI가 대신 해줬다\"고 말하는 현상은 과거 StackOverflow 복사-붙...",
           "id": "https://news.hada.io/topic?id=26533",
           "isoDate": "2026-02-09T08:33:02.000Z"
         },
@@ -21,8 +51,8 @@
           "link": "https://news.hada.io/topic?id=26532",
           "pubDate": "2026-02-09T07:33:15.000Z",
           "author": "neo",
-          "content": "OpenClaw가 내 삶을 바꾸고 있다",
-          "contentSnippet": "OpenClaw가 내 삶을 바꾸고 있다",
+          "content": "<ul>\n<li>\n<strong>OpenClaw</strong>는 개발자를 코드 작성자에서 <strong>관리자 역할로 전환</strong>시키는 범용 에이전트로, 메시징 앱을 통해 음성으로 상호작용하며 프로젝트 전체를 독립적으로 처리</li>\n<li>Claude Code는 코딩을 쉽게 만들었지만 여전히 개발자가 직접 환경 설정, 편집, 디버깅을 수행해야 하...</p>",
+          "contentSnippet": "OpenClaw는 개발자를 코드 작성자에서 관리자 역할로 전환시키는 범용 에이전트로, 메시징 앱을 통해 음성으로 상호작용하며 프로젝트 전체를 독립적으로 처리\nClaude Code는 코딩을 쉽게 만들었지만 여전히 개발자가 직접 환경 설정, 편집, 디버깅을 수행해야 하...",
           "id": "https://news.hada.io/topic?id=26532",
           "isoDate": "2026-02-09T07:33:15.000Z"
         },
@@ -475,36 +505,6 @@
           "contentSnippet": "1995년 영화 ‘Hackers’ 를 기반으로 한 인터랙티브 애니메이션 웹 경험으로, 사용자가 직접 조작하며 탐험할 수 있는 형태\n데스크톱에서는 W,A,S,D 키로 이동하고 Q,E로 시점을 회전하며, 스페이스바와 쉬프트키로 상하 이동...",
           "id": "https://news.hada.io/topic?id=26481",
           "isoDate": "2026-02-07T05:34:29.000Z"
-        },
-        {
-          "title": "GitHub Actions가 엔지니어링 팀을 서서히 죽이고 있다",
-          "link": "https://news.hada.io/topic?id=26480",
-          "pubDate": "2026-02-07T05:32:52.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>Repo에 기본으로 포함된 CI</strong>라는 이유로 널리 쓰이지만, <strong>구조적 비효율성과 불안정한 사용자 경험</strong>이 개발자 생산성을 저하시킴</li>\n<li>\n<strong>로그 뷰어의 느린 로딩과 브라우저 충돌</strong>, 복잡한 <strong>YAML 구문과 표현식 오류</strong>가 반복적인 디버깅을 초...</p>",
-          "contentSnippet": "Repo에 기본으로 포함된 CI라는 이유로 널리 쓰이지만, 구조적 비효율성과 불안정한 사용자 경험이 개발자 생산성을 저하시킴\n로그 뷰어의 느린 로딩과 브라우저 충돌, 복잡한 YAML 구문과 표현식 오류가 반복적인 디버깅을 초...",
-          "id": "https://news.hada.io/topic?id=26480",
-          "isoDate": "2026-02-07T05:32:52.000Z"
-        },
-        {
-          "title": "Show GN: Mailhub - 이메일 주소를 감추세요",
-          "link": "https://news.hada.io/topic?id=26479",
-          "pubDate": "2026-02-07T05:22:50.000Z",
-          "author": "kami7",
-          "content": "<p>모두들 즐거운 주말 보내고 계실까요 😄</p>\n<p>처음으로 제 프로젝트를 공개하려니 긴장되네요..ㅎㅎ</p>\n<p>개인정보 유출 사건사고를 접하다가 만들어본 서비스입니다.</p>\n<p>사실 전 Apple의 Hide My Email 서비스를 이용중인데요, Hide My Email은 iCloud 구독해야 쓸수있기도 하고, Safari나 애플 생태계에서 ",
-          "contentSnippet": "모두들 즐거운 주말 보내고 계실까요 😄\n처음으로 제 프로젝트를 공개하려니 긴장되네요..ㅎㅎ\n개인정보 유출 사건사고를 접하다가 만들어본 서비스입니다.\n사실 전 Apple의 Hide My Email 서비스를 이용중인데요, Hide My Email은 iCloud 구독해야 쓸수있기도 하고, Safari나 애플 생태계에서",
-          "id": "https://news.hada.io/topic?id=26479",
-          "isoDate": "2026-02-07T05:22:50.000Z"
-        },
-        {
-          "title": "문명 III의 오픈소스, 크로스플랫폼 재구현 프로젝트 OpenCiv3",
-          "link": "https://news.hada.io/topic?id=26478",
-          "pubDate": "2026-02-07T03:33:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>팬 커뮤니티가 <strong>Godot 엔진과 C#</strong> 으로 개발 중인 오픈소스 프로젝트로, _Civilization III_를 현대적으로 재구성한 형태</li>\n<li>기존 게임의 <strong>임의적 제한 제거</strong>, <strong>버그 수정</strong>, <strong>모드 확장성 강화</strong>, <strong>현대 그래픽 및 플랫폼 지원</stro...</p>",
-          "contentSnippet": "팬 커뮤니티가 Godot 엔진과 C# 으로 개발 중인 오픈소스 프로젝트로, _Civilization III_를 현대적으로 재구성한 형태\n기존 게임의 임의적 제한 제거, 버그 수정, 모드 확장성 강화, 현대 그래픽 및 플랫폼 지원",
-          "id": "https://news.hada.io/topic?id=26478",
-          "isoDate": "2026-02-07T03:33:01.000Z"
         }
       ]
     }
