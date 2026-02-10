@@ -7,6 +7,26 @@
       "priority": 1,
       "data": [
         {
+          "title": "PicoClaw: 오픈클로의 나노봇용 소프트웨어 (10MB 미만 메모리 구동)",
+          "link": "https://news.hada.io/topic?id=26563",
+          "pubDate": "2026-02-10T07:34:35.000Z",
+          "author": "princox",
+          "content": "<p>PicoClaw는 나노봇에서 영감을 받은 초경량 개인 AI 어시스턴트로, 자체 부트스트랩 과정을 통해 Go 언어로 완전히 재구성되었습니다. 이 과정에서 AI 에이전트 자체가 전체 아키텍처 마이그레이션과 코드 최적화를 주도했습니다.</p>\n<p>10달러짜리 하드웨어와 10MB 미만의 RAM으로 구동됩니다: OpenClaw보다 메모리",
+          "contentSnippet": "PicoClaw는 나노봇에서 영감을 받은 초경량 개인 AI 어시스턴트로, 자체 부트스트랩 과정을 통해 Go 언어로 완전히 재구성되었습니다. 이 과정에서 AI 에이전트 자체가 전체 아키텍처 마이그레이션과 코드 최적화를 주도했습니다.\n10달러짜리 하드웨어와 10MB 미만의 RAM으로 구동됩니다: OpenClaw보다 메모리",
+          "id": "https://news.hada.io/topic?id=26563",
+          "isoDate": "2026-02-10T07:34:35.000Z"
+        },
+        {
+          "title": "GitHub에서 Issues, Actions 및 Git 작업 관련 장애 발생",
+          "link": "https://news.hada.io/topic?id=26562",
+          "pubDate": "2026-02-10T07:33:16.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>GitHub의 <strong>Actions, Issues, Git 작업</strong> 등 주요 서비스에서 <strong>성능 저하 및 오류</strong>가 보고됨</li>\n<li>영향 범위는 <strong>Webhooks, Pull Requests, Packages, Pages, Codespaces</strong> 등으로 확산됨</li>\n<li>GitHub은 <strong>완화 조치(mitigation)</strong> 를 적용해 점...</p>",
+          "contentSnippet": "GitHub의 Actions, Issues, Git 작업 등 주요 서비스에서 성능 저하 및 오류가 보고됨\n영향 범위는 Webhooks, Pull Requests, Packages, Pages, Codespaces 등으로 확산됨\nGitHub은 완화 조치(mitigation) 를 적용해 점...",
+          "id": "https://news.hada.io/topic?id=26562",
+          "isoDate": "2026-02-10T07:33:16.000Z"
+        },
+        {
           "title": "ccusage - Claude Code/Codex 사용량 분석용 CLI 도구",
           "link": "https://news.hada.io/topic?id=26561",
           "pubDate": "2026-02-10T04:03:35.000Z",
@@ -485,26 +505,6 @@
           "contentSnippet": "21가지 보컬 테크닉을 다섯 범주로 정리한 온라인 학습용 참고서로, 초보자부터 숙련자까지 활용 가능한 구조\nWarm-Up, Anatomy, Vocal Myths, CVT Reference 등 세부 섹션을 통해 발성 원리, 잘못된 조언, 과...",
           "id": "https://news.hada.io/topic?id=26504",
           "isoDate": "2026-02-08T07:33:04.000Z"
-        },
-        {
-          "title": "AI가 실패할 때, 체계적 오류보다 갈팡질팡이 더 위험할 수 있다 (Anthropic Alignment Research)",
-          "link": "https://news.hada.io/topic?id=26503",
-          "pubDate": "2026-02-08T04:53:02.000Z",
-          "author": "davespark",
-          "content": "<p>(2026년 2월 기준 최신 추론 모델들의 실제 실패 패턴을 분석한 매우 중요한 인사이트)</p>\n<p><strong>핵심 주장</strong></p>\n<ul>\n<li>기존 AI 안전성 연구: 체계적 misalignment (잘못된 목표를 일관되게 추구) 중심</li>\n<li>실제 최신 모델 실패 패턴: <strong>비일관성·갈팡질팡 (variance / incoherence)</st",
-          "contentSnippet": "(2026년 2월 기준 최신 추론 모델들의 실제 실패 패턴을 분석한 매우 중요한 인사이트)\n핵심 주장\n기존 AI 안전성 연구: 체계적 misalignment (잘못된 목표를 일관되게 추구) 중심\n실제 최신 모델 실패 패턴: 비일관성·갈팡질팡 (variance / incoherence)</st",
-          "id": "https://news.hada.io/topic?id=26503",
-          "isoDate": "2026-02-08T04:53:02.000Z"
-        },
-        {
-          "title": "코딩 에이전트가 내가 사용하던 모든 프레임워크를 대체했다",
-          "link": "https://news.hada.io/topic?id=26502",
-          "pubDate": "2026-02-08T04:33:19.000Z",
-          "author": "neo",
-          "content": "<blockquote>\n<p>&quot;소프트웨어 엔지니어링이 돌아왔다&quot;</p>\n</blockquote>\n<ul>\n<li>프론티어 AI 모델과 코딩 에이전트의 발전으로 <strong>자동화 프로그래밍</strong> 시대가 열리면서, 코드를 한 줄씩 직접 타이핑하는 수작업이 사라지고 소프트웨어 엔지니어가 다시 본질적인 설계와 사고에 집중할 수 있게",
-          "contentSnippet": "\"소프트웨어 엔지니어링이 돌아왔다\"\n프론티어 AI 모델과 코딩 에이전트의 발전으로 자동화 프로그래밍 시대가 열리면서, 코드를 한 줄씩 직접 타이핑하는 수작업이 사라지고 소프트웨어 엔지니어가 다시 본질적인 설계와 사고에 집중할 수 있게",
-          "id": "https://news.hada.io/topic?id=26502",
-          "isoDate": "2026-02-08T04:33:19.000Z"
         }
       ]
     }
