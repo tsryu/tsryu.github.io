@@ -7,6 +7,16 @@
       "priority": 1,
       "data": [
         {
+          "title": "Claude Cowork가 이제 Windows 지원 시작",
+          "link": "https://news.hada.io/topic?id=26601",
+          "pubDate": "2026-02-11T04:02:21.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>macOS와 똑같이 파일 접근, 다단계 태스트 실행, 플러그인, MCP 커넥터 지원</li>\n<li>Claude 윈도우용을 업데이트 후 상단 탭에서 Cowork 선택하여 실행</li>\n<li>이제 클로드에게 글로벌 폴더 명령을 지정해 매 세션마다 자동 적용됨</li>\n<li>현재는 리서치 프리뷰 버전. 모든 유료 플랜에서 사용 가능</li>...</p>",
+          "contentSnippet": "macOS와 똑같이 파일 접근, 다단계 태스트 실행, 플러그인, MCP 커넥터 지원\nClaude 윈도우용을 업데이트 후 상단 탭에서 Cowork 선택하여 실행\n이제 클로드에게 글로벌 폴더 명령을 지정해 매 세션마다 자동 적용됨\n현재는 리서치 프리뷰 버전. 모든 유료 플랜에서 사용 가능\n...",
+          "id": "https://news.hada.io/topic?id=26601",
+          "isoDate": "2026-02-11T04:02:21.000Z"
+        },
+        {
           "title": "AI가 일을 줄여준다는 약속, 실제로는 번아웃만 키웠다 (UC Berkeley 연구)",
           "link": "https://news.hada.io/topic?id=26599",
           "pubDate": "2026-02-11T03:07:31.000Z",
@@ -495,16 +505,6 @@
           "contentSnippet": "이직 준비를 하거나 일일/주간 보고를 쓸 때마다 \"내가 정확히 어떤 기술적 고민을 했지?\"라며 커밋 로그를 뒤적거리는 게 번거로워 직접 만든 CLI 도구 Claw-Log를 소개합니다.\n단순히 fix: bug 같은 파편화된 커밋 메시지를 모으는 수준을 넘어, AI(Gemini/OpenAI)가 git diff/log를 직접 분석하여",
           "id": "https://news.hada.io/topic?id=26547",
           "isoDate": "2026-02-09T21:54:37.000Z"
-        },
-        {
-          "title": "올림픽에서 JD 밴스가 야유를 받는 장면을 전 세계가 들었지만, 미국 시청자만은 듣지 못했다",
-          "link": "https://news.hada.io/topic?id=26546",
-          "pubDate": "2026-02-09T20:40:35.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>밀라노에서 열린 <strong>2026 동계올림픽 개막식</strong> 중 미국 부통령 JD 밴스가 등장하자 관중석에서 <strong>뚜렷한 야유</strong>가 나왔으나, <strong>미국 NBC 중계에서는 이 소리가 들리지 않음</strong>\n</li>\n<li>\n<strong>캐나다 CBC와 BBC 등 해외 방송</strong>에서는 야유가 그대로 송출되어,...</p>",
-          "contentSnippet": "밀라노에서 열린 2026 동계올림픽 개막식 중 미국 부통령 JD 밴스가 등장하자 관중석에서 뚜렷한 야유가 나왔으나, 미국 NBC 중계에서는 이 소리가 들리지 않음\n\n\n캐나다 CBC와 BBC 등 해외 방송에서는 야유가 그대로 송출되어,...",
-          "id": "https://news.hada.io/topic?id=26546",
-          "isoDate": "2026-02-09T20:40:35.000Z"
         }
       ]
     }
