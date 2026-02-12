@@ -7,6 +7,56 @@
       "priority": 1,
       "data": [
         {
+          "title": "GLM-5: 바이브 코딩에서 에이전트 엔지니어링으로",
+          "link": "https://news.hada.io/topic?id=26631",
+          "pubDate": "2026-02-12T15:32:26.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>GLM-5</strong>는 복잡한 시스템 엔지니어링과 장기적 에이전트 작업을 목표로 한 대규모 언어 모델로, <strong>지능 효율성 향상</strong>을 위한 확장 중심 설계임</li>\n<li>전작 GLM-4.5 대비 <strong>파라미터 수를 355B→744B</strong>, <strong>활성 파라미터를 32B→40B</strong>, <strong>사전...</p>",
+          "contentSnippet": "GLM-5는 복잡한 시스템 엔지니어링과 장기적 에이전트 작업을 목표로 한 대규모 언어 모델로, 지능 효율성 향상을 위한 확장 중심 설계임\n전작 GLM-4.5 대비 파라미터 수를 355B→744B, 활성 파라미터를 32B→40B, 사전...",
+          "id": "https://news.hada.io/topic?id=26631",
+          "isoDate": "2026-02-12T15:32:26.000Z"
+        },
+        {
+          "title": "아일랜드, 예술가 대상 기본소득 제도 시행",
+          "link": "https://news.hada.io/topic?id=26630",
+          "pubDate": "2026-02-12T14:33:27.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>아일랜드 정부가 <strong>예술가와 창작자에게 기본소득을 지급하는 제도</strong>를 도입</li>\n<li>이 제도는 예술 활동의 <strong>경제적 불안정성을 완화</strong>하고 지속적인 창작을 지원하기 위한 목적</li>\n<li>참여 예술가는 일정 기간 동안 <strong>정기적 금전 지원</strong>을 받게 됨</li>\n<li>정...</p>",
+          "contentSnippet": "아일랜드 정부가 예술가와 창작자에게 기본소득을 지급하는 제도를 도입\n이 제도는 예술 활동의 경제적 불안정성을 완화하고 지속적인 창작을 지원하기 위한 목적\n참여 예술가는 일정 기간 동안 정기적 금전 지원을 받게 됨\n정...",
+          "id": "https://news.hada.io/topic?id=26630",
+          "isoDate": "2026-02-12T14:33:27.000Z"
+        },
+        {
+          "title": "왜 뱀파이어는 영원히 사는가",
+          "link": "https://news.hada.io/topic?id=26629",
+          "pubDate": "2026-02-12T13:33:22.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>현대 장수 연구의 혈액 교환 집착</strong>을 뱀파이어 신화와 연결하며, 과학적 실험과 문화적 사례를 병치함</li>\n<li>1864년 <strong>파라비오시스(parabiosis)</strong> 실험부터 2000년대 스탠퍼드 연구까지, 젊은 피가 노화를 되돌린다는 결과가 반복적으로 보고됨</li>\n<li>\n<strong>Peter Thi...</p>",
+          "contentSnippet": "현대 장수 연구의 혈액 교환 집착을 뱀파이어 신화와 연결하며, 과학적 실험과 문화적 사례를 병치함\n1864년 파라비오시스(parabiosis) 실험부터 2000년대 스탠퍼드 연구까지, 젊은 피가 노화를 되돌린다는 결과가 반복적으로 보고됨\nPeter Thi...",
+          "id": "https://news.hada.io/topic?id=26629",
+          "isoDate": "2026-02-12T13:33:22.000Z"
+        },
+        {
+          "title": "Show GN: Chunk Translator: 긴 글도 잘게 쪼개 LLM에게 번역맡기기",
+          "link": "https://news.hada.io/topic?id=26628",
+          "pubDate": "2026-02-12T10:36:40.000Z",
+          "author": "winterjung",
+          "content": "<p>길게 작성한 블로그 글을 문장 누락없이 번역하고 싶어 글을 문단별로 나눠 번역한 후, 다시 합칠 수 있는 작은 html 도구를 만들어봤습니다.</p>\n<ul>\n<li>chatgpt같은 llm에게 통째로 번역을 요청하다보면 한 문장씩 빼먹거나 마음대로 요약해버리거나 하는 등 한번에 잘 못하더라구요.</li>\n<li>프롬프트를 더 깎아",
+          "contentSnippet": "길게 작성한 블로그 글을 문장 누락없이 번역하고 싶어 글을 문단별로 나눠 번역한 후, 다시 합칠 수 있는 작은 html 도구를 만들어봤습니다.\nchatgpt같은 llm에게 통째로 번역을 요청하다보면 한 문장씩 빼먹거나 마음대로 요약해버리거나 하는 등 한번에 잘 못하더라구요.\n프롬프트를 더 깎아",
+          "id": "https://news.hada.io/topic?id=26628",
+          "isoDate": "2026-02-12T10:36:40.000Z"
+        },
+        {
+          "title": "Vertex AI Context Caching + Priority PayGo 레이턴시 벤치마크 (400회, Gemini 3 Flash)",
+          "link": "https://news.hada.io/topic?id=26627",
+          "pubDate": "2026-02-12T08:23:25.000Z",
+          "author": "calmlake79",
+          "content": "<p>AI 챗봇 서비스에서 사용하는 ~7,500토큰 시스템 프롬프트(입력)와 ~100토큰 응답(출력) 기준으로, Vertex AI의 Context Caching과 이번에 새로 나온 신규 Priority PayGo의 레이턴시 개선 효과를 벤치마크</p>\n<ul>\n<li>4가지 시나리오 (Standard/Priority × 캐싱/비캐싱), 각 100회, 총 400회 요청</li>\n<li>모델: ",
+          "contentSnippet": "AI 챗봇 서비스에서 사용하는 ~7,500토큰 시스템 프롬프트(입력)와 ~100토큰 응답(출력) 기준으로, Vertex AI의 Context Caching과 이번에 새로 나온 신규 Priority PayGo의 레이턴시 개선 효과를 벤치마크\n4가지 시나리오 (Standard/Priority × 캐싱/비캐싱), 각 100회, 총 400회 요청\n모델:",
+          "id": "https://news.hada.io/topic?id=26627",
+          "isoDate": "2026-02-12T08:23:25.000Z"
+        },
+        {
           "title": "WordPress가 Claude와 연결됐다, 공식 연동으로 가능해진 것들",
           "link": "https://news.hada.io/topic?id=26626",
           "pubDate": "2026-02-12T07:24:21.000Z",
@@ -455,56 +505,6 @@
           "contentSnippet": "미국 통신사 AT&T와 Verizon이 Salt Typhoon 관련 보안 평가 보고서 공개를 막고 있음\n\n\n미 상원의원이 두 회사가 정부의 사이버 보안 조사 결과 공개를 방해하고 있다고 지적\n해당 보고서는",
           "id": "https://news.hada.io/topic?id=26577",
           "isoDate": "2026-02-10T18:32:56.000Z"
-        },
-        {
-          "title": "Ask HN: 어떤 작업을 진행중인가요? 2026년 2월",
-          "link": "https://news.hada.io/topic?id=26576",
-          "pubDate": "2026-02-10T17:33:06.000Z",
-          "author": "neo",
-          "content": "<p>내용 없음</p>\n",
-          "contentSnippet": "내용 없음",
-          "id": "https://news.hada.io/topic?id=26576",
-          "isoDate": "2026-02-10T17:33:06.000Z"
-        },
-        {
-          "title": "Show GN: 선물 기반 시황 동향 분석",
-          "link": "https://news.hada.io/topic?id=26575",
-          "pubDate": "2026-02-10T17:07:29.000Z",
-          "author": "minsuchae",
-          "content": "<h2>전 세계 시장 흐름을 “선물”로 한 번에 요약해주는 시황 도구를 만들었습니다</h2>\n<p>최근 주식에 대한 관심이 확 늘었습니다. 특히 “코스피 5000” 같은 기대감이 커지면서, 기존에 투자 경험이 없던 분들도 주식에 입문하는 분위기입니다.</p>\n<p>그런데 막상 주식을 해보면 <strong>국장/미장만 따로 보면 해",
-          "contentSnippet": "전 세계 시장 흐름을 “선물”로 한 번에 요약해주는 시황 도구를 만들었습니다\n최근 주식에 대한 관심이 확 늘었습니다. 특히 “코스피 5000” 같은 기대감이 커지면서, 기존에 투자 경험이 없던 분들도 주식에 입문하는 분위기입니다.\n그런데 막상 주식을 해보면 국장/미장만 따로 보면 해",
-          "id": "https://news.hada.io/topic?id=26575",
-          "isoDate": "2026-02-10T17:07:29.000Z"
-        },
-        {
-          "title": "소프트웨어는 죽지 않는다",
-          "link": "https://news.hada.io/topic?id=26574",
-          "pubDate": "2026-02-10T15:01:21.000Z",
-          "author": "davespark",
-          "content": "<p>Death of Software. Nah. | 스티븐 시노프스키 (Steven Sinofsky) a16z 게스트 포스트</p>\n<p><strong>핵심 주장</strong>: AI가 소프트웨어를 죽이는 것이 아니라, <strong>더 많은 소프트웨어</strong>가 필요하게 만든다. (AI는 무엇을/누가 만드는지를 바꾸지만, 만들어져야 할 양은 폭발적으로 증가)</p>\n<h4>과",
-          "contentSnippet": "Death of Software. Nah. | 스티븐 시노프스키 (Steven Sinofsky) a16z 게스트 포스트\n핵심 주장: AI가 소프트웨어를 죽이는 것이 아니라, 더 많은 소프트웨어가 필요하게 만든다. (AI는 무엇을/누가 만드는지를 바꾸지만, 만들어져야 할 양은 폭발적으로 증가)\n과",
-          "id": "https://news.hada.io/topic?id=26574",
-          "isoDate": "2026-02-10T15:01:21.000Z"
-        },
-        {
-          "title": "어떻게 코드를 보지 않고도 뛰어난 소프트웨어를 개발하는가?",
-          "link": "https://news.hada.io/topic?id=26573",
-          "pubDate": "2026-02-10T14:53:46.000Z",
-          "author": "laeyoung",
-          "content": "<p>Simon Willison의 StrongDM AI팀에 대한 후기글</p>\n<p>StrongDM의 소프트웨어 팩토리와 에이전트 중심의 접근 방식</p>\n<ol>\n<li>사양과 시나리오를 기반으로 에이전트가 코드를 작성하고, 하네스를 실행하고, 사람의 검토 없이 결과를 통합하는 비대화형 소프트웨어 구축</li>\n<li>이를 규칙 형식으로 표현하면, 코",
-          "contentSnippet": "Simon Willison의 StrongDM AI팀에 대한 후기글\nStrongDM의 소프트웨어 팩토리와 에이전트 중심의 접근 방식\n사양과 시나리오를 기반으로 에이전트가 코드를 작성하고, 하네스를 실행하고, 사람의 검토 없이 결과를 통합하는 비대화형 소프트웨어 구축\n이를 규칙 형식으로 표현하면, 코",
-          "id": "https://news.hada.io/topic?id=26573",
-          "isoDate": "2026-02-10T14:53:46.000Z"
-        },
-        {
-          "title": "도로 구간 사고 위험의 지표로서 급제동 이벤트",
-          "link": "https://news.hada.io/topic?id=26572",
-          "pubDate": "2026-02-10T14:33:38.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>급제동 이벤트(HBE)</strong> 가 실제 도로 구간의 <strong>사고 발생률과 통계적으로 유의한 양의 상관관계</strong>를 보이는 것으로 확인됨</li>\n<li>기존의 <strong>경찰 보고 사고 통계</strong>는 데이터가 희소하고 지연된 지표이지만, HBE는 <strong>연속적이고 고밀도의 데이터</strong>를 제...</p>",
-          "contentSnippet": "급제동 이벤트(HBE) 가 실제 도로 구간의 사고 발생률과 통계적으로 유의한 양의 상관관계를 보이는 것으로 확인됨\n기존의 경찰 보고 사고 통계는 데이터가 희소하고 지연된 지표이지만, HBE는 연속적이고 고밀도의 데이터를 제...",
-          "id": "https://news.hada.io/topic?id=26572",
-          "isoDate": "2026-02-10T14:33:38.000Z"
         }
       ]
     }
