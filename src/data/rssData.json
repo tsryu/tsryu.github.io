@@ -7,6 +7,66 @@
       "priority": 1,
       "data": [
         {
+          "title": "WordPress가 Claude와 연결됐다, 공식 연동으로 가능해진 것들",
+          "link": "https://news.hada.io/topic?id=26626",
+          "pubDate": "2026-02-12T07:24:21.000Z",
+          "author": "davespark",
+          "content": "<p>• WordPress.com이 Anthropic의 Claude와 <strong>공식 커넥터</strong>로 연동됨<br />\n• Claude가 WordPress.com 사이트의 <strong>실제 데이터</strong>를 자연어로 직접 조회·분석 가능</p>\n<p><strong>연동 특징</strong><br />\n• Anthropic 공식 커넥터 디렉토리 최초 WordPress 호스팅 서비스 등재<br />\n•",
+          "contentSnippet": "• WordPress.com이 Anthropic의 Claude와 공식 커넥터로 연동됨\n실제 데이터를 자연어로 직접 조회·분석 가능\n연동 특징\n• Anthropic 공식 커넥터 디렉토리 최초 WordPress 호스팅 서비스 등재\n•",
+          "id": "https://news.hada.io/topic?id=26626",
+          "isoDate": "2026-02-12T07:24:21.000Z"
+        },
+        {
+          "title": "거대한 무언가가 일어나고 있어요",
+          "link": "https://news.hada.io/topic?id=26625",
+          "pubDate": "2026-02-12T06:30:13.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>2025년 이후 AI 모델의 발전 속도가 급격히 가속되며, <strong>기술 업계 내부에서는 이미 직무 구조 변화가 현실화된 상황</strong>\n</li>\n<li>GPT-5.3 Codex와 Opus 4.6 공개 이후, 개발 업무가 설명만으로 완성되는 수준에 도달하며 <strong>판단력과 감각까지 보이는 모델 등장</strong>\n</li>\n<li>AI가 스...</p>",
+          "contentSnippet": "2025년 이후 AI 모델의 발전 속도가 급격히 가속되며, 기술 업계 내부에서는 이미 직무 구조 변화가 현실화된 상황\n\nGPT-5.3 Codex와 Opus 4.6 공개 이후, 개발 업무가 설명만으로 완성되는 수준에 도달하며 판단력과 감각까지 보이는 모델 등장\n\nAI가 스...",
+          "id": "https://news.hada.io/topic?id=26625",
+          "isoDate": "2026-02-12T06:30:13.000Z"
+        },
+        {
+          "title": "Show GN: AutoRAG-Research - 최신 RAG 논문 파이프라인 구현체 모음 및 비교 실험 도구",
+          "link": "https://news.hada.io/topic?id=26624",
+          "pubDate": "2026-02-12T06:06:29.000Z",
+          "author": "vkehfdl1",
+          "content": "<ul>\n<li>AI Agent 시대에도 RAG는 여전히 유효하며, 외부 지식과 문서가 필요한 경우 필수적으로 시스템에 포함되어야 하는 핵심 구성 요소임</li>\n<li>Agent와 RAG를 결합한 Agentic RAG, 지식그래프를 사용하는 Graph RAG, 이미지 기반의 임베딩 모델을 활용하는 Multi-modal RAG 등의 분야 내에서 수없이 많은 최신 ...</p>",
+          "contentSnippet": "AI Agent 시대에도 RAG는 여전히 유효하며, 외부 지식과 문서가 필요한 경우 필수적으로 시스템에 포함되어야 하는 핵심 구성 요소임\nAgent와 RAG를 결합한 Agentic RAG, 지식그래프를 사용하는 Graph RAG, 이미지 기반의 임베딩 모델을 활용하는 Multi-modal RAG 등의 분야 내에서 수없이 많은 최신 ...",
+          "id": "https://news.hada.io/topic?id=26624",
+          "isoDate": "2026-02-12T06:06:29.000Z"
+        },
+        {
+          "title": "Show GN: 웹 기반 병합 충돌 편집기",
+          "link": "https://news.hada.io/topic?id=26623",
+          "pubDate": "2026-02-12T04:41:09.000Z",
+          "author": "csomar",
+          "content": "Show GN: 웹 기반 병합 충돌 편집기",
+          "contentSnippet": "Show GN: 웹 기반 병합 충돌 편집기",
+          "id": "https://news.hada.io/topic?id=26623",
+          "isoDate": "2026-02-12T04:41:09.000Z"
+        },
+        {
+          "title": "Flutter와 완전 통합된 콘솔급 게임 엔진 Fluorite",
+          "link": "https://news.hada.io/topic?id=26622",
+          "pubDate": "2026-02-12T04:37:06.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Fluorite</strong>는 Flutter와 완전 통합된 최초의 <strong>콘솔급 게임 엔진</strong>으로, Dart로 직접 게임 코드를 작성할 수 있음</li>\n<li>\n<strong>ECS(Entity-Component-System)</strong> 기반의 데이터 지향 구조를 사용하며, 핵심은 C++로 구현되어 <strong>임베디드 하드웨어에서도 높은 성...</p>",
+          "contentSnippet": "Fluorite는 Flutter와 완전 통합된 최초의 콘솔급 게임 엔진으로, Dart로 직접 게임 코드를 작성할 수 있음\nECS(Entity-Component-System) 기반의 데이터 지향 구조를 사용하며, 핵심은 C++로 구현되어 임베디드 하드웨어에서도 높은 성...",
+          "id": "https://news.hada.io/topic?id=26622",
+          "isoDate": "2026-02-12T04:37:06.000Z"
+        },
+        {
+          "title": "Discord/Twitch/Snapchat 연령 인증 우회",
+          "link": "https://news.hada.io/topic?id=26621",
+          "pubDate": "2026-02-12T04:34:06.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>여러 플랫폼의 <strong>연령 인증 절차를 자동으로 성인으로 통과시키는 스크립트</strong>가 공개됨</li>\n<li>\n<strong>Discord 콘솔에 코드를 붙여넣어 실행</strong>하면, 자동으로 <code>/age-verification/verify</code> API 요청을 보내고 인증 완료 페이지로 이동함</li>\n<li>\n<strong>Twitch, Kick, Sn...</p>",
+          "contentSnippet": "여러 플랫폼의 연령 인증 절차를 자동으로 성인으로 통과시키는 스크립트가 공개됨\nDiscord 콘솔에 코드를 붙여넣어 실행하면, 자동으로 /age-verification/verify API 요청을 보내고 인증 완료 페이지로 이동함\nTwitch, Kick, Sn...",
+          "id": "https://news.hada.io/topic?id=26621",
+          "isoDate": "2026-02-12T04:34:06.000Z"
+        },
+        {
           "title": "ZERO-Click 쇼핑의 시대 준비되셨나요?",
           "link": "https://news.hada.io/topic?id=26620",
           "pubDate": "2026-02-12T03:42:45.000Z",
@@ -445,66 +505,6 @@
           "contentSnippet": "급제동 이벤트(HBE) 가 실제 도로 구간의 사고 발생률과 통계적으로 유의한 양의 상관관계를 보이는 것으로 확인됨\n기존의 경찰 보고 사고 통계는 데이터가 희소하고 지연된 지표이지만, HBE는 연속적이고 고밀도의 데이터를 제...",
           "id": "https://news.hada.io/topic?id=26572",
           "isoDate": "2026-02-10T14:33:38.000Z"
-        },
-        {
-          "title": "Show GN: idt: 다양한 id 포맷을 다루는 cli 도구",
-          "link": "https://news.hada.io/topic?id=26571",
-          "pubDate": "2026-02-10T13:43:29.000Z",
-          "author": "t7vonn",
-          "content": "<p>개발을 하다 보면 UUID, ULID, Snowflake 등 다양한 ID 포맷을 사용하는 경우가 많은데요, 이때 매번 온라인 변환기를 찾거나 변환 등을 위한 스크립트를 짜는 게 번거로워, 터미널에서 바로 쓸 수 있는 CLI 도구를 만들었습니다.</p>\n<h2>주요 기능</h2>\n<ul>\n<li>생성: UUID(v1/v4/v6/v7), ULID, NanoID, Snowflake",
-          "contentSnippet": "개발을 하다 보면 UUID, ULID, Snowflake 등 다양한 ID 포맷을 사용하는 경우가 많은데요, 이때 매번 온라인 변환기를 찾거나 변환 등을 위한 스크립트를 짜는 게 번거로워, 터미널에서 바로 쓸 수 있는 CLI 도구를 만들었습니다.\n주요 기능\n생성: UUID(v1/v4/v6/v7), ULID, NanoID, Snowflake",
-          "id": "https://news.hada.io/topic?id=26571",
-          "isoDate": "2026-02-10T13:43:29.000Z"
-        },
-        {
-          "title": "Sandboxels - 픽셀로 실험하세요",
-          "link": "https://news.hada.io/topic?id=26570",
-          "pubDate": "2026-02-10T13:33:14.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>픽셀 단위로 <strong>물리적 상호작용을 시뮬레이션</strong>할 수 있는 웹 기반 샌드박스 환경</li>\n<li>\n<strong>모래, 물, 불, 금속, 생명체 등 다양한 요소</strong>를 선택해 섞거나 반응시켜 실험 가능</li>\n<li>HTML5 <strong>캔버스 기반 인터페이스</strong>로, 브라우저에서 직접 조작하며 결과를 시...</p>",
-          "contentSnippet": "픽셀 단위로 물리적 상호작용을 시뮬레이션할 수 있는 웹 기반 샌드박스 환경\n모래, 물, 불, 금속, 생명체 등 다양한 요소를 선택해 섞거나 반응시켜 실험 가능\nHTML5 캔버스 기반 인터페이스로, 브라우저에서 직접 조작하며 결과를 시...",
-          "id": "https://news.hada.io/topic?id=26570",
-          "isoDate": "2026-02-10T13:33:14.000Z"
-        },
-        {
-          "title": "디스코드 대체 서비스 순위",
-          "link": "https://news.hada.io/topic?id=26569",
-          "pubDate": "2026-02-10T12:33:18.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>온라인 커뮤니티 운영자가 <strong>디스코드의 폐쇄성·데이터 정책·비용 구조</strong>에 대한 우려로 대체 플랫폼을 비교 평가함</li>\n<li>평가 기준은 <strong>기능성, 개방성, 보안성, 안전성, 탈중앙화</strong>의 다섯 항목이며, 각 항목은 1~5점으로 채점됨</li>\n<li>\n<strong>Rocket.Chat</strong>과 <s...</p>",
-          "contentSnippet": "온라인 커뮤니티 운영자가 디스코드의 폐쇄성·데이터 정책·비용 구조에 대한 우려로 대체 플랫폼을 비교 평가함\n평가 기준은 기능성, 개방성, 보안성, 안전성, 탈중앙화의 다섯 항목이며, 각 항목은 1~5점으로 채점됨\nRocket.Chat과",
-          "id": "https://news.hada.io/topic?id=26569",
-          "isoDate": "2026-02-10T12:33:18.000Z"
-        },
-        {
-          "title": "아무도 전체 시스템이 어떻게 작동하는지 모른다",
-          "link": "https://news.hada.io/topic?id=26567",
-          "pubDate": "2026-02-10T09:33:15.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>현대 기술 시스템은 <strong>너무 복잡해 한 개인이 전체를 이해할 수 없는 구조</strong>로 발전했음</li>\n<li>\n<strong>소프트웨어 개발과 AI 활용</strong>이 늘어나면서, 개발자들이 내부 메커니즘을 이해하지 못한 채 구축하는 사례가 증가함</li>\n<li>\n<strong>Simon Wardley</strong>는 이해 없이 시스템...</p>",
-          "contentSnippet": "현대 기술 시스템은 너무 복잡해 한 개인이 전체를 이해할 수 없는 구조로 발전했음\n소프트웨어 개발과 AI 활용이 늘어나면서, 개발자들이 내부 메커니즘을 이해하지 못한 채 구축하는 사례가 증가함\nSimon Wardley는 이해 없이 시스템...",
-          "id": "https://news.hada.io/topic?id=26567",
-          "isoDate": "2026-02-10T09:33:15.000Z"
-        },
-        {
-          "title": "프로덕션 자연어 API 도입 시 안정성 확보를 위한 필수 가이드 (Microsoft Developer Community)",
-          "link": "https://news.hada.io/topic?id=26564",
-          "pubDate": "2026-02-10T09:11:00.000Z",
-          "author": "davespark",
-          "content": "<p><strong>핵심 원칙</strong></p>\n<ul>\n<li>자연어 API 프로덕션 구축 시 <strong>semantic parsing</strong>과 <strong>execution</strong> 분리 필수</li>\n<li>LLM은 자연어 → 구조화된 요청(canoical structured requests) 변환에만 사용</li>\n<li>자연어를 입력으로만 취급, API 계약으로 삼지 말아야 함 (언어는",
-          "contentSnippet": "핵심 원칙\n자연어 API 프로덕션 구축 시 semantic parsing과 execution 분리 필수\nLLM은 자연어 → 구조화된 요청(canoical structured requests) 변환에만 사용\n자연어를 입력으로만 취급, API 계약으로 삼지 말아야 함 (언어는",
-          "id": "https://news.hada.io/topic?id=26564",
-          "isoDate": "2026-02-10T09:11:00.000Z"
-        },
-        {
-          "title": "PicoClaw: 오픈클로의 나노봇용 소프트웨어 (10MB 미만 메모리 구동)",
-          "link": "https://news.hada.io/topic?id=26563",
-          "pubDate": "2026-02-10T07:34:35.000Z",
-          "author": "princox",
-          "content": "<p>PicoClaw는 나노봇에서 영감을 받은 초경량 개인 AI 어시스턴트로, 자체 부트스트랩 과정을 통해 Go 언어로 완전히 재구성되었습니다. 이 과정에서 AI 에이전트 자체가 전체 아키텍처 마이그레이션과 코드 최적화를 주도했습니다.</p>\n<p>10달러짜리 하드웨어와 10MB 미만의 RAM으로 구동됩니다: OpenClaw보다 메모리",
-          "contentSnippet": "PicoClaw는 나노봇에서 영감을 받은 초경량 개인 AI 어시스턴트로, 자체 부트스트랩 과정을 통해 Go 언어로 완전히 재구성되었습니다. 이 과정에서 AI 에이전트 자체가 전체 아키텍처 마이그레이션과 코드 최적화를 주도했습니다.\n10달러짜리 하드웨어와 10MB 미만의 RAM으로 구동됩니다: OpenClaw보다 메모리",
-          "id": "https://news.hada.io/topic?id=26563",
-          "isoDate": "2026-02-10T07:34:35.000Z"
         }
       ]
     }
