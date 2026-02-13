@@ -7,6 +7,56 @@
       "priority": 1,
       "data": [
         {
+          "title": "macOS Tahoe에서 창 크기 조정 문제, 여전히 이어지는 이야기",
+          "link": "https://news.hada.io/topic?id=26659",
+          "pubDate": "2026-02-13T08:33:35.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>macOS 26.3의 <strong>창 크기 조정 버그 수정 여부</strong>를 검증하기 위해 테스트 애플리케이션을 제작</li>\n<li>픽셀 단위 스캔을 통해 <strong>창 모서리 주변의 클릭 반응 영역</strong>을 분석, 색상별로 반응 상태를 시각화</li>\n<li>수정된 RC 버전에서는 <strong>모서리 반경을 따르는 곡선형 영역...</p>",
+          "contentSnippet": "macOS 26.3의 창 크기 조정 버그 수정 여부를 검증하기 위해 테스트 애플리케이션을 제작\n픽셀 단위 스캔을 통해 창 모서리 주변의 클릭 반응 영역을 분석, 색상별로 반응 상태를 시각화\n수정된 RC 버전에서는 모서리 반경을 따르는 곡선형 영역...",
+          "id": "https://news.hada.io/topic?id=26659",
+          "isoDate": "2026-02-13T08:33:35.000Z"
+        },
+        {
+          "title": "MiniMax M2.5 출시 - 실제 업무 생산성을 위해 설계된 모델",
+          "link": "https://news.hada.io/topic?id=26658",
+          "pubDate": "2026-02-13T07:35:51.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>강화학습 기반 대규모 훈련</strong>을 통해 실제 환경에서의 복잡한 작업 수행 능력을 높인 모델로, <strong>코딩·검색·오피스 업무 등 경제적 가치가 높은 영역</strong>에서 최고 수준 성능을 기록</li>\n<li>SWE-Bench Verified에서 <strong>80.2%</strong> , Multi-SWE-Bench에서 <strong>51.3%...</p>",
+          "contentSnippet": "강화학습 기반 대규모 훈련을 통해 실제 환경에서의 복잡한 작업 수행 능력을 높인 모델로, 코딩·검색·오피스 업무 등 경제적 가치가 높은 영역에서 최고 수준 성능을 기록\nSWE-Bench Verified에서 80.2% , Multi-SWE-Bench에서 51.3%...",
+          "id": "https://news.hada.io/topic?id=26658",
+          "isoDate": "2026-02-13T07:35:51.000Z"
+        },
+        {
+          "title": "Seedance 2.0 정식 출시",
+          "link": "https://news.hada.io/topic?id=26657",
+          "pubDate": "2026-02-13T07:00:08.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>ByteDance Seed 팀</strong>이 공개한 차세대 <strong>멀티모달 영상 생성 모델</strong>로, 텍스트·이미지·오디오·비디오 입력을 통합 지원</li>\n<li>\n<strong>물리 정확도와 현실감</strong>이 강화되어 복잡한 인물 상호작용과 운동 장면에서도 높은 안정성과 일관성 확보</li>\n<li>최대 <strong>...</p>",
+          "contentSnippet": "ByteDance Seed 팀이 공개한 차세대 멀티모달 영상 생성 모델로, 텍스트·이미지·오디오·비디오 입력을 통합 지원\n물리 정확도와 현실감이 강화되어 복잡한 인물 상호작용과 운동 장면에서도 높은 안정성과 일관성 확보\n최대 ...",
+          "id": "https://news.hada.io/topic?id=26657",
+          "isoDate": "2026-02-13T07:00:08.000Z"
+        },
+        {
+          "title": "16일간 AI와 함께 만든 AI 모니터링 도구 이야기",
+          "link": "https://news.hada.io/topic?id=26656",
+          "pubDate": "2026-02-13T05:36:06.000Z",
+          "author": "byforce",
+          "content": "<p>16일간 AI와 함께 만든 AI 모니터링 도구 이야기</p>\n<p>설명</p>\n<p>&quot;Claude Code가 지금 뭐 하는지 알고 싶다&quot;는 단순한 동기로 시작해서 ESP32 하드웨어부터 클라우드 WebSocket까지 구현한 개발 여정.</p>\n<p>읽을 포인트:</p>\n<ul>\n<li>로컬 HTTP에서 시작해 4단계로 진화한 아키텍처 스토리</li>\n<li",
+          "contentSnippet": "16일간 AI와 함께 만든 AI 모니터링 도구 이야기\n설명\n\"Claude Code가 지금 뭐 하는지 알고 싶다\"는 단순한 동기로 시작해서 ESP32 하드웨어부터 클라우드 WebSocket까지 구현한 개발 여정.\n읽을 포인트:\n로컬 HTTP에서 시작해 4단계로 진화한 아키텍처 스토리\n<li",
+          "id": "https://news.hada.io/topic?id=26656",
+          "isoDate": "2026-02-13T05:36:06.000Z"
+        },
+        {
+          "title": "65줄 텍스트가 AI 코딩을 바꿨다? 하루 400 스타 받은 파일의 정체",
+          "link": "https://news.hada.io/topic?id=26655",
+          "pubDate": "2026-02-13T04:57:27.000Z",
+          "author": "davespark",
+          "content": "<p>Andrej Karpathy가 지적한 LLM 코딩 문제점을 해결하려는 <strong>단 65줄짜리 Markdown 파일(CLAUDE.md)</strong> 이 GitHub에서 폭발적 인기를 끌며, Claude Code 사용자들 사이에서 “이 파일 하나만 넣으면 AI가 훨씬 똑똑해진다”는 센세이션을 일으킴.</p>\n<p><strong>파일의 폭발적 인기</strong></p>\n<ul>\n<l",
+          "contentSnippet": "Andrej Karpathy가 지적한 LLM 코딩 문제점을 해결하려는 단 65줄짜리 Markdown 파일(CLAUDE.md) 이 GitHub에서 폭발적 인기를 끌며, Claude Code 사용자들 사이에서 “이 파일 하나만 넣으면 AI가 훨씬 똑똑해진다”는 센세이션을 일으킴.\n파일의 폭발적 인기\n\n<l",
+          "id": "https://news.hada.io/topic?id=26655",
+          "isoDate": "2026-02-13T04:57:27.000Z"
+        },
+        {
           "title": "OpenAI의 사내 데이터 에이전트 들여다 보기",
           "link": "https://news.hada.io/topic?id=26654",
           "pubDate": "2026-02-13T03:55:09.000Z",
@@ -455,56 +505,6 @@
           "contentSnippet": "OpenCode에서 Claude 계정 여러 개 돌려쓰시는 분 계신가요?\n안녕하세요, 온디바이스 AI 필기앱, altalt.io 개발자입니다.\nAnthropic 계정을 여러 개 묶어,\n이런걸 해줍니다:\nMulti-account 지원 (Claude Pro/Max 여러",
           "id": "https://news.hada.io/topic?id=26605",
           "isoDate": "2026-02-11T15:06:04.000Z"
-        },
-        {
-          "title": "하프라이프 2를 퀘이크 1 엔진으로 클린룸 구현",
-          "link": "https://news.hada.io/topic?id=26603",
-          "pubDate": "2026-02-11T12:32:51.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>웹사이트 접근 시 표시되는 <strong>Anubis 보안 페이지</strong>는 서버를 <strong>AI 데이터 스크래핑으로부터 보호</strong>하기 위한 장치</li>\n<li>시스템은 <strong>Proof-of-Work(작업증명)</strong> 기반 검증을 통해 대규모 자동화 요청의 부하를 증가시켜 <strong>스크래핑 비용을 높이는 구조</stro...</p>",
-          "contentSnippet": "웹사이트 접근 시 표시되는 Anubis 보안 페이지는 서버를 AI 데이터 스크래핑으로부터 보호하기 위한 장치\n시스템은 Proof-of-Work(작업증명) 기반 검증을 통해 대규모 자동화 요청의 부하를 증가시켜 스크래핑 비용을 높이는 구조",
-          "id": "https://news.hada.io/topic?id=26603",
-          "isoDate": "2026-02-11T12:32:51.000Z"
-        },
-        {
-          "title": "Claude Cowork가 이제 Windows 지원 시작",
-          "link": "https://news.hada.io/topic?id=26601",
-          "pubDate": "2026-02-11T04:02:21.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>macOS와 똑같이 파일 접근, 다단계 태스트 실행, 플러그인, MCP 커넥터 지원</li>\n<li>Claude 윈도우용을 업데이트 후 상단 탭에서 Cowork 선택하여 실행</li>\n<li>이제 클로드에게 글로벌 폴더 명령을 지정해 매 세션마다 자동 적용됨</li>\n<li>현재는 리서치 프리뷰 버전. 모든 유료 플랜에서 사용 가능</li>...</p>",
-          "contentSnippet": "macOS와 똑같이 파일 접근, 다단계 태스트 실행, 플러그인, MCP 커넥터 지원\nClaude 윈도우용을 업데이트 후 상단 탭에서 Cowork 선택하여 실행\n이제 클로드에게 글로벌 폴더 명령을 지정해 매 세션마다 자동 적용됨\n현재는 리서치 프리뷰 버전. 모든 유료 플랜에서 사용 가능\n...",
-          "id": "https://news.hada.io/topic?id=26601",
-          "isoDate": "2026-02-11T04:02:21.000Z"
-        },
-        {
-          "title": "AI가 일을 줄여준다는 약속, 실제로는 번아웃만 키웠다 (UC Berkeley 연구)",
-          "link": "https://news.hada.io/topic?id=26599",
-          "pubDate": "2026-02-11T03:07:31.000Z",
-          "author": "davespark",
-          "content": "<p><strong>연구 개요</strong></p>\n<ul>\n<li>UC Berkeley 연구진, 2025년 4월~12월 8개월간 기술 기업 200명 관찰</li>\n<li>결과: AI 도입 후 업무 <strong>줄지 않고 오히려 강화·증가</strong>\n</li>\n<li>Harvard Business Review 2026년 2월 게재</li>\n</ul>\n<p><strong>AI가 업무를 강화하는 3가지 주요 패턴</stro",
-          "contentSnippet": "연구 개요\nUC Berkeley 연구진, 2025년 4월~12월 8개월간 기술 기업 200명 관찰\n결과: AI 도입 후 업무 줄지 않고 오히려 강화·증가\n\nHarvard Business Review 2026년 2월 게재\nAI가 업무를 강화하는 3가지 주요 패턴</stro",
-          "id": "https://news.hada.io/topic?id=26599",
-          "isoDate": "2026-02-11T03:07:31.000Z"
-        },
-        {
-          "title": "Qwen-Image-2.0: 전문가 수준의 인포그래픽, 정교한 포토리얼리즘",
-          "link": "https://news.hada.io/topic?id=26598",
-          "pubDate": "2026-02-11T01:33:15.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>차세대 이미지 생성 모델로, <strong>텍스트와 이미지 생성·편집을 통합한 단일 구조</strong>를 구현</li>\n<li>\n<strong>1k 토큰 지시어</strong>를 지원해 PPT, 포스터, 만화 등 복잡한 인포그래픽을 직접 생성</li>\n<li>\n<strong>2K 해상도</strong> 기반의 세밀한 사실적 묘사와 <strong>정확한 문자 렌더링...</p>",
-          "contentSnippet": "차세대 이미지 생성 모델로, 텍스트와 이미지 생성·편집을 통합한 단일 구조를 구현\n1k 토큰 지시어를 지원해 PPT, 포스터, 만화 등 복잡한 인포그래픽을 직접 생성\n2K 해상도 기반의 세밀한 사실적 묘사와 정확한 문자 렌더링...",
-          "id": "https://news.hada.io/topic?id=26598",
-          "isoDate": "2026-02-11T01:33:15.000Z"
-        },
-        {
-          "title": "WebMCP (Web Model Context Protocol) 공개 ",
-          "link": "https://news.hada.io/topic?id=26597",
-          "pubDate": "2026-02-11T01:31:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>WebMCP는 <strong>웹사이트가 브라우저 내 AI 에이전트에게 구조화된 도구를 직접 노출</strong>하도록 설계된 제안 표준</li>\n<li>기존의 화면 스크래핑이나 DOM 추론 대신, 웹이 스스로 <strong>“이 페이지에서 무엇을 할 수 있는지”</strong> 기능과 입력·출력을 <strong>명시적 계약 형태</strong>로 제공...</p>",
-          "contentSnippet": "WebMCP는 웹사이트가 브라우저 내 AI 에이전트에게 구조화된 도구를 직접 노출하도록 설계된 제안 표준\n기존의 화면 스크래핑이나 DOM 추론 대신, 웹이 스스로 “이 페이지에서 무엇을 할 수 있는지” 기능과 입력·출력을 명시적 계약 형태로 제공...",
-          "id": "https://news.hada.io/topic?id=26597",
-          "isoDate": "2026-02-11T01:31:02.000Z"
         }
       ]
     }
