@@ -7,6 +7,146 @@
       "priority": 1,
       "data": [
         {
+          "title": "OpenAI의 사내 데이터 에이전트 들여다 보기",
+          "link": "https://news.hada.io/topic?id=26654",
+          "pubDate": "2026-02-13T03:55:09.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>OpenAI는 <strong>3,500명 이상 내부 사용자</strong>와 <strong>600PB 규모 데이터</strong>를 효율적으로 분석하기 위해 <strong>맞춤형 AI 데이터 에이전트</strong>를 자체 구축</li>\n<li>자연어 질문만으로 테이블 탐색, SQL 실행, 노트북 및 리포트 발행까지 <strong>엔드투엔드 분석 워크플로</strong>를...</p>",
+          "contentSnippet": "OpenAI는 3,500명 이상 내부 사용자와 600PB 규모 데이터를 효율적으로 분석하기 위해 맞춤형 AI 데이터 에이전트를 자체 구축\n자연어 질문만으로 테이블 탐색, SQL 실행, 노트북 및 리포트 발행까지 엔드투엔드 분석 워크플로를...",
+          "id": "https://news.hada.io/topic?id=26654",
+          "isoDate": "2026-02-13T03:55:09.000Z"
+        },
+        {
+          "title": "애플의 차세대 Siri 출시, 내부 테스트 문제로 또다시 지연",
+          "link": "https://news.hada.io/topic?id=26653",
+          "pubDate": "2026-02-13T03:45:36.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>전면 개편된 Siri 업그레이드</strong>가 내부 테스트 문제로 일정 차질 발생</li>\n<li>당초 iOS 26.4에 포함 예정이던 기능이 <strong>iOS 26.5 및 iOS 27</strong>로 분산되어 순차 배포 예정</li>\n<li>개인 데이터 활용 및 <strong>앱 인텐트 기반 음성 제어</strong> 기능이 특히 불안정</li>\n<li...</p>",
+          "contentSnippet": "전면 개편된 Siri 업그레이드가 내부 테스트 문제로 일정 차질 발생\n당초 iOS 26.4에 포함 예정이던 기능이 iOS 26.5 및 iOS 27로 분산되어 순차 배포 예정\n개인 데이터 활용 및 앱 인텐트 기반 음성 제어 기능이 특히 불안정",
+          "id": "https://news.hada.io/topic?id=26653",
+          "isoDate": "2026-02-13T03:45:36.000Z"
+        },
+        {
+          "title": "유럽 주요 결제처리업체, Google Workspace 사용자에게 이메일 전송 불가",
+          "link": "https://news.hada.io/topic?id=26652",
+          "pubDate": "2026-02-13T03:33:23.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>유럽 대형 결제업체 <strong>Viva.com</strong>이 <code>Message-ID</code> 헤더 없이 인증 메일을 발송해 <strong>Google Workspace 서버가 이를 거부</strong>함</li>\n<li>RFC 5322(2008년 제정)에서 <code>Message-ID</code>는 필수 수준의 헤더로 규정되어 있으며, Google은 이를 엄격히 적용</li>\n<li>Gma...</p>",
+          "contentSnippet": "유럽 대형 결제업체 Viva.com이 Message-ID 헤더 없이 인증 메일을 발송해 Google Workspace 서버가 이를 거부함\nRFC 5322(2008년 제정)에서 Message-ID는 필수 수준의 헤더로 규정되어 있으며, Google은 이를 엄격히 적용\nGma...",
+          "id": "https://news.hada.io/topic?id=26652",
+          "isoDate": "2026-02-13T03:33:23.000Z"
+        },
+        {
+          "title": "Cloudflare, 에이전트를 위한 Markdown 변환 전송 기능 도입",
+          "link": "https://news.hada.io/topic?id=26651",
+          "pubDate": "2026-02-13T02:46:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>AI 크롤러와 에이전트 중심 트래픽 증가</strong>에 따라, 웹 콘텐츠를 사람뿐 아니라 <strong>기계가 직접 소비</strong>하는 구조로 전환 중</li>\n<li>HTML을 markdown으로 변환하면 <strong>토큰 사용량이 약 80% 감소</strong>, 비용과 처리 효율 개선</li>\n<li>\n<code>Accept: text/markdown</co...</p>",
+          "contentSnippet": "AI 크롤러와 에이전트 중심 트래픽 증가에 따라, 웹 콘텐츠를 사람뿐 아니라 기계가 직접 소비하는 구조로 전환 중\nHTML을 markdown으로 변환하면 토큰 사용량이 약 80% 감소, 비용과 처리 효율 개선\nAccept: text/markdown",
+          "id": "https://news.hada.io/topic?id=26651",
+          "isoDate": "2026-02-13T02:46:01.000Z"
+        },
+        {
+          "title": "AWS가 중첩 가상화 (nested virtualization) 지원 추가",
+          "link": "https://news.hada.io/topic?id=26650",
+          "pubDate": "2026-02-13T02:16:32.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>AWS SDK for Go v2가 업데이트 되면서, 가상 머신 내부에서 또 다른 <strong>가상 머신을 실행할 수 있는 기능</strong>이 추가됨</li>\n<li>새 기능은 <strong>비(非) 베어메탈 EC2 인스턴스에서도 중첩 VM 실행</strong>을 가능하게 함</li>\n<li>AWS EC2에서 <strong>중첩 가상화 지원 확장</strong>은 개발·�...</p>",
+          "contentSnippet": "AWS SDK for Go v2가 업데이트 되면서, 가상 머신 내부에서 또 다른 가상 머신을 실행할 수 있는 기능이 추가됨\n새 기능은 비(非) 베어메탈 EC2 인스턴스에서도 중첩 VM 실행을 가능하게 함\nAWS EC2에서 중첩 가상화 지원 확장은 개발·�...",
+          "id": "https://news.hada.io/topic?id=26650",
+          "isoDate": "2026-02-13T02:16:32.000Z"
+        },
+        {
+          "title": "Claude Code 창시자의 커스터마이징 팁 12가지",
+          "link": "https://news.hada.io/topic?id=26649",
+          "pubDate": "2026-02-13T02:06:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>엔지니어마다 도구 사용 방식이 다르다는 점에 착안해, Claude Code는 처음부터 <strong>뛰어난 기본값과 높은 커스터마이징 자유도</strong>를 동시에 갖추도록 설계됨</li>\n<li>터미널 테마, 알림, Vim 모드부터 <strong>에이전트, 플러그인, MCP, 스킬</strong>까지 거의 모든 동작을 사용자가 조정 가능</l...</p>",
+          "contentSnippet": "엔지니어마다 도구 사용 방식이 다르다는 점에 착안해, Claude Code는 처음부터 뛰어난 기본값과 높은 커스터마이징 자유도를 동시에 갖추도록 설계됨\n터미널 테마, 알림, Vim 모드부터 에이전트, 플러그인, MCP, 스킬까지 거의 모든 동작을 사용자가 조정 가능",
+          "id": "https://news.hada.io/topic?id=26649",
+          "isoDate": "2026-02-13T02:06:01.000Z"
+        },
+        {
+          "title": "15개 LLM의 코딩 성능을 개선했어요, 바뀐 것은 하니스뿐",
+          "link": "https://news.hada.io/topic?id=26648",
+          "pubDate": "2026-02-13T00:51:31.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>여러 LLM을 동일한 조건에서 테스트한 결과, <strong>코드 수정 도구</strong>만 바꿔도 성능이 크게 향상됨</li>\n<li>기존의 <strong>Patch·Replace 방식</strong> 대신 각 코드 줄에 <strong>해시 태그를 부여하는 ‘Hashline’ 포맷</strong>을 적용해 수정 정확도를 높임</li>\n<li>Hashline은 16개 모델 중...</p>",
+          "contentSnippet": "여러 LLM을 동일한 조건에서 테스트한 결과, 코드 수정 도구만 바꿔도 성능이 크게 향상됨\n기존의 Patch·Replace 방식 대신 각 코드 줄에 해시 태그를 부여하는 ‘Hashline’ 포맷을 적용해 수정 정확도를 높임\nHashline은 16개 모델 중...",
+          "id": "https://news.hada.io/topic?id=26648",
+          "isoDate": "2026-02-13T00:51:31.000Z"
+        },
+        {
+          "title": "ai;dr - ai 가 작성한 글을 읽어야 할까요?",
+          "link": "https://news.hada.io/topic?id=26647",
+          "pubDate": "2026-02-13T00:48:31.000Z",
+          "author": "neo",
+          "content": "<blockquote>\n<p>&quot;(ai; didn't read)&quot;</p>\n</blockquote>\n<ul>\n<li>글쓰기는 한 사람이 세상을 어떻게 이해하고 인식하는지를 보여주는 <strong>직접적인 창</strong>\n</li>\n<li>그런데 글쓰기를 LLM에 아웃소싱하는 순간, 그 글을 굳이 읽어야 할 이유가 뭔지 모르겠음</li>\n<li>남이 쓰기도 귀찮아 한 글을 ",
+          "contentSnippet": "\"(ai; didn't read)\"\n글쓰기는 한 사람이 세상을 어떻게 이해하고 인식하는지를 보여주는 직접적인 창\n\n그런데 글쓰기를 LLM에 아웃소싱하는 순간, 그 글을 굳이 읽어야 할 이유가 뭔지 모르겠음\n남이 쓰기도 귀찮아 한 글을",
+          "id": "https://news.hada.io/topic?id=26647",
+          "isoDate": "2026-02-13T00:48:31.000Z"
+        },
+        {
+          "title": "AI 에이전트가 PR을 열고 이를 닫은 유지관리자를 비판하는 블로그 글을 게시함",
+          "link": "https://news.hada.io/topic?id=26646",
+          "pubDate": "2026-02-13T00:45:31.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<code>matplotlib</code> 저장소에 <strong>성능 최적화 PR</strong>이 제출되어 <code>np.column_stack</code>을 <code>np.vstack().T</code>로 교체하는 변경을 제안함</li>\n<li>벤치마크 결과, <strong>방송(broadcast) 포함 시 24%</strong> , <strong>비포함 시 36% 성능 향상</strong>이 확인되었으며, ...</p>",
+          "contentSnippet": "matplotlib 저장소에 성능 최적화 PR이 제출되어 np.column_stack을 np.vstack().T로 교체하는 변경을 제안함\n벤치마크 결과, 방송(broadcast) 포함 시 24% , 비포함 시 36% 성능 향상이 확인되었으며, ...",
+          "id": "https://news.hada.io/topic?id=26646",
+          "isoDate": "2026-02-13T00:45:31.000Z"
+        },
+        {
+          "title": "PeonPing - Warcraft III 일꾼 음성으로 Claude Code 작업 상태 알려주기",
+          "link": "https://news.hada.io/topic?id=26645",
+          "pubDate": "2026-02-13T00:42:31.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>워크래프트/스타크래프트/젤다 등의 음성을 활용해 <strong>AI 코딩 에이전트의 작업 완료나 입력 요청을 음성으로 알려주는 도구</strong>\n</li>\n<li>\n<strong>Claude Code, Codex, Cursor, OpenCode</strong> 등 주요 IDE와 연동되며, 터미널을 계속 지켜볼 필요 없이 상태를 청각적으로 인식 가능</li>\n<li>...</p>",
+          "contentSnippet": "워크래프트/스타크래프트/젤다 등의 음성을 활용해 AI 코딩 에이전트의 작업 완료나 입력 요청을 음성으로 알려주는 도구\n\n\nClaude Code, Codex, Cursor, OpenCode 등 주요 IDE와 연동되며, 터미널을 계속 지켜볼 필요 없이 상태를 청각적으로 인식 가능\n...",
+          "id": "https://news.hada.io/topic?id=26645",
+          "isoDate": "2026-02-13T00:42:31.000Z"
+        },
+        {
+          "title": "AI 에이전트가 나를 비방하는 글을 게시했다",
+          "link": "https://news.hada.io/topic?id=26644",
+          "pubDate": "2026-02-13T00:39:30.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>오픈소스 프로젝트 <strong>matplotlib 유지관리자</strong>가 거절한 코드 제안을 이유로, <strong>자율적으로 행동하는 AI 에이전트</strong>가 그를 비난하는 글을 작성하고 인터넷에 공개</li>\n<li>해당 AI는 <strong>‘MJ Rathbun’</strong> 이라는 이름으로 활동하며, 작성자의 성격과 동기를 추측하고 ...</p>",
+          "contentSnippet": "오픈소스 프로젝트 matplotlib 유지관리자가 거절한 코드 제안을 이유로, 자율적으로 행동하는 AI 에이전트가 그를 비난하는 글을 작성하고 인터넷에 공개\n해당 AI는 ‘MJ Rathbun’ 이라는 이름으로 활동하며, 작성자의 성격과 동기를 추측하고 ...",
+          "id": "https://news.hada.io/topic?id=26644",
+          "isoDate": "2026-02-13T00:39:30.000Z"
+        },
+        {
+          "title": "Gemini 3 Deep Think 공개 ",
+          "link": "https://news.hada.io/topic?id=26643",
+          "pubDate": "2026-02-13T00:34:08.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>과학·연구·공학 문제 해결</strong>을 목표로 한 Google의 AI 모델 <strong>Gemini 3 Deep Think</strong>가 대규모 업그레이드됨</li>\n<li>새로운 버전은 <strong>과학자 및 연구자와의 협력</strong>을 통해 불완전한 데이터나 명확한 정답이 없는 복잡한 문제를 다루도록 설계</li>\n<li>\n<strong>수...</p>",
+          "contentSnippet": "과학·연구·공학 문제 해결을 목표로 한 Google의 AI 모델 Gemini 3 Deep Think가 대규모 업그레이드됨\n새로운 버전은 과학자 및 연구자와의 협력을 통해 불완전한 데이터나 명확한 정답이 없는 복잡한 문제를 다루도록 설계\n수...",
+          "id": "https://news.hada.io/topic?id=26643",
+          "isoDate": "2026-02-13T00:34:08.000Z"
+        },
+        {
+          "title": "GPT‑5.3‑Codex‑Spark 출시",
+          "link": "https://news.hada.io/topic?id=26642",
+          "pubDate": "2026-02-13T00:32:34.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>실시간 코딩</strong>을 위해 설계된 GPT‑5.3‑Codex의 소형 버전으로, <strong>1000토큰/초 이상</strong>의 속도를 제공</li>\n<li>128k 컨텍스트 윈도우 기반의 <strong>텍스트 전용 모델</strong>로, 즉각적인 코드 수정과 반복 작업에 특화됨</li>\n<li>WebSocket 기반 응답 경로 도입으로 <stron...</p>",
+          "contentSnippet": "실시간 코딩을 위해 설계된 GPT‑5.3‑Codex의 소형 버전으로, 1000토큰/초 이상의 속도를 제공\n128k 컨텍스트 윈도우 기반의 텍스트 전용 모델로, 즉각적인 코드 수정과 반복 작업에 특화됨\nWebSocket 기반 응답 경로 도입으로",
+          "id": "https://news.hada.io/topic?id=26642",
+          "isoDate": "2026-02-13T00:32:34.000Z"
+        },
+        {
+          "title": "ZXC - 콘텐츠 전송에 최적화된 고성능 비대칭 무손실 압축 라이브러리",
+          "link": "https://news.hada.io/topic?id=26641",
+          "pubDate": "2026-02-13T00:31:01.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>콘텐츠 전송과 임베디드 시스템의 <strong>읽기 성능 병목</strong>을 해결하기 위해 설계</li>\n<li>\n<strong>한 번 압축하고 여러 번 해제(Read-Many)</strong> 하는 구조에 맞춰, 인코더가 복잡도를 담당하고 디코더는 최대 처리량을 확보</li>\n<li>LZ4 대비 <strong>디코딩 속도 40% 이상</strong> 향상(애플...</p>",
+          "contentSnippet": "콘텐츠 전송과 임베디드 시스템의 읽기 성능 병목을 해결하기 위해 설계\n한 번 압축하고 여러 번 해제(Read-Many) 하는 구조에 맞춰, 인코더가 복잡도를 담당하고 디코더는 최대 처리량을 확보\nLZ4 대비 디코딩 속도 40% 이상 향상(애플...",
+          "id": "https://news.hada.io/topic?id=26641",
+          "isoDate": "2026-02-13T00:31:01.000Z"
+        },
+        {
           "title": "캘리포니아 정치에 영향력을 행사하기 위해 Y Combinator CEO 가리 탄이 ‘다크머니’ 단체를 출범",
           "link": "https://news.hada.io/topic?id=26639",
           "pubDate": "2026-02-12T20:33:15.000Z",
@@ -47,7 +187,7 @@
           "isoDate": "2026-02-12T17:33:33.000Z"
         },
         {
-          "title": "엘패소 공항, **드론 침입**으로 일시 폐쇄",
+          "title": "엘패소 공항, 드론 침입으로 일시 폐쇄",
           "link": "https://news.hada.io/topic?id=26633",
           "pubDate": "2026-02-12T16:33:37.000Z",
           "author": "neo",
@@ -65,16 +205,6 @@
           "contentSnippet": "공격자는 사용자가 메모장에서 열린 마크다운 파일 내의 악성 링크를 클릭하도록 유도하여, 해당 애플리케이션이 검증되지 않은 프로토콜을 실행하고 원격 파일을 로드 및 실행하도록 만들 수 있습니다.",
           "id": "https://news.hada.io/topic?id=26632",
           "isoDate": "2026-02-12T15:51:01.000Z"
-        },
-        {
-          "title": "GLM-5: 바이브 코딩에서 에이전트 엔지니어링으로",
-          "link": "https://news.hada.io/topic?id=26631",
-          "pubDate": "2026-02-12T15:32:26.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>GLM-5</strong>는 복잡한 시스템 엔지니어링과 장기적 에이전트 작업을 목표로 한 대규모 언어 모델로, <strong>지능 효율성 향상</strong>을 위한 확장 중심 설계임</li>\n<li>전작 GLM-4.5 대비 <strong>파라미터 수를 355B→744B</strong>, <strong>활성 파라미터를 32B→40B</strong>, <strong>사전...</p>",
-          "contentSnippet": "GLM-5는 복잡한 시스템 엔지니어링과 장기적 에이전트 작업을 목표로 한 대규모 언어 모델로, 지능 효율성 향상을 위한 확장 중심 설계임\n전작 GLM-4.5 대비 파라미터 수를 355B→744B, 활성 파라미터를 32B→40B, 사전...",
-          "id": "https://news.hada.io/topic?id=26631",
-          "isoDate": "2026-02-12T15:32:26.000Z"
         },
         {
           "title": "아일랜드, 예술가 대상 기본소득 제도 시행",
@@ -157,22 +287,22 @@
           "isoDate": "2026-02-12T04:41:09.000Z"
         },
         {
-          "title": "Flutter와 완전 통합된 콘솔급 게임 엔진 Fluorite",
+          "title": "Fluorite - Flutter와 완전 통합된 콘솔급 게임 엔진",
           "link": "https://news.hada.io/topic?id=26622",
           "pubDate": "2026-02-12T04:37:06.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Fluorite</strong>는 Flutter와 완전 통합된 최초의 <strong>콘솔급 게임 엔진</strong>으로, Dart로 직접 게임 코드를 작성할 수 있음</li>\n<li>\n<strong>ECS(Entity-Component-System)</strong> 기반의 데이터 지향 구조를 사용하며, 핵심은 C++로 구현되어 <strong>임베디드 하드웨어에서도 높은 성...</p>",
-          "contentSnippet": "Fluorite는 Flutter와 완전 통합된 최초의 콘솔급 게임 엔진으로, Dart로 직접 게임 코드를 작성할 수 있음\nECS(Entity-Component-System) 기반의 데이터 지향 구조를 사용하며, 핵심은 C++로 구현되어 임베디드 하드웨어에서도 높은 성...",
+          "content": "<ul>\n<li>\n<strong>Flutter 및 Dart 생태계</strong>를 활용하여 게임 로직을 작성하고, Flutter의 풍부한 UI 툴킷과 통합하여 <strong>대화형 경험 구축</strong> 가능</li>\n<li>C++로 구현되어 <strong>임베디드 하드웨어에서도 높은 성능</strong>을 제공하며, <strong>ECS(Entity-Component-System)</strong> 기반의...</p>",
+          "contentSnippet": "Flutter 및 Dart 생태계를 활용하여 게임 로직을 작성하고, Flutter의 풍부한 UI 툴킷과 통합하여 대화형 경험 구축 가능\nC++로 구현되어 임베디드 하드웨어에서도 높은 성능을 제공하며, ECS(Entity-Component-System) 기반의...",
           "id": "https://news.hada.io/topic?id=26622",
           "isoDate": "2026-02-12T04:37:06.000Z"
         },
         {
-          "title": "Discord/Twitch/Snapchat 연령 인증 우회",
+          "title": "Discord/Twitch/Snapchat 연령 인증 우회하기",
           "link": "https://news.hada.io/topic?id=26621",
           "pubDate": "2026-02-12T04:34:06.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>여러 플랫폼의 <strong>연령 인증 절차를 자동으로 성인으로 통과시키는 스크립트</strong>가 공개됨</li>\n<li>\n<strong>Discord 콘솔에 코드를 붙여넣어 실행</strong>하면, 자동으로 <code>/age-verification/verify</code> API 요청을 보내고 인증 완료 페이지로 이동함</li>\n<li>\n<strong>Twitch, Kick, Sn...</p>",
-          "contentSnippet": "여러 플랫폼의 연령 인증 절차를 자동으로 성인으로 통과시키는 스크립트가 공개됨\nDiscord 콘솔에 코드를 붙여넣어 실행하면, 자동으로 /age-verification/verify API 요청을 보내고 인증 완료 페이지로 이동함\nTwitch, Kick, Sn...",
+          "content": "<ul>\n<li>여러 플랫폼의 <strong>연령 인증 절차를 자동으로 성인으로 통과시키는 스크립트</strong>\n</li>\n<li>\n<strong>Discord 콘솔에 코드를 붙여넣어 실행</strong>하면, 자동으로 <code>/age-verification/verify</code> API 요청을 보내고 인증 완료 페이지로 이동</li>\n<li>\n<strong>Twitch, Kick, Snapchat 등 ...</p>",
+          "contentSnippet": "여러 플랫폼의 연령 인증 절차를 자동으로 성인으로 통과시키는 스크립트\n\n\nDiscord 콘솔에 코드를 붙여넣어 실행하면, 자동으로 /age-verification/verify API 요청을 보내고 인증 완료 페이지로 이동\nTwitch, Kick, Snapchat 등 ...",
           "id": "https://news.hada.io/topic?id=26621",
           "isoDate": "2026-02-12T04:34:06.000Z"
         },
@@ -375,136 +505,6 @@
           "contentSnippet": "WebMCP는 웹사이트가 브라우저 내 AI 에이전트에게 구조화된 도구를 직접 노출하도록 설계된 제안 표준\n기존의 화면 스크래핑이나 DOM 추론 대신, 웹이 스스로 “이 페이지에서 무엇을 할 수 있는지” 기능과 입력·출력을 명시적 계약 형태로 제공...",
           "id": "https://news.hada.io/topic?id=26597",
           "isoDate": "2026-02-11T01:31:02.000Z"
-        },
-        {
-          "title": "Obsidian CLI 공개 ",
-          "link": "https://news.hada.io/topic?id=26596",
-          "pubDate": "2026-02-11T01:16:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>터미널에서 Obsidian을 제어해 <strong>스크립팅·자동화·외부 도구 통합</strong>을 가능하게 함</li>\n<li>Obsidian에서 노트 생성·검색·태그·작업·플러그인·동기화 등 <strong>거의 모든 기능을 CLI로 수행</strong> 가능</li>\n<li>\n<strong>개발자용 명령어</strong>를 포함해 개발 도구 접근, 스크린샷, 플...</p>",
-          "contentSnippet": "터미널에서 Obsidian을 제어해 스크립팅·자동화·외부 도구 통합을 가능하게 함\nObsidian에서 노트 생성·검색·태그·작업·플러그인·동기화 등 거의 모든 기능을 CLI로 수행 가능\n개발자용 명령어를 포함해 개발 도구 접근, 스크린샷, 플...",
-          "id": "https://news.hada.io/topic?id=26596",
-          "isoDate": "2026-02-11T01:16:01.000Z"
-        },
-        {
-          "title": "Mistral의 Voxtral Mini 4B Realtime 모델을 Rust로 구현해 브라우저에서 실행",
-          "link": "https://news.hada.io/topic?id=26595",
-          "pubDate": "2026-02-11T01:04:12.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>스트리밍 음성 인식</strong>을 네이티브 환경과 브라우저 모두에서 실행할 수 있는 <strong>Rust 기반 구현체</strong>로, Burn ML 프레임워크를 사용</li>\n<li>모델은 <strong>Mistral의 Voxtral Mini 4B Realtime</strong>을 기반으로 하며, <strong>WASM + WebGPU</strong>를 통해 브라우저 탭에서...</p>",
-          "contentSnippet": "스트리밍 음성 인식을 네이티브 환경과 브라우저 모두에서 실행할 수 있는 Rust 기반 구현체로, Burn ML 프레임워크를 사용\n모델은 Mistral의 Voxtral Mini 4B Realtime을 기반으로 하며, WASM + WebGPU를 통해 브라우저 탭에서...",
-          "id": "https://news.hada.io/topic?id=26595",
-          "isoDate": "2026-02-11T01:04:12.000Z"
-        },
-        {
-          "title": "언론사 망하게 하는 AI 봇 개발기",
-          "link": "https://news.hada.io/topic?id=26594",
-          "pubDate": "2026-02-11T01:02:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>MacOS 기본 음성인식과 TTS, <strong>구글 뉴스 RSS</strong>, <strong>LLM 요약</strong>만으로 <strong>4~5분 분량 뉴스 브리핑</strong>을 자동 생성</li>\n<li>“오늘 뉴스”라는 음성으로 트리거하면 자동으로 동작 시작</li>\n<li>\n<strong>구글 뉴스 RSS</strong>에서 최신 기사 목록을 수집해 <strong>언...</p>",
-          "contentSnippet": "MacOS 기본 음성인식과 TTS, 구글 뉴스 RSS, LLM 요약만으로 4~5분 분량 뉴스 브리핑을 자동 생성\n“오늘 뉴스”라는 음성으로 트리거하면 자동으로 동작 시작\n구글 뉴스 RSS에서 최신 기사 목록을 수집해 언...",
-          "id": "https://news.hada.io/topic?id=26594",
-          "isoDate": "2026-02-11T01:02:01.000Z"
-        },
-        {
-          "title": "미국 소셜미디어 재판에서 Meta·Google이 ‘중독을 설계했다’는 주장 제기",
-          "link": "https://news.hada.io/topic?id=26593",
-          "pubDate": "2026-02-11T01:01:11.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>소셜 미디어 기업이 아동의 <strong>정신 건강</strong>보다 수익을 우선시하며 의도적으로 중독성 플랫폼을 설계했다는 혐의로, 미국 최초의 배심원 재판이 로스앤젤레스에서 본격 시작</li>\n<li>원고 측 변호사는 Meta와 YouTube가 <strong>&quot;설계에 의한 중독(addiction by design)&quot;</strong> 전략...</p>",
-          "contentSnippet": "소셜 미디어 기업이 아동의 정신 건강보다 수익을 우선시하며 의도적으로 중독성 플랫폼을 설계했다는 혐의로, 미국 최초의 배심원 재판이 로스앤젤레스에서 본격 시작\n원고 측 변호사는 Meta와 YouTube가 \"설계에 의한 중독(addiction by design)\" 전략...",
-          "id": "https://news.hada.io/topic?id=26593",
-          "isoDate": "2026-02-11T01:01:11.000Z"
-        },
-        {
-          "title": "Oxide, 2억 달러 규모 시리즈 C 투자 유치",
-          "link": "https://news.hada.io/topic?id=26592",
-          "pubDate": "2026-02-11T00:58:11.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>물리적 인프라 제품</strong>을 개발하는 Oxide가 <strong>2억 달러 규모의 시리즈 C 투자</strong>를 확보함</li>\n<li>회사는 이미 <strong>제품-시장 적합성(product-market fit)</strong> 을 달성했으며, 자금 조달이 <strong>운영 유지 목적이 아님</strong>을 명시함</li>\n<li>이번 투자는 <stro...</p>",
-          "contentSnippet": "물리적 인프라 제품을 개발하는 Oxide가 2억 달러 규모의 시리즈 C 투자를 확보함\n회사는 이미 제품-시장 적합성(product-market fit) 을 달성했으며, 자금 조달이 운영 유지 목적이 아님을 명시함\n이번 투자는",
-          "id": "https://news.hada.io/topic?id=26592",
-          "isoDate": "2026-02-11T00:58:11.000Z"
-        },
-        {
-          "title": "프런티어 AI 에이전트, KPI 압박 시 30~50% 비율로 윤리적 제약 위반",
-          "link": "https://news.hada.io/topic?id=26591",
-          "pubDate": "2026-02-11T00:55:11.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>자율형 AI 에이전트가 <strong>성과 지표(KPI)</strong> 달성을 위해 <strong>윤리·법적 제약을 무시하는 행동</strong>을 보이는 현상을 측정하기 위한 새로운 벤치마크가 제시됨</li>\n<li>연구진은 <strong>ODCV-Bench</strong>라 불리는 40개 시나리오 기반 평가체계를 구축해, 실제 생산 환경과 유사한 조건...</p>",
-          "contentSnippet": "자율형 AI 에이전트가 성과 지표(KPI) 달성을 위해 윤리·법적 제약을 무시하는 행동을 보이는 현상을 측정하기 위한 새로운 벤치마크가 제시됨\n연구진은 ODCV-Bench라 불리는 40개 시나리오 기반 평가체계를 구축해, 실제 생산 환경과 유사한 조건...",
-          "id": "https://news.hada.io/topic?id=26591",
-          "isoDate": "2026-02-11T00:55:11.000Z"
-        },
-        {
-          "title": "7살에 프로그래밍을 시작해 50세가 된 지금, 내가 사랑했던 것이 변했어요",
-          "link": "https://news.hada.io/topic?id=26590",
-          "pubDate": "2026-02-11T00:52:11.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>1983년부터 42년간 프로그래밍을 해온 개발자가 <strong>AI 시대의 도래</strong>로 소프트웨어 개발의 본질이 변화하고 있음을 체감하며 느끼는 복잡한 심경을 담은 글</li>\n<li>8비트 컴퓨터부터 486까지, 기계의 모든 바이트를 이해하고 직접 제어하던 시대에서 시작해 수많은 <strong>기술 전환</strong>을...</p>",
-          "contentSnippet": "1983년부터 42년간 프로그래밍을 해온 개발자가 AI 시대의 도래로 소프트웨어 개발의 본질이 변화하고 있음을 체감하며 느끼는 복잡한 심경을 담은 글\n8비트 컴퓨터부터 486까지, 기계의 모든 바이트를 이해하고 직접 제어하던 시대에서 시작해 수많은 기술 전환을...",
-          "id": "https://news.hada.io/topic?id=26590",
-          "isoDate": "2026-02-11T00:52:11.000Z"
-        },
-        {
-          "title": "구글, ICE의 요구에 따라 학생 기자의 은행 및 신용카드 정보를 제공",
-          "link": "https://news.hada.io/topic?id=26589",
-          "pubDate": "2026-02-11T00:49:11.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>미국 이민세관단속국(ICE)이 발부한 <strong>소환장(subpoena)</strong> 에 따라 구글이 한 학생 기자의 <strong>은행·신용카드 번호 등 개인 정보</strong>를 제공함</li>\n<li>해당 인물은 2024년 코넬대 취업박람회에서 <strong>이스라엘 무기 공급 기업을 규탄하는 시위</strong>에 참여했다가 캠퍼스 출입이...</p>",
-          "contentSnippet": "미국 이민세관단속국(ICE)이 발부한 소환장(subpoena) 에 따라 구글이 한 학생 기자의 은행·신용카드 번호 등 개인 정보를 제공함\n해당 인물은 2024년 코넬대 취업박람회에서 이스라엘 무기 공급 기업을 규탄하는 시위에 참여했다가 캠퍼스 출입이...",
-          "id": "https://news.hada.io/topic?id=26589",
-          "isoDate": "2026-02-11T00:49:11.000Z"
-        },
-        {
-          "title": "유럽, Visa·Mastercard와의 24조 달러 결별 시작",
-          "link": "https://news.hada.io/topic?id=26588",
-          "pubDate": "2026-02-11T00:46:11.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>유럽중앙은행(ECB)은 <strong>미국 결제 인프라 의존 탈피</strong>를 촉구하며, 유럽 내 자체 디지털 결제망 구축이 시급하다고 경고</li>\n<li>16개 주요 은행이 참여한 <strong>European Payments Initiative(EPI)</strong> 가 디지털 지갑 <strong>Wero</strong>를 중심으로 한 범유럽 결제 네트워크를 추진...</p>",
-          "contentSnippet": "유럽중앙은행(ECB)은 미국 결제 인프라 의존 탈피를 촉구하며, 유럽 내 자체 디지털 결제망 구축이 시급하다고 경고\n16개 주요 은행이 참여한 European Payments Initiative(EPI) 가 디지털 지갑 Wero를 중심으로 한 범유럽 결제 네트워크를 추진...",
-          "id": "https://news.hada.io/topic?id=26588",
-          "isoDate": "2026-02-11T00:46:11.000Z"
-        },
-        {
-          "title": "특이점은 화요일에 일어날 것이다",
-          "link": "https://news.hada.io/topic?id=26587",
-          "pubDate": "2026-02-11T00:43:10.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>AI 진보를 측정하는 <strong>5가지 실제 지표</strong>로 분석해 <strong>Singularity도달 시점</strong>을 밀리초 단위까지 계산한 결과 <strong>2034년 7월 18일 화요일</strong>이 나옴</li>\n<li>\n<strong>MMLU 점수, 달러당 토큰 수, 프론티어 모델 출시 간격, arXiv &quot;emergent&quot; 논문 수, Copilo...</p>",
-          "contentSnippet": "AI 진보를 측정하는 5가지 실제 지표로 분석해 Singularity도달 시점을 밀리초 단위까지 계산한 결과 2034년 7월 18일 화요일이 나옴\nMMLU 점수, 달러당 토큰 수, 프론티어 모델 출시 간격, arXiv \"emergent\" 논문 수, Copilo...",
-          "id": "https://news.hada.io/topic?id=26587",
-          "isoDate": "2026-02-11T00:43:10.000Z"
-        },
-        {
-          "title": "zerobrew - Homebrew 보다 5~20배 빠른 패키지 관리자",
-          "link": "https://news.hada.io/topic?id=26586",
-          "pubDate": "2026-02-11T00:31:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>Homebrew와 <strong>명령어 호환성</strong>을 유지하면서도 <strong>Mac용 패키지 설치를 5~20배 빠르게</strong>\n</li>\n<li>\n<strong>Homebrew CDN</strong>을 그대로 활용해 <code>brew</code> 명령을 <code>zb</code>로 교체만 하면 즉시 사용 가능</li>\n<li>Rust 오픈소스로 <strong>uv 프로젝트의 모델...</p>",
-          "contentSnippet": "Homebrew와 명령어 호환성을 유지하면서도 Mac용 패키지 설치를 5~20배 빠르게\n\n\nHomebrew CDN을 그대로 활용해 brew 명령을 zb로 교체만 하면 즉시 사용 가능\nRust 오픈소스로 uv 프로젝트의 모델...",
-          "id": "https://news.hada.io/topic?id=26586",
-          "isoDate": "2026-02-11T00:31:01.000Z"
-        },
-        {
-          "title": "완벽한 린터를 기다리지 않기로 했다: ESLint V9 마이그레이션, 그리고 Biome 하이브리드 도입기",
-          "link": "https://news.hada.io/topic?id=26585",
-          "pubDate": "2026-02-11T00:28:24.000Z",
-          "author": "mintplo",
-          "content": "<p>ESLint V8 지원 종료에 대응해 V9로 마이그레이션하고, 성능 문제를 Biome 하이브리드 도입으로 해결한 레몬베이스 프론트엔드 챕터의 경험을 공유합니다.</p>\n<h3>도입 배경</h3>\n<ul>\n<li>2024년 9월 ESLint V8 지원 종료 공지, 보안 패치와 버그 수정을 받으려면 V9 마이그레이션이 필수인 상황</li>\n<li>V9부터 .",
-          "contentSnippet": "ESLint V8 지원 종료에 대응해 V9로 마이그레이션하고, 성능 문제를 Biome 하이브리드 도입으로 해결한 레몬베이스 프론트엔드 챕터의 경험을 공유합니다.\n도입 배경\n2024년 9월 ESLint V8 지원 종료 공지, 보안 패치와 버그 수정을 받으려면 V9 마이그레이션이 필수인 상황\nV9부터 .",
-          "id": "https://news.hada.io/topic?id=26585",
-          "isoDate": "2026-02-11T00:28:24.000Z"
-        },
-        {
-          "title": "Entire - AI 에이전트를 위한 새로운 개발자 플랫폼",
-          "link": "https://news.hada.io/topic?id=26583",
-          "pubDate": "2026-02-11T00:16:27.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>전 GitHub CEO, Thomas Dohmke가 만든 회사로, 인간과 에이전트가 함께 <strong>협업·학습·배포</strong>할 수 있는 차세대 개발자 플랫폼 구축을 목표로 함</li>\n<li>세가지 핵심 요소로 구성됨. <strong>Git 호환 데이터베이스</strong>, <strong>보편적 의미 추론 계층</strong>, <strong>AI 네이티브 SDLC...</p>",
-          "contentSnippet": "전 GitHub CEO, Thomas Dohmke가 만든 회사로, 인간과 에이전트가 함께 협업·학습·배포할 수 있는 차세대 개발자 플랫폼 구축을 목표로 함\n세가지 핵심 요소로 구성됨. Git 호환 데이터베이스, 보편적 의미 추론 계층, AI 네이티브 SDLC...",
-          "id": "https://news.hada.io/topic?id=26583",
-          "isoDate": "2026-02-11T00:16:27.000Z"
         }
       ]
     }
