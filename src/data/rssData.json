@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "미국 기업과 소비자가 관세 비용의 90%를 부담한다고 뉴욕 연준이 발표",
+          "link": "https://news.hada.io/topic?id=26666",
+          "pubDate": "2026-02-13T19:33:13.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>뉴욕 연방준비은행</strong> 분석에 따르면, 미국이 부과한 관세의 약 <strong>90%를 국내 기업과 소비자</strong>가 부담하고 있음</li>\n<li>관세 부과로 인한 비용이 <strong>수입업체와 소비자 가격 상승</strong>으로 이어지고 있음</li>\n<li>수입국이 아닌 <strong>미국 내 경제 주체가 실질적 부...</p>",
+          "contentSnippet": "뉴욕 연방준비은행 분석에 따르면, 미국이 부과한 관세의 약 90%를 국내 기업과 소비자가 부담하고 있음\n관세 부과로 인한 비용이 수입업체와 소비자 가격 상승으로 이어지고 있음\n수입국이 아닌 미국 내 경제 주체가 실질적 부...",
+          "id": "https://news.hada.io/topic?id=26666",
+          "isoDate": "2026-02-13T19:33:13.000Z"
+        },
+        {
+          "title": "Anthropic, 시리즈 G 투자 라운드에서 300억 달러 조달하며 사후 가치 3,800억 달러 달성",
+          "link": "https://news.hada.io/topic?id=26665",
+          "pubDate": "2026-02-13T18:33:39.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>GIC와 Coatue가 주도한 <strong>시리즈 G 투자 라운드</strong>에서 300억 달러를 유치하며, Anthropic의 기업 가치는 <strong>사후 기준 3,800억 달러</strong>로 평가됨</li>\n<li>이번 투자에는 D. E. Shaw Ventures, Dragoneer, Founders Fund, ICONIQ, MGX 등과 함께 <strong>Microsoft와 NVIDIA의 기존 전...</p>",
+          "contentSnippet": "GIC와 Coatue가 주도한 시리즈 G 투자 라운드에서 300억 달러를 유치하며, Anthropic의 기업 가치는 사후 기준 3,800억 달러로 평가됨\n이번 투자에는 D. E. Shaw Ventures, Dragoneer, Founders Fund, ICONIQ, MGX 등과 함께 Microsoft와 NVIDIA의 기존 전...",
+          "id": "https://news.hada.io/topic?id=26665",
+          "isoDate": "2026-02-13T18:33:39.000Z"
+        },
+        {
+          "title": "Ralph Giles가 별세함 (Xiph.org | Rust@Mozilla | Ghostscript)",
+          "link": "https://news.hada.io/topic?id=26664",
+          "pubDate": "2026-02-13T17:32:26.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>오픈소스 커뮤니티의 핵심 인물 <strong>Ralph Giles</strong>가 별세함</li>\n<li>그는 <strong>Xiph.org</strong>, <strong>Mozilla의 Rust 프로젝트</strong>, <strong>Ghostscript</strong> 등 여러 주요 프로젝트에 기여한 개발자임</li>\n<li>특히 <strong>오디오·비디오 코덱</strong>과 <strong>프로그래...</p>",
+          "contentSnippet": "오픈소스 커뮤니티의 핵심 인물 Ralph Giles가 별세함\n그는 Xiph.org, Mozilla의 Rust 프로젝트, Ghostscript 등 여러 주요 프로젝트에 기여한 개발자임\n특히 오디오·비디오 코덱과 프로그래...",
+          "id": "https://news.hada.io/topic?id=26664",
+          "isoDate": "2026-02-13T17:32:26.000Z"
+        },
+        {
           "title": "링, 감시 논란 이후 Flock Safety와의 파트너십 취소",
           "link": "https://news.hada.io/topic?id=26662",
           "pubDate": "2026-02-13T14:33:14.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "인공지능 효율성과 장기적 작업 수행 능력을 강화한 대규모 언어모델\n전작 대비 매개변수 7440억 개(활성 400억) 로 확장되고, 사전학습 데이터 28.5조 토큰으로 증가\nDeepSeek Sparse Attention(DSA) 통합으로 긴 문...",
           "id": "https://news.hada.io/topic?id=26611",
           "isoDate": "2026-02-12T00:46:11.000Z"
-        },
-        {
-          "title": "winappCli - Windows 앱 개발을 위한 통합 CLI ",
-          "link": "https://news.hada.io/topic?id=26610",
-          "pubDate": "2026-02-12T00:31:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>microsoft가 <strong>Windows SDK 관리와 앱 패키징 자동화</strong>를 위해 개발한 CLI 도구</li>\n<li>다양한 프레임워크에서 <strong>Windows 네이티브 기능</strong>을 손쉽게 활용하도록 지원</li>\n<li>\n<strong>앱 식별자(App Identity)</strong> 생성, <strong>매니페스트 관리</strong>, <strong>인증서...</p>",
-          "contentSnippet": "microsoft가 Windows SDK 관리와 앱 패키징 자동화를 위해 개발한 CLI 도구\n다양한 프레임워크에서 Windows 네이티브 기능을 손쉽게 활용하도록 지원\n앱 식별자(App Identity) 생성, 매니페스트 관리, 인증서...",
-          "id": "https://news.hada.io/topic?id=26610",
-          "isoDate": "2026-02-12T00:31:01.000Z"
-        },
-        {
-          "title": "Zulip.com의 가치",
-          "link": "https://news.hada.io/topic?id=26609",
-          "pubDate": "2026-02-11T20:36:59.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Zulip</strong>은 세계에서 가장 체계적인 팀 채팅 소프트웨어를 만들기 위해 <strong>지속 가능성과 개방성</strong>을 핵심 가치로 삼음</li>\n<li>모든 기능을 포함한 <strong>100% 오픈소스</strong> 모델을 유지하며, 누구나 무료로 자체 호스팅할 수 있도록 지원</li>\n<li>\n<strong>커뮤니티와 멘...</p>",
-          "contentSnippet": "Zulip은 세계에서 가장 체계적인 팀 채팅 소프트웨어를 만들기 위해 지속 가능성과 개방성을 핵심 가치로 삼음\n모든 기능을 포함한 100% 오픈소스 모델을 유지하며, 누구나 무료로 자체 호스팅할 수 있도록 지원\n커뮤니티와 멘...",
-          "id": "https://news.hada.io/topic?id=26609",
-          "isoDate": "2026-02-11T20:36:59.000Z"
-        },
-        {
-          "title": "Mistral Voxtral Realtime 4B 음성 인식 모델의 순수 C 기반 CPU 전용 추론 구현",
-          "link": "https://news.hada.io/topic?id=26608",
-          "pubDate": "2026-02-11T20:33:59.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Mistral Voxtral Realtime 4B</strong> 모델을 <strong>C 언어만으로 구현한 추론 파이프라인</strong>으로, 외부 의존성이 전혀 없는 독립 실행형 구조</li>\n<li>\n<strong>Metal GPU 가속(MPS)</strong> 과 <strong>BLAS(OpenBLAS/Accelerate)</strong> 백엔드를 지원하며, <strong>스트리밍 API</st...</p>",
-          "contentSnippet": "Mistral Voxtral Realtime 4B 모델을 C 언어만으로 구현한 추론 파이프라인으로, 외부 의존성이 전혀 없는 독립 실행형 구조\nMetal GPU 가속(MPS) 과 BLAS(OpenBLAS/Accelerate) 백엔드를 지원하며, 스트리밍 API",
-          "id": "https://news.hada.io/topic?id=26608",
-          "isoDate": "2026-02-11T20:33:59.000Z"
         }
       ]
     }
