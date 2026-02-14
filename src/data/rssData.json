@@ -7,22 +7,132 @@
       "priority": 1,
       "data": [
         {
+          "title": "Spotify, &quot;AI 덕분에 최고 개발자들이 12월 이후 코드 한 줄도 작성하지 않았다&quot;고 발표",
+          "link": "https://news.hada.io/topic?id=26679",
+          "pubDate": "2026-02-14T02:18:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>스포티파이는 <strong>Claude Code</strong>와 내부 AI 시스템 <strong>Honk</strong>을 활용해 개발 속도를 크게 높였다고 밝힘</li>\n<li>이 시스템은 <strong>생성형 AI를 통한 원격 실시간 코드 배포</strong>를 지원하며, 개발자가 <strong>Slack을 통해 명령만으로 버그 수정이나 기능 추가</strong>를 수...</p>",
+          "contentSnippet": "스포티파이는 Claude Code와 내부 AI 시스템 Honk을 활용해 개발 속도를 크게 높였다고 밝힘\n이 시스템은 생성형 AI를 통한 원격 실시간 코드 배포를 지원하며, 개발자가 Slack을 통해 명령만으로 버그 수정이나 기능 추가를 수...",
+          "id": "https://news.hada.io/topic?id=26679",
+          "isoDate": "2026-02-14T02:18:02.000Z"
+        },
+        {
+          "title": "Skip the Tips - '팁 안 주기' 버튼을 못 누르게 하는 '다크 패턴' 피하기 게임",
+          "link": "https://news.hada.io/topic?id=26677",
+          "pubDate": "2026-02-14T00:41:25.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>결제 화면의 <strong>팁 유도 구조</strong>를 풍자한 무료 브라우저 게임, 사용자가 ‘No Tip’을 누르려 하면 <strong>다양한 다크 패턴</strong>이 이를 방해함</li>\n<li>\n<strong>작은 버튼</strong>, <strong>죄책감을 유발하는 팝업</strong>, <strong>가짜 로딩 화면</strong>, <strong>조작된 슬라이더...</p>",
+          "contentSnippet": "결제 화면의 팁 유도 구조를 풍자한 무료 브라우저 게임, 사용자가 ‘No Tip’을 누르려 하면 다양한 다크 패턴이 이를 방해함\n작은 버튼, 죄책감을 유발하는 팝업, 가짜 로딩 화면, 조작된 슬라이더...",
+          "id": "https://news.hada.io/topic?id=26677",
+          "isoDate": "2026-02-14T00:41:25.000Z"
+        },
+        {
+          "title": "MinIO 저장소는 더 이상 유지관리되지 않음",
+          "link": "https://news.hada.io/topic?id=26676",
+          "pubDate": "2026-02-14T00:38:24.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>README.md 파일이 수정되어, 프로젝트가 <strong>더 이상 유지관리되지 않음</strong>이 명시됨</li>\n<li>기존의 “유지보수 모드” 문구가 삭제되고, 대신 <strong>“THIS REPOSITORY IS NO LONGER MAINTAINED”</strong> 라는 경고가 추가됨</li>\n<li>README 상단에 <strong>AIStor Free</strong>와 <strong>...</p>",
+          "contentSnippet": "README.md 파일이 수정되어, 프로젝트가 더 이상 유지관리되지 않음이 명시됨\n기존의 “유지보수 모드” 문구가 삭제되고, 대신 “THIS REPOSITORY IS NO LONGER MAINTAINED” 라는 경고가 추가됨\nREADME 상단에 AIStor Free와 ...",
+          "id": "https://news.hada.io/topic?id=26676",
+          "isoDate": "2026-02-14T00:38:24.000Z"
+        },
+        {
+          "title": "MonoSketch - ASCII 기반 다이어그램 제작 도구",
+          "link": "https://news.hada.io/topic?id=26675",
+          "pubDate": "2026-02-14T00:35:24.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>텍스트만으로 아이디어를 시각적 설계로 변환할 수 있는 <strong>클라이언트-온리 웹 애플리케이션</strong>\n</li>\n<li>\n<strong>Kotlin으로 작성된 후 JS로 컴파일</strong>된 오픈소스. SASS/Tailwind 사용</li>\n<li>사각형, 선, 텍스트 박스 등 <strong>기본 도형 블록</strong>을 조합해 복잡한 구조나 시스...</p>",
+          "contentSnippet": "텍스트만으로 아이디어를 시각적 설계로 변환할 수 있는 클라이언트-온리 웹 애플리케이션\n\n\nKotlin으로 작성된 후 JS로 컴파일된 오픈소스. SASS/Tailwind 사용\n사각형, 선, 텍스트 박스 등 기본 도형 블록을 조합해 복잡한 구조나 시스...",
+          "id": "https://news.hada.io/topic?id=26675",
+          "isoDate": "2026-02-14T00:35:24.000Z"
+        },
+        {
+          "title": "aws-doctor - AWS 비용 진단, 유휴 리소스 탐지 및 클라우드 지출 최적화",
+          "link": "https://news.hada.io/topic?id=26674",
+          "pubDate": "2026-02-14T00:31:01.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>AWS 비용 이상 탐지와 리소스 낭비 분석</strong>을 자동화하기 위해 개발된 <strong>Golang 기반 CLI 도구</strong>\n</li>\n<li>\n<strong>AWS Trusted Advisor</strong>의 주요 기능을 무료로 제공하며, 비즈니스/엔터프라이즈 지원 플랜 없이도 <strong>비용 진단 및 최적화 분석</strong> 수행</li>...</p>",
+          "contentSnippet": "AWS 비용 이상 탐지와 리소스 낭비 분석을 자동화하기 위해 개발된 Golang 기반 CLI 도구\n\n\nAWS Trusted Advisor의 주요 기능을 무료로 제공하며, 비즈니스/엔터프라이즈 지원 플랜 없이도 비용 진단 및 최적화 분석 수행\n...",
+          "id": "https://news.hada.io/topic?id=26674",
+          "isoDate": "2026-02-14T00:31:01.000Z"
+        },
+        {
+          "title": "Rari - Rust-Powered React 프레임워크 ",
+          "link": "https://news.hada.io/topic?id=26672",
+          "pubDate": "2026-02-13T23:56:46.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>Rust 컴파일 성능</strong>을 활용해 React 애플리케이션의 빌드와 실행 속도를 극대화한 런타임 가속 렌더링 인프라</li>\n<li>\n<strong>React Server Components</strong>를 기본 지원해 클라이언트로 전송되는 JavaScript 양을 줄임</li>\n<li>\n<strong>Rolldown-Vite</strong> 기반의 차세대 Rust 번...</p>",
+          "contentSnippet": "Rust 컴파일 성능을 활용해 React 애플리케이션의 빌드와 실행 속도를 극대화한 런타임 가속 렌더링 인프라\nReact Server Components를 기본 지원해 클라이언트로 전송되는 JavaScript 양을 줄임\nRolldown-Vite 기반의 차세대 Rust 번...",
+          "id": "https://news.hada.io/topic?id=26672",
+          "isoDate": "2026-02-13T23:56:46.000Z"
+        },
+        {
+          "title": "디스코드가 익명성을 죽여버렸다",
+          "link": "https://news.hada.io/topic?id=26671",
+          "pubDate": "2026-02-13T23:55:23.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>모든 사용자를 대상으로 한 <strong>의무 연령 인증 정책</strong>이 시행되며, 익명 채팅 시대가 종료됨</li>\n<li>이에 따라 수많은 사용자가 <strong>오픈소스 분산형 플랫폼 Matrix</strong>로 이동 중</li>\n<li>그러나 Matrix의 <strong>공식 homeserver(matrix.org)</strong> 역시 영국의 <strong>Online ...</p>",
+          "contentSnippet": "모든 사용자를 대상으로 한 의무 연령 인증 정책이 시행되며, 익명 채팅 시대가 종료됨\n이에 따라 수많은 사용자가 오픈소스 분산형 플랫폼 Matrix로 이동 중\n그러나 Matrix의 공식 homeserver(matrix.org) 역시 영국의 Online ...",
+          "id": "https://news.hada.io/topic?id=26671",
+          "isoDate": "2026-02-13T23:55:23.000Z"
+        },
+        {
+          "title": "타이머 0 되기 전에 iOS 키보드 고쳐줘요. 안 그러면 안드로이드로 돌아갈 거에요.",
+          "link": "https://news.hada.io/topic?id=26670",
+          "pubDate": "2026-02-13T23:54:10.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>iOS 17 이후 <strong>키보드 오작동과 자동 수정 오류</strong>가 지속되어 사용자 불만이 누적됨</li>\n<li>자동 수정이 <strong>오타를 바로잡지 못하거나 올바른 단어를 잘못 수정</strong>하는 문제가 반복</li>\n<li>&quot;전체 글 선택&quot;도 어렵고 텍스트 선택과 입력 지연, <strong>잘못된 키 입력 인...</p>",
+          "contentSnippet": "iOS 17 이후 키보드 오작동과 자동 수정 오류가 지속되어 사용자 불만이 누적됨\n자동 수정이 오타를 바로잡지 못하거나 올바른 단어를 잘못 수정하는 문제가 반복\n\"전체 글 선택\"도 어렵고 텍스트 선택과 입력 지연, 잘못된 키 입력 인...",
+          "id": "https://news.hada.io/topic?id=26670",
+          "isoDate": "2026-02-13T23:54:10.000Z"
+        },
+        {
+          "title": "Zed 에디터, 그래픽스 라이브러리를 Blade에서 wgpu로 전환",
+          "link": "https://news.hada.io/topic?id=26669",
+          "pubDate": "2026-02-13T22:57:26.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>Linux용 <strong>렌더러를 wgpu 기반으로 재구현</strong>하여 기존 Blade 그래픽스 라이브러리를 제거</li>\n<li>기존 Blade는 <strong>Zed 사용자와 서드파티 앱에서 여러 문제를 유발</strong>했으며, wgpu는 Rust 생태계의 표준으로 더 넓은 호환성과 개선 가능성 제공</li>\n<li>새 구현은 <strong>NVIDIA 및...</p>",
+          "contentSnippet": "Linux용 렌더러를 wgpu 기반으로 재구현하여 기존 Blade 그래픽스 라이브러리를 제거\n기존 Blade는 Zed 사용자와 서드파티 앱에서 여러 문제를 유발했으며, wgpu는 Rust 생태계의 표준으로 더 넓은 호환성과 개선 가능성 제공\n새 구현은 NVIDIA 및...",
+          "id": "https://news.hada.io/topic?id=26669",
+          "isoDate": "2026-02-13T22:57:26.000Z"
+        },
+        {
+          "title": "Cloudrouter - Claude Code/Codex가 클라우드 VM·GPU를 띄우게 만드는 스킬 ",
+          "link": "https://news.hada.io/topic?id=26668",
+          "pubDate": "2026-02-13T22:56:50.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>AI 코딩 에이전트</strong>가 명령줄에서 직접 <strong>클라우드 샌드박스 생성·제어</strong>를 수행할 수 있게 하는 도구로, VM과 GPU 인스턴스를 자동으로 실행함</li>\n<li>로컬 디렉터리나 Git 저장소에서 원격 개발 환경을 만들고, <strong>VS Code·Jupyter·VNC·터미널</strong> 등 다양한 접근 ...</p>",
+          "contentSnippet": "AI 코딩 에이전트가 명령줄에서 직접 클라우드 샌드박스 생성·제어를 수행할 수 있게 하는 도구로, VM과 GPU 인스턴스를 자동으로 실행함\n로컬 디렉터리나 Git 저장소에서 원격 개발 환경을 만들고, VS Code·Jupyter·VNC·터미널 등 다양한 접근 ...",
+          "id": "https://news.hada.io/topic?id=26668",
+          "isoDate": "2026-02-13T22:56:50.000Z"
+        },
+        {
+          "title": "대규모 시민 숙의를 위한 오픈소스 플랫폼, Polis",
+          "link": "https://news.hada.io/topic?id=26667",
+          "pubDate": "2026-02-13T22:33:22.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>전 세계 수천 건의 토론과 수백만 명의 참여를 통해 <strong>공통 의견을 도출</strong>하는 오픈소스 숙의 플랫폼</li>\n<li>\n<strong>대만·영국·핀란드 등 국가 인프라</strong>로 채택되어 입법, 정책 설계, 사회 서비스 개선에 활용</li>\n<li>새 버전 <strong>Polis 2.0</strong>은 대규모 참여, <strong>LL...</p>",
+          "contentSnippet": "전 세계 수천 건의 토론과 수백만 명의 참여를 통해 공통 의견을 도출하는 오픈소스 숙의 플랫폼\n대만·영국·핀란드 등 국가 인프라로 채택되어 입법, 정책 설계, 사회 서비스 개선에 활용\n새 버전 Polis 2.0은 대규모 참여, LL...",
+          "id": "https://news.hada.io/topic?id=26667",
+          "isoDate": "2026-02-13T22:33:22.000Z"
+        },
+        {
           "title": "미국 기업과 소비자가 관세 비용의 90%를 부담한다고 뉴욕 연준이 발표",
           "link": "https://news.hada.io/topic?id=26666",
           "pubDate": "2026-02-13T19:33:13.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>뉴욕 연방준비은행</strong> 분석에 따르면, 미국이 부과한 관세의 약 <strong>90%를 국내 기업과 소비자</strong>가 부담하고 있음</li>\n<li>관세 부과로 인한 비용이 <strong>수입업체와 소비자 가격 상승</strong>으로 이어지고 있음</li>\n<li>수입국이 아닌 <strong>미국 내 경제 주체가 실질적 부...</p>",
-          "contentSnippet": "뉴욕 연방준비은행 분석에 따르면, 미국이 부과한 관세의 약 90%를 국내 기업과 소비자가 부담하고 있음\n관세 부과로 인한 비용이 수입업체와 소비자 가격 상승으로 이어지고 있음\n수입국이 아닌 미국 내 경제 주체가 실질적 부...",
+          "content": "<ul>\n<li>2025년 트럼프 행정부의 <strong>고율 관세 비용의 약 90%</strong> 를 미국 기업과 소비자가 부담한 것으로 <strong>뉴욕 연방준비은행</strong> 연구에서 나타남</li>\n<li>연초 8개월간 <strong>관세 전가율 94%</strong> 기록, 9~10월 92%, 11월 86%로 소폭 하락 흐름</li>\n<li>외국 수출업체 부담 비중이 연...</p>",
+          "contentSnippet": "2025년 트럼프 행정부의 고율 관세 비용의 약 90% 를 미국 기업과 소비자가 부담한 것으로 뉴욕 연방준비은행 연구에서 나타남\n연초 8개월간 관세 전가율 94% 기록, 9~10월 92%, 11월 86%로 소폭 하락 흐름\n외국 수출업체 부담 비중이 연...",
           "id": "https://news.hada.io/topic?id=26666",
           "isoDate": "2026-02-13T19:33:13.000Z"
         },
         {
-          "title": "Anthropic, 시리즈 G 투자 라운드에서 300억 달러 조달하며 사후 가치 3,800억 달러 달성",
+          "title": "Anthropic, 시리즈 G 투자 라운드에서 300억 달러 조달하며 포스트밸류 3,800억 달러 달성",
           "link": "https://news.hada.io/topic?id=26665",
           "pubDate": "2026-02-13T18:33:39.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>GIC와 Coatue가 주도한 <strong>시리즈 G 투자 라운드</strong>에서 300억 달러를 유치하며, Anthropic의 기업 가치는 <strong>사후 기준 3,800억 달러</strong>로 평가됨</li>\n<li>이번 투자에는 D. E. Shaw Ventures, Dragoneer, Founders Fund, ICONIQ, MGX 등과 함께 <strong>Microsoft와 NVIDIA의 기존 전...</p>",
-          "contentSnippet": "GIC와 Coatue가 주도한 시리즈 G 투자 라운드에서 300억 달러를 유치하며, Anthropic의 기업 가치는 사후 기준 3,800억 달러로 평가됨\n이번 투자에는 D. E. Shaw Ventures, Dragoneer, Founders Fund, ICONIQ, MGX 등과 함께 Microsoft와 NVIDIA의 기존 전...",
+          "content": "<ul>\n<li>GIC와 Coatue가 주도한 <strong>시리즈 G 투자 라운드</strong>에서 $30b(43조원)를 유치하며, Anthropic의 기업 가치는 <strong>포스트 밸류 $380b(545조원)</strong> 로 평가됨</li>\n<li>Anthropic은 연간 매출 실행률이 <strong>140억 달러</strong>에 이르며, 지난 3년간 매년 10배 이상 성장함</li>\n<li>\n...</p>",
+          "contentSnippet": "GIC와 Coatue가 주도한 시리즈 G 투자 라운드에서 $30b(43조원)를 유치하며, Anthropic의 기업 가치는 포스트 밸류 $380b(545조원) 로 평가됨\nAnthropic은 연간 매출 실행률이 140억 달러에 이르며, 지난 3년간 매년 10배 이상 성장함\n\n...",
           "id": "https://news.hada.io/topic?id=26665",
           "isoDate": "2026-02-13T18:33:39.000Z"
         },
@@ -395,116 +505,6 @@
           "contentSnippet": "Show GN: 웹 기반 병합 충돌 편집기",
           "id": "https://news.hada.io/topic?id=26623",
           "isoDate": "2026-02-12T04:41:09.000Z"
-        },
-        {
-          "title": "Fluorite - Flutter와 완전 통합된 콘솔급 게임 엔진",
-          "link": "https://news.hada.io/topic?id=26622",
-          "pubDate": "2026-02-12T04:37:06.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Flutter 및 Dart 생태계</strong>를 활용하여 게임 로직을 작성하고, Flutter의 풍부한 UI 툴킷과 통합하여 <strong>대화형 경험 구축</strong> 가능</li>\n<li>C++로 구현되어 <strong>임베디드 하드웨어에서도 높은 성능</strong>을 제공하며, <strong>ECS(Entity-Component-System)</strong> 기반의...</p>",
-          "contentSnippet": "Flutter 및 Dart 생태계를 활용하여 게임 로직을 작성하고, Flutter의 풍부한 UI 툴킷과 통합하여 대화형 경험 구축 가능\nC++로 구현되어 임베디드 하드웨어에서도 높은 성능을 제공하며, ECS(Entity-Component-System) 기반의...",
-          "id": "https://news.hada.io/topic?id=26622",
-          "isoDate": "2026-02-12T04:37:06.000Z"
-        },
-        {
-          "title": "Discord/Twitch/Snapchat 연령 인증 우회하기",
-          "link": "https://news.hada.io/topic?id=26621",
-          "pubDate": "2026-02-12T04:34:06.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>여러 플랫폼의 <strong>연령 인증 절차를 자동으로 성인으로 통과시키는 스크립트</strong>\n</li>\n<li>\n<strong>Discord 콘솔에 코드를 붙여넣어 실행</strong>하면, 자동으로 <code>/age-verification/verify</code> API 요청을 보내고 인증 완료 페이지로 이동</li>\n<li>\n<strong>Twitch, Kick, Snapchat 등 ...</p>",
-          "contentSnippet": "여러 플랫폼의 연령 인증 절차를 자동으로 성인으로 통과시키는 스크립트\n\n\nDiscord 콘솔에 코드를 붙여넣어 실행하면, 자동으로 /age-verification/verify API 요청을 보내고 인증 완료 페이지로 이동\nTwitch, Kick, Snapchat 등 ...",
-          "id": "https://news.hada.io/topic?id=26621",
-          "isoDate": "2026-02-12T04:34:06.000Z"
-        },
-        {
-          "title": "ZERO-Click 쇼핑의 시대 준비되셨나요?",
-          "link": "https://news.hada.io/topic?id=26620",
-          "pubDate": "2026-02-12T03:42:45.000Z",
-          "author": "kkumaeunsonyeon",
-          "content": "<p>뉴스레터 구독 및 본문 영상 보기, https://maily.so/kkumaeunsonyeon/posts/2nzn78pkrp5</p>\n<p>글로벌 빅테크 기업들은 현재 검색과 추천 중심의 이커머스에서 벗어나 AI 에이전트가 사용자의 의도를 이해하고 쇼핑의 전 과정을 자율적으로 수행하는 '에이전틱 커머스(Agentic Commerce)' 시대로의 전환을 주도하고",
-          "contentSnippet": "뉴스레터 구독 및 본문 영상 보기, https://maily.so/kkumaeunsonyeon/posts/2nzn78pkrp5\n글로벌 빅테크 기업들은 현재 검색과 추천 중심의 이커머스에서 벗어나 AI 에이전트가 사용자의 의도를 이해하고 쇼핑의 전 과정을 자율적으로 수행하는 '에이전틱 커머스(Agentic Commerce)' 시대로의 전환을 주도하고",
-          "id": "https://news.hada.io/topic?id=26620",
-          "isoDate": "2026-02-12T03:42:45.000Z"
-        },
-        {
-          "title": "정보는 결코 무료가 아니었다. 앞으로도 그럴 것이다.",
-          "link": "https://news.hada.io/topic?id=26618",
-          "pubDate": "2026-02-12T03:21:50.000Z",
-          "author": "davespark",
-          "content": "<p>(원제: Information Was Never Free. And It Never Will Be. / 작성자: Nate Ritter / 2026년 2월 10일 게시)</p>\n<p>이 글은 디지털 시대에 “정보는 무료”라는 착각을 강하게 비판하며, 정보의 진짜 비용이 사라진 게 아니라 <strong>형태만 바뀌었다</strong>는 점을 핵심 주장으로 삼습니다.</p>\n<p>한 문장 요약",
-          "contentSnippet": "(원제: Information Was Never Free. And It Never Will Be. / 작성자: Nate Ritter / 2026년 2월 10일 게시)\n이 글은 디지털 시대에 “정보는 무료”라는 착각을 강하게 비판하며, 정보의 진짜 비용이 사라진 게 아니라 형태만 바뀌었다는 점을 핵심 주장으로 삼습니다.\n한 문장 요약",
-          "id": "https://news.hada.io/topic?id=26618",
-          "isoDate": "2026-02-12T03:21:50.000Z"
-        },
-        {
-          "title": "Show GN: 무엇이든 즉시 AI가 읽을 수 있는 URL로 변환해주는 데이터 허브",
-          "link": "https://news.hada.io/topic?id=26617",
-          "pubDate": "2026-02-12T03:11:30.000Z",
-          "author": "sitesnapshot",
-          "content": "<p>안녕하세요! LLM이나 AI 에이전트를 활용한 개발을 하다 보면, 데이터나 로그를 컨텍스트로 집어넣기 위해 매번 복사-붙여넣기를 하거나 HTML 스크래핑에 고생하는 경우가 많았습니다.</p>\n<p>'AI에게 데이터를 더 쉽고 깨끗하게 전달할 방법은 없을까?'라는 고민에서 Pepput을 만들게 되었습니다.</p>\n<p>Pepput의 핵",
-          "contentSnippet": "안녕하세요! LLM이나 AI 에이전트를 활용한 개발을 하다 보면, 데이터나 로그를 컨텍스트로 집어넣기 위해 매번 복사-붙여넣기를 하거나 HTML 스크래핑에 고생하는 경우가 많았습니다.\n'AI에게 데이터를 더 쉽고 깨끗하게 전달할 방법은 없을까?'라는 고민에서 Pepput을 만들게 되었습니다.\nPepput의 핵",
-          "id": "https://news.hada.io/topic?id=26617",
-          "isoDate": "2026-02-12T03:11:30.000Z"
-        },
-        {
-          "title": "아마존 링의 ‘잃어버린 개’ 광고, 대규모 감시 우려 속 반발 확산",
-          "link": "https://news.hada.io/topic?id=26616",
-          "pubDate": "2026-02-12T02:33:05.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>AI 기반 Search Party 기능</strong>이 동네 카메라 영상을 분석해 잃어버린 개를 찾는 기술로 소개되었으나, <strong>인간 추적 가능성</strong>에 대한 우려가 제기됨</li>\n<li>슈퍼볼 중계 중 방영된 30초 광고가 <strong>이웃 감시를 미화</strong>한다는 비판을 받으며, <strong>대중 감시 사회...</p>",
-          "contentSnippet": "AI 기반 Search Party 기능이 동네 카메라 영상을 분석해 잃어버린 개를 찾는 기술로 소개되었으나, 인간 추적 가능성에 대한 우려가 제기됨\n슈퍼볼 중계 중 방영된 30초 광고가 이웃 감시를 미화한다는 비판을 받으며, 대중 감시 사회...",
-          "id": "https://news.hada.io/topic?id=26616",
-          "isoDate": "2026-02-12T02:33:05.000Z"
-        },
-        {
-          "title": "나폴레옹 기법: 일을 미뤄서 생산성을 높이는 방법",
-          "link": "https://news.hada.io/topic?id=26615",
-          "pubDate": "2026-02-12T01:08:33.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>즉각 대응하지 않아도 자연히 해결될 가능성이 높은 업무를 <strong>의도적으로 지연</strong>시켜 시간과 에너지를 절약하는 생산성 기법</li>\n<li>나폴레옹이 이탈리아 주둔 시절 서신을 <strong>3주간 미개봉 상태</strong>로 두었더니 4/5가 답장 불필요해졌다는 일화에서 유래</li>\n<li>이메일, 기술 이슈...</p>",
-          "contentSnippet": "즉각 대응하지 않아도 자연히 해결될 가능성이 높은 업무를 의도적으로 지연시켜 시간과 에너지를 절약하는 생산성 기법\n나폴레옹이 이탈리아 주둔 시절 서신을 3주간 미개봉 상태로 두었더니 4/5가 답장 불필요해졌다는 일화에서 유래\n이메일, 기술 이슈...",
-          "id": "https://news.hada.io/topic?id=26615",
-          "isoDate": "2026-02-12T01:08:33.000Z"
-        },
-        {
-          "title": "사용자 브라우징 데이터를 수집하는 Chrome 확장 프로그램 287개 발견",
-          "link": "https://news.hada.io/topic?id=26614",
-          "pubDate": "2026-02-12T00:57:11.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>자동화된 <strong>MITM(중간자 공격) 기반 스캐닝 파이프라인</strong>을 통해 287개의 Chrome 확장 프로그램이 사용자의 브라우징 기록을 외부로 전송하는 행위를 탐지</li>\n<li>이들 확장 프로그램은 총 <strong>약 3,740만 회 설치</strong>되어 있으며, 이는 전 세계 Chrome 사용자 약 1%에 해당</li>\n<li>...</p>",
-          "contentSnippet": "자동화된 MITM(중간자 공격) 기반 스캐닝 파이프라인을 통해 287개의 Chrome 확장 프로그램이 사용자의 브라우징 기록을 외부로 전송하는 행위를 탐지\n이들 확장 프로그램은 총 약 3,740만 회 설치되어 있으며, 이는 전 세계 Chrome 사용자 약 1%에 해당\n...",
-          "id": "https://news.hada.io/topic?id=26614",
-          "isoDate": "2026-02-12T00:57:11.000Z"
-        },
-        {
-          "title": "Windows 메모장 앱 원격 코드 실행 취약점 CVE-2026-20841",
-          "link": "https://news.hada.io/topic?id=26613",
-          "pubDate": "2026-02-12T00:54:11.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Windows 메모장 앱에서 <strong>명령 주입(command injection)</strong> 취약점이 발견되어, 원격에서 코드 실행이 가능한 것으로 보고됨</li>\n<li>\n<strong>인증되지 않은 공격자</strong>가 네트워크를 통해 악성 명령을 실행할 수 있는 구조로, 사용자 개입이 필요</li>\n<li>취약점은 <strong>Windows Notep...</p>",
-          "contentSnippet": "Windows 메모장 앱에서 명령 주입(command injection) 취약점이 발견되어, 원격에서 코드 실행이 가능한 것으로 보고됨\n인증되지 않은 공격자가 네트워크를 통해 악성 명령을 실행할 수 있는 구조로, 사용자 개입이 필요\n취약점은 Windows Notep...",
-          "id": "https://news.hada.io/topic?id=26613",
-          "isoDate": "2026-02-12T00:54:11.000Z"
-        },
-        {
-          "title": "Claude Code가 단순화되고 있나?",
-          "link": "https://news.hada.io/topic?id=26612",
-          "pubDate": "2026-02-12T00:51:04.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>최신 버전 <strong>2.1.20</strong>에서 파일 읽기와 검색 패턴 표시가 모두 <strong>단일 요약 문장</strong>으로 대체되어, 사용자가 어떤 파일이나 패턴이 처리되는지 확인할 수 없게 됨</li>\n<li>사용자들은 GitHub 이슈를 통해 <strong>파일 경로와 검색 패턴 표시 복원</strong> 또는 <strong>토글 옵션 ...</p>",
-          "contentSnippet": "최신 버전 2.1.20에서 파일 읽기와 검색 패턴 표시가 모두 단일 요약 문장으로 대체되어, 사용자가 어떤 파일이나 패턴이 처리되는지 확인할 수 없게 됨\n사용자들은 GitHub 이슈를 통해 파일 경로와 검색 패턴 표시 복원 또는 토글 옵션 ...",
-          "id": "https://news.hada.io/topic?id=26612",
-          "isoDate": "2026-02-12T00:51:04.000Z"
-        },
-        {
-          "title": "GLM-5 공개 : 복잡한 시스템 엔지니어링과 장기 에이전트 작업을 목표로 하는 모델",
-          "link": "https://news.hada.io/topic?id=26611",
-          "pubDate": "2026-02-12T00:46:11.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>인공지능 <strong>효율성과 장기적 작업 수행 능력</strong>을 강화한 대규모 언어모델</li>\n<li>전작 대비 <strong>매개변수 7440억 개(활성 400억)</strong> 로 확장되고, <strong>사전학습 데이터 28.5조 토큰</strong>으로 증가</li>\n<li>\n<strong>DeepSeek Sparse Attention(DSA)</strong> 통합으로 긴 문...</p>",
-          "contentSnippet": "인공지능 효율성과 장기적 작업 수행 능력을 강화한 대규모 언어모델\n전작 대비 매개변수 7440억 개(활성 400억) 로 확장되고, 사전학습 데이터 28.5조 토큰으로 증가\nDeepSeek Sparse Attention(DSA) 통합으로 긴 문...",
-          "id": "https://news.hada.io/topic?id=26611",
-          "isoDate": "2026-02-12T00:46:11.000Z"
         }
       ]
     }
