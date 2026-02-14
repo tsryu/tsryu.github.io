@@ -7,6 +7,46 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: opencode로 윈도우11 WSL2에서 한 시간에 online radio 웹앱을 만들었어요!",
+          "link": "https://news.hada.io/topic?id=26687",
+          "pubDate": "2026-02-14T15:06:16.000Z",
+          "author": "geekbini",
+          "content": "<p>#opencode 와 #oh-my-opencode 를 이용해서</p>\n<p>오늘 낮에 한 시간 걸려서 함 만들어 봤습니다.</p>\n<p>기존에 실시간 라디오앱이나 웹서비스를 사용하면 광고가 많고<br />\n쓸데없는 방송국들과 채널들이 많아서 제가 자주 사용하는 방송과 채널들<br />\n위주로 한번 만들어 봤습니다.</p>\n<p>시간나시면 함 이용",
+          "contentSnippet": "#opencode 와 #oh-my-opencode 를 이용해서\n오늘 낮에 한 시간 걸려서 함 만들어 봤습니다.\n기존에 실시간 라디오앱이나 웹서비스를 사용하면 광고가 많고\n시간나시면 함 이용",
+          "id": "https://news.hada.io/topic?id=26687",
+          "isoDate": "2026-02-14T15:06:16.000Z"
+        },
+        {
+          "title": "Show GN: 일주일만에 새로운 엑셀 라이브러리를 만들다",
+          "link": "https://news.hada.io/topic?id=26686",
+          "pubDate": "2026-02-14T14:17:16.000Z",
+          "author": "realignist",
+          "content": "<p>일주일동안 코딩 에이전트를 최대한 활용하면서 Node.js(Bun, Deno에서도 사용 가능)와 Rust에서 사용 가능한 <a href=\"https://sheetkit.dev\">SheetKit</a>을 만들었습니다. 오늘 <a href=\"https://github.com/Nebu1eto/sheetkit/releases/tag/v0.5.0\">v0.5.0</a>를 릴리즈했는데 제가 일주일동안 만든 과정에 대한 ...</p>",
+          "contentSnippet": "일주일동안 코딩 에이전트를 최대한 활용하면서 Node.js(Bun, Deno에서도 사용 가능)와 Rust에서 사용 가능한 SheetKit을 만들었습니다. 오늘 v0.5.0를 릴리즈했는데 제가 일주일동안 만든 과정에 대한 ...",
+          "id": "https://news.hada.io/topic?id=26686",
+          "isoDate": "2026-02-14T14:17:16.000Z"
+        },
+        {
+          "title": "Show GN: cgrep: AI 코딩 에이전트를 위한 로컬 코드 의도 검색 도구",
+          "link": "https://news.hada.io/topic?id=26685",
+          "pubDate": "2026-02-14T12:15:08.000Z",
+          "author": "meghendra",
+          "content": "<p>안녕하세요. cgrep이라는 로컬 우선(code-local) 코드 검색 도구를 만들었습니다.</p>\n<p>핵심 목표는 AI 코딩 에이전트가 코드베이스를 탐색할 때 발생하는 토큰 낭비와 반복 검색을 줄이는 것입니다.<br />\ncgrep은 BM25 검색(Tantivy) + AST 심볼 분석(tree-sitter)을 결합해서, 단순 문자열 검색보다 코드 의도에",
+          "contentSnippet": "안녕하세요. cgrep이라는 로컬 우선(code-local) 코드 검색 도구를 만들었습니다.\n핵심 목표는 AI 코딩 에이전트가 코드베이스를 탐색할 때 발생하는 토큰 낭비와 반복 검색을 줄이는 것입니다.\ncgrep은 BM25 검색(Tantivy) + AST 심볼 분석(tree-sitter)을 결합해서, 단순 문자열 검색보다 코드 의도에",
+          "id": "https://news.hada.io/topic?id=26685",
+          "isoDate": "2026-02-14T12:15:08.000Z"
+        },
+        {
+          "title": "이론물리학에서 새로운 결과를 도출한 GPT‑5.2",
+          "link": "https://news.hada.io/topic?id=26684",
+          "pubDate": "2026-02-14T10:32:29.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>GPT‑5.2</strong>가 글루온 산란 진폭에 대한 새로운 <strong>공식</strong>을 제안했고, 이후 OpenAI 내부 모델과 연구진이 이를 <strong>증명 및 검증</strong>함</li>\n<li>기존에는 특정 <strong>헬리시티 조합</strong>의 글루온 상호작용이 발생하지 않는다고 여겨졌으나, 연구는 <strong>특정 ...</p>",
+          "contentSnippet": "GPT‑5.2가 글루온 산란 진폭에 대한 새로운 공식을 제안했고, 이후 OpenAI 내부 모델과 연구진이 이를 증명 및 검증함\n기존에는 특정 헬리시티 조합의 글루온 상호작용이 발생하지 않는다고 여겨졌으나, 연구는 특정 ...",
+          "id": "https://news.hada.io/topic?id=26684",
+          "isoDate": "2026-02-14T10:32:29.000Z"
+        },
+        {
           "title": "Steve Yegge의 AI 에이전트 시대 전망",
           "link": "https://news.hada.io/topic?id=26683",
           "pubDate": "2026-02-14T08:36:28.000Z",
@@ -465,46 +505,6 @@
           "contentSnippet": "아일랜드 정부가 예술가와 창작자에게 기본소득을 지급하는 제도를 도입\n이 제도는 예술 활동의 경제적 불안정성을 완화하고 지속적인 창작을 지원하기 위한 목적\n참여 예술가는 일정 기간 동안 정기적 금전 지원을 받게 됨\n정...",
           "id": "https://news.hada.io/topic?id=26630",
           "isoDate": "2026-02-12T14:33:27.000Z"
-        },
-        {
-          "title": "왜 뱀파이어는 영원히 사는가",
-          "link": "https://news.hada.io/topic?id=26629",
-          "pubDate": "2026-02-12T13:33:22.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>현대 장수 연구의 혈액 교환 집착</strong>을 뱀파이어 신화와 연결하며, 과학적 실험과 문화적 사례를 병치함</li>\n<li>1864년 <strong>파라비오시스(parabiosis)</strong> 실험부터 2000년대 스탠퍼드 연구까지, 젊은 피가 노화를 되돌린다는 결과가 반복적으로 보고됨</li>\n<li>\n<strong>Peter Thi...</p>",
-          "contentSnippet": "현대 장수 연구의 혈액 교환 집착을 뱀파이어 신화와 연결하며, 과학적 실험과 문화적 사례를 병치함\n1864년 파라비오시스(parabiosis) 실험부터 2000년대 스탠퍼드 연구까지, 젊은 피가 노화를 되돌린다는 결과가 반복적으로 보고됨\nPeter Thi...",
-          "id": "https://news.hada.io/topic?id=26629",
-          "isoDate": "2026-02-12T13:33:22.000Z"
-        },
-        {
-          "title": "Show GN: Chunk Translator: 긴 글도 잘게 쪼개 LLM에게 번역맡기기",
-          "link": "https://news.hada.io/topic?id=26628",
-          "pubDate": "2026-02-12T10:36:40.000Z",
-          "author": "winterjung",
-          "content": "<p>길게 작성한 블로그 글을 문장 누락없이 번역하고 싶어 글을 문단별로 나눠 번역한 후, 다시 합칠 수 있는 작은 html 도구를 만들어봤습니다.</p>\n<ul>\n<li>chatgpt같은 llm에게 통째로 번역을 요청하다보면 한 문장씩 빼먹거나 마음대로 요약해버리거나 하는 등 한번에 잘 못하더라구요.</li>\n<li>프롬프트를 더 깎아",
-          "contentSnippet": "길게 작성한 블로그 글을 문장 누락없이 번역하고 싶어 글을 문단별로 나눠 번역한 후, 다시 합칠 수 있는 작은 html 도구를 만들어봤습니다.\nchatgpt같은 llm에게 통째로 번역을 요청하다보면 한 문장씩 빼먹거나 마음대로 요약해버리거나 하는 등 한번에 잘 못하더라구요.\n프롬프트를 더 깎아",
-          "id": "https://news.hada.io/topic?id=26628",
-          "isoDate": "2026-02-12T10:36:40.000Z"
-        },
-        {
-          "title": "Vertex AI Context Caching + Priority PayGo 레이턴시 벤치마크 (400회, Gemini 3 Flash)",
-          "link": "https://news.hada.io/topic?id=26627",
-          "pubDate": "2026-02-12T08:23:25.000Z",
-          "author": "calmlake79",
-          "content": "<p>AI 챗봇 서비스에서 사용하는 ~7,500토큰 시스템 프롬프트(입력)와 ~100토큰 응답(출력) 기준으로, Vertex AI의 Context Caching과 이번에 새로 나온 신규 Priority PayGo의 레이턴시 개선 효과를 벤치마크</p>\n<ul>\n<li>4가지 시나리오 (Standard/Priority × 캐싱/비캐싱), 각 100회, 총 400회 요청</li>\n<li>모델: ",
-          "contentSnippet": "AI 챗봇 서비스에서 사용하는 ~7,500토큰 시스템 프롬프트(입력)와 ~100토큰 응답(출력) 기준으로, Vertex AI의 Context Caching과 이번에 새로 나온 신규 Priority PayGo의 레이턴시 개선 효과를 벤치마크\n4가지 시나리오 (Standard/Priority × 캐싱/비캐싱), 각 100회, 총 400회 요청\n모델:",
-          "id": "https://news.hada.io/topic?id=26627",
-          "isoDate": "2026-02-12T08:23:25.000Z"
-        },
-        {
-          "title": "WordPress가 Claude와 연결됐다, 공식 연동으로 가능해진 것들",
-          "link": "https://news.hada.io/topic?id=26626",
-          "pubDate": "2026-02-12T07:24:21.000Z",
-          "author": "davespark",
-          "content": "<p>• WordPress.com이 Anthropic의 Claude와 <strong>공식 커넥터</strong>로 연동됨<br />\n• Claude가 WordPress.com 사이트의 <strong>실제 데이터</strong>를 자연어로 직접 조회·분석 가능</p>\n<p><strong>연동 특징</strong><br />\n• Anthropic 공식 커넥터 디렉토리 최초 WordPress 호스팅 서비스 등재<br />\n•",
-          "contentSnippet": "• WordPress.com이 Anthropic의 Claude와 공식 커넥터로 연동됨\n실제 데이터를 자연어로 직접 조회·분석 가능\n연동 특징\n• Anthropic 공식 커넥터 디렉토리 최초 WordPress 호스팅 서비스 등재\n•",
-          "id": "https://news.hada.io/topic?id=26626",
-          "isoDate": "2026-02-12T07:24:21.000Z"
         }
       ]
     }
