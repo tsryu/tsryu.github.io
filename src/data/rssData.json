@@ -7,6 +7,56 @@
       "priority": 1,
       "data": [
         {
+          "title": "대규모 모델을 위한 데이터 엔지니어링: 아키텍처, 알고리듬 및 프로젝트",
+          "link": "https://news.hada.io/topic?id=26712",
+          "pubDate": "2026-02-15T20:42:13.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>대규모 모델 시대에 <strong>데이터 품질이 모델 성능의 상한을 결정</strong>하며, 이를 위한 체계적 데이터 엔지니어링 지식을 제공하는 오픈소스 가이드북</li>\n<li>\n<strong>사전학습 데이터 정제</strong>, <strong>멀티모달 정렬</strong>, <strong>RAG 데이터 파이프라인</strong>, <strong>합성 데이터...</p>",
+          "contentSnippet": "대규모 모델 시대에 데이터 품질이 모델 성능의 상한을 결정하며, 이를 위한 체계적 데이터 엔지니어링 지식을 제공하는 오픈소스 가이드북\n사전학습 데이터 정제, 멀티모달 정렬, RAG 데이터 파이프라인, 합성 데이터...",
+          "id": "https://news.hada.io/topic?id=26712",
+          "isoDate": "2026-02-15T20:42:13.000Z"
+        },
+        {
+          "title": "국토안보부가 ICE 비판자 검열을 위해 플랫폼에 압력을 가하고 있다는 주장 제기",
+          "link": "https://news.hada.io/topic?id=26711",
+          "pubDate": "2026-02-15T20:39:13.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>기술 기업들이 <strong>불법적 정부 요청으로부터 이용자를 보호해야 한다는 압력</strong>이 커지고 있으며, 이러한 요청이 ICE 관련 정보 공유를 어렵게 만들고 있음</li>\n<li>\n<strong>트럼프 행정부 관계자들이 ICE 요원 신상 노출(doxing) 우려</strong>를 이유로, 여러 이용자와 플랫폼에 콘텐츠 검열을 ...</p>",
+          "contentSnippet": "기술 기업들이 불법적 정부 요청으로부터 이용자를 보호해야 한다는 압력이 커지고 있으며, 이러한 요청이 ICE 관련 정보 공유를 어렵게 만들고 있음\n트럼프 행정부 관계자들이 ICE 요원 신상 노출(doxing) 우려를 이유로, 여러 이용자와 플랫폼에 콘텐츠 검열을 ...",
+          "id": "https://news.hada.io/topic?id=26711",
+          "isoDate": "2026-02-15T20:39:13.000Z"
+        },
+        {
+          "title": "Descent, 웹으로 포팅된 버전",
+          "link": "https://news.hada.io/topic?id=26710",
+          "pubDate": "2026-02-15T20:36:13.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>1990년대 3D 슈팅 게임 <strong>Descent</strong>가 <strong>웹 환경에서 실행 가능한 형태</strong>로 이식됨</li>\n<li>\n<strong>Three.js 기반 WebGL 기술</strong>을 이용해 브라우저에서 직접 플레이 가능</li>\n<li>원본 게임의 <strong>리소스 파일 DESCENT.PIG</strong>을 로드해 그래픽과 사운드를 재현...</p>",
+          "contentSnippet": "1990년대 3D 슈팅 게임 Descent가 웹 환경에서 실행 가능한 형태로 이식됨\nThree.js 기반 WebGL 기술을 이용해 브라우저에서 직접 플레이 가능\n원본 게임의 리소스 파일 DESCENT.PIG을 로드해 그래픽과 사운드를 재현...",
+          "id": "https://news.hada.io/topic?id=26710",
+          "isoDate": "2026-02-15T20:36:13.000Z"
+        },
+        {
+          "title": "Show GN: gaji – TS로 안전하게 깃헙 액션 작성하기, 그런데 코드젠이 포함된",
+          "link": "https://news.hada.io/topic?id=26709",
+          "pubDate": "2026-02-15T16:16:58.000Z",
+          "author": "dodok8",
+          "content": "<p>최근에 깃헙 액션 수십여 개를 다룰 일이 있었습니다. 그때 느낀 3가지 문제점이 있습니다.</p>\n<ol>\n<li>YAML은 데이터 표현 언어지, 동작을 표현하기에 적합하지 않습니다.</li>\n<li>타입 검사가 없습니다. 외부 저장소에 의존할 일이 많은데(actions/checkout@v5조차 외부 저장소입니다), 이들이 요구하는 입력에 ",
+          "contentSnippet": "최근에 깃헙 액션 수십여 개를 다룰 일이 있었습니다. 그때 느낀 3가지 문제점이 있습니다.\nYAML은 데이터 표현 언어지, 동작을 표현하기에 적합하지 않습니다.\n타입 검사가 없습니다. 외부 저장소에 의존할 일이 많은데(actions/checkout@v5조차 외부 저장소입니다), 이들이 요구하는 입력에",
+          "id": "https://news.hada.io/topic?id=26709",
+          "isoDate": "2026-02-15T16:16:58.000Z"
+        },
+        {
+          "title": "바이브 코딩의 마법을 깨기",
+          "link": "https://news.hada.io/topic?id=26708",
+          "pubDate": "2026-02-15T15:32:23.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>AI가 생성한 복잡한 코드 대량 생산</strong>이 확산되며, 인간이 읽지 않는 코드를 만드는 현상이 업계 전반에 퍼지고 있음</li>\n<li>경영진은 <strong>AI로 인한 인력 감축</strong>을 정당화하고, 개발자들은 AI가 만든 코드 비율을 채우라는 압박을 받는 상황</li>\n<li>이러한 ‘바이브 코딩’은 ...</p>",
+          "contentSnippet": "AI가 생성한 복잡한 코드 대량 생산이 확산되며, 인간이 읽지 않는 코드를 만드는 현상이 업계 전반에 퍼지고 있음\n경영진은 AI로 인한 인력 감축을 정당화하고, 개발자들은 AI가 만든 코드 비율을 채우라는 압박을 받는 상황\n이러한 ‘바이브 코딩’은 ...",
+          "id": "https://news.hada.io/topic?id=26708",
+          "isoDate": "2026-02-15T15:32:23.000Z"
+        },
+        {
           "title": "Show GN: FW/HW 개발자를 위한 커뮤니티를 만들어 봤습니다.",
           "link": "https://news.hada.io/topic?id=26707",
           "pubDate": "2026-02-15T12:42:41.000Z",
@@ -455,56 +505,6 @@
           "contentSnippet": "ByteDance Seed 팀이 공개한 차세대 멀티모달 영상 생성 모델로, 텍스트·이미지·오디오·비디오 입력을 통합 지원\n물리 정확도와 현실감이 강화되어 복잡한 인물 상호작용과 운동 장면에서도 높은 안정성과 일관성 확보\n최대 ...",
           "id": "https://news.hada.io/topic?id=26657",
           "isoDate": "2026-02-13T07:00:08.000Z"
-        },
-        {
-          "title": "16일간 AI와 함께 만든 AI 모니터링 도구 이야기",
-          "link": "https://news.hada.io/topic?id=26656",
-          "pubDate": "2026-02-13T05:36:06.000Z",
-          "author": "byforce",
-          "content": "<p>16일간 AI와 함께 만든 AI 모니터링 도구 이야기</p>\n<p>설명</p>\n<p>&quot;Claude Code가 지금 뭐 하는지 알고 싶다&quot;는 단순한 동기로 시작해서 ESP32 하드웨어부터 클라우드 WebSocket까지 구현한 개발 여정.</p>\n<p>읽을 포인트:</p>\n<ul>\n<li>로컬 HTTP에서 시작해 4단계로 진화한 아키텍처 스토리</li>\n<li",
-          "contentSnippet": "16일간 AI와 함께 만든 AI 모니터링 도구 이야기\n설명\n\"Claude Code가 지금 뭐 하는지 알고 싶다\"는 단순한 동기로 시작해서 ESP32 하드웨어부터 클라우드 WebSocket까지 구현한 개발 여정.\n읽을 포인트:\n로컬 HTTP에서 시작해 4단계로 진화한 아키텍처 스토리\n<li",
-          "id": "https://news.hada.io/topic?id=26656",
-          "isoDate": "2026-02-13T05:36:06.000Z"
-        },
-        {
-          "title": "65줄 텍스트가 AI 코딩을 바꿨다? 하루 400 스타 받은 파일의 정체",
-          "link": "https://news.hada.io/topic?id=26655",
-          "pubDate": "2026-02-13T04:57:27.000Z",
-          "author": "davespark",
-          "content": "<p>Andrej Karpathy가 지적한 LLM 코딩 문제점을 해결하려는 <strong>단 65줄짜리 Markdown 파일(CLAUDE.md)</strong> 이 GitHub에서 폭발적 인기를 끌며, Claude Code 사용자들 사이에서 “이 파일 하나만 넣으면 AI가 훨씬 똑똑해진다”는 센세이션을 일으킴.</p>\n<p><strong>파일의 폭발적 인기</strong></p>\n<ul>\n<l",
-          "contentSnippet": "Andrej Karpathy가 지적한 LLM 코딩 문제점을 해결하려는 단 65줄짜리 Markdown 파일(CLAUDE.md) 이 GitHub에서 폭발적 인기를 끌며, Claude Code 사용자들 사이에서 “이 파일 하나만 넣으면 AI가 훨씬 똑똑해진다”는 센세이션을 일으킴.\n파일의 폭발적 인기\n\n<l",
-          "id": "https://news.hada.io/topic?id=26655",
-          "isoDate": "2026-02-13T04:57:27.000Z"
-        },
-        {
-          "title": "OpenAI의 사내 데이터 에이전트 들여다 보기",
-          "link": "https://news.hada.io/topic?id=26654",
-          "pubDate": "2026-02-13T03:55:09.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>OpenAI는 <strong>3,500명 이상 내부 사용자</strong>와 <strong>600PB 규모 데이터</strong>를 효율적으로 분석하기 위해 <strong>맞춤형 AI 데이터 에이전트</strong>를 자체 구축</li>\n<li>자연어 질문만으로 테이블 탐색, SQL 실행, 노트북 및 리포트 발행까지 <strong>엔드투엔드 분석 워크플로</strong>를...</p>",
-          "contentSnippet": "OpenAI는 3,500명 이상 내부 사용자와 600PB 규모 데이터를 효율적으로 분석하기 위해 맞춤형 AI 데이터 에이전트를 자체 구축\n자연어 질문만으로 테이블 탐색, SQL 실행, 노트북 및 리포트 발행까지 엔드투엔드 분석 워크플로를...",
-          "id": "https://news.hada.io/topic?id=26654",
-          "isoDate": "2026-02-13T03:55:09.000Z"
-        },
-        {
-          "title": "애플의 차세대 Siri 출시, 내부 테스트 문제로 또다시 지연",
-          "link": "https://news.hada.io/topic?id=26653",
-          "pubDate": "2026-02-13T03:45:36.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>전면 개편된 Siri 업그레이드</strong>가 내부 테스트 문제로 일정 차질 발생</li>\n<li>당초 iOS 26.4에 포함 예정이던 기능이 <strong>iOS 26.5 및 iOS 27</strong>로 분산되어 순차 배포 예정</li>\n<li>개인 데이터 활용 및 <strong>앱 인텐트 기반 음성 제어</strong> 기능이 특히 불안정</li>\n<li...</p>",
-          "contentSnippet": "전면 개편된 Siri 업그레이드가 내부 테스트 문제로 일정 차질 발생\n당초 iOS 26.4에 포함 예정이던 기능이 iOS 26.5 및 iOS 27로 분산되어 순차 배포 예정\n개인 데이터 활용 및 앱 인텐트 기반 음성 제어 기능이 특히 불안정",
-          "id": "https://news.hada.io/topic?id=26653",
-          "isoDate": "2026-02-13T03:45:36.000Z"
-        },
-        {
-          "title": "유럽 주요 결제처리업체, Google Workspace 사용자에게 이메일 전송 불가",
-          "link": "https://news.hada.io/topic?id=26652",
-          "pubDate": "2026-02-13T03:33:23.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>유럽 대형 결제업체 <strong>Viva.com</strong>이 <code>Message-ID</code> 헤더 없이 인증 메일을 발송해 <strong>Google Workspace 서버가 이를 거부</strong>함</li>\n<li>RFC 5322(2008년 제정)에서 <code>Message-ID</code>는 필수 수준의 헤더로 규정되어 있으며, Google은 이를 엄격히 적용</li>\n<li>Gma...</p>",
-          "contentSnippet": "유럽 대형 결제업체 Viva.com이 Message-ID 헤더 없이 인증 메일을 발송해 Google Workspace 서버가 이를 거부함\nRFC 5322(2008년 제정)에서 Message-ID는 필수 수준의 헤더로 규정되어 있으며, Google은 이를 엄격히 적용\nGma...",
-          "id": "https://news.hada.io/topic?id=26652",
-          "isoDate": "2026-02-13T03:33:23.000Z"
         }
       ]
     }
