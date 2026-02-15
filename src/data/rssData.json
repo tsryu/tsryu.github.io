@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: FW/HW 개발자를 위한 커뮤니티를 만들어 봤습니다.",
+          "link": "https://news.hada.io/topic?id=26707",
+          "pubDate": "2026-02-15T12:42:41.000Z",
+          "author": "geekbini",
+          "content": "<p>안녕하세요.</p>\n<p>설 연휴에 집에서 쉬다가, 문득 이런 생각이 들었습니다.<br />\n“FW/HW 개발자들끼리 편하게 이야기할 공간이 생각보다 없지 않나?”</p>\n<p>요즘 개발 커뮤니티는 대부분 웹, 앱, AI 중심이고, 물론 그 흐름이 자연스럽긴 합니다만, 펌웨어나 하드웨어 쪽 이야기를 깊게 나눌 수 있는 공간은 점",
+          "contentSnippet": "안녕하세요.\n설 연휴에 집에서 쉬다가, 문득 이런 생각이 들었습니다.\n요즘 개발 커뮤니티는 대부분 웹, 앱, AI 중심이고, 물론 그 흐름이 자연스럽긴 합니다만, 펌웨어나 하드웨어 쪽 이야기를 깊게 나눌 수 있는 공간은 점",
+          "id": "https://news.hada.io/topic?id=26707",
+          "isoDate": "2026-02-15T12:42:41.000Z"
+        },
+        {
+          "title": "AI 도입의 한계를 확인한 IBM, Z세대 초급 채용을 세 배로 확대",
+          "link": "https://news.hada.io/topic?id=26705",
+          "pubDate": "2026-02-15T10:32:52.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>글로벌 기술기업 IBM이 <strong>AI 자동화의 한계</strong>를 인식하고, <strong>Z세대 초급 인력 채용을 세 배로 늘릴 계획</strong>을 발표</li>\n<li>IBM은 기존 초급 직무의 일부가 자동화되었지만, <strong>AI 활용 능력(AI fluency)</strong> 을 반영해 직무를 재설계함</li>\n<li>소프트웨어 엔지니어는 반...</p>",
+          "contentSnippet": "글로벌 기술기업 IBM이 AI 자동화의 한계를 인식하고, Z세대 초급 인력 채용을 세 배로 늘릴 계획을 발표\nIBM은 기존 초급 직무의 일부가 자동화되었지만, AI 활용 능력(AI fluency) 을 반영해 직무를 재설계함\n소프트웨어 엔지니어는 반...",
+          "id": "https://news.hada.io/topic?id=26705",
+          "isoDate": "2026-02-15T10:32:52.000Z"
+        },
+        {
+          "title": "국토안보부, 소셜미디어에 반(反) ICE 계정 공개 요구",
+          "link": "https://news.hada.io/topic?id=26704",
+          "pubDate": "2026-02-15T09:32:51.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>미국 <strong>국토안보부(DHS)</strong> 가 소셜미디어 플랫폼에 <strong>이민세관단속국(ICE)</strong> 비판 계정의 정보를 공개하도록 요청한 사실이 보도됨</li>\n<li>요청 대상에는 <strong>반(反) ICE 활동가나 단체 계정</strong>이 포함된 것으로 전해짐</li>\n<li>DHS는 이러한 계정이 <strong>공공안전 ...</p>",
+          "contentSnippet": "미국 국토안보부(DHS) 가 소셜미디어 플랫폼에 이민세관단속국(ICE) 비판 계정의 정보를 공개하도록 요청한 사실이 보도됨\n요청 대상에는 반(反) ICE 활동가나 단체 계정이 포함된 것으로 전해짐\nDHS는 이러한 계정이 공공안전 ...",
+          "id": "https://news.hada.io/topic?id=26704",
+          "isoDate": "2026-02-15T09:32:51.000Z"
+        },
+        {
           "title": "Bing Webmaster Tools, AI 답변 인용 횟수 추적 기능 공개",
           "link": "https://news.hada.io/topic?id=26703",
           "pubDate": "2026-02-15T04:38:24.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "유럽 대형 결제업체 Viva.com이 Message-ID 헤더 없이 인증 메일을 발송해 Google Workspace 서버가 이를 거부함\nRFC 5322(2008년 제정)에서 Message-ID는 필수 수준의 헤더로 규정되어 있으며, Google은 이를 엄격히 적용\nGma...",
           "id": "https://news.hada.io/topic?id=26652",
           "isoDate": "2026-02-13T03:33:23.000Z"
-        },
-        {
-          "title": "Cloudflare, 에이전트를 위한 Markdown 변환 전송 기능 도입",
-          "link": "https://news.hada.io/topic?id=26651",
-          "pubDate": "2026-02-13T02:46:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>AI 크롤러와 에이전트 중심 트래픽 증가</strong>에 따라, 웹 콘텐츠를 사람뿐 아니라 <strong>기계가 직접 소비</strong>하는 구조로 전환 중</li>\n<li>HTML을 markdown으로 변환하면 <strong>토큰 사용량이 약 80% 감소</strong>, 비용과 처리 효율 개선</li>\n<li>\n<code>Accept: text/markdown</co...</p>",
-          "contentSnippet": "AI 크롤러와 에이전트 중심 트래픽 증가에 따라, 웹 콘텐츠를 사람뿐 아니라 기계가 직접 소비하는 구조로 전환 중\nHTML을 markdown으로 변환하면 토큰 사용량이 약 80% 감소, 비용과 처리 효율 개선\nAccept: text/markdown",
-          "id": "https://news.hada.io/topic?id=26651",
-          "isoDate": "2026-02-13T02:46:01.000Z"
-        },
-        {
-          "title": "AWS가 중첩 가상화 (nested virtualization) 지원 추가",
-          "link": "https://news.hada.io/topic?id=26650",
-          "pubDate": "2026-02-13T02:16:32.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>AWS SDK for Go v2가 업데이트 되면서, 가상 머신 내부에서 또 다른 <strong>가상 머신을 실행할 수 있는 기능</strong>이 추가됨</li>\n<li>새 기능은 <strong>비(非) 베어메탈 EC2 인스턴스에서도 중첩 VM 실행</strong>을 가능하게 함</li>\n<li>AWS EC2에서 <strong>중첩 가상화 지원 확장</strong>은 개발·�...</p>",
-          "contentSnippet": "AWS SDK for Go v2가 업데이트 되면서, 가상 머신 내부에서 또 다른 가상 머신을 실행할 수 있는 기능이 추가됨\n새 기능은 비(非) 베어메탈 EC2 인스턴스에서도 중첩 VM 실행을 가능하게 함\nAWS EC2에서 중첩 가상화 지원 확장은 개발·�...",
-          "id": "https://news.hada.io/topic?id=26650",
-          "isoDate": "2026-02-13T02:16:32.000Z"
-        },
-        {
-          "title": "Claude Code 창시자의 커스터마이징 팁 12가지",
-          "link": "https://news.hada.io/topic?id=26649",
-          "pubDate": "2026-02-13T02:06:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>엔지니어마다 도구 사용 방식이 다르다는 점에 착안해, Claude Code는 처음부터 <strong>뛰어난 기본값과 높은 커스터마이징 자유도</strong>를 동시에 갖추도록 설계됨</li>\n<li>터미널 테마, 알림, Vim 모드부터 <strong>에이전트, 플러그인, MCP, 스킬</strong>까지 거의 모든 동작을 사용자가 조정 가능</l...</p>",
-          "contentSnippet": "엔지니어마다 도구 사용 방식이 다르다는 점에 착안해, Claude Code는 처음부터 뛰어난 기본값과 높은 커스터마이징 자유도를 동시에 갖추도록 설계됨\n터미널 테마, 알림, Vim 모드부터 에이전트, 플러그인, MCP, 스킬까지 거의 모든 동작을 사용자가 조정 가능",
-          "id": "https://news.hada.io/topic?id=26649",
-          "isoDate": "2026-02-13T02:06:01.000Z"
         }
       ]
     }
