@@ -7,6 +7,26 @@
       "priority": 1,
       "data": [
         {
+          "title": "뉴욕시 공립병원, 팔란티어에 수백만 달러 지급",
+          "link": "https://news.hada.io/topic?id=26741",
+          "pubDate": "2026-02-16T19:32:52.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>뉴욕시 공립병원 시스템이 <strong>팔란티어(Palantir)</strong> 와 계약을 맺고 병원 청구 효율화를 위해 약 <strong>400만 달러</strong>를 지급함</li>\n<li>팔란티어는 <strong>메디케이드 및 공공복지 청구 자동화</strong>를 위해 환자 건강기록을 스캔해 누락된 청구 기회를 찾아내는 소프트웨어를 제공함...</p>",
+          "contentSnippet": "뉴욕시 공립병원 시스템이 팔란티어(Palantir) 와 계약을 맺고 병원 청구 효율화를 위해 약 400만 달러를 지급함\n팔란티어는 메디케이드 및 공공복지 청구 자동화를 위해 환자 건강기록을 스캔해 누락된 청구 기회를 찾아내는 소프트웨어를 제공함...",
+          "id": "https://news.hada.io/topic?id=26741",
+          "isoDate": "2026-02-16T19:32:52.000Z"
+        },
+        {
+          "title": "마그누스 칼슨, 2026 FIDE 프리스타일(체스960) 세계 챔피언 등극",
+          "link": "https://news.hada.io/topic?id=26740",
+          "pubDate": "2026-02-16T16:33:27.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>마그누스 칼슨</strong>이 독일 바이센하우스에서 열린 <strong>2026 FIDE 프리스타일 체스 세계선수권</strong>에서 우승하며 첫 공식 FIDE 인정 타이틀을 획득</li>\n<li>결승전에서 <strong>파비아노 카루아나</strong>를 상대로 2.5–1.5로 승리, 마지막 4국 무승부로 우승 확정</li>\n<li>3국에서 ...</p>",
+          "contentSnippet": "마그누스 칼슨이 독일 바이센하우스에서 열린 2026 FIDE 프리스타일 체스 세계선수권에서 우승하며 첫 공식 FIDE 인정 타이틀을 획득\n결승전에서 파비아노 카루아나를 상대로 2.5–1.5로 승리, 마지막 4국 무승부로 우승 확정\n3국에서 ...",
+          "id": "https://news.hada.io/topic?id=26740",
+          "isoDate": "2026-02-16T16:33:27.000Z"
+        },
+        {
           "title": "Show GN: 오직 AI와의 대화로만 만들어본 블로그 엔진, zlog를 소개합니다.",
           "link": "https://news.hada.io/topic?id=26739",
           "pubDate": "2026-02-16T13:33:34.000Z",
@@ -485,26 +505,6 @@
           "contentSnippet": "워너브라더스 디스커버리가 고전 SF 시리즈 ‘Babylon 5’의 전체 에피소드를 YouTube에 순차적으로 공개하며 무료 시청을 지원\n기존에 광고 기반 스트리밍 서비스 Tubi에서 제공되던 콘텐츠가 2026년 2월 10일 이후 제거되면서, YouTube로의 이전이 이루어짐\n...",
           "id": "https://news.hada.io/topic?id=26688",
           "isoDate": "2026-02-14T15:33:11.000Z"
-        },
-        {
-          "title": "Show GN: opencode로 윈도우11 WSL2에서 한 시간에 online radio 웹앱을 만들었어요!",
-          "link": "https://news.hada.io/topic?id=26687",
-          "pubDate": "2026-02-14T15:06:16.000Z",
-          "author": "geekbini",
-          "content": "<p>#opencode 와 #oh-my-opencode 를 이용해서</p>\n<p>오늘 낮에 한 시간 걸려서 함 만들어 봤습니다.</p>\n<p>기존에 실시간 라디오앱이나 웹서비스를 사용하면 광고가 많고<br />\n쓸데없는 방송국들과 채널들이 많아서 제가 자주 사용하는 방송과 채널들<br />\n위주로 한번 만들어 봤습니다.</p>\n<p>시간나시면 함 이용",
-          "contentSnippet": "#opencode 와 #oh-my-opencode 를 이용해서\n오늘 낮에 한 시간 걸려서 함 만들어 봤습니다.\n기존에 실시간 라디오앱이나 웹서비스를 사용하면 광고가 많고\n시간나시면 함 이용",
-          "id": "https://news.hada.io/topic?id=26687",
-          "isoDate": "2026-02-14T15:06:16.000Z"
-        },
-        {
-          "title": "Show GN: 일주일만에 새로운 엑셀 라이브러리를 만들다",
-          "link": "https://news.hada.io/topic?id=26686",
-          "pubDate": "2026-02-14T14:17:16.000Z",
-          "author": "realignist",
-          "content": "<p>일주일동안 코딩 에이전트를 최대한 활용하면서 Node.js(Bun, Deno에서도 사용 가능)와 Rust에서 사용 가능한 <a href=\"https://sheetkit.dev\">SheetKit</a>을 만들었습니다. 오늘 <a href=\"https://github.com/Nebu1eto/sheetkit/releases/tag/v0.5.0\">v0.5.0</a>를 릴리즈했는데 제가 일주일동안 만든 과정에 대한 ...</p>",
-          "contentSnippet": "일주일동안 코딩 에이전트를 최대한 활용하면서 Node.js(Bun, Deno에서도 사용 가능)와 Rust에서 사용 가능한 SheetKit을 만들었습니다. 오늘 v0.5.0를 릴리즈했는데 제가 일주일동안 만든 과정에 대한 ...",
-          "id": "https://news.hada.io/topic?id=26686",
-          "isoDate": "2026-02-14T14:17:16.000Z"
         }
       ]
     }
