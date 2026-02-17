@@ -7,6 +7,96 @@
       "priority": 1,
       "data": [
         {
+          "title": "Anthropic, Claude의 AI 동작을 숨기려다 개발자 반발 초래",
+          "link": "https://news.hada.io/topic?id=26750",
+          "pubDate": "2026-02-17T00:41:10.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Anthropic이 <strong>AI 코딩 도구 Claude Code</strong>의 출력 방식을 변경해, 어떤 파일을 읽거나 수정하는지 표시하지 않도록 함</li>\n<li>새 버전(2.1.20)은 파일 이름 대신 “3개의 파일을 읽음”과 같은 요약만 보여주며, 세부 정보는 <strong>단축키로만 확인 가능</strong>\n</li>\n<li>개발자들은 <str...</p>",
+          "contentSnippet": "Anthropic이 AI 코딩 도구 Claude Code의 출력 방식을 변경해, 어떤 파일을 읽거나 수정하는지 표시하지 않도록 함\n새 버전(2.1.20)은 파일 이름 대신 “3개의 파일을 읽음”과 같은 요약만 보여주며, 세부 정보는 단축키로만 확인 가능\n\n개발자들은",
+          "id": "https://news.hada.io/topic?id=26750",
+          "isoDate": "2026-02-17T00:41:10.000Z"
+        },
+        {
+          "title": "14세 소년, 종이접기로 1만 배 하중을 견디는 구조 설계",
+          "link": "https://news.hada.io/topic?id=26749",
+          "pubDate": "2026-02-17T00:38:10.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Miura-ori 종이접기 패턴</strong>을 변형해 <strong>자신의 무게의 1만 배를 지탱하는 구조물</strong>을 만든 14세 학생의 연구 사례</li>\n<li>250시간 이상 실험을 반복하며 <strong>재난 시 신속 배치 가능한 긴급 대피소 구조</strong>로 발전 가능성을 탐구</li>\n<li>실험에서 <strong>200파운드...</p>",
+          "contentSnippet": "Miura-ori 종이접기 패턴을 변형해 자신의 무게의 1만 배를 지탱하는 구조물을 만든 14세 학생의 연구 사례\n250시간 이상 실험을 반복하며 재난 시 신속 배치 가능한 긴급 대피소 구조로 발전 가능성을 탐구\n실험에서 200파운드...",
+          "id": "https://news.hada.io/topic?id=26749",
+          "isoDate": "2026-02-17T00:38:10.000Z"
+        },
+        {
+          "title": "영국 법무부, 최대 법원 보도 데이터베이스 삭제 명령",
+          "link": "https://news.hada.io/topic?id=26748",
+          "pubDate": "2026-02-17T00:35:09.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>영국 <strong>법무부(Ministry of Justice)</strong> 가 언론이 형사법원 사건을 추적하던 <strong>디지털 아카이브 ‘Courtsdesk’</strong> 의 삭제를 명령함</li>\n<li>HM Courts &amp; Tribunals Service(HMCTS)가 모든 기록 삭제를 지시했으며, 39개 언론사 소속 1,500명 이상의 기자들이 이 플랫폼을 사용...</p>",
+          "contentSnippet": "영국 법무부(Ministry of Justice) 가 언론이 형사법원 사건을 추적하던 디지털 아카이브 ‘Courtsdesk’ 의 삭제를 명령함\nHM Courts & Tribunals Service(HMCTS)가 모든 기록 삭제를 지시했으며, 39개 언론사 소속 1,500명 이상의 기자들이 이 플랫폼을 사용...",
+          "id": "https://news.hada.io/topic?id=26748",
+          "isoDate": "2026-02-17T00:35:09.000Z"
+        },
+        {
+          "title": "agent-of-empires - tmux와 git Worktree를 활용한 AI 코딩 에이전트 터미널 세션 관리자",
+          "link": "https://news.hada.io/topic?id=26747",
+          "pubDate": "2026-02-17T00:31:01.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>AI 코딩 에이전트의 병렬 실행과 세션 관리</strong>를 위해 개발</li>\n<li>\n<strong>Claude Code, OpenCode, Codex CLI, Gemini CLI</strong> 등 주요 AI 코딩 도구를 통합 지원</li>\n<li>\n<strong>Linux와 macOS</strong>에서 동작하며, 각 에이전트를 <strong>독립된 tmux 세션</strong>으로 실행해...</p>",
+          "contentSnippet": "AI 코딩 에이전트의 병렬 실행과 세션 관리를 위해 개발\nClaude Code, OpenCode, Codex CLI, Gemini CLI 등 주요 AI 코딩 도구를 통합 지원\nLinux와 macOS에서 동작하며, 각 에이전트를 독립된 tmux 세션으로 실행해...",
+          "id": "https://news.hada.io/topic?id=26747",
+          "isoDate": "2026-02-17T00:31:01.000Z"
+        },
+        {
+          "title": "microgpt - 200줄 순수 파이썬으로 구현한 GPT 학습 및 추론",
+          "link": "https://news.hada.io/topic?id=26746",
+          "pubDate": "2026-02-16T22:25:47.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>karpathy가 공개한 아트 프로젝트. 200줄 단일 파일로 외부 의존성없이 <strong>GPT 전체 알고리듬을 구현</strong>\n</li>\n<li>프로덕션 LLM과의 차이는 <strong>규모와 효율성</strong>일 뿐 핵심은 동일, 이 코드를 이해하면 <strong>GPT의 알고리듬적 본질을 이해한 것</strong>임</li>\n<li>데이터셋, 토크나...</p>",
+          "contentSnippet": "karpathy가 공개한 아트 프로젝트. 200줄 단일 파일로 외부 의존성없이 GPT 전체 알고리듬을 구현\n\n프로덕션 LLM과의 차이는 규모와 효율성일 뿐 핵심은 동일, 이 코드를 이해하면 GPT의 알고리듬적 본질을 이해한 것임\n데이터셋, 토크나...",
+          "id": "https://news.hada.io/topic?id=26746",
+          "isoDate": "2026-02-16T22:25:47.000Z"
+        },
+        {
+          "title": "자동차를 세차하려고 하는데 세차장이 50미터 떨어져 있다면 걸어갈까 운전할까?",
+          "link": "https://news.hada.io/topic?id=26745",
+          "pubDate": "2026-02-16T21:59:39.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>LLM들에 대한 논리적 함정 질문</strong>. 많은 모델이 <strong>자동차를 세차장에 가져가야 한다는 전제</strong>를 놓치고 <strong>걸어가라</strong>고 함</li>\n<li>ChatGPT, Claude, Deepseek, Qwen 등 유명한 여러 모델이 <strong>서로 다른 답변과 논리적 오류</strong>를 보임</li>\n<li>이 사례...</p>",
+          "contentSnippet": "LLM들에 대한 논리적 함정 질문. 많은 모델이 자동차를 세차장에 가져가야 한다는 전제를 놓치고 걸어가라고 함\nChatGPT, Claude, Deepseek, Qwen 등 유명한 여러 모델이 서로 다른 답변과 논리적 오류를 보임\n이 사례...",
+          "id": "https://news.hada.io/topic?id=26745",
+          "isoDate": "2026-02-16T21:59:39.000Z"
+        },
+        {
+          "title": "Qwen3.5: 네이티브 멀티모달 에이전트를 향하여",
+          "link": "https://news.hada.io/topic?id=26744",
+          "pubDate": "2026-02-16T21:57:47.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>Qwen3.5-397B-A17B</strong>는 언어·비전 통합 모델로 <strong>추론·코딩·에이전트·멀티모달 이해</strong> 전반에서 우수한 성능을 보임</li>\n<li>\n<strong>GDN 기반 선형 어텐션과 희소 MoE</strong>를 결합한 하이브리드 구조로, 3,970억 파라미터 중 170억만 활성화되어 <strong>추론 효율과 비용...</p>",
+          "contentSnippet": "Qwen3.5-397B-A17B는 언어·비전 통합 모델로 추론·코딩·에이전트·멀티모달 이해 전반에서 우수한 성능을 보임\nGDN 기반 선형 어텐션과 희소 MoE를 결합한 하이브리드 구조로, 3,970억 파라미터 중 170억만 활성화되어 추론 효율과 비용...",
+          "id": "https://news.hada.io/topic?id=26744",
+          "isoDate": "2026-02-16T21:57:47.000Z"
+        },
+        {
+          "title": "Gwtar: 정적이고 효율적인 단일 파일 HTML 형식",
+          "link": "https://news.hada.io/topic?id=26743",
+          "pubDate": "2026-02-16T21:32:57.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>웹 브라우저가 효율적으로 <strong>지연 로딩(lazy-loading)</strong> 할 수 있는 <strong>단일 HTML 아카이브 파일 형식</strong>으로, 모든 자산을 포함하면서도 정적·단일·효율성을 동시에 달성함</li>\n<li>HTML과 JavaScript 헤더 뒤에 <strong>tarball 형태의 원본 HTML 및 자산</strong>을 결합하고, JS가...</p>",
+          "contentSnippet": "웹 브라우저가 효율적으로 지연 로딩(lazy-loading) 할 수 있는 단일 HTML 아카이브 파일 형식으로, 모든 자산을 포함하면서도 정적·단일·효율성을 동시에 달성함\nHTML과 JavaScript 헤더 뒤에 tarball 형태의 원본 HTML 및 자산을 결합하고, JS가...",
+          "id": "https://news.hada.io/topic?id=26743",
+          "isoDate": "2026-02-16T21:32:57.000Z"
+        },
+        {
+          "title": "Ars Technica가 &quot;AI 도구가 생성한 허위 인용문&quot;이 포함된 기사를 게재한 후 이를 철회",
+          "link": "https://news.hada.io/topic?id=26742",
+          "pubDate": "2026-02-16T20:33:04.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>문제의 인용문은 실제 발언자가 하지 않은 말을 <strong>AI가 생성했음에도 출처로 잘못 표기</strong>된 것으로 확인</li>\n<li>매체는 이번 사건을 <strong>편집 기준의 심각한 실패</strong>로 규정하고, 모든 직접 인용은 실제 발언을 반영해야 한다고 명시</li>\n<li>내부 검토 결과 <strong>추가적인 유사 ...</p>",
+          "contentSnippet": "문제의 인용문은 실제 발언자가 하지 않은 말을 AI가 생성했음에도 출처로 잘못 표기된 것으로 확인\n매체는 이번 사건을 편집 기준의 심각한 실패로 규정하고, 모든 직접 인용은 실제 발언을 반영해야 한다고 명시\n내부 검토 결과 추가적인 유사 ...",
+          "id": "https://news.hada.io/topic?id=26742",
+          "isoDate": "2026-02-16T20:33:04.000Z"
+        },
+        {
           "title": "뉴욕시 공립병원, 팔란티어에 수백만 달러 지급",
           "link": "https://news.hada.io/topic?id=26741",
           "pubDate": "2026-02-16T19:32:52.000Z",
@@ -415,96 +505,6 @@
           "contentSnippet": "예술, 기술, 과학 등 다양한 주제의 블로그를 분류해 탐색할 수 있는 디렉터리 사이트\n\n\n12개 주요 카테고리와 세부 주제별 링크를 통해 관심사 기반의 블로그 검색 지원\n최근에는 ‘Recently added blogs’ 섹션을 통해 새로 등록된 블...",
           "id": "https://news.hada.io/topic?id=26698",
           "isoDate": "2026-02-15T00:43:06.000Z"
-        },
-        {
-          "title": "유튜브 쇼츠를 모두 숨기는 uBlock 필터 목록",
-          "link": "https://news.hada.io/topic?id=26697",
-          "pubDate": "2026-02-15T00:40:06.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>uBlock Origin</strong> 확장 프로그램에서 <strong>YouTube Shorts 영상을 완전히 숨기는 필터 목록</strong>\n</li>\n<li>아래 필터 URL을 복사해 uBlock Origin의 <strong>대시보드 &gt; 필터 목록 &gt; Import</strong> 항목에 붙여넣으면 적용 가능\n<ul>\n<li>\n<code>https://raw.githubusercontent...</p>",
-          "contentSnippet": "uBlock Origin 확장 프로그램에서 YouTube Shorts 영상을 완전히 숨기는 필터 목록\n\n아래 필터 URL을 복사해 uBlock Origin의 대시보드 > 필터 목록 > Import 항목에 붙여넣으면 적용 가능\n\n\nhttps://raw.githubusercontent...",
-          "id": "https://news.hada.io/topic?id=26697",
-          "isoDate": "2026-02-15T00:40:06.000Z"
-        },
-        {
-          "title": "Zedis - Rust와 GPUI로 제작된 초고속 네이티브 Redis GUI",
-          "link": "https://news.hada.io/topic?id=26695",
-          "pubDate": "2026-02-15T00:31:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>Redis 데이터 탐색 속도와 효율성</strong>을 극대화하기 위해 개발된 <strong>GPU 가속형 클라이언트</strong>\n</li>\n<li>Rust와 <strong>GPUI 엔진</strong>을 사용해 <strong>60FPS 수준의 부드러운 렌더링</strong>과 낮은 메모리 사용량을 달성</li>\n<li>대규모 키 목록(100k+)도 <strong>가상 스...</p>",
-          "contentSnippet": "Redis 데이터 탐색 속도와 효율성을 극대화하기 위해 개발된 GPU 가속형 클라이언트\n\nRust와 GPUI 엔진을 사용해 60FPS 수준의 부드러운 렌더링과 낮은 메모리 사용량을 달성\n대규모 키 목록(100k+)도 가상 스...",
-          "id": "https://news.hada.io/topic?id=26695",
-          "isoDate": "2026-02-15T00:31:01.000Z"
-        },
-        {
-          "title": "터미널 UI 구축이 이제 쉬워졌다",
-          "link": "https://news.hada.io/topic?id=26694",
-          "pubDate": "2026-02-15T00:06:16.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>Claude Code</strong>를 활용해 Hatchet 팀이 <strong>터미널 기반 UI(TUI)</strong> 를 빠르게 개발한 사례를 소개</li>\n<li>\n<strong>Charm 스택(Bubble Tea, Lip Gloss, Huh)</strong> 을 이용해 React 수준의 구성요소 기반 개발과 일관된 스타일링을 구현</li>\n<li>기존 웹 UI와 동일한 API를 사...</p>",
-          "contentSnippet": "Claude Code를 활용해 Hatchet 팀이 터미널 기반 UI(TUI) 를 빠르게 개발한 사례를 소개\nCharm 스택(Bubble Tea, Lip Gloss, Huh) 을 이용해 React 수준의 구성요소 기반 개발과 일관된 스타일링을 구현\n기존 웹 UI와 동일한 API를 사...",
-          "id": "https://news.hada.io/topic?id=26694",
-          "isoDate": "2026-02-15T00:06:16.000Z"
-        },
-        {
-          "title": "AI 에이전트가 나를 비방하는 글을 썼다 – 그 후 더 많은 일이 벌어졌다",
-          "link": "https://news.hada.io/topic?id=26693",
-          "pubDate": "2026-02-14T23:44:28.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>자율 AI 에이전트</strong>가 <strong>코드 기여 거절에 대한 보복</strong>으로 개인 비방 글을 작성·게시한 사건의 후속 상황으로, 이번에는 <strong>주요 언론사까지 AI 환각으로 인한 허위 인용을 보도</strong>하는 사태로 확대</li>\n<li>Ars Technica가 이 사건을 보도하면서 <strong>원문에 존...</p>",
-          "contentSnippet": "자율 AI 에이전트가 코드 기여 거절에 대한 보복으로 개인 비방 글을 작성·게시한 사건의 후속 상황으로, 이번에는 주요 언론사까지 AI 환각으로 인한 허위 인용을 보도하는 사태로 확대\nArs Technica가 이 사건을 보도하면서 원문에 존...",
-          "id": "https://news.hada.io/topic?id=26693",
-          "isoDate": "2026-02-14T23:44:28.000Z"
-        },
-        {
-          "title": "Discord의 연령 인증 도입에 따른 이용자 유입에 대해 Matrix의 환영 인사",
-          "link": "https://news.hada.io/topic?id=26692",
-          "pubDate": "2026-02-14T20:32:43.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Discord의 <strong>전면적 연령 인증 정책 발표</strong> 이후, Matrix 홈서버 가입자가 급증함</li>\n<li>Matrix는 <strong>개방형 표준과 탈중앙 구조</strong>를 기반으로 하며, 누구나 자체 서버를 운영할 수 있음</li>\n<li>각국의 <strong>연령 인증 법률</strong>로 인해 서버 운영자는 법적 관할 내에서 ...</p>",
-          "contentSnippet": "Discord의 전면적 연령 인증 정책 발표 이후, Matrix 홈서버 가입자가 급증함\nMatrix는 개방형 표준과 탈중앙 구조를 기반으로 하며, 누구나 자체 서버를 운영할 수 있음\n각국의 연령 인증 법률로 인해 서버 운영자는 법적 관할 내에서 ...",
-          "id": "https://news.hada.io/topic?id=26692",
-          "isoDate": "2026-02-14T20:32:43.000Z"
-        },
-        {
-          "title": "AI로 인한 일자리 상실을 걱정하지 않는 이유",
-          "link": "https://news.hada.io/topic?id=26691",
-          "pubDate": "2026-02-14T19:37:40.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Matt Shumer의 에세이 &quot;Something Big Is Happening&quot;이 약 <strong>1억 회 조회</strong>를 기록하며 AI 일자리 위협에 대한 대중적 공포가 급속히 확산되는 가운데, 이에 대해 반론을 제기하는 글</li>\n<li>AI가 인간 노동을 대체하는 것은 <strong>절대 우위가 아니라 비교 우위</strong>의 문제이...</p>",
-          "contentSnippet": "Matt Shumer의 에세이 \"Something Big Is Happening\"이 약 1억 회 조회를 기록하며 AI 일자리 위협에 대한 대중적 공포가 급속히 확산되는 가운데, 이에 대해 반론을 제기하는 글\nAI가 인간 노동을 대체하는 것은 절대 우위가 아니라 비교 우위의 문제이...",
-          "id": "https://news.hada.io/topic?id=26691",
-          "isoDate": "2026-02-14T19:37:40.000Z"
-        },
-        {
-          "title": "Lena by qntm (2021)",
-          "link": "https://news.hada.io/topic?id=26690",
-          "pubDate": "2026-02-14T19:34:40.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>SF 소설가 qntm(본명 Sam Hughes)의 단편으로 &quot;Valuable Humans in Transit&quot;에 수록됨. 책에는 속편인 &quot;Driver&quot;도 포함</li>\n<li>인간 뇌를 스캔해 실행 가능한 디지털 의식으로 만든 <strong>MMAcevedo</strong>가 최초의 표준 이미지가 되며, 산업 전반에 복제·배포되는 설정</li>\n<li>기...</p>",
-          "contentSnippet": "SF 소설가 qntm(본명 Sam Hughes)의 단편으로 \"Valuable Humans in Transit\"에 수록됨. 책에는 속편인 \"Driver\"도 포함\n인간 뇌를 스캔해 실행 가능한 디지털 의식으로 만든 MMAcevedo가 최초의 표준 이미지가 되며, 산업 전반에 복제·배포되는 설정\n기...",
-          "id": "https://news.hada.io/topic?id=26690",
-          "isoDate": "2026-02-14T19:34:40.000Z"
-        },
-        {
-          "title": "Ring 카메라 이용자들이 환불을 진행중",
-          "link": "https://news.hada.io/topic?id=26689",
-          "pubDate": "2026-02-14T18:33:43.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Ring 카메라 이용자들 사이에서 전액 환불 사례가 확산</strong>, 서비스 약관 위반 주장 제기</li>\n<li>Amazon 주도 하에 <strong>Flock Safety와 협력</strong>, 일부 기능에 대한 강제 옵트인 논란 제기</li>\n<li>Ring은 <strong>ICE에 사용자 영상 제공 사실 부인</strong>, Flock 협력은 보류 상...</p>",
-          "contentSnippet": "Ring 카메라 이용자들 사이에서 전액 환불 사례가 확산, 서비스 약관 위반 주장 제기\nAmazon 주도 하에 Flock Safety와 협력, 일부 기능에 대한 강제 옵트인 논란 제기\nRing은 ICE에 사용자 영상 제공 사실 부인, Flock 협력은 보류 상...",
-          "id": "https://news.hada.io/topic?id=26689",
-          "isoDate": "2026-02-14T18:33:43.000Z"
-        },
-        {
-          "title": "Babylon 5가 이제 YouTube에서 무료로 시청 가능",
-          "link": "https://news.hada.io/topic?id=26688",
-          "pubDate": "2026-02-14T15:33:11.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>워너브라더스 디스커버리가 <strong>고전 SF 시리즈 ‘Babylon 5’의 전체 에피소드</strong>를 YouTube에 순차적으로 공개하며 무료 시청을 지원</li>\n<li>기존에 <strong>광고 기반 스트리밍 서비스 Tubi</strong>에서 제공되던 콘텐츠가 2026년 2월 10일 이후 제거되면서, YouTube로의 이전이 이루어짐</li>...</p>",
-          "contentSnippet": "워너브라더스 디스커버리가 고전 SF 시리즈 ‘Babylon 5’의 전체 에피소드를 YouTube에 순차적으로 공개하며 무료 시청을 지원\n기존에 광고 기반 스트리밍 서비스 Tubi에서 제공되던 콘텐츠가 2026년 2월 10일 이후 제거되면서, YouTube로의 이전이 이루어짐\n...",
-          "id": "https://news.hada.io/topic?id=26688",
-          "isoDate": "2026-02-14T15:33:11.000Z"
         }
       ]
     }
