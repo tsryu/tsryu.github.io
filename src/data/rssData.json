@@ -7,6 +7,96 @@
       "priority": 1,
       "data": [
         {
+          "title": "서비스가 아닌 프로토콜을 사용하라",
+          "link": "https://news.hada.io/topic?id=26761",
+          "pubDate": "2026-02-17T19:33:08.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>인터넷은 본래 <strong>익명성과 프라이버시 보호</strong>를 지향하지만, 중앙집중형 플랫폼이 이 특성을 훼손함</li>\n<li>정부는 단일 기업에 <strong>명령서 한 장</strong>만 보내면 사용자 식별, 검열, 규제 집행이 가능함</li>\n<li>반면 <strong>IRC, XMPP, ActivityPub, Nostr, Matrix</strong> 같은 프...</p>",
+          "contentSnippet": "인터넷은 본래 익명성과 프라이버시 보호를 지향하지만, 중앙집중형 플랫폼이 이 특성을 훼손함\n정부는 단일 기업에 명령서 한 장만 보내면 사용자 식별, 검열, 규제 집행이 가능함\n반면 IRC, XMPP, ActivityPub, Nostr, Matrix 같은 프...",
+          "id": "https://news.hada.io/topic?id=26761",
+          "isoDate": "2026-02-17T19:33:08.000Z"
+        },
+        {
+          "title": "특권은 잘못된 문법이다",
+          "link": "https://news.hada.io/topic?id=26760",
+          "pubDate": "2026-02-17T18:37:29.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>직장 초기에 상사에게 이메일을 보낼 때 <strong>문법과 어조를 완벽히 맞추려 애쓴 경험</strong>이 소개됨</li>\n<li>반면 상사들은 <strong>약어, 오타, 이모지, 비격식체</strong>로 답장을 보내며 문법에 신경 쓰지 않음</li>\n<li>최근 <strong>Epstein 관련 이메일 유출</strong>에서도 유명 인사들의 문법...</p>",
+          "contentSnippet": "직장 초기에 상사에게 이메일을 보낼 때 문법과 어조를 완벽히 맞추려 애쓴 경험이 소개됨\n반면 상사들은 약어, 오타, 이모지, 비격식체로 답장을 보내며 문법에 신경 쓰지 않음\n최근 Epstein 관련 이메일 유출에서도 유명 인사들의 문법...",
+          "id": "https://news.hada.io/topic?id=26760",
+          "isoDate": "2026-02-17T18:37:29.000Z"
+        },
+        {
+          "title": "SkillsBench: 다양한 작업에서 에이전트 스킬의 성능을 평가하는 벤치마크",
+          "link": "https://news.hada.io/topic?id=26759",
+          "pubDate": "2026-02-17T18:34:29.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>SkillsBench</strong>는 대형 언어 모델(LLM) 기반 에이전트의 <strong>스킬(Agent Skills)</strong> 효과를 정량적으로 평가하기 위한 첫 벤치마크로, 11개 도메인 84개 작업을 포함함</li>\n<li>각 작업은 <strong>스킬 미적용</strong>, <strong>큐레이션된 스킬 적용</strong>, <strong>자체 생성 ...</p>",
+          "contentSnippet": "SkillsBench는 대형 언어 모델(LLM) 기반 에이전트의 스킬(Agent Skills) 효과를 정량적으로 평가하기 위한 첫 벤치마크로, 11개 도메인 84개 작업을 포함함\n각 작업은 스킬 미적용, 큐레이션된 스킬 적용, 자체 생성 ...",
+          "id": "https://news.hada.io/topic?id=26759",
+          "isoDate": "2026-02-17T18:34:29.000Z"
+        },
+        {
+          "title": "트라이포스의 부활",
+          "link": "https://news.hada.io/topic?id=26758",
+          "pubDate": "2026-02-17T16:33:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>닌텐도·세가·남코가 협력해 만든 <strong>GameCube 기반 아케이드 플랫폼 ‘Triforce’</strong> 의 역사와 기술, 그리고 이를 완전하게 <strong>에뮬레이션한 Dolphin의 최신 지원</strong>을 다룸</li>\n<li>Triforce는 GameCube 메인보드에 <strong>AM-Baseboard·Mediaboard</strong>를 결합해 아케이드용 입...</p>",
+          "contentSnippet": "닌텐도·세가·남코가 협력해 만든 GameCube 기반 아케이드 플랫폼 ‘Triforce’ 의 역사와 기술, 그리고 이를 완전하게 에뮬레이션한 Dolphin의 최신 지원을 다룸\nTriforce는 GameCube 메인보드에 AM-Baseboard·Mediaboard를 결합해 아케이드용 입...",
+          "id": "https://news.hada.io/topic?id=26758",
+          "isoDate": "2026-02-17T16:33:01.000Z"
+        },
+        {
+          "title": "영국 Discord 이용자들, Peter Thiel이 연관된 데이터 수집 ‘실험’에 참여",
+          "link": "https://news.hada.io/topic?id=26756",
+          "pubDate": "2026-02-17T12:32:59.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Discord가 <strong>나이 인증 시스템</strong>을 도입하며, Peter Thiel이 지원하는 <strong>신원 인증 기업 Persona</strong>와 협력 중임이 확인됨</li>\n<li>이 협력은 영국 이용자를 대상으로 한 <strong>‘실험(experiment)’</strong> 으로, 제출된 정보가 <strong>최대 7일간 Persona 서버에 저장</stron...</p>",
+          "contentSnippet": "Discord가 나이 인증 시스템을 도입하며, Peter Thiel이 지원하는 신원 인증 기업 Persona와 협력 중임이 확인됨\n이 협력은 영국 이용자를 대상으로 한 ‘실험(experiment)’ 으로, 제출된 정보가 최대 7일간 Persona 서버에 저장",
+          "id": "https://news.hada.io/topic?id=26756",
+          "isoDate": "2026-02-17T12:32:59.000Z"
+        },
+        {
+          "title": "AI 덕분에 고맙다: Western Digital, 올해 하드 드라이브 전량 매진 발표",
+          "link": "https://news.hada.io/topic?id=26755",
+          "pubDate": "2026-02-17T10:33:27.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Western Digital</strong>은 2026년 전체 생산분의 <strong>하드 드라이브 저장 용량이 이미 매진</strong>되었다고 발표</li>\n<li>회사의 저장 공간 대부분이 <strong>상위 7개 주요 고객사</strong>에 배정되었으며, 일부는 2027년과 2028년까지 계약이 체결된 상태</li>\n<li>\n<strong>소비자 시장 ...</p>",
+          "contentSnippet": "Western Digital은 2026년 전체 생산분의 하드 드라이브 저장 용량이 이미 매진되었다고 발표\n회사의 저장 공간 대부분이 상위 7개 주요 고객사에 배정되었으며, 일부는 2027년과 2028년까지 계약이 체결된 상태\n소비자 시장 ...",
+          "id": "https://news.hada.io/topic?id=26755",
+          "isoDate": "2026-02-17T10:33:27.000Z"
+        },
+        {
+          "title": "Epstein 파일을 위한 Gemini – Jemini",
+          "link": "https://news.hada.io/topic?id=26754",
+          "pubDate": "2026-02-17T09:32:58.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Jemini</strong>는 Jeffrey Epstein 관련 이메일과 데이터를 탐색할 수 있는 <strong>인터랙티브 웹 인터페이스</strong> 형태로 구성됨</li>\n<li>사이트는 사용자가 <strong>Epstein의 이메일 계정(jeevacation@gmail.com)</strong> 에 로그인한 상태를 시뮬레이션함</li>\n<li>인터페이스에는 <stron...</p>",
+          "contentSnippet": "Jemini는 Jeffrey Epstein 관련 이메일과 데이터를 탐색할 수 있는 인터랙티브 웹 인터페이스 형태로 구성됨\n사이트는 사용자가 Epstein의 이메일 계정(jeevacation@gmail.com) 에 로그인한 상태를 시뮬레이션함\n인터페이스에는",
+          "id": "https://news.hada.io/topic?id=26754",
+          "isoDate": "2026-02-17T09:32:58.000Z"
+        },
+        {
+          "title": "블루투스 기기가 당신에 대해 드러내는 것",
+          "link": "https://news.hada.io/topic?id=26752",
+          "pubDate": "2026-02-17T06:32:53.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Bluehood</strong>는 주변 블루투스 신호를 수집해 사용자가 무심코 노출하는 정보를 시각화하는 <strong>Python 기반 스캐너</strong>\n</li>\n<li>단순히 블루투스를 켜두는 것만으로도 <strong>위치, 생활 패턴, 방문 기록</strong> 등이 추적될 수 있음</li>\n<li>일부 <strong>의료기기·차량·스마�...</p>",
+          "contentSnippet": "Bluehood는 주변 블루투스 신호를 수집해 사용자가 무심코 노출하는 정보를 시각화하는 Python 기반 스캐너\n\n단순히 블루투스를 켜두는 것만으로도 위치, 생활 패턴, 방문 기록 등이 추적될 수 있음\n일부 의료기기·차량·스마�...",
+          "id": "https://news.hada.io/topic?id=26752",
+          "isoDate": "2026-02-17T06:32:53.000Z"
+        },
+        {
+          "title": "Show GN: Noctiluca - 원격 제어 소프트웨어의 미래는 WebRTC가 아니라 QUIC이었던 것 같습니다",
+          "link": "https://news.hada.io/topic?id=26751",
+          "pubDate": "2026-02-17T05:14:39.000Z",
+          "author": "unstabler",
+          "content": "<p>안녕하세요, <a href=\"https://github.com/unstabler\">unstabler</a>라고 합니다. 처음으로 글을 써봅니다.<br />\n평소에 글을 자주 쓰는 편이 아니어서 두서가 없는 장황한 글이지만 잘 부탁드립니다!</p>\n<h2>macOS가 싫어서 macOS에 집착하기 시작했습니다</h2>\n<p>저는 2011년부터 Linux 데스크톱을 주로 사용해 ",
+          "contentSnippet": "안녕하세요, unstabler라고 합니다. 처음으로 글을 써봅니다.\nmacOS가 싫어서 macOS에 집착하기 시작했습니다\n저는 2011년부터 Linux 데스크톱을 주로 사용해",
+          "id": "https://news.hada.io/topic?id=26751",
+          "isoDate": "2026-02-17T05:14:39.000Z"
+        },
+        {
           "title": "Anthropic, Claude의 AI 동작을 숨기려다 개발자 반발 초래",
           "link": "https://news.hada.io/topic?id=26750",
           "pubDate": "2026-02-17T00:41:10.000Z",
@@ -415,96 +505,6 @@
           "contentSnippet": "AI가 생성한 복잡한 코드 대량 생산이 확산되며, 인간이 읽지 않는 코드를 만드는 현상이 업계 전반에 퍼지고 있음\n경영진은 AI로 인한 인력 감축을 정당화하고, 개발자들은 AI가 만든 코드 비율을 채우라는 압박을 받는 상황\n이러한 ‘바이브 코딩’은 ...",
           "id": "https://news.hada.io/topic?id=26708",
           "isoDate": "2026-02-15T15:32:23.000Z"
-        },
-        {
-          "title": "Show GN: FW/HW 개발자를 위한 커뮤니티를 만들어 봤습니다.",
-          "link": "https://news.hada.io/topic?id=26707",
-          "pubDate": "2026-02-15T12:42:41.000Z",
-          "author": "geekbini",
-          "content": "<p>안녕하세요.</p>\n<p>설 연휴에 집에서 쉬다가, 문득 이런 생각이 들었습니다.<br />\n“FW/HW 개발자들끼리 편하게 이야기할 공간이 생각보다 없지 않나?”</p>\n<p>요즘 개발 커뮤니티는 대부분 웹, 앱, AI 중심이고, 물론 그 흐름이 자연스럽긴 합니다만, 펌웨어나 하드웨어 쪽 이야기를 깊게 나눌 수 있는 공간은 점",
-          "contentSnippet": "안녕하세요.\n설 연휴에 집에서 쉬다가, 문득 이런 생각이 들었습니다.\n요즘 개발 커뮤니티는 대부분 웹, 앱, AI 중심이고, 물론 그 흐름이 자연스럽긴 합니다만, 펌웨어나 하드웨어 쪽 이야기를 깊게 나눌 수 있는 공간은 점",
-          "id": "https://news.hada.io/topic?id=26707",
-          "isoDate": "2026-02-15T12:42:41.000Z"
-        },
-        {
-          "title": "IBM, AI 도입의 한계를 인식하고 Z세대 신입 채용을 3배로 확대",
-          "link": "https://news.hada.io/topic?id=26705",
-          "pubDate": "2026-02-15T10:32:52.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>IBM이 <strong>신입 채용을 3배로 늘리겠다</strong>고 발표하며, AI가 대체할 수 있다고 알려진 소프트웨어 개발직 등에서도 적극 채용 예정</li>\n<li>기존 신입 업무 중 상당 부분은 자동화 가능하나, IBM은 <strong>AI 활용 역량을 반영해 직무를 재설계</strong>하는 방식으로 대응</li>\n<li>소프트웨어 엔...</p>",
-          "contentSnippet": "IBM이 신입 채용을 3배로 늘리겠다고 발표하며, AI가 대체할 수 있다고 알려진 소프트웨어 개발직 등에서도 적극 채용 예정\n기존 신입 업무 중 상당 부분은 자동화 가능하나, IBM은 AI 활용 역량을 반영해 직무를 재설계하는 방식으로 대응\n소프트웨어 엔...",
-          "id": "https://news.hada.io/topic?id=26705",
-          "isoDate": "2026-02-15T10:32:52.000Z"
-        },
-        {
-          "title": "국토안보부, 소셜미디어에 반(反) ICE 계정 공개 요구",
-          "link": "https://news.hada.io/topic?id=26704",
-          "pubDate": "2026-02-15T09:32:51.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>미국 <strong>국토안보부(DHS)</strong> 가 소셜미디어 플랫폼에 <strong>이민세관단속국(ICE)</strong> 비판 계정의 정보를 공개하도록 요청한 사실이 보도됨</li>\n<li>요청 대상에는 <strong>반(反) ICE 활동가나 단체 계정</strong>이 포함된 것으로 전해짐</li>\n<li>DHS는 이러한 계정이 <strong>공공안전 ...</p>",
-          "contentSnippet": "미국 국토안보부(DHS) 가 소셜미디어 플랫폼에 이민세관단속국(ICE) 비판 계정의 정보를 공개하도록 요청한 사실이 보도됨\n요청 대상에는 반(反) ICE 활동가나 단체 계정이 포함된 것으로 전해짐\nDHS는 이러한 계정이 공공안전 ...",
-          "id": "https://news.hada.io/topic?id=26704",
-          "isoDate": "2026-02-15T09:32:51.000Z"
-        },
-        {
-          "title": "Bing Webmaster Tools, AI 답변 인용 횟수 추적 기능 공개",
-          "link": "https://news.hada.io/topic?id=26703",
-          "pubDate": "2026-02-15T04:38:24.000Z",
-          "author": "davespark",
-          "content": "<h2></h2>\n<p>Bing Webmaster Tools에 AI Performance 대시보드가 추가되어, 이제 처음으로 <strong>자신의 콘텐츠가 AI 답변(Copilot, Bing AI 요약 등)에서 인용된 횟수</strong>를 확인할 수 있게 됨.   (기존에는 Google Search Console처럼 클릭 트래픽만 볼 수 있었지, AI가 콘텐츠를 참조했는지 알 방법이 없었음...</p>",
-          "contentSnippet": "Bing Webmaster Tools에 AI Performance 대시보드가 추가되어, 이제 처음으로 자신의 콘텐츠가 AI 답변(Copilot, Bing AI 요약 등)에서 인용된 횟수를 확인할 수 있게 됨.   (기존에는 Google Search Console처럼 클릭 트래픽만 볼 수 있었지, AI가 콘텐츠를 참조했는지 알 방법이 없었음...",
-          "id": "https://news.hada.io/topic?id=26703",
-          "isoDate": "2026-02-15T04:38:24.000Z"
-        },
-        {
-          "title": "Vim 9.2 릴리즈",
-          "link": "https://news.hada.io/topic?id=26702",
-          "pubDate": "2026-02-15T03:33:00.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Vim9 스크립트 언어의 대폭 개선</strong>, <strong>향상된 diff 모드</strong>, <strong>완전한 자동완성 기능</strong>, <strong>Wayland 실험적 지원</strong> 등을 포함한 메이저 업데이트</li>\n<li>\n<strong>fuzzy 매칭</strong>, <strong>레지스터 기반 단어 완성</strong>, <strong>새로운 com...</p>",
-          "contentSnippet": "Vim9 스크립트 언어의 대폭 개선, 향상된 diff 모드, 완전한 자동완성 기능, Wayland 실험적 지원 등을 포함한 메이저 업데이트\nfuzzy 매칭, 레지스터 기반 단어 완성, 새로운 com...",
-          "id": "https://news.hada.io/topic?id=26702",
-          "isoDate": "2026-02-15T03:33:00.000Z"
-        },
-        {
-          "title": "스마트 수면 안대가 사용자 뇌파를 공개 MQTT 브로커로 송신",
-          "link": "https://news.hada.io/topic?id=26701",
-          "pubDate": "2026-02-15T02:33:06.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>킥스타터에서 구매한 <strong>스마트 수면 안대</strong>가 사용자 뇌파 데이터를 외부로 송신하는 사실이 밝혀짐</li>\n<li>안대는 <strong>EEG 센서, 전기 자극(EMS), 진동, 온열, 오디오 기능</strong>을 갖춘 복합 하드웨어로 구성</li>\n<li>앱 분석 과정에서 <strong>모든 기기가 공유하는 하드코딩된 MQTT...</p>",
-          "contentSnippet": "킥스타터에서 구매한 스마트 수면 안대가 사용자 뇌파 데이터를 외부로 송신하는 사실이 밝혀짐\n안대는 EEG 센서, 전기 자극(EMS), 진동, 온열, 오디오 기능을 갖춘 복합 하드웨어로 구성\n앱 분석 과정에서 모든 기기가 공유하는 하드코딩된 MQTT...",
-          "id": "https://news.hada.io/topic?id=26701",
-          "isoDate": "2026-02-15T02:33:06.000Z"
-        },
-        {
-          "title": "Zig – io_uring 및 Grand Central Dispatch std.Io 구현 추가",
-          "link": "https://news.hada.io/topic?id=26700",
-          "pubDate": "2026-02-15T00:49:07.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Zig 표준 라이브러리의 <strong><code>std.Io.Evented</code></strong> 모듈에 <strong>io_uring</strong>과 <strong>Grand Central Dispatch(GCD)</strong> 기반 구현이 새로 통합됨</li>\n<li>두 구현 모두 <strong>사용자 공간 스택 전환(fibers, stackful coroutines, green threads)</strong> 방식으로 동작...</p>",
-          "contentSnippet": "Zig 표준 라이브러리의 std.Io.Evented 모듈에 io_uring과 Grand Central Dispatch(GCD) 기반 구현이 새로 통합됨\n두 구현 모두 사용자 공간 스택 전환(fibers, stackful coroutines, green threads) 방식으로 동작...",
-          "id": "https://news.hada.io/topic?id=26700",
-          "isoDate": "2026-02-15T00:49:07.000Z"
-        },
-        {
-          "title": "뉴스 매체들이 AI 스크래핑 우려로 Internet Archive 접근을 제한",
-          "link": "https://news.hada.io/topic?id=26699",
-          "pubDate": "2026-02-15T00:46:06.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>주요 언론사들이 <strong>AI 학습용 데이터 수집</strong>을 막기 위해 Internet Archive의 접근을 차단하거나 제한 중임</li>\n<li>\n<strong>The Guardian</strong>은 Internet Archive의 API와 Wayback Machine에서 기사 페이지를 제외하고, 일부 홈·토픽 페이지만 남김</li>\n<li>\n<strong>The New York Times...</p>",
-          "contentSnippet": "주요 언론사들이 AI 학습용 데이터 수집을 막기 위해 Internet Archive의 접근을 차단하거나 제한 중임\nThe Guardian은 Internet Archive의 API와 Wayback Machine에서 기사 페이지를 제외하고, 일부 홈·토픽 페이지만 남김\nThe New York Times...",
-          "id": "https://news.hada.io/topic?id=26699",
-          "isoDate": "2026-02-15T00:46:06.000Z"
-        },
-        {
-          "title": "좋아하는 블로그를 찾을 수 있는 공간, ooh.directory",
-          "link": "https://news.hada.io/topic?id=26698",
-          "pubDate": "2026-02-15T00:43:06.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>예술, 기술, 과학 등 다양한 주제의 <strong>블로그를 분류해 탐색할 수 있는 디렉터리 사이트</strong>\n</li>\n<li>\n<strong>12개 주요 카테고리</strong>와 세부 주제별 링크를 통해 관심사 기반의 블로그 검색 지원</li>\n<li>최근에는 <strong>‘Recently added blogs’</strong> 섹션을 통해 새로 등록된 블...</p>",
-          "contentSnippet": "예술, 기술, 과학 등 다양한 주제의 블로그를 분류해 탐색할 수 있는 디렉터리 사이트\n\n\n12개 주요 카테고리와 세부 주제별 링크를 통해 관심사 기반의 블로그 검색 지원\n최근에는 ‘Recently added blogs’ 섹션을 통해 새로 등록된 블...",
-          "id": "https://news.hada.io/topic?id=26698",
-          "isoDate": "2026-02-15T00:43:06.000Z"
         }
       ]
     }
