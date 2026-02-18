@@ -7,6 +7,16 @@
       "priority": 1,
       "data": [
         {
+          "title": "HackMyClaw - 프롬프트 인젝션 챌린지 | 100달러 현상금",
+          "link": "https://news.hada.io/topic?id=26785",
+          "pubDate": "2026-02-18T20:33:39.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>이메일 기반 <strong>AI 프롬프트 인젝션 공격 실험</strong>으로, 참가자는 OpenClaw의 이메일 어시스턴트 <strong>Fiu</strong>로부터 비밀 파일 <code>secrets.env</code>를 유출해야 함</li>\n<li>Fiu는 <strong>Anthropic Claude Opus 4.6</strong> 모델을 사용하며, 이메일을 읽고 응답할 수 있지만 “비밀...</p>",
+          "contentSnippet": "이메일 기반 AI 프롬프트 인젝션 공격 실험으로, 참가자는 OpenClaw의 이메일 어시스턴트 Fiu로부터 비밀 파일 secrets.env를 유출해야 함\nFiu는 Anthropic Claude Opus 4.6 모델을 사용하며, 이메일을 읽고 응답할 수 있지만 “비밀...",
+          "id": "https://news.hada.io/topic?id=26785",
+          "isoDate": "2026-02-18T20:33:39.000Z"
+        },
+        {
           "title": "Gentoo가 Codeberg에 공식 저장소를 개설",
           "link": "https://news.hada.io/topic?id=26784",
           "pubDate": "2026-02-18T15:33:10.000Z",
@@ -495,16 +505,6 @@
           "contentSnippet": "8MHz로 동작하는 65C02 프로세서와 46KB RAM, BASIC ROM을 탑재한 자작형 노트북 설계\n9인치 디스플레이, 내장 키보드, Compact Flash 저장장치, 10000mAh 배터리,",
           "id": "https://news.hada.io/topic?id=26732",
           "isoDate": "2026-02-16T09:32:45.000Z"
-        },
-        {
-          "title": "모던 CSS 코드 스니펫: 더 이상 2015년처럼 CSS를 작성하지 말자",
-          "link": "https://news.hada.io/topic?id=26731",
-          "pubDate": "2026-02-16T06:33:05.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>오래된 <strong>CSS 해킹 기법</strong>과 이를 대체하는 <strong>최신 네이티브 CSS 문법</strong>을 나란히 비교해 보여주는 코드 모음</li>\n<li>\n<strong>Grid, Flexbox, OKLCH 색상, container query, scroll-timeline</strong> 등 최신 표준을 활용해 자바스크립트 의존도를 줄임</li>\n<li>\n<strong>색상,...</p>",
-          "contentSnippet": "오래된 CSS 해킹 기법과 이를 대체하는 최신 네이티브 CSS 문법을 나란히 비교해 보여주는 코드 모음\nGrid, Flexbox, OKLCH 색상, container query, scroll-timeline 등 최신 표준을 활용해 자바스크립트 의존도를 줄임\n색상,...",
-          "id": "https://news.hada.io/topic?id=26731",
-          "isoDate": "2026-02-16T06:33:05.000Z"
         }
       ]
     }
