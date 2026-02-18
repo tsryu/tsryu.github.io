@@ -7,6 +7,56 @@
       "priority": 1,
       "data": [
         {
+          "title": "Gentoo가 Codeberg에 공식 저장소를 개설",
+          "link": "https://news.hada.io/topic?id=26784",
+          "pubDate": "2026-02-18T15:33:10.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Gentoo 프로젝트가 <strong>Codeberg 플랫폼에 공식 존재를 추가</strong>하며, GitHub 외의 새로운 기여 경로를 마련함</li>\n<li>Codeberg의 <strong>Gentoo 저장소 미러</strong>를 통해 코드 기여가 가능하며, 향후 다른 저장소들도 Codeberg 조직 아래에 추가될 예정임</li>\n<li>이 조치는 <strong>GitHub에...</p>",
+          "contentSnippet": "Gentoo 프로젝트가 Codeberg 플랫폼에 공식 존재를 추가하며, GitHub 외의 새로운 기여 경로를 마련함\nCodeberg의 Gentoo 저장소 미러를 통해 코드 기여가 가능하며, 향후 다른 저장소들도 Codeberg 조직 아래에 추가될 예정임\n이 조치는 GitHub에...",
+          "id": "https://news.hada.io/topic?id=26784",
+          "isoDate": "2026-02-18T15:33:10.000Z"
+        },
+        {
+          "title": "Ask GN: &quot;기능 구현&quot;보다 AI의 &quot;자유도&quot;가 더 중요해질까요?",
+          "link": "https://news.hada.io/topic?id=26783",
+          "pubDate": "2026-02-18T15:03:48.000Z",
+          "author": "kokogo",
+          "content": "<p>현재 저는 32개국의 뉴스/정보 수집 서비스와 주요 국가(미국, 일본, 영국, 한국) 및 코인/선물 시장의 일일 스냅샷을 MCP(Model Context Protocol)로 제공하는 기능을 개발했습니다. 현재는 이를 기반으로 OpenClaw와 유사하게 자유로운 동작이 가능한 투자 프로그램을 개발 중입니다.</p>\n<p>제가 고민하고 있는 지",
+          "contentSnippet": "현재 저는 32개국의 뉴스/정보 수집 서비스와 주요 국가(미국, 일본, 영국, 한국) 및 코인/선물 시장의 일일 스냅샷을 MCP(Model Context Protocol)로 제공하는 기능을 개발했습니다. 현재는 이를 기반으로 OpenClaw와 유사하게 자유로운 동작이 가능한 투자 프로그램을 개발 중입니다.\n제가 고민하고 있는 지",
+          "id": "https://news.hada.io/topic?id=26783",
+          "isoDate": "2026-02-18T15:03:48.000Z"
+        },
+        {
+          "title": "BarraCUDA - AMD GPU를 대상으로 하는 오픈소스 CUDA 컴파일러",
+          "link": "https://news.hada.io/topic?id=26782",
+          "pubDate": "2026-02-18T14:33:11.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>CUDA C 소스(.cu)</strong> 를 <strong>AMD RDNA3(GFX11)</strong> 용 기계어로 직접 변환하는 <strong>독립형 오픈소스 컴파일러</strong>\n</li>\n<li>\n<strong>LLVM이나 HIP 계층 없이</strong> 자체 <strong>어휘 분석기, 파서, 중간 표현(BIR)</strong> 을 통해 ELF <code>.hsaco</code> 바이너리를...</p>",
+          "contentSnippet": "CUDA C 소스(.cu) 를 AMD RDNA3(GFX11) 용 기계어로 직접 변환하는 독립형 오픈소스 컴파일러\n\n\nLLVM이나 HIP 계층 없이 자체 어휘 분석기, 파서, 중간 표현(BIR) 을 통해 ELF .hsaco 바이너리를...",
+          "id": "https://news.hada.io/topic?id=26782",
+          "isoDate": "2026-02-18T14:33:11.000Z"
+        },
+        {
+          "title": "Go fix를 사용해 Go 코드를 현대화하기",
+          "link": "https://news.hada.io/topic?id=26781",
+          "pubDate": "2026-02-18T12:33:09.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Go 1.26 버전에서 <strong>완전히 새로 작성된 <code>go fix</code> 명령어</strong>가 도입되어, 최신 언어 및 라이브러리 기능을 활용해 코드를 자동으로 개선할 수 있음</li>\n<li>이 도구는 <strong>수십 개의 분석기(analyzer)</strong> 를 통해 코드 패턴을 탐지하고, <code>minmax</code>, <code>rangein...</p>",
+          "contentSnippet": "Go 1.26 버전에서 완전히 새로 작성된 go fix 명령어가 도입되어, 최신 언어 및 라이브러리 기능을 활용해 코드를 자동으로 개선할 수 있음\n이 도구는 수십 개의 분석기(analyzer) 를 통해 코드 패턴을 탐지하고, minmax, rangein...",
+          "id": "https://news.hada.io/topic?id=26781",
+          "isoDate": "2026-02-18T12:33:09.000Z"
+        },
+        {
+          "title": "AsteroidOS 2.0 출시 - AsteroidOS",
+          "link": "https://news.hada.io/topic?id=26780",
+          "pubDate": "2026-02-18T10:32:56.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>오픈소스 스마트워치 운영체제 <strong>AsteroidOS</strong>가 2.0 버전을 공개하며, <strong>Always-on-Display</strong>, <strong>새 런처 스타일</strong>, <strong>성능 향상</strong> 등 주요 기능을 추가</li>\n<li>사용자 인터페이스가 전반적으로 개선되어 <strong>QuickPanel</strong>, <strong>Nights...</p>",
+          "contentSnippet": "오픈소스 스마트워치 운영체제 AsteroidOS가 2.0 버전을 공개하며, Always-on-Display, 새 런처 스타일, 성능 향상 등 주요 기능을 추가\n사용자 인터페이스가 전반적으로 개선되어 QuickPanel, Nights...",
+          "id": "https://news.hada.io/topic?id=26780",
+          "isoDate": "2026-02-18T10:32:56.000Z"
+        },
+        {
           "title": "Show GN: MCP YouTube Intelligence — YouTube 영상을 토큰 효율적으로 분석하는 MCP 서버",
           "link": "https://news.hada.io/topic?id=26779",
           "pubDate": "2026-02-18T08:32:59.000Z",
@@ -455,56 +505,6 @@
           "contentSnippet": "오래된 CSS 해킹 기법과 이를 대체하는 최신 네이티브 CSS 문법을 나란히 비교해 보여주는 코드 모음\nGrid, Flexbox, OKLCH 색상, container query, scroll-timeline 등 최신 표준을 활용해 자바스크립트 의존도를 줄임\n색상,...",
           "id": "https://news.hada.io/topic?id=26731",
           "isoDate": "2026-02-16T06:33:05.000Z"
-        },
-        {
-          "title": "구글이 귀하의 웹사이트가 다운되었다고 생각할 수 있습니다",
-          "link": "https://news.hada.io/topic?id=26730",
-          "pubDate": "2026-02-16T05:47:03.000Z",
-          "author": "csomar",
-          "content": "구글이 귀하의 웹사이트가 다운되었다고 생각할 수 있습니다",
-          "contentSnippet": "구글이 귀하의 웹사이트가 다운되었다고 생각할 수 있습니다",
-          "id": "https://news.hada.io/topic?id=26730",
-          "isoDate": "2026-02-16T05:47:03.000Z"
-        },
-        {
-          "title": "Show GN: Jsiphon - 델타 추적과 중의성 감지를 지원하는 LLM 스트리밍용 JSON 파서",
-          "link": "https://news.hada.io/topic?id=26729",
-          "pubDate": "2026-02-16T05:19:00.000Z",
-          "author": "sugeuljin",
-          "content": "<p>안녕하세요, <strong>Jsiphon</strong>을 소개합니다. LLM 스트리밍에 구조화된 응답을 사용할 때 흔히 발생하는 문제를 해결합니다.</p>\n<p>LLM에 구조화된 응답(JSON모드)을 스트리밍과 같이 사용할 때 흔히 부분 응답 파싱하는 문제에 부딪히는데요. 이런 경우에 그냥 JSON.parse()할 수는 없고 반복적으로 불완전",
-          "contentSnippet": "안녕하세요, Jsiphon을 소개합니다. LLM 스트리밍에 구조화된 응답을 사용할 때 흔히 발생하는 문제를 해결합니다.\nLLM에 구조화된 응답(JSON모드)을 스트리밍과 같이 사용할 때 흔히 부분 응답 파싱하는 문제에 부딪히는데요. 이런 경우에 그냥 JSON.parse()할 수는 없고 반복적으로 불완전",
-          "id": "https://news.hada.io/topic?id=26729",
-          "isoDate": "2026-02-16T05:19:00.000Z"
-        },
-        {
-          "title": "Kimi Claw - OpenClaw를 클라우드에 원클릭 배포해서 사용하기 ",
-          "link": "https://news.hada.io/topic?id=26728",
-          "pubDate": "2026-02-16T03:23:14.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>OpenClaw</strong>를 Kimi 플랫폼을 통해 <strong>클라우드에 원클릭으로 몇 초안에 배포</strong> 가능</li>\n<li>복잡한 설정 없이 <strong>24시간 온라인 상태</strong>로 유지되며, 즉시 사용 가능한 형태로 제공됨</li>\n<li>\n<strong>Kimi K2.5 Thinking</strong>이 적용되어 있으며, 다양한 스킬...</p>",
-          "contentSnippet": "OpenClaw를 Kimi 플랫폼을 통해 클라우드에 원클릭으로 몇 초안에 배포 가능\n복잡한 설정 없이 24시간 온라인 상태로 유지되며, 즉시 사용 가능한 형태로 제공됨\nKimi K2.5 Thinking이 적용되어 있으며, 다양한 스킬...",
-          "id": "https://news.hada.io/topic?id=26728",
-          "isoDate": "2026-02-16T03:23:14.000Z"
-        },
-        {
-          "title": "유튜브 알고리듬 피드와 세로 영상이 없는 오픈소스 클라이언트 NewPipe",
-          "link": "https://news.hada.io/topic?id=26727",
-          "pubDate": "2026-02-16T02:36:59.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>광고 없이 <strong>가벼운 유튜브 시청 환경</strong>을 제공하는 Android용 오픈소스 앱으로, Google API를 사용하지 않아 <strong>개인정보 보호</strong> 중심의 설계를 갖춤</li>\n<li>\n<strong>오프라인 저장</strong>, <strong>백그라운드 재생</strong>, <strong>팝업 플레이어</strong> 등 다양한 재생 ...</p>",
-          "contentSnippet": "광고 없이 가벼운 유튜브 시청 환경을 제공하는 Android용 오픈소스 앱으로, Google API를 사용하지 않아 개인정보 보호 중심의 설계를 갖춤\n오프라인 저장, 백그라운드 재생, 팝업 플레이어 등 다양한 재생 ...",
-          "id": "https://news.hada.io/topic?id=26727",
-          "isoDate": "2026-02-16T02:36:59.000Z"
-        },
-        {
-          "title": "웹 게임과 애니메이션 20만여 개를 보존한 Flashpoint Archive",
-          "link": "https://news.hada.io/topic?id=26726",
-          "pubDate": "2026-02-16T02:33:59.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>웹 기반 <strong>게임과 애니메이션을 장기 보존</strong>하기 위한 커뮤니티 주도의 프로젝트로, 빠르게 변화하는 인터넷 환경에서 사라질 수 있는 콘텐츠를 보호함</li>\n<li>2017년 12월 이후 <strong>100여 종의 브라우저 플러그인과 웹 기술</strong>을 아우르며 20만 개 이상의 작품을 보존</li>\n<li>보존...</p>",
-          "contentSnippet": "웹 기반 게임과 애니메이션을 장기 보존하기 위한 커뮤니티 주도의 프로젝트로, 빠르게 변화하는 인터넷 환경에서 사라질 수 있는 콘텐츠를 보호함\n2017년 12월 이후 100여 종의 브라우저 플러그인과 웹 기술을 아우르며 20만 개 이상의 작품을 보존\n보존...",
-          "id": "https://news.hada.io/topic?id=26726",
-          "isoDate": "2026-02-16T02:33:59.000Z"
         }
       ]
     }
