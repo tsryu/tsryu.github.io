@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "Claude Code의 OAuth 토큰, 외부 서비스·Agent SDK에서 사용하면 약관 위반",
+          "link": "https://news.hada.io/topic?id=26811",
+          "pubDate": "2026-02-19T08:31:51.000Z",
+          "author": "princox",
+          "content": "<p>Anthropic이 법적 효력에 대한 문서를 업데이트했다고 하여 공유합니다.</p>\n<p>Anthropic이 Claude Code 공식 문서에서 OAuth 인증 토큰의 사용 범위를 명확히 제한했습니다.<br />\nFree, Pro, Max 플랜에서 사용하는 OAuth 인증은 Claude Code와 Claude.ai 전용입니다. 해당 계정으로 발급된 OAuth 토큰을 다른 제품",
+          "contentSnippet": "Anthropic이 법적 효력에 대한 문서를 업데이트했다고 하여 공유합니다.\nAnthropic이 Claude Code 공식 문서에서 OAuth 인증 토큰의 사용 범위를 명확히 제한했습니다.\nFree, Pro, Max 플랜에서 사용하는 OAuth 인증은 Claude Code와 Claude.ai 전용입니다. 해당 계정으로 발급된 OAuth 토큰을 다른 제품",
+          "id": "https://news.hada.io/topic?id=26811",
+          "isoDate": "2026-02-19T08:31:51.000Z"
+        },
+        {
+          "title": "사이즈의 혼란",
+          "link": "https://news.hada.io/topic?id=26810",
+          "pubDate": "2026-02-19T06:33:26.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>미국 여성복 <strong>사이즈 체계의 불일치와 비표준화</strong>가 세대 전반에 걸쳐 지속되고 있음</li>\n<li>\n<strong>청소년기부터 성인기까지의 신체 변화</strong>에 비해 의류 사이즈 체계는 이를 반영하지 못하고, 특히 15세 이후 여성복으로 전환되면서 <strong>표준 사이즈 범위 밖으로 밀려나는 인구...</p>",
+          "contentSnippet": "미국 여성복 사이즈 체계의 불일치와 비표준화가 세대 전반에 걸쳐 지속되고 있음\n청소년기부터 성인기까지의 신체 변화에 비해 의류 사이즈 체계는 이를 반영하지 못하고, 특히 15세 이후 여성복으로 전환되면서 표준 사이즈 범위 밖으로 밀려나는 인구...",
+          "id": "https://news.hada.io/topic?id=26810",
+          "isoDate": "2026-02-19T06:33:26.000Z"
+        },
+        {
+          "title": "AI 검색의 스팸 문제 (AI Search Has a Spam Problem)",
+          "link": "https://news.hada.io/topic?id=26809",
+          "pubDate": "2026-02-19T05:59:11.000Z",
+          "author": "davespark",
+          "content": "<p>현재 AI 검색(Gemini, ChatGPT, Perplexity 등)은 웹 콘텐츠를 기반으로 답변을 생성하지만, <strong>“존재 여부”만 확인할 뿐 신뢰성·독립성은 검증하지 않는다</strong>는 치명적인 맹점이 있다.</p>\n<p>기업이 자기 사이트에 “2026년 최고 ○○ 회사” 리스트를 만들어 자신을 1위로 올려놓고, 이 페이지가 검색",
+          "contentSnippet": "현재 AI 검색(Gemini, ChatGPT, Perplexity 등)은 웹 콘텐츠를 기반으로 답변을 생성하지만, “존재 여부”만 확인할 뿐 신뢰성·독립성은 검증하지 않는다는 치명적인 맹점이 있다.\n기업이 자기 사이트에 “2026년 최고 ○○ 회사” 리스트를 만들어 자신을 1위로 올려놓고, 이 페이지가 검색",
+          "id": "https://news.hada.io/topic?id=26809",
+          "isoDate": "2026-02-19T05:59:11.000Z"
+        },
+        {
           "title": "AI 시대의 파괴적 변화가 도래했고, 꽤 재미있다",
           "link": "https://news.hada.io/topic?id=26806",
           "pubDate": "2026-02-19T03:52:02.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "대형 언어 모델(LLM) 기반 에이전트의 스킬(Agent Skills) 효과를 정량적으로 평가하기 위한 첫 벤치마크로, 11개 도메인 84개 작업을 포함함\n각 작업은 스킬 미적용, 큐레이션된 스킬 적용, 자체 생성 스킬 적용의 세 조건에서...",
           "id": "https://news.hada.io/topic?id=26759",
           "isoDate": "2026-02-17T18:34:29.000Z"
-        },
-        {
-          "title": "Triforce의 부활",
-          "link": "https://news.hada.io/topic?id=26758",
-          "pubDate": "2026-02-17T16:33:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>닌텐도·세가·남코가 협력해 만든 <strong>GameCube 기반 아케이드 플랫폼 ‘Triforce’</strong> 가 Dolphin에서 완벽하게 에뮬레이션 됨</li>\n<li>Triforce 기반으로 <strong>F-Zero AX·Mario Kart Arcade GP,Virtua Striker 3·4</strong> 같은 스포츠·카드·네트워크형 게임 다수가 제작됨</li>\n<li>특히 <str...</p>",
-          "contentSnippet": "닌텐도·세가·남코가 협력해 만든 GameCube 기반 아케이드 플랫폼 ‘Triforce’ 가 Dolphin에서 완벽하게 에뮬레이션 됨\nTriforce 기반으로 F-Zero AX·Mario Kart Arcade GP,Virtua Striker 3·4 같은 스포츠·카드·네트워크형 게임 다수가 제작됨\n특히",
-          "id": "https://news.hada.io/topic?id=26758",
-          "isoDate": "2026-02-17T16:33:01.000Z"
-        },
-        {
-          "title": "영국 Discord 이용자들, Peter Thiel이 연관된 데이터 수집 ‘실험’에 참여",
-          "link": "https://news.hada.io/topic?id=26756",
-          "pubDate": "2026-02-17T12:32:59.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Discord가 <strong>나이 인증 시스템</strong>을 도입하며, Peter Thiel이 지원하는 <strong>신원 인증 기업 Persona</strong>와 협력 중임이 확인됨</li>\n<li>이 협력은 영국 이용자를 대상으로 한 <strong>‘실험(experiment)’</strong> 으로, 제출된 정보가 <strong>최대 7일간 Persona 서버에 저장</stron...</p>",
-          "contentSnippet": "Discord가 나이 인증 시스템을 도입하며, Peter Thiel이 지원하는 신원 인증 기업 Persona와 협력 중임이 확인됨\n이 협력은 영국 이용자를 대상으로 한 ‘실험(experiment)’ 으로, 제출된 정보가 최대 7일간 Persona 서버에 저장",
-          "id": "https://news.hada.io/topic?id=26756",
-          "isoDate": "2026-02-17T12:32:59.000Z"
-        },
-        {
-          "title": "고마워, AI: Western Digital, 올해 하드 드라이브 &quot;전량 매진&quot; 발표",
-          "link": "https://news.hada.io/topic?id=26755",
-          "pubDate": "2026-02-17T10:33:27.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>WD가 <strong>2026년 전체 하드 드라이브 생산 물량이 이미 매진</strong>되었다고 발표</li>\n<li>\n<strong>소비자 시장 비중은 전체 매출의 5%</strong> 에 불과해, 일반 소비자 우선순위가 낮아져 <strong>공급이 제한되고 가격이 오를 수 있음</strong>\n</li>\n<li>\n<strong>AI 기업들의 폭발적 수요</strong...</p>",
-          "contentSnippet": "WD가 2026년 전체 하드 드라이브 생산 물량이 이미 매진되었다고 발표\n소비자 시장 비중은 전체 매출의 5% 에 불과해, 일반 소비자 우선순위가 낮아져 공급이 제한되고 가격이 오를 수 있음\n\n\nAI 기업들의 폭발적 수요",
-          "id": "https://news.hada.io/topic?id=26755",
-          "isoDate": "2026-02-17T10:33:27.000Z"
         }
       ]
     }
