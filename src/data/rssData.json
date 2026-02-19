@@ -7,6 +7,86 @@
       "priority": 1,
       "data": [
         {
+          "title": "DNS-PERSIST-01: DNS 기반 챌린지 검증을 위한 새로운 모델",
+          "link": "https://news.hada.io/topic?id=26825",
+          "pubDate": "2026-02-19T20:37:36.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>DNS-PERSIST-01</strong>은 기존 DNS-01 방식의 반복 검증을 대체해, <strong>지속적인 인증 레코드</strong>를 사용하는 새로운 ACME 챌린지 모델</li>\n<li>이 방식은 <strong>특정 ACME 계정과 CA에 바인딩된 TXT 레코드</strong>를 통해 도메인 제어권을 장기적으로 증명</li>\n<li>DNS 변경과 <str...</p>",
+          "contentSnippet": "DNS-PERSIST-01은 기존 DNS-01 방식의 반복 검증을 대체해, 지속적인 인증 레코드를 사용하는 새로운 ACME 챌린지 모델\n이 방식은 특정 ACME 계정과 CA에 바인딩된 TXT 레코드를 통해 도메인 제어권을 장기적으로 증명\nDNS 변경과",
+          "id": "https://news.hada.io/topic?id=26825",
+          "isoDate": "2026-02-19T20:37:36.000Z"
+        },
+        {
+          "title": "페이지를 찾을 수 없음 - Azure SQL Devs’ Corner",
+          "link": "https://news.hada.io/topic?id=26824",
+          "pubDate": "2026-02-19T20:34:36.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Microsoft의 <strong>Azure SQL Devs’ Corner 블로그 페이지</strong>가 요청된 URL에서 더 이상 존재하지 않음</li>\n<li>서버가 <strong>HTTP 404 오류</strong>를 반환하며, 콘텐츠가 삭제되었거나 이동된 상태임</li>\n<li>페이지에는 “That page can’t be found”라는 안내 문구와 함께 <strong>홈페이지...</p>",
+          "contentSnippet": "Microsoft의 Azure SQL Devs’ Corner 블로그 페이지가 요청된 URL에서 더 이상 존재하지 않음\n서버가 HTTP 404 오류를 반환하며, 콘텐츠가 삭제되었거나 이동된 상태임\n페이지에는 “That page can’t be found”라는 안내 문구와 함께 홈페이지...",
+          "id": "https://news.hada.io/topic?id=26824",
+          "isoDate": "2026-02-19T20:34:36.000Z"
+        },
+        {
+          "title": "Chrome 데스크톱용 안정 채널 업데이트",
+          "link": "https://news.hada.io/topic?id=26823",
+          "pubDate": "2026-02-19T19:32:57.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Google이 <strong>Chrome 데스크톱 버전의 안정 채널 업데이트</strong>를 발표, 보안 취약점 수정 포함</li>\n<li>이번 릴리스에는 <strong>CVE-2026-2441</strong>로 식별된 <strong>CSS 관련 제로데이 취약점</strong>이 포함되어 있음</li>\n<li>Google은 이 취약점이 <strong>실제 공격에 악용되고 있음(in ...</p>",
+          "contentSnippet": "Google이 Chrome 데스크톱 버전의 안정 채널 업데이트를 발표, 보안 취약점 수정 포함\n이번 릴리스에는 CVE-2026-2441로 식별된 CSS 관련 제로데이 취약점이 포함되어 있음\nGoogle은 이 취약점이 실제 공격에 악용되고 있음(in ...",
+          "id": "https://news.hada.io/topic?id=26823",
+          "isoDate": "2026-02-19T19:32:57.000Z"
+        },
+        {
+          "title": "27년 된 Apple iBook, 여전히 Wi-Fi 연결과 공식 업데이트 다운로드 가능",
+          "link": "https://news.hada.io/topic?id=26822",
+          "pubDate": "2026-02-19T18:37:49.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>27년 전 출시된 <strong>Apple iBook</strong>이 현재도 <strong>Wi-Fi 연결과 공식 macOS 업데이트 다운로드</strong>를 수행할 수 있음</li>\n<li>해당 기기는 <strong>macOS의 오래된 버전</strong>을 실행하면서도 <strong>Apple 서버와의 통신 기능</strong>을 유지하고 있음</li>\n<li>\n<strong>네트워크 인...</p>",
+          "contentSnippet": "27년 전 출시된 Apple iBook이 현재도 Wi-Fi 연결과 공식 macOS 업데이트 다운로드를 수행할 수 있음\n해당 기기는 macOS의 오래된 버전을 실행하면서도 Apple 서버와의 통신 기능을 유지하고 있음\n네트워크 인...",
+          "id": "https://news.hada.io/topic?id=26822",
+          "isoDate": "2026-02-19T18:37:49.000Z"
+        },
+        {
+          "title": "우주적 규모의 고유 ID",
+          "link": "https://news.hada.io/topic?id=26821",
+          "pubDate": "2026-02-19T18:34:48.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>기기나 객체에 절대적으로 중복되지 않는 ID를 부여하는 방법</strong>을 탐구하며, 무작위(random) 방식과 결정적(deterministic) 방식을 비교</li>\n<li>무작위 방식은 <strong>충분히 큰 비트 수</strong>를 사용하면 충돌 확률을 사실상 0으로 만들 수 있으며, <strong>UUID(122비트)</strong> 부터...</p>",
+          "contentSnippet": "기기나 객체에 절대적으로 중복되지 않는 ID를 부여하는 방법을 탐구하며, 무작위(random) 방식과 결정적(deterministic) 방식을 비교\n무작위 방식은 충분히 큰 비트 수를 사용하면 충돌 확률을 사실상 0으로 만들 수 있으며, UUID(122비트) 부터...",
+          "id": "https://news.hada.io/topic?id=26821",
+          "isoDate": "2026-02-19T18:34:48.000Z"
+        },
+        {
+          "title": "Show GN: AskAnywhere - Notion, Slack, Google Drive를 AI로 한번에 검색하는 크롬 확장",
+          "link": "https://news.hada.io/topic?id=26819",
+          "pubDate": "2026-02-19T16:41:23.000Z",
+          "author": "xlos21",
+          "content": "<p><strong>왜 만들었나요?</strong></p>\n<p>회사에서 Notion, Slack, Google Drive를 같이 쓰는데, &quot;그거 어디에 있었지?&quot;가 일상이었습니다. Notion 검색은 키워드가 정확해야 하고, Slack은 메시지가 묻히고, Google Drive는 파일명을 기억해야 하고... 결국 세 도구를 번갈아가며 검색하는 게 너무 비효율",
+          "contentSnippet": "왜 만들었나요?\n회사에서 Notion, Slack, Google Drive를 같이 쓰는데, \"그거 어디에 있었지?\"가 일상이었습니다. Notion 검색은 키워드가 정확해야 하고, Slack은 메시지가 묻히고, Google Drive는 파일명을 기억해야 하고... 결국 세 도구를 번갈아가며 검색하는 게 너무 비효율",
+          "id": "https://news.hada.io/topic?id=26819",
+          "isoDate": "2026-02-19T16:41:23.000Z"
+        },
+        {
+          "title": "LG전자를 떠나며 CEO에게 남긴 글 (2011))",
+          "link": "https://news.hada.io/topic?id=26818",
+          "pubDate": "2026-02-19T16:39:09.000Z",
+          "author": "roxie",
+          "content": "<p>퇴사하면서, LG전자가 바뀌었으면 하는 부분들을 적어 CEO에게 메일로 보낸 내용.</p>\n<h4>혁신(Innovation)의 측면에서</h4>\n<ul>\n<li>현재 연구원들이 위험을 감수할 수 있는 연구환경이 아니라고 생각함</li>\n<li>보안을 지나치게 강조하고 있음</li>\n</ul>\n<h4>조직 문화</h4>\n<ul>\n<li>자유로운 토론 문화의 부재",
+          "contentSnippet": "퇴사하면서, LG전자가 바뀌었으면 하는 부분들을 적어 CEO에게 메일로 보낸 내용.\n혁신(Innovation)의 측면에서\n현재 연구원들이 위험을 감수할 수 있는 연구환경이 아니라고 생각함\n보안을 지나치게 강조하고 있음\n조직 문화\n자유로운 토론 문화의 부재",
+          "id": "https://news.hada.io/topic?id=26818",
+          "isoDate": "2026-02-19T16:39:09.000Z"
+        },
+        {
+          "title": "Show GN: ocap - 데스크톱의 모든 것을 기록하는 고성능 레코더",
+          "link": "https://news.hada.io/topic?id=26817",
+          "pubDate": "2026-02-19T16:12:00.000Z",
+          "author": "milkclouds00",
+          "content": "<p>AI 에이전트 학습용 데스크톱 데이터를 수집하려고 만들었지만 범용 용도로도사용 가능한 오픈소스 레코더 <strong>ocap</strong> (Omnimodal CAPture)입니다.</p>\n<p>OBS 같은 기존 녹화 도구들은 영상만 저장하거나 여러 종류의 데이터를 동기화하여 저장하지 못합니다. AI 학습에는 &quot;사용자가 언제, 어떤 키를",
+          "contentSnippet": "AI 에이전트 학습용 데스크톱 데이터를 수집하려고 만들었지만 범용 용도로도사용 가능한 오픈소스 레코더 ocap (Omnimodal CAPture)입니다.\nOBS 같은 기존 녹화 도구들은 영상만 저장하거나 여러 종류의 데이터를 동기화하여 저장하지 못합니다. AI 학습에는 \"사용자가 언제, 어떤 키를",
+          "id": "https://news.hada.io/topic?id=26817",
+          "isoDate": "2026-02-19T16:12:00.000Z"
+        },
+        {
           "title": "AI 뱀파이어 (The AI Vampire)",
           "link": "https://news.hada.io/topic?id=26815",
           "pubDate": "2026-02-19T12:45:15.000Z",
@@ -425,86 +505,6 @@
           "contentSnippet": "코드 머지를 거부한 것에 AI가 비난성 글을 게시하고, 허위 인용문 기사가 철회되는 등, AI가 오픈소스 생태계에 미치는 부정적 영향이 드러남\n오픈소스 유지관리자들은 AI가 만든 부정확한 코드(PR)와 버그 리포트로 인해 검토 부담이 급증하고...",
           "id": "https://news.hada.io/topic?id=26769",
           "isoDate": "2026-02-18T00:55:07.000Z"
-        },
-        {
-          "title": "CBS가 FCC를 두려워해 제임스 탈라리코 의원 인터뷰를 방송하지 않았다고 스티븐 콜베어가 밝힘",
-          "link": "https://news.hada.io/topic?id=26768",
-          "pubDate": "2026-02-18T00:52:07.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>CBS의 <strong>‘The Late Show’ 진행자 스티븐 콜베어</strong>는 텍사스 주 하원의원 제임스 탈라리코와의 인터뷰가 <strong>FCC 제재 우려로 방송되지 않았다</strong>고 언급</li>\n<li>CBS 법무팀은 인터뷰가 <strong>‘동등 시간(equal-time)’ 규정</strong>을 촉발할 수 있다고 판단해 방송 대신 <stro...</p>",
-          "contentSnippet": "CBS의 ‘The Late Show’ 진행자 스티븐 콜베어는 텍사스 주 하원의원 제임스 탈라리코와의 인터뷰가 FCC 제재 우려로 방송되지 않았다고 언급\nCBS 법무팀은 인터뷰가 ‘동등 시간(equal-time)’ 규정을 촉발할 수 있다고 판단해 방송 대신",
-          "id": "https://news.hada.io/topic?id=26768",
-          "isoDate": "2026-02-18T00:52:07.000Z"
-        },
-        {
-          "title": "다크 웹 요원이 침실 벽의 단서를 찾아 학대당한 소녀를 구출한 이야기",
-          "link": "https://news.hada.io/topic?id=26767",
-          "pubDate": "2026-02-18T00:49:07.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>미국 국토안보수사국 수사관이 다크웹에 유포된 아동 학대 영상 속 12세 소녀 ‘Lucy’를 추적하던 중, <strong>침실 벽의 벽돌 무늬</strong>에서 결정적 단서를 발견함</li>\n<li>팀은 처음에 <strong>소켓과 콘센트 형태</strong>로 북미 지역임을 파악했으나, 위치를 특정하지 못했고, <strong>Facebook의 얼...</p>",
-          "contentSnippet": "미국 국토안보수사국 수사관이 다크웹에 유포된 아동 학대 영상 속 12세 소녀 ‘Lucy’를 추적하던 중, 침실 벽의 벽돌 무늬에서 결정적 단서를 발견함\n팀은 처음에 소켓과 콘센트 형태로 북미 지역임을 파악했으나, 위치를 특정하지 못했고, Facebook의 얼...",
-          "id": "https://news.hada.io/topic?id=26767",
-          "isoDate": "2026-02-18T00:49:07.000Z"
-        },
-        {
-          "title": "Claude Sonnet 4.6 공개",
-          "link": "https://news.hada.io/topic?id=26766",
-          "pubDate": "2026-02-18T00:46:07.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>코드 작성, 컴퓨터 사용, 장기 추론, 에이전트 계획, 지식 작업, 디자인 등 전 영역에서 성능이 향상된 <strong>Anthropic의 최신 Sonnet 모델</strong>\n</li>\n<li>\n<strong>1M 토큰 컨텍스트 윈도우</strong> 를 지원하며, Sonnet 4.5 대비 일관성·명령 수행·코드 품질이 크게 개선됨</li>\n<li>\n<strong>Opus ...</p>",
-          "contentSnippet": "코드 작성, 컴퓨터 사용, 장기 추론, 에이전트 계획, 지식 작업, 디자인 등 전 영역에서 성능이 향상된 Anthropic의 최신 Sonnet 모델\n\n\n1M 토큰 컨텍스트 윈도우 를 지원하며, Sonnet 4.5 대비 일관성·명령 수행·코드 품질이 크게 개선됨\nOpus ...",
-          "id": "https://news.hada.io/topic?id=26766",
-          "isoDate": "2026-02-18T00:46:07.000Z"
-        },
-        {
-          "title": "GrapheneOS – 구글과 애플로부터 벗어나기",
-          "link": "https://news.hada.io/topic?id=26765",
-          "pubDate": "2026-02-18T00:43:07.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>GrapheneOS</strong>는 <strong>개인정보 보호와 보안</strong>을 최우선으로 설계된 <strong>오픈소스 안드로이드 기반 운영체제</strong>로, 구글 서비스 통합을 제거해 기업의 데이터 수집을 차단함</li>\n<li>\n<strong>Google Pixel 시리즈</strong> 전용으로 최적화되어 있으며, <strong>Titan M ...</p>",
-          "contentSnippet": "GrapheneOS는 개인정보 보호와 보안을 최우선으로 설계된 오픈소스 안드로이드 기반 운영체제로, 구글 서비스 통합을 제거해 기업의 데이터 수집을 차단함\nGoogle Pixel 시리즈 전용으로 최적화되어 있으며, Titan M ...",
-          "id": "https://news.hada.io/topic?id=26765",
-          "isoDate": "2026-02-18T00:43:07.000Z"
-        },
-        {
-          "title": "AionUi - 오픈소스 멀티 AI 에이전트 데스크톱",
-          "link": "https://news.hada.io/topic?id=26764",
-          "pubDate": "2026-02-18T00:31:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>여러 AI 모델과 CLI 도구를 하나의 UI에서 관리하는 <strong>Claude Cowork 대체제</strong>\n</li>\n<li>\n<strong>Gemini CLI, Claude Code, Codex, Open Claw</strong> 등 주요 AI 툴 자동 인식/전환 및 통합 GUI 제공</li>\n<li>맥·윈도우·리눅스 지원하며, <strong>WebUI 및 Telegram 원격 접속</strong>을 통...</p>",
-          "contentSnippet": "여러 AI 모델과 CLI 도구를 하나의 UI에서 관리하는 Claude Cowork 대체제\n\n\nGemini CLI, Claude Code, Codex, Open Claw 등 주요 AI 툴 자동 인식/전환 및 통합 GUI 제공\n맥·윈도우·리눅스 지원하며, WebUI 및 Telegram 원격 접속을 통...",
-          "id": "https://news.hada.io/topic?id=26764",
-          "isoDate": "2026-02-18T00:31:02.000Z"
-        },
-        {
-          "title": "피터 틸: 2014~2019년 제프리 엡스타인과 2,436건 이메일 교환",
-          "link": "https://news.hada.io/topic?id=26763",
-          "pubDate": "2026-02-17T23:38:16.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>독일계 미국인 기업가 피터 틸은 <strong>엡스타인과 2014~2019년 사이 2,436통의 이메일</strong>을 주고받으며, 투자·정치·기술 관련 논의를 지속함</li>\n<li>두 사람은 <strong>엡스타인의 2008년 유죄 판결 이후</strong>에도 교류를 이어갔고, 엡스타인은 틸의 벤처캐피털 <strong>Valar Ventures에 4천만...</p>",
-          "contentSnippet": "독일계 미국인 기업가 피터 틸은 엡스타인과 2014~2019년 사이 2,436통의 이메일을 주고받으며, 투자·정치·기술 관련 논의를 지속함\n두 사람은 엡스타인의 2008년 유죄 판결 이후에도 교류를 이어갔고, 엡스타인은 틸의 벤처캐피털 Valar Ventures에 4천만...",
-          "id": "https://news.hada.io/topic?id=26763",
-          "isoDate": "2026-02-17T23:38:16.000Z"
-        },
-        {
-          "title": "이스라엘 스파이웨어 기업이 스스로를 노출한 사건",
-          "link": "https://news.hada.io/topic?id=26762",
-          "pubDate": "2026-02-17T23:35:16.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>이스라엘 감시기업 <strong>Paragon Solutions</strong>가 LinkedIn에 자사 스파이웨어 대시보드 이미지를 올리며 <strong>내부 감시 시스템 구조를 노출</strong>함</li>\n<li>노출된 화면에는 <strong>체코 전화번호, 가로채기 로그, 암호화 서비스 데이터 분류</strong> 등이 포함되어 실제 작동 중인 감시 인...</p>",
-          "contentSnippet": "이스라엘 감시기업 Paragon Solutions가 LinkedIn에 자사 스파이웨어 대시보드 이미지를 올리며 내부 감시 시스템 구조를 노출함\n노출된 화면에는 체코 전화번호, 가로채기 로그, 암호화 서비스 데이터 분류 등이 포함되어 실제 작동 중인 감시 인...",
-          "id": "https://news.hada.io/topic?id=26762",
-          "isoDate": "2026-02-17T23:35:16.000Z"
-        },
-        {
-          "title": "서비스가 아닌 프로토콜을 사용하라",
-          "link": "https://news.hada.io/topic?id=26761",
-          "pubDate": "2026-02-17T19:33:08.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>인터넷은 본래 <strong>익명성과 프라이버시 보호</strong>를 지향하지만, 중앙집중형 플랫폼이 이 특성을 훼손함</li>\n<li>정부는 단일 기업에 <strong>명령서 한 장</strong>만 보내면 사용자 식별, 검열, 규제 집행이 가능함</li>\n<li>반면 <strong>IRC, XMPP, ActivityPub, Nostr, Matrix</strong> 같은 프...</p>",
-          "contentSnippet": "인터넷은 본래 익명성과 프라이버시 보호를 지향하지만, 중앙집중형 플랫폼이 이 특성을 훼손함\n정부는 단일 기업에 명령서 한 장만 보내면 사용자 식별, 검열, 규제 집행이 가능함\n반면 IRC, XMPP, ActivityPub, Nostr, Matrix 같은 프...",
-          "id": "https://news.hada.io/topic?id=26761",
-          "isoDate": "2026-02-17T19:33:08.000Z"
         }
       ]
     }
