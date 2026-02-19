@@ -7,6 +7,26 @@
       "priority": 1,
       "data": [
         {
+          "title": "AI 뱀파이어 (The AI Vampire)",
+          "link": "https://news.hada.io/topic?id=26815",
+          "pubDate": "2026-02-19T12:45:15.000Z",
+          "author": "davespark",
+          "content": "<p>스티브 예게(Steve Yegge, 전 Google·Amazon·Grab·Sourcegraph 엔지니어)가 AI 코딩 도구(특히 Claude Opus 4.5/4.6 + Claude Code)의 폭발적 생산성 향상에도 불구하고, 개발자들이 극심한 <strong>정신적·에너지 고갈</strong>을 겪는 현상을 <strong>“AI 뱀파이어”</strong> 라고 명명.</p>\n<p>드라마 <em>What ",
+          "contentSnippet": "스티브 예게(Steve Yegge, 전 Google·Amazon·Grab·Sourcegraph 엔지니어)가 AI 코딩 도구(특히 Claude Opus 4.5/4.6 + Claude Code)의 폭발적 생산성 향상에도 불구하고, 개발자들이 극심한 정신적·에너지 고갈을 겪는 현상을 “AI 뱀파이어” 라고 명명.\n드라마 What",
+          "id": "https://news.hada.io/topic?id=26815",
+          "isoDate": "2026-02-19T12:45:15.000Z"
+        },
+        {
+          "title": "Tailscale Peer Relays: 자체 장치를 고속 릴레이로 활용",
+          "link": "https://news.hada.io/topic?id=26814",
+          "pubDate": "2026-02-19T12:33:17.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Tailscale Peer Relays</strong>가 정식 출시되어, 사용자가 자신의 장치를 <strong>고성능 릴레이 노드</strong>로 활용할 수 있게 됨</li>\n<li>방화벽, NAT, 클라우드 네트워크 제약 등으로 직접 연결이 어려운 환경에서도 <strong>안정적이고 빠른 트래픽 중계</strong>를 지원</li>\n<li>\n<strong>...</p>",
+          "contentSnippet": "Tailscale Peer Relays가 정식 출시되어, 사용자가 자신의 장치를 고성능 릴레이 노드로 활용할 수 있게 됨\n방화벽, NAT, 클라우드 네트워크 제약 등으로 직접 연결이 어려운 환경에서도 안정적이고 빠른 트래픽 중계를 지원\n...",
+          "id": "https://news.hada.io/topic?id=26814",
+          "isoDate": "2026-02-19T12:33:17.000Z"
+        },
+        {
           "title": "Claude Code의 OAuth 토큰, 외부 서비스·Agent SDK에서 사용하면 약관 위반",
           "link": "https://news.hada.io/topic?id=26811",
           "pubDate": "2026-02-19T08:31:51.000Z",
@@ -485,26 +505,6 @@
           "contentSnippet": "인터넷은 본래 익명성과 프라이버시 보호를 지향하지만, 중앙집중형 플랫폼이 이 특성을 훼손함\n정부는 단일 기업에 명령서 한 장만 보내면 사용자 식별, 검열, 규제 집행이 가능함\n반면 IRC, XMPP, ActivityPub, Nostr, Matrix 같은 프...",
           "id": "https://news.hada.io/topic?id=26761",
           "isoDate": "2026-02-17T19:33:08.000Z"
-        },
-        {
-          "title": "특권은 나쁜 문법이다",
-          "link": "https://news.hada.io/topic?id=26760",
-          "pubDate": "2026-02-17T18:37:29.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>사회생활 초기에 상사에게 이메일을 보낼 때 <strong>문법·톤</strong>을 30분씩 다듬었지만, 상사는 <strong>무례하고, 오타 많고, 문법도 엉망인 답장</strong>을 즉시 보내는 상황을 자주 겪음</li>\n<li>Epstein 관련 문서 공개 뒤 유출된 이메일에서도 유명 인사들의 <strong>형편없는 문법</strong>이 눈에...</p>",
-          "contentSnippet": "사회생활 초기에 상사에게 이메일을 보낼 때 문법·톤을 30분씩 다듬었지만, 상사는 무례하고, 오타 많고, 문법도 엉망인 답장을 즉시 보내는 상황을 자주 겪음\nEpstein 관련 문서 공개 뒤 유출된 이메일에서도 유명 인사들의 형편없는 문법이 눈에...",
-          "id": "https://news.hada.io/topic?id=26760",
-          "isoDate": "2026-02-17T18:37:29.000Z"
-        },
-        {
-          "title": "SkillsBench: 다양한 작업에서 에이전트 스킬의 성능을 평가하는 벤치마크",
-          "link": "https://news.hada.io/topic?id=26759",
-          "pubDate": "2026-02-17T18:34:29.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>대형 언어 모델(LLM) 기반 에이전트의 <strong>스킬(Agent Skills)</strong> 효과를 정량적으로 평가하기 위한 첫 벤치마크로, 11개 도메인 84개 작업을 포함함</li>\n<li>각 작업은 <strong>스킬 미적용</strong>, <strong>큐레이션된 스킬 적용</strong>, <strong>자체 생성 스킬 적용</strong>의 세 조건에서...</p>",
-          "contentSnippet": "대형 언어 모델(LLM) 기반 에이전트의 스킬(Agent Skills) 효과를 정량적으로 평가하기 위한 첫 벤치마크로, 11개 도메인 84개 작업을 포함함\n각 작업은 스킬 미적용, 큐레이션된 스킬 적용, 자체 생성 스킬 적용의 세 조건에서...",
-          "id": "https://news.hada.io/topic?id=26759",
-          "isoDate": "2026-02-17T18:34:29.000Z"
         }
       ]
     }
