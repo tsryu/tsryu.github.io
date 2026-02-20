@@ -7,6 +7,26 @@
       "priority": 1,
       "data": [
         {
+          "title": "Pebble 생산: 2월 업데이트",
+          "link": "https://news.hada.io/topic?id=26850",
+          "pubDate": "2026-02-20T19:33:11.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Pebble Time 2, Pebble Round 2, Index 01</strong> 등 세 가지 신제품이 양산 단계에 근접하며, 하드웨어와 소프트웨어 개발이 병행 중임</li>\n<li>Pebble Time 2는 <strong>방수 성능 개선</strong>을 완료하고 3ATM 인증을 목표로 하며, <strong>3월 9일 양산 개시</strong> 예정</li>\n<li>Index 0...</p>",
+          "contentSnippet": "Pebble Time 2, Pebble Round 2, Index 01 등 세 가지 신제품이 양산 단계에 근접하며, 하드웨어와 소프트웨어 개발이 병행 중임\nPebble Time 2는 방수 성능 개선을 완료하고 3ATM 인증을 목표로 하며, 3월 9일 양산 개시 예정\nIndex 0...",
+          "id": "https://news.hada.io/topic?id=26850",
+          "isoDate": "2026-02-20T19:33:11.000Z"
+        },
+        {
+          "title": "DOGE Track",
+          "link": "https://news.hada.io/topic?id=26849",
+          "pubDate": "2026-02-20T17:33:20.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>미국 정부 조직과 인물의 <strong>정책 변화 및 영향</strong>을 체계적으로 기록하는 웹 기반 추적 프로젝트</li>\n<li>사이트는 <strong>DOGE 관련 프로젝트, 인물, 기관, 사건</strong>을 항목별로 분류해 탐색 가능</li>\n<li>각 항목은 <strong>프로젝트 목록, 인물 관계, 기관별 타임라인</strong> 등으로 ...</p>",
+          "contentSnippet": "미국 정부 조직과 인물의 정책 변화 및 영향을 체계적으로 기록하는 웹 기반 추적 프로젝트\n사이트는 DOGE 관련 프로젝트, 인물, 기관, 사건을 항목별로 분류해 탐색 가능\n각 항목은 프로젝트 목록, 인물 관계, 기관별 타임라인 등으로 ...",
+          "id": "https://news.hada.io/topic?id=26849",
+          "isoDate": "2026-02-20T17:33:20.000Z"
+        },
+        {
           "title": "AI는 동료가 아니라 외골격이다",
           "link": "https://news.hada.io/topic?id=26848",
           "pubDate": "2026-02-20T14:33:17.000Z",
@@ -485,26 +505,6 @@
           "contentSnippet": "Suno 같은 상용 수준의 음악 생성 품질을 일반 소비자 하드웨어에서도 구현한 오픈소스 음악 생성 모델\n\n\n10초 이내(RTX 3090) 로 전체 곡 고속 생성\n4GB VRAM 이하 환경에서도 로컬 실행 가능하며, LoRA 기...",
           "id": "https://news.hada.io/topic?id=26791",
           "isoDate": "2026-02-19T00:31:02.000Z"
-        },
-        {
-          "title": "DroidClaw — 구형 안드로이드 폰을 AI 에이전트로 활용하는 오픈소스 프로젝트",
-          "link": "https://news.hada.io/topic?id=26790",
-          "pubDate": "2026-02-19T00:16:59.000Z",
-          "author": "princox",
-          "content": "<p>https://github.com/unitedbyai/droidclaw<br />\n자연어로 목표를 입력하면, 화면을 인식하고 ADB를 통해 터치·입력을 자동 수행하는 모바일 AI 에이전트 프레임워크입니다.</p>\n<p>동작 방식은 단순합니다. “화면 캡처 → 비전 모델로 인식 → 다음 액션 추론 → ADB 실행”을 루프로 반복합니다. 예를 들어 “유튜",
-          "contentSnippet": "https://github.com/unitedbyai/droidclaw\n동작 방식은 단순합니다. “화면 캡처 → 비전 모델로 인식 → 다음 액션 추론 → ADB 실행”을 루프로 반복합니다. 예를 들어 “유튜",
-          "id": "https://news.hada.io/topic?id=26790",
-          "isoDate": "2026-02-19T00:16:59.000Z"
-        },
-        {
-          "title": "Show GN: AI 복덕방 아저씨가 내집마련 시점부터 노후자금까지 봐드립니다.",
-          "link": "https://news.hada.io/topic?id=26789",
-          "pubDate": "2026-02-18T23:52:21.000Z",
-          "author": "tae0y",
-          "content": "<p>안녕하세요. 국토부 실거래가 데이터를 Claude에 연결해서 부동산 시뮬레이션을 자연어로 물어볼 수 있는 MCP 서버를 만들었어요.</p>\n<p><strong>왜 만들었어요?</strong></p>\n<p>&quot;10년 뒤 내가 살 수 있는 아파트가 어디일까?&quot; 물어보고 싶었는데, 기존 부동산 앱들은 개별 매물 검색에 최적화되어 있어서",
-          "contentSnippet": "안녕하세요. 국토부 실거래가 데이터를 Claude에 연결해서 부동산 시뮬레이션을 자연어로 물어볼 수 있는 MCP 서버를 만들었어요.\n왜 만들었어요?\n\"10년 뒤 내가 살 수 있는 아파트가 어디일까?\" 물어보고 싶었는데, 기존 부동산 앱들은 개별 매물 검색에 최적화되어 있어서",
-          "id": "https://news.hada.io/topic?id=26789",
-          "isoDate": "2026-02-18T23:52:21.000Z"
         }
       ]
     }
