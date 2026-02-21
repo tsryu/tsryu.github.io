@@ -7,6 +7,46 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: 카카오톡 업데이트 되돌리기 게임",
+          "link": "https://news.hada.io/topic?id=26869",
+          "pubDate": "2026-02-21T08:36:11.000Z",
+          "author": "firstseethesun",
+          "content": "<h3>소개</h3>\n<ul>\n<li>\n<p>안녕하세요 카카오톡 업데이트 사건에서 영감을 받아서 신박한 게임을 만들어봤어요</p>\n</li>\n<li>\n<p>대규모 업데이트를 되돌리기 위해 힌트를 수집하고 문제를 찾아 해결하는 방탈출 게임을 출시했습니다</p>\n</li>\n<li>\n<p>플레이어는 카카오톡의 다양한 기능(채팅, 친구 목록, 오픈채팅",
+          "contentSnippet": "소개\n안녕하세요 카카오톡 업데이트 사건에서 영감을 받아서 신박한 게임을 만들어봤어요\n대규모 업데이트를 되돌리기 위해 힌트를 수집하고 문제를 찾아 해결하는 방탈출 게임을 출시했습니다\n플레이어는 카카오톡의 다양한 기능(채팅, 친구 목록, 오픈채팅",
+          "id": "https://news.hada.io/topic?id=26869",
+          "isoDate": "2026-02-21T08:36:11.000Z"
+        },
+        {
+          "title": "Anthropic, Claude Code에 보안 취약점 스캔 기능 출시 (리서치 프리뷰)",
+          "link": "https://news.hada.io/topic?id=26868",
+          "pubDate": "2026-02-21T08:04:11.000Z",
+          "author": "princox",
+          "content": "<p>Anthropic이 Claude Code에 보안 특화 기능인 Claude Code Security를 공개했습니다. 현재 Enterprise·Team 고객 대상 리서치 프리뷰 단계이며, 대기자 명단(waitlist)을 통해 신청할 수 있습니다.</p>\n<p>핵심 기능은 3단계로 구성됩니다:</p>\n<p>스캔(Scan) — 단순한 패턴 매칭이 아닌, 코드 전체의 맥락을 이해하",
+          "contentSnippet": "Anthropic이 Claude Code에 보안 특화 기능인 Claude Code Security를 공개했습니다. 현재 Enterprise·Team 고객 대상 리서치 프리뷰 단계이며, 대기자 명단(waitlist)을 통해 신청할 수 있습니다.\n핵심 기능은 3단계로 구성됩니다:\n스캔(Scan) — 단순한 패턴 매칭이 아닌, 코드 전체의 맥락을 이해하",
+          "id": "https://news.hada.io/topic?id=26868",
+          "isoDate": "2026-02-21T08:04:11.000Z"
+        },
+        {
+          "title": "나는 취약점을 발견했다. 그들은 변호사를 찾았다",
+          "link": "https://news.hada.io/topic?id=26866",
+          "pubDate": "2026-02-21T05:33:05.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>다이빙 강사이자 플랫폼 엔지니어인 작성자가 <strong>다이빙 보험사 회원 포털의 심각한 보안 취약점</strong>을 발견함</li>\n<li>포털이 <strong>순차적 사용자 ID와 동일한 기본 비밀번호</strong>를 사용해, 누구나 단순한 조합으로 다른 회원의 개인정보에 접근 가능했음</li>\n<li>문제를 <strong>CSIRT M...</p>",
+          "contentSnippet": "다이빙 강사이자 플랫폼 엔지니어인 작성자가 다이빙 보험사 회원 포털의 심각한 보안 취약점을 발견함\n포털이 순차적 사용자 ID와 동일한 기본 비밀번호를 사용해, 누구나 단순한 조합으로 다른 회원의 개인정보에 접근 가능했음\n문제를 CSIRT M...",
+          "id": "https://news.hada.io/topic?id=26866",
+          "isoDate": "2026-02-21T05:33:05.000Z"
+        },
+        {
+          "title": "클로드 코드, 사이버보안 기능 추가",
+          "link": "https://news.hada.io/topic?id=26865",
+          "pubDate": "2026-02-21T05:07:53.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>Claude Code Security</strong>는 코드베이스의 취약점을 탐지하고 <strong>인간 검토용 패치 제안</strong>을 제공하는 AI 기반 보안 기능</li>\n<li>기존 <strong>정적 분석 도구가 놓치는 복잡한 취약점</strong>을 인간 연구자처럼 코드의 상호작용과 데이터 흐름을 추적해 탐지</li>\n<li>모든 결과...</p>",
+          "contentSnippet": "Claude Code Security는 코드베이스의 취약점을 탐지하고 인간 검토용 패치 제안을 제공하는 AI 기반 보안 기능\n기존 정적 분석 도구가 놓치는 복잡한 취약점을 인간 연구자처럼 코드의 상호작용과 데이터 흐름을 추적해 탐지\n모든 결과...",
+          "id": "https://news.hada.io/topic?id=26865",
+          "isoDate": "2026-02-21T05:07:53.000Z"
+        },
+        {
           "title": "AI 에이전트가 나를 비난하는 글을 게시했다 – 운영자가 신원을 밝혔다",
           "link": "https://news.hada.io/topic?id=26864",
           "pubDate": "2026-02-21T01:05:25.000Z",
@@ -465,46 +505,6 @@
           "contentSnippet": "Tailscale Peer Relays가 정식 출시되어, 사용자가 자신의 장치를 고성능 릴레이 노드로 활용할 수 있게 됨\n방화벽, NAT, 클라우드 네트워크 제약 등으로 직접 연결이 어려운 환경에서도 안정적이고 빠른 트래픽 중계를 지원\n...",
           "id": "https://news.hada.io/topic?id=26814",
           "isoDate": "2026-02-19T12:33:17.000Z"
-        },
-        {
-          "title": "Claude Code의 OAuth 토큰, 외부 서비스·Agent SDK에서 사용하면 약관 위반",
-          "link": "https://news.hada.io/topic?id=26811",
-          "pubDate": "2026-02-19T08:31:51.000Z",
-          "author": "princox",
-          "content": "<p>Anthropic이 법적 효력에 대한 문서를 업데이트했다고 하여 공유합니다.</p>\n<p>Anthropic이 Claude Code 공식 문서에서 OAuth 인증 토큰의 사용 범위를 명확히 제한했습니다.<br />\nFree, Pro, Max 플랜에서 사용하는 OAuth 인증은 Claude Code와 Claude.ai 전용입니다. 해당 계정으로 발급된 OAuth 토큰을 다른 제품",
-          "contentSnippet": "Anthropic이 법적 효력에 대한 문서를 업데이트했다고 하여 공유합니다.\nAnthropic이 Claude Code 공식 문서에서 OAuth 인증 토큰의 사용 범위를 명확히 제한했습니다.\nFree, Pro, Max 플랜에서 사용하는 OAuth 인증은 Claude Code와 Claude.ai 전용입니다. 해당 계정으로 발급된 OAuth 토큰을 다른 제품",
-          "id": "https://news.hada.io/topic?id=26811",
-          "isoDate": "2026-02-19T08:31:51.000Z"
-        },
-        {
-          "title": "사이즈의 혼란",
-          "link": "https://news.hada.io/topic?id=26810",
-          "pubDate": "2026-02-19T06:33:26.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>미국 여성복 <strong>사이즈 체계의 불일치와 비표준화</strong>가 세대 전반에 걸쳐 지속되고 있음</li>\n<li>\n<strong>청소년기부터 성인기까지의 신체 변화</strong>에 비해 의류 사이즈 체계는 이를 반영하지 못하고, 특히 15세 이후 여성복으로 전환되면서 <strong>표준 사이즈 범위 밖으로 밀려나는 인구...</p>",
-          "contentSnippet": "미국 여성복 사이즈 체계의 불일치와 비표준화가 세대 전반에 걸쳐 지속되고 있음\n청소년기부터 성인기까지의 신체 변화에 비해 의류 사이즈 체계는 이를 반영하지 못하고, 특히 15세 이후 여성복으로 전환되면서 표준 사이즈 범위 밖으로 밀려나는 인구...",
-          "id": "https://news.hada.io/topic?id=26810",
-          "isoDate": "2026-02-19T06:33:26.000Z"
-        },
-        {
-          "title": "AI 검색의 스팸 문제 (AI Search Has a Spam Problem)",
-          "link": "https://news.hada.io/topic?id=26809",
-          "pubDate": "2026-02-19T05:59:11.000Z",
-          "author": "davespark",
-          "content": "<p>현재 AI 검색(Gemini, ChatGPT, Perplexity 등)은 웹 콘텐츠를 기반으로 답변을 생성하지만, <strong>“존재 여부”만 확인할 뿐 신뢰성·독립성은 검증하지 않는다</strong>는 치명적인 맹점이 있다.</p>\n<p>기업이 자기 사이트에 “2026년 최고 ○○ 회사” 리스트를 만들어 자신을 1위로 올려놓고, 이 페이지가 검색",
-          "contentSnippet": "현재 AI 검색(Gemini, ChatGPT, Perplexity 등)은 웹 콘텐츠를 기반으로 답변을 생성하지만, “존재 여부”만 확인할 뿐 신뢰성·독립성은 검증하지 않는다는 치명적인 맹점이 있다.\n기업이 자기 사이트에 “2026년 최고 ○○ 회사” 리스트를 만들어 자신을 1위로 올려놓고, 이 페이지가 검색",
-          "id": "https://news.hada.io/topic?id=26809",
-          "isoDate": "2026-02-19T05:59:11.000Z"
-        },
-        {
-          "title": "AI 시대의 파괴적 변화가 도래했고, 꽤 재미있다",
-          "link": "https://news.hada.io/topic?id=26806",
-          "pubDate": "2026-02-19T03:52:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>지하철에서 <strong>프롬프트만으로 웹앱을 완성하는 ‘바이브 코딩’</strong> 경험이 일상이 되고, <strong>AI 코딩 에이전트 경쟁</strong>이 본격화 및 생산성 급상승</li>\n<li>어도비/세일즈포스등 소프트웨어 주가 급락과 함께 <strong>기존 인력·비즈니스 모델 가치 하락</strong>이 가속됨</li>\n<li>이...</p>",
-          "contentSnippet": "지하철에서 프롬프트만으로 웹앱을 완성하는 ‘바이브 코딩’ 경험이 일상이 되고, AI 코딩 에이전트 경쟁이 본격화 및 생산성 급상승\n어도비/세일즈포스등 소프트웨어 주가 급락과 함께 기존 인력·비즈니스 모델 가치 하락이 가속됨\n이...",
-          "id": "https://news.hada.io/topic?id=26806",
-          "isoDate": "2026-02-19T03:52:02.000Z"
         }
       ]
     }
