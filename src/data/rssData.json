@@ -7,6 +7,26 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: ios용 모아키 키보드 - 오픈소스로 공개합니다",
+          "link": "https://news.hada.io/topic?id=26893",
+          "pubDate": "2026-02-22T13:18:31.000Z",
+          "author": "vkehfdl1",
+          "content": "<p>ios에서 즐겨 쓰던 모아키 대용 'dev keyboard'라는 앱이 1달 전 즈음부터 앱스토어에서 내려갔습니다.<br />\n도저히 모바일 쿼티 키보드는 못 쓰겠더라고요.<br />\n그래서 직접 ios용 모아키 키보드를 개발했습니다.<br />\n3주 정도 실사용하면서 나름 괜찮아졌다고 생각해 공개합니다.<br />\n감사합니다!</p>\n",
+          "contentSnippet": "ios에서 즐겨 쓰던 모아키 대용 'dev keyboard'라는 앱이 1달 전 즈음부터 앱스토어에서 내려갔습니다.\n도저히 모바일 쿼티 키보드는 못 쓰겠더라고요.\n그래서 직접 ios용 모아키 키보드를 개발했습니다.\n3주 정도 실사용하면서 나름 괜찮아졌다고 생각해 공개합니다.\n감사합니다!",
+          "id": "https://news.hada.io/topic?id=26893",
+          "isoDate": "2026-02-22T13:18:31.000Z"
+        },
+        {
+          "title": "Bluesky를 경계하라",
+          "link": "https://news.hada.io/topic?id=26891",
+          "pubDate": "2026-02-22T10:33:13.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>ATProto 기반의 Bluesky</strong>는 탈중앙화를 약속하지만, 실제로 대부분의 사용자 데이터가 <strong>Bluesky 서버에 집중</strong>되어 있음</li>\n<li>사용자는 개인 데이터 서버(PDS)를 직접 운영할 수 있지만, <strong>편의성과 호환성</strong> 때문에 거의 모두 Bluesky의 기본 서버를 이용함...</p>",
+          "contentSnippet": "ATProto 기반의 Bluesky는 탈중앙화를 약속하지만, 실제로 대부분의 사용자 데이터가 Bluesky 서버에 집중되어 있음\n사용자는 개인 데이터 서버(PDS)를 직접 운영할 수 있지만, 편의성과 호환성 때문에 거의 모두 Bluesky의 기본 서버를 이용함...",
+          "id": "https://news.hada.io/topic?id=26891",
+          "isoDate": "2026-02-22T10:33:13.000Z"
+        },
+        {
           "title": "Claude는 왜 Electron 앱일까?",
           "link": "https://news.hada.io/topic?id=26890",
           "pubDate": "2026-02-22T04:33:15.000Z",
@@ -485,26 +505,6 @@
           "contentSnippet": "안녕하세요? 😊\n새로운 작은 앱 'Dayte(데이트)'를 출시하게 돼 소개해 드리고자 글을 남기게 되었습니다 🙏\n‘디데이 기능’은 제가 운영하고 있는 캘린더 앱 ‘스케줄러’의 많은 사용자",
           "id": "https://news.hada.io/topic?id=26839",
           "isoDate": "2026-02-20T05:33:43.000Z"
-        },
-        {
-          "title": "미국 과학을 무너뜨리는 인재 유출: “이제 더 이상 최고 인재를 끌어들이지 못한다”",
-          "link": "https://news.hada.io/topic?id=26838",
-          "pubDate": "2026-02-20T05:33:11.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>트럼프 행정부의 과학 연구비 대폭 삭감</strong>으로 인해 젊은 연구자들이 해외로 떠나며 미국 과학계의 기반이 흔들리고 있음</li>\n<li>\n<strong>NIH와 NSF에서 수천 건의 연구 보조금이 취소되고 수천 명의 연구 인력 해고</strong>가 발생, 연구 장비 유지조차 어려운 상황</li>\n<li>\n<strong>초...</p>",
-          "contentSnippet": "트럼프 행정부의 과학 연구비 대폭 삭감으로 인해 젊은 연구자들이 해외로 떠나며 미국 과학계의 기반이 흔들리고 있음\nNIH와 NSF에서 수천 건의 연구 보조금이 취소되고 수천 명의 연구 인력 해고가 발생, 연구 장비 유지조차 어려운 상황\n초...",
-          "id": "https://news.hada.io/topic?id=26838",
-          "isoDate": "2026-02-20T05:33:11.000Z"
-        },
-        {
-          "title": "[LLVM 창시자 크리스 래트너] Claude C 컴파일러가 보여주는 소프트웨어 엔지니어링의 미래",
-          "link": "https://news.hada.io/topic?id=26837",
-          "pubDate": "2026-02-20T05:14:08.000Z",
-          "author": "darjeeling",
-          "content": "<h4>핵심 요약</h4>\n<p>Anthropic이 발표한 Claude C 컴파일러(CCC)는 AI가 단순한 코드 스니펫 생성을 넘어, 여러 서브시스템에 걸쳐 일관된 아키텍처를 유지하며 대규모 엔지니어링을 수행할 수 있음을 보여주는 중요한 마일스톤입니다. LLVM과 GCC 등 수십 년간 축적된 컴파일러 엔지니어링의 '교과서적 지식'을 완벽...</p>",
-          "contentSnippet": "핵심 요약\nAnthropic이 발표한 Claude C 컴파일러(CCC)는 AI가 단순한 코드 스니펫 생성을 넘어, 여러 서브시스템에 걸쳐 일관된 아키텍처를 유지하며 대규모 엔지니어링을 수행할 수 있음을 보여주는 중요한 마일스톤입니다. LLVM과 GCC 등 수십 년간 축적된 컴파일러 엔지니어링의 '교과서적 지식'을 완벽...",
-          "id": "https://news.hada.io/topic?id=26837",
-          "isoDate": "2026-02-20T05:14:08.000Z"
         }
       ]
     }
