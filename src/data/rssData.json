@@ -7,6 +7,106 @@
       "priority": 1,
       "data": [
         {
+          "title": "CERN이 1989년 원조 웹 브라우저를 재구현 (2019)",
+          "link": "https://news.hada.io/topic?id=26904",
+          "pubDate": "2026-02-22T20:41:23.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>1990년 CERN의 NeXT 컴퓨터에서 개발된 <strong>WorldWideWeb 애플리케이션</strong>은 오늘날 웹의 시초로 평가됨</li>\n<li>2019년, 개발 30주년을 기념해 CERN이 <strong>현대 브라우저 안에서 실행 가능한 원조 브라우저 복원판</strong>을 제작</li>\n<li>이 프로젝트는 <strong>CERN &amp; Society Foundat...</p>",
+          "contentSnippet": "1990년 CERN의 NeXT 컴퓨터에서 개발된 WorldWideWeb 애플리케이션은 오늘날 웹의 시초로 평가됨\n2019년, 개발 30주년을 기념해 CERN이 현대 브라우저 안에서 실행 가능한 원조 브라우저 복원판을 제작\n이 프로젝트는 CERN & Society Foundat...",
+          "id": "https://news.hada.io/topic?id=26904",
+          "isoDate": "2026-02-22T20:41:23.000Z"
+        },
+        {
+          "title": "중국 CXMT, DDR4 반값 공급으로 삼성·SK의 HBM4 경쟁에 압박",
+          "link": "https://news.hada.io/topic?id=26903",
+          "pubDate": "2026-02-22T20:38:23.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>중국 <strong>CXMT가 DDR4 메모리 가격을 절반 수준으로 인하</strong>하며, 글로벌 공급 부족 속에서 구형 DRAM 시장 점유율 확대를 시도</li>\n<li>\n<strong>HP·Dell 등 미국 기업과 Asus·Acer 등 대만 기업</strong>이 CXMT 제품 품질 테스트 및 협력 검토에 나서며 수요 증가 조짐</li>\n<li>\n<strong>삼성과...</p>",
+          "contentSnippet": "중국 CXMT가 DDR4 메모리 가격을 절반 수준으로 인하하며, 글로벌 공급 부족 속에서 구형 DRAM 시장 점유율 확대를 시도\nHP·Dell 등 미국 기업과 Asus·Acer 등 대만 기업이 CXMT 제품 품질 테스트 및 협력 검토에 나서며 수요 증가 조짐\n삼성과...",
+          "id": "https://news.hada.io/topic?id=26903",
+          "isoDate": "2026-02-22T20:38:23.000Z"
+        },
+        {
+          "title": "ESP32에서 888KB 이하로 구동되는 개인용 AI 비서 ‘zclaw’",
+          "link": "https://news.hada.io/topic?id=26902",
+          "pubDate": "2026-02-22T20:35:22.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>ESP32 보드에서 동작하는 초경량 AI 비서</strong>로, 전체 펌웨어 크기가 888KiB 이하로 제한된 구조</li>\n<li>\n<strong>C 언어로 작성</strong>되었으며, GPIO 제어·스케줄링(cron)·지속 메모리·사용자 정의 도구를 <strong>자연어로 조합</strong> 가능</li>\n<li>\n<strong>Wi-Fi, TLS/암호화, 인증...</p>",
+          "contentSnippet": "ESP32 보드에서 동작하는 초경량 AI 비서로, 전체 펌웨어 크기가 888KiB 이하로 제한된 구조\nC 언어로 작성되었으며, GPIO 제어·스케줄링(cron)·지속 메모리·사용자 정의 도구를 자연어로 조합 가능\nWi-Fi, TLS/암호화, 인증...",
+          "id": "https://news.hada.io/topic?id=26902",
+          "isoDate": "2026-02-22T20:35:22.000Z"
+        },
+        {
+          "title": "AI uBlock 블랙리스트",
+          "link": "https://news.hada.io/topic?id=26901",
+          "pubDate": "2026-02-22T19:36:51.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>uBlock Origin</strong>에서 AI가 생성한 <strong>콘텐츠 농장 사이트를 차단</strong>하기 위한 공개 블랙리스트 프로젝트</li>\n<li>생성형 AI가 작성한 웹사이트는 <strong>광고와 추천 링크로 채워져 있으며 신뢰할 수 없는 정보</strong>를 포함하는 경우가 많음</li>\n<li>사용자는 <strong>list....</p>",
+          "contentSnippet": "uBlock Origin에서 AI가 생성한 콘텐츠 농장 사이트를 차단하기 위한 공개 블랙리스트 프로젝트\n생성형 AI가 작성한 웹사이트는 광고와 추천 링크로 채워져 있으며 신뢰할 수 없는 정보를 포함하는 경우가 많음\n사용자는 list....",
+          "id": "https://news.hada.io/topic?id=26901",
+          "isoDate": "2026-02-22T19:36:51.000Z"
+        },
+        {
+          "title": "죽은 멀티플레이 게임을 되살리는 사이트, GameDate",
+          "link": "https://news.hada.io/topic?id=26900",
+          "pubDate": "2026-02-22T19:33:51.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>오래된 <strong>멀티플레이 게임 세션</strong>을 다시 열어 플레이어를 모집하는 <strong>커뮤니티 기반 플랫폼</strong>\n</li>\n<li>사용자는 지역(NA, EU 등)과 시간대별로 <strong>‘LIVE’ 또는 예정된 게임 이벤트</strong>를 확인 가능</li>\n<li>목록에는 <strong>Lethal League Blaze, Kane &amp; Lynch...</p>",
+          "contentSnippet": "오래된 멀티플레이 게임 세션을 다시 열어 플레이어를 모집하는 커뮤니티 기반 플랫폼\n\n사용자는 지역(NA, EU 등)과 시간대별로 ‘LIVE’ 또는 예정된 게임 이벤트를 확인 가능\n목록에는 Lethal League Blaze, Kane & Lynch...",
+          "id": "https://news.hada.io/topic?id=26900",
+          "isoDate": "2026-02-22T19:33:51.000Z"
+        },
+        {
+          "title": "Show GN: 노캔뉴스 업데이트: '이슈 딥다이브' 기능 추가",
+          "link": "https://news.hada.io/topic?id=26899",
+          "pubDate": "2026-02-22T18:40:33.000Z",
+          "author": "warm9806",
+          "content": "<p>안녕하세요, 한달 전 도파민 빼고 맥락만 남기는 뉴스레터 '노캔뉴스'를 긱뉴스에 소개했던 1인 개발자입니다.</p>\n<p>그동안 데일리 뉴스를 발행하면서, 매일의 단발성 뉴스만으로는 특정 이슈들의 전체 그림이 보이지 않는 문제를 해결하기 위해 새로운 기능인 '이슈 딥다이브'를 만들었습니다.</p>\n<ul>\n<li>기능 ",
+          "contentSnippet": "안녕하세요, 한달 전 도파민 빼고 맥락만 남기는 뉴스레터 '노캔뉴스'를 긱뉴스에 소개했던 1인 개발자입니다.\n그동안 데일리 뉴스를 발행하면서, 매일의 단발성 뉴스만으로는 특정 이슈들의 전체 그림이 보이지 않는 문제를 해결하기 위해 새로운 기능인 '이슈 딥다이브'를 만들었습니다.\n기능",
+          "id": "https://news.hada.io/topic?id=26899",
+          "isoDate": "2026-02-22T18:40:33.000Z"
+        },
+        {
+          "title": "Andrej Karpathy가 말하는 &quot;Claws&quot;",
+          "link": "https://news.hada.io/topic?id=26897",
+          "pubDate": "2026-02-22T16:36:49.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Claws</strong>는 LLM 기반 <strong>AI 에이전트 위에 구축된 새로운 계층</strong>으로, 오케스트레이션·스케줄링·컨텍스트 관리·도구 호출·지속성 등을 확장하는 구조</li>\n<li>Andrej Karpathy는 Mac Mini를 구입해 <strong>OpenClaw</strong>를 실험하며, 이를 “흥미롭고 흥분되는 AI 스택의 새로...</p>",
+          "contentSnippet": "Claws는 LLM 기반 AI 에이전트 위에 구축된 새로운 계층으로, 오케스트레이션·스케줄링·컨텍스트 관리·도구 호출·지속성 등을 확장하는 구조\nAndrej Karpathy는 Mac Mini를 구입해 OpenClaw를 실험하며, 이를 “흥미롭고 흥분되는 AI 스택의 새로...",
+          "id": "https://news.hada.io/topic?id=26897",
+          "isoDate": "2026-02-22T16:36:49.000Z"
+        },
+        {
+          "title": "LLM을 칩 위에 ‘인쇄’하는 Taalas의 방식",
+          "link": "https://news.hada.io/topic?id=26896",
+          "pubDate": "2026-02-22T16:33:49.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Taalas</strong>는 Llama 3.1 8B 모델을 <strong>ASIC 칩</strong>에 직접 새겨 넣어 초당 <strong>17,000토큰</strong> 추론 속도를 달성한 스타트업임</li>\n<li>GPU 기반 시스템보다 <strong>10배 저렴하고, 10배 적은 전력</strong>, 그리고 <strong>10배 빠른 추론 성능</strong>을 주장함</li>\n...</p>",
+          "contentSnippet": "Taalas는 Llama 3.1 8B 모델을 ASIC 칩에 직접 새겨 넣어 초당 17,000토큰 추론 속도를 달성한 스타트업임\nGPU 기반 시스템보다 10배 저렴하고, 10배 적은 전력, 그리고 10배 빠른 추론 성능을 주장함\n...",
+          "id": "https://news.hada.io/topic?id=26896",
+          "isoDate": "2026-02-22T16:33:49.000Z"
+        },
+        {
+          "title": "모든 AI 어시스턴트 개발 기업은 이제 광고 회사임",
+          "link": "https://news.hada.io/topic?id=26895",
+          "pubDate": "2026-02-22T15:37:31.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>주요 AI 기업들이 <strong>광고 수익에 기반한 비즈니스 모델</strong>로 전환하며, 사용자 주변의 모든 시각·청각 정보를 수집하는 <strong>하드웨어 중심의 AI 어시스턴트</strong>를 개발 중임</li>\n<li>이러한 <strong>항상 켜져 있는(Always-on)</strong> AI는 음성 호출어 없이도 사용자의 일상 대화를 인...</p>",
+          "contentSnippet": "주요 AI 기업들이 광고 수익에 기반한 비즈니스 모델로 전환하며, 사용자 주변의 모든 시각·청각 정보를 수집하는 하드웨어 중심의 AI 어시스턴트를 개발 중임\n이러한 항상 켜져 있는(Always-on) AI는 음성 호출어 없이도 사용자의 일상 대화를 인...",
+          "id": "https://news.hada.io/topic?id=26895",
+          "isoDate": "2026-02-22T15:37:31.000Z"
+        },
+        {
+          "title": "단일 RTX 3090에서 Llama 3.1 70B를 실행하는 NVMe-직접 GPU 추론 엔진 ‘ntransformer’",
+          "link": "https://news.hada.io/topic?id=26894",
+          "pubDate": "2026-02-22T15:34:31.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>C++/CUDA 기반 LLM 추론 엔진</strong>으로, GPU 메모리 스트리밍과 NVMe 직접 입출력을 통해 <strong>Llama 70B 모델을 RTX 3090(24GB VRAM)</strong> 에서 실행 가능</li>\n<li>\n<strong>3단계 적응형 캐싱 구조</strong>를 사용해 VRAM, 고정 RAM, NVMe/mmap을 자동 분할하며, mmap 대비 <strong>최...</p>",
+          "contentSnippet": "C++/CUDA 기반 LLM 추론 엔진으로, GPU 메모리 스트리밍과 NVMe 직접 입출력을 통해 Llama 70B 모델을 RTX 3090(24GB VRAM) 에서 실행 가능\n3단계 적응형 캐싱 구조를 사용해 VRAM, 고정 RAM, NVMe/mmap을 자동 분할하며, mmap 대비 최...",
+          "id": "https://news.hada.io/topic?id=26894",
+          "isoDate": "2026-02-22T15:34:31.000Z"
+        },
+        {
           "title": "Show GN: ios용 모아키 키보드 - 오픈소스로 공개합니다",
           "link": "https://news.hada.io/topic?id=26893",
           "pubDate": "2026-02-22T13:18:31.000Z",
@@ -405,106 +505,6 @@
           "contentSnippet": "캘리포니아주에서 법무부(DoJ) 승인을 받은 3D 프린터만 사용하도록 요구하는 법안이 제안됨\n해당 법안은 프린터가 자체적으로 사용 현황을 보고하는 기능을 갖추도록 규정함\n목적은 불법 무기 제작 등 3D 프린터의 오용 방지에 있음",
           "id": "https://news.hada.io/topic?id=26851",
           "isoDate": "2026-02-20T20:33:41.000Z"
-        },
-        {
-          "title": "Pebble 생산: 2월 업데이트",
-          "link": "https://news.hada.io/topic?id=26850",
-          "pubDate": "2026-02-20T19:33:11.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Pebble Time 2, Pebble Round 2, Index 01</strong> 등 세 가지 신제품이 양산 단계에 근접하며, 하드웨어와 소프트웨어 개발이 병행 중임</li>\n<li>Pebble Time 2는 <strong>방수 성능 개선</strong>을 완료하고 3ATM 인증을 목표로 하며, <strong>3월 9일 양산 개시</strong> 예정</li>\n<li>Index 0...</p>",
-          "contentSnippet": "Pebble Time 2, Pebble Round 2, Index 01 등 세 가지 신제품이 양산 단계에 근접하며, 하드웨어와 소프트웨어 개발이 병행 중임\nPebble Time 2는 방수 성능 개선을 완료하고 3ATM 인증을 목표로 하며, 3월 9일 양산 개시 예정\nIndex 0...",
-          "id": "https://news.hada.io/topic?id=26850",
-          "isoDate": "2026-02-20T19:33:11.000Z"
-        },
-        {
-          "title": "DOGE Track",
-          "link": "https://news.hada.io/topic?id=26849",
-          "pubDate": "2026-02-20T17:33:20.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>미국 정부 조직과 인물의 <strong>정책 변화 및 영향</strong>을 체계적으로 기록하는 웹 기반 추적 프로젝트</li>\n<li>사이트는 <strong>DOGE 관련 프로젝트, 인물, 기관, 사건</strong>을 항목별로 분류해 탐색 가능</li>\n<li>각 항목은 <strong>프로젝트 목록, 인물 관계, 기관별 타임라인</strong> 등으로 ...</p>",
-          "contentSnippet": "미국 정부 조직과 인물의 정책 변화 및 영향을 체계적으로 기록하는 웹 기반 추적 프로젝트\n사이트는 DOGE 관련 프로젝트, 인물, 기관, 사건을 항목별로 분류해 탐색 가능\n각 항목은 프로젝트 목록, 인물 관계, 기관별 타임라인 등으로 ...",
-          "id": "https://news.hada.io/topic?id=26849",
-          "isoDate": "2026-02-20T17:33:20.000Z"
-        },
-        {
-          "title": "AI는 동료가 아니라 외골격이다",
-          "link": "https://news.hada.io/topic?id=26848",
-          "pubDate": "2026-02-20T14:33:17.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>AI를 자율적 동료로 보는 관점</strong>은 실망스러울 때가 많지만, <strong>인간 능력을 증폭하는 도구로 보는 접근</strong>은 변혁적 성과를 창출함</li>\n<li>제조·군사·의료·러닝 분야의 <strong>외골격(exoskeleton)</strong> 사례처럼, AI도 인간의 판단을 대체하지 않고 <strong>지속 가능성과...</p>",
-          "contentSnippet": "AI를 자율적 동료로 보는 관점은 실망스러울 때가 많지만, 인간 능력을 증폭하는 도구로 보는 접근은 변혁적 성과를 창출함\n제조·군사·의료·러닝 분야의 외골격(exoskeleton) 사례처럼, AI도 인간의 판단을 대체하지 않고 지속 가능성과...",
-          "id": "https://news.hada.io/topic?id=26848",
-          "isoDate": "2026-02-20T14:33:17.000Z"
-        },
-        {
-          "title": "Show GN: 한국 뉴스로 매일 ‘집단 무의식’을 기록하는 프로젝트를 만들었습니다",
-          "link": "https://news.hada.io/topic?id=26846",
-          "pubDate": "2026-02-20T11:42:03.000Z",
-          "author": "yemson",
-          "content": "<p>안녕하세요. 개인 프로젝트로 &lt;오늘의 집단 무의식&gt;을 만들었습니다.</p>\n<p>최근에 카카오톡 GPT Pro를 구매한 뒤 Codex를 써봤는데, 생각보다 너무 좋아서<br />\n요즘 여러 프로젝트를 빠르게 실험하고 있습니다.<br />\n이 프로젝트도 그중 하나입니다.<br />\n만들면서도 AI가 정말 많이 발전했구나를 체감했",
-          "contentSnippet": "안녕하세요. 개인 프로젝트로 <오늘의 집단 무의식>을 만들었습니다.\n최근에 카카오톡 GPT Pro를 구매한 뒤 Codex를 써봤는데, 생각보다 너무 좋아서\n요즘 여러 프로젝트를 빠르게 실험하고 있습니다.\n이 프로젝트도 그중 하나입니다.\n만들면서도 AI가 정말 많이 발전했구나를 체감했",
-          "id": "https://news.hada.io/topic?id=26846",
-          "isoDate": "2026-02-20T11:42:03.000Z"
-        },
-        {
-          "title": "미국, 유럽 등에서의 콘텐츠 차단을 우회하기 위한 온라인 포털 계획",
-          "link": "https://news.hada.io/topic?id=26845",
-          "pubDate": "2026-02-20T11:33:15.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>미국 정부가 <strong>유럽 및 기타 지역의 콘텐츠 차단을 우회</strong>할 수 있는 <strong>온라인 포털 구축 계획</strong>을 추진 중임</li>\n<li>해당 포털은 <strong>검열이나 접근 제한을 받는 정보에 대한 자유로운 접근</strong>을 지원하기 위한 목적임</li>\n<li>\n<strong>정부 주도 플랫폼</strong>으로...</p>",
-          "contentSnippet": "미국 정부가 유럽 및 기타 지역의 콘텐츠 차단을 우회할 수 있는 온라인 포털 구축 계획을 추진 중임\n해당 포털은 검열이나 접근 제한을 받는 정보에 대한 자유로운 접근을 지원하기 위한 목적임\n정부 주도 플랫폼으로...",
-          "id": "https://news.hada.io/topic?id=26845",
-          "isoDate": "2026-02-20T11:33:15.000Z"
-        },
-        {
-          "title": "마우스에 손대지 마세요. 개발자라면 알아야 하는 크롬 단축키",
-          "link": "https://news.hada.io/topic?id=26844",
-          "pubDate": "2026-02-20T08:45:40.000Z",
-          "author": "textlanes33",
-          "content": "<h4>마우스 없이 크롬 쓰고 생산성 극대화시키기</h4>\n<ul>\n<li>생산성에 진심인 사람이라면, 크롬에서도 마우스를 최대한 덜 쓰는 습관이 중요함.</li>\n<li>자주 사용하는 기능 대부분은 단축키 하나로 해결 가능.</li>\n<li>단축키를 체득하면 탭 관리, 탐색, 개발 작업 속도가 눈에 띄게 빨라짐.</li>\n</ul>\n<h4>탭 관...</p>",
-          "contentSnippet": "마우스 없이 크롬 쓰고 생산성 극대화시키기\n생산성에 진심인 사람이라면, 크롬에서도 마우스를 최대한 덜 쓰는 습관이 중요함.\n자주 사용하는 기능 대부분은 단축키 하나로 해결 가능.\n단축키를 체득하면 탭 관리, 탐색, 개발 작업 속도가 눈에 띄게 빨라짐.\n탭 관...",
-          "id": "https://news.hada.io/topic?id=26844",
-          "isoDate": "2026-02-20T08:45:40.000Z"
-        },
-        {
-          "title": "Paged Out! 제8호 [PDF]",
-          "link": "https://news.hada.io/topic?id=26843",
-          "pubDate": "2026-02-20T07:33:03.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>프로그래밍, 해킹, 보안, 전자공학, 데모신 등 기술 주제를 다루는 <strong>무료 실험적 기술 잡지</strong>\n</li>\n<li>각 호는 <strong>‘한 기사 = 한 페이지’</strong> 형식으로 구성되며, 커뮤니티가 제작하고 커뮤니티를 위해 배포되는 <strong>비영리 프로젝트</strong>\n</li>\n<li>주요 기사로 <strong>...</p>",
-          "contentSnippet": "프로그래밍, 해킹, 보안, 전자공학, 데모신 등 기술 주제를 다루는 무료 실험적 기술 잡지\n\n각 호는 ‘한 기사 = 한 페이지’ 형식으로 구성되며, 커뮤니티가 제작하고 커뮤니티를 위해 배포되는 비영리 프로젝트\n\n주요 기사로 ...",
-          "id": "https://news.hada.io/topic?id=26843",
-          "isoDate": "2026-02-20T07:33:03.000Z"
-        },
-        {
-          "title": "Show GN: Flutter로 만든 시각장애인을 위한 기타 튜너 앱",
-          "link": "https://news.hada.io/topic?id=26841",
-          "pubDate": "2026-02-20T06:37:41.000Z",
-          "author": "caaat",
-          "content": "<h4>귀타 - 시각장애인을 위한 기타 튜너 앱</h4>\n<p>전맹 시각장애인이 기존 기타 튜너 앱을 사용하기 어렵다는 문제에서 출발해, 청각 피드백 중심 기타 튜너 앱을 Flutter로 1인 개발했습니다. Android/iOS 모두 지원합니다.</p>\n<p>👉 <a href=\"https://play.google.com/store/apps/details?id=kr.co.devstory.guita",
-          "contentSnippet": "귀타 - 시각장애인을 위한 기타 튜너 앱\n전맹 시각장애인이 기존 기타 튜너 앱을 사용하기 어렵다는 문제에서 출발해, 청각 피드백 중심 기타 튜너 앱을 Flutter로 1인 개발했습니다. Android/iOS 모두 지원합니다.\n👉 <a href=\"https://play.google.com/store/apps/details?id=kr.co.devstory.guita",
-          "id": "https://news.hada.io/topic?id=26841",
-          "isoDate": "2026-02-20T06:37:41.000Z"
-        },
-        {
-          "title": "애니메이션을 설계하는 방법",
-          "link": "https://news.hada.io/topic?id=26840",
-          "pubDate": "2026-02-20T05:46:49.000Z",
-          "author": "kciter1",
-          "content": "<h2>애니메이션은 그래프다</h2>\n<ul>\n<li>설계하려면 재현할 수 있어야 하고 조합할 수 있어야 함.</li>\n<li>모든 애니메이션은 어떤 입력(시간, 스크롤, 마우스 위치 등)에 따라 값이 변하는 것이고, 이 변화를 그래프로 그릴 수 있음.</li>\n<li>그래프의 모양이 곧 움직임의 느낌을 결정하며, 이 곡선을 원하는 대로 ...</p>",
-          "contentSnippet": "애니메이션은 그래프다\n설계하려면 재현할 수 있어야 하고 조합할 수 있어야 함.\n모든 애니메이션은 어떤 입력(시간, 스크롤, 마우스 위치 등)에 따라 값이 변하는 것이고, 이 변화를 그래프로 그릴 수 있음.\n그래프의 모양이 곧 움직임의 느낌을 결정하며, 이 곡선을 원하는 대로 ...",
-          "id": "https://news.hada.io/topic?id=26840",
-          "isoDate": "2026-02-20T05:46:49.000Z"
-        },
-        {
-          "title": "Show GN: 아이폰 '디데이' 앱을 만들었습니다.",
-          "link": "https://news.hada.io/topic?id=26839",
-          "pubDate": "2026-02-20T05:33:43.000Z",
-          "author": "plant",
-          "content": "<p>안녕하세요? 😊<br />\n꼭 필요한 기능만 있는 '작은 앱' 생태계를 제공한다는 목표로 디지털 제품을 만들고 있는 개발자입니다.</p>\n<p>새로운 작은 앱 'Dayte(데이트)'를 출시하게 돼 소개해 드리고자 글을 남기게 되었습니다 🙏</p>\n<p>‘디데이 기능’은 제가 운영하고 있는 캘린더 앱 ‘스케줄러’의 많은 사용자",
-          "contentSnippet": "안녕하세요? 😊\n새로운 작은 앱 'Dayte(데이트)'를 출시하게 돼 소개해 드리고자 글을 남기게 되었습니다 🙏\n‘디데이 기능’은 제가 운영하고 있는 캘린더 앱 ‘스케줄러’의 많은 사용자",
-          "id": "https://news.hada.io/topic?id=26839",
-          "isoDate": "2026-02-20T05:33:43.000Z"
         }
       ]
     }
