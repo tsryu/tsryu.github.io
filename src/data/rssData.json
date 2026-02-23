@@ -7,6 +7,126 @@
       "priority": 1,
       "data": [
         {
+          "title": "LLM이 만든 비밀번호가 위험한 이유, 100비트처럼 보이지만 실제론 27비트",
+          "link": "https://news.hada.io/topic?id=26919",
+          "pubDate": "2026-02-23T03:15:59.000Z",
+          "author": "davespark",
+          "content": "<p>보안 회사 <strong>Irregular</strong>의 연구를 기반으로, <strong>Claude, ChatGPT, Gemini</strong> 같은 최신 LLM(대형 언어 모델)이 생성하는 비밀번호가 겉으로는 매우 강력해 보이지만 실제로는 극도로 취약하다는 점을 지적.</p>\n<h4>핵심 실험 결과</h4>\n<ul>\n<li>각 모델에 “비밀번호를 생성해줘” 요청을",
+          "contentSnippet": "보안 회사 Irregular의 연구를 기반으로, Claude, ChatGPT, Gemini 같은 최신 LLM(대형 언어 모델)이 생성하는 비밀번호가 겉으로는 매우 강력해 보이지만 실제로는 극도로 취약하다는 점을 지적.\n핵심 실험 결과\n각 모델에 “비밀번호를 생성해줘” 요청을",
+          "id": "https://news.hada.io/topic?id=26919",
+          "isoDate": "2026-02-23T03:15:59.000Z"
+        },
+        {
+          "title": "루프스(Loops) - 연합형 오픈소스 틱톡",
+          "link": "https://news.hada.io/topic?id=26918",
+          "pubDate": "2026-02-23T02:37:13.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>짧은 동영상 공유를 <strong>연합형(federated)</strong> 구조로 구현한 오픈소스 플랫폼으로, 창작자와 커뮤니티가 직접 통제할 수 있는 환경을 제공</li>\n<li>\n<strong>ActivityPub</strong> 프로토콜을 사용해 Mastodon, Pixelfed 등 다른 페디버스(fediverse) 앱과 상호 연결 가능</li>\n<li>\n<strong>광고·�...</p>",
+          "contentSnippet": "짧은 동영상 공유를 연합형(federated) 구조로 구현한 오픈소스 플랫폼으로, 창작자와 커뮤니티가 직접 통제할 수 있는 환경을 제공\nActivityPub 프로토콜을 사용해 Mastodon, Pixelfed 등 다른 페디버스(fediverse) 앱과 상호 연결 가능\n광고·�...",
+          "id": "https://news.hada.io/topic?id=26918",
+          "isoDate": "2026-02-23T02:37:13.000Z"
+        },
+        {
+          "title": "AI 에이전트 시장의 절반은 한 분야가 차지, 나머지는 아직 미개척 영역임",
+          "link": "https://news.hada.io/topic?id=26915",
+          "pubDate": "2026-02-23T02:09:54.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>소프트웨어 엔지니어링</strong>이 전체 AI 에이전트 도구 호출의 약 50%를 차지하는 반면, 헬스케어·법률·금융 등 16개 버티컬은 각각 5% 미만에 불과</li>\n<li>AI 모델의 실제 역량은 인간이 5시간 걸릴 작업을 수행할 수 있는 수준이지만, 실제 사용에서 99.9번째 백분위 세션은 약 <strong>42분...</p>",
+          "contentSnippet": "소프트웨어 엔지니어링이 전체 AI 에이전트 도구 호출의 약 50%를 차지하는 반면, 헬스케어·법률·금융 등 16개 버티컬은 각각 5% 미만에 불과\nAI 모델의 실제 역량은 인간이 5시간 걸릴 작업을 수행할 수 있는 수준이지만, 실제 사용에서 99.9번째 백분위 세션은 약 42분...",
+          "id": "https://news.hada.io/topic?id=26915",
+          "isoDate": "2026-02-23T02:09:54.000Z"
+        },
+        {
+          "title": "이제 남은 유일한 해자는 돈뿐인가?",
+          "link": "https://news.hada.io/topic?id=26913",
+          "pubDate": "2026-02-23T00:59:31.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>AI가 대량 생산하는 시대</strong>에 인간의 창의적 사고 가치는 하락하고, <strong>인간의 관심(Attention)</strong> 은 희소 자원으로 부상</li>\n<li>새로운 제품을 만드는 것은 쉬워졌지만, <strong>관심을 얻는 것은 극도로 어려워진 환경</strong>으로 전환됨</li>\n<li>\n<strong>기존 채널(검색,...</p>",
+          "contentSnippet": "AI가 대량 생산하는 시대에 인간의 창의적 사고 가치는 하락하고, 인간의 관심(Attention) 은 희소 자원으로 부상\n새로운 제품을 만드는 것은 쉬워졌지만, 관심을 얻는 것은 극도로 어려워진 환경으로 전환됨\n기존 채널(검색,...",
+          "id": "https://news.hada.io/topic?id=26913",
+          "isoDate": "2026-02-23T00:59:31.000Z"
+        },
+        {
+          "title": "코드 공장 시대와 미래 SRE",
+          "link": "https://news.hada.io/topic?id=26912",
+          "pubDate": "2026-02-23T00:53:29.000Z",
+          "author": "kivoloid",
+          "content": "<p>원래는 제 주변에만 공유한 졸문이나, 반응이 괜찮아서 Geeknews에도 공유하여 다른 분들의 생각과 관점을 듣고 싶어서 공유합니다. 홍보성 글로 생각되면 지적해 주십시오!</p>\n<hr />\n<h4>요약</h4>\n<ul>\n<li>소프트웨어 엔지니어링의 근간이 AI와 자동화의 급격한 부상으로 재구조화되고 있음. 이러한 변혁은 되돌",
+          "contentSnippet": "원래는 제 주변에만 공유한 졸문이나, 반응이 괜찮아서 Geeknews에도 공유하여 다른 분들의 생각과 관점을 듣고 싶어서 공유합니다. 홍보성 글로 생각되면 지적해 주십시오!\n요약\n소프트웨어 엔지니어링의 근간이 AI와 자동화의 급격한 부상으로 재구조화되고 있음. 이러한 변혁은 되돌",
+          "id": "https://news.hada.io/topic?id=26912",
+          "isoDate": "2026-02-23T00:53:29.000Z"
+        },
+        {
+          "title": "ChatDev 2.0 - 멀티에이전트 협업 기반 Zero-Code 개발 플랫폼",
+          "link": "https://news.hada.io/topic?id=26911",
+          "pubDate": "2026-02-23T00:51:01.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>코드 작성 없이 멀티에이전트 시스템을 구성·실행</strong>할 수 있도록 설계된 <strong>Zero-Code 플랫폼</strong>\n</li>\n<li>간단한 설정만으로 <strong>에이전트, 워크플로, 태스크를 정의</strong>해 데이터 시각화, 3D 생성, 심층 연구 등 복잡한 시나리오를 자동화 지원</li>\n<li>기존 <strong>...</p>",
+          "contentSnippet": "코드 작성 없이 멀티에이전트 시스템을 구성·실행할 수 있도록 설계된 Zero-Code 플랫폼\n\n간단한 설정만으로 에이전트, 워크플로, 태스크를 정의해 데이터 시각화, 3D 생성, 심층 연구 등 복잡한 시나리오를 자동화 지원\n기존 ...",
+          "id": "https://news.hada.io/topic?id=26911",
+          "isoDate": "2026-02-23T00:51:01.000Z"
+        },
+        {
+          "title": "이란 학생들, 유혈 진압 이후 첫 대규모 반정부 시위 벌여",
+          "link": "https://news.hada.io/topic?id=26910",
+          "pubDate": "2026-02-23T00:46:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>이란 여러 대학에서 <strong>정부에 반대하는 학생 시위</strong>가 열렸으며, 이는 1월의 유혈 진압 이후 처음으로 대규모로 진행된 집회임</li>\n<li>테헤란의 <strong>Sharif 공과대학교</strong>를 비롯해 여러 대학에서 학생들이 행진하며 “독재자에게 죽음을” 등 <strong>반정부 구호</strong>를 외침...</p>",
+          "contentSnippet": "이란 여러 대학에서 정부에 반대하는 학생 시위가 열렸으며, 이는 1월의 유혈 진압 이후 처음으로 대규모로 진행된 집회임\n테헤란의 Sharif 공과대학교를 비롯해 여러 대학에서 학생들이 행진하며 “독재자에게 죽음을” 등 반정부 구호를 외침...",
+          "id": "https://news.hada.io/topic?id=26910",
+          "isoDate": "2026-02-23T00:46:01.000Z"
+        },
+        {
+          "title": "가정용 e-paper 대시보드 Timeframe 개발기",
+          "link": "https://news.hada.io/topic?id=26909",
+          "pubDate": "2026-02-23T00:43:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>집안에서 달력/날씨/스마트홈 정보를 표시하는 시스템</strong>을 만들기 위해 e-paper 기반 대시보드 <strong>Timeframe</strong>을 개발</li>\n<li>\n<strong>23인치 Boox Mira Pro</strong>의 실시간 업데이트 기능을 활용해 <strong>대형 화면과 실시간 상태 표시</strong> 가능</li>\n<li>백엔드는 ...</p>",
+          "contentSnippet": "집안에서 달력/날씨/스마트홈 정보를 표시하는 시스템을 만들기 위해 e-paper 기반 대시보드 Timeframe을 개발\n23인치 Boox Mira Pro의 실시간 업데이트 기능을 활용해 대형 화면과 실시간 상태 표시 가능\n백엔드는 ...",
+          "id": "https://news.hada.io/topic?id=26909",
+          "isoDate": "2026-02-23T00:43:01.000Z"
+        },
+        {
+          "title": "관심 매체 ≠ 소셜 네트워크",
+          "link": "https://news.hada.io/topic?id=26908",
+          "pubDate": "2026-02-23T00:40:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>웹 기반 <strong>소셜 네트워크의 초기 형태</strong>는 실제 인간 관계를 중심으로 한 상호작용 구조였으나, 시간이 지나며 그 본질이 변질됨</li>\n<li>\n<strong>무한 스크롤</strong>과 <strong>가짜 알림</strong>의 도입으로 사용자 경험이 조작적 형태로 바뀌며, 플랫폼이 사용자의 관심을 통제하기 시작함...</p>",
+          "contentSnippet": "웹 기반 소셜 네트워크의 초기 형태는 실제 인간 관계를 중심으로 한 상호작용 구조였으나, 시간이 지나며 그 본질이 변질됨\n무한 스크롤과 가짜 알림의 도입으로 사용자 경험이 조작적 형태로 바뀌며, 플랫폼이 사용자의 관심을 통제하기 시작함...",
+          "id": "https://news.hada.io/topic?id=26908",
+          "isoDate": "2026-02-23T00:40:01.000Z"
+        },
+        {
+          "title": "Claude Code 활용 방식: 계획과 실행의 분리",
+          "link": "https://news.hada.io/topic?id=26907",
+          "pubDate": "2026-02-23T00:37:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>AI 코딩 도구 사용 방식</strong>을 근본적으로 재구성해, 코드 작성 전 반드시 <strong>명시적 계획 검토 단계를 거치는 워크플로우</strong>를 제시</li>\n<li>핵심 원칙은 <strong>“계획 승인 전에는 Claude에게 코드를 쓰게 하지 않는다”</strong> 로, 이를 통해 구조적 통제와 효율적 토큰 사용...</p>",
+          "contentSnippet": "AI 코딩 도구 사용 방식을 근본적으로 재구성해, 코드 작성 전 반드시 명시적 계획 검토 단계를 거치는 워크플로우를 제시\n핵심 원칙은 “계획 승인 전에는 Claude에게 코드를 쓰게 하지 않는다” 로, 이를 통해 구조적 통제와 효율적 토큰 사용...",
+          "id": "https://news.hada.io/topic?id=26907",
+          "isoDate": "2026-02-23T00:37:01.000Z"
+        },
+        {
+          "title": "사전 경고 없는 계정 제한 — Google AI Ultra / OpenClaw OAuth 연동 문제",
+          "link": "https://news.hada.io/topic?id=26906",
+          "pubDate": "2026-02-23T00:25:25.000Z",
+          "author": "fanotify",
+          "content": "<p><strong>Google AI Ultra($249/월) 또는 Pro 유료 구독자</strong>들이 <strong>OpenClaw OAuth 연동 후 사전 경고 없이 계정이 일괄 정지</strong>되는 사태가 발생함. Google은 내부 조사 후 OpenClaw를 통한 인증 정보 사용이 <strong>Antigravity 서버를 비-Antigravity 제품에 활용한 것</strong>으로 보아 <str...</p>",
+          "contentSnippet": "Google AI Ultra($249/월) 또는 Pro 유료 구독자들이 OpenClaw OAuth 연동 후 사전 경고 없이 계정이 일괄 정지되는 사태가 발생함. Google은 내부 조사 후 OpenClaw를 통한 인증 정보 사용이 Antigravity 서버를 비-Antigravity 제품에 활용한 것으로 보아",
+          "id": "https://news.hada.io/topic?id=26906",
+          "isoDate": "2026-02-23T00:25:25.000Z"
+        },
+        {
+          "title": "Rust에서 ‘검증하지 말고 파싱하라’와 타입 주도 설계",
+          "link": "https://news.hada.io/topic?id=26905",
+          "pubDate": "2026-02-22T22:33:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>타입 시스템을 활용해 런타임 검증 대신 컴파일 타임에 불변식을 보장</strong>하는 Rust 설계 방식을 설명함</li>\n<li>\n<code>NonZeroF32</code>, <code>NonEmptyVec</code> 같은 <strong>새로운 타입(newtype)</strong> 을 정의해 잘못된 상태(0, 빈 벡터 등)를 표현 불가능하게 만듦</li>\n<li>\n<co...</p>",
+          "contentSnippet": "타입 시스템을 활용해 런타임 검증 대신 컴파일 타임에 불변식을 보장하는 Rust 설계 방식을 설명함\nNonZeroF32, NonEmptyVec 같은 새로운 타입(newtype) 을 정의해 잘못된 상태(0, 빈 벡터 등)를 표현 불가능하게 만듦",
+          "id": "https://news.hada.io/topic?id=26905",
+          "isoDate": "2026-02-22T22:33:02.000Z"
+        },
+        {
           "title": "CERN이 1989년 원조 웹 브라우저를 재구현 (2019)",
           "link": "https://news.hada.io/topic?id=26904",
           "pubDate": "2026-02-22T20:41:23.000Z",
@@ -27,12 +147,12 @@
           "isoDate": "2026-02-22T20:38:23.000Z"
         },
         {
-          "title": "ESP32에서 888KB 이하로 구동되는 개인용 AI 비서 ‘zclaw’",
+          "title": "zclaw - ESP32에서 888KB로 구동되는 개인용 AI 비서",
           "link": "https://news.hada.io/topic?id=26902",
           "pubDate": "2026-02-22T20:35:22.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>ESP32 보드에서 동작하는 초경량 AI 비서</strong>로, 전체 펌웨어 크기가 888KiB 이하로 제한된 구조</li>\n<li>\n<strong>C 언어로 작성</strong>되었으며, GPIO 제어·스케줄링(cron)·지속 메모리·사용자 정의 도구를 <strong>자연어로 조합</strong> 가능</li>\n<li>\n<strong>Wi-Fi, TLS/암호화, 인증...</p>",
-          "contentSnippet": "ESP32 보드에서 동작하는 초경량 AI 비서로, 전체 펌웨어 크기가 888KiB 이하로 제한된 구조\nC 언어로 작성되었으며, GPIO 제어·스케줄링(cron)·지속 메모리·사용자 정의 도구를 자연어로 조합 가능\nWi-Fi, TLS/암호화, 인증...",
+          "content": "<ul>\n<li>\n<strong>ESP32 보드에서 동작하는 초경량 AI 비서</strong>로, 전체 펌웨어 크기가 888KiB 이하로 제한</li>\n<li>\n<strong>C 언어로 작성</strong>되었으며, GPIO 제어·스케줄링(cron)·지속 메모리·사용자 정의 도구를 <strong>자연어로 조합</strong> 가능</li>\n<li>\n<strong>Wi-Fi, TLS/암호화, 인증서 번들...</p>",
+          "contentSnippet": "ESP32 보드에서 동작하는 초경량 AI 비서로, 전체 펌웨어 크기가 888KiB 이하로 제한\nC 언어로 작성되었으며, GPIO 제어·스케줄링(cron)·지속 메모리·사용자 정의 도구를 자연어로 조합 가능\nWi-Fi, TLS/암호화, 인증서 번들...",
           "id": "https://news.hada.io/topic?id=26902",
           "isoDate": "2026-02-22T20:35:22.000Z"
         },
@@ -41,8 +161,8 @@
           "link": "https://news.hada.io/topic?id=26901",
           "pubDate": "2026-02-22T19:36:51.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>uBlock Origin</strong>에서 AI가 생성한 <strong>콘텐츠 농장 사이트를 차단</strong>하기 위한 공개 블랙리스트 프로젝트</li>\n<li>생성형 AI가 작성한 웹사이트는 <strong>광고와 추천 링크로 채워져 있으며 신뢰할 수 없는 정보</strong>를 포함하는 경우가 많음</li>\n<li>사용자는 <strong>list....</p>",
-          "contentSnippet": "uBlock Origin에서 AI가 생성한 콘텐츠 농장 사이트를 차단하기 위한 공개 블랙리스트 프로젝트\n생성형 AI가 작성한 웹사이트는 광고와 추천 링크로 채워져 있으며 신뢰할 수 없는 정보를 포함하는 경우가 많음\n사용자는 list....",
+          "content": "<ul>\n<li>\n<strong>uBlock Origin</strong>에서 AI가 생성한 <strong>콘텐츠 공장 사이트를 차단</strong>하기 위한 공개 블랙리스트 프로젝트</li>\n<li>생성형 AI가 작성한 웹사이트는 <strong>광고와 추천 링크로 채워져 있으며 신뢰할 수 없는 정보</strong>를 포함하는 경우가 많음</li>\n<li>사용자는 <strong>list....</p>",
+          "contentSnippet": "uBlock Origin에서 AI가 생성한 콘텐츠 공장 사이트를 차단하기 위한 공개 블랙리스트 프로젝트\n생성형 AI가 작성한 웹사이트는 광고와 추천 링크로 채워져 있으며 신뢰할 수 없는 정보를 포함하는 경우가 많음\n사용자는 list....",
           "id": "https://news.hada.io/topic?id=26901",
           "isoDate": "2026-02-22T19:36:51.000Z"
         },
@@ -81,8 +201,8 @@
           "link": "https://news.hada.io/topic?id=26896",
           "pubDate": "2026-02-22T16:33:49.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Taalas</strong>는 Llama 3.1 8B 모델을 <strong>ASIC 칩</strong>에 직접 새겨 넣어 초당 <strong>17,000토큰</strong> 추론 속도를 달성한 스타트업임</li>\n<li>GPU 기반 시스템보다 <strong>10배 저렴하고, 10배 적은 전력</strong>, 그리고 <strong>10배 빠른 추론 성능</strong>을 주장함</li>\n...</p>",
-          "contentSnippet": "Taalas는 Llama 3.1 8B 모델을 ASIC 칩에 직접 새겨 넣어 초당 17,000토큰 추론 속도를 달성한 스타트업임\nGPU 기반 시스템보다 10배 저렴하고, 10배 적은 전력, 그리고 10배 빠른 추론 성능을 주장함\n...",
+          "content": "<ul>\n<li>\n<strong>Taalas</strong>는 Llama 3.1 8B 모델을 <strong>ASIC 칩</strong>에 직접 새겨 넣어 초당 <strong>17,000토큰</strong> 추론 속도를 달성한 스타트업</li>\n<li>GPU 기반 시스템보다 <strong>10배 저렴하고, 10배 적은 전력</strong>, 그리고 <strong>10배 빠른 추론 성능</strong>을 주장함</li>\n<li...</p>",
+          "contentSnippet": "Taalas는 Llama 3.1 8B 모델을 ASIC 칩에 직접 새겨 넣어 초당 17,000토큰 추론 속도를 달성한 스타트업\nGPU 기반 시스템보다 10배 저렴하고, 10배 적은 전력, 그리고 10배 빠른 추론 성능을 주장함",
           "id": "https://news.hada.io/topic?id=26896",
           "isoDate": "2026-02-22T16:33:49.000Z"
         },
@@ -97,7 +217,7 @@
           "isoDate": "2026-02-22T15:37:31.000Z"
         },
         {
-          "title": "단일 RTX 3090에서 Llama 3.1 70B를 실행하는 NVMe-직접 GPU 추론 엔진 ‘ntransformer’",
+          "title": "ntransformer - 싱글 RTX 3090에서 Llama 3.1 70B를 실행하는 NVMe-to-GPU 추론 엔진 ",
           "link": "https://news.hada.io/topic?id=26894",
           "pubDate": "2026-02-22T15:34:31.000Z",
           "author": "neo",
@@ -347,6 +467,16 @@
           "isoDate": "2026-02-21T08:04:11.000Z"
         },
         {
+          "title": "Show GN: 무설치/무서버로 동작하는 브라우저 네이티브 메모장 (Vim 모드 지원)",
+          "link": "https://news.hada.io/topic?id=26867",
+          "pubDate": "2026-02-21T07:34:22.000Z",
+          "author": "yupkidangju",
+          "content": "<p>무거운 Electron 기반 IDE를 켜기는 부담스럽고, 클라우드 기반 노트 앱은 보안이 우려되어 직접 개발한 순수 로컬 웹 에디터 WebMemo Pro를 소개합니다.</p>\n<p>React나 Webpack 같은 빌드 도구 없이 순수 Vanilla HTML/JS/CSS만으로 브라우저의 한계를 테스트해 본 개인 프로젝트입니다.</p>\n<p>[주요 기술적 특징]",
+          "contentSnippet": "무거운 Electron 기반 IDE를 켜기는 부담스럽고, 클라우드 기반 노트 앱은 보안이 우려되어 직접 개발한 순수 로컬 웹 에디터 WebMemo Pro를 소개합니다.\nReact나 Webpack 같은 빌드 도구 없이 순수 Vanilla HTML/JS/CSS만으로 브라우저의 한계를 테스트해 본 개인 프로젝트입니다.\n[주요 기술적 특징]",
+          "id": "https://news.hada.io/topic?id=26867",
+          "isoDate": "2026-02-21T07:34:22.000Z"
+        },
+        {
           "title": "나는 취약점을 발견했다. 그들은 변호사를 찾았다",
           "link": "https://news.hada.io/topic?id=26866",
           "pubDate": "2026-02-21T05:33:05.000Z",
@@ -375,136 +505,6 @@
           "contentSnippet": "익명의 AI 에이전트가 작성자의 오픈소스 코드 거절에 보복하듯 비난성 블로그 글을 자율적으로 게시한 사건이 발생함\n이후 해당 에이전트를 운영한 인물이 익명으로 등장해, 이를 오픈소스 과학 소프트웨어 기여 실험으로 설계했다고 밝힘\n...",
           "id": "https://news.hada.io/topic?id=26864",
           "isoDate": "2026-02-21T01:05:25.000Z"
-        },
-        {
-          "title": "CIA 유출 문서에서 찾은 Git 브랜치 정리 한 줄 명령어",
-          "link": "https://news.hada.io/topic?id=26863",
-          "pubDate": "2026-02-21T01:02:25.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>오래된 <strong>Git 브랜치 정리 문제</strong>를 해결하기 위한 간단한 명령어가 CIA 내부 개발 문서에서 발견됨<br />\n<code>git branch --merged | grep -v &quot;\\*\\|master&quot; | xargs -n 1 git branch -d</code>\n</li>\n<li>명령어는 <code>git branch --merged</code> 결과에서 <strong>현재 브랜치와...</p>",
-          "contentSnippet": "오래된 Git 브랜치 정리 문제를 해결하기 위한 간단한 명령어가 CIA 내부 개발 문서에서 발견됨\ngit branch --merged | grep -v \"\\*\\|master\" | xargs -n 1 git branch -d\n\n명령어는 git branch --merged 결과에서 현재 브랜치와...",
-          "id": "https://news.hada.io/topic?id=26863",
-          "isoDate": "2026-02-21T01:02:25.000Z"
-        },
-        {
-          "title": "페이스북은 완전히 망가졌다",
-          "link": "https://news.hada.io/topic?id=26862",
-          "pubDate": "2026-02-21T00:59:25.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>8년 만에 접속해보니 <strong>뉴스피드가 AI 생성 콘텐츠와 선정적 게시물로 뒤덮인 상태</strong>임</li>\n<li>팔로우하지 않은 페이지에서 올라온 <strong>AI 여성 이미지와 클릭 유도형 밈·영상</strong>이 대부분을 차지</li>\n<li>일부 게시물에는 <strong>Meta의 AI가 제시하는 성차별적 질문 추천 기능</s...</p>",
-          "contentSnippet": "8년 만에 접속해보니 뉴스피드가 AI 생성 콘텐츠와 선정적 게시물로 뒤덮인 상태임\n팔로우하지 않은 페이지에서 올라온 AI 여성 이미지와 클릭 유도형 밈·영상이 대부분을 차지\n일부 게시물에는 Meta의 AI가 제시하는 성차별적 질문 추천 기능",
-          "id": "https://news.hada.io/topic?id=26862",
-          "isoDate": "2026-02-21T00:59:25.000Z"
-        },
-        {
-          "title": "ggml.ai, Hugging Face와 협력해 로컬 AI의 장기 발전 보장",
-          "link": "https://news.hada.io/topic?id=26861",
-          "pubDate": "2026-02-21T00:56:25.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>로컬 AI 생태계</strong>의 지속적 발전을 위해 <code>llama.cpp</code>의 창립팀인 ggml.ai가 <strong>Hugging Face</strong>에 합류함</li>\n<li>\n<code>ggml</code>과 <code>llama.cpp</code>는 계속해서 <strong>오픈소스·커뮤니티 중심</strong>으로 운영되며, 팀은 전일제로 유지·지원 예정</li>...</p>",
-          "contentSnippet": "로컬 AI 생태계의 지속적 발전을 위해 llama.cpp의 창립팀인 ggml.ai가 Hugging Face에 합류함\nggml과 llama.cpp는 계속해서 오픈소스·커뮤니티 중심으로 운영되며, 팀은 전일제로 유지·지원 예정\n...",
-          "id": "https://news.hada.io/topic?id=26861",
-          "isoDate": "2026-02-21T00:56:25.000Z"
-        },
-        {
-          "title": "AI의 보편화를 향한 길 (초당 17K 토큰)",
-          "link": "https://news.hada.io/topic?id=26860",
-          "pubDate": "2026-02-21T00:53:25.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Taalas는 <strong>AI 모델을 맞춤형 실리콘 칩으로 변환하는 플랫폼</strong>을 개발해, 모델을 하드웨어로 구현하는 데 단 두 달만 소요</li>\n<li>첫 제품인 <strong>Llama 3.1 8B 하드와이어드 모델</strong>은 초당 17K 토큰을 처리하며, 기존 대비 10배 빠르고 20배 저렴하며 전력 소모는 10분의 1 수준</l...</p>",
-          "contentSnippet": "Taalas는 AI 모델을 맞춤형 실리콘 칩으로 변환하는 플랫폼을 개발해, 모델을 하드웨어로 구현하는 데 단 두 달만 소요\n첫 제품인 Llama 3.1 8B 하드와이어드 모델은 초당 17K 토큰을 처리하며, 기존 대비 10배 빠르고 20배 저렴하며 전력 소모는 10분의 1 수준",
-          "id": "https://news.hada.io/topic?id=26860",
-          "isoDate": "2026-02-21T00:53:25.000Z"
-        },
-        {
-          "title": "유럽 인프라만으로 스타트업을 구축하려 했더니 예상보다 어려웠다",
-          "link": "https://news.hada.io/topic?id=26859",
-          "pubDate": "2026-02-21T00:50:25.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>데이터 주권</strong>과 <strong>GDPR 단순화</strong>를 위해 전적으로 유럽 인프라 위에서 스타트업을 구축했으나, 실제로는 예상보다 많은 마찰과 제약이 존재함</li>\n<li>주요 인프라는 <strong>Hetzner</strong>, <strong>Scaleway</strong>, <strong>Bunny.net</strong>, <strong>Nebius</stron...</p>",
-          "contentSnippet": "데이터 주권과 GDPR 단순화를 위해 전적으로 유럽 인프라 위에서 스타트업을 구축했으나, 실제로는 예상보다 많은 마찰과 제약이 존재함\n주요 인프라는 Hetzner, Scaleway, Bunny.net, Nebius",
-          "id": "https://news.hada.io/topic?id=26859",
-          "isoDate": "2026-02-21T00:50:25.000Z"
-        },
-        {
-          "title": "안드로이드를 개방적으로 유지하자",
-          "link": "https://news.hada.io/topic?id=26858",
-          "pubDate": "2026-02-21T00:47:25.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>2026년 9월부터 <strong>구글에 등록하지 않은 개발자의 앱을 Android 플랫폼에 설치할 수 없다</strong>는 새로운 정책이 발효될 예정</li>\n<li>Google이 <strong>Android 잠금 정책을 취소했다는 오해</strong>가 퍼지고 있으나, F-Droid는 <strong>해당 계획이 여전히 진행 중</strong>임을 경고</li>\n<li>F...</p>",
-          "contentSnippet": "2026년 9월부터 구글에 등록하지 않은 개발자의 앱을 Android 플랫폼에 설치할 수 없다는 새로운 정책이 발효될 예정\nGoogle이 Android 잠금 정책을 취소했다는 오해가 퍼지고 있으나, F-Droid는 해당 계획이 여전히 진행 중임을 경고\nF...",
-          "id": "https://news.hada.io/topic?id=26858",
-          "isoDate": "2026-02-21T00:47:25.000Z"
-        },
-        {
-          "title": "트럼프, ‘매우 실망스러운’ 대법원 판결 비판하며 10% 글로벌 관세 발표",
-          "link": "https://news.hada.io/topic?id=26857",
-          "pubDate": "2026-02-21T00:44:24.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>미국 대법원이 <strong>트럼프 대통령의 긴급 권한을 이용한 관세 부과 권한을 무효화</strong>함에 따라, 트럼프는 즉시 <strong>무역법 122조(Section 122)</strong> 를 근거로 한 <strong>새로운 10% 글로벌 관세</strong>를 선언</li>\n<li>새 조치는 <strong>영국, 인도, EU 등 기존 무역협정을 맺은 국가들...</p>",
-          "contentSnippet": "미국 대법원이 트럼프 대통령의 긴급 권한을 이용한 관세 부과 권한을 무효화함에 따라, 트럼프는 즉시 무역법 122조(Section 122) 를 근거로 한 새로운 10% 글로벌 관세를 선언\n새 조치는 영국, 인도, EU 등 기존 무역협정을 맺은 국가들...",
-          "id": "https://news.hada.io/topic?id=26857",
-          "isoDate": "2026-02-21T00:44:24.000Z"
-        },
-        {
-          "title": "FreeFlow - 음성 받아쓰기 앱 오픈소스",
-          "link": "https://news.hada.io/topic?id=26856",
-          "pubDate": "2026-02-21T00:31:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>상용 음성 전사 앱인 <strong>Superwhisper</strong>, <strong>Monologue</strong>와 유사한 기능을 제공</li>\n<li>무료 <strong><a href=\"https://groq.com/\">groq</a> API</strong>를 활용해 <strong>1초 미만의 빠른 전사 속도</strong>와 <strong>LLM 기반 후처리</strong> 수행</li>\n<li>키보드의 <code>F...</p>",
-          "contentSnippet": "상용 음성 전사 앱인 Superwhisper, Monologue와 유사한 기능을 제공\n무료 groq API를 활용해 1초 미만의 빠른 전사 속도와 LLM 기반 후처리 수행\n키보드의 F...",
-          "id": "https://news.hada.io/topic?id=26856",
-          "isoDate": "2026-02-21T00:31:01.000Z"
-        },
-        {
-          "title": "40세 이상 성인의 99%는 MRI에서 어깨가 ‘이상’하다고 나옴",
-          "link": "https://news.hada.io/topic?id=26855",
-          "pubDate": "2026-02-20T22:51:04.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>연구에 따르면 <strong>40세 이상 성인의 거의 전원이 MRI에서 어깨 구조의 ‘이상 소견’</strong> 을 보였으며, 통증 유무와 관계없이 높은 비율로 나타남</li>\n<li>\n<strong>무증상 어깨의 96%</strong> , <strong>통증 있는 어깨의 98%</strong> 에서 회전근개(RC) 이상이 발견되었고, <strong>건병증과 부...</p>",
-          "contentSnippet": "연구에 따르면 40세 이상 성인의 거의 전원이 MRI에서 어깨 구조의 ‘이상 소견’ 을 보였으며, 통증 유무와 관계없이 높은 비율로 나타남\n무증상 어깨의 96% , 통증 있는 어깨의 98% 에서 회전근개(RC) 이상이 발견되었고, 건병증과 부...",
-          "id": "https://news.hada.io/topic?id=26855",
-          "isoDate": "2026-02-20T22:51:04.000Z"
-        },
-        {
-          "title": "ISBN의 함정",
-          "link": "https://news.hada.io/topic?id=26854",
-          "pubDate": "2026-02-20T22:49:37.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>영화 기록 앱 <strong>Letterboxd</strong>처럼 깔끔하고 실용적인 도서 기록 앱을 만들려는 시도중에, ISBN 체계의 구조적 문제가 핵심 장애물이었음</li>\n<li>책 검색 기능을 위한 <strong>Google Books API</strong>가 동일한 작품의 여러 <strong>ISBN 버전</strong>을 각각 다른 항목으로 반환하는 문제를...</p>",
-          "contentSnippet": "영화 기록 앱 Letterboxd처럼 깔끔하고 실용적인 도서 기록 앱을 만들려는 시도중에, ISBN 체계의 구조적 문제가 핵심 장애물이었음\n책 검색 기능을 위한 Google Books API가 동일한 작품의 여러 ISBN 버전을 각각 다른 항목으로 반환하는 문제를...",
-          "id": "https://news.hada.io/topic?id=26854",
-          "isoDate": "2026-02-20T22:49:37.000Z"
-        },
-        {
-          "title": "초보자를 위한 스플릿 키보드 가이드",
-          "link": "https://news.hada.io/topic?id=26853",
-          "pubDate": "2026-02-20T22:48:29.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>기존 키보드의 <strong>손목 꺽임</strong>과 <strong>어깨 긴장</strong>을 줄이기 위해 좌우 절반을 분리한 <strong>스플릿(분리형) 키보드</strong>가 인체공학적 대안으로 주목받고 있으며, 다양한 형태와 가격대의 제품이 존재함</li>\n<li>학습 곡선 없이 기존 근육 기억을 유지하려는 사용자를 위한 <str...</p>",
-          "contentSnippet": "기존 키보드의 손목 꺽임과 어깨 긴장을 줄이기 위해 좌우 절반을 분리한 스플릿(분리형) 키보드가 인체공학적 대안으로 주목받고 있으며, 다양한 형태와 가격대의 제품이 존재함\n학습 곡선 없이 기존 근육 기억을 유지하려는 사용자를 위한",
-          "id": "https://news.hada.io/topic?id=26853",
-          "isoDate": "2026-02-20T22:48:29.000Z"
-        },
-        {
-          "title": "미국 vs 싱가포르: 저축만으로는 경제 충격을 피할 수 없다",
-          "link": "https://news.hada.io/topic?id=26852",
-          "pubDate": "2026-02-20T22:33:20.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>저축 후회</strong>는 개인의 <strong>미루는 성향</strong>보다, 국가가 <strong>경제 충격을 얼마나 흡수하느냐</strong>에 더 크게 좌우됨</li>\n<li>미국과 싱가포르의 60~74세를 비교한 연구에서, <strong>부정적 재정 충격 경험 여부</strong>가 저축 후회의 가장 강력한 예측 요인으로 나타남...</p>",
-          "contentSnippet": "저축 후회는 개인의 미루는 성향보다, 국가가 경제 충격을 얼마나 흡수하느냐에 더 크게 좌우됨\n미국과 싱가포르의 60~74세를 비교한 연구에서, 부정적 재정 충격 경험 여부가 저축 후회의 가장 강력한 예측 요인으로 나타남...",
-          "id": "https://news.hada.io/topic?id=26852",
-          "isoDate": "2026-02-20T22:33:20.000Z"
-        },
-        {
-          "title": "캘리포니아주, 법무부 승인 및 자체 보고 기능을 갖춘 3D 프린터 의무화 법안 추진",
-          "link": "https://news.hada.io/topic?id=26851",
-          "pubDate": "2026-02-20T20:33:41.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>캘리포니아주에서 <strong>법무부(DoJ) 승인을 받은 3D 프린터만 사용하도록 요구하는 법안</strong>이 제안됨</li>\n<li>해당 법안은 프린터가 <strong>자체적으로 사용 현황을 보고하는 기능</strong>을 갖추도록 규정함</li>\n<li>목적은 <strong>불법 무기 제작 등 3D 프린터의 오용 방지</strong>에 있음</l...</p>",
-          "contentSnippet": "캘리포니아주에서 법무부(DoJ) 승인을 받은 3D 프린터만 사용하도록 요구하는 법안이 제안됨\n해당 법안은 프린터가 자체적으로 사용 현황을 보고하는 기능을 갖추도록 규정함\n목적은 불법 무기 제작 등 3D 프린터의 오용 방지에 있음",
-          "id": "https://news.hada.io/topic?id=26851",
-          "isoDate": "2026-02-20T20:33:41.000Z"
         }
       ]
     }
