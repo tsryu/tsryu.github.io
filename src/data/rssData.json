@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "수학의 여섯 가지 핵심 개념",
+          "link": "https://news.hada.io/topic?id=26928",
+          "pubDate": "2026-02-23T14:32:47.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Quanta Books</strong>와 협력해 출간되는 대중 수학서로, 수학의 여섯 가지 기본 개념을 중심으로 구성됨</li>\n<li>다루는 주제는 <strong>수, 대수, 기하, 확률, 해석, 동역학</strong>으로, 이들이 <strong>직관·역사·현대 수학 실천</strong>과 연결되는 방식을 설명</li>\n<li>책은 <strong>이론과...</p>",
+          "contentSnippet": "Quanta Books와 협력해 출간되는 대중 수학서로, 수학의 여섯 가지 기본 개념을 중심으로 구성됨\n다루는 주제는 수, 대수, 기하, 확률, 해석, 동역학으로, 이들이 직관·역사·현대 수학 실천과 연결되는 방식을 설명\n책은 이론과...",
+          "id": "https://news.hada.io/topic?id=26928",
+          "isoDate": "2026-02-23T14:32:47.000Z"
+        },
+        {
+          "title": "도구를 먼저 고쳐라",
+          "link": "https://news.hada.io/topic?id=26926",
+          "pubDate": "2026-02-23T11:33:03.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>오픈소스 라이브러리의 <strong>버그를 추적하던 과정에서 디버거가 작동하지 않는 문제</strong>가 발생함</li>\n<li>코드가 실행되었음에도 <strong>중단점이 무시되는 현상</strong>이 나타나며, 다른 방법으로 문제를 찾으려 시도함</li>\n<li>로그 출력을 추가하는 등 <strong>우회적 진단 시도</strong>를 ...</p>",
+          "contentSnippet": "오픈소스 라이브러리의 버그를 추적하던 과정에서 디버거가 작동하지 않는 문제가 발생함\n코드가 실행되었음에도 중단점이 무시되는 현상이 나타나며, 다른 방법으로 문제를 찾으려 시도함\n로그 출력을 추가하는 등 우회적 진단 시도를 ...",
+          "id": "https://news.hada.io/topic?id=26926",
+          "isoDate": "2026-02-23T11:33:03.000Z"
+        },
+        {
+          "title": "Show GN: 버튼 하나 딸깍으로 전사/요약/저장/공유 다 해주는 AI 노트테이커",
+          "link": "https://news.hada.io/topic?id=26925",
+          "pubDate": "2026-02-23T10:00:29.000Z",
+          "author": "ascentum",
+          "content": "<p>원클릭 자동 문서화 AI 노트테이커 ’Archy’<br />\n오늘 베타 서비스 런칭했습니다.<br />\n이제 정말 버튼 하나만 누르면 모든 게 끝납니다.</p>\n<p>아키는, 미팅이 많은 국내 모든 실무자들을 위한 서비스입니다.<br />\n여타 다른 AI 노트테이커들과는 다르게, DB에 저장하고 팀 채널에 공유하는 번거로운 과정을 자",
+          "contentSnippet": "원클릭 자동 문서화 AI 노트테이커 ’Archy’\n아키는, 미팅이 많은 국내 모든 실무자들을 위한 서비스입니다.\n여타 다른 AI 노트테이커들과는 다르게, DB에 저장하고 팀 채널에 공유하는 번거로운 과정을 자",
+          "id": "https://news.hada.io/topic?id=26925",
+          "isoDate": "2026-02-23T10:00:29.000Z"
+        },
+        {
           "title": "Ask GN: 'Claude Code에 Gemini 연결하는 법'에 대해 궁금한 분 계실까요?",
           "link": "https://news.hada.io/topic?id=26924",
           "pubDate": "2026-02-23T08:51:29.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "Dependabot의 과도한 알림이 실제 보안 문제 해결보다 개발자의 시간을 낭비하게 만든다는 지적\nGo 생태계에서 발생한 사례처럼, 영향받지 않은 저장소에도 수천 개의 PR과 경고가 생성되어 혼란을 초래함\ngovulncheck 기반 GitHub Action",
           "id": "https://news.hada.io/topic?id=26873",
           "isoDate": "2026-02-21T13:33:07.000Z"
-        },
-        {
-          "title": "Opus 4.6, 사람 기준 14.5시간짜리 문제를 푼다는 것의 의미 (METR Time Horizon)",
-          "link": "https://news.hada.io/topic?id=26872",
-          "pubDate": "2026-02-21T12:31:21.000Z",
-          "author": "princox",
-          "content": "<p>미국에 METR이라는 비영리 연구기관이 있습니다.<br />\n미국 캘리포니아주 버클리에 위치한 비영리 연구 기관으로, 프론티어 AI 모델이 장기적·자율적 작업을 수행하는 능력을 평가합니다.</p>\n<p>일부 연구자들은 이런 능력이 사회에 심각한 위험을 초래할 수 있다고 경고하며, METR은 바로 그 위험성을 측정하는 역",
-          "contentSnippet": "미국에 METR이라는 비영리 연구기관이 있습니다.\n일부 연구자들은 이런 능력이 사회에 심각한 위험을 초래할 수 있다고 경고하며, METR은 바로 그 위험성을 측정하는 역",
-          "id": "https://news.hada.io/topic?id=26872",
-          "isoDate": "2026-02-21T12:31:21.000Z"
-        },
-        {
-          "title": "Claude Code 해커톤 수상자 명단에 개발자가 한 명도 없습니다.",
-          "link": "https://news.hada.io/topic?id=26871",
-          "pubDate": "2026-02-21T12:09:04.000Z",
-          "author": "princox",
-          "content": "<p>Anthropic이 개최한 Claude Code 해커톤의 수상자 명단이 공개되었는데, 전통적인 소프트웨어 개발자가 단 한 명도 포함되지 않아 화제가 되고 있습니다.</p>\n<p><strong>수상자 명단</strong></p>\n<ul>\n<li>\n<p><strong>🥇 금상 – CrossBeam (Mike Brown, 캘리포니아 상해 전문 변호사)</strong><br />\n캘리포니아에",
-          "contentSnippet": "Anthropic이 개최한 Claude Code 해커톤의 수상자 명단이 공개되었는데, 전통적인 소프트웨어 개발자가 단 한 명도 포함되지 않아 화제가 되고 있습니다.\n수상자 명단\n🥇 금상 – CrossBeam (Mike Brown, 캘리포니아 상해 전문 변호사)\n캘리포니아에",
-          "id": "https://news.hada.io/topic?id=26871",
-          "isoDate": "2026-02-21T12:09:04.000Z"
-        },
-        {
-          "title": "Show GN: 카카오톡 업데이트 되돌리기 게임",
-          "link": "https://news.hada.io/topic?id=26869",
-          "pubDate": "2026-02-21T08:36:11.000Z",
-          "author": "firstseethesun",
-          "content": "<h3>소개</h3>\n<ul>\n<li>\n<p>안녕하세요 카카오톡 업데이트 사건에서 영감을 받아서 신박한 게임을 만들어봤어요</p>\n</li>\n<li>\n<p>대규모 업데이트를 되돌리기 위해 힌트를 수집하고 문제를 찾아 해결하는 방탈출 게임을 출시했습니다</p>\n</li>\n<li>\n<p>플레이어는 카카오톡의 다양한 기능(채팅, 친구 목록, 오픈채팅",
-          "contentSnippet": "소개\n안녕하세요 카카오톡 업데이트 사건에서 영감을 받아서 신박한 게임을 만들어봤어요\n대규모 업데이트를 되돌리기 위해 힌트를 수집하고 문제를 찾아 해결하는 방탈출 게임을 출시했습니다\n플레이어는 카카오톡의 다양한 기능(채팅, 친구 목록, 오픈채팅",
-          "id": "https://news.hada.io/topic?id=26869",
-          "isoDate": "2026-02-21T08:36:11.000Z"
         }
       ]
     }
