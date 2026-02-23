@@ -7,6 +7,26 @@
       "priority": 1,
       "data": [
         {
+          "title": "데이터베이스 트랜잭션이란 무엇인가?",
+          "link": "https://news.hada.io/topic?id=26930",
+          "pubDate": "2026-02-23T19:33:04.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>트랜잭션</strong>은 데이터베이스에서 여러 작업을 하나의 <strong>원자적 단위</strong>로 실행하기 위한 구조로, 읽기·쓰기·갱신·삭제를 포함함</li>\n<li>MySQL과 Postgres는 <code>begin;</code>과 <code>commit;</code>으로 트랜잭션을 제어하며, 실패나 오류 시 <code>rollback;</code>으로 변...</p>",
+          "contentSnippet": "트랜잭션은 데이터베이스에서 여러 작업을 하나의 원자적 단위로 실행하기 위한 구조로, 읽기·쓰기·갱신·삭제를 포함함\nMySQL과 Postgres는 begin;과 commit;으로 트랜잭션을 제어하며, 실패나 오류 시 rollback;으로 변...",
+          "id": "https://news.hada.io/topic?id=26930",
+          "isoDate": "2026-02-23T19:33:04.000Z"
+        },
+        {
+          "title": "CIA 분석관의 개인 진술",
+          "link": "https://news.hada.io/topic?id=26929",
+          "pubDate": "2026-02-23T18:33:26.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>CIA, FBI, DIA 등 미국 정보기관에서 근무한 전직 <strong>정보분석관의 거짓말탐지기(polygraph) 경험담</strong>을 기록한 글</li>\n<li>초기 CIA 입사 과정에서 <strong>정직하게 응했음에도 불합격</strong>을 겪었고, 이후 재시험에서 통과했으나 심리적 압박을 크게 느낌</li>\n<li>근무 중 정기 재검사와 ...</p>",
+          "contentSnippet": "CIA, FBI, DIA 등 미국 정보기관에서 근무한 전직 정보분석관의 거짓말탐지기(polygraph) 경험담을 기록한 글\n초기 CIA 입사 과정에서 정직하게 응했음에도 불합격을 겪었고, 이후 재시험에서 통과했으나 심리적 압박을 크게 느낌\n근무 중 정기 재검사와 ...",
+          "id": "https://news.hada.io/topic?id=26929",
+          "isoDate": "2026-02-23T18:33:26.000Z"
+        },
+        {
           "title": "수학의 여섯 가지 핵심 개념",
           "link": "https://news.hada.io/topic?id=26928",
           "pubDate": "2026-02-23T14:32:47.000Z",
@@ -485,26 +505,6 @@
           "contentSnippet": "사용자가 자신의 감정을 3D 캐릭터로 의인화하고 직접 꾸밀 수 있는 iOS 앱, MyMallow를 소개합니다. 2개월간 진행한 프로젝트로, 단순히 일기를 쓰는 것을 넘어 '사용자 참여형 3D 콘텐츠 생산' 에 초점을 맞추어 개발했습니다.\n주요 기능\n커스텀",
           "id": "https://news.hada.io/topic?id=26875",
           "isoDate": "2026-02-21T15:30:09.000Z"
-        },
-        {
-          "title": "코드를 읽지 않는 시대, 엔지니어는 무엇을 읽어야 하는가",
-          "link": "https://news.hada.io/topic?id=26874",
-          "pubDate": "2026-02-21T15:19:24.000Z",
-          "author": "flowkater",
-          "content": "<p><strong>AI를 쓰면 학습이 줄어든다?</strong></p>\n<ul>\n<li>Anthropic 연구: AI로 코딩 과제를 완료한 개발자들의 퀴즈 점수가 17% 낮았다</li>\n<li>핵심은 &quot;AI를 쓰면 학습이 줄어든다&quot;가 아니라, 같은 AI를 쓰면서도 사용 방식에 따라 결과가 극명하게 갈렸다는 것</li>\n<li>코드를 통째로 맡긴 사람 →",
-          "contentSnippet": "AI를 쓰면 학습이 줄어든다?\nAnthropic 연구: AI로 코딩 과제를 완료한 개발자들의 퀴즈 점수가 17% 낮았다\n핵심은 \"AI를 쓰면 학습이 줄어든다\"가 아니라, 같은 AI를 쓰면서도 사용 방식에 따라 결과가 극명하게 갈렸다는 것\n코드를 통째로 맡긴 사람 →",
-          "id": "https://news.hada.io/topic?id=26874",
-          "isoDate": "2026-02-21T15:19:24.000Z"
-        },
-        {
-          "title": "Dependabot을 끄자",
-          "link": "https://news.hada.io/topic?id=26873",
-          "pubDate": "2026-02-21T13:33:07.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Dependabot의 과도한 알림</strong>이 실제 보안 문제 해결보다 개발자의 시간을 낭비하게 만든다는 지적</li>\n<li>Go 생태계에서 발생한 사례처럼, <strong>영향받지 않은 저장소에도 수천 개의 PR과 경고</strong>가 생성되어 혼란을 초래함</li>\n<li>\n<strong>govulncheck 기반 GitHub Action</str...</p>",
-          "contentSnippet": "Dependabot의 과도한 알림이 실제 보안 문제 해결보다 개발자의 시간을 낭비하게 만든다는 지적\nGo 생태계에서 발생한 사례처럼, 영향받지 않은 저장소에도 수천 개의 PR과 경고가 생성되어 혼란을 초래함\ngovulncheck 기반 GitHub Action",
-          "id": "https://news.hada.io/topic?id=26873",
-          "isoDate": "2026-02-21T13:33:07.000Z"
         }
       ]
     }
