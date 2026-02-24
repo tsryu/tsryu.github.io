@@ -7,6 +7,86 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: 다음 월급날까지 얼마나 남았는지 보여주는 월급날 카운트다운",
+          "link": "https://news.hada.io/topic?id=26962",
+          "pubDate": "2026-02-24T06:43:44.000Z",
+          "author": "hshim",
+          "content": "<p>매일 기다리던 월급날을 카운트다운으로 시각화 해보면 재밌을 거 같아 Claude 도움받아 간단히 만들어봤습니다</p>\n<h2>주요 기능</h2>\n<ul>\n<li>급여 주기 설정: 월급 / 주급 / 일급 / 시급</li>\n<li>공휴일 조정: 한국 공휴일 기준으로 전날/다음날 자동 조정 선택 가능</li>\n<li>수익 카운터: 연봉 입력 시 지금 ",
+          "contentSnippet": "매일 기다리던 월급날을 카운트다운으로 시각화 해보면 재밌을 거 같아 Claude 도움받아 간단히 만들어봤습니다\n주요 기능\n급여 주기 설정: 월급 / 주급 / 일급 / 시급\n공휴일 조정: 한국 공휴일 기준으로 전날/다음날 자동 조정 선택 가능\n수익 카운터: 연봉 입력 시 지금",
+          "id": "https://news.hada.io/topic?id=26962",
+          "isoDate": "2026-02-24T06:43:44.000Z"
+        },
+        {
+          "title": "풀 리퀘스트의 환상: AI 시대, 왜 PR은 개발자에게 애물단지로 취급 받게 되었나?",
+          "link": "https://news.hada.io/topic?id=26961",
+          "pubDate": "2026-02-24T06:15:41.000Z",
+          "author": "flamehaven01",
+          "content": "<h3>전체 요지</h3>\n<ul>\n<li>“PR 제도 자체의 사망선고”가 아니라, AI 시대에 PR이‘이해 전달 장치’로 더 이상 작동하지 않는 현실을 다룸.</li>\n<li>핵심 문제는 코드 품질 이전에, 코드와 함께 해야 할 맥락·의도·판단이 PR을 통해 전달되지 않는 상태가 커지게 된 것.</li>\n<li>결론적으로 PR의 본질은 여전히 유...</p>",
+          "contentSnippet": "전체 요지\n“PR 제도 자체의 사망선고”가 아니라, AI 시대에 PR이‘이해 전달 장치’로 더 이상 작동하지 않는 현실을 다룸.\n핵심 문제는 코드 품질 이전에, 코드와 함께 해야 할 맥락·의도·판단이 PR을 통해 전달되지 않는 상태가 커지게 된 것.\n결론적으로 PR의 본질은 여전히 유...",
+          "id": "https://news.hada.io/topic?id=26961",
+          "isoDate": "2026-02-24T06:15:41.000Z"
+        },
+        {
+          "title": "프롬프트 반복으로 LLM 정확도 향상, Google 팀 연구 결과",
+          "link": "https://news.hada.io/topic?id=26960",
+          "pubDate": "2026-02-24T05:49:07.000Z",
+          "author": "davespark",
+          "content": "<p>Google Research 팀이 발표한 논문(“Prompt Repetition Improves Non-Reasoning LLMs”)에서 발견한 매우 간단하면서도 강력한 기법:<br />\n<strong>같은 프롬프트를 그대로 두 번 반복해서 입력</strong>하면 대부분의 최신 LLM(Gemini, GPT-4o, Claude, DeepSeek 등)에서 <strong>정확도가 크게 올라간다</strong>...</p>",
+          "contentSnippet": "Google Research 팀이 발표한 논문(“Prompt Repetition Improves Non-Reasoning LLMs”)에서 발견한 매우 간단하면서도 강력한 기법:\n같은 프롬프트를 그대로 두 번 반복해서 입력하면 대부분의 최신 LLM(Gemini, GPT-4o, Claude, DeepSeek 등)에서 정확도가 크게 올라간다...",
+          "id": "https://news.hada.io/topic?id=26960",
+          "isoDate": "2026-02-24T05:49:07.000Z"
+        },
+        {
+          "title": "Show GN: Pi Workflow VSCode 익스텐션 — 커스텀 CLI 코딩 에이전트 Cursor like 익스텐션으로 개발",
+          "link": "https://news.hada.io/topic?id=26959",
+          "pubDate": "2026-02-24T05:37:54.000Z",
+          "author": "popododo0720",
+          "content": "<p>얼마 전 Pi 코딩 에이전트에 구조화된 개발 사이클을 강제하는 워크플로우 익스텐션 (https://news.hada.io/topic?id=26680)을 공유했었습니다. 터미널에서 잘 동작했지만, 매번 플랜 파일 열어보고<br />\n검증 로그 스크롤하는 게 불편했습니다.</p>\n<p>그래서 VSCode 익스텐션을 만들었습니다. 목표는 하나 — CLI ",
+          "contentSnippet": "얼마 전 Pi 코딩 에이전트에 구조화된 개발 사이클을 강제하는 워크플로우 익스텐션 (https://news.hada.io/topic?id=26680)을 공유했었습니다. 터미널에서 잘 동작했지만, 매번 플랜 파일 열어보고\n그래서 VSCode 익스텐션을 만들었습니다. 목표는 하나 — CLI",
+          "id": "https://news.hada.io/topic?id=26959",
+          "isoDate": "2026-02-24T05:37:54.000Z"
+        },
+        {
+          "title": "“Claude가 우리 스타트업을 죽였다” - Ryze AI 창업자의 고백",
+          "link": "https://news.hada.io/topic?id=26958",
+          "pubDate": "2026-02-24T05:36:05.000Z",
+          "author": "princox",
+          "content": "<p>광고 자동화 AI 스타트업 Ryze AI의 창업자 Ira Bodnar(@irabukht)가 자신이 만든 서비스가 Anthropic의 Claude에 의해 무력화된 경험을 공개해 화제가 되고 있습니다.</p>\n<h3>제품 이야기</h3>\n<p>Ryze AI는 Google Ads, Meta Ads 등 유료 광고 운영을 AI로 자동화하는 SaaS 서비스로, 핵심 기능은 AdGent라는 AI 에",
+          "contentSnippet": "광고 자동화 AI 스타트업 Ryze AI의 창업자 Ira Bodnar(@irabukht)가 자신이 만든 서비스가 Anthropic의 Claude에 의해 무력화된 경험을 공개해 화제가 되고 있습니다.\n제품 이야기\nRyze AI는 Google Ads, Meta Ads 등 유료 광고 운영을 AI로 자동화하는 SaaS 서비스로, 핵심 기능은 AdGent라는 AI 에",
+          "id": "https://news.hada.io/topic?id=26958",
+          "isoDate": "2026-02-24T05:36:05.000Z"
+        },
+        {
+          "title": "FreeBSD에는 내 오래된 MacBook용 Wi-Fi 드라이버가 없었다, 그래서 AI가 만들어줬다",
+          "link": "https://news.hada.io/topic?id=26957",
+          "pubDate": "2026-02-24T05:33:27.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>2016년형 MacBook Pro의 <strong>Broadcom BCM4350 칩</strong>은 FreeBSD에서 기본 지원되지 않아, 기존에는 Linux VM을 통한 <strong>wifibox 우회 방식</strong>이 일반적이었음</li>\n<li>작성자는 <strong>Claude Code</strong>를 이용해 Linux의 brcmfmac 드라이버를 FreeBSD로 포팅하려 했으나, 커널 패닉...</p>",
+          "contentSnippet": "2016년형 MacBook Pro의 Broadcom BCM4350 칩은 FreeBSD에서 기본 지원되지 않아, 기존에는 Linux VM을 통한 wifibox 우회 방식이 일반적이었음\n작성자는 Claude Code를 이용해 Linux의 brcmfmac 드라이버를 FreeBSD로 포팅하려 했으나, 커널 패닉...",
+          "id": "https://news.hada.io/topic?id=26957",
+          "isoDate": "2026-02-24T05:33:27.000Z"
+        },
+        {
+          "title": "Codex 하네스 활용하기: OpenAI가 App Server를 구축한 방법",
+          "link": "https://news.hada.io/topic?id=26956",
+          "pubDate": "2026-02-24T03:43:28.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>Codex</strong>를 자신의 제품에 통합할 수 있도록 표준화된 App Server 아키텍처와 JSON-RPC 프로토콜을 구축해서 제공</li>\n<li>초기에는 CLI 중심의 TUI 하네스에서 출발했으나, <strong>JSON-RPC 프로토콜</strong>을 도입해 IDE·웹·로컬 앱 등 여러 클라이언트가 동일한 에이전트 루프를 공유할 ...</p>",
+          "contentSnippet": "Codex를 자신의 제품에 통합할 수 있도록 표준화된 App Server 아키텍처와 JSON-RPC 프로토콜을 구축해서 제공\n초기에는 CLI 중심의 TUI 하네스에서 출발했으나, JSON-RPC 프로토콜을 도입해 IDE·웹·로컬 앱 등 여러 클라이언트가 동일한 에이전트 루프를 공유할 ...",
+          "id": "https://news.hada.io/topic?id=26956",
+          "isoDate": "2026-02-24T03:43:28.000Z"
+        },
+        {
+          "title": "Ask GN: 클로드 코드 관련한 정보공유 커뮤니티가 있을까요 ? ",
+          "link": "https://news.hada.io/topic?id=26955",
+          "pubDate": "2026-02-24T03:43:27.000Z",
+          "author": "dankim0124",
+          "content": "<p>안녕하세요.</p>\n<p>제가 최근 클로드 코드 skill 통해서 기존 작업을 대부분을 자동화를 시도하고 있습니다.<br />\n지금까진 안했는데, 제가 너무 미개하게 살았다는 느낌이 들어요.</p>\n<p>이런거 트렌드 안 뒤쳐지려면 정보공유를 잘 받을 수 있는 커뮤가 있어야 할 것 같은데,</p>\n<p>혹시 디스코드, 단톡방, 아니",
+          "contentSnippet": "안녕하세요.\n제가 최근 클로드 코드 skill 통해서 기존 작업을 대부분을 자동화를 시도하고 있습니다.\n이런거 트렌드 안 뒤쳐지려면 정보공유를 잘 받을 수 있는 커뮤가 있어야 할 것 같은데,\n혹시 디스코드, 단톡방, 아니",
+          "id": "https://news.hada.io/topic?id=26955",
+          "isoDate": "2026-02-24T03:43:27.000Z"
+        },
+        {
           "title": "GGML·llama.cpp, Hugging Face 합류",
           "link": "https://news.hada.io/topic?id=26954",
           "pubDate": "2026-02-24T02:52:16.000Z",
@@ -327,6 +407,16 @@
           "isoDate": "2026-02-23T02:37:13.000Z"
         },
         {
+          "title": "Show GN: nfd2nfc - macOS 한글 파일명 자소 분리 해결 도구 (Rust)",
+          "link": "https://news.hada.io/topic?id=26916",
+          "pubDate": "2026-02-23T02:16:37.000Z",
+          "author": "ltlug",
+          "content": "<p>macOS에서 작업한 파일을 Windows 사용자와 주고받으면 한글 파일명이 자소 분리되어 깨지는 경우가 있습니다. macOS는 유니코드 NFD, Windows는 NFC 방식을 사용하기 때문인데요.</p>\n<p>이 문제를 해결하려고 nfd2nfc를 만들었습니다. Homebrew로 설치한 뒤 감시할 경로만 설정해두면, 백그라운드 watcher가 자동으",
+          "contentSnippet": "macOS에서 작업한 파일을 Windows 사용자와 주고받으면 한글 파일명이 자소 분리되어 깨지는 경우가 있습니다. macOS는 유니코드 NFD, Windows는 NFC 방식을 사용하기 때문인데요.\n이 문제를 해결하려고 nfd2nfc를 만들었습니다. Homebrew로 설치한 뒤 감시할 경로만 설정해두면, 백그라운드 watcher가 자동으",
+          "id": "https://news.hada.io/topic?id=26916",
+          "isoDate": "2026-02-23T02:16:37.000Z"
+        },
+        {
           "title": "AI 에이전트 시장의 절반은 한 분야가 차지, 나머지는 아직 미개척 영역임",
           "link": "https://news.hada.io/topic?id=26915",
           "pubDate": "2026-02-23T02:09:54.000Z",
@@ -415,96 +505,6 @@
           "contentSnippet": "Google AI Ultra($249/월) 또는 Pro 유료 구독자들이 OpenClaw OAuth 연동 후 사전 경고 없이 계정이 일괄 정지되는 사태가 발생함. Google은 내부 조사 후 OpenClaw를 통한 인증 정보 사용이 Antigravity 서버를 비-Antigravity 제품에 활용한 것으로 보아",
           "id": "https://news.hada.io/topic?id=26906",
           "isoDate": "2026-02-23T00:25:25.000Z"
-        },
-        {
-          "title": "Rust에서 ‘검증하지 말고 파싱하라’와 타입 주도 설계",
-          "link": "https://news.hada.io/topic?id=26905",
-          "pubDate": "2026-02-22T22:33:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>타입 시스템을 활용해 런타임 검증 대신 컴파일 타임에 불변식을 보장</strong>하는 Rust 설계 방식을 설명함</li>\n<li>\n<code>NonZeroF32</code>, <code>NonEmptyVec</code> 같은 <strong>새로운 타입(newtype)</strong> 을 정의해 잘못된 상태(0, 빈 벡터 등)를 표현 불가능하게 만듦</li>\n<li>\n<co...</p>",
-          "contentSnippet": "타입 시스템을 활용해 런타임 검증 대신 컴파일 타임에 불변식을 보장하는 Rust 설계 방식을 설명함\nNonZeroF32, NonEmptyVec 같은 새로운 타입(newtype) 을 정의해 잘못된 상태(0, 빈 벡터 등)를 표현 불가능하게 만듦",
-          "id": "https://news.hada.io/topic?id=26905",
-          "isoDate": "2026-02-22T22:33:02.000Z"
-        },
-        {
-          "title": "CERN이 1989년 원조 웹 브라우저를 재구현 (2019)",
-          "link": "https://news.hada.io/topic?id=26904",
-          "pubDate": "2026-02-22T20:41:23.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>1990년 CERN의 NeXT 컴퓨터에서 개발된 <strong>WorldWideWeb 애플리케이션</strong>은 오늘날 웹의 시초로 평가됨</li>\n<li>2019년, 개발 30주년을 기념해 CERN이 <strong>현대 브라우저 안에서 실행 가능한 원조 브라우저 복원판</strong>을 제작</li>\n<li>이 프로젝트는 <strong>CERN &amp; Society Foundat...</p>",
-          "contentSnippet": "1990년 CERN의 NeXT 컴퓨터에서 개발된 WorldWideWeb 애플리케이션은 오늘날 웹의 시초로 평가됨\n2019년, 개발 30주년을 기념해 CERN이 현대 브라우저 안에서 실행 가능한 원조 브라우저 복원판을 제작\n이 프로젝트는 CERN & Society Foundat...",
-          "id": "https://news.hada.io/topic?id=26904",
-          "isoDate": "2026-02-22T20:41:23.000Z"
-        },
-        {
-          "title": "중국 CXMT, DDR4 반값 공급으로 삼성·SK의 HBM4 경쟁에 압박",
-          "link": "https://news.hada.io/topic?id=26903",
-          "pubDate": "2026-02-22T20:38:23.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>중국 <strong>CXMT가 DDR4 메모리 가격을 절반 수준으로 인하</strong>하며, 글로벌 공급 부족 속에서 구형 DRAM 시장 점유율 확대를 시도</li>\n<li>\n<strong>HP·Dell 등 미국 기업과 Asus·Acer 등 대만 기업</strong>이 CXMT 제품 품질 테스트 및 협력 검토에 나서며 수요 증가 조짐</li>\n<li>\n<strong>삼성과...</p>",
-          "contentSnippet": "중국 CXMT가 DDR4 메모리 가격을 절반 수준으로 인하하며, 글로벌 공급 부족 속에서 구형 DRAM 시장 점유율 확대를 시도\nHP·Dell 등 미국 기업과 Asus·Acer 등 대만 기업이 CXMT 제품 품질 테스트 및 협력 검토에 나서며 수요 증가 조짐\n삼성과...",
-          "id": "https://news.hada.io/topic?id=26903",
-          "isoDate": "2026-02-22T20:38:23.000Z"
-        },
-        {
-          "title": "zclaw - ESP32에서 888KB로 구동되는 개인용 AI 비서",
-          "link": "https://news.hada.io/topic?id=26902",
-          "pubDate": "2026-02-22T20:35:22.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>ESP32 보드에서 동작하는 초경량 AI 비서</strong>로, 전체 펌웨어 크기가 888KiB 이하로 제한</li>\n<li>\n<strong>C 언어로 작성</strong>되었으며, GPIO 제어·스케줄링(cron)·지속 메모리·사용자 정의 도구를 <strong>자연어로 조합</strong> 가능</li>\n<li>\n<strong>Wi-Fi, TLS/암호화, 인증서 번들...</p>",
-          "contentSnippet": "ESP32 보드에서 동작하는 초경량 AI 비서로, 전체 펌웨어 크기가 888KiB 이하로 제한\nC 언어로 작성되었으며, GPIO 제어·스케줄링(cron)·지속 메모리·사용자 정의 도구를 자연어로 조합 가능\nWi-Fi, TLS/암호화, 인증서 번들...",
-          "id": "https://news.hada.io/topic?id=26902",
-          "isoDate": "2026-02-22T20:35:22.000Z"
-        },
-        {
-          "title": "AI uBlock 블랙리스트",
-          "link": "https://news.hada.io/topic?id=26901",
-          "pubDate": "2026-02-22T19:36:51.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>uBlock Origin</strong>에서 AI가 생성한 <strong>콘텐츠 공장 사이트를 차단</strong>하기 위한 공개 블랙리스트 프로젝트</li>\n<li>생성형 AI가 작성한 웹사이트는 <strong>광고와 추천 링크로 채워져 있으며 신뢰할 수 없는 정보</strong>를 포함하는 경우가 많음</li>\n<li>사용자는 <strong>list....</p>",
-          "contentSnippet": "uBlock Origin에서 AI가 생성한 콘텐츠 공장 사이트를 차단하기 위한 공개 블랙리스트 프로젝트\n생성형 AI가 작성한 웹사이트는 광고와 추천 링크로 채워져 있으며 신뢰할 수 없는 정보를 포함하는 경우가 많음\n사용자는 list....",
-          "id": "https://news.hada.io/topic?id=26901",
-          "isoDate": "2026-02-22T19:36:51.000Z"
-        },
-        {
-          "title": "죽은 멀티플레이 게임을 되살리는 사이트, GameDate",
-          "link": "https://news.hada.io/topic?id=26900",
-          "pubDate": "2026-02-22T19:33:51.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>오래된 <strong>멀티플레이 게임 세션</strong>을 다시 열어 플레이어를 모집하는 <strong>커뮤니티 기반 플랫폼</strong>\n</li>\n<li>사용자는 지역(NA, EU 등)과 시간대별로 <strong>‘LIVE’ 또는 예정된 게임 이벤트</strong>를 확인 가능</li>\n<li>목록에는 <strong>Lethal League Blaze, Kane &amp; Lynch...</p>",
-          "contentSnippet": "오래된 멀티플레이 게임 세션을 다시 열어 플레이어를 모집하는 커뮤니티 기반 플랫폼\n\n사용자는 지역(NA, EU 등)과 시간대별로 ‘LIVE’ 또는 예정된 게임 이벤트를 확인 가능\n목록에는 Lethal League Blaze, Kane & Lynch...",
-          "id": "https://news.hada.io/topic?id=26900",
-          "isoDate": "2026-02-22T19:33:51.000Z"
-        },
-        {
-          "title": "Show GN: 노캔뉴스 업데이트: '이슈 딥다이브' 기능 추가",
-          "link": "https://news.hada.io/topic?id=26899",
-          "pubDate": "2026-02-22T18:40:33.000Z",
-          "author": "warm9806",
-          "content": "<p>안녕하세요, 한달 전 도파민 빼고 맥락만 남기는 뉴스레터 '노캔뉴스'를 긱뉴스에 소개했던 1인 개발자입니다.</p>\n<p>그동안 데일리 뉴스를 발행하면서, 매일의 단발성 뉴스만으로는 특정 이슈들의 전체 그림이 보이지 않는 문제를 해결하기 위해 새로운 기능인 '이슈 딥다이브'를 만들었습니다.</p>\n<ul>\n<li>기능 ",
-          "contentSnippet": "안녕하세요, 한달 전 도파민 빼고 맥락만 남기는 뉴스레터 '노캔뉴스'를 긱뉴스에 소개했던 1인 개발자입니다.\n그동안 데일리 뉴스를 발행하면서, 매일의 단발성 뉴스만으로는 특정 이슈들의 전체 그림이 보이지 않는 문제를 해결하기 위해 새로운 기능인 '이슈 딥다이브'를 만들었습니다.\n기능",
-          "id": "https://news.hada.io/topic?id=26899",
-          "isoDate": "2026-02-22T18:40:33.000Z"
-        },
-        {
-          "title": "Andrej Karpathy가 말하는 &quot;Claws&quot;",
-          "link": "https://news.hada.io/topic?id=26897",
-          "pubDate": "2026-02-22T16:36:49.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Claws</strong>는 LLM 기반 <strong>AI 에이전트 위에 구축된 새로운 계층</strong>으로, 오케스트레이션·스케줄링·컨텍스트 관리·도구 호출·지속성 등을 확장하는 구조</li>\n<li>Andrej Karpathy는 Mac Mini를 구입해 <strong>OpenClaw</strong>를 실험하며, 이를 “흥미롭고 흥분되는 AI 스택의 새로...</p>",
-          "contentSnippet": "Claws는 LLM 기반 AI 에이전트 위에 구축된 새로운 계층으로, 오케스트레이션·스케줄링·컨텍스트 관리·도구 호출·지속성 등을 확장하는 구조\nAndrej Karpathy는 Mac Mini를 구입해 OpenClaw를 실험하며, 이를 “흥미롭고 흥분되는 AI 스택의 새로...",
-          "id": "https://news.hada.io/topic?id=26897",
-          "isoDate": "2026-02-22T16:36:49.000Z"
-        },
-        {
-          "title": "LLM을 칩 위에 ‘인쇄’하는 Taalas의 방식",
-          "link": "https://news.hada.io/topic?id=26896",
-          "pubDate": "2026-02-22T16:33:49.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Taalas</strong>는 Llama 3.1 8B 모델을 <strong>ASIC 칩</strong>에 직접 새겨 넣어 초당 <strong>17,000토큰</strong> 추론 속도를 달성한 스타트업</li>\n<li>GPU 기반 시스템보다 <strong>10배 저렴하고, 10배 적은 전력</strong>, 그리고 <strong>10배 빠른 추론 성능</strong>을 주장함</li>\n<li...</p>",
-          "contentSnippet": "Taalas는 Llama 3.1 8B 모델을 ASIC 칩에 직접 새겨 넣어 초당 17,000토큰 추론 속도를 달성한 스타트업\nGPU 기반 시스템보다 10배 저렴하고, 10배 적은 전력, 그리고 10배 빠른 추론 성능을 주장함",
-          "id": "https://news.hada.io/topic?id=26896",
-          "isoDate": "2026-02-22T16:33:49.000Z"
         }
       ]
     }
