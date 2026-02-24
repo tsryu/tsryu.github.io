@@ -7,7 +7,67 @@
       "priority": 1,
       "data": [
         {
-          "title": "우리는 사용자에게 구독 모델을 강요하는 것을 중단했다. 그 후 일어난 일",
+          "title": "AI 모델 53종 대상 ‘세차장 테스트’: “세차장이 50m 떨어져 있다면 걸어갈까, 운전할까?”",
+          "link": "https://news.hada.io/topic?id=26975",
+          "pubDate": "2026-02-24T20:37:51.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>53개의 주요 <strong>AI 모델</strong>을 대상으로 단순 논리 문제를 제시한 결과, 대부분이 <strong>기초적 추론에 실패</strong>함</li>\n<li>질문은 “세차장이 50m 떨어져 있다면 걸어갈까, 운전할까?”로, 정답은 <strong>‘운전’</strong> 이지만 53개 중 42개 모델이 <strong>‘걷기’</strong> 를 선택...</p>",
+          "contentSnippet": "53개의 주요 AI 모델을 대상으로 단순 논리 문제를 제시한 결과, 대부분이 기초적 추론에 실패함\n질문은 “세차장이 50m 떨어져 있다면 걸어갈까, 운전할까?”로, 정답은 ‘운전’ 이지만 53개 중 42개 모델이 ‘걷기’ 를 선택...",
+          "id": "https://news.hada.io/topic?id=26975",
+          "isoDate": "2026-02-24T20:37:51.000Z"
+        },
+        {
+          "title": "ASML, 2030년까지 칩 생산량을 50% 늘릴 수 있는 EUV 광원 기술 공개",
+          "link": "https://news.hada.io/topic?id=26974",
+          "pubDate": "2026-02-24T20:34:51.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>네덜란드 반도체 장비 기업 <strong>ASML</strong>이 차세대 <strong>EUV(극자외선) 광원 기술</strong>을 공개</li>\n<li>이 기술은 기존 대비 <strong>칩 생산 효율을 최대 50% 향상</strong>시킬 수 있는 잠재력을 가짐</li>\n<li>ASML은 이 기술을 <strong>2030년까지 상용화</strong>할 계획을 제시</li>\n<l...</p>",
+          "contentSnippet": "네덜란드 반도체 장비 기업 ASML이 차세대 EUV(극자외선) 광원 기술을 공개\n이 기술은 기존 대비 칩 생산 효율을 최대 50% 향상시킬 수 있는 잠재력을 가짐\nASML은 이 기술을 2030년까지 상용화할 계획을 제시",
+          "id": "https://news.hada.io/topic?id=26974",
+          "isoDate": "2026-02-24T20:34:51.000Z"
+        },
+        {
+          "title": "나만의 맞춤형 백색소음 플레이어 &quot;타닥&quot; 개발 이야기",
+          "link": "https://news.hada.io/topic?id=26973",
+          "pubDate": "2026-02-24T19:07:50.000Z",
+          "author": "caaat",
+          "content": "<h2>타닥 - 나만의 백색소음 플레이어</h2>\n<h3>프로젝트 개요</h3>\n<p>사용자가 직접 자신만의 사운드 환경을 설계할 수 있도록 만든 iOS 기반 맞춤형 백색소음 플레이어 앱입니다.</p>\n<h3>문제 정의</h3>\n<p>유튜브 백색소음 영상 댓글 분석을 통해 다음과 같은 사용자 니즈를 도출했습니다.</p>\n<ol>\n<li>특정 소리를",
+          "contentSnippet": "타닥 - 나만의 백색소음 플레이어\n프로젝트 개요\n사용자가 직접 자신만의 사운드 환경을 설계할 수 있도록 만든 iOS 기반 맞춤형 백색소음 플레이어 앱입니다.\n문제 정의\n유튜브 백색소음 영상 댓글 분석을 통해 다음과 같은 사용자 니즈를 도출했습니다.\n특정 소리를",
+          "id": "https://news.hada.io/topic?id=26973",
+          "isoDate": "2026-02-24T19:07:50.000Z"
+        },
+        {
+          "title": "/init으로 AGENTS.md 자동 생성하지 마라 - 오히려 비용만 20% 늘어남",
+          "link": "https://news.hada.io/topic?id=26972",
+          "pubDate": "2026-02-24T18:46:11.000Z",
+          "author": "dntjr0425",
+          "content": "<h3>핵심 주장</h3>\n<ul>\n<li>AI 코딩 에이전트용 컨텍스트 파일(AGENTS.md)을 <strong>/init 명령으로 자동 생성</strong>하면, 에이전트 성능이 오히려 떨어지고 비용이 <strong>20% 이상</strong> 증가함</li>\n<li>에이전트가 스스로 발견할 수 있는 정보를 중복으로 제공하는 것이 문제의 핵심</li>\n<li>AGENTS.md에...</p>",
+          "contentSnippet": "핵심 주장\nAI 코딩 에이전트용 컨텍스트 파일(AGENTS.md)을 /init 명령으로 자동 생성하면, 에이전트 성능이 오히려 떨어지고 비용이 20% 이상 증가함\n에이전트가 스스로 발견할 수 있는 정보를 중복으로 제공하는 것이 문제의 핵심\nAGENTS.md에...",
+          "id": "https://news.hada.io/topic?id=26972",
+          "isoDate": "2026-02-24T18:46:11.000Z"
+        },
+        {
+          "title": "Hetzner 가격 인상 30~40%",
+          "link": "https://news.hada.io/topic?id=26971",
+          "pubDate": "2026-02-24T16:33:44.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>2026년 4월 1일부터 <strong>Hetzner의 클라우드 및 전용 서버 요금이 인상</strong>되어 신규 주문과 기존 상품 모두에 적용됨</li>\n<li>독일·핀란드·미국·싱가포르 등 <strong>모든 리전에서 클라우드 서버 요금이 30~40% 상승</strong>, 일부 상품은 그 이상 인상됨</li>\n<li>\n<strong>Object Storage, Vol...</p>",
+          "contentSnippet": "2026년 4월 1일부터 Hetzner의 클라우드 및 전용 서버 요금이 인상되어 신규 주문과 기존 상품 모두에 적용됨\n독일·핀란드·미국·싱가포르 등 모든 리전에서 클라우드 서버 요금이 30~40% 상승, 일부 상품은 그 이상 인상됨\nObject Storage, Vol...",
+          "id": "https://news.hada.io/topic?id=26971",
+          "isoDate": "2026-02-24T16:33:44.000Z"
+        },
+        {
+          "title": "Uber의 글로벌 레이트 리밋 시스템",
+          "link": "https://news.hada.io/topic?id=26970",
+          "pubDate": "2026-02-24T16:08:30.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>우버는 초당 수억 건의 RPC를 처리하는 수천 개의 마이크로서비스 환경에서, <strong>글로벌 속도 제한기(Global Rate Limiter, GRL)</strong> 를 구축해 통합된 과부하 보호 체계를 확립</li>\n<li>GRL은 클라이언트-애그리게이터-컨트롤러로 구성된 <strong>3계층 피드백 루프</strong> 아키텍처로, 로컬에서 ...</p>",
+          "contentSnippet": "우버는 초당 수억 건의 RPC를 처리하는 수천 개의 마이크로서비스 환경에서, 글로벌 속도 제한기(Global Rate Limiter, GRL) 를 구축해 통합된 과부하 보호 체계를 확립\nGRL은 클라이언트-애그리게이터-컨트롤러로 구성된 3계층 피드백 루프 아키텍처로, 로컬에서 ...",
+          "id": "https://news.hada.io/topic?id=26970",
+          "isoDate": "2026-02-24T16:08:30.000Z"
+        },
+        {
+          "title": "사용자에게 구독 모델을 강요하는 것을 중단했더니 일어난 일",
           "link": "https://news.hada.io/topic?id=26969",
           "pubDate": "2026-02-24T15:14:19.000Z",
           "author": "xguru",
@@ -21,8 +81,8 @@
           "link": "https://news.hada.io/topic?id=26968",
           "pubDate": "2026-02-24T15:13:59.000Z",
           "author": "xguru",
-          "content": "<ul>\n<li>경력 후반의 <strong>복잡하고 모호한 문제</strong>에서는 완벽히 옳을 수 없으며, 잘못될 가능성을 줄이기보다 <strong>잘못의 비용을 낮추는 접근</strong>이 중요함</li>\n<li>이를 위해 가장 효과적인 방법으로 <strong>호기심을 드러내는 태도</strong>가 제시됨</li>\n<li>호기심은 단순한 질문이 아니라,...</p>",
-          "contentSnippet": "경력 후반의 복잡하고 모호한 문제에서는 완벽히 옳을 수 없으며, 잘못될 가능성을 줄이기보다 잘못의 비용을 낮추는 접근이 중요함\n이를 위해 가장 효과적인 방법으로 호기심을 드러내는 태도가 제시됨\n호기심은 단순한 질문이 아니라,...",
+          "content": "<ul>\n<li>경력 후반으로 갈수록 <strong>모호한 문제</strong>가 늘어나며, 나쁜 결과를 완전히 제거하는 것은 불가능</li>\n<li>채용, 팬데믹처럼 결과를 예측하기 어려운 상황에서, 핵심은 틀리는 것을 피하는 것이 아니라 <strong>틀렸을 때의 비용을 줄이는 것</strong>\n</li>\n<li>호기심을 먼저 발휘하는 것이 잘못된...</p>",
+          "contentSnippet": "경력 후반으로 갈수록 모호한 문제가 늘어나며, 나쁜 결과를 완전히 제거하는 것은 불가능\n채용, 팬데믹처럼 결과를 예측하기 어려운 상황에서, 핵심은 틀리는 것을 피하는 것이 아니라 틀렸을 때의 비용을 줄이는 것\n\n호기심을 먼저 발휘하는 것이 잘못된...",
           "id": "https://news.hada.io/topic?id=26968",
           "isoDate": "2026-02-24T15:13:59.000Z"
         },
@@ -445,66 +505,6 @@
           "contentSnippet": "보안 회사 Irregular의 연구를 기반으로, Claude, ChatGPT, Gemini 같은 최신 LLM(대형 언어 모델)이 생성하는 비밀번호가 겉으로는 매우 강력해 보이지만 실제로는 극도로 취약하다는 점을 지적.\n핵심 실험 결과\n각 모델에 “비밀번호를 생성해줘” 요청을",
           "id": "https://news.hada.io/topic?id=26919",
           "isoDate": "2026-02-23T03:15:59.000Z"
-        },
-        {
-          "title": "루프스(Loops) - 연합형 오픈소스 틱톡",
-          "link": "https://news.hada.io/topic?id=26918",
-          "pubDate": "2026-02-23T02:37:13.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>짧은 동영상 공유를 <strong>연합형(federated)</strong> 구조로 구현한 오픈소스 플랫폼으로, 창작자와 커뮤니티가 직접 통제할 수 있는 환경을 제공</li>\n<li>\n<strong>ActivityPub</strong> 프로토콜을 사용해 Mastodon, Pixelfed 등 다른 페디버스(fediverse) 앱과 상호 연결 가능</li>\n<li>\n<strong>광고·�...</p>",
-          "contentSnippet": "짧은 동영상 공유를 연합형(federated) 구조로 구현한 오픈소스 플랫폼으로, 창작자와 커뮤니티가 직접 통제할 수 있는 환경을 제공\nActivityPub 프로토콜을 사용해 Mastodon, Pixelfed 등 다른 페디버스(fediverse) 앱과 상호 연결 가능\n광고·�...",
-          "id": "https://news.hada.io/topic?id=26918",
-          "isoDate": "2026-02-23T02:37:13.000Z"
-        },
-        {
-          "title": "Show GN: nfd2nfc - macOS 한글 파일명 자소 분리 해결 도구 (Rust)",
-          "link": "https://news.hada.io/topic?id=26916",
-          "pubDate": "2026-02-23T02:16:37.000Z",
-          "author": "ltlug",
-          "content": "<p>macOS에서 작업한 파일을 Windows 사용자와 주고받으면 한글 파일명이 자소 분리되어 깨지는 경우가 있습니다. macOS는 유니코드 NFD, Windows는 NFC 방식을 사용하기 때문인데요.</p>\n<p>이 문제를 해결하려고 nfd2nfc를 만들었습니다. Homebrew로 설치한 뒤 감시할 경로만 설정해두면, 백그라운드 watcher가 자동으",
-          "contentSnippet": "macOS에서 작업한 파일을 Windows 사용자와 주고받으면 한글 파일명이 자소 분리되어 깨지는 경우가 있습니다. macOS는 유니코드 NFD, Windows는 NFC 방식을 사용하기 때문인데요.\n이 문제를 해결하려고 nfd2nfc를 만들었습니다. Homebrew로 설치한 뒤 감시할 경로만 설정해두면, 백그라운드 watcher가 자동으",
-          "id": "https://news.hada.io/topic?id=26916",
-          "isoDate": "2026-02-23T02:16:37.000Z"
-        },
-        {
-          "title": "AI 에이전트 시장의 절반은 한 분야가 차지, 나머지는 아직 미개척 영역임",
-          "link": "https://news.hada.io/topic?id=26915",
-          "pubDate": "2026-02-23T02:09:54.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>소프트웨어 엔지니어링</strong>이 전체 AI 에이전트 도구 호출의 약 50%를 차지하는 반면, 헬스케어·법률·금융 등 16개 버티컬은 각각 5% 미만에 불과</li>\n<li>AI 모델의 실제 역량은 인간이 5시간 걸릴 작업을 수행할 수 있는 수준이지만, 실제 사용에서 99.9번째 백분위 세션은 약 <strong>42분...</p>",
-          "contentSnippet": "소프트웨어 엔지니어링이 전체 AI 에이전트 도구 호출의 약 50%를 차지하는 반면, 헬스케어·법률·금융 등 16개 버티컬은 각각 5% 미만에 불과\nAI 모델의 실제 역량은 인간이 5시간 걸릴 작업을 수행할 수 있는 수준이지만, 실제 사용에서 99.9번째 백분위 세션은 약 42분...",
-          "id": "https://news.hada.io/topic?id=26915",
-          "isoDate": "2026-02-23T02:09:54.000Z"
-        },
-        {
-          "title": "이제 남은 유일한 해자는 돈뿐인가?",
-          "link": "https://news.hada.io/topic?id=26913",
-          "pubDate": "2026-02-23T00:59:31.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>AI가 대량 생산하는 시대</strong>에 인간의 창의적 사고 가치는 하락하고, <strong>인간의 관심(Attention)</strong> 은 희소 자원으로 부상</li>\n<li>새로운 제품을 만드는 것은 쉬워졌지만, <strong>관심을 얻는 것은 극도로 어려워진 환경</strong>으로 전환됨</li>\n<li>\n<strong>기존 채널(검색,...</p>",
-          "contentSnippet": "AI가 대량 생산하는 시대에 인간의 창의적 사고 가치는 하락하고, 인간의 관심(Attention) 은 희소 자원으로 부상\n새로운 제품을 만드는 것은 쉬워졌지만, 관심을 얻는 것은 극도로 어려워진 환경으로 전환됨\n기존 채널(검색,...",
-          "id": "https://news.hada.io/topic?id=26913",
-          "isoDate": "2026-02-23T00:59:31.000Z"
-        },
-        {
-          "title": "코드 공장 시대와 미래 SRE",
-          "link": "https://news.hada.io/topic?id=26912",
-          "pubDate": "2026-02-23T00:53:29.000Z",
-          "author": "kivoloid",
-          "content": "<p>원래는 제 주변에만 공유한 졸문이나, 반응이 괜찮아서 Geeknews에도 공유하여 다른 분들의 생각과 관점을 듣고 싶어서 공유합니다. 홍보성 글로 생각되면 지적해 주십시오!</p>\n<hr />\n<h4>요약</h4>\n<ul>\n<li>소프트웨어 엔지니어링의 근간이 AI와 자동화의 급격한 부상으로 재구조화되고 있음. 이러한 변혁은 되돌",
-          "contentSnippet": "원래는 제 주변에만 공유한 졸문이나, 반응이 괜찮아서 Geeknews에도 공유하여 다른 분들의 생각과 관점을 듣고 싶어서 공유합니다. 홍보성 글로 생각되면 지적해 주십시오!\n요약\n소프트웨어 엔지니어링의 근간이 AI와 자동화의 급격한 부상으로 재구조화되고 있음. 이러한 변혁은 되돌",
-          "id": "https://news.hada.io/topic?id=26912",
-          "isoDate": "2026-02-23T00:53:29.000Z"
-        },
-        {
-          "title": "ChatDev 2.0 - 멀티에이전트 협업 기반 Zero-Code 개발 플랫폼",
-          "link": "https://news.hada.io/topic?id=26911",
-          "pubDate": "2026-02-23T00:51:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>코드 작성 없이 멀티에이전트 시스템을 구성·실행</strong>할 수 있도록 설계된 <strong>Zero-Code 플랫폼</strong>\n</li>\n<li>간단한 설정만으로 <strong>에이전트, 워크플로, 태스크를 정의</strong>해 데이터 시각화, 3D 생성, 심층 연구 등 복잡한 시나리오를 자동화 지원</li>\n<li>기존 <strong>...</p>",
-          "contentSnippet": "코드 작성 없이 멀티에이전트 시스템을 구성·실행할 수 있도록 설계된 Zero-Code 플랫폼\n\n간단한 설정만으로 에이전트, 워크플로, 태스크를 정의해 데이터 시각화, 3D 생성, 심층 연구 등 복잡한 시나리오를 자동화 지원\n기존 ...",
-          "id": "https://news.hada.io/topic?id=26911",
-          "isoDate": "2026-02-23T00:51:01.000Z"
         }
       ]
     }
