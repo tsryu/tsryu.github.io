@@ -7,12 +7,132 @@
       "priority": 1,
       "data": [
         {
+          "title": "Vertex AI Priority PayGo, 실서비스 27,000건으로 검증해보니 Standard와 차이 없었음",
+          "link": "https://news.hada.io/topic?id=26987",
+          "pubDate": "2026-02-25T02:06:54.000Z",
+          "author": "calmlake79",
+          "content": "<ul>\n<li>Vertex AI의 Priority PayGo를 실운영 AI 챗봇에 적용하고, 약 2주간 누적된 27,000건의 데이터를 시간대별로 분석한 결과를 공유</li>\n<li>중간값(Median) 기준 응답 시간은 ON_DEMAND(Standard)와 ON_DEMAND_PRIORITY가 대부분 100~300ms 이내로, 사실상 동일한 성능</li>\n<li>Priority가 유의미하게 빠른 시...</p>",
+          "contentSnippet": "Vertex AI의 Priority PayGo를 실운영 AI 챗봇에 적용하고, 약 2주간 누적된 27,000건의 데이터를 시간대별로 분석한 결과를 공유\n중간값(Median) 기준 응답 시간은 ON_DEMAND(Standard)와 ON_DEMAND_PRIORITY가 대부분 100~300ms 이내로, 사실상 동일한 성능\nPriority가 유의미하게 빠른 시...",
+          "id": "https://news.hada.io/topic?id=26987",
+          "isoDate": "2026-02-25T02:06:54.000Z"
+        },
+        {
+          "title": "Show GN: 무료 AI API 를 찾아주는 CLI 도구 - frouter",
+          "link": "https://news.hada.io/topic?id=26986",
+          "pubDate": "2026-02-25T01:32:39.000Z",
+          "author": "jyoung105",
+          "content": "<p>안녕하세요,</p>\n<p>바이브코딩을 하고 싶은데 AI 비용이 부담되서 못하는 분들을 주위에서 한 번씩 보곤 했습니다. 혹은 간단한 프로그래밍을 돌려두고 싶은데 좋은 모델, 좋은 상태의 API 를 일일이 확인해서 적용하기 어려운 부분들이 있어 찾다가 포기하는 분들도 많이 보았던 것 같습니다.</p>\n<p>그래서 무료 A",
+          "contentSnippet": "안녕하세요,\n바이브코딩을 하고 싶은데 AI 비용이 부담되서 못하는 분들을 주위에서 한 번씩 보곤 했습니다. 혹은 간단한 프로그래밍을 돌려두고 싶은데 좋은 모델, 좋은 상태의 API 를 일일이 확인해서 적용하기 어려운 부분들이 있어 찾다가 포기하는 분들도 많이 보았던 것 같습니다.\n그래서 무료 A",
+          "id": "https://news.hada.io/topic?id=26986",
+          "isoDate": "2026-02-25T01:32:39.000Z"
+        },
+        {
+          "title": "컨테이너 이미지를 다 받기 전에 실행하는 법: AWS SOCI 톺아보기",
+          "link": "https://news.hada.io/topic?id=26985",
+          "pubDate": "2026-02-25T01:28:03.000Z",
+          "author": "mintplo",
+          "content": "<p>컨테이너 이미지를 “다 받기 전에 실행”하게 만드는 AWS SOCI(Seekable OCI)의 내부 동작을, HTTP Range Request/FUSE/zTOC(인덱스) 관점에서 풀어쓴 글입니다.</p>\n<h4>도입 배경 (Slacker 논문에서 나온 인사이트)</h4>\n<ul>\n<li>Slacker: Fast Distribution with Lazy Docker Containers(USENIX FAST ’16)는 컨",
+          "contentSnippet": "컨테이너 이미지를 “다 받기 전에 실행”하게 만드는 AWS SOCI(Seekable OCI)의 내부 동작을, HTTP Range Request/FUSE/zTOC(인덱스) 관점에서 풀어쓴 글입니다.\n도입 배경 (Slacker 논문에서 나온 인사이트)\nSlacker: Fast Distribution with Lazy Docker Containers(USENIX FAST ’16)는 컨",
+          "id": "https://news.hada.io/topic?id=26985",
+          "isoDate": "2026-02-25T01:28:03.000Z"
+        },
+        {
+          "title": "OpenAI, 미국 정부, 그리고 Persona가 구축한 신원 감시 시스템",
+          "link": "https://news.hada.io/topic?id=26984",
+          "pubDate": "2026-02-25T00:50:28.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>공개된 조사에 따르면 <strong>OpenAI와 미국 정부, Persona</strong>가 연계된 인프라에서 사용자의 신원 데이터를 감시·보고하는 <strong>‘watchlistdb’ 시스템</strong>이 운영되고 있음</li>\n<li>해당 시스템은 <strong>얼굴 인식, 금융 범죄 보고(SAR/STR), 정치인 유사도 분석, 암호화폐 주소 추적</st...</p>",
+          "contentSnippet": "공개된 조사에 따르면 OpenAI와 미국 정부, Persona가 연계된 인프라에서 사용자의 신원 데이터를 감시·보고하는 ‘watchlistdb’ 시스템이 운영되고 있음\n해당 시스템은 얼굴 인식, 금융 범죄 보고(SAR/STR), 정치인 유사도 분석, 암호화폐 주소 추적",
+          "id": "https://news.hada.io/topic?id=26984",
+          "isoDate": "2026-02-25T00:50:28.000Z"
+        },
+        {
+          "title": "알츠하이머 진단 정확도를 94.5%로 높인 혈액 검사, 임상 연구 결과",
+          "link": "https://news.hada.io/topic?id=26983",
+          "pubDate": "2026-02-25T00:47:28.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>p-tau217 단백질</strong>을 측정하는 혈액 검사가 알츠하이머병 진단의 정확도를 크게 향상시킴</li>\n<li>스페인 연구팀이 <strong>50세 이상 인지 증상 환자 200명</strong>을 대상으로 임상 진료 환경에서 검증</li>\n<li>기존 임상 평가만으로는 <strong>정확도 75.5%</strong> 였으나, 혈액 검사 ...</p>",
+          "contentSnippet": "p-tau217 단백질을 측정하는 혈액 검사가 알츠하이머병 진단의 정확도를 크게 향상시킴\n스페인 연구팀이 50세 이상 인지 증상 환자 200명을 대상으로 임상 진료 환경에서 검증\n기존 임상 평가만으로는 정확도 75.5% 였으나, 혈액 검사 ...",
+          "id": "https://news.hada.io/topic?id=26983",
+          "isoDate": "2026-02-25T00:47:28.000Z"
+        },
+        {
+          "title": "Firefox 148, AI 차단 스위치 기능과 다양한 개선사항 포함 출시",
+          "link": "https://news.hada.io/topic?id=26982",
+          "pubDate": "2026-02-25T00:44:27.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>최신 Firefox 148 버전은 <strong>AI 기능을 완전히 비활성화할 수 있는 ‘AI 차단 스위치’</strong> 를 도입해 사용자가 챗봇 프롬프트나 AI 생성 요약을 끌 수 있게 함</li>\n<li>AI 기능을 끄면 향후 업데이트에서도 설정이 유지되며, <strong>AI 모델 삭제 및 알림 차단</strong>이 함께 적용됨</li>\n<li>일...</p>",
+          "contentSnippet": "최신 Firefox 148 버전은 AI 기능을 완전히 비활성화할 수 있는 ‘AI 차단 스위치’ 를 도입해 사용자가 챗봇 프롬프트나 AI 생성 요약을 끌 수 있게 함\nAI 기능을 끄면 향후 업데이트에서도 설정이 유지되며, AI 모델 삭제 및 알림 차단이 함께 적용됨\n일...",
+          "id": "https://news.hada.io/topic?id=26982",
+          "isoDate": "2026-02-25T00:44:27.000Z"
+        },
+        {
+          "title": "내 강아지에게 게임 바이브 코딩을 가르쳤다",
+          "link": "https://news.hada.io/topic?id=26981",
+          "pubDate": "2026-02-25T00:41:27.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>9파운드짜리 캐버푸 ‘모모’가 <strong>Claude Code와 Godot 엔진</strong>을 이용해 실제로 플레이 가능한 게임을 만들도록 훈련된 사례임</li>\n<li>입력은 <strong>Raspberry Pi와 Rust 기반 DogKeyboard 앱</strong>을 통해 전달되며, 일정 글자 수를 입력하면 <strong>스마트 급식기</strong>가 자동으로 ...</p>",
+          "contentSnippet": "9파운드짜리 캐버푸 ‘모모’가 Claude Code와 Godot 엔진을 이용해 실제로 플레이 가능한 게임을 만들도록 훈련된 사례임\n입력은 Raspberry Pi와 Rust 기반 DogKeyboard 앱을 통해 전달되며, 일정 글자 수를 입력하면 스마트 급식기가 자동으로 ...",
+          "id": "https://news.hada.io/topic?id=26981",
+          "isoDate": "2026-02-25T00:41:27.000Z"
+        },
+        {
+          "title": "가자지구 원조요원 근거리 사살 사건: 이스라엘군, 2025년 학살 보고서",
+          "link": "https://news.hada.io/topic?id=26980",
+          "pubDate": "2026-02-25T00:38:27.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>2025년 3월 가자 남부 텔 알술탄에서 <strong>이스라엘군이 팔레스타인 적신월사와 민방위 요원 등 15명을 사살</strong>한 사건이 <strong>Earshot</strong>과 <strong>Forensic Architecture</strong>의 공동 조사로 재구성됨</li>\n<li>조사 결과, <strong>약 910발의 총격 중 최소 8발이 1미터 거리 내에서 ...</p>",
+          "contentSnippet": "2025년 3월 가자 남부 텔 알술탄에서 이스라엘군이 팔레스타인 적신월사와 민방위 요원 등 15명을 사살한 사건이 Earshot과 Forensic Architecture의 공동 조사로 재구성됨\n조사 결과, 약 910발의 총격 중 최소 8발이 1미터 거리 내에서 ...",
+          "id": "https://news.hada.io/topic?id=26980",
+          "isoDate": "2026-02-25T00:38:27.000Z"
+        },
+        {
+          "title": "mdvi - CLI 기반 Markdown 뷰어",
+          "link": "https://news.hada.io/topic?id=26979",
+          "pubDate": "2026-02-25T00:31:02.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>터미널 환경에서 <strong>MD 문서를 빠르게 탐색</strong>하기 위해 개발된 <strong>Vim 스타일 뷰어</strong>\n</li>\n<li>고품질 마크다운 파싱 및 풀스크린 <strong>TUI 렌더링</strong> 지원</li>\n<li>제목, 목록, 인용문, 코드 블록, 표, 링크, 각주 등 <strong>대부분의 Markdown 요소</strong> 처리</li>\n...</p>",
+          "contentSnippet": "터미널 환경에서 MD 문서를 빠르게 탐색하기 위해 개발된 Vim 스타일 뷰어\n\n고품질 마크다운 파싱 및 풀스크린 TUI 렌더링 지원\n제목, 목록, 인용문, 코드 블록, 표, 링크, 각주 등 대부분의 Markdown 요소 처리\n...",
+          "id": "https://news.hada.io/topic?id=26979",
+          "isoDate": "2026-02-25T00:31:02.000Z"
+        },
+        {
+          "title": "CLOVA X 서비스 종료 안내 (2026년 4월 9일)",
+          "link": "https://news.hada.io/topic?id=26978",
+          "pubDate": "2026-02-25T00:26:48.000Z",
+          "author": "helio",
+          "content": "<blockquote>\n<p>CLOVA X 서비스는 2026년 4월 9일에 종료될 예정입니다.</p>\n<p>CLOVA X는 2023년 8월부터 네이버 AI 모델 HyperCLOVA X의 실험실로서 일상 속 AI의 다양한 활용 가능성에 도전해 왔습니다.<br />\n이제는 더 넓은 산업군에서 HyperCLOVA X의 가치를 만들어나가는 실험을 이어가고자 합니다.<br />\n종료",
+          "contentSnippet": "CLOVA X 서비스는 2026년 4월 9일에 종료될 예정입니다.\nCLOVA X는 2023년 8월부터 네이버 AI 모델 HyperCLOVA X의 실험실로서 일상 속 AI의 다양한 활용 가능성에 도전해 왔습니다.\n이제는 더 넓은 산업군에서 HyperCLOVA X의 가치를 만들어나가는 실험을 이어가고자 합니다.\n종료",
+          "id": "https://news.hada.io/topic?id=26978",
+          "isoDate": "2026-02-25T00:26:48.000Z"
+        },
+        {
+          "title": "Claude Code Remote Control — 로컬 세션을 어디서든 이어받는 공식 기능 출시",
+          "link": "https://news.hada.io/topic?id=26977",
+          "pubDate": "2026-02-24T23:08:54.000Z",
+          "author": "princox",
+          "content": "<p>Anthropic이 Claude Code에 Remote Control 기능을 공식 추가했습니다. Pro/Max 플랜 사용자 대상 리서치 프리뷰로 제공 중이며, Team/Enterprise 플랜은 현재 미지원입니다.<br />\n무엇이 달라지나<br />\n터미널에서 시작한 Claude Code 세션을 스마트폰, 태블릿, 다른 컴퓨터의 브라우저에서 그대로 이어받을 수 있...</p>",
+          "contentSnippet": "Anthropic이 Claude Code에 Remote Control 기능을 공식 추가했습니다. Pro/Max 플랜 사용자 대상 리서치 프리뷰로 제공 중이며, Team/Enterprise 플랜은 현재 미지원입니다.\n무엇이 달라지나\n터미널에서 시작한 Claude Code 세션을 스마트폰, 태블릿, 다른 컴퓨터의 브라우저에서 그대로 이어받을 수 있...",
+          "id": "https://news.hada.io/topic?id=26977",
+          "isoDate": "2026-02-24T23:08:54.000Z"
+        },
+        {
+          "title": "컴퓨터공학 교육에서 빠진 학기 – 2026년 개정판",
+          "link": "https://news.hada.io/topic?id=26976",
+          "pubDate": "2026-02-24T22:32:59.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>대학의 전통적인 컴퓨터공학 과정에서 다루지 않는 <strong>도구 활용 능력</strong>을 집중적으로 가르치는 MIT의 실습 중심 강의</li>\n<li>\n<strong>명령줄, 텍스트 편집기, 버전 관리 시스템</strong> 등 개발자가 매일 사용하는 핵심 도구를 효율적으로 다루는 방법을 교육</li>\n<li>2026년판에서는 <stron...</p>",
+          "contentSnippet": "대학의 전통적인 컴퓨터공학 과정에서 다루지 않는 도구 활용 능력을 집중적으로 가르치는 MIT의 실습 중심 강의\n명령줄, 텍스트 편집기, 버전 관리 시스템 등 개발자가 매일 사용하는 핵심 도구를 효율적으로 다루는 방법을 교육\n2026년판에서는",
+          "id": "https://news.hada.io/topic?id=26976",
+          "isoDate": "2026-02-24T22:32:59.000Z"
+        },
+        {
           "title": "AI 모델 53종 대상 ‘세차장 테스트’: “세차장이 50m 떨어져 있다면 걸어갈까, 운전할까?”",
           "link": "https://news.hada.io/topic?id=26975",
           "pubDate": "2026-02-24T20:37:51.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>53개의 주요 <strong>AI 모델</strong>을 대상으로 단순 논리 문제를 제시한 결과, 대부분이 <strong>기초적 추론에 실패</strong>함</li>\n<li>질문은 “세차장이 50m 떨어져 있다면 걸어갈까, 운전할까?”로, 정답은 <strong>‘운전’</strong> 이지만 53개 중 42개 모델이 <strong>‘걷기’</strong> 를 선택...</p>",
-          "contentSnippet": "53개의 주요 AI 모델을 대상으로 단순 논리 문제를 제시한 결과, 대부분이 기초적 추론에 실패함\n질문은 “세차장이 50m 떨어져 있다면 걸어갈까, 운전할까?”로, 정답은 ‘운전’ 이지만 53개 중 42개 모델이 ‘걷기’ 를 선택...",
+          "content": "<ul>\n<li>53개의 주요 <strong>AI 모델</strong>을 대상으로 테스트한 결과, 대부분이 <strong>기초적 추론에 실패</strong>함</li>\n<li>정답은 <strong>‘운전’</strong> 이지만 53개 중 42개 모델이 <strong>‘걷기’</strong> 를 선택</li>\n<li>\n<strong>Claude Opus 4.6, Gemini 3 시리즈, Grok-4</strong> 등 5개 ...</p>",
+          "contentSnippet": "53개의 주요 AI 모델을 대상으로 테스트한 결과, 대부분이 기초적 추론에 실패함\n정답은 ‘운전’ 이지만 53개 중 42개 모델이 ‘걷기’ 를 선택\nClaude Opus 4.6, Gemini 3 시리즈, Grok-4 등 5개 ...",
           "id": "https://news.hada.io/topic?id=26975",
           "isoDate": "2026-02-24T20:37:51.000Z"
         },
@@ -21,8 +141,8 @@
           "link": "https://news.hada.io/topic?id=26974",
           "pubDate": "2026-02-24T20:34:51.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>네덜란드 반도체 장비 기업 <strong>ASML</strong>이 차세대 <strong>EUV(극자외선) 광원 기술</strong>을 공개</li>\n<li>이 기술은 기존 대비 <strong>칩 생산 효율을 최대 50% 향상</strong>시킬 수 있는 잠재력을 가짐</li>\n<li>ASML은 이 기술을 <strong>2030년까지 상용화</strong>할 계획을 제시</li>\n<l...</p>",
-          "contentSnippet": "네덜란드 반도체 장비 기업 ASML이 차세대 EUV(극자외선) 광원 기술을 공개\n이 기술은 기존 대비 칩 생산 효율을 최대 50% 향상시킬 수 있는 잠재력을 가짐\nASML은 이 기술을 2030년까지 상용화할 계획을 제시",
+          "content": "<ul>\n<li>ASML 연구진이 EUV 리소그래피 장비의 광원 출력을 기존 600W에서 <strong>1,000W로 향상</strong>시키는 기술을 개발, 2030년까지 시간당 칩 생산량을 최대 50% 늘릴 수 있는 돌파구 마련</li>\n<li>미국과 중국에서 ASML의 EUV 기술에 대한 경쟁자가 등장하는 가운데, 이번 기술 발전은 장비의 가장 난도 높은...</p>",
+          "contentSnippet": "ASML 연구진이 EUV 리소그래피 장비의 광원 출력을 기존 600W에서 1,000W로 향상시키는 기술을 개발, 2030년까지 시간당 칩 생산량을 최대 50% 늘릴 수 있는 돌파구 마련\n미국과 중국에서 ASML의 EUV 기술에 대한 경쟁자가 등장하는 가운데, 이번 기술 발전은 장비의 가장 난도 높은...",
           "id": "https://news.hada.io/topic?id=26974",
           "isoDate": "2026-02-24T20:34:51.000Z"
         },
@@ -385,126 +505,6 @@
           "contentSnippet": "서버 배포와 프로세스 격리 문제의 역사를 추적하며, FreeBSD jails가 현대 컨테이너 개념을 업계보다 10년 앞서 구현했음을 조명하는 글\n2000년 FreeBSD 4.0에 도입된 jails는 chroot를 확장해 파일시스템·네트워크·프로세스의 완전한 격리를 커널 네...",
           "id": "https://news.hada.io/topic?id=26932",
           "isoDate": "2026-02-23T21:33:08.000Z"
-        },
-        {
-          "title": "약 40MB 크기의 바이너리에 백도어를 숨기고 AI와 Ghidra로 탐지할 수 있는지 실험",
-          "link": "https://news.hada.io/topic?id=26931",
-          "pubDate": "2026-02-23T20:33:08.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>AI 기반 악성코드 탐지</strong> 가능성을 검증하기 위해, 여러 오픈소스 서버 바이너리에 인위적으로 <strong>백도어를 삽입</strong>하고 AI 에이전트와 Ghidra로 탐지 실험을 수행</li>\n<li>Claude Opus 4.6 등 최신 모델이 일부 단순한 백도어를 찾아냈지만, <strong>탐지율은 49%</strong>, <str...</p>",
-          "contentSnippet": "AI 기반 악성코드 탐지 가능성을 검증하기 위해, 여러 오픈소스 서버 바이너리에 인위적으로 백도어를 삽입하고 AI 에이전트와 Ghidra로 탐지 실험을 수행\nClaude Opus 4.6 등 최신 모델이 일부 단순한 백도어를 찾아냈지만, 탐지율은 49%,",
-          "id": "https://news.hada.io/topic?id=26931",
-          "isoDate": "2026-02-23T20:33:08.000Z"
-        },
-        {
-          "title": "데이터베이스 트랜잭션이란 무엇인가?",
-          "link": "https://news.hada.io/topic?id=26930",
-          "pubDate": "2026-02-23T19:33:04.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>트랜잭션</strong>은 데이터베이스에서 여러 작업을 하나의 <strong>원자적 단위</strong>로 실행하기 위한 구조로, 읽기·쓰기·갱신·삭제를 포함함</li>\n<li>MySQL과 Postgres는 <code>begin;</code>과 <code>commit;</code>으로 트랜잭션을 제어하며, 실패나 오류 시 <code>rollback;</code>으로 변...</p>",
-          "contentSnippet": "트랜잭션은 데이터베이스에서 여러 작업을 하나의 원자적 단위로 실행하기 위한 구조로, 읽기·쓰기·갱신·삭제를 포함함\nMySQL과 Postgres는 begin;과 commit;으로 트랜잭션을 제어하며, 실패나 오류 시 rollback;으로 변...",
-          "id": "https://news.hada.io/topic?id=26930",
-          "isoDate": "2026-02-23T19:33:04.000Z"
-        },
-        {
-          "title": "CIA 분석관의 개인 진술",
-          "link": "https://news.hada.io/topic?id=26929",
-          "pubDate": "2026-02-23T18:33:26.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>CIA, FBI, DIA 등 미국 정보기관에서 근무한 전직 <strong>정보분석관의 거짓말탐지기(polygraph) 경험담</strong>을 기록한 글</li>\n<li>초기 CIA 입사 과정에서 <strong>정직하게 응했음에도 불합격</strong>을 겪었고, 이후 재시험에서 통과했으나 심리적 압박을 크게 느낌</li>\n<li>근무 중 정기 재검사와 ...</p>",
-          "contentSnippet": "CIA, FBI, DIA 등 미국 정보기관에서 근무한 전직 정보분석관의 거짓말탐지기(polygraph) 경험담을 기록한 글\n초기 CIA 입사 과정에서 정직하게 응했음에도 불합격을 겪었고, 이후 재시험에서 통과했으나 심리적 압박을 크게 느낌\n근무 중 정기 재검사와 ...",
-          "id": "https://news.hada.io/topic?id=26929",
-          "isoDate": "2026-02-23T18:33:26.000Z"
-        },
-        {
-          "title": "수학의 여섯 가지 핵심 개념",
-          "link": "https://news.hada.io/topic?id=26928",
-          "pubDate": "2026-02-23T14:32:47.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Quanta Books</strong>와 협력해 출간되는 대중 수학서로, 수학의 여섯 가지 기본 개념을 중심으로 구성됨</li>\n<li>다루는 주제는 <strong>수, 대수, 기하, 확률, 해석, 동역학</strong>으로, 이들이 <strong>직관·역사·현대 수학 실천</strong>과 연결되는 방식을 설명</li>\n<li>책은 <strong>이론과...</p>",
-          "contentSnippet": "Quanta Books와 협력해 출간되는 대중 수학서로, 수학의 여섯 가지 기본 개념을 중심으로 구성됨\n다루는 주제는 수, 대수, 기하, 확률, 해석, 동역학으로, 이들이 직관·역사·현대 수학 실천과 연결되는 방식을 설명\n책은 이론과...",
-          "id": "https://news.hada.io/topic?id=26928",
-          "isoDate": "2026-02-23T14:32:47.000Z"
-        },
-        {
-          "title": "도구를 먼저 고쳐라",
-          "link": "https://news.hada.io/topic?id=26926",
-          "pubDate": "2026-02-23T11:33:03.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>오픈소스 라이브러리의 <strong>버그를 추적하던 과정에서 디버거가 작동하지 않는 문제</strong>가 발생함</li>\n<li>코드가 실행되었음에도 <strong>중단점이 무시되는 현상</strong>이 나타나며, 다른 방법으로 문제를 찾으려 시도함</li>\n<li>로그 출력을 추가하는 등 <strong>우회적 진단 시도</strong>를 ...</p>",
-          "contentSnippet": "오픈소스 라이브러리의 버그를 추적하던 과정에서 디버거가 작동하지 않는 문제가 발생함\n코드가 실행되었음에도 중단점이 무시되는 현상이 나타나며, 다른 방법으로 문제를 찾으려 시도함\n로그 출력을 추가하는 등 우회적 진단 시도를 ...",
-          "id": "https://news.hada.io/topic?id=26926",
-          "isoDate": "2026-02-23T11:33:03.000Z"
-        },
-        {
-          "title": "Show GN: 버튼 하나 딸깍으로 전사/요약/저장/공유 다 해주는 AI 노트테이커",
-          "link": "https://news.hada.io/topic?id=26925",
-          "pubDate": "2026-02-23T10:00:29.000Z",
-          "author": "ascentum",
-          "content": "<p>원클릭 자동 문서화 AI 노트테이커 ’Archy’<br />\n오늘 베타 서비스 런칭했습니다.<br />\n이제 정말 버튼 하나만 누르면 모든 게 끝납니다.</p>\n<p>아키는, 미팅이 많은 국내 모든 실무자들을 위한 서비스입니다.<br />\n여타 다른 AI 노트테이커들과는 다르게, DB에 저장하고 팀 채널에 공유하는 번거로운 과정을 자",
-          "contentSnippet": "원클릭 자동 문서화 AI 노트테이커 ’Archy’\n아키는, 미팅이 많은 국내 모든 실무자들을 위한 서비스입니다.\n여타 다른 AI 노트테이커들과는 다르게, DB에 저장하고 팀 채널에 공유하는 번거로운 과정을 자",
-          "id": "https://news.hada.io/topic?id=26925",
-          "isoDate": "2026-02-23T10:00:29.000Z"
-        },
-        {
-          "title": "Ask GN: 'Claude Code에 Gemini 연결하는 법'에 대해 궁금한 분 계실까요?",
-          "link": "https://news.hada.io/topic?id=26924",
-          "pubDate": "2026-02-23T08:51:29.000Z",
-          "author": "sugeuljin",
-          "content": "<p>저는 Gemini token을 매우 저렴하게 쓸 수 있는 상황이어서 제목처럼 클로드 코드에 제미니가 연결된 프록시 백엔드를 연결해서 쓰고 있습니다. 제미니 CLI는 너무 전투적이어서(코드만 읽으라고 해도 자꾸 뭔가 고치려고 함) 영 안맞고, 클로드 코드의 에이전트 설계가 가장 잘 작동하는 것 같아서, 백엔드를 교체하...</p>",
-          "contentSnippet": "저는 Gemini token을 매우 저렴하게 쓸 수 있는 상황이어서 제목처럼 클로드 코드에 제미니가 연결된 프록시 백엔드를 연결해서 쓰고 있습니다. 제미니 CLI는 너무 전투적이어서(코드만 읽으라고 해도 자꾸 뭔가 고치려고 함) 영 안맞고, 클로드 코드의 에이전트 설계가 가장 잘 작동하는 것 같아서, 백엔드를 교체하...",
-          "id": "https://news.hada.io/topic?id=26924",
-          "isoDate": "2026-02-23T08:51:29.000Z"
-        },
-        {
-          "title": "7천 대의 로봇청소기를 우연히 제어하게 된 남성",
-          "link": "https://news.hada.io/topic?id=26923",
-          "pubDate": "2026-02-23T08:32:51.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>한 <strong>소프트웨어 엔지니어</strong>가 DJI 로봇청소기를 게임 컨트롤러로 조종하려다, <strong>7천 대의 기기 접근 권한</strong>을 얻게 됨</li>\n<li>자체 앱 개발 중 <strong>AI 코딩 도우미</strong>를 활용해 클라우드 통신 방식을 역공학하는 과정에서, 동일한 인증 정보가 다른 기기에도 적용되는 ...</p>",
-          "contentSnippet": "한 소프트웨어 엔지니어가 DJI 로봇청소기를 게임 컨트롤러로 조종하려다, 7천 대의 기기 접근 권한을 얻게 됨\n자체 앱 개발 중 AI 코딩 도우미를 활용해 클라우드 통신 방식을 역공학하는 과정에서, 동일한 인증 정보가 다른 기기에도 적용되는 ...",
-          "id": "https://news.hada.io/topic?id=26923",
-          "isoDate": "2026-02-23T08:32:51.000Z"
-        },
-        {
-          "title": "CIA 월드 팩트북 아카이브 (1990–2025), 검색 및 내보내기 가능",
-          "link": "https://news.hada.io/topic?id=26922",
-          "pubDate": "2026-02-23T07:33:53.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>1990년부터 2025년까지의 <strong>CIA 월드 팩트북</strong> 데이터를 구조화해 검색·분석할 수 있는 <strong>오픈소스 정보 아카이브</strong>\n</li>\n<li>281개 국가·지역, 36개 연도판, 100만 개 이상의 <strong>데이터 필드</strong>를 포함</li>\n<li>연도별 <strong>국가 프로필</strong>, <strong>시계열 ...</p>",
-          "contentSnippet": "1990년부터 2025년까지의 CIA 월드 팩트북 데이터를 구조화해 검색·분석할 수 있는 오픈소스 정보 아카이브\n\n281개 국가·지역, 36개 연도판, 100만 개 이상의 데이터 필드를 포함\n연도별 국가 프로필, 시계열 ...",
-          "id": "https://news.hada.io/topic?id=26922",
-          "isoDate": "2026-02-23T07:33:53.000Z"
-        },
-        {
-          "title": "Claude Code 에이전트를 픽셀 아트 캐릭터로 시각화하는 VS Code 확장 - Pixel Agents",
-          "link": "https://news.hada.io/topic?id=26921",
-          "pubDate": "2026-02-23T06:41:44.000Z",
-          "author": "princox",
-          "content": "<p>Claude Code 터미널을 열 때마다 가상 오피스에 픽셀 아트 캐릭터가 소환되어 에이전트의 실시간 활동을 시각적으로 보여주는 VS Code 확장입니다.<br />\n에이전트가 코드를 작성 중이면 타이핑 애니메이션, 파일을 검색 중이면 읽기 애니메이션, 사용자 입력을 기다리는 중이면 말풍선으로 표시됩니다. Claude Code의...</p>",
-          "contentSnippet": "Claude Code 터미널을 열 때마다 가상 오피스에 픽셀 아트 캐릭터가 소환되어 에이전트의 실시간 활동을 시각적으로 보여주는 VS Code 확장입니다.\n에이전트가 코드를 작성 중이면 타이핑 애니메이션, 파일을 검색 중이면 읽기 애니메이션, 사용자 입력을 기다리는 중이면 말풍선으로 표시됩니다. Claude Code의...",
-          "id": "https://news.hada.io/topic?id=26921",
-          "isoDate": "2026-02-23T06:41:44.000Z"
-        },
-        {
-          "title": "2026년 2월 기준, 코딩 에이전트 활용 현황과 워크플로우 비교",
-          "link": "https://news.hada.io/topic?id=26920",
-          "pubDate": "2026-02-23T05:21:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>코딩 에이전트 선택의 핵심 기준이 <strong>모델 성능 자체</strong>가 아닌 <strong>사용자의 가용 시간과 자율 실행 시간</strong>으로 전환되고 있으며, Claude Code와 Codex를 <strong>상황에 따라 병행</strong> 사용</li>\n<li>Opus는 <strong>컨텍스트 윈도우 관리와 도구 사용</strong>에 강점을 보이며...</p>",
-          "contentSnippet": "코딩 에이전트 선택의 핵심 기준이 모델 성능 자체가 아닌 사용자의 가용 시간과 자율 실행 시간으로 전환되고 있으며, Claude Code와 Codex를 상황에 따라 병행 사용\nOpus는 컨텍스트 윈도우 관리와 도구 사용에 강점을 보이며...",
-          "id": "https://news.hada.io/topic?id=26920",
-          "isoDate": "2026-02-23T05:21:02.000Z"
-        },
-        {
-          "title": "LLM이 만든 비밀번호가 위험한 이유, 100비트처럼 보이지만 실제론 27비트",
-          "link": "https://news.hada.io/topic?id=26919",
-          "pubDate": "2026-02-23T03:15:59.000Z",
-          "author": "davespark",
-          "content": "<p>보안 회사 <strong>Irregular</strong>의 연구를 기반으로, <strong>Claude, ChatGPT, Gemini</strong> 같은 최신 LLM(대형 언어 모델)이 생성하는 비밀번호가 겉으로는 매우 강력해 보이지만 실제로는 극도로 취약하다는 점을 지적.</p>\n<h4>핵심 실험 결과</h4>\n<ul>\n<li>각 모델에 “비밀번호를 생성해줘” 요청을",
-          "contentSnippet": "보안 회사 Irregular의 연구를 기반으로, Claude, ChatGPT, Gemini 같은 최신 LLM(대형 언어 모델)이 생성하는 비밀번호가 겉으로는 매우 강력해 보이지만 실제로는 극도로 취약하다는 점을 지적.\n핵심 실험 결과\n각 모델에 “비밀번호를 생성해줘” 요청을",
-          "id": "https://news.hada.io/topic?id=26919",
-          "isoDate": "2026-02-23T03:15:59.000Z"
         }
       ]
     }
