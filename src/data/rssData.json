@@ -7,6 +7,16 @@
       "priority": 1,
       "data": [
         {
+          "title": "코드 작성은 이제 저렴하다",
+          "link": "https://news.hada.io/topic?id=27027",
+          "pubDate": "2026-02-26T14:26:04.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>코드 작성 비용이 급격히 낮아진 현실</strong>이 엔지니어링 습관 전반을 흔들고 있음</li>\n<li>과거에는 코드 생산이 고비용이었기에 <strong>설계·추정·기획 중심의 효율적 개발 문화</strong>가 형성되었음</li>\n<li>\n<strong>코딩 에이전트</strong>의 등장으로 한 명의 개발자가 동시에 여러 작...</p>",
+          "contentSnippet": "코드 작성 비용이 급격히 낮아진 현실이 엔지니어링 습관 전반을 흔들고 있음\n과거에는 코드 생산이 고비용이었기에 설계·추정·기획 중심의 효율적 개발 문화가 형성되었음\n코딩 에이전트의 등장으로 한 명의 개발자가 동시에 여러 작...",
+          "id": "https://news.hada.io/topic?id=27027",
+          "isoDate": "2026-02-26T14:26:04.000Z"
+        },
+        {
           "title": "Google API 키는 비밀이 아니었다. 그러나 Gemini가 규칙을 바꿨다",
           "link": "https://news.hada.io/topic?id=27026",
           "pubDate": "2026-02-26T08:32:57.000Z",
@@ -495,16 +505,6 @@
           "contentSnippet": "대학의 전통적인 컴퓨터공학 과정에서 다루지 않는 도구 활용 능력을 집중적으로 가르치는 MIT의 실습 중심 강의\n명령줄, 텍스트 편집기, 버전 관리 시스템 등 개발자가 매일 사용하는 핵심 도구를 효율적으로 다루는 방법을 교육\n2026년판에서는",
           "id": "https://news.hada.io/topic?id=26976",
           "isoDate": "2026-02-24T22:32:59.000Z"
-        },
-        {
-          "title": "AI 모델 53종 대상 ‘세차장 테스트’: “세차장이 50m 떨어져 있다면 걸어갈까, 운전할까?”",
-          "link": "https://news.hada.io/topic?id=26975",
-          "pubDate": "2026-02-24T20:37:51.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>53개의 주요 <strong>AI 모델</strong>을 대상으로 테스트한 결과, 대부분이 <strong>기초적 추론에 실패</strong>함</li>\n<li>정답은 <strong>‘운전’</strong> 이지만 53개 중 42개 모델이 <strong>‘걷기’</strong> 를 선택</li>\n<li>\n<strong>Claude Opus 4.6, Gemini 3 시리즈, Grok-4</strong> 등 5개 ...</p>",
-          "contentSnippet": "53개의 주요 AI 모델을 대상으로 테스트한 결과, 대부분이 기초적 추론에 실패함\n정답은 ‘운전’ 이지만 53개 중 42개 모델이 ‘걷기’ 를 선택\nClaude Opus 4.6, Gemini 3 시리즈, Grok-4 등 5개 ...",
-          "id": "https://news.hada.io/topic?id=26975",
-          "isoDate": "2026-02-24T20:37:51.000Z"
         }
       ]
     }
