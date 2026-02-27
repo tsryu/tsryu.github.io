@@ -7,6 +7,16 @@
       "priority": 1,
       "data": [
         {
+          "title": "Claude Code가 실제로 선택하는 것",
+          "link": "https://news.hada.io/topic?id=27056",
+          "pubDate": "2026-02-27T11:33:25.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>실제 오픈소스 저장소 2,430개를 대상으로 <strong>Claude Code의 도구 선택 경향</strong>을 분석한 연구 결과</li>\n<li>전체 20개 범주 중 12개에서 <strong>기성 도구 대신 직접 구현(Custom/DIY)</strong> 방식을 택했으며, 이는 가장 빈번한 선택 유형</li>\n<li>반면 도구를 선택할 때는 <strong>GitHub A...</p>",
+          "contentSnippet": "실제 오픈소스 저장소 2,430개를 대상으로 Claude Code의 도구 선택 경향을 분석한 연구 결과\n전체 20개 범주 중 12개에서 기성 도구 대신 직접 구현(Custom/DIY) 방식을 택했으며, 이는 가장 빈번한 선택 유형\n반면 도구를 선택할 때는 GitHub A...",
+          "id": "https://news.hada.io/topic?id=27056",
+          "isoDate": "2026-02-27T11:33:25.000Z"
+        },
+        {
           "title": "Show GN: 원하는 주제를 커리큘럼으로 만들어서 공부하는 AI, Runtric",
           "link": "https://news.hada.io/topic?id=27053",
           "pubDate": "2026-02-27T07:51:17.000Z",
@@ -495,16 +505,6 @@
           "contentSnippet": "Pi는 터미널 기반의 미니멀 코딩 에이전트로, 사용자의 워크플로우에 맞게 확장 가능한 구조를 제공\nTypeScript 확장, 스킬, 프롬프트 템플릿, 테마를 조합해 자신만의 개발 환경을 구성하고, 이를 npm 또는 git 패키지로 공유...",
           "id": "https://news.hada.io/topic?id=26999",
           "isoDate": "2026-02-25T12:33:28.000Z"
-        },
-        {
-          "title": "디스코드, 신원 인증 소프트웨어 ‘Persona’와 계약 종료",
-          "link": "https://news.hada.io/topic?id=26998",
-          "pubDate": "2026-02-25T09:37:18.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Persona</strong>의 코드가 미국 정부 감시 시스템에서 발견되면서, Discord가 협력을 중단함</li>\n<li>Persona는 X, OpenAI, Linkedin, Figma, Reddit 등에서 <strong>신원 확인 및 연령 인증</strong>용으로 사용중</li>\n<li>발견된 코드는 <strong>얼굴 인식·정치적 인물 감시·테러 관련 검증</str...</p>",
-          "contentSnippet": "Persona의 코드가 미국 정부 감시 시스템에서 발견되면서, Discord가 협력을 중단함\nPersona는 X, OpenAI, Linkedin, Figma, Reddit 등에서 신원 확인 및 연령 인증용으로 사용중\n발견된 코드는 얼굴 인식·정치적 인물 감시·테러 관련 검증",
-          "id": "https://news.hada.io/topic?id=26998",
-          "isoDate": "2026-02-25T09:37:18.000Z"
         }
       ]
     }
