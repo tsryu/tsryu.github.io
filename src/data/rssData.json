@@ -7,6 +7,46 @@
       "priority": 1,
       "data": [
         {
+          "title": "HP PC 부품 원가의 35%를 RAM이 차지",
+          "link": "https://news.hada.io/topic?id=27062",
+          "pubDate": "2026-02-27T18:41:22.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>HP는 <strong>RAM 가격 급등</strong>으로 인해 자사 PC의 부품 원가 중 RAM 비중이 <strong>15~18%에서 35%로 상승</strong>했다고 발표</li>\n<li>회사는 <strong>메모리 부족 사태</strong>로 인해 전체 PC 시장 수요가 감소하고 있으며, 올해 <strong>두 자릿수 하락</strong>을 예상</li>\n<li>HP는 <strong...</p>",
+          "contentSnippet": "HP는 RAM 가격 급등으로 인해 자사 PC의 부품 원가 중 RAM 비중이 15~18%에서 35%로 상승했다고 발표\n회사는 메모리 부족 사태로 인해 전체 PC 시장 수요가 감소하고 있으며, 올해 두 자릿수 하락을 예상\nHP는",
+          "id": "https://news.hada.io/topic?id=27062",
+          "isoDate": "2026-02-27T18:41:22.000Z"
+        },
+        {
+          "title": "&quot;2&gt;&amp;1&quot;은 무엇을 의미하나?",
+          "link": "https://news.hada.io/topic?id=27061",
+          "pubDate": "2026-02-27T18:38:22.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>표준 오류(stderr)</strong> 와 <strong>표준 출력(stdout)</strong> 을 하나의 스트림으로 합치기 위해 사용하는 <strong>리디렉션 구문</strong>임</li>\n<li>숫자 <strong>1은 stdout</strong>, <strong>2는 stderr</strong>를 의미하며, <code>&amp;</code>는 <strong>파일 디스크립터를 참조</str...</p>",
+          "contentSnippet": "표준 오류(stderr) 와 표준 출력(stdout) 을 하나의 스트림으로 합치기 위해 사용하는 리디렉션 구문임\n숫자 1은 stdout, 2는 stderr를 의미하며, &는 파일 디스크립터를 참조",
+          "id": "https://news.hada.io/topic?id=27061",
+          "isoDate": "2026-02-27T18:38:22.000Z"
+        },
+        {
+          "title": "바이브 코딩은 메이커 운동처럼 끝날 것인가",
+          "link": "https://news.hada.io/topic?id=27059",
+          "pubDate": "2026-02-27T16:37:55.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>바이브 코딩</strong>은 새로운 기술 창작 흐름으로, 과거 <strong>메이커 운동</strong>과 구조적 유사성을 지님</li>\n<li>메이커 운동이 ‘만드는 행위’를 통한 <strong>자기 변화와 창의성</strong>을 강조했다면, 바이브 코딩은 <strong>즉각적인 생산성과 피드백 루프의 부재</strong>로 다른 양...</p>",
+          "contentSnippet": "바이브 코딩은 새로운 기술 창작 흐름으로, 과거 메이커 운동과 구조적 유사성을 지님\n메이커 운동이 ‘만드는 행위’를 통한 자기 변화와 창의성을 강조했다면, 바이브 코딩은 즉각적인 생산성과 피드백 루프의 부재로 다른 양...",
+          "id": "https://news.hada.io/topic?id=27059",
+          "isoDate": "2026-02-27T16:37:55.000Z"
+        },
+        {
+          "title": "AirSnitch: Wi-Fi 네트워크에서 클라이언트 격리를 해소하고 해제하는 방법 [pdf]",
+          "link": "https://news.hada.io/topic?id=27058",
+          "pubDate": "2026-02-27T16:34:55.000Z",
+          "author": "neo",
+          "content": "AirSnitch: Wi-Fi 네트워크에서 클라이언트 격리를 해소하고 해제하는 방법 [pdf]",
+          "contentSnippet": "AirSnitch: Wi-Fi 네트워크에서 클라이언트 격리를 해소하고 해제하는 방법 [pdf]",
+          "id": "https://news.hada.io/topic?id=27058",
+          "isoDate": "2026-02-27T16:34:55.000Z"
+        },
+        {
           "title": "Claude Code가 실제로 선택하는 것",
           "link": "https://news.hada.io/topic?id=27056",
           "pubDate": "2026-02-27T11:33:25.000Z",
@@ -465,46 +505,6 @@
           "contentSnippet": "웹의 주요 취약점인 XSS 공격을 방지하기 위해 Firefox가 표준화된 Sanitizer API를 최초로 지원\n기존의 innerHTML 대신 setHTML() 메서드를 사용하면, 신뢰할 수 없는 HTML을 DOM 삽입 전 자동 정화(sanitize)",
           "id": "https://news.hada.io/topic?id=27004",
           "isoDate": "2026-02-25T20:33:04.000Z"
-        },
-        {
-          "title": "Nearby Glasses - 근처의 스마트 안경을 감지하는 앱 ",
-          "link": "https://news.hada.io/topic?id=27003",
-          "pubDate": "2026-02-25T17:33:04.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Bluetooth 신호를 분석해 주변의 스마트 안경을 탐지하고 경고를 표시하는 안드로이드 앱</strong>으로, Meta Ray-Ban이나 Snap Spectacles 같은 기기를 식별함</li>\n<li>\n<strong>BLE 광고 패킷의 제조사 ID 코드</strong>(예: Meta, Luxottica, Snap)를 기반으로 탐지하며, VR 헤드셋 등으로 인한 ...</p>",
-          "contentSnippet": "Bluetooth 신호를 분석해 주변의 스마트 안경을 탐지하고 경고를 표시하는 안드로이드 앱으로, Meta Ray-Ban이나 Snap Spectacles 같은 기기를 식별함\nBLE 광고 패킷의 제조사 ID 코드(예: Meta, Luxottica, Snap)를 기반으로 탐지하며, VR 헤드셋 등으로 인한 ...",
-          "id": "https://news.hada.io/topic?id=27003",
-          "isoDate": "2026-02-25T17:33:04.000Z"
-        },
-        {
-          "title": "앱 배포를 위한 개발자 등록 의무화에 대한 구글 공개서한",
-          "link": "https://news.hada.io/topic?id=27002",
-          "pubDate": "2026-02-25T14:33:11.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>전 세계 <strong>시민단체·비영리기관·기술기업 38곳</strong>이 구글의 <strong>안드로이드 앱 외부 배포 개발자 등록 의무화 정책</strong>에 반대 입장을 표명</li>\n<li>이들은 안드로이드가 이미 <strong>운영체제 수준 보안·앱 서명·Play Protect</strong> 등 다양한 보호 장치를 갖추고 있다고 지적</li>...</p>",
-          "contentSnippet": "전 세계 시민단체·비영리기관·기술기업 38곳이 구글의 안드로이드 앱 외부 배포 개발자 등록 의무화 정책에 반대 입장을 표명\n이들은 안드로이드가 이미 운영체제 수준 보안·앱 서명·Play Protect 등 다양한 보호 장치를 갖추고 있다고 지적\n...",
-          "id": "https://news.hada.io/topic?id=27002",
-          "isoDate": "2026-02-25T14:33:11.000Z"
-        },
-        {
-          "title": "Show GN: 전국 아파트 관리비 조회 및 비교",
-          "link": "https://news.hada.io/topic?id=27000",
-          "pubDate": "2026-02-25T12:46:37.000Z",
-          "author": "emusal",
-          "content": "<p>안녕하세요<br />\n <br />\n저는 300세대 아파트의 동대표를 맡고 있는 IT개발자 입니다.<br />\n제가 이번에 재능기부 취지로 만든 아파트 관련 서비스가 있어서 공유차 홍보글을 올립니다.<br />\n <br />\n이 서비스는 전국 아파트의 관리비를 조회하고 비교하는 서비스로,<br />\n비슷한 서비스가 몇 있지만, 저희 서비...</p>",
-          "contentSnippet": "안녕하세요\n \n저는 300세대 아파트의 동대표를 맡고 있는 IT개발자 입니다.\n제가 이번에 재능기부 취지로 만든 아파트 관련 서비스가 있어서 공유차 홍보글을 올립니다.\n \n이 서비스는 전국 아파트의 관리비를 조회하고 비교하는 서비스로,\n비슷한 서비스가 몇 있지만, 저희 서비...",
-          "id": "https://news.hada.io/topic?id=27000",
-          "isoDate": "2026-02-25T12:46:37.000Z"
-        },
-        {
-          "title": "Pi – 간결한 터미널 코딩 하니스",
-          "link": "https://news.hada.io/topic?id=26999",
-          "pubDate": "2026-02-25T12:33:28.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Pi</strong>는 터미널 기반의 <strong>미니멀 코딩 에이전트</strong>로, 사용자의 워크플로우에 맞게 확장 가능한 구조를 제공</li>\n<li>\n<strong>TypeScript 확장, 스킬, 프롬프트 템플릿, 테마</strong>를 조합해 자신만의 개발 환경을 구성하고, 이를 <strong>npm 또는 git 패키지</strong>로 공유...</p>",
-          "contentSnippet": "Pi는 터미널 기반의 미니멀 코딩 에이전트로, 사용자의 워크플로우에 맞게 확장 가능한 구조를 제공\nTypeScript 확장, 스킬, 프롬프트 템플릿, 테마를 조합해 자신만의 개발 환경을 구성하고, 이를 npm 또는 git 패키지로 공유...",
-          "id": "https://news.hada.io/topic?id=26999",
-          "isoDate": "2026-02-25T12:33:28.000Z"
         }
       ]
     }
