@@ -7,6 +7,16 @@
       "priority": 1,
       "data": [
         {
+          "title": "JavaScript를 위한 더 나은 Streams API는 가능하다",
+          "link": "https://news.hada.io/topic?id=27080",
+          "pubDate": "2026-02-28T11:32:56.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Web Streams 표준</strong>은 브라우저와 서버 간 일관된 데이터 스트리밍을 위해 설계되었지만, 현재는 <strong>복잡성과 성능 한계</strong>로 인해 개발자 경험이 저하되고 있음</li>\n<li>기존 API는 <strong>락(lock) 관리, BYOB, 백프레셔(backpressure)</strong> 등 설계적 제약으로 인해 사용성...</p>",
+          "contentSnippet": "Web Streams 표준은 브라우저와 서버 간 일관된 데이터 스트리밍을 위해 설계되었지만, 현재는 복잡성과 성능 한계로 인해 개발자 경험이 저하되고 있음\n기존 API는 락(lock) 관리, BYOB, 백프레셔(backpressure) 등 설계적 제약으로 인해 사용성...",
+          "id": "https://news.hada.io/topic?id=27080",
+          "isoDate": "2026-02-28T11:32:56.000Z"
+        },
+        {
           "title": "OpenAI, 미 국방부와 비공개 네트워크 내 모델 배포에 합의",
           "link": "https://news.hada.io/topic?id=27079",
           "pubDate": "2026-02-28T05:36:13.000Z",
@@ -495,16 +505,6 @@
           "contentSnippet": "회사에서 1인 개발자로 여러 서버/서비스를 관리하고 있는데, 종종 \"지난달 말에 이 데이터가 어떻게 되어 있었어?\"라는 질문을 받곤 합니다.\n...",
           "id": "https://news.hada.io/topic?id=27021",
           "isoDate": "2026-02-26T06:03:34.000Z"
-        },
-        {
-          "title": "Claude Code에서 원격 코드 실행 및 API 키 탈취 가능한 취약점 3건 발견 (패치 완료)",
-          "link": "https://news.hada.io/topic?id=27020",
-          "pubDate": "2026-02-26T05:31:44.000Z",
-          "author": "princox",
-          "content": "<p>Check Point Research가 Anthropic의 Claude Code에서 3가지 보안 취약점을 발견해 공개했습니다. 모두 신뢰할 수 없는 저장소를 클론하거나 열기만 해도 공격이 가능한 구조입니다.</p>\n<h3>취약점 3가지</h3>\n<pre><code>1.\tNo CVE (CVSS 8.7) — .claude/settings.json의 프로젝트 훅(Hooks)을 이용한 코드 인젝션",
-          "contentSnippet": "Check Point Research가 Anthropic의 Claude Code에서 3가지 보안 취약점을 발견해 공개했습니다. 모두 신뢰할 수 없는 저장소를 클론하거나 열기만 해도 공격이 가능한 구조입니다.\n취약점 3가지\n1.\tNo CVE (CVSS 8.7) — .claude/settings.json의 프로젝트 훅(Hooks)을 이용한 코드 인젝션",
-          "id": "https://news.hada.io/topic?id=27020",
-          "isoDate": "2026-02-26T05:31:44.000Z"
         }
       ]
     }
