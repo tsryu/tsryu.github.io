@@ -7,6 +7,146 @@
       "priority": 1,
       "data": [
         {
+          "title": "Moonshine - 엣지 디바이스용 고속·고정확도 음성 인식(ASR) 오픈소스",
+          "link": "https://news.hada.io/topic?id=27103",
+          "pubDate": "2026-03-01T02:11:23.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>모든 처리를 <strong>온디바이스에서 수행하는 실시간 음성 인식 프레임워크</strong>\n</li>\n<li>\n<strong>스트리밍 기반 모델 구조</strong>를 통해 사용자가 말하는 동안에도 실시간으로 텍스트를 생성하며, <strong>Whisper Large v3보다 낮은 오류율(WER 6.65%)</strong> 을 달성</li>\n<li>\n<strong>Python...</p>",
+          "contentSnippet": "모든 처리를 온디바이스에서 수행하는 실시간 음성 인식 프레임워크\n\n\n스트리밍 기반 모델 구조를 통해 사용자가 말하는 동안에도 실시간으로 텍스트를 생성하며, Whisper Large v3보다 낮은 오류율(WER 6.65%) 을 달성\nPython...",
+          "id": "https://news.hada.io/topic?id=27103",
+          "isoDate": "2026-03-01T02:11:23.000Z"
+        },
+        {
+          "title": "Magpie — LLM이 코드를 처음 시도에 완벽하게 작성할 수 있도록 설계된 프로그래밍 언어",
+          "link": "https://news.hada.io/topic?id=27101",
+          "pubDate": "2026-03-01T01:54:59.000Z",
+          "author": "princox",
+          "content": "<h2>프로젝트 소개</h2>\n<p>Magpie는 &quot;AI 에이전트를 위해 만들어진 최초의 프로그래밍 언어&quot;를 표방하는 오픈소스 프로젝트입니다. 기존 언어들이 인간의 타이핑 편의에 최적화되어 있다면, Magpie는 LLM의 코드 생성에 최적화되어 있습니다. 핵심 철학은 &quot;모호함 제거&quot;입니다. Rust나 TypeScript에...</p>",
+          "contentSnippet": "프로젝트 소개\nMagpie는 \"AI 에이전트를 위해 만들어진 최초의 프로그래밍 언어\"를 표방하는 오픈소스 프로젝트입니다. 기존 언어들이 인간의 타이핑 편의에 최적화되어 있다면, Magpie는 LLM의 코드 생성에 최적화되어 있습니다. 핵심 철학은 \"모호함 제거\"입니다. Rust나 TypeScript에...",
+          "id": "https://news.hada.io/topic?id=27101",
+          "isoDate": "2026-03-01T01:54:59.000Z"
+        },
+        {
+          "title": "Obsidian Sync가 이제 헤드리스 클라이언트를 지원",
+          "link": "https://news.hada.io/topic?id=27100",
+          "pubDate": "2026-03-01T01:45:43.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>Obsidian Sync</strong>가 데스크톱 앱 없이도 <strong>명령줄 환경에서 동기화</strong>할 수 있는 <strong>헤드리스 클라이언트</strong>를 제공</li>\n<li>CI 파이프라인, 서버, 자동화 스크립트 등 <strong>비대화형 환경</strong>에서 <strong>vault 동기화</strong>를 수행 가능</li>\n<li>\n<code...</p>",
+          "contentSnippet": "Obsidian Sync가 데스크톱 앱 없이도 명령줄 환경에서 동기화할 수 있는 헤드리스 클라이언트를 제공\nCI 파이프라인, 서버, 자동화 스크립트 등 비대화형 환경에서 vault 동기화를 수행 가능",
+          "id": "https://news.hada.io/topic?id=27100",
+          "isoDate": "2026-03-01T01:45:43.000Z"
+        },
+        {
+          "title": "AI 코딩이 초래하는 비용",
+          "link": "https://news.hada.io/topic?id=27099",
+          "pubDate": "2026-03-01T01:44:43.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>개발자들이 <strong>AI 코딩 도구를 광범위하게 사용</strong>하면서 생산성이 높아졌지만, 눈에 보이지 않는 <strong>인지적·조직적 비용</strong>이 발생하고 있음</li>\n<li>초기의 <strong>Copilot·Cursor</strong> 같은 보조형 도구에서, 최근에는 <strong>자율형 에이전트</strong>로 진화하며 인간이 AI를...</p>",
+          "contentSnippet": "개발자들이 AI 코딩 도구를 광범위하게 사용하면서 생산성이 높아졌지만, 눈에 보이지 않는 인지적·조직적 비용이 발생하고 있음\n초기의 Copilot·Cursor 같은 보조형 도구에서, 최근에는 자율형 에이전트로 진화하며 인간이 AI를...",
+          "id": "https://news.hada.io/topic?id=27099",
+          "isoDate": "2026-03-01T01:44:43.000Z"
+        },
+        {
+          "title": "크로아티아, 31년 만에 지뢰 완전 제거 선언",
+          "link": "https://news.hada.io/topic?id=27098",
+          "pubDate": "2026-03-01T00:50:49.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>크로아티아 내무부 장관 다보르 보지노비치</strong>가 자국이 공식적으로 <strong>지뢰로부터 완전히 해방되었다</strong>고 발표</li>\n<li>\n<strong>조국전쟁 종료 31년</strong> 만에 모든 알려진 지뢰밭이 제거되었으며, 이는 국가적으로 중요한 이정표로 평가됨</li>\n<li>30여 년간의 작업 동안 ...</p>",
+          "contentSnippet": "크로아티아 내무부 장관 다보르 보지노비치가 자국이 공식적으로 지뢰로부터 완전히 해방되었다고 발표\n조국전쟁 종료 31년 만에 모든 알려진 지뢰밭이 제거되었으며, 이는 국가적으로 중요한 이정표로 평가됨\n30여 년간의 작업 동안 ...",
+          "id": "https://news.hada.io/topic?id=27098",
+          "isoDate": "2026-03-01T00:50:49.000Z"
+        },
+        {
+          "title": "전부 사기였다",
+          "link": "https://news.hada.io/topic?id=27097",
+          "pubDate": "2026-03-01T00:47:48.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>OpenAI의 <strong>Sam Altman</strong>이 Anthropic의 <strong>Dario Amodei</strong>를 공개적으로 지지한 바로 그날, 실제로는 Amodei의 사업을 빼앗는 <strong>비슷한 조건의 계약</strong>을 체결한 사실이 드러남</li>\n<li>뉴욕타임스 보도에 따르면 Altman은 <strong>수요일부터 비밀리에 계약을 추진</s...</p>",
+          "contentSnippet": "OpenAI의 Sam Altman이 Anthropic의 Dario Amodei를 공개적으로 지지한 바로 그날, 실제로는 Amodei의 사업을 빼앗는 비슷한 조건의 계약을 체결한 사실이 드러남\n뉴욕타임스 보도에 따르면 Altman은 수요일부터 비밀리에 계약을 추진",
+          "id": "https://news.hada.io/topic?id=27097",
+          "isoDate": "2026-03-01T00:47:48.000Z"
+        },
+        {
+          "title": "미국과 이스라엘, 이란에 대한 대규모 공격 단행 및 테헤란의 보복",
+          "link": "https://news.hada.io/topic?id=27096",
+          "pubDate": "2026-03-01T00:44:48.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>미국과 이스라엘이 <strong>이란을 대상으로 한 합동 군사공격</strong>을 개시했으며, 도널드 트럼프 대통령은 이를 통해 이란의 군사력과 미사일 프로그램을 해체하고 정권 교체를 목표로 한다고 발표함</li>\n<li>이 공격으로 <strong>이란 최고지도자 아야톨라 알리 하메네이</strong>가 사망했다고 이스라엘...</p>",
+          "contentSnippet": "미국과 이스라엘이 이란을 대상으로 한 합동 군사공격을 개시했으며, 도널드 트럼프 대통령은 이를 통해 이란의 군사력과 미사일 프로그램을 해체하고 정권 교체를 목표로 한다고 발표함\n이 공격으로 이란 최고지도자 아야톨라 알리 하메네이가 사망했다고 이스라엘...",
+          "id": "https://news.hada.io/topic?id=27096",
+          "isoDate": "2026-03-01T00:44:48.000Z"
+        },
+        {
+          "title": "ChatGPT 구독 취소 방법",
+          "link": "https://news.hada.io/topic?id=27095",
+          "pubDate": "2026-03-01T00:41:48.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>ChatGPT 구독은 <strong>웹사이트, iOS, Android, Business 계정</strong> 각각에서 별도의 절차로 취소 가능</li>\n<li>웹사이트 가입자는 <strong>프로필 → 설정 → 계정 → 관리 → 구독 취소</strong> 순서로 진행</li>\n<li>모바일 사용자는 <strong>App Store 또는 Play Store</strong>를 통해 해당 플랫폼...</p>",
+          "contentSnippet": "ChatGPT 구독은 웹사이트, iOS, Android, Business 계정 각각에서 별도의 절차로 취소 가능\n웹사이트 가입자는 프로필 → 설정 → 계정 → 관리 → 구독 취소 순서로 진행\n모바일 사용자는 App Store 또는 Play Store를 통해 해당 플랫폼...",
+          "id": "https://news.hada.io/topic?id=27095",
+          "isoDate": "2026-03-01T00:41:48.000Z"
+        },
+        {
+          "title": "OpenAI – 계정 삭제 방법",
+          "link": "https://news.hada.io/topic?id=27094",
+          "pubDate": "2026-03-01T00:38:48.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>OpenAI 계정은 <strong>Privacy Portal을 통한 요청 제출</strong> 또는 <strong>ChatGPT 내 직접 삭제 기능</strong>으로 제거 가능</li>\n<li>계정을 삭제하면 <strong>ChatGPT Plus 구독이 자동 취소</strong>되어 이후 요금이 청구되지 않음</li>\n<li>\n<strong>웹과 모바일(iOS, Android)</strong> 모두에서...</p>",
+          "contentSnippet": "OpenAI 계정은 Privacy Portal을 통한 요청 제출 또는 ChatGPT 내 직접 삭제 기능으로 제거 가능\n계정을 삭제하면 ChatGPT Plus 구독이 자동 취소되어 이후 요금이 청구되지 않음\n웹과 모바일(iOS, Android) 모두에서...",
+          "id": "https://news.hada.io/topic?id=27094",
+          "isoDate": "2026-03-01T00:38:48.000Z"
+        },
+        {
+          "title": "Call-me - Claude Code가 당신에게 전화로 연락합니다",
+          "link": "https://news.hada.io/topic?id=27093",
+          "pubDate": "2026-03-01T00:31:02.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>클로드 코드의 <strong>작업 완료나 의사결정 요청</strong>을 전화로 알리기 위해 설계된 초소형 플러그인</li>\n<li>\n<strong>조깅</strong>하면서도 클로드와 대화하며 작업 지시 가능하고, <strong>개발 중 자리를 비워도</strong> 실시간 피드백을 받을 수 있음</li>\n<li>다중 회차 대화 지원하며, 통화 중...</p>",
+          "contentSnippet": "클로드 코드의 작업 완료나 의사결정 요청을 전화로 알리기 위해 설계된 초소형 플러그인\n조깅하면서도 클로드와 대화하며 작업 지시 가능하고, 개발 중 자리를 비워도 실시간 피드백을 받을 수 있음\n다중 회차 대화 지원하며, 통화 중...",
+          "id": "https://news.hada.io/topic?id=27093",
+          "isoDate": "2026-03-01T00:31:02.000Z"
+        },
+        {
+          "title": "Show GN: /mobile-preview: 모바일에서 로컬 서버 프리뷰",
+          "link": "https://news.hada.io/topic?id=27091",
+          "pubDate": "2026-03-01T00:26:14.000Z",
+          "author": "mindori",
+          "content": "<p>Claude Code용 모바일에서도 결과를 편하게 확인할 수 있는 스킬을 만들어봤습니다.</p>\n<p>로컬 개발 서버를 cloudflared 터널로 노출해서 모바일 Chrome에서 바로 확인할 수 있게 해주는 스킬입니다. /remote-control을 통해서 Claude Code를 모바일로 붙여서 쓰면서 결과 화면만 빠르게 확인하고 싶은 경우에 유용",
+          "contentSnippet": "Claude Code용 모바일에서도 결과를 편하게 확인할 수 있는 스킬을 만들어봤습니다.\n로컬 개발 서버를 cloudflared 터널로 노출해서 모바일 Chrome에서 바로 확인할 수 있게 해주는 스킬입니다. /remote-control을 통해서 Claude Code를 모바일로 붙여서 쓰면서 결과 화면만 빠르게 확인하고 싶은 경우에 유용",
+          "id": "https://news.hada.io/topic?id=27091",
+          "isoDate": "2026-03-01T00:26:14.000Z"
+        },
+        {
+          "title": "우리는 분열되지 않을 것이다",
+          "link": "https://news.hada.io/topic?id=27090",
+          "pubDate": "2026-02-28T22:42:56.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>미국 <strong>국방부(DoW)</strong> 가 Anthropic에 대해 <strong>국방물자생산법(Defense Production Act)</strong> 발동을 위협하며, 군사용 모델 제공과 군의 요구에 맞춘 조정을 강요하고 있음</li>\n<li>Anthropic은 <strong>국내 대규모 감시</strong>나 <strong>인간 통제 없는 자율 살상</strong>에 자사...</p>",
+          "contentSnippet": "미국 국방부(DoW) 가 Anthropic에 대해 국방물자생산법(Defense Production Act) 발동을 위협하며, 군사용 모델 제공과 군의 요구에 맞춘 조정을 강요하고 있음\nAnthropic은 국내 대규모 감시나 인간 통제 없는 자율 살상에 자사...",
+          "id": "https://news.hada.io/topic?id=27090",
+          "isoDate": "2026-02-28T22:42:56.000Z"
+        },
+        {
+          "title": "레드 드워프 공동 창작자 롭 그랜트 사망",
+          "link": "https://news.hada.io/topic?id=27089",
+          "pubDate": "2026-02-28T21:37:12.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>영국 시트콤 <strong>‘Red Dwarf’의 공동 창작자 롭 그랜트</strong>가 별세했으며, 동료와 팬들의 추모가 이어짐</li>\n<li>그는 <strong>풍자 프로그램 ‘Spitting Image’의 주요 작가</strong>로도 활동하며, 오랜 기간 더그 네일러와 협업함</li>\n<li>\n<strong>배우 크레이그 찰스</strong>와 <strong>공...</p>",
+          "contentSnippet": "영국 시트콤 ‘Red Dwarf’의 공동 창작자 롭 그랜트가 별세했으며, 동료와 팬들의 추모가 이어짐\n그는 풍자 프로그램 ‘Spitting Image’의 주요 작가로도 활동하며, 오랜 기간 더그 네일러와 협업함\n배우 크레이그 찰스와 공...",
+          "id": "https://news.hada.io/topic?id=27089",
+          "isoDate": "2026-02-28T21:37:12.000Z"
+        },
+        {
+          "title": "NASA, 안전 우려와 지연 속에 아르테미스 달 탐사 프로그램 전면 개편 발표",
+          "link": "https://news.hada.io/topic?id=27088",
+          "pubDate": "2026-02-28T21:34:12.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>NASA는 <strong>2028년 달 착륙 목표가 비현실적</strong>이라고 판단하고, 2027년에 <strong>새로운 시험 비행</strong>을 추가해 프로그램을 재구성함</li>\n<li>새 임무에서는 우주비행사들이 <strong>저지구 궤도에서 상업용 달 착륙선과 도킹</strong>하며 <strong>항법·통신·추진·생명유지 시스템</stron...</p>",
+          "contentSnippet": "NASA는 2028년 달 착륙 목표가 비현실적이라고 판단하고, 2027년에 새로운 시험 비행을 추가해 프로그램을 재구성함\n새 임무에서는 우주비행사들이 저지구 궤도에서 상업용 달 착륙선과 도킹하며 항법·통신·추진·생명유지 시스템",
+          "id": "https://news.hada.io/topic?id=27088",
+          "isoDate": "2026-02-28T21:34:12.000Z"
+        },
+        {
           "title": "Google 직원들, 군사용 인공지능에 ‘레드라인’ 설정 요구…Anthropic의 움직임과 유사",
           "link": "https://news.hada.io/topic?id=27087",
           "pubDate": "2026-02-28T19:32:58.000Z",
@@ -77,7 +217,7 @@
           "isoDate": "2026-02-28T14:52:42.000Z"
         },
         {
-          "title": "JavaScript를 위한 더 나은 Streams API는 가능하다",
+          "title": "JavaScript를 위한 더 나은 Streams API가 필요합니다",
           "link": "https://news.hada.io/topic?id=27080",
           "pubDate": "2026-02-28T11:32:56.000Z",
           "author": "neo",
@@ -155,6 +295,16 @@
           "contentSnippet": "검색엔진 최적화(SEO) 에서 보조 에이전트 최적화(AAO) 로의 전환은, 인간 개입 없이 에이전트가 선택하는 시대를 대비한 전략임\nAAO는 대형언어모델(LLM), 지식 그래프, 전통 검색으로 구성된 ‘알고...",
           "id": "https://news.hada.io/topic?id=27073",
           "isoDate": "2026-02-28T01:25:24.000Z"
+        },
+        {
+          "title": "Show GN: OpenChrome - 크롬 브라우저를 위한 병렬 자동화 MCP 서버",
+          "link": "https://news.hada.io/topic?id=27072",
+          "pubDate": "2026-02-28T01:03:31.000Z",
+          "author": "shaun0927",
+          "content": "<p>Playwright은 어떻게든 크롤링을 하거나<br />\n프로덕션 환경에서 E2E 테스트를 하고 싶을 때<br />\n브라우저에서 클릭 등의 액션을 조작해 주는 유용한 웹자동화 툴입니다.</p>\n<p>2020년에 출시되었지만,<br />\n여전히 대부분의 개발자들이 사용하는 툴이죠.<br />\n하지만 한 세션만 켜도 RAM 소모가 2GB가 넘고, 무",
+          "contentSnippet": "Playwright은 어떻게든 크롤링을 하거나\n2020년에 출시되었지만,\n여전히 대부분의 개발자들이 사용하는 툴이죠.\n하지만 한 세션만 켜도 RAM 소모가 2GB가 넘고, 무",
+          "id": "https://news.hada.io/topic?id=27072",
+          "isoDate": "2026-02-28T01:03:31.000Z"
         },
         {
           "title": "Anthropic, 오픈소스 유지관리자에게 무료 Claude Max 20x 제공",
@@ -355,156 +505,6 @@
           "contentSnippet": "미국 국방장관이 Anthropic에 자사 인공지능 기술을 군사적 제한 없이 제공하라는 최후통첩을 전달함\n국방부는 Anthropic이 이를 거부할 경우 ‘공급망 위험(supply chain risk)’ 기업으로 지정하겠다고 위협함\nAnthropic은 자...",
           "id": "https://news.hada.io/topic?id=27048",
           "isoDate": "2026-02-27T02:32:51.000Z"
-        },
-        {
-          "title": "트위터 창업자 잭 도시, AI 전환 때문에 4천명 감원 발표",
-          "link": "https://news.hada.io/topic?id=27047",
-          "pubDate": "2026-02-27T02:24:35.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>Block의 조직 규모를 <strong>1만명 이상에서 6천명 이하로 축소</strong>\n</li>\n<li>감원은 경영 위기 때문이 아니며, 총이익 성장·고객 증가·수익성 개선 중. 다만 <strong>지능 도구와 소규모·수평적 팀 구조 결합으로 일하는 방식 자체가 변화</strong>\n</li>\n<li>AI 기반 생산성이 <strong>회사 구축과 운...</p>",
-          "contentSnippet": "Block의 조직 규모를 1만명 이상에서 6천명 이하로 축소\n\n감원은 경영 위기 때문이 아니며, 총이익 성장·고객 증가·수익성 개선 중. 다만 지능 도구와 소규모·수평적 팀 구조 결합으로 일하는 방식 자체가 변화\n\nAI 기반 생산성이 회사 구축과 운...",
-          "id": "https://news.hada.io/topic?id=27047",
-          "isoDate": "2026-02-27T02:24:35.000Z"
-        },
-        {
-          "title": "Claude Code에 Auto-Memory 기능 추가",
-          "link": "https://news.hada.io/topic?id=27046",
-          "pubDate": "2026-02-27T02:21:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>세션 간 학습 내용을 유지하는 <strong>지속 메모리 기능</strong> 이 새로 추가됨</li>\n<li>\n<strong>프로젝트 컨텍스트, 디버깅 경험, 선호하는 접근 방식</strong> 등을 <strong>자동으로 기억</strong>하고, 이후 세션에서 <strong>별도 입력 없이</strong> 해당 정보를 <strong>재활용</strong>\n</li>\n<li...</p>",
-          "contentSnippet": "세션 간 학습 내용을 유지하는 지속 메모리 기능 이 새로 추가됨\n프로젝트 컨텍스트, 디버깅 경험, 선호하는 접근 방식 등을 자동으로 기억하고, 이후 세션에서 별도 입력 없이 해당 정보를 재활용",
-          "id": "https://news.hada.io/topic?id=27046",
-          "isoDate": "2026-02-27T02:21:02.000Z"
-        },
-        {
-          "title": "Show GN: 홍보글 쓰다 지쳐서… 결국 “딸깍”으로 할 수 있게 맨들어버렸습니다.",
-          "link": "https://news.hada.io/topic?id=27045",
-          "pubDate": "2026-02-27T02:14:33.000Z",
-          "author": "ironman0722",
-          "content": "<p>저는 오픈소스를 만드는 건 좋아하는데, 홍보글은 시간내서 쓰는게 귀찮고 오래 걸리더라고요. 유료 툴은 비싸고, 무료는 제한이 많고요.</p>\n<p>그래서 “초안만 던지면 SNS 플랫폼별 맞춤형으로 글을 정리해주고, 게시까지 자동으로 해주는”<br />\n툴을 직접 만들었습니다. 프로젝트 이름은 오토 홍명보(Auto Hong",
-          "contentSnippet": "저는 오픈소스를 만드는 건 좋아하는데, 홍보글은 시간내서 쓰는게 귀찮고 오래 걸리더라고요. 유료 툴은 비싸고, 무료는 제한이 많고요.\n그래서 “초안만 던지면 SNS 플랫폼별 맞춤형으로 글을 정리해주고, 게시까지 자동으로 해주는”\n툴을 직접 만들었습니다. 프로젝트 이름은 오토 홍명보(Auto Hong",
-          "id": "https://news.hada.io/topic?id=27045",
-          "isoDate": "2026-02-27T02:14:33.000Z"
-        },
-        {
-          "title": "Oxfmt 베타 출시",
-          "link": "https://news.hada.io/topic?id=27044",
-          "pubDate": "2026-02-27T01:02:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>Prettier 대비 30배 이상</strong>, Biome 대비 3배 빠른 <strong>Rust 기반 코드 포매터</strong>\n</li>\n<li>Prettier의 JS/TS 테스트를 <strong>100% 통과</strong>하며 동일한 포맷 결과 보장</li>\n<li>이미 <strong>OpenClaw, VueJS, Huggingface, npmx</strong> 등 여러 오픈소스 프로젝트에서 채...</p>",
-          "contentSnippet": "Prettier 대비 30배 이상, Biome 대비 3배 빠른 Rust 기반 코드 포매터\n\nPrettier의 JS/TS 테스트를 100% 통과하며 동일한 포맷 결과 보장\n이미 OpenClaw, VueJS, Huggingface, npmx 등 여러 오픈소스 프로젝트에서 채...",
-          "id": "https://news.hada.io/topic?id=27044",
-          "isoDate": "2026-02-27T01:02:02.000Z"
-        },
-        {
-          "title": "Nano Banana 2: 프로 기능과 빠른 속도를 결합",
-          "link": "https://news.hada.io/topic?id=27043",
-          "pubDate": "2026-02-27T00:45:24.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Nano Banana Pro의 고급 기능과 Gemini Flash의 속도를 결합, <strong>고속 이미지 생성과 편집 반복</strong>이 가능함</li>\n<li>\n<strong>세계 지식 기반 렌더링</strong>, <strong>정확한 텍스트 표현 및 번역</strong>, <strong>주제 일관성 유지</strong>, <strong>4K 해상도 지원</strong> 등 프로급 기능...</p>",
-          "contentSnippet": "Nano Banana Pro의 고급 기능과 Gemini Flash의 속도를 결합, 고속 이미지 생성과 편집 반복이 가능함\n세계 지식 기반 렌더링, 정확한 텍스트 표현 및 번역, 주제 일관성 유지, 4K 해상도 지원 등 프로급 기능...",
-          "id": "https://news.hada.io/topic?id=27043",
-          "isoDate": "2026-02-27T00:45:24.000Z"
-        },
-        {
-          "title": "미 국방부와의 논의에 대한 Dario Amodei의 성명",
-          "link": "https://news.hada.io/topic?id=27042",
-          "pubDate": "2026-02-27T00:42:24.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>대규모 국내 감시</strong>와 <strong>완전 자율 무기</strong> 2가지 분야는 <strong>계약에서 제외</strong>함</li>\n<li>Anthropic은 <strong>미국과 민주주의 국가의 방어를 위한 AI 활용</strong>을 핵심 사명으로 삼고 있으며, 이를 위해 국방부 및 정보기관과 협력 중임</li>\n<li>Claude 모델은...</p>",
-          "contentSnippet": "대규모 국내 감시와 완전 자율 무기 2가지 분야는 계약에서 제외함\nAnthropic은 미국과 민주주의 국가의 방어를 위한 AI 활용을 핵심 사명으로 삼고 있으며, 이를 위해 국방부 및 정보기관과 협력 중임\nClaude 모델은...",
-          "id": "https://news.hada.io/topic?id=27042",
-          "isoDate": "2026-02-27T00:42:24.000Z"
-        },
-        {
-          "title": "YC 기업들이 GitHub 활동을 수집해 사용자에게 스팸 메일을 발송한다는 제보",
-          "link": "https://news.hada.io/topic?id=27039",
-          "pubDate": "2026-02-27T00:36:23.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>일부 <strong>Y Combinator(이하 YC)</strong> 지원 기업들이 <strong>GitHub 사용자 활동 데이터를 자동 수집</strong>해 마케팅 이메일을 발송한 사례가 보고됨</li>\n<li>게시자는 <strong>GitHub 프로필의 커밋·레포지토리 활동</strong>을 기반으로 한 <strong>비동의 이메일 수신</strong>을 문제로 지적...</p>",
-          "contentSnippet": "일부 Y Combinator(이하 YC) 지원 기업들이 GitHub 사용자 활동 데이터를 자동 수집해 마케팅 이메일을 발송한 사례가 보고됨\n게시자는 GitHub 프로필의 커밋·레포지토리 활동을 기반으로 한 비동의 이메일 수신을 문제로 지적...",
-          "id": "https://news.hada.io/topic?id=27039",
-          "isoDate": "2026-02-27T00:36:23.000Z"
-        },
-        {
-          "title": "Auto-Claude - 자율적 멀티 세션 AI 코딩",
-          "link": "https://news.hada.io/topic?id=27038",
-          "pubDate": "2026-02-27T00:31:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>AI 기반 코드 자동화와 다중 세션 관리</strong>를 결합해 개발 효율을 높이는 <strong>자율형 멀티 에이전트 코딩 프레임워크</strong>\n</li>\n<li>\n<strong>Claude Opus 4.6</strong> 모델로, 코드 생성·리뷰·QA·기획 등 <strong>전체 개발 사이클 자동화</strong> 지원</li>\n<li>자율 작업: 목표를 ...</p>",
-          "contentSnippet": "AI 기반 코드 자동화와 다중 세션 관리를 결합해 개발 효율을 높이는 자율형 멀티 에이전트 코딩 프레임워크\n\n\nClaude Opus 4.6 모델로, 코드 생성·리뷰·QA·기획 등 전체 개발 사이클 자동화 지원\n자율 작업: 목표를 ...",
-          "id": "https://news.hada.io/topic?id=27038",
-          "isoDate": "2026-02-27T00:31:02.000Z"
-        },
-        {
-          "title": "Windows 11 메모장, 마크다운 지원 추가",
-          "link": "https://news.hada.io/topic?id=27037",
-          "pubDate": "2026-02-26T22:33:39.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>메모장에 취소선과 중첩 목록 등 <strong>경량 서식 기능</strong>을 강화해, 도구모음/단축키 및 직접 마크다운 구문 편집 가능</li>\n<li>새로운 <strong>‘웰컴 화면’</strong> 이 추가되어 앱의 주요 기능을 빠르게 학습하고 다시 열람할 수 있음</li>\n<li>AI 기반 <strong>텍스트 생성·요약 기능</strong>...</p>",
-          "contentSnippet": "메모장에 취소선과 중첩 목록 등 경량 서식 기능을 강화해, 도구모음/단축키 및 직접 마크다운 구문 편집 가능\n새로운 ‘웰컴 화면’ 이 추가되어 앱의 주요 기능을 빠르게 학습하고 다시 열람할 수 있음\nAI 기반 텍스트 생성·요약 기능...",
-          "id": "https://news.hada.io/topic?id=27037",
-          "isoDate": "2026-02-26T22:33:39.000Z"
-        },
-        {
-          "title": "미국에는 버스 정류장이 너무 많다",
-          "link": "https://news.hada.io/topic?id=27036",
-          "pubDate": "2026-02-26T21:33:40.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>버스 정류장 간격 조정(bus stop balancing)</strong> 은 새로운 인프라 없이도 <strong>버스 속도와 신뢰성을 높이는 저비용 개선책</strong>임</li>\n<li>미국 도시의 정류장은 유럽보다 훨씬 <strong>가까이 배치되어 있어</strong> 운행 속도를 늦추고 운영비를 높이며, 정류장 품질을 떨어뜨림</l...</p>",
-          "contentSnippet": "버스 정류장 간격 조정(bus stop balancing) 은 새로운 인프라 없이도 버스 속도와 신뢰성을 높이는 저비용 개선책임\n미국 도시의 정류장은 유럽보다 훨씬 가까이 배치되어 있어 운행 속도를 늦추고 운영비를 높이며, 정류장 품질을 떨어뜨림",
-          "id": "https://news.hada.io/topic?id=27036",
-          "isoDate": "2026-02-26T21:33:40.000Z"
-        },
-        {
-          "title": "오픈AI는 어떻게 경쟁할 것인가?",
-          "link": "https://news.hada.io/topic?id=27035",
-          "pubDate": "2026-02-26T19:38:21.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>OpenAI는 <strong>독자적 기술 우위 없이</strong> 대규모 사용자 기반을 확보했지만, 사용자 참여도와 지속성이 낮고 <strong>네트워크 효과가 부재한 구조</strong>임</li>\n<li>현재 6개 이상의 조직이 <strong>동등한 수준의 프론티어 모델</strong>을 출시하며 몇 주 간격으로 서로를 추월하고 있어, 어떤 ...</p>",
-          "contentSnippet": "OpenAI는 독자적 기술 우위 없이 대규모 사용자 기반을 확보했지만, 사용자 참여도와 지속성이 낮고 네트워크 효과가 부재한 구조임\n현재 6개 이상의 조직이 동등한 수준의 프론티어 모델을 출시하며 몇 주 간격으로 서로를 추월하고 있어, 어떤 ...",
-          "id": "https://news.hada.io/topic?id=27035",
-          "isoDate": "2026-02-26T19:38:21.000Z"
-        },
-        {
-          "title": "캘리포니아에서 금지된 것들 — 왜 골든스테이트에서는 아무것도 새로 지을 수 없는가",
-          "link": "https://news.hada.io/topic?id=27034",
-          "pubDate": "2026-02-26T19:35:21.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>캘리포니아에서는 <strong>산업 공정 전반의 신규 허가가 거의 불가능</strong>해, 반도체·배터리·금속 가공 등 핵심 제조업이 사실상 정지 상태임</li>\n<li>스마트폰, 전기차, 군함 등 현대 산업 제품의 <strong>모든 구성 요소 생산 공정</strong>이 ‘불가능’ 또는 ‘매우 어렵다’로 분류됨</li>\n<li>\n<st...</p>",
-          "contentSnippet": "캘리포니아에서는 산업 공정 전반의 신규 허가가 거의 불가능해, 반도체·배터리·금속 가공 등 핵심 제조업이 사실상 정지 상태임\n스마트폰, 전기차, 군함 등 현대 산업 제품의 모든 구성 요소 생산 공정이 ‘불가능’ 또는 ‘매우 어렵다’로 분류됨",
-          "id": "https://news.hada.io/topic?id=27034",
-          "isoDate": "2026-02-26T19:35:21.000Z"
-        },
-        {
-          "title": "테스트 코드가 새로운 해자(Moat)가 되는 시대",
-          "link": "https://news.hada.io/topic?id=27030",
-          "pubDate": "2026-02-26T15:23:12.000Z",
-          "author": "dopeflamingo",
-          "content": "<ul>\n<li>\n<p>성공의 역설: 프로젝트가 성장할수록 하위 호환성과 거대한 코드베이스(The Ship of Theseus)라는 짐을 지게 됩니다. 반면 경쟁자는 기존 프로젝트의 API 규격과 문서, 테스트 코드를 AI에 학습시켜 핵심 가치만 추출한 '더 가볍고 현대적인 버전'을 순식간에 만들어낼 수 있습니다.</p>\n</li>\n<li>\n<p>Clo",
-          "contentSnippet": "성공의 역설: 프로젝트가 성장할수록 하위 호환성과 거대한 코드베이스(The Ship of Theseus)라는 짐을 지게 됩니다. 반면 경쟁자는 기존 프로젝트의 API 규격과 문서, 테스트 코드를 AI에 학습시켜 핵심 가치만 추출한 '더 가볍고 현대적인 버전'을 순식간에 만들어낼 수 있습니다.\nClo",
-          "id": "https://news.hada.io/topic?id=27030",
-          "isoDate": "2026-02-26T15:23:12.000Z"
-        },
-        {
-          "title": "Claude Code가 디자인 프로세스를 변화시키고 있다",
-          "link": "https://news.hada.io/topic?id=27029",
-          "pubDate": "2026-02-26T15:00:53.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>Claude Code</strong>를 활용해 중간 단계의 <strong>목업 없이 바로 작동하는 코드를 제작</strong>하며 디자인 효율을 높이고 있음</li>\n<li>Figma 사용량이 크게 줄었으며, <strong>작동하는 코드에서 실제 데이터로</strong> 기능을 편집하면 정적 목업보다 UX 개선점이 훨씬 빠르게 드러남</li>\n...</p>",
-          "contentSnippet": "Claude Code를 활용해 중간 단계의 목업 없이 바로 작동하는 코드를 제작하며 디자인 효율을 높이고 있음\nFigma 사용량이 크게 줄었으며, 작동하는 코드에서 실제 데이터로 기능을 편집하면 정적 목업보다 UX 개선점이 훨씬 빠르게 드러남\n...",
-          "id": "https://news.hada.io/topic?id=27029",
-          "isoDate": "2026-02-26T15:00:53.000Z"
-        },
-        {
-          "title": "우분투가 Rust를 사용한다는 것은 무엇을 의미할까?",
-          "link": "https://news.hada.io/topic?id=27028",
-          "pubDate": "2026-02-26T14:27:40.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>Ubuntu의 <strong>Rust 도입</strong>은 기술 채택 주기에서 Rust가 <strong>얼리 어답터에서 캐즘을 넘어 주류 단계로 이동</strong>하고 있음을 보여줌</li>\n<li>Canonical은 Rust를 <strong>새로운 기반 소프트웨어의 기본 언어</strong>로 채택하여 C, C++, 일부 Python 사용을 대체하고 있으며, 메모리 안...</p>",
-          "contentSnippet": "Ubuntu의 Rust 도입은 기술 채택 주기에서 Rust가 얼리 어답터에서 캐즘을 넘어 주류 단계로 이동하고 있음을 보여줌\nCanonical은 Rust를 새로운 기반 소프트웨어의 기본 언어로 채택하여 C, C++, 일부 Python 사용을 대체하고 있으며, 메모리 안...",
-          "id": "https://news.hada.io/topic?id=27028",
-          "isoDate": "2026-02-26T14:27:40.000Z"
         }
       ]
     }
