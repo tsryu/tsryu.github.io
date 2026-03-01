@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "알리바바 오픈소스 Qwen3.5-Medium 모델, 로컬 환경에서 Sonnet 4.5 수준 성능 제공",
+          "link": "https://news.hada.io/topic?id=27111",
+          "pubDate": "2026-03-01T19:33:12.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Qwen3.5 시리즈</strong>는 35B, 122B, 27B 등 네 가지 대형 언어모델로 구성되며, 세 가지는 <strong>Apache 2.0 오픈소스 라이선스</strong>로 공개됨</li>\n<li>이 모델들은 <strong>OpenAI GPT-5-mini</strong>와 <strong>Anthropic Claude Sonnet 4.5</strong>를 능가하는 벤치마크 성능을 보이며...</p>",
+          "contentSnippet": "Qwen3.5 시리즈는 35B, 122B, 27B 등 네 가지 대형 언어모델로 구성되며, 세 가지는 Apache 2.0 오픈소스 라이선스로 공개됨\n이 모델들은 OpenAI GPT-5-mini와 Anthropic Claude Sonnet 4.5를 능가하는 벤치마크 성능을 보이며...",
+          "id": "https://news.hada.io/topic?id=27111",
+          "isoDate": "2026-03-01T19:33:12.000Z"
+        },
+        {
+          "title": "1919년에서 온 편지 — 삼일절 기념 프로젝트",
+          "link": "https://news.hada.io/topic?id=27109",
+          "pubDate": "2026-03-01T16:40:39.000Z",
+          "author": "firstseethesun",
+          "content": "<h2>1919년에서 온 편지 — 삼일절 기념 프로젝트</h2>\n<p>이름, 태어난 해, 성별을 입력하면 <strong>1919년에 당신과 비슷한 나이였던 독립운동가</strong>가<br />\n2026년의 당신에게 보내는 편지를 받아볼 수 있는 서비스입니다.</p>\n<h3>어떻게 동작하나요?</h3>\n<p><a href=\"https://e-gonghun.mpva.go.kr/\">공훈전",
+          "contentSnippet": "1919년에서 온 편지 — 삼일절 기념 프로젝트\n이름, 태어난 해, 성별을 입력하면 1919년에 당신과 비슷한 나이였던 독립운동가가\n어떻게 동작하나요?\n공훈전",
+          "id": "https://news.hada.io/topic?id=27109",
+          "isoDate": "2026-03-01T16:40:39.000Z"
+        },
+        {
+          "title": "Claude Code의 컨텍스트 소비를 98% 줄이는 MCP 서버",
+          "link": "https://news.hada.io/topic?id=27108",
+          "pubDate": "2026-03-01T15:33:05.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Claude Code에서 외부 도구 호출 시 발생하는 <strong>대량의 원시 데이터가 컨텍스트 창을 빠르게 소모</strong>하는 문제를 해결</li>\n<li>\n<strong>Context Mode</strong>는 Claude Code와 도구 출력 사이에 위치해 데이터를 압축·필터링, <strong>315KB를 5.4KB로 축소(98% 절감)</strong>\n</li>\n<li>\n<str...</p>",
+          "contentSnippet": "Claude Code에서 외부 도구 호출 시 발생하는 대량의 원시 데이터가 컨텍스트 창을 빠르게 소모하는 문제를 해결\nContext Mode는 Claude Code와 도구 출력 사이에 위치해 데이터를 압축·필터링, 315KB를 5.4KB로 축소(98% 절감)",
+          "id": "https://news.hada.io/topic?id=27108",
+          "isoDate": "2026-03-01T15:33:05.000Z"
+        },
+        {
           "title": "Guido van Rossum이 전하는 Python의 구두 역사: Thomas Wouters 인터뷰",
           "link": "https://news.hada.io/topic?id=27107",
           "pubDate": "2026-03-01T12:47:03.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "과거 메이커 운동은 바이브 코딩의 구조적 선행 사례로, 두 현상 사이에는 깊은 유사성이 존재\n메이커 운동이 ‘만드는 행위’를 통한 자기 변화와 창의성을 강조했다면, 바이브 코딩은 즉각적인 생산성과 피드백 루프의 부재로...",
           "id": "https://news.hada.io/topic?id=27059",
           "isoDate": "2026-02-27T16:37:55.000Z"
-        },
-        {
-          "title": "AirSnitch: Wi-Fi 네트워크에서 클라이언트 격리를 해소하고 해제하는 방법 [pdf]",
-          "link": "https://news.hada.io/topic?id=27058",
-          "pubDate": "2026-02-27T16:34:55.000Z",
-          "author": "neo",
-          "content": "AirSnitch: Wi-Fi 네트워크에서 클라이언트 격리를 해소하고 해제하는 방법 [pdf]",
-          "contentSnippet": "AirSnitch: Wi-Fi 네트워크에서 클라이언트 격리를 해소하고 해제하는 방법 [pdf]",
-          "id": "https://news.hada.io/topic?id=27058",
-          "isoDate": "2026-02-27T16:34:55.000Z"
-        },
-        {
-          "title": "Claude Code가 실제로 선택하는 것",
-          "link": "https://news.hada.io/topic?id=27056",
-          "pubDate": "2026-02-27T11:33:25.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>실제 오픈소스 저장소 2,430개를 대상으로 <strong>Claude Code의 도구 선택 경향</strong>을 분석한 연구 결과</li>\n<li>전체 20개 범주 중 12개에서 <strong>기성 도구 대신 직접 구현(Custom/DIY)</strong> 방식을 택했으며, 이는 가장 빈번한 선택 유형</li>\n<li>반면 도구를 선택할 때는 <strong>GitHub A...</p>",
-          "contentSnippet": "실제 오픈소스 저장소 2,430개를 대상으로 Claude Code의 도구 선택 경향을 분석한 연구 결과\n전체 20개 범주 중 12개에서 기성 도구 대신 직접 구현(Custom/DIY) 방식을 택했으며, 이는 가장 빈번한 선택 유형\n반면 도구를 선택할 때는 GitHub A...",
-          "id": "https://news.hada.io/topic?id=27056",
-          "isoDate": "2026-02-27T11:33:25.000Z"
-        },
-        {
-          "title": "Show GN: 원하는 주제를 커리큘럼으로 만들어서 공부하는 AI, Runtric",
-          "link": "https://news.hada.io/topic?id=27053",
-          "pubDate": "2026-02-27T07:51:17.000Z",
-          "author": "resetmerlin",
-          "content": "<p>안녕하세요. 저희는 할루시네이션 걱정 없이 원하는 주제로 커리큘럼을 만들어 공부할 수 있는 AI 학습 서비스를 만들었습니다.</p>\n<p>기존 AI 학습 서비스가 PDF 안의 텍스트를 얼마나 많이 읽고 답하느냐에 집중했다면, 저희는 AI가 어떻게 설명하고 어떻게 지도해야 실제 학습이 이어지는지에 더 집중했습니다. 그",
-          "contentSnippet": "안녕하세요. 저희는 할루시네이션 걱정 없이 원하는 주제로 커리큘럼을 만들어 공부할 수 있는 AI 학습 서비스를 만들었습니다.\n기존 AI 학습 서비스가 PDF 안의 텍스트를 얼마나 많이 읽고 답하느냐에 집중했다면, 저희는 AI가 어떻게 설명하고 어떻게 지도해야 실제 학습이 이어지는지에 더 집중했습니다. 그",
-          "id": "https://news.hada.io/topic?id=27053",
-          "isoDate": "2026-02-27T07:51:17.000Z"
         }
       ]
     }
