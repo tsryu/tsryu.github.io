@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "암세포만 선택적으로 제거하는 새로운 철 기반 나노소재 개발",
+          "link": "https://news.hada.io/topic?id=27140",
+          "pubDate": "2026-03-02T18:37:40.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>철 기반 금속-유기 골격체(MOF)</strong> 구조를 이용해 암세포 내부에서 두 가지 산화 반응을 동시에 유도하는 <strong>신형 나노소재</strong>가 개발됨</li>\n<li>이 소재는 <strong>암세포의 산성 환경과 높은 과산화수소 농도</strong>를 활용해 <strong>하이드록실 라디칼</strong>과 <strong>싱...</p>",
+          "contentSnippet": "철 기반 금속-유기 골격체(MOF) 구조를 이용해 암세포 내부에서 두 가지 산화 반응을 동시에 유도하는 신형 나노소재가 개발됨\n이 소재는 암세포의 산성 환경과 높은 과산화수소 농도를 활용해 하이드록실 라디칼과 싱...",
+          "id": "https://news.hada.io/topic?id=27140",
+          "isoDate": "2026-03-02T18:37:40.000Z"
+        },
+        {
+          "title": "“Upgrade to Tahoe” 알림과 시스템 설정 표시 차단 방법",
+          "link": "https://news.hada.io/topic?id=27139",
+          "pubDate": "2026-03-02T18:34:40.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>macOS Sequoia 사용자가 <strong>Tahoe 업그레이드 알림과 시스템 설정의 빨간 배지 표시를 차단</strong>하는 방법을 소개</li>\n<li>\n<strong>기기 관리 프로파일(device management profile)</strong> 을 이용해 <strong>주요 macOS 업데이트를 최대 90일간 연기</strong>할 수 있음</li>\n<li>GitHub의 <stro...</p>",
+          "contentSnippet": "macOS Sequoia 사용자가 Tahoe 업그레이드 알림과 시스템 설정의 빨간 배지 표시를 차단하는 방법을 소개\n기기 관리 프로파일(device management profile) 을 이용해 주요 macOS 업데이트를 최대 90일간 연기할 수 있음\nGitHub의",
+          "id": "https://news.hada.io/topic?id=27139",
+          "isoDate": "2026-03-02T18:34:40.000Z"
+        },
+        {
+          "title": "Show GN: Mac에서 Apple Music 무손실 음원 들을 때 필수! 자동 샘플 레이트 전환 앱 'PureRate'",
+          "link": "https://news.hada.io/topic?id=27136",
+          "pubDate": "2026-03-02T16:30:43.000Z",
+          "author": "jjmusic1",
+          "content": "<p>Mac으로 Apple Music의 고해상도 무손실 음원을 들으시는 분들을 위한 가벼운 메뉴바 유틸리티, PureRate를 만들었습니다.</p>\n<p>왜 필요할까요?<br />\nmacOS의 Apple Music은 재생 중인 곡의 포맷(44.1kHz, 96kHz, 192kHz 등)에 맞춰 하드웨어 출력 샘플 레이트를 자동으로 변경해 주지 않습니다. 무손실 음원으로 ",
+          "contentSnippet": "Mac으로 Apple Music의 고해상도 무손실 음원을 들으시는 분들을 위한 가벼운 메뉴바 유틸리티, PureRate를 만들었습니다.\n왜 필요할까요?\nmacOS의 Apple Music은 재생 중인 곡의 포맷(44.1kHz, 96kHz, 192kHz 등)에 맞춰 하드웨어 출력 샘플 레이트를 자동으로 변경해 주지 않습니다. 무손실 음원으로",
+          "id": "https://news.hada.io/topic?id=27136",
+          "isoDate": "2026-03-02T16:30:43.000Z"
+        },
+        {
           "title": "Show GN: Claude Code 해커톤 수상자가 만든 데모영상 제작 도구 - Recorded",
           "link": "https://news.hada.io/topic?id=27134",
           "pubDate": "2026-03-02T14:11:07.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "PDF 테이블 추출을 위한 Rust 기반 오픈소스 엔진\n기존 파이썬 도구(Camelot, Tabula, pdfplumber)는 OpenCV, Ghostscript, Java 등 무거운 런타임 의존성이 필요하여 서버리스 환경에서 메모리 제약이 큼\nTREX는 단일 바이너리로 외부 의존성 없이 동작하며, 메모리 ~30MB로 Cloud Run/Lamb...",
           "id": "https://news.hada.io/topic?id=27081",
           "isoDate": "2026-02-28T14:52:42.000Z"
-        },
-        {
-          "title": "JavaScript를 위한 더 나은 Streams API가 필요합니다",
-          "link": "https://news.hada.io/topic?id=27080",
-          "pubDate": "2026-02-28T11:32:56.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Web Streams 표준</strong>은 브라우저와 서버 간 일관된 데이터 스트리밍을 위해 설계되었지만, 현재는 <strong>복잡성과 성능 한계</strong>로 인해 개발자 경험이 저하되고 있음</li>\n<li>기존 API는 <strong>락(lock) 관리, BYOB, 백프레셔(backpressure)</strong> 등 설계적 제약으로 인해 사용성...</p>",
-          "contentSnippet": "Web Streams 표준은 브라우저와 서버 간 일관된 데이터 스트리밍을 위해 설계되었지만, 현재는 복잡성과 성능 한계로 인해 개발자 경험이 저하되고 있음\n기존 API는 락(lock) 관리, BYOB, 백프레셔(backpressure) 등 설계적 제약으로 인해 사용성...",
-          "id": "https://news.hada.io/topic?id=27080",
-          "isoDate": "2026-02-28T11:32:56.000Z"
-        },
-        {
-          "title": "OpenAI, 미 국방부와 비공개 네트워크 내 모델 배포에 합의",
-          "link": "https://news.hada.io/topic?id=27079",
-          "pubDate": "2026-02-28T05:36:13.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>OpenAI CEO Sam Altman이 미 국방부(DoW)와 <strong>기밀 네트워크에 모델을 배포하는 합의</strong>에 도달했다고 발표</li>\n<li>합의에는 <strong>대규모 국내 감시 금지</strong>와 자율 무기 시스템 포함 <strong>무력 사용에 대한 인간 책임</strong> 원칙이 포함되어 있으며, 국방부도 이 원칙에 동의</l...</p>",
-          "contentSnippet": "OpenAI CEO Sam Altman이 미 국방부(DoW)와 기밀 네트워크에 모델을 배포하는 합의에 도달했다고 발표\n합의에는 대규모 국내 감시 금지와 자율 무기 시스템 포함 무력 사용에 대한 인간 책임 원칙이 포함되어 있으며, 국방부도 이 원칙에 동의",
-          "id": "https://news.hada.io/topic?id=27079",
-          "isoDate": "2026-02-28T05:36:13.000Z"
-        },
-        {
-          "title": "OpenAI, 사상 최대 규모 중 하나인 1,100억 달러 민간 자금 조달 완료",
-          "link": "https://news.hada.io/topic?id=27078",
-          "pubDate": "2026-02-28T03:37:38.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>총 <strong>1,100억 달러 규모의 민간 투자 유치</strong>가 확정되며, <strong>사전 평가액 7,300억 달러</strong> 기준으로 진행된 대형 라운드</li>\n<li>\n<strong>Amazon 500억 달러</strong>, <strong>Nvidia와 SoftBank 각각 300억 달러</strong>를 투자했으며, 일부 금액은 <strong>현금이 아닌 서비스 형...</p>",
-          "contentSnippet": "총 1,100억 달러 규모의 민간 투자 유치가 확정되며, 사전 평가액 7,300억 달러 기준으로 진행된 대형 라운드\nAmazon 500억 달러, Nvidia와 SoftBank 각각 300억 달러를 투자했으며, 일부 금액은 현금이 아닌 서비스 형...",
-          "id": "https://news.hada.io/topic?id=27078",
-          "isoDate": "2026-02-28T03:37:38.000Z"
         }
       ]
     }
