@@ -7,6 +7,46 @@
       "priority": 1,
       "data": [
         {
+          "title": "AI가 코딩을 쉽게 만들었다. 그러나 엔지니어링은 더 어려워졌다",
+          "link": "https://news.hada.io/topic?id=27128",
+          "pubDate": "2026-03-02T07:33:18.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>AI 도구의 확산</strong>으로 코드 작성은 쉬워졌지만, <strong>소프트웨어 엔지니어의 업무 강도와 복잡성</strong>은 오히려 증가함</li>\n<li>AI가 생산성을 높이자 <strong>조직의 기대치와 업무량 기준선이 상승</strong>, 엔지니어들은 더 많은 일을 더 빠르게 수행해야 하는 압박을 받음</li>\n...</p>",
+          "contentSnippet": "AI 도구의 확산으로 코드 작성은 쉬워졌지만, 소프트웨어 엔지니어의 업무 강도와 복잡성은 오히려 증가함\nAI가 생산성을 높이자 조직의 기대치와 업무량 기준선이 상승, 엔지니어들은 더 많은 일을 더 빠르게 수행해야 하는 압박을 받음\n...",
+          "id": "https://news.hada.io/topic?id=27128",
+          "isoDate": "2026-03-02T07:33:18.000Z"
+        },
+        {
+          "title": "Forward Deployed Engineer(FDE) 채용을 위한 완벽 가이드",
+          "link": "https://news.hada.io/topic?id=27125",
+          "pubDate": "2026-03-02T05:37:49.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>현장 배치 엔지니어(FDE)</strong> 는 고객 현장에 직접 배치되어 기술적으로 복잡한 제품의 ‘마지막 마일’을 구현하는 엔지니어</li>\n<li>단순한 컨설턴트가 아니라 <strong>실제 프로덕션 코드를 작성하고 디버깅하며 새로운 제품 기회를 발굴하는 개발자</strong>\n</li>\n<li>이 모델은 모든 기업...</p>",
+          "contentSnippet": "현장 배치 엔지니어(FDE) 는 고객 현장에 직접 배치되어 기술적으로 복잡한 제품의 ‘마지막 마일’을 구현하는 엔지니어\n단순한 컨설턴트가 아니라 실제 프로덕션 코드를 작성하고 디버깅하며 새로운 제품 기회를 발굴하는 개발자\n\n이 모델은 모든 기업...",
+          "id": "https://news.hada.io/topic?id=27125",
+          "isoDate": "2026-03-02T05:37:49.000Z"
+        },
+        {
+          "title": "Show GN: LuxShot - 1MB 이하 초경량 완전 무료 오픈소스 macOS OCR 툴",
+          "link": "https://news.hada.io/topic?id=27124",
+          "pubDate": "2026-03-02T05:17:09.000Z",
+          "author": "lukeio",
+          "content": "<p>안녕하세요, 1인 개발자입니다.</p>\n<p>무겁고 복잡한 일렉트론 기반의 앱들에 지쳐서, 빠르고 가볍게 동작하는 macOS 네이티브 메뉴바 OCR 툴인 'LuxShot'을 직접 개발하여 완전 무료 오픈소스로 공개합니다.</p>\n<p>🛠️ 주요 특징:</p>\n<ul>\n<li>100% 네이티브 &amp; 프라이버시: SwiftUI와 Apple Vision 프레임워",
+          "contentSnippet": "안녕하세요, 1인 개발자입니다.\n무겁고 복잡한 일렉트론 기반의 앱들에 지쳐서, 빠르고 가볍게 동작하는 macOS 네이티브 메뉴바 OCR 툴인 'LuxShot'을 직접 개발하여 완전 무료 오픈소스로 공개합니다.\n🛠️ 주요 특징:\n100% 네이티브 & 프라이버시: SwiftUI와 Apple Vision 프레임워",
+          "id": "https://news.hada.io/topic?id=27124",
+          "isoDate": "2026-03-02T05:17:09.000Z"
+        },
+        {
+          "title": "의사결정나무 – 중첩된 결정 규칙의 놀라운 힘",
+          "link": "https://news.hada.io/topic?id=27123",
+          "pubDate": "2026-03-02T04:33:11.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>데이터 분류를 위해 <strong>특징 공간을 반복적으로 분할</strong>하는 구조로, 각 단계에서 가장 정보 이득이 큰 분할을 선택함</li>\n<li>\n<strong>엔트로피(Entropy)</strong> 를 이용해 데이터의 <strong>순도(purity)</strong> 를 측정하고, 이를 기반으로 <strong>정보 이득(Information Gain)</strong> ...</p>",
+          "contentSnippet": "데이터 분류를 위해 특징 공간을 반복적으로 분할하는 구조로, 각 단계에서 가장 정보 이득이 큰 분할을 선택함\n엔트로피(Entropy) 를 이용해 데이터의 순도(purity) 를 측정하고, 이를 기반으로 정보 이득(Information Gain) ...",
+          "id": "https://news.hada.io/topic?id=27123",
+          "isoDate": "2026-03-02T04:33:11.000Z"
+        },
+        {
           "title": "프로덕트 디자인이 변하고 있다",
           "link": "https://news.hada.io/topic?id=27120",
           "pubDate": "2026-03-02T03:47:29.000Z",
@@ -465,46 +505,6 @@
           "contentSnippet": "Playwright은 어떻게든 크롤링을 하거나\n2020년에 출시되었지만,\n여전히 대부분의 개발자들이 사용하는 툴이죠.\n하지만 한 세션만 켜도 RAM 소모가 2GB가 넘고, 무",
           "id": "https://news.hada.io/topic?id=27072",
           "isoDate": "2026-02-28T01:03:31.000Z"
-        },
-        {
-          "title": "Anthropic, 오픈소스 유지관리자에게 무료 Claude Max 20x 제공",
-          "link": "https://news.hada.io/topic?id=27071",
-          "pubDate": "2026-02-28T00:50:56.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>오픈소스 생태계 기여자에게 <strong>6개월간 무료 Claude Max 20x 구독</strong>을 제공 시작</li>\n<li>\n<strong>GitHub 스타 5,000개 이상</strong> 또는 <strong>월간 NPM 다운로드 100만 회 이상</strong>의 공개 저장소 핵심 유지관리자나 팀원이 주요 대상</li>\n<li>최근 <strong>3개월 내 커밋, 릴리스,...</p>",
-          "contentSnippet": "오픈소스 생태계 기여자에게 6개월간 무료 Claude Max 20x 구독을 제공 시작\nGitHub 스타 5,000개 이상 또는 월간 NPM 다운로드 100만 회 이상의 공개 저장소 핵심 유지관리자나 팀원이 주요 대상\n최근 3개월 내 커밋, 릴리스,...",
-          "id": "https://news.hada.io/topic?id=27071",
-          "isoDate": "2026-02-28T00:50:56.000Z"
-        },
-        {
-          "title": "댄 시먼스, 『하이페리온』의 저자 별세",
-          "link": "https://news.hada.io/topic?id=27070",
-          "pubDate": "2026-02-28T00:47:55.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>미국 작가이자 전 교사였던 <strong>댄 시먼스</strong>가 2026년 2월 21일 콜로라도 롱몬트에서 향년 77세로 별세</li>\n<li>일리노이주 피오리아 출신으로, <strong>Wabash College</strong>에서 영어를 전공하고 <strong>Washington University</strong>에서 교육학 석사 학위를 취득</li>\n<li>18년간 초등학...</p>",
-          "contentSnippet": "미국 작가이자 전 교사였던 댄 시먼스가 2026년 2월 21일 콜로라도 롱몬트에서 향년 77세로 별세\n일리노이주 피오리아 출신으로, Wabash College에서 영어를 전공하고 Washington University에서 교육학 석사 학위를 취득\n18년간 초등학...",
-          "id": "https://news.hada.io/topic?id=27070",
-          "isoDate": "2026-02-28T00:47:55.000Z"
-        },
-        {
-          "title": "시위대의 디지털 기기 광범위 수색은 수정헌법 제4조로 정당화될 수 없다고 미 제10순회항소법원이 판결",
-          "link": "https://news.hada.io/topic?id=27069",
-          "pubDate": "2026-02-28T00:44:55.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>미 제10순회항소법원이 <strong>시위 참가자의 기기와 디지털 데이터에 대한 광범위한 수색 영장</strong>을 정당화한 하급심 판결을 뒤집음</li>\n<li>2021년 콜로라도스프링스 주택 시위 이후 경찰이 <strong>참가자 Jacqueline Armendariz Unzueta의 기기와 비영리단체 Chinook Center의 페이스북 계정</stro...</p>",
-          "contentSnippet": "미 제10순회항소법원이 시위 참가자의 기기와 디지털 데이터에 대한 광범위한 수색 영장을 정당화한 하급심 판결을 뒤집음\n2021년 콜로라도스프링스 주택 시위 이후 경찰이 참가자 Jacqueline Armendariz Unzueta의 기기와 비영리단체 Chinook Center의 페이스북 계정",
-          "id": "https://news.hada.io/topic?id=27069",
-          "isoDate": "2026-02-28T00:44:55.000Z"
-        },
-        {
-          "title": "다크 브렉퍼스트를 찾아서",
-          "link": "https://news.hada.io/topic?id=27068",
-          "pubDate": "2026-02-28T00:41:55.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>아침 식사를 <strong>우유·달걀·밀가루의 비율로 구성된 벡터 공간</strong>으로 상정하고, 그 조합 속에 아직 발견되지 않은 ‘다크(암흑) 브렉퍼스트’가 존재할 수 있다는 탐구를 전개</li>\n<li>팬케이크·크레프·오믈렛 등 기존 요리를 좌표로 삼아 <strong>‘브렉퍼스트 매니폴드’</strong> 를 지도화하며...</p>",
-          "contentSnippet": "아침 식사를 우유·달걀·밀가루의 비율로 구성된 벡터 공간으로 상정하고, 그 조합 속에 아직 발견되지 않은 ‘다크(암흑) 브렉퍼스트’가 존재할 수 있다는 탐구를 전개\n팬케이크·크레프·오믈렛 등 기존 요리를 좌표로 삼아 ‘브렉퍼스트 매니폴드’ 를 지도화하며...",
-          "id": "https://news.hada.io/topic?id=27068",
-          "isoDate": "2026-02-28T00:41:55.000Z"
         }
       ]
     }
