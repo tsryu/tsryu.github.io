@@ -7,6 +7,46 @@
       "priority": 1,
       "data": [
         {
+          "title": "Telegram, 챗봇들이 스트리밍 응답 가능하게 업데이트 ",
+          "link": "https://news.hada.io/topic?id=27163",
+          "pubDate": "2026-03-03T08:29:02.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>이제 모든 텔레그램 챗봇들은 사용자에게 실시간 스트리밍 업데이트로 답변 가능</li>\n<li>메시지 단위가 아닌 글자 단위로 스트리밍하게 되어 AI 어시스턴트들에게 유용</li>\n<li>봇들이 Bot API 9.3+에서 sendMessageDraft 를 호출했다면 자동으로 적용 됨</li>\n<li>텔레그램은 최신 버전으로 업데이트 필요...</p>",
+          "contentSnippet": "이제 모든 텔레그램 챗봇들은 사용자에게 실시간 스트리밍 업데이트로 답변 가능\n메시지 단위가 아닌 글자 단위로 스트리밍하게 되어 AI 어시스턴트들에게 유용\n봇들이 Bot API 9.3+에서 sendMessageDraft 를 호출했다면 자동으로 적용 됨\n텔레그램은 최신 버전으로 업데이트 필요...",
+          "id": "https://news.hada.io/topic?id=27163",
+          "isoDate": "2026-03-03T08:29:02.000Z"
+        },
+        {
+          "title": "AI가 주니어 개발자를 쓸모없게 만들고 있다",
+          "link": "https://news.hada.io/topic?id=27162",
+          "pubDate": "2026-03-03T08:16:49.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>AI 도구가 주니어 개발자에게 <strong>얕은 역량</strong>만 만들어주고 있으며, 코드를 빠르게 출력하지만 왜 그런 접근을 택했는지 설명하지 못하는 상황이 빈번해짐</li>\n<li>시니어 개발자의 진정한 가치는 <strong>코드 작성 속도</strong>가 아니라, 수년간 실패를 통해 축적한 <strong>실패 패턴 인식...</p>",
+          "contentSnippet": "AI 도구가 주니어 개발자에게 얕은 역량만 만들어주고 있으며, 코드를 빠르게 출력하지만 왜 그런 접근을 택했는지 설명하지 못하는 상황이 빈번해짐\n시니어 개발자의 진정한 가치는 코드 작성 속도가 아니라, 수년간 실패를 통해 축적한 실패 패턴 인식...",
+          "id": "https://news.hada.io/topic?id=27162",
+          "isoDate": "2026-03-03T08:16:49.000Z"
+        },
+        {
+          "title": "Apple, M4를 탑재한 신규 iPad Air 공개",
+          "link": "https://news.hada.io/topic?id=27161",
+          "pubDate": "2026-03-03T07:16:16.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>M4 칩</strong>을 탑재한 신형 iPad Air는 전 세대 대비 최대 2.3배 향상된 성능과 <strong>AI 처리 능력을 강화</strong>\n</li>\n<li>\n<strong>8코어 CPU와 9코어 GPU</strong>, 16코어 Neural Engine을 갖추어 영상 편집, 3D 렌더링, 게임 등에서 <strong>고성능 그래픽 처리</strong> 지원</li>\n<li...</p>",
+          "contentSnippet": "M4 칩을 탑재한 신형 iPad Air는 전 세대 대비 최대 2.3배 향상된 성능과 AI 처리 능력을 강화\n\n\n8코어 CPU와 9코어 GPU, 16코어 Neural Engine을 갖추어 영상 편집, 3D 렌더링, 게임 등에서 고성능 그래픽 처리 지원",
+          "id": "https://news.hada.io/topic?id=27161",
+          "isoDate": "2026-03-03T07:16:16.000Z"
+        },
+        {
+          "title": "알림의 개수를 95.7% 절감하여 알림 피로를 개선한 이야기",
+          "link": "https://news.hada.io/topic?id=27160",
+          "pubDate": "2026-03-03T04:10:23.000Z",
+          "author": "computerphilosopher",
+          "content": "<p>문제 배경: 크리티컬과 경고(Warning) 알림 채널을 분리하고 크리티컬 알림 시 전화 수신을 도입했으나, 월 1만 건이 넘는 경고 알림 폭증으로 인해 알림 무시 및 온콜(On-call) 피로도 증가 현상 발생.</p>\n<p>핵심 인사이트: 과도한 알림은 메신저 헬스 체커로 전락하여 시스템 가시성을 저해함. 알림 절감을 위한 ",
+          "contentSnippet": "문제 배경: 크리티컬과 경고(Warning) 알림 채널을 분리하고 크리티컬 알림 시 전화 수신을 도입했으나, 월 1만 건이 넘는 경고 알림 폭증으로 인해 알림 무시 및 온콜(On-call) 피로도 증가 현상 발생.\n핵심 인사이트: 과도한 알림은 메신저 헬스 체커로 전락하여 시스템 가시성을 저해함. 알림 절감을 위한",
+          "id": "https://news.hada.io/topic?id=27160",
+          "isoDate": "2026-03-03T04:10:23.000Z"
+        },
+        {
           "title": "Redis patterns for coding",
           "link": "https://news.hada.io/topic?id=27159",
           "pubDate": "2026-03-03T03:29:03.000Z",
@@ -35,6 +75,16 @@
           "contentSnippet": "AI 안경은 여행 안내, 실시간 번역 등 기능을 제공하지만, 개인정보가 대규모로 수집·분석됨\n케냐 하청업체가 사생활 영상과 음성 데이터를 검수·주석 처리하며, 나체·성행위·금융정보 등이 포함된 사례를 증언\n스웨덴...",
           "id": "https://news.hada.io/topic?id=27157",
           "isoDate": "2026-03-03T01:34:26.000Z"
+        },
+        {
+          "title": "Show GN: 이제 공부도 클로드 코드로 해보세요!",
+          "link": "https://news.hada.io/topic?id=27156",
+          "pubDate": "2026-03-03T01:11:56.000Z",
+          "author": "remocode",
+          "content": "<p>Claude Code Skills로 2주 만에 AWS 자격증을 취득했습니다.</p>\n<p>조금 더 똑똑하게 벼락치기 하기 위해, 시스템을 만들어보았습니다.</p>\n<hr />\n<h2>tutor-skills: AI가 만드는 나만의 메타인지 학습 시스템</h2>\n<p>자격증, 학교 공부, 코드에 대한 이해 등 가장 답답했던 부분은<br />\n'내가 무엇을 모르는지 모",
+          "contentSnippet": "Claude Code Skills로 2주 만에 AWS 자격증을 취득했습니다.\n조금 더 똑똑하게 벼락치기 하기 위해, 시스템을 만들어보았습니다.\ntutor-skills: AI가 만드는 나만의 메타인지 학습 시스템\n자격증, 학교 공부, 코드에 대한 이해 등 가장 답답했던 부분은\n'내가 무엇을 모르는지 모",
+          "id": "https://news.hada.io/topic?id=27156",
+          "isoDate": "2026-03-03T01:11:56.000Z"
         },
         {
           "title": "Jolla Phone – 유럽산 풀스택 대안 스마트폰",
@@ -455,56 +505,6 @@
           "contentSnippet": "바이브 코딩의 창시자의 주말\nKarpathy가 주말 프로젝트를 에이전트에게 맡겼다. IP, 사용자명, 비밀번호, 목표만 주고 30분 뒤 전부 완성\n99%의 시간 동안 코드를 직접 작성하지 않고 에이전트에게 명령하고 감독하는 방식 — \"에이전틱 엔지니어링\"\n하지",
           "id": "https://news.hada.io/topic?id=27104",
           "isoDate": "2026-03-01T05:15:21.000Z"
-        },
-        {
-          "title": "Moonshine - 엣지 디바이스용 고속·고정확도 음성 인식(ASR) 오픈소스",
-          "link": "https://news.hada.io/topic?id=27103",
-          "pubDate": "2026-03-01T02:11:23.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>모든 처리를 <strong>온디바이스에서 수행하는 실시간 음성 인식 프레임워크</strong>\n</li>\n<li>\n<strong>스트리밍 기반 모델 구조</strong>를 통해 사용자가 말하는 동안에도 실시간으로 텍스트를 생성하며, <strong>Whisper Large v3보다 낮은 오류율(WER 6.65%)</strong> 을 달성</li>\n<li>\n<strong>Python...</p>",
-          "contentSnippet": "모든 처리를 온디바이스에서 수행하는 실시간 음성 인식 프레임워크\n\n\n스트리밍 기반 모델 구조를 통해 사용자가 말하는 동안에도 실시간으로 텍스트를 생성하며, Whisper Large v3보다 낮은 오류율(WER 6.65%) 을 달성\nPython...",
-          "id": "https://news.hada.io/topic?id=27103",
-          "isoDate": "2026-03-01T02:11:23.000Z"
-        },
-        {
-          "title": "Show GN: microGPT를 웹사이트로 시각화 해보았습니다.",
-          "link": "https://news.hada.io/topic?id=27102",
-          "pubDate": "2026-03-01T02:05:21.000Z",
-          "author": "woduq1414",
-          "content": "<p>얼마 전, OpenAI를 공동 설립한 멤버 중 한 명인 Andrej Karpathy가 GPT의 구조를 약 200줄로 요약한 microgpt 프로젝트를 공개했습니다. 이를 기반으로, GPT의 전체 파이프라인을 인터랙티브 웹사이트로 시각화해봤습니다.</p>\n<p>토크나이징부터 임베딩, 어텐션, 추론까지 내부 흐름이 단계별로 보이도록 만들었고,",
-          "contentSnippet": "얼마 전, OpenAI를 공동 설립한 멤버 중 한 명인 Andrej Karpathy가 GPT의 구조를 약 200줄로 요약한 microgpt 프로젝트를 공개했습니다. 이를 기반으로, GPT의 전체 파이프라인을 인터랙티브 웹사이트로 시각화해봤습니다.\n토크나이징부터 임베딩, 어텐션, 추론까지 내부 흐름이 단계별로 보이도록 만들었고,",
-          "id": "https://news.hada.io/topic?id=27102",
-          "isoDate": "2026-03-01T02:05:21.000Z"
-        },
-        {
-          "title": "Magpie — LLM이 코드를 처음 시도에 완벽하게 작성할 수 있도록 설계된 프로그래밍 언어",
-          "link": "https://news.hada.io/topic?id=27101",
-          "pubDate": "2026-03-01T01:54:59.000Z",
-          "author": "princox",
-          "content": "<h2>프로젝트 소개</h2>\n<p>Magpie는 &quot;AI 에이전트를 위해 만들어진 최초의 프로그래밍 언어&quot;를 표방하는 오픈소스 프로젝트입니다. 기존 언어들이 인간의 타이핑 편의에 최적화되어 있다면, Magpie는 LLM의 코드 생성에 최적화되어 있습니다. 핵심 철학은 &quot;모호함 제거&quot;입니다. Rust나 TypeScript에...</p>",
-          "contentSnippet": "프로젝트 소개\nMagpie는 \"AI 에이전트를 위해 만들어진 최초의 프로그래밍 언어\"를 표방하는 오픈소스 프로젝트입니다. 기존 언어들이 인간의 타이핑 편의에 최적화되어 있다면, Magpie는 LLM의 코드 생성에 최적화되어 있습니다. 핵심 철학은 \"모호함 제거\"입니다. Rust나 TypeScript에...",
-          "id": "https://news.hada.io/topic?id=27101",
-          "isoDate": "2026-03-01T01:54:59.000Z"
-        },
-        {
-          "title": "Obsidian Sync가 이제 헤드리스 클라이언트를 지원",
-          "link": "https://news.hada.io/topic?id=27100",
-          "pubDate": "2026-03-01T01:45:43.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>Obsidian Sync</strong>가 데스크톱 앱 없이도 <strong>명령줄 환경에서 동기화</strong>할 수 있는 <strong>헤드리스 클라이언트</strong>를 제공</li>\n<li>CI 파이프라인, 서버, 자동화 스크립트 등 <strong>비대화형 환경</strong>에서 <strong>vault 동기화</strong>를 수행 가능</li>\n<li>\n<code...</p>",
-          "contentSnippet": "Obsidian Sync가 데스크톱 앱 없이도 명령줄 환경에서 동기화할 수 있는 헤드리스 클라이언트를 제공\nCI 파이프라인, 서버, 자동화 스크립트 등 비대화형 환경에서 vault 동기화를 수행 가능",
-          "id": "https://news.hada.io/topic?id=27100",
-          "isoDate": "2026-03-01T01:45:43.000Z"
-        },
-        {
-          "title": "AI 코딩이 초래하는 비용",
-          "link": "https://news.hada.io/topic?id=27099",
-          "pubDate": "2026-03-01T01:44:43.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>개발자들이 <strong>AI 코딩 도구를 광범위하게 사용</strong>하면서 생산성이 높아졌지만, 눈에 보이지 않는 <strong>인지적·조직적 비용</strong>이 발생하고 있음</li>\n<li>초기의 <strong>Copilot·Cursor</strong> 같은 보조형 도구에서, 최근에는 <strong>자율형 에이전트</strong>로 진화하며 인간이 AI를...</p>",
-          "contentSnippet": "개발자들이 AI 코딩 도구를 광범위하게 사용하면서 생산성이 높아졌지만, 눈에 보이지 않는 인지적·조직적 비용이 발생하고 있음\n초기의 Copilot·Cursor 같은 보조형 도구에서, 최근에는 자율형 에이전트로 진화하며 인간이 AI를...",
-          "id": "https://news.hada.io/topic?id=27099",
-          "isoDate": "2026-03-01T01:44:43.000Z"
         }
       ]
     }
