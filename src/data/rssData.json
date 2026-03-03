@@ -7,6 +7,56 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: Vocova - AI로 100개 이상의 언어로 오디오/비디오를 텍스트로 변환",
+          "link": "https://news.hada.io/topic?id=27170",
+          "pubDate": "2026-03-03T14:20:00.000Z",
+          "author": "jmcraft",
+          "content": "<p>안녕하세요, Vocova를 만든 개발자입니다.</p>\n<p>Vocova는 간단한 문제를 해결하기 위해 만들었습니다 — 사람들은 매일 다양한 언어와 플랫폼에서 콘텐츠를 소비하지만, 그것을 정확하고 읽기 좋은 텍스트로 만드는 과정은 여전히 번거롭습니다. 다운로드 도구 따로, 전사 도구 따로, 번역 도구 따로. 한 번에 되어",
+          "contentSnippet": "안녕하세요, Vocova를 만든 개발자입니다.\nVocova는 간단한 문제를 해결하기 위해 만들었습니다 — 사람들은 매일 다양한 언어와 플랫폼에서 콘텐츠를 소비하지만, 그것을 정확하고 읽기 좋은 텍스트로 만드는 과정은 여전히 번거롭습니다. 다운로드 도구 따로, 전사 도구 따로, 번역 도구 따로. 한 번에 되어",
+          "id": "https://news.hada.io/topic?id=27170",
+          "isoDate": "2026-03-03T14:20:00.000Z"
+        },
+        {
+          "title": "Anthropic Cowork 기능이 macOS에서 경고 없이 10GB VM 번들을 생성",
+          "link": "https://news.hada.io/topic?id=27169",
+          "pubDate": "2026-03-03T13:33:28.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>macOS용 Claude Desktop의 <strong>Cowork 기능</strong>이 활성화되면, 시스템에 약 <strong>10GB 크기의 가상머신(VM) 번들</strong>이 자동 생성되어 성능이 급격히 저하됨</li>\n<li>이 파일은 <code>~/Library/Application Support/Claude/vm_bundles/claudevm.bundle/rootfs.img</code> 경로에 저장되며, ...</p>",
+          "contentSnippet": "macOS용 Claude Desktop의 Cowork 기능이 활성화되면, 시스템에 약 10GB 크기의 가상머신(VM) 번들이 자동 생성되어 성능이 급격히 저하됨\n이 파일은 ~/Library/Application Support/Claude/vm_bundles/claudevm.bundle/rootfs.img 경로에 저장되며, ...",
+          "id": "https://news.hada.io/topic?id=27169",
+          "isoDate": "2026-03-03T13:33:28.000Z"
+        },
+        {
+          "title": "Show GN: 모두의AI – 기초수학부터 역전파까지, 연산 흐름으로 이해하는 AI 학습 플랫폼",
+          "link": "https://news.hada.io/topic?id=27168",
+          "pubDate": "2026-03-03T13:21:52.000Z",
+          "author": "rivolt2022",
+          "content": "<p>안녕하세요. 개발자로 일하면서 AI에 관심이 생겨 작년부터 야간 인공지능 대학원에 다니며 공부하고 있는 직장인입니다.</p>\n<p>인공지능 경시대회에 참가해 수상도 해보고 다양한 모델을 직접 만들고 튜닝해보면서 느낀 점이 있습니다.<br />\n테크닉도 중요하지만 결국 성능의 차이를 만드는 것은 기초에 대한 이해",
+          "contentSnippet": "안녕하세요. 개발자로 일하면서 AI에 관심이 생겨 작년부터 야간 인공지능 대학원에 다니며 공부하고 있는 직장인입니다.\n인공지능 경시대회에 참가해 수상도 해보고 다양한 모델을 직접 만들고 튜닝해보면서 느낀 점이 있습니다.\n테크닉도 중요하지만 결국 성능의 차이를 만드는 것은 기초에 대한 이해",
+          "id": "https://news.hada.io/topic?id=27168",
+          "isoDate": "2026-03-03T13:21:52.000Z"
+        },
+        {
+          "title": "Show GN: 스톡월드컵 - 나만의 AI 펀드매니저",
+          "link": "https://news.hada.io/topic?id=27167",
+          "pubDate": "2026-03-03T12:56:56.000Z",
+          "author": "jjjeon0223",
+          "content": "<p>서비스 소개<br />\n사용자가 관심 종목을 등록하면, AI 매니저가 실시간으로 해당 종목들을 분석하고 포지션을 결정합니다. 분석에 사용하는 데이터는 주가/기술적 지표, 기관·외국인 수급, 실시간 뉴스 및 공시, 재무 데이터(실적·밸류에이션)입니다. 판단 결과에 따라 매수·매도·홀드를 자동 실행합니다. 모의투자,...</p>",
+          "contentSnippet": "서비스 소개\n사용자가 관심 종목을 등록하면, AI 매니저가 실시간으로 해당 종목들을 분석하고 포지션을 결정합니다. 분석에 사용하는 데이터는 주가/기술적 지표, 기관·외국인 수급, 실시간 뉴스 및 공시, 재무 데이터(실적·밸류에이션)입니다. 판단 결과에 따라 매수·매도·홀드를 자동 실행합니다. 모의투자,...",
+          "id": "https://news.hada.io/topic?id=27167",
+          "isoDate": "2026-03-03T12:56:56.000Z"
+        },
+        {
+          "title": "500ms 이하 지연시간의 음성 에이전트를 직접 구축한 과정",
+          "link": "https://news.hada.io/topic?id=27164",
+          "pubDate": "2026-03-03T10:33:15.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>음성 기반 AI 시스템의 <strong>지연시간을 400ms 수준으로 줄인 자체 구축형 음성 에이전트</strong> 개발 사례를 다룸</li>\n<li>\n<strong>STT, LLM, TTS를 실시간 파이프라인으로 연결</strong>해 기존 상용 플랫폼(Vapi 등)보다 2배 빠른 응답 속도 달성</li>\n<li>\n<strong>Deepgram Flux</strong>로 발화 감...</p>",
+          "contentSnippet": "음성 기반 AI 시스템의 지연시간을 400ms 수준으로 줄인 자체 구축형 음성 에이전트 개발 사례를 다룸\nSTT, LLM, TTS를 실시간 파이프라인으로 연결해 기존 상용 플랫폼(Vapi 등)보다 2배 빠른 응답 속도 달성\nDeepgram Flux로 발화 감...",
+          "id": "https://news.hada.io/topic?id=27164",
+          "isoDate": "2026-03-03T10:33:15.000Z"
+        },
+        {
           "title": "Telegram, 챗봇들이 스트리밍 응답 가능하게 업데이트 ",
           "link": "https://news.hada.io/topic?id=27163",
           "pubDate": "2026-03-03T08:29:02.000Z",
@@ -455,56 +505,6 @@
           "contentSnippet": "1919년에서 온 편지 — 삼일절 기념 프로젝트\n이름, 태어난 해, 성별을 입력하면 1919년에 당신과 비슷한 나이였던 독립운동가가\n어떻게 동작하나요?\n공훈전",
           "id": "https://news.hada.io/topic?id=27109",
           "isoDate": "2026-03-01T16:40:39.000Z"
-        },
-        {
-          "title": "Context Mode - Claude Code의 컨텍스트 소비를 98% 줄이는 MCP 서버",
-          "link": "https://news.hada.io/topic?id=27108",
-          "pubDate": "2026-03-01T15:33:05.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>외부 도구 호출 시 발생하는 <strong>대량의 원시 데이터가 컨텍스트 윈도우를 빠르게 소모</strong>하는 문제를 해결</li>\n<li>클로드 코드와 도구 출력 사이에 위치해 데이터를 압축·필터링, <strong>315KB를 5.4KB로 축소(98% 절감)</strong>\n</li>\n<li>\n<strong>샌드박스 구조</strong>를 통해 각 실행을 격...</p>",
-          "contentSnippet": "외부 도구 호출 시 발생하는 대량의 원시 데이터가 컨텍스트 윈도우를 빠르게 소모하는 문제를 해결\n클로드 코드와 도구 출력 사이에 위치해 데이터를 압축·필터링, 315KB를 5.4KB로 축소(98% 절감)\n\n\n샌드박스 구조를 통해 각 실행을 격...",
-          "id": "https://news.hada.io/topic?id=27108",
-          "isoDate": "2026-03-01T15:33:05.000Z"
-        },
-        {
-          "title": "Guido van Rossum이 전하는 Python의 구두 역사: Thomas Wouters 인터뷰",
-          "link": "https://news.hada.io/topic?id=27107",
-          "pubDate": "2026-03-01T12:47:03.000Z",
-          "author": "darjeeling",
-          "content": "<p>한글 번역본은 <a href=\"https://rosettalens.com/s/ko/interview-with-thomas-wouters\">여기</a> 를 참조하세요.</p>\n<p>이제 귀도도 나이가 있으니 회고록 같은 느낌이네요.<br />\n계속 씨리즈가 나올 것 같습니다.</p>\n<h2>파이썬 커뮤니티 초기 역사: Thomas Wouters 인터뷰 요약</h2>\n<p>이 문서는 Guido van Ro",
-          "contentSnippet": "한글 번역본은 여기 를 참조하세요.\n이제 귀도도 나이가 있으니 회고록 같은 느낌이네요.\n파이썬 커뮤니티 초기 역사: Thomas Wouters 인터뷰 요약\n이 문서는 Guido van Ro",
-          "id": "https://news.hada.io/topic?id=27107",
-          "isoDate": "2026-03-01T12:47:03.000Z"
-        },
-        {
-          "title": "인지 부채: 속도가 이해를 앞지를 때",
-          "link": "https://news.hada.io/topic?id=27106",
-          "pubDate": "2026-03-01T11:33:23.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>AI 보조 개발</strong>이 코드 생산 속도를 인간의 이해 속도보다 빠르게 만들며, <strong>‘인지 부채(cognitive debt)’</strong> 가 발생함</li>\n<li>코드가 정상 작동하고 테스트를 통과하더라도, <strong>개발자 스스로 코드의 구조와 이유를 이해하지 못하는 상태</strong>가 누적됨</li>\n<li>\n...</p>",
-          "contentSnippet": "AI 보조 개발이 코드 생산 속도를 인간의 이해 속도보다 빠르게 만들며, ‘인지 부채(cognitive debt)’ 가 발생함\n코드가 정상 작동하고 테스트를 통과하더라도, 개발자 스스로 코드의 구조와 이유를 이해하지 못하는 상태가 누적됨\n\n...",
-          "id": "https://news.hada.io/topic?id=27106",
-          "isoDate": "2026-03-01T11:33:23.000Z"
-        },
-        {
-          "title": "OpenAI, “Anthropic을 공급망 위험으로 지정해서는 안 된다”",
-          "link": "https://news.hada.io/topic?id=27105",
-          "pubDate": "2026-03-01T07:32:58.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>OpenAI가 <strong>Department of War와 기밀 환경 내 고급 AI 시스템 배포 계약</strong>을 체결했으며, 이를 모든 AI 기업에 동일하게 적용하길 요청함</li>\n<li>해당 계약은 기존 기밀 AI 배포보다 <strong>더 많은 안전 가드레일</strong>을 포함한다고 밝힘</li>\n<li>\n<strong>대규모 국내 감시, 자율 무기...</p>",
-          "contentSnippet": "OpenAI가 Department of War와 기밀 환경 내 고급 AI 시스템 배포 계약을 체결했으며, 이를 모든 AI 기업에 동일하게 적용하길 요청함\n해당 계약은 기존 기밀 AI 배포보다 더 많은 안전 가드레일을 포함한다고 밝힘\n대규모 국내 감시, 자율 무기...",
-          "id": "https://news.hada.io/topic?id=27105",
-          "isoDate": "2026-03-01T07:32:58.000Z"
-        },
-        {
-          "title": "에이전틱 엔지니어링 시대의 생존 스킬 9가지",
-          "link": "https://news.hada.io/topic?id=27104",
-          "pubDate": "2026-03-01T05:15:21.000Z",
-          "author": "flowkater",
-          "content": "<p><strong>바이브 코딩의 창시자의 주말</strong></p>\n<ul>\n<li>Karpathy가 주말 프로젝트를 에이전트에게 맡겼다. IP, 사용자명, 비밀번호, 목표만 주고 30분 뒤 전부 완성</li>\n<li>99%의 시간 동안 코드를 직접 작성하지 않고 에이전트에게 명령하고 감독하는 방식 — &quot;에이전틱 엔지니어링&quot;</li>\n<li>하지",
-          "contentSnippet": "바이브 코딩의 창시자의 주말\nKarpathy가 주말 프로젝트를 에이전트에게 맡겼다. IP, 사용자명, 비밀번호, 목표만 주고 30분 뒤 전부 완성\n99%의 시간 동안 코드를 직접 작성하지 않고 에이전트에게 명령하고 감독하는 방식 — \"에이전틱 엔지니어링\"\n하지",
-          "id": "https://news.hada.io/topic?id=27104",
-          "isoDate": "2026-03-01T05:15:21.000Z"
         }
       ]
     }
