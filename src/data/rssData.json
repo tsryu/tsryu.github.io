@@ -7,6 +7,136 @@
       "priority": 1,
       "data": [
         {
+          "title": "AI 에이전트에 가장 적합한 언어로서의 Go",
+          "link": "https://news.hada.io/topic?id=27187",
+          "pubDate": "2026-03-04T04:15:29.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>Go 언어의 단순성과 컴파일 특성</strong>이 AI 에이전트가 생성하는 코드의 안정성과 실행 효율을 높이는 핵심 요인으로 제시됨</li>\n<li>\n<strong>정적 타이핑과 빠른 컴파일 속도</strong> 덕분에 에이전트가 코드 오류를 빠르게 검증하고 반복 작업을 효율적으로 수행할 수 있음</li>\n<li>\n<stron...</p>",
+          "contentSnippet": "Go 언어의 단순성과 컴파일 특성이 AI 에이전트가 생성하는 코드의 안정성과 실행 효율을 높이는 핵심 요인으로 제시됨\n정적 타이핑과 빠른 컴파일 속도 덕분에 에이전트가 코드 오류를 빠르게 검증하고 반복 작업을 효율적으로 수행할 수 있음",
+          "id": "https://news.hada.io/topic?id=27187",
+          "isoDate": "2026-03-04T04:15:29.000Z"
+        },
+        {
+          "title": "전략적 선택: 두 가지 모두 좋은 옵션일 때",
+          "link": "https://news.hada.io/topic?id=27186",
+          "pubDate": "2026-03-04T03:22:00.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>전략적 선택은 두 가지 모두 매력적인 옵션 중 <strong>하나를 선택</strong>하고, 그에 따르는 <strong>불리한 결과까지 수용</strong>하는 것</li>\n<li>진정한 전략은 “좋은 말”이 아니라 <strong>트레이드오프를 수반하는 구체적 선택</strong>으로, <strong>‘둘 다’가 아닌 ‘하나’</strong> 를 명확히...</p>",
+          "contentSnippet": "전략적 선택은 두 가지 모두 매력적인 옵션 중 하나를 선택하고, 그에 따르는 불리한 결과까지 수용하는 것\n진정한 전략은 “좋은 말”이 아니라 트레이드오프를 수반하는 구체적 선택으로, ‘둘 다’가 아닌 ‘하나’ 를 명확히...",
+          "id": "https://news.hada.io/topic?id=27186",
+          "isoDate": "2026-03-04T03:22:00.000Z"
+        },
+        {
+          "title": "모든 신규 창업자가 추적해야 할 세 가지 핵심 지표",
+          "link": "https://news.hada.io/topic?id=27185",
+          "pubDate": "2026-03-04T02:40:27.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>초기 스타트업은 <strong>매출 확대 이전에 비즈니스가 작동하는지</strong> 검증하는 소수의 핵심 지표에 집중해야 함</li>\n<li>\n<strong>리텐션 선행 지표(LIR)</strong>, <strong>가치 도달 시간(Time-to-Value)</strong>, <strong>고객 건강도 요약(Customer Health Rollup)</strong>\n</li>\n<li>흔한 실수는...</p>",
+          "contentSnippet": "초기 스타트업은 매출 확대 이전에 비즈니스가 작동하는지 검증하는 소수의 핵심 지표에 집중해야 함\n리텐션 선행 지표(LIR), 가치 도달 시간(Time-to-Value), 고객 건강도 요약(Customer Health Rollup)\n\n흔한 실수는...",
+          "id": "https://news.hada.io/topic?id=27185",
+          "isoDate": "2026-03-04T02:40:27.000Z"
+        },
+        {
+          "title": "2026년, Google 검색은 완전히 망가졌다 - 내 오픈소스의 SEO 전쟁에서 지고 있음",
+          "link": "https://news.hada.io/topic?id=27184",
+          "pubDate": "2026-03-04T01:37:45.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>18,000 GitHub 스타</strong>를 보유한 <strong>NanoClaw</strong>의 개발자가, 프로젝트명을 Google에 검색하면 가짜 웹사이트가 공식 사이트보다 상위에 노출된다고 공개</li>\n<li>누군가 프로젝트 README를 스크래핑해 자동 생성한 <strong>가짜 사이트(nanoclaw[.]net)</strong> 가 Google 검색 결...</p>",
+          "contentSnippet": "18,000 GitHub 스타를 보유한 NanoClaw의 개발자가, 프로젝트명을 Google에 검색하면 가짜 웹사이트가 공식 사이트보다 상위에 노출된다고 공개\n누군가 프로젝트 README를 스크래핑해 자동 생성한 가짜 사이트(nanoclaw[.]net) 가 Google 검색 결...",
+          "id": "https://news.hada.io/topic?id=27184",
+          "isoDate": "2026-03-04T01:37:45.000Z"
+        },
+        {
+          "title": "클로드의 순환들 [PDF]",
+          "link": "https://news.hada.io/topic?id=27183",
+          "pubDate": "2026-03-04T01:34:45.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Anthropic의 모델 Claude Opus 4.6</strong>이 Donald Knuth가 몇 주간 연구하던 <strong>방향성 해밀토니안 순환 분해 문제</strong>를 해결함</li>\n<li>문제는 (m^3)개의 꼭짓점을 가진 방향 그래프의 <strong>세 개의 해밀토니안 순환으로의 분해</strong>를 찾는 것이며, Claude는 이를 <strong>o...</p>",
+          "contentSnippet": "Anthropic의 모델 Claude Opus 4.6이 Donald Knuth가 몇 주간 연구하던 방향성 해밀토니안 순환 분해 문제를 해결함\n문제는 (m^3)개의 꼭짓점을 가진 방향 그래프의 세 개의 해밀토니안 순환으로의 분해를 찾는 것이며, Claude는 이를 o...",
+          "id": "https://news.hada.io/topic?id=27183",
+          "isoDate": "2026-03-04T01:34:45.000Z"
+        },
+        {
+          "title": "Ars Technica, AI가 생성한 허위 인용문 논란 후 기자 해고",
+          "link": "https://news.hada.io/topic?id=27182",
+          "pubDate": "2026-03-04T00:41:41.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>AI 도구로 생성된 <strong>허위 인용문</strong>이 포함된 기사 논란 이후 기자 <strong>Benj Edwards</strong>를 해고함</li>\n<li>문제의 기사는 AI가 인간 엔지니어 <strong>Scott Shambaugh</strong>에 대한 비판 글을 게시한 사건을 다루었으며, 이후 <strong>허위 인용문</strong>이 포함된 사실이 밝혀져...</p>",
+          "contentSnippet": "AI 도구로 생성된 허위 인용문이 포함된 기사 논란 이후 기자 Benj Edwards를 해고함\n문제의 기사는 AI가 인간 엔지니어 Scott Shambaugh에 대한 비판 글을 게시한 사건을 다루었으며, 이후 허위 인용문이 포함된 사실이 밝혀져...",
+          "id": "https://news.hada.io/topic?id=27182",
+          "isoDate": "2026-03-04T00:41:41.000Z"
+        },
+        {
+          "title": "신원·나이 인증을 하면서까지 쓰고 싶은 온라인 서비스가 떠오르지 않는다",
+          "link": "https://news.hada.io/topic?id=27181",
+          "pubDate": "2026-03-04T00:38:41.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>여러 국가에서 <strong>온라인 신원·연령 인증</strong> 정책 논의가 활발하지만, 인증을 감수하면서 까지 사용할 서비스가 사실상 없음</li>\n<li>아동의 소셜 미디어 접근 금지 정책과 맞물려 <strong>모든 사용자가 성인 증명</strong>을 해야 하는 구조로 흘러가고 있으나, 잘 설계된 제안을 아직 본 적이 없...</p>",
+          "contentSnippet": "여러 국가에서 온라인 신원·연령 인증 정책 논의가 활발하지만, 인증을 감수하면서 까지 사용할 서비스가 사실상 없음\n아동의 소셜 미디어 접근 금지 정책과 맞물려 모든 사용자가 성인 증명을 해야 하는 구조로 흘러가고 있으나, 잘 설계된 제안을 아직 본 적이 없...",
+          "id": "https://news.hada.io/topic?id=27181",
+          "isoDate": "2026-03-04T00:38:41.000Z"
+        },
+        {
+          "title": "사이버 산소",
+          "link": "https://news.hada.io/topic?id=27180",
+          "pubDate": "2026-03-04T00:35:41.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>p5.js Web Editor</strong>를 이용해 제작된 <strong>인터랙티브 비주얼 스케치</strong>로, 브라우저에서 직접 실행 가능한 형태</li>\n<li>\n<strong>JavaScript 기반 p5.js 라이브러리</strong>를 사용해 예술가, 디자이너, 교육자, 초보자도 쉽게 코드를 작성하고 시각화할 수 있음</li>\n<li>웹 기반...</p>",
+          "contentSnippet": "p5.js Web Editor를 이용해 제작된 인터랙티브 비주얼 스케치로, 브라우저에서 직접 실행 가능한 형태\nJavaScript 기반 p5.js 라이브러리를 사용해 예술가, 디자이너, 교육자, 초보자도 쉽게 코드를 작성하고 시각화할 수 있음\n웹 기반...",
+          "id": "https://news.hada.io/topic?id=27180",
+          "isoDate": "2026-03-04T00:35:41.000Z"
+        },
+        {
+          "title": "gogcli - 터미널에서 Google Workspace를 제어하는 고속 CLI",
+          "link": "https://news.hada.io/topic?id=27179",
+          "pubDate": "2026-03-04T00:31:02.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>Gmail, 캘린더, 드라이브, Docs, Sheets, 챗, 연락처, Tasks, Forms, Keep 등 <strong>구글 웍스페이스 전반을 터미널에서 제어</strong>하기 위해 개발된 <strong>에이전트 친화적 경량/고속 CLI 도구</strong>\n</li>\n<li>OpenClaw 제작자의 프로젝트로 OpenClaw에서 구글 연동에 주로 사용하지만, 별도 CLI로...</p>",
+          "contentSnippet": "Gmail, 캘린더, 드라이브, Docs, Sheets, 챗, 연락처, Tasks, Forms, Keep 등 구글 웍스페이스 전반을 터미널에서 제어하기 위해 개발된 에이전트 친화적 경량/고속 CLI 도구\n\nOpenClaw 제작자의 프로젝트로 OpenClaw에서 구글 연동에 주로 사용하지만, 별도 CLI로...",
+          "id": "https://news.hada.io/topic?id=27179",
+          "isoDate": "2026-03-04T00:31:02.000Z"
+        },
+        {
+          "title": "GPT‑5.3 Instant: 더 자연스럽고 유용한 일상 대화",
+          "link": "https://news.hada.io/topic?id=27178",
+          "pubDate": "2026-03-04T00:07:03.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>ChatGPT의 <strong>가장 많이 사용되는 모델</strong>이 업데이트되어, 일상 대화의 <strong>정확성·유창성·맥락 이해력</strong>이 향상됨</li>\n<li>새 버전은 <strong>불필요한 거절과 경고문</strong>을 줄이고, 질문에 <strong>직접적이고 실질적인 답변</strong>을 제공</li>\n<li>웹 검색 시 <strong>정보...</p>",
+          "contentSnippet": "ChatGPT의 가장 많이 사용되는 모델이 업데이트되어, 일상 대화의 정확성·유창성·맥락 이해력이 향상됨\n새 버전은 불필요한 거절과 경고문을 줄이고, 질문에 직접적이고 실질적인 답변을 제공\n웹 검색 시 정보...",
+          "id": "https://news.hada.io/topic?id=27178",
+          "isoDate": "2026-03-04T00:07:03.000Z"
+        },
+        {
+          "title": "Apple, M5 Pro/Max 탑재한 MacBook Pro 14/16 공개 ",
+          "link": "https://news.hada.io/topic?id=27177",
+          "pubDate": "2026-03-04T00:05:17.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>M5 Pro와 M5 Max 칩</strong> 을 내장하고, 최대 4배 향상된 AI 성능과 최대 2배 빠른 SSD 속도 제공</li>\n<li>새로운 <strong>퓨전 아키텍처</strong> 기반으로 설계되어, 최대 18코어 CPU와 각 GPU 코어에 <strong>Neural Accelerator</strong>를 내장해 AI 처리 속도를 대폭 향상</li>\n<li>\n<stron...</p>",
+          "contentSnippet": "M5 Pro와 M5 Max 칩 을 내장하고, 최대 4배 향상된 AI 성능과 최대 2배 빠른 SSD 속도 제공\n새로운 퓨전 아키텍처 기반으로 설계되어, 최대 18코어 CPU와 각 GPU 코어에 Neural Accelerator를 내장해 AI 처리 속도를 대폭 향상",
+          "id": "https://news.hada.io/topic?id=27177",
+          "isoDate": "2026-03-04T00:05:17.000Z"
+        },
+        {
+          "title": "도널드 커누스(Donald Knuth), Claude Opus 4.6이 미해결 조합론 문제를 해결한 과정을 논문으로 공개",
+          "link": "https://news.hada.io/topic?id=27176",
+          "pubDate": "2026-03-03T23:18:23.000Z",
+          "author": "darjeeling",
+          "content": "<h4>핵심 요약</h4>\n<ul>\n<li>'컴퓨터 프로그래밍의 예술(TAOCP)'의 저자인 컴퓨터 과학자 도널드 커누스가 최신 AI 모델 'Claude Opus 4.6'이 자신이 수 주간 연구하던 미해결 조합론 문제를 해결했다고 발표했습니다.</li>\n<li>방향 그래프의 해밀토니안 사이클 분해능을 찾는 문제에서, Claude는 31번의 Python 스크립...</p>",
+          "contentSnippet": "핵심 요약\n'컴퓨터 프로그래밍의 예술(TAOCP)'의 저자인 컴퓨터 과학자 도널드 커누스가 최신 AI 모델 'Claude Opus 4.6'이 자신이 수 주간 연구하던 미해결 조합론 문제를 해결했다고 발표했습니다.\n방향 그래프의 해밀토니안 사이클 분해능을 찾는 문제에서, Claude는 31번의 Python 스크립...",
+          "id": "https://news.hada.io/topic?id=27176",
+          "isoDate": "2026-03-03T23:18:23.000Z"
+        },
+        {
+          "title": "맥으로 돌아오신 것을 환영합니다",
+          "link": "https://news.hada.io/topic?id=27175",
+          "pubDate": "2026-03-03T21:33:40.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>macOS의 <strong>기본 기능 안정성 저하</strong>와 <strong>지속적인 버그 누적</strong>이 장기간 해결되지 않고 있음</li>\n<li>\n<strong>Time Machine</strong>, <strong>Spotlight</strong>, <strong>Finder</strong>, <strong>AirPods Pro 오디오</strong>, <strong>전체 화면 전환</strong> 등 핵심 시스...</p>",
+          "contentSnippet": "macOS의 기본 기능 안정성 저하와 지속적인 버그 누적이 장기간 해결되지 않고 있음\nTime Machine, Spotlight, Finder, AirPods Pro 오디오, 전체 화면 전환 등 핵심 시스...",
+          "id": "https://news.hada.io/topic?id=27175",
+          "isoDate": "2026-03-03T21:33:40.000Z"
+        },
+        {
           "title": "태아 척추이분증 수술에 세계 최초로 적용된 자궁 내 줄기세포 치료, 안전성 입증",
           "link": "https://news.hada.io/topic?id=27174",
           "pubDate": "2026-03-03T18:33:10.000Z",
@@ -57,12 +187,12 @@
           "isoDate": "2026-03-03T14:20:00.000Z"
         },
         {
-          "title": "Anthropic Cowork 기능이 macOS에서 경고 없이 10GB VM 번들을 생성",
+          "title": "Anthropic Cowork 기능이 macOS에서 경고 없이 10GB VM 번들을 생성함",
           "link": "https://news.hada.io/topic?id=27169",
           "pubDate": "2026-03-03T13:33:28.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>macOS용 Claude Desktop의 <strong>Cowork 기능</strong>이 활성화되면, 시스템에 약 <strong>10GB 크기의 가상머신(VM) 번들</strong>이 자동 생성되어 성능이 급격히 저하됨</li>\n<li>이 파일은 <code>~/Library/Application Support/Claude/vm_bundles/claudevm.bundle/rootfs.img</code> 경로에 저장되며, ...</p>",
-          "contentSnippet": "macOS용 Claude Desktop의 Cowork 기능이 활성화되면, 시스템에 약 10GB 크기의 가상머신(VM) 번들이 자동 생성되어 성능이 급격히 저하됨\n이 파일은 ~/Library/Application Support/Claude/vm_bundles/claudevm.bundle/rootfs.img 경로에 저장되며, ...",
+          "content": "<ul>\n<li>macOS에서 <strong>Cowork 기능</strong>이 활성화되면, 시스템에 약 <strong>10GB 크기의 가상머신(VM) 번들</strong>이 자동 생성되어 성능이 급격히 저하됨</li>\n<li>이 파일은 <code>~/Library/</code> 아래에 저장되며, 삭제 후에도 <strong>다음날 다시 생성</strong>됨</li>\n<li>이 게 있으면 <strong>C...</p>",
+          "contentSnippet": "macOS에서 Cowork 기능이 활성화되면, 시스템에 약 10GB 크기의 가상머신(VM) 번들이 자동 생성되어 성능이 급격히 저하됨\n이 파일은 ~/Library/ 아래에 저장되며, 삭제 후에도 다음날 다시 생성됨\n이 게 있으면 C...",
           "id": "https://news.hada.io/topic?id=27169",
           "isoDate": "2026-03-03T13:33:28.000Z"
         },
@@ -87,12 +217,12 @@
           "isoDate": "2026-03-03T12:56:56.000Z"
         },
         {
-          "title": "500ms 이하 지연시간의 음성 에이전트를 직접 구축한 과정",
+          "title": "500ms 이하 지연시간의 음성 에이전트를 직접 구축한 방법",
           "link": "https://news.hada.io/topic?id=27164",
           "pubDate": "2026-03-03T10:33:15.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>음성 기반 AI 시스템의 <strong>지연시간을 400ms 수준으로 줄인 자체 구축형 음성 에이전트</strong> 개발 사례를 다룸</li>\n<li>\n<strong>STT, LLM, TTS를 실시간 파이프라인으로 연결</strong>해 기존 상용 플랫폼(Vapi 등)보다 2배 빠른 응답 속도 달성</li>\n<li>\n<strong>Deepgram Flux</strong>로 발화 감...</p>",
-          "contentSnippet": "음성 기반 AI 시스템의 지연시간을 400ms 수준으로 줄인 자체 구축형 음성 에이전트 개발 사례를 다룸\nSTT, LLM, TTS를 실시간 파이프라인으로 연결해 기존 상용 플랫폼(Vapi 등)보다 2배 빠른 응답 속도 달성\nDeepgram Flux로 발화 감...",
+          "content": "<ul>\n<li>음성 기반 AI 시스템의 <strong>지연시간을 400ms 수준으로 줄인 자체 구축형 음성 에이전트</strong> 개발 사례 소개</li>\n<li>\n<strong>STT, LLM, TTS를 실시간 파이프라인으로 연결</strong>해 기존 상용 플랫폼(Vapi 등)보다 2배 빠른 응답 속도 달성</li>\n<li>\n<strong>Deepgram Flux</strong>로 발화 감지...</p>",
+          "contentSnippet": "음성 기반 AI 시스템의 지연시간을 400ms 수준으로 줄인 자체 구축형 음성 에이전트 개발 사례 소개\nSTT, LLM, TTS를 실시간 파이프라인으로 연결해 기존 상용 플랫폼(Vapi 등)보다 2배 빠른 응답 속도 달성\nDeepgram Flux로 발화 감지...",
           "id": "https://news.hada.io/topic?id=27164",
           "isoDate": "2026-03-03T10:33:15.000Z"
         },
@@ -375,136 +505,6 @@
           "contentSnippet": "Windows 95 UI 개발 과정은 대규모 상용 소프트웨어에서 반복적 설계(iterative design) 와 문제 추적(problem tracking) 을 체계적으로 적용한 대표적 사례로 제시됨\n초기 목표는 초보자에게 배우기 쉬우면서도 숙련자에게 효율적인 시...",
           "id": "https://news.hada.io/topic?id=27133",
           "isoDate": "2026-03-02T12:33:48.000Z"
-        },
-        {
-          "title": "OpenAI, 미 국방부와 체결한 협약에 대해",
-          "link": "https://news.hada.io/topic?id=27132",
-          "pubDate": "2026-03-02T11:33:30.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>미 국방부(DoW)</strong> 와 기밀 환경에서의 고급 AI 시스템 배치에 관한 계약을 체결하며, 이 계약 조건을 모든 AI 기업에도 동일하게 적용해달라고 요청함</li>\n<li>협약에는 <strong>대규모 국내 감시, 자율 무기 시스템 직접 제어, 고위험 자동화 의사결정</strong>에 OpenAI 기술을 사용하지 않...</p>",
-          "contentSnippet": "미 국방부(DoW) 와 기밀 환경에서의 고급 AI 시스템 배치에 관한 계약을 체결하며, 이 계약 조건을 모든 AI 기업에도 동일하게 적용해달라고 요청함\n협약에는 대규모 국내 감시, 자율 무기 시스템 직접 제어, 고위험 자동화 의사결정에 OpenAI 기술을 사용하지 않...",
-          "id": "https://news.hada.io/topic?id=27132",
-          "isoDate": "2026-03-02T11:33:30.000Z"
-        },
-        {
-          "title": "Show GN: 다이소 MCP - 어떤 AI든 내 주변 다이소 재고파악을 가능하도록",
-          "link": "https://news.hada.io/topic?id=27131",
-          "pubDate": "2026-03-02T11:16:09.000Z",
-          "author": "hmmhmmhm",
-          "content": "<p>안녕하세요~! 이번 휴일에 다이소 MCP를 챗지피티, 클로드에서 사용가능하도록 구성해보았습니다. 챗지피티에서 별도 설정 없이 쓸 수 있게 GPTs 앱도 준비해서 즉시 사용가능합니다.</p>\n<p>완전 오픈소스로 Cloudflare Workers를 사용해서 100% 서버리스로 구성해보았고, 스크래핑 구성 과정 등을 전체 로그로 남겨",
-          "contentSnippet": "안녕하세요~! 이번 휴일에 다이소 MCP를 챗지피티, 클로드에서 사용가능하도록 구성해보았습니다. 챗지피티에서 별도 설정 없이 쓸 수 있게 GPTs 앱도 준비해서 즉시 사용가능합니다.\n완전 오픈소스로 Cloudflare Workers를 사용해서 100% 서버리스로 구성해보았고, 스크래핑 구성 과정 등을 전체 로그로 남겨",
-          "id": "https://news.hada.io/topic?id=27131",
-          "isoDate": "2026-03-02T11:16:09.000Z"
-        },
-        {
-          "title": "MCP는 죽었다. CLI 만세",
-          "link": "https://news.hada.io/topic?id=27129",
-          "pubDate": "2026-03-02T08:32:59.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>MCP가 업계에서 빠르게 관심을 잃고</strong> 있으며, 이제 <strong>CLI 기반 접근</strong>이 더 실용적임</li>\n<li>LLM은 이미 <strong>명령줄 도구 사용에 능숙</strong>하며, 별도의 프로토콜 없이도 문서와 CLI만으로 충분히 작업 수행 가능</li>\n<li>\n<strong>CLI는 인간과 LLM 모두가 동일한 환...</p>",
-          "contentSnippet": "MCP가 업계에서 빠르게 관심을 잃고 있으며, 이제 CLI 기반 접근이 더 실용적임\nLLM은 이미 명령줄 도구 사용에 능숙하며, 별도의 프로토콜 없이도 문서와 CLI만으로 충분히 작업 수행 가능\nCLI는 인간과 LLM 모두가 동일한 환...",
-          "id": "https://news.hada.io/topic?id=27129",
-          "isoDate": "2026-03-02T08:32:59.000Z"
-        },
-        {
-          "title": "AI가 코딩을 쉽게 만들었다. 그러나 엔지니어링은 더 어려워졌다",
-          "link": "https://news.hada.io/topic?id=27128",
-          "pubDate": "2026-03-02T07:33:18.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>AI 도구의 확산</strong>으로 코드 작성은 쉬워졌지만, <strong>소프트웨어 엔지니어의 업무 강도와 복잡성</strong>은 오히려 증가함</li>\n<li>AI가 생산성을 높이자 <strong>조직의 기대치와 업무량 기준선이 상승</strong>, 엔지니어들은 더 많은 일을 더 빠르게 수행해야 하는 압박을 받음</li>\n...</p>",
-          "contentSnippet": "AI 도구의 확산으로 코드 작성은 쉬워졌지만, 소프트웨어 엔지니어의 업무 강도와 복잡성은 오히려 증가함\nAI가 생산성을 높이자 조직의 기대치와 업무량 기준선이 상승, 엔지니어들은 더 많은 일을 더 빠르게 수행해야 하는 압박을 받음\n...",
-          "id": "https://news.hada.io/topic?id=27128",
-          "isoDate": "2026-03-02T07:33:18.000Z"
-        },
-        {
-          "title": "Forward Deployed Engineer(FDE) 채용을 위한 완벽 가이드",
-          "link": "https://news.hada.io/topic?id=27125",
-          "pubDate": "2026-03-02T05:37:49.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>현장 배치 엔지니어(FDE)</strong> 는 고객 현장에 직접 배치되어 기술적으로 복잡한 제품의 ‘마지막 마일’을 구현하는 엔지니어</li>\n<li>단순한 컨설턴트가 아니라 <strong>실제 프로덕션 코드를 작성하고 디버깅하며 새로운 제품 기회를 발굴하는 개발자</strong>\n</li>\n<li>이 모델은 모든 기업...</p>",
-          "contentSnippet": "현장 배치 엔지니어(FDE) 는 고객 현장에 직접 배치되어 기술적으로 복잡한 제품의 ‘마지막 마일’을 구현하는 엔지니어\n단순한 컨설턴트가 아니라 실제 프로덕션 코드를 작성하고 디버깅하며 새로운 제품 기회를 발굴하는 개발자\n\n이 모델은 모든 기업...",
-          "id": "https://news.hada.io/topic?id=27125",
-          "isoDate": "2026-03-02T05:37:49.000Z"
-        },
-        {
-          "title": "Show GN: LuxShot - 1MB 이하 초경량 완전 무료 오픈소스 macOS OCR 툴",
-          "link": "https://news.hada.io/topic?id=27124",
-          "pubDate": "2026-03-02T05:17:09.000Z",
-          "author": "lukeio",
-          "content": "<p>안녕하세요, 1인 개발자입니다.</p>\n<p>무겁고 복잡한 일렉트론 기반의 앱들에 지쳐서, 빠르고 가볍게 동작하는 macOS 네이티브 메뉴바 OCR 툴인 'LuxShot'을 직접 개발하여 완전 무료 오픈소스로 공개합니다.</p>\n<p>🛠️ 주요 특징:</p>\n<ul>\n<li>100% 네이티브 &amp; 프라이버시: SwiftUI와 Apple Vision 프레임워",
-          "contentSnippet": "안녕하세요, 1인 개발자입니다.\n무겁고 복잡한 일렉트론 기반의 앱들에 지쳐서, 빠르고 가볍게 동작하는 macOS 네이티브 메뉴바 OCR 툴인 'LuxShot'을 직접 개발하여 완전 무료 오픈소스로 공개합니다.\n🛠️ 주요 특징:\n100% 네이티브 & 프라이버시: SwiftUI와 Apple Vision 프레임워",
-          "id": "https://news.hada.io/topic?id=27124",
-          "isoDate": "2026-03-02T05:17:09.000Z"
-        },
-        {
-          "title": "의사결정나무 – 중첩된 결정 규칙의 놀라운 힘",
-          "link": "https://news.hada.io/topic?id=27123",
-          "pubDate": "2026-03-02T04:33:11.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>데이터 분류를 위해 <strong>특징 공간을 반복적으로 분할</strong>하는 구조로, 각 단계에서 가장 정보 이득이 큰 분할을 선택함</li>\n<li>\n<strong>엔트로피(Entropy)</strong> 를 이용해 데이터의 <strong>순도(purity)</strong> 를 측정하고, 이를 기반으로 <strong>정보 이득(Information Gain)</strong> ...</p>",
-          "contentSnippet": "데이터 분류를 위해 특징 공간을 반복적으로 분할하는 구조로, 각 단계에서 가장 정보 이득이 큰 분할을 선택함\n엔트로피(Entropy) 를 이용해 데이터의 순도(purity) 를 측정하고, 이를 기반으로 정보 이득(Information Gain) ...",
-          "id": "https://news.hada.io/topic?id=27123",
-          "isoDate": "2026-03-02T04:33:11.000Z"
-        },
-        {
-          "title": "프로덕트 디자인이 변하고 있다",
-          "link": "https://news.hada.io/topic?id=27120",
-          "pubDate": "2026-03-02T03:47:29.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>AI 도구가 디자인 시스템을 직접 활용해 UI를 생성</strong>하면서, 디자이너의 역할이 단순 시각 설계에서 <strong>전략과 조율 중심</strong>으로 이동</li>\n<li>이제 <strong>“누가 누구의 일을 뺏나”</strong> 가 아니라, <strong>프로세스가 어떻게 바뀌나</strong>가 핵심 질문</li>\n<li>코드...</p>",
-          "contentSnippet": "AI 도구가 디자인 시스템을 직접 활용해 UI를 생성하면서, 디자이너의 역할이 단순 시각 설계에서 전략과 조율 중심으로 이동\n이제 “누가 누구의 일을 뺏나” 가 아니라, 프로세스가 어떻게 바뀌나가 핵심 질문\n코드...",
-          "id": "https://news.hada.io/topic?id=27120",
-          "isoDate": "2026-03-02T03:47:29.000Z"
-        },
-        {
-          "title": "광고 기반 무료 AI 채팅 데모 — “무료” AI의 미래를 풍자한 실험",
-          "link": "https://news.hada.io/topic?id=27119",
-          "pubDate": "2026-03-02T02:32:33.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>AI 채팅 서비스가 광고로 수익을 내는 구조</strong>를 풍자적으로 구현한 실시간 데모로, 실제 작동하는 언어 모델과 다양한 광고 형식을 결합</li>\n<li>\n<strong>배너, 인터스티셜, 스폰서 응답, 프리미엄 잠금(freemium gate)</strong> 등 거의 모든 광고 패턴을 체험할 수 있음</li>\n<li>사용자는...</p>",
-          "contentSnippet": "AI 채팅 서비스가 광고로 수익을 내는 구조를 풍자적으로 구현한 실시간 데모로, 실제 작동하는 언어 모델과 다양한 광고 형식을 결합\n배너, 인터스티셜, 스폰서 응답, 프리미엄 잠금(freemium gate) 등 거의 모든 광고 패턴을 체험할 수 있음\n사용자는...",
-          "id": "https://news.hada.io/topic?id=27119",
-          "isoDate": "2026-03-02T02:32:33.000Z"
-        },
-        {
-          "title": "Anthropic Courses - 무료 온라인 강의 공개",
-          "link": "https://news.hada.io/topic?id=27118",
-          "pubDate": "2026-03-02T02:06:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>Claude 기본 사용법부터 API 활용, <strong>Claude Code 개발 워크플로</strong>, MCP 서버 구축, Agent Skills까지 개발자 대상 과정 다수 포함</li>\n<li>AI를 잘 사용하기 위한 AI Fluency 특화 과정을 비개발자/교육자/학생/비영리 재단등 여러 사용자 대상으로 제공</li>\n<li>AWS, Google Cloud Vertex AI ...</p>",
-          "contentSnippet": "Claude 기본 사용법부터 API 활용, Claude Code 개발 워크플로, MCP 서버 구축, Agent Skills까지 개발자 대상 과정 다수 포함\nAI를 잘 사용하기 위한 AI Fluency 특화 과정을 비개발자/교육자/학생/비영리 재단등 여러 사용자 대상으로 제공\nAWS, Google Cloud Vertex AI ...",
-          "id": "https://news.hada.io/topic?id=27118",
-          "isoDate": "2026-03-02T02:06:02.000Z"
-        },
-        {
-          "title": "portless - 포트 번호를 이름 기반 .localhost URL로 대체하는 도구",
-          "link": "https://news.hada.io/topic?id=27116",
-          "pubDate": "2026-03-02T00:51:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>로컬 개발시 <strong>포트 충돌</strong> 및 <strong>몇번 포트를 썼는지 기억해야 하는 고통</strong>을 해결해주는 <strong>Vercel Labs</strong>의 오픈소스 유틸</li>\n<li>각 개발 서버에 고유한 <strong>앱.localhost 서브도메인</strong>을 부여해, 사람과 <strong>AI 에이전트 모두가 인식 가능한 URL 체...</p>",
-          "contentSnippet": "로컬 개발시 포트 충돌 및 몇번 포트를 썼는지 기억해야 하는 고통을 해결해주는 Vercel Labs의 오픈소스 유틸\n각 개발 서버에 고유한 앱.localhost 서브도메인을 부여해, 사람과 AI 에이전트 모두가 인식 가능한 URL 체...",
-          "id": "https://news.hada.io/topic?id=27116",
-          "isoDate": "2026-03-02T00:51:01.000Z"
-        },
-        {
-          "title": "Claude, 다른 LLM에서 전환하는 Import Memory 기능 추가",
-          "link": "https://news.hada.io/topic?id=27115",
-          "pubDate": "2026-03-02T00:43:04.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>다른 AI 서비스에서의 개인 설정과 맥락을 Claude로 가져올 수 있는 메모리 가져오기 기능</strong>\n</li>\n<li>특정 프롬프트를 통해 읽은 기존 컨텍스트를 <strong>복사·붙여넣기하여 Claude 메모리에 반영</strong>할 수 있음</li>\n<li>이 기능은 <strong>모든 유료 요금제에서 제공</strong>되며, ...</p>",
-          "contentSnippet": "다른 AI 서비스에서의 개인 설정과 맥락을 Claude로 가져올 수 있는 메모리 가져오기 기능\n\n특정 프롬프트를 통해 읽은 기존 컨텍스트를 복사·붙여넣기하여 Claude 메모리에 반영할 수 있음\n이 기능은 모든 유료 요금제에서 제공되며, ...",
-          "id": "https://news.hada.io/topic?id=27115",
-          "isoDate": "2026-03-02T00:43:04.000Z"
-        },
-        {
-          "title": "Ghostty – 터미널 에뮬레이터",
-          "link": "https://news.hada.io/topic?id=27114",
-          "pubDate": "2026-03-02T00:40:04.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>빠르고 기능이 풍부한 <strong>크로스플랫폼 터미널 에뮬레이터</strong>로, 각 운영체제의 <strong>네이티브 UI</strong>와 <strong>GPU 가속</strong>을 활용함 (맥/리눅스)</li>\n<li>설치 후 바로 실행할 수 있으며, <strong>별도의 설정이 필요 없는 구조</strong>로 설계</li>\n<li>수백 가지의 <strong>테...</p>",
-          "contentSnippet": "빠르고 기능이 풍부한 크로스플랫폼 터미널 에뮬레이터로, 각 운영체제의 네이티브 UI와 GPU 가속을 활용함 (맥/리눅스)\n설치 후 바로 실행할 수 있으며, 별도의 설정이 필요 없는 구조로 설계\n수백 가지의 테...",
-          "id": "https://news.hada.io/topic?id=27114",
-          "isoDate": "2026-03-02T00:40:04.000Z"
         }
       ]
     }
