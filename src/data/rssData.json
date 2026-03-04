@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: HN 토론을 아티클 옆에 붙여봤습니다",
+          "link": "https://news.hada.io/topic?id=27197",
+          "pubDate": "2026-03-04T16:28:17.000Z",
+          "author": "rrockp",
+          "content": "<p>긱뉴스나 해커뉴스 보면 토론 내용이랑 본문이 다른 페이지로 분리된게 불편하더라고요. 사람들이 어떤 문단을 얘기하는 건지 기사랑 댓글창을 왔다갔다하는 게 항상 불편했습니다.<br />\n그래서 아무 웹페이지에나 Google Docs / Notion 스타일 코멘트를 달 수 있는 도구를 만들었습니다.</p>\n<p>단톡방에서 링크 공",
+          "contentSnippet": "긱뉴스나 해커뉴스 보면 토론 내용이랑 본문이 다른 페이지로 분리된게 불편하더라고요. 사람들이 어떤 문단을 얘기하는 건지 기사랑 댓글창을 왔다갔다하는 게 항상 불편했습니다.\n단톡방에서 링크 공",
+          "id": "https://news.hada.io/topic?id=27197",
+          "isoDate": "2026-03-04T16:28:17.000Z"
+        },
+        {
+          "title": "인도 대법원, 하급 판사가 AI가 생성한 가짜 판결문을 인용하자 강력 반발",
+          "link": "https://news.hada.io/topic?id=27196",
+          "pubDate": "2026-03-04T15:33:23.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>인도 안드라프라데시주의 한 <strong>하급 법원 판사</strong>가 부동산 분쟁 사건에서 <strong>AI가 생성한 허위 판결문</strong>을 인용한 사실이 드러남</li>\n<li>\n<strong>대법원은 이를 ‘제도적 우려’ 사안으로 규정</strong>하고, 단순한 판단 착오가 아닌 <strong>‘직무상 비행(misconduct)’</stron...</p>",
+          "contentSnippet": "인도 안드라프라데시주의 한 하급 법원 판사가 부동산 분쟁 사건에서 AI가 생성한 허위 판결문을 인용한 사실이 드러남\n대법원은 이를 ‘제도적 우려’ 사안으로 규정하고, 단순한 판단 착오가 아닌 ‘직무상 비행(misconduct)’",
+          "id": "https://news.hada.io/topic?id=27196",
+          "isoDate": "2026-03-04T15:33:23.000Z"
+        },
+        {
+          "title": "Apple, MacBook Neo 공개",
+          "link": "https://news.hada.io/topic?id=27195",
+          "pubDate": "2026-03-04T15:32:19.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>A18 Pro 칩</strong>, 알루미늄 디자인, <strong>33cm(13&quot;) 디스플레이 (2408×1506)</strong>, 16시간 배터리, 99만원의 새로운 맥북</li>\n<li>1.23kg 에 <strong>블러시·인디고·실버·시트러스</strong> 4가지 색상</li>\n<li>\n<strong>A18 Pro 칩</strong>은 Intel Core Ultra 5 대비 웹 브라우...</p>",
+          "contentSnippet": "A18 Pro 칩, 알루미늄 디자인, 33cm(13\") 디스플레이 (2408×1506), 16시간 배터리, 99만원의 새로운 맥북\n1.23kg 에 블러시·인디고·실버·시트러스 4가지 색상\nA18 Pro 칩은 Intel Core Ultra 5 대비 웹 브라우...",
+          "id": "https://news.hada.io/topic?id=27195",
+          "isoDate": "2026-03-04T15:32:19.000Z"
+        },
+        {
           "title": "클로드 코드 가이드 (전자책) 공개합니다.",
           "link": "https://news.hada.io/topic?id=27194",
           "pubDate": "2026-03-04T12:53:32.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "Apple Neural Engine(ANE) 의 내부 구조를 직접 분석해 CoreML을 우회하고 하드웨어에 직접 접근하는 방법을 구현\nCoreML의 추상화 계층을 제거하고 _ANEClient API를 통해 모델 컴파일·로드·실행을 직접 수행\n\n\n...",
           "id": "https://news.hada.io/topic?id=27146",
           "isoDate": "2026-03-02T23:36:55.000Z"
-        },
-        {
-          "title": "선박용 Flightradar24 - Flexport Atlas",
-          "link": "https://news.hada.io/topic?id=27145",
-          "pubDate": "2026-03-02T23:33:55.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>전 세계 해상 물류 흐름</strong>을 실시간으로 추적할 수 있는 플랫폼으로, 선박·항공편·항만·운송 경로 정보를 통합 제공</li>\n<li>\n<strong>실시간 위치 데이터</strong>를 기반으로 글로벌 운송 현황을 시각화해 물류 가시성을 높임</li>\n<li>\n<strong>OpenStreetMap 기반 지도</strong>를 활용해...</p>",
-          "contentSnippet": "전 세계 해상 물류 흐름을 실시간으로 추적할 수 있는 플랫폼으로, 선박·항공편·항만·운송 경로 정보를 통합 제공\n실시간 위치 데이터를 기반으로 글로벌 운송 현황을 시각화해 물류 가시성을 높임\nOpenStreetMap 기반 지도를 활용해...",
-          "id": "https://news.hada.io/topic?id=27145",
-          "isoDate": "2026-03-02T23:33:55.000Z"
-        },
-        {
-          "title": "CMU 10-202: 현대 인공지능 입문 ",
-          "link": "https://news.hada.io/topic?id=27144",
-          "pubDate": "2026-03-02T22:36:48.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>카네기멜론대학(CMU)</strong> 에서 개설된 이 강의는 <strong>현대 인공지능 시스템의 작동 원리</strong>를 다루는 입문 과정</li>\n<li>\n<strong>머신러닝과 대규모 언어모델(LLM)</strong> 을 중심으로, ChatGPT·Gemini·Claude 같은 시스템의 기반 기술을 학습함</li>\n<li>수강자는 <strong>기초 지...</p>",
-          "contentSnippet": "카네기멜론대학(CMU) 에서 개설된 이 강의는 현대 인공지능 시스템의 작동 원리를 다루는 입문 과정\n머신러닝과 대규모 언어모델(LLM) 을 중심으로, ChatGPT·Gemini·Claude 같은 시스템의 기반 기술을 학습함\n수강자는 기초 지...",
-          "id": "https://news.hada.io/topic?id=27144",
-          "isoDate": "2026-03-02T22:36:48.000Z"
-        },
-        {
-          "title": "llmfit - 내 하드웨어에 맞는 LLM 모델을 찾아 자동 최적화하는 터미널 도구",
-          "link": "https://news.hada.io/topic?id=27143",
-          "pubDate": "2026-03-02T22:33:48.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>수백 개의 LLM 모델과 제공자</strong>를 대상으로, 내 <strong>시스템 RAM·CPU·GPU</strong>에서 실제로 <strong>실행 가능한 모델</strong>을 한 번의 명령으로 찾아주는 도구</li>\n<li>각 모델을 품질·속도·적합도·컨텍스트 기준으로 점수화해 실행 가능 여부를 표시하여, <strong>TUI(터미널 UI)...</p>",
-          "contentSnippet": "수백 개의 LLM 모델과 제공자를 대상으로, 내 시스템 RAM·CPU·GPU에서 실제로 실행 가능한 모델을 한 번의 명령으로 찾아주는 도구\n각 모델을 품질·속도·적합도·컨텍스트 기준으로 점수화해 실행 가능 여부를 표시하여, TUI(터미널 UI)...",
-          "id": "https://news.hada.io/topic?id=27143",
-          "isoDate": "2026-03-02T22:33:48.000Z"
         }
       ]
     }
