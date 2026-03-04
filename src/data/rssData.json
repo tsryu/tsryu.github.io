@@ -7,12 +7,32 @@
       "priority": 1,
       "data": [
         {
-          "title": "AI 에이전트에 가장 적합한 언어로서의 Go",
+          "title": "슈퍼-카미오칸데 – 중성미자 검출로 태양을 영상화하다 [영상]",
+          "link": "https://news.hada.io/topic?id=27189",
+          "pubDate": "2026-03-04T05:32:50.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>일본의 <strong>슈퍼-카미오칸데(Super-Kamiokande)</strong> 실험은 중성미자를 검출해 태양의 내부 활동을 관측하는 거대 물탱크 기반 검출기임</li>\n<li>이 시설은 <strong>5만 톤 규모의 초순수수</strong>와 수천 개의 광전자증배관을 이용해, 중성미자가 물 분자와 상호작용할 때 발생하는 <strong>체렌코...</p>",
+          "contentSnippet": "일본의 슈퍼-카미오칸데(Super-Kamiokande) 실험은 중성미자를 검출해 태양의 내부 활동을 관측하는 거대 물탱크 기반 검출기임\n이 시설은 5만 톤 규모의 초순수수와 수천 개의 광전자증배관을 이용해, 중성미자가 물 분자와 상호작용할 때 발생하는 체렌코...",
+          "id": "https://news.hada.io/topic?id=27189",
+          "isoDate": "2026-03-04T05:32:50.000Z"
+        },
+        {
+          "title": "Bun v1.3.10",
+          "link": "https://news.hada.io/topic?id=27188",
+          "pubDate": "2026-03-04T05:11:12.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>REPL이 Zig로 완전히 재작성되어</strong> 즉시 실행과 풍부한 터미널 UI를 제공하며, 클립보드 복사·탭 완성·히스토리 저장 등 다양한 기능을 지원</li>\n<li>\n<strong>브라우저 타겟 컴파일</strong> 명령으로 <strong>모든게 인라인된 단일 HTML 파일</strong>을 생성할 수 있어 서버 없이도 실행 가...</p>",
+          "contentSnippet": "REPL이 Zig로 완전히 재작성되어 즉시 실행과 풍부한 터미널 UI를 제공하며, 클립보드 복사·탭 완성·히스토리 저장 등 다양한 기능을 지원\n브라우저 타겟 컴파일 명령으로 모든게 인라인된 단일 HTML 파일을 생성할 수 있어 서버 없이도 실행 가...",
+          "id": "https://news.hada.io/topic?id=27188",
+          "isoDate": "2026-03-04T05:11:12.000Z"
+        },
+        {
+          "title": "Go는 AI 에이전트를 위한 최고의 언어",
           "link": "https://news.hada.io/topic?id=27187",
           "pubDate": "2026-03-04T04:15:29.000Z",
           "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>Go 언어의 단순성과 컴파일 특성</strong>이 AI 에이전트가 생성하는 코드의 안정성과 실행 효율을 높이는 핵심 요인으로 제시됨</li>\n<li>\n<strong>정적 타이핑과 빠른 컴파일 속도</strong> 덕분에 에이전트가 코드 오류를 빠르게 검증하고 반복 작업을 효율적으로 수행할 수 있음</li>\n<li>\n<stron...</p>",
-          "contentSnippet": "Go 언어의 단순성과 컴파일 특성이 AI 에이전트가 생성하는 코드의 안정성과 실행 효율을 높이는 핵심 요인으로 제시됨\n정적 타이핑과 빠른 컴파일 속도 덕분에 에이전트가 코드 오류를 빠르게 검증하고 반복 작업을 효율적으로 수행할 수 있음",
+          "content": "<ul>\n<li>\n<strong>Go 언어의 단순성과 컴파일 특성</strong>이 AI 에이전트가 생성하는 코드의 안정성과 실행 효율을 높임</li>\n<li>\n<strong>정적 타이핑과 빠른 컴파일 속도</strong> 덕분에 에이전트가 코드 오류를 빠르게 검증하고 반복 작업을 효율적으로 수행할 수 있음</li>\n<li>언어 차원의 <strong>표준화된 도...</p>",
+          "contentSnippet": "Go 언어의 단순성과 컴파일 특성이 AI 에이전트가 생성하는 코드의 안정성과 실행 효율을 높임\n정적 타이핑과 빠른 컴파일 속도 덕분에 에이전트가 코드 오류를 빠르게 검증하고 반복 작업을 효율적으로 수행할 수 있음\n언어 차원의 표준화된 도...",
           "id": "https://news.hada.io/topic?id=27187",
           "isoDate": "2026-03-04T04:15:29.000Z"
         },
@@ -485,26 +505,6 @@
           "contentSnippet": "Mac으로 Apple Music의 고해상도 무손실 음원을 들으시는 분들을 위한 가벼운 메뉴바 유틸리티, PureRate를 만들었습니다.\n왜 필요할까요?\nmacOS의 Apple Music은 재생 중인 곡의 포맷(44.1kHz, 96kHz, 192kHz 등)에 맞춰 하드웨어 출력 샘플 레이트를 자동으로 변경해 주지 않습니다. 무손실 음원으로",
           "id": "https://news.hada.io/topic?id=27136",
           "isoDate": "2026-03-02T16:30:43.000Z"
-        },
-        {
-          "title": "Show GN: Claude Code 해커톤 수상자가 만든 데모영상 제작 도구 - Recorded",
-          "link": "https://news.hada.io/topic?id=27134",
-          "pubDate": "2026-03-02T14:11:07.000Z",
-          "author": "jspiner",
-          "content": "<p>다들 연휴에도 수십개의 Agent로 수백개의 기능을 자동으로 찍어내고 계신가요?</p>\n<p>그럼 지금 바로 recorded가 필요하실거에요!</p>\n<p>AI 덕분에</p>\n<ol>\n<li>기능 개발은 빨라졌고</li>\n<li>프로토타입은 하루에도 수십개씩 나오고</li>\n<li>Admin, 앱, 웹 페이지는 계속 쌓이는데…</li>\n</ol>\n<p>아직도 홍보",
-          "contentSnippet": "다들 연휴에도 수십개의 Agent로 수백개의 기능을 자동으로 찍어내고 계신가요?\n그럼 지금 바로 recorded가 필요하실거에요!\nAI 덕분에\n기능 개발은 빨라졌고\n프로토타입은 하루에도 수십개씩 나오고\nAdmin, 앱, 웹 페이지는 계속 쌓이는데…\n아직도 홍보",
-          "id": "https://news.hada.io/topic?id=27134",
-          "isoDate": "2026-03-02T14:11:07.000Z"
-        },
-        {
-          "title": "Windows 95 사용자 인터페이스: 사용성 공학 사례 연구 (1996)",
-          "link": "https://news.hada.io/topic?id=27133",
-          "pubDate": "2026-03-02T12:33:48.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Windows 95 UI 개발 과정</strong>은 대규모 상용 소프트웨어에서 <strong>반복적 설계(iterative design)</strong> 와 <strong>문제 추적(problem tracking)</strong> 을 체계적으로 적용한 대표적 사례로 제시됨</li>\n<li>초기 목표는 <strong>초보자에게 배우기 쉬우면서도 숙련자에게 효율적인 시...</p>",
-          "contentSnippet": "Windows 95 UI 개발 과정은 대규모 상용 소프트웨어에서 반복적 설계(iterative design) 와 문제 추적(problem tracking) 을 체계적으로 적용한 대표적 사례로 제시됨\n초기 목표는 초보자에게 배우기 쉬우면서도 숙련자에게 효율적인 시...",
-          "id": "https://news.hada.io/topic?id=27133",
-          "isoDate": "2026-03-02T12:33:48.000Z"
         }
       ]
     }
