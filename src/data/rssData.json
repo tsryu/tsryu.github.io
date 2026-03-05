@@ -7,6 +7,16 @@
       "priority": 1,
       "data": [
         {
+          "title": "AI를 활용한 코드 재작성과 라이선스 변경의 법적 정당성 논란",
+          "link": "https://news.hada.io/topic?id=27222",
+          "pubDate": "2026-03-05T14:34:26.000Z",
+          "author": "darjeeling",
+          "content": "<h4>핵심 요약 (Top)</h4>\n<p>오픈소스 라이브러리 <code>chardet</code>이 AI(Claude)를 이용해 전체 코드를 재작성한 후 라이선스를 변경하려 시도했으나, 이에 대한 법적·윤리적 타당성 논란이 Hacker News에서 뜨겁게 달궈지고 있습니다. 주요 쟁점은 AI가 학습한 원본 코드의 영향력, '클린룸(Clean Room)' 설계의 ...</p>",
+          "contentSnippet": "핵심 요약 (Top)\n오픈소스 라이브러리 chardet이 AI(Claude)를 이용해 전체 코드를 재작성한 후 라이선스를 변경하려 시도했으나, 이에 대한 법적·윤리적 타당성 논란이 Hacker News에서 뜨겁게 달궈지고 있습니다. 주요 쟁점은 AI가 학습한 원본 코드의 영향력, '클린룸(Clean Room)' 설계의 ...",
+          "id": "https://news.hada.io/topic?id=27222",
+          "isoDate": "2026-03-05T14:34:26.000Z"
+        },
+        {
           "title": "Claude Code, HTTP Hook 기능 추가",
           "link": "https://news.hada.io/topic?id=27219",
           "pubDate": "2026-03-05T08:11:48.000Z",
@@ -495,16 +505,6 @@
           "contentSnippet": "서비스 소개\n사용자가 관심 종목을 등록하면, AI 매니저가 실시간으로 해당 종목들을 분석하고 포지션을 결정합니다. 분석에 사용하는 데이터는 주가/기술적 지표, 기관·외국인 수급, 실시간 뉴스 및 공시, 재무 데이터(실적·밸류에이션)입니다. 판단 결과에 따라 매수·매도·홀드를 자동 실행합니다. 모의투자,...",
           "id": "https://news.hada.io/topic?id=27167",
           "isoDate": "2026-03-03T12:56:56.000Z"
-        },
-        {
-          "title": "500ms 이하 지연시간의 음성 에이전트를 직접 구축한 방법",
-          "link": "https://news.hada.io/topic?id=27164",
-          "pubDate": "2026-03-03T10:33:15.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>음성 기반 AI 시스템의 <strong>지연시간을 400ms 수준으로 줄인 자체 구축형 음성 에이전트</strong> 개발 사례 소개</li>\n<li>\n<strong>STT, LLM, TTS를 실시간 파이프라인으로 연결</strong>해 기존 상용 플랫폼(Vapi 등)보다 2배 빠른 응답 속도 달성</li>\n<li>\n<strong>Deepgram Flux</strong>로 발화 감지...</p>",
-          "contentSnippet": "음성 기반 AI 시스템의 지연시간을 400ms 수준으로 줄인 자체 구축형 음성 에이전트 개발 사례 소개\nSTT, LLM, TTS를 실시간 파이프라인으로 연결해 기존 상용 플랫폼(Vapi 등)보다 2배 빠른 응답 속도 달성\nDeepgram Flux로 발화 감지...",
-          "id": "https://news.hada.io/topic?id=27164",
-          "isoDate": "2026-03-03T10:33:15.000Z"
         }
       ]
     }
