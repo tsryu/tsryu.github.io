@@ -7,6 +7,66 @@
       "priority": 1,
       "data": [
         {
+          "title": "Claude Code, HTTP Hook 기능 추가",
+          "link": "https://news.hada.io/topic?id=27219",
+          "pubDate": "2026-03-05T08:11:48.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>기존의 <strong>코맨드 훅</strong>보다 더 사용하기 쉽고 안전함</li>\n<li>클로드 코드가 훅 이벤트를 URL에 전송하고 답변을 기다리는 방식</li>\n<li>CC의 상태를 보거나, 퍼미션등을 관리하는 웹앱을 구축 가능(로컬호스트도 됨)</li>\n<li>이렇게 훅이 연결되면 웹 서버에서 변경을 배포하거나 DB등으로 관리...</p>",
+          "contentSnippet": "기존의 코맨드 훅보다 더 사용하기 쉽고 안전함\n클로드 코드가 훅 이벤트를 URL에 전송하고 답변을 기다리는 방식\nCC의 상태를 보거나, 퍼미션등을 관리하는 웹앱을 구축 가능(로컬호스트도 됨)\n이렇게 훅이 연결되면 웹 서버에서 변경을 배포하거나 DB등으로 관리...",
+          "id": "https://news.hada.io/topic?id=27219",
+          "isoDate": "2026-03-05T08:11:48.000Z"
+        },
+        {
+          "title": "Vercel agent-browser, --native 기능 도입",
+          "link": "https://news.hada.io/topic?id=27218",
+          "pubDate": "2026-03-05T07:54:16.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>AI 에이전트를 위한 <strong>헤드리스 브라우저 자동화 CLI</strong>\n</li>\n<li>기존 node.js + playwright + CDP 구조에서 Rust 바이너리가 CDP를 직접 호출하게 변경</li>\n<li>독립실행형 데몬으로 런타임에 Node.js 프로세스가 없어서 메모리 사용량 감소 및 풋프린트도 작아짐</li>\n<li>\n<strong>AI 친화적...</p>",
+          "contentSnippet": "AI 에이전트를 위한 헤드리스 브라우저 자동화 CLI\n\n기존 node.js + playwright + CDP 구조에서 Rust 바이너리가 CDP를 직접 호출하게 변경\n독립실행형 데몬으로 런타임에 Node.js 프로세스가 없어서 메모리 사용량 감소 및 풋프린트도 작아짐\nAI 친화적...",
+          "id": "https://news.hada.io/topic?id=27218",
+          "isoDate": "2026-03-05T07:54:16.000Z"
+        },
+        {
+          "title": "Show GN: 언더로그 - 밑줄 친 문장을 촬영하면 AI가 서재로 옮겨주는 iOS 앱",
+          "link": "https://news.hada.io/topic?id=27217",
+          "pubDate": "2026-03-05T07:35:10.000Z",
+          "author": "anyjava",
+          "content": "<p>안녕하세요, 언더로그 만들고 있는 개발자입니다.</p>\n<p>책을 읽다 밑줄 친 문장을 나중에 다시 보고 싶어서 사진을 찍어두는 분들<br />\n많으시죠? 저도 그랬는데, 결국 사진첩에 묻혀서 한 번도 다시 보지<br />\n않더라고요.</p>\n<p>그래서 만들었습니다.</p>\n<p>언더로그는 밑줄 친 문장을 촬영하면 AI(Gemini)가",
+          "contentSnippet": "안녕하세요, 언더로그 만들고 있는 개발자입니다.\n책을 읽다 밑줄 친 문장을 나중에 다시 보고 싶어서 사진을 찍어두는 분들\n그래서 만들었습니다.\n언더로그는 밑줄 친 문장을 촬영하면 AI(Gemini)가",
+          "id": "https://news.hada.io/topic?id=27217",
+          "isoDate": "2026-03-05T07:35:10.000Z"
+        },
+        {
+          "title": "Anthropic CEO, OpenAI의 군사 계약 관련 발언을 ‘명백한 거짓말’이라 비판",
+          "link": "https://news.hada.io/topic?id=27214",
+          "pubDate": "2026-03-05T06:33:16.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Anthropic CEO Dario Amodei가 직원 메모를 통해 <strong>OpenAI의 미 국방부 계약</strong>을 &quot;보여주기식 안전 조치(safety theater)&quot;라 지칭하며 강하게 비판</li>\n<li>Anthropic은 기존 2억 달러 규모의 군 계약을 보유하고 있었으나, 국방부가 <strong>무제한 기술 접근</strong>을 요구하면서 ...</p>",
+          "contentSnippet": "Anthropic CEO Dario Amodei가 직원 메모를 통해 OpenAI의 미 국방부 계약을 \"보여주기식 안전 조치(safety theater)\"라 지칭하며 강하게 비판\nAnthropic은 기존 2억 달러 규모의 군 계약을 보유하고 있었으나, 국방부가 무제한 기술 접근을 요구하면서 ...",
+          "id": "https://news.hada.io/topic?id=27214",
+          "isoDate": "2026-03-05T06:33:16.000Z"
+        },
+        {
+          "title": "코딩없이 Claude Code로 자율 AI 마케팅 팀을 만들어 1주일간 운영한 이야기",
+          "link": "https://news.hada.io/topic?id=27213",
+          "pubDate": "2026-03-05T04:56:33.000Z",
+          "author": "ssowonny",
+          "content": "<ul>\n<li>7명 규모 AI SaaS 스타트업의 CEO가 <strong>Claude Code의 실험적 Agent Teams 기능</strong>을 활용해, CMO, 콘텐츠 작가, 소셜미디어 담당, HN 매니저, 성과 분석가로 구성된 <strong>5인 AI 마케팅 팀</strong>을 구축한 실전 경험기</li>\n<li>코드를 한 줄도 직접 작성하지 않았으며, 에이전트 전체가 <st...</p>",
+          "contentSnippet": "7명 규모 AI SaaS 스타트업의 CEO가 Claude Code의 실험적 Agent Teams 기능을 활용해, CMO, 콘텐츠 작가, 소셜미디어 담당, HN 매니저, 성과 분석가로 구성된 5인 AI 마케팅 팀을 구축한 실전 경험기\n코드를 한 줄도 직접 작성하지 않았으며, 에이전트 전체가",
+          "id": "https://news.hada.io/topic?id=27213",
+          "isoDate": "2026-03-05T04:56:33.000Z"
+        },
+        {
+          "title": "존 그루버 - 맥북 Neo에 대한 생각과 관찰",
+          "link": "https://news.hada.io/topic?id=27212",
+          "pubDate": "2026-03-05T04:39:50.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>애플이 <strong>599달러</strong>라는 파격적인 가격으로 Neo를 출시하며, 기존에 999달러 이하 시장에 거의 진입하지 않았던 가격 전략의 변화를 보여줌</li>\n<li>\n<strong>A18 Pro SoC</strong> 기반의 완전 신규 설계 제품으로, 기존 구형 모델을 할인 판매하던 방식과 근본적으로 다른 접근</li>\n<li>알루미...</p>",
+          "contentSnippet": "애플이 599달러라는 파격적인 가격으로 Neo를 출시하며, 기존에 999달러 이하 시장에 거의 진입하지 않았던 가격 전략의 변화를 보여줌\nA18 Pro SoC 기반의 완전 신규 설계 제품으로, 기존 구형 모델을 할인 판매하던 방식과 근본적으로 다른 접근\n알루미...",
+          "id": "https://news.hada.io/topic?id=27212",
+          "isoDate": "2026-03-05T04:39:50.000Z"
+        },
+        {
           "title": "TikTok, 종단간 암호화 도입하지 않기로…“사용자 안전을 해친다” 주장",
           "link": "https://news.hada.io/topic?id=27211",
           "pubDate": "2026-03-05T02:33:40.000Z",
@@ -445,66 +505,6 @@
           "contentSnippet": "음성 기반 AI 시스템의 지연시간을 400ms 수준으로 줄인 자체 구축형 음성 에이전트 개발 사례 소개\nSTT, LLM, TTS를 실시간 파이프라인으로 연결해 기존 상용 플랫폼(Vapi 등)보다 2배 빠른 응답 속도 달성\nDeepgram Flux로 발화 감지...",
           "id": "https://news.hada.io/topic?id=27164",
           "isoDate": "2026-03-03T10:33:15.000Z"
-        },
-        {
-          "title": "Telegram, 챗봇들이 스트리밍 응답 가능하게 업데이트 ",
-          "link": "https://news.hada.io/topic?id=27163",
-          "pubDate": "2026-03-03T08:29:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>이제 모든 텔레그램 챗봇들은 사용자에게 실시간 스트리밍 업데이트로 답변 가능</li>\n<li>메시지 단위가 아닌 글자 단위로 스트리밍하게 되어 AI 어시스턴트들에게 유용</li>\n<li>봇들이 Bot API 9.3+에서 sendMessageDraft 를 호출했다면 자동으로 적용 됨</li>\n<li>텔레그램은 최신 버전으로 업데이트 필요...</p>",
-          "contentSnippet": "이제 모든 텔레그램 챗봇들은 사용자에게 실시간 스트리밍 업데이트로 답변 가능\n메시지 단위가 아닌 글자 단위로 스트리밍하게 되어 AI 어시스턴트들에게 유용\n봇들이 Bot API 9.3+에서 sendMessageDraft 를 호출했다면 자동으로 적용 됨\n텔레그램은 최신 버전으로 업데이트 필요...",
-          "id": "https://news.hada.io/topic?id=27163",
-          "isoDate": "2026-03-03T08:29:02.000Z"
-        },
-        {
-          "title": "AI가 주니어 개발자를 쓸모없게 만들고 있다",
-          "link": "https://news.hada.io/topic?id=27162",
-          "pubDate": "2026-03-03T08:16:49.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>AI 도구가 주니어 개발자에게 <strong>얕은 역량</strong>만 만들어주고 있으며, 코드를 빠르게 출력하지만 왜 그런 접근을 택했는지 설명하지 못하는 상황이 빈번해짐</li>\n<li>시니어 개발자의 진정한 가치는 <strong>코드 작성 속도</strong>가 아니라, 수년간 실패를 통해 축적한 <strong>실패 패턴 인식...</p>",
-          "contentSnippet": "AI 도구가 주니어 개발자에게 얕은 역량만 만들어주고 있으며, 코드를 빠르게 출력하지만 왜 그런 접근을 택했는지 설명하지 못하는 상황이 빈번해짐\n시니어 개발자의 진정한 가치는 코드 작성 속도가 아니라, 수년간 실패를 통해 축적한 실패 패턴 인식...",
-          "id": "https://news.hada.io/topic?id=27162",
-          "isoDate": "2026-03-03T08:16:49.000Z"
-        },
-        {
-          "title": "Apple, M4를 탑재한 신규 iPad Air 공개",
-          "link": "https://news.hada.io/topic?id=27161",
-          "pubDate": "2026-03-03T07:16:16.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>M4 칩</strong>을 탑재한 신형 iPad Air는 전 세대 대비 최대 2.3배 향상된 성능과 <strong>AI 처리 능력을 강화</strong>\n</li>\n<li>\n<strong>8코어 CPU와 9코어 GPU</strong>, 16코어 Neural Engine을 갖추어 영상 편집, 3D 렌더링, 게임 등에서 <strong>고성능 그래픽 처리</strong> 지원</li>\n<li...</p>",
-          "contentSnippet": "M4 칩을 탑재한 신형 iPad Air는 전 세대 대비 최대 2.3배 향상된 성능과 AI 처리 능력을 강화\n\n\n8코어 CPU와 9코어 GPU, 16코어 Neural Engine을 갖추어 영상 편집, 3D 렌더링, 게임 등에서 고성능 그래픽 처리 지원",
-          "id": "https://news.hada.io/topic?id=27161",
-          "isoDate": "2026-03-03T07:16:16.000Z"
-        },
-        {
-          "title": "알림의 개수를 95.7% 절감하여 알림 피로를 개선한 이야기",
-          "link": "https://news.hada.io/topic?id=27160",
-          "pubDate": "2026-03-03T04:10:23.000Z",
-          "author": "computerphilosopher",
-          "content": "<p>문제 배경: 크리티컬과 경고(Warning) 알림 채널을 분리하고 크리티컬 알림 시 전화 수신을 도입했으나, 월 1만 건이 넘는 경고 알림 폭증으로 인해 알림 무시 및 온콜(On-call) 피로도 증가 현상 발생.</p>\n<p>핵심 인사이트: 과도한 알림은 메신저 헬스 체커로 전락하여 시스템 가시성을 저해함. 알림 절감을 위한 ",
-          "contentSnippet": "문제 배경: 크리티컬과 경고(Warning) 알림 채널을 분리하고 크리티컬 알림 시 전화 수신을 도입했으나, 월 1만 건이 넘는 경고 알림 폭증으로 인해 알림 무시 및 온콜(On-call) 피로도 증가 현상 발생.\n핵심 인사이트: 과도한 알림은 메신저 헬스 체커로 전락하여 시스템 가시성을 저해함. 알림 절감을 위한",
-          "id": "https://news.hada.io/topic?id=27160",
-          "isoDate": "2026-03-03T04:10:23.000Z"
-        },
-        {
-          "title": "Redis patterns for coding",
-          "link": "https://news.hada.io/topic?id=27159",
-          "pubDate": "2026-03-03T03:29:03.000Z",
-          "author": "davespark",
-          "content": "<p>Redis 창시자 antirez가 LLM·코딩 에이전트 및 개발자를 위해 Redis 명령어·자료구조·패턴·알고리즘을 망라한 공식 문서 사이트(redis.antirez.com)를 공개했음을 알리는 짧은 포스트.</p>\n",
-          "contentSnippet": "Redis 창시자 antirez가 LLM·코딩 에이전트 및 개발자를 위해 Redis 명령어·자료구조·패턴·알고리즘을 망라한 공식 문서 사이트(redis.antirez.com)를 공개했음을 알리는 짧은 포스트.",
-          "id": "https://news.hada.io/topic?id=27159",
-          "isoDate": "2026-03-03T03:29:03.000Z"
-        },
-        {
-          "title": "브리티시컬럼비아, 시간 변경 종료하고 연중 서머타임 채택",
-          "link": "https://news.hada.io/topic?id=27158",
-          "pubDate": "2026-03-03T01:37:27.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>브리티시컬럼비아주는 3월 8일을 마지막으로 시계를 조정하지 않고, <strong>연중 서머타임(일광절약시간제)</strong> 을 영구적으로 시행함</li>\n<li>주 정부는 <strong>2019년 제정된 법</strong>을 근거로 이번 결정을 확정했으며, 2026년 11월 1일부터 시계가 더 이상 한 시간 뒤로 돌아가지 않음</li>\n<li...</p>",
-          "contentSnippet": "브리티시컬럼비아주는 3월 8일을 마지막으로 시계를 조정하지 않고, 연중 서머타임(일광절약시간제) 을 영구적으로 시행함\n주 정부는 2019년 제정된 법을 근거로 이번 결정을 확정했으며, 2026년 11월 1일부터 시계가 더 이상 한 시간 뒤로 돌아가지 않음",
-          "id": "https://news.hada.io/topic?id=27158",
-          "isoDate": "2026-03-03T01:37:27.000Z"
         }
       ]
     }
