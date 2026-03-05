@@ -7,6 +7,56 @@
       "priority": 1,
       "data": [
         {
+          "title": "Moss — 모든 브러시가 작은 프로그램인 픽셀 캔버스",
+          "link": "https://news.hada.io/topic?id=27229",
+          "pubDate": "2026-03-05T20:33:06.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>128×128 픽셀 캔버스에서 <strong>각 브러시가 독립적인 프로그램처럼 작동</strong>해 색상과 패턴을 생성하는 도구</li>\n<li>브러시는 <strong>혼합, 확산, 흘림, 성장, 글리치</strong> 등 다양한 동작을 수행하며, 모두 <strong>사용자가 직접 수정 가능</strong>\n</li>\n<li>캔버스의 각 셀은 데이터 단위로...</p>",
+          "contentSnippet": "128×128 픽셀 캔버스에서 각 브러시가 독립적인 프로그램처럼 작동해 색상과 패턴을 생성하는 도구\n브러시는 혼합, 확산, 흘림, 성장, 글리치 등 다양한 동작을 수행하며, 모두 사용자가 직접 수정 가능\n\n캔버스의 각 셀은 데이터 단위로...",
+          "id": "https://news.hada.io/topic?id=27229",
+          "isoDate": "2026-03-05T20:33:06.000Z"
+        },
+        {
+          "title": "결국 밝혀지는 것(It turns out)",
+          "link": "https://news.hada.io/topic?id=27228",
+          "pubDate": "2026-03-05T16:37:43.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>“It turns out”이라는 표현</strong>이 글쓰기에서 어떻게 작동하는지를 분석하며, 이 표현이 작가에게 주는 <strong>편리한 수사적 효과</strong>를 다룸</li>\n<li>일상 대화나 영화 줄거리 설명처럼 <strong>놀라움이나 발견의 어조</strong>를 전달할 때 자연스럽게 쓰이지만, 논증에서는 <stron...</p>",
+          "contentSnippet": "“It turns out”이라는 표현이 글쓰기에서 어떻게 작동하는지를 분석하며, 이 표현이 작가에게 주는 편리한 수사적 효과를 다룸\n일상 대화나 영화 줄거리 설명처럼 놀라움이나 발견의 어조를 전달할 때 자연스럽게 쓰이지만, 논증에서는",
+          "id": "https://news.hada.io/topic?id=27228",
+          "isoDate": "2026-03-05T16:37:43.000Z"
+        },
+        {
+          "title": "Firefox의 우클릭 메뉴를 about:config로 개선하기",
+          "link": "https://news.hada.io/topic?id=27227",
+          "pubDate": "2026-03-05T16:34:42.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>macOS의 <strong>기본 Firefox 설치 환경</strong>에서 우클릭 메뉴가 지나치게 복잡하고 불필요한 항목이 많다는 문제 제기</li>\n<li>\n<code>about:config</code> 설정을 통해 <strong>AI 관련 버튼, 스크린샷, 번역, 링크 미리보기, 시각 검색 등</strong> 여러 기능을 비활성화 가능</li>\n<li>총 13개의 설정...</p>",
+          "contentSnippet": "macOS의 기본 Firefox 설치 환경에서 우클릭 메뉴가 지나치게 복잡하고 불필요한 항목이 많다는 문제 제기\nabout:config 설정을 통해 AI 관련 버튼, 스크린샷, 번역, 링크 미리보기, 시각 검색 등 여러 기능을 비활성화 가능\n총 13개의 설정...",
+          "id": "https://news.hada.io/topic?id=27227",
+          "isoDate": "2026-03-05T16:34:42.000Z"
+        },
+        {
+          "title": "정부 보조금으로 수행된 연구는 영리 학술지에 실리지 않아야 함",
+          "link": "https://news.hada.io/topic?id=27226",
+          "pubDate": "2026-03-05T15:37:37.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>과학 연구의 <strong>출판 구조가 세금으로 자금을 지원받는 연구를 영리 기업이 독점 판매하는 형태</strong>로 작동하고 있음</li>\n<li>연구자들은 정부 보조금으로 연구를 수행하지만, 결과물을 <strong>유료 구독 기반의 학술지에 무료로 제공</strong>하고 다시 그 접근권을 구매해야 하는 모순적 구조</l...</p>",
+          "contentSnippet": "과학 연구의 출판 구조가 세금으로 자금을 지원받는 연구를 영리 기업이 독점 판매하는 형태로 작동하고 있음\n연구자들은 정부 보조금으로 연구를 수행하지만, 결과물을 유료 구독 기반의 학술지에 무료로 제공하고 다시 그 접근권을 구매해야 하는 모순적 구조",
+          "id": "https://news.hada.io/topic?id=27226",
+          "isoDate": "2026-03-05T15:37:37.000Z"
+        },
+        {
+          "title": "Qwen3.5 미세조정 가이드",
+          "link": "https://news.hada.io/topic?id=27225",
+          "pubDate": "2026-03-05T15:34:36.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Qwen3.5 모델군(0.8B~122B)</strong> 을 Unsloth로 <strong>텍스트 및 비전 기반 미세조정</strong>할 수 있음</li>\n<li>Unsloth는 <strong>FA2 대비 1.5배 빠른 학습 속도</strong>와 <strong>VRAM 50% 절감</strong>을 제공하며, <strong>bf16 LoRA</strong> 설정으로 효율적 학습 가능</li>\n<li>\n...</p>",
+          "contentSnippet": "Qwen3.5 모델군(0.8B~122B) 을 Unsloth로 텍스트 및 비전 기반 미세조정할 수 있음\nUnsloth는 FA2 대비 1.5배 빠른 학습 속도와 VRAM 50% 절감을 제공하며, bf16 LoRA 설정으로 효율적 학습 가능\n\n...",
+          "id": "https://news.hada.io/topic?id=27225",
+          "isoDate": "2026-03-05T15:34:36.000Z"
+        },
+        {
           "title": "AI를 활용한 코드 재작성과 라이선스 변경의 법적 정당성 논란",
           "link": "https://news.hada.io/topic?id=27222",
           "pubDate": "2026-03-05T14:34:26.000Z",
@@ -455,56 +505,6 @@
           "contentSnippet": "openclaw 와 같은 도구덕분에 생활 밀착형? MCP가 등장하는 재미있는 시대입니다.\nLLM 을 통해 버스 시간을 물어보니 잘 대답하는걸 보고 아이디어를 얻어 출근 시간대에 버스 도착 시간이 몇분인지 지도 앱을 켜고 확인하던게 떠올라서\n\"평일에만 몇시에서 몇시 사이에 버스 도착하기 몇분 전에",
           "id": "https://news.hada.io/topic?id=27172",
           "isoDate": "2026-03-03T16:08:35.000Z"
-        },
-        {
-          "title": "Show GN: ClaudeTuner - &quot;내가 정말 이 플랜만큼 쓰고 있나?&quot; 궁금해서 만든 사용량 추적 도구 (+ 우리 팀 관리까지)",
-          "link": "https://news.hada.io/topic?id=27171",
-          "pubDate": "2026-03-03T15:05:55.000Z",
-          "author": "xlos21",
-          "content": "<p>최근 Claude Opus 4.6의 품질이 크게 올라오면서, 업무에 Claude를 훨씬 더 많이 쓰게 되었습니다. 그러다 보니 자연스럽게 &quot;내가 지금 이 플랜을 결제하는 게 맞나?&quot;, &quot;오늘 리밋까지 얼마나 남았지?&quot;, &quot;팀원들에게 어떤 플랜을 구독해줘야 하나?&quot; 같은 고민이 생기더라고요. 그래서 ...</p>",
-          "contentSnippet": "최근 Claude Opus 4.6의 품질이 크게 올라오면서, 업무에 Claude를 훨씬 더 많이 쓰게 되었습니다. 그러다 보니 자연스럽게 \"내가 지금 이 플랜을 결제하는 게 맞나?\", \"오늘 리밋까지 얼마나 남았지?\", \"팀원들에게 어떤 플랜을 구독해줘야 하나?\" 같은 고민이 생기더라고요. 그래서 ...",
-          "id": "https://news.hada.io/topic?id=27171",
-          "isoDate": "2026-03-03T15:05:55.000Z"
-        },
-        {
-          "title": "Show GN: Vocova - AI로 100개 이상의 언어로 오디오/비디오를 텍스트로 변환",
-          "link": "https://news.hada.io/topic?id=27170",
-          "pubDate": "2026-03-03T14:20:00.000Z",
-          "author": "jmcraft",
-          "content": "<p>안녕하세요, Vocova를 만든 개발자입니다.</p>\n<p>Vocova는 간단한 문제를 해결하기 위해 만들었습니다 — 사람들은 매일 다양한 언어와 플랫폼에서 콘텐츠를 소비하지만, 그것을 정확하고 읽기 좋은 텍스트로 만드는 과정은 여전히 번거롭습니다. 다운로드 도구 따로, 전사 도구 따로, 번역 도구 따로. 한 번에 되어",
-          "contentSnippet": "안녕하세요, Vocova를 만든 개발자입니다.\nVocova는 간단한 문제를 해결하기 위해 만들었습니다 — 사람들은 매일 다양한 언어와 플랫폼에서 콘텐츠를 소비하지만, 그것을 정확하고 읽기 좋은 텍스트로 만드는 과정은 여전히 번거롭습니다. 다운로드 도구 따로, 전사 도구 따로, 번역 도구 따로. 한 번에 되어",
-          "id": "https://news.hada.io/topic?id=27170",
-          "isoDate": "2026-03-03T14:20:00.000Z"
-        },
-        {
-          "title": "Anthropic Cowork 기능이 macOS에서 경고 없이 10GB VM 번들을 생성함",
-          "link": "https://news.hada.io/topic?id=27169",
-          "pubDate": "2026-03-03T13:33:28.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>macOS에서 <strong>Cowork 기능</strong>이 활성화되면, 시스템에 약 <strong>10GB 크기의 가상머신(VM) 번들</strong>이 자동 생성되어 성능이 급격히 저하됨</li>\n<li>이 파일은 <code>~/Library/</code> 아래에 저장되며, 삭제 후에도 <strong>다음날 다시 생성</strong>됨</li>\n<li>이 게 있으면 <strong>C...</p>",
-          "contentSnippet": "macOS에서 Cowork 기능이 활성화되면, 시스템에 약 10GB 크기의 가상머신(VM) 번들이 자동 생성되어 성능이 급격히 저하됨\n이 파일은 ~/Library/ 아래에 저장되며, 삭제 후에도 다음날 다시 생성됨\n이 게 있으면 C...",
-          "id": "https://news.hada.io/topic?id=27169",
-          "isoDate": "2026-03-03T13:33:28.000Z"
-        },
-        {
-          "title": "Show GN: 모두의AI – 기초수학부터 역전파까지, 연산 흐름으로 이해하는 AI 학습 플랫폼",
-          "link": "https://news.hada.io/topic?id=27168",
-          "pubDate": "2026-03-03T13:21:52.000Z",
-          "author": "rivolt2022",
-          "content": "<p>안녕하세요. 개발자로 일하면서 AI에 관심이 생겨 작년부터 야간 인공지능 대학원에 다니며 공부하고 있는 직장인입니다.</p>\n<p>인공지능 경시대회에 참가해 수상도 해보고 다양한 모델을 직접 만들고 튜닝해보면서 느낀 점이 있습니다.<br />\n테크닉도 중요하지만 결국 성능의 차이를 만드는 것은 기초에 대한 이해",
-          "contentSnippet": "안녕하세요. 개발자로 일하면서 AI에 관심이 생겨 작년부터 야간 인공지능 대학원에 다니며 공부하고 있는 직장인입니다.\n인공지능 경시대회에 참가해 수상도 해보고 다양한 모델을 직접 만들고 튜닝해보면서 느낀 점이 있습니다.\n테크닉도 중요하지만 결국 성능의 차이를 만드는 것은 기초에 대한 이해",
-          "id": "https://news.hada.io/topic?id=27168",
-          "isoDate": "2026-03-03T13:21:52.000Z"
-        },
-        {
-          "title": "Show GN: 스톡월드컵 - 나만의 AI 펀드매니저",
-          "link": "https://news.hada.io/topic?id=27167",
-          "pubDate": "2026-03-03T12:56:56.000Z",
-          "author": "jjjeon0223",
-          "content": "<p>서비스 소개<br />\n사용자가 관심 종목을 등록하면, AI 매니저가 실시간으로 해당 종목들을 분석하고 포지션을 결정합니다. 분석에 사용하는 데이터는 주가/기술적 지표, 기관·외국인 수급, 실시간 뉴스 및 공시, 재무 데이터(실적·밸류에이션)입니다. 판단 결과에 따라 매수·매도·홀드를 자동 실행합니다. 모의투자,...</p>",
-          "contentSnippet": "서비스 소개\n사용자가 관심 종목을 등록하면, AI 매니저가 실시간으로 해당 종목들을 분석하고 포지션을 결정합니다. 분석에 사용하는 데이터는 주가/기술적 지표, 기관·외국인 수급, 실시간 뉴스 및 공시, 재무 데이터(실적·밸류에이션)입니다. 판단 결과에 따라 매수·매도·홀드를 자동 실행합니다. 모의투자,...",
-          "id": "https://news.hada.io/topic?id=27167",
-          "isoDate": "2026-03-03T12:56:56.000Z"
         }
       ]
     }
