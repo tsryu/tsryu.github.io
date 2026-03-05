@@ -7,6 +7,126 @@
       "priority": 1,
       "data": [
         {
+          "title": "TikTok, 종단간 암호화 도입하지 않기로…“사용자 안전을 해친다” 주장",
+          "link": "https://news.hada.io/topic?id=27211",
+          "pubDate": "2026-03-05T02:33:40.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>TikTok은 <strong>종단간 암호화(E2EE)</strong> 를 도입하지 않겠다고 밝혔으며, 이는 <strong>경찰과 안전팀이 메시지를 확인할 수 없게 만들어 사용자 보호를 어렵게 한다</strong>는 이유를 제시함</li>\n<li>회사는 <strong>특히 청소년 보호</strong>를 위해 이 같은 결정을 내렸다고 설명하며, 경쟁사들과...</p>",
+          "contentSnippet": "TikTok은 종단간 암호화(E2EE) 를 도입하지 않겠다고 밝혔으며, 이는 경찰과 안전팀이 메시지를 확인할 수 없게 만들어 사용자 보호를 어렵게 한다는 이유를 제시함\n회사는 특히 청소년 보호를 위해 이 같은 결정을 내렸다고 설명하며, 경쟁사들과...",
+          "id": "https://news.hada.io/topic?id=27211",
+          "isoDate": "2026-03-05T02:33:40.000Z"
+        },
+        {
+          "title": "새로운 Flash를 만들기",
+          "link": "https://news.hada.io/topic?id=27210",
+          "pubDate": "2026-03-05T02:21:51.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>C#</strong>, <strong>Avalonia</strong>, <strong>SkiaSharp</strong>로 개발된 차세대 <strong>2D 애니메이션 저작 도구</strong>로, Flash의 기능을 현대적으로 재구현</li>\n<li>\n<strong>Linux, Mac, PC</strong>에서 모두 동작하며, <strong>타임라인·벡터 드로잉·심볼·트위닝·스크립팅</strong...</p>",
+          "contentSnippet": "C#, Avalonia, SkiaSharp로 개발된 차세대 2D 애니메이션 저작 도구로, Flash의 기능을 현대적으로 재구현\nLinux, Mac, PC에서 모두 동작하며, 타임라인·벡터 드로잉·심볼·트위닝·스크립팅",
+          "id": "https://news.hada.io/topic?id=27210",
+          "isoDate": "2026-03-05T02:21:51.000Z"
+        },
+        {
+          "title": "gws - 구글 워크스페이스 CLI ",
+          "link": "https://news.hada.io/topic?id=27209",
+          "pubDate": "2026-03-05T02:20:33.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>Google Workspace API 전체를 단일 CLI로 제어</strong>할 수 있는 도구로, Drive·Gmail·Calendar·Sheets·Docs·Chat·Admin 등을 지원</li>\n<li>\n<strong>Google Discovery Service</strong>를 기반으로 런타임 시 명령 구성을 동적으로 생성해, 새로운 API가 추가되면 자동 반영</li>\n<li>\n<strong>AI...</p>",
+          "contentSnippet": "Google Workspace API 전체를 단일 CLI로 제어할 수 있는 도구로, Drive·Gmail·Calendar·Sheets·Docs·Chat·Admin 등을 지원\nGoogle Discovery Service를 기반으로 런타임 시 명령 구성을 동적으로 생성해, 새로운 API가 추가되면 자동 반영\nAI...",
+          "id": "https://news.hada.io/topic?id=27209",
+          "isoDate": "2026-03-05T02:20:33.000Z"
+        },
+        {
+          "title": "Qwen의 땅에서 무언가 일어나고 있다",
+          "link": "https://news.hada.io/topic?id=27207",
+          "pubDate": "2026-03-05T00:54:35.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Alibaba의 <strong>Qwen 팀 핵심 연구진이 대거 사임</strong>하면서, 최근 공개된 <strong>Qwen 3.5 모델 시리즈</strong>의 향후가 불투명해짐</li>\n<li>팀 리더 <strong>Lin Junyang</strong>이 사임을 발표했고, 이어 여러 핵심 인력들이 동반 퇴사</li>\n<li>최근 출시된 <strong>Qwen 3.5 모델 패밀리</st...</p>",
+          "contentSnippet": "Alibaba의 Qwen 팀 핵심 연구진이 대거 사임하면서, 최근 공개된 Qwen 3.5 모델 시리즈의 향후가 불투명해짐\n팀 리더 Lin Junyang이 사임을 발표했고, 이어 여러 핵심 인력들이 동반 퇴사\n최근 출시된 Qwen 3.5 모델 패밀리",
+          "id": "https://news.hada.io/topic?id=27207",
+          "isoDate": "2026-03-05T00:54:35.000Z"
+        },
+        {
+          "title": "에이전틱 엔지니어링 패턴",
+          "link": "https://news.hada.io/topic?id=27206",
+          "pubDate": "2026-03-05T00:51:35.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Claude Code·Codex 같은 코딩 에이전트 시대의 개발 방식</strong>을 정리한 가이드로, 에이전트와 협업하는 <strong>새로운 엔지니어링 패턴</strong> 제시</li>\n<li>코드 작성 비용이 급격히 낮아진 환경에서 <strong>개발 습관과 워크플로를 어떻게 바꿔야 하는지</strong> 다양한 패턴으로 설명...</p>",
+          "contentSnippet": "Claude Code·Codex 같은 코딩 에이전트 시대의 개발 방식을 정리한 가이드로, 에이전트와 협업하는 새로운 엔지니어링 패턴 제시\n코드 작성 비용이 급격히 낮아진 환경에서 개발 습관과 워크플로를 어떻게 바꿔야 하는지 다양한 패턴으로 설명...",
+          "id": "https://news.hada.io/topic?id=27206",
+          "isoDate": "2026-03-05T00:51:35.000Z"
+        },
+        {
+          "title": "플록 카메라의 인터랙티브 지도",
+          "link": "https://news.hada.io/topic?id=27205",
+          "pubDate": "2026-03-05T00:48:35.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>자동차 번호판 인식기(LPR)</strong> 위치를 보여주는 <strong>크라우드소싱 기반 지도 서비스</strong>로, 사용자가 주변의 설치 지점을 확인할 수 있음</li>\n<li>\n<strong>OpenStreetMap 커뮤니티 데이터</strong>를 활용해 구축되었으며, 누구나 새로운 위치 정보를 추가할 수 있음</li>\n<li>지도는...</p>",
+          "contentSnippet": "자동차 번호판 인식기(LPR) 위치를 보여주는 크라우드소싱 기반 지도 서비스로, 사용자가 주변의 설치 지점을 확인할 수 있음\nOpenStreetMap 커뮤니티 데이터를 활용해 구축되었으며, 누구나 새로운 위치 정보를 추가할 수 있음\n지도는...",
+          "id": "https://news.hada.io/topic?id=27205",
+          "isoDate": "2026-03-05T00:48:35.000Z"
+        },
+        {
+          "title": "단순함으로는 승진하지 못한다",
+          "link": "https://news.hada.io/topic?id=27204",
+          "pubDate": "2026-03-05T00:45:35.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>소프트웨어 엔지니어링 문화</strong>에서 복잡한 시스템을 만드는 사람이 더 인정받고, 단순한 해결책을 선택한 사람은 평가받지 못하는 구조가 지속됨</li>\n<li>\n<strong>승진 평가와 인터뷰, 설계 리뷰</strong> 등에서 복잡성이 “영향력”으로 오인되어, 불필요한 추상화와 확장성을 추가하는 경...</p>",
+          "contentSnippet": "소프트웨어 엔지니어링 문화에서 복잡한 시스템을 만드는 사람이 더 인정받고, 단순한 해결책을 선택한 사람은 평가받지 못하는 구조가 지속됨\n승진 평가와 인터뷰, 설계 리뷰 등에서 복잡성이 “영향력”으로 오인되어, 불필요한 추상화와 확장성을 추가하는 경...",
+          "id": "https://news.hada.io/topic?id=27204",
+          "isoDate": "2026-03-05T00:45:35.000Z"
+        },
+        {
+          "title": "모토로라 GrapheneOS 기기, 부트로더 잠금 해제 및 재잠금 지원 예정",
+          "link": "https://news.hada.io/topic?id=27203",
+          "pubDate": "2026-03-05T00:42:34.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>모토로라와 <strong>GrapheneOS의 장기 협력</strong>이 발표되었으며, 향후 출시될 기기들은 <strong>보안·프라이버시 기준을 충족</strong>하는 공식 GrapheneOS 지원 모델로 개발됨</li>\n<li>이 기기들은 <strong>다른 운영체제 설치 및 사용자 빌드의 GrapheneOS 사용</strong>을 완전히 지원하며, 이는 Gr...</p>",
+          "contentSnippet": "모토로라와 GrapheneOS의 장기 협력이 발표되었으며, 향후 출시될 기기들은 보안·프라이버시 기준을 충족하는 공식 GrapheneOS 지원 모델로 개발됨\n이 기기들은 다른 운영체제 설치 및 사용자 빌드의 GrapheneOS 사용을 완전히 지원하며, 이는 Gr...",
+          "id": "https://news.hada.io/topic?id=27203",
+          "isoDate": "2026-03-05T00:42:34.000Z"
+        },
+        {
+          "title": "OpenAI Symphony - 에이전트 기반 프로젝트 관리 자동화 도구",
+          "link": "https://news.hada.io/topic?id=27201",
+          "pubDate": "2026-03-05T00:32:23.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>개발팀이 코드 작성 대신 <strong>작업 단위 관리</strong>에 집중할 수 있도록 지원</li>\n<li>각 프로젝트 작업을 <strong>격리된 자율 실행(run)</strong> 형태로 전환해,<br />\n팀이 코딩 에이전트를 감독하지 않고 <strong>업무를 관리</strong>하고<br />\n에이전트는 독립적으로 구현을 수행하는 구조</li...</p>",
+          "contentSnippet": "개발팀이 코드 작성 대신 작업 단위 관리에 집중할 수 있도록 지원\n각 프로젝트 작업을 격리된 자율 실행(run) 형태로 전환해,\n업무를 관리하고\n에이전트는 독립적으로 구현을 수행하는 구조",
+          "id": "https://news.hada.io/topic?id=27201",
+          "isoDate": "2026-03-05T00:32:23.000Z"
+        },
+        {
+          "title": "Mullvad VPN: 런던 거리에서 상영 금지된 TV 광고 [영상]",
+          "link": "https://news.hada.io/topic?id=27200",
+          "pubDate": "2026-03-04T22:36:40.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Mullvad VPN</strong>이 영국에서 <strong>방송 금지를 당한 TV 광고</strong>를 공개</li>\n<li>광고는 <strong>프라이버시 보호와 감시 사회 비판</strong>을 주제로 구성</li>\n<li>영국 방송 규제 기관의 결정으로 <strong>TV 송출이 차단</strong>, 대신 <strong>런던 거리 전광판</strong>에서 상...</p>",
+          "contentSnippet": "Mullvad VPN이 영국에서 방송 금지를 당한 TV 광고를 공개\n광고는 프라이버시 보호와 감시 사회 비판을 주제로 구성\n영국 방송 규제 기관의 결정으로 TV 송출이 차단, 대신 런던 거리 전광판에서 상...",
+          "id": "https://news.hada.io/topic?id=27200",
+          "isoDate": "2026-03-04T22:36:40.000Z"
+        },
+        {
+          "title": "이란 전쟁 비용 추적기 — 일시 중단",
+          "link": "https://news.hada.io/topic?id=27199",
+          "pubDate": "2026-03-04T22:33:40.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>이란 전쟁 비용 추적기</strong>는 전쟁 관련 비용 데이터를 실시간으로 집계·공개하는 프로젝트임</li>\n<li>현재 운영이 <strong>일시 중단</strong>된 상태로, 데이터의 <strong>정확성 검증 작업</strong>이 진행 중임</li>\n<li>프로젝트 팀은 모든 <strong>비용 데이터와 업데이트의 신뢰성 확보...</p>",
+          "contentSnippet": "이란 전쟁 비용 추적기는 전쟁 관련 비용 데이터를 실시간으로 집계·공개하는 프로젝트임\n현재 운영이 일시 중단된 상태로, 데이터의 정확성 검증 작업이 진행 중임\n프로젝트 팀은 모든 비용 데이터와 업데이트의 신뢰성 확보...",
+          "id": "https://news.hada.io/topic?id=27199",
+          "isoDate": "2026-03-04T22:33:40.000Z"
+        },
+        {
+          "title": "OpenAI, Codex 앱 Window용 공개",
+          "link": "https://news.hada.io/topic?id=27198",
+          "pubDate": "2026-03-04T22:08:15.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>여러 프로젝트를 한 화면에서 병렬 에이전트 스레드로 작업 가능</li>\n<li>\n<strong>PowerShell 과 Windows 네이티브 샌드박스</strong> 기반으로 동작하지만, 필요시엔 WSL 모드로 전환 가능</li>\n<li>\n<code>Open</code> 기본 에디터 지정 가능(VSCode, SublimeText,..) 하며 프로젝트별로 지정 가능</li>\n<l...</p>",
+          "contentSnippet": "여러 프로젝트를 한 화면에서 병렬 에이전트 스레드로 작업 가능\nPowerShell 과 Windows 네이티브 샌드박스 기반으로 동작하지만, 필요시엔 WSL 모드로 전환 가능\nOpen 기본 에디터 지정 가능(VSCode, SublimeText,..) 하며 프로젝트별로 지정 가능",
+          "id": "https://news.hada.io/topic?id=27198",
+          "isoDate": "2026-03-04T22:08:15.000Z"
+        },
+        {
           "title": "Show GN: HN 토론을 아티클 옆에 붙여봤습니다",
           "link": "https://news.hada.io/topic?id=27197",
           "pubDate": "2026-03-04T16:28:17.000Z",
@@ -57,7 +177,7 @@
           "isoDate": "2026-03-04T12:21:06.000Z"
         },
         {
-          "title": "엔지니어링 매니저가 되지 말아야 하는 이유",
+          "title": "엔지니어링 매니저가 되지 마세요",
           "link": "https://news.hada.io/topic?id=27192",
           "pubDate": "2026-03-04T11:33:13.000Z",
           "author": "neo",
@@ -67,12 +187,12 @@
           "isoDate": "2026-03-04T11:33:13.000Z"
         },
         {
-          "title": "MacBook Air with M5",
+          "title": "Apple, M5를 탑재한 신규 MacBook Air 공개",
           "link": "https://news.hada.io/topic?id=27191",
           "pubDate": "2026-03-04T10:33:36.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>세계에서 가장 많이 판매된 노트북이 <strong>M5 칩</strong>을 탑재하며 성능과 <strong>AI 처리 능력</strong>을 대폭 강화함</li>\n<li>10코어 CPU와 최대 10코어 GPU, 각 코어에 <strong>Neural Accelerator</strong>를 내장해 AI 작업에서 M4 대비 최대 4배, M1 대비 최대 9.5배 빠른 성능 제공</li>\n<li>기...</p>",
-          "contentSnippet": "세계에서 가장 많이 판매된 노트북이 M5 칩을 탑재하며 성능과 AI 처리 능력을 대폭 강화함\n10코어 CPU와 최대 10코어 GPU, 각 코어에 Neural Accelerator를 내장해 AI 작업에서 M4 대비 최대 4배, M1 대비 최대 9.5배 빠른 성능 제공\n기...",
+          "content": "<ul>\n<li>\n<strong>10코어 CPU</strong>와 각 코어에 Neural Accelerator를 결합한 최대 10코어 GPU로 AI 작업 성능을 M4 대비 최대 4배, M1 대비 최대 <strong>9.5배</strong> 향상</li>\n<li>기본 저장 용량이 <strong>512GB</strong>로 두 배 증가, 최초로 최대 4TB 구성이 가능하며 SSD 읽기/쓰기 속도도 이전 세대 대...</p>",
+          "contentSnippet": "10코어 CPU와 각 코어에 Neural Accelerator를 결합한 최대 10코어 GPU로 AI 작업 성능을 M4 대비 최대 4배, M1 대비 최대 9.5배 향상\n기본 저장 용량이 512GB로 두 배 증가, 최초로 최대 4TB 구성이 가능하며 SSD 읽기/쓰기 속도도 이전 세대 대...",
           "id": "https://news.hada.io/topic?id=27191",
           "isoDate": "2026-03-04T10:33:36.000Z"
         },
@@ -81,8 +201,8 @@
           "link": "https://news.hada.io/topic?id=27190",
           "pubDate": "2026-03-04T09:33:24.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>기업용 대표 노트북 <strong>ThinkPad T14 Gen 7</strong>과 <strong>T16 Gen 5</strong>가 iFixit의 <strong>수리 용이성 평가에서 10/10</strong>을 기록하며 T 시리즈 최초로 최고 등급을 획득</li>\n<li>배터리, 키보드, SSD, <strong>Thunderbolt 포트</strong> 등 주요 부품이 <strong>모듈형 구조</stron...</p>",
-          "contentSnippet": "기업용 대표 노트북 ThinkPad T14 Gen 7과 T16 Gen 5가 iFixit의 수리 용이성 평가에서 10/10을 기록하며 T 시리즈 최초로 최고 등급을 획득\n배터리, 키보드, SSD, Thunderbolt 포트 등 주요 부품이 모듈형 구조",
+          "content": "<ul>\n<li>Lenovo의 <strong>ThinkPad T14 Gen 7</strong>과 <strong>T16 Gen 5</strong>가 iFixit의 <strong>수리 용이성 평가에서 10/10</strong>을 기록하며 T 시리즈 최초로 최고 등급을 획득</li>\n<li>배터리, 키보드, SSD, <strong>Thunderbolt 포트</strong> 등 주요 부품이 <strong>모듈형 구조</strong>로 설계되...</p>",
+          "contentSnippet": "Lenovo의 ThinkPad T14 Gen 7과 T16 Gen 5가 iFixit의 수리 용이성 평가에서 10/10을 기록하며 T 시리즈 최초로 최고 등급을 획득\n배터리, 키보드, SSD, Thunderbolt 포트 등 주요 부품이 모듈형 구조로 설계되...",
           "id": "https://news.hada.io/topic?id=27190",
           "isoDate": "2026-03-04T09:33:24.000Z"
         },
@@ -385,126 +505,6 @@
           "contentSnippet": "브리티시컬럼비아주는 3월 8일을 마지막으로 시계를 조정하지 않고, 연중 서머타임(일광절약시간제) 을 영구적으로 시행함\n주 정부는 2019년 제정된 법을 근거로 이번 결정을 확정했으며, 2026년 11월 1일부터 시계가 더 이상 한 시간 뒤로 돌아가지 않음",
           "id": "https://news.hada.io/topic?id=27158",
           "isoDate": "2026-03-03T01:37:27.000Z"
-        },
-        {
-          "title": "메타 스마트 안경 개발 노동자들 “우리는 모든 것을 본다” – 개인정보 유출 논란",
-          "link": "https://news.hada.io/topic?id=27157",
-          "pubDate": "2026-03-03T01:34:26.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>AI 안경</strong>은 여행 안내, 실시간 번역 등 기능을 제공하지만, <strong>개인정보가 대규모로 수집·분석</strong>됨</li>\n<li>케냐 하청업체가 <strong>사생활 영상과 음성 데이터</strong>를 검수·주석 처리하며, <strong>나체·성행위·금융정보</strong> 등이 포함된 사례를 증언</li>\n<li>스웨덴...</p>",
-          "contentSnippet": "AI 안경은 여행 안내, 실시간 번역 등 기능을 제공하지만, 개인정보가 대규모로 수집·분석됨\n케냐 하청업체가 사생활 영상과 음성 데이터를 검수·주석 처리하며, 나체·성행위·금융정보 등이 포함된 사례를 증언\n스웨덴...",
-          "id": "https://news.hada.io/topic?id=27157",
-          "isoDate": "2026-03-03T01:34:26.000Z"
-        },
-        {
-          "title": "Show GN: 이제 공부도 클로드 코드로 해보세요!",
-          "link": "https://news.hada.io/topic?id=27156",
-          "pubDate": "2026-03-03T01:11:56.000Z",
-          "author": "remocode",
-          "content": "<p>Claude Code Skills로 2주 만에 AWS 자격증을 취득했습니다.</p>\n<p>조금 더 똑똑하게 벼락치기 하기 위해, 시스템을 만들어보았습니다.</p>\n<hr />\n<h2>tutor-skills: AI가 만드는 나만의 메타인지 학습 시스템</h2>\n<p>자격증, 학교 공부, 코드에 대한 이해 등 가장 답답했던 부분은<br />\n'내가 무엇을 모르는지 모",
-          "contentSnippet": "Claude Code Skills로 2주 만에 AWS 자격증을 취득했습니다.\n조금 더 똑똑하게 벼락치기 하기 위해, 시스템을 만들어보았습니다.\ntutor-skills: AI가 만드는 나만의 메타인지 학습 시스템\n자격증, 학교 공부, 코드에 대한 이해 등 가장 답답했던 부분은\n'내가 무엇을 모르는지 모",
-          "id": "https://news.hada.io/topic?id=27156",
-          "isoDate": "2026-03-03T01:11:56.000Z"
-        },
-        {
-          "title": "Jolla Phone – 유럽산 풀스택 대안 스마트폰",
-          "link": "https://news.hada.io/topic?id=27155",
-          "pubDate": "2026-03-03T01:00:41.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Jolla Phone</strong>은 사용자가 직접 참여해 설계한 <strong>유럽산 독립형 Linux 스마트폰</strong>으로, 2026년 9월 첫 양산 1,000대 한정 판매 예정</li>\n<li>\n<strong>Sailfish OS 5</strong>를 탑재해 <strong>Android 앱 지원</strong>과 <strong>물리적 프라이버시 스위치</strong>, <strong...</p>",
-          "contentSnippet": "Jolla Phone은 사용자가 직접 참여해 설계한 유럽산 독립형 Linux 스마트폰으로, 2026년 9월 첫 양산 1,000대 한정 판매 예정\nSailfish OS 5를 탑재해 Android 앱 지원과 물리적 프라이버시 스위치,",
-          "id": "https://news.hada.io/topic?id=27155",
-          "isoDate": "2026-03-03T01:00:41.000Z"
-        },
-        {
-          "title": "에버렛, 판결 후 Flock 카메라 네트워크 운영 중단",
-          "link": "https://news.hada.io/topic?id=27154",
-          "pubDate": "2026-03-03T00:57:41.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>워싱턴주 <strong>에버렛 시가 Flock Safety의 차량 번호판 인식 카메라 네트워크를 중단</strong>함</li>\n<li>법원이 <strong>카메라 영상이 공공기록(public record)</strong> 에 해당한다고 판결한 것이 직접적 계기</li>\n<li>이 판결로 인해 <strong>시민이 해당 영상 접근을 요청할 수 있는 법적 근거</st...</p>",
-          "contentSnippet": "워싱턴주 에버렛 시가 Flock Safety의 차량 번호판 인식 카메라 네트워크를 중단함\n법원이 카메라 영상이 공공기록(public record) 에 해당한다고 판결한 것이 직접적 계기\n이 판결로 인해 시민이 해당 영상 접근을 요청할 수 있는 법적 근거",
-          "id": "https://news.hada.io/topic?id=27154",
-          "isoDate": "2026-03-03T00:57:41.000Z"
-        },
-        {
-          "title": "AI가 코드를 작성한다면 세션도 커밋의 일부가 되어야 할까?",
-          "link": "https://news.hada.io/topic?id=27153",
-          "pubDate": "2026-03-03T00:54:41.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>git-memento</strong>는 AI가 생성한 코드 세션을 <strong>Git 커밋에 자동으로 기록</strong>하는 확장 도구로, 각 커밋에 대응하는 AI 대화 내역을 <strong>git notes</strong>로 저장함</li>\n<li>커밋 시 AI 세션 ID를 지정하면, <strong>요약본은 <code>refs/notes/commits</code></strong>, 전체...</p>",
-          "contentSnippet": "git-memento는 AI가 생성한 코드 세션을 Git 커밋에 자동으로 기록하는 확장 도구로, 각 커밋에 대응하는 AI 대화 내역을 git notes로 저장함\n커밋 시 AI 세션 ID를 지정하면, 요약본은 refs/notes/commits, 전체...",
-          "id": "https://news.hada.io/topic?id=27153",
-          "isoDate": "2026-03-03T00:54:41.000Z"
-        },
-        {
-          "title": "누구와도 대화하는 법, 그리고 왜 그래야 하는가",
-          "link": "https://news.hada.io/topic?id=27152",
-          "pubDate": "2026-03-03T00:51:40.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>공공장소에서 누구에게든 말을 거는 행위 자체</strong>가 점점 사라지고 있으며 이것이 개인과 사회 전체에 심각한 영향을 미치고 있음</li>\n<li>스마트폰, 재택근무, 터치스크린 주문 키오스크, <strong>제3의 공간(third spaces) 소멸</strong> 등 복합적 요인이 사람 간 대면 대화를 줄이고 있음...</p>",
-          "contentSnippet": "공공장소에서 누구에게든 말을 거는 행위 자체가 점점 사라지고 있으며 이것이 개인과 사회 전체에 심각한 영향을 미치고 있음\n스마트폰, 재택근무, 터치스크린 주문 키오스크, 제3의 공간(third spaces) 소멸 등 복합적 요인이 사람 간 대면 대화를 줄이고 있음...",
-          "id": "https://news.hada.io/topic?id=27152",
-          "isoDate": "2026-03-03T00:51:40.000Z"
-        },
-        {
-          "title": "/e/OS - 완전한 ‘deGoogled’ 모바일 생태계",
-          "link": "https://news.hada.io/topic?id=27151",
-          "pubDate": "2026-03-03T00:48:40.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>오픈소스 기반의 <strong>/e/OS</strong>는 구글 서비스에 의존하지 않는 <strong>프라이버시 중심 모바일 운영체제</strong>로, 자체 앱과 온라인 서비스를 통합 제공</li>\n<li>\n<strong>Google 앱과 서버 연결을 완전히 제거</strong>하고, microG·BeaconDB·Murena Find 등으로 대체해 데이터 추적을 차단</l...</p>",
-          "contentSnippet": "오픈소스 기반의 /e/OS는 구글 서비스에 의존하지 않는 프라이버시 중심 모바일 운영체제로, 자체 앱과 온라인 서비스를 통합 제공\nGoogle 앱과 서버 연결을 완전히 제거하고, microG·BeaconDB·Murena Find 등으로 대체해 데이터 추적을 차단",
-          "id": "https://news.hada.io/topic?id=27151",
-          "isoDate": "2026-03-03T00:48:40.000Z"
-        },
-        {
-          "title": "마이크로소프트, Copilot 디스코드에서 ‘Microslop’ 단어 금지 후 서버를 잠금",
-          "link": "https://news.hada.io/topic?id=27150",
-          "pubDate": "2026-03-03T00:45:40.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Microsoft Copilot 공식 Discord 서버</strong>에서 ‘Microslop’이라는 단어가 자동 차단되며 논란이 발생</li>\n<li>사용자가 ‘Microsl0p’ 등 <strong>우회 표현</strong>을 시도하자, 서버는 점차 메시지 제한과 접근 제한으로 확대</li>\n<li>이후 <strong>서버 전체가 잠금 상태</strong>로 전환...</p>",
-          "contentSnippet": "Microsoft Copilot 공식 Discord 서버에서 ‘Microslop’이라는 단어가 자동 차단되며 논란이 발생\n사용자가 ‘Microsl0p’ 등 우회 표현을 시도하자, 서버는 점차 메시지 제한과 접근 제한으로 확대\n이후 서버 전체가 잠금 상태로 전환...",
-          "id": "https://news.hada.io/topic?id=27150",
-          "isoDate": "2026-03-03T00:45:40.000Z"
-        },
-        {
-          "title": "모토로라, GrapheneOS와의 파트너십 발표",
-          "link": "https://news.hada.io/topic?id=27149",
-          "pubDate": "2026-03-03T00:42:40.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>스마트폰 보안 강화를 위한 장기 협력</strong>이 모토로라와 GrapheneOS 재단 간에 체결되어, 차세대 기기에서 <strong>GrapheneOS 호환성</strong>을 갖춘 보안 중심 설계를 추진</li>\n<li>GrapheneOS는 <strong>Android 오픈소스 프로젝트 기반의 강화된 운영체제</strong>를 개발하는 비영리 단체...</p>",
-          "contentSnippet": "스마트폰 보안 강화를 위한 장기 협력이 모토로라와 GrapheneOS 재단 간에 체결되어, 차세대 기기에서 GrapheneOS 호환성을 갖춘 보안 중심 설계를 추진\nGrapheneOS는 Android 오픈소스 프로젝트 기반의 강화된 운영체제를 개발하는 비영리 단체...",
-          "id": "https://news.hada.io/topic?id=27149",
-          "isoDate": "2026-03-03T00:42:40.000Z"
-        },
-        {
-          "title": "Show GN: Notion Cv Helper - Notion에 작성한 이력서를 Claude Code로 관리",
-          "link": "https://news.hada.io/topic?id=27148",
-          "pubDate": "2026-03-03T00:31:55.000Z",
-          "author": "jamsya",
-          "content": "<p>안녕하세요, 노션으로 이력서나 포트폴리오를 관리하시는 분들의 업데이트 귀찮음을 해결하고자 개발한 오픈소스 클로드 플러그인 notion-cv-helper를 소개합니다.</p>\n<p>클로드 노션 MCP, 노션 API 토큰을 기반으로 동작하며 사용자의 노션 이력서 페이지를 읽어들인 후 필요한 요청에 따라 이력서를 작성 및 수정해",
-          "contentSnippet": "안녕하세요, 노션으로 이력서나 포트폴리오를 관리하시는 분들의 업데이트 귀찮음을 해결하고자 개발한 오픈소스 클로드 플러그인 notion-cv-helper를 소개합니다.\n클로드 노션 MCP, 노션 API 토큰을 기반으로 동작하며 사용자의 노션 이력서 페이지를 읽어들인 후 필요한 요청에 따라 이력서를 작성 및 수정해",
-          "id": "https://news.hada.io/topic?id=27148",
-          "isoDate": "2026-03-03T00:31:55.000Z"
-        },
-        {
-          "title": "zvec - 초경량·초고속 인프로세스 벡터 DB",
-          "link": "https://news.hada.io/topic?id=27147",
-          "pubDate": "2026-03-03T00:31:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>애플리케이션 내에서 직접 임베드</strong> 가능한 <strong>벡터DB</strong>로, 대규모 <strong>유사도 검색</strong>을 최소 설정으로 수행하도록 설계</li>\n<li>Alibaba의 <strong>Proxima 엔진</strong> 기반으로 구축되어, <strong>프로덕션급 확장성과 저지연 검색 성능</strong> 제공</li>\n<li>...</p>",
-          "contentSnippet": "애플리케이션 내에서 직접 임베드 가능한 벡터DB로, 대규모 유사도 검색을 최소 설정으로 수행하도록 설계\nAlibaba의 Proxima 엔진 기반으로 구축되어, 프로덕션급 확장성과 저지연 검색 성능 제공\n...",
-          "id": "https://news.hada.io/topic?id=27147",
-          "isoDate": "2026-03-03T00:31:02.000Z"
-        },
-        {
-          "title": "M4 Apple Neural Engine 내부 탐구, Part 1: 리버스 엔지니어링",
-          "link": "https://news.hada.io/topic?id=27146",
-          "pubDate": "2026-03-02T23:36:55.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Apple Neural Engine(ANE)</strong> 의 내부 구조를 직접 분석해 <strong>CoreML을 우회하고 하드웨어에 직접 접근</strong>하는 방법을 구현</li>\n<li>CoreML의 추상화 계층을 제거하고 <code>_ANEClient</code> API를 통해 <strong>모델 컴파일·로드·실행을 직접 수행</strong>\n</li>\n<li>\n<strong>...</p>",
-          "contentSnippet": "Apple Neural Engine(ANE) 의 내부 구조를 직접 분석해 CoreML을 우회하고 하드웨어에 직접 접근하는 방법을 구현\nCoreML의 추상화 계층을 제거하고 _ANEClient API를 통해 모델 컴파일·로드·실행을 직접 수행\n\n\n...",
-          "id": "https://news.hada.io/topic?id=27146",
-          "isoDate": "2026-03-02T23:36:55.000Z"
         }
       ]
     }
