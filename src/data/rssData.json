@@ -7,6 +7,46 @@
       "priority": 1,
       "data": [
         {
+          "title": "Proton Mail이 FBI의 ‘Stop Cop City’ 시위자 신원 확인을 도운 사건",
+          "link": "https://news.hada.io/topic?id=27262",
+          "pubDate": "2026-03-06T18:32:57.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>개인정보 보호 중심 이메일 서비스 Proton Mail</strong>이 미국 FBI의 요청과 관련해 <strong>스위스 정부에 결제 데이터를 제공</strong>, 이를 통해 익명 시위자의 신원이 확인됨</li>\n<li>법원 기록에 따르면 Proton Mail은 <strong>‘Stop Cop City’ 운동 관련 계정의 결제 정보</strong>를 스위...</p>",
+          "contentSnippet": "개인정보 보호 중심 이메일 서비스 Proton Mail이 미국 FBI의 요청과 관련해 스위스 정부에 결제 데이터를 제공, 이를 통해 익명 시위자의 신원이 확인됨\n법원 기록에 따르면 Proton Mail은 ‘Stop Cop City’ 운동 관련 계정의 결제 정보를 스위...",
+          "id": "https://news.hada.io/topic?id=27262",
+          "isoDate": "2026-03-06T18:32:57.000Z"
+        },
+        {
+          "title": "AI 보조 재작성으로 인한 재라이선스 문제",
+          "link": "https://news.hada.io/topic?id=27261",
+          "pubDate": "2026-03-06T17:37:58.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>오픈소스 프로젝트 <strong>chardet v7.0.0</strong>이 AI 도구를 이용해 전체 코드를 다시 작성하고 <strong>LGPL에서 MIT로 라이선스를 변경</strong>함</li>\n<li>원 저자는 이 과정이 <strong>GPL 위반 가능성</strong>이 있다고 주장하며, AI가 원본 코드를 학습한 상태에서 생성한 결과물은 <strong>‘클린...</p>",
+          "contentSnippet": "오픈소스 프로젝트 chardet v7.0.0이 AI 도구를 이용해 전체 코드를 다시 작성하고 LGPL에서 MIT로 라이선스를 변경함\n원 저자는 이 과정이 GPL 위반 가능성이 있다고 주장하며, AI가 원본 코드를 학습한 상태에서 생성한 결과물은 ‘클린...",
+          "id": "https://news.hada.io/topic?id=27261",
+          "isoDate": "2026-03-06T17:37:58.000Z"
+        },
+        {
+          "title": "브랜드 시대",
+          "link": "https://news.hada.io/topic?id=27260",
+          "pubDate": "2026-03-06T17:34:58.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>1970년대 <strong>스위스 시계 산업</strong>은 일본 경쟁, 환율 급등, 쿼츠 기술의 등장으로 붕괴 위기에 직면했으며, 일부 기업은 <strong>정밀 기계 제조업체에서 럭셔리 브랜드</strong>로 전환해 생존함</li>\n<li>이 전환으로 시계의 가치는 <strong>기술적 정확성</strong>이 아니라 <strong>브랜드와 상...</p>",
+          "contentSnippet": "1970년대 스위스 시계 산업은 일본 경쟁, 환율 급등, 쿼츠 기술의 등장으로 붕괴 위기에 직면했으며, 일부 기업은 정밀 기계 제조업체에서 럭셔리 브랜드로 전환해 생존함\n이 전환으로 시계의 가치는 기술적 정확성이 아니라 브랜드와 상...",
+          "id": "https://news.hada.io/topic?id=27260",
+          "isoDate": "2026-03-06T17:34:58.000Z"
+        },
+        {
+          "title": "Anthropic, 미 국방부로부터 공식적으로 공급망 위험으로 지정",
+          "link": "https://news.hada.io/topic?id=27259",
+          "pubDate": "2026-03-06T15:33:07.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>미 국방부가 <strong>Anthropic을 공급망 위험으로 공식 분류</strong>하며, 인공지능 분야에서의 긴장 고조</li>\n<li>이번 조치는 <strong>국가 안보와 기술 의존성</strong>에 대한 우려 속에서 이루어진 결정</li>\n<li>\n<strong>Anthropic의 AI 기술과 관련된 공급망 관리</strong>가 정부의 감시 대상에 포...</p>",
+          "contentSnippet": "미 국방부가 Anthropic을 공급망 위험으로 공식 분류하며, 인공지능 분야에서의 긴장 고조\n이번 조치는 국가 안보와 기술 의존성에 대한 우려 속에서 이루어진 결정\nAnthropic의 AI 기술과 관련된 공급망 관리가 정부의 감시 대상에 포...",
+          "id": "https://news.hada.io/topic?id=27259",
+          "isoDate": "2026-03-06T15:33:07.000Z"
+        },
+        {
           "title": "Show GN: start.spring.io를 VS Code 안에 넣었습니다",
           "link": "https://news.hada.io/topic?id=27258",
           "pubDate": "2026-03-06T11:56:33.000Z",
@@ -465,46 +505,6 @@
           "contentSnippet": "개발팀이 코드 작성 대신 작업 단위 관리에 집중할 수 있도록 지원\n각 프로젝트 작업을 격리된 자율 실행(run) 형태로 전환해,\n업무를 관리하고\n에이전트는 독립적으로 구현을 수행하는 구조",
           "id": "https://news.hada.io/topic?id=27201",
           "isoDate": "2026-03-05T00:32:23.000Z"
-        },
-        {
-          "title": "Mullvad VPN: 런던 거리에서 상영 금지된 TV 광고 [영상]",
-          "link": "https://news.hada.io/topic?id=27200",
-          "pubDate": "2026-03-04T22:36:40.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Mullvad VPN</strong>이 영국에서 <strong>방송 금지를 당한 TV 광고</strong>를 공개</li>\n<li>광고는 <strong>프라이버시 보호와 감시 사회 비판</strong>을 주제로 구성</li>\n<li>영국 방송 규제 기관의 결정으로 <strong>TV 송출이 차단</strong>, 대신 <strong>런던 거리 전광판</strong>에서 상...</p>",
-          "contentSnippet": "Mullvad VPN이 영국에서 방송 금지를 당한 TV 광고를 공개\n광고는 프라이버시 보호와 감시 사회 비판을 주제로 구성\n영국 방송 규제 기관의 결정으로 TV 송출이 차단, 대신 런던 거리 전광판에서 상...",
-          "id": "https://news.hada.io/topic?id=27200",
-          "isoDate": "2026-03-04T22:36:40.000Z"
-        },
-        {
-          "title": "이란 전쟁 비용 추적기 — 일시 중단",
-          "link": "https://news.hada.io/topic?id=27199",
-          "pubDate": "2026-03-04T22:33:40.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>이란 전쟁 비용 추적기</strong>는 전쟁 관련 비용 데이터를 실시간으로 집계·공개하는 프로젝트임</li>\n<li>현재 운영이 <strong>일시 중단</strong>된 상태로, 데이터의 <strong>정확성 검증 작업</strong>이 진행 중임</li>\n<li>프로젝트 팀은 모든 <strong>비용 데이터와 업데이트의 신뢰성 확보...</p>",
-          "contentSnippet": "이란 전쟁 비용 추적기는 전쟁 관련 비용 데이터를 실시간으로 집계·공개하는 프로젝트임\n현재 운영이 일시 중단된 상태로, 데이터의 정확성 검증 작업이 진행 중임\n프로젝트 팀은 모든 비용 데이터와 업데이트의 신뢰성 확보...",
-          "id": "https://news.hada.io/topic?id=27199",
-          "isoDate": "2026-03-04T22:33:40.000Z"
-        },
-        {
-          "title": "OpenAI, Codex 앱 Window용 공개",
-          "link": "https://news.hada.io/topic?id=27198",
-          "pubDate": "2026-03-04T22:08:15.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>여러 프로젝트를 한 화면에서 병렬 에이전트 스레드로 작업 가능</li>\n<li>\n<strong>PowerShell 과 Windows 네이티브 샌드박스</strong> 기반으로 동작하지만, 필요시엔 WSL 모드로 전환 가능</li>\n<li>\n<code>Open</code> 기본 에디터 지정 가능(VSCode, SublimeText,..) 하며 프로젝트별로 지정 가능</li>\n<l...</p>",
-          "contentSnippet": "여러 프로젝트를 한 화면에서 병렬 에이전트 스레드로 작업 가능\nPowerShell 과 Windows 네이티브 샌드박스 기반으로 동작하지만, 필요시엔 WSL 모드로 전환 가능\nOpen 기본 에디터 지정 가능(VSCode, SublimeText,..) 하며 프로젝트별로 지정 가능",
-          "id": "https://news.hada.io/topic?id=27198",
-          "isoDate": "2026-03-04T22:08:15.000Z"
-        },
-        {
-          "title": "Show GN: HN 토론을 아티클 옆에 붙여봤습니다",
-          "link": "https://news.hada.io/topic?id=27197",
-          "pubDate": "2026-03-04T16:28:17.000Z",
-          "author": "rrockp",
-          "content": "<p>긱뉴스나 해커뉴스 보면 토론 내용이랑 본문이 다른 페이지로 분리된게 불편하더라고요. 사람들이 어떤 문단을 얘기하는 건지 기사랑 댓글창을 왔다갔다하는 게 항상 불편했습니다.<br />\n그래서 아무 웹페이지에나 Google Docs / Notion 스타일 코멘트를 달 수 있는 도구를 만들었습니다.</p>\n<p>단톡방에서 링크 공",
-          "contentSnippet": "긱뉴스나 해커뉴스 보면 토론 내용이랑 본문이 다른 페이지로 분리된게 불편하더라고요. 사람들이 어떤 문단을 얘기하는 건지 기사랑 댓글창을 왔다갔다하는 게 항상 불편했습니다.\n단톡방에서 링크 공",
-          "id": "https://news.hada.io/topic?id=27197",
-          "isoDate": "2026-03-04T16:28:17.000Z"
         }
       ]
     }
