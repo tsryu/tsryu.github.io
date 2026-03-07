@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: SlideNav - Google Slides 슬라이드 링크 이동 후 뒤로가기 문제를 해결하는 Chrome extension",
+          "link": "https://news.hada.io/topic?id=27282",
+          "pubDate": "2026-03-07T08:44:04.000Z",
+          "author": "irlari",
+          "content": "<p>SlideNav는 Google Slides용 Chrome extension입니다.<br />\n슬라이드 링크로 이동한 뒤 이전 슬라이드로 돌아갈 수 없는 문제를 해결합니다.</p>\n<p>팀에서 앱 기획서를 Google Slides로 관리하고 있는데, 슬라이드 안의 링크를 통해 다른 슬라이드로 이동하면 브라우저 뒤로가기 버튼으로 이전 슬라이드로 돌아갈 수",
+          "contentSnippet": "SlideNav는 Google Slides용 Chrome extension입니다.\n팀에서 앱 기획서를 Google Slides로 관리하고 있는데, 슬라이드 안의 링크를 통해 다른 슬라이드로 이동하면 브라우저 뒤로가기 버튼으로 이전 슬라이드로 돌아갈 수",
+          "id": "https://news.hada.io/topic?id=27282",
+          "isoDate": "2026-03-07T08:44:04.000Z"
+        },
+        {
+          "title": "Show GN: [Marklas] Markdown &lt;-&gt; Atlassian Document Format(ADF) 양방향 변환기",
+          "link": "https://news.hada.io/topic?id=27281",
+          "pubDate": "2026-03-07T06:00:07.000Z",
+          "author": "byexist",
+          "content": "<p>Confluence와 Jira는 문서를 ADF(Atlassian Document Format)라는 JSON 구조로 저장합니다. API로 페이지를 읽고 쓸 때 이 포맷을 직접 다뤄야 하는데, 패널·멘션·컬러텍스트 같은 ADF 전용 기능은 Markdown으로 변환하면 손실됩니다.</p>\n<p>Marklas는 ADF 전용 기능을 HTML 주석 어노테이션으로 보존해서 이 문제를",
+          "contentSnippet": "Confluence와 Jira는 문서를 ADF(Atlassian Document Format)라는 JSON 구조로 저장합니다. API로 페이지를 읽고 쓸 때 이 포맷을 직접 다뤄야 하는데, 패널·멘션·컬러텍스트 같은 ADF 전용 기능은 Markdown으로 변환하면 손실됩니다.\nMarklas는 ADF 전용 기능을 HTML 주석 어노테이션으로 보존해서 이 문제를",
+          "id": "https://news.hada.io/topic?id=27281",
+          "isoDate": "2026-03-07T06:00:07.000Z"
+        },
+        {
+          "title": "Claude Code에 가장 적합한 프로그래밍 언어는?",
+          "link": "https://news.hada.io/topic?id=27280",
+          "pubDate": "2026-03-07T05:00:15.000Z",
+          "author": "princox",
+          "content": "<p>Ruby 커미터인 저자가 Claude Code로 13개 언어에서 미니 Git을 구현하게 하고 시간·비용·코드 줄 수를 측정한 벤치마크입니다. 각 언어당 20회씩 총 600회 실행했으며 모델은 Claude Opus 4.6을 사용했습니다.</p>\n<p>결과는 Ruby($0.36) → Python($0.38) → JavaScript($0.39) 순으로 빠르고 저렴했으며, 정적 타입",
+          "contentSnippet": "Ruby 커미터인 저자가 Claude Code로 13개 언어에서 미니 Git을 구현하게 하고 시간·비용·코드 줄 수를 측정한 벤치마크입니다. 각 언어당 20회씩 총 600회 실행했으며 모델은 Claude Opus 4.6을 사용했습니다.\n결과는 Ruby($0.36) → Python($0.38) → JavaScript($0.39) 순으로 빠르고 저렴했으며, 정적 타입",
+          "id": "https://news.hada.io/topic?id=27280",
+          "isoDate": "2026-03-07T05:00:15.000Z"
+        },
+        {
           "title": "Show GN: 바이브코딩 자율주행 FSD",
           "link": "https://news.hada.io/topic?id=27277",
           "pubDate": "2026-03-07T02:33:07.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "과학 연구의 출판 구조가 세금으로 자금을 지원받는 연구를 영리 기업이 독점 판매하는 형태로 작동하고 있음\n연구자들은 정부 보조금으로 연구를 수행하지만, 결과물을 유료 구독 기반의 학술지에 무료로 제공하고 다시 그 접근권을 구매해야 하는 모순적 구조",
           "id": "https://news.hada.io/topic?id=27226",
           "isoDate": "2026-03-05T15:37:37.000Z"
-        },
-        {
-          "title": "Qwen3.5 파인튜닝 가이드",
-          "link": "https://news.hada.io/topic?id=27225",
-          "pubDate": "2026-03-05T15:34:36.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Qwen3.5 모델군(0.8B~122B)</strong> 을 LLM 파인튜닝 및 강화학습용 오픈소스 프레임워크인 Unsloth로 <strong>텍스트 및 비전 기반 파인튜닝</strong>을 할 수 있음</li>\n<li>Unsloth는 <strong>FlashAttention-2 대비 1.5배 빠른 학습 속도</strong>와 <strong>VRAM 50% 절감</strong>을 제공하며,...</p>",
-          "contentSnippet": "Qwen3.5 모델군(0.8B~122B) 을 LLM 파인튜닝 및 강화학습용 오픈소스 프레임워크인 Unsloth로 텍스트 및 비전 기반 파인튜닝을 할 수 있음\nUnsloth는 FlashAttention-2 대비 1.5배 빠른 학습 속도와 VRAM 50% 절감을 제공하며,...",
-          "id": "https://news.hada.io/topic?id=27225",
-          "isoDate": "2026-03-05T15:34:36.000Z"
-        },
-        {
-          "title": "AI를 활용한 코드 재작성과 라이선스 변경의 법적 정당성 논란",
-          "link": "https://news.hada.io/topic?id=27222",
-          "pubDate": "2026-03-05T14:34:26.000Z",
-          "author": "darjeeling",
-          "content": "<h4>핵심 요약 (Top)</h4>\n<p>오픈소스 라이브러리 <code>chardet</code>이 AI(Claude)를 이용해 전체 코드를 재작성한 후 라이선스를 변경하려 시도했으나, 이에 대한 법적·윤리적 타당성 논란이 Hacker News에서 뜨겁게 달궈지고 있습니다. 주요 쟁점은 AI가 학습한 원본 코드의 영향력, '클린룸(Clean Room)' 설계의 ...</p>",
-          "contentSnippet": "핵심 요약 (Top)\n오픈소스 라이브러리 chardet이 AI(Claude)를 이용해 전체 코드를 재작성한 후 라이선스를 변경하려 시도했으나, 이에 대한 법적·윤리적 타당성 논란이 Hacker News에서 뜨겁게 달궈지고 있습니다. 주요 쟁점은 AI가 학습한 원본 코드의 영향력, '클린룸(Clean Room)' 설계의 ...",
-          "id": "https://news.hada.io/topic?id=27222",
-          "isoDate": "2026-03-05T14:34:26.000Z"
-        },
-        {
-          "title": "Claude Code, HTTP Hook 기능 추가",
-          "link": "https://news.hada.io/topic?id=27219",
-          "pubDate": "2026-03-05T08:11:48.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>기존의 <strong>코맨드 훅</strong>보다 더 사용하기 쉽고 안전함</li>\n<li>클로드 코드가 훅 이벤트를 URL에 전송하고 답변을 기다리는 방식</li>\n<li>CC의 상태를 보거나, 퍼미션등을 관리하는 웹앱을 구축 가능(로컬호스트도 됨)</li>\n<li>이렇게 훅이 연결되면 웹 서버에서 변경을 배포하거나 DB등으로 관리...</p>",
-          "contentSnippet": "기존의 코맨드 훅보다 더 사용하기 쉽고 안전함\n클로드 코드가 훅 이벤트를 URL에 전송하고 답변을 기다리는 방식\nCC의 상태를 보거나, 퍼미션등을 관리하는 웹앱을 구축 가능(로컬호스트도 됨)\n이렇게 훅이 연결되면 웹 서버에서 변경을 배포하거나 DB등으로 관리...",
-          "id": "https://news.hada.io/topic?id=27219",
-          "isoDate": "2026-03-05T08:11:48.000Z"
         }
       ]
     }
