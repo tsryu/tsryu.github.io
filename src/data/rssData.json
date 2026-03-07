@@ -7,6 +7,86 @@
       "priority": 1,
       "data": [
         {
+          "title": "Moongate – .NET 10 기반 Ultima Online 서버 에뮬레이터",
+          "link": "https://news.hada.io/topic?id=27292",
+          "pubDate": "2026-03-07T20:33:12.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Ultima Online 서버를 .NET 10과 C#으로 완전 새로 구현한 오픈소스 프로젝트</strong>, AOT(사전 컴파일) 기반으로 높은 성능과 안정적 실행을 목표로 함</li>\n<li>\n<strong>모듈형 아키텍처</strong>와 <strong>정확한 게임 루프 처리</strong>, <strong>패킷 툴링</strong>을 갖추고 있으며, Lua 스...</p>",
+          "contentSnippet": "Ultima Online 서버를 .NET 10과 C#으로 완전 새로 구현한 오픈소스 프로젝트, AOT(사전 컴파일) 기반으로 높은 성능과 안정적 실행을 목표로 함\n모듈형 아키텍처와 정확한 게임 루프 처리, 패킷 툴링을 갖추고 있으며, Lua 스...",
+          "id": "https://news.hada.io/topic?id=27292",
+          "isoDate": "2026-03-07T20:33:12.000Z"
+        },
+        {
+          "title": "LibreSprite – 오픈소스 픽셀 아트 편집기",
+          "link": "https://news.hada.io/topic?id=27291",
+          "pubDate": "2026-03-07T19:37:27.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>픽셀 아트와 스프라이트 애니메이션</strong>을 제작할 수 있는 <strong>무료 오픈소스 프로그램</strong>으로, 다양한 플랫폼에서 사용 가능</li>\n<li>새롭게 <strong>macOS 버전이 출시</strong>되어 Mac 사용자도 LibreSprite를 사용할 수 있게 됨</li>\n<li>개발에는 <strong>@Booga와 @FMANGA</st...</p>",
+          "contentSnippet": "픽셀 아트와 스프라이트 애니메이션을 제작할 수 있는 무료 오픈소스 프로그램으로, 다양한 플랫폼에서 사용 가능\n새롭게 macOS 버전이 출시되어 Mac 사용자도 LibreSprite를 사용할 수 있게 됨\n개발에는 @Booga와 @FMANGA",
+          "id": "https://news.hada.io/topic?id=27291",
+          "isoDate": "2026-03-07T19:37:27.000Z"
+        },
+        {
+          "title": "Helix: 포스트모던 텍스트 에디터",
+          "link": "https://news.hada.io/topic?id=27290",
+          "pubDate": "2026-03-07T19:34:26.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Helix</strong>는 터미널 기반의 <strong>모달 텍스트 에디터</strong>로, 현대적 기능을 통합한 오픈소스 프로젝트</li>\n<li>\n<strong>Tree-sitter</strong> 통합을 통해 구문 강조, 들여쓰기 계산, 코드 탐색 등 <strong>구문 인식 편집 기능</strong>을 제공</li>\n<li>\n<strong>Language Server Pr...</p>",
+          "contentSnippet": "Helix는 터미널 기반의 모달 텍스트 에디터로, 현대적 기능을 통합한 오픈소스 프로젝트\nTree-sitter 통합을 통해 구문 강조, 들여쓰기 계산, 코드 탐색 등 구문 인식 편집 기능을 제공\nLanguage Server Pr...",
+          "id": "https://news.hada.io/topic?id=27290",
+          "isoDate": "2026-03-07T19:34:26.000Z"
+        },
+        {
+          "title": "Show GN: JavaScript로 유닛을 제어하는 RTS 게임",
+          "link": "https://news.hada.io/topic?id=27289",
+          "pubDate": "2026-03-07T19:17:30.000Z",
+          "author": "levmiseri",
+          "content": "<p>어릴 때 프로그래밍을 배울 때 이런 게임이 있었으면 정말 좋았을 것 같아서 만들게 됐습니다. Screeps 같은 코딩 게임이랑 살짝 비슷한 느낌은 있지만, 복잡한 메커니즘이 잔뜩 있는 거대한 세계 대신 Yare는 훨씬 더 미니멀하고 입문하기 쉽게 만들었습니다. 3분 안에 끝나는 빠른 1대1 매치라는 점도 특징입니다....</p>",
+          "contentSnippet": "어릴 때 프로그래밍을 배울 때 이런 게임이 있었으면 정말 좋았을 것 같아서 만들게 됐습니다. Screeps 같은 코딩 게임이랑 살짝 비슷한 느낌은 있지만, 복잡한 메커니즘이 잔뜩 있는 거대한 세계 대신 Yare는 훨씬 더 미니멀하고 입문하기 쉽게 만들었습니다. 3분 안에 끝나는 빠른 1대1 매치라는 점도 특징입니다....",
+          "id": "https://news.hada.io/topic?id=27289",
+          "isoDate": "2026-03-07T19:17:30.000Z"
+        },
+        {
+          "title": "AI 생성 저품질 기여 거부 표준 프로토콜 (RFC 406i - RAGS)",
+          "link": "https://news.hada.io/topic?id=27288",
+          "pubDate": "2026-03-07T17:37:28.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>오픈소스 저장소나 포럼 등에서 <strong>AI가 생성한 저품질 기여물</strong>을 식별하고 폐기하기 위한 표준 절차를 정의함</li>\n<li>문서는 <strong>자동화된 생성물의 특징</strong>을 구체적으로 열거하며, 인간 유지관리자의 검토 시간을 낭비하는 행위를 명확히 거부함</li>\n<li>\n<strong>비대칭적 노력 ...</p>",
+          "contentSnippet": "오픈소스 저장소나 포럼 등에서 AI가 생성한 저품질 기여물을 식별하고 폐기하기 위한 표준 절차를 정의함\n문서는 자동화된 생성물의 특징을 구체적으로 열거하며, 인간 유지관리자의 검토 시간을 낭비하는 행위를 명확히 거부함\n비대칭적 노력 ...",
+          "id": "https://news.hada.io/topic?id=27288",
+          "isoDate": "2026-03-07T17:37:28.000Z"
+        },
+        {
+          "title": "이 CSS는 나를 인간으로 증명한다",
+          "link": "https://news.hada.io/topic?id=27287",
+          "pubDate": "2026-03-07T17:34:28.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>대문자 제거, 글꼴 변형, 철자 교란</strong> 등을 통해 인간적 흔적을 남기려는 실험적 글쓰기 시도</li>\n<li>\n<code>text-transform: lowercase</code> 속성으로 <strong>모든 본문을 소문자로 변환</strong>하되, 코드 블록은 예외 처리</li>\n<li>\n<strong>em dash(—)</strong> 문자를 하이픈 두 ...</p>",
+          "contentSnippet": "대문자 제거, 글꼴 변형, 철자 교란 등을 통해 인간적 흔적을 남기려는 실험적 글쓰기 시도\ntext-transform: lowercase 속성으로 모든 본문을 소문자로 변환하되, 코드 블록은 예외 처리\nem dash(—) 문자를 하이픈 두 ...",
+          "id": "https://news.hada.io/topic?id=27287",
+          "isoDate": "2026-03-07T17:34:28.000Z"
+        },
+        {
+          "title": "클라우드 디스크의 내구성을 얼마나 믿을 수 있을까?",
+          "link": "https://news.hada.io/topic?id=27286",
+          "pubDate": "2026-03-07T17:27:32.000Z",
+          "author": "computerphilosopher",
+          "content": "<ul>\n<li>\n<strong>EBS gp3의 내구 지표</strong>: AWS 공식 문서상 연간 고장률(AFR)은 <strong>0.1% ~ 0.2%</strong> 임. 단일 디스크 기준 내구성은 99.9%로 매우 높으나, 인프라 규모가 커질수록 확률적 리스크가 누적됨.</li>\n<li>\n<strong>규모에 따른 장애 발생 확률</strong>:\n<ul>\n<li>디스크 1,000개를 운영할...</p>",
+          "contentSnippet": "EBS gp3의 내구 지표: AWS 공식 문서상 연간 고장률(AFR)은 0.1% ~ 0.2% 임. 단일 디스크 기준 내구성은 99.9%로 매우 높으나, 인프라 규모가 커질수록 확률적 리스크가 누적됨.\n규모에 따른 장애 발생 확률:\n\n디스크 1,000개를 운영할...",
+          "id": "https://news.hada.io/topic?id=27286",
+          "isoDate": "2026-03-07T17:27:32.000Z"
+        },
+        {
+          "title": "AI의 노동시장 영향: 새로운 측정 방식과 초기 증거",
+          "link": "https://news.hada.io/topic?id=27285",
+          "pubDate": "2026-03-07T15:33:51.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>AI 대체 위험을 정량화한 새로운 지표 ‘관측 노출도(observed exposure)’</strong> 가 제시되었으며, 이는 <strong>이론적 LLM 능력과 실제 사용 데이터를 결합</strong>해 자동화 중심의 업무 활용을 가중 평가함</li>\n<li>실제 AI 활용은 이론적 가능성에 비해 <strong>아직 제한적이며</strong>,...</p>",
+          "contentSnippet": "AI 대체 위험을 정량화한 새로운 지표 ‘관측 노출도(observed exposure)’ 가 제시되었으며, 이는 이론적 LLM 능력과 실제 사용 데이터를 결합해 자동화 중심의 업무 활용을 가중 평가함\n실제 AI 활용은 이론적 가능성에 비해 아직 제한적이며,...",
+          "id": "https://news.hada.io/topic?id=27285",
+          "isoDate": "2026-03-07T15:33:51.000Z"
+        },
+        {
           "title": "Plasma Bigscreen – KDE Plasma용 10피트 인터페이스",
           "link": "https://news.hada.io/topic?id=27284",
           "pubDate": "2026-03-07T10:33:05.000Z",
@@ -425,86 +505,6 @@
           "contentSnippet": "LLM 기반 코딩 도구들의 과대 광고에도 불구하고, 실제 소프트웨어 개발 결과물의 품질은 크게 나아지지 않았으며 오히려 위조(forgery) 에 가까운 산출물이 범람하고 있음\nLLM이 하는 일의 본질은 개인이 자신 또는 타인의 잠재적 산출물을 모방하여 더 빠르게 만...",
           "id": "https://news.hada.io/topic?id=27235",
           "isoDate": "2026-03-06T00:43:37.000Z"
-        },
-        {
-          "title": "미 연방 판사, 정부에 1,300억 달러 이상의 관세 환급 개시 명령",
-          "link": "https://news.hada.io/topic?id=27234",
-          "pubDate": "2026-03-06T00:40:36.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>연방무역법원 판사가 트럼프 행정부에 대해 <strong>대법원이 무효화한 글로벌 관세</strong>로 징수된 1,300억 달러 이상의 환급 절차를 즉시 개시하라고 명령</li>\n<li>Costco, FedEx, Pandora 등 대기업을 포함해 <strong>2,000건 이상의 환급 소송</strong>이 제기된 상태</li>\n<li>행정부는 즉시 효력 발생...</p>",
-          "contentSnippet": "연방무역법원 판사가 트럼프 행정부에 대해 대법원이 무효화한 글로벌 관세로 징수된 1,300억 달러 이상의 환급 절차를 즉시 개시하라고 명령\nCostco, FedEx, Pandora 등 대기업을 포함해 2,000건 이상의 환급 소송이 제기된 상태\n행정부는 즉시 효력 발생...",
-          "id": "https://news.hada.io/topic?id=27234",
-          "isoDate": "2026-03-06T00:40:36.000Z"
-        },
-        {
-          "title": "위키백과, 관리자 계정 대량 유출로 읽기 전용 모드 전환되었다가 복구",
-          "link": "https://news.hada.io/topic?id=27233",
-          "pubDate": "2026-03-06T00:37:36.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>위키미디어 재단의 <strong>상태 페이지</strong>에 따르면, 2026년 3월 5일 위키백과를 포함한 여러 <strong>위키 서비스가 일시적으로 읽기 전용 모드</strong>로 전환됨</li>\n<li>\n<strong>위키 접근 장애</strong>로 시작되어, 이후 <strong>수정 기능이 제한</strong>되는 단계로 이어짐</li>\n<li>원인은 ...</p>",
-          "contentSnippet": "위키미디어 재단의 상태 페이지에 따르면, 2026년 3월 5일 위키백과를 포함한 여러 위키 서비스가 일시적으로 읽기 전용 모드로 전환됨\n위키 접근 장애로 시작되어, 이후 수정 기능이 제한되는 단계로 이어짐\n원인은 ...",
-          "id": "https://news.hada.io/topic?id=27233",
-          "isoDate": "2026-03-06T00:37:36.000Z"
-        },
-        {
-          "title": "mogcli - Microsoft 365용 에이전트 친화적 CLI",
-          "link": "https://news.hada.io/topic?id=27232",
-          "pubDate": "2026-03-06T00:31:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>Microsoft Graph API</strong> 기반으로 개인/기업용 계정을 지원하는 <strong>비공식 CLI 도구</strong>\n</li>\n<li>\n<strong>Mail, Calendar, Contacts, Groups, Tasks, OneDrive</strong> 등 주요 워크로드 제어 명령 제공</li>\n<li>\n<strong>스크립트 자동화</strong>와 <strong>대화형 인증 마법사...</p>",
-          "contentSnippet": "Microsoft Graph API 기반으로 개인/기업용 계정을 지원하는 비공식 CLI 도구\n\n\nMail, Calendar, Contacts, Groups, Tasks, OneDrive 등 주요 워크로드 제어 명령 제공\n스크립트 자동화와 대화형 인증 마법사...",
-          "id": "https://news.hada.io/topic?id=27232",
-          "isoDate": "2026-03-06T00:31:02.000Z"
-        },
-        {
-          "title": "Show GN: wireguard-macos - Mac Mini용 VPN 서버 자동 구축",
-          "link": "https://news.hada.io/topic?id=27231",
-          "pubDate": "2026-03-06T00:09:57.000Z",
-          "author": "hyeongjun",
-          "content": "<p>요즘 오픈클로의 맥미니 열풍으로 인해 맥미니 수요가 급증중. 동시에 오픈클로 말고 맥미니로 할 수 있는거 없는지 찾아보는 사람들도 많아짐. 이에 따라 VPN 서버를 직접 구축하고자 하는 사람들도 늘어남.</p>\n<p>실제로 집에서 VPN 서버를 생성하는건 꽤 가성비가 좋은 일임.</p>\n<p>VPS는 한 달에 네트워크 비용",
-          "contentSnippet": "요즘 오픈클로의 맥미니 열풍으로 인해 맥미니 수요가 급증중. 동시에 오픈클로 말고 맥미니로 할 수 있는거 없는지 찾아보는 사람들도 많아짐. 이에 따라 VPN 서버를 직접 구축하고자 하는 사람들도 늘어남.\n실제로 집에서 VPN 서버를 생성하는건 꽤 가성비가 좋은 일임.\nVPS는 한 달에 네트워크 비용",
-          "id": "https://news.hada.io/topic?id=27231",
-          "isoDate": "2026-03-06T00:09:57.000Z"
-        },
-        {
-          "title": "GPT‑5.4 공개",
-          "link": "https://news.hada.io/topic?id=27230",
-          "pubDate": "2026-03-05T23:48:50.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>ChatGPT, API, Codex 전반에 적용되는 최신 <strong>프런티어 모델</strong>로, 추론·코딩·에이전트 워크플로우 성능을 통합</li>\n<li>네이티브 컴퓨터 사용(computer-use) 기능을 내장하여, 에이전트가 웹사이트와 소프트웨어를 직접 조작하며 복잡한 워크플로우를 수행 가능</li>\n<li>최대 <strong>1M 토큰 컨...</p>",
-          "contentSnippet": "ChatGPT, API, Codex 전반에 적용되는 최신 프런티어 모델로, 추론·코딩·에이전트 워크플로우 성능을 통합\n네이티브 컴퓨터 사용(computer-use) 기능을 내장하여, 에이전트가 웹사이트와 소프트웨어를 직접 조작하며 복잡한 워크플로우를 수행 가능\n최대 1M 토큰 컨...",
-          "id": "https://news.hada.io/topic?id=27230",
-          "isoDate": "2026-03-05T23:48:50.000Z"
-        },
-        {
-          "title": "Moss — 모든 브러시가 작은 프로그램인 픽셀 캔버스",
-          "link": "https://news.hada.io/topic?id=27229",
-          "pubDate": "2026-03-05T20:33:06.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>128×128 픽셀 캔버스에서 <strong>각 브러시가 독립적인 프로그램처럼 작동</strong>해 색상과 패턴을 생성하는 도구</li>\n<li>브러시는 <strong>혼합, 확산, 흘림, 성장, 글리치</strong> 등 다양한 동작을 수행하며, 모두 <strong>사용자가 직접 수정 가능</strong>\n</li>\n<li>캔버스의 각 셀은 데이터 단위로...</p>",
-          "contentSnippet": "128×128 픽셀 캔버스에서 각 브러시가 독립적인 프로그램처럼 작동해 색상과 패턴을 생성하는 도구\n브러시는 혼합, 확산, 흘림, 성장, 글리치 등 다양한 동작을 수행하며, 모두 사용자가 직접 수정 가능\n\n캔버스의 각 셀은 데이터 단위로...",
-          "id": "https://news.hada.io/topic?id=27229",
-          "isoDate": "2026-03-05T20:33:06.000Z"
-        },
-        {
-          "title": "결국 밝혀지는 것(It turns out)",
-          "link": "https://news.hada.io/topic?id=27228",
-          "pubDate": "2026-03-05T16:37:43.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>“It turns out”이라는 표현</strong>이 글쓰기에서 어떻게 작동하는지를 분석하며, 이 표현이 작가에게 주는 <strong>편리한 수사적 효과</strong>를 다룸</li>\n<li>일상 대화나 영화 줄거리 설명처럼 <strong>놀라움이나 발견의 어조</strong>를 전달할 때 자연스럽게 쓰이지만, 논증에서는 <stron...</p>",
-          "contentSnippet": "“It turns out”이라는 표현이 글쓰기에서 어떻게 작동하는지를 분석하며, 이 표현이 작가에게 주는 편리한 수사적 효과를 다룸\n일상 대화나 영화 줄거리 설명처럼 놀라움이나 발견의 어조를 전달할 때 자연스럽게 쓰이지만, 논증에서는",
-          "id": "https://news.hada.io/topic?id=27228",
-          "isoDate": "2026-03-05T16:37:43.000Z"
-        },
-        {
-          "title": "Firefox의 우클릭 메뉴를 about:config로 개선하기",
-          "link": "https://news.hada.io/topic?id=27227",
-          "pubDate": "2026-03-05T16:34:42.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>macOS의 <strong>기본 Firefox 설치 환경</strong>에서 우클릭 메뉴가 지나치게 복잡하고 불필요한 항목이 많음</li>\n<li>\n<code>about:config</code> 설정을 통해 <strong>AI 관련 버튼, 스크린샷, 번역, 링크 미리보기, 시각 검색 등</strong> 여러 기능을 비활성화 가능</li>\n<li>총 13개의 설정을 <code>fa...</p>",
-          "contentSnippet": "macOS의 기본 Firefox 설치 환경에서 우클릭 메뉴가 지나치게 복잡하고 불필요한 항목이 많음\nabout:config 설정을 통해 AI 관련 버튼, 스크린샷, 번역, 링크 미리보기, 시각 검색 등 여러 기능을 비활성화 가능\n총 13개의 설정을 fa...",
-          "id": "https://news.hada.io/topic?id=27227",
-          "isoDate": "2026-03-05T16:34:42.000Z"
         }
       ]
     }
