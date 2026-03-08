@@ -7,6 +7,96 @@
       "priority": 1,
       "data": [
         {
+          "title": "AI에이전트 도입의 가장 큰 병목은 성능 보다 신뢰(feat. 시간)이다.",
+          "link": "https://news.hada.io/topic?id=27301",
+          "pubDate": "2026-03-08T02:31:43.000Z",
+          "author": "haebom",
+          "content": "<h2>AI 에이전트는 실제로 얼마나 자율적으로 일하고 있을까</h2>\n<ul>\n<li>Anthropic은 수백만 건의 Claude Code 상호작용을 분석해 <strong>AI 에이전트가 실제로 얼마나 일을 맡고 있는지</strong> 측정했습니다.</li>\n<li>연구의 핵심은 모델 성능이 아니라 <strong>사람이 얼마나 자율성을 위임했는가</strong>였습...</p>",
+          "contentSnippet": "AI 에이전트는 실제로 얼마나 자율적으로 일하고 있을까\nAnthropic은 수백만 건의 Claude Code 상호작용을 분석해 AI 에이전트가 실제로 얼마나 일을 맡고 있는지 측정했습니다.\n연구의 핵심은 모델 성능이 아니라 사람이 얼마나 자율성을 위임했는가였습...",
+          "id": "https://news.hada.io/topic?id=27301",
+          "isoDate": "2026-03-08T02:31:43.000Z"
+        },
+        {
+          "title": "Autoresearch - Karpathy의 자동 연구 프레임워크",
+          "link": "https://news.hada.io/topic?id=27300",
+          "pubDate": "2026-03-08T01:11:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>nanochat LLM 학습 코어를 단일 GPU·단일 파일 약 630줄로 압축</strong>한 자기완결형 자율 연구 프레임워크로 <strong>AI 에이전트가 밤새 자율적으로 LLM 학습 실험을 반복</strong>\n</li>\n<li>인간은 <code>프롬프트</code>를 수정하고, AI 에이전트는 <strong><code>학습 코드</code>를 수정</st...</p>",
+          "contentSnippet": "nanochat LLM 학습 코어를 단일 GPU·단일 파일 약 630줄로 압축한 자기완결형 자율 연구 프레임워크로 AI 에이전트가 밤새 자율적으로 LLM 학습 실험을 반복\n\n인간은 프롬프트를 수정하고, AI 에이전트는 학습 코드를 수정",
+          "id": "https://news.hada.io/topic?id=27300",
+          "isoDate": "2026-03-08T01:11:02.000Z"
+        },
+        {
+          "title": "Go 표준 라이브러리에 UUID 패키지 추가 제안",
+          "link": "https://news.hada.io/topic?id=27299",
+          "pubDate": "2026-03-08T00:51:05.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Go 언어에 <strong>UUID 생성 및 파싱 기능을 표준 라이브러리로 포함</strong>하자는 제안이 GitHub에서 논의됨</li>\n<li>제안자는 현재 대부분의 Go 서버·DB 프로젝트가 <strong>github.com/google/uuid</strong> 같은 외부 패키지에 의존하고 있음을 근거로 제시</li>\n<li>C#, Java, Python 등 주요 언어는 ...</p>",
+          "contentSnippet": "Go 언어에 UUID 생성 및 파싱 기능을 표준 라이브러리로 포함하자는 제안이 GitHub에서 논의됨\n제안자는 현재 대부분의 Go 서버·DB 프로젝트가 github.com/google/uuid 같은 외부 패키지에 의존하고 있음을 근거로 제시\nC#, Java, Python 등 주요 언어는 ...",
+          "id": "https://news.hada.io/topic?id=27299",
+          "isoDate": "2026-03-08T00:51:05.000Z"
+        },
+        {
+          "title": "Ki Editor - AST 기반으로 동작하는 에디터",
+          "link": "https://news.hada.io/topic?id=27298",
+          "pubDate": "2026-03-08T00:48:05.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>코드 구조를 직접 조작</strong>할 수 있는 다중 커서 기반 <strong>구조적 편집기</strong>로, 구문 트리(AST)를 중심으로 작동</li>\n<li>\n<strong>구문 노드 단위 상호작용</strong>을 지원해, 코드 작성 의도와 실제 편집 동작 간의 간극을 줄임</li>\n<li>\n<strong>다중 커서 기능</strong>으로 여...</p>",
+          "contentSnippet": "코드 구조를 직접 조작할 수 있는 다중 커서 기반 구조적 편집기로, 구문 트리(AST)를 중심으로 작동\n구문 노드 단위 상호작용을 지원해, 코드 작성 의도와 실제 편집 동작 간의 간극을 줄임\n다중 커서 기능으로 여...",
+          "id": "https://news.hada.io/topic?id=27298",
+          "isoDate": "2026-03-08T00:48:05.000Z"
+        },
+        {
+          "title": "메타, 비트토렌트를 통한 불법 도서 업로드가 공정 이용에 해당한다고 주장",
+          "link": "https://news.hada.io/topic?id=27297",
+          "pubDate": "2026-03-08T00:45:05.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>메타는 <strong>AI 모델 학습을 위해 비트토렌트를 통해 불법 도서를 다운로드 및 업로드한 행위</strong>가 공정 이용에 해당한다고 주장</li>\n<li>회사는 <strong>비트토렌트의 업로드 기능이 기술적으로 불가피한 과정</strong>이며, 데이터 확보를 위한 유일하고 효율적인 수단이었다고 설명</li>\n<li>저자...</p>",
+          "contentSnippet": "메타는 AI 모델 학습을 위해 비트토렌트를 통해 불법 도서를 다운로드 및 업로드한 행위가 공정 이용에 해당한다고 주장\n회사는 비트토렌트의 업로드 기능이 기술적으로 불가피한 과정이며, 데이터 확보를 위한 유일하고 효율적인 수단이었다고 설명\n저자...",
+          "id": "https://news.hada.io/topic?id=27297",
+          "isoDate": "2026-03-08T00:45:05.000Z"
+        },
+        {
+          "title": "LLM은 올바른 코드를 작성하지 않는다. 그럴듯한 코드를 작성할 뿐이다",
+          "link": "https://news.hada.io/topic?id=27296",
+          "pubDate": "2026-03-08T00:42:05.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>SQLite를 <strong>LLM이 Rust로 재작성한 버전</strong>은 기본 키 조회에서 원본보다 <strong>약 20,000배 느린 성능</strong>을 보임</li>\n<li>코드가 컴파일되고 테스트를 통과하지만, 내부적으로 <strong>핵심 알고리듬 오류</strong>와 비효율적 설계가 존재</li>\n<li>주요 원인은 <strong>PRIMARY KEY 인...</p>",
+          "contentSnippet": "SQLite를 LLM이 Rust로 재작성한 버전은 기본 키 조회에서 원본보다 약 20,000배 느린 성능을 보임\n코드가 컴파일되고 테스트를 통과하지만, 내부적으로 핵심 알고리듬 오류와 비효율적 설계가 존재\n주요 원인은 PRIMARY KEY 인...",
+          "id": "https://news.hada.io/topic?id=27296",
+          "isoDate": "2026-03-08T00:42:05.000Z"
+        },
+        {
+          "title": "60살인데요. Claude Code 덕분에 다시 열정이 불타오르네요",
+          "link": "https://news.hada.io/topic?id=27295",
+          "pubDate": "2026-03-08T00:39:05.000Z",
+          "author": "neo",
+          "content": "<blockquote>\n<p>이제 은퇴할 준비가 됐어요. 젊은 시절, 제게 중요한 순간들이 몇 가지 기억나네요. 액티브 서버 페이지, COM 컴포넌트, VB6 같은 것들이요. 지금 생각하면 우습지만, 당시에는 서버 측 명령어를 직접 호출할 수 있다는 게 세상에서 제일 멋진 일이었죠. 밤새도록 그것들을 익히려고 애썼습니다. 수십 년...</p>",
+          "contentSnippet": "이제 은퇴할 준비가 됐어요. 젊은 시절, 제게 중요한 순간들이 몇 가지 기억나네요. 액티브 서버 페이지, COM 컴포넌트, VB6 같은 것들이요. 지금 생각하면 우습지만, 당시에는 서버 측 명령어를 직접 호출할 수 있다는 게 세상에서 제일 멋진 일이었죠. 밤새도록 그것들을 익히려고 애썼습니다. 수십 년...",
+          "id": "https://news.hada.io/topic?id=27295",
+          "isoDate": "2026-03-08T00:39:05.000Z"
+        },
+        {
+          "title": "txiki.js - 작고 강력한 JavaScript 런타임",
+          "link": "https://news.hada.io/topic?id=27294",
+          "pubDate": "2026-03-08T00:31:02.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>최신 <strong>ECMAScript 표준</strong> 및 <strong><a href=\"https://wintertc.org/\">WinterTC 호환</a></strong> 을 목표로 함</li>\n<li>\n<strong><a href=\"https://github.com/quickjs-ng/quickjs\">QuickJS-ng</a></strong> 를 JS엔진으로, <strong><a href=\"https://libuv.org/\">libuv</a></strong> 를 플랫...</p>",
+          "contentSnippet": "최신 ECMAScript 표준 및 WinterTC 호환 을 목표로 함\nQuickJS-ng 를 JS엔진으로, libuv 를 플랫...",
+          "id": "https://news.hada.io/topic?id=27294",
+          "isoDate": "2026-03-08T00:31:02.000Z"
+        },
+        {
+          "title": "헬스 웨어러블 기기의 CT 스캔",
+          "link": "https://news.hada.io/topic?id=27293",
+          "pubDate": "2026-03-07T23:33:00.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Oura 링</strong>, <strong>Dexcom G7</strong>, <strong>Omnipod</strong>, <strong>Jabra 보청기</strong> 등 대표적인 헬스 웨어러블의 내부 구조를 <strong>산업용 CT 스캔</strong>으로 분석한 사례</li>\n<li>각 기기는 <strong>의료 정밀도와 소비자 디자인</strong>을 결합해, 인체에 밀착된 상...</p>",
+          "contentSnippet": "Oura 링, Dexcom G7, Omnipod, Jabra 보청기 등 대표적인 헬스 웨어러블의 내부 구조를 산업용 CT 스캔으로 분석한 사례\n각 기기는 의료 정밀도와 소비자 디자인을 결합해, 인체에 밀착된 상...",
+          "id": "https://news.hada.io/topic?id=27293",
+          "isoDate": "2026-03-07T23:33:00.000Z"
+        },
+        {
           "title": "Moongate – .NET 10 기반 Ultima Online 서버 에뮬레이터",
           "link": "https://news.hada.io/topic?id=27292",
           "pubDate": "2026-03-07T20:33:12.000Z",
@@ -21,8 +111,8 @@
           "link": "https://news.hada.io/topic?id=27291",
           "pubDate": "2026-03-07T19:37:27.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>픽셀 아트와 스프라이트 애니메이션</strong>을 제작할 수 있는 <strong>무료 오픈소스 프로그램</strong>으로, 다양한 플랫폼에서 사용 가능</li>\n<li>새롭게 <strong>macOS 버전이 출시</strong>되어 Mac 사용자도 LibreSprite를 사용할 수 있게 됨</li>\n<li>개발에는 <strong>@Booga와 @FMANGA</st...</p>",
-          "contentSnippet": "픽셀 아트와 스프라이트 애니메이션을 제작할 수 있는 무료 오픈소스 프로그램으로, 다양한 플랫폼에서 사용 가능\n새롭게 macOS 버전이 출시되어 Mac 사용자도 LibreSprite를 사용할 수 있게 됨\n개발에는 @Booga와 @FMANGA",
+          "content": "<ul>\n<li>\n<strong>픽셀 아트와 스프라이트 애니메이션</strong>을 제작할 수 있는 <strong>무료 오픈소스 프로그램</strong>으로, 다양한 플랫폼에서 사용 가능</li>\n<li>새롭게 <strong>macOS 버전이 출시</strong>되어 Mac 사용자도 LibreSprite를 사용할 수 있게 됨</li>\n<li>\n<strong>실시간 애니메이션 미리보기...</p>",
+          "contentSnippet": "픽셀 아트와 스프라이트 애니메이션을 제작할 수 있는 무료 오픈소스 프로그램으로, 다양한 플랫폼에서 사용 가능\n새롭게 macOS 버전이 출시되어 Mac 사용자도 LibreSprite를 사용할 수 있게 됨\n실시간 애니메이션 미리보기...",
           "id": "https://news.hada.io/topic?id=27291",
           "isoDate": "2026-03-07T19:37:27.000Z"
         },
@@ -47,22 +137,22 @@
           "isoDate": "2026-03-07T19:17:30.000Z"
         },
         {
-          "title": "AI 생성 저품질 기여 거부 표준 프로토콜 (RFC 406i - RAGS)",
+          "title": "RFC 406i — AI가 생성한 쓰레기 기여물 거부(RAGS) 표준 프로토콜",
           "link": "https://news.hada.io/topic?id=27288",
           "pubDate": "2026-03-07T17:37:28.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>오픈소스 저장소나 포럼 등에서 <strong>AI가 생성한 저품질 기여물</strong>을 식별하고 폐기하기 위한 표준 절차를 정의함</li>\n<li>문서는 <strong>자동화된 생성물의 특징</strong>을 구체적으로 열거하며, 인간 유지관리자의 검토 시간을 낭비하는 행위를 명확히 거부함</li>\n<li>\n<strong>비대칭적 노력 ...</p>",
-          "contentSnippet": "오픈소스 저장소나 포럼 등에서 AI가 생성한 저품질 기여물을 식별하고 폐기하기 위한 표준 절차를 정의함\n문서는 자동화된 생성물의 특징을 구체적으로 열거하며, 인간 유지관리자의 검토 시간을 낭비하는 행위를 명확히 거부함\n비대칭적 노력 ...",
+          "content": "<ul>\n<li>오픈소스 저장소, 커뮤니티 등에서 AI가 생성한 <strong>저품질 기여물을 자동 거부</strong>하기 위한 표준 프로토콜을 유머러스한 RFC 형식으로 정의한 문서</li>\n<li>프로젝트 메인테이너가 해당 URI를 붙여넣는 것만으로 <strong>&quot;AI 슬롭(slop) 감지&quot;</strong> 거부 신호를 전달하는 표준화된 수...</p>",
+          "contentSnippet": "오픈소스 저장소, 커뮤니티 등에서 AI가 생성한 저품질 기여물을 자동 거부하기 위한 표준 프로토콜을 유머러스한 RFC 형식으로 정의한 문서\n프로젝트 메인테이너가 해당 URI를 붙여넣는 것만으로 \"AI 슬롭(slop) 감지\" 거부 신호를 전달하는 표준화된 수...",
           "id": "https://news.hada.io/topic?id=27288",
           "isoDate": "2026-03-07T17:37:28.000Z"
         },
         {
-          "title": "이 CSS는 나를 인간으로 증명한다",
+          "title": "이 CSS는 내가 인간임을 증명한다",
           "link": "https://news.hada.io/topic?id=27287",
           "pubDate": "2026-03-07T17:34:28.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>대문자 제거, 글꼴 변형, 철자 교란</strong> 등을 통해 인간적 흔적을 남기려는 실험적 글쓰기 시도</li>\n<li>\n<code>text-transform: lowercase</code> 속성으로 <strong>모든 본문을 소문자로 변환</strong>하되, 코드 블록은 예외 처리</li>\n<li>\n<strong>em dash(—)</strong> 문자를 하이픈 두 ...</p>",
-          "contentSnippet": "대문자 제거, 글꼴 변형, 철자 교란 등을 통해 인간적 흔적을 남기려는 실험적 글쓰기 시도\ntext-transform: lowercase 속성으로 모든 본문을 소문자로 변환하되, 코드 블록은 예외 처리\nem dash(—) 문자를 하이픈 두 ...",
+          "content": "<ul>\n<li>\n<strong>AI 텍스트 감지를 우회</strong>하기 위해 CSS, 폰트 조작, 맞춤법 변형 등 여러 기술적 수단을 동원한 실험적 글쓰기 시도</li>\n<li>\n<code>text-transform: lowercase</code>로 대문자를 소문자로 변환하되, <code>code</code>와 <code>pre</code> 블록은 예외 처리해 <strong>코드 가독성</strong>...</p>",
+          "contentSnippet": "AI 텍스트 감지를 우회하기 위해 CSS, 폰트 조작, 맞춤법 변형 등 여러 기술적 수단을 동원한 실험적 글쓰기 시도\ntext-transform: lowercase로 대문자를 소문자로 변환하되, code와 pre 블록은 예외 처리해 코드 가독성...",
           "id": "https://news.hada.io/topic?id=27287",
           "isoDate": "2026-03-07T17:34:28.000Z"
         },
@@ -77,12 +167,12 @@
           "isoDate": "2026-03-07T17:27:32.000Z"
         },
         {
-          "title": "AI의 노동시장 영향: 새로운 측정 방식과 초기 증거",
+          "title": "Anthropic, AI가 노동시장에 미치는 영향 보고서 발표",
           "link": "https://news.hada.io/topic?id=27285",
           "pubDate": "2026-03-07T15:33:51.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>AI 대체 위험을 정량화한 새로운 지표 ‘관측 노출도(observed exposure)’</strong> 가 제시되었으며, 이는 <strong>이론적 LLM 능력과 실제 사용 데이터를 결합</strong>해 자동화 중심의 업무 활용을 가중 평가함</li>\n<li>실제 AI 활용은 이론적 가능성에 비해 <strong>아직 제한적이며</strong>,...</p>",
-          "contentSnippet": "AI 대체 위험을 정량화한 새로운 지표 ‘관측 노출도(observed exposure)’ 가 제시되었으며, 이는 이론적 LLM 능력과 실제 사용 데이터를 결합해 자동화 중심의 업무 활용을 가중 평가함\n실제 AI 활용은 이론적 가능성에 비해 아직 제한적이며,...",
+          "content": "<ul>\n<li>AI가 가장 많이 위협하는 건 <strong>저소득층이 아니라 고학력·고임금 직군</strong>: AI 피해는 &quot;쉬운 일자리&quot;가 아닌 &quot;<strong>좋은 일자리</strong>&quot;에 먼저 닥침</li>\n<li>\n<strong>프로그래머가 가장 많이 노출된 직업 1위</strong>. 커버리지 75%로 전체 직군 중 최상위인데, 정작 ...</p>",
+          "contentSnippet": "AI가 가장 많이 위협하는 건 저소득층이 아니라 고학력·고임금 직군: AI 피해는 \"쉬운 일자리\"가 아닌 \"좋은 일자리\"에 먼저 닥침\n프로그래머가 가장 많이 노출된 직업 1위. 커버리지 75%로 전체 직군 중 최상위인데, 정작 ...",
           "id": "https://news.hada.io/topic?id=27285",
           "isoDate": "2026-03-07T15:33:51.000Z"
         },
@@ -415,96 +505,6 @@
           "contentSnippet": "사람 중심 CLI와 AI 에이전트 중심 CLI는 설계 목표가 근본적으로 다르며, 기존 CLI를 에이전트용으로 개조하는 것은 비효율적\n에이전트는 GUI가 아닌 결정론적이고 기계 판독 가능한 출력, 런타임에서 조회 가능한 자기 기술 스키마, 할루시네이션 방어 장치가 필...",
           "id": "https://news.hada.io/topic?id=27246",
           "isoDate": "2026-03-06T04:03:11.000Z"
-        },
-        {
-          "title": "Show GN: Calto - 메모처럼 쓰면 줄 단위로 계산되는 노트 계산기",
-          "link": "https://news.hada.io/topic?id=27245",
-          "pubDate": "2026-03-06T03:44:25.000Z",
-          "author": "jjongwoodev",
-          "content": "<p>안녕하세요. macOS에선 Numi를 잘 쓰고 있는데, 모바일에선 마땅한 게 없어서 직접 만들어봤습니다.</p>\n<p>메모장처럼 텍스트를 입력하면 각 줄의 결과를 오른쪽에 바로 보여주는 계산기 앱입니다.</p>\n<hr />\n<p>커피 = 4500<br />\n점심 = 12000<br />\n하루식비 = 커피 + 점심       → 16,500<br />\n한달 = 하루식",
-          "contentSnippet": "안녕하세요. macOS에선 Numi를 잘 쓰고 있는데, 모바일에선 마땅한 게 없어서 직접 만들어봤습니다.\n메모장처럼 텍스트를 입력하면 각 줄의 결과를 오른쪽에 바로 보여주는 계산기 앱입니다.\n커피 = 4500\n점심 = 12000\n하루식비 = 커피 + 점심       → 16,500\n한달 = 하루식",
-          "id": "https://news.hada.io/topic?id=27245",
-          "isoDate": "2026-03-06T03:44:25.000Z"
-        },
-        {
-          "title": "폴 그레이엄의 &quot;브랜드 시대 (The Brand Age)&quot; ",
-          "link": "https://news.hada.io/topic?id=27244",
-          "pubDate": "2026-03-06T03:34:11.000Z",
-          "author": "davespark",
-          "content": "<p>폴 그레이엄이 스위스 시계 산업의 역사를 통해 <strong>&quot;브랜드 시대&quot;</strong> 라는 현상을 분석한 에세이입니다.</p>\n<hr />\n<h4>1. 황금기 (1945~1970): 성능이 전부였던 시대</h4>\n<p>스위스 시계 산업의 황금기는 <strong>얼마나 얇고 정확한가</strong>가 유일한 경쟁 기준이었습니다. 파텍 필립·바�",
-          "contentSnippet": "폴 그레이엄이 스위스 시계 산업의 역사를 통해 \"브랜드 시대\" 라는 현상을 분석한 에세이입니다.\n1. 황금기 (1945~1970): 성능이 전부였던 시대\n스위스 시계 산업의 황금기는 얼마나 얇고 정확한가가 유일한 경쟁 기준이었습니다. 파텍 필립·바�",
-          "id": "https://news.hada.io/topic?id=27244",
-          "isoDate": "2026-03-06T03:34:11.000Z"
-        },
-        {
-          "title": "미국 세관국경보호청(CBP), 온라인 광고 생태계를 활용해 사람들의 이동 경로 추적",
-          "link": "https://news.hada.io/topic?id=27243",
-          "pubDate": "2026-03-06T03:32:58.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>CBP가 온라인 광고 산업의 위치 데이터</strong>를 구매해 개인의 이동을 추적한 사실이 내부 국토안보부(DHS) 문서를 통해 확인됨</li>\n<li>이 데이터는 <strong>게임, 데이팅 앱, 피트니스 트래커 등 일반 앱</strong>에서 수집된 정보로, 사용자의 세부 위치 변화를 장기간 파악할 수 있음</li>\n<l...</p>",
-          "contentSnippet": "CBP가 온라인 광고 산업의 위치 데이터를 구매해 개인의 이동을 추적한 사실이 내부 국토안보부(DHS) 문서를 통해 확인됨\n이 데이터는 게임, 데이팅 앱, 피트니스 트래커 등 일반 앱에서 수집된 정보로, 사용자의 세부 위치 변화를 장기간 파악할 수 있음",
-          "id": "https://news.hada.io/topic?id=27243",
-          "isoDate": "2026-03-06T03:32:58.000Z"
-        },
-        {
-          "title": "Paperclip - 인간 개입 없는 회사 만들기",
-          "link": "https://news.hada.io/topic?id=27242",
-          "pubDate": "2026-03-06T03:07:50.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>AI 에이전트 팀이 자율적으로 회사를 운영</strong>하도록 설계된 오픈소스 오케스트레이션 도구</li>\n<li>여러 AI 에이전트를 <strong>조직도, 예산, 목표, 거버넌스 체계</strong>로 통합 관리\n<ul>\n<li>OpenClaw, Claude Code, Codex 등 다양한 에이전트를 직원으로 운용</li>\n</ul>\n</li>\n<li>\n<s...</p>",
-          "contentSnippet": "AI 에이전트 팀이 자율적으로 회사를 운영하도록 설계된 오픈소스 오케스트레이션 도구\n여러 AI 에이전트를 조직도, 예산, 목표, 거버넌스 체계로 통합 관리\n\nOpenClaw, Claude Code, Codex 등 다양한 에이전트를 직원으로 운용",
-          "id": "https://news.hada.io/topic?id=27242",
-          "isoDate": "2026-03-06T03:07:50.000Z"
-        },
-        {
-          "title": "인재에 돈을 가장 많이 쓰는 나라가 인재 전쟁에서 지고 있다",
-          "link": "https://news.hada.io/topic?id=27241",
-          "pubDate": "2026-03-06T03:05:55.000Z",
-          "author": "haebom",
-          "content": "<ul>\n<li>글로벌 AI·과학 인재 전쟁은 <strong>돈보다 ‘어떤 환경과 기회를 제공하느냐’가 승패를 좌우</strong>하고 있음.</li>\n<li>미국의 <strong>H-1B 비자 정치화와 연구비 삭감</strong>이 글로벌 과학자 이동을 촉발함.</li>\n<li>프랑스는 <strong>“Choose France for Science”</strong> 등으로 학문의 자유·�...</p>",
-          "contentSnippet": "글로벌 AI·과학 인재 전쟁은 돈보다 ‘어떤 환경과 기회를 제공하느냐’가 승패를 좌우하고 있음.\n미국의 H-1B 비자 정치화와 연구비 삭감이 글로벌 과학자 이동을 촉발함.\n프랑스는 “Choose France for Science” 등으로 학문의 자유·�...",
-          "id": "https://news.hada.io/topic?id=27241",
-          "isoDate": "2026-03-06T03:05:55.000Z"
-        },
-        {
-          "title": "Grep은 죽었다: Claude Code가 기억하게 만드는 방법",
-          "link": "https://news.hada.io/topic?id=27239",
-          "pubDate": "2026-03-06T01:45:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>클로드 코드의 <strong>세션 간 컨텍스트 유실 문제</strong>를 해결하기 위해 로컬 검색 엔진 QMD와 /recall 스킬을 결합한 메모리 시스템 구축</li>\n<li>QMD는 Obsidian 볼트를 인덱싱하는 <strong>로컬 검색 엔진</strong>으로, BM25·시맨틱·하이브리드 세 가지 검색 모드 지원</li>\n<li>/recall 스킬은 시간...</p>",
-          "contentSnippet": "클로드 코드의 세션 간 컨텍스트 유실 문제를 해결하기 위해 로컬 검색 엔진 QMD와 /recall 스킬을 결합한 메모리 시스템 구축\nQMD는 Obsidian 볼트를 인덱싱하는 로컬 검색 엔진으로, BM25·시맨틱·하이브리드 세 가지 검색 모드 지원\n/recall 스킬은 시간...",
-          "id": "https://news.hada.io/topic?id=27239",
-          "isoDate": "2026-03-06T01:45:01.000Z"
-        },
-        {
-          "title": "구글 Chrome, 2026년 9월부터 2주 출시 주기로 전환",
-          "link": "https://news.hada.io/topic?id=27238",
-          "pubDate": "2026-03-06T01:02:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>2021년 6주에서 4주로 단축했던 크롬 출시 주기가 <strong>2026년 9월부터 2주 주기</strong>로 다시 한 번 빨라짐</li>\n<li>웹 플랫폼이 지속적으로 발전하는 상황에서 <strong>최신 성능 개선사항, 수정사항, 새로운 기능을 즉시 이용</strong>할 수 있도록 하는 것이 목표</li>\n<li>출시 빈도는 높아지지만 ...</p>",
-          "contentSnippet": "2021년 6주에서 4주로 단축했던 크롬 출시 주기가 2026년 9월부터 2주 주기로 다시 한 번 빨라짐\n웹 플랫폼이 지속적으로 발전하는 상황에서 최신 성능 개선사항, 수정사항, 새로운 기능을 즉시 이용할 수 있도록 하는 것이 목표\n출시 빈도는 높아지지만 ...",
-          "id": "https://news.hada.io/topic?id=27238",
-          "isoDate": "2026-03-06T01:02:01.000Z"
-        },
-        {
-          "title": "이 프로젝트를 재라이선스할 권리가 없음",
-          "link": "https://news.hada.io/topic?id=27236",
-          "pubDate": "2026-03-06T00:46:37.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<code>chardet</code>의 원 저자인 <strong>Mark Pilgrim</strong>이 프로젝트의 <strong>LGPL 라이선스 위반</strong>을 지적하며, 최근 버전 7.0.0의 <strong>MIT 라이선스 전환</strong>을 철회할 것을 요구함</li>\n<li>그는 유지보수자들이 “완전한 재작성”이라 주장하더라도, 원본 코드에 <strong>직접...</p>",
-          "contentSnippet": "chardet의 원 저자인 Mark Pilgrim이 프로젝트의 LGPL 라이선스 위반을 지적하며, 최근 버전 7.0.0의 MIT 라이선스 전환을 철회할 것을 요구함\n그는 유지보수자들이 “완전한 재작성”이라 주장하더라도, 원본 코드에 직접...",
-          "id": "https://news.hada.io/topic?id=27236",
-          "isoDate": "2026-03-06T00:46:37.000Z"
-        },
-        {
-          "title": "LLM의 L은 &quot;거짓말(Lying)&quot;을 의미한다",
-          "link": "https://news.hada.io/topic?id=27235",
-          "pubDate": "2026-03-06T00:43:37.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>LLM 기반 코딩 도구들의 과대 광고에도 불구하고, 실제 소프트웨어 개발 결과물의 품질은 크게 나아지지 않았으며 오히려 <strong>위조(forgery)</strong> 에 가까운 산출물이 범람하고 있음</li>\n<li>LLM이 하는 일의 본질은 개인이 자신 또는 타인의 <strong>잠재적 산출물을 모방</strong>하여 더 빠르게 만...</p>",
-          "contentSnippet": "LLM 기반 코딩 도구들의 과대 광고에도 불구하고, 실제 소프트웨어 개발 결과물의 품질은 크게 나아지지 않았으며 오히려 위조(forgery) 에 가까운 산출물이 범람하고 있음\nLLM이 하는 일의 본질은 개인이 자신 또는 타인의 잠재적 산출물을 모방하여 더 빠르게 만...",
-          "id": "https://news.hada.io/topic?id=27235",
-          "isoDate": "2026-03-06T00:43:37.000Z"
         }
       ]
     }
