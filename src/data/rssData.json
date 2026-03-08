@@ -7,6 +7,66 @@
       "priority": 1,
       "data": [
         {
+          "title": "파일은 인간과 에이전트가 상호작용하는 인터페이스임",
+          "link": "https://news.hada.io/topic?id=27320",
+          "pubDate": "2026-03-08T19:33:05.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>최근 <strong>AI 에이전트 생태계</strong>에서 파일시스템이 다시 주목받으며, 데이터베이스와는 다른 <strong>지속적 맥락 관리 수단</strong>으로 부상</li>\n<li>Claude Code, Cursor 등은 <strong>파일 기반 컨텍스트 저장</strong>을 통해 장기 기억을 구현하며, <code>CLAUDE.md</code>, <code>aboutme.m...</p>",
+          "contentSnippet": "최근 AI 에이전트 생태계에서 파일시스템이 다시 주목받으며, 데이터베이스와는 다른 지속적 맥락 관리 수단으로 부상\nClaude Code, Cursor 등은 파일 기반 컨텍스트 저장을 통해 장기 기억을 구현하며, CLAUDE.md, aboutme.m...",
+          "id": "https://news.hada.io/topic?id=27320",
+          "isoDate": "2026-03-08T19:33:05.000Z"
+        },
+        {
+          "title": "Show GN: Google + 네이버 키워드 순위를 한 곳에서 추적하는 서비스를 만들고 있습니다",
+          "link": "https://news.hada.io/topic?id=27319",
+          "pubDate": "2026-03-08T18:07:32.000Z",
+          "author": "warm9806",
+          "content": "<p>1인 개발로 키워드 순위를 매일 자동 추적하는 SaaS를 만들고 있습니다.</p>\n<h2>왜 만들었나</h2>\n<p>기존 SEO 도구들은 훌륭하지만, &quot;내 사이트가 검색결과 몇 위인지&quot;만 보고 싶을 때는 과합니다. 월 수십 달러부터 시작하고, 한국어 UI도 없고, 원화 결제도 안 됩니다.</p>\n<p>키워드 순위 추적 하나에",
+          "contentSnippet": "1인 개발로 키워드 순위를 매일 자동 추적하는 SaaS를 만들고 있습니다.\n왜 만들었나\n기존 SEO 도구들은 훌륭하지만, \"내 사이트가 검색결과 몇 위인지\"만 보고 싶을 때는 과합니다. 월 수십 달러부터 시작하고, 한국어 UI도 없고, 원화 결제도 안 됩니다.\n키워드 순위 추적 하나에",
+          "id": "https://news.hada.io/topic?id=27319",
+          "isoDate": "2026-03-08T18:07:32.000Z"
+        },
+        {
+          "title": "AI 시대에 코드 리뷰, 어떻게 해야할까?",
+          "link": "https://news.hada.io/topic?id=27316",
+          "pubDate": "2026-03-08T16:20:34.000Z",
+          "author": "flowkater",
+          "content": "<ul>\n<li>\n<strong>15년차 CTO 경험에서 시작해 AI 시대 코드 리뷰 담론을 정-반-합으로 정리한 에세이</strong>\n</li>\n<li>코드 리뷰는 항상 문제였다 — 시간, 사람, 프로세스 전부 부족</li>\n<li>AI가 코드 생산량을 폭증시켰지만 리뷰 역량은 그대로 → 병목이 더 커짐</li>\n</ul>\n<p><strong>정 — 인간 리뷰 필수론...</p>",
+          "contentSnippet": "15년차 CTO 경험에서 시작해 AI 시대 코드 리뷰 담론을 정-반-합으로 정리한 에세이\n\n코드 리뷰는 항상 문제였다 — 시간, 사람, 프로세스 전부 부족\nAI가 코드 생산량을 폭증시켰지만 리뷰 역량은 그대로 → 병목이 더 커짐\n정 — 인간 리뷰 필수론...",
+          "id": "https://news.hada.io/topic?id=27316",
+          "isoDate": "2026-03-08T16:20:34.000Z"
+        },
+        {
+          "title": "Qwen3.5 로컬 실행 가이드",
+          "link": "https://news.hada.io/topic?id=27315",
+          "pubDate": "2026-03-08T15:37:00.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Alibaba의 <strong>Qwen3.5 모델군</strong>은 0.8B부터 397B까지 다양한 크기를 제공하며, <strong>멀티모달 하이브리드 추론</strong> 기능과 <strong>256K 컨텍스트</strong>를 지원</li>\n<li>Unsloth는 모든 Qwen3.5 모델을 <strong>Dynamic 2.0 GGUF 양자화</strong>로 제공하며, <strong>llama.cpp</stro...</p>",
+          "contentSnippet": "Alibaba의 Qwen3.5 모델군은 0.8B부터 397B까지 다양한 크기를 제공하며, 멀티모달 하이브리드 추론 기능과 256K 컨텍스트를 지원\nUnsloth는 모든 Qwen3.5 모델을 Dynamic 2.0 GGUF 양자화로 제공하며, llama.cpp",
+          "id": "https://news.hada.io/topic?id=27315",
+          "isoDate": "2026-03-08T15:37:00.000Z"
+        },
+        {
+          "title": "CasNum - 컴퍼스와 자를 이용한 임의 정밀도 산술 라이브러리",
+          "link": "https://news.hada.io/topic?id=27314",
+          "pubDate": "2026-03-08T15:34:00.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>컴퍼스와 자 작도법</strong>을 기반으로 임의 정밀도 산술을 구현한 <strong>Python 라이브러리</strong>로, 모든 연산을 기하학적 구성으로 수행함</li>\n<li>각 수를 평면상의 점으로 표현하고, <strong>덧셈·곱셈·논리 연산</strong>을 모두 작도 규칙으로 구현</li>\n<li>\n<strong>Game Boy 에뮬레...</p>",
+          "contentSnippet": "컴퍼스와 자 작도법을 기반으로 임의 정밀도 산술을 구현한 Python 라이브러리로, 모든 연산을 기하학적 구성으로 수행함\n각 수를 평면상의 점으로 표현하고, 덧셈·곱셈·논리 연산을 모두 작도 규칙으로 구현\nGame Boy 에뮬레...",
+          "id": "https://news.hada.io/topic?id=27314",
+          "isoDate": "2026-03-08T15:34:00.000Z"
+        },
+        {
+          "title": "도커 컨테이너 10년",
+          "link": "https://news.hada.io/topic?id=27313",
+          "pubDate": "2026-03-08T14:33:34.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>도커(Docker)</strong> 는 애플리케이션 스택을 손쉽게 조립하고(<code>docker build</code>), 실행 파일과 데이터를 빠르게 배포하며(<code>docker push</code>), 여러 애플리케이션을 <strong>격리된 환경에서 동시에 실행</strong>할 수 있게 하는 개발 도구임</li>\n<li>2013년 첫 출시 이후 <stro...</p>",
+          "contentSnippet": "도커(Docker) 는 애플리케이션 스택을 손쉽게 조립하고(docker build), 실행 파일과 데이터를 빠르게 배포하며(docker push), 여러 애플리케이션을 격리된 환경에서 동시에 실행할 수 있게 하는 개발 도구임\n2013년 첫 출시 이후",
+          "id": "https://news.hada.io/topic?id=27313",
+          "isoDate": "2026-03-08T14:33:34.000Z"
+        },
+        {
           "title": "일본에서 외로움을 줄이는 요구르트 배달 여성들",
           "link": "https://news.hada.io/topic?id=27311",
           "pubDate": "2026-03-08T13:33:22.000Z",
@@ -445,66 +505,6 @@
           "contentSnippet": "1970년대 초 쿼츠 위기로 스위스 시계 산업이 붕괴 직전까지 몰렸으나, 일부 기업은 정밀 기기 제조사에서 럭셔리 브랜드로 전환해 생존함\n기술이 제품 간 실질적 차이를 소멸시키면, 남는 것은 브랜드뿐이며, 이는 시계 산업만의 이야기가 아닌...",
           "id": "https://news.hada.io/topic?id=27260",
           "isoDate": "2026-03-06T17:34:58.000Z"
-        },
-        {
-          "title": "펜타곤, Anthropic을 공급망 리스크로 공식 지정하며 갈등 격화",
-          "link": "https://news.hada.io/topic?id=27259",
-          "pubDate": "2026-03-06T15:33:07.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>미 국방부가 Anthropic을 <strong>공급망 리스크</strong>로 공식 지정하고, 펜타곤 협력업체들과의 거래를 차단하는 조치를 단행</li>\n<li>이 지정은 통상 <strong>외국 적대국 기업</strong>에 적용되는 것으로, 미국 기업에 적용된 최초 사례 중 하나</li>\n<li>국방부는 AI의 모든 합법적 용도에 사용을 원하...</p>",
-          "contentSnippet": "미 국방부가 Anthropic을 공급망 리스크로 공식 지정하고, 펜타곤 협력업체들과의 거래를 차단하는 조치를 단행\n이 지정은 통상 외국 적대국 기업에 적용되는 것으로, 미국 기업에 적용된 최초 사례 중 하나\n국방부는 AI의 모든 합법적 용도에 사용을 원하...",
-          "id": "https://news.hada.io/topic?id=27259",
-          "isoDate": "2026-03-06T15:33:07.000Z"
-        },
-        {
-          "title": "Show GN: start.spring.io를 VS Code 안에 넣었습니다",
-          "link": "https://news.hada.io/topic?id=27258",
-          "pubDate": "2026-03-06T11:56:33.000Z",
-          "author": "pipiru114",
-          "content": "<p><strong>Spring Boot 프로젝트 만들 때마다 브라우저 왔다갔다 하는 게 불편해서 만들었습니다.</strong></p>\n<p>기존 MS 공식 Extension은 Command Palette에서 옵션을 한 단계씩 선택하는 방식이라 이전 단계로 돌아갈 수 없고, 프로젝트 설정과 의존성을 동시에 보면서 조정할 수 없습니다.</p>\n<p>Spring Forge는",
-          "contentSnippet": "Spring Boot 프로젝트 만들 때마다 브라우저 왔다갔다 하는 게 불편해서 만들었습니다.\n기존 MS 공식 Extension은 Command Palette에서 옵션을 한 단계씩 선택하는 방식이라 이전 단계로 돌아갈 수 없고, 프로젝트 설정과 의존성을 동시에 보면서 조정할 수 없습니다.\nSpring Forge는",
-          "id": "https://news.hada.io/topic?id=27258",
-          "isoDate": "2026-03-06T11:56:33.000Z"
-        },
-        {
-          "title": "GitHub 이슈의 제목을 이용해 4,000대 개발자 머신이 감염됨",
-          "link": "https://news.hada.io/topic?id=27257",
-          "pubDate": "2026-03-06T09:33:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>제목에 삽입된 <strong>프롬프트 인젝션</strong>이 Cline의 <strong>AI 기반 이슈 분류 봇</strong>을 이용해 명령을 주입</li>\n<li>\n<strong>npm 토큰</strong>을 탈취하여 악성 Cline을 배포하면서 <strong>OpenClaw AI 에이전트</strong>를 무단 설치</li>\n<li>공격자는 프롬프트 인젝션 → AI 봇의 임의 코...</p>",
-          "contentSnippet": "제목에 삽입된 프롬프트 인젝션이 Cline의 AI 기반 이슈 분류 봇을 이용해 명령을 주입\nnpm 토큰을 탈취하여 악성 Cline을 배포하면서 OpenClaw AI 에이전트를 무단 설치\n공격자는 프롬프트 인젝션 → AI 봇의 임의 코...",
-          "id": "https://news.hada.io/topic?id=27257",
-          "isoDate": "2026-03-06T09:33:02.000Z"
-        },
-        {
-          "title": "좋은 소프트웨어는 멈출 때를 안다",
-          "link": "https://news.hada.io/topic?id=27256",
-          "pubDate": "2026-03-06T08:33:09.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>소프트웨어의 본질적 역할</strong>은 자신이 해결해야 할 문제를 명확히 알고, 그 한계를 인식하는 데 있음</li>\n<li>\n<strong>좋은 소프트웨어는 모든 기능을 담으려 하지 않고</strong>, 개선이 필요한 부분만 다루며, 목적을 벗어나지 않음</li>\n<li>\n<code>ls</code> 명령어가 AI 기능으로 대체되...</p>",
-          "contentSnippet": "소프트웨어의 본질적 역할은 자신이 해결해야 할 문제를 명확히 알고, 그 한계를 인식하는 데 있음\n좋은 소프트웨어는 모든 기능을 담으려 하지 않고, 개선이 필요한 부분만 다루며, 목적을 벗어나지 않음\nls 명령어가 AI 기능으로 대체되...",
-          "id": "https://news.hada.io/topic?id=27256",
-          "isoDate": "2026-03-06T08:33:09.000Z"
-        },
-        {
-          "title": "Python 'requests' API 설계 철학에서 배우는 인간관계와 결혼 생활의 원칙 (Kenneth Reitz)",
-          "link": "https://news.hada.io/topic?id=27254",
-          "pubDate": "2026-03-06T08:05:47.000Z",
-          "author": "darjeeling",
-          "content": "<h4>핵심 요약</h4>\n<p>Python의 대표적인 HTTP 라이브러리 <code>requests</code>의 창시자 Kenneth Reitz가 API 설계 철학과 오픈소스 프로젝트 유지보수 경험을 결혼 생활에 빗대어 통찰한 에세이입니다. '개발자를 위한 직관적인 인터페이스(API for Humans)', '합리적인 기본값(Sensible Defaults)', '하위 호환성 ...</p>",
-          "contentSnippet": "핵심 요약\nPython의 대표적인 HTTP 라이브러리 requests의 창시자 Kenneth Reitz가 API 설계 철학과 오픈소스 프로젝트 유지보수 경험을 결혼 생활에 빗대어 통찰한 에세이입니다. '개발자를 위한 직관적인 인터페이스(API for Humans)', '합리적인 기본값(Sensible Defaults)', '하위 호환성 ...",
-          "id": "https://news.hada.io/topic?id=27254",
-          "isoDate": "2026-03-06T08:05:47.000Z"
-        },
-        {
-          "title": "Firefox 충돌의 10%는 비트 플립(bit-flip)으로 인한 하드웨어 결함 때문",
-          "link": "https://news.hada.io/topic?id=27251",
-          "pubDate": "2026-03-06T06:33:41.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Firefox 충돌 보고서 분석 결과, <strong>비트 플립으로 인한 하드웨어 오류</strong>가 전체 충돌의 상당 부분을 차지함</li>\n<li>최근 일주일간 약 <strong>47만 건의 충돌 보고서 중 2만5천 건</strong>이 비트 플립 가능성이 있는 사례로 탐지됨</li>\n<li>소프트웨어 버그가 아닌 <strong>하드웨어 결함이 ...</p>",
-          "contentSnippet": "Firefox 충돌 보고서 분석 결과, 비트 플립으로 인한 하드웨어 오류가 전체 충돌의 상당 부분을 차지함\n최근 일주일간 약 47만 건의 충돌 보고서 중 2만5천 건이 비트 플립 가능성이 있는 사례로 탐지됨\n소프트웨어 버그가 아닌 하드웨어 결함이 ...",
-          "id": "https://news.hada.io/topic?id=27251",
-          "isoDate": "2026-03-06T06:33:41.000Z"
         }
       ]
     }
