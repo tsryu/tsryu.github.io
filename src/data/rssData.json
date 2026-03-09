@@ -7,6 +7,26 @@
       "priority": 1,
       "data": [
         {
+          "title": "PS5에 리눅스를 포팅해 스팀 머신으로 전환",
+          "link": "https://news.hada.io/topic?id=27342",
+          "pubDate": "2026-03-09T11:33:15.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>PS5에 <strong>리눅스를 포팅</strong>해 <strong>Steam 게임 실행 환경</strong>으로 전환한 사례</li>\n<li>\n<strong>GTA 5 Enhanced</strong>를 <strong>레이 트레이싱</strong> 활성화 상태로 구동한 모습 공개</li>\n<li>작성자는 해당 게시글을 <strong>PS5에서 직접 작성</strong>했다고 언급</li>\n<li>사...</p>",
+          "contentSnippet": "PS5에 리눅스를 포팅해 Steam 게임 실행 환경으로 전환한 사례\nGTA 5 Enhanced를 레이 트레이싱 활성화 상태로 구동한 모습 공개\n작성자는 해당 게시글을 PS5에서 직접 작성했다고 언급\n사...",
+          "id": "https://news.hada.io/topic?id=27342",
+          "isoDate": "2026-03-09T11:33:15.000Z"
+        },
+        {
+          "title": "LibreOffice Writer가 이제 Markdown을 지원",
+          "link": "https://news.hada.io/topic?id=27341",
+          "pubDate": "2026-03-09T10:33:08.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>전 세계 수백만 사용자가 사용하는 <strong>오픈소스 오피스 제품군 LibreOffice 26.2</strong>가 새 버전으로 공개됨</li>\n<li>이번 릴리스는 <strong>Markdown 가져오기 및 내보내기 기능</strong>을 포함해 문서 작성과 공유를 더욱 유연하게 지원</li>\n<li>\n<strong>성능 향상과 반응성 개선</strong>으로 ...</p>",
+          "contentSnippet": "전 세계 수백만 사용자가 사용하는 오픈소스 오피스 제품군 LibreOffice 26.2가 새 버전으로 공개됨\n이번 릴리스는 Markdown 가져오기 및 내보내기 기능을 포함해 문서 작성과 공유를 더욱 유연하게 지원\n성능 향상과 반응성 개선으로 ...",
+          "id": "https://news.hada.io/topic?id=27341",
+          "isoDate": "2026-03-09T10:33:08.000Z"
+        },
+        {
           "title": "레이저디스크 표면에서 비디오 신호를 현미경으로 관찰한 실험",
           "link": "https://news.hada.io/topic?id=27339",
           "pubDate": "2026-03-09T05:32:47.000Z",
@@ -485,26 +505,6 @@
           "contentSnippet": "SlideNav는 Google Slides용 Chrome extension입니다.\n팀에서 앱 기획서를 Google Slides로 관리하고 있는데, 슬라이드 안의 링크를 통해 다른 슬라이드로 이동하면 브라우저 뒤로가기 버튼으로 이전 슬라이드로 돌아갈 수",
           "id": "https://news.hada.io/topic?id=27282",
           "isoDate": "2026-03-07T08:44:04.000Z"
-        },
-        {
-          "title": "Show GN: [Marklas] Markdown &lt;-&gt; Atlassian Document Format(ADF) 양방향 변환기",
-          "link": "https://news.hada.io/topic?id=27281",
-          "pubDate": "2026-03-07T06:00:07.000Z",
-          "author": "byexist",
-          "content": "<p>Confluence와 Jira는 문서를 ADF(Atlassian Document Format)라는 JSON 구조로 저장합니다. API로 페이지를 읽고 쓸 때 이 포맷을 직접 다뤄야 하는데, 패널·멘션·컬러텍스트 같은 ADF 전용 기능은 Markdown으로 변환하면 손실됩니다.</p>\n<p>Marklas는 ADF 전용 기능을 HTML 주석 어노테이션으로 보존해서 이 문제를",
-          "contentSnippet": "Confluence와 Jira는 문서를 ADF(Atlassian Document Format)라는 JSON 구조로 저장합니다. API로 페이지를 읽고 쓸 때 이 포맷을 직접 다뤄야 하는데, 패널·멘션·컬러텍스트 같은 ADF 전용 기능은 Markdown으로 변환하면 손실됩니다.\nMarklas는 ADF 전용 기능을 HTML 주석 어노테이션으로 보존해서 이 문제를",
-          "id": "https://news.hada.io/topic?id=27281",
-          "isoDate": "2026-03-07T06:00:07.000Z"
-        },
-        {
-          "title": "Claude Code에 가장 적합한 프로그래밍 언어는?",
-          "link": "https://news.hada.io/topic?id=27280",
-          "pubDate": "2026-03-07T05:00:15.000Z",
-          "author": "princox",
-          "content": "<p>Ruby 커미터인 저자가 Claude Code로 13개 언어에서 미니 Git을 구현하게 하고 시간·비용·코드 줄 수를 측정한 벤치마크입니다. 각 언어당 20회씩 총 600회 실행했으며 모델은 Claude Opus 4.6을 사용했습니다.</p>\n<p>결과는 Ruby($0.36) → Python($0.38) → JavaScript($0.39) 순으로 빠르고 저렴했으며, 정적 타입",
-          "contentSnippet": "Ruby 커미터인 저자가 Claude Code로 13개 언어에서 미니 Git을 구현하게 하고 시간·비용·코드 줄 수를 측정한 벤치마크입니다. 각 언어당 20회씩 총 600회 실행했으며 모델은 Claude Opus 4.6을 사용했습니다.\n결과는 Ruby($0.36) → Python($0.38) → JavaScript($0.39) 순으로 빠르고 저렴했으며, 정적 타입",
-          "id": "https://news.hada.io/topic?id=27280",
-          "isoDate": "2026-03-07T05:00:15.000Z"
         }
       ]
     }
