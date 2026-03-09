@@ -7,6 +7,16 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: Claude Code 대화 내용 자동으로 GitHub에 저장하는 도구 만들었습니다",
+          "link": "https://news.hada.io/topic?id=27345",
+          "pubDate": "2026-03-09T17:25:22.000Z",
+          "author": "devil1032",
+          "content": "<p>Claude Code 쓰다가 세션 날아간 적 있으신 분?</p>\n<p>어제 Claude랑 뭘 논의했는지..<br />\n어떤 결정을 내렸는지 기억이 안 나서 또 처음부터 설명하고...<br />\n프롬프팅 하다보면 &quot;아 그 프롬프팅 또 써먹을 수 있는데.. 세션 뭐였더라&quot; 하는게 부지기수 였습니다.</p>\n<p>이게 너무 불편해서 하나 만",
+          "contentSnippet": "Claude Code 쓰다가 세션 날아간 적 있으신 분?\n어제 Claude랑 뭘 논의했는지..\n이게 너무 불편해서 하나 만",
+          "id": "https://news.hada.io/topic?id=27345",
+          "isoDate": "2026-03-09T17:25:22.000Z"
+        },
+        {
           "title": "PS5에 리눅스를 포팅해 스팀 머신으로 전환",
           "link": "https://news.hada.io/topic?id=27342",
           "pubDate": "2026-03-09T11:33:15.000Z",
@@ -495,16 +505,6 @@
           "contentSnippet": "TV와 셋톱박스용 오픈소스 리눅스 인터페이스로, 대형 화면에서 사용할 수 있는 자유로운 데스크톱 환경을 제공\n리모컨, 게임패드, 키보드·마우스, KDE Connect 앱 등 다양한 입력 장치를 지원해 거실에서도 손쉽게 조작 가능",
           "id": "https://news.hada.io/topic?id=27284",
           "isoDate": "2026-03-07T10:33:05.000Z"
-        },
-        {
-          "title": "Show GN: SlideNav - Google Slides 슬라이드 링크 이동 후 뒤로가기 문제를 해결하는 Chrome extension",
-          "link": "https://news.hada.io/topic?id=27282",
-          "pubDate": "2026-03-07T08:44:04.000Z",
-          "author": "irlari",
-          "content": "<p>SlideNav는 Google Slides용 Chrome extension입니다.<br />\n슬라이드 링크로 이동한 뒤 이전 슬라이드로 돌아갈 수 없는 문제를 해결합니다.</p>\n<p>팀에서 앱 기획서를 Google Slides로 관리하고 있는데, 슬라이드 안의 링크를 통해 다른 슬라이드로 이동하면 브라우저 뒤로가기 버튼으로 이전 슬라이드로 돌아갈 수",
-          "contentSnippet": "SlideNav는 Google Slides용 Chrome extension입니다.\n팀에서 앱 기획서를 Google Slides로 관리하고 있는데, 슬라이드 안의 링크를 통해 다른 슬라이드로 이동하면 브라우저 뒤로가기 버튼으로 이전 슬라이드로 돌아갈 수",
-          "id": "https://news.hada.io/topic?id=27282",
-          "isoDate": "2026-03-07T08:44:04.000Z"
         }
       ]
     }
