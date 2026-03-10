@@ -7,6 +7,46 @@
       "priority": 1,
       "data": [
         {
+          "title": "Anthropic의 Claude Code 사용자당 5천 달러 비용 주장은 사실이 아님",
+          "link": "https://news.hada.io/topic?id=27380",
+          "pubDate": "2026-03-10T15:33:47.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Forbes가 인용한 <strong>Claude Code Max 요금제의 5천 달러 계산</strong>은 실제 <strong>컴퓨트 비용이 아닌 API 소매가 기준</strong>임</li>\n<li>OpenRouter의 <strong>Qwen 3.5 397B</strong>와 <strong>Kimi K2.5</strong> 모델 가격을 비교하면, <strong>Anthropic API 요금의 약 10분의 1 수준</stro...</p>",
+          "contentSnippet": "Forbes가 인용한 Claude Code Max 요금제의 5천 달러 계산은 실제 컴퓨트 비용이 아닌 API 소매가 기준임\nOpenRouter의 Qwen 3.5 397B와 Kimi K2.5 모델 가격을 비교하면, Anthropic API 요금의 약 10분의 1 수준",
+          "id": "https://news.hada.io/topic?id=27380",
+          "isoDate": "2026-03-10T15:33:47.000Z"
+        },
+        {
+          "title": "JSLinux가 이제 x86_64를 지원",
+          "link": "https://news.hada.io/topic?id=27379",
+          "pubDate": "2026-03-10T14:33:13.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>웹 브라우저에서 <strong>Linux 및 기타 운영체제</strong>를 직접 실행할 수 있는 <strong>JSLinux</strong>가 <strong>x86_64 아키텍처</strong>를 새로 지원함</li>\n<li>새 버전은 <strong>Alpine Linux 3.23.2</strong>를 기반으로 하며, <strong>AVX-512</strong>와 <strong>Intel APX</strong> 명령어 확...</p>",
+          "contentSnippet": "웹 브라우저에서 Linux 및 기타 운영체제를 직접 실행할 수 있는 JSLinux가 x86_64 아키텍처를 새로 지원함\n새 버전은 Alpine Linux 3.23.2를 기반으로 하며, AVX-512와 Intel APX 명령어 확...",
+          "id": "https://news.hada.io/topic?id=27379",
+          "isoDate": "2026-03-10T14:33:13.000Z"
+        },
+        {
+          "title": "Show GN: VSCode 안에서 단독으로 실행되는 OpenClaw의 수정판. 그런데 페르소나를 곁들인.",
+          "link": "https://news.hada.io/topic?id=27377",
+          "pubDate": "2026-03-10T13:03:09.000Z",
+          "author": "tomlee",
+          "content": "<p>VSCode 마켓플레이스에서 간편하게 받아서 바로 실행해 볼 수 있는 OpenClaw fork 판을 만들어 보았습니다.</p>\n<p>OpenClaw에는 soul.md등 페르소나 설정 파일(혹은 컨텍스트 엔지니어링 파일)들이 있는데 해당 설정 파일을 공유하는 커뮤니티를 먼저 만들었으나 사용자가 미미 하여 무엇을 하면 좋을까 고민하다가 ",
+          "contentSnippet": "VSCode 마켓플레이스에서 간편하게 받아서 바로 실행해 볼 수 있는 OpenClaw fork 판을 만들어 보았습니다.\nOpenClaw에는 soul.md등 페르소나 설정 파일(혹은 컨텍스트 엔지니어링 파일)들이 있는데 해당 설정 파일을 공유하는 커뮤니티를 먼저 만들었으나 사용자가 미미 하여 무엇을 하면 좋을까 고민하다가",
+          "id": "https://news.hada.io/topic?id=27377",
+          "isoDate": "2026-03-10T13:03:09.000Z"
+        },
+        {
+          "title": "OpenAI, Oracle과의 Stargate 데이터센터 확장 계획 철회",
+          "link": "https://news.hada.io/topic?id=27376",
+          "pubDate": "2026-03-10T12:33:20.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>OpenAI</strong>가 텍사스 애빌린의 <strong>Stargate 데이터센터 확장 계획을 중단</strong>하고, <strong>차세대 Nvidia 칩</strong>을 사용하는 새로운 시설에 집중</li>\n<li>\n<strong>Oracle</strong>은 1,000억 달러 이상의 <strong>부채 기반 투자</strong>로 AI 인프라 확장을 추진 중이며, <s...</p>",
+          "contentSnippet": "OpenAI가 텍사스 애빌린의 Stargate 데이터센터 확장 계획을 중단하고, 차세대 Nvidia 칩을 사용하는 새로운 시설에 집중\nOracle은 1,000억 달러 이상의 부채 기반 투자로 AI 인프라 확장을 추진 중이며,",
+          "id": "https://news.hada.io/topic?id=27376",
+          "isoDate": "2026-03-10T12:33:20.000Z"
+        },
+        {
           "title": "Bluesky CEO 제이 그래버, CEO 자리에서 물러나 최고혁신책임자(CIO)로 전환",
           "link": "https://news.hada.io/topic?id=27373",
           "pubDate": "2026-03-10T08:33:37.000Z",
@@ -465,46 +505,6 @@
           "contentSnippet": "1인 개발로 키워드 순위를 매일 자동 추적하는 SaaS를 만들고 있습니다.\n왜 만들었나\n기존 SEO 도구들은 훌륭하지만, \"내 사이트가 검색결과 몇 위인지\"만 보고 싶을 때는 과합니다. 월 수십 달러부터 시작하고, 한국어 UI도 없고, 원화 결제도 안 됩니다.\n키워드 순위 추적 하나에",
           "id": "https://news.hada.io/topic?id=27319",
           "isoDate": "2026-03-08T18:07:32.000Z"
-        },
-        {
-          "title": "Show GN: Claude Code 한국어 플레이북 - 59챕터, 무료",
-          "link": "https://news.hada.io/topic?id=27317",
-          "pubDate": "2026-03-08T16:44:35.000Z",
-          "author": "papapat",
-          "content": "<p>Claude Code 한국어 가이드를 만들었습니다. 전부 무료이고, 59개 챕터를 5단계 레벨 시스템으로 구성했습니다.</p>\n<p><strong>만든 이유</strong>: Claude Code 공식 문서(code.claude.com)는 영어 위주라 한국 개발자들이 실전에 바로 쓰기 어려웠습니다. 설치부터 CLAUDE.md 작성, MCP 서버, 멀티에이전트, 기업 ",
-          "contentSnippet": "Claude Code 한국어 가이드를 만들었습니다. 전부 무료이고, 59개 챕터를 5단계 레벨 시스템으로 구성했습니다.\n만든 이유: Claude Code 공식 문서(code.claude.com)는 영어 위주라 한국 개발자들이 실전에 바로 쓰기 어려웠습니다. 설치부터 CLAUDE.md 작성, MCP 서버, 멀티에이전트, 기업",
-          "id": "https://news.hada.io/topic?id=27317",
-          "isoDate": "2026-03-08T16:44:35.000Z"
-        },
-        {
-          "title": "AI 시대에 코드 리뷰, 어떻게 해야할까?",
-          "link": "https://news.hada.io/topic?id=27316",
-          "pubDate": "2026-03-08T16:20:34.000Z",
-          "author": "flowkater",
-          "content": "<ul>\n<li>\n<strong>15년차 CTO 경험에서 시작해 AI 시대 코드 리뷰 담론을 정-반-합으로 정리한 에세이</strong>\n</li>\n<li>코드 리뷰는 항상 문제였다 — 시간, 사람, 프로세스 전부 부족</li>\n<li>AI가 코드 생산량을 폭증시켰지만 리뷰 역량은 그대로 → 병목이 더 커짐</li>\n</ul>\n<p><strong>정 — 인간 리뷰 필수론...</p>",
-          "contentSnippet": "15년차 CTO 경험에서 시작해 AI 시대 코드 리뷰 담론을 정-반-합으로 정리한 에세이\n\n코드 리뷰는 항상 문제였다 — 시간, 사람, 프로세스 전부 부족\nAI가 코드 생산량을 폭증시켰지만 리뷰 역량은 그대로 → 병목이 더 커짐\n정 — 인간 리뷰 필수론...",
-          "id": "https://news.hada.io/topic?id=27316",
-          "isoDate": "2026-03-08T16:20:34.000Z"
-        },
-        {
-          "title": "Qwen3.5 로컬 실행 가이드",
-          "link": "https://news.hada.io/topic?id=27315",
-          "pubDate": "2026-03-08T15:37:00.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Alibaba의 <strong>Qwen3.5 모델군</strong>은 0.8B부터 397B까지 다양한 크기를 제공하며, <strong>멀티모달 하이브리드 추론</strong> 기능과 <strong>256K 컨텍스트</strong>를 지원</li>\n<li>Unsloth는 모든 Qwen3.5 모델을 <strong>Dynamic 2.0 GGUF 양자화</strong>로 제공하며, <strong>llama.cpp</stro...</p>",
-          "contentSnippet": "Alibaba의 Qwen3.5 모델군은 0.8B부터 397B까지 다양한 크기를 제공하며, 멀티모달 하이브리드 추론 기능과 256K 컨텍스트를 지원\nUnsloth는 모든 Qwen3.5 모델을 Dynamic 2.0 GGUF 양자화로 제공하며, llama.cpp",
-          "id": "https://news.hada.io/topic?id=27315",
-          "isoDate": "2026-03-08T15:37:00.000Z"
-        },
-        {
-          "title": "CasNum - 컴퍼스와 자를 이용한 임의 정밀도 산술 라이브러리",
-          "link": "https://news.hada.io/topic?id=27314",
-          "pubDate": "2026-03-08T15:34:00.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>컴퍼스와 자 작도법</strong>을 기반으로 임의 정밀도 산술을 구현한 <strong>Python 라이브러리</strong>로, 모든 연산을 기하학적 구성으로 수행함</li>\n<li>각 수를 평면상의 점으로 표현하고, <strong>덧셈·곱셈·논리 연산</strong>을 모두 작도 규칙으로 구현</li>\n<li>\n<strong>Game Boy 에뮬레...</p>",
-          "contentSnippet": "컴퍼스와 자 작도법을 기반으로 임의 정밀도 산술을 구현한 Python 라이브러리로, 모든 연산을 기하학적 구성으로 수행함\n각 수를 평면상의 점으로 표현하고, 덧셈·곱셈·논리 연산을 모두 작도 규칙으로 구현\nGame Boy 에뮬레...",
-          "id": "https://news.hada.io/topic?id=27314",
-          "isoDate": "2026-03-08T15:34:00.000Z"
         }
       ]
     }
