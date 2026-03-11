@@ -7,6 +7,46 @@
       "priority": 1,
       "data": [
         {
+          "title": "Redox OS, 기여자 서명 정책과 LLM 금지 정책 도입",
+          "link": "https://news.hada.io/topic?id=27412",
+          "pubDate": "2026-03-11T11:33:33.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Redox OS 프로젝트</strong>가 코드 기여 시 <strong>Certificate of Origin(COO)</strong> 서명 정책과 <strong>LLM(대규모 언어 모델) 사용 금지</strong> 규정을 채택함</li>\n<li>COO 정책은 모든 코드 변경이 <strong>기여자의 명시적 서명과 책임 하에 제출</strong>되도록 요구</li>\n<li>LLM 금...</p>",
+          "contentSnippet": "Redox OS 프로젝트가 코드 기여 시 Certificate of Origin(COO) 서명 정책과 LLM(대규모 언어 모델) 사용 금지 규정을 채택함\nCOO 정책은 모든 코드 변경이 기여자의 명시적 서명과 책임 하에 제출되도록 요구\nLLM 금...",
+          "id": "https://news.hada.io/topic?id=27412",
+          "isoDate": "2026-03-11T11:33:33.000Z"
+        },
+        {
+          "title": "HuggingFace 오픈 LLM 리더보드 1위를 차지한 방법 – 두 개의 게이밍 GPU로, 가중치 변경 없이",
+          "link": "https://news.hada.io/topic?id=27411",
+          "pubDate": "2026-03-11T10:33:46.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>거대한 <strong>72B 파라미터 LLM의 중간 7개 레이어를 복제</strong>해 재조합함으로써, 어떤 학습도 없이 리더보드 1위를 달성한 사례</li>\n<li>실험은 <strong>RTX 4090 두 장</strong>으로 수행되었으며, 모델의 가중치를 수정하지 않고 <strong>중간 레이어를 반복 실행</strong>하는 구조만 변경</li>\n<l...</p>",
+          "contentSnippet": "거대한 72B 파라미터 LLM의 중간 7개 레이어를 복제해 재조합함으로써, 어떤 학습도 없이 리더보드 1위를 달성한 사례\n실험은 RTX 4090 두 장으로 수행되었으며, 모델의 가중치를 수정하지 않고 중간 레이어를 반복 실행하는 구조만 변경",
+          "id": "https://news.hada.io/topic?id=27411",
+          "isoDate": "2026-03-11T10:33:46.000Z"
+        },
+        {
+          "title": "Claw-Empire - CEO의 책상에서 지휘하는 AI 에이전트 제국",
+          "link": "https://news.hada.io/topic?id=27410",
+          "pubDate": "2026-03-11T09:20:38.000Z",
+          "author": "naearu",
+          "content": "<p><strong>Claw-Empire</strong>는 사용자가 가상 회사의 CEO가 되어 여러 AI 에이전트들을 지휘하고 협업시키는 <strong>로컬 우선(Local-first) AI 에이전트 오피스 시뮬레이터</strong>입니다. 단순한 채팅 UI를 넘어, 픽셀 아트 기반의 오피스 인터페이스를 통해 AI들의 업무 수행 과정을 실시간으로 모니터링하고 ...</p>",
+          "contentSnippet": "Claw-Empire는 사용자가 가상 회사의 CEO가 되어 여러 AI 에이전트들을 지휘하고 협업시키는 로컬 우선(Local-first) AI 에이전트 오피스 시뮬레이터입니다. 단순한 채팅 UI를 넘어, 픽셀 아트 기반의 오피스 인터페이스를 통해 AI들의 업무 수행 과정을 실시간으로 모니터링하고 ...",
+          "id": "https://news.hada.io/topic?id=27410",
+          "isoDate": "2026-03-11T09:20:38.000Z"
+        },
+        {
+          "title": "Cloudflare 의 /crawl, 단일 API 호출로 전체 웹사이트 크롤링 지원",
+          "link": "https://news.hada.io/topic?id=27409",
+          "pubDate": "2026-03-11T09:17:15.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>Cloudflare가 <strong>Browser Rendering의 새로운 /crawl 엔드포인트</strong>를 공개 베타로 제공, 단 한 번의 API 호출로 전체 웹사이트를 크롤링할 수 있음</li>\n<li>시작 URL을 제출하면 페이지를 자동으로 탐색하고 <strong>헤드리스 브라우저로 렌더링</strong>, 결과를 <strong>HTML, Markdown, JSON...</p>",
+          "contentSnippet": "Cloudflare가 Browser Rendering의 새로운 /crawl 엔드포인트를 공개 베타로 제공, 단 한 번의 API 호출로 전체 웹사이트를 크롤링할 수 있음\n시작 URL을 제출하면 페이지를 자동으로 탐색하고 헤드리스 브라우저로 렌더링, 결과를 HTML, Markdown, JSON...",
+          "id": "https://news.hada.io/topic?id=27409",
+          "isoDate": "2026-03-11T09:17:15.000Z"
+        },
+        {
           "title": "클로드 코드 스티커 주문 (공식)명령 추가됨: /stickers",
           "link": "https://news.hada.io/topic?id=27407",
           "pubDate": "2026-03-11T05:54:19.000Z",
@@ -465,46 +505,6 @@
           "contentSnippet": "유럽연합 집행위원회가 Cyber Resilience Act(CRA) 관련 피드백 양식을 Open Document Format(ODS) 형식으로 추가 제공하기로 결정함\n기존에는 Microsoft Excel(.xlsx) 전용 파일만 제공되어, 개방형 표준과 상호운용성 원칙에 ...",
           "id": "https://news.hada.io/topic?id=27350",
           "isoDate": "2026-03-09T22:41:53.000Z"
-        },
-        {
-          "title": "PyPy는 활발하게 개발되지 않고 있다는 점에 유의하세요",
-          "link": "https://news.hada.io/topic?id=27349",
-          "pubDate": "2026-03-09T22:38:53.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<code>uv</code> Repo에 <strong>PyPy가 활발히 개발되지 않고 있음</strong>을 문서에 명시하는 변경이 병합됨</li>\n<li>제안자는 <strong>numpy 프로젝트의 이슈</strong>를 근거로 PyPy가 단계적으로 제외되고 있다고 언급</li>\n<li>문서에는 “PyPy는 더 이상 활발히 개발되지 않으며 Python 3.11까지만 지...</p>",
-          "contentSnippet": "uv Repo에 PyPy가 활발히 개발되지 않고 있음을 문서에 명시하는 변경이 병합됨\n제안자는 numpy 프로젝트의 이슈를 근거로 PyPy가 단계적으로 제외되고 있다고 언급\n문서에는 “PyPy는 더 이상 활발히 개발되지 않으며 Python 3.11까지만 지...",
-          "id": "https://news.hada.io/topic?id=27349",
-          "isoDate": "2026-03-09T22:38:53.000Z"
-        },
-        {
-          "title": "나의 홈랩 구축기",
-          "link": "https://news.hada.io/topic?id=27348",
-          "pubDate": "2026-03-09T22:35:53.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>2018년에 조립한 <strong>게이밍 PC</strong>를 홈서버로 전환하여 데이터 저장, 백업, 셀프호스팅 앱 운영 환경을 구축한 경험 공유</li>\n<li>\n<strong>TrueNAS Community Edition</strong>을 설치하고, 8TB HDD 2개를 RAID 1으로 구성해 데이터 이중화</li>\n<li>Immich, Backrest, Scrutiny, Mealie, Ollama ...</p>",
-          "contentSnippet": "2018년에 조립한 게이밍 PC를 홈서버로 전환하여 데이터 저장, 백업, 셀프호스팅 앱 운영 환경을 구축한 경험 공유\nTrueNAS Community Edition을 설치하고, 8TB HDD 2개를 RAID 1으로 구성해 데이터 이중화\nImmich, Backrest, Scrutiny, Mealie, Ollama ...",
-          "id": "https://news.hada.io/topic?id=27348",
-          "isoDate": "2026-03-09T22:35:53.000Z"
-        },
-        {
-          "title": "TypeScript에서의 Rust 스타일 에러 처리",
-          "link": "https://news.hada.io/topic?id=27347",
-          "pubDate": "2026-03-09T22:15:17.000Z",
-          "author": "csomar",
-          "content": "TypeScript에서의 Rust 스타일 에러 처리",
-          "contentSnippet": "TypeScript에서의 Rust 스타일 에러 처리",
-          "id": "https://news.hada.io/topic?id=27347",
-          "isoDate": "2026-03-09T22:15:17.000Z"
-        },
-        {
-          "title": "Show GN: Claude Code 대화 내용 자동으로 GitHub에 저장하는 도구 만들었습니다",
-          "link": "https://news.hada.io/topic?id=27345",
-          "pubDate": "2026-03-09T17:25:22.000Z",
-          "author": "devil1032",
-          "content": "<p>Claude Code 쓰다가 세션 날아간 적 있으신 분?</p>\n<p>어제 Claude랑 뭘 논의했는지..<br />\n어떤 결정을 내렸는지 기억이 안 나서 또 처음부터 설명하고...<br />\n프롬프팅 하다보면 &quot;아 그 프롬프팅 또 써먹을 수 있는데.. 세션 뭐였더라&quot; 하는게 부지기수 였습니다.</p>\n<p>이게 너무 불편해서 하나 만",
-          "contentSnippet": "Claude Code 쓰다가 세션 날아간 적 있으신 분?\n어제 Claude랑 뭘 논의했는지..\n이게 너무 불편해서 하나 만",
-          "id": "https://news.hada.io/topic?id=27345",
-          "isoDate": "2026-03-09T17:25:22.000Z"
         }
       ]
     }
