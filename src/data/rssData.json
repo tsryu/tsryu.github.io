@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "U+237C ⍼은 방위각(Azimuth) 기호임",
+          "link": "https://news.hada.io/topic?id=27415",
+          "pubDate": "2026-03-11T18:33:12.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>독일 활자 주조소 <strong>H. Berthold AG의 1950년 기호 카탈로그</strong>에서 ⍼ 문자가 <strong>‘Azimut, Richtungswinkel’(방위각, 방향각)</strong> 으로 명시됨</li>\n<li>이 자료를 통해 오랫동안 정체가 불분명했던 <strong>Unicode 문자 U+237C의 의미가 ‘방위각’으로 확정</strong>됨</li>\n<li>1...</p>",
+          "contentSnippet": "독일 활자 주조소 H. Berthold AG의 1950년 기호 카탈로그에서 ⍼ 문자가 ‘Azimut, Richtungswinkel’(방위각, 방향각) 으로 명시됨\n이 자료를 통해 오랫동안 정체가 불분명했던 Unicode 문자 U+237C의 의미가 ‘방위각’으로 확정됨\n1...",
+          "id": "https://news.hada.io/topic?id=27415",
+          "isoDate": "2026-03-11T18:33:12.000Z"
+        },
+        {
+          "title": "잠자는 동안 실행되는 에이전트",
+          "link": "https://news.hada.io/topic?id=27414",
+          "pubDate": "2026-03-11T17:33:42.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>AI 코드 작성 에이전트</strong>가 개발자의 수면 중에도 코드를 생성하고 브랜치에 변경사항을 반영하지만, 결과의 <strong>정확성과 신뢰성 검증</strong>이 어려운 문제가 제기됨</li>\n<li>동일한 AI가 코드와 테스트를 모두 작성하면 <strong>자기검증 루프</strong>가 발생해 실제 요구사항과의 ...</p>",
+          "contentSnippet": "AI 코드 작성 에이전트가 개발자의 수면 중에도 코드를 생성하고 브랜치에 변경사항을 반영하지만, 결과의 정확성과 신뢰성 검증이 어려운 문제가 제기됨\n동일한 AI가 코드와 테스트를 모두 작성하면 자기검증 루프가 발생해 실제 요구사항과의 ...",
+          "id": "https://news.hada.io/topic?id=27414",
+          "isoDate": "2026-03-11T17:33:42.000Z"
+        },
+        {
+          "title": "Show GN: NOD - 웹 콘텐츠를 AI로 요약하고 검색 가능한 지식으로 저장하는 크롬 확장",
+          "link": "https://news.hada.io/topic?id=27413",
+          "pubDate": "2026-03-11T15:27:25.000Z",
+          "author": "wlehgus78",
+          "content": "<p>웹페이지, GitHub 레포, 논문, 유튜브 영상을 AI로 요약해서 나중에 검색할 수 있게 저장해주는 크롬 확장입니다.</p>\n<p>원래 n8n + Gemini + Obsidian으로 돌리던 개인 자동화였는데, 다른 사람한테 공유하려면 세팅이 2시간 걸려서 확장으로 다시 만들었습니다.</p>\n<p>기술 스택:</p>\n<ul>\n<li>백엔드: FastAPI +",
+          "contentSnippet": "웹페이지, GitHub 레포, 논문, 유튜브 영상을 AI로 요약해서 나중에 검색할 수 있게 저장해주는 크롬 확장입니다.\n원래 n8n + Gemini + Obsidian으로 돌리던 개인 자동화였는데, 다른 사람한테 공유하려면 세팅이 2시간 걸려서 확장으로 다시 만들었습니다.\n기술 스택:\n백엔드: FastAPI +",
+          "id": "https://news.hada.io/topic?id=27413",
+          "isoDate": "2026-03-11T15:27:25.000Z"
+        },
+        {
           "title": "Redox OS, 기여자 서명 정책과 LLM 금지 정책 도입",
           "link": "https://news.hada.io/topic?id=27412",
           "pubDate": "2026-03-11T11:33:33.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "아일랜드가 클레어 주의 Moneypoint 발전소 가동을 중단하며 유럽에서 15번째로 석탄 발전을 완전히 종료한 국가가 됨\n최근 몇 년간 풍력 중심의 재생에너지 발전 증가가 석탄 의존도 감소의 주요 요인으로 작용\nMoneypoint는 2029년까지...",
           "id": "https://news.hada.io/topic?id=27353",
           "isoDate": "2026-03-10T00:38:29.000Z"
-        },
-        {
-          "title": "Scrapling - 적응형 웹 스크래핑 프레임워크",
-          "link": "https://news.hada.io/topic?id=27352",
-          "pubDate": "2026-03-10T00:31:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>현대 웹의 복잡한 구조와 안티-봇 시스템을 우회</strong>하며 단일 요청부터 <strong>대규모 크롤링</strong>까지 처리</li>\n<li>웹사이트 구조 변경 시 자동으로 요소를 재탐색하는 <strong>지능형 파서(parser)</strong> 내장</li>\n<li>\n<strong>Cloudflare Turnstile</strong> 등 주요 보안 시스템...</p>",
-          "contentSnippet": "현대 웹의 복잡한 구조와 안티-봇 시스템을 우회하며 단일 요청부터 대규모 크롤링까지 처리\n웹사이트 구조 변경 시 자동으로 요소를 재탐색하는 지능형 파서(parser) 내장\nCloudflare Turnstile 등 주요 보안 시스템...",
-          "id": "https://news.hada.io/topic?id=27352",
-          "isoDate": "2026-03-10T00:31:01.000Z"
-        },
-        {
-          "title": "ShadowBroker - 전 세계 15개 실시간 데이터 피드를 통합한 OSINT 대시보드",
-          "link": "https://news.hada.io/topic?id=27351",
-          "pubDate": "2026-03-09T23:33:00.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>항공기, 선박, 위성, 지진, 분쟁, CCTV, GPS 교란</strong> 등 다양한 실시간 데이터를 하나의 <strong>지리정보 기반 인터페이스</strong>로 통합</li>\n<li>\n<strong>Next.js</strong>, <strong>MapLibre GL</strong>, <strong>FastAPI</strong>, <strong>Python</strong>으로 구축되어 분석가와 연구...</p>",
-          "contentSnippet": "항공기, 선박, 위성, 지진, 분쟁, CCTV, GPS 교란 등 다양한 실시간 데이터를 하나의 지리정보 기반 인터페이스로 통합\nNext.js, MapLibre GL, FastAPI, Python으로 구축되어 분석가와 연구...",
-          "id": "https://news.hada.io/topic?id=27351",
-          "isoDate": "2026-03-09T23:33:00.000Z"
-        },
-        {
-          "title": "유럽연합 집행위원회에 자체 지침 준수를 요청한 LibreOffice 커뮤니티의 공개 서한",
-          "link": "https://news.hada.io/topic?id=27350",
-          "pubDate": "2026-03-09T22:41:53.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>유럽연합 집행위원회가 <strong>Cyber Resilience Act(CRA)</strong> 관련 피드백 양식을 <strong>Open Document Format(ODS)</strong> 형식으로 추가 제공하기로 결정함</li>\n<li>기존에는 <strong>Microsoft Excel(.xlsx)</strong> 전용 파일만 제공되어, <strong>개방형 표준과 상호운용성 원칙</strong>에 ...</p>",
-          "contentSnippet": "유럽연합 집행위원회가 Cyber Resilience Act(CRA) 관련 피드백 양식을 Open Document Format(ODS) 형식으로 추가 제공하기로 결정함\n기존에는 Microsoft Excel(.xlsx) 전용 파일만 제공되어, 개방형 표준과 상호운용성 원칙에 ...",
-          "id": "https://news.hada.io/topic?id=27350",
-          "isoDate": "2026-03-09T22:41:53.000Z"
         }
       ]
     }
