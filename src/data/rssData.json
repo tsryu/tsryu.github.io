@@ -7,6 +7,186 @@
       "priority": 1,
       "data": [
         {
+          "title": "더 높은 추상화 수준에서 일하는 게 좋은지 잘 모르겠네",
+          "link": "https://news.hada.io/topic?id=27434",
+          "pubDate": "2026-03-12T03:35:35.000Z",
+          "author": "davespark",
+          "content": "<p>AI 도구가 생산성을 높여주지만 작업에서 영혼과 개성이 사라진다며, '평균'으로 수렴하는 AI 결과물에 저항해 자신만의 목소리를 지키겠다는 개발자·작가의 솔직한 성찰.</p>\n<p>저자(Xe Iaso)는 AI 도구(특히 Claude, Cursor 등)를 사용하면서 코드 작성 대신 <strong>의도(intent)를 설명</strong>하고 위임하는 높",
+          "contentSnippet": "AI 도구가 생산성을 높여주지만 작업에서 영혼과 개성이 사라진다며, '평균'으로 수렴하는 AI 결과물에 저항해 자신만의 목소리를 지키겠다는 개발자·작가의 솔직한 성찰.\n저자(Xe Iaso)는 AI 도구(특히 Claude, Cursor 등)를 사용하면서 코드 작성 대신 의도(intent)를 설명하고 위임하는 높",
+          "id": "https://news.hada.io/topic?id=27434",
+          "isoDate": "2026-03-12T03:35:35.000Z"
+        },
+        {
+          "title": "AutoKernel: GPU 커널 자동 연구 시스템",
+          "link": "https://news.hada.io/topic?id=27433",
+          "pubDate": "2026-03-12T02:45:03.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>Karpathy의 Autoresearch를 GPU 커널 최적화에 적용</li>\n<li>\n<strong>PyTorch 모델</strong>을 입력하면 자동으로 <strong>Triton 또는 CUDA C++ 커널</strong>을 최적화하는 <strong>GPU 커널 자동 연구 도구</strong>\n</li>\n<li>모델의 <strong>병목 커널을 프로파일링·추출·최적화·검증</strong>하는 완전...</p>",
+          "contentSnippet": "Karpathy의 Autoresearch를 GPU 커널 최적화에 적용\nPyTorch 모델을 입력하면 자동으로 Triton 또는 CUDA C++ 커널을 최적화하는 GPU 커널 자동 연구 도구\n\n모델의 병목 커널을 프로파일링·추출·최적화·검증하는 완전...",
+          "id": "https://news.hada.io/topic?id=27433",
+          "isoDate": "2026-03-12T02:45:03.000Z"
+        },
+        {
+          "title": "나만의 텍스트 에디터를 만들고, 매일 사용하고 있어요",
+          "link": "https://news.hada.io/topic?id=27432",
+          "pubDate": "2026-03-12T02:44:05.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>기존 <strong>Howl 에디터의 한계</strong>(개발 중단, 느린 검색, SSH 비호환, 터미널 미지원)로 인해 직접 새로운 TUI 텍스트 에디터를 개발함</li>\n<li>Helix, VS Code, Vim, Neovim, Emacs 등 13개 에디터를 시도했으나 원하는 <strong>조작 감각(Fingerspitzengefühl)</strong> 을 충족하는 에디터가 없었...</p>",
+          "contentSnippet": "기존 Howl 에디터의 한계(개발 중단, 느린 검색, SSH 비호환, 터미널 미지원)로 인해 직접 새로운 TUI 텍스트 에디터를 개발함\nHelix, VS Code, Vim, Neovim, Emacs 등 13개 에디터를 시도했으나 원하는 조작 감각(Fingerspitzengefühl) 을 충족하는 에디터가 없었...",
+          "id": "https://news.hada.io/topic?id=27432",
+          "isoDate": "2026-03-12T02:44:05.000Z"
+        },
+        {
+          "title": "맥킨지의 AI 플랫폼을 해킹한 방법",
+          "link": "https://news.hada.io/topic?id=27431",
+          "pubDate": "2026-03-12T02:39:18.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>맥킨지가 내부 직원용으로 구축한 <strong>AI 플랫폼 ‘Lilli’</strong> 에서 인증 없이 접근 가능한 취약점을 통해 전체 데이터베이스에 <strong>읽기·쓰기 권한</strong>이 획득됨</li>\n<li>공격은 <strong>자율 보안 에이전트</strong>가 수행했으며, 공개된 API 문서의 200여 개 엔드포인트 중 22개가 인증...</p>",
+          "contentSnippet": "맥킨지가 내부 직원용으로 구축한 AI 플랫폼 ‘Lilli’ 에서 인증 없이 접근 가능한 취약점을 통해 전체 데이터베이스에 읽기·쓰기 권한이 획득됨\n공격은 자율 보안 에이전트가 수행했으며, 공개된 API 문서의 200여 개 엔드포인트 중 22개가 인증...",
+          "id": "https://news.hada.io/topic?id=27431",
+          "isoDate": "2026-03-12T02:39:18.000Z"
+        },
+        {
+          "title": "존 그루버의 맥북 Neo 리뷰",
+          "link": "https://news.hada.io/topic?id=27430",
+          "pubDate": "2026-03-12T02:37:37.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>아이폰 16 프로와 동일한 <strong>A18 Pro 칩</strong>을 탑재한 <strong>600달러 맥북 네오</strong>는, 같은 가격대의 x86 PC 노트북이 <strong>성능·디스플레이·빌드 품질</strong> 어디에서도 경쟁할 수 없는 수준</li>\n<li>\n<strong>8GB RAM에도 불구</strong>하고 일반 생산성 작업에서 <strong>체감 성능...</p>",
+          "contentSnippet": "아이폰 16 프로와 동일한 A18 Pro 칩을 탑재한 600달러 맥북 네오는, 같은 가격대의 x86 PC 노트북이 성능·디스플레이·빌드 품질 어디에서도 경쟁할 수 없는 수준\n8GB RAM에도 불구하고 일반 생산성 작업에서 체감 성능...",
+          "id": "https://news.hada.io/topic?id=27430",
+          "isoDate": "2026-03-12T02:37:37.000Z"
+        },
+        {
+          "title": "웹에서 WebAssembly를 1급 언어로 만들기",
+          "link": "https://news.hada.io/topic?id=27429",
+          "pubDate": "2026-03-12T02:34:37.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>WebAssembly는 2017년 첫 출시 이후 <strong>C/C++ 등 저수준 언어 실행을 지원</strong>하며 발전해 왔지만, 여전히 웹 플랫폼에서 <strong>2급 언어로 취급</strong>되고 있음</li>\n<li>JavaScript만이 <strong>웹 API와 직접 상호작용</strong>할 수 있고, WebAssembly는 이를 위해 복잡한 <strong>JS 바인딩...</p>",
+          "contentSnippet": "WebAssembly는 2017년 첫 출시 이후 C/C++ 등 저수준 언어 실행을 지원하며 발전해 왔지만, 여전히 웹 플랫폼에서 2급 언어로 취급되고 있음\nJavaScript만이 웹 API와 직접 상호작용할 수 있고, WebAssembly는 이를 위해 복잡한 JS 바인딩...",
+          "id": "https://news.hada.io/topic?id=27429",
+          "isoDate": "2026-03-12T02:34:37.000Z"
+        },
+        {
+          "title": "서비스는 소프트웨어가 되지 않을 것이다",
+          "link": "https://news.hada.io/topic?id=27428",
+          "pubDate": "2026-03-12T01:31:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>AI가 서비스 기업을 소프트웨어 기업으로 전환한다는 벤처캐피털 업계의 <strong>컨센서스가 확산</strong>되고 있지만, 실제로는 <strong>서비스 기업이 더 나은 서비스 기업이 되는 것</strong>이지 <strong>소프트웨어 기업으로 변하는 것이 아님</strong>\n</li>\n<li>전문 서비스 지출의 상당 부분은 산출물...</p>",
+          "contentSnippet": "AI가 서비스 기업을 소프트웨어 기업으로 전환한다는 벤처캐피털 업계의 컨센서스가 확산되고 있지만, 실제로는 서비스 기업이 더 나은 서비스 기업이 되는 것이지 소프트웨어 기업으로 변하는 것이 아님\n\n전문 서비스 지출의 상당 부분은 산출물...",
+          "id": "https://news.hada.io/topic?id=27428",
+          "isoDate": "2026-03-12T01:31:01.000Z"
+        },
+        {
+          "title": "JavaScript DRM의 허상: HotAudio 복사 보호를 3라운드 만에 무력화한 과정",
+          "link": "https://news.hada.io/topic?id=27427",
+          "pubDate": "2026-03-12T01:26:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>브라우저에서 실행되는 <strong>JavaScript 기반 DRM</strong>은 복호화된 오디오 데이터가 결국 JavaScript 접근 가능한 영역을 통과해야 하므로 근본적으로 우회 가능함</li>\n<li>HotAudio는 NSFW ASMR 오디오 호스팅 플랫폼으로, <strong>MediaSource Extensions API</strong>를 활용한 자체 암호화·청크 전...</p>",
+          "contentSnippet": "브라우저에서 실행되는 JavaScript 기반 DRM은 복호화된 오디오 데이터가 결국 JavaScript 접근 가능한 영역을 통과해야 하므로 근본적으로 우회 가능함\nHotAudio는 NSFW ASMR 오디오 호스팅 플랫폼으로, MediaSource Extensions API를 활용한 자체 암호화·청크 전...",
+          "id": "https://news.hada.io/topic?id=27427",
+          "isoDate": "2026-03-12T01:26:02.000Z"
+        },
+        {
+          "title": "ralph-loop - 장시간 실행형 AI 에이전트 루프로 개발 업무 자동화하기",
+          "link": "https://news.hada.io/topic?id=27426",
+          "pubDate": "2026-03-12T01:19:02.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>반복하여 <strong>작업 목록을 순회하며 완료될 때까지 수행</strong>하는 <strong>장시간 실행형 AI 루프 시스템</strong>\n</li>\n<li>\n<strong>Docker 샌드박스 환경</strong>에서 안전하게 <strong>Claude Code</strong>/Codex/Gemini등의 AI CLI를 실행</li>\n<li>운영 방법\n<ul>\n<li>1단계: Ralph 설치 <cod...</p>",
+          "contentSnippet": "반복하여 작업 목록을 순회하며 완료될 때까지 수행하는 장시간 실행형 AI 루프 시스템\n\n\nDocker 샌드박스 환경에서 안전하게 Claude Code/Codex/Gemini등의 AI CLI를 실행\n운영 방법\n\n1단계: Ralph 설치",
+          "id": "https://news.hada.io/topic?id=27426",
+          "isoDate": "2026-03-12T01:19:02.000Z"
+        },
+        {
+          "title": "네트워크 효과에 역행하지 마라: 에이전트 시대에도 통하는 방어 전략",
+          "link": "https://news.hada.io/topic?id=27425",
+          "pubDate": "2026-03-12T01:11:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>소프트웨어 마진이 압축되는 시대에 <strong>네트워크 효과</strong>는 여전히 지속 가능한 소프트웨어 비즈니스를 구축하는 가장 신뢰할 수 있는 경로</li>\n<li>많은 사람들이 네트워크 효과라 부르는 것은 사실 <strong>집계(aggregation) 우위</strong>이며, 에이전트가 쉽게 복제할 수 있는 단일 플레이어 ...</p>",
+          "contentSnippet": "소프트웨어 마진이 압축되는 시대에 네트워크 효과는 여전히 지속 가능한 소프트웨어 비즈니스를 구축하는 가장 신뢰할 수 있는 경로\n많은 사람들이 네트워크 효과라 부르는 것은 사실 집계(aggregation) 우위이며, 에이전트가 쉽게 복제할 수 있는 단일 플레이어 ...",
+          "id": "https://news.hada.io/topic?id=27425",
+          "isoDate": "2026-03-12T01:11:01.000Z"
+        },
+        {
+          "title": "자바스크립트의 시간 문제를 해결한 9년의 여정, Temporal",
+          "link": "https://news.hada.io/topic?id=27424",
+          "pubDate": "2026-03-12T00:47:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>자바스크립트의 <strong>Date 객체 한계를 근본적으로 대체</strong>하는 새로운 표준 <strong>Temporal API</strong>가 9년간의 개발 끝에 <strong>ECMAScript Stage 4</strong>에 도달</li>\n<li>Temporal은 <strong>불변(immutable) 타입</strong>, <strong>명시적 시간대·달력 지원</strong>, <strong>나노초...</p>",
+          "contentSnippet": "자바스크립트의 Date 객체 한계를 근본적으로 대체하는 새로운 표준 Temporal API가 9년간의 개발 끝에 ECMAScript Stage 4에 도달\nTemporal은 불변(immutable) 타입, 명시적 시간대·달력 지원, 나노초...",
+          "id": "https://news.hada.io/topic?id=27424",
+          "isoDate": "2026-03-12T00:47:02.000Z"
+        },
+        {
+          "title": "전직 DOGE 직원이 사회보장국 데이터를 새 직장으로 가져갔다는 내부고발 주장",
+          "link": "https://news.hada.io/topic?id=27423",
+          "pubDate": "2026-03-12T00:44:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>사회보장국 감찰실</strong>이 전직 DOGE 엔지니어가 <strong>민감한 데이터베이스 접근 권한을 이용해 정보를 외부로 반출했다는 의혹</strong>을 조사 중임</li>\n<li>내부고발에 따르면 해당 인물은 <strong>두 개의 고위험 데이터베이스에 접근</strong>했으며, 이를 <strong>새로운 민간 고용주와...</p>",
+          "contentSnippet": "사회보장국 감찰실이 전직 DOGE 엔지니어가 민감한 데이터베이스 접근 권한을 이용해 정보를 외부로 반출했다는 의혹을 조사 중임\n내부고발에 따르면 해당 인물은 두 개의 고위험 데이터베이스에 접근했으며, 이를 새로운 민간 고용주와...",
+          "id": "https://news.hada.io/topic?id=27423",
+          "isoDate": "2026-03-12T00:44:01.000Z"
+        },
+        {
+          "title": "다른 사람에게 가치를 창출하고, 보상은 걱정하지 마세요.",
+          "link": "https://news.hada.io/topic?id=27422",
+          "pubDate": "2026-03-12T00:41:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>AI를 쓰지 않으면 뒤처진다는 식의 <strong>공포 마케팅</strong>이 소셜 미디어에 만연하지만, 이는 완전한 허구임</li>\n<li>\n<strong>AI는 마법이 아니라 단순한 탐색과 최적화의 연속선상</strong>에 있는 기술로, 일부 영역에서는 이익이지만 전반적으로는 도구적 진보에 불과</li>\n<li>타인에게 복잡성을 ...</p>",
+          "contentSnippet": "AI를 쓰지 않으면 뒤처진다는 식의 공포 마케팅이 소셜 미디어에 만연하지만, 이는 완전한 허구임\nAI는 마법이 아니라 단순한 탐색과 최적화의 연속선상에 있는 기술로, 일부 영역에서는 이익이지만 전반적으로는 도구적 진보에 불과\n타인에게 복잡성을 ...",
+          "id": "https://news.hada.io/topic?id=27422",
+          "isoDate": "2026-03-12T00:41:01.000Z"
+        },
+        {
+          "title": "생성된 댓글이나 AI가 편집한 댓글은 올리지 마세요. HN은 사람 간의 대화를 위한 공간입니다.",
+          "link": "https://news.hada.io/topic?id=27421",
+          "pubDate": "2026-03-12T00:38:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Hacker News는 <strong>인간 간의 대화와 지적 호기심을 자극하는 주제</strong>를 중심으로 운영되는 커뮤니티임</li>\n<li>이제 <strong>AI가 생성하거나 편집한 댓글은 금지</strong>되며, 모든 대화는 사람 간의 상호작용이어야 한다고 가이드라인에 명시함</li>\n<li>\n<strong>친절하고 사려 깊은 토론 문화...</p>",
+          "contentSnippet": "Hacker News는 인간 간의 대화와 지적 호기심을 자극하는 주제를 중심으로 운영되는 커뮤니티임\n이제 AI가 생성하거나 편집한 댓글은 금지되며, 모든 대화는 사람 간의 상호작용이어야 한다고 가이드라인에 명시함\n친절하고 사려 깊은 토론 문화...",
+          "id": "https://news.hada.io/topic?id=27421",
+          "isoDate": "2026-03-12T00:38:01.000Z"
+        },
+        {
+          "title": "deff - 인터랙티브한 git diff TUI 뷰어",
+          "link": "https://news.hada.io/topic?id=27420",
+          "pubDate": "2026-03-12T00:31:01.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>Side-By-Side 비교 뷰</strong>를 제공해 <strong>git 변경사항을 직관적으로 검토</strong>가능한 <strong>Rust 기반 TUI 도구</strong>\n</li>\n<li>파일 단위 이동, <strong>수직·수평 스크롤</strong>, <strong>문법 하이라이팅</strong>, <strong>추가/삭제 라인 색상 표시</strong> 지원</li>\n<li...</p>",
+          "contentSnippet": "Side-By-Side 비교 뷰를 제공해 git 변경사항을 직관적으로 검토가능한 Rust 기반 TUI 도구\n\n파일 단위 이동, 수직·수평 스크롤, 문법 하이라이팅, 추가/삭제 라인 색상 표시 지원",
+          "id": "https://news.hada.io/topic?id=27420",
+          "isoDate": "2026-03-12T00:31:01.000Z"
+        },
+        {
+          "title": "Rust 기반 초경량 AI 에이전트 런타임 ZeroClaw 공개 (&lt;5MB RAM, 10ms 시작)",
+          "link": "https://news.hada.io/topic?id=27418",
+          "pubDate": "2026-03-12T00:04:41.000Z",
+          "author": "sknah",
+          "content": "<p>Rust로 작성된 초경량 AI 에이전트 런타임 ZeroClaw 프로젝트가 공개되었습니다.<br />\nAI 모델, 도구 실행, 메모리, 채널 등을 추상화하여 에이전트 워크플로우를 실행할 수 있는 런타임 환경을 목표로 합니다.</p>\n<p>ZeroClaw의 특징</p>\n<ul>\n<li>런타임 메모리 사용량 &lt;5MB</li>\n<li>약 10ms 콜드 스타트</li",
+          "contentSnippet": "Rust로 작성된 초경량 AI 에이전트 런타임 ZeroClaw 프로젝트가 공개되었습니다.\nZeroClaw의 특징\n런타임 메모리 사용량 <5MB\n약 10ms 콜드 스타트</li",
+          "id": "https://news.hada.io/topic?id=27418",
+          "isoDate": "2026-03-12T00:04:41.000Z"
+        },
+        {
+          "title": "호흡기 감염과 알레르기 모두에 대응하는 범용 백신",
+          "link": "https://news.hada.io/topic?id=27417",
+          "pubDate": "2026-03-11T22:33:15.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Stanford Medicine 연구진</strong>이 쥐 실험에서 <strong>바이러스·세균·알레르기 항원</strong>에 모두 효과를 보이는 새로운 백신을 개발</li>\n<li>이 백신은 <strong>비강(코) 투여 방식</strong>으로 전달되며, <strong>수개월간 폐에서 광범위한 면역 보호</strong>를 유지</li>\n<li>기존 백신...</p>",
+          "contentSnippet": "Stanford Medicine 연구진이 쥐 실험에서 바이러스·세균·알레르기 항원에 모두 효과를 보이는 새로운 백신을 개발\n이 백신은 비강(코) 투여 방식으로 전달되며, 수개월간 폐에서 광범위한 면역 보호를 유지\n기존 백신...",
+          "id": "https://news.hada.io/topic?id=27417",
+          "isoDate": "2026-03-11T22:33:15.000Z"
+        },
+        {
+          "title": "Debian, AI 생성 기여물에 대한 결정을 유보",
+          "link": "https://news.hada.io/topic?id=27416",
+          "pubDate": "2026-03-11T20:33:37.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Debian 커뮤니티가 <strong>AI 또는 LLM 기반 코드 기여 허용 여부</strong>를 논의했으나, 결론 없이 논의를 종료함</li>\n<li>제안된 초안은 <strong>AI 도구 사용 시 명시적 공개, 책임 명확화, 민감 정보 사용 금지</strong> 등을 조건으로 허용하는 내용이었음</li>\n<li>개발자들은 <strong>‘AI’ 용어의 ...</p>",
+          "contentSnippet": "Debian 커뮤니티가 AI 또는 LLM 기반 코드 기여 허용 여부를 논의했으나, 결론 없이 논의를 종료함\n제안된 초안은 AI 도구 사용 시 명시적 공개, 책임 명확화, 민감 정보 사용 금지 등을 조건으로 허용하는 내용이었음\n개발자들은 ‘AI’ 용어의 ...",
+          "id": "https://news.hada.io/topic?id=27416",
+          "isoDate": "2026-03-11T20:33:37.000Z"
+        },
+        {
           "title": "U+237C ⍼은 방위각(Azimuth) 기호임",
           "link": "https://news.hada.io/topic?id=27415",
           "pubDate": "2026-03-11T18:33:12.000Z",
@@ -17,12 +197,12 @@
           "isoDate": "2026-03-11T18:33:12.000Z"
         },
         {
-          "title": "잠자는 동안 실행되는 에이전트",
+          "title": "잠자는 동안 실행되는 에이전트를 만들고 있어요",
           "link": "https://news.hada.io/topic?id=27414",
           "pubDate": "2026-03-11T17:33:42.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>AI 코드 작성 에이전트</strong>가 개발자의 수면 중에도 코드를 생성하고 브랜치에 변경사항을 반영하지만, 결과의 <strong>정확성과 신뢰성 검증</strong>이 어려운 문제가 제기됨</li>\n<li>동일한 AI가 코드와 테스트를 모두 작성하면 <strong>자기검증 루프</strong>가 발생해 실제 요구사항과의 ...</p>",
-          "contentSnippet": "AI 코드 작성 에이전트가 개발자의 수면 중에도 코드를 생성하고 브랜치에 변경사항을 반영하지만, 결과의 정확성과 신뢰성 검증이 어려운 문제가 제기됨\n동일한 AI가 코드와 테스트를 모두 작성하면 자기검증 루프가 발생해 실제 요구사항과의 ...",
+          "content": "<ul>\n<li>\n<strong>AI 코드 작성 에이전트</strong>가 개발자가 자는중에도 코드를 생성하고 브랜치에 변경사항을 반영하지만, 결과의 <strong>정확성과 신뢰성 검증</strong>이 어려움</li>\n<li>AI가 작성한 코드를 같은 AI가 테스트하면 <strong>자기 축하 기계</strong>가 되어, 원래 의도와 다른 오해를 잡아내지 못...</p>",
+          "contentSnippet": "AI 코드 작성 에이전트가 개발자가 자는중에도 코드를 생성하고 브랜치에 변경사항을 반영하지만, 결과의 정확성과 신뢰성 검증이 어려움\nAI가 작성한 코드를 같은 AI가 테스트하면 자기 축하 기계가 되어, 원래 의도와 다른 오해를 잡아내지 못...",
           "id": "https://news.hada.io/topic?id=27414",
           "isoDate": "2026-03-11T17:33:42.000Z"
         },
@@ -325,186 +505,6 @@
           "contentSnippet": "OpenAI가 텍사스 애빌린의 Stargate 데이터센터 확장 계획을 중단하고, 차세대 Nvidia 칩을 사용하는 새로운 시설에 집중\nOracle은 1,000억 달러 이상의 부채 기반 투자로 AI 인프라 확장을 추진 중이며,",
           "id": "https://news.hada.io/topic?id=27376",
           "isoDate": "2026-03-10T12:33:20.000Z"
-        },
-        {
-          "title": "Bluesky CEO 제이 그래버, CEO 자리에서 물러나 최고혁신책임자(CIO)로 전환",
-          "link": "https://news.hada.io/topic?id=27373",
-          "pubDate": "2026-03-10T08:33:37.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Bluesky 창립자 제이 그래버</strong>가 수년간 회사를 이끌어온 뒤 CEO 자리에서 물러나 <strong>Chief Innovation Officer(최고혁신책임자)</strong> 로 역할을 전환함</li>\n<li>2019년 <strong>오픈 소셜 프로토콜 구축</strong>을 목표로 시작된 Bluesky는 현재 <strong>4천만 명 이상의 사용자...</p>",
-          "contentSnippet": "Bluesky 창립자 제이 그래버가 수년간 회사를 이끌어온 뒤 CEO 자리에서 물러나 Chief Innovation Officer(최고혁신책임자) 로 역할을 전환함\n2019년 오픈 소셜 프로토콜 구축을 목표로 시작된 Bluesky는 현재 4천만 명 이상의 사용자...",
-          "id": "https://news.hada.io/topic?id=27373",
-          "isoDate": "2026-03-10T08:33:37.000Z"
-        },
-        {
-          "title": "Show GN: Obsidian을 쓰며 느낀 아쉬움 때문에, 로컬 퍼스트 노트 앱 Notaly를 만들고 있습니다",
-          "link": "https://news.hada.io/topic?id=27370",
-          "pubDate": "2026-03-10T07:32:24.000Z",
-          "author": "vajafafa",
-          "content": "<p>안녕하세요.<br />\n요즘 Notaly라는 로컬 퍼스트 노트 앱을 만들고 있습니다.</p>\n<p>개인적으로 Obsidian을 꽤 유용하게 써왔습니다.<br />\n파일 기반이라 익숙하고, 마크다운으로 관리할 수 있다는 점도 좋았습니다.</p>\n<p>다만 쓰다 보니 몇 가지 아쉬움이 점점 커졌습니다.</p>\n<p>첫째, 기록은 쉬운데 기록한 뒤",
-          "contentSnippet": "안녕하세요.\n개인적으로 Obsidian을 꽤 유용하게 써왔습니다.\n다만 쓰다 보니 몇 가지 아쉬움이 점점 커졌습니다.\n첫째, 기록은 쉬운데 기록한 뒤",
-          "id": "https://news.hada.io/topic?id=27370",
-          "isoDate": "2026-03-10T07:32:24.000Z"
-        },
-        {
-          "title": "Show GN: JTC - TypeScript를 사용하는 JSON 타입 검사기",
-          "link": "https://news.hada.io/topic?id=27369",
-          "pubDate": "2026-03-10T05:55:21.000Z",
-          "author": "disjukr",
-          "content": "<p>JSON이나 YAML에 $schema 필드를 적으면 JSON Schema 검사를 할 수 있는데요,<br />\n비슷하게 $type 필드를 적으면 TypeScript 검사를 해주는 도구를 만들었습니다.</p>\n<p>VSCode 확장과 CLI를 제공합니다.</p>\n<p>VSCode 확장에서는 진단(Diagnostics. 틀리면 빨간줄 그려주는) 기능과 정의로 이동(Go To Definitio",
-          "contentSnippet": "JSON이나 YAML에 $schema 필드를 적으면 JSON Schema 검사를 할 수 있는데요,\nVSCode 확장과 CLI를 제공합니다.\nVSCode 확장에서는 진단(Diagnostics. 틀리면 빨간줄 그려주는) 기능과 정의로 이동(Go To Definitio",
-          "id": "https://news.hada.io/topic?id=27369",
-          "isoDate": "2026-03-10T05:55:21.000Z"
-        },
-        {
-          "title": "AgentHub - AI 에이전트를 위한 경량 협업 플랫폼",
-          "link": "https://news.hada.io/topic?id=27367",
-          "pubDate": "2026-03-10T03:06:36.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>Karpathy가 공개한 <a href=\"https://news.hada.io/topic?id=27300\">Autoresearch</a> 들이 협업할수 있게 만든 플랫폼</li>\n<li>\n<strong>동일한 코드베이스</strong>에서 작업하는 <strong>수많은 AI 에이전트</strong>를 위해 설계됨</li>\n<li>인간 중심의 <strong>GitHub 구조를 에이전트 중심으로 재구성...</p>",
-          "contentSnippet": "Karpathy가 공개한 Autoresearch 들이 협업할수 있게 만든 플랫폼\n동일한 코드베이스에서 작업하는 수많은 AI 에이전트를 위해 설계됨\n인간 중심의 GitHub 구조를 에이전트 중심으로 재구성...",
-          "id": "https://news.hada.io/topic?id=27367",
-          "isoDate": "2026-03-10T03:06:36.000Z"
-        },
-        {
-          "title": "누가 먹을 것인가? — Vertical AI 시대, 모든 배가 뜨지는 않는 이유",
-          "link": "https://news.hada.io/topic?id=27366",
-          "pubDate": "2026-03-10T02:36:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>LLM 기반 AI와 에이전트 워크플로우의 부상으로 <strong>SaaS의 경제적 논리</strong>가 근본적으로 해체되고 있으며, 인텔리전스 비용의 급격한 하락이 엔터프라이즈 기술 시장의 가치 흐름을 재편 중</li>\n<li>AI 서비스의 비용 우위만으로는 지속 가능한 해자를 구축할 수 없으며, LLM 인프라에 의존하는 스...</p>",
-          "contentSnippet": "LLM 기반 AI와 에이전트 워크플로우의 부상으로 SaaS의 경제적 논리가 근본적으로 해체되고 있으며, 인텔리전스 비용의 급격한 하락이 엔터프라이즈 기술 시장의 가치 흐름을 재편 중\nAI 서비스의 비용 우위만으로는 지속 가능한 해자를 구축할 수 없으며, LLM 인프라에 의존하는 스...",
-          "id": "https://news.hada.io/topic?id=27366",
-          "isoDate": "2026-03-10T02:36:01.000Z"
-        },
-        {
-          "title": "AI가 앱 구독 모델을 죽일 것이다",
-          "link": "https://news.hada.io/topic?id=27365",
-          "pubDate": "2026-03-10T02:34:59.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>앱 개발 비용이 거의 제로에 수렴하면서 <strong>클론 앱 제작이 쉬워지고</strong>, 구독 모델의 붕괴로 이어지고 있음</li>\n<li>2025년 앱스토어 신규 앱 제출 건수가 <strong>55만건으로 전년 대비 24% 증가</strong>했으며, 이는 <strong>Claude 같은 AI 도구로 개발이 쉬워진 결과</strong>\n</li>\n<li>서버...</p>",
-          "contentSnippet": "앱 개발 비용이 거의 제로에 수렴하면서 클론 앱 제작이 쉬워지고, 구독 모델의 붕괴로 이어지고 있음\n2025년 앱스토어 신규 앱 제출 건수가 55만건으로 전년 대비 24% 증가했으며, 이는 Claude 같은 AI 도구로 개발이 쉬워진 결과\n\n서버...",
-          "id": "https://news.hada.io/topic?id=27365",
-          "isoDate": "2026-03-10T02:34:59.000Z"
-        },
-        {
-          "title": "플로리다 판사, 적색 신호 위반 카메라 단속은 위헌이라고 판결",
-          "link": "https://news.hada.io/topic?id=27364",
-          "pubDate": "2026-03-10T02:33:37.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>브로워드 카운티 법원이 <strong>적색 신호 위반 카메라 단속법</strong>이 차량 소유자에게 입증 책임을 전가한다며 위헌으로 판단</li>\n<li>법원은 이 제도가 <strong>‘준형사적(quasi-criminal)’ 절차</strong>로 작동하며, 유죄 판정과 벌금 부과가 가능한 만큼 형사 수준의 입증 기준이 필요하다고 명시...</p>",
-          "contentSnippet": "브로워드 카운티 법원이 적색 신호 위반 카메라 단속법이 차량 소유자에게 입증 책임을 전가한다며 위헌으로 판단\n법원은 이 제도가 ‘준형사적(quasi-criminal)’ 절차로 작동하며, 유죄 판정과 벌금 부과가 가능한 만큼 형사 수준의 입증 기준이 필요하다고 명시...",
-          "id": "https://news.hada.io/topic?id=27364",
-          "isoDate": "2026-03-10T02:33:37.000Z"
-        },
-        {
-          "title": "Show GN: Endigest - 글로벌 테크 블로그를 AI로 자동 수집·요약해주는 서비스",
-          "link": "https://news.hada.io/topic?id=27363",
-          "pubDate": "2026-03-10T02:21:25.000Z",
-          "author": "moregeek",
-          "content": "<p>글로벌 테크 기업(Meta, Google, Spotify, Airbnb 등)의 기술 블로그가 궁금하지만 일일이 읽는건 부담스러웠던 분들을 위해 만들었습니다.<br />\n(사실 제가 그랬습니다.)</p>\n<p>주요 기능:</p>\n<ul>\n<li>각 블로그의 RSS 피드를 자동으로 수집하고, AI 기반의 한국어 핵심 요약을 제공합니다.</li>\n<li>Frontend, ",
-          "contentSnippet": "글로벌 테크 기업(Meta, Google, Spotify, Airbnb 등)의 기술 블로그가 궁금하지만 일일이 읽는건 부담스러웠던 분들을 위해 만들었습니다.\n주요 기능:\n각 블로그의 RSS 피드를 자동으로 수집하고, AI 기반의 한국어 핵심 요약을 제공합니다.\nFrontend,",
-          "id": "https://news.hada.io/topic?id=27363",
-          "isoDate": "2026-03-10T02:21:25.000Z"
-        },
-        {
-          "title": "Claude Code, 코드 리뷰 기능 공개",
-          "link": "https://news.hada.io/topic?id=27362",
-          "pubDate": "2026-03-10T01:56:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>PR마다 <strong>멀티 에이전트 팀</strong>을 투입해 사람이 놓치기 쉬운 버그를 심층적으로 잡아내는 Code Review 기능이 리서치 프리뷰로 출시</li>\n<li>Anthropic 엔지니어의 코드 생산량이 지난 1년간 <strong>200% 증가</strong>하면서 코드 리뷰가 병목이 되었고, 많은 PR이 깊은 리뷰 대신 훑어보기에 그...</p>",
-          "contentSnippet": "PR마다 멀티 에이전트 팀을 투입해 사람이 놓치기 쉬운 버그를 심층적으로 잡아내는 Code Review 기능이 리서치 프리뷰로 출시\nAnthropic 엔지니어의 코드 생산량이 지난 1년간 200% 증가하면서 코드 리뷰가 병목이 되었고, 많은 PR이 깊은 리뷰 대신 훑어보기에 그...",
-          "id": "https://news.hada.io/topic?id=27362",
-          "isoDate": "2026-03-10T01:56:01.000Z"
-        },
-        {
-          "title": "Prompt Cultivation: 경험이 프롬프트가 되는 AI 구조에 대한 이야기",
-          "link": "https://news.hada.io/topic?id=27361",
-          "pubDate": "2026-03-10T01:53:01.000Z",
-          "author": "srebaragi",
-          "content": "<h3>배경</h3>\n<p>회사에 소속된 1인 개발자입니다. AI를 활용한 사내 시스템을 만들면서 한 가지 고민에 오래 빠져있었습니다.</p>\n<p>프롬프트를 아무리 정교하게 써도, 결국 그건 제가 설계한 거잖아요. AI가 자기 판단으로 만들어낸 게 아니라, 제가 &quot;이런 성격이야, 이렇게 반응해&quot; 하고 주입한 거요. 프",
-          "contentSnippet": "배경\n회사에 소속된 1인 개발자입니다. AI를 활용한 사내 시스템을 만들면서 한 가지 고민에 오래 빠져있었습니다.\n프롬프트를 아무리 정교하게 써도, 결국 그건 제가 설계한 거잖아요. AI가 자기 판단으로 만들어낸 게 아니라, 제가 \"이런 성격이야, 이렇게 반응해\" 하고 주입한 거요. 프",
-          "id": "https://news.hada.io/topic?id=27361",
-          "isoDate": "2026-03-10T01:53:01.000Z"
-        },
-        {
-          "title": "합법과 정당은 같은가: AI 재구현과 카피레프트의 침식",
-          "link": "https://news.hada.io/topic?id=27360",
-          "pubDate": "2026-03-10T01:33:38.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Python 문자 인코딩 감지 라이브러리 <strong>chardet</strong>가 AI를 이용해 재구현되며 <strong>LGPL에서 MIT로 변경된 사례</strong>가 오픈소스 윤리 논쟁을 촉발함</li>\n<li>\n<strong>AI 재구현의 합법성</strong>을 인정하는 의견이 나왔지만, 글은 <strong>법적 허용과 사회적 정당성은 다르다</strong...</p>",
-          "contentSnippet": "Python 문자 인코딩 감지 라이브러리 chardet가 AI를 이용해 재구현되며 LGPL에서 MIT로 변경된 사례가 오픈소스 윤리 논쟁을 촉발함\nAI 재구현의 합법성을 인정하는 의견이 나왔지만, 글은 법적 허용과 사회적 정당성은 다르다",
-          "id": "https://news.hada.io/topic?id=27360",
-          "isoDate": "2026-03-10T01:33:38.000Z"
-        },
-        {
-          "title": "LangChain 스킬 공개, Claude Code 통과율 25% → 95%로 끌어올린 방법",
-          "link": "https://news.hada.io/topic?id=27359",
-          "pubDate": "2026-03-10T01:26:00.000Z",
-          "author": "davespark",
-          "content": "<p>LangChain이 <strong>코딩 에이전트</strong> 성능을 극적으로 향상시키는 <strong>&quot;스킬(Skills)&quot;</strong> 세트를 공개.</p>\n<p>특히 Claude Code 같은 모델이 LangChain/LangGraph/LangSmith 관련 태스크를 수행할 때, 스킬 없이 25% 정도만 성공하던 것이 <strong>스킬 장착 후 95%</strong> 까지 올라",
-          "contentSnippet": "LangChain이 코딩 에이전트 성능을 극적으로 향상시키는 \"스킬(Skills)\" 세트를 공개.\n특히 Claude Code 같은 모델이 LangChain/LangGraph/LangSmith 관련 태스크를 수행할 때, 스킬 없이 25% 정도만 성공하던 것이 스킬 장착 후 95% 까지 올라",
-          "id": "https://news.hada.io/topic?id=27359",
-          "isoDate": "2026-03-10T01:26:00.000Z"
-        },
-        {
-          "title": "ChatGPT Pro에서 GPT-5.4 컨텍스트 1M을 제대로 쓰려면 설정이 필요",
-          "link": "https://news.hada.io/topic?id=27358",
-          "pubDate": "2026-03-10T01:22:48.000Z",
-          "author": "princox",
-          "content": "<p>최근 r/codex에 흥미로운 글이 올라왔습니다.<br />\n한 사용자가 ChatGPT Pro + Codex에서 GPT-5.4를 사용 중인데 컨텍스트가 258K만 나온다는 질문을 올렸습니다.<br />\n“GPT-5.4는 1M 컨텍스트라고 들었는데 왜 258K만 나오나요?”  ￼<br />\n실제로 Codex CLI나 IDE에서 확인하면 기본 컨텍스트가 약 258K로 표시...</p>",
-          "contentSnippet": "최근 r/codex에 흥미로운 글이 올라왔습니다.\n한 사용자가 ChatGPT Pro + Codex에서 GPT-5.4를 사용 중인데 컨텍스트가 258K만 나온다는 질문을 올렸습니다.\n“GPT-5.4는 1M 컨텍스트라고 들었는데 왜 258K만 나오나요?”  ￼\n실제로 Codex CLI나 IDE에서 확인하면 기본 컨텍스트가 약 258K로 표시...",
-          "id": "https://news.hada.io/topic?id=27358",
-          "isoDate": "2026-03-10T01:22:48.000Z"
-        },
-        {
-          "title": "웨이브 펑션 콜랩스로 절차적 육각형 지도 만들기",
-          "link": "https://news.hada.io/topic?id=27357",
-          "pubDate": "2026-03-10T00:50:30.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>웨이브 펑션 콜랩스(WFC)</strong> 알고리듬을 이용해 약 4,100개의 육각형 타일로 구성된 <strong>중세풍 섬 지도</strong>를 자동 생성하는 프로젝트</li>\n<li>각 타일은 <strong>도로, 강, 해안, 절벽, 숲, 마을</strong> 등의 지형 정보를 포함하며, <strong>Three.js WebGPU</strong>와 <strong>...</p>",
-          "contentSnippet": "웨이브 펑션 콜랩스(WFC) 알고리듬을 이용해 약 4,100개의 육각형 타일로 구성된 중세풍 섬 지도를 자동 생성하는 프로젝트\n각 타일은 도로, 강, 해안, 절벽, 숲, 마을 등의 지형 정보를 포함하며, Three.js WebGPU와 ...",
-          "id": "https://news.hada.io/topic?id=27357",
-          "isoDate": "2026-03-10T00:50:30.000Z"
-        },
-        {
-          "title": "Sriracha 경영진의 공급업체 피해 사건",
-          "link": "https://news.hada.io/topic?id=27356",
-          "pubDate": "2026-03-10T00:47:30.000Z",
-          "author": "neo",
-          "content": "Sriracha 경영진의 공급업체 피해 사건",
-          "contentSnippet": "Sriracha 경영진의 공급업체 피해 사건",
-          "id": "https://news.hada.io/topic?id=27356",
-          "isoDate": "2026-03-10T00:47:30.000Z"
-        },
-        {
-          "title": "FontCrafter - 손글씨를 실제 폰트로 변환하는 무료 웹앱",
-          "link": "https://news.hada.io/topic?id=27355",
-          "pubDate": "2026-03-10T00:44:30.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>브라우저 내에서 손글씨를 <strong>실제 설치 가능한 폰트 파일</strong>로 변환하며, 계정 생성이나 서버 업로드 없이 완전히 무료로 작동</li>\n<li>사용자는 템플릿을 인쇄해 손글씨를 작성하고 스캔 이미지를 업로드하면, 앱이 <strong>문자 인식·벡터 추출·OpenType 생성</strong>을 자동 처리</li>\n<li>\n...</p>",
-          "contentSnippet": "브라우저 내에서 손글씨를 실제 설치 가능한 폰트 파일로 변환하며, 계정 생성이나 서버 업로드 없이 완전히 무료로 작동\n사용자는 템플릿을 인쇄해 손글씨를 작성하고 스캔 이미지를 업로드하면, 앱이 문자 인식·벡터 추출·OpenType 생성을 자동 처리\n\n...",
-          "id": "https://news.hada.io/topic?id=27355",
-          "isoDate": "2026-03-10T00:44:30.000Z"
-        },
-        {
-          "title": "미국 항소법원: 이메일로 약관 변경 통보 가능, 서비스 이용은 동의로 간주될 수 있음",
-          "link": "https://news.hada.io/topic?id=27354",
-          "pubDate": "2026-03-10T00:41:30.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>미국 제9순회항소법원은 <strong>Tile과 Life360</strong>이 제기한 <strong>중재 강제 신청 기각 결정</strong>을 뒤집고 사건을 환송함</li>\n<li>법원은 <strong>이메일을 통한 서비스 약관 변경 통보</strong>가 <strong>충분한 고지(inquiry notice)</strong> 로 인정될 수 있으며, 사용자가 이후 서비스를...</p>",
-          "contentSnippet": "미국 제9순회항소법원은 Tile과 Life360이 제기한 중재 강제 신청 기각 결정을 뒤집고 사건을 환송함\n법원은 이메일을 통한 서비스 약관 변경 통보가 충분한 고지(inquiry notice) 로 인정될 수 있으며, 사용자가 이후 서비스를...",
-          "id": "https://news.hada.io/topic?id=27354",
-          "isoDate": "2026-03-10T00:41:30.000Z"
-        },
-        {
-          "title": "아일랜드, 마지막 석탄 발전소 폐쇄로 유럽 15번째 석탄 무사용 국가로 전환",
-          "link": "https://news.hada.io/topic?id=27353",
-          "pubDate": "2026-03-10T00:38:29.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>아일랜드가 <strong>클레어 주의 Moneypoint 발전소</strong> 가동을 중단하며 유럽에서 15번째로 <strong>석탄 발전을 완전히 종료한 국가</strong>가 됨</li>\n<li>최근 몇 년간 <strong>풍력 중심의 재생에너지 발전 증가</strong>가 석탄 의존도 감소의 주요 요인으로 작용</li>\n<li>Moneypoint는 2029년까지...</p>",
-          "contentSnippet": "아일랜드가 클레어 주의 Moneypoint 발전소 가동을 중단하며 유럽에서 15번째로 석탄 발전을 완전히 종료한 국가가 됨\n최근 몇 년간 풍력 중심의 재생에너지 발전 증가가 석탄 의존도 감소의 주요 요인으로 작용\nMoneypoint는 2029년까지...",
-          "id": "https://news.hada.io/topic?id=27353",
-          "isoDate": "2026-03-10T00:38:29.000Z"
         }
       ]
     }
