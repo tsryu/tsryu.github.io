@@ -7,6 +7,26 @@
       "priority": 1,
       "data": [
         {
+          "title": "1비트 LLM을 위한 추론 프레임워크 BitNet",
+          "link": "https://news.hada.io/topic?id=27444",
+          "pubDate": "2026-03-12T16:38:03.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>bitnet.cpp</strong>는 1비트 대형언어모델(LLM)의 <strong>공식 추론 프레임워크</strong>로, CPU와 GPU에서 <strong>빠르고 손실 없는 추론</strong>을 지원</li>\n<li>ARM CPU에서 <strong>1.37~5.07배 속도 향상</strong>과 <strong>55.4~70% 에너지 절감</strong>, x86 CPU에서 <strong>2.37~6.17...</p>",
+          "contentSnippet": "bitnet.cpp는 1비트 대형언어모델(LLM)의 공식 추론 프레임워크로, CPU와 GPU에서 빠르고 손실 없는 추론을 지원\nARM CPU에서 1.37~5.07배 속도 향상과 55.4~70% 에너지 절감, x86 CPU에서 2.37~6.17...",
+          "id": "https://news.hada.io/topic?id=27444",
+          "isoDate": "2026-03-12T16:38:03.000Z"
+        },
+        {
+          "title": "레고의 0.002mm 사양과 제조업에 미치는 영향",
+          "link": "https://news.hada.io/topic?id=27443",
+          "pubDate": "2026-03-12T16:35:03.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>1958년에 생산된 <strong>레고 블록이 오늘날 전 세계 공장에서 생산된 블록과 완벽히 호환</strong>되는 것은 수십억 개의 부품을 연간 0.01mm 정밀도로 유지한 결과임</li>\n<li>블록의 <strong>결합력과 간섭 맞춤(interference fit)</strong> 은 수백분의 1mm 단위로 설계되어, 0.02mm만 벗어나도 조립 불가...</p>",
+          "contentSnippet": "1958년에 생산된 레고 블록이 오늘날 전 세계 공장에서 생산된 블록과 완벽히 호환되는 것은 수십억 개의 부품을 연간 0.01mm 정밀도로 유지한 결과임\n블록의 결합력과 간섭 맞춤(interference fit) 은 수백분의 1mm 단위로 설계되어, 0.02mm만 벗어나도 조립 불가...",
+          "id": "https://news.hada.io/topic?id=27443",
+          "isoDate": "2026-03-12T16:35:03.000Z"
+        },
+        {
           "title": "AI 봇에게 면접을 받았다",
           "link": "https://news.hada.io/topic?id=27442",
           "pubDate": "2026-03-12T15:33:46.000Z",
@@ -485,26 +505,6 @@
           "contentSnippet": "사내 다양한 앱의 정보를 통합 관리하는 AI 기반 검색 및 어시스턴트 플랫폼\n\n\nUnified Search 기능을 통해 Google Drive, Gmail, Slack, Confluence, Jira 등 주요 협업 도구를 연결하고, BM25 및 pgvector 기반의 전문...",
           "id": "https://news.hada.io/topic?id=27390",
           "isoDate": "2026-03-11T00:31:02.000Z"
-        },
-        {
-          "title": "독일 부의 엔진이 미래를 가로막고 있다",
-          "link": "https://news.hada.io/topic?id=27388",
-          "pubDate": "2026-03-10T22:33:33.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>독일 경제의 핵심 산업인 <strong>자동차 산업</strong>이 오랫동안 국가 부를 이끌었지만, 이제는 <strong>혁신과 전환을 가로막는 구조적 장애물</strong>로 작용하고 있음</li>\n<li>중국의 <strong>전기차(EV) 산업 급성장</strong>과 경쟁 심화로 독일의 수출 모델이 흔들리며, 2024~2025년 사이 <strong>5...</p>",
-          "contentSnippet": "독일 경제의 핵심 산업인 자동차 산업이 오랫동안 국가 부를 이끌었지만, 이제는 혁신과 전환을 가로막는 구조적 장애물로 작용하고 있음\n중국의 전기차(EV) 산업 급성장과 경쟁 심화로 독일의 수출 모델이 흔들리며, 2024~2025년 사이 5...",
-          "id": "https://news.hada.io/topic?id=27388",
-          "isoDate": "2026-03-10T22:33:33.000Z"
-        },
-        {
-          "title": "Meta의 FFmpeg 활용: 대규모 미디어 처리의 비밀",
-          "link": "https://news.hada.io/topic?id=27387",
-          "pubDate": "2026-03-10T21:33:10.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>메타는 하루 <strong>수백억 회 FFmpeg을 실행</strong>하며, 내부 포크 버전 대신 <strong>업스트림 FFmpeg</strong>으로 전면 전환하는 데 성공</li>\n<li>내부 포크와 오픈소스 버전의 기능 격차를 해소하기 위해 FFlabs, VideoLAN과 협력하여 <strong>멀티레인 병렬 인코딩</strong>과 실시간 품질 메트릭 기...</p>",
-          "contentSnippet": "메타는 하루 수백억 회 FFmpeg을 실행하며, 내부 포크 버전 대신 업스트림 FFmpeg으로 전면 전환하는 데 성공\n내부 포크와 오픈소스 버전의 기능 격차를 해소하기 위해 FFlabs, VideoLAN과 협력하여 멀티레인 병렬 인코딩과 실시간 품질 메트릭 기...",
-          "id": "https://news.hada.io/topic?id=27387",
-          "isoDate": "2026-03-10T21:33:10.000Z"
         }
       ]
     }
