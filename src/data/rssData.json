@@ -7,6 +7,26 @@
       "priority": 1,
       "data": [
         {
+          "title": "서비스가 새로운 소프트웨어다",
+          "link": "https://news.hada.io/topic?id=27436",
+          "pubDate": "2026-03-12T07:59:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>AI 모델 성능이 향상될수록 도구(tool)가 아닌 <strong>업무 결과(work)를 직접 판매</strong>하는 서비스형 AI 기업이 차세대 거대 기업이 될 것이라는 논지로, 소프트웨어 기업이 서비스 기업처럼 작동하는 구조를 제시</li>\n<li>모든 직무를 <strong>지능(intelligence)과 판단(judgement)</strong> 두 축으...</p>",
+          "contentSnippet": "AI 모델 성능이 향상될수록 도구(tool)가 아닌 업무 결과(work)를 직접 판매하는 서비스형 AI 기업이 차세대 거대 기업이 될 것이라는 논지로, 소프트웨어 기업이 서비스 기업처럼 작동하는 구조를 제시\n모든 직무를 지능(intelligence)과 판단(judgement) 두 축으...",
+          "id": "https://news.hada.io/topic?id=27436",
+          "isoDate": "2026-03-12T07:59:01.000Z"
+        },
+        {
+          "title": "부동산 AI 만들면서 느낀 모델별 차이점",
+          "link": "https://news.hada.io/topic?id=27435",
+          "pubDate": "2026-03-12T04:55:00.000Z",
+          "author": "runai",
+          "content": "<p>많은 기술적인 이야기들이 있지만 오늘은 사용하는 모델에 대해서 얘기해 볼께요.<br />\n부동산AI를 만든 이유는 GPT, Claude 모두 부동산관련 답변이 정말 시원치 않습니다.<br />\n일단, 과거의 데이터를 현재의 데이터인양 떠들거나, 근거도 없이 부정확한 걸 사실인양 얘기하고 가격정보는 아예 틀리거나 인터넷 뉴...</p>",
+          "contentSnippet": "많은 기술적인 이야기들이 있지만 오늘은 사용하는 모델에 대해서 얘기해 볼께요.\n부동산AI를 만든 이유는 GPT, Claude 모두 부동산관련 답변이 정말 시원치 않습니다.\n일단, 과거의 데이터를 현재의 데이터인양 떠들거나, 근거도 없이 부정확한 걸 사실인양 얘기하고 가격정보는 아예 틀리거나 인터넷 뉴...",
+          "id": "https://news.hada.io/topic?id=27435",
+          "isoDate": "2026-03-12T04:55:00.000Z"
+        },
+        {
           "title": "더 높은 추상화 수준에서 일하는 게 좋은지 잘 모르겠네",
           "link": "https://news.hada.io/topic?id=27434",
           "pubDate": "2026-03-12T03:35:35.000Z",
@@ -485,26 +505,6 @@
           "contentSnippet": "웹 브라우저에서 Linux 및 기타 운영체제를 직접 실행할 수 있는 JSLinux가 x86_64 아키텍처를 새로 지원함\nAVX2, AVX-512 및 APX 지원울 새로 추가하여, 현재 APX를 지원하는 유일한 공개형 x86 전체 시스템 에뮬레이터\nAlpin...",
           "id": "https://news.hada.io/topic?id=27379",
           "isoDate": "2026-03-10T14:33:13.000Z"
-        },
-        {
-          "title": "Show GN: VSCode 안에서 단독으로 실행되는 OpenClaw의 수정판. 그런데 페르소나를 곁들인.",
-          "link": "https://news.hada.io/topic?id=27377",
-          "pubDate": "2026-03-10T13:03:09.000Z",
-          "author": "tomlee",
-          "content": "<p>VSCode 마켓플레이스에서 간편하게 받아서 바로 실행해 볼 수 있는 OpenClaw fork 판을 만들어 보았습니다.</p>\n<p>OpenClaw에는 soul.md등 페르소나 설정 파일(혹은 컨텍스트 엔지니어링 파일)들이 있는데 해당 설정 파일을 공유하는 커뮤니티를 먼저 만들었으나 사용자가 미미 하여 무엇을 하면 좋을까 고민하다가 ",
-          "contentSnippet": "VSCode 마켓플레이스에서 간편하게 받아서 바로 실행해 볼 수 있는 OpenClaw fork 판을 만들어 보았습니다.\nOpenClaw에는 soul.md등 페르소나 설정 파일(혹은 컨텍스트 엔지니어링 파일)들이 있는데 해당 설정 파일을 공유하는 커뮤니티를 먼저 만들었으나 사용자가 미미 하여 무엇을 하면 좋을까 고민하다가",
-          "id": "https://news.hada.io/topic?id=27377",
-          "isoDate": "2026-03-10T13:03:09.000Z"
-        },
-        {
-          "title": "OpenAI, Oracle과의 Stargate 데이터센터 확장 계획 철회",
-          "link": "https://news.hada.io/topic?id=27376",
-          "pubDate": "2026-03-10T12:33:20.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>OpenAI</strong>가 텍사스 애빌린의 <strong>Stargate 데이터센터 확장 계획을 중단</strong>하고, <strong>차세대 Nvidia 칩</strong>을 사용하는 새로운 시설에 집중</li>\n<li>\n<strong>Oracle</strong>은 1,000억 달러 이상의 <strong>부채 기반 투자</strong>로 AI 인프라 확장을 추진 중이며, <s...</p>",
-          "contentSnippet": "OpenAI가 텍사스 애빌린의 Stargate 데이터센터 확장 계획을 중단하고, 차세대 Nvidia 칩을 사용하는 새로운 시설에 집중\nOracle은 1,000억 달러 이상의 부채 기반 투자로 AI 인프라 확장을 추진 중이며,",
-          "id": "https://news.hada.io/topic?id=27376",
-          "isoDate": "2026-03-10T12:33:20.000Z"
         }
       ]
     }
