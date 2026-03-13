@@ -7,6 +7,56 @@
       "priority": 1,
       "data": [
         {
+          "title": "2025.02 ~ 2026.02 GitHub 인기 신규 프로젝트 언어 분포",
+          "link": "https://news.hada.io/topic?id=27463",
+          "pubDate": "2026-03-13T06:49:37.000Z",
+          "author": "coldmonster91",
+          "content": "<p>최근 바이브 코딩 영향으로 GitHub에 신규 프로젝트가 빠르게 증가하고 있음<br />\n2025-02 ~ 2026-02 사이 생성된 저장소 중 가장 인기(Star)있는 저장소 상위 100개를 기준으로, 대표 프로그래밍 언어 분포를 정리함.</p>\n<p>GitHub 검색 쿼리를 통해 저장소를 필터링 (created, 인기도 정렬)</p>\n<p>결과 (Top 100",
+          "contentSnippet": "최근 바이브 코딩 영향으로 GitHub에 신규 프로젝트가 빠르게 증가하고 있음\nGitHub 검색 쿼리를 통해 저장소를 필터링 (created, 인기도 정렬)\n결과 (Top 100",
+          "id": "https://news.hada.io/topic?id=27463",
+          "isoDate": "2026-03-13T06:49:37.000Z"
+        },
+        {
+          "title": "ATM은 은행 창구 직원의 일자리를 없애지 않았지만 아이폰은 그렇게 했다",
+          "link": "https://news.hada.io/topic?id=27462",
+          "pubDate": "2026-03-13T06:33:16.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>ATM은 인간의 업무를 자동화했지만</strong>, 은행 창구 직원의 고용을 줄이지 못했고 오히려 <strong>지점 확장과 ‘관계형 영업’ 역할 강화</strong>로 이어졌음</li>\n<li>반면 <strong>아이폰과 스마트폰 기반 모바일 뱅킹</strong>은 은행 지점 자체의 필요성을 없애며 <strong>창구 직원의 역할...</p>",
+          "contentSnippet": "ATM은 인간의 업무를 자동화했지만, 은행 창구 직원의 고용을 줄이지 못했고 오히려 지점 확장과 ‘관계형 영업’ 역할 강화로 이어졌음\n반면 아이폰과 스마트폰 기반 모바일 뱅킹은 은행 지점 자체의 필요성을 없애며 창구 직원의 역할...",
+          "id": "https://news.hada.io/topic?id=27462",
+          "isoDate": "2026-03-13T06:33:16.000Z"
+        },
+        {
+          "title": "AI 에이전트 워크플로우 3가지 패턴, 언제 어떤 걸 써야 할까",
+          "link": "https://news.hada.io/topic?id=27461",
+          "pubDate": "2026-03-13T05:53:12.000Z",
+          "author": "davespark",
+          "content": "<p>Anthropic이 실제 프로덕션 경험을 바탕으로 정리한 AI 에이전트 워크플로우의 <strong>가장 실무적으로 많이 쓰이는 3가지 패턴</strong>과 언제 어떤 걸 선택해야 하는지 핵심만 정리.</p>\n<h4>핵심 메시지</h4>\n<ul>\n<li>에이전트가 많아질수록 구조(워크플로우)가 더 중요해짐</li>\n<li>잘못된 패턴 → 레이턴시↑",
+          "contentSnippet": "Anthropic이 실제 프로덕션 경험을 바탕으로 정리한 AI 에이전트 워크플로우의 가장 실무적으로 많이 쓰이는 3가지 패턴과 언제 어떤 걸 선택해야 하는지 핵심만 정리.\n핵심 메시지\n에이전트가 많아질수록 구조(워크플로우)가 더 중요해짐\n잘못된 패턴 → 레이턴시↑",
+          "id": "https://news.hada.io/topic?id=27461",
+          "isoDate": "2026-03-13T05:53:12.000Z"
+        },
+        {
+          "title": "SSH에 비밀 메뉴가 있다는 거 아세요?",
+          "link": "https://news.hada.io/topic?id=27460",
+          "pubDate": "2026-03-13T05:38:08.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>SSH 세션이 멈췄을 때 프로세스를 강제 종료할 필요 없이, <strong>SSH에 내장된 이스케이프 시퀀스 메뉴</strong>를 통해 다양한 제어 가능</li>\n<li>세션 내에서 <code>↵Enter</code> 입력후 <code>~?</code>를 입력하면 <strong>숨겨진 명령어 목록</strong>이 표시되며, <code>~.</code>으로 어떤 상황에서...</p>",
+          "contentSnippet": "SSH 세션이 멈췄을 때 프로세스를 강제 종료할 필요 없이, SSH에 내장된 이스케이프 시퀀스 메뉴를 통해 다양한 제어 가능\n세션 내에서 ↵Enter 입력후 ~?를 입력하면 숨겨진 명령어 목록이 표시되며, ~.으로 어떤 상황에서...",
+          "id": "https://news.hada.io/topic?id=27460",
+          "isoDate": "2026-03-13T05:38:08.000Z"
+        },
+        {
+          "title": "OpenAI의 에이전트 구축을 위한 실용 가이드",
+          "link": "https://news.hada.io/topic?id=27459",
+          "pubDate": "2026-03-13T05:02:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>LLM의 추론, 멀티모달, 도구 사용 능력이 향상되면서 사용자를 대신해 <strong>독립적으로 워크플로를 수행</strong>하는 새로운 시스템 범주인 <strong>에이전트</strong>가 등장</li>\n<li>에이전트는 모델(LLM), <strong>도구(API/외부 함수)</strong>, 지침(가이드라인)의 세 가지 핵심 구성요소로 이루어지...</p>",
+          "contentSnippet": "LLM의 추론, 멀티모달, 도구 사용 능력이 향상되면서 사용자를 대신해 독립적으로 워크플로를 수행하는 새로운 시스템 범주인 에이전트가 등장\n에이전트는 모델(LLM), 도구(API/외부 함수), 지침(가이드라인)의 세 가지 핵심 구성요소로 이루어지...",
+          "id": "https://news.hada.io/topic?id=27459",
+          "isoDate": "2026-03-13T05:02:02.000Z"
+        },
+        {
           "title": "Claude, 대화내에서 인터랙티브 시각 자료 생성 기능 추가",
           "link": "https://news.hada.io/topic?id=27458",
           "pubDate": "2026-03-13T02:40:02.000Z",
@@ -75,16 +125,6 @@
           "contentSnippet": "Korean Translation\n구현할까요?\n아니요 ...\n- 새로운 코드만: 새로운 함수 하나(print_itinerary), 새로운 인자 하나, main()의 분기 하나  \n- 기존 모델, 옵티마이저 또는 출력에 대한 변경 없음  \n- 새로운 의존성 없음  \n  \n이것이 전체 계...",
           "id": "https://news.hada.io/topic?id=27451",
           "isoDate": "2026-03-13T00:40:45.000Z"
-        },
-        {
-          "title": "이걸 구현할까? 아니",
-          "link": "https://news.hada.io/topic?id=27450",
-          "pubDate": "2026-03-13T00:40:43.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>여러 GitHub 사용자가 <strong>AI 모델의 엉뚱한 반응</strong>을 캡처해 공유하며 웃음을 나눈 게시물임</li>\n<li>“Shall I implement it? No”라는 <strong>모델의 대화 실패 사례</strong>가 중심이 되어, 다양한 밈과 이미지가 이어짐</li>\n<li>댓글들은 “2살짜리의 생각 같다”, “SOTA 모델은 아닐 것”...</p>",
-          "contentSnippet": "여러 GitHub 사용자가 AI 모델의 엉뚱한 반응을 캡처해 공유하며 웃음을 나눈 게시물임\n“Shall I implement it? No”라는 모델의 대화 실패 사례가 중심이 되어, 다양한 밈과 이미지가 이어짐\n댓글들은 “2살짜리의 생각 같다”, “SOTA 모델은 아닐 것”...",
-          "id": "https://news.hada.io/topic?id=27450",
-          "isoDate": "2026-03-13T00:40:43.000Z"
         },
         {
           "title": "MALUS - 오픈소스 저작권 표기에서 해방되는 Clean Room as a Service",
@@ -465,46 +505,6 @@
           "contentSnippet": "Claw-Empire는 사용자가 가상 회사의 CEO가 되어 여러 AI 에이전트들을 지휘하고 협업시키는 로컬 우선(Local-first) AI 에이전트 오피스 시뮬레이터입니다. 단순한 채팅 UI를 넘어, 픽셀 아트 기반의 오피스 인터페이스를 통해 AI들의 업무 수행 과정을 실시간으로 모니터링하고 ...",
           "id": "https://news.hada.io/topic?id=27410",
           "isoDate": "2026-03-11T09:20:38.000Z"
-        },
-        {
-          "title": "Cloudflare 의 /crawl, 단일 API 호출로 전체 웹사이트 크롤링 지원",
-          "link": "https://news.hada.io/topic?id=27409",
-          "pubDate": "2026-03-11T09:17:15.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>Cloudflare가 <strong>Browser Rendering의 새로운 /crawl 엔드포인트</strong>를 공개 베타로 제공, 단 한 번의 API 호출로 전체 웹사이트를 크롤링할 수 있음</li>\n<li>시작 URL을 제출하면 페이지를 자동으로 탐색하고 <strong>헤드리스 브라우저로 렌더링</strong>, 결과를 <strong>HTML, Markdown, JSON...</p>",
-          "contentSnippet": "Cloudflare가 Browser Rendering의 새로운 /crawl 엔드포인트를 공개 베타로 제공, 단 한 번의 API 호출로 전체 웹사이트를 크롤링할 수 있음\n시작 URL을 제출하면 페이지를 자동으로 탐색하고 헤드리스 브라우저로 렌더링, 결과를 HTML, Markdown, JSON...",
-          "id": "https://news.hada.io/topic?id=27409",
-          "isoDate": "2026-03-11T09:17:15.000Z"
-        },
-        {
-          "title": "클로드 코드 스티커 주문 (공식)명령 추가됨: /stickers",
-          "link": "https://news.hada.io/topic?id=27407",
-          "pubDate": "2026-03-11T05:54:19.000Z",
-          "author": "jaehong747",
-          "content": "<p>클로드 코드 명령에 스티커 주문 명령이 추가되었습니다.</p>\n<p>/stickers</p>\n<p>스티커 귀엽네요ㅎㅎ</p>\n",
-          "contentSnippet": "클로드 코드 명령에 스티커 주문 명령이 추가되었습니다.\n/stickers\n스티커 귀엽네요ㅎㅎ",
-          "id": "https://news.hada.io/topic?id=27407",
-          "isoDate": "2026-03-11T05:54:19.000Z"
-        },
-        {
-          "title": "Qwen2-72B 중간 레이어 7개 복제로 리더보드 1위, 가중치는 단 하나도 안 건드리고",
-          "link": "https://news.hada.io/topic?id=27406",
-          "pubDate": "2026-03-11T05:17:43.000Z",
-          "author": "davespark",
-          "content": "<p>개발자 David Noel Ng가 Qwen2-72B 모델의 <strong>중간 레이어 7개 구간만 반복 통과</strong>시키는 아주 간단한 방법으로, 가중치·파인튜닝 전혀 없이 2024년 HuggingFace Open LLM 리더보드 1위를 찍음.</p>\n<p><strong>주요 포인트</strong></p>\n<ul>\n<li>\n<p>Qwen2-72B (총 80개 레이어)에서 특정 중간 구간(45",
-          "contentSnippet": "개발자 David Noel Ng가 Qwen2-72B 모델의 중간 레이어 7개 구간만 반복 통과시키는 아주 간단한 방법으로, 가중치·파인튜닝 전혀 없이 2024년 HuggingFace Open LLM 리더보드 1위를 찍음.\n주요 포인트\nQwen2-72B (총 80개 레이어)에서 특정 중간 구간(45",
-          "id": "https://news.hada.io/topic?id=27406",
-          "isoDate": "2026-03-11T05:17:43.000Z"
-        },
-        {
-          "title": "page-agent - 코드 1줄로 웹페이지에 AI 에이전트 추가하기",
-          "link": "https://news.hada.io/topic?id=27404",
-          "pubDate": "2026-03-11T02:36:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<code>&lt;script src=&quot;page-agent.js&quot;&gt;&lt;/script&gt;</code> 한줄만 넣으면 웹사이트가 AI-네이티브 앱으로 변신\n<ul>\n<li>\n<strong>브라우저 확장, Python, 헤드리스 브라우저</strong> 없이도 동작</li>\n</ul>\n</li>\n<li>자연어로 지시하면 나머지는 AI가 처리. <strong>텍스트 기반 DOM 조...</p>",
-          "contentSnippet": "<script src=\"page-agent.js\"></script> 한줄만 넣으면 웹사이트가 AI-네이티브 앱으로 변신\n\n\n브라우저 확장, Python, 헤드리스 브라우저 없이도 동작\n자연어로 지시하면 나머지는 AI가 처리. 텍스트 기반 DOM 조...",
-          "id": "https://news.hada.io/topic?id=27404",
-          "isoDate": "2026-03-11T02:36:02.000Z"
         }
       ]
     }
