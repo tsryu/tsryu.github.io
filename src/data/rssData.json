@@ -7,6 +7,46 @@
       "priority": 1,
       "data": [
         {
+          "title": "Digg가 다시 사라졌다",
+          "link": "https://news.hada.io/topic?id=27505",
+          "pubDate": "2026-03-14T19:33:26.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>인터넷 환경 변화 속에서 <strong>Digg 팀이 대규모 축소를 단행</strong>하며, 제품-시장 적합성 확보의 어려움을 인정</li>\n<li>\n<strong>AI 봇과 자동화 계정의 급증</strong>으로 인해 투표·댓글·참여의 신뢰성이 무너졌고, 커뮤니티 기반 플랫폼의 근간이 흔들림</li>\n<li>기존 <strong>대형 소셜 플랫폼의...</p>",
+          "contentSnippet": "인터넷 환경 변화 속에서 Digg 팀이 대규모 축소를 단행하며, 제품-시장 적합성 확보의 어려움을 인정\nAI 봇과 자동화 계정의 급증으로 인해 투표·댓글·참여의 신뢰성이 무너졌고, 커뮤니티 기반 플랫폼의 근간이 흔들림\n기존 대형 소셜 플랫폼의...",
+          "id": "https://news.hada.io/topic?id=27505",
+          "isoDate": "2026-03-14T19:33:26.000Z"
+        },
+        {
+          "title": "당신의 휴대폰은 완전한 컴퓨터다",
+          "link": "https://news.hada.io/topic?id=27504",
+          "pubDate": "2026-03-14T18:38:05.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>최신 <strong>MacBook Neo 발표</strong>는 우리가 소유한 기기에 어떤 소프트웨어를 설치할 권리가 있는지에 대한 오래된 논쟁을 다시 불러옴</li>\n<li>\n<strong>iPhone과 MacBook Neo가 동일한 A18 Pro 칩</strong>을 사용하지만, iPhone은 여전히 <strong>App Store 외부 소프트웨어 설치가 제한</strong>됨...</p>",
+          "contentSnippet": "최신 MacBook Neo 발표는 우리가 소유한 기기에 어떤 소프트웨어를 설치할 권리가 있는지에 대한 오래된 논쟁을 다시 불러옴\niPhone과 MacBook Neo가 동일한 A18 Pro 칩을 사용하지만, iPhone은 여전히 App Store 외부 소프트웨어 설치가 제한됨...",
+          "id": "https://news.hada.io/topic?id=27504",
+          "isoDate": "2026-03-14T18:38:05.000Z"
+        },
+        {
+          "title": "오픈소스와 반(反)AI 운동의 충돌에 대한 John Carmack의 견해",
+          "link": "https://news.hada.io/topic?id=27503",
+          "pubDate": "2026-03-14T18:35:04.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>오픈소스 코드가 <strong>AI 학습에 활용되는 것</strong>을 긍정적으로 평가하며, 이를 “세상에 주는 선물의 가치가 증폭되는 과정”으로 설명</li>\n<li>일부는 오픈소스를 <strong>사회 변화나 명성 구축의 수단</strong>으로 보지만, 본질은 자유롭게 나누는 <strong>‘기부 행위’</strong> 라는 입장</li...</p>",
+          "contentSnippet": "오픈소스 코드가 AI 학습에 활용되는 것을 긍정적으로 평가하며, 이를 “세상에 주는 선물의 가치가 증폭되는 과정”으로 설명\n일부는 오픈소스를 사회 변화나 명성 구축의 수단으로 보지만, 본질은 자유롭게 나누는 ‘기부 행위’ 라는 입장",
+          "id": "https://news.hada.io/topic?id=27503",
+          "isoDate": "2026-03-14T18:35:04.000Z"
+        },
+        {
+          "title": "Mouser: Logi-Plus 마우스 소프트웨어의 오픈소스 대안",
+          "link": "https://news.hada.io/topic?id=27501",
+          "pubDate": "2026-03-14T16:33:10.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Logitech MX Master 3S</strong> 마우스의 모든 프로그래머블 버튼을 재매핑할 수 있는 <strong>경량 오픈소스 도구</strong>로, Logitech Options+를 대체함</li>\n<li>\n<strong>로컬 실행 기반</strong>으로 동작하며, <strong>클라우드·텔레메트리·로그인 계정이 전혀 필요 없음</strong>\n</li>\n<li...</p>",
+          "contentSnippet": "Logitech MX Master 3S 마우스의 모든 프로그래머블 버튼을 재매핑할 수 있는 경량 오픈소스 도구로, Logitech Options+를 대체함\n로컬 실행 기반으로 동작하며, 클라우드·텔레메트리·로그인 계정이 전혀 필요 없음",
+          "id": "https://news.hada.io/topic?id=27501",
+          "isoDate": "2026-03-14T16:33:10.000Z"
+        },
+        {
           "title": "Instagram에서 종단간 암호화된 메시징은 5월 8일 이후 더 이상 지원되지 않음",
           "link": "https://news.hada.io/topic?id=27500",
           "pubDate": "2026-03-14T14:33:35.000Z",
@@ -465,46 +505,6 @@
           "contentSnippet": "Korean Translation\n구현할까요?\n아니요 ...\n- 새로운 코드만: 새로운 함수 하나(print_itinerary), 새로운 인자 하나, main()의 분기 하나  \n- 기존 모델, 옵티마이저 또는 출력에 대한 변경 없음  \n- 새로운 의존성 없음  \n  \n이것이 전체 계...",
           "id": "https://news.hada.io/topic?id=27451",
           "isoDate": "2026-03-13T00:40:45.000Z"
-        },
-        {
-          "title": "MALUS - 오픈소스 저작권 표기에서 해방되는 Clean Room as a Service",
-          "link": "https://news.hada.io/topic?id=27449",
-          "pubDate": "2026-03-13T00:37:43.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>AI 로봇이 오픈소스 프로젝트를 독립적으로 재구성</strong>해, 법적으로 구별되는 코드와 기업 친화적 라이선스를 제공</li>\n<li>원본 코드를 보지 않고 <strong>문서·API·타입 정의만 분석</strong>해 기능적으로 동일한 소프트웨어를 새로 작성</li>\n<li>결과물은 <strong>MalusCorp-0 라이선스</s...</p>",
-          "contentSnippet": "AI 로봇이 오픈소스 프로젝트를 독립적으로 재구성해, 법적으로 구별되는 코드와 기업 친화적 라이선스를 제공\n원본 코드를 보지 않고 문서·API·타입 정의만 분석해 기능적으로 동일한 소프트웨어를 새로 작성\n결과물은 MalusCorp-0 라이선스",
-          "id": "https://news.hada.io/topic?id=27449",
-          "isoDate": "2026-03-13T00:37:43.000Z"
-        },
-        {
-          "title": "klaw.sh - AI 에이전트를 위한 kubectl",
-          "link": "https://news.hada.io/topic?id=27448",
-          "pubDate": "2026-03-13T00:31:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>Kubernetes 운영 방식</strong>을 AI 워크로드 관리에 적용해 AI 에이전트들을 오케스트레이션하는 도구</li>\n<li>\n<code>klaw get agents</code>, <code>klaw logs</code>, <code>klaw describe agent</code> 등 <strong>kubectl과 유사한 명령 체계</strong> 구성</li>\n<li>\n<strong>CLI, Slack, Sc...</p>",
-          "contentSnippet": "Kubernetes 운영 방식을 AI 워크로드 관리에 적용해 AI 에이전트들을 오케스트레이션하는 도구\nklaw get agents, klaw logs, klaw describe agent 등 kubectl과 유사한 명령 체계 구성\nCLI, Slack, Sc...",
-          "id": "https://news.hada.io/topic?id=27448",
-          "isoDate": "2026-03-13T00:31:02.000Z"
-        },
-        {
-          "title": "구글, 클라우드 보안 기업 Wiz 인수 완료",
-          "link": "https://news.hada.io/topic?id=27446",
-          "pubDate": "2026-03-12T23:33:07.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>클라우드 보안 기업 <strong>Wiz가 구글에 공식 합류</strong>, 양사는 클라우드와 AI 시대의 보안 혁신 가속화를 목표로 함</li>\n<li>Wiz는 <strong>“조직이 구축하고 운영하는 모든 것을 보호한다”</strong> 는 기존 사명을 유지하며, AI 속도에 맞춘 보안 강화에 집중</li>\n<li>지난 1년간 Wiz는 <strong>...</p>",
-          "contentSnippet": "클라우드 보안 기업 Wiz가 구글에 공식 합류, 양사는 클라우드와 AI 시대의 보안 혁신 가속화를 목표로 함\nWiz는 “조직이 구축하고 운영하는 모든 것을 보호한다” 는 기존 사명을 유지하며, AI 속도에 맞춘 보안 강화에 집중\n지난 1년간 Wiz는 ...",
-          "id": "https://news.hada.io/topic?id=27446",
-          "isoDate": "2026-03-12T23:33:07.000Z"
-        },
-        {
-          "title": "창업의 새로운 규칙",
-          "link": "https://news.hada.io/topic?id=27445",
-          "pubDate": "2026-03-12T23:00:04.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>기존 창업의 진입장벽이었던 자본, 유통, 기술력이 클라우드·AI·오픈소스로 급격히 해체되면서, <strong>새로운 세대의 창업자에게 역사상 최대의 기회</strong>가 열리고 있음</li>\n<li>Gamma는 2022년 말 6만 사용자에서 AI 중심으로 제품을 전면 재구축한 후, <strong>50명의 팀으로 7천만 사용자와 21억 달...</p>",
-          "contentSnippet": "기존 창업의 진입장벽이었던 자본, 유통, 기술력이 클라우드·AI·오픈소스로 급격히 해체되면서, 새로운 세대의 창업자에게 역사상 최대의 기회가 열리고 있음\nGamma는 2022년 말 6만 사용자에서 AI 중심으로 제품을 전면 재구축한 후, 50명의 팀으로 7천만 사용자와 21억 달...",
-          "id": "https://news.hada.io/topic?id=27445",
-          "isoDate": "2026-03-12T23:00:04.000Z"
         }
       ]
     }
