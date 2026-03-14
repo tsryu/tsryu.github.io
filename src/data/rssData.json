@@ -7,6 +7,16 @@
       "priority": 1,
       "data": [
         {
+          "title": "Instagram에서 종단간 암호화된 메시징은 5월 8일 이후 더 이상 지원되지 않음",
+          "link": "https://news.hada.io/topic?id=27500",
+          "pubDate": "2026-03-14T14:33:35.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>종단간 암호화(E2E)</strong> 는 대화 참여자만 메시지와 통화를 볼 수 있도록 보호하는 기능</li>\n<li>Instagram은 이 기능을 통해 <strong>메시지와 통화의 보안과 보호 수준을 강화</strong>함</li>\n<li>암호화된 채팅에서는 <strong>Instagram이나 제3자가 메시지 내용을 볼 수 없음</strong>\n</l...</p>",
+          "contentSnippet": "종단간 암호화(E2E) 는 대화 참여자만 메시지와 통화를 볼 수 있도록 보호하는 기능\nInstagram은 이 기능을 통해 메시지와 통화의 보안과 보호 수준을 강화함\n암호화된 채팅에서는 Instagram이나 제3자가 메시지 내용을 볼 수 없음",
+          "id": "https://news.hada.io/topic?id=27500",
+          "isoDate": "2026-03-14T14:33:35.000Z"
+        },
+        {
           "title": "Show GN: 한글로 된 짤을 찾을 수 있는, 짤봇 API 와 CLI 를 공유합니다.",
           "link": "https://news.hada.io/topic?id=27498",
           "pubDate": "2026-03-14T07:30:07.000Z",
@@ -495,16 +505,6 @@
           "contentSnippet": "기존 창업의 진입장벽이었던 자본, 유통, 기술력이 클라우드·AI·오픈소스로 급격히 해체되면서, 새로운 세대의 창업자에게 역사상 최대의 기회가 열리고 있음\nGamma는 2022년 말 6만 사용자에서 AI 중심으로 제품을 전면 재구축한 후, 50명의 팀으로 7천만 사용자와 21억 달...",
           "id": "https://news.hada.io/topic?id=27445",
           "isoDate": "2026-03-12T23:00:04.000Z"
-        },
-        {
-          "title": "BitNet - 1비트 LLM을 위한 추론 프레임워크",
-          "link": "https://news.hada.io/topic?id=27444",
-          "pubDate": "2026-03-12T16:38:03.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Microsoft의 <strong>bitnet.cpp</strong>는 1비트 대형언어모델(LLM)의 <strong>공식 추론 프레임워크</strong>로, CPU와 GPU에서 <strong>빠르고 손실 없는 추론</strong>을 지원</li>\n<li>ARM CPU에서 <strong>1.37~5.07배 속도 향상</strong>과 <strong>55.4~70% 에너지 절감</strong>, x86 CPU에서 <stron...</p>",
-          "contentSnippet": "Microsoft의 bitnet.cpp는 1비트 대형언어모델(LLM)의 공식 추론 프레임워크로, CPU와 GPU에서 빠르고 손실 없는 추론을 지원\nARM CPU에서 1.37~5.07배 속도 향상과 55.4~70% 에너지 절감, x86 CPU에서",
-          "id": "https://news.hada.io/topic?id=27444",
-          "isoDate": "2026-03-12T16:38:03.000Z"
         }
       ]
     }
