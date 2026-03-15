@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: Claude Code 세션의 컨텍스트를 쉽게 파악 가능한 플러그인",
+          "link": "https://news.hada.io/topic?id=27525",
+          "pubDate": "2026-03-15T14:47:48.000Z",
+          "author": "dkstm95",
+          "content": "<p>Claude Code를 터미널 여러 개에서 동시에 돌리다 보면,<br />\n탭을 전환할 때마다 &quot;여기서 뭐 하고 있었지?&quot; 하는 순간이 생기기 마련입니다.<br />\n스크롤을 올려서 이전 대화를 읽거나, 기억에 의존해야 하는데, 세션이 3-4개만 되어도 꽤 혼란스럽습니다.</p>\n<p><code>claude-recall</code>은 이 문제",
+          "contentSnippet": "Claude Code를 터미널 여러 개에서 동시에 돌리다 보면,\nclaude-recall은 이 문제",
+          "id": "https://news.hada.io/topic?id=27525",
+          "isoDate": "2026-03-15T14:47:48.000Z"
+        },
+        {
+          "title": "몬태나, ‘컴퓨팅 권리법’ 제정으로 전국 첫 사례 기록",
+          "link": "https://news.hada.io/topic?id=27524",
+          "pubDate": "2026-03-15T14:33:17.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>몬태나주는 <strong>‘Right to Compute Act(SB 212)’</strong> 를 통과시켜 시민이 <strong>컴퓨팅 및 인공지능 도구를 소유·활용할 권리</strong>를 보장하는 첫 주가 됨</li>\n<li>법안은 <strong>정부 규제의 엄격한 제한</strong>과 <strong>AI 기반 중요 인프라의 안전 프로토콜</strong>을 의무화함</li...</p>",
+          "contentSnippet": "몬태나주는 ‘Right to Compute Act(SB 212)’ 를 통과시켜 시민이 컴퓨팅 및 인공지능 도구를 소유·활용할 권리를 보장하는 첫 주가 됨\n법안은 정부 규제의 엄격한 제한과 AI 기반 중요 인프라의 안전 프로토콜을 의무화함",
+          "id": "https://news.hada.io/topic?id=27524",
+          "isoDate": "2026-03-15T14:33:17.000Z"
+        },
+        {
+          "title": "안전한 AI 에이전트는 어떻게 만드는가 — NanoClaw 오픈소스 컨테이너 아키텍처",
+          "link": "https://news.hada.io/topic?id=27522",
+          "pubDate": "2026-03-15T12:22:15.000Z",
+          "author": "neocode24",
+          "content": "<p>AI 에이전트에게 Bash를 주면 강력해지지만, 동시에 위험해진다. NanoClaw는 Claude Agent SDK(Claude Code)를 Docker 컨테이너 안에 격리해서 이 문제를 푸는 오픈소스 아키텍처다.</p>\n<p>Host-Container 분리로 AI 작업을 격리하고, stdin/stdout 파이프로 포트 없이 통신하고, 볼륨 마운트 허용 목록으로 파일시스",
+          "contentSnippet": "AI 에이전트에게 Bash를 주면 강력해지지만, 동시에 위험해진다. NanoClaw는 Claude Agent SDK(Claude Code)를 Docker 컨테이너 안에 격리해서 이 문제를 푸는 오픈소스 아키텍처다.\nHost-Container 분리로 AI 작업을 격리하고, stdin/stdout 파이프로 포트 없이 통신하고, 볼륨 마운트 허용 목록으로 파일시스",
+          "id": "https://news.hada.io/topic?id=27522",
+          "isoDate": "2026-03-15T12:22:15.000Z"
+        },
+        {
           "title": "미국 경제 데이터의 신뢰성이 떨어질 때 벌어지는 일",
           "link": "https://news.hada.io/topic?id=27521",
           "pubDate": "2026-03-15T06:33:01.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "노화로 인해 장내 미생물 변화가 발생하며, 이로 인해 장과 뇌 사이의 미주신경 신호 전달이 약화되어 기억 형성 능력이 저하됨\n연구진은 미주신경 자극을 통해 노령 마우스의 기억력과 학습 능력을 젊은 개체 수준으로 회복시킴\n특정 세...",
           "id": "https://news.hada.io/topic?id=27472",
           "isoDate": "2026-03-13T15:33:15.000Z"
-        },
-        {
-          "title": "버블 정렬된 에이멘 브레이크",
-          "link": "https://news.hada.io/topic?id=27471",
-          "pubDate": "2026-03-13T14:33:06.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Amen Break 샘플을 버블 정렬 알고리듬으로 재구성한 음악 실험 프로젝트</strong>로, HTML5와 Windows에서 실행 가능한 프로토타입 형태</li>\n<li>\n<strong>Godot 엔진</strong>으로 제작되었으며, 사용자가 원하는 금액을 입력해 다운로드 가능</li>\n<li>프로젝트는 <strong>음악과 컴퓨터 과학의 결...</p>",
-          "contentSnippet": "Amen Break 샘플을 버블 정렬 알고리듬으로 재구성한 음악 실험 프로젝트로, HTML5와 Windows에서 실행 가능한 프로토타입 형태\nGodot 엔진으로 제작되었으며, 사용자가 원하는 금액을 입력해 다운로드 가능\n프로젝트는 음악과 컴퓨터 과학의 결...",
-          "id": "https://news.hada.io/topic?id=27471",
-          "isoDate": "2026-03-13T14:33:06.000Z"
-        },
-        {
-          "title": "2026년에 다시 Rails로 돌아오다",
-          "link": "https://news.hada.io/topic?id=27470",
-          "pubDate": "2026-03-13T13:37:48.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>밴드의 <strong>세트리스트 관리 앱(setlist.rocks)</strong> 을 만들며 오랜만에 <strong>Ruby on Rails</strong> 개발의 즐거움을 재발견함</li>\n<li>최신 <strong>Rails 8</strong>은 전통적인 MVC 구조를 유지하면서도 <strong>Hotwire(Stimulus·Turbo)</strong> 기반의 “no-build” 프런트엔드, <strong>...</p>",
-          "contentSnippet": "밴드의 세트리스트 관리 앱(setlist.rocks) 을 만들며 오랜만에 Ruby on Rails 개발의 즐거움을 재발견함\n최신 Rails 8은 전통적인 MVC 구조를 유지하면서도 Hotwire(Stimulus·Turbo) 기반의 “no-build” 프런트엔드, ...",
-          "id": "https://news.hada.io/topic?id=27470",
-          "isoDate": "2026-03-13T13:37:48.000Z"
-        },
-        {
-          "title": "가장 저렴한 MacBook에서 빅데이터 처리하기",
-          "link": "https://news.hada.io/topic?id=27469",
-          "pubDate": "2026-03-13T13:34:48.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>최신 <strong>MacBook Neo</strong>가 데이터베이스 워크로드를 얼마나 잘 처리하는지 <strong>ClickBench</strong>와 <strong>TPC-DS SF300</strong> 벤치마크로 측정한 결과</li>\n<li>6코어 <strong>Apple A18 Pro</strong> 칩과 <strong>8GB 메모리</strong>, <strong>512GB SSD</strong>를 탑재한 모델이 실...</p>",
-          "contentSnippet": "최신 MacBook Neo가 데이터베이스 워크로드를 얼마나 잘 처리하는지 ClickBench와 TPC-DS SF300 벤치마크로 측정한 결과\n6코어 Apple A18 Pro 칩과 8GB 메모리, 512GB SSD를 탑재한 모델이 실...",
-          "id": "https://news.hada.io/topic?id=27469",
-          "isoDate": "2026-03-13T13:34:48.000Z"
         }
       ]
     }
