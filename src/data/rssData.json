@@ -7,6 +7,16 @@
       "priority": 1,
       "data": [
         {
+          "title": "LLM과의 작업이 지치게 만드는 이유",
+          "link": "https://news.hada.io/topic?id=27565",
+          "pubDate": "2026-03-16T18:32:26.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>장시간 <strong>Claude나 Codex 같은 LLM과 협업</strong>할 때 피로감이 누적되면 생산성이 급격히 떨어짐</li>\n<li>\n<strong>피로로 인한 프롬프트 품질 저하</strong>가 결과의 질을 악화시키며, 중간에 모델을 끊거나 수정할수록 성능이 더 나빠짐</li>\n<li>\n<strong>피드백 루프가 느리고 컨텍스트가 과도...</p>",
+          "contentSnippet": "장시간 Claude나 Codex 같은 LLM과 협업할 때 피로감이 누적되면 생산성이 급격히 떨어짐\n피로로 인한 프롬프트 품질 저하가 결과의 질을 악화시키며, 중간에 모델을 끊거나 수정할수록 성능이 더 나빠짐\n피드백 루프가 느리고 컨텍스트가 과도...",
+          "id": "https://news.hada.io/topic?id=27565",
+          "isoDate": "2026-03-16T18:32:26.000Z"
+        },
+        {
           "title": "Jazzband - 파이썬 오픈소스 커뮤니티 운영 종료",
           "link": "https://news.hada.io/topic?id=27564",
           "pubDate": "2026-03-16T14:09:58.000Z",
@@ -495,16 +505,6 @@
           "contentSnippet": "가상화 소프트웨어 Parallels Desktop이 MacBook Neo에서 정상 작동함이 확인되었으며, 기본 사용성 테스트를 통과함\n다만 8GB RAM 제한으로 인해 Windows 11 VM 실행 시 macOS와 동시 사용 시 메모리 부족 가능성",
           "id": "https://news.hada.io/topic?id=27512",
           "isoDate": "2026-03-14T22:50:36.000Z"
-        },
-        {
-          "title": "Hammerspoon - Lua로 구현된 강력한 macOS 데스크톱 자동화 도구",
-          "link": "https://news.hada.io/topic?id=27511",
-          "pubDate": "2026-03-14T22:33:11.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>macOS 환경을 <strong>Lua 스크립트로 제어</strong>할 수 있는 오픈소스 자동화 도구로, 운영체제와 스크립팅 엔진을 연결하는 <strong>브리지 역할</strong>을 수행</li>\n<li>다양한 <strong>확장 모듈(extensions)</strong> 을 통해 시스템 기능을 노출하고, 이를 조합해 창 관리, 입력 제어 등 복잡한 작업...</p>",
-          "contentSnippet": "macOS 환경을 Lua 스크립트로 제어할 수 있는 오픈소스 자동화 도구로, 운영체제와 스크립팅 엔진을 연결하는 브리지 역할을 수행\n다양한 확장 모듈(extensions) 을 통해 시스템 기능을 노출하고, 이를 조합해 창 관리, 입력 제어 등 복잡한 작업...",
-          "id": "https://news.hada.io/topic?id=27511",
-          "isoDate": "2026-03-14T22:33:11.000Z"
         }
       ]
     }
