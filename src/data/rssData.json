@@ -7,6 +7,46 @@
       "priority": 1,
       "data": [
         {
+          "title": "AI 출력물 무단 복붙 중단(Stop Sloppypasta)",
+          "link": "https://news.hada.io/topic?id=27559",
+          "pubDate": "2026-03-16T08:33:18.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>‘Sloppypasta’</strong> 는 검토되지 않은 <strong>LLM(대형 언어 모델)</strong> 의 출력을 그대로 복사해 다른 사람에게 보내는 행위를 뜻하며, 수신자에게 불필요한 검증 부담을 전가하는 <strong>비예의적 행동</strong>으로 지적됨</li>\n<li>이러한 메시지는 <strong>읽기와 검증의 비대칭성...</p>",
+          "contentSnippet": "‘Sloppypasta’ 는 검토되지 않은 LLM(대형 언어 모델) 의 출력을 그대로 복사해 다른 사람에게 보내는 행위를 뜻하며, 수신자에게 불필요한 검증 부담을 전가하는 비예의적 행동으로 지적됨\n이러한 메시지는 읽기와 검증의 비대칭성...",
+          "id": "https://news.hada.io/topic?id=27559",
+          "isoDate": "2026-03-16T08:33:18.000Z"
+        },
+        {
+          "title": "Show GN: 링크만 저장하는 게 아니라, 본문을 읽기 좋게 바꿔 다시 볼 수 있게 하는 앱을 만들었습니다.",
+          "link": "https://news.hada.io/topic?id=27558",
+          "pubDate": "2026-03-16T07:09:02.000Z",
+          "author": "asdzxc566",
+          "content": "<p>저장한 링크를 다시 읽기 쉽게 정리해주는 Stackbox 앱을 만들었습니다!</p>\n<p>단순히 링크만 보관하는 게 아니라, 저장한 웹페이지의 본문을 읽기 좋은 화면으로 바꿔서 다시 볼 수 있게 만드는 데 초점을 두고 있습니다.</p>\n<p>주요 기능은 아래와 같습니다!!</p>\n<p>•읽기 화면 정리<br />\n저장한 링크의 본문을",
+          "contentSnippet": "저장한 링크를 다시 읽기 쉽게 정리해주는 Stackbox 앱을 만들었습니다!\n단순히 링크만 보관하는 게 아니라, 저장한 웹페이지의 본문을 읽기 좋은 화면으로 바꿔서 다시 볼 수 있게 만드는 데 초점을 두고 있습니다.\n주요 기능은 아래와 같습니다!!\n•읽기 화면 정리\n저장한 링크의 본문을",
+          "id": "https://news.hada.io/topic?id=27558",
+          "isoDate": "2026-03-16T07:09:02.000Z"
+        },
+        {
+          "title": "나스닥의 수치",
+          "link": "https://news.hada.io/topic?id=27557",
+          "pubDate": "2026-03-16T06:33:30.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>나스닥이 제안한 새로운 지수 규칙 변경안</strong>이 대형 IPO 기업, 특히 <strong>SpaceX 상장을 위한 특혜 구조</strong>로 비판받고 있음</li>\n<li>제안서에는 신규 상장 기업을 <strong>15거래일 만에 나스닥100 지수에 편입</strong>할 수 있는 <strong>‘Fast Entry’ 예외 조항</strong>이 포...</p>",
+          "contentSnippet": "나스닥이 제안한 새로운 지수 규칙 변경안이 대형 IPO 기업, 특히 SpaceX 상장을 위한 특혜 구조로 비판받고 있음\n제안서에는 신규 상장 기업을 15거래일 만에 나스닥100 지수에 편입할 수 있는 ‘Fast Entry’ 예외 조항이 포...",
+          "id": "https://news.hada.io/topic?id=27557",
+          "isoDate": "2026-03-16T06:33:30.000Z"
+        },
+        {
+          "title": "Show GN: 옴니모달 의존 없이 DOM 압축으로 Token 친화적이게 웹을 탐색하는 AI 에이전트 라이브러리",
+          "link": "https://news.hada.io/topic?id=27556",
+          "pubDate": "2026-03-16T06:25:27.000Z",
+          "author": "mercuriusdream",
+          "content": "<p><em>평소에는 GN 가끔 읽어보기만 하다가 투고는 처음이네요. 잘 부탁드립니다!</em></p>\n<hr />\n<p><em>옴니모달이라는 불확실한 현존 Web Surf agent 대신, CDP로 받은 DOM을 LLM이 이해할 수 있도록 최소한으로 포매팅, 압축해서 MCP로 만들면 어떠할까?</em> 라는 아이디어에서 출발해 만들어 본 라이브러리입니다",
+          "contentSnippet": "평소에는 GN 가끔 읽어보기만 하다가 투고는 처음이네요. 잘 부탁드립니다!\n옴니모달이라는 불확실한 현존 Web Surf agent 대신, CDP로 받은 DOM을 LLM이 이해할 수 있도록 최소한으로 포매팅, 압축해서 MCP로 만들면 어떠할까? 라는 아이디어에서 출발해 만들어 본 라이브러리입니다",
+          "id": "https://news.hada.io/topic?id=27556",
+          "isoDate": "2026-03-16T06:25:27.000Z"
+        },
+        {
           "title": "AI 보조 코딩이 당신의 업무에 어떤 영향을 주고 있나요?",
           "link": "https://news.hada.io/topic?id=27554",
           "pubDate": "2026-03-16T04:33:37.000Z",
@@ -465,46 +505,6 @@
           "contentSnippet": "미국 국세청이 새로운 Tax Withholding Estimator(TWE) 를 오픈소스로 공개했으며, 미국 세법을 XML 기반의 선언적 명세로 모델링한 구조가 핵심 설계 원칙\nTWE의 세금 계산 로직은 Fact Graph라는 로직 엔진 위에 구축되며, 각 세금 항목을 XML로...",
           "id": "https://news.hada.io/topic?id=27507",
           "isoDate": "2026-03-14T21:57:27.000Z"
-        },
-        {
-          "title": "유럽 전역에서 루트박스가 포함된 게임, 최소 16세 이용가로 등급 조정",
-          "link": "https://news.hada.io/topic?id=27506",
-          "pubDate": "2026-03-14T21:55:56.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>유럽 비디오 게임 등급 기구 <strong>PEGI</strong>가 6월부터 Loot Box(가챠, 유료 랜덤 아이템) 포함 게임에 기본 <strong>16세 등급</strong>을 적용하는 등 연령 등급 기준을 대폭 개편</li>\n<li>루트박스는 실제 또는 가상 화폐로 랜덤 미스터리 아이템을 구매하는 인게임 기능으로, 최근 연구에서 <stron...</p>",
-          "contentSnippet": "유럽 비디오 게임 등급 기구 PEGI가 6월부터 Loot Box(가챠, 유료 랜덤 아이템) 포함 게임에 기본 16세 등급을 적용하는 등 연령 등급 기준을 대폭 개편\n루트박스는 실제 또는 가상 화폐로 랜덤 미스터리 아이템을 구매하는 인게임 기능으로, 최근 연구에서",
-          "id": "https://news.hada.io/topic?id=27506",
-          "isoDate": "2026-03-14T21:55:56.000Z"
-        },
-        {
-          "title": "Digg가 다시 사라졌다",
-          "link": "https://news.hada.io/topic?id=27505",
-          "pubDate": "2026-03-14T19:33:26.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>인터넷 환경 변화 속에서 <strong>Digg 팀이 대규모 축소를 단행</strong>하며, 제품-시장 적합성 확보의 어려움을 인정</li>\n<li>\n<strong>AI 봇과 자동화 계정의 급증</strong>으로 인해 투표·댓글·참여의 신뢰성이 무너졌고, 커뮤니티 기반 플랫폼의 근간이 흔들림</li>\n<li>기존 <strong>대형 소셜 플랫폼의...</p>",
-          "contentSnippet": "인터넷 환경 변화 속에서 Digg 팀이 대규모 축소를 단행하며, 제품-시장 적합성 확보의 어려움을 인정\nAI 봇과 자동화 계정의 급증으로 인해 투표·댓글·참여의 신뢰성이 무너졌고, 커뮤니티 기반 플랫폼의 근간이 흔들림\n기존 대형 소셜 플랫폼의...",
-          "id": "https://news.hada.io/topic?id=27505",
-          "isoDate": "2026-03-14T19:33:26.000Z"
-        },
-        {
-          "title": "스마트폰은 완전한 컴퓨터다",
-          "link": "https://news.hada.io/topic?id=27504",
-          "pubDate": "2026-03-14T18:38:05.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Apple이 최근 출시한 <strong>MacBook Neo</strong>가 iPhone 16 Pro와 동일한 A18 Pro 칩을 탑재하면서, 스마트폰이 데스크톱 OS를 구동할 수 있는 완전한 컴퓨터임이 재확인됨</li>\n<li>MacBook Neo에서는 자유로운 소프트웨어 설치, 코드 실행, <strong>대체 OS 설치</strong>가 가능하지만, 동일 칩의 iPho...</p>",
-          "contentSnippet": "Apple이 최근 출시한 MacBook Neo가 iPhone 16 Pro와 동일한 A18 Pro 칩을 탑재하면서, 스마트폰이 데스크톱 OS를 구동할 수 있는 완전한 컴퓨터임이 재확인됨\nMacBook Neo에서는 자유로운 소프트웨어 설치, 코드 실행, 대체 OS 설치가 가능하지만, 동일 칩의 iPho...",
-          "id": "https://news.hada.io/topic?id=27504",
-          "isoDate": "2026-03-14T18:38:05.000Z"
-        },
-        {
-          "title": "오픈소스와 반(反)AI 운동의 충돌에 대한 John Carmack의 견해",
-          "link": "https://news.hada.io/topic?id=27503",
-          "pubDate": "2026-03-14T18:35:04.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>오픈소스 코드가 <strong>AI 학습에 활용되는 것</strong>을 긍정적으로 평가하며, 이를 “세상에 주는 선물의 가치가 증폭되는 과정”으로 설명</li>\n<li>일부는 오픈소스를 <strong>사회 변화나 명성 구축의 수단</strong>으로 보지만, 본질은 자유롭게 나누는 <strong>‘기부 행위’</strong> 라는 입장</li...</p>",
-          "contentSnippet": "오픈소스 코드가 AI 학습에 활용되는 것을 긍정적으로 평가하며, 이를 “세상에 주는 선물의 가치가 증폭되는 과정”으로 설명\n일부는 오픈소스를 사회 변화나 명성 구축의 수단으로 보지만, 본질은 자유롭게 나누는 ‘기부 행위’ 라는 입장",
-          "id": "https://news.hada.io/topic?id=27503",
-          "isoDate": "2026-03-14T18:35:04.000Z"
         }
       ]
     }
