@@ -7,6 +7,46 @@
       "priority": 1,
       "data": [
         {
+          "title": "Jazzband - 파이썬 오픈소스 커뮤니티 운영 종료",
+          "link": "https://news.hada.io/topic?id=27564",
+          "pubDate": "2026-03-16T14:09:58.000Z",
+          "author": "2ykwang",
+          "content": "<p><a href=\"https://github.com/jazzband/\">Jazzband Organization</a></p>\n<ul>\n<li>Jazzband: 여러 파이썬 패키지를 여러 maintainer가 함께 관리하던 &quot;공동 유지&quot; 오픈소스 커뮤니티\n<ul>\n<li>대표적인 오픈소스 프로젝트로는 pip-tools, tablib, django-auditlog, djangorestframework-simplejwt 가 있음",
+          "contentSnippet": "Jazzband Organization\nJazzband: 여러 파이썬 패키지를 여러 maintainer가 함께 관리하던 \"공동 유지\" 오픈소스 커뮤니티\n\n대표적인 오픈소스 프로젝트로는 pip-tools, tablib, django-auditlog, djangorestframework-simplejwt 가 있음",
+          "id": "https://news.hada.io/topic?id=27564",
+          "isoDate": "2026-03-16T14:09:58.000Z"
+        },
+        {
+          "title": "Python 수학 모듈과 1비트까지 일치하는 Rust 라이브러리",
+          "link": "https://news.hada.io/topic?id=27563",
+          "pubDate": "2026-03-16T11:54:17.000Z",
+          "author": "youknowone",
+          "content": "<p>pymath는 python의 math, cmath 를 Rust로 재구현한 라이브러리입니다.</p>\n<p>1비트의 오차도 남기지 않기 때문에 기존의 파이썬 코드를 Rust로 교체할 때 그대로 바꿔 넣을 수 있습니다.</p>\n",
+          "contentSnippet": "pymath는 python의 math, cmath 를 Rust로 재구현한 라이브러리입니다.\n1비트의 오차도 남기지 않기 때문에 기존의 파이썬 코드를 Rust로 교체할 때 그대로 바꿔 넣을 수 있습니다.",
+          "id": "https://news.hada.io/topic?id=27563",
+          "isoDate": "2026-03-16T11:54:17.000Z"
+        },
+        {
+          "title": "Wayland 컴포지터와 윈도 관리자 분리",
+          "link": "https://news.hada.io/topic?id=27561",
+          "pubDate": "2026-03-16T11:33:36.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>기존 Wayland 환경은 <strong>컴포지터와 윈도 관리자가 하나의 프로그램</strong>으로 결합된 구조였으나, river 0.4.0은 이를 <strong>별도 프로세스로 분리</strong>함</li>\n<li>새로운 <strong>river-window-management-v1 프로토콜</strong>은 윈도 관리자에게 창 배치, 키 바인딩 등 정책 전권을 부여하면...</p>",
+          "contentSnippet": "기존 Wayland 환경은 컴포지터와 윈도 관리자가 하나의 프로그램으로 결합된 구조였으나, river 0.4.0은 이를 별도 프로세스로 분리함\n새로운 river-window-management-v1 프로토콜은 윈도 관리자에게 창 배치, 키 바인딩 등 정책 전권을 부여하면...",
+          "id": "https://news.hada.io/topic?id=27561",
+          "isoDate": "2026-03-16T11:33:36.000Z"
+        },
+        {
+          "title": "Show GN: oh-my-agent — 실무용 멀티 AI IDE 에이전트 하네스",
+          "link": "https://news.hada.io/topic?id=27560",
+          "pubDate": "2026-03-16T10:32:57.000Z",
+          "author": "gracefullight",
+          "content": "<p>에이전트에게 “TODO 앱 만들어줘”라고 하면 뭔가를 만들긴 합니다. 문제는 자주 엉뚱한 걸 만들고, 범위를 벗어나고, 같은 실수를 반복한다는 점입니다.</p>\n<p>이런 문제를 해결하려고 초기엔 AGENTS.md, 최근엔 Skills 같은 구조적 접근이 많이 등장했습니다. 하지만 실제로 공유되는 스킬들을 보면 몇 가지 공통",
+          "contentSnippet": "에이전트에게 “TODO 앱 만들어줘”라고 하면 뭔가를 만들긴 합니다. 문제는 자주 엉뚱한 걸 만들고, 범위를 벗어나고, 같은 실수를 반복한다는 점입니다.\n이런 문제를 해결하려고 초기엔 AGENTS.md, 최근엔 Skills 같은 구조적 접근이 많이 등장했습니다. 하지만 실제로 공유되는 스킬들을 보면 몇 가지 공통",
+          "id": "https://news.hada.io/topic?id=27560",
+          "isoDate": "2026-03-16T10:32:57.000Z"
+        },
+        {
           "title": "AI 출력물 무단 복붙 중단(Stop Sloppypasta)",
           "link": "https://news.hada.io/topic?id=27559",
           "pubDate": "2026-03-16T08:33:18.000Z",
@@ -465,46 +505,6 @@
           "contentSnippet": "macOS 환경을 Lua 스크립트로 제어할 수 있는 오픈소스 자동화 도구로, 운영체제와 스크립팅 엔진을 연결하는 브리지 역할을 수행\n다양한 확장 모듈(extensions) 을 통해 시스템 기능을 노출하고, 이를 조합해 창 관리, 입력 제어 등 복잡한 작업...",
           "id": "https://news.hada.io/topic?id=27511",
           "isoDate": "2026-03-14T22:33:11.000Z"
-        },
-        {
-          "title": "AI는 소프트웨어 엔지니어링을 단순화하지 않았다: 나쁜 엔지니어링을 더 쉽게 만들었을 뿐",
-          "link": "https://news.hada.io/topic?id=27510",
-          "pubDate": "2026-03-14T22:02:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>LLM</strong> 은 코드 작성 속도를 높였지만, <strong>소프트웨어 엔지니어링의 본질적 복잡성</strong>을 줄이지 못함</li>\n<li>코드 생성이 쉬워지면서 <strong>전문성의 필요성이 사라졌다는 착각</strong>이 확산되고 있으며, 일부 조직은 이를 근거로 엔지니어를 감축 중임</li>\n<li>실제 어려움...</p>",
-          "contentSnippet": "LLM 은 코드 작성 속도를 높였지만, 소프트웨어 엔지니어링의 본질적 복잡성을 줄이지 못함\n코드 생성이 쉬워지면서 전문성의 필요성이 사라졌다는 착각이 확산되고 있으며, 일부 조직은 이를 근거로 엔지니어를 감축 중임\n실제 어려움...",
-          "id": "https://news.hada.io/topic?id=27510",
-          "isoDate": "2026-03-14T22:02:02.000Z"
-        },
-        {
-          "title": "내 워크플로우를 A/B 테스트하지 말아 주세요",
-          "link": "https://news.hada.io/topic?id=27509",
-          "pubDate": "2026-03-14T22:00:42.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>Claude Code</strong>가 사용자 동의 없이 <strong>A/B 테스트를 실행</strong>하여, plan mode의 동작이 예고 없이 변경되면서 <strong>작업효율이 저하</strong>\n</li>\n<li>월 <strong>$200을 지불하는 전문 도구</strong>에서 핵심 기능이 사전 공지 없이 변경되는 것은 투명성과 사용자 제어권 측...</p>",
-          "contentSnippet": "Claude Code가 사용자 동의 없이 A/B 테스트를 실행하여, plan mode의 동작이 예고 없이 변경되면서 작업효율이 저하\n\n월 $200을 지불하는 전문 도구에서 핵심 기능이 사전 공지 없이 변경되는 것은 투명성과 사용자 제어권 측...",
-          "id": "https://news.hada.io/topic?id=27509",
-          "isoDate": "2026-03-14T22:00:42.000Z"
-        },
-        {
-          "title": "RAM 키트가 이제 진짜 RAM 1개 + 가짜 RAM 1개로 묶여서 판매됨",
-          "link": "https://news.hada.io/topic?id=27508",
-          "pubDate": "2026-03-14T21:59:10.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>PC 빌더들의 <strong>외관 완성도</strong> 수요에 맞춰, 실제 메모리 모듈 1개와 장식용 필러 모듈 1개를 함께 묶은 새로운 DDR5 메모리 키트가 등장</li>\n<li>\n<strong>V-Color</strong>는 ‘1+1 밸류팩’을 출시해, 하나의 실제 DDR5 메모리와 하나의 <strong>RGB 조명만 작동하는 더미 모듈</strong>을 세트...</p>",
-          "contentSnippet": "PC 빌더들의 외관 완성도 수요에 맞춰, 실제 메모리 모듈 1개와 장식용 필러 모듈 1개를 함께 묶은 새로운 DDR5 메모리 키트가 등장\nV-Color는 ‘1+1 밸류팩’을 출시해, 하나의 실제 DDR5 메모리와 하나의 RGB 조명만 작동하는 더미 모듈을 세트...",
-          "id": "https://news.hada.io/topic?id=27508",
-          "isoDate": "2026-03-14T21:59:10.000Z"
-        },
-        {
-          "title": "XML은 값싼 DSL이다",
-          "link": "https://news.hada.io/topic?id=27507",
-          "pubDate": "2026-03-14T21:57:27.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>미국 국세청이 새로운 <strong>Tax Withholding Estimator(TWE)</strong> 를 오픈소스로 공개했으며, 미국 세법을 <strong>XML 기반의 선언적 명세로 모델링한 구조</strong>가 핵심 설계 원칙</li>\n<li>TWE의 세금 계산 로직은 <strong>Fact Graph</strong>라는 로직 엔진 위에 구축되며, 각 세금 항목을 XML로...</p>",
-          "contentSnippet": "미국 국세청이 새로운 Tax Withholding Estimator(TWE) 를 오픈소스로 공개했으며, 미국 세법을 XML 기반의 선언적 명세로 모델링한 구조가 핵심 설계 원칙\nTWE의 세금 계산 로직은 Fact Graph라는 로직 엔진 위에 구축되며, 각 세금 항목을 XML로...",
-          "id": "https://news.hada.io/topic?id=27507",
-          "isoDate": "2026-03-14T21:57:27.000Z"
         }
       ]
     }
