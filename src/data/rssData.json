@@ -7,6 +7,16 @@
       "priority": 1,
       "data": [
         {
+          "title": "“스몰 웹(small web)”은 생각보다 훨씬 크다",
+          "link": "https://news.hada.io/topic?id=27591",
+          "pubDate": "2026-03-17T10:33:22.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>상업적 목적 없이 <strong>개인용 웹사이트와 블로그</strong>로 구성된 ‘스몰 웹’이 예상보다 활발히 운영되고 있음</li>\n<li>\n<strong>Gemini 프로토콜</strong>처럼 비상업적 커뮤니티 중심의 대안적 웹 환경이 존재하며, 약 6,000개의 ‘캡슐(capsule)’이 운영 중임</li>\n<li>Kagi 검색엔진의 <strong>S...</p>",
+          "contentSnippet": "상업적 목적 없이 개인용 웹사이트와 블로그로 구성된 ‘스몰 웹’이 예상보다 활발히 운영되고 있음\nGemini 프로토콜처럼 비상업적 커뮤니티 중심의 대안적 웹 환경이 존재하며, 약 6,000개의 ‘캡슐(capsule)’이 운영 중임\nKagi 검색엔진의 S...",
+          "id": "https://news.hada.io/topic?id=27591",
+          "isoDate": "2026-03-17T10:33:22.000Z"
+        },
+        {
           "title": "Show GN: 지음(ziium) - 한국어 문장 구조로 코드를 쓰는 프로그래밍 언어",
           "link": "https://news.hada.io/topic?id=27589",
           "pubDate": "2026-03-17T08:22:27.000Z",
@@ -495,16 +505,6 @@
           "contentSnippet": "Spotify의 AI DJ 기능이 클래식 음악을 제대로 인식하지 못하는 사례를 통해 AI의 한계와 음악 메타데이터의 문제를 드러냄\n사용자가 “Beethoven의 7번 교향곡”을 요청했을 때, AI는 작품의 구조나 악장 순서를 이해하지 못하고 엉뚱한 악장이나...",
           "id": "https://news.hada.io/topic?id=27538",
           "isoDate": "2026-03-16T00:43:54.000Z"
-        },
-        {
-          "title": "$96 3D 프린팅 로켓, $5 센서로 비행 중 궤적 재계산",
-          "link": "https://news.hada.io/topic?id=27537",
-          "pubDate": "2026-03-16T00:40:54.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>소비자용 전자부품과 <strong>3D 프린팅 부품</strong>으로 제작된 저비용 <strong>로켓 발사기 및 유도 로켓 시스템</strong>의 개념 증명 프로토타입</li>\n<li>로켓은 <strong>ESP32 비행 컴퓨터</strong>와 <strong>MPU6050 관성측정장치(IMU)</strong> 를 사용해 비행 중 <strong>접이식 날개와 카나드 안정...</p>",
-          "contentSnippet": "소비자용 전자부품과 3D 프린팅 부품으로 제작된 저비용 로켓 발사기 및 유도 로켓 시스템의 개념 증명 프로토타입\n로켓은 ESP32 비행 컴퓨터와 MPU6050 관성측정장치(IMU) 를 사용해 비행 중 접이식 날개와 카나드 안정...",
-          "id": "https://news.hada.io/topic?id=27537",
-          "isoDate": "2026-03-16T00:40:54.000Z"
         }
       ]
     }
