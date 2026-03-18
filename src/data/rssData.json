@@ -7,6 +7,76 @@
       "priority": 1,
       "data": [
         {
+          "title": "메타와 틱톡, 참여 유도를 위해 유해 콘텐츠 노출을 허용했다는 내부고발자 증언",
+          "link": "https://news.hada.io/topic?id=27626",
+          "pubDate": "2026-03-18T20:33:15.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>내부고발자들은 <strong>Meta와 TikTok이 알고리듬이 분노를 유발할수록 참여율이 높아진다는 내부 연구 결과를 알고도</strong>, 더 많은 유해 콘텐츠를 사용자 피드에 노출시켰다고 폭로함</li>\n<li>\n<strong>Meta 엔지니어는 주가 하락을 이유로 ‘경계선 콘텐츠’ 노출을 늘리라는 지시</strong>를 받았다고...</p>",
+          "contentSnippet": "내부고발자들은 Meta와 TikTok이 알고리듬이 분노를 유발할수록 참여율이 높아진다는 내부 연구 결과를 알고도, 더 많은 유해 콘텐츠를 사용자 피드에 노출시켰다고 폭로함\nMeta 엔지니어는 주가 하락을 이유로 ‘경계선 콘텐츠’ 노출을 늘리라는 지시를 받았다고...",
+          "id": "https://news.hada.io/topic?id=27626",
+          "isoDate": "2026-03-18T20:33:15.000Z"
+        },
+        {
+          "title": "Ask GN: AI 사용 방법에 대한 글이 많습니다만, 어떻게 해야하는지 잘 모르겠습니다.",
+          "link": "https://news.hada.io/topic?id=27625",
+          "pubDate": "2026-03-18T19:35:48.000Z",
+          "author": "runableapp",
+          "content": "<p>주로 Claude를 사용해서 여러 에이전트들을 만들어서 워크플로우를 설정해서 자동으로 설계, 개발, 테스트 다 한다고들 합니다. 그런 방법에 대한 글들은 많지만, 실제로 작동하는것이 어떨지 궁금합니다. 설계, 개발, 시험, 등을 다른 모델로 사용하여 어떤 모델이 어떤 일에 적합한지에 대한 글도 많습니다.</p>\n<p",
+          "contentSnippet": "주로 Claude를 사용해서 여러 에이전트들을 만들어서 워크플로우를 설정해서 자동으로 설계, 개발, 테스트 다 한다고들 합니다. 그런 방법에 대한 글들은 많지만, 실제로 작동하는것이 어떨지 궁금합니다. 설계, 개발, 시험, 등을 다른 모델로 사용하여 어떤 모델이 어떤 일에 적합한지에 대한 글도 많습니다.\n<p",
+          "id": "https://news.hada.io/topic?id=27625",
+          "isoDate": "2026-03-18T19:35:48.000Z"
+        },
+        {
+          "title": "코드 작성 속도가 문제라고 생각했다면 더 큰 문제가 있다",
+          "link": "https://news.hada.io/topic?id=27624",
+          "pubDate": "2026-03-18T19:33:44.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>AI 코딩 도구</strong>가 개발 속도를 높인다고 하지만, 실제 병목은 코드 작성이 아닌 <strong>조직의 비효율적 프로세스</strong>에 있음</li>\n<li>코드 생산량을 늘리면 리뷰 대기, 배포 지연, 불명확한 요구사항 등 <strong>비개발 단계의 정체</strong>가 심화됨</li>\n<li>\n<strong>The Goal</st...</p>",
+          "contentSnippet": "AI 코딩 도구가 개발 속도를 높인다고 하지만, 실제 병목은 코드 작성이 아닌 조직의 비효율적 프로세스에 있음\n코드 생산량을 늘리면 리뷰 대기, 배포 지연, 불명확한 요구사항 등 비개발 단계의 정체가 심화됨\nThe Goal",
+          "id": "https://news.hada.io/topic?id=27624",
+          "isoDate": "2026-03-18T19:33:44.000Z"
+        },
+        {
+          "title": "Unsloth Studio",
+          "link": "https://news.hada.io/topic?id=27623",
+          "pubDate": "2026-03-18T18:39:53.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>오픈소스 <strong>로컬 AI 모델 실행·학습용 웹 UI</strong>로, 코드 작성 없이 모델을 훈련·실행·내보내기까지 지원</li>\n<li>\n<strong>GGUF·safetensor 모델</strong>을 Mac, Windows, Linux에서 실행 가능하며, <strong>VRAM 70% 절감·2배 속도 향상</strong>을 제공</li>\n<li>\n<strong>500개 이상 텍스트·�...</p>",
+          "contentSnippet": "오픈소스 로컬 AI 모델 실행·학습용 웹 UI로, 코드 작성 없이 모델을 훈련·실행·내보내기까지 지원\nGGUF·safetensor 모델을 Mac, Windows, Linux에서 실행 가능하며, VRAM 70% 절감·2배 속도 향상을 제공\n500개 이상 텍스트·�...",
+          "id": "https://news.hada.io/topic?id=27623",
+          "isoDate": "2026-03-18T18:39:53.000Z"
+        },
+        {
+          "title": "Get Shit Done - Claude Code용 메타 프롬프트·컨텍스트 엔지니어링·명세 기반 개발 시스템",
+          "link": "https://news.hada.io/topic?id=27622",
+          "pubDate": "2026-03-18T18:36:52.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Claude Code</strong> 및 여러 AI 코딩 런타임에서 <strong>명세 기반 개발(spec-driven development)</strong> 을 자동화하는 경량 시스템으로, 복잡한 워크플로 없이 프로젝트를 완성하도록 지원</li>\n<li>\n<strong>컨텍스트 엔지니어링</strong>과 <strong>XML 기반 프롬프트 구조화</strong>, <st...</p>",
+          "contentSnippet": "Claude Code 및 여러 AI 코딩 런타임에서 명세 기반 개발(spec-driven development) 을 자동화하는 경량 시스템으로, 복잡한 워크플로 없이 프로젝트를 완성하도록 지원\n컨텍스트 엔지니어링과 XML 기반 프롬프트 구조화,",
+          "id": "https://news.hada.io/topic?id=27622",
+          "isoDate": "2026-03-18T18:36:52.000Z"
+        },
+        {
+          "title": "Show GN: 위키위키위키: 텍스트 파일 기반 PHP 위키 엔진",
+          "link": "https://news.hada.io/topic?id=27621",
+          "pubDate": "2026-03-18T18:30:44.000Z",
+          "author": "minguhong",
+          "content": "<p>안녕하세요. 긱뉴스가 만들어진 이래 거의 매일 즐겨 찾는 민구홍이라고 합니다. 관심 있는, 또는 관심을 두고 싶은 분야의 주요 소식뿐 아니라 기술, 나아가 생활을 대하는 태도를 배운 이곳에 이렇게 인사드릴 수 있어서 기쁘고 설렙니다.</p>\n<p><strong>위키위키위키(WikiWikiWiki)</strong> 는 텍스트 파일 기반",
+          "contentSnippet": "안녕하세요. 긱뉴스가 만들어진 이래 거의 매일 즐겨 찾는 민구홍이라고 합니다. 관심 있는, 또는 관심을 두고 싶은 분야의 주요 소식뿐 아니라 기술, 나아가 생활을 대하는 태도를 배운 이곳에 이렇게 인사드릴 수 있어서 기쁘고 설렙니다.\n위키위키위키(WikiWikiWiki) 는 텍스트 파일 기반",
+          "id": "https://news.hada.io/topic?id=27621",
+          "isoDate": "2026-03-18T18:30:44.000Z"
+        },
+        {
+          "title": "FFmpeg 8.1",
+          "link": "https://news.hada.io/topic?id=27619",
+          "pubDate": "2026-03-18T16:33:26.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>오디오와 비디오를 <strong>녹화·변환·스트리밍</strong>할 수 있는 크로스플랫폼 멀티미디어 프레임워크로, 최신 버전 8.1 “Hoare”가 공개됨</li>\n<li>이번 버전은 <strong>xHE-AAC Mps212 및 MPEG-H 디코딩</strong>, <strong>EXIF 메타데이터 파싱</strong>, <strong>LCEVC 메타데이터 처리</strong>를 지...</p>",
+          "contentSnippet": "오디오와 비디오를 녹화·변환·스트리밍할 수 있는 크로스플랫폼 멀티미디어 프레임워크로, 최신 버전 8.1 “Hoare”가 공개됨\n이번 버전은 xHE-AAC Mps212 및 MPEG-H 디코딩, EXIF 메타데이터 파싱, LCEVC 메타데이터 처리를 지...",
+          "id": "https://news.hada.io/topic?id=27619",
+          "isoDate": "2026-03-18T16:33:26.000Z"
+        },
+        {
           "title": "Python 3.15의 JIT이 다시 정상 궤도에 오르다",
           "link": "https://news.hada.io/topic?id=27618",
           "pubDate": "2026-03-18T14:32:58.000Z",
@@ -435,76 +505,6 @@
           "contentSnippet": "12세 Khaled Bani Odeh는 서안지구에서 귀가 중이던 가족이 이스라엘군의 총격으로 사망했다고 증언\n부모와 두 동생이 차량 앞유리 너머로 총격을 받아 즉사, 7세 시각장애 동생 Othman도 어머니 무릎 위에서 숨짐\n현지...",
           "id": "https://news.hada.io/topic?id=27572",
           "isoDate": "2026-03-17T00:52:09.000Z"
-        },
-        {
-          "title": "Polymarket 도박 참가자들이 이란 미사일 기사 때문에 기자를 살해하겠다고 협박",
-          "link": "https://news.hada.io/topic?id=27571",
-          "pubDate": "2026-03-17T00:49:08.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>암호화 기반 예측시장 Polymarket</strong> 참가자들이 특정 뉴스 보도에 따라 금전적 손익이 발생하자, 기사 내용을 바꾸라며 기자에게 <strong>살해 협박</strong>을 보냄</li>\n<li>협박 대상은 <strong>Times of Israel 소속 기자</strong>로, 이란의 미사일 관련 보도를 작성한 인물임</li>\n<li>참...</p>",
-          "contentSnippet": "암호화 기반 예측시장 Polymarket 참가자들이 특정 뉴스 보도에 따라 금전적 손익이 발생하자, 기사 내용을 바꾸라며 기자에게 살해 협박을 보냄\n협박 대상은 Times of Israel 소속 기자로, 이란의 미사일 관련 보도를 작성한 인물임\n참...",
-          "id": "https://news.hada.io/topic?id=27571",
-          "isoDate": "2026-03-17T00:49:08.000Z"
-        },
-        {
-          "title": "OpenGenerativeUI - AI기반 생성형 UI 프레임워크 오픈소스",
-          "link": "https://news.hada.io/topic?id=27570",
-          "pubDate": "2026-03-17T00:36:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>Claude가 출시한 <strong>인터랙티브 시각 자료 생성</strong> 기능을 그대로 구현</li>\n<li>단순 텍스트 응답이 아닌 <strong>차트, 다이어그램, 시각화 등의 자료</strong>를 자동 생성하는 <strong>Generative UI</strong>\n<ul>\n<li>\n<strong>알고리듬 시각화</strong>: 이진 탐색, BFS/DFS, 정렬 등</li>\n...</p>",
-          "contentSnippet": "Claude가 출시한 인터랙티브 시각 자료 생성 기능을 그대로 구현\n단순 텍스트 응답이 아닌 차트, 다이어그램, 시각화 등의 자료를 자동 생성하는 Generative UI\n\n\n알고리듬 시각화: 이진 탐색, BFS/DFS, 정렬 등\n...",
-          "id": "https://news.hada.io/topic?id=27570",
-          "isoDate": "2026-03-17T00:36:02.000Z"
-        },
-        {
-          "title": "NVIDIA NemoClaw - OpenClaw + Nemotron + OpenShell",
-          "link": "https://news.hada.io/topic?id=27569",
-          "pubDate": "2026-03-17T00:06:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>OpenClaw에 <strong>프라이버시 및 보안 제어</strong>를 추가하는 오픈소스 스택, <strong>단일 명령어</strong>로 상시 작동하는 자율 진화형 AI 에이전트를 설치해서 실행 가능</li>\n<li>NVIDIA Agent Toolkit과 <strong>OpenShell</strong>을 활용해 정책 기반 가드레일을 적용하며, 에이전트의 동작과 데이...</p>",
-          "contentSnippet": "OpenClaw에 프라이버시 및 보안 제어를 추가하는 오픈소스 스택, 단일 명령어로 상시 작동하는 자율 진화형 AI 에이전트를 설치해서 실행 가능\nNVIDIA Agent Toolkit과 OpenShell을 활용해 정책 기반 가드레일을 적용하며, 에이전트의 동작과 데이...",
-          "id": "https://news.hada.io/topic?id=27569",
-          "isoDate": "2026-03-17T00:06:02.000Z"
-        },
-        {
-          "title": "nullclaw - Zig로 구현한 초경량 자율형 AI 어시스턴트",
-          "link": "https://news.hada.io/topic?id=27568",
-          "pubDate": "2026-03-17T00:04:40.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>정적 바이너리(678KB)</strong> 로 동작하며, <strong>런타임·VM·프레임워크 의존성 없음</strong>\n</li>\n<li>1MB 미만 메모리, <strong>2ms</strong> 미만 부팅 시간, <strong>ARM·x86·RISC-V</strong> 등 모든 CPU 환경 지원</li>\n<li>\n<strong>완전 자율형 구조</strong>로, 외부 서비스 없이 단일...</p>",
-          "contentSnippet": "정적 바이너리(678KB) 로 동작하며, 런타임·VM·프레임워크 의존성 없음\n\n1MB 미만 메모리, 2ms 미만 부팅 시간, ARM·x86·RISC-V 등 모든 CPU 환경 지원\n완전 자율형 구조로, 외부 서비스 없이 단일...",
-          "id": "https://news.hada.io/topic?id=27568",
-          "isoDate": "2026-03-17T00:04:40.000Z"
-        },
-        {
-          "title": "Manus, 데스크탑 앱 공개 및 &quot;내 컴퓨터&quot; 기능 공개",
-          "link": "https://news.hada.io/topic?id=27567",
-          "pubDate": "2026-03-17T00:03:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>클라우드 전용이던 AI 에이전트 Manus가 <strong>데스크톱 앱</strong>을 출시하여 로컬 파일, 도구, 애플리케이션과 직접 상호작용하는 <strong>&quot;내 컴퓨터&quot;</strong> 기능 도입</li>\n<li>컴퓨터의 <strong>터미널 CLI</strong>를 통해 로컬 파일 읽기·분석·편집, 애플리케이션 실행 등 광범위한 자...</p>",
-          "contentSnippet": "클라우드 전용이던 AI 에이전트 Manus가 데스크톱 앱을 출시하여 로컬 파일, 도구, 애플리케이션과 직접 상호작용하는 \"내 컴퓨터\" 기능 도입\n컴퓨터의 터미널 CLI를 통해 로컬 파일 읽기·분석·편집, 애플리케이션 실행 등 광범위한 자...",
-          "id": "https://news.hada.io/topic?id=27567",
-          "isoDate": "2026-03-17T00:03:02.000Z"
-        },
-        {
-          "title": "Codex, Subagents 지원 시작",
-          "link": "https://news.hada.io/topic?id=27566",
-          "pubDate": "2026-03-17T00:01:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>OpenAI Codex가 <strong>서브에이전트 워크플로</strong>를 지원하여, 복잡한 작업을 여러 전문 에이전트에 <strong>병렬 분배하고 결과를 하나로 통합</strong>하는 기능 제공</li>\n<li>사용자가 명시적으로 요청할 때만 서브에이전트를 생성하며, 각 에이전트가 독립적으로 모델과 도구를 사용하므로 <strong...</p>",
-          "contentSnippet": "OpenAI Codex가 서브에이전트 워크플로를 지원하여, 복잡한 작업을 여러 전문 에이전트에 병렬 분배하고 결과를 하나로 통합하는 기능 제공\n사용자가 명시적으로 요청할 때만 서브에이전트를 생성하며, 각 에이전트가 독립적으로 모델과 도구를 사용하므로",
-          "id": "https://news.hada.io/topic?id=27566",
-          "isoDate": "2026-03-17T00:01:01.000Z"
-        },
-        {
-          "title": "LLM과의 작업이 지치게 만드는 이유",
-          "link": "https://news.hada.io/topic?id=27565",
-          "pubDate": "2026-03-16T18:32:26.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>장시간 <strong>Claude나 Codex 같은 LLM과 협업</strong>할 때 피로감이 누적되면 생산성이 급격히 떨어짐</li>\n<li>\n<strong>피로로 인한 프롬프트 품질 저하</strong>가 결과의 질을 악화시키며, 중간에 모델을 끊거나 수정할수록 성능이 더 나빠짐</li>\n<li>\n<strong>피드백 루프가 느리고 컨텍스트가 과도...</p>",
-          "contentSnippet": "장시간 Claude나 Codex 같은 LLM과 협업할 때 피로감이 누적되면 생산성이 급격히 떨어짐\n피로로 인한 프롬프트 품질 저하가 결과의 질을 악화시키며, 중간에 모델을 끊거나 수정할수록 성능이 더 나빠짐\n피드백 루프가 느리고 컨텍스트가 과도...",
-          "id": "https://news.hada.io/topic?id=27565",
-          "isoDate": "2026-03-16T18:32:26.000Z"
         }
       ]
     }
