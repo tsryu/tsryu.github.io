@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "오픈 소스 보안 작업은 “특별”하지 않다",
+          "link": "https://news.hada.io/topic?id=27613",
+          "pubDate": "2026-03-18T07:12:08.000Z",
+          "author": "darjeeling",
+          "content": "<h4>핵심 요약</h4>\n<ul>\n<li>\n<strong>보안의 탈신비화</strong>: 보안 업무를 특수한 영역으로 치부하는 '보안 예외주의'를 비판하며, 이를 일반적인 엔지니어링 범주 내에서 다뤄야 함을 강조합니다.</li>\n<li>\n<strong>리스크 관리의 통합</strong>: 보안 사고를 마법 같은 재앙이 아닌, 시스템의 가용성(Availabili...</p>",
+          "contentSnippet": "핵심 요약\n보안의 탈신비화: 보안 업무를 특수한 영역으로 치부하는 '보안 예외주의'를 비판하며, 이를 일반적인 엔지니어링 범주 내에서 다뤄야 함을 강조합니다.\n리스크 관리의 통합: 보안 사고를 마법 같은 재앙이 아닌, 시스템의 가용성(Availabili...",
+          "id": "https://news.hada.io/topic?id=27613",
+          "isoDate": "2026-03-18T07:12:08.000Z"
+        },
+        {
+          "title": "Show GN: 틸노트 - 키워드 하나로 AI가 노트를 써주는 지식관리 도구",
+          "link": "https://news.hada.io/topic?id=27611",
+          "pubDate": "2026-03-18T06:03:08.000Z",
+          "author": "wislan",
+          "content": "<p>안녕하세요. 틸노트를 만들고 있는 wislan입니다.</p>\n<p>2022년에 TIL 노트 앱으로 처음 소개드렸는데, 4년간 많은 변화가 있었습니다. 지금은 AI가 직접 리서치하고 노트를 써주는 지식관리 플랫폼이 되었습니다.</p>\n<p>주요 변화</p>\n<ul>\n<li>AI 에이전트: 키워드나 프롬프트를 입력하면 AI가 웹 검색, 노트 검색",
+          "contentSnippet": "안녕하세요. 틸노트를 만들고 있는 wislan입니다.\n2022년에 TIL 노트 앱으로 처음 소개드렸는데, 4년간 많은 변화가 있었습니다. 지금은 AI가 직접 리서치하고 노트를 써주는 지식관리 플랫폼이 되었습니다.\n주요 변화\nAI 에이전트: 키워드나 프롬프트를 입력하면 AI가 웹 검색, 노트 검색",
+          "id": "https://news.hada.io/topic?id=27611",
+          "isoDate": "2026-03-18T06:03:08.000Z"
+        },
+        {
+          "title": "Slug 알고리듬 10주년",
+          "link": "https://news.hada.io/topic?id=27610",
+          "pubDate": "2026-03-18T05:32:41.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>GPU에서 <strong>Bézier 곡선 기반 폰트 렌더링</strong>을 수행하는 Slug 알고리듬이 개발된 지 10년이 되었음</li>\n<li>이 기술은 <strong>텍스처 없이 직접 벡터 데이터를 렌더링</strong>하며, 게임·CAD·영상 편집·의료 장비 등 다양한 산업에서 사용됨</li>\n<li>최근 버전에서는 <strong>band split 최적화...</p>",
+          "contentSnippet": "GPU에서 Bézier 곡선 기반 폰트 렌더링을 수행하는 Slug 알고리듬이 개발된 지 10년이 되었음\n이 기술은 텍스처 없이 직접 벡터 데이터를 렌더링하며, 게임·CAD·영상 편집·의료 장비 등 다양한 산업에서 사용됨\n최근 버전에서는 band split 최적화...",
+          "id": "https://news.hada.io/topic?id=27610",
+          "isoDate": "2026-03-18T05:32:41.000Z"
+        },
+        {
           "title": "ClawTeam — AI 에이전트를 “팀”으로 만드는 오픈소스",
           "link": "https://news.hada.io/topic?id=27609",
           "pubDate": "2026-03-18T04:10:33.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "기존 Wayland 환경은 컴포지터와 윈도 관리자가 하나의 프로그램으로 결합된 구조였으나, river 0.4.0은 이를 별도 프로세스로 분리함\n새로운 river-window-management-v1 프로토콜은 윈도 관리자에게 창 배치, 키 바인딩 등 정책 전권을 부여하면...",
           "id": "https://news.hada.io/topic?id=27561",
           "isoDate": "2026-03-16T11:33:36.000Z"
-        },
-        {
-          "title": "Show GN: oh-my-agent — 실무용 멀티 AI IDE 에이전트 하네스",
-          "link": "https://news.hada.io/topic?id=27560",
-          "pubDate": "2026-03-16T10:32:57.000Z",
-          "author": "gracefullight",
-          "content": "<p>에이전트에게 “TODO 앱 만들어줘”라고 하면 뭔가를 만들긴 합니다. 문제는 자주 엉뚱한 걸 만들고, 범위를 벗어나고, 같은 실수를 반복한다는 점입니다.</p>\n<p>이런 문제를 해결하려고 초기엔 AGENTS.md, 최근엔 Skills 같은 구조적 접근이 많이 등장했습니다. 하지만 실제로 공유되는 스킬들을 보면 몇 가지 공통",
-          "contentSnippet": "에이전트에게 “TODO 앱 만들어줘”라고 하면 뭔가를 만들긴 합니다. 문제는 자주 엉뚱한 걸 만들고, 범위를 벗어나고, 같은 실수를 반복한다는 점입니다.\n이런 문제를 해결하려고 초기엔 AGENTS.md, 최근엔 Skills 같은 구조적 접근이 많이 등장했습니다. 하지만 실제로 공유되는 스킬들을 보면 몇 가지 공통",
-          "id": "https://news.hada.io/topic?id=27560",
-          "isoDate": "2026-03-16T10:32:57.000Z"
-        },
-        {
-          "title": "AI 출력물 무단 복붙 중단(Stop Sloppypasta)",
-          "link": "https://news.hada.io/topic?id=27559",
-          "pubDate": "2026-03-16T08:33:18.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>‘Sloppypasta’</strong> 는 검토되지 않은 <strong>LLM(대형 언어 모델)</strong> 의 출력을 그대로 복사해 다른 사람에게 보내는 행위를 뜻하며, 수신자에게 불필요한 검증 부담을 전가하는 <strong>비예의적 행동</strong>으로 지적됨</li>\n<li>이러한 메시지는 <strong>읽기와 검증의 비대칭성...</p>",
-          "contentSnippet": "‘Sloppypasta’ 는 검토되지 않은 LLM(대형 언어 모델) 의 출력을 그대로 복사해 다른 사람에게 보내는 행위를 뜻하며, 수신자에게 불필요한 검증 부담을 전가하는 비예의적 행동으로 지적됨\n이러한 메시지는 읽기와 검증의 비대칭성...",
-          "id": "https://news.hada.io/topic?id=27559",
-          "isoDate": "2026-03-16T08:33:18.000Z"
-        },
-        {
-          "title": "Show GN: 링크만 저장하는 게 아니라, 본문을 읽기 좋게 바꿔 다시 볼 수 있게 하는 앱을 만들었습니다.",
-          "link": "https://news.hada.io/topic?id=27558",
-          "pubDate": "2026-03-16T07:09:02.000Z",
-          "author": "asdzxc566",
-          "content": "<p>저장한 링크를 다시 읽기 쉽게 정리해주는 Stackbox 앱을 만들었습니다!</p>\n<p>단순히 링크만 보관하는 게 아니라, 저장한 웹페이지의 본문을 읽기 좋은 화면으로 바꿔서 다시 볼 수 있게 만드는 데 초점을 두고 있습니다.</p>\n<p>주요 기능은 아래와 같습니다!!</p>\n<p>•읽기 화면 정리<br />\n저장한 링크의 본문을",
-          "contentSnippet": "저장한 링크를 다시 읽기 쉽게 정리해주는 Stackbox 앱을 만들었습니다!\n단순히 링크만 보관하는 게 아니라, 저장한 웹페이지의 본문을 읽기 좋은 화면으로 바꿔서 다시 볼 수 있게 만드는 데 초점을 두고 있습니다.\n주요 기능은 아래와 같습니다!!\n•읽기 화면 정리\n저장한 링크의 본문을",
-          "id": "https://news.hada.io/topic?id=27558",
-          "isoDate": "2026-03-16T07:09:02.000Z"
         }
       ]
     }
