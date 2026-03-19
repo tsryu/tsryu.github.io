@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "Nvidia NemoClaw",
+          "link": "https://news.hada.io/topic?id=27648",
+          "pubDate": "2026-03-19T13:33:33.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>OpenClaw 에이전트</strong>를 안전하게 설치하고 실행하기 위한 <strong>NVIDIA의 오픈소스 플러그인</strong>으로, OpenShell 런타임을 기반으로 한 보안 샌드박스 환경을 제공</li>\n<li>\n<strong>NVIDIA OpenShell</strong>과 <strong>Nemotron 모델</strong>을 설치해, 모든 네트워크 요청·파일 접...</p>",
+          "contentSnippet": "OpenClaw 에이전트를 안전하게 설치하고 실행하기 위한 NVIDIA의 오픈소스 플러그인으로, OpenShell 런타임을 기반으로 한 보안 샌드박스 환경을 제공\nNVIDIA OpenShell과 Nemotron 모델을 설치해, 모든 네트워크 요청·파일 접...",
+          "id": "https://news.hada.io/topic?id=27648",
+          "isoDate": "2026-03-19T13:33:33.000Z"
+        },
+        {
+          "title": "AI 코딩은 도박이다",
+          "link": "https://news.hada.io/topic?id=27647",
+          "pubDate": "2026-03-19T12:33:55.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>AI 코딩 도구의 즉각적 결과 생성 능력</strong>은 인상적이지만, 세부 구현과 시스템 구성 요소의 완성도는 여전히 부족함</li>\n<li>개발 과정이 <strong>‘생각과 작성’의 균형에서 벗어나</strong>, AI에 사고를 위임하고 최소한의 코드만 작성하는 형태로 변함</li>\n<li>이러한 행위는 <strong>‘...</p>",
+          "contentSnippet": "AI 코딩 도구의 즉각적 결과 생성 능력은 인상적이지만, 세부 구현과 시스템 구성 요소의 완성도는 여전히 부족함\n개발 과정이 ‘생각과 작성’의 균형에서 벗어나, AI에 사고를 위임하고 최소한의 코드만 작성하는 형태로 변함\n이러한 행위는 ‘...",
+          "id": "https://news.hada.io/topic?id=27647",
+          "isoDate": "2026-03-19T12:33:55.000Z"
+        },
+        {
+          "title": "보증 무효: 재생 시 - Warranty Void If Regenerated",
+          "link": "https://news.hada.io/topic?id=27646",
+          "pubDate": "2026-03-19T11:33:05.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>생성형 소프트웨어 시대</strong>에 등장한 ‘소프트웨어 정비공’의 일상을 통해, 기술 변화가 직업 구조와 인간의 역할을 어떻게 바꾸는지를 보여줌</li>\n<li>농기계 수리공이었던 주인공 <strong>Tom Hartmann</strong>은 이제 농업용 생성 소프트웨어의 오류를 진단·수정하는 정비공으로 일함</li...</p>",
+          "contentSnippet": "생성형 소프트웨어 시대에 등장한 ‘소프트웨어 정비공’의 일상을 통해, 기술 변화가 직업 구조와 인간의 역할을 어떻게 바꾸는지를 보여줌\n농기계 수리공이었던 주인공 Tom Hartmann은 이제 농업용 생성 소프트웨어의 오류를 진단·수정하는 정비공으로 일함",
+          "id": "https://news.hada.io/topic?id=27646",
+          "isoDate": "2026-03-19T11:33:05.000Z"
+        },
+        {
           "title": "스크롤 페이드여, 사라져라",
           "link": "https://news.hada.io/topic?id=27645",
           "pubDate": "2026-03-19T06:33:35.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "상업적 목적 없이 개인용 웹사이트와 블로그로 구성된 ‘스몰 웹’이 예상보다 활발히 운영되고 있음\nGemini 프로토콜처럼 비상업적 커뮤니티 중심의 대안적 웹 환경이 존재하며, 약 6,000개의 ‘캡슐(capsule)’이 운영 중임\nKagi 검색...",
           "id": "https://news.hada.io/topic?id=27591",
           "isoDate": "2026-03-17T10:33:22.000Z"
-        },
-        {
-          "title": "Show GN: 지음(ziium) - 한국어 문장 구조로 코드를 쓰는 프로그래밍 언어",
-          "link": "https://news.hada.io/topic?id=27589",
-          "pubDate": "2026-03-17T08:22:27.000Z",
-          "author": "jaypark",
-          "content": "<p>한국어 조사와 서술어를 문법 요소로 활용하는 실험적 프로그래밍 언어.<br />\n기존 언어의 키워드를 한글로 번역하는 방식이 아니라,<br />\n한국어 화자가 읽고 쓰는 흐름에 가까운 표면 문법을 목표로 한다.<br />\nRust로 구현, WebAssembly 브라우저 플레이그라운드 포함.</p>\n<p>코딩 처음 배울 때부터 상상만 해",
-          "contentSnippet": "한국어 조사와 서술어를 문법 요소로 활용하는 실험적 프로그래밍 언어.\n코딩 처음 배울 때부터 상상만 해",
-          "id": "https://news.hada.io/topic?id=27589",
-          "isoDate": "2026-03-17T08:22:27.000Z"
-        },
-        {
-          "title": "FreeBSD를 사랑하는 이유",
-          "link": "https://news.hada.io/topic?id=27588",
-          "pubDate": "2026-03-17T07:32:52.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>20년 넘게 FreeBSD를 사용해 온 시스템 관리자가, 문서화·안정성·커뮤니티를 중심으로 FreeBSD에 대한 애정을 정리한 <strong>장기 사용 경험담</strong>\n</li>\n<li>처음 <strong>FreeBSD Handbook</strong>을 접했을 때 Linux 생태계에서는 찾기 어려웠던 <strong>완전하고 정확한 공식 문서</strong>의 존재에...</p>",
-          "contentSnippet": "20년 넘게 FreeBSD를 사용해 온 시스템 관리자가, 문서화·안정성·커뮤니티를 중심으로 FreeBSD에 대한 애정을 정리한 장기 사용 경험담\n\n처음 FreeBSD Handbook을 접했을 때 Linux 생태계에서는 찾기 어려웠던 완전하고 정확한 공식 문서의 존재에...",
-          "id": "https://news.hada.io/topic?id=27588",
-          "isoDate": "2026-03-17T07:32:52.000Z"
-        },
-        {
-          "title": "Show GN: Hipocampus - AI 에이전트를 위한 영구 메모리 시스템 (제로 인프라)",
-          "link": "https://news.hada.io/topic?id=27587",
-          "pubDate": "2026-03-17T07:21:25.000Z",
-          "author": "0xvinsohn",
-          "content": "<p>Claude Code나 OpenClaw 같은 AI 에이전트는 세션이 끝나는 순간 모든 기억을 잊습니다. 2주 전에 DB 마이그레이션 전략 같이 정했는데 다음 세션에서 처음부터 다시 조사하고 앉아있는 거 보면 참 답답하죠.</p>\n<p>물론 그걸 위해 다양한 해결책들이 존재하지만, 한계가 명확합니다:</p>\n<ul>\n<li>MEMORY.md 하나로",
-          "contentSnippet": "Claude Code나 OpenClaw 같은 AI 에이전트는 세션이 끝나는 순간 모든 기억을 잊습니다. 2주 전에 DB 마이그레이션 전략 같이 정했는데 다음 세션에서 처음부터 다시 조사하고 앉아있는 거 보면 참 답답하죠.\n물론 그걸 위해 다양한 해결책들이 존재하지만, 한계가 명확합니다:\nMEMORY.md 하나로",
-          "id": "https://news.hada.io/topic?id=27587",
-          "isoDate": "2026-03-17T07:21:25.000Z"
         }
       ]
     }
