@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "Delve – 가짜 컴플라이언스 서비스",
+          "link": "https://news.hada.io/topic?id=27685",
+          "pubDate": "2026-03-20T20:33:40.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Delve 플랫폼</strong>이 실제 보안 통제 없이 <strong>‘준수한 것처럼 보이게 만드는 시스템’</strong> 으로 운영되고 있음이 폭로됨</li>\n<li>내부 조사와 유출된 스프레드시트 분석 결과, <strong>감사 보고서·테스트·결론이 Delve에 의해 자동 생성</strong>되고 인도 기반 인증 기관들이 이를 ...</p>",
+          "contentSnippet": "Delve 플랫폼이 실제 보안 통제 없이 ‘준수한 것처럼 보이게 만드는 시스템’ 으로 운영되고 있음이 폭로됨\n내부 조사와 유출된 스프레드시트 분석 결과, 감사 보고서·테스트·결론이 Delve에 의해 자동 생성되고 인도 기반 인증 기관들이 이를 ...",
+          "id": "https://news.hada.io/topic?id=27685",
+          "isoDate": "2026-03-20T20:33:40.000Z"
+        },
+        {
+          "title": "Waymo 안전 영향",
+          "link": "https://news.hada.io/topic?id=27684",
+          "pubDate": "2026-03-20T18:34:13.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Waymo는 <strong>자율주행 시스템의 안전 데이터를 공개</strong>하며, 사람이 운전할 때보다 도로를 더 안전하게 만들고 있음을 수치로 제시</li>\n<li>\n<strong>170.7백만 마일의 무인 주행(Rider-Only)</strong> 데이터를 기반으로, 인간 운전 대비 <strong>심각한 부상 사고 92% 감소</strong>, <strong>에어...</p>",
+          "contentSnippet": "Waymo는 자율주행 시스템의 안전 데이터를 공개하며, 사람이 운전할 때보다 도로를 더 안전하게 만들고 있음을 수치로 제시\n170.7백만 마일의 무인 주행(Rider-Only) 데이터를 기반으로, 인간 운전 대비 심각한 부상 사고 92% 감소, 에어...",
+          "id": "https://news.hada.io/topic?id=27684",
+          "isoDate": "2026-03-20T18:34:13.000Z"
+        },
+        {
+          "title": "macOS 26에서 .internal 등 커스텀 DNS 설정이 작동하지 않음",
+          "link": "https://news.hada.io/topic?id=27683",
+          "pubDate": "2026-03-20T17:33:58.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>macOS 26.3.1에서 <strong><code>/etc/resolver/</code> 기반 도메인별 DNS 설정이 비표준 TLD에 대해 무효화됨</strong>, 기존 로컬 개발 환경이 중단되는 문제 발생</li>\n<li>\n<strong><code>mDNSResponder</code>가 커스텀 TLD 요청을 mDNS로만 처리</strong>하며, 지정된 유니캐스트 네임서버를 전혀 참조하...</p>",
+          "contentSnippet": "macOS 26.3.1에서 /etc/resolver/ 기반 도메인별 DNS 설정이 비표준 TLD에 대해 무효화됨, 기존 로컬 개발 환경이 중단되는 문제 발생\nmDNSResponder가 커스텀 TLD 요청을 mDNS로만 처리하며, 지정된 유니캐스트 네임서버를 전혀 참조하...",
+          "id": "https://news.hada.io/topic?id=27683",
+          "isoDate": "2026-03-20T17:33:58.000Z"
+        },
+        {
           "title": "Cursor, 자체 개발 AI 모델 Composer 2 출시 - 프런티어급 성능에 저렴한 가격",
           "link": "https://news.hada.io/topic?id=27682",
           "pubDate": "2026-03-20T12:34:01.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "음성 복제·텍스트 음성 변환·문서 낭독·오디오북 제작 기능을 통합 제공\nMLX 기반 Metal 가속을 활용해 macOS 환경에서 네이티브 성능 구현(윈도우 지원예정)\n3초 샘플로 음성 복제가 가능한 Qwen3-TTS와 Chatterbox...",
           "id": "https://news.hada.io/topic?id=27628",
           "isoDate": "2026-03-19T00:31:02.000Z"
-        },
-        {
-          "title": "류구 소행성 샘플에서 DNA와 RNA의 모든 구성 요소 발견",
-          "link": "https://news.hada.io/topic?id=27627",
-          "pubDate": "2026-03-18T22:33:10.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>일본 탐사선이 채취한 <strong>류구 소행성 샘플</strong>에서 <strong>DNA와 RNA를 구성하는 모든 기본 분자</strong>가 검출됨</li>\n<li>분석 결과, <strong>핵산의 주요 구성 성분</strong>인 염기, 당, 인산 등이 모두 존재함이 확인됨</li>\n<li>이는 생명체 형성에 필요한 <strong>유기 분자가 우주 기원일...</p>",
-          "contentSnippet": "일본 탐사선이 채취한 류구 소행성 샘플에서 DNA와 RNA를 구성하는 모든 기본 분자가 검출됨\n분석 결과, 핵산의 주요 구성 성분인 염기, 당, 인산 등이 모두 존재함이 확인됨\n이는 생명체 형성에 필요한 유기 분자가 우주 기원일...",
-          "id": "https://news.hada.io/topic?id=27627",
-          "isoDate": "2026-03-18T22:33:10.000Z"
-        },
-        {
-          "title": "메타와 틱톡, 참여 유도를 위해 유해 콘텐츠 노출을 허용했다는 내부고발자 증언",
-          "link": "https://news.hada.io/topic?id=27626",
-          "pubDate": "2026-03-18T20:33:15.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>내부고발자들은 <strong>Meta와 TikTok이 알고리듬이 분노를 유발할수록 참여율이 높아진다는 내부 연구 결과를 알고도</strong>, 더 많은 유해 콘텐츠를 사용자 피드에 노출시켰다고 폭로함</li>\n<li>\n<strong>Meta 엔지니어는 주가 하락을 이유로 ‘경계선 콘텐츠’ 노출을 늘리라는 지시</strong>를 받았다고...</p>",
-          "contentSnippet": "내부고발자들은 Meta와 TikTok이 알고리듬이 분노를 유발할수록 참여율이 높아진다는 내부 연구 결과를 알고도, 더 많은 유해 콘텐츠를 사용자 피드에 노출시켰다고 폭로함\nMeta 엔지니어는 주가 하락을 이유로 ‘경계선 콘텐츠’ 노출을 늘리라는 지시를 받았다고...",
-          "id": "https://news.hada.io/topic?id=27626",
-          "isoDate": "2026-03-18T20:33:15.000Z"
-        },
-        {
-          "title": "Ask GN: AI 사용 방법에 대한 글이 많습니다만, 어떻게 해야하는지 잘 모르겠습니다.",
-          "link": "https://news.hada.io/topic?id=27625",
-          "pubDate": "2026-03-18T19:35:48.000Z",
-          "author": "runableapp",
-          "content": "<p>주로 Claude를 사용해서 여러 에이전트들을 만들어서 워크플로우를 설정해서 자동으로 설계, 개발, 테스트 다 한다고들 합니다. 그런 방법에 대한 글들은 많지만, 실제로 작동하는것이 어떨지 궁금합니다. 설계, 개발, 시험, 등을 다른 모델로 사용하여 어떤 모델이 어떤 일에 적합한지에 대한 글도 많습니다.</p>\n<p",
-          "contentSnippet": "주로 Claude를 사용해서 여러 에이전트들을 만들어서 워크플로우를 설정해서 자동으로 설계, 개발, 테스트 다 한다고들 합니다. 그런 방법에 대한 글들은 많지만, 실제로 작동하는것이 어떨지 궁금합니다. 설계, 개발, 시험, 등을 다른 모델로 사용하여 어떤 모델이 어떤 일에 적합한지에 대한 글도 많습니다.\n<p",
-          "id": "https://news.hada.io/topic?id=27625",
-          "isoDate": "2026-03-18T19:35:48.000Z"
         }
       ]
     }
