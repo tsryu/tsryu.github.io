@@ -7,6 +7,26 @@
       "priority": 1,
       "data": [
         {
+          "title": "Cursor, 자체 개발 AI 모델 Composer 2 출시 - 프런티어급 성능에 저렴한 가격",
+          "link": "https://news.hada.io/topic?id=27682",
+          "pubDate": "2026-03-20T12:34:01.000Z",
+          "author": "princox",
+          "content": "<p>Cursor가 자체 개발한 코딩 특화 AI 모델 Composer 2를 공개했습니다.</p>\n<h2>성능</h2>\n<p>모든 주요 벤치마크에서 전작 대비 큰 폭의 향상을 기록했습니다.</p>\n<h3>세 가지 테스트로 모델을 평가했습니다.</h3>\n<p>CursorBench — Cursor가 자체 제작한 실제 코딩 작업 벤치마크입니다. Composer 1 → 1.5 → 2로",
+          "contentSnippet": "Cursor가 자체 개발한 코딩 특화 AI 모델 Composer 2를 공개했습니다.\n성능\n모든 주요 벤치마크에서 전작 대비 큰 폭의 향상을 기록했습니다.\n세 가지 테스트로 모델을 평가했습니다.\nCursorBench — Cursor가 자체 제작한 실제 코딩 작업 벤치마크입니다. Composer 1 → 1.5 → 2로",
+          "id": "https://news.hada.io/topic?id=27682",
+          "isoDate": "2026-03-20T12:34:01.000Z"
+        },
+        {
+          "title": "4Chan, 영국 온라인 안전법 위반으로 52만 파운드 벌금 부과받자 AI 햄스터 이미지로 조롱",
+          "link": "https://news.hada.io/topic?id=27681",
+          "pubDate": "2026-03-20T11:33:50.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>영국 규제기관 <strong>Ofcom이 온라인 안전법 위반</strong>으로 미국 기반 커뮤니티 4Chan에 <strong>총 52만 파운드의 벌금</strong>을 부과함</li>\n<li>주요 위반 내용은 <strong>아동이 포르노그래피에 접근하지 못하도록 하는 연령 확인 미이행(45만 파운드)</strong>, <strong>불법 콘텐츠 위험 평가 미...</p>",
+          "contentSnippet": "영국 규제기관 Ofcom이 온라인 안전법 위반으로 미국 기반 커뮤니티 4Chan에 총 52만 파운드의 벌금을 부과함\n주요 위반 내용은 아동이 포르노그래피에 접근하지 못하도록 하는 연령 확인 미이행(45만 파운드), 불법 콘텐츠 위험 평가 미...",
+          "id": "https://news.hada.io/topic?id=27681",
+          "isoDate": "2026-03-20T11:33:50.000Z"
+        },
+        {
           "title": "GitHub - KittenML/KittenTTS: 25MB 이하의 최신 음성 합성(TTS) 모델",
           "link": "https://news.hada.io/topic?id=27680",
           "pubDate": "2026-03-20T07:33:09.000Z",
@@ -485,26 +505,6 @@
           "contentSnippet": "주로 Claude를 사용해서 여러 에이전트들을 만들어서 워크플로우를 설정해서 자동으로 설계, 개발, 테스트 다 한다고들 합니다. 그런 방법에 대한 글들은 많지만, 실제로 작동하는것이 어떨지 궁금합니다. 설계, 개발, 시험, 등을 다른 모델로 사용하여 어떤 모델이 어떤 일에 적합한지에 대한 글도 많습니다.\n<p",
           "id": "https://news.hada.io/topic?id=27625",
           "isoDate": "2026-03-18T19:35:48.000Z"
-        },
-        {
-          "title": "코드 작성 속도가 문제라고 생각했다면, 더 큰 문제가 있는 것이다",
-          "link": "https://news.hada.io/topic?id=27624",
-          "pubDate": "2026-03-18T19:33:44.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>AI 코딩 도구</strong>가 개발 속도를 높인다고 하지만, 실제 병목은 코드 작성이 아닌 <strong>조직의 비효율적 프로세스</strong>에 있음</li>\n<li>\n<strong>코드 생산량</strong>을 늘리면 리뷰 대기, 배포 지연, 불명확한 요구사항 등 <strong>비개발 단계의 정체</strong>가 심화되고, 실제 사이...</p>",
-          "contentSnippet": "AI 코딩 도구가 개발 속도를 높인다고 하지만, 실제 병목은 코드 작성이 아닌 조직의 비효율적 프로세스에 있음\n코드 생산량을 늘리면 리뷰 대기, 배포 지연, 불명확한 요구사항 등 비개발 단계의 정체가 심화되고, 실제 사이...",
-          "id": "https://news.hada.io/topic?id=27624",
-          "isoDate": "2026-03-18T19:33:44.000Z"
-        },
-        {
-          "title": "Get Shit Done - 메타 프롬프트·명세 기반 개발 시스템",
-          "link": "https://news.hada.io/topic?id=27622",
-          "pubDate": "2026-03-18T18:36:52.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Claude Code</strong>등에서 <strong>명세 기반 개발(SDD)</strong> 을 자동화하는 경량 시스템으로, 복잡한 워크플로 없이 프로젝트를 완성하도록 지원</li>\n<li>\n<strong>컨텍스트 엔지니어링</strong>과 <strong>XML 기반 프롬프트 구조화</strong>, <strong>멀티 에이전트 오케스트레이션</strong...</p>",
-          "contentSnippet": "Claude Code등에서 명세 기반 개발(SDD) 을 자동화하는 경량 시스템으로, 복잡한 워크플로 없이 프로젝트를 완성하도록 지원\n컨텍스트 엔지니어링과 XML 기반 프롬프트 구조화, 멀티 에이전트 오케스트레이션",
-          "id": "https://news.hada.io/topic?id=27622",
-          "isoDate": "2026-03-18T18:36:52.000Z"
         }
       ]
     }
