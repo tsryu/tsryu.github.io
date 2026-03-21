@@ -7,6 +7,66 @@
       "priority": 1,
       "data": [
         {
+          "title": "Andrej Karpathy가 말하는 코드 에이전트, AutoResearch, 그리고 AI의 루피(Loopy) 시대 [유튜브]",
+          "link": "https://news.hada.io/topic?id=27706",
+          "pubDate": "2026-03-21T06:17:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>AI 코드 에이전트의 등장으로 소프트웨어 개발 방식이 근본적으로 변화했으며, 2024년 12월을 기점으로 <strong>직접 코딩 비중이 80%에서 거의 0%</strong> 로 급감한 체감적 전환이 발생</li>\n<li>개인이 여러 에이전트를 <strong>병렬로 운영</strong>하며 기능 단위로 작업을 배분하는 방식이 새로운 개발 ...</p>",
+          "contentSnippet": "AI 코드 에이전트의 등장으로 소프트웨어 개발 방식이 근본적으로 변화했으며, 2024년 12월을 기점으로 직접 코딩 비중이 80%에서 거의 0% 로 급감한 체감적 전환이 발생\n개인이 여러 에이전트를 병렬로 운영하며 기능 단위로 작업을 배분하는 방식이 새로운 개발 ...",
+          "id": "https://news.hada.io/topic?id=27706",
+          "isoDate": "2026-03-21T06:17:01.000Z"
+        },
+        {
+          "title": "MacBook M5 Pro와 Qwen3.5 기반 로컬 AI 보안 시스템",
+          "link": "https://news.hada.io/topic?id=27705",
+          "pubDate": "2026-03-21T05:45:55.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>Qwen3.5-9B 모델</strong>이 <strong>MacBook Pro M5</strong>에서 완전 로컬로 실행되어 <strong>GPT-5.4 대비 4포인트 낮은 93.8% 성능</strong>을 기록</li>\n<li>\n<strong>96개 테스트와 15개 스위트</strong>로 구성된 <strong>HomeSec-Bench</strong>에서 도구 사용, 보안 분류, 이벤트 중복 제거...</p>",
+          "contentSnippet": "Qwen3.5-9B 모델이 MacBook Pro M5에서 완전 로컬로 실행되어 GPT-5.4 대비 4포인트 낮은 93.8% 성능을 기록\n96개 테스트와 15개 스위트로 구성된 HomeSec-Bench에서 도구 사용, 보안 분류, 이벤트 중복 제거...",
+          "id": "https://news.hada.io/topic?id=27705",
+          "isoDate": "2026-03-21T05:45:55.000Z"
+        },
+        {
+          "title": "Noq: n0의 새로운 Rust 기반 QUIC 구현체",
+          "link": "https://news.hada.io/topic?id=27703",
+          "pubDate": "2026-03-21T05:44:27.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>n0 팀이 개발한 <strong>noq</strong>는 <strong>Rust로 작성된 범용 QUIC 구현체</strong>로, <strong>멀티패스</strong>와 <strong>NAT 트래버설</strong>을 지원</li>\n<li>기존 iroh의 <strong>Quinn 기반 구조 한계</strong>를 해결하기 위해 <strong>독립 코드베이스</strong>로 전환해 개발됨</li>\n<li>\n...</p>",
+          "contentSnippet": "n0 팀이 개발한 noq는 Rust로 작성된 범용 QUIC 구현체로, 멀티패스와 NAT 트래버설을 지원\n기존 iroh의 Quinn 기반 구조 한계를 해결하기 위해 독립 코드베이스로 전환해 개발됨\n\n...",
+          "id": "https://news.hada.io/topic?id=27703",
+          "isoDate": "2026-03-21T05:44:27.000Z"
+        },
+        {
+          "title": "Cursor Composer 2는 Kimi K2.5에 RL을 적용한 모델로 확인",
+          "link": "https://news.hada.io/topic?id=27702",
+          "pubDate": "2026-03-21T05:31:39.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>OpenAI <strong>base URL 조작</strong>을 통해 요청 경로에 <code>kimi-k2p5-rl</code>이 포함된 것이 발견되며, Composer 2가 <strong>Kimi K2.5 + 강화학습(RL)</strong> 기반임이 드러남</li>\n<li>이전 버전에서는 차단되던 요청이 Composer 2에서는 노출되었고, 이후 <strong>즉시 차단 패치</strong>가 이...</p>",
+          "contentSnippet": "OpenAI base URL 조작을 통해 요청 경로에 kimi-k2p5-rl이 포함된 것이 발견되며, Composer 2가 Kimi K2.5 + 강화학습(RL) 기반임이 드러남\n이전 버전에서는 차단되던 요청이 Composer 2에서는 노출되었고, 이후 즉시 차단 패치가 이...",
+          "id": "https://news.hada.io/topic?id=27702",
+          "isoDate": "2026-03-21T05:31:39.000Z"
+        },
+        {
+          "title": "Show GN: Cluefin-Dure - 증권사/DART API를 활용한 국내주식 멀티 AI 에이전트",
+          "link": "https://news.hada.io/topic?id=27701",
+          "pubDate": "2026-03-21T05:20:16.000Z",
+          "author": "kgcrom",
+          "content": "<p>안녕하세요.</p>\n<p>6개월 전에 <a href=\"https://news.hada.io/topic?id=22951\">cluefin</a> 프로젝트를 공유했었는데요,<br />\n이번에는 cluefin에 만든 openapi 패키지(증권사, DART RestAPI)를<br />\nAI 에이전트가 사용할 수 있는 도구로 연결해서 투자 리서치 멀티 에이전트 프로젝트 &quot;<a href=\"https://g",
+          "contentSnippet": "안녕하세요.\n6개월 전에 cluefin 프로젝트를 공유했었는데요,\n이번에는 cluefin에 만든 openapi 패키지(증권사, DART RestAPI)를\nAI 에이전트가 사용할 수 있는 도구로 연결해서 투자 리서치 멀티 에이전트 프로젝트 \"<a href=\"https://g",
+          "id": "https://news.hada.io/topic?id=27701",
+          "isoDate": "2026-03-21T05:20:16.000Z"
+        },
+        {
+          "title": "풀 리퀘스트는 죽었다, 풀 리퀘스트 만세",
+          "link": "https://news.hada.io/topic?id=27700",
+          "pubDate": "2026-03-21T05:14:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>AI가 코드를 작성하는 시대에 <strong>풀 리퀘스트(PR) 리뷰 방식</strong>이 근본적으로 바뀌어야 하며, 현재의 리뷰 프로세스는 AI 코딩 워크플로우에 맞지 않음</li>\n<li>리뷰어가 &quot;왜 이렇게 했나?&quot;라고 질문하면 개발자가 AI에게 다시 물어 답변을 붙여넣는 구조로, <strong>인간이 중개인(midd...</p>",
+          "contentSnippet": "AI가 코드를 작성하는 시대에 풀 리퀘스트(PR) 리뷰 방식이 근본적으로 바뀌어야 하며, 현재의 리뷰 프로세스는 AI 코딩 워크플로우에 맞지 않음\n리뷰어가 \"왜 이렇게 했나?\"라고 질문하면 개발자가 AI에게 다시 물어 답변을 붙여넣는 구조로, 인간이 중개인(midd...",
+          "id": "https://news.hada.io/topic?id=27700",
+          "isoDate": "2026-03-21T05:14:02.000Z"
+        },
+        {
           "title": "Ghostling - Minimum Viable 터미널 에뮬레이터",
           "link": "https://news.hada.io/topic?id=27699",
           "pubDate": "2026-03-21T01:45:40.000Z",
@@ -445,66 +505,6 @@
           "contentSnippet": "48종의 가벼운 SVG 배경과 패턴을 제공하며, 사용자는 복사·붙여넣기만으로 웹 프로젝트에 적용 가능\n각 디자인은 색상, 크기, 블렌드 모드 등을 자유롭게 수정할 수 있고 일부는 회전·이동 등 애니메이션 효과를 지원\n모든 그래픽은",
           "id": "https://news.hada.io/topic?id=27650",
           "isoDate": "2026-03-19T16:32:48.000Z"
-        },
-        {
-          "title": "Kaku – AI 코딩을 위해 설계된 빠른 맥 전용 터미널",
-          "link": "https://news.hada.io/topic?id=27649",
-          "pubDate": "2026-03-19T15:29:12.000Z",
-          "author": "princox",
-          "content": "<p>WezTerm을 기반으로 깊이 커스터마이징한 macOS 전용 터미널입니다. Pake, Mole 등으로 유명한 개발자 tw93이 만들었고, 설치 직후부터 별도 설정 없이 바로 쓸 수 있는 경험에 집중했습니다.</p>\n<p><strong>주요 특징</strong></p>\n<ul>\n<li>\n<strong>Zero Config</strong>: JetBrains Mono 폰트, opencode 테마, m",
-          "contentSnippet": "WezTerm을 기반으로 깊이 커스터마이징한 macOS 전용 터미널입니다. Pake, Mole 등으로 유명한 개발자 tw93이 만들었고, 설치 직후부터 별도 설정 없이 바로 쓸 수 있는 경험에 집중했습니다.\n주요 특징\nZero Config: JetBrains Mono 폰트, opencode 테마, m",
-          "id": "https://news.hada.io/topic?id=27649",
-          "isoDate": "2026-03-19T15:29:12.000Z"
-        },
-        {
-          "title": "Nvidia NemoClaw: OpenClaw Plugin for OpenShell",
-          "link": "https://news.hada.io/topic?id=27648",
-          "pubDate": "2026-03-19T13:33:33.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>OpenClaw 에이전트</strong>를 안전하게 설치하고 실행하기 위한 <strong>NVIDIA의 오픈소스 플러그인</strong>으로, OpenShell 런타임을 기반으로 한 보안 샌드박스 환경을 제공</li>\n<li>\n<strong>NVIDIA OpenShell</strong>과 <strong>Nemotron 모델</strong>을 설치해, 모든 네트워크 요청·파일 접...</p>",
-          "contentSnippet": "OpenClaw 에이전트를 안전하게 설치하고 실행하기 위한 NVIDIA의 오픈소스 플러그인으로, OpenShell 런타임을 기반으로 한 보안 샌드박스 환경을 제공\nNVIDIA OpenShell과 Nemotron 모델을 설치해, 모든 네트워크 요청·파일 접...",
-          "id": "https://news.hada.io/topic?id=27648",
-          "isoDate": "2026-03-19T13:33:33.000Z"
-        },
-        {
-          "title": "AI 코딩은 도박이다",
-          "link": "https://news.hada.io/topic?id=27647",
-          "pubDate": "2026-03-19T12:33:55.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>AI 코딩 도구의 즉각적 결과 생성 능력</strong>은 인상적이지만, 세부 구현과 시스템 구성 요소의 완성도는 여전히 부족함</li>\n<li>개발 과정이 <strong>‘생각과 작성’의 균형에서 벗어나</strong>, AI에 사고를 위임하고 최소한의 코드만 작성하는 형태로 변함</li>\n<li>이러한 행위는 <strong>‘...</p>",
-          "contentSnippet": "AI 코딩 도구의 즉각적 결과 생성 능력은 인상적이지만, 세부 구현과 시스템 구성 요소의 완성도는 여전히 부족함\n개발 과정이 ‘생각과 작성’의 균형에서 벗어나, AI에 사고를 위임하고 최소한의 코드만 작성하는 형태로 변함\n이러한 행위는 ‘...",
-          "id": "https://news.hada.io/topic?id=27647",
-          "isoDate": "2026-03-19T12:33:55.000Z"
-        },
-        {
-          "title": "보증 무효: 재생 시 - Warranty Void If Regenerated",
-          "link": "https://news.hada.io/topic?id=27646",
-          "pubDate": "2026-03-19T11:33:05.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>생성형 소프트웨어 시대</strong>에 등장한 ‘소프트웨어 정비공’의 일상을 통해, 기술 변화가 직업 구조와 인간의 역할을 어떻게 바꾸는지를 보여줌</li>\n<li>농기계 수리공이었던 주인공 <strong>Tom Hartmann</strong>은 이제 농업용 생성 소프트웨어의 오류를 진단·수정하는 정비공으로 일함</li...</p>",
-          "contentSnippet": "생성형 소프트웨어 시대에 등장한 ‘소프트웨어 정비공’의 일상을 통해, 기술 변화가 직업 구조와 인간의 역할을 어떻게 바꾸는지를 보여줌\n농기계 수리공이었던 주인공 Tom Hartmann은 이제 농업용 생성 소프트웨어의 오류를 진단·수정하는 정비공으로 일함",
-          "id": "https://news.hada.io/topic?id=27646",
-          "isoDate": "2026-03-19T11:33:05.000Z"
-        },
-        {
-          "title": "스크롤 페이드여, 사라져라",
-          "link": "https://news.hada.io/topic?id=27645",
-          "pubDate": "2026-03-19T06:33:35.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>웹사이트에서 스크롤 시 요소가 <strong>서서히 나타나는 ‘스크롤 페이드’ 효과</strong>를 비판하며, 시각적 불편함과 개발 복잡성을 지적</li>\n<li>대부분의 구현이 <strong>과도한 전환 효과와 부적절한 타이밍</strong>으로 인해 사용자 경험을 해치며, 개발자에게도 부담을 준다고 설명</li>\n<li>\n<stro...</p>",
-          "contentSnippet": "웹사이트에서 스크롤 시 요소가 서서히 나타나는 ‘스크롤 페이드’ 효과를 비판하며, 시각적 불편함과 개발 복잡성을 지적\n대부분의 구현이 과도한 전환 효과와 부적절한 타이밍으로 인해 사용자 경험을 해치며, 개발자에게도 부담을 준다고 설명",
-          "id": "https://news.hada.io/topic?id=27645",
-          "isoDate": "2026-03-19T06:33:35.000Z"
-        },
-        {
-          "title": "Show GN: 구글맵 저장 기반 내 취향 여행지 찾기",
-          "link": "https://news.hada.io/topic?id=27644",
-          "pubDate": "2026-03-19T06:14:54.000Z",
-          "author": "ashbyash",
-          "content": "<p>여행 계획을 세울 때 여러 사람들의 추천이나 후기를 참고하게 되잖아요.</p>\n<p>근데 여행 스타일이 다르니까, 가기 전까지 좋을지 어떨지도 모르고, 직접 가 봐야 내 취향에 맞는지 아닌지를 알 수 있잖아요.</p>\n<p>그래서 딱 내 취향에 맞춰서 누가 여행 스팟을 추천해주면 얼마나 좋을까 하는 생각에서 만들어 봤",
-          "contentSnippet": "여행 계획을 세울 때 여러 사람들의 추천이나 후기를 참고하게 되잖아요.\n근데 여행 스타일이 다르니까, 가기 전까지 좋을지 어떨지도 모르고, 직접 가 봐야 내 취향에 맞는지 아닌지를 알 수 있잖아요.\n그래서 딱 내 취향에 맞춰서 누가 여행 스팟을 추천해주면 얼마나 좋을까 하는 생각에서 만들어 봤",
-          "id": "https://news.hada.io/topic?id=27644",
-          "isoDate": "2026-03-19T06:14:54.000Z"
         }
       ]
     }
