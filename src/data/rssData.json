@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "일본의 젓가락 사용 금기 용어집",
+          "link": "https://news.hada.io/topic?id=27710",
+          "pubDate": "2026-03-21T14:33:23.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>일본 식사 예절에서 <strong>젓가락 사용 시 피해야 할 행동</strong>을 정리한 용어집으로, 이러한 행위는 ‘<strong>키라이바시(kiraibashi)</strong>’라 불림</li>\n<li>젓가락을 입보다 높이 들거나, 국물에 씻거나, 음식을 뒤적이는 등 <strong>무례하거나 금기시되는 행동</strong>이 다수 포함됨</li>\n...</p>",
+          "contentSnippet": "일본 식사 예절에서 젓가락 사용 시 피해야 할 행동을 정리한 용어집으로, 이러한 행위는 ‘키라이바시(kiraibashi)’라 불림\n젓가락을 입보다 높이 들거나, 국물에 씻거나, 음식을 뒤적이는 등 무례하거나 금기시되는 행동이 다수 포함됨\n...",
+          "id": "https://news.hada.io/topic?id=27710",
+          "isoDate": "2026-03-21T14:33:23.000Z"
+        },
+        {
+          "title": "Super Micro 주가, 공동창업자의 25억 달러 규모 AI 칩 밀수 혐의 기소 후 25% 급락",
+          "link": "https://news.hada.io/topic?id=27709",
+          "pubDate": "2026-03-21T13:33:04.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Super Micro Computer</strong> 공동창업자가 <strong>25억 달러 규모 AI 칩 밀수 혐의</strong>로 기소되며 주가가 <strong>25% 하락</strong>\n</li>\n<li>미국 법무부는 그가 <strong>Nvidia 등 미국산 AI 칩을 중국으로 불법 수출</strong>한 혐의를 받고 있다고 발표</li>\n<li>기소장에는 <strong>...</p>",
+          "contentSnippet": "Super Micro Computer 공동창업자가 25억 달러 규모 AI 칩 밀수 혐의로 기소되며 주가가 25% 하락\n\n미국 법무부는 그가 Nvidia 등 미국산 AI 칩을 중국으로 불법 수출한 혐의를 받고 있다고 발표\n기소장에는 ...",
+          "id": "https://news.hada.io/topic?id=27709",
+          "isoDate": "2026-03-21T13:33:04.000Z"
+        },
+        {
+          "title": "실행 중인 세션에 채널을 통해 이벤트 푸시하기",
+          "link": "https://news.hada.io/topic?id=27708",
+          "pubDate": "2026-03-21T11:33:34.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Claude Code의 Channels</strong>는 외부 시스템의 메시지나 웹훅을 <strong>실행 중인 세션으로 직접 전달</strong>해 Claude가 즉시 반응하도록 하는 기능</li>\n<li>\n<strong>MCP 서버</strong>를 통해 이벤트를 주고받으며, 세션이 열려 있는 동안만 이벤트가 도착하므로 <strong>지속 실행 환경...</p>",
+          "contentSnippet": "Claude Code의 Channels는 외부 시스템의 메시지나 웹훅을 실행 중인 세션으로 직접 전달해 Claude가 즉시 반응하도록 하는 기능\nMCP 서버를 통해 이벤트를 주고받으며, 세션이 열려 있는 동안만 이벤트가 도착하므로 지속 실행 환경...",
+          "id": "https://news.hada.io/topic?id=27708",
+          "isoDate": "2026-03-21T11:33:34.000Z"
+        },
+        {
           "title": "Andrej Karpathy가 말하는 코드 에이전트, AutoResearch, 그리고 AI의 루피(Loopy) 시대 [유튜브]",
           "link": "https://news.hada.io/topic?id=27706",
           "pubDate": "2026-03-21T06:17:01.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "Snowflake의 Cortex Code CLI에서 명령 검증 취약점이 발견되어, 공격자가 샌드박스 밖에서 임의 명령을 실행할 수 있었음\n공격은 간접 프롬프트 인젝션을 통해 유도되며, 사용자의 승인 절차를 우회해 악성 스크립트를 다운로드하고 실행함\n...",
           "id": "https://news.hada.io/topic?id=27653",
           "isoDate": "2026-03-19T21:34:55.000Z"
-        },
-        {
-          "title": "내 비행기에 Starlink가 탑재되어 있을까?",
-          "link": "https://news.hada.io/topic?id=27652",
-          "pubDate": "2026-03-19T20:53:15.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>항공편이 <strong>Starlink 위성 인터넷</strong>을 제공하는지 확인할 수 있음</li>\n<li>항공사와 항공편 정보를 입력하면 <strong>Starlink 탑재 여부</strong>를 조회 가능</li>\n<li>\n<strong>실시간 데이터베이스</strong>를 기반으로, 지원 항공사 목록과 노선별 상태를 표시</li>\n<li>사용자는 비행 전 ...</p>",
-          "contentSnippet": "항공편이 Starlink 위성 인터넷을 제공하는지 확인할 수 있음\n항공사와 항공편 정보를 입력하면 Starlink 탑재 여부를 조회 가능\n실시간 데이터베이스를 기반으로, 지원 항공사 목록과 노선별 상태를 표시\n사용자는 비행 전 ...",
-          "id": "https://news.hada.io/topic?id=27652",
-          "isoDate": "2026-03-19T20:53:15.000Z"
-        },
-        {
-          "title": "Wander – 작은 웹을 탐색하는 분산형 도구",
-          "link": "https://news.hada.io/topic?id=27651",
-          "pubDate": "2026-03-19T17:33:13.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Wander Console</strong>은 개인 웹사이트 간을 연결해 <strong>무작위로 웹페이지를 탐색</strong>할 수 있는 경량 웹 도구</li>\n<li>사용자는 하나의 콘솔에서 다른 사이트의 콘솔로 이동하며 <strong>‘Small Web’ 커뮤니티</strong>를 순환 탐색 가능</li>\n<li>각 콘솔은 다른 콘솔의 추천을 재귀...</p>",
-          "contentSnippet": "Wander Console은 개인 웹사이트 간을 연결해 무작위로 웹페이지를 탐색할 수 있는 경량 웹 도구\n사용자는 하나의 콘솔에서 다른 사이트의 콘솔로 이동하며 ‘Small Web’ 커뮤니티를 순환 탐색 가능\n각 콘솔은 다른 콘솔의 추천을 재귀...",
-          "id": "https://news.hada.io/topic?id=27651",
-          "isoDate": "2026-03-19T17:33:13.000Z"
-        },
-        {
-          "title": "무료 SVG 배경 및 패턴 | SVG Backgrounds",
-          "link": "https://news.hada.io/topic?id=27650",
-          "pubDate": "2026-03-19T16:32:48.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>48종의 <strong>가벼운 SVG 배경과 패턴</strong>을 제공하며, 사용자는 복사·붙여넣기만으로 웹 프로젝트에 적용 가능</li>\n<li>각 디자인은 <strong>색상, 크기, 블렌드 모드</strong> 등을 자유롭게 수정할 수 있고 일부는 <strong>회전·이동 등 애니메이션 효과</strong>를 지원</li>\n<li>모든 그래픽은 <s...</p>",
-          "contentSnippet": "48종의 가벼운 SVG 배경과 패턴을 제공하며, 사용자는 복사·붙여넣기만으로 웹 프로젝트에 적용 가능\n각 디자인은 색상, 크기, 블렌드 모드 등을 자유롭게 수정할 수 있고 일부는 회전·이동 등 애니메이션 효과를 지원\n모든 그래픽은",
-          "id": "https://news.hada.io/topic?id=27650",
-          "isoDate": "2026-03-19T16:32:48.000Z"
         }
       ]
     }
