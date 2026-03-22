@@ -7,6 +7,26 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: MonoPix - AI가 만든 가짜 픽셀아트를 진짜 픽셀아트로 복원",
+          "link": "https://news.hada.io/topic?id=27735",
+          "pubDate": "2026-03-22T05:50:08.000Z",
+          "author": "qnth159",
+          "content": "<p>AI가 만든 픽셀아트는 확대해보면 대부분 “진짜 픽셀아트”가 아닙니다.<br />\n경계가 흐릿하고, 그리드가 어긋나고, 한 칸 안에 색이 섞여 있습니다.</p>\n<p>그래서 이런 이미지를 실제 픽셀 그리드로 다시 맞춰주는 툴을 만들었습니다.</p>\n<p>사용해보시고 편하게 피드백 부탁드립니다.</p>\n<p>데모: <a href=\"ht",
+          "contentSnippet": "AI가 만든 픽셀아트는 확대해보면 대부분 “진짜 픽셀아트”가 아닙니다.\n그래서 이런 이미지를 실제 픽셀 그리드로 다시 맞춰주는 툴을 만들었습니다.\n사용해보시고 편하게 피드백 부탁드립니다.\n데모: <a href=\"ht",
+          "id": "https://news.hada.io/topic?id=27735",
+          "isoDate": "2026-03-22T05:50:08.000Z"
+        },
+        {
+          "title": "Show GN: Thask – 프로젝트 의존성을 노드 그래프로 시각화하고 AI 에이전트가 조회/수정 가능",
+          "link": "https://news.hada.io/topic?id=27734",
+          "pubDate": "2026-03-22T05:05:55.000Z",
+          "author": "kimgh06",
+          "content": "<p>프로젝트의 기능, 태스크, 버그를 노드로, 의존관계를 엣지로 시각화하는 셀프 호스팅 도구입니다.</p>\n<p>만들게 된 이유:<br />\nAI 코딩 도구(Claude Code, Cursor)로 코드를 빠르게 만들 수 있게 됐는데,<br />\n프로젝트가 커지면 &quot;이 API 바꾸면 어디가 깨지는지&quot;를 추적하기 어렵습니다.<br />\n스프레",
+          "contentSnippet": "프로젝트의 기능, 태스크, 버그를 노드로, 의존관계를 엣지로 시각화하는 셀프 호스팅 도구입니다.\n만들게 된 이유:\nAI 코딩 도구(Claude Code, Cursor)로 코드를 빠르게 만들 수 있게 됐는데,\n프로젝트가 커지면 \"이 API 바꾸면 어디가 깨지는지\"를 추적하기 어렵습니다.\n스프레",
+          "id": "https://news.hada.io/topic?id=27734",
+          "isoDate": "2026-03-22T05:05:55.000Z"
+        },
+        {
           "title": "404 Deno CEO not found",
           "link": "https://news.hada.io/topic?id=27733",
           "pubDate": "2026-03-22T03:39:49.000Z",
@@ -485,26 +505,6 @@
           "contentSnippet": "영국 규제기관 Ofcom이 온라인 안전법 위반으로 미국 기반 커뮤니티 4Chan에 총 52만 파운드의 벌금을 부과함\n주요 위반 내용은 아동이 포르노그래피에 접근하지 못하도록 하는 연령 확인 미이행(45만 파운드), 불법 콘텐츠 위험 평가 미...",
           "id": "https://news.hada.io/topic?id=27681",
           "isoDate": "2026-03-20T11:33:50.000Z"
-        },
-        {
-          "title": "KittenTTS - 25MB 이하의 SOTA 음성 합성(TTS) 모델",
-          "link": "https://news.hada.io/topic?id=27680",
-          "pubDate": "2026-03-20T07:33:09.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>ONNX 기반의 <code>State-of-the-art</code> <strong>경량 텍스트-음성 변환(TTS)</strong> 라이브러리로, CPU만으로 고품질 음성 합성을 수행</li>\n<li>모델 크기는 <strong>15M~80M 파라미터(25~80MB)</strong> 범위로, GPU 없이도 효율적 실행 가능</li>\n<li>\n<strong>8가지 내장 음성</strong>과 <strong>속...</p>",
-          "contentSnippet": "ONNX 기반의 State-of-the-art 경량 텍스트-음성 변환(TTS) 라이브러리로, CPU만으로 고품질 음성 합성을 수행\n모델 크기는 15M~80M 파라미터(25~80MB) 범위로, GPU 없이도 효율적 실행 가능\n8가지 내장 음성과 속...",
-          "id": "https://news.hada.io/topic?id=27680",
-          "isoDate": "2026-03-20T07:33:09.000Z"
-        },
-        {
-          "title": "젠슨 황: Nvidia의 미래와 물리적 AI, 에이전트의 부상 [유튜브]",
-          "link": "https://news.hada.io/topic?id=27679",
-          "pubDate": "2026-03-20T07:03:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Nvidia CEO 젠슨 황이 All-In 팟캐스트에 출연해 <strong>Groq 인수</strong>, 추론 폭발, 물리적 AI, 에이전트 컴퓨팅, AI 산업의 PR 위기 등 광범위한 주제를 다룬 인터뷰</li>\n<li>Nvidia는 GPU 회사에서 <strong>AI 팩토리 회사</strong>로 진화했으며, 에이전트 처리를 위한 이기종 컴퓨팅 아키텍처에 Gro...</p>",
-          "contentSnippet": "Nvidia CEO 젠슨 황이 All-In 팟캐스트에 출연해 Groq 인수, 추론 폭발, 물리적 AI, 에이전트 컴퓨팅, AI 산업의 PR 위기 등 광범위한 주제를 다룬 인터뷰\nNvidia는 GPU 회사에서 AI 팩토리 회사로 진화했으며, 에이전트 처리를 위한 이기종 컴퓨팅 아키텍처에 Gro...",
-          "id": "https://news.hada.io/topic?id=27679",
-          "isoDate": "2026-03-20T07:03:02.000Z"
         }
       ]
     }
