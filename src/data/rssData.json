@@ -7,6 +7,56 @@
       "priority": 1,
       "data": [
         {
+          "title": "81,000명이 말한 AI의 진짜 쓰임새 (Anthropic “81k Interviews”)",
+          "link": "https://news.hada.io/topic?id=27779",
+          "pubDate": "2026-03-23T08:53:48.000Z",
+          "author": "princox",
+          "content": "<p>최근 Anthropic이 공개한 “81k Interviews” 프로젝트는 지금까지의 AI 논의에서 빠져 있던 중요한 질문을 던집니다. 우리는 AI를 이야기할 때 AGI, 자동화, 일자리 대체 같은 거시적인 주제에 집중하지만, 실제 사용자들이 AI를 어떻게 느끼고 사용하는지에 대한 대규모 정성 데이터는 거의 없었습니다. 이 프로젝트...</p>",
+          "contentSnippet": "최근 Anthropic이 공개한 “81k Interviews” 프로젝트는 지금까지의 AI 논의에서 빠져 있던 중요한 질문을 던집니다. 우리는 AI를 이야기할 때 AGI, 자동화, 일자리 대체 같은 거시적인 주제에 집중하지만, 실제 사용자들이 AI를 어떻게 느끼고 사용하는지에 대한 대규모 정성 데이터는 거의 없었습니다. 이 프로젝트...",
+          "id": "https://news.hada.io/topic?id=27779",
+          "isoDate": "2026-03-23T08:53:48.000Z"
+        },
+        {
+          "title": "롤러코스터 타이쿤의 최적화 기준: 내부 구조 분석",
+          "link": "https://news.hada.io/topic?id=27778",
+          "pubDate": "2026-03-23T08:33:21.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>1999년작 <strong>RollerCoaster Tycoon</strong>은 거의 전부 <strong>어셈블리어로 작성된 시뮬레이션 게임</strong>으로, 수천 명의 손님을 실시간으로 처리하면서도 안정적인 성능을 유지한 사례로 평가됨</li>\n<li>개발자 <strong>Chris Sawyer</strong>는 고수준 언어 대신 저수준 제어를 택해, <strong>...</p>",
+          "contentSnippet": "1999년작 RollerCoaster Tycoon은 거의 전부 어셈블리어로 작성된 시뮬레이션 게임으로, 수천 명의 손님을 실시간으로 처리하면서도 안정적인 성능을 유지한 사례로 평가됨\n개발자 Chris Sawyer는 고수준 언어 대신 저수준 제어를 택해, ...",
+          "id": "https://news.hada.io/topic?id=27778",
+          "isoDate": "2026-03-23T08:33:21.000Z"
+        },
+        {
+          "title": "GrapheneOS는 개인 정보 없이 누구나 계속 사용할 수 있음",
+          "link": "https://news.hada.io/topic?id=27777",
+          "pubDate": "2026-03-23T06:38:17.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>전 세계 사용자가 <strong>신원 확인이나 계정 등록 없이</strong> GrapheneOS를 설치하고 사용할 수 있도록 정책을 유지</li>\n<li>\n<strong>Pixel 6a</strong>는 2027년 7~8월까지 지원되며, 이후에는 <strong>보안 업데이트 중단으로 지원 종료</strong> 예정</li>\n<li>\n<strong>Motorola와의 협력</strong>을...</p>",
+          "contentSnippet": "전 세계 사용자가 신원 확인이나 계정 등록 없이 GrapheneOS를 설치하고 사용할 수 있도록 정책을 유지\nPixel 6a는 2027년 7~8월까지 지원되며, 이후에는 보안 업데이트 중단으로 지원 종료 예정\nMotorola와의 협력을...",
+          "id": "https://news.hada.io/topic?id=27777",
+          "isoDate": "2026-03-23T06:38:17.000Z"
+        },
+        {
+          "title": "코드의 죽음은 과장된 주장임",
+          "link": "https://news.hada.io/topic?id=27776",
+          "pubDate": "2026-03-23T06:35:17.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>프로그래밍은 <strong>모호한 명세를 정밀하게 다듬어 가는 창조 행위</strong>로, AI는 영어 명세를 코드로 변환해 이 과정을 가속함</li>\n<li>\n<strong>‘Vibe coding’</strong> 은 감각적 개발 방식을 가능하게 하지만, 추상화의 누수로 인한 <strong>복잡성과 버그 문제</strong>를 피할 수 없음</li>\n<li...</p>",
+          "contentSnippet": "프로그래밍은 모호한 명세를 정밀하게 다듬어 가는 창조 행위로, AI는 영어 명세를 코드로 변환해 이 과정을 가속함\n‘Vibe coding’ 은 감각적 개발 방식을 가능하게 하지만, 추상화의 누수로 인한 복잡성과 버그 문제를 피할 수 없음",
+          "id": "https://news.hada.io/topic?id=27776",
+          "isoDate": "2026-03-23T06:35:17.000Z"
+        },
+        {
+          "title": "Pinterest가 AI에이전트를 위한 프로덕션 MCP 에코시스템을 구축한 방법",
+          "link": "https://news.hada.io/topic?id=27775",
+          "pubDate": "2026-03-23T04:34:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>MCP</strong>를 AI 에이전트의 도구 연결 표준으로 채택해, IDE·내부 챗·AI 에이전트 등 실제 엔지니어링 워크플로우에 프로덕션 수준으로 통합한 Pinterest의 구축 경험</li>\n<li>단일 모놀리식 서버 대신 <strong>도메인별 다수의 MCP 서버</strong>(Presto, Spark, Airflow 등)와 <strong>중앙 레지...</p>",
+          "contentSnippet": "MCP를 AI 에이전트의 도구 연결 표준으로 채택해, IDE·내부 챗·AI 에이전트 등 실제 엔지니어링 워크플로우에 프로덕션 수준으로 통합한 Pinterest의 구축 경험\n단일 모놀리식 서버 대신 도메인별 다수의 MCP 서버(Presto, Spark, Airflow 등)와 중앙 레지...",
+          "id": "https://news.hada.io/topic?id=27775",
+          "isoDate": "2026-03-23T04:34:02.000Z"
+        },
+        {
           "title": "Siri + Claude Code + Obsidian 으로 만든 AI 베이비시터",
           "link": "https://news.hada.io/topic?id=27774",
           "pubDate": "2026-03-23T03:47:00.000Z",
@@ -455,56 +505,6 @@
           "contentSnippet": "전 세계에서 확산 중인 연령 확인 제도가 단순한 아동 보호를 넘어 인터넷 접근 구조 자체를 재편하고 있음\n이 제도는 ‘접근 전 신원 증명’이라는 접근 통제 아키텍처로 작동하며, 일부는 운영체제 수준의 신원 계층으로 확장...",
           "id": "https://news.hada.io/topic?id=27723",
           "isoDate": "2026-03-22T00:41:34.000Z"
-        },
-        {
-          "title": "시간이 필요한 것들",
-          "link": "https://news.hada.io/topic?id=27722",
-          "pubDate": "2026-03-22T00:38:34.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>성숙과 가치</strong>는 빠른 성취가 아니라 오랜 시간의 축적에서 생김</li>\n<li>나무의 성장, 오래된 부동산, 장인 제품처럼 <strong>시간이 만든 자산</strong>은 돈으로 대체 불가</li>\n<li>현대의 <strong>속도 중심 문화</strong>는 개발과 창업에서도 퍼져 있으나, 진정한 성과는 <strong>지속...</p>",
-          "contentSnippet": "성숙과 가치는 빠른 성취가 아니라 오랜 시간의 축적에서 생김\n나무의 성장, 오래된 부동산, 장인 제품처럼 시간이 만든 자산은 돈으로 대체 불가\n현대의 속도 중심 문화는 개발과 창업에서도 퍼져 있으나, 진정한 성과는 지속...",
-          "id": "https://news.hada.io/topic?id=27722",
-          "isoDate": "2026-03-22T00:38:34.000Z"
-        },
-        {
-          "title": "인터넷 아카이브 차단은 AI를 막지 못하지만 웹의 역사 기록을 지워버림",
-          "link": "https://news.hada.io/topic?id=27721",
-          "pubDate": "2026-03-22T00:35:34.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>1990년대 중반부터 웹과 신문을 보존해온 <strong>인터넷 아카이브</strong>는 Wayback Machine을 통해 1조 개 이상의 웹페이지를 저장하고 있음</li>\n<li>최근 <strong>뉴욕타임스와 가디언</strong> 등 주요 언론이 AI 스크래핑 우려로 아카이브의 크롤링을 차단하기 시작함</li>\n<li>이러한 조치는 <strong>...</p>",
-          "contentSnippet": "1990년대 중반부터 웹과 신문을 보존해온 인터넷 아카이브는 Wayback Machine을 통해 1조 개 이상의 웹페이지를 저장하고 있음\n최근 뉴욕타임스와 가디언 등 주요 언론이 AI 스크래핑 우려로 아카이브의 크롤링을 차단하기 시작함\n이러한 조치는 ...",
-          "id": "https://news.hada.io/topic?id=27721",
-          "isoDate": "2026-03-22T00:35:34.000Z"
-        },
-        {
-          "title": "IDE의 죽음?",
-          "link": "https://news.hada.io/topic?id=27720",
-          "pubDate": "2026-03-22T00:32:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>개발자의 작업 중심이 IDE의 라인 단위 코드 편집에서 <strong>에이전트 오케스트레이션 및 감독 인터페이스</strong>로 이동하고 있으며, Cursor Glass, Claude Code Web, GitHub Copilot Agent 등 다양한 도구가 이 전환을 가속화하는 중</li>\n<li>새로운 개발 루프는 <strong>&quot;의도 명세 → 위임 → 관...</p>",
-          "contentSnippet": "개발자의 작업 중심이 IDE의 라인 단위 코드 편집에서 에이전트 오케스트레이션 및 감독 인터페이스로 이동하고 있으며, Cursor Glass, Claude Code Web, GitHub Copilot Agent 등 다양한 도구가 이 전환을 가속화하는 중\n새로운 개발 루프는 \"의도 명세 → 위임 → 관...",
-          "id": "https://news.hada.io/topic?id=27720",
-          "isoDate": "2026-03-22T00:32:01.000Z"
-        },
-        {
-          "title": "onecli - AI 에이전트용 시크릿 게이트웨이",
-          "link": "https://news.hada.io/topic?id=27719",
-          "pubDate": "2026-03-22T00:31:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>AI 에이전트와 외부 API 사이에 위치한 <strong>보안 프록시 게이트웨이</strong>로 API 키를 직접 노출하지 않고, 요청 시점에 <strong>자동 주입</strong>\n</li>\n<li>실제 키는 내부 <strong>AES-256-GCM 암호화 저장소</strong>에 보관</li>\n<li>Rust 기반 <strong>고속 HTTP 게이트웨이</strong> + Next.js...</p>",
-          "contentSnippet": "AI 에이전트와 외부 API 사이에 위치한 보안 프록시 게이트웨이로 API 키를 직접 노출하지 않고, 요청 시점에 자동 주입\n\n실제 키는 내부 AES-256-GCM 암호화 저장소에 보관\nRust 기반 고속 HTTP 게이트웨이 + Next.js...",
-          "id": "https://news.hada.io/topic?id=27719",
-          "isoDate": "2026-03-22T00:31:01.000Z"
-        },
-        {
-          "title": "생각 — 빠르게, 느리게, 그리고 인공지능으로: AI가 인간의 사고 방식을 어떻게 재구성하고 있는가",
-          "link": "https://news.hada.io/topic?id=27718",
-          "pubDate": "2026-03-22T00:06:57.000Z",
-          "author": "helio",
-          "content": "<h2>Thinking—Fast, Slow, and Artificial</h2>\n<h4>AI는 도구가 아니라 ‘세 번째 사고 시스템’이라는 연구</h4>\n<ul>\n<li>2026년 1월, 펜실베이니아대 와튼스쿨\n<ul>\n<li>Steven D. Shaw (박사과정 연구자)</li>\n<li>Gideon Nave (마케팅/행동과학 교수)</li>\n</ul>\n</li>\n<li>인간 사고 모델을 System 1 / 2 → Sys...</p>",
-          "contentSnippet": "Thinking—Fast, Slow, and Artificial\nAI는 도구가 아니라 ‘세 번째 사고 시스템’이라는 연구\n2026년 1월, 펜실베이니아대 와튼스쿨\n\nSteven D. Shaw (박사과정 연구자)\nGideon Nave (마케팅/행동과학 교수)\n인간 사고 모델을 System 1 / 2 → Sys...",
-          "id": "https://news.hada.io/topic?id=27718",
-          "isoDate": "2026-03-22T00:06:57.000Z"
         }
       ]
     }
