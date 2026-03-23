@@ -7,6 +7,16 @@
       "priority": 1,
       "data": [
         {
+          "title": "1대1 RTS 게임으로 만든 LLM 벤치마크",
+          "link": "https://news.hada.io/topic?id=27785",
+          "pubDate": "2026-03-23T16:39:31.000Z",
+          "author": "levmiseri",
+          "content": "1대1 RTS 게임으로 만든 LLM 벤치마크",
+          "contentSnippet": "1대1 RTS 게임으로 만든 LLM 벤치마크",
+          "id": "https://news.hada.io/topic?id=27785",
+          "isoDate": "2026-03-23T16:39:31.000Z"
+        },
+        {
           "title": "NixOS를 사랑하는 이유",
           "link": "https://news.hada.io/topic?id=27784",
           "pubDate": "2026-03-23T14:33:53.000Z",
@@ -495,16 +505,6 @@
           "contentSnippet": "안녕하세요, 저는 원래 superwhisper나 spokenly 같은 기존 음성 타이핑 도구들과 8bitdo micro 게임패드를 연결해서 사용하고 있었습니다. 근데 묘하게 네트워크 레이턴시가 거슬리더라구요.\n그래서 로컬 모델을 계속 테스트해보고 있었는데, 이번에 Qwen3-ASR 모델을 써보고 이거다 싶었습니다. 빠릿빠릿하면",
           "id": "https://news.hada.io/topic?id=27728",
           "isoDate": "2026-03-22T01:48:59.000Z"
-        },
-        {
-          "title": "Tinybox – 120B 파라미터를 지원하는 오프라인 AI 머신",
-          "link": "https://news.hada.io/topic?id=27727",
-          "pubDate": "2026-03-22T01:37:55.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>tinygrad</strong>는 단순성과 성능을 결합한 <strong>신경망 프레임워크</strong>로, 최소 연산 구조로 복잡한 모델을 구현</li>\n<li>이를 기반으로 한 <strong>tinybox</strong>는 딥러닝 학습과 추론을 위한 <strong>고성능 오프라인 AI 컴퓨터</strong>로, red·green·exa 세 가지 모델로 제공됨...</p>",
-          "contentSnippet": "tinygrad는 단순성과 성능을 결합한 신경망 프레임워크로, 최소 연산 구조로 복잡한 모델을 구현\n이를 기반으로 한 tinybox는 딥러닝 학습과 추론을 위한 고성능 오프라인 AI 컴퓨터로, red·green·exa 세 가지 모델로 제공됨...",
-          "id": "https://news.hada.io/topic?id=27727",
-          "isoDate": "2026-03-22T01:37:55.000Z"
         }
       ]
     }
