@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "NixOS를 사랑하는 이유",
+          "link": "https://news.hada.io/topic?id=27784",
+          "pubDate": "2026-03-23T14:33:53.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Nix 패키지 관리자</strong>를 기반으로 한 NixOS는 시스템 전체를 코드로 정의하고, 언제든 <strong>결정적·재현 가능한 상태로 복원</strong>할 수 있는 구조를 가짐</li>\n<li>모든 설정과 패키지를 <strong>하나의 선언적 구성 파일</strong>로 관리해, 새 장비에서도 동일한 환경을 <strong>단일 ...</p>",
+          "contentSnippet": "Nix 패키지 관리자를 기반으로 한 NixOS는 시스템 전체를 코드로 정의하고, 언제든 결정적·재현 가능한 상태로 복원할 수 있는 구조를 가짐\n모든 설정과 패키지를 하나의 선언적 구성 파일로 관리해, 새 장비에서도 동일한 환경을 단일 ...",
+          "id": "https://news.hada.io/topic?id=27784",
+          "isoDate": "2026-03-23T14:33:53.000Z"
+        },
+        {
+          "title": "Show GN: GitHub Actions와 Telegram으로 만든 개인용 증시 리포트 자동화 봇 오픈소스",
+          "link": "https://news.hada.io/topic?id=27783",
+          "pubDate": "2026-03-23T14:33:04.000Z",
+          "author": "manaworm",
+          "content": "<ul>\n<li>\n<p>만든 목적</p>\n<ul>\n<li>OpenClaw로 재태크 관련 작업을 자동화하는 사례가 많이 보였음</li>\n<li>그러나 많은 작업은 LLM과 맥미니 없이도 충분히 자동화 가능함</li>\n<li>즉, 유용한 &quot;규칙 기반&quot; 자동화 도구 만들기 실험</li>\n<li>GitHub Actions만으로 매일 실행되는 배치 봇 구성</li>\n</ul",
+          "contentSnippet": "만든 목적\nOpenClaw로 재태크 관련 작업을 자동화하는 사례가 많이 보였음\n그러나 많은 작업은 LLM과 맥미니 없이도 충분히 자동화 가능함\n즉, 유용한 \"규칙 기반\" 자동화 도구 만들기 실험\nGitHub Actions만으로 매일 실행되는 배치 봇 구성\n</ul",
+          "id": "https://news.hada.io/topic?id=27783",
+          "isoDate": "2026-03-23T14:33:04.000Z"
+        },
+        {
+          "title": "Show GN: 도메인 지식을 기반으로 서비스를 구축하는 인간지능 주도형 개발 어플리케이션&quot;을 소개합니다!",
+          "link": "https://news.hada.io/topic?id=27781",
+          "pubDate": "2026-03-23T13:21:09.000Z",
+          "author": "kurthong",
+          "content": "<p>시작은 오픈클로 같은거 하고 싶은데 오픈클로 설정 너무 어렵고 API토큰 사용 너무 부담스럽고 막상 설치해보니 느어무 느리고, 그래서 구독내에서 해결하고 싶어서 찾아보니 takoPI라고 텔레그램으로 터미널 에이전트(claude-code같은것들)를 사용하게 해주는 프로젝트가 있어서 제 주력 매터모스터를 사용하기 위해...</p>",
+          "contentSnippet": "시작은 오픈클로 같은거 하고 싶은데 오픈클로 설정 너무 어렵고 API토큰 사용 너무 부담스럽고 막상 설치해보니 느어무 느리고, 그래서 구독내에서 해결하고 싶어서 찾아보니 takoPI라고 텔레그램으로 터미널 에이전트(claude-code같은것들)를 사용하게 해주는 프로젝트가 있어서 제 주력 매터모스터를 사용하기 위해...",
+          "id": "https://news.hada.io/topic?id=27781",
+          "isoDate": "2026-03-23T13:21:09.000Z"
+        },
+        {
           "title": "81,000명이 말한 AI의 진짜 쓰임새 (Anthropic “81k Interviews”)",
           "link": "https://news.hada.io/topic?id=27779",
           "pubDate": "2026-03-23T08:53:48.000Z",
@@ -65,6 +95,16 @@
           "contentSnippet": "신생아 육아 시 수유·배변 기록을 음성만으로 해결하는 시스템을 Siri + Claude Code + Obsidian 조합으로 구축한 사례\nObsidian vault에 CLAUDE.md 파일을 작성해 테이블 구조와 기록 방식을 AI에 학습\nMac Mini에서 Claude Code를 상시 구동하고,",
           "id": "https://news.hada.io/topic?id=27774",
           "isoDate": "2026-03-23T03:47:00.000Z"
+        },
+        {
+          "title": "Show GN: GPUtray - GPU tray 모니터링 툴",
+          "link": "https://news.hada.io/topic?id=27773",
+          "pubDate": "2026-03-23T03:10:54.000Z",
+          "author": "kirinonakar",
+          "content": "<p>윈도우용 GPU 시스템 트레이 모니터링 툴입니다.<br />\nGPU 사용률을 확인할 일이 많아 만들어 보았습니다.<br />\nCPU 사용률, 메모리 사용률, GPU 사용률, GPU 메모리 사용률, GPU 온도 중에서 선택해서 트레이에서 모니터링할 수 있습니다.<br />\n우클릭하면 그래프도 보여주고 로그도 기록해서 나중에 분석할 수도...</p>",
+          "contentSnippet": "윈도우용 GPU 시스템 트레이 모니터링 툴입니다.\nGPU 사용률을 확인할 일이 많아 만들어 보았습니다.\nCPU 사용률, 메모리 사용률, GPU 사용률, GPU 메모리 사용률, GPU 온도 중에서 선택해서 트레이에서 모니터링할 수 있습니다.\n우클릭하면 그래프도 보여주고 로그도 기록해서 나중에 분석할 수도...",
+          "id": "https://news.hada.io/topic?id=27773",
+          "isoDate": "2026-03-23T03:10:54.000Z"
         },
         {
           "title": "코드의 죽음은 과장되었다",
@@ -465,46 +505,6 @@
           "contentSnippet": "tinygrad는 단순성과 성능을 결합한 신경망 프레임워크로, 최소 연산 구조로 복잡한 모델을 구현\n이를 기반으로 한 tinybox는 딥러닝 학습과 추론을 위한 고성능 오프라인 AI 컴퓨터로, red·green·exa 세 가지 모델로 제공됨...",
           "id": "https://news.hada.io/topic?id=27727",
           "isoDate": "2026-03-22T01:37:55.000Z"
-        },
-        {
-          "title": "Ubuntu 26.04, 46년 만에 ‘무음 sudo 비밀번호 입력’ 종료",
-          "link": "https://news.hada.io/topic?id=27726",
-          "pubDate": "2026-03-22T01:34:55.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Ubuntu 26.04 LTS에서는 <code>sudo</code> 명령 실행 시 <strong>비밀번호 입력마다 별표(*)가 표시되는 시각적 피드백</strong>이 기본 활성화됨</li>\n<li>이 기능은 <strong>Rust로 재작성된 sudo-rs</strong> 도입으로 가능해졌으며, Canonical이 Ubuntu 25.10부터 이를 기본 sudo로 채택함</li>\n<li>일부 ...</p>",
-          "contentSnippet": "Ubuntu 26.04 LTS에서는 sudo 명령 실행 시 비밀번호 입력마다 별표(*)가 표시되는 시각적 피드백이 기본 활성화됨\n이 기능은 Rust로 재작성된 sudo-rs 도입으로 가능해졌으며, Canonical이 Ubuntu 25.10부터 이를 기본 sudo로 채택함\n일부 ...",
-          "id": "https://news.hada.io/topic?id=27726",
-          "isoDate": "2026-03-22T01:34:55.000Z"
-        },
-        {
-          "title": "Google 검색, AI로 뉴스 헤드라인을 교체하기 시작",
-          "link": "https://news.hada.io/topic?id=27725",
-          "pubDate": "2026-03-22T01:26:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Google이 검색 결과에서 언론사가 작성한 <strong>뉴스 헤드라인을 AI가 생성한 제목으로 교체</strong>하는 실험을 전통적인 &quot;10개의 파란 링크&quot; 검색에서도 시작</li>\n<li>The Verge는 자사가 작성하지 않은 헤드라인이 Google 검색 결과에 표시되는 사례를 다수 발견했으며, 일부는 <strong>원래 ...</p>",
-          "contentSnippet": "Google이 검색 결과에서 언론사가 작성한 뉴스 헤드라인을 AI가 생성한 제목으로 교체하는 실험을 전통적인 \"10개의 파란 링크\" 검색에서도 시작\nThe Verge는 자사가 작성하지 않은 헤드라인이 Google 검색 결과에 표시되는 사례를 다수 발견했으며, 일부는 원래 ...",
-          "id": "https://news.hada.io/topic?id=27725",
-          "isoDate": "2026-03-22T01:26:01.000Z"
-        },
-        {
-          "title": "디자인 프로세스는 죽지 않았다, 압축되었을 뿐",
-          "link": "https://news.hada.io/topic?id=27724",
-          "pubDate": "2026-03-22T00:47:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>AI가 디자인 작업 속도를 높이면서 &quot;프로세스를 버려라&quot;는 주장이 확산되고 있지만, 이는 숙련된 디자이너의 작업 방식을 <strong>오해한 결과</strong>\n</li>\n<li>숙련된 디자이너가 &quot;그냥 만들기 시작했다&quot;고 말할 때, 실제로는 수년간 축적된 경험을 통해 <strong>프로세스를 내면화하고...</p>",
-          "contentSnippet": "AI가 디자인 작업 속도를 높이면서 \"프로세스를 버려라\"는 주장이 확산되고 있지만, 이는 숙련된 디자이너의 작업 방식을 오해한 결과\n\n숙련된 디자이너가 \"그냥 만들기 시작했다\"고 말할 때, 실제로는 수년간 축적된 경험을 통해 프로세스를 내면화하고...",
-          "id": "https://news.hada.io/topic?id=27724",
-          "isoDate": "2026-03-22T00:47:01.000Z"
-        },
-        {
-          "title": "아동 보호를 인터넷 접근 통제로 바꾸지 말라",
-          "link": "https://news.hada.io/topic?id=27723",
-          "pubDate": "2026-03-22T00:41:34.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>전 세계에서 확산 중인 <strong>연령 확인 제도</strong>가 단순한 아동 보호를 넘어 <strong>인터넷 접근 구조 자체를 재편</strong>하고 있음</li>\n<li>이 제도는 ‘접근 전 신원 증명’이라는 <strong>접근 통제 아키텍처</strong>로 작동하며, 일부는 <strong>운영체제 수준의 신원 계층</strong>으로 확장...</p>",
-          "contentSnippet": "전 세계에서 확산 중인 연령 확인 제도가 단순한 아동 보호를 넘어 인터넷 접근 구조 자체를 재편하고 있음\n이 제도는 ‘접근 전 신원 증명’이라는 접근 통제 아키텍처로 작동하며, 일부는 운영체제 수준의 신원 계층으로 확장...",
-          "id": "https://news.hada.io/topic?id=27723",
-          "isoDate": "2026-03-22T00:41:34.000Z"
         }
       ]
     }
