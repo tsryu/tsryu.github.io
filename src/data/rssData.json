@@ -7,6 +7,46 @@
       "priority": 1,
       "data": [
         {
+          "title": "오픈소스 협력 강화｜ArmSoM Sige5, 2026 임베디드 월드에서 Collabora와 함께 선보여",
+          "link": "https://news.hada.io/topic?id=27805",
+          "pubDate": "2026-03-24T08:38:59.000Z",
+          "author": "armsomyla",
+          "content": "<p>2026년 3월 10~12일 독일 뉘른베르크에서 개최된 Embedded World 2026에서 ArmSoM의 Sige5(RK3576) 개발보드가 Collabora 부스에 전시되었으며, LAVA 보드 팜에 탑재되어 메인라인 우선 Linux 지원 기능을 성공적으로 시연했습니다.<br />\nCollabora는 Sige5를 &quot;임베디드 생태계의 방향성을 보여주는 제품&quot;...</p>",
+          "contentSnippet": "2026년 3월 10~12일 독일 뉘른베르크에서 개최된 Embedded World 2026에서 ArmSoM의 Sige5(RK3576) 개발보드가 Collabora 부스에 전시되었으며, LAVA 보드 팜에 탑재되어 메인라인 우선 Linux 지원 기능을 성공적으로 시연했습니다.\nCollabora는 Sige5를 \"임베디드 생태계의 방향성을 보여주는 제품\"...",
+          "id": "https://news.hada.io/topic?id=27805",
+          "isoDate": "2026-03-24T08:38:59.000Z"
+        },
+        {
+          "title": "라과디아 공항서 항공기와 소방차 충돌로 조종사 2명 사망",
+          "link": "https://news.hada.io/topic?id=27804",
+          "pubDate": "2026-03-24T07:37:30.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>뉴욕 <strong>라과디아 공항 활주로</strong>에서 <strong>Air Canada 여객기</strong>가 <strong>소방차와 충돌</strong>해 <strong>조종사 2명이 사망</strong>하고 다수가 부상</li>\n<li>사고는 <strong>몬트리올발 Air Canada 8646편</strong>이 착륙 직후 발생했으며, 소방차는 <strong>United Airlines 항...</p>",
+          "contentSnippet": "뉴욕 라과디아 공항 활주로에서 Air Canada 여객기가 소방차와 충돌해 조종사 2명이 사망하고 다수가 부상\n사고는 몬트리올발 Air Canada 8646편이 착륙 직후 발생했으며, 소방차는 United Airlines 항...",
+          "id": "https://news.hada.io/topic?id=27804",
+          "isoDate": "2026-03-24T07:37:30.000Z"
+        },
+        {
+          "title": "미국과 TotalEnergies, 해상 풍력 프로젝트 종료를 위한 약 10억 달러 규모 합의",
+          "link": "https://news.hada.io/topic?id=27803",
+          "pubDate": "2026-03-24T07:34:30.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>미국 정부와 프랑스 에너지 기업 <strong>TotalEnergies</strong>가 해상 풍력 발전 사업을 종료하고, 자금을 <strong>화석연료 생산으로 전환</strong>하기로 합의</li>\n<li>내무장관 <strong>Doug Burgum</strong>은 휴스턴 <strong>CERAWeek</strong> 행사에서 이 합의가 “약 10억 달러” 규모라고 발표하며...</p>",
+          "contentSnippet": "미국 정부와 프랑스 에너지 기업 TotalEnergies가 해상 풍력 발전 사업을 종료하고, 자금을 화석연료 생산으로 전환하기로 합의\n내무장관 Doug Burgum은 휴스턴 CERAWeek 행사에서 이 합의가 “약 10억 달러” 규모라고 발표하며...",
+          "id": "https://news.hada.io/topic?id=27803",
+          "isoDate": "2026-03-24T07:34:30.000Z"
+        },
+        {
+          "title": "emulate - 로컬에서 GitHub·Vercel·Google API를 완전 복제해 실행하기",
+          "link": "https://news.hada.io/topic?id=27802",
+          "pubDate": "2026-03-24T04:39:23.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>Vercel에서 만든 CI 또는 네트워크 차단 환경용 <strong>로컬 API 에뮬레이터</strong>\n</li>\n<li>단순 mock이 아니라 실제 프로덕션과 동일한 상태·응답 구조를 가짐</li>\n<li>\n<code>npx emulate</code> 한 줄로 Vercel(4000), GitHub(4001), Google(4002) 기동</li>\n<li>CLI로 서비스 선택, 포트 지정, seed...</p>",
+          "contentSnippet": "Vercel에서 만든 CI 또는 네트워크 차단 환경용 로컬 API 에뮬레이터\n\n단순 mock이 아니라 실제 프로덕션과 동일한 상태·응답 구조를 가짐\nnpx emulate 한 줄로 Vercel(4000), GitHub(4001), Google(4002) 기동\nCLI로 서비스 선택, 포트 지정, seed...",
+          "id": "https://news.hada.io/topic?id=27802",
+          "isoDate": "2026-03-24T04:39:23.000Z"
+        },
+        {
           "title": "Show GN: Ship or Slop - 에이전트 사회로 아이디어 짜내기",
           "link": "https://news.hada.io/topic?id=27801",
           "pubDate": "2026-03-24T03:41:08.000Z",
@@ -465,46 +505,6 @@
           "contentSnippet": "고전 지뢰찾기 규칙을 기반으로, 호르무즈 해협을 배경으로 한 웹 게임\n플레이어는 물을 정리하고 지뢰를 표시하며 항로를 유지해야 하는 구조\n좌클릭·우클릭·더블클릭으로 칸을 열거나 깃발을 표시하는 직관...",
           "id": "https://news.hada.io/topic?id=27751",
           "isoDate": "2026-03-23T00:52:49.000Z"
-        },
-        {
-          "title": "Impeccable - AI 하네스가 더 디자인 잘하게 만들기",
-          "link": "https://news.hada.io/topic?id=27750",
-          "pubDate": "2026-03-23T00:52:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>Claude Code, Codex</strong> 등의 <strong>프론트엔드 품질 향상</strong>을 위해 디자인 어휘와 명령어 체계를 제공하는 <strong>오픈소스 스킬 패키지</strong>\n</li>\n<li>Anthropic의 <code>frontend-design</code> 스킬에 기반한 확장판으로 <strong>타이포그래피/색상/레이아웃/모션</strong> 등...</p>",
-          "contentSnippet": "Claude Code, Codex 등의 프론트엔드 품질 향상을 위해 디자인 어휘와 명령어 체계를 제공하는 오픈소스 스킬 패키지\n\nAnthropic의 frontend-design 스킬에 기반한 확장판으로 타이포그래피/색상/레이아웃/모션 등...",
-          "id": "https://news.hada.io/topic?id=27750",
-          "isoDate": "2026-03-23T00:52:01.000Z"
-        },
-        {
-          "title": "헤드폰 사용 거부 승객, 이제 United 항공편에서 퇴출 가능",
-          "link": "https://news.hada.io/topic?id=27749",
-          "pubDate": "2026-03-22T23:37:46.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>United Airlines</strong>가 운송 약관을 개정해, <strong>기내에서 헤드폰 없이 오디오·비디오를 재생하는 승객</strong>을 탑승 거부하거나 하차시킬 수 있도록 규정함</li>\n<li>이 조치는 최근 급증한 <strong>소란 승객 문제</strong>에 대응하기 위한 것으로, 2025년 한 해에만 <strong>1,600건 ...</p>",
-          "contentSnippet": "United Airlines가 운송 약관을 개정해, 기내에서 헤드폰 없이 오디오·비디오를 재생하는 승객을 탑승 거부하거나 하차시킬 수 있도록 규정함\n이 조치는 최근 급증한 소란 승객 문제에 대응하기 위한 것으로, 2025년 한 해에만 1,600건 ...",
-          "id": "https://news.hada.io/topic?id=27749",
-          "isoDate": "2026-03-22T23:37:46.000Z"
-        },
-        {
-          "title": "서구 자동차 제조사의 전기차 후퇴, 산업적 퇴보로 이어질 위험",
-          "link": "https://news.hada.io/topic?id=27748",
-          "pubDate": "2026-03-22T23:34:46.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>서구 주요 제조사들이 <strong>전기차 투자 축소와 내연기관 회귀</strong>로 과거 디트로이트의 전략적 실패를 반복 중임</li>\n<li>\n<strong>BYD·Leapmotor 등 중국 전기차 브랜드</strong>가 유럽 시장을 빠르게 장악하며, BYD는 테슬라를 제치고 세계 최대 전기차 판매사로 부상</li>\n<li>미국은 <strong>세...</p>",
-          "contentSnippet": "서구 주요 제조사들이 전기차 투자 축소와 내연기관 회귀로 과거 디트로이트의 전략적 실패를 반복 중임\nBYD·Leapmotor 등 중국 전기차 브랜드가 유럽 시장을 빠르게 장악하며, BYD는 테슬라를 제치고 세계 최대 전기차 판매사로 부상\n미국은 세...",
-          "id": "https://news.hada.io/topic?id=27748",
-          "isoDate": "2026-03-22T23:34:46.000Z"
-        },
-        {
-          "title": "대규모 연구, 대마초가 불안·우울·외상후스트레스장애(PTSD)에 효과 없음 확인",
-          "link": "https://news.hada.io/topic?id=27747",
-          "pubDate": "2026-03-22T22:37:17.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>_The Lancet Psychiatry_에 발표된 <strong>54건의 무작위 대조시험 메타분석</strong>에서 의료용 대마초가 <strong>불안·우울·PTSD 치료에 효과가 없고</strong>, 정신 건강을 악화시킬 수 있음이 확인됨</li>\n<li>연구에 따르면 미국·캐나다 성인 중 약 <strong>27%가 의료용 대마초를 사용</strong>하며, 그...</p>",
-          "contentSnippet": "_The Lancet Psychiatry_에 발표된 54건의 무작위 대조시험 메타분석에서 의료용 대마초가 불안·우울·PTSD 치료에 효과가 없고, 정신 건강을 악화시킬 수 있음이 확인됨\n연구에 따르면 미국·캐나다 성인 중 약 27%가 의료용 대마초를 사용하며, 그...",
-          "id": "https://news.hada.io/topic?id=27747",
-          "isoDate": "2026-03-22T22:37:17.000Z"
         }
       ]
     }
