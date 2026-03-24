@@ -7,6 +7,56 @@
       "priority": 1,
       "data": [
         {
+          "title": "AI Native Engineer — 원리 위의 감각",
+          "link": "https://news.hada.io/topic?id=27812",
+          "pubDate": "2026-03-24T15:28:40.000Z",
+          "author": "flowkater",
+          "content": "<p><strong>AI Native Engineer는 대체 어떤 사람인가(Who).</strong></p>\n<p><strong>드러난 것들 — 이전 시대 엔지니어와 다른 점</strong></p>\n<ul>\n<li>Drew Hoskins: &quot;도구와 언어가 너무 어려워서, 이를 익히고 사용하는 것 자체가 풀타임 직업이었다.&quot; AI가 이 풀타임 직업을 대신하기 시작하자, 원래",
+          "contentSnippet": "AI Native Engineer는 대체 어떤 사람인가(Who).\n드러난 것들 — 이전 시대 엔지니어와 다른 점\nDrew Hoskins: \"도구와 언어가 너무 어려워서, 이를 익히고 사용하는 것 자체가 풀타임 직업이었다.\" AI가 이 풀타임 직업을 대신하기 시작하자, 원래",
+          "id": "https://news.hada.io/topic?id=27812",
+          "isoDate": "2026-03-24T15:28:40.000Z"
+        },
+        {
+          "title": "FCC, 외국산 소비자용 라우터를 ‘Covered List’에 추가",
+          "link": "https://news.hada.io/topic?id=27811",
+          "pubDate": "2026-03-24T14:33:35.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>미국 <strong>FCC</strong>가 외국에서 제조된 <strong>소비자용 라우터</strong>를 ‘Covered List’에 새로 포함함</li>\n<li>이 조치로 해당 라우터의 <strong>신규 모델 승인</strong>이 금지됨</li>\n<li>업데이트는 <strong>미국 행정부 기관의 국가 안보 판단</strong>에 근거해 이루어짐</li>\n<li>FCC는 ...</p>",
+          "contentSnippet": "미국 FCC가 외국에서 제조된 소비자용 라우터를 ‘Covered List’에 새로 포함함\n이 조치로 해당 라우터의 신규 모델 승인이 금지됨\n업데이트는 미국 행정부 기관의 국가 안보 판단에 근거해 이루어짐\nFCC는 ...",
+          "id": "https://news.hada.io/topic?id=27811",
+          "isoDate": "2026-03-24T14:33:35.000Z"
+        },
+        {
+          "title": "LiteLLM이 공급망 공격으로 해킹당했습니다.",
+          "link": "https://news.hada.io/topic?id=27810",
+          "pubDate": "2026-03-24T13:27:17.000Z",
+          "author": "crawler",
+          "content": "<p>https://github.com/BerriAI/litellm/issues/24512</p>\n<p>급하게 모바일로 쓰느라 제대로 마크다운으로 꾸미지 못하는 점 양해바랍니다.</p>\n<p>제목에 링크한 futuresearch 블로그에 자세한 내용이 있는데, 1.82.8 버전과 1.82.7 버전에 공격이 있다고 하네요.</p>\n<p>꼭 지금 깔려있는 LiteLLM의 버전을 확인해보시",
+          "contentSnippet": "https://github.com/BerriAI/litellm/issues/24512\n급하게 모바일로 쓰느라 제대로 마크다운으로 꾸미지 못하는 점 양해바랍니다.\n제목에 링크한 futuresearch 블로그에 자세한 내용이 있는데, 1.82.8 버전과 1.82.7 버전에 공격이 있다고 하네요.\n꼭 지금 깔려있는 LiteLLM의 버전을 확인해보시",
+          "id": "https://news.hada.io/topic?id=27810",
+          "isoDate": "2026-03-24T13:27:17.000Z"
+        },
+        {
+          "title": "Show GN: 자연어로 말하면 쉘 명령어를 알아서 실행해주는 CLI 도구 `pls`",
+          "link": "https://news.hada.io/topic?id=27807",
+          "pubDate": "2026-03-24T10:38:40.000Z",
+          "author": "colus001",
+          "content": "<p>자연어로 말하면 LLM 이 쉘 명령어를 만들어서 실행해주는 CLI 도구 <code>pls</code> 를 만들었습니다. 일상적으로 쓰이진 않고 가끔씩 쓰는 명령어들이 영 기억이 안나더라구요.</p>\n<p><code>$ pls '1380 포트 쓰는 프로세스 다 죽여줘'</code></p>\n<p><code>$ pls 'DNS Cache 날려줘'</code></p>\n<p><code>$ pls ",
+          "contentSnippet": "자연어로 말하면 LLM 이 쉘 명령어를 만들어서 실행해주는 CLI 도구 pls 를 만들었습니다. 일상적으로 쓰이진 않고 가끔씩 쓰는 명령어들이 영 기억이 안나더라구요.\n$ pls '1380 포트 쓰는 프로세스 다 죽여줘'\n$ pls 'DNS Cache 날려줘'\n$ pls",
+          "id": "https://news.hada.io/topic?id=27807",
+          "isoDate": "2026-03-24T10:38:40.000Z"
+        },
+        {
+          "title": "Claude Code 치트시트",
+          "link": "https://news.hada.io/topic?id=27806",
+          "pubDate": "2026-03-24T10:33:32.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Claude Code v2.1.81</strong>의 주요 명령어, 단축키, 설정, 환경 변수, MCP 서버 및 에이전트 구성을 정리한 <strong>개발자용 요약 문서</strong>\n</li>\n<li>새 버전에는 <strong>헤드리스 모드(<code>--bare</code>)</strong>, <strong>채널 미리보기(<code>--channels</code>)</strong>, <strong...</p>",
+          "contentSnippet": "Claude Code v2.1.81의 주요 명령어, 단축키, 설정, 환경 변수, MCP 서버 및 에이전트 구성을 정리한 개발자용 요약 문서\n\n새 버전에는 헤드리스 모드(--bare), 채널 미리보기(--channels),",
+          "id": "https://news.hada.io/topic?id=27806",
+          "isoDate": "2026-03-24T10:33:32.000Z"
+        },
+        {
           "title": "오픈소스 협력 강화｜ArmSoM Sige5, 2026 임베디드 월드에서 Collabora와 함께 선보여",
           "link": "https://news.hada.io/topic?id=27805",
           "pubDate": "2026-03-24T08:38:59.000Z",
@@ -455,56 +505,6 @@
           "contentSnippet": "YC CEO Garry Tan이 만들어서 사용하는 AI로 구성된 오픈소스 소프트웨어 팩토리로 한 명이 20명 팀처럼 일하게 구성\nThink → Plan → Build → Review → Test → Ship → Reflect 순서로 스프린트 전체를 커버하는 슬래시 커맨드로 구성하고...",
           "id": "https://news.hada.io/topic?id=27756",
           "isoDate": "2026-03-23T01:06:01.000Z"
-        },
-        {
-          "title": "Project NOMAD - 오프라인에서도 끊기지 않는 지식과 AI 서버",
-          "link": "https://news.hada.io/topic?id=27755",
-          "pubDate": "2026-03-23T01:04:50.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>인터넷 연결 없이 <strong>지식, 지도, 교육, AI 도구</strong>를 모두 실행할 수 있는 <strong>무료 오픈소스 오프라인 서버</strong>\n</li>\n<li>\n<strong>Wikipedia, Project Gutenberg, 의료 참고서, Khan Academy 강좌</strong> 등 방대한 자료를 <strong>Kiwix</strong>와 <strong>Kolibri</strong> 기반으...</p>",
-          "contentSnippet": "인터넷 연결 없이 지식, 지도, 교육, AI 도구를 모두 실행할 수 있는 무료 오픈소스 오프라인 서버\n\n\nWikipedia, Project Gutenberg, 의료 참고서, Khan Academy 강좌 등 방대한 자료를 Kiwix와 Kolibri 기반으...",
-          "id": "https://news.hada.io/topic?id=27755",
-          "isoDate": "2026-03-23T01:04:50.000Z"
-        },
-        {
-          "title": "Cloudflare가 archive.today를 &quot;C&amp;C/Botnet&quot;으로 분류, 1.1.1.2에서 해석 불가",
-          "link": "https://news.hada.io/topic?id=27754",
-          "pubDate": "2026-03-23T01:01:50.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Cloudflare DNS 서비스</strong>가 <strong>archive.today 도메인</strong>을 <strong>명령·제어(C&amp;C) 또는 봇넷 관련 사이트</strong>로 분류함</li>\n<li>이에 따라 <strong>1.1.1.2 보안 DNS</strong>를 통해 해당 도메인이 <strong>정상적으로 해석되지 않음</strong>\n</li>\n<li>\n<strong>rada...</p>",
-          "contentSnippet": "Cloudflare DNS 서비스가 archive.today 도메인을 명령·제어(C&C) 또는 봇넷 관련 사이트로 분류함\n이에 따라 1.1.1.2 보안 DNS를 통해 해당 도메인이 정상적으로 해석되지 않음\n\n\nrada...",
-          "id": "https://news.hada.io/topic?id=27754",
-          "isoDate": "2026-03-23T01:01:50.000Z"
-        },
-        {
-          "title": "버전 관리의 미래",
-          "link": "https://news.hada.io/topic?id=27753",
-          "pubDate": "2026-03-23T00:58:50.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Manyana</strong>는 Bram Cohen이 개발한 <strong>CRDT 기반 버전 관리 프로토타입</strong>으로, 병합 충돌을 제거하고 히스토리를 구조적으로 보존하는 새로운 접근을 제시함</li>\n<li>\n<strong>CRDT(Conflict-Free Replicated Data Type)</strong> 을 활용해 병합이 항상 성공하며, 충돌을 단순한 ...</p>",
-          "contentSnippet": "Manyana는 Bram Cohen이 개발한 CRDT 기반 버전 관리 프로토타입으로, 병합 충돌을 제거하고 히스토리를 구조적으로 보존하는 새로운 접근을 제시함\nCRDT(Conflict-Free Replicated Data Type) 을 활용해 병합이 항상 성공하며, 충돌을 단순한 ...",
-          "id": "https://news.hada.io/topic?id=27753",
-          "isoDate": "2026-03-23T00:58:50.000Z"
-        },
-        {
-          "title": "JavaScript 비대화의 세 가지 축",
-          "link": "https://news.hada.io/topic?id=27752",
-          "pubDate": "2026-03-23T00:55:50.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>npm 생태계에서 <strong>의존성 트리의 비대화</strong>가 주요 문제로 지적되며, 이는 오래된 런타임 지원, 원자적 패키지 구조, 오래된 ponyfill 사용에서 비롯됨</li>\n<li>구형 엔진 호환성과 <strong>cross-realm 안전성</strong>을 이유로 유지되는 작은 유틸리티 패키지들이 현대 환경에서도 불필요하게 ...</p>",
-          "contentSnippet": "npm 생태계에서 의존성 트리의 비대화가 주요 문제로 지적되며, 이는 오래된 런타임 지원, 원자적 패키지 구조, 오래된 ponyfill 사용에서 비롯됨\n구형 엔진 호환성과 cross-realm 안전성을 이유로 유지되는 작은 유틸리티 패키지들이 현대 환경에서도 불필요하게 ...",
-          "id": "https://news.hada.io/topic?id=27752",
-          "isoDate": "2026-03-23T00:55:50.000Z"
-        },
-        {
-          "title": "Hormuz Minesweeper – 이기는 게 지겹다고 느낄 때",
-          "link": "https://news.hada.io/topic?id=27751",
-          "pubDate": "2026-03-23T00:52:49.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>고전 <strong>지뢰찾기 규칙</strong>을 기반으로, <strong>호르무즈 해협</strong>을 배경으로 한 웹 게임</li>\n<li>플레이어는 <strong>물을 정리하고 지뢰를 표시하며 항로를 유지</strong>해야 하는 구조</li>\n<li>\n<strong>좌클릭·우클릭·더블클릭</strong>으로 칸을 열거나 깃발을 표시하는 <strong>직관...</p>",
-          "contentSnippet": "고전 지뢰찾기 규칙을 기반으로, 호르무즈 해협을 배경으로 한 웹 게임\n플레이어는 물을 정리하고 지뢰를 표시하며 항로를 유지해야 하는 구조\n좌클릭·우클릭·더블클릭으로 칸을 열거나 깃발을 표시하는 직관...",
-          "id": "https://news.hada.io/topic?id=27751",
-          "isoDate": "2026-03-23T00:52:49.000Z"
         }
       ]
     }
