@@ -7,6 +7,56 @@
       "priority": 1,
       "data": [
         {
+          "title": "Claude Code로 생산성을 높이는 방법",
+          "link": "https://news.hada.io/topic?id=27817",
+          "pubDate": "2026-03-24T20:33:26.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>반복적인 <strong>PR 생성과 설명 작성 과정을 자동화</strong>해, 코드 작성 흐름이 끊기지 않는 환경을 구축</li>\n<li>서버 재시작 시간을 <strong>1분에서 1초 미만으로 단축</strong>해, 대화하듯 자연스러운 개발 피드백 루프를 형성</li>\n<li>\n<strong>UI 검증을 Claude 에이전트에 위임</strong>해, 개발...</p>",
+          "contentSnippet": "반복적인 PR 생성과 설명 작성 과정을 자동화해, 코드 작성 흐름이 끊기지 않는 환경을 구축\n서버 재시작 시간을 1분에서 1초 미만으로 단축해, 대화하듯 자연스러운 개발 피드백 루프를 형성\nUI 검증을 Claude 에이전트에 위임해, 개발...",
+          "id": "https://news.hada.io/topic?id=27817",
+          "isoDate": "2026-03-24T20:33:26.000Z"
+        },
+        {
+          "title": "Windows 3.1 타일형 배경화면 BMP 아카이브",
+          "link": "https://news.hada.io/topic?id=27816",
+          "pubDate": "2026-03-24T19:37:21.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>1990년대 <strong>Windows 3.1 운영체제의 기본 배경 패턴</strong>을 <code>.bmp</code> 형식으로 보존한 아카이브 저장소</li>\n<li>각 배경은 <strong>비트맵 이미지</strong>로 구성되어 있으며, 원본 외에 잘라낸 버전과 스크린샷 예시도 포함</li>\n<li>\n<strong><code>crop.py</code> 스크립트</strong>를...</p>",
+          "contentSnippet": "1990년대 Windows 3.1 운영체제의 기본 배경 패턴을 .bmp 형식으로 보존한 아카이브 저장소\n각 배경은 비트맵 이미지로 구성되어 있으며, 원본 외에 잘라낸 버전과 스크린샷 예시도 포함\ncrop.py 스크립트를...",
+          "id": "https://news.hada.io/topic?id=27816",
+          "isoDate": "2026-03-24T19:37:21.000Z"
+        },
+        {
+          "title": "럭셔리 자동차 정비소를 위한 AI 리셉셔니스트 구축기 - Part 1",
+          "link": "https://news.hada.io/topic?id=27815",
+          "pubDate": "2026-03-24T19:34:21.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>고급 정비소의 <strong>전화 응답 부재로 인한 매출 손실</strong>을 해결하기 위해, 실제 전화를 받는 <strong>AI 리셉셔니스트 ‘Axle’</strong> 이 개발됨</li>\n<li>AI는 <strong>Retrieval-Augmented Generation(RAG)</strong> 기반으로 구축되어, 웹사이트에서 수집한 실제 서비스·가격 정보를 근거로 정...</p>",
+          "contentSnippet": "고급 정비소의 전화 응답 부재로 인한 매출 손실을 해결하기 위해, 실제 전화를 받는 AI 리셉셔니스트 ‘Axle’ 이 개발됨\nAI는 Retrieval-Augmented Generation(RAG) 기반으로 구축되어, 웹사이트에서 수집한 실제 서비스·가격 정보를 근거로 정...",
+          "id": "https://news.hada.io/topic?id=27815",
+          "isoDate": "2026-03-24T19:34:21.000Z"
+        },
+        {
+          "title": "협업은 헛소리다",
+          "link": "https://news.hada.io/topic?id=27814",
+          "pubDate": "2026-03-24T18:33:10.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>현대 조직에서 <strong>협업</strong>은 생산성의 상징처럼 여겨지지만, 실제로는 <strong>책임 회피와 비효율</strong>을 낳는 구조로 작동함</li>\n<li>기술 산업은 이를 해결하기 위해 수많은 <strong>협업 도구</strong>를 도입했지만, 결과보다 <strong>활동과 참여의 시뮬레이션</strong>만 증가함</li>\n...</p>",
+          "contentSnippet": "현대 조직에서 협업은 생산성의 상징처럼 여겨지지만, 실제로는 책임 회피와 비효율을 낳는 구조로 작동함\n기술 산업은 이를 해결하기 위해 수많은 협업 도구를 도입했지만, 결과보다 활동과 참여의 시뮬레이션만 증가함\n...",
+          "id": "https://news.hada.io/topic?id=27814",
+          "isoDate": "2026-03-24T18:33:10.000Z"
+        },
+        {
+          "title": "대면 및 원격 수업에서의 학생 외모와 성적 관계",
+          "link": "https://news.hada.io/topic?id=27813",
+          "pubDate": "2026-03-24T17:33:20.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>대면 수업</strong>과 <strong>원격 수업</strong> 환경에서 <strong>학생 외모와 성적 간의 상관성</strong>을 다루는 주제</li>\n<li>외모가 학업 성취도에 미치는 영향을 비교하려는 연구로 보임</li>\n<li>연구의 <strong>데이터, 분석 방법, 결과</strong> 등 구체적 정보는 제시되지 않음</li>\n<l...</p>",
+          "contentSnippet": "대면 수업과 원격 수업 환경에서 학생 외모와 성적 간의 상관성을 다루는 주제\n외모가 학업 성취도에 미치는 영향을 비교하려는 연구로 보임\n연구의 데이터, 분석 방법, 결과 등 구체적 정보는 제시되지 않음",
+          "id": "https://news.hada.io/topic?id=27813",
+          "isoDate": "2026-03-24T17:33:20.000Z"
+        },
+        {
           "title": "AI Native Engineer — 원리 위의 감각",
           "link": "https://news.hada.io/topic?id=27812",
           "pubDate": "2026-03-24T15:28:40.000Z",
@@ -455,56 +505,6 @@
           "contentSnippet": "안녕하세요. Claude Plugin, Skills 많이들 설치해서 사용하고 있으실텐데요.\nPlugin 설치할 때마다 많은 Skills.md가 .claude/plugin 디렉토리 안에 생성되고 있는데 정작 얼마나 많은 Skills.md 파일들이\n만들어지는 지, 중복되는 기능의 Skill.md는 없는지 관리가 되지 않아서 불편함을 느꼈습니다....",
           "id": "https://news.hada.io/topic?id=27762",
           "isoDate": "2026-03-23T01:22:00.000Z"
-        },
-        {
-          "title": "OpenClaw는 꿈처럼 보이지만 보안 악몽에 가까운 자율 에이전트",
-          "link": "https://news.hada.io/topic?id=27760",
-          "pubDate": "2026-03-23T01:16:51.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Opus 기반의 <strong>차세대 자율 에이전트 OpenClaw</strong>는 이메일, 캘린더, 홈 자동화 등 다양한 앱을 통합해 개인 비서처럼 작동함</li>\n<li>그러나 <strong>SkillHub 스킬 검증 부재</strong>, <strong>토큰 노출</strong>, <strong>메모리 오염</strong> 등 다수의 취약점이 발견되어 심각한 보안 위험...</p>",
-          "contentSnippet": "Opus 기반의 차세대 자율 에이전트 OpenClaw는 이메일, 캘린더, 홈 자동화 등 다양한 앱을 통합해 개인 비서처럼 작동함\n그러나 SkillHub 스킬 검증 부재, 토큰 노출, 메모리 오염 등 다수의 취약점이 발견되어 심각한 보안 위험...",
-          "id": "https://news.hada.io/topic?id=27760",
-          "isoDate": "2026-03-23T01:16:51.000Z"
-        },
-        {
-          "title": "도그푸딩에 지쳤다면, 자기 회사 고객센터에 직접 전화해 보세요",
-          "link": "https://news.hada.io/topic?id=27759",
-          "pubDate": "2026-03-23T01:13:50.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>자사 제품을 직접 사용하는 <strong>도그푸딩</strong>은 테크 업계의 오랜 원칙이지만 실제 고객의 불만 경험까지 체험하는 데는 역부족</li>\n<li>대기업의 <strong>고객센터 자동응답 시스템</strong>은 기술 혁신을 내세우지만 실제 고객 불만을 해결하지 못함</li>\n<li>Jeff Bezos가 직접 자사 고객 서비스...</p>",
-          "contentSnippet": "자사 제품을 직접 사용하는 도그푸딩은 테크 업계의 오랜 원칙이지만 실제 고객의 불만 경험까지 체험하는 데는 역부족\n대기업의 고객센터 자동응답 시스템은 기술 혁신을 내세우지만 실제 고객 불만을 해결하지 못함\nJeff Bezos가 직접 자사 고객 서비스...",
-          "id": "https://news.hada.io/topic?id=27759",
-          "isoDate": "2026-03-23T01:13:50.000Z"
-        },
-        {
-          "title": "Flash-MoE - 노트북에서 3,970억 파라미터 모델을 실행",
-          "link": "https://news.hada.io/topic?id=27758",
-          "pubDate": "2026-03-23T01:10:50.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>397B 파라미터의 <strong>Mixture-of-Experts 모델</strong>을 <strong>MacBook Pro(48GB RAM)</strong> 에서 초당 4.4토큰 이상으로 실행하는 <strong>C/Metal 기반 추론 엔진</strong>\n</li>\n<li>전체 209GB 모델을 <strong>SSD에서 스트리밍</strong>하며, <strong>Python이나 프레임워크 없이</strong> C와...</p>",
-          "contentSnippet": "397B 파라미터의 Mixture-of-Experts 모델을 MacBook Pro(48GB RAM) 에서 초당 4.4토큰 이상으로 실행하는 C/Metal 기반 추론 엔진\n\n전체 209GB 모델을 SSD에서 스트리밍하며, Python이나 프레임워크 없이 C와...",
-          "id": "https://news.hada.io/topic?id=27758",
-          "isoDate": "2026-03-23T01:10:50.000Z"
-        },
-        {
-          "title": "Windows 네이티브 앱 개발이 엉망인 이유",
-          "link": "https://news.hada.io/topic?id=27757",
-          "pubDate": "2026-03-23T01:07:50.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Windows 네이티브 앱 개발 생태계는 수십 년간 이어진 <strong>프레임워크 단절과 반복적 재설계</strong>로 인해 2025년 현재도 실질적인 개발 생산성을 제공하지 못하는 상태임</li>\n<li>Win32부터 MFC, WinForms, WPF, WinRT, UWP를 거쳐 <strong>WinUI 3</strong>까지 7단계의 UI 프레임워크 변천에도 불구...</p>",
-          "contentSnippet": "Windows 네이티브 앱 개발 생태계는 수십 년간 이어진 프레임워크 단절과 반복적 재설계로 인해 2025년 현재도 실질적인 개발 생산성을 제공하지 못하는 상태임\nWin32부터 MFC, WinForms, WPF, WinRT, UWP를 거쳐 WinUI 3까지 7단계의 UI 프레임워크 변천에도 불구...",
-          "id": "https://news.hada.io/topic?id=27757",
-          "isoDate": "2026-03-23T01:07:50.000Z"
-        },
-        {
-          "title": "gstack - Claude Code로 만드는 가상 엔지니어링 팀",
-          "link": "https://news.hada.io/topic?id=27756",
-          "pubDate": "2026-03-23T01:06:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>YC CEO Garry Tan</strong>이 만들어서 사용하는 AI로 구성된 <strong>오픈소스 소프트웨어 팩토리</strong>로 한 명이 20명 팀처럼 일하게 구성</li>\n<li>\n<strong>Think → Plan → Build → Review → Test → Ship → Reflect</strong> 순서로 스프린트 전체를 커버하는 슬래시 커맨드로 구성하고...</p>",
-          "contentSnippet": "YC CEO Garry Tan이 만들어서 사용하는 AI로 구성된 오픈소스 소프트웨어 팩토리로 한 명이 20명 팀처럼 일하게 구성\nThink → Plan → Build → Review → Test → Ship → Reflect 순서로 스프린트 전체를 커버하는 슬래시 커맨드로 구성하고...",
-          "id": "https://news.hada.io/topic?id=27756",
-          "isoDate": "2026-03-23T01:06:01.000Z"
         }
       ]
     }
