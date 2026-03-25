@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "2026 Bio-AI 오픈소스 감사 보고서: 10개를 점검해보니, &quot;대부분은 돌아가지만 믿기 어려웠다.&quot;",
+          "link": "https://news.hada.io/topic?id=27848",
+          "pubDate": "2026-03-25T11:37:20.000Z",
+          "author": "flamehaven01",
+          "content": "<h3>전체 요지</h3>\n<ul>\n<li>이 보고서는 2026년 3월 기준, 가시성이 높은 Bio-AI 및 인접 과학 자동화 저장소 10개를 감사한 결과를 정리</li>\n<li>무작위 선정 아닌 GitHub star. 기술적 논의 빈도. 실제 생태계 노출도 기준으로 선정.</li>\n<li>감사는 2단계 방식으로 진행, 1단계는 기술적 코드 검수: Repo 구조·엔�...</p>",
+          "contentSnippet": "전체 요지\n이 보고서는 2026년 3월 기준, 가시성이 높은 Bio-AI 및 인접 과학 자동화 저장소 10개를 감사한 결과를 정리\n무작위 선정 아닌 GitHub star. 기술적 논의 빈도. 실제 생태계 노출도 기준으로 선정.\n감사는 2단계 방식으로 진행, 1단계는 기술적 코드 검수: Repo 구조·엔�...",
+          "id": "https://news.hada.io/topic?id=27848",
+          "isoDate": "2026-03-25T11:37:20.000Z"
+        },
+        {
+          "title": "Video.js v10 베타: 16년 만의 전면 재작성으로 88% 더 작아진 오픈소스 비디오 플레이어",
+          "link": "https://news.hada.io/topic?id=27847",
+          "pubDate": "2026-03-25T11:33:17.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>16년 만에 완전히 새로 작성된 Video.js v10은 <strong>번들 크기를 88% 줄이고</strong> 현대적 개발 환경에 맞춘 구조로 재탄생함</li>\n<li>\n<strong>React·TypeScript·Tailwind</strong>를 1급으로 지원하며, <strong>심미적 기본 UI</strong>와 <strong>AI 친화적 문서 구조</strong>를 제공함</li>\n<li>새...</p>",
+          "contentSnippet": "16년 만에 완전히 새로 작성된 Video.js v10은 번들 크기를 88% 줄이고 현대적 개발 환경에 맞춘 구조로 재탄생함\nReact·TypeScript·Tailwind를 1급으로 지원하며, 심미적 기본 UI와 AI 친화적 문서 구조를 제공함\n새...",
+          "id": "https://news.hada.io/topic?id=27847",
+          "isoDate": "2026-03-25T11:33:17.000Z"
+        },
+        {
+          "title": "Show GN: AI 검색(Perplexity)에서 내 사이트가 언급되는지 확인하는 도구 만들었습니다",
+          "link": "https://news.hada.io/topic?id=27846",
+          "pubDate": "2026-03-25T09:53:57.000Z",
+          "author": "voidops",
+          "content": "<p>구글 SEO랑 다르게 AI 검색은 &quot;언급되거나 안 되거나&quot; 둘 중 하나입니다.<br />\n어떤 사이트가 인용되는지 기준도 불투명하고, 확인 방법도 마땅치 않아서 직접 만들었습니다.</p>\n<p>동작 방식:</p>\n<ul>\n<li>Claude가 브랜드/카테고리에 맞는 질문 자동 생성</li>\n<li>Perplexity API에 실제 질문을 던져",
+          "contentSnippet": "구글 SEO랑 다르게 AI 검색은 \"언급되거나 안 되거나\" 둘 중 하나입니다.\n동작 방식:\nClaude가 브랜드/카테고리에 맞는 질문 자동 생성\nPerplexity API에 실제 질문을 던져",
+          "id": "https://news.hada.io/topic?id=27846",
+          "isoDate": "2026-03-25T09:53:57.000Z"
+        },
+        {
           "title": "Show GN: 트럼프 가라사대: 트럼프 발언 실시간 분석 및 한국 경제 영향 피드",
           "link": "https://news.hada.io/topic?id=27845",
           "pubDate": "2026-03-25T08:05:13.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "월마트가 ChatGPT 내 Instant Checkout 기능을 통해 약 20만 개 상품을 테스트한 결과, 웹사이트 결제 대비 전환율이 3배 낮음을 확인\nChatGPT 내 직접 결제는 사용자 만족도가 낮았으며, 클릭아웃(웹사이트 이동) 거래의 3분의 1 수준에 그침",
           "id": "https://news.hada.io/topic?id=27792",
           "isoDate": "2026-03-24T00:38:18.000Z"
-        },
-        {
-          "title": "Trivy가 다시 공격받다: 광범위한 GitHub Actions 태그 변조로 비밀정보 유출",
-          "link": "https://news.hada.io/topic?id=27791",
-          "pubDate": "2026-03-24T00:36:57.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>공식 GitHub Action이 <strong>태그 강제 업데이트</strong>로 변조되어 <strong>악성코드가 배포된 공급망 공격</strong> 발생</li>\n<li>공격자는 <strong>76개 중 75개 태그를 악성 커밋으로 교체</strong>, 약 <strong>1만 개 이상의 워크플로</strong>가 영향을 받음</li>\n<li>변조된 스크립트는 <strong>비...</p>",
-          "contentSnippet": "공식 GitHub Action이 태그 강제 업데이트로 변조되어 악성코드가 배포된 공급망 공격 발생\n공격자는 76개 중 75개 태그를 악성 커밋으로 교체, 약 1만 개 이상의 워크플로가 영향을 받음\n변조된 스크립트는 비...",
-          "id": "https://news.hada.io/topic?id=27791",
-          "isoDate": "2026-03-24T00:36:57.000Z"
-        },
-        {
-          "title": "EU로 서비스 이전",
-          "link": "https://news.hada.io/topic?id=27790",
-          "pubDate": "2026-03-24T00:35:23.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>개인 서비스와 구독을 <strong>비EU 지역에서 EU 기반으로 이전</strong>하며, <strong>데이터 보호 강화</strong>와 <strong>정치적 안정성 확보</strong>를 목표로 함</li>\n<li>이메일은 <strong>Fastmail</strong>에서 <strong>Uberspace</strong>로 옮겨, <strong>자체 도메인 무제한</strong>과 <strong>임...</p>",
-          "contentSnippet": "개인 서비스와 구독을 비EU 지역에서 EU 기반으로 이전하며, 데이터 보호 강화와 정치적 안정성 확보를 목표로 함\n이메일은 Fastmail에서 Uberspace로 옮겨, 자체 도메인 무제한과 임...",
-          "id": "https://news.hada.io/topic?id=27790",
-          "isoDate": "2026-03-24T00:35:23.000Z"
-        },
-        {
-          "title": "오래된 연구 아이디어에 Autoresearch 수행하기",
-          "link": "https://news.hada.io/topic?id=27789",
-          "pubDate": "2026-03-24T00:35:22.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>Autoresearch 시스템</strong>은 LLM 에이전트가 <code>train.py</code>를 반복 수정하며 성능을 개선하는 <strong>제약 최적화 루프</strong> 구조로, 가설 설정부터 평가까지 자동 순환을 수행함</li>\n<li>실험은 컨테이너 기반 <strong>샌드박스 환경</strong>에서 실행되어 네트워크 접근과 임의 ...</p>",
-          "contentSnippet": "Autoresearch 시스템은 LLM 에이전트가 train.py를 반복 수정하며 성능을 개선하는 제약 최적화 루프 구조로, 가설 설정부터 평가까지 자동 순환을 수행함\n실험은 컨테이너 기반 샌드박스 환경에서 실행되어 네트워크 접근과 임의 ...",
-          "id": "https://news.hada.io/topic?id=27789",
-          "isoDate": "2026-03-24T00:35:22.000Z"
         }
       ]
     }
