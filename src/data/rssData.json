@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: 트럼프 가라사대: 트럼프 발언 실시간 분석 및 한국 경제 영향 피드",
+          "link": "https://news.hada.io/topic?id=27845",
+          "pubDate": "2026-03-25T08:05:13.000Z",
+          "author": "kangbit",
+          "content": "<p>안녕하세요! 트럼프 전 대통령의 발언이 한국 경제와 시장에 미치는 영향을 실시간으로 분석하여 제공하는 서비스, '트럼프 가라사대(Trump-Saith)'를 만들었습니다.</p>\n<p>웹사이트: https://trump-saith.com/ (https://trump-saith.com/)<br />\n주요 기능: 트럼프 발언 실시간 수집 -&gt; LLM 한국어 요약 -&gt; 경",
+          "contentSnippet": "안녕하세요! 트럼프 전 대통령의 발언이 한국 경제와 시장에 미치는 영향을 실시간으로 분석하여 제공하는 서비스, '트럼프 가라사대(Trump-Saith)'를 만들었습니다.\n웹사이트: https://trump-saith.com/ (https://trump-saith.com/)\n주요 기능: 트럼프 발언 실시간 수집 -> LLM 한국어 요약 -> 경",
+          "id": "https://news.hada.io/topic?id=27845",
+          "isoDate": "2026-03-25T08:05:13.000Z"
+        },
+        {
+          "title": "미국 FCC, 해외 생산 소비자용 라우터 신규 모델 수입 전면 금지",
+          "link": "https://news.hada.io/topic?id=27842",
+          "pubDate": "2026-03-25T06:16:14.000Z",
+          "author": "princox",
+          "content": "<p>미국 연방통신위원회 FCC가 국가안보를 이유로 해외에서 생산된 소비자용 라우터의 신규 모델 수입과 판매를 사실상 전면 금지했다. 이번 조치는 백악관 주도의 행정부 부처 간 협의체가 해외 생산 라우터가 미국의 국가안보와 국민 안전에 용납할 수 없는 위험을 초래한다고 판단한 데 따른 것이다.</p>\n<p>FCC는 해",
+          "contentSnippet": "미국 연방통신위원회 FCC가 국가안보를 이유로 해외에서 생산된 소비자용 라우터의 신규 모델 수입과 판매를 사실상 전면 금지했다. 이번 조치는 백악관 주도의 행정부 부처 간 협의체가 해외 생산 라우터가 미국의 국가안보와 국민 안전에 용납할 수 없는 위험을 초래한다고 판단한 데 따른 것이다.\nFCC는 해",
+          "id": "https://news.hada.io/topic?id=27842",
+          "isoDate": "2026-03-25T06:16:14.000Z"
+        },
+        {
+          "title": "Show GN: make-slide – AI 코딩 에이전트용 프레젠테이션 생성 스킬 (10개 테마, PPTX 지원)",
+          "link": "https://news.hada.io/topic?id=27841",
+          "pubDate": "2026-03-25T05:20:50.000Z",
+          "author": "kuneosu",
+          "content": "<p>AI에게 발표 자료를 만들어달라고 하면 매번 다른 결과가 나옵니다.<br />\n토큰도 많이 쓰고, 디자인이 들쭉날쭉하거나 하는 문제가 있었습니다.</p>\n<p>make-slide는 이 문제를 해결하기 위해 만든 오픈소스 AI 스킬입니다.<br />\nAI가 매번 새롭게 디자인을 생성하는 대신, 미리 만들어둔 테마 레퍼런스 코드를 참고",
+          "contentSnippet": "AI에게 발표 자료를 만들어달라고 하면 매번 다른 결과가 나옵니다.\nmake-slide는 이 문제를 해결하기 위해 만든 오픈소스 AI 스킬입니다.\nAI가 매번 새롭게 디자인을 생성하는 대신, 미리 만들어둔 테마 레퍼런스 코드를 참고",
+          "id": "https://news.hada.io/topic?id=27841",
+          "isoDate": "2026-03-25T05:20:50.000Z"
+        },
+        {
           "title": "Show GN: vscode에서 한국 주식을 확인할 수 있는 vscode extension",
           "link": "https://news.hada.io/topic?id=27840",
           "pubDate": "2026-03-25T03:57:30.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "Autoresearch 시스템은 LLM 에이전트가 train.py를 반복 수정하며 성능을 개선하는 제약 최적화 루프 구조로, 가설 설정부터 평가까지 자동 순환을 수행함\n실험은 컨테이너 기반 샌드박스 환경에서 실행되어 네트워크 접근과 임의 ...",
           "id": "https://news.hada.io/topic?id=27789",
           "isoDate": "2026-03-24T00:35:22.000Z"
-        },
-        {
-          "title": "iPhone 17 Pro에서 400B LLM 실행하기",
-          "link": "https://news.hada.io/topic?id=27788",
-          "pubDate": "2026-03-24T00:33:52.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>iPhone 17 Pro</strong>에서 <strong>4000억 파라미터 규모의 LLM</strong>을 구동, 속도는 <strong>초당 0.6토큰</strong> 수준</li>\n<li>모델은 <strong>Mixture of Experts(MoE)</strong> 구조로, 실제 활성화되는 가중치는 약 <strong>50억 파라미터</strong>\n</li>\n<li>\n<strong>4bit 양자화</st...</p>",
-          "contentSnippet": "iPhone 17 Pro에서 4000억 파라미터 규모의 LLM을 구동, 속도는 초당 0.6토큰 수준\n모델은 Mixture of Experts(MoE) 구조로, 실제 활성화되는 가중치는 약 50억 파라미터\n\n\n4bit 양자화",
-          "id": "https://news.hada.io/topic?id=27788",
-          "isoDate": "2026-03-24T00:33:52.000Z"
-        },
-        {
-          "title": "OpenSquirrel - GPU 기반 AI 코드 에이전트 제어판",
-          "link": "https://news.hada.io/topic?id=27787",
-          "pubDate": "2026-03-24T00:31:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>Claude Code, Codex, Cursor, OpenCode를 한 화면에서 병렬 실행하며 4개까지 그리드로 동시 표시 가능</li>\n<li>\n<strong>Rust + GPUI</strong>로 만든 네이티브 제어판으로 Electron 없이 <strong>Metal GPU 렌더링</strong>\n</li>\n<li>주 에이전트가 <strong>서브 에이전트를 자동 생성</strong>하고, 워커는...</p>",
-          "contentSnippet": "Claude Code, Codex, Cursor, OpenCode를 한 화면에서 병렬 실행하며 4개까지 그리드로 동시 표시 가능\nRust + GPUI로 만든 네이티브 제어판으로 Electron 없이 Metal GPU 렌더링\n\n주 에이전트가 서브 에이전트를 자동 생성하고, 워커는...",
-          "id": "https://news.hada.io/topic?id=27787",
-          "isoDate": "2026-03-24T00:31:01.000Z"
-        },
-        {
-          "title": "당신은 당신이 하는 일이 아니다",
-          "link": "https://news.hada.io/topic?id=27786",
-          "pubDate": "2026-03-23T22:33:16.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>인간의 정체성은 직업이 아니라 <strong>이야기와 관계</strong>에서 형성되며, “나는 내가 하는 일이다”라는 믿음은 허상임</li>\n<li>기술 발전이 인간의 <strong>전문성과 노동을 자동화</strong>하고 있지만, 이는 자아의 상실이 아니라 <strong>정체성 재정의의 계기</strong>임</li>\n<li>인간의 가치는 ...</p>",
-          "contentSnippet": "인간의 정체성은 직업이 아니라 이야기와 관계에서 형성되며, “나는 내가 하는 일이다”라는 믿음은 허상임\n기술 발전이 인간의 전문성과 노동을 자동화하고 있지만, 이는 자아의 상실이 아니라 정체성 재정의의 계기임\n인간의 가치는 ...",
-          "id": "https://news.hada.io/topic?id=27786",
-          "isoDate": "2026-03-23T22:33:16.000Z"
         }
       ]
     }
