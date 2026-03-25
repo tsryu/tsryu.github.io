@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "해충 방제용 Vertical SaaS를 만들고 싶어 기술자로 취업했다",
+          "link": "https://news.hada.io/topic?id=27852",
+          "pubDate": "2026-03-25T20:33:15.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>전통 산업 기업들이 외부 컨설팅보다 <strong>자체 솔루션 구축</strong>에 집중하는 현실을 보고, 사무직을 떠나 <strong>현장 직종으로 복귀</strong>함</li>\n<li>해충 방제 산업이 <strong>반복 수익 구조와 분산된 시장</strong>, <strong>규제 기반의 안정성</strong>을 가진다는 점에 매력을 느껴 직접 지...</p>",
+          "contentSnippet": "전통 산업 기업들이 외부 컨설팅보다 자체 솔루션 구축에 집중하는 현실을 보고, 사무직을 떠나 현장 직종으로 복귀함\n해충 방제 산업이 반복 수익 구조와 분산된 시장, 규제 기반의 안정성을 가진다는 점에 매력을 느껴 직접 지...",
+          "id": "https://news.hada.io/topic?id=27852",
+          "isoDate": "2026-03-25T20:33:15.000Z"
+        },
+        {
+          "title": "Gemini의 비디오 임베딩 기능을 활용한 초단위 이하 의미 기반 영상 검색 도구 SentrySearch",
+          "link": "https://news.hada.io/topic?id=27851",
+          "pubDate": "2026-03-25T19:33:09.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>대시캠 등 영상 파일에서 자연어로 장면을 검색</strong>해 해당 구간을 자동으로 잘라내는 <strong>의미 기반 검색 시스템</strong>\n</li>\n<li>\n<strong>Google Gemini Embedding 2</strong> 모델을 이용해 <strong>비디오 자체를 벡터로 임베딩</strong>하고, <strong>ChromaDB</strong> 에 저장해 ...</p>",
+          "contentSnippet": "대시캠 등 영상 파일에서 자연어로 장면을 검색해 해당 구간을 자동으로 잘라내는 의미 기반 검색 시스템\n\n\nGoogle Gemini Embedding 2 모델을 이용해 비디오 자체를 벡터로 임베딩하고, ChromaDB 에 저장해 ...",
+          "id": "https://news.hada.io/topic?id=27851",
+          "isoDate": "2026-03-25T19:33:09.000Z"
+        },
+        {
+          "title": "AI로 35년전 고전 게임 한글화하기",
+          "link": "https://news.hada.io/topic?id=27850",
+          "pubDate": "2026-03-25T16:41:04.000Z",
+          "author": "colus001",
+          "content": "<h3>왜 지금까지 없었을까?</h3>\n<ul>\n<li>35년전에 나온 포인트 앤 클릭 어드벤처 시리즈 키란디아의 전설 시리즈. 시리즈 중 유일하게 2편 운명의 손만 한글화 되지 않았음</li>\n<li>ScummVM 에 구현되어있는 엔진 중 Lucas 의 SCUMM 이나 Sierra 의 SCI 의 경우는 꽤 팬 한글화 된 게임이 있는데 Westwood 의 Kyra 엔...</p>",
+          "contentSnippet": "왜 지금까지 없었을까?\n35년전에 나온 포인트 앤 클릭 어드벤처 시리즈 키란디아의 전설 시리즈. 시리즈 중 유일하게 2편 운명의 손만 한글화 되지 않았음\nScummVM 에 구현되어있는 엔진 중 Lucas 의 SCUMM 이나 Sierra 의 SCI 의 경우는 꽤 팬 한글화 된 게임이 있는데 Westwood 의 Kyra 엔...",
+          "id": "https://news.hada.io/topic?id=27850",
+          "isoDate": "2026-03-25T16:41:04.000Z"
+        },
+        {
           "title": "2026 Bio-AI 오픈소스 감사 보고서: 10개를 점검해보니, &quot;대부분은 돌아가지만 믿기 어려웠다.&quot;",
           "link": "https://news.hada.io/topic?id=27848",
           "pubDate": "2026-03-25T11:37:20.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "개인이 콘텐츠를 자신의 웹사이트에 먼저 게시하고, 그 복사본이나 링크를 소셜 미디어 등 외부 플랫폼에 배포하는 방식\n원본 게시물에는 정규 URL과 permashortlink를 포함해, 복사본에서도 원본으로 직접 접근 가능\n이 구조는",
           "id": "https://news.hada.io/topic?id=27795",
           "isoDate": "2026-03-24T01:34:43.000Z"
-        },
-        {
-          "title": "Claude, 컴퓨터의 마우스·키보드·화면 직접 제어 기능 출시",
-          "link": "https://news.hada.io/topic?id=27794",
-          "pubDate": "2026-03-24T01:16:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>Claude Code Desktop 및 Cowork</strong>과 연동되어 실제 컴퓨터의 마우스·키보드·화면을 직접 제어해 어떤 앱이든 사용 가능</li>\n<li>\n<strong>Dispatch</strong>와 함께 사용하면 자리를 비운 상태에서도 원격으로 Claude가 컴퓨터를 조작하도록 지시 가능</li>\n<li>현재 <strong>macOS에 먼저 출...</p>",
-          "contentSnippet": "Claude Code Desktop 및 Cowork과 연동되어 실제 컴퓨터의 마우스·키보드·화면을 직접 제어해 어떤 앱이든 사용 가능\nDispatch와 함께 사용하면 자리를 비운 상태에서도 원격으로 Claude가 컴퓨터를 조작하도록 지시 가능\n현재 macOS에 먼저 출...",
-          "id": "https://news.hada.io/topic?id=27794",
-          "isoDate": "2026-03-24T01:16:02.000Z"
-        },
-        {
-          "title": "GitHub, 99.9% 가용성 유지에도 버거운 모습",
-          "link": "https://news.hada.io/topic?id=27793",
-          "pubDate": "2026-03-24T00:38:24.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>최근 <strong>GitHub의 잦은 서비스 장애</strong>가 이어지며, 업계 표준인 <strong>‘5 nines(99.999%)’</strong> 는커녕 <strong>‘3 nines(99.9%)’</strong> 달성도 어려운 상황임</li>\n<li>2월 9일에는 <strong>Actions, Pull Request, 알림, Copilot</strong> 등 주요 기능이 동시 장애를 겪었고, 일부...</p>",
-          "contentSnippet": "최근 GitHub의 잦은 서비스 장애가 이어지며, 업계 표준인 ‘5 nines(99.999%)’ 는커녕 ‘3 nines(99.9%)’ 달성도 어려운 상황임\n2월 9일에는 Actions, Pull Request, 알림, Copilot 등 주요 기능이 동시 장애를 겪었고, 일부...",
-          "id": "https://news.hada.io/topic?id=27793",
-          "isoDate": "2026-03-24T00:38:24.000Z"
-        },
-        {
-          "title": "Walmart: ChatGPT 결제 전환율, 웹사이트의 1/3 수준",
-          "link": "https://news.hada.io/topic?id=27792",
-          "pubDate": "2026-03-24T00:38:18.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>월마트가 ChatGPT 내 <strong>Instant Checkout 기능</strong>을 통해 약 20만 개 상품을 테스트한 결과, <strong>웹사이트 결제 대비 전환율이 3배 낮음</strong>을 확인</li>\n<li>ChatGPT 내 직접 결제는 사용자 만족도가 낮았으며, <strong>클릭아웃(웹사이트 이동) 거래의 3분의 1 수준</strong>에 그침</l...</p>",
-          "contentSnippet": "월마트가 ChatGPT 내 Instant Checkout 기능을 통해 약 20만 개 상품을 테스트한 결과, 웹사이트 결제 대비 전환율이 3배 낮음을 확인\nChatGPT 내 직접 결제는 사용자 만족도가 낮았으며, 클릭아웃(웹사이트 이동) 거래의 3분의 1 수준에 그침",
-          "id": "https://news.hada.io/topic?id=27792",
-          "isoDate": "2026-03-24T00:38:18.000Z"
         }
       ]
     }
