@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "Apple, 사용자가 직접 ‘미수정 확인’을 하지 않으면 버그 리포트를 임의로 닫는 문제",
+          "link": "https://news.hada.io/topic?id=27892",
+          "pubDate": "2026-03-26T19:33:20.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Apple이 <strong>Feedback Assistant</strong>를 통해 보고된 버그를, 사용자가 “아직 수정되지 않았음”을 <strong>직접 확인(verify)</strong> 하지 않으면 자동으로 종료함</li>\n<li>3년간 응답이 없던 <strong>네트워크 필터 확장 관련 개인정보 유출 버그(FB12088655)</strong> 에 대해, Apple이 갑자기 ...</p>",
+          "contentSnippet": "Apple이 Feedback Assistant를 통해 보고된 버그를, 사용자가 “아직 수정되지 않았음”을 직접 확인(verify) 하지 않으면 자동으로 종료함\n3년간 응답이 없던 네트워크 필터 확장 관련 개인정보 유출 버그(FB12088655) 에 대해, Apple이 갑자기 ...",
+          "id": "https://news.hada.io/topic?id=27892",
+          "isoDate": "2026-03-26T19:33:20.000Z"
+        },
+        {
+          "title": "Apple이 나를 잃었다",
+          "link": "https://news.hada.io/topic?id=27891",
+          "pubDate": "2026-03-26T16:38:14.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>오랜 기간 Apple 제품을 사용해 온 사용자가 <strong>개인 용도로 Apple 생태계를 떠나고 Linux·Android로 전환</strong>을 선언</li>\n<li>이탈 이유로 <strong>Gatekeeper 정책의 제약</strong>, <strong>macOS 26의 디자인 실패</strong>, <strong>신용카드 기반 나이 인증 문제</strong>를 지적</li>\n<li>ma...</p>",
+          "contentSnippet": "오랜 기간 Apple 제품을 사용해 온 사용자가 개인 용도로 Apple 생태계를 떠나고 Linux·Android로 전환을 선언\n이탈 이유로 Gatekeeper 정책의 제약, macOS 26의 디자인 실패, 신용카드 기반 나이 인증 문제를 지적\nma...",
+          "id": "https://news.hada.io/topic?id=27891",
+          "isoDate": "2026-03-26T16:38:14.000Z"
+        },
+        {
+          "title": "ARC-AGI-3",
+          "link": "https://news.hada.io/topic?id=27890",
+          "pubDate": "2026-03-26T16:35:13.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>ARC-AGI-3</strong>는 AI 에이전트의 <strong>인간 수준 지능을 측정하기 위한 최초의 상호작용형 추론 벤치마크</strong>로, 환경 탐색과 적응 학습 능력을 평가함</li>\n<li>모든 과제는 <strong>인간이 해결 가능한 환경</strong>으로 구성되며, <strong>시간에 따른 기술 습득 효율성과 장기 계획 ...</p>",
+          "contentSnippet": "ARC-AGI-3는 AI 에이전트의 인간 수준 지능을 측정하기 위한 최초의 상호작용형 추론 벤치마크로, 환경 탐색과 적응 학습 능력을 평가함\n모든 과제는 인간이 해결 가능한 환경으로 구성되며, 시간에 따른 기술 습득 효율성과 장기 계획 ...",
+          "id": "https://news.hada.io/topic?id=27890",
+          "isoDate": "2026-03-26T16:35:13.000Z"
+        },
+        {
           "title": "개인 백과사전",
           "link": "https://news.hada.io/topic?id=27889",
           "pubDate": "2026-03-26T14:33:28.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "트럼프가 이란 공격 연기 발표를 하기 약 15분 전, 수억 달러 규모의 석유 선물 거래량이 급증함\n발표 직후 유가가 14% 급락하며, 하락에 베팅한 거래자들이 큰 이익을 얻음\n거래 시점과 규모가 비정상적으로 집중돼 사전 정보 ...",
           "id": "https://news.hada.io/topic?id=27828",
           "isoDate": "2026-03-25T00:49:23.000Z"
-        },
-        {
-          "title": "AI 이야기, 이제 지겹지 않나요?",
-          "link": "https://news.hada.io/topic?id=27827",
-          "pubDate": "2026-03-25T00:46:23.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>AI가 워크플로를 완전히 바꿔놓았고 생산성도 크게 높여줬지만, 매일 쓰다 보니 <strong>이제 더 이상 새로울 게 없는 일상</strong>이 됨</li>\n<li>Hacker News 등 개발자 커뮤니티가 거의 동일한 <strong>Claude Code 워크플로 자랑</strong>과 AI 도구 설정 이야기로 뒤덮여, 흥미로운 프로젝트와 문제 해결...</p>",
-          "contentSnippet": "AI가 워크플로를 완전히 바꿔놓았고 생산성도 크게 높여줬지만, 매일 쓰다 보니 이제 더 이상 새로울 게 없는 일상이 됨\nHacker News 등 개발자 커뮤니티가 거의 동일한 Claude Code 워크플로 자랑과 AI 도구 설정 이야기로 뒤덮여, 흥미로운 프로젝트와 문제 해결...",
-          "id": "https://news.hada.io/topic?id=27827",
-          "isoDate": "2026-03-25T00:46:23.000Z"
-        },
-        {
-          "title": "Wine 11, 커널 수준에서 Linux의 Windows 게임 실행 방식을 재작성해 대규모 성능 향상 달성",
-          "link": "https://news.hada.io/topic?id=27826",
-          "pubDate": "2026-03-25T00:43:23.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Linux에서 Windows 게임 실행 구조를 <strong>커널 수준에서 전면 재설계</strong>해, 기존 wineserver 기반 동기화 병목을 제거</li>\n<li>새로운 <strong>NTSYNC 드라이버</strong>가 NT 동기화 객체를 커널에서 직접 처리하며, <strong>최대 8배 이상의 FPS 향상</strong>을 기록</li>\n<li>\n<strong>WoW64 완...</p>",
-          "contentSnippet": "Linux에서 Windows 게임 실행 구조를 커널 수준에서 전면 재설계해, 기존 wineserver 기반 동기화 병목을 제거\n새로운 NTSYNC 드라이버가 NT 동기화 객체를 커널에서 직접 처리하며, 최대 8배 이상의 FPS 향상을 기록\nWoW64 완...",
-          "id": "https://news.hada.io/topic?id=27826",
-          "isoDate": "2026-03-25T00:43:23.000Z"
-        },
-        {
-          "title": "OpenAI, AI 영상 앱 Sora 전격 종료 — Disney 파트너십도 해체",
-          "link": "https://news.hada.io/topic?id=27825",
-          "pubDate": "2026-03-25T00:41:25.000Z",
-          "author": "princox",
-          "content": "<p>OpenAI가 2025년 9월 출시한 AI 영상 생성 앱 Sora를 출시 6개월 만에 종료한다고 3월 24일 발표했습니다. iOS 앱, API, Sora.com 모두 종료 예정이며, 구체적인 일정과 기존 영상 보존 방법은 추후 공지할 예정입니다.</p>\n<p>주요 내용<br />\n∙\tOpenAI는 “Sora 연구팀은 로보틱스 발전을 위한 세계 시뮬레이션 연",
-          "contentSnippet": "OpenAI가 2025년 9월 출시한 AI 영상 생성 앱 Sora를 출시 6개월 만에 종료한다고 3월 24일 발표했습니다. iOS 앱, API, Sora.com 모두 종료 예정이며, 구체적인 일정과 기존 영상 보존 방법은 추후 공지할 예정입니다.\n주요 내용\n∙\tOpenAI는 “Sora 연구팀은 로보틱스 발전을 위한 세계 시뮬레이션 연",
-          "id": "https://news.hada.io/topic?id=27825",
-          "isoDate": "2026-03-25T00:41:25.000Z"
         }
       ]
     }
