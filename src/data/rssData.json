@@ -7,6 +7,76 @@
       "priority": 1,
       "data": [
         {
+          "title": "Swift 6.3",
+          "link": "https://news.hada.io/topic?id=27928",
+          "pubDate": "2026-03-27T20:37:16.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Swift 6.3은 <strong>언어, 표준 라이브러리, 빌드 시스템, 플랫폼 지원</strong> 전반을 확장하며 개발자 경험을 개선한 버전임</li>\n<li>\n<strong>C 상호운용성 강화</strong>, <strong>Android 공식 SDK 추가</strong>, <strong>임베디드 환경 개선</strong>, <strong>DocC 문서화 도구 확장</strong>이 주요...</p>",
+          "contentSnippet": "Swift 6.3은 언어, 표준 라이브러리, 빌드 시스템, 플랫폼 지원 전반을 확장하며 개발자 경험을 개선한 버전임\nC 상호운용성 강화, Android 공식 SDK 추가, 임베디드 환경 개선, DocC 문서화 도구 확장이 주요...",
+          "id": "https://news.hada.io/topic?id=27928",
+          "isoDate": "2026-03-27T20:37:16.000Z"
+        },
+        {
+          "title": "국제올림픽위원회, 트랜스젠더 선수의 여성 종목 출전 금지",
+          "link": "https://news.hada.io/topic?id=27927",
+          "pubDate": "2026-03-27T20:34:16.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>국제올림픽위원회(IOC)</strong> 가 트랜스젠더 여성이 여성 부문에서 출전하는 것을 금지하고, 모든 여성 선수에게 <strong>유전자 검사 의무화</strong>를 도입함</li>\n<li>새 규정은 <strong>2028년 로스앤젤레스 올림픽</strong>부터 시행되며, <strong>타액·혈액·면봉 샘플</strong>을 통한 1회성...</p>",
+          "contentSnippet": "국제올림픽위원회(IOC) 가 트랜스젠더 여성이 여성 부문에서 출전하는 것을 금지하고, 모든 여성 선수에게 유전자 검사 의무화를 도입함\n새 규정은 2028년 로스앤젤레스 올림픽부터 시행되며, 타액·혈액·면봉 샘플을 통한 1회성...",
+          "id": "https://news.hada.io/topic?id=27927",
+          "isoDate": "2026-03-27T20:34:16.000Z"
+        },
+        {
+          "title": "인용이 많은 논문에서 허위 주장과 수정 부재, 그리고 학계의 무대응",
+          "link": "https://news.hada.io/topic?id=27926",
+          "pubDate": "2026-03-27T19:33:49.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>지속가능성 높은 기업의 성과 우위</strong>를 주장한 <em>Management Science</em> 논문이 실제와 다른 분석 방법을 사용했음에도, <strong>정정이나 제재 없이 유지</strong>되고 있음</li>\n<li>문제 제기자인 <strong>Andy King</strong>의 시정 요청에도 불구하고, 저널과 여러 대학, 연구윤리 기...</p>",
+          "contentSnippet": "지속가능성 높은 기업의 성과 우위를 주장한 Management Science 논문이 실제와 다른 분석 방법을 사용했음에도, 정정이나 제재 없이 유지되고 있음\n문제 제기자인 Andy King의 시정 요청에도 불구하고, 저널과 여러 대학, 연구윤리 기...",
+          "id": "https://news.hada.io/topic?id=27926",
+          "isoDate": "2026-03-27T19:33:49.000Z"
+        },
+        {
+          "title": "GitHub Copilot 상호작용 데이터 사용 정책 업데이트",
+          "link": "https://news.hada.io/topic?id=27925",
+          "pubDate": "2026-03-27T18:33:16.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>2026년 4월 24일부터 <strong>Copilot Free·Pro·Pro+ 사용자 데이터</strong>가 <strong>AI 모델 학습 및 개선</strong>에 활용되며, 사용자는 <strong>옵트아웃 설정</strong>으로 이를 거부할 수 있음</li>\n<li>\n<strong>Business 및 Enterprise 사용자</strong>는 이번 변경의 영향을 받지 않으며, 이전에 거...</p>",
+          "contentSnippet": "2026년 4월 24일부터 Copilot Free·Pro·Pro+ 사용자 데이터가 AI 모델 학습 및 개선에 활용되며, 사용자는 옵트아웃 설정으로 이를 거부할 수 있음\nBusiness 및 Enterprise 사용자는 이번 변경의 영향을 받지 않으며, 이전에 거...",
+          "id": "https://news.hada.io/topic?id=27925",
+          "isoDate": "2026-03-27T18:33:16.000Z"
+        },
+        {
+          "title": "LiteLLM 공급망 공격에 대한 분 단위 대응 기록",
+          "link": "https://news.hada.io/topic?id=27924",
+          "pubDate": "2026-03-27T17:37:26.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>PyPI를 통해 배포된 <strong>LiteLLM 1.82.8 악성 패키지</strong> 감염을 실시간으로 탐지하고 분석한 <strong>분 단위 대응 일지</strong>\n</li>\n<li>감염은 <strong>Cursor IDE 자동 업데이트</strong> 중 발생했으며, <code>litellm_init.pth</code> 파일이 실행되어 <strong>자격 증명 탈취와 시스템 감염...</p>",
+          "contentSnippet": "PyPI를 통해 배포된 LiteLLM 1.82.8 악성 패키지 감염을 실시간으로 탐지하고 분석한 분 단위 대응 일지\n\n감염은 Cursor IDE 자동 업데이트 중 발생했으며, litellm_init.pth 파일이 실행되어 자격 증명 탈취와 시스템 감염...",
+          "id": "https://news.hada.io/topic?id=27924",
+          "isoDate": "2026-03-27T17:37:26.000Z"
+        },
+        {
+          "title": "판사가 Anthropic을 ‘공급망 위험’으로 지정하려던 국방부 조치 차단",
+          "link": "https://news.hada.io/topic?id=27923",
+          "pubDate": "2026-03-27T17:34:26.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>캘리포니아 연방 판사가 <strong>국방부의 Anthropic ‘공급망 위험’ 지정 시도</strong>를 헌법 위반으로 판단하고 무기한 차단함</li>\n<li>판결문은 해당 조치가 <strong>표현의 자유와 적법절차를 침해</strong>했으며, 미국 기업을 적대자로 낙인찍는 것은 법적 근거가 없다고 명시</li>\n<li>이번 결정은 ...</p>",
+          "contentSnippet": "캘리포니아 연방 판사가 국방부의 Anthropic ‘공급망 위험’ 지정 시도를 헌법 위반으로 판단하고 무기한 차단함\n판결문은 해당 조치가 표현의 자유와 적법절차를 침해했으며, 미국 기업을 적대자로 낙인찍는 것은 법적 근거가 없다고 명시\n이번 결정은 ...",
+          "id": "https://news.hada.io/topic?id=27923",
+          "isoDate": "2026-03-27T17:34:26.000Z"
+        },
+        {
+          "title": "$500 GPU가 코딩 벤치마크에서 Claude Sonnet을 능가",
+          "link": "https://news.hada.io/topic?id=27922",
+          "pubDate": "2026-03-27T16:33:22.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>A.T.L.A.S (Adaptive Test-time Learning and Autonomous Specialization)</strong> 은 <strong>소비자용 GPU 한 대</strong>로 대형 모델 수준의 코드 생성 성능을 구현하는 <strong>자체 호스팅 AI 시스템</strong>\n</li>\n<li>\n<strong>LiveCodeBench v5</strong> 기준 <strong>74.6% pass@1-v(k=3)...</p>",
+          "contentSnippet": "A.T.L.A.S (Adaptive Test-time Learning and Autonomous Specialization) 은 소비자용 GPU 한 대로 대형 모델 수준의 코드 생성 성능을 구현하는 자체 호스팅 AI 시스템\n\n\nLiveCodeBench v5 기준 74.6% pass@1-v(k=3)...",
+          "id": "https://news.hada.io/topic?id=27922",
+          "isoDate": "2026-03-27T16:33:22.000Z"
+        },
+        {
           "title": "Show GN: Geas - Claude Code 멀티 에이전트 장기 작업을 위한 계약 기반 거버넌스 harness",
           "link": "https://news.hada.io/topic?id=27920",
           "pubDate": "2026-03-27T13:47:18.000Z",
@@ -435,76 +505,6 @@
           "contentSnippet": "코드 변경 사항을 분석해 실제 브라우저 기반 테스트 플랜을 자동 생성 및 실행하는 CLI\nClaude 또는 Codex를 에이전트 백엔드로 선택 가능하며, 자연어 명령으로 테스트 흐름을 지정할 수 있음\n세가지 옵션으로 테스트: changes...",
           "id": "https://news.hada.io/topic?id=27865",
           "isoDate": "2026-03-26T00:46:02.000Z"
-        },
-        {
-          "title": "Flighty Airports - 전 세계 공항의 실시간 운항 지연 현황 지도",
-          "link": "https://news.hada.io/topic?id=27864",
-          "pubDate": "2026-03-26T00:43:10.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>전 세계 주요 공항의 <strong>실시간 지연·결항 상태</strong>를 시각적으로 보여주는 대시보드형 서비스</li>\n<li>각 공항별 <strong>출발·도착 지연 시간</strong>, <strong>지연 비율</strong>, <strong>결항 및 경보 상태</strong>를 함께 표시해 운항 상황을 한눈에 파악 가능</li>\n<li>\n<strong>북미 주요...</p>",
-          "contentSnippet": "전 세계 주요 공항의 실시간 지연·결항 상태를 시각적으로 보여주는 대시보드형 서비스\n각 공항별 출발·도착 지연 시간, 지연 비율, 결항 및 경보 상태를 함께 표시해 운항 상황을 한눈에 파악 가능\n북미 주요...",
-          "id": "https://news.hada.io/topic?id=27864",
-          "isoDate": "2026-03-26T00:43:10.000Z"
-        },
-        {
-          "title": "장기 실행 애플리케이션 개발을 위한 하네스 설계",
-          "link": "https://news.hada.io/topic?id=27863",
-          "pubDate": "2026-03-26T00:41:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Anthropic이 <strong>프론트엔드 디자인 품질 향상</strong>과 <strong>장기 자율 코딩</strong>이라는 두 가지 문제를 동시에 해결하기 위해 GAN에서 영감을 받은 멀티 에이전트 구조를 개발</li>\n<li>\n<strong>생성기(generator)와 평가기(evaluator)</strong> 를 분리하는 구조로, 주관적 디자인 품질을 구체...</p>",
-          "contentSnippet": "Anthropic이 프론트엔드 디자인 품질 향상과 장기 자율 코딩이라는 두 가지 문제를 동시에 해결하기 위해 GAN에서 영감을 받은 멀티 에이전트 구조를 개발\n생성기(generator)와 평가기(evaluator) 를 분리하는 구조로, 주관적 디자인 품질을 구체...",
-          "id": "https://news.hada.io/topic?id=27863",
-          "isoDate": "2026-03-26T00:41:02.000Z"
-        },
-        {
-          "title": "EU는 여전히 개인 메시지와 사진을 스캔하려 함",
-          "link": "https://news.hada.io/topic?id=27862",
-          "pubDate": "2026-03-26T00:40:09.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Chat Control 제안</strong>은 모든 개인 디지털 통신을 자동으로 검사해 암호화된 메시지와 사진까지 감시 대상으로 포함함</li>\n<li>이 조치는 <strong>프라이버시와 데이터 보호 권리</strong>를 약화시키며, <strong>EU 시민 전체를 감시 대상</strong>으로 만드는 구조임</li>\n<li>자동 스캐너의...</p>",
-          "contentSnippet": "Chat Control 제안은 모든 개인 디지털 통신을 자동으로 검사해 암호화된 메시지와 사진까지 감시 대상으로 포함함\n이 조치는 프라이버시와 데이터 보호 권리를 약화시키며, EU 시민 전체를 감시 대상으로 만드는 구조임\n자동 스캐너의...",
-          "id": "https://news.hada.io/topic?id=27862",
-          "isoDate": "2026-03-26T00:40:09.000Z"
-        },
-        {
-          "title": "속도를 늦춰야 하는 이유",
-          "link": "https://news.hada.io/topic?id=27861",
-          "pubDate": "2026-03-26T00:37:09.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>최근 <strong>AI 코딩 에이전트</strong>의 확산으로 개발 속도는 빨라졌지만, <strong>소프트웨어 품질 저하와 불안정성</strong>이 심화되고 있음</li>\n<li>에이전트가 <strong>반복 학습 능력 없이 동일한 오류를 누적</strong>하며, 대규모 코드베이스에서는 <strong>검색 재현율 저하와 복잡성 폭증</stro...</p>",
-          "contentSnippet": "최근 AI 코딩 에이전트의 확산으로 개발 속도는 빨라졌지만, 소프트웨어 품질 저하와 불안정성이 심화되고 있음\n에이전트가 반복 학습 능력 없이 동일한 오류를 누적하며, 대규모 코드베이스에서는 검색 재현율 저하와 복잡성 폭증",
-          "id": "https://news.hada.io/topic?id=27861",
-          "isoDate": "2026-03-26T00:37:09.000Z"
-        },
-        {
-          "title": "소프트웨어 엔지니어를 위한 위험한 조언",
-          "link": "https://news.hada.io/topic?id=27860",
-          "pubDate": "2026-03-26T00:34:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>실력 있는 시니어 엔지니어에게는 유용하지만 미숙한 엔지니어에게는 해가 될 수 있는 <strong>&quot;위험한 조언(dangerous advice)&quot;</strong> 개념을 다루는 글\n<ul>\n<li>프로덕션 SQL 접근 권한 같은 것은 <strong>&quot;날카로운 도구(sharp tools)&quot;</strong> 임</li>\n</ul>\n</li>\n<li>스스로 업...</p>",
-          "contentSnippet": "실력 있는 시니어 엔지니어에게는 유용하지만 미숙한 엔지니어에게는 해가 될 수 있는 \"위험한 조언(dangerous advice)\" 개념을 다루는 글\n\n프로덕션 SQL 접근 권한 같은 것은 \"날카로운 도구(sharp tools)\" 임\n스스로 업...",
-          "id": "https://news.hada.io/topic?id=27860",
-          "isoDate": "2026-03-26T00:34:01.000Z"
-        },
-        {
-          "title": "gitagent - AI 에이전트 정의 및 관리를 위한 Git 기반 표준",
-          "link": "https://news.hada.io/topic?id=27859",
-          "pubDate": "2026-03-26T00:31:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>Git Repo를 클론</strong> 하는 것만으로 <strong>에이전트를 구성 가능</strong>하며, 버전 관리/협업/컴플라이언스 기능을 내장</li>\n<li>Claude Code, OpenAI, CrewAI, Lyzr 등 다양한 AI 프레임워크와 호환, 하나의 정의로 여러 런타임에 배포 가능</li>\n<li>\n<code>agent.yaml</code> + <code>SO...</p>",
-          "contentSnippet": "Git Repo를 클론 하는 것만으로 에이전트를 구성 가능하며, 버전 관리/협업/컴플라이언스 기능을 내장\nClaude Code, OpenAI, CrewAI, Lyzr 등 다양한 AI 프레임워크와 호환, 하나의 정의로 여러 런타임에 배포 가능\nagent.yaml + SO...",
-          "id": "https://news.hada.io/topic?id=27859",
-          "isoDate": "2026-03-26T00:31:01.000Z"
-        },
-        {
-          "title": "속도를 늦춰야 빨라진다",
-          "link": "https://news.hada.io/topic?id=27858",
-          "pubDate": "2026-03-26T00:21:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>AI 시대에 가장 반직관적인 실천은 <strong>언제 속도를 늦출지 아는 것</strong>이며, 실행이 저렴해질수록 그 앞 단계의 의사결정이 더 중요해짐</li>\n<li>Daniel Kahneman의 <strong>System 1(빠른 패턴 매칭)과 System 2(느린 분석적 사고)</strong> 프레임워크를 AI 시대 소프트웨어 개발에 적용</li>\n<li...</p>",
-          "contentSnippet": "AI 시대에 가장 반직관적인 실천은 언제 속도를 늦출지 아는 것이며, 실행이 저렴해질수록 그 앞 단계의 의사결정이 더 중요해짐\nDaniel Kahneman의 System 1(빠른 패턴 매칭)과 System 2(느린 분석적 사고) 프레임워크를 AI 시대 소프트웨어 개발에 적용",
-          "id": "https://news.hada.io/topic?id=27858",
-          "isoDate": "2026-03-26T00:21:01.000Z"
         }
       ]
     }
