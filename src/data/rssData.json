@@ -7,6 +7,26 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: AWS의 다양한 서비스를 설명하고 흐름을 보여주는 학습 웹사이트",
+          "link": "https://news.hada.io/topic?id=27913",
+          "pubDate": "2026-03-27T07:36:58.000Z",
+          "author": "zzunebye",
+          "content": "<p>개발자로서 AWS 시스템 디자인을 공부하는 중에, 각 서비스가 어떤 문제를 풀고, 서로 어떻게 연결되는지 감을 잡기 위해 LLM과 대화를 하던 중 만들게 된 학습 웹사이트입니다..</p>\n<p>현재는 36개의 AWS 서비스를 다이어그램과 함께 설명하고, 각 서비스마다 &quot;왜 필요하고, 어떻게 동작하는가&quot;, 그리고 ",
+          "contentSnippet": "개발자로서 AWS 시스템 디자인을 공부하는 중에, 각 서비스가 어떤 문제를 풀고, 서로 어떻게 연결되는지 감을 잡기 위해 LLM과 대화를 하던 중 만들게 된 학습 웹사이트입니다..\n현재는 36개의 AWS 서비스를 다이어그램과 함께 설명하고, 각 서비스마다 \"왜 필요하고, 어떻게 동작하는가\", 그리고",
+          "id": "https://news.hada.io/topic?id=27913",
+          "isoDate": "2026-03-27T07:36:58.000Z"
+        },
+        {
+          "title": "Anthropic, 차세대 모델 “Claude Mythos” 유출로 존재 확인 — “역대 가장 강력한 모델”",
+          "link": "https://news.hada.io/topic?id=27911",
+          "pubDate": "2026-03-27T06:04:05.000Z",
+          "author": "princox",
+          "content": "<p>Anthropic이 개발 중인 새 AI 모델 “Claude Mythos”의 존재가 데이터 유출로 드러났고, Anthropic이 이를 공식 인정했습니다.<br />\nFortune이 보도한 내용에 따르면, Anthropic이 사용하는 외부 CMS(콘텐츠 관리 시스템)의 설정 오류로 인해 미공개 초안 블로그 포스트를 비롯한 약 3,000여 개의 에셋이 공개 접근...</p>",
+          "contentSnippet": "Anthropic이 개발 중인 새 AI 모델 “Claude Mythos”의 존재가 데이터 유출로 드러났고, Anthropic이 이를 공식 인정했습니다.\nFortune이 보도한 내용에 따르면, Anthropic이 사용하는 외부 CMS(콘텐츠 관리 시스템)의 설정 오류로 인해 미공개 초안 블로그 포스트를 비롯한 약 3,000여 개의 에셋이 공개 접근...",
+          "id": "https://news.hada.io/topic?id=27911",
+          "isoDate": "2026-03-27T06:04:05.000Z"
+        },
+        {
           "title": "깃허브 정책 변화 / 4월 24일 이후 별도의 설정없을 경우 AI 데이터로 학습",
           "link": "https://news.hada.io/topic?id=27909",
           "pubDate": "2026-03-27T03:39:23.000Z",
@@ -485,26 +505,6 @@
           "contentSnippet": "대시캠 등 영상 파일에서 자연어로 장면을 검색해 해당 구간을 자동으로 잘라내는 의미 기반 검색 시스템\n\n\nGoogle Gemini Embedding 2 모델을 이용해 비디오 자체를 벡터로 임베딩하고, ChromaDB 에 저장해 ...",
           "id": "https://news.hada.io/topic?id=27851",
           "isoDate": "2026-03-25T19:33:09.000Z"
-        },
-        {
-          "title": "AI로 35년전 고전 게임 한글화하기",
-          "link": "https://news.hada.io/topic?id=27850",
-          "pubDate": "2026-03-25T16:41:04.000Z",
-          "author": "colus001",
-          "content": "<h3>왜 지금까지 없었을까?</h3>\n<ul>\n<li>35년전에 나온 포인트 앤 클릭 어드벤처 시리즈 키란디아의 전설 시리즈. 시리즈 중 유일하게 2편 운명의 손만 한글화 되지 않았음</li>\n<li>ScummVM 에 구현되어있는 엔진 중 Lucas 의 SCUMM 이나 Sierra 의 SCI 의 경우는 꽤 팬 한글화 된 게임이 있는데 Westwood 의 Kyra 엔...</p>",
-          "contentSnippet": "왜 지금까지 없었을까?\n35년전에 나온 포인트 앤 클릭 어드벤처 시리즈 키란디아의 전설 시리즈. 시리즈 중 유일하게 2편 운명의 손만 한글화 되지 않았음\nScummVM 에 구현되어있는 엔진 중 Lucas 의 SCUMM 이나 Sierra 의 SCI 의 경우는 꽤 팬 한글화 된 게임이 있는데 Westwood 의 Kyra 엔...",
-          "id": "https://news.hada.io/topic?id=27850",
-          "isoDate": "2026-03-25T16:41:04.000Z"
-        },
-        {
-          "title": "2026 Bio-AI 오픈소스 감사 보고서: 10개를 점검해보니, &quot;대부분은 돌아가지만 믿기 어려웠다.&quot;",
-          "link": "https://news.hada.io/topic?id=27848",
-          "pubDate": "2026-03-25T11:37:20.000Z",
-          "author": "flamehaven01",
-          "content": "<h3>전체 요지</h3>\n<ul>\n<li>이 보고서는 2026년 3월 기준, 가시성이 높은 Bio-AI 및 인접 과학 자동화 저장소 10개를 감사한 결과를 정리</li>\n<li>무작위 선정 아닌 GitHub star. 기술적 논의 빈도. 실제 생태계 노출도 기준으로 선정.</li>\n<li>감사는 2단계 방식으로 진행, 1단계는 기술적 코드 검수: Repo 구조·엔�...</p>",
-          "contentSnippet": "전체 요지\n이 보고서는 2026년 3월 기준, 가시성이 높은 Bio-AI 및 인접 과학 자동화 저장소 10개를 감사한 결과를 정리\n무작위 선정 아닌 GitHub star. 기술적 논의 빈도. 실제 생태계 노출도 기준으로 선정.\n감사는 2단계 방식으로 진행, 1단계는 기술적 코드 검수: Repo 구조·엔�...",
-          "id": "https://news.hada.io/topic?id=27848",
-          "isoDate": "2026-03-25T11:37:20.000Z"
         }
       ]
     }
