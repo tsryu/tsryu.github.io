@@ -7,6 +7,166 @@
       "priority": 1,
       "data": [
         {
+          "title": "깃허브 정책 변화 / 4월 24일 이후 별도의 설정없을 경우 AI 데이터로 학습",
+          "link": "https://news.hada.io/topic?id=27909",
+          "pubDate": "2026-03-27T03:39:23.000Z",
+          "author": "minsuchae",
+          "content": "<p>깃허브의 개인정보 정책 변화로 기본 값으로 학습의 활용으로 변화</p>\n<ul>\n<li>GitHub Copilot Free, Pro 및 Pro+에 적용</li>\n<li>GitHub와 계열사에 AI 모델을 개발, 훈련 및 개선하기 위해 입력(예: 프롬프트 및 코드 컨텍스트)과 출력(예: 제안)을 수집하고 사용할 수 있는 라이선스를 부여</li>\n<li>private r",
+          "contentSnippet": "깃허브의 개인정보 정책 변화로 기본 값으로 학습의 활용으로 변화\nGitHub Copilot Free, Pro 및 Pro+에 적용\nGitHub와 계열사에 AI 모델을 개발, 훈련 및 개선하기 위해 입력(예: 프롬프트 및 코드 컨텍스트)과 출력(예: 제안)을 수집하고 사용할 수 있는 라이선스를 부여\nprivate r",
+          "id": "https://news.hada.io/topic?id=27909",
+          "isoDate": "2026-03-27T03:39:23.000Z"
+        },
+        {
+          "title": "Show GN: 기온별 옷차림 | 오늘 뭐 입지?",
+          "link": "https://news.hada.io/topic?id=27908",
+          "pubDate": "2026-03-27T02:30:43.000Z",
+          "author": "ashbyash",
+          "content": "<p>요즘같은 환절기에 사용할만한 서비스를 만들어봤습니다.</p>\n<p>개인적으로 날씨, 온도에 예민한 편이라서 기온별로 적절한 옷차림을 추천해주는 간단한 서비스입니다.<br />\n이전에는 날씨 앱에서 기온 확인 &gt; 기온별 옷차림 구글링 &gt; 옷 고르기 이 플로우였는데요,<br />\n이 서비스를 만들고 서비스 접속 &g",
+          "contentSnippet": "요즘같은 환절기에 사용할만한 서비스를 만들어봤습니다.\n개인적으로 날씨, 온도에 예민한 편이라서 기온별로 적절한 옷차림을 추천해주는 간단한 서비스입니다.\n이전에는 날씨 앱에서 기온 확인 > 기온별 옷차림 구글링 > 옷 고르기 이 플로우였는데요,\n이 서비스를 만들고 서비스 접속 &g",
+          "id": "https://news.hada.io/topic?id=27908",
+          "isoDate": "2026-03-27T02:30:43.000Z"
+        },
+        {
+          "title": "하루에 코딩은 4시간이 한계인 이유",
+          "link": "https://news.hada.io/topic?id=27906",
+          "pubDate": "2026-03-27T01:10:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>인지심리학 연구에 따르면 인간의 <strong>딥 워크(deep work) 한계</strong>는 하루 3~4시간이며, 그 이후에는 집중력과 코드 품질이 급격히 저하됨</li>\n<li>25만 명 이상의 개발자 분석 결과, 실제 <strong>코딩 시간 중앙값은 하루 52분</strong>에 불과하며, 나머지는 회의·관리·협업에 소모</li>\n<li>한 ...</p>",
+          "contentSnippet": "인지심리학 연구에 따르면 인간의 딥 워크(deep work) 한계는 하루 3~4시간이며, 그 이후에는 집중력과 코드 품질이 급격히 저하됨\n25만 명 이상의 개발자 분석 결과, 실제 코딩 시간 중앙값은 하루 52분에 불과하며, 나머지는 회의·관리·협업에 소모\n한 ...",
+          "id": "https://news.hada.io/topic?id=27906",
+          "isoDate": "2026-03-27T01:10:01.000Z"
+        },
+        {
+          "title": "소프트웨어에 남은 길은 두 가지뿐",
+          "link": "https://news.hada.io/topic?id=27905",
+          "pubDate": "2026-03-27T01:06:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>공개 시장이 소프트웨어 섹터를 이미 재평가했으며, 소프트웨어의 <strong>터미널 밸류</strong>가 과거와 달라졌다는 신호를 보내고 있음</li>\n<li>지속 가능한 주식 가치 창출을 위한 경로는 <strong>AI 네이티브 신제품으로 매출 성장률 10%p 이상 가속</strong>하거나, <strong>SBC 포함 실질 영업이익률 4...</p>",
+          "contentSnippet": "공개 시장이 소프트웨어 섹터를 이미 재평가했으며, 소프트웨어의 터미널 밸류가 과거와 달라졌다는 신호를 보내고 있음\n지속 가능한 주식 가치 창출을 위한 경로는 AI 네이티브 신제품으로 매출 성장률 10%p 이상 가속하거나, SBC 포함 실질 영업이익률 4...",
+          "id": "https://news.hada.io/topic?id=27905",
+          "isoDate": "2026-03-27T01:06:02.000Z"
+        },
+        {
+          "title": "GitHub에서 Codeberg로 이전하기, 게으른 사람들을 위한 방법",
+          "link": "https://news.hada.io/topic?id=27904",
+          "pubDate": "2026-03-27T00:49:33.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>일부 프로젝트를 <strong>GitHub에서 Codeberg로 옮기며</strong>, 최소한의 노력으로 이전을 시작하는 방법을 정리</li>\n<li>Codeberg의 <strong>저장소 가져오기 기능</strong>을 통해 이슈·PR·릴리스까지 포함한 완전한 이전이 가능하며, <strong>UI와 워크플로가 GitHub과 유사</strong>\n</li>\n<li>\n<stron...</p>",
+          "contentSnippet": "일부 프로젝트를 GitHub에서 Codeberg로 옮기며, 최소한의 노력으로 이전을 시작하는 방법을 정리\nCodeberg의 저장소 가져오기 기능을 통해 이슈·PR·릴리스까지 포함한 완전한 이전이 가능하며, UI와 워크플로가 GitHub과 유사",
+          "id": "https://news.hada.io/topic?id=27904",
+          "isoDate": "2026-03-27T00:49:33.000Z"
+        },
+        {
+          "title": "삶을 더 편하게 만드는 Shell 트릭",
+          "link": "https://news.hada.io/topic?id=27903",
+          "pubDate": "2026-03-27T00:46:33.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>다양한 <strong>키보드 단축키와 명령 조합</strong>을 활용해 셸 환경에서 작업 속도와 효율을 높이는 방법 정리</li>\n<li>\n<strong>CTRL + W, U, K, Y</strong> 등 기본 단축키로 줄 편집, <strong>CTRL + A/E, ALT + B/F</strong>로 커서 이동, <strong>reset</strong>으로 터미널 복구 가능</li>\n<li>Bash와...</p>",
+          "contentSnippet": "다양한 키보드 단축키와 명령 조합을 활용해 셸 환경에서 작업 속도와 효율을 높이는 방법 정리\nCTRL + W, U, K, Y 등 기본 단축키로 줄 편집, CTRL + A/E, ALT + B/F로 커서 이동, reset으로 터미널 복구 가능\nBash와...",
+          "id": "https://news.hada.io/topic?id=27903",
+          "isoDate": "2026-03-27T00:46:33.000Z"
+        },
+        {
+          "title": "understudy - 시연으로 배우는 로컬 데스크톱 에이전트",
+          "link": "https://news.hada.io/topic?id=27902",
+          "pubDate": "2026-03-27T00:46:02.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>사용자가 한 번 보여주면 <strong>의도와 절차를 학습</strong>해 반복 수행하는 <strong>데스크톱 자동화 에이전트</strong>\n</li>\n<li>별도 워크플로 빌더 없이 <strong>직접 시연으로 학습</strong> 가능</li>\n<li>\n<strong>로컬 런타임</strong>에서 GUI·브라우저·쉘·파일시스템·메시징을 통합 제어</li>\n...</p>",
+          "contentSnippet": "사용자가 한 번 보여주면 의도와 절차를 학습해 반복 수행하는 데스크톱 자동화 에이전트\n\n별도 워크플로 빌더 없이 직접 시연으로 학습 가능\n로컬 런타임에서 GUI·브라우저·쉘·파일시스템·메시징을 통합 제어\n...",
+          "id": "https://news.hada.io/topic?id=27902",
+          "isoDate": "2026-03-27T00:46:02.000Z"
+        },
+        {
+          "title": "도박과 예측시장이 미국 사회에 초래할 최악의 사태는 아직 오지 않았다",
+          "link": "https://news.hada.io/topic?id=27901",
+          "pubDate": "2026-03-27T00:43:33.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>스포츠 도박과 예측시장</strong>이 급격히 성장하며, 경기 조작과 내부 정보 이용 등 <strong>현실적 부패 사례</strong>가 잇따라 발생</li>\n<li>\n<strong>Polymarket</strong> 등 플랫폼이 전쟁·재난·정치 사건까지 거래 대상으로 확장되며, <strong>정책 결정과 금전 이익의 결합</strong> 위험이...</p>",
+          "contentSnippet": "스포츠 도박과 예측시장이 급격히 성장하며, 경기 조작과 내부 정보 이용 등 현실적 부패 사례가 잇따라 발생\nPolymarket 등 플랫폼이 전쟁·재난·정치 사건까지 거래 대상으로 확장되며, 정책 결정과 금전 이익의 결합 위험이...",
+          "id": "https://news.hada.io/topic?id=27901",
+          "isoDate": "2026-03-27T00:43:33.000Z"
+        },
+        {
+          "title": "유럽의회, Chat Control 1.0 중단 결정",
+          "link": "https://news.hada.io/topic?id=27900",
+          "pubDate": "2026-03-27T00:40:33.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>유럽의회</strong>가 개인 메시지 감시 정책인 <strong>Chat Control 1.0의 중단</strong>을 결정함</li>\n<li>이에 따라 <strong>Gmail, LinkedIn, Microsoft 등 대형 기술 기업</strong>은 <strong>2026년 4월 6일부터 EU 내 개인 메시지 스캔을 중단</strong>해야 함</li>\n<li>조치는 이메일과 메신...</p>",
+          "contentSnippet": "유럽의회가 개인 메시지 감시 정책인 Chat Control 1.0의 중단을 결정함\n이에 따라 Gmail, LinkedIn, Microsoft 등 대형 기술 기업은 2026년 4월 6일부터 EU 내 개인 메시지 스캔을 중단해야 함\n조치는 이메일과 메신...",
+          "id": "https://news.hada.io/topic?id=27900",
+          "isoDate": "2026-03-27T00:40:33.000Z"
+        },
+        {
+          "title": "채팅 통제 종료: EU 의회, 대규모 감시 중단 결정",
+          "link": "https://news.hada.io/topic?id=27899",
+          "pubDate": "2026-03-27T00:37:33.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>유럽의회가 <strong>사적 메시지 감시(‘Chat Control’)</strong> 를 종식시키며 개인 간 통신의 <strong>디지털 프라이버시를 회복</strong>함</li>\n<li>단 <strong>1표 차이</strong>로 자동 이미지·텍스트 분석 조항이 부결되어 <strong>Meta·Google·Microsoft 등의 채팅 스캔이 중단</strong>됨</li>\n<li>...</p>",
+          "contentSnippet": "유럽의회가 사적 메시지 감시(‘Chat Control’) 를 종식시키며 개인 간 통신의 디지털 프라이버시를 회복함\n단 1표 차이로 자동 이미지·텍스트 분석 조항이 부결되어 Meta·Google·Microsoft 등의 채팅 스캔이 중단됨\n...",
+          "id": "https://news.hada.io/topic?id=27899",
+          "isoDate": "2026-03-27T00:37:33.000Z"
+        },
+        {
+          "title": "Upright - Playwright와 Prometheus 메트릭을 활용한 합성 모니터링 엔진",
+          "link": "https://news.hada.io/topic?id=27898",
+          "pubDate": "2026-03-27T00:31:01.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>웹 서비스의 <strong>가용성 &amp; 성능</strong>을 계속 모니터링하기 위한 프레임워크</li>\n<li>여러 지리적 위치에서 <strong>자동화된 Probe들 실행 및 Prometheus 기반 메트릭 수집</strong> 지원\n<ul>\n<li>\n<strong>Playwright Probes</strong>: 브라우저 기반 사용자 흐름 테스트 제공. 비디오 녹화 및 ...</p>",
+          "contentSnippet": "웹 서비스의 가용성 & 성능을 계속 모니터링하기 위한 프레임워크\n여러 지리적 위치에서 자동화된 Probe들 실행 및 Prometheus 기반 메트릭 수집 지원\n\n\nPlaywright Probes: 브라우저 기반 사용자 흐름 테스트 제공. 비디오 녹화 및 ...",
+          "id": "https://news.hada.io/topic?id=27898",
+          "isoDate": "2026-03-27T00:31:01.000Z"
+        },
+        {
+          "title": "온보딩은 거래(Transaction)다",
+          "link": "https://news.hada.io/topic?id=27897",
+          "pubDate": "2026-03-27T00:23:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>초기 스타트업들이 흔히 저지르는 실수는 온보딩을 최대한 짧게 줄이는 것이지만, 온보딩은 사용자의 <strong>완전한 주의력과 명확한 의도</strong>가 동시에 존재하는 드문 순간</li>\n<li>효율적인 온보딩은 단계 수를 줄이는 게 아니라, 양측 모두에게 <strong>최대한의 가치를 교환</strong>하면서 사용자의...</p>",
+          "contentSnippet": "초기 스타트업들이 흔히 저지르는 실수는 온보딩을 최대한 짧게 줄이는 것이지만, 온보딩은 사용자의 완전한 주의력과 명확한 의도가 동시에 존재하는 드문 순간\n효율적인 온보딩은 단계 수를 줄이는 게 아니라, 양측 모두에게 최대한의 가치를 교환하면서 사용자의...",
+          "id": "https://news.hada.io/topic?id=27897",
+          "isoDate": "2026-03-27T00:23:02.000Z"
+        },
+        {
+          "title": "반물질이 처음으로 트럭에 실려 운반됨",
+          "link": "https://news.hada.io/topic?id=27896",
+          "pubDate": "2026-03-26T23:33:18.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>CERN이 <strong>92개의 반양성자</strong>를 자기장으로 가둔 병에 담아 트럭으로 이동시키는 데 성공함</li>\n<li>반물질(Antimatter)은 물질과 만나면 <strong>즉시 소멸해 에너지로 변환</strong>되므로, 이번 실험은 극도로 어려운 기술적 도전이었음</li>\n<li>트럭은 CERN 부지 내에서 약 <strong>8km를 30...</p>",
+          "contentSnippet": "CERN이 92개의 반양성자를 자기장으로 가둔 병에 담아 트럭으로 이동시키는 데 성공함\n반물질(Antimatter)은 물질과 만나면 즉시 소멸해 에너지로 변환되므로, 이번 실험은 극도로 어려운 기술적 도전이었음\n트럭은 CERN 부지 내에서 약 8km를 30...",
+          "id": "https://news.hada.io/topic?id=27896",
+          "isoDate": "2026-03-26T23:33:18.000Z"
+        },
+        {
+          "title": "Meta, 아동 안전 문제로 사용자 오도 혐의에 3억7500만 달러 배상 명령",
+          "link": "https://news.hada.io/topic?id=27895",
+          "pubDate": "2026-03-26T22:37:05.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>뉴멕시코주 법원 배심원단이 Meta가 플랫폼의 <strong>아동 안전성에 대해 사용자들을 오도</strong>했다고 판단해 <strong>3억7500만 달러</strong>의 배상금을 명령</li>\n<li>배심원단은 Meta가 <strong>불공정거래법을 위반</strong>하고, 아동을 <strong>성적 노출 및 성범죄자 접촉 위험</strong>에 노출시...</p>",
+          "contentSnippet": "뉴멕시코주 법원 배심원단이 Meta가 플랫폼의 아동 안전성에 대해 사용자들을 오도했다고 판단해 3억7500만 달러의 배상금을 명령\n배심원단은 Meta가 불공정거래법을 위반하고, 아동을 성적 노출 및 성범죄자 접촉 위험에 노출시...",
+          "id": "https://news.hada.io/topic?id=27895",
+          "isoDate": "2026-03-26T22:37:05.000Z"
+        },
+        {
+          "title": "왜 그렇게 많은 제어실이 Seafoam Green(바다거품색)이었을까?",
+          "link": "https://news.hada.io/topic?id=27894",
+          "pubDate": "2026-03-26T22:34:04.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>1940년대 산업 제어실과 공장 내부에서는 <strong>시각적 피로를 줄이고 안정감을 주기 위한 목적</strong>으로 Seafoam Green 계열 색상이 널리 사용됨</li>\n<li>이 색상 체계는 <strong>색채 이론가 Faber Birren</strong>이 제안한 산업 색상 코드에서 비롯되어, DuPont과 협력해 <strong>산업 안전과 효율 ...</p>",
+          "contentSnippet": "1940년대 산업 제어실과 공장 내부에서는 시각적 피로를 줄이고 안정감을 주기 위한 목적으로 Seafoam Green 계열 색상이 널리 사용됨\n이 색상 체계는 색채 이론가 Faber Birren이 제안한 산업 색상 코드에서 비롯되어, DuPont과 협력해 산업 안전과 효율 ...",
+          "id": "https://news.hada.io/topic?id=27894",
+          "isoDate": "2026-03-26T22:34:04.000Z"
+        },
+        {
+          "title": "배심원단, Meta 플랫폼에서 발생한 아동 성착취 사건과 관련하여 메타에 책임이 있다고 판결",
+          "link": "https://news.hada.io/topic?id=27893",
+          "pubDate": "2026-03-26T21:33:21.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>뉴멕시코 주 배심원단이 <strong>Meta가 Facebook과 Instagram에서 아동을 성범죄자로부터 보호하지 못했다</strong>며 주법 위반 판결을 내림</li>\n<li>Meta는 <strong>‘불공정·기만적 상행위’ 및 ‘비양심적 행위’</strong> 로 인정되어 <strong>3억7,500만 달러 배상</strong> 명령을 받았으며, 항소 방침...</p>",
+          "contentSnippet": "뉴멕시코 주 배심원단이 Meta가 Facebook과 Instagram에서 아동을 성범죄자로부터 보호하지 못했다며 주법 위반 판결을 내림\nMeta는 ‘불공정·기만적 상행위’ 및 ‘비양심적 행위’ 로 인정되어 3억7,500만 달러 배상 명령을 받았으며, 항소 방침...",
+          "id": "https://news.hada.io/topic?id=27893",
+          "isoDate": "2026-03-26T21:33:21.000Z"
+        },
+        {
           "title": "Apple, 사용자가 직접 ‘미수정 확인’을 하지 않으면 버그 리포트를 임의로 닫는 문제",
           "link": "https://news.hada.io/topic?id=27892",
           "pubDate": "2026-03-26T19:33:20.000Z",
@@ -27,7 +187,7 @@
           "isoDate": "2026-03-26T16:38:14.000Z"
         },
         {
-          "title": "ARC-AGI-3",
+          "title": "ARC-AGI-3 - 최초의 대화형 추론 벤치마크",
           "link": "https://news.hada.io/topic?id=27890",
           "pubDate": "2026-03-26T16:35:13.000Z",
           "author": "neo",
@@ -41,8 +201,8 @@
           "link": "https://news.hada.io/topic?id=27889",
           "pubDate": "2026-03-26T14:33:28.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>팬데믹 이후 발견한 <strong>1,351장의 가족 사진</strong>을 정리하며 기억을 구조화하기 위해 <strong>MediaWiki 기반 개인 위키</strong>를 구축함</li>\n<li>위키 형식으로 <strong>사진, 인물, 사건을 연결</strong>하면서 가족사와 개인사를 기사 형태로 재구성함</li>\n<li>이후 <strong>Google Photos, 위...</p>",
-          "contentSnippet": "팬데믹 이후 발견한 1,351장의 가족 사진을 정리하며 기억을 구조화하기 위해 MediaWiki 기반 개인 위키를 구축함\n위키 형식으로 사진, 인물, 사건을 연결하면서 가족사와 개인사를 기사 형태로 재구성함\n이후 Google Photos, 위...",
+          "content": "<ul>\n<li>할머니집에서 발견한 <strong>1,351장의 가족 사진</strong>을 정리하며 기억을 구조화하기 위해 <strong>MediaWiki 기반 개인 위키</strong>를 구축</li>\n<li>위키 형식으로 <strong>사진, 인물, 사건을 연결</strong>하면서 가족사와 개인사를 기사 형태로 재구성</li>\n<li>이후 <strong>Google Photos, 위치...</p>",
+          "contentSnippet": "할머니집에서 발견한 1,351장의 가족 사진을 정리하며 기억을 구조화하기 위해 MediaWiki 기반 개인 위키를 구축\n위키 형식으로 사진, 인물, 사건을 연결하면서 가족사와 개인사를 기사 형태로 재구성\n이후 Google Photos, 위치...",
           "id": "https://news.hada.io/topic?id=27889",
           "isoDate": "2026-03-26T14:33:28.000Z"
         },
@@ -345,166 +505,6 @@
           "contentSnippet": "전체 요지\n이 보고서는 2026년 3월 기준, 가시성이 높은 Bio-AI 및 인접 과학 자동화 저장소 10개를 감사한 결과를 정리\n무작위 선정 아닌 GitHub star. 기술적 논의 빈도. 실제 생태계 노출도 기준으로 선정.\n감사는 2단계 방식으로 진행, 1단계는 기술적 코드 검수: Repo 구조·엔�...",
           "id": "https://news.hada.io/topic?id=27848",
           "isoDate": "2026-03-25T11:37:20.000Z"
-        },
-        {
-          "title": "Video.js v10 - 88% 더 작아진 오픈소스 비디오 플레이어",
-          "link": "https://news.hada.io/topic?id=27847",
-          "pubDate": "2026-03-25T11:33:17.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>16년 만에 완전히 새로 작성된 Video.js v10은 <strong>번들 크기를 88% 줄이고</strong> 현대적 개발 환경에 맞춘 구조로 재탄생</li>\n<li>\n<strong>React·TypeScript·Tailwind</strong>를 1급으로 지원하며, <strong>심미적 기본 UI</strong>와 <strong>AI 친화적 문서 구조</strong>를 제공</li>\n<li>새로운...</p>",
-          "contentSnippet": "16년 만에 완전히 새로 작성된 Video.js v10은 번들 크기를 88% 줄이고 현대적 개발 환경에 맞춘 구조로 재탄생\nReact·TypeScript·Tailwind를 1급으로 지원하며, 심미적 기본 UI와 AI 친화적 문서 구조를 제공\n새로운...",
-          "id": "https://news.hada.io/topic?id=27847",
-          "isoDate": "2026-03-25T11:33:17.000Z"
-        },
-        {
-          "title": "Show GN: AI 검색(Perplexity)에서 내 사이트가 언급되는지 확인하는 도구 만들었습니다",
-          "link": "https://news.hada.io/topic?id=27846",
-          "pubDate": "2026-03-25T09:53:57.000Z",
-          "author": "voidops",
-          "content": "<p>구글 SEO랑 다르게 AI 검색은 &quot;언급되거나 안 되거나&quot; 둘 중 하나입니다.<br />\n어떤 사이트가 인용되는지 기준도 불투명하고, 확인 방법도 마땅치 않아서 직접 만들었습니다.</p>\n<p>동작 방식:</p>\n<ul>\n<li>Claude가 브랜드/카테고리에 맞는 질문 자동 생성</li>\n<li>Perplexity API에 실제 질문을 던져",
-          "contentSnippet": "구글 SEO랑 다르게 AI 검색은 \"언급되거나 안 되거나\" 둘 중 하나입니다.\n동작 방식:\nClaude가 브랜드/카테고리에 맞는 질문 자동 생성\nPerplexity API에 실제 질문을 던져",
-          "id": "https://news.hada.io/topic?id=27846",
-          "isoDate": "2026-03-25T09:53:57.000Z"
-        },
-        {
-          "title": "Show GN: 트럼프 가라사대: 트럼프 발언 실시간 분석 및 한국 경제 영향 피드",
-          "link": "https://news.hada.io/topic?id=27845",
-          "pubDate": "2026-03-25T08:05:13.000Z",
-          "author": "kangbit",
-          "content": "<p>안녕하세요! 트럼프 전 대통령의 발언이 한국 경제와 시장에 미치는 영향을 실시간으로 분석하여 제공하는 서비스, '트럼프 가라사대(Trump-Saith)'를 만들었습니다.</p>\n<p>웹사이트: https://trump-saith.com/ (https://trump-saith.com/)<br />\n주요 기능: 트럼프 발언 실시간 수집 -&gt; LLM 한국어 요약 -&gt; 경",
-          "contentSnippet": "안녕하세요! 트럼프 전 대통령의 발언이 한국 경제와 시장에 미치는 영향을 실시간으로 분석하여 제공하는 서비스, '트럼프 가라사대(Trump-Saith)'를 만들었습니다.\n웹사이트: https://trump-saith.com/ (https://trump-saith.com/)\n주요 기능: 트럼프 발언 실시간 수집 -> LLM 한국어 요약 -> 경",
-          "id": "https://news.hada.io/topic?id=27845",
-          "isoDate": "2026-03-25T08:05:13.000Z"
-        },
-        {
-          "title": "미국 FCC, 해외 생산 소비자용 라우터 신규 모델 수입 전면 금지",
-          "link": "https://news.hada.io/topic?id=27842",
-          "pubDate": "2026-03-25T06:16:14.000Z",
-          "author": "princox",
-          "content": "<p>미국 연방통신위원회 FCC가 국가안보를 이유로 해외에서 생산된 소비자용 라우터의 신규 모델 수입과 판매를 사실상 전면 금지했다. 이번 조치는 백악관 주도의 행정부 부처 간 협의체가 해외 생산 라우터가 미국의 국가안보와 국민 안전에 용납할 수 없는 위험을 초래한다고 판단한 데 따른 것이다.</p>\n<p>FCC는 해",
-          "contentSnippet": "미국 연방통신위원회 FCC가 국가안보를 이유로 해외에서 생산된 소비자용 라우터의 신규 모델 수입과 판매를 사실상 전면 금지했다. 이번 조치는 백악관 주도의 행정부 부처 간 협의체가 해외 생산 라우터가 미국의 국가안보와 국민 안전에 용납할 수 없는 위험을 초래한다고 판단한 데 따른 것이다.\nFCC는 해",
-          "id": "https://news.hada.io/topic?id=27842",
-          "isoDate": "2026-03-25T06:16:14.000Z"
-        },
-        {
-          "title": "Show GN: make-slide – AI 코딩 에이전트용 프레젠테이션 생성 스킬 (10개 테마, PPTX 지원)",
-          "link": "https://news.hada.io/topic?id=27841",
-          "pubDate": "2026-03-25T05:20:50.000Z",
-          "author": "kuneosu",
-          "content": "<p>AI에게 발표 자료를 만들어달라고 하면 매번 다른 결과가 나옵니다.<br />\n토큰도 많이 쓰고, 디자인이 들쭉날쭉하거나 하는 문제가 있었습니다.</p>\n<p>make-slide는 이 문제를 해결하기 위해 만든 오픈소스 AI 스킬입니다.<br />\nAI가 매번 새롭게 디자인을 생성하는 대신, 미리 만들어둔 테마 레퍼런스 코드를 참고",
-          "contentSnippet": "AI에게 발표 자료를 만들어달라고 하면 매번 다른 결과가 나옵니다.\nmake-slide는 이 문제를 해결하기 위해 만든 오픈소스 AI 스킬입니다.\nAI가 매번 새롭게 디자인을 생성하는 대신, 미리 만들어둔 테마 레퍼런스 코드를 참고",
-          "id": "https://news.hada.io/topic?id=27841",
-          "isoDate": "2026-03-25T05:20:50.000Z"
-        },
-        {
-          "title": "Show GN: vscode에서 한국 주식을 확인할 수 있는 vscode extension",
-          "link": "https://news.hada.io/topic?id=27840",
-          "pubDate": "2026-03-25T03:57:30.000Z",
-          "author": "marsboy02",
-          "content": "<p>최근 주식 시장의 변동성이 커지며 관심이 많이 생겨서, 2주 전에 claude code를 통해 vscode에서 한국 주식 시장을 확인할 수 있는 extension을 만들었습니다.</p>\n<p>vscode 내에 떠있는게 신기하다고 말씀 주신 분도 계셨고, 저도 관심을 주식에 관심을 더 갖게 되어서 아이디어나 개선 방안들을 추가로 받아보고 ",
-          "contentSnippet": "최근 주식 시장의 변동성이 커지며 관심이 많이 생겨서, 2주 전에 claude code를 통해 vscode에서 한국 주식 시장을 확인할 수 있는 extension을 만들었습니다.\nvscode 내에 떠있는게 신기하다고 말씀 주신 분도 계셨고, 저도 관심을 주식에 관심을 더 갖게 되어서 아이디어나 개선 방안들을 추가로 받아보고",
-          "id": "https://news.hada.io/topic?id=27840",
-          "isoDate": "2026-03-25T03:57:30.000Z"
-        },
-        {
-          "title": "OpenAI, Sora 서비스 종료",
-          "link": "https://news.hada.io/topic?id=27839",
-          "pubDate": "2026-03-25T03:33:17.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>OpenAI의 <strong>AI 영상 생성 플랫폼 Sora</strong>가 공식 계정을 통해 <strong>앱과 API 종료</strong>를 발표하며 서비스 중단 예고</li>\n<li>종료 사유와 구체적 일정은 공개되지 않았으며, <strong>사용자 작업물 보존 방법은 추후 안내 예정</strong>\n</li>\n<li>커뮤니티에서는 <strong>실망과 비판, 냉...</p>",
-          "contentSnippet": "OpenAI의 AI 영상 생성 플랫폼 Sora가 공식 계정을 통해 앱과 API 종료를 발표하며 서비스 중단 예고\n종료 사유와 구체적 일정은 공개되지 않았으며, 사용자 작업물 보존 방법은 추후 안내 예정\n\n커뮤니티에서는 실망과 비판, 냉...",
-          "id": "https://news.hada.io/topic?id=27839",
-          "isoDate": "2026-03-25T03:33:17.000Z"
-        },
-        {
-          "title": "Cloudflare Dynamic Worker Loader - 더 빠른 AI 에이전트 샌드박스",
-          "link": "https://news.hada.io/topic?id=27838",
-          "pubDate": "2026-03-25T03:25:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>AI 에이전트의 코드 실행을 위한 경량 샌드박스, 컨테이너 대비 <strong>100배 빠른 기동 속도</strong>와 10~100배 높은 메모리 효율 제공</li>\n<li>V8 JavaScript 엔진의 <strong>isolate 기술</strong> 기반으로, 수 밀리초 내 시작되며 수 메가바이트만 사용하므로 요청마다 새 샌드박스를 생성하고 폐기하...</p>",
-          "contentSnippet": "AI 에이전트의 코드 실행을 위한 경량 샌드박스, 컨테이너 대비 100배 빠른 기동 속도와 10~100배 높은 메모리 효율 제공\nV8 JavaScript 엔진의 isolate 기술 기반으로, 수 밀리초 내 시작되며 수 메가바이트만 사용하므로 요청마다 새 샌드박스를 생성하고 폐기하...",
-          "id": "https://news.hada.io/topic?id=27838",
-          "isoDate": "2026-03-25T03:25:02.000Z"
-        },
-        {
-          "title": "Ziptable — 소규모 데이터셋을 링크 하나로 공유하는 도구",
-          "link": "https://news.hada.io/topic?id=27837",
-          "pubDate": "2026-03-25T03:13:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>CSV나 JSON 파일을 <strong>URL 자체에 압축·인코딩</strong>하여 서버 업로드나 계정 없이 브라우저만으로 데이터를 공유할 수 있는 웹 도구</li>\n<li>데이터는 URL의 <strong>프래그먼트(# 이후 부분)</strong> 에 저장되며, 브라우저가 이 부분을 서버로 전송하지 않아 <strong>서버는 데이터를 수신하지 않...</p>",
-          "contentSnippet": "CSV나 JSON 파일을 URL 자체에 압축·인코딩하여 서버 업로드나 계정 없이 브라우저만으로 데이터를 공유할 수 있는 웹 도구\n데이터는 URL의 프래그먼트(# 이후 부분) 에 저장되며, 브라우저가 이 부분을 서버로 전송하지 않아 서버는 데이터를 수신하지 않...",
-          "id": "https://news.hada.io/topic?id=27837",
-          "isoDate": "2026-03-25T03:13:01.000Z"
-        },
-        {
-          "title": "TypeScript 6.0 발표",
-          "link": "https://news.hada.io/topic?id=27836",
-          "pubDate": "2026-03-25T03:11:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>JavaScript 기반 현재 코드베이스의 <strong>마지막 릴리스</strong>이자, Go로 작성된 네이티브 포트인 TypeScript 7.0으로의 전환을 준비하는 <strong>브릿지 릴리스</strong>\n</li>\n<li>\n<code>this</code>를 사용하지 않는 함수의 <strong>컨텍스트 민감도 완화</strong>, <code>#/</code>로 시작하는 <str...</p>",
-          "contentSnippet": "JavaScript 기반 현재 코드베이스의 마지막 릴리스이자, Go로 작성된 네이티브 포트인 TypeScript 7.0으로의 전환을 준비하는 브릿지 릴리스\n\n\nthis를 사용하지 않는 함수의 컨텍스트 민감도 완화, #/로 시작하는",
-          "id": "https://news.hada.io/topic?id=27836",
-          "isoDate": "2026-03-25T03:11:02.000Z"
-        },
-        {
-          "title": "Hypura – 애플 실리콘용 저장 계층 인식 LLM 추론 스케줄러",
-          "link": "https://news.hada.io/topic?id=27835",
-          "pubDate": "2026-03-25T02:59:10.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>GPU·RAM·NVMe 간 텐서 배치를 최적화</strong>해 대형 언어 모델을 실행하는 <strong>저장 계층 인식형 추론 스케줄러</strong>\n</li>\n<li>32GB 맥 미니에서 <strong>Mixtral 8x7B(31GB)</strong> 모델을 2.2 tok/s, <strong>Llama 70B(40GB)</strong> 모델을 0.3 tok/s 속도로 실행 가능</li>\n<li>접...</p>",
-          "contentSnippet": "GPU·RAM·NVMe 간 텐서 배치를 최적화해 대형 언어 모델을 실행하는 저장 계층 인식형 추론 스케줄러\n\n32GB 맥 미니에서 Mixtral 8x7B(31GB) 모델을 2.2 tok/s, Llama 70B(40GB) 모델을 0.3 tok/s 속도로 실행 가능\n접...",
-          "id": "https://news.hada.io/topic?id=27835",
-          "isoDate": "2026-03-25T02:59:10.000Z"
-        },
-        {
-          "title": "그래서, AI 앱들은 다 어디에 있나요?",
-          "link": "https://news.hada.io/topic?id=27834",
-          "pubDate": "2026-03-25T02:49:33.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>AI 코딩 도구가 생산성을 크게 높였다는 주장과 달리, <strong>새로운 소프트웨어의 폭발적 증가 현상은 관찰되지 않음</strong>\n</li>\n<li>PyPI 데이터를 분석한 결과, <strong>ChatGPT 이후에도 전체 패키지 생성 속도는 변화 없음</strong>\n</li>\n<li>\n<strong>AI 관련 인기 패키지</strong>에서만 업데이트...</p>",
-          "contentSnippet": "AI 코딩 도구가 생산성을 크게 높였다는 주장과 달리, 새로운 소프트웨어의 폭발적 증가 현상은 관찰되지 않음\n\nPyPI 데이터를 분석한 결과, ChatGPT 이후에도 전체 패키지 생성 속도는 변화 없음\n\n\nAI 관련 인기 패키지에서만 업데이트...",
-          "id": "https://news.hada.io/topic?id=27834",
-          "isoDate": "2026-03-25T02:49:33.000Z"
-        },
-        {
-          "title": "GPT-5.4 Pro가 하이퍼그래프의 Ramsey형 수학 난제 해결",
-          "link": "https://news.hada.io/topic?id=27833",
-          "pubDate": "2026-03-25T02:33:05.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>GPT-5.4 Pro</strong>가 <strong>Kevin Barreto</strong>와 <strong>Liam Price</strong>의 협업을 통해 하이퍼그래프 관련 <strong>Ramsey형 문제</strong>를 해결함</li>\n<li>문제 제안자 <strong>Will Brian</strong>이 해법의 정확성을 검증했으며, 전체 대화 기록과 <strong>AI의 최종 해설 문서...</p>",
-          "contentSnippet": "GPT-5.4 Pro가 Kevin Barreto와 Liam Price의 협업을 통해 하이퍼그래프 관련 Ramsey형 문제를 해결함\n문제 제안자 Will Brian이 해법의 정확성을 검증했으며, 전체 대화 기록과 AI의 최종 해설 문서...",
-          "id": "https://news.hada.io/topic?id=27833",
-          "isoDate": "2026-03-25T02:33:05.000Z"
-        },
-        {
-          "title": "Claude Code Auto Mode 공개 - 권한 결정을 자동화하는 새로운 퍼미션 모드",
-          "link": "https://news.hada.io/topic?id=27831",
-          "pubDate": "2026-03-25T01:45:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>모든 파일 쓰기와 bash 명령마다 사용자 승인을 받던 기존 방식 대신 분류기(classifier)가 안전 여부를 판단해 자동 진행하는 중간 경로 제공</li>\n<li>\n<code>--dangerously-skip-permissions</code>보다 위험을 줄이지만 완전히 제거하지는 못하며, <strong>격리된 환경</strong>에서의 사용을 계속 권장</l...</p>",
-          "contentSnippet": "모든 파일 쓰기와 bash 명령마다 사용자 승인을 받던 기존 방식 대신 분류기(classifier)가 안전 여부를 판단해 자동 진행하는 중간 경로 제공\n--dangerously-skip-permissions보다 위험을 줄이지만 완전히 제거하지는 못하며, 격리된 환경에서의 사용을 계속 권장",
-          "id": "https://news.hada.io/topic?id=27831",
-          "isoDate": "2026-03-25T01:45:02.000Z"
-        },
-        {
-          "title": "Claude Code로 20년 전 상용 게임을 거의 고치지 않고 브라우저로 이식하기까지",
-          "link": "https://news.hada.io/topic?id=27829",
-          "pubDate": "2026-03-25T01:22:48.000Z",
-          "author": "gamjaa",
-          "content": "<ul>\n<li>2003년 Windows 전용 TPS 게임 <strong>GunZ: The Duel</strong>을<br />\n→ <strong>WebAssembly + WebGL 기반으로 브라우저에서 실행 가능하게 포팅</strong>\n</li>\n<li>설치 없이 <strong>크롬에서 URL만 열면 바로 플레이 가능</strong> <a href=\"https://gunz.sigr.io/\">https://gunz.sigr.io/</a>\n</li>\n...</p>",
-          "contentSnippet": "2003년 Windows 전용 TPS 게임 GunZ: The Duel을\nWebAssembly + WebGL 기반으로 브라우저에서 실행 가능하게 포팅\n\n설치 없이 크롬에서 URL만 열면 바로 플레이 가능 https://gunz.sigr.io/\n\n...",
-          "id": "https://news.hada.io/topic?id=27829",
-          "isoDate": "2026-03-25T01:22:48.000Z"
-        },
-        {
-          "title": "트럼프 게시 직전 석유 거래 급증, 내부자 거래 의혹 제기",
-          "link": "https://news.hada.io/topic?id=27828",
-          "pubDate": "2026-03-25T00:49:23.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>트럼프가 <strong>이란 공격 연기 발표</strong>를 하기 약 15분 전, <strong>수억 달러 규모의 석유 선물 거래량</strong>이 급증함</li>\n<li>발표 직후 <strong>유가가 14% 급락</strong>하며, 하락에 베팅한 거래자들이 큰 이익을 얻음</li>\n<li>거래 시점과 규모가 비정상적으로 집중돼 <strong>사전 정보 ...</p>",
-          "contentSnippet": "트럼프가 이란 공격 연기 발표를 하기 약 15분 전, 수억 달러 규모의 석유 선물 거래량이 급증함\n발표 직후 유가가 14% 급락하며, 하락에 베팅한 거래자들이 큰 이익을 얻음\n거래 시점과 규모가 비정상적으로 집중돼 사전 정보 ...",
-          "id": "https://news.hada.io/topic?id=27828",
-          "isoDate": "2026-03-25T00:49:23.000Z"
         }
       ]
     }
