@@ -7,6 +7,56 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: Geas - Claude Code 멀티 에이전트 장기 작업을 위한 계약 기반 거버넌스 harness",
+          "link": "https://news.hada.io/topic?id=27920",
+          "pubDate": "2026-03-27T13:47:18.000Z",
+          "author": "choam2426",
+          "content": "<p>▎ AI 에이전트 여러 개가 동시에 코드를 작성할 때의 문제: 누가 무슨 결정을 했는지 모르고, 결과물이 요구사항을<br />\n충족하는지 확인할 수 없고, 배운 것이 다음 세션에서 사라집니다.</p>\n<p>▎ - 모든 태스크에 검증 가능한 수락 기준이 있는 TaskContract 부여<br />\n▎ - 3단계 Evidence Gate: 코드 실행 →",
+          "contentSnippet": "▎ AI 에이전트 여러 개가 동시에 코드를 작성할 때의 문제: 누가 무슨 결정을 했는지 모르고, 결과물이 요구사항을\n▎ - 모든 태스크에 검증 가능한 수락 기준이 있는 TaskContract 부여\n▎ - 3단계 Evidence Gate: 코드 실행 →",
+          "id": "https://news.hada.io/topic?id=27920",
+          "isoDate": "2026-03-27T13:47:18.000Z"
+        },
+        {
+          "title": "Apple, Mac Pro 단종 발표",
+          "link": "https://news.hada.io/topic?id=27919",
+          "pubDate": "2026-03-27T13:33:07.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Apple이 Mac Pro 생산을 중단</strong>하고 향후 새로운 하드웨어 계획이 없음을 확인함</li>\n<li>Mac Pro 페이지가 <strong>공식 웹사이트에서 삭제</strong>되며, 제품군의 종료가 명확히 드러남</li>\n<li>\n<strong>Mac Studio가 프로용 데스크톱의 중심</strong>으로 전환되며, M3 Ultra 칩 기반의...</p>",
+          "contentSnippet": "Apple이 Mac Pro 생산을 중단하고 향후 새로운 하드웨어 계획이 없음을 확인함\nMac Pro 페이지가 공식 웹사이트에서 삭제되며, 제품군의 종료가 명확히 드러남\nMac Studio가 프로용 데스크톱의 중심으로 전환되며, M3 Ultra 칩 기반의...",
+          "id": "https://news.hada.io/topic?id=27919",
+          "isoDate": "2026-03-27T13:33:07.000Z"
+        },
+        {
+          "title": "SaaS 는 죽지 않았다",
+          "link": "https://news.hada.io/topic?id=27918",
+          "pubDate": "2026-03-27T11:48:02.000Z",
+          "author": "flowkater",
+          "content": "<h3>1. SaaS가 죽었다는 주장의 배경</h3>\n<ul>\n<li>최근 Claude Code, Copilot, Codex 같은 AI 코딩 도구가 빠르게 발전하면서, “이제 소프트웨어는 프롬프트 몇 줄이면 만들 수 있으니 SaaS는 끝난 것 아니냐”는 주장이 힘을 얻고 있음.</li>\n<li>실제로 리드 호프만은, Claude Code 관련 트윗 하나가 SaaS 주가를 5...</p>",
+          "contentSnippet": "1. SaaS가 죽었다는 주장의 배경\n최근 Claude Code, Copilot, Codex 같은 AI 코딩 도구가 빠르게 발전하면서, “이제 소프트웨어는 프롬프트 몇 줄이면 만들 수 있으니 SaaS는 끝난 것 아니냐”는 주장이 힘을 얻고 있음.\n실제로 리드 호프만은, Claude Code 관련 트윗 하나가 SaaS 주가를 5...",
+          "id": "https://news.hada.io/topic?id=27918",
+          "isoDate": "2026-03-27T11:48:02.000Z"
+        },
+        {
+          "title": "Show GN: MemAware – AI 에이전트가 &quot;내가 뭘 알고 있는지&quot;를 아는지 측정하는 벤치마크",
+          "link": "https://news.hada.io/topic?id=27917",
+          "pubDate": "2026-03-27T11:32:35.000Z",
+          "author": "0xvinsohn",
+          "content": "<p>AI 에이전트 메모리 시스템을 만들면서 기존 벤치마크들의 공통적인 한계를 발견했습니다.</p>\n<p>LoCoMo, LongMemEval, MemoryAgentBench 등 기존 메모리 벤치마크는 전부 같은 걸 테스트합니다: &quot;과거 대화에서 답을 찾을 수 있는가?&quot; 이건 검색 엔진 성능 테스트이지, 메모리 시스템 테스트가 아닙니다.",
+          "contentSnippet": "AI 에이전트 메모리 시스템을 만들면서 기존 벤치마크들의 공통적인 한계를 발견했습니다.\nLoCoMo, LongMemEval, MemoryAgentBench 등 기존 메모리 벤치마크는 전부 같은 걸 테스트합니다: \"과거 대화에서 답을 찾을 수 있는가?\" 이건 검색 엔진 성능 테스트이지, 메모리 시스템 테스트가 아닙니다.",
+          "id": "https://news.hada.io/topic?id=27917",
+          "isoDate": "2026-03-27T11:32:35.000Z"
+        },
+        {
+          "title": "Show GN: RDP용 macOS 네이티브 원격 서버",
+          "link": "https://news.hada.io/topic?id=27916",
+          "pubDate": "2026-03-27T11:11:03.000Z",
+          "author": "bckim",
+          "content": "<p>안녕하세요!</p>\n<p>저번 윈도우즈용 스크린샷 앱에 이어 이전엔 맥용 앱을 만들었습니다</p>\n<p>MS-RDP 프로토콜을 이용하여 macOS에 원격 접속을 가능하게 해두는 서버앱닙니다</p>\n<ul>\n<li>MSRDP 스펙문서 기반</li>\n<li>비트맵, H.264 스트리밍 전송 지원</li>\n<li>클립보드 및 리소스 공ㅇ</li>\n<li>macOS 사용",
+          "contentSnippet": "안녕하세요!\n저번 윈도우즈용 스크린샷 앱에 이어 이전엔 맥용 앱을 만들었습니다\nMS-RDP 프로토콜을 이용하여 macOS에 원격 접속을 가능하게 해두는 서버앱닙니다\nMSRDP 스펙문서 기반\n비트맵, H.264 스트리밍 전송 지원\n클립보드 및 리소스 공ㅇ\nmacOS 사용",
+          "id": "https://news.hada.io/topic?id=27916",
+          "isoDate": "2026-03-27T11:11:03.000Z"
+        },
+        {
           "title": "Show GN: AWS의 다양한 서비스를 설명하고 흐름을 보여주는 학습 웹사이트",
           "link": "https://news.hada.io/topic?id=27913",
           "pubDate": "2026-03-27T07:36:58.000Z",
@@ -455,56 +505,6 @@
           "contentSnippet": "AI 시대에 가장 반직관적인 실천은 언제 속도를 늦출지 아는 것이며, 실행이 저렴해질수록 그 앞 단계의 의사결정이 더 중요해짐\nDaniel Kahneman의 System 1(빠른 패턴 매칭)과 System 2(느린 분석적 사고) 프레임워크를 AI 시대 소프트웨어 개발에 적용",
           "id": "https://news.hada.io/topic?id=27858",
           "isoDate": "2026-03-26T00:21:01.000Z"
-        },
-        {
-          "title": "cq - 에이전트를 위한 Stack Overflow",
-          "link": "https://news.hada.io/topic?id=27855",
-          "pubDate": "2026-03-25T23:53:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Mozilla AI가 공개한 <strong>cq</strong>는 AI 코딩 에이전트들이 학습한 지식을 공유하고, 동일한 실수를 반복하지 않도록 설계된 <strong>공유 지식 커먼즈(shared commons)</strong> 프로젝트</li>\n<li>Stack Overflow가 2014년 월 20만 건 이상의 질문에서 2025년 12월 <strong>3,862건으로 급감</strong>...</p>",
-          "contentSnippet": "Mozilla AI가 공개한 cq는 AI 코딩 에이전트들이 학습한 지식을 공유하고, 동일한 실수를 반복하지 않도록 설계된 공유 지식 커먼즈(shared commons) 프로젝트\nStack Overflow가 2014년 월 20만 건 이상의 질문에서 2025년 12월 3,862건으로 급감...",
-          "id": "https://news.hada.io/topic?id=27855",
-          "isoDate": "2026-03-25T23:53:02.000Z"
-        },
-        {
-          "title": "라과디아 공항 조종사들, 치명적 활주로 충돌 전 수개월간 안전 경고",
-          "link": "https://news.hada.io/topic?id=27854",
-          "pubDate": "2026-03-25T23:33:19.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>라과디아 공항에서 발생한 <strong>활주로 충돌 사고</strong> 이전, 조종사들이 <strong>관제 지시 오류·시야 불량·교통 혼잡</strong> 등 반복적 위험을 NASA 보고서에 제기함</li>\n<li>\n<strong>Aviation Safety Reporting System</strong>에는 착륙기와 이륙기가 <strong>300피트 거리까지 접근</strong>한...</p>",
-          "contentSnippet": "라과디아 공항에서 발생한 활주로 충돌 사고 이전, 조종사들이 관제 지시 오류·시야 불량·교통 혼잡 등 반복적 위험을 NASA 보고서에 제기함\nAviation Safety Reporting System에는 착륙기와 이륙기가 300피트 거리까지 접근한...",
-          "id": "https://news.hada.io/topic?id=27854",
-          "isoDate": "2026-03-25T23:33:19.000Z"
-        },
-        {
-          "title": "Arm AGI CPU 발표 - 에이전트형 AI 클라우드 시대를 위한 실리콘 기반",
-          "link": "https://news.hada.io/topic?id=27853",
-          "pubDate": "2026-03-25T22:33:26.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Arm이 <strong>Neoverse 플랫폼 기반의 AGI CPU</strong>를 공개하며, 자율적 AI 인프라를 위한 생산 준비형 실리콘을 직접 제공</li>\n<li>이 CPU는 <strong>고밀도 랙 환경에서의 병렬 AI 워크로드</strong>를 위해 최적화되어, 지속 부하에서도 높은 단일 스레드 성능과 메모리 대역폭을 유지</li>\n<li>\n<str...</p>",
-          "contentSnippet": "Arm이 Neoverse 플랫폼 기반의 AGI CPU를 공개하며, 자율적 AI 인프라를 위한 생산 준비형 실리콘을 직접 제공\n이 CPU는 고밀도 랙 환경에서의 병렬 AI 워크로드를 위해 최적화되어, 지속 부하에서도 높은 단일 스레드 성능과 메모리 대역폭을 유지",
-          "id": "https://news.hada.io/topic?id=27853",
-          "isoDate": "2026-03-25T22:33:26.000Z"
-        },
-        {
-          "title": "해충 방제용 Vertical SaaS를 만들고 싶어 기술자로 취업했다",
-          "link": "https://news.hada.io/topic?id=27852",
-          "pubDate": "2026-03-25T20:33:15.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>전통 산업 기업들이 외부 컨설팅보다 <strong>자체 솔루션 구축</strong>에 집중하는 현실을 보고, 사무직을 떠나 <strong>현장 직종으로 복귀</strong>함</li>\n<li>해충 방제 산업이 <strong>반복 수익 구조와 분산된 시장</strong>, <strong>규제 기반의 안정성</strong>을 가진다는 점에 매력을 느껴 직접 지...</p>",
-          "contentSnippet": "전통 산업 기업들이 외부 컨설팅보다 자체 솔루션 구축에 집중하는 현실을 보고, 사무직을 떠나 현장 직종으로 복귀함\n해충 방제 산업이 반복 수익 구조와 분산된 시장, 규제 기반의 안정성을 가진다는 점에 매력을 느껴 직접 지...",
-          "id": "https://news.hada.io/topic?id=27852",
-          "isoDate": "2026-03-25T20:33:15.000Z"
-        },
-        {
-          "title": "Gemini의 비디오 임베딩 기능을 활용한 초단위 이하 의미 기반 영상 검색 도구 SentrySearch",
-          "link": "https://news.hada.io/topic?id=27851",
-          "pubDate": "2026-03-25T19:33:09.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>대시캠 등 영상 파일에서 자연어로 장면을 검색</strong>해 해당 구간을 자동으로 잘라내는 <strong>의미 기반 검색 시스템</strong>\n</li>\n<li>\n<strong>Google Gemini Embedding 2</strong> 모델을 이용해 <strong>비디오 자체를 벡터로 임베딩</strong>하고, <strong>ChromaDB</strong> 에 저장해 ...</p>",
-          "contentSnippet": "대시캠 등 영상 파일에서 자연어로 장면을 검색해 해당 구간을 자동으로 잘라내는 의미 기반 검색 시스템\n\n\nGoogle Gemini Embedding 2 모델을 이용해 비디오 자체를 벡터로 임베딩하고, ChromaDB 에 저장해 ...",
-          "id": "https://news.hada.io/topic?id=27851",
-          "isoDate": "2026-03-25T19:33:09.000Z"
         }
       ]
     }
