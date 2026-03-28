@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "이란 학교 폭격의 책임을 AI에 돌린 사건, 더 근본적인 문제",
+          "link": "https://news.hada.io/topic?id=27954",
+          "pubDate": "2026-03-28T14:33:25.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>2026년 2월 미군이 <strong>이란 미나브 초등학교를 폭격</strong>해 175명 이상이 사망했으며, 초기에는 <strong>Anthropic의 Claude가 표적을 선택했다는 오보</strong>가 확산됨</li>\n<li>실제 표적 결정은 <strong>Palantir의 Maven 시스템</strong>이 수행했으며, <strong>오래된 군사 데이터 갱신 실패...</p>",
+          "contentSnippet": "2026년 2월 미군이 이란 미나브 초등학교를 폭격해 175명 이상이 사망했으며, 초기에는 Anthropic의 Claude가 표적을 선택했다는 오보가 확산됨\n실제 표적 결정은 Palantir의 Maven 시스템이 수행했으며, 오래된 군사 데이터 갱신 실패...",
+          "id": "https://news.hada.io/topic?id=27954",
+          "isoDate": "2026-03-28T14:33:25.000Z"
+        },
+        {
+          "title": "Show GN: 접근성 떨어지는 KOCW 같은 국내 강의들을 YouTube로 옮기고 있습니다",
+          "link": "https://news.hada.io/topic?id=27953",
+          "pubDate": "2026-03-28T14:06:44.000Z",
+          "author": "kwansa",
+          "content": "<p>KOCW에 있는 한국 대학 공개강의들을 비롯해 여러 강의를 YouTube에 올리는 프로젝트를 시작했습니다</p>\n<p>목표는 접근성이 떨어지면서 재업로드해도 저작권 문제가 없는 국내 강의들을 아카이브하려고 합니다.<br />\nKOCW 웹사이트에는 훌륭한 강의로 가득하지만, HTTPS를 미지원하며 모바일 환경 접속이 비교적 불",
+          "contentSnippet": "KOCW에 있는 한국 대학 공개강의들을 비롯해 여러 강의를 YouTube에 올리는 프로젝트를 시작했습니다\n목표는 접근성이 떨어지면서 재업로드해도 저작권 문제가 없는 국내 강의들을 아카이브하려고 합니다.\nKOCW 웹사이트에는 훌륭한 강의로 가득하지만, HTTPS를 미지원하며 모바일 환경 접속이 비교적 불",
+          "id": "https://news.hada.io/topic?id=27953",
+          "isoDate": "2026-03-28T14:06:44.000Z"
+        },
+        {
+          "title": "바보야, 문제는 경계야",
+          "link": "https://news.hada.io/topic?id=27952",
+          "pubDate": "2026-03-28T12:59:12.000Z",
+          "author": "kciter1",
+          "content": "<ul>\n<li>소프트웨어 개발의 핵심 난제들은 대부분 코드 내부가 아니라 코드와 코드, 시스템과 시스템이 <strong>만나는 경계(Boundary)</strong> 에서 발생한다는 주장</li>\n<li>경계 = 서로 다른 관심사·책임·맥락이 만나는 지점</li>\n<li>함수 분리, 모듈화, 마이크로서비스 등 개발의 거의 모든 행위가 경계를 만드는...</p>",
+          "contentSnippet": "소프트웨어 개발의 핵심 난제들은 대부분 코드 내부가 아니라 코드와 코드, 시스템과 시스템이 만나는 경계(Boundary) 에서 발생한다는 주장\n경계 = 서로 다른 관심사·책임·맥락이 만나는 지점\n함수 분리, 모듈화, 마이크로서비스 등 개발의 거의 모든 행위가 경계를 만드는...",
+          "id": "https://news.hada.io/topic?id=27952",
+          "isoDate": "2026-03-28T12:59:12.000Z"
+        },
+        {
           "title": "Show GN: messagetolink — 서버에 아무것도 남지 않는 Markdown 메시지 공유 도구",
           "link": "https://news.hada.io/topic?id=27949",
           "pubDate": "2026-03-28T07:49:55.000Z",
@@ -25,16 +55,6 @@
           "contentSnippet": "MacOS 26에서는 창 모서리의 불일치와 과도한 둥근 디자인이 주요 문제로 지적됨\n일부 사용자는 System Integrity Protection(SIP) 을 비활성화해 시스템 루트 접근 후 수정 작업을 수행함\n작성자는 기존 해킹 코드를 수정해 모든 창의 모서리를 ...",
           "id": "https://news.hada.io/topic?id=27948",
           "isoDate": "2026-03-28T07:33:09.000Z"
-        },
-        {
-          "title": "Show GN: Ghostmeet - 셀프호스팅 AI 미팅 비서  (실시간 자막 + 요약, Chrome 확장)",
-          "link": "https://news.hada.io/topic?id=27947",
-          "pubDate": "2026-03-28T06:36:39.000Z",
-          "author": "swq115",
-          "content": "<p>미팅 중 실시간 자막과 AI 요약이 필요한데,<br />\n오디오 데이터를 외부 서버로 보내고 싶지 않아서<br />\n만들었습니다.</p>\n<p>ghostmeet은 Chrome 사이드 패널로 동작하며,<br />\nGoogle Meet, Zoom, Teams 등 브라우저 미팅에서<br />\n조용히 실행됩니다.<br />\n다른 참가자에게 보이지 않습니다. 👻</p>\n<p>주요",
-          "contentSnippet": "미팅 중 실시간 자막과 AI 요약이 필요한데,\nghostmeet은 Chrome 사이드 패널로 동작하며,\n주요",
-          "id": "https://news.hada.io/topic?id=27947",
-          "isoDate": "2026-03-28T06:36:39.000Z"
         },
         {
           "title": "Show GN: 31개의 LLM을 교차검증 체계로 엮은 100% 자율 주식 매매 시스템",
@@ -485,26 +505,6 @@
           "contentSnippet": "뉴멕시코주 법원 배심원단이 Meta가 플랫폼의 아동 안전성에 대해 사용자들을 오도했다고 판단해 3억7500만 달러의 배상금을 명령\n배심원단은 Meta가 불공정거래법을 위반하고, 아동을 성적 노출 및 성범죄자 접촉 위험에 노출시...",
           "id": "https://news.hada.io/topic?id=27895",
           "isoDate": "2026-03-26T22:37:05.000Z"
-        },
-        {
-          "title": "왜 그렇게 많은 제어실이 Seafoam Green(바다거품색)이었을까?",
-          "link": "https://news.hada.io/topic?id=27894",
-          "pubDate": "2026-03-26T22:34:04.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>1940년대 산업 제어실과 공장 내부에서는 <strong>시각적 피로를 줄이고 안정감을 주기 위한 목적</strong>으로 Seafoam Green 계열 색상이 널리 사용됨</li>\n<li>이 색상 체계는 <strong>색채 이론가 Faber Birren</strong>이 제안한 산업 색상 코드에서 비롯되어, DuPont과 협력해 <strong>산업 안전과 효율 ...</p>",
-          "contentSnippet": "1940년대 산업 제어실과 공장 내부에서는 시각적 피로를 줄이고 안정감을 주기 위한 목적으로 Seafoam Green 계열 색상이 널리 사용됨\n이 색상 체계는 색채 이론가 Faber Birren이 제안한 산업 색상 코드에서 비롯되어, DuPont과 협력해 산업 안전과 효율 ...",
-          "id": "https://news.hada.io/topic?id=27894",
-          "isoDate": "2026-03-26T22:34:04.000Z"
-        },
-        {
-          "title": "배심원단, Meta 플랫폼에서 발생한 아동 성착취 사건과 관련하여 메타에 책임이 있다고 판결",
-          "link": "https://news.hada.io/topic?id=27893",
-          "pubDate": "2026-03-26T21:33:21.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>뉴멕시코 주 배심원단이 <strong>Meta가 Facebook과 Instagram에서 아동을 성범죄자로부터 보호하지 못했다</strong>며 주법 위반 판결을 내림</li>\n<li>Meta는 <strong>‘불공정·기만적 상행위’ 및 ‘비양심적 행위’</strong> 로 인정되어 <strong>3억7,500만 달러 배상</strong> 명령을 받았으며, 항소 방침...</p>",
-          "contentSnippet": "뉴멕시코 주 배심원단이 Meta가 Facebook과 Instagram에서 아동을 성범죄자로부터 보호하지 못했다며 주법 위반 판결을 내림\nMeta는 ‘불공정·기만적 상행위’ 및 ‘비양심적 행위’ 로 인정되어 3억7,500만 달러 배상 명령을 받았으며, 항소 방침...",
-          "id": "https://news.hada.io/topic?id=27893",
-          "isoDate": "2026-03-26T21:33:21.000Z"
         }
       ]
     }
