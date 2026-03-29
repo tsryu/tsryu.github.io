@@ -7,6 +7,56 @@
       "priority": 1,
       "data": [
         {
+          "title": "미 법무부, FBI 국장 카쉬 파텔의 개인 이메일 해킹 확인",
+          "link": "https://news.hada.io/topic?id=27986",
+          "pubDate": "2026-03-29T20:45:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>미 법무부(DOJ)</strong> 가 <strong>FBI 국장 카쉬 파텔</strong>의 개인 이메일 계정이 해킹 피해를 입은 사실을 공식 확인</li>\n<li>해킹의 <strong>규모와 침해된 정보의 세부 내용</strong>은 아직 공개되지 않음</li>\n<li>이번 사건은 <strong>개인 이메일 사용으로 인한 보안 취약성</strong> ...</p>",
+          "contentSnippet": "미 법무부(DOJ) 가 FBI 국장 카쉬 파텔의 개인 이메일 계정이 해킹 피해를 입은 사실을 공식 확인\n해킹의 규모와 침해된 정보의 세부 내용은 아직 공개되지 않음\n이번 사건은 개인 이메일 사용으로 인한 보안 취약성 ...",
+          "id": "https://news.hada.io/topic?id=27986",
+          "isoDate": "2026-03-29T20:45:01.000Z"
+        },
+        {
+          "title": "AI가 항상 사용자를 옳다고 말해줄 때 생기는 위험",
+          "link": "https://news.hada.io/topic?id=27985",
+          "pubDate": "2026-03-29T18:33:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>주요 AI 모델들이 <strong>사용자의 판단을 무비판적으로 지지하는 ‘아첨형(sycophantic)’ 반응</strong>을 보이며, 잘못된 신뢰를 강화하는 경향이 확인됨</li>\n<li>실험 결과, <strong>AI가 인간보다 더 자주 잘못된 선택을 긍정</strong>했고, 사용자는 이러한 응답을 더 높은 품질로 평가함</li>\n<li>\n<s...</p>",
+          "contentSnippet": "주요 AI 모델들이 사용자의 판단을 무비판적으로 지지하는 ‘아첨형(sycophantic)’ 반응을 보이며, 잘못된 신뢰를 강화하는 경향이 확인됨\n실험 결과, AI가 인간보다 더 자주 잘못된 선택을 긍정했고, 사용자는 이러한 응답을 더 높은 품질로 평가함",
+          "id": "https://news.hada.io/topic?id=27985",
+          "isoDate": "2026-03-29T18:33:02.000Z"
+        },
+        {
+          "title": "AMD Ryzen 9 9950X3D2 Dual Edition, 단일 칩에 208MB 캐시 탑재",
+          "link": "https://news.hada.io/topic?id=27984",
+          "pubDate": "2026-03-29T17:48:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>AMD가 <strong>Ryzen 9 9950X3D2 Dual Edition</strong>을 공개, 단일 칩에 <strong>208MB의 캐시 메모리</strong>를 통합</li>\n<li>기존 X3D 시리즈의 <strong>3D V-Cache 기술</strong>을 확장해 캐시 용량을 극대화한 구조</li>\n<li>\n<strong>듀얼 CCD 설계</strong>를 통해 고성능 코어와 대용량 캐시를 결...</p>",
+          "contentSnippet": "AMD가 Ryzen 9 9950X3D2 Dual Edition을 공개, 단일 칩에 208MB의 캐시 메모리를 통합\n기존 X3D 시리즈의 3D V-Cache 기술을 확장해 캐시 용량을 극대화한 구조\n듀얼 CCD 설계를 통해 고성능 코어와 대용량 캐시를 결...",
+          "id": "https://news.hada.io/topic?id=27984",
+          "isoDate": "2026-03-29T17:48:01.000Z"
+        },
+        {
+          "title": "Cocoa-Way – macOS에서 Linux 앱을 네이티브로 실행하는 Wayland 컴포지터",
+          "link": "https://news.hada.io/topic?id=27983",
+          "pubDate": "2026-03-29T16:37:06.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>macOS에서 <strong>Linux 애플리케이션을 가상머신 없이 실행</strong>할 수 있게 하는 <strong>Wayland 컴포지터</strong>로, Metal/OpenGL 기반 렌더링을 사용해 macOS 창 환경과 자연스럽게 통합됨</li>\n<li>\n<strong>Unix 소켓을 통한 직접 Wayland 프로토콜 통신</strong>으로 성능 손실을 최소화하며, <s...</p>",
+          "contentSnippet": "macOS에서 Linux 애플리케이션을 가상머신 없이 실행할 수 있게 하는 Wayland 컴포지터로, Metal/OpenGL 기반 렌더링을 사용해 macOS 창 환경과 자연스럽게 통합됨\nUnix 소켓을 통한 직접 Wayland 프로토콜 통신으로 성능 손실을 최소화하며,",
+          "id": "https://news.hada.io/topic?id=27983",
+          "isoDate": "2026-03-29T16:37:06.000Z"
+        },
+        {
+          "title": "CERN, 초소형 AI 모델을 FPGA에 내장해 실시간 LHC 데이터 필터링 수행",
+          "link": "https://news.hada.io/topic?id=27982",
+          "pubDate": "2026-03-29T16:34:06.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>대형 강입자 충돌기에서 발생하는 방대한 데이터를 <strong>실리콘 칩에 직접 구현된 초소형 AI 모델</strong>로 실시간 필터링해 과학적으로 의미 있는 사건만 선별함</li>\n<li>초당 수백 테라바이트의 데이터 스트림을 처리하기 위해 <strong>GPU나 TPU 대신 FPGA·ASIC 기반 하드웨어</strong>를 사용하며, ...</p>",
+          "contentSnippet": "대형 강입자 충돌기에서 발생하는 방대한 데이터를 실리콘 칩에 직접 구현된 초소형 AI 모델로 실시간 필터링해 과학적으로 의미 있는 사건만 선별함\n초당 수백 테라바이트의 데이터 스트림을 처리하기 위해 GPU나 TPU 대신 FPGA·ASIC 기반 하드웨어를 사용하며, ...",
+          "id": "https://news.hada.io/topic?id=27982",
+          "isoDate": "2026-03-29T16:34:06.000Z"
+        },
+        {
           "title": "한국, 공영주차장에 태양광 패널 설치 의무화",
           "link": "https://news.hada.io/topic?id=27981",
           "pubDate": "2026-03-29T15:32:59.000Z",
@@ -455,56 +505,6 @@
           "contentSnippet": "로스앤젤레스 카운티 배심원단이 Instagram과 YouTube가 아동을 중독시키도록 설계되었다고 판단하며 두 기업의 책임을 인정함\n원고 Kaley G.M.에게 총 600만 달러 배상을 명령, Meta가 70%, Google이 30%의 책임을 지며 Snapchat과 TikTok은 별도 합의로 종료됨...",
           "id": "https://news.hada.io/topic?id=27931",
           "isoDate": "2026-03-27T22:32:40.000Z"
-        },
-        {
-          "title": "뉴욕시 병원들, 논란의 AI 기업 Palantir과의 계약 종료…영국에서는 확장 지속",
-          "link": "https://news.hada.io/topic?id=27930",
-          "pubDate": "2026-03-27T21:36:49.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>뉴욕시 공공병원 시스템이 <strong>Palantir Technologies와의 계약 갱신을 중단</strong>하고 내부 시스템으로 전환 결정</li>\n<li>계약에는 <strong>비식별 환자 데이터의 연구 외 사용 가능 조항</strong>이 포함되어 <strong>데이터 프라이버시 전문가들의 우려</strong>를 초래</li>\n<li>Palantir은 <stro...</p>",
-          "contentSnippet": "뉴욕시 공공병원 시스템이 Palantir Technologies와의 계약 갱신을 중단하고 내부 시스템으로 전환 결정\n계약에는 비식별 환자 데이터의 연구 외 사용 가능 조항이 포함되어 데이터 프라이버시 전문가들의 우려를 초래\nPalantir은",
-          "id": "https://news.hada.io/topic?id=27930",
-          "isoDate": "2026-03-27T21:36:49.000Z"
-        },
-        {
-          "title": "AI 에이전트를 $7/월 VPS에 배치하고 IRC를 전송 계층으로 사용한 디지털 도어맨 구축",
-          "link": "https://news.hada.io/topic?id=27929",
-          "pubDate": "2026-03-27T21:33:49.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>개인 포트폴리오 사이트에 <strong>IRC 기반 AI 에이전트</strong>를 연결해, 방문자가 실제 <strong>GitHub 저장소 코드 분석 결과</strong>를 바탕으로 질문에 답변받을 수 있는 구조</li>\n<li>단순한 이력서 요약형 챗봇이 아니라, <strong>저장소 복제·테스트 계산·코드 검증</strong>을 수행하는 <strong>...</p>",
-          "contentSnippet": "개인 포트폴리오 사이트에 IRC 기반 AI 에이전트를 연결해, 방문자가 실제 GitHub 저장소 코드 분석 결과를 바탕으로 질문에 답변받을 수 있는 구조\n단순한 이력서 요약형 챗봇이 아니라, 저장소 복제·테스트 계산·코드 검증을 수행하는 ...",
-          "id": "https://news.hada.io/topic?id=27929",
-          "isoDate": "2026-03-27T21:33:49.000Z"
-        },
-        {
-          "title": "Swift 6.3 릴리즈",
-          "link": "https://news.hada.io/topic?id=27928",
-          "pubDate": "2026-03-27T20:37:16.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>언어, 표준 라이브러리, 빌드 시스템, 플랫폼 지원</strong> 전반을 확장하며 개발자 경험을 개선</li>\n<li>\n<strong>C 상호운용성 강화</strong>, <strong>Android 공식 SDK 추가</strong>, <strong>임베디드 환경 개선</strong>, <strong>DocC 문서화 도구 확장</strong>이 주요 변화</li>\n<li>Swif...</p>",
-          "contentSnippet": "언어, 표준 라이브러리, 빌드 시스템, 플랫폼 지원 전반을 확장하며 개발자 경험을 개선\nC 상호운용성 강화, Android 공식 SDK 추가, 임베디드 환경 개선, DocC 문서화 도구 확장이 주요 변화\nSwif...",
-          "id": "https://news.hada.io/topic?id=27928",
-          "isoDate": "2026-03-27T20:37:16.000Z"
-        },
-        {
-          "title": "국제올림픽위원회, 트랜스젠더 선수의 여성 종목 출전 금지",
-          "link": "https://news.hada.io/topic?id=27927",
-          "pubDate": "2026-03-27T20:34:16.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>국제올림픽위원회(IOC)</strong> 가 트랜스젠더 여성이 여성 부문에서 출전하는 것을 금지하고, 모든 여성 선수에게 <strong>유전자 검사 의무화</strong>를 도입함</li>\n<li>새 규정은 <strong>2028년 로스앤젤레스 올림픽</strong>부터 시행되며, <strong>타액·혈액·면봉 샘플</strong>을 통한 1회성...</p>",
-          "contentSnippet": "국제올림픽위원회(IOC) 가 트랜스젠더 여성이 여성 부문에서 출전하는 것을 금지하고, 모든 여성 선수에게 유전자 검사 의무화를 도입함\n새 규정은 2028년 로스앤젤레스 올림픽부터 시행되며, 타액·혈액·면봉 샘플을 통한 1회성...",
-          "id": "https://news.hada.io/topic?id=27927",
-          "isoDate": "2026-03-27T20:34:16.000Z"
-        },
-        {
-          "title": "인용이 많은 논문에서 허위 주장과 수정 부재, 그리고 학계의 무대응",
-          "link": "https://news.hada.io/topic?id=27926",
-          "pubDate": "2026-03-27T19:33:49.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>지속가능성 높은 기업의 성과 우위</strong>를 주장한 <em>Management Science</em> 논문이 실제와 다른 분석 방법을 사용했음에도, <strong>정정이나 제재 없이 유지</strong>되고 있음</li>\n<li>문제 제기자인 <strong>Andy King</strong>의 시정 요청에도 불구하고, 저널과 여러 대학, 연구윤리 기...</p>",
-          "contentSnippet": "지속가능성 높은 기업의 성과 우위를 주장한 Management Science 논문이 실제와 다른 분석 방법을 사용했음에도, 정정이나 제재 없이 유지되고 있음\n문제 제기자인 Andy King의 시정 요청에도 불구하고, 저널과 여러 대학, 연구윤리 기...",
-          "id": "https://news.hada.io/topic?id=27926",
-          "isoDate": "2026-03-27T19:33:49.000Z"
         }
       ]
     }
