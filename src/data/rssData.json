@@ -7,6 +7,46 @@
       "priority": 1,
       "data": [
         {
+          "title": "Claude Code가 프로젝트 저장소에 10분마다 Git reset --hard origin/main을 실행하는 문제",
+          "link": "https://news.hada.io/topic?id=28020",
+          "pubDate": "2026-03-30T20:33:26.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>macOS 환경에서 프로젝트 변경사항이 <strong>10분마다 자동으로 삭제</strong>되는 현상이 보고됨</li>\n<li>조사 결과, 원인은 Claude Code가 아니라 사용자가 만든 <strong>별도 로컬 자동화 도구</strong>가 GitPython을 통해 주기적으로 <code>git reset --hard origin/main</code>을 실행한 것으로 확인됨...</p>",
+          "contentSnippet": "macOS 환경에서 프로젝트 변경사항이 10분마다 자동으로 삭제되는 현상이 보고됨\n조사 결과, 원인은 Claude Code가 아니라 사용자가 만든 별도 로컬 자동화 도구가 GitPython을 통해 주기적으로 git reset --hard origin/main을 실행한 것으로 확인됨...",
+          "id": "https://news.hada.io/topic?id=28020",
+          "isoDate": "2026-03-30T20:33:26.000Z"
+        },
+        {
+          "title": "AI 코딩 에이전트가 자유 소프트웨어를 다시 중요하게 만들 수 있음",
+          "link": "https://news.hada.io/topic?id=28019",
+          "pubDate": "2026-03-30T19:37:39.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>AI 코딩 에이전트</strong>는 사용자를 대신해 코드를 읽고 수정함으로써, 오랫동안 형식적 개념에 머물렀던 <strong>자유 소프트웨어의 ‘4대 자유’</strong> 를 실질적으로 복원할 가능성을 보여줌</li>\n<li>\n<strong>SaaS 중심 구조</strong>가 사용자의 소스 접근권을 제한해온 반면, 에이전트는...</p>",
+          "contentSnippet": "AI 코딩 에이전트는 사용자를 대신해 코드를 읽고 수정함으로써, 오랫동안 형식적 개념에 머물렀던 자유 소프트웨어의 ‘4대 자유’ 를 실질적으로 복원할 가능성을 보여줌\nSaaS 중심 구조가 사용자의 소스 접근권을 제한해온 반면, 에이전트는...",
+          "id": "https://news.hada.io/topic?id=28019",
+          "isoDate": "2026-03-30T19:37:39.000Z"
+        },
+        {
+          "title": "C++26 완성: ISO C++ 표준 회의 결과 보고",
+          "link": "https://news.hada.io/topic?id=28018",
+          "pubDate": "2026-03-30T19:34:39.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>ISO C++ 위원회가 <strong>C++26 표준의 기술적 작업을 완료</strong>하고, 국제 승인 절차 단계로 진입</li>\n<li>이번 버전은 <strong>C++11 이후 최대 규모의 개편</strong>으로, Reflection·메모리 안전성·Contracts·std::execution이 핵심 기능</li>\n<li>\n<strong>Reflection</strong>은 컴파일 타임 코드 ...</p>",
+          "contentSnippet": "ISO C++ 위원회가 C++26 표준의 기술적 작업을 완료하고, 국제 승인 절차 단계로 진입\n이번 버전은 C++11 이후 최대 규모의 개편으로, Reflection·메모리 안전성·Contracts·std::execution이 핵심 기능\nReflection은 컴파일 타임 코드 ...",
+          "id": "https://news.hada.io/topic?id=28018",
+          "isoDate": "2026-03-30T19:34:39.000Z"
+        },
+        {
+          "title": "MacBook 키보드가 고장났는데 수리비가 터무니없이 비쌈",
+          "link": "https://news.hada.io/topic?id=28017",
+          "pubDate": "2026-03-30T15:33:13.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>오른쪽 화살표 키가 <strong>지속적으로 눌린 상태로 인식</strong>되어 MacBook Pro 사용이 거의 불가능해짐</li>\n<li>키보드가 <strong>상판에 리벳으로 고정</strong>되어 있어, 키보드만 교체할 수 없고 <strong>상판 전체를 교체해야 함</strong>\n</li>\n<li>교체 부품비가 약 <strong>€730</strong>, 인건...</p>",
+          "contentSnippet": "오른쪽 화살표 키가 지속적으로 눌린 상태로 인식되어 MacBook Pro 사용이 거의 불가능해짐\n키보드가 상판에 리벳으로 고정되어 있어, 키보드만 교체할 수 없고 상판 전체를 교체해야 함\n\n교체 부품비가 약 €730, 인건...",
+          "id": "https://news.hada.io/topic?id=28017",
+          "isoDate": "2026-03-30T15:33:13.000Z"
+        },
+        {
           "title": "미루기는 시간 관리가 아니라 감정 조절의 문제입니다.",
           "link": "https://news.hada.io/topic?id=28016",
           "pubDate": "2026-03-30T14:10:00.000Z",
@@ -465,46 +505,6 @@
           "contentSnippet": "대형 언어 모델이 인간관계나 개인적 갈등 상황에서 사용자의 유해하거나 불법적 행동에도 긍정적으로 반응하는 경향이 확인됨\n이러한 ‘아첨적(sycophantic)’ 응답은 사용자의 자기 확신을 강화하고 공감 능력을 약화시키며, 오히려 사용자가 이런 AI를 더 선호하...",
           "id": "https://news.hada.io/topic?id=27964",
           "isoDate": "2026-03-29T00:46:03.000Z"
-        },
-        {
-          "title": "크롬 v145 부터 버티컬 탭 지원 시작",
-          "link": "https://news.hada.io/topic?id=27963",
-          "pubDate": "2026-03-29T00:46:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<code>chrome://flags/#vertical-tabs</code> 에서 활성화 하고 재시작</li>\n<li>탭바에서 우클릭 후에 메뉴에서 &quot;탭을 측면으로 이동(Move Tabs To The Side)&quot; 선택</li>\n<li>탭바 사이즈 조절 가능, 상단에 &quot;탭 접기&quot;, &quot;탭 그룹&quot;, &quot;탭 검색&quot; 기능 제공</li>\n<li>원...</p>",
-          "contentSnippet": "chrome://flags/#vertical-tabs 에서 활성화 하고 재시작\n탭바에서 우클릭 후에 메뉴에서 \"탭을 측면으로 이동(Move Tabs To The Side)\" 선택\n탭바 사이즈 조절 가능, 상단에 \"탭 접기\", \"탭 그룹\", \"탭 검색\" 기능 제공\n원...",
-          "id": "https://news.hada.io/topic?id=27963",
-          "isoDate": "2026-03-29T00:46:01.000Z"
-        },
-        {
-          "title": "jai - AI 에이전트를 위한 손쉬운 격리 도구",
-          "link": "https://news.hada.io/topic?id=27962",
-          "pubDate": "2026-03-29T00:43:03.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Linux 환경에서 AI 에이전트를 <strong>격리 실행</strong>할 수 있는 경량 도구로, 복잡한 컨테이너 설정 없이 단일 명령으로 안전한 실행 경계 제공</li>\n<li>AI 도구가 실제 파일 시스템에 접근해 <strong>데이터를 삭제하거나 손상시키는 사례</strong>가 잇따르며, 안전한 실행 환경의 필요성이 부각됨</l...</p>",
-          "contentSnippet": "Linux 환경에서 AI 에이전트를 격리 실행할 수 있는 경량 도구로, 복잡한 컨테이너 설정 없이 단일 명령으로 안전한 실행 경계 제공\nAI 도구가 실제 파일 시스템에 접근해 데이터를 삭제하거나 손상시키는 사례가 잇따르며, 안전한 실행 환경의 필요성이 부각됨",
-          "id": "https://news.hada.io/topic?id=27962",
-          "isoDate": "2026-03-29T00:43:03.000Z"
-        },
-        {
-          "title": "GitLab 공동창업자, 파운더 모드로 직접 자신의 암 치료를 설계하다",
-          "link": "https://news.hada.io/topic?id=27961",
-          "pubDate": "2026-03-29T00:40:03.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>척추 뼈암(골육종) 진단 후 표준 치료와 임상시험 옵션이 더 이상 없는 상황에서, <strong>자가 주도 치료 모델</strong>을 구축</li>\n<li>\n<strong>새 치료법 개발</strong>, <strong>병행 치료</strong>, <strong>확장 가능한 환자 모델 설계</strong>를 병행하며 의료 시스템의 한계를 돌파</li>\n<li>치료 여...</p>",
-          "contentSnippet": "척추 뼈암(골육종) 진단 후 표준 치료와 임상시험 옵션이 더 이상 없는 상황에서, 자가 주도 치료 모델을 구축\n새 치료법 개발, 병행 치료, 확장 가능한 환자 모델 설계를 병행하며 의료 시스템의 한계를 돌파\n치료 여...",
-          "id": "https://news.hada.io/topic?id=27961",
-          "isoDate": "2026-03-29T00:40:03.000Z"
-        },
-        {
-          "title": "스페인 법률을 Git 저장소로 관리하는 Legalize-es 프로젝트",
-          "link": "https://news.hada.io/topic?id=27960",
-          "pubDate": "2026-03-29T00:37:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>스페인 정부의 <strong>BOE 공개 API</strong>를 통해 수집한 1960년 이후 <strong>8,600개 이상 법률</strong>을 Markdown 파일로 관리하는 저장소</li>\n<li>각 법률은 <strong>YAML 메타데이터</strong>와 함께 저장되며, 모든 개정 이력이 <strong>Git 커밋</strong>으로 추적됨</li>\n<li>헌법, 유기법, 일반...</p>",
-          "contentSnippet": "스페인 정부의 BOE 공개 API를 통해 수집한 1960년 이후 8,600개 이상 법률을 Markdown 파일로 관리하는 저장소\n각 법률은 YAML 메타데이터와 함께 저장되며, 모든 개정 이력이 Git 커밋으로 추적됨\n헌법, 유기법, 일반...",
-          "id": "https://news.hada.io/topic?id=27960",
-          "isoDate": "2026-03-29T00:37:02.000Z"
         }
       ]
     }
