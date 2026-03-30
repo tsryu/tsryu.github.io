@@ -7,6 +7,56 @@
       "priority": 1,
       "data": [
         {
+          "title": "미루기는 시간 관리가 아니라 감정 조절의 문제입니다.",
+          "link": "https://news.hada.io/topic?id=28016",
+          "pubDate": "2026-03-30T14:10:00.000Z",
+          "author": "jkklll",
+          "content": "<p>우리가 일을 미루는 진짜 이유</p>\n<p>2026년 ScienceDirect에 게재된 학술 미루기 체계적 리뷰에 따르면, 미루기의 핵심 원인은 세 가지.</p>\n<ol>\n<li>실패에 대한 두려움(Fear of Failure) : &quot;잘 못하면 어쩌지지?&quot;라는 불안</li>\n<li>완벽주의(Perfectionism) : &quot;완벽하게 할 자신이 없으니 시작조",
+          "contentSnippet": "우리가 일을 미루는 진짜 이유\n2026년 ScienceDirect에 게재된 학술 미루기 체계적 리뷰에 따르면, 미루기의 핵심 원인은 세 가지.\n실패에 대한 두려움(Fear of Failure) : \"잘 못하면 어쩌지지?\"라는 불안\n완벽주의(Perfectionism) : \"완벽하게 할 자신이 없으니 시작조",
+          "id": "https://news.hada.io/topic?id=28016",
+          "isoDate": "2026-03-30T14:10:00.000Z"
+        },
+        {
+          "title": "여성 클리토리스 신경망이 처음으로 완전하게 지도화됨",
+          "link": "https://news.hada.io/topic?id=28015",
+          "pubDate": "2026-03-30T13:41:42.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>약 30년 전 남성 성기의 신경망이 밝혀진 이후, <strong>클리토리스 전체 신경 구조가 처음으로 3D 형태로 시각화</strong>됨</li>\n<li>연구팀은 <strong>고에너지 X선으로 여성 골반을 스캔해 폭 0.7mm 수준의 다섯 개 신경 가지</strong>를 정밀하게 재현함</li>\n<li>결과는 <strong>기존 해부학 교과서의 오...</p>",
+          "contentSnippet": "약 30년 전 남성 성기의 신경망이 밝혀진 이후, 클리토리스 전체 신경 구조가 처음으로 3D 형태로 시각화됨\n연구팀은 고에너지 X선으로 여성 골반을 스캔해 폭 0.7mm 수준의 다섯 개 신경 가지를 정밀하게 재현함\n결과는 기존 해부학 교과서의 오...",
+          "id": "https://news.hada.io/topic?id=28015",
+          "isoDate": "2026-03-30T13:41:42.000Z"
+        },
+        {
+          "title": "Miasma: AI 웹 스크레이퍼를 끝없는 오염 루프로 가두는 도구",
+          "link": "https://news.hada.io/topic?id=28014",
+          "pubDate": "2026-03-30T13:38:41.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Miasma</strong>는 AI 웹 스크레이퍼를 <strong>무한 루프에 빠뜨려 훈련 데이터 수집을 방해하는 Rust 기반 서버 도구</strong>\n</li>\n<li>웹사이트 콘텐츠를 대규모로 수집하는 <strong>AI 기업의 트래픽을 리디렉션</strong>해, ‘poison fountain’에서 가져온 <strong>오염된 데이터와 자기참조 ...</p>",
+          "contentSnippet": "Miasma는 AI 웹 스크레이퍼를 무한 루프에 빠뜨려 훈련 데이터 수집을 방해하는 Rust 기반 서버 도구\n\n웹사이트 콘텐츠를 대규모로 수집하는 AI 기업의 트래픽을 리디렉션해, ‘poison fountain’에서 가져온 오염된 데이터와 자기참조 ...",
+          "id": "https://news.hada.io/topic?id=28014",
+          "isoDate": "2026-03-30T13:38:41.000Z"
+        },
+        {
+          "title": "Pretext: 멀티라인 텍스트 측정과 레이아웃을 위한 TypeScript 라이브러리",
+          "link": "https://news.hada.io/topic?id=28013",
+          "pubDate": "2026-03-30T13:35:41.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Pretext</strong>는 DOM 접근 없이 <strong>멀티라인 텍스트의 높이와 줄 배치</strong>를 계산하는 <strong>순수 JavaScript/TypeScript 라이브러리</strong>로, 브라우저와 서버 환경 모두 지원</li>\n<li>\n<strong>getBoundingClientRect</strong> 같은 DOM 측정 API를 사용하지 않아 <strong>레이아...</p>",
+          "contentSnippet": "Pretext는 DOM 접근 없이 멀티라인 텍스트의 높이와 줄 배치를 계산하는 순수 JavaScript/TypeScript 라이브러리로, 브라우저와 서버 환경 모두 지원\ngetBoundingClientRect 같은 DOM 측정 API를 사용하지 않아 레이아...",
+          "id": "https://news.hada.io/topic?id=28013",
+          "isoDate": "2026-03-30T13:35:41.000Z"
+        },
+        {
+          "title": "Neovim 0.12.0",
+          "link": "https://news.hada.io/topic?id=28011",
+          "pubDate": "2026-03-30T12:33:21.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>최신 안정 버전으로, <strong>LuaJIT 2.1</strong>을 내장하고 주요 수정 및 기능이 추가된 릴리스임</li>\n<li>Windows, macOS, Linux(x86_64·arm64)용 <strong>다양한 설치 패키지</strong>가 제공되어 즉시 실행 가능</li>\n<li>각 플랫폼별로 <strong>ZIP, MSI, tar.gz, AppImage</strong> 형식의 배포 파일과...</p>",
+          "contentSnippet": "최신 안정 버전으로, LuaJIT 2.1을 내장하고 주요 수정 및 기능이 추가된 릴리스임\nWindows, macOS, Linux(x86_64·arm64)용 다양한 설치 패키지가 제공되어 즉시 실행 가능\n각 플랫폼별로 ZIP, MSI, tar.gz, AppImage 형식의 배포 파일과...",
+          "id": "https://news.hada.io/topic?id=28011",
+          "isoDate": "2026-03-30T12:33:21.000Z"
+        },
+        {
           "title": "Show GN: 한국 이커머스 스킨 개발용 정적 보일러플레이트 (HTMX + Vite + TypeScript)",
           "link": "https://news.hada.io/topic?id=28008",
           "pubDate": "2026-03-30T05:35:57.000Z",
@@ -455,56 +505,6 @@
           "contentSnippet": "스페인 정부의 BOE 공개 API를 통해 수집한 1960년 이후 8,600개 이상 법률을 Markdown 파일로 관리하는 저장소\n각 법률은 YAML 메타데이터와 함께 저장되며, 모든 개정 이력이 Git 커밋으로 추적됨\n헌법, 유기법, 일반...",
           "id": "https://news.hada.io/topic?id=27960",
           "isoDate": "2026-03-29T00:37:02.000Z"
-        },
-        {
-          "title": "OpenUI - 생성형 UI를 위한 오픈 표준 프레임워크",
-          "link": "https://news.hada.io/topic?id=27959",
-          "pubDate": "2026-03-29T00:31:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>LLM 기반 UI 생성용 풀스택 프레임워크 : UI 생성용 언어, 런타임, 컴포넌트, 채팅 인터페이스까지 모두 포함</li>\n<li>\n<strong>OpenUI Lang</strong>: UI 생성을 위한 언어, Vercel의 json-render 대비 최대 67% 토큰 절감 및 3배까지 빠름</li>\n<li>\n<strong>React 런타임</strong>: 토큰 단위로 점진적 렌더...</p>",
-          "contentSnippet": "LLM 기반 UI 생성용 풀스택 프레임워크 : UI 생성용 언어, 런타임, 컴포넌트, 채팅 인터페이스까지 모두 포함\nOpenUI Lang: UI 생성을 위한 언어, Vercel의 json-render 대비 최대 67% 토큰 절감 및 3배까지 빠름\nReact 런타임: 토큰 단위로 점진적 렌더...",
-          "id": "https://news.hada.io/topic?id=27959",
-          "isoDate": "2026-03-29T00:31:02.000Z"
-        },
-        {
-          "title": "Claude Code, 웹에서 작업 예약 실행하기",
-          "link": "https://news.hada.io/topic?id=27958",
-          "pubDate": "2026-03-28T22:33:07.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>클라우드 예약 기능</strong>으로 반복 업무를 자동화하고, 컴퓨터가 꺼져 있어도 백그라운드에서 실행 가능</li>\n<li>예약 방식은 <strong>Cloud</strong>, <strong>Desktop</strong>, <strong><code>/loop</code></strong> 세 가지로, 실행 위치와 주기 설정 단위가 다름</li>\n<li>웹, 데스크톱 앱,...</p>",
-          "contentSnippet": "클라우드 예약 기능으로 반복 업무를 자동화하고, 컴퓨터가 꺼져 있어도 백그라운드에서 실행 가능\n예약 방식은 Cloud, Desktop, /loop 세 가지로, 실행 위치와 주기 설정 단위가 다름\n웹, 데스크톱 앱,...",
-          "id": "https://news.hada.io/topic?id=27958",
-          "isoDate": "2026-03-28T22:33:07.000Z"
-        },
-        {
-          "title": "Meow.camera",
-          "link": "https://news.hada.io/topic?id=27957",
-          "pubDate": "2026-03-28T21:33:06.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>중국의 <strong>Hello Street Cat(街猫)</strong> 앱에서 제공하는 <strong>고양이 급식소 카메라 피드</strong>를 볼 수 있는 <strong>비공식 웹 뷰어</strong>\n</li>\n<li>원 개발사와는 <strong>무관한 개인 프로젝트</strong>로, 단순히 재미와 편의를 위해 제작됨</li>\n<li>사용자는 앱을 통해 <strong>원격...</p>",
-          "contentSnippet": "중국의 Hello Street Cat(街猫) 앱에서 제공하는 고양이 급식소 카메라 피드를 볼 수 있는 비공식 웹 뷰어\n\n원 개발사와는 무관한 개인 프로젝트로, 단순히 재미와 편의를 위해 제작됨\n사용자는 앱을 통해 원격...",
-          "id": "https://news.hada.io/topic?id=27957",
-          "isoDate": "2026-03-28T21:33:06.000Z"
-        },
-        {
-          "title": "유럽인들이 가정에서 미니 태양광 발전소를 설치하며 ‘에너지 자립’을 현실로 만들고 있다",
-          "link": "https://news.hada.io/topic?id=27956",
-          "pubDate": "2026-03-28T17:33:23.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>유럽 전역에서 <strong>에너지 위기 이후 가정용 태양광 설치</strong>가 급증하며, 수입 화석연료 의존을 줄이는 움직임이 확산 중임</li>\n<li>\n<strong>시간대별 전기요금제와 배터리 저장 기술</strong>을 활용해, 낮에 생산한 전력을 저녁 피크 시간대에 사용하는 방식이 보편화되고 있음</li>\n<li>\n<stron...</p>",
-          "contentSnippet": "유럽 전역에서 에너지 위기 이후 가정용 태양광 설치가 급증하며, 수입 화석연료 의존을 줄이는 움직임이 확산 중임\n시간대별 전기요금제와 배터리 저장 기술을 활용해, 낮에 생산한 전력을 저녁 피크 시간대에 사용하는 방식이 보편화되고 있음",
-          "id": "https://news.hada.io/topic?id=27956",
-          "isoDate": "2026-03-28T17:33:23.000Z"
-        },
-        {
-          "title": "FBI 국장 개인 이메일, 이란 연계 해커 침해 주장",
-          "link": "https://news.hada.io/topic?id=27955",
-          "pubDate": "2026-03-28T16:33:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>이란과 연계된 해커 그룹</strong>이 <strong>FBI 국장의 개인 이메일 계정</strong>을 침해했다고 주장하며, 미국 법무부가 <strong>조사에 착수</strong>함</li>\n<li>침해된 계정은 <strong>FBI 공식 시스템이 아닌 개인 이메일</strong>로, <strong>정부 네트워크나 기밀 정보 유출은 없다고 확인...</p>",
-          "contentSnippet": "이란과 연계된 해커 그룹이 FBI 국장의 개인 이메일 계정을 침해했다고 주장하며, 미국 법무부가 조사에 착수함\n침해된 계정은 FBI 공식 시스템이 아닌 개인 이메일로, 정부 네트워크나 기밀 정보 유출은 없다고 확인...",
-          "id": "https://news.hada.io/topic?id=27955",
-          "isoDate": "2026-03-28T16:33:02.000Z"
         }
       ]
     }
