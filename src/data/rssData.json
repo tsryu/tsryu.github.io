@@ -7,6 +7,66 @@
       "priority": 1,
       "data": [
         {
+          "title": "Ollama, 이제 애플 실리콘에서 MLX 기반으로 구동",
+          "link": "https://news.hada.io/topic?id=28049",
+          "pubDate": "2026-03-31T09:09:19.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>Apple MLX 프레임워크</strong>를 기반으로 한 Ollama의 프리뷰 버전이 공개, Apple Silicon의 <strong>통합 메모리 아키텍처</strong>를 활용한 성능 향상 제공</li>\n<li>M5 시리즈 칩의 <strong>GPU Neural Accelerator</strong>를 통해 <strong>TTFT(첫 토큰 생성 시간)</strong> 과 <strong>토큰 ...</p>",
+          "contentSnippet": "Apple MLX 프레임워크를 기반으로 한 Ollama의 프리뷰 버전이 공개, Apple Silicon의 통합 메모리 아키텍처를 활용한 성능 향상 제공\nM5 시리즈 칩의 GPU Neural Accelerator를 통해 TTFT(첫 토큰 생성 시간) 과 토큰 ...",
+          "id": "https://news.hada.io/topic?id=28049",
+          "isoDate": "2026-03-31T09:09:19.000Z"
+        },
+        {
+          "title": "Axios가 NPM에서 침해되어 원격 접근 트로이목마가 배포됨",
+          "link": "https://news.hada.io/topic?id=28047",
+          "pubDate": "2026-03-31T08:22:27.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>널리 사용되는 <strong>axios HTTP 클라이언트</strong>의 두 악성 버전이 npm에 게시되어, 설치 시 <strong>원격 접근 트로이목마(RAT)</strong> 를 배포함</li>\n<li>공격자는 <strong>유지관리자 계정 자격 증명 탈취</strong>를 통해 GitHub Actions를 우회하고 수동으로 악성 패키지를 업로드함</li>\n<li>악...</p>",
+          "contentSnippet": "널리 사용되는 axios HTTP 클라이언트의 두 악성 버전이 npm에 게시되어, 설치 시 원격 접근 트로이목마(RAT) 를 배포함\n공격자는 유지관리자 계정 자격 증명 탈취를 통해 GitHub Actions를 우회하고 수동으로 악성 패키지를 업로드함\n악...",
+          "id": "https://news.hada.io/topic?id=28047",
+          "isoDate": "2026-03-31T08:22:27.000Z"
+        },
+        {
+          "title": "axios@1.14.1, axios@0.30.4 버전이 해킹당했습니다.",
+          "link": "https://news.hada.io/topic?id=28046",
+          "pubDate": "2026-03-31T08:01:28.000Z",
+          "author": "rkjun",
+          "content": "<p>금일 npm install 명령을 통해,  axios@1.14.1, axios@0.30.4</p>\n<p>위의 버전을 설치한 경우에, 악성코드가 설치될 수 있습니다.</p>\n<p>주당 1억회 이상 다운받는 라이브러리라고 하는데, 여파가 좀 클 것 같네요.</p>\n<p>axios 검색후 긱뉴스에 관련 글이 보이지 않아 작성합니다만, 중복글로 확인되면 제거하겠습",
+          "contentSnippet": "금일 npm install 명령을 통해,  axios@1.14.1, axios@0.30.4\n위의 버전을 설치한 경우에, 악성코드가 설치될 수 있습니다.\n주당 1억회 이상 다운받는 라이브러리라고 하는데, 여파가 좀 클 것 같네요.\naxios 검색후 긱뉴스에 관련 글이 보이지 않아 작성합니다만, 중복글로 확인되면 제거하겠습",
+          "id": "https://news.hada.io/topic?id=28046",
+          "isoDate": "2026-03-31T08:01:28.000Z"
+        },
+        {
+          "title": "CodingFont: 코딩 폰트를 선택하도록 돕는 게임",
+          "link": "https://news.hada.io/topic?id=28045",
+          "pubDate": "2026-03-31T05:33:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>다양한 <strong>모노스페이스 폰트</strong>를 비교하며 자신에게 가장 읽기 좋은 코딩용 폰트를 찾을 수 있는 <strong>웹 기반 인터랙티브 게임</strong>\n</li>\n<li>각 라운드마다 두 가지 폰트가 제시되고, 사용자가 더 선호하는 폰트를 선택하면 <strong>개인 맞춤형 추천 결과</strong>가 생성됨</li>\n<li>...</p>",
+          "contentSnippet": "다양한 모노스페이스 폰트를 비교하며 자신에게 가장 읽기 좋은 코딩용 폰트를 찾을 수 있는 웹 기반 인터랙티브 게임\n\n각 라운드마다 두 가지 폰트가 제시되고, 사용자가 더 선호하는 폰트를 선택하면 개인 맞춤형 추천 결과가 생성됨\n...",
+          "id": "https://news.hada.io/topic?id=28045",
+          "isoDate": "2026-03-31T05:33:02.000Z"
+        },
+        {
+          "title": "법률적 시각(Legal AI)에서 본 온톨로지(Ontology)의 개념",
+          "link": "https://news.hada.io/topic?id=28044",
+          "pubDate": "2026-03-31T05:18:32.000Z",
+          "author": "woongaro",
+          "content": "<p>RAG는 외부 문서를 검색해 모델에게 공급함으로써 최신 정보 접근성과 근거 제시 능력을 높이는 데 강점이 있습니다.<br />\n반면 온톨로지는 검색된 자료 안의 개념들을 같은 의미 체계로 정렬하고, 법적 관계를 구조화하는 데 강합니다. <br />\n이 구별은 매우 중요합니다. RAG는 환각을 줄이는 데 도움이 되지만, 그...</p>",
+          "contentSnippet": "RAG는 외부 문서를 검색해 모델에게 공급함으로써 최신 정보 접근성과 근거 제시 능력을 높이는 데 강점이 있습니다.\n반면 온톨로지는 검색된 자료 안의 개념들을 같은 의미 체계로 정렬하고, 법적 관계를 구조화하는 데 강합니다. \n이 구별은 매우 중요합니다. RAG는 환각을 줄이는 데 도움이 되지만, 그...",
+          "id": "https://news.hada.io/topic?id=28044",
+          "isoDate": "2026-03-31T05:18:32.000Z"
+        },
+        {
+          "title": "Show GN: civStation – Civilization VI를 전략 수준에서 제어하는 computer-use VLM 기반 에이전트(Human in the...",
+          "link": "https://news.hada.io/topic?id=28042",
+          "pubDate": "2026-03-31T05:03:37.000Z",
+          "author": "ironman0722",
+          "content": "<ul>\n<li>\n<p>자연어 명령으로 Civilization VI를 플레이하는 computer-use VLM harness<br />\n“동쪽으로 확장”, “경제 집중”, “과학 승리” 등 high-level intent 입력 → 에이전트가 실제 조작 수행</p>\n</li>\n<li>\n<p>전략과 실행을 분리한 3-layer 구조 (Strategy / Action / HITL)</p>\n<ul>\n<li>Strategy Laye",
+          "contentSnippet": "자연어 명령으로 Civilization VI를 플레이하는 computer-use VLM harness\n전략과 실행을 분리한 3-layer 구조 (Strategy / Action / HITL)\nStrategy Laye",
+          "id": "https://news.hada.io/topic?id=28042",
+          "isoDate": "2026-03-31T05:03:37.000Z"
+        },
+        {
           "title": "Show GN: 보수학당 사이트 개발 - 바이브 코딩으로 만듦",
           "link": "https://news.hada.io/topic?id=28041",
           "pubDate": "2026-03-31T04:05:16.000Z",
@@ -445,66 +505,6 @@
           "contentSnippet": "실험 과정에서 사용되는 니트릴·라텍스 장갑이 스테아레이트 입자를 남겨 미세플라스틱 검출 결과를 거짓 양성으로 만들 수 있음\n스테아레이트는 미세플라스틱과 화학적·시각적으로 유사해 실제보다 높은 오염 수치를 유발함",
           "id": "https://news.hada.io/topic?id=27991",
           "isoDate": "2026-03-30T00:42:50.000Z"
-        },
-        {
-          "title": "유럽에서 Palantir에 반대하자",
-          "link": "https://news.hada.io/topic?id=27990",
-          "pubDate": "2026-03-30T00:39:50.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>유럽 각국 정부와 EU</strong>에 Palantir과의 신규 계약 중단과 기존 계약의 단계적 종료를 요구하며, <strong>투명하고 책임 있는 유럽 내 기술 대안 투자</strong>를 촉구</li>\n<li>Palantir이 <strong>공공 시스템과 데이터에 접근</strong>하고 있으며, 과거 <strong>가자 지구 학살 지원·ICE 가...</p>",
-          "contentSnippet": "유럽 각국 정부와 EU에 Palantir과의 신규 계약 중단과 기존 계약의 단계적 종료를 요구하며, 투명하고 책임 있는 유럽 내 기술 대안 투자를 촉구\nPalantir이 공공 시스템과 데이터에 접근하고 있으며, 과거 가자 지구 학살 지원·ICE 가...",
-          "id": "https://news.hada.io/topic?id=27990",
-          "isoDate": "2026-03-30T00:39:50.000Z"
-        },
-        {
-          "title": "LinkedIn이 두 개의 탭에서 2.4GB RAM을 사용함",
-          "link": "https://news.hada.io/topic?id=27989",
-          "pubDate": "2026-03-30T00:36:50.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>LinkedIn 웹사이트가 <strong>두 개의 브라우저 탭만 열었을 때 2.4GB의 메모리</strong>를 소비</li>\n<li>웹 애플리케이션의 <strong>비효율적인 리소스 사용</strong> 문제로 지적됨</li>\n<li>브라우저 성능과 <strong>사용자 경험 저하</strong> 가능성 제기</li>\n<li>대규모 프론트엔드 프레임워크나 <stro...</p>",
-          "contentSnippet": "LinkedIn 웹사이트가 두 개의 브라우저 탭만 열었을 때 2.4GB의 메모리를 소비\n웹 애플리케이션의 비효율적인 리소스 사용 문제로 지적됨\n브라우저 성능과 사용자 경험 저하 가능성 제기\n대규모 프론트엔드 프레임워크나",
-          "id": "https://news.hada.io/topic?id=27989",
-          "isoDate": "2026-03-30T00:36:50.000Z"
-        },
-        {
-          "title": "리눅스는 인터프리터다",
-          "link": "https://news.hada.io/topic?id=27988",
-          "pubDate": "2026-03-29T23:33:06.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>initrd를 <strong>커널이 직접 해석하고 실행하는 프로그램 단위</strong>로 정의하며, Linux를 일종의 <strong>인터프리터</strong>로 재해석함</li>\n<li>\n<code>kexec</code>, <code>base64</code>, <code>cpio</code>를 이용해 <strong>자기 자신을 재부팅하는 재귀형 Linux 배포판</strong>을 구성, initrd...</p>",
-          "contentSnippet": "initrd를 커널이 직접 해석하고 실행하는 프로그램 단위로 정의하며, Linux를 일종의 인터프리터로 재해석함\nkexec, base64, cpio를 이용해 자기 자신을 재부팅하는 재귀형 Linux 배포판을 구성, initrd...",
-          "id": "https://news.hada.io/topic?id=27988",
-          "isoDate": "2026-03-29T23:33:06.000Z"
-        },
-        {
-          "title": "Knuth의 ‘Claude Cycles’ 문제에서 인간·AI·증명 보조기의 협업 진전",
-          "link": "https://news.hada.io/topic?id=27987",
-          "pubDate": "2026-03-29T22:32:57.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Donald Knuth</strong>가 제시한 <strong>Hamiltonian 분해 문제</strong>의 미해결 부분이 인간과 AI의 협업으로 확장 해결됨</li>\n<li>\n<strong>Claude</strong>가 홀수 m의 해법을 찾아 <strong>“Claude’s Cycles”</strong> 로 명명되었으며, 이후 <strong>11,502개 순환 중 996개</strong>가 모...</p>",
-          "contentSnippet": "Donald Knuth가 제시한 Hamiltonian 분해 문제의 미해결 부분이 인간과 AI의 협업으로 확장 해결됨\nClaude가 홀수 m의 해법을 찾아 “Claude’s Cycles” 로 명명되었으며, 이후 11,502개 순환 중 996개가 모...",
-          "id": "https://news.hada.io/topic?id=27987",
-          "isoDate": "2026-03-29T22:32:57.000Z"
-        },
-        {
-          "title": "미 법무부, FBI 국장 카쉬 파텔의 개인 이메일 해킹 확인",
-          "link": "https://news.hada.io/topic?id=27986",
-          "pubDate": "2026-03-29T20:45:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>이란 연계 해커그룹 <strong>Handala Hack Team</strong>이 FBI 국장 Kash Patel의 개인 Gmail 계정을 해킹하는 데 성공했으며, 법무부(DOJ)가 이를 공식 확인</li>\n<li>해킹은 DOJ가 Handala의 웹사이트 일부를 차단하고 Patel이 이 그룹을 &quot;사냥하겠다&quot;고 위협한 직후, 이에 대한 <strong>보복 공격...</p>",
-          "contentSnippet": "이란 연계 해커그룹 Handala Hack Team이 FBI 국장 Kash Patel의 개인 Gmail 계정을 해킹하는 데 성공했으며, 법무부(DOJ)가 이를 공식 확인\n해킹은 DOJ가 Handala의 웹사이트 일부를 차단하고 Patel이 이 그룹을 \"사냥하겠다\"고 위협한 직후, 이에 대한 보복 공격...",
-          "id": "https://news.hada.io/topic?id=27986",
-          "isoDate": "2026-03-29T20:45:01.000Z"
-        },
-        {
-          "title": "AI가 항상 사용자를 옳다고 말해줄 때 생기는 위험",
-          "link": "https://news.hada.io/topic?id=27985",
-          "pubDate": "2026-03-29T18:33:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>주요 AI 모델들이 <strong>사용자의 판단을 무비판적으로 지지하는 ‘아첨형(sycophantic)’ 반응</strong>을 보이며, 잘못된 신뢰를 강화하는 경향이 확인됨</li>\n<li>실험 결과, <strong>AI가 인간보다 더 자주 잘못된 선택을 긍정</strong>했고, 사용자는 이러한 응답을 더 높은 품질로 평가함</li>\n<li>\n<s...</p>",
-          "contentSnippet": "주요 AI 모델들이 사용자의 판단을 무비판적으로 지지하는 ‘아첨형(sycophantic)’ 반응을 보이며, 잘못된 신뢰를 강화하는 경향이 확인됨\n실험 결과, AI가 인간보다 더 자주 잘못된 선택을 긍정했고, 사용자는 이러한 응답을 더 높은 품질로 평가함",
-          "id": "https://news.hada.io/topic?id=27985",
-          "isoDate": "2026-03-29T18:33:02.000Z"
         }
       ]
     }
