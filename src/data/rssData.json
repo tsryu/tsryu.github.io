@@ -7,7 +7,167 @@
       "priority": 1,
       "data": [
         {
-          "title": "Android 개발자 인증",
+          "title": "Function Calling Harness, turning success rate from 6.75% to 100%",
+          "link": "https://news.hada.io/topic?id=28084",
+          "pubDate": "2026-04-01T04:51:39.000Z",
+          "author": "autobe",
+          "content": "<blockquote>\n<p>Qwen Meetup Korea에 연사로 초대받아 발표한 내용입니다.</p>\n</blockquote>\n<p>재귀적 union 타입에서 function calling을 안정적으로 동작시키는 방법. <code>qwen3-coder-next</code>는 첫 시도 성공률 6.75%, Qwen 3.5 전 모델군은 double-stringify 버그로 0%였으나, 하네스 엔지니어링으로 100% ",
+          "contentSnippet": "Qwen Meetup Korea에 연사로 초대받아 발표한 내용입니다.\n재귀적 union 타입에서 function calling을 안정적으로 동작시키는 방법. qwen3-coder-next는 첫 시도 성공률 6.75%, Qwen 3.5 전 모델군은 double-stringify 버그로 0%였으나, 하네스 엔지니어링으로 100%",
+          "id": "https://news.hada.io/topic?id=28084",
+          "isoDate": "2026-04-01T04:51:39.000Z"
+        },
+        {
+          "title": "Google, Gmail 계정의 사용자명 변경 기능 공식 출시",
+          "link": "https://news.hada.io/topic?id=28083",
+          "pubDate": "2026-04-01T03:16:01.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>기존의 <strong>지메일 계정 사용자명(@gmail.com)을 변경할 수 있는 기능</strong>이 공식 출시, 메일뿐 아니라 Photos, Drive 등 Google 전반 도구에 다 적용됨</li>\n<li>예전 사용자명은 <strong>별칭(alias)으로 유지</strong>되어, 이전 주소와 새 주소 모두에서 이메일 수신 가능하며, 어느 주소로든 발신...</p>",
+          "contentSnippet": "기존의 지메일 계정 사용자명(@gmail.com)을 변경할 수 있는 기능이 공식 출시, 메일뿐 아니라 Photos, Drive 등 Google 전반 도구에 다 적용됨\n예전 사용자명은 별칭(alias)으로 유지되어, 이전 주소와 새 주소 모두에서 이메일 수신 가능하며, 어느 주소로든 발신...",
+          "id": "https://news.hada.io/topic?id=28083",
+          "isoDate": "2026-04-01T03:16:01.000Z"
+        },
+        {
+          "title": "Show GN: 제발 claude code나 gemini-cli가 내가 원하는 순서대로 작업하기를 원해서 만든 workflow-tool",
+          "link": "https://news.hada.io/topic?id=28082",
+          "pubDate": "2026-04-01T03:03:05.000Z",
+          "author": "hanyki111",
+          "content": "<p>매번 작업할 때마다, workflow를 입맛에 맞게 세팅해도 자꾸 AI들이 이를 벗어나 행동하는 부분에 지쳐서 만들었습니다.<br />\n각 단계마다 어떤 프로세스에 맞춰 작업을 해야하는지를 설정하여, AI들이 제가 원하는 순서대로 행동하도록 강제할 수 있습니다.<br />\nsubagent를 호출하거나, 반드시 사용자가 체크해야...</p>",
+          "contentSnippet": "매번 작업할 때마다, workflow를 입맛에 맞게 세팅해도 자꾸 AI들이 이를 벗어나 행동하는 부분에 지쳐서 만들었습니다.\n각 단계마다 어떤 프로세스에 맞춰 작업을 해야하는지를 설정하여, AI들이 제가 원하는 순서대로 행동하도록 강제할 수 있습니다.\nsubagent를 호출하거나, 반드시 사용자가 체크해야...",
+          "id": "https://news.hada.io/topic?id=28082",
+          "isoDate": "2026-04-01T03:03:05.000Z"
+        },
+        {
+          "title": "GitHub의 과거 가동 시간",
+          "link": "https://news.hada.io/topic?id=28081",
+          "pubDate": "2026-04-01T02:32:52.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>2016년부터 2026년까지의 <strong>GitHub 월별 가동 시간</strong>을 시각화한 페이지\n<ul>\n<li>모든 데이터는 <strong>공식 상태 페이지</strong>에서 수집된 기록 기반</li>\n</ul>\n</li>\n<li>\n<strong>평균 가동률(Average)</strong> 과 <strong>세부 중단 내역(Breakdown)</strong> 을 구분해 볼 수 있는 구...</p>",
+          "contentSnippet": "2016년부터 2026년까지의 GitHub 월별 가동 시간을 시각화한 페이지\n\n모든 데이터는 공식 상태 페이지에서 수집된 기록 기반\n평균 가동률(Average) 과 세부 중단 내역(Breakdown) 을 구분해 볼 수 있는 구...",
+          "id": "https://news.hada.io/topic?id=28081",
+          "isoDate": "2026-04-01T02:32:52.000Z"
+        },
+        {
+          "title": "Claude Code (유출본) 소스 코드  분석서",
+          "link": "https://news.hada.io/topic?id=28080",
+          "pubDate": "2026-04-01T02:00:19.000Z",
+          "author": "jaehong747",
+          "content": "<p>Anthropic의 Claude Code 전체 소스 코드 구조가 노출되었습니다.</p>\n<p>이로 인해 많은 클로드 코드 팬들은 흥분?된 상태인것 같고요.<br />\n관련 분야 많은 도사님들은 클로드 코드 소스를 해부하고 계시는것 같습니다.</p>\n<p>저도 오전에 부랴부랴 소스코드를 획득하고, 클로드 코드와 함께 분석을 진행해보았습",
+          "contentSnippet": "Anthropic의 Claude Code 전체 소스 코드 구조가 노출되었습니다.\n이로 인해 많은 클로드 코드 팬들은 흥분?된 상태인것 같고요.\n저도 오전에 부랴부랴 소스코드를 획득하고, 클로드 코드와 함께 분석을 진행해보았습",
+          "id": "https://news.hada.io/topic?id=28080",
+          "isoDate": "2026-04-01T02:00:19.000Z"
+        },
+        {
+          "title": "Show GN: 코딩 에이전트 구독료 뽕뽑기, 클로드코드, 코덱스, 제미나이, 오픈코드를 모두 묶어 텔레그램 봇으로 -...",
+          "link": "https://news.hada.io/topic?id=28079",
+          "pubDate": "2026-04-01T01:38:10.000Z",
+          "author": "cokac",
+          "content": "<p>이미 쓰고 있는 코딩 에이전트(Claude Code, Codex, Gemini CLI, OpenCode)를 텔레그램에서 그대로 쓸 수 있게 해주는 오픈소스 도구입니다.</p>\n<p>cokacdir은 자체 AI 에이전트를 내장하지 않습니다. 대신 기존 에이전트에 작업을 위임하고, 이를 텔레그램에서 편하게 운용할 수 있는 인터페이스와 실행 환경을 제공",
+          "contentSnippet": "이미 쓰고 있는 코딩 에이전트(Claude Code, Codex, Gemini CLI, OpenCode)를 텔레그램에서 그대로 쓸 수 있게 해주는 오픈소스 도구입니다.\ncokacdir은 자체 AI 에이전트를 내장하지 않습니다. 대신 기존 에이전트에 작업을 위임하고, 이를 텔레그램에서 편하게 운용할 수 있는 인터페이스와 실행 환경을 제공",
+          "id": "https://news.hada.io/topic?id=28079",
+          "isoDate": "2026-04-01T01:38:10.000Z"
+        },
+        {
+          "title": "Microsoft: Copilot은 오락용으로만 제공됨",
+          "link": "https://news.hada.io/topic?id=28078",
+          "pubDate": "2026-04-01T00:58:22.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Copilot은 <strong>AI 기반 대화형 서비스</strong>로, 사용자의 프롬프트에 응답을 생성하지만 그 결과는 <strong>정확하거나 신뢰할 수 없을 수 있음</strong>\n</li>\n<li>Microsoft는 Copilot을 <strong>오락용(Entertainment purposes only)</strong> 으로 제공하며, 중요한 조언이나 결정의 근거로 사용해서...</p>",
+          "contentSnippet": "Copilot은 AI 기반 대화형 서비스로, 사용자의 프롬프트에 응답을 생성하지만 그 결과는 정확하거나 신뢰할 수 없을 수 있음\n\nMicrosoft는 Copilot을 오락용(Entertainment purposes only) 으로 제공하며, 중요한 조언이나 결정의 근거로 사용해서...",
+          "id": "https://news.hada.io/topic?id=28078",
+          "isoDate": "2026-04-01T00:58:22.000Z"
+        },
+        {
+          "title": "Universal Claude.md – Claude 출력 토큰 절감",
+          "link": "https://news.hada.io/topic?id=28077",
+          "pubDate": "2026-04-01T00:55:22.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Claude 모델의 <strong>불필요한 서두·마무리·재진술</strong>을 제거해 <strong>출력 토큰 낭비를 줄이는 설정 파일</strong>\n</li>\n<li>프로젝트 루트에 <code>CLAUDE.md</code>를 추가하면 <strong>코드 수정 없이 즉시 적용</strong>되며, <strong>평균 63%의 토큰 절감</strong> 효과</li>\n<li>\n<strong>A...</p>",
+          "contentSnippet": "Claude 모델의 불필요한 서두·마무리·재진술을 제거해 출력 토큰 낭비를 줄이는 설정 파일\n\n프로젝트 루트에 CLAUDE.md를 추가하면 코드 수정 없이 즉시 적용되며, 평균 63%의 토큰 절감 효과\nA...",
+          "id": "https://news.hada.io/topic?id=28077",
+          "isoDate": "2026-04-01T00:55:22.000Z"
+        },
+        {
+          "title": "GitHub, 반발 이후 Copilot의 Pull Request 광고 기능 중단",
+          "link": "https://news.hada.io/topic?id=28076",
+          "pubDate": "2026-04-01T00:52:22.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>GitHub Copilot</strong>이 <strong>Pull Request(PR)</strong> 내에 삽입하던 <strong>광고성 ‘tips’ 메시지 기능을 제거</strong>, 개발자 반발에 따른 조치임</li>\n<li>해당 메시지는 <strong>Raycast 앱 설치를 권장</strong>하는 문구와 링크를 포함해, Copilot이 자동으로 PR 설명에 추가했음...</p>",
+          "contentSnippet": "GitHub Copilot이 Pull Request(PR) 내에 삽입하던 광고성 ‘tips’ 메시지 기능을 제거, 개발자 반발에 따른 조치임\n해당 메시지는 Raycast 앱 설치를 권장하는 문구와 링크를 포함해, Copilot이 자동으로 PR 설명에 추가했음...",
+          "id": "https://news.hada.io/topic?id=28076",
+          "isoDate": "2026-04-01T00:52:22.000Z"
+        },
+        {
+          "title": "Claude Code 소스 유출: 가짜 도구, 욕설 감지 정규식, 은폐 모드 등 내부 구조 드러남",
+          "link": "https://news.hada.io/topic?id=28074",
+          "pubDate": "2026-04-01T00:49:22.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Anthropic이 npm 패키지에 <strong>소스맵을 포함해 배포</strong>하면서 Claude Code의 전체 코드가 공개되어, 내부 기능과 실험적 플래그가 모두 드러남</li>\n<li>코드에는 <strong>모델 모방 방지를 위한 가짜 도구 삽입(anti-distillation)</strong>, <strong>AI 정체를 숨기는 undercover 모드</strong>, ...</p>",
+          "contentSnippet": "Anthropic이 npm 패키지에 소스맵을 포함해 배포하면서 Claude Code의 전체 코드가 공개되어, 내부 기능과 실험적 플래그가 모두 드러남\n코드에는 모델 모방 방지를 위한 가짜 도구 삽입(anti-distillation), AI 정체를 숨기는 undercover 모드, ...",
+          "id": "https://news.hada.io/topic?id=28074",
+          "isoDate": "2026-04-01T00:49:22.000Z"
+        },
+        {
+          "title": "아르테미스 II는 비행하기에 안전하지 않다",
+          "link": "https://news.hada.io/topic?id=28073",
+          "pubDate": "2026-04-01T00:46:22.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>오리온 캡슐의 <strong>열 차폐판 결함</strong>이 아르테미스 II 유인 비행의 <strong>승무원 생존을 위협</strong>하는 핵심 문제로 지적됨</li>\n<li>아르테미스 I 재진입 중 <strong>Avcoat 재료가 대규모로 탈락</strong>하며 구조적 손상이 발생했고, NASA 감사관실(OIG) 보고서로 그 심각성이 확인됨</li...</p>",
+          "contentSnippet": "오리온 캡슐의 열 차폐판 결함이 아르테미스 II 유인 비행의 승무원 생존을 위협하는 핵심 문제로 지적됨\n아르테미스 I 재진입 중 Avcoat 재료가 대규모로 탈락하며 구조적 손상이 발생했고, NASA 감사관실(OIG) 보고서로 그 심각성이 확인됨",
+          "id": "https://news.hada.io/topic?id=28073",
+          "isoDate": "2026-04-01T00:46:22.000Z"
+        },
+        {
+          "title": "오라클, 3만 명 해고 단행",
+          "link": "https://news.hada.io/topic?id=28072",
+          "pubDate": "2026-04-01T00:43:22.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>전 세계 직원 약 <strong>2만~3만 명(전체의 18%)</strong> 이 화요일 <strong>오전 6시 이메일 한 통으로 해고 통보</strong>를 받음</li>\n<li>이메일은 <strong>“Oracle Leadership”</strong> 명의로 발송됐으며, 전화나 관리자 사전 통보 없이 즉시 효력 발생</li>\n<li>해고 통보 직후 <strong>내부 시스템...</p>",
+          "contentSnippet": "전 세계 직원 약 2만~3만 명(전체의 18%) 이 화요일 오전 6시 이메일 한 통으로 해고 통보를 받음\n이메일은 “Oracle Leadership” 명의로 발송됐으며, 전화나 관리자 사전 통보 없이 즉시 효력 발생\n해고 통보 직후 내부 시스템...",
+          "id": "https://news.hada.io/topic?id=28072",
+          "isoDate": "2026-04-01T00:43:22.000Z"
+        },
+        {
+          "title": "edgejs - WebAssembly 기반 안전한 JS 런타임",
+          "link": "https://news.hada.io/topic?id=28071",
+          "pubDate": "2026-04-01T00:41:01.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>Edge 컴퓨팅·AI 워크로드용</strong> 보안 중심 JavaScript 런타임</li>\n<li>\n<code>--safe</code> 모드에서 <strong>WebAssembly 샌드박스</strong>로 격리 실행</li>\n<li>\n<strong>Node.js 완전 호환</strong>, 기존 코드 그대로 동작</li>\n<li>\n<strong>V8 / JavaScriptCore / QuickJS</strong> 등...</p>",
+          "contentSnippet": "Edge 컴퓨팅·AI 워크로드용 보안 중심 JavaScript 런타임\n--safe 모드에서 WebAssembly 샌드박스로 격리 실행\nNode.js 완전 호환, 기존 코드 그대로 동작\nV8 / JavaScriptCore / QuickJS 등...",
+          "id": "https://news.hada.io/topic?id=28071",
+          "isoDate": "2026-04-01T00:41:01.000Z"
+        },
+        {
+          "title": "Claude Code의 소스 코드가 NPM 레지스트리의 map 파일을 통해 유출됨",
+          "link": "https://news.hada.io/topic?id=28070",
+          "pubDate": "2026-04-01T00:40:22.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>npm 레지스트리의 <strong>소스맵(map) 파일</strong>을 통해 <strong>Claude Code의 전체 소스 코드</strong>가 외부에 노출되어 내부 구조와 기능이 공개됨</li>\n<li>유출된 파일에는 <strong>시스템 프롬프트, 텔레메트리, 바이패스 모드, Undercover Mode</strong> 등 핵심 구성요소가 포함되어 있음</li>\n...</p>",
+          "contentSnippet": "npm 레지스트리의 소스맵(map) 파일을 통해 Claude Code의 전체 소스 코드가 외부에 노출되어 내부 구조와 기능이 공개됨\n유출된 파일에는 시스템 프롬프트, 텔레메트리, 바이패스 모드, Undercover Mode 등 핵심 구성요소가 포함되어 있음\n...",
+          "id": "https://news.hada.io/topic?id=28070",
+          "isoDate": "2026-04-01T00:40:22.000Z"
+        },
+        {
+          "title": "Apple Silicon M4·M5 칩에서 외부 4K 디스플레이의 HiDPI 해상도 제한 발생",
+          "link": "https://news.hada.io/topic?id=28068",
+          "pubDate": "2026-03-31T21:38:31.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>M4·M5 세대에서는 외부 4K 모니터에서 <strong>3840×2160@2x HiDPI 모드</strong>가 지원되지 않고, 최대 <strong>3360×1890</strong>까지만 가능함</li>\n<li>이 제한은 <strong>Display Coprocessor(DCP) 펌웨어 구조 변경</strong>으로 인해 생기며, 하드웨어 성능 문제는 아님</li>\n<li>M5 Max의 <strong>프...</p>",
+          "contentSnippet": "M4·M5 세대에서는 외부 4K 모니터에서 3840×2160@2x HiDPI 모드가 지원되지 않고, 최대 3360×1890까지만 가능함\n이 제한은 Display Coprocessor(DCP) 펌웨어 구조 변경으로 인해 생기며, 하드웨어 성능 문제는 아님\nM5 Max의 프...",
+          "id": "https://news.hada.io/topic?id=28068",
+          "isoDate": "2026-03-31T21:38:31.000Z"
+        },
+        {
+          "title": "AI 이전 글쓰기 시대가 그리워진다",
+          "link": "https://news.hada.io/topic?id=28067",
+          "pubDate": "2026-03-31T21:35:31.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>LLM을 이용해 초안을 다듬었지만 <strong>AI 작성물로 판정되어 게시가 거부된 경험</strong>을 통해, 글쓰기의 진정성에 대한 문제의식을 제기</li>\n<li>과거에는 <strong>AI 없이도 문체와 사고의 흐름을 유지</strong>하며 창의적 글쓰기를 즐겼으나, 최근에는 도구 의존으로 <strong>자율성과 표현력 저하...</p>",
+          "contentSnippet": "LLM을 이용해 초안을 다듬었지만 AI 작성물로 판정되어 게시가 거부된 경험을 통해, 글쓰기의 진정성에 대한 문제의식을 제기\n과거에는 AI 없이도 문체와 사고의 흐름을 유지하며 창의적 글쓰기를 즐겼으나, 최근에는 도구 의존으로 자율성과 표현력 저하...",
+          "id": "https://news.hada.io/topic?id=28067",
+          "isoDate": "2026-03-31T21:35:31.000Z"
+        },
+        {
+          "title": "Android 개발자 인증: 모든 개발자에게 확대 적용 시작",
           "link": "https://news.hada.io/topic?id=28066",
           "pubDate": "2026-03-31T20:33:10.000Z",
           "author": "neo",
@@ -41,13 +201,13 @@
           "link": "https://news.hada.io/topic?id=28062",
           "pubDate": "2026-03-31T16:36:43.000Z",
           "author": "princox",
-          "content": "<p>Claude Code 내부 동작 방식 완전 해부 — Agentic Loop부터 컨텍스트 로딩까지<br />\nClaude Code가 터미널에서 어떻게 돌아가는지 공식 문서(VineeTagarwaL의 Mintlify 정리본) 기준으로 핵심만 정리했습니다.</p>\n<p>Claude Code는 어떻게 동작하나?<br />\n한마디로 “읽고 → 생각하고 → 도구 쓰고 → 결과 보고",
-          "contentSnippet": "Claude Code 내부 동작 방식 완전 해부 — Agentic Loop부터 컨텍스트 로딩까지\nClaude Code는 어떻게 동작하나?\n한마디로 “읽고 → 생각하고 → 도구 쓰고 → 결과 보고",
+          "content": "<p>Claude Code가 터미널에서 어떻게 돌아가는지 공식 문서(VineeTagarwaL의 Mintlify 정리본) 기준으로 핵심만 정리했습니다.</p>\n<p>Claude Code는 어떻게 동작하나?<br />\n한마디로 “읽고 → 생각하고 → 도구 쓰고 → 결과 보고 → 반복” 하는 루프입니다.<br />\nAgentic Loop 6단계</p>\n<ol>\n<li>사용자가 터미널",
+          "contentSnippet": "Claude Code가 터미널에서 어떻게 돌아가는지 공식 문서(VineeTagarwaL의 Mintlify 정리본) 기준으로 핵심만 정리했습니다.\nClaude Code는 어떻게 동작하나?\n사용자가 터미널",
           "id": "https://news.hada.io/topic?id=28062",
           "isoDate": "2026-03-31T16:36:43.000Z"
         },
         {
-          "title": "Claude Code 유출 소스 기반 Python 클린룸 재작성 프로젝트 - claw-code",
+          "title": "claw-code - Claude Code 유출 소스 기반 Python 클린룸 재작성 프로젝트",
           "link": "https://news.hada.io/topic?id=28061",
           "pubDate": "2026-03-31T16:17:53.000Z",
           "author": "princox",
@@ -77,12 +237,12 @@
           "isoDate": "2026-03-31T13:57:58.000Z"
         },
         {
-          "title": "MacBook을 1달러 하드웨어로 터치스크린으로 전환한 Project Sistine",
+          "title": "Project Sistine - MacBook을 1달러 하드웨어로 터치스크린으로 전환",
           "link": "https://news.hada.io/topic?id=28057",
           "pubDate": "2026-03-31T13:33:13.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Project Sistine</strong>은 MacBook을 <strong>단 1달러의 부품과 컴퓨터 비전 기술</strong>로 터치스크린처럼 동작하게 만든 프로토타입</li>\n<li>내장 웹캠 앞에 <strong>작은 거울을 설치</strong>해 화면을 비스듬히 인식하고, <strong>손가락과 반사상의 교차점</strong>을 터치로 감지</li>\n...</p>",
-          "contentSnippet": "Project Sistine은 MacBook을 단 1달러의 부품과 컴퓨터 비전 기술로 터치스크린처럼 동작하게 만든 프로토타입\n내장 웹캠 앞에 작은 거울을 설치해 화면을 비스듬히 인식하고, 손가락과 반사상의 교차점을 터치로 감지\n...",
+          "content": "<ul>\n<li>맥북을 <strong>단 1달러의 부품과 컴퓨터 비전 기술</strong>로 터치스크린처럼 동작하게 만든 프로토타입 프로젝트</li>\n<li>내장 웹캠 앞에 <strong>작은 거울을 설치</strong>해 화면을 비스듬히 인식하고, <strong>손가락과 반사상의 교차점</strong>을 터치로 감지</li>\n<li>\n<strong>피부색 필터링과 외...</p>",
+          "contentSnippet": "맥북을 단 1달러의 부품과 컴퓨터 비전 기술로 터치스크린처럼 동작하게 만든 프로토타입 프로젝트\n내장 웹캠 앞에 작은 거울을 설치해 화면을 비스듬히 인식하고, 손가락과 반사상의 교차점을 터치로 감지\n피부색 필터링과 외...",
           "id": "https://news.hada.io/topic?id=28057",
           "isoDate": "2026-03-31T13:33:13.000Z"
         },
@@ -115,6 +275,16 @@
           "contentSnippet": "최근 AI와 홀로 작업을 계속하다보니 노동요의 중요성이 더욱 커졌습니다.\n다양한 스트리밍 플랫폼을 사용하다가 자동추천곡에 질리게 되었습니다. 다른 사람들의 플레이리스트를 찾아다니다가 생각보다 번거롭더라구요. 어짜피 작업할때 주로 듣기 때문에 Youtube로 플레이리스트 공유할 수 있도록 커뮤니티를...",
           "id": "https://news.hada.io/topic?id=28052",
           "isoDate": "2026-03-31T10:40:02.000Z"
+        },
+        {
+          "title": "Show GN: 법망 - PostgreSQL 기반 한국 법령 전체를 JSON으로 제공하는 에이전트용 API",
+          "link": "https://news.hada.io/topic?id=28050",
+          "pubDate": "2026-03-31T09:15:47.000Z",
+          "author": "miceonvenus",
+          "content": "<ul>\n<li>XML, HWP, PDF 사전 파싱 — 표 데이터 포함 모든 출력 JSON</li>\n<li>국가법령정보센터 제공 법령 99.9%+ 수록, 매주 토요일 최신 동기화</li>\n<li>PostgreSQL + pgvector, 주요 조문 20만건 임베딩(768d) — semantic search 지원</li>\n<li>인증키 필요 없는 REST API, rate limit 100회/분, 스트레스 테스트...</p>",
+          "contentSnippet": "XML, HWP, PDF 사전 파싱 — 표 데이터 포함 모든 출력 JSON\n국가법령정보센터 제공 법령 99.9%+ 수록, 매주 토요일 최신 동기화\nPostgreSQL + pgvector, 주요 조문 20만건 임베딩(768d) — semantic search 지원\n인증키 필요 없는 REST API, rate limit 100회/분, 스트레스 테스트...",
+          "id": "https://news.hada.io/topic?id=28050",
+          "isoDate": "2026-03-31T09:15:47.000Z"
         },
         {
           "title": "Ollama, 이제 애플 실리콘에서 MLX 기반으로 구동",
@@ -335,176 +505,6 @@
           "contentSnippet": "팀원이 Copilot을 사용해 PR의 오타를 수정하는 과정에서, Copilot이 PR 설명에 자기 자신과 Raycast의 광고 문구를 자동 추가함\n작성자는 이를 “끔찍하다(horrific)” 고 표현하며, 이런 일이 언젠가 일어날 것이라 예상했지만 이렇게 ...",
           "id": "https://news.hada.io/topic?id=28024",
           "isoDate": "2026-03-31T00:38:33.000Z"
-        },
-        {
-          "title": "OpenAI의 Claude Code용 Codex 플러그인",
-          "link": "https://news.hada.io/topic?id=28023",
-          "pubDate": "2026-03-31T00:17:55.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>이제 <strong>클로드 코드</strong>안에서 <strong>OpenAI Codex를 직접 호출</strong>해 코드 리뷰 및 작업 위임 가능</li>\n<li>\n<code>/codex:review</code>, <code>/codex:adversarial-review</code> 등 <strong>슬래시 커맨드</strong> 기반으로 호출</li>\n<li>\n<strong>백그라운드 작업 관리</strong> 기능...</p>",
-          "contentSnippet": "이제 클로드 코드안에서 OpenAI Codex를 직접 호출해 코드 리뷰 및 작업 위임 가능\n/codex:review, /codex:adversarial-review 등 슬래시 커맨드 기반으로 호출\n백그라운드 작업 관리 기능...",
-          "id": "https://news.hada.io/topic?id=28023",
-          "isoDate": "2026-03-31T00:17:55.000Z"
-        },
-        {
-          "title": "Shopify의 데이터 구조화 여정: One-Shot LLM에서 DSPy 기반 에이전틱 아키텍처로",
-          "link": "https://news.hada.io/topic?id=28022",
-          "pubDate": "2026-03-30T23:55:01.000Z",
-          "author": "darjeeling",
-          "content": "<p>Shopify는 수백만 개의 비정형 커머스 데이터(상점 페이지, 정책 등)를 구조화된 데이터로 변환하기 위해 <strong>One-Shot LLM 방식에서 DSPy 기반의 전문화된 멀티 에이전트(Multi-Agent) 아키텍처로 전환</strong>했습니다. 이 과정에서 GPT-4/5급 대형 모델 대신 <strong>자체 호스팅된 Qwen(32B/72B급) 모델과 D...</p>",
-          "contentSnippet": "Shopify는 수백만 개의 비정형 커머스 데이터(상점 페이지, 정책 등)를 구조화된 데이터로 변환하기 위해 One-Shot LLM 방식에서 DSPy 기반의 전문화된 멀티 에이전트(Multi-Agent) 아키텍처로 전환했습니다. 이 과정에서 GPT-4/5급 대형 모델 대신 자체 호스팅된 Qwen(32B/72B급) 모델과 D...",
-          "id": "https://news.hada.io/topic?id=28022",
-          "isoDate": "2026-03-30T23:55:01.000Z"
-        },
-        {
-          "title": "Claude Code의 숨겨진 강력한 기능들 15가지",
-          "link": "https://news.hada.io/topic?id=28021",
-          "pubDate": "2026-03-30T23:00:05.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>클로드 코드 제작자 <strong>Boris Cherny</strong> 가 모바일 앱, 자동 스케줄링, 세션 포크, 병렬 워크트리 등 <strong>숨겨진/잘 사용되지 않는 기능들</strong>을 정리</li>\n<li>iOS/Android 앱의 <strong>Code 탭</strong>을 통해 노트북 없이도 코드 작성이 가능하며, <code>--teleport</code> 명령으로 ...</p>",
-          "contentSnippet": "클로드 코드 제작자 Boris Cherny 가 모바일 앱, 자동 스케줄링, 세션 포크, 병렬 워크트리 등 숨겨진/잘 사용되지 않는 기능들을 정리\niOS/Android 앱의 Code 탭을 통해 노트북 없이도 코드 작성이 가능하며, --teleport 명령으로 ...",
-          "id": "https://news.hada.io/topic?id=28021",
-          "isoDate": "2026-03-30T23:00:05.000Z"
-        },
-        {
-          "title": "Claude Code가 프로젝트 저장소에 10분마다 Git reset --hard origin/main을 실행하는 문제",
-          "link": "https://news.hada.io/topic?id=28020",
-          "pubDate": "2026-03-30T20:33:26.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>macOS 환경에서 프로젝트 변경사항이 <strong>10분마다 자동으로 삭제</strong>되는 현상이 보고됨</li>\n<li>조사 결과, 원인은 Claude Code가 아니라 사용자가 만든 <strong>별도 로컬 자동화 도구</strong>가 GitPython을 통해 주기적으로 <code>git reset --hard origin/main</code>을 실행한 것으로 확인됨...</p>",
-          "contentSnippet": "macOS 환경에서 프로젝트 변경사항이 10분마다 자동으로 삭제되는 현상이 보고됨\n조사 결과, 원인은 Claude Code가 아니라 사용자가 만든 별도 로컬 자동화 도구가 GitPython을 통해 주기적으로 git reset --hard origin/main을 실행한 것으로 확인됨...",
-          "id": "https://news.hada.io/topic?id=28020",
-          "isoDate": "2026-03-30T20:33:26.000Z"
-        },
-        {
-          "title": "AI 코딩 에이전트가 자유 소프트웨어를 다시 중요하게 만들 수 있음",
-          "link": "https://news.hada.io/topic?id=28019",
-          "pubDate": "2026-03-30T19:37:39.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>AI 코딩 에이전트</strong>는 사용자를 대신해 코드를 읽고 수정함으로써, 오랫동안 형식적 개념에 머물렀던 <strong>자유 소프트웨어의 ‘4대 자유’</strong> 를 실질적으로 복원할 가능성을 보여줌</li>\n<li>\n<strong>SaaS 중심 구조</strong>가 사용자의 소스 접근권을 제한해온 반면, 에이전트는...</p>",
-          "contentSnippet": "AI 코딩 에이전트는 사용자를 대신해 코드를 읽고 수정함으로써, 오랫동안 형식적 개념에 머물렀던 자유 소프트웨어의 ‘4대 자유’ 를 실질적으로 복원할 가능성을 보여줌\nSaaS 중심 구조가 사용자의 소스 접근권을 제한해온 반면, 에이전트는...",
-          "id": "https://news.hada.io/topic?id=28019",
-          "isoDate": "2026-03-30T19:37:39.000Z"
-        },
-        {
-          "title": "C++26 완성! — C++11 이후 최대 업그레이드, 리플렉션과 메모리 안전성 강화 공식 확정",
-          "link": "https://news.hada.io/topic?id=28018",
-          "pubDate": "2026-03-30T19:34:39.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>C++26이 공식 기술 완료. <strong>리플렉션, 메모리 안전성 강화, 계약(Contracts), std::execution</strong> 등 네 가지 핵심 기능이 포함됨</li>\n<li>\n<strong>컴파일 타임 리플렉션</strong>은 템플릿 도입 이래 C++ 역사상 가장 강력한 추상화 엔진으로, 언어가 스스로를 기술하고 코드를 생성할 수 있게 됨...</p>",
-          "contentSnippet": "C++26이 공식 기술 완료. 리플렉션, 메모리 안전성 강화, 계약(Contracts), std::execution 등 네 가지 핵심 기능이 포함됨\n컴파일 타임 리플렉션은 템플릿 도입 이래 C++ 역사상 가장 강력한 추상화 엔진으로, 언어가 스스로를 기술하고 코드를 생성할 수 있게 됨...",
-          "id": "https://news.hada.io/topic?id=28018",
-          "isoDate": "2026-03-30T19:34:39.000Z"
-        },
-        {
-          "title": "MacBook 키보드가 고장났는데 수리비가 터무니없이 비싸요",
-          "link": "https://news.hada.io/topic?id=28017",
-          "pubDate": "2026-03-30T15:33:13.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>오른쪽 화살표 키가 <strong>지속적으로 눌린 상태로 인식</strong>되어 MacBook Pro 사용이 거의 불가능</li>\n<li>키보드가 <strong>상판에 리벳으로 고정</strong>되어 있어, 키보드만 교체할 수 없고 <strong>상판 전체를 교체해야 함</strong>\n</li>\n<li>교체 부품비가 약 <strong>€730</strong>, 인건비 ...</p>",
-          "contentSnippet": "오른쪽 화살표 키가 지속적으로 눌린 상태로 인식되어 MacBook Pro 사용이 거의 불가능\n키보드가 상판에 리벳으로 고정되어 있어, 키보드만 교체할 수 없고 상판 전체를 교체해야 함\n\n교체 부품비가 약 €730, 인건비 ...",
-          "id": "https://news.hada.io/topic?id=28017",
-          "isoDate": "2026-03-30T15:33:13.000Z"
-        },
-        {
-          "title": "미루기는 시간 관리가 아니라 감정 조절의 문제입니다.",
-          "link": "https://news.hada.io/topic?id=28016",
-          "pubDate": "2026-03-30T14:10:00.000Z",
-          "author": "jkklll",
-          "content": "<p>우리가 일을 미루는 진짜 이유</p>\n<p>2026년 ScienceDirect에 게재된 학술 미루기 체계적 리뷰에 따르면, 미루기의 핵심 원인은 세 가지.</p>\n<ol>\n<li>실패에 대한 두려움(Fear of Failure) : &quot;잘 못하면 어쩌지지?&quot;라는 불안</li>\n<li>완벽주의(Perfectionism) : &quot;완벽하게 할 자신이 없으니 시작조",
-          "contentSnippet": "우리가 일을 미루는 진짜 이유\n2026년 ScienceDirect에 게재된 학술 미루기 체계적 리뷰에 따르면, 미루기의 핵심 원인은 세 가지.\n실패에 대한 두려움(Fear of Failure) : \"잘 못하면 어쩌지지?\"라는 불안\n완벽주의(Perfectionism) : \"완벽하게 할 자신이 없으니 시작조",
-          "id": "https://news.hada.io/topic?id=28016",
-          "isoDate": "2026-03-30T14:10:00.000Z"
-        },
-        {
-          "title": "여성 클리토리스 신경망이 처음으로 완전하게 지도화됨",
-          "link": "https://news.hada.io/topic?id=28015",
-          "pubDate": "2026-03-30T13:41:42.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>약 30년 전 남성 성기의 신경망이 밝혀진 이후, <strong>클리토리스 전체 신경 구조가 처음으로 3D 형태로 시각화</strong>됨</li>\n<li>연구팀은 <strong>고에너지 X선으로 여성 골반을 스캔해 폭 0.7mm 수준의 다섯 개 신경 가지</strong>를 정밀하게 재현함</li>\n<li>결과는 <strong>기존 해부학 교과서의 오...</p>",
-          "contentSnippet": "약 30년 전 남성 성기의 신경망이 밝혀진 이후, 클리토리스 전체 신경 구조가 처음으로 3D 형태로 시각화됨\n연구팀은 고에너지 X선으로 여성 골반을 스캔해 폭 0.7mm 수준의 다섯 개 신경 가지를 정밀하게 재현함\n결과는 기존 해부학 교과서의 오...",
-          "id": "https://news.hada.io/topic?id=28015",
-          "isoDate": "2026-03-30T13:41:42.000Z"
-        },
-        {
-          "title": "Miasma: AI 웹 스크레이퍼를 끝없는 오염 루프로 가두는 도구",
-          "link": "https://news.hada.io/topic?id=28014",
-          "pubDate": "2026-03-30T13:38:41.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Miasma</strong>는 AI 웹 스크레이퍼를 <strong>무한 루프에 빠뜨려 훈련 데이터 수집을 방해하는 Rust 기반 서버 도구</strong>\n</li>\n<li>웹사이트 콘텐츠를 대규모로 수집하는 <strong>AI 기업의 트래픽을 리디렉션</strong>해, ‘poison fountain’에서 가져온 <strong>오염된 데이터와 자기참조 ...</p>",
-          "contentSnippet": "Miasma는 AI 웹 스크레이퍼를 무한 루프에 빠뜨려 훈련 데이터 수집을 방해하는 Rust 기반 서버 도구\n\n웹사이트 콘텐츠를 대규모로 수집하는 AI 기업의 트래픽을 리디렉션해, ‘poison fountain’에서 가져온 오염된 데이터와 자기참조 ...",
-          "id": "https://news.hada.io/topic?id=28014",
-          "isoDate": "2026-03-30T13:38:41.000Z"
-        },
-        {
-          "title": "Pretext: 멀티라인 텍스트 측정과 레이아웃을 위한 TypeScript 라이브러리",
-          "link": "https://news.hada.io/topic?id=28013",
-          "pubDate": "2026-03-30T13:35:41.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Pretext</strong>는 DOM 접근 없이 <strong>멀티라인 텍스트의 높이와 줄 배치</strong>를 계산하는 <strong>순수 JavaScript/TypeScript 라이브러리</strong>로, 브라우저와 서버 환경 모두 지원</li>\n<li>\n<strong>getBoundingClientRect</strong> 같은 DOM 측정 API를 사용하지 않아 <strong>레이아...</p>",
-          "contentSnippet": "Pretext는 DOM 접근 없이 멀티라인 텍스트의 높이와 줄 배치를 계산하는 순수 JavaScript/TypeScript 라이브러리로, 브라우저와 서버 환경 모두 지원\ngetBoundingClientRect 같은 DOM 측정 API를 사용하지 않아 레이아...",
-          "id": "https://news.hada.io/topic?id=28013",
-          "isoDate": "2026-03-30T13:35:41.000Z"
-        },
-        {
-          "title": "Neovim 0.12.0",
-          "link": "https://news.hada.io/topic?id=28011",
-          "pubDate": "2026-03-30T12:33:21.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>최신 안정 버전으로, <strong>LuaJIT 2.1</strong>을 내장하고 주요 수정 및 기능이 추가된 릴리스임</li>\n<li>Windows, macOS, Linux(x86_64·arm64)용 <strong>다양한 설치 패키지</strong>가 제공되어 즉시 실행 가능</li>\n<li>각 플랫폼별로 <strong>ZIP, MSI, tar.gz, AppImage</strong> 형식의 배포 파일과...</p>",
-          "contentSnippet": "최신 안정 버전으로, LuaJIT 2.1을 내장하고 주요 수정 및 기능이 추가된 릴리스임\nWindows, macOS, Linux(x86_64·arm64)용 다양한 설치 패키지가 제공되어 즉시 실행 가능\n각 플랫폼별로 ZIP, MSI, tar.gz, AppImage 형식의 배포 파일과...",
-          "id": "https://news.hada.io/topic?id=28011",
-          "isoDate": "2026-03-30T12:33:21.000Z"
-        },
-        {
-          "title": "Show GN: 한국 이커머스 스킨 개발용 정적 보일러플레이트 (HTMX + Vite + TypeScript)",
-          "link": "https://news.hada.io/topic?id=28008",
-          "pubDate": "2026-03-30T05:35:57.000Z",
-          "author": "hebu570",
-          "content": "<p>안녕하세요, 이커머스 쪽에서 백엔드 개발을 하고 있는 개발자입니다!</p>\n<p>한국 이커머스는 cafe24, 고도몰 &amp; 샵바이, 메이크샵 같은 플랫폼에서 스킨으로 프론트를 구성하는 경우가 많은데<br />\n주로 정적 서빙만 제공하다보니, React 같은 SPA 프레임워크를 사용하기엔 중소기업 규모에서는 어려운 경우가 ",
-          "contentSnippet": "안녕하세요, 이커머스 쪽에서 백엔드 개발을 하고 있는 개발자입니다!\n한국 이커머스는 cafe24, 고도몰 & 샵바이, 메이크샵 같은 플랫폼에서 스킨으로 프론트를 구성하는 경우가 많은데\n주로 정적 서빙만 제공하다보니, React 같은 SPA 프레임워크를 사용하기엔 중소기업 규모에서는 어려운 경우가",
-          "id": "https://news.hada.io/topic?id=28008",
-          "isoDate": "2026-03-30T05:35:57.000Z"
-        },
-        {
-          "title": "인지적 암흑의 숲",
-          "link": "https://news.hada.io/topic?id=28007",
-          "pubDate": "2026-03-30T04:33:08.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>오픈 웹과 AI의 결합</strong>이 류츠신의 소설 <strong>『암흑의 숲』</strong> 논리처럼, 아이디어를 공개하는 행위 자체가 생존에 불리해지는 구조로 변하고 있음</li>\n<li>과거 인터넷은 아이디어 공유가 성공 가능성을 높이는 구조였지만, 2026년 현재는 <strong>플랫폼 집중화와 AI 실행 비용 하...</p>",
-          "contentSnippet": "오픈 웹과 AI의 결합이 류츠신의 소설 『암흑의 숲』 논리처럼, 아이디어를 공개하는 행위 자체가 생존에 불리해지는 구조로 변하고 있음\n과거 인터넷은 아이디어 공유가 성공 가능성을 높이는 구조였지만, 2026년 현재는 플랫폼 집중화와 AI 실행 비용 하...",
-          "id": "https://news.hada.io/topic?id=28007",
-          "isoDate": "2026-03-30T04:33:08.000Z"
-        },
-        {
-          "title": "Show GN: travel plan - 링크로 저장되는 여행지도 (그리고 MCP를 곁들인)",
-          "link": "https://news.hada.io/topic?id=28006",
-          "pubDate": "2026-03-30T04:24:50.000Z",
-          "author": "hshim",
-          "content": "<p>여행 일정을 짜면 항상 한 화면에서 일정과 지도 핀을 한눈에 볼 수 있었으면 해서 만들어 봤습니다<br />\n심플함을 우선시하여 로그인을 없애고 URL에 모든게 저장되어 전용 서버 없이 공유가 가능하도록 설계했습니다<br />\nMCP 연결하고 AI한테 시키면 일정 생성부터 링크 생성까지 모든걸 해줍니다</p>\n<ul>\n<li>",
-          "contentSnippet": "여행 일정을 짜면 항상 한 화면에서 일정과 지도 핀을 한눈에 볼 수 있었으면 해서 만들어 봤습니다\n심플함을 우선시하여 로그인을 없애고 URL에 모든게 저장되어 전용 서버 없이 공유가 가능하도록 설계했습니다\nMCP 연결하고 AI한테 시키면 일정 생성부터 링크 생성까지 모든걸 해줍니다",
-          "id": "https://news.hada.io/topic?id=28006",
-          "isoDate": "2026-03-30T04:24:50.000Z"
-        },
-        {
-          "title": "AI 판사 도입시 디지털 변론주의의 확립: 프롬프트 합의 및 메타데이터 중립성 확보 방안",
-          "link": "https://news.hada.io/topic?id=28005",
-          "pubDate": "2026-03-30T03:54:25.000Z",
-          "author": "woongaro",
-          "content": "<p>인공지능(AI) 판사가 법률 영역에 도입에 있어 필수적인 전제로 판결의 정당성을 결정짓는 가장 중요한 요소는 '입력 데이터의 중립성'입니다.</p>\n<p>AI는 프롬프트와 데이터의 맥락(Metadata)에 따라 전혀 다른 결론을 도출할 수 있으므로, 원·피고 대리인이 사전에 프롬프트와 증거 데이터의 구조를 합의하는 '프론",
-          "contentSnippet": "인공지능(AI) 판사가 법률 영역에 도입에 있어 필수적인 전제로 판결의 정당성을 결정짓는 가장 중요한 요소는 '입력 데이터의 중립성'입니다.\nAI는 프롬프트와 데이터의 맥락(Metadata)에 따라 전혀 다른 결론을 도출할 수 있으므로, 원·피고 대리인이 사전에 프롬프트와 증거 데이터의 구조를 합의하는 '프론",
-          "id": "https://news.hada.io/topic?id=28005",
-          "isoDate": "2026-03-30T03:54:25.000Z"
-        },
-        {
-          "title": "Show GN: 안드로이드에서 원격 서버의 Claude Code / Codex CLI에 이미지 보내기 불편해서 redTerm을 만들었습니다",
-          "link": "https://news.hada.io/topic?id=28004",
-          "pubDate": "2026-03-30T02:41:30.000Z",
-          "author": "coderred",
-          "content": "<p>안녕하세요.</p>\n<p>모바일에서 원격 서버에 SSH로 붙어서 Claude Code나 Codex CLI를 사용할 때,<br />\n텍스트 입력은 어떻게든 되는데 이미지 전달이 꽤 번거롭더라구요.</p>\n<p>예를 들어 폰에서 스크린샷을 찍거나 이미지를 복사한 뒤<br />\n그걸 바로 원격 서버에서 작업에 쓰고 싶은 경우가 있는데,<br />\n기존",
-          "contentSnippet": "안녕하세요.\n모바일에서 원격 서버에 SSH로 붙어서 Claude Code나 Codex CLI를 사용할 때,\n예를 들어 폰에서 스크린샷을 찍거나 이미지를 복사한 뒤\n그걸 바로 원격 서버에서 작업에 쓰고 싶은 경우가 있는데,\n기존",
-          "id": "https://news.hada.io/topic?id=28004",
-          "isoDate": "2026-03-30T02:41:30.000Z"
         }
       ]
     }
