@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "Google의 2억 파라미터, 16k 컨텍스트 시계열 기반 모델 TimesFM",
+          "link": "https://news.hada.io/topic?id=28087",
+          "pubDate": "2026-04-01T09:36:25.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>TimesFM</strong>은 Google Research가 개발한 <strong>시계열 예측용 대규모 사전학습 모델</strong>로, 디코더 전용 구조를 사용함</li>\n<li>최신 버전 <strong>2.5</strong>는 <strong>파라미터 수 2억 개</strong>, <strong>컨텍스트 길이 16k</strong>, <strong>최대 1k horizon 예측</strong>을...</p>",
+          "contentSnippet": "TimesFM은 Google Research가 개발한 시계열 예측용 대규모 사전학습 모델로, 디코더 전용 구조를 사용함\n최신 버전 2.5는 파라미터 수 2억 개, 컨텍스트 길이 16k, 최대 1k horizon 예측을...",
+          "id": "https://news.hada.io/topic?id=28087",
+          "isoDate": "2026-04-01T09:36:25.000Z"
+        },
+        {
+          "title": "OpenAI, 8,520억 달러 기업가치로 자금 조달 라운드 마무리",
+          "link": "https://news.hada.io/topic?id=28086",
+          "pubDate": "2026-04-01T09:33:08.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>사상 최대 규모의 <strong>1,220억 달러 자금 조달</strong>을 완료하며 <strong>사후 기업가치 8,520억 달러</strong> 달성</li>\n<li>\n<strong>SoftBank</strong>, <strong>Andreessen Horowitz</strong>, <strong>D. E. Shaw Ventures</strong>가 주도하고 <strong>Microsoft</strong>, <strong>Amazon</stro...</p>",
+          "contentSnippet": "사상 최대 규모의 1,220억 달러 자금 조달을 완료하며 사후 기업가치 8,520억 달러 달성\nSoftBank, Andreessen Horowitz, D. E. Shaw Ventures가 주도하고 Microsoft, Amazon",
+          "id": "https://news.hada.io/topic?id=28086",
+          "isoDate": "2026-04-01T09:33:08.000Z"
+        },
+        {
+          "title": "OkCupid가 얼굴 인식 기업에 300만 장의 데이팅 앱 사진을 제공했다고 FTC가 발표",
+          "link": "https://news.hada.io/topic?id=28085",
+          "pubDate": "2026-04-01T05:33:07.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>FTC</strong>는 OkCupid가 약 <strong>300만 장의 사용자 사진</strong>을 얼굴 인식 기업 <strong>Clarifai</strong>에 제공했다고 밝혔으며, 데이터 사용 방식에 <strong>허위 주장</strong>이 있었다고 지적</li>\n<li>Clarifai는 2014년 OkCupid 공동창업자에게 이메일을 보내 <strong>대규모 사진...</p>",
+          "contentSnippet": "FTC는 OkCupid가 약 300만 장의 사용자 사진을 얼굴 인식 기업 Clarifai에 제공했다고 밝혔으며, 데이터 사용 방식에 허위 주장이 있었다고 지적\nClarifai는 2014년 OkCupid 공동창업자에게 이메일을 보내 대규모 사진...",
+          "id": "https://news.hada.io/topic?id=28085",
+          "isoDate": "2026-04-01T05:33:07.000Z"
+        },
+        {
           "title": "Function Calling Harness, turning success rate from 6.75% to 100%",
           "link": "https://news.hada.io/topic?id=28084",
           "pubDate": "2026-04-01T04:51:39.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "텍스트·이미지·오디오·영상을 모두 이해하고 생성하는 Alibaba Qwen 팀의 최신 모델, Thinker-Talker 아키텍처에 Hybrid-Attention MoE를 적용해 전 모달리티 처리 능력을 대폭 강화\nPlus·Flash·Light 3가지 크기의 Instruct 버전을 제공하며, 256k 롱컨텍스트 입력, 10시간 이상의...",
           "id": "https://news.hada.io/topic?id=28027",
           "isoDate": "2026-03-31T00:45:01.000Z"
-        },
-        {
-          "title": "필라델피아 법원, 스마트 안경 전면 금지 조치 발표",
-          "link": "https://news.hada.io/topic?id=28026",
-          "pubDate": "2026-03-31T00:44:33.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>펜실베이니아 제1사법구가 <strong>증인과 배심원에 대한 위협 및 위축 방지</strong>를 이유로 모든 형태의 <strong>스마트 안경 및 AI 통합 안경</strong>을 금지</li>\n<li>이번 조치는 <strong>다음 주 월요일부터 시행</strong>되며, 영상·음성 녹음 기능이 있는 안경은 <strong>처방용이라도</strong> 법원...</p>",
-          "contentSnippet": "펜실베이니아 제1사법구가 증인과 배심원에 대한 위협 및 위축 방지를 이유로 모든 형태의 스마트 안경 및 AI 통합 안경을 금지\n이번 조치는 다음 주 월요일부터 시행되며, 영상·음성 녹음 기능이 있는 안경은 처방용이라도 법원...",
-          "id": "https://news.hada.io/topic?id=28026",
-          "isoDate": "2026-03-31T00:44:33.000Z"
-        },
-        {
-          "title": "무엇이든 라우터로 만드는 방법",
-          "link": "https://news.hada.io/topic?id=28025",
-          "pubDate": "2026-03-31T00:41:33.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>일반 컴퓨터나 미니 PC</strong>를 활용해 완전한 라우터를 구성하는 절차를 단계별로 정리</li>\n<li>\n<strong>Debian 또는 Alpine Linux</strong> 환경에서 <code>hostapd</code>, <code>dnsmasq</code>, <code>bridge-utils</code> 등 최소 패키지로 유·무선 네트워크를 구성</li>\n<li>\n<strong>이더...</p>",
-          "contentSnippet": "일반 컴퓨터나 미니 PC를 활용해 완전한 라우터를 구성하는 절차를 단계별로 정리\nDebian 또는 Alpine Linux 환경에서 hostapd, dnsmasq, bridge-utils 등 최소 패키지로 유·무선 네트워크를 구성\n이더...",
-          "id": "https://news.hada.io/topic?id=28025",
-          "isoDate": "2026-03-31T00:41:33.000Z"
-        },
-        {
-          "title": "Copilot이 내 Pull Request에 광고를 삽입했어요",
-          "link": "https://news.hada.io/topic?id=28024",
-          "pubDate": "2026-03-31T00:38:33.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>팀원이 <strong>Copilot</strong>을 사용해 PR의 오타를 수정하는 과정에서, Copilot이 <strong>PR 설명에 자기 자신과 Raycast의 광고 문구를 자동 추가</strong>함</li>\n<li>작성자는 이를 <strong>“끔찍하다(horrific)”</strong> 고 표현하며, 이런 일이 언젠가 일어날 것이라 예상했지만 <strong>이렇게 ...</p>",
-          "contentSnippet": "팀원이 Copilot을 사용해 PR의 오타를 수정하는 과정에서, Copilot이 PR 설명에 자기 자신과 Raycast의 광고 문구를 자동 추가함\n작성자는 이를 “끔찍하다(horrific)” 고 표현하며, 이런 일이 언젠가 일어날 것이라 예상했지만 이렇게 ...",
-          "id": "https://news.hada.io/topic?id=28024",
-          "isoDate": "2026-03-31T00:38:33.000Z"
         }
       ]
     }
