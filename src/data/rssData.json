@@ -7,6 +7,116 @@
       "priority": 1,
       "data": [
         {
+          "title": "EmDash – 플러그인 보안 문제를 해결한 WordPress의 정신적 후속작",
+          "link": "https://news.hada.io/topic?id=28111",
+          "pubDate": "2026-04-02T02:33:32.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>EmDash</strong>는 WordPress의 구조적 한계를 극복하기 위해 <strong>TypeScript와 서버리스 아키텍처</strong>로 새롭게 설계된 <strong>오픈소스 CMS</strong>임</li>\n<li>각 <strong>플러그인을 격리된 샌드박스 환경</strong>에서 실행해, WordPress 사이트 보안 문제의 96%를 차지하던 <strong>...</p>",
+          "contentSnippet": "EmDash는 WordPress의 구조적 한계를 극복하기 위해 TypeScript와 서버리스 아키텍처로 새롭게 설계된 오픈소스 CMS임\n각 플러그인을 격리된 샌드박스 환경에서 실행해, WordPress 사이트 보안 문제의 96%를 차지하던 ...",
+          "id": "https://news.hada.io/topic?id=28111",
+          "isoDate": "2026-04-02T02:33:32.000Z"
+        },
+        {
+          "title": "Show GN: claw-code를 Elixir로 포팅하면서 OTP, 멀티노드 강점을 살려봤습니다.",
+          "link": "https://news.hada.io/topic?id=28110",
+          "pubDate": "2026-04-02T02:04:59.000Z",
+          "author": "wlehgus78",
+          "content": "<p>안녕하세요.<br />\n최근에 instructkr / ultraworkers의 claw-code (https://github.com/ultraworkers/claw-code) 를 Elixir로 포팅해보는 실험을 하고 있습니다.</p>\n<p>그냥 1:1로 옮기는 것보다는,<br />\n이런 종류의 agent / control-plane 성격의 프로젝트를 Elixir스럽게 만들면 어떤 모습이 될지 보고 싶었습니",
+          "contentSnippet": "안녕하세요.\n그냥 1:1로 옮기는 것보다는,\n이런 종류의 agent / control-plane 성격의 프로젝트를 Elixir스럽게 만들면 어떤 모습이 될지 보고 싶었습니",
+          "id": "https://news.hada.io/topic?id=28110",
+          "isoDate": "2026-04-02T02:04:59.000Z"
+        },
+        {
+          "title": "OpenAI 2차 시장 수요 급감, Anthropic에 투자자 몰림",
+          "link": "https://news.hada.io/topic?id=28109",
+          "pubDate": "2026-04-02T01:37:22.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>OpenAI 주식</strong>이 2차 시장에서 거래 부진을 겪으며, 일부 거래에서는 매도 자체가 어려운 수준으로 언급됨</li>\n<li>투자자들이 빠르게 <strong>Anthropic</strong>으로 관심을 옮기며, 두 기업 간 <strong>투자 선호도 격차</strong>가 확대되는 양상</li>\n<li>OpenAI가 <strong>수백억 달러 ...</p>",
+          "contentSnippet": "OpenAI 주식이 2차 시장에서 거래 부진을 겪으며, 일부 거래에서는 매도 자체가 어려운 수준으로 언급됨\n투자자들이 빠르게 Anthropic으로 관심을 옮기며, 두 기업 간 투자 선호도 격차가 확대되는 양상\nOpenAI가 수백억 달러 ...",
+          "id": "https://news.hada.io/topic?id=28109",
+          "isoDate": "2026-04-02T01:37:22.000Z"
+        },
+        {
+          "title": "Claude Code, 깜빡임 없는 NO_FLICKER 모드 공개",
+          "link": "https://news.hada.io/topic?id=28108",
+          "pubDate": "2026-04-02T01:37:02.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>기존 렌더러의 화면 <strong>깜박임·점프 현상을 해소</strong>하는 실험적 렌더러 도입</li>\n<li>대화가 길어져도 <strong>메모리·CPU 사용량이 일정</strong>하게 유지되며, 터미널 환경에서 <strong>마우스 클릭·커서 이동·UI 요소 클릭이 가능</strong>해짐</li>\n<li>\n<code>CLAUDE_CODE_NO_FLICKER=1</cod...</p>",
+          "contentSnippet": "기존 렌더러의 화면 깜박임·점프 현상을 해소하는 실험적 렌더러 도입\n대화가 길어져도 메모리·CPU 사용량이 일정하게 유지되며, 터미널 환경에서 마우스 클릭·커서 이동·UI 요소 클릭이 가능해짐\nCLAUDE_CODE_NO_FLICKER=1",
+          "id": "https://news.hada.io/topic?id=28108",
+          "isoDate": "2026-04-02T01:37:02.000Z"
+        },
+        {
+          "title": "OpenAI의 무덤: 성사되지 못한 모든 거래와 제품들",
+          "link": "https://news.hada.io/topic?id=28107",
+          "pubDate": "2026-04-02T01:36:35.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>IPO를 앞두고 수익성 압박이 커지면서, OpenAI가 야심차게 발표했던 다수의 제품과 파트너십 딜들이 취소·지연·불투명 상태로 남겨지고 있음</li>\n<li>\n<strong>Sora-Disney 10억 달러 딜</strong>이 돌연 취소된 것을 비롯해, ChatGPT 쇼핑 기능, 성인용 모드 등 여러 이니셔티브가 잇따라 폐기됨</li>\n<li>\n...</p>",
+          "contentSnippet": "IPO를 앞두고 수익성 압박이 커지면서, OpenAI가 야심차게 발표했던 다수의 제품과 파트너십 딜들이 취소·지연·불투명 상태로 남겨지고 있음\nSora-Disney 10억 달러 딜이 돌연 취소된 것을 비롯해, ChatGPT 쇼핑 기능, 성인용 모드 등 여러 이니셔티브가 잇따라 폐기됨\n\n...",
+          "id": "https://news.hada.io/topic?id=28107",
+          "isoDate": "2026-04-02T01:36:35.000Z"
+        },
+        {
+          "title": "MiniStack — 무료 오픈소스 로컬 AWS 에뮬레이터",
+          "link": "https://news.hada.io/topic?id=28106",
+          "pubDate": "2026-04-02T01:35:54.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>AWS 환경을 로컬에서 완전히 재현할 수 있는 <strong>무료 오픈소스 에뮬레이터</strong>로, 유료화된 LocalStack의 대체재로 개발됨</li>\n<li>\n<strong>34개 AWS 서비스</strong>를 단일 포트에서 실행하며, <strong>Postgres·Redis·Docker 컨테이너</strong>를 실제로 구동해 인프라 수준의 테스트 환경을 제...</p>",
+          "contentSnippet": "AWS 환경을 로컬에서 완전히 재현할 수 있는 무료 오픈소스 에뮬레이터로, 유료화된 LocalStack의 대체재로 개발됨\n34개 AWS 서비스를 단일 포트에서 실행하며, Postgres·Redis·Docker 컨테이너를 실제로 구동해 인프라 수준의 테스트 환경을 제...",
+          "id": "https://news.hada.io/topic?id=28106",
+          "isoDate": "2026-04-02T01:35:54.000Z"
+        },
+        {
+          "title": "데이터 과학자의 복귀",
+          "link": "https://news.hada.io/topic?id=28105",
+          "pubDate": "2026-04-02T01:34:04.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>LLM과 Foundation Model API 확산으로 AI 배포 과정에서 데이터 과학자의 역할이 축소되었지만, <strong>실험 설계·디버깅·지표 설계</strong> 등 핵심 업무는 여전히 필수적임</li>\n<li>\n<strong>Harness Engineering</strong>과 같은 자율 코드 개발 환경에서도 로그·메트릭·트레이스 관리가 필요하며, 이는 ...</p>",
+          "contentSnippet": "LLM과 Foundation Model API 확산으로 AI 배포 과정에서 데이터 과학자의 역할이 축소되었지만, 실험 설계·디버깅·지표 설계 등 핵심 업무는 여전히 필수적임\nHarness Engineering과 같은 자율 코드 개발 환경에서도 로그·메트릭·트레이스 관리가 필요하며, 이는 ...",
+          "id": "https://news.hada.io/topic?id=28105",
+          "isoDate": "2026-04-02T01:34:04.000Z"
+        },
+        {
+          "title": "lodash를 아직 쓰고 있다면 - package.json 한 줄로 번들 97% 줄이기 (es-toolkit)",
+          "link": "https://news.hada.io/topic?id=28104",
+          "pubDate": "2026-04-02T01:26:42.000Z",
+          "author": "bboydart91",
+          "content": "<p>토스 프론트엔드 팀에서 만든 lodash 대체 JavaScript 유틸리티 라이브러리 es-toolkit이 npm 주간 다운로드 1,000만 건을 넘기기까지의 과정을 정리한 글입니다.</p>\n<ul>\n<li>2024년 &quot;한국에서 세계적으로 사용되는 JS 라이브러리가 나온 적이 있나?&quot;라는 질문에서 출발</li>\n<li>lodash가 10년 전 설계된",
+          "contentSnippet": "토스 프론트엔드 팀에서 만든 lodash 대체 JavaScript 유틸리티 라이브러리 es-toolkit이 npm 주간 다운로드 1,000만 건을 넘기기까지의 과정을 정리한 글입니다.\n2024년 \"한국에서 세계적으로 사용되는 JS 라이브러리가 나온 적이 있나?\"라는 질문에서 출발\nlodash가 10년 전 설계된",
+          "id": "https://news.hada.io/topic?id=28104",
+          "isoDate": "2026-04-02T01:26:42.000Z"
+        },
+        {
+          "title": "Show GN: Uviewer - 이미지, 만화, 텍스트, pdf, epub 통합뷰어",
+          "link": "https://news.hada.io/topic?id=28103",
+          "pubDate": "2026-04-02T01:18:47.000Z",
+          "author": "kirinonakar",
+          "content": "<p>Winui3로 만든 이미지, 만화, 텍스트, pdf, epub 통합뷰어입니다.<br />\n만화나 소설 읽기에 최적화해서 만들었습니다.<br />\n자세한 사용법은 github를 참조해 주세요.</p>\n<p>github<br />\nhttps://github.com/kirinonakar/Uviewer<br />\nmicrosoft store<br />\nhttps://apps.microsoft.com/detail/9N6DL9Q4S6FK?hl",
+          "contentSnippet": "Winui3로 만든 이미지, 만화, 텍스트, pdf, epub 통합뷰어입니다.\ngithub\nhttps://github.com/kirinonakar/Uviewer\nmicrosoft store\nhttps://apps.microsoft.com/detail/9N6DL9Q4S6FK?hl",
+          "id": "https://news.hada.io/topic?id=28103",
+          "isoDate": "2026-04-02T01:18:47.000Z"
+        },
+        {
+          "title": "Hermes Agent — 경험으로부터 스킬을 생성·개선하는 자기 학습형 자율 AI 에이전트",
+          "link": "https://news.hada.io/topic?id=28101",
+          "pubDate": "2026-04-02T00:37:10.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>자기 학습 루프</strong>를 내장한 자율 에이전트로, 사용 중 스킬을 스스로 생성하고 개선하며, 세션 간에 사용자 모델을 점진적으로 심화시킴</li>\n<li>IDE에 묶인 코딩 코파일럿이나 단일 API 챗봇 래퍼가 아닌 자율 에이전트로 <strong>실행 시간이 길수록 더 유능해짐</strong>\n</li>\n<li>실행 환...</p>",
+          "contentSnippet": "자기 학습 루프를 내장한 자율 에이전트로, 사용 중 스킬을 스스로 생성하고 개선하며, 세션 간에 사용자 모델을 점진적으로 심화시킴\nIDE에 묶인 코딩 코파일럿이나 단일 API 챗봇 래퍼가 아닌 자율 에이전트로 실행 시간이 길수록 더 유능해짐\n\n실행 환...",
+          "id": "https://news.hada.io/topic?id=28101",
+          "isoDate": "2026-04-02T00:37:10.000Z"
+        },
+        {
+          "title": "NASA의 Artemis II 승무원, 달로 향하는 발사 성공",
+          "link": "https://news.hada.io/topic?id=28100",
+          "pubDate": "2026-04-02T00:33:27.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>4명의 우주비행사가 탑승한 <strong>Artemis II 유인 시험 비행</strong>이 Kennedy 우주센터 <strong>Launch Complex 39B</strong>에서 <strong>SLS 로켓</strong>을 통해 발사됨</li>\n<li>이번 임무는 <strong>50년 만의 첫 유인 심우주 비행</strong>으로, 약 10일간 달을 선회한 뒤 지구로 귀환하는 여정 수...</p>",
+          "contentSnippet": "4명의 우주비행사가 탑승한 Artemis II 유인 시험 비행이 Kennedy 우주센터 Launch Complex 39B에서 SLS 로켓을 통해 발사됨\n이번 임무는 50년 만의 첫 유인 심우주 비행으로, 약 10일간 달을 선회한 뒤 지구로 귀환하는 여정 수...",
+          "id": "https://news.hada.io/topic?id=28100",
+          "isoDate": "2026-04-02T00:33:27.000Z"
+        },
+        {
           "title": "Show GN: 반품랩탑 - AI가 다나와 데이터와 오픈마켓 반품 특가를 매핑해 진짜 가성비 반품 노트북을 찾아주는 서...",
           "link": "https://news.hada.io/topic?id=28099",
           "pubDate": "2026-04-01T19:53:25.000Z",
@@ -97,12 +207,12 @@
           "isoDate": "2026-04-01T12:52:59.000Z"
         },
         {
-          "title": "나는 ATProto에 베팅한다",
+          "title": "왜 나는 ATProto에 베팅하는가 (그리고 당신도 그래야 하는 이유)",
           "link": "https://news.hada.io/topic?id=28089",
           "pubDate": "2026-04-01T09:43:01.000Z",
           "author": "xguru",
-          "content": "<ul>\n<li>기존 <strong>소셜 미디어 플랫폼</strong>이 광고 중심 구조로 변하며 인간적 연결보다 <strong>참여 유도 알고리듬</strong>에 종속된 문제를 지적함</li>\n<li>\n<strong>ATProto</strong>는 사용자가 자신의 데이터와 사회적 연결망을 직접 소유하고, <strong>앱 간 이동과 호환성</strong>을 보장하는 <stro...</p>",
-          "contentSnippet": "기존 소셜 미디어 플랫폼이 광고 중심 구조로 변하며 인간적 연결보다 참여 유도 알고리듬에 종속된 문제를 지적함\nATProto는 사용자가 자신의 데이터와 사회적 연결망을 직접 소유하고, 앱 간 이동과 호환성을 보장하는",
+          "content": "<ul>\n<li>광고와 분열로 가득 찬 주류 소셜 미디어의 대안으로, <strong>데이터 소유권과 이식성</strong>을 핵심으로 설계된 오픈 프로토콜 ATProto가 개발자·과학자·저널리스트 등 다양한 계층의 주목을 받고 있음</li>\n<li>ATProto 기반 앱에서는 사용자의 소셜 그래프, 게시물, 좋아요, 댓글이 모두 사용자 본인 소유...</p>",
+          "contentSnippet": "광고와 분열로 가득 찬 주류 소셜 미디어의 대안으로, 데이터 소유권과 이식성을 핵심으로 설계된 오픈 프로토콜 ATProto가 개발자·과학자·저널리스트 등 다양한 계층의 주목을 받고 있음\nATProto 기반 앱에서는 사용자의 소셜 그래프, 게시물, 좋아요, 댓글이 모두 사용자 본인 소유...",
           "id": "https://news.hada.io/topic?id=28089",
           "isoDate": "2026-04-01T09:43:01.000Z"
         },
@@ -131,8 +241,8 @@
           "link": "https://news.hada.io/topic?id=28086",
           "pubDate": "2026-04-01T09:33:08.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>사상 최대 규모의 <strong>1,220억 달러 자금 조달</strong>을 완료하며 <strong>사후 기업가치 8,520억 달러</strong> 달성</li>\n<li>\n<strong>SoftBank</strong>, <strong>Andreessen Horowitz</strong>, <strong>D. E. Shaw Ventures</strong>가 주도하고 <strong>Microsoft</strong>, <strong>Amazon</stro...</p>",
-          "contentSnippet": "사상 최대 규모의 1,220억 달러 자금 조달을 완료하며 사후 기업가치 8,520억 달러 달성\nSoftBank, Andreessen Horowitz, D. E. Shaw Ventures가 주도하고 Microsoft, Amazon",
+          "content": "<ul>\n<li>사상 최대 규모의 <strong>1,220억 달러(약 184조원) 자금 조달</strong>을 완료하며 <strong>사후 기업가치 8,520억 달러(약 1280조원)</strong> 달성</li>\n<li>\n<strong>SoftBank</strong>, <strong>Andreessen Horowitz</strong>, <strong>D. E. Shaw Ventures</strong>가 주도하고 <strong>Microsoft</stro...</p>",
+          "contentSnippet": "사상 최대 규모의 1,220억 달러(약 184조원) 자금 조달을 완료하며 사후 기업가치 8,520억 달러(약 1280조원) 달성\nSoftBank, Andreessen Horowitz, D. E. Shaw Ventures가 주도하고 Microsoft",
           "id": "https://news.hada.io/topic?id=28086",
           "isoDate": "2026-04-01T09:33:08.000Z"
         },
@@ -395,116 +505,6 @@
           "contentSnippet": "맥북을 단 1달러의 부품과 컴퓨터 비전 기술로 터치스크린처럼 동작하게 만든 프로토타입 프로젝트\n내장 웹캠 앞에 작은 거울을 설치해 화면을 비스듬히 인식하고, 손가락과 반사상의 교차점을 터치로 감지\n피부색 필터링과 외...",
           "id": "https://news.hada.io/topic?id=28057",
           "isoDate": "2026-03-31T13:33:13.000Z"
-        },
-        {
-          "title": "Show GN: 한국 주식시장 뉴스 분석 및 투자 리서치를 위해 특화된 7B 파라미터 에이전트 LLM",
-          "link": "https://news.hada.io/topic?id=28056",
-          "pubDate": "2026-03-31T13:04:25.000Z",
-          "author": "unohee",
-          "content": "<p>한국 증시(KOSPI+KOSDAQ) 특화 언어 모델 VELA를 공개합니다.</p>\n<p>Qwen2.5-7B-Instruct를 베이스로 SFT + DPO 파이프라인으로 파인튜닝했습니다.</p>\n<p><strong>만든 이유</strong><br />\n기존 금융 LLM은 한국 시장 용어에서 할루시네이션이 심하거나,<br />\n응답 중간에 중국어/영어로 전환되는 language leak ",
-          "contentSnippet": "한국 증시(KOSPI+KOSDAQ) 특화 언어 모델 VELA를 공개합니다.\nQwen2.5-7B-Instruct를 베이스로 SFT + DPO 파이프라인으로 파인튜닝했습니다.\n만든 이유\n기존 금융 LLM은 한국 시장 용어에서 할루시네이션이 심하거나,\n응답 중간에 중국어/영어로 전환되는 language leak",
-          "id": "https://news.hada.io/topic?id=28056",
-          "isoDate": "2026-03-31T13:04:25.000Z"
-        },
-        {
-          "title": "레트로 데모씬 그래픽의 기묘한 사례",
-          "link": "https://news.hada.io/topic?id=28053",
-          "pubDate": "2026-03-31T11:33:27.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>1980~90년대 <strong>데모씬 그래픽 문화</strong>는 외부 예술의 차용에는 관대하면서도 내부 표절에는 엄격한 <strong>기술 중심 창작 공동체</strong>로 형성됨</li>\n<li>초기 픽셀 아트는 유명 화가의 작품을 손으로 베껴 그리며 <strong>디더링과 안티앨리어싱</strong>을 수작업으로 구현하는 <strong>공...</p>",
-          "contentSnippet": "1980~90년대 데모씬 그래픽 문화는 외부 예술의 차용에는 관대하면서도 내부 표절에는 엄격한 기술 중심 창작 공동체로 형성됨\n초기 픽셀 아트는 유명 화가의 작품을 손으로 베껴 그리며 디더링과 안티앨리어싱을 수작업으로 구현하는 공...",
-          "id": "https://news.hada.io/topic?id=28053",
-          "isoDate": "2026-03-31T11:33:27.000Z"
-        },
-        {
-          "title": "Show GN: 작업할 때 중요한건 플레이리스트 입니다.",
-          "link": "https://news.hada.io/topic?id=28052",
-          "pubDate": "2026-03-31T10:40:02.000Z",
-          "author": "windbug99",
-          "content": "<p>최근 AI와 홀로 작업을 계속하다보니 노동요의 중요성이 더욱 커졌습니다.<br />\n다양한 스트리밍 플랫폼을 사용하다가 자동추천곡에 질리게 되었습니다. 다른 사람들의 플레이리스트를 찾아다니다가 생각보다 번거롭더라구요. 어짜피 작업할때 주로 듣기 때문에 Youtube로 플레이리스트 공유할 수 있도록 커뮤니티를...</p>",
-          "contentSnippet": "최근 AI와 홀로 작업을 계속하다보니 노동요의 중요성이 더욱 커졌습니다.\n다양한 스트리밍 플랫폼을 사용하다가 자동추천곡에 질리게 되었습니다. 다른 사람들의 플레이리스트를 찾아다니다가 생각보다 번거롭더라구요. 어짜피 작업할때 주로 듣기 때문에 Youtube로 플레이리스트 공유할 수 있도록 커뮤니티를...",
-          "id": "https://news.hada.io/topic?id=28052",
-          "isoDate": "2026-03-31T10:40:02.000Z"
-        },
-        {
-          "title": "Show GN: 법망 - PostgreSQL 기반 한국 법령 전체를 JSON으로 제공하는 에이전트용 API",
-          "link": "https://news.hada.io/topic?id=28050",
-          "pubDate": "2026-03-31T09:15:47.000Z",
-          "author": "miceonvenus",
-          "content": "<ul>\n<li>XML, HWP, PDF 사전 파싱 — 표 데이터 포함 모든 출력 JSON</li>\n<li>국가법령정보센터 제공 법령 99.9%+ 수록, 매주 토요일 최신 동기화</li>\n<li>PostgreSQL + pgvector, 주요 조문 20만건 임베딩(768d) — semantic search 지원</li>\n<li>인증키 필요 없는 REST API, rate limit 100회/분, 스트레스 테스트...</p>",
-          "contentSnippet": "XML, HWP, PDF 사전 파싱 — 표 데이터 포함 모든 출력 JSON\n국가법령정보센터 제공 법령 99.9%+ 수록, 매주 토요일 최신 동기화\nPostgreSQL + pgvector, 주요 조문 20만건 임베딩(768d) — semantic search 지원\n인증키 필요 없는 REST API, rate limit 100회/분, 스트레스 테스트...",
-          "id": "https://news.hada.io/topic?id=28050",
-          "isoDate": "2026-03-31T09:15:47.000Z"
-        },
-        {
-          "title": "Ollama, 이제 애플 실리콘에서 MLX 기반으로 구동",
-          "link": "https://news.hada.io/topic?id=28049",
-          "pubDate": "2026-03-31T09:09:19.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>Apple MLX 프레임워크</strong>를 기반으로 한 Ollama의 프리뷰 버전이 공개, Apple Silicon의 <strong>통합 메모리 아키텍처</strong>를 활용한 성능 향상 제공</li>\n<li>M5 시리즈 칩의 <strong>GPU Neural Accelerator</strong>를 통해 <strong>TTFT(첫 토큰 생성 시간)</strong> 과 <strong>토큰 ...</p>",
-          "contentSnippet": "Apple MLX 프레임워크를 기반으로 한 Ollama의 프리뷰 버전이 공개, Apple Silicon의 통합 메모리 아키텍처를 활용한 성능 향상 제공\nM5 시리즈 칩의 GPU Neural Accelerator를 통해 TTFT(첫 토큰 생성 시간) 과 토큰 ...",
-          "id": "https://news.hada.io/topic?id=28049",
-          "isoDate": "2026-03-31T09:09:19.000Z"
-        },
-        {
-          "title": "Axios가 NPM에서 침해되어 원격 접근 트로이목마가 배포됨",
-          "link": "https://news.hada.io/topic?id=28047",
-          "pubDate": "2026-03-31T08:22:27.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>널리 사용되는 <strong>axios HTTP 클라이언트</strong>의 두 악성 버전이 npm에 게시되어, 설치 시 <strong>원격 접근 트로이목마(RAT)</strong> 를 배포함</li>\n<li>공격자는 <strong>유지관리자 계정 자격 증명 탈취</strong>를 통해 GitHub Actions를 우회하고 수동으로 악성 패키지를 업로드함</li>\n<li>악...</p>",
-          "contentSnippet": "널리 사용되는 axios HTTP 클라이언트의 두 악성 버전이 npm에 게시되어, 설치 시 원격 접근 트로이목마(RAT) 를 배포함\n공격자는 유지관리자 계정 자격 증명 탈취를 통해 GitHub Actions를 우회하고 수동으로 악성 패키지를 업로드함\n악...",
-          "id": "https://news.hada.io/topic?id=28047",
-          "isoDate": "2026-03-31T08:22:27.000Z"
-        },
-        {
-          "title": "axios@1.14.1, axios@0.30.4 버전이 해킹당했습니다.",
-          "link": "https://news.hada.io/topic?id=28046",
-          "pubDate": "2026-03-31T08:01:28.000Z",
-          "author": "rkjun",
-          "content": "<p>금일 npm install 명령을 통해,  axios@1.14.1, axios@0.30.4</p>\n<p>위의 버전을 설치한 경우에, 악성코드가 설치될 수 있습니다.</p>\n<p>주당 1억회 이상 다운받는 라이브러리라고 하는데, 여파가 좀 클 것 같네요.</p>\n<p>axios 검색후 긱뉴스에 관련 글이 보이지 않아 작성합니다만, 중복글로 확인되면 제거하겠습",
-          "contentSnippet": "금일 npm install 명령을 통해,  axios@1.14.1, axios@0.30.4\n위의 버전을 설치한 경우에, 악성코드가 설치될 수 있습니다.\n주당 1억회 이상 다운받는 라이브러리라고 하는데, 여파가 좀 클 것 같네요.\naxios 검색후 긱뉴스에 관련 글이 보이지 않아 작성합니다만, 중복글로 확인되면 제거하겠습",
-          "id": "https://news.hada.io/topic?id=28046",
-          "isoDate": "2026-03-31T08:01:28.000Z"
-        },
-        {
-          "title": "CodingFont: 코딩 폰트를 선택하도록 돕는 게임",
-          "link": "https://news.hada.io/topic?id=28045",
-          "pubDate": "2026-03-31T05:33:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>다양한 <strong>모노스페이스 폰트</strong>를 비교하며 자신에게 가장 읽기 좋은 코딩용 폰트를 찾을 수 있는 <strong>웹 기반 인터랙티브 게임</strong>\n</li>\n<li>각 라운드마다 두 가지 폰트가 제시되고, 사용자가 더 선호하는 폰트를 선택하면 <strong>개인 맞춤형 추천 결과</strong>가 생성됨</li>\n<li>...</p>",
-          "contentSnippet": "다양한 모노스페이스 폰트를 비교하며 자신에게 가장 읽기 좋은 코딩용 폰트를 찾을 수 있는 웹 기반 인터랙티브 게임\n\n각 라운드마다 두 가지 폰트가 제시되고, 사용자가 더 선호하는 폰트를 선택하면 개인 맞춤형 추천 결과가 생성됨\n...",
-          "id": "https://news.hada.io/topic?id=28045",
-          "isoDate": "2026-03-31T05:33:02.000Z"
-        },
-        {
-          "title": "법률적 시각(Legal AI)에서 본 온톨로지(Ontology)의 개념",
-          "link": "https://news.hada.io/topic?id=28044",
-          "pubDate": "2026-03-31T05:18:32.000Z",
-          "author": "woongaro",
-          "content": "<p>RAG는 외부 문서를 검색해 모델에게 공급함으로써 최신 정보 접근성과 근거 제시 능력을 높이는 데 강점이 있습니다.<br />\n반면 온톨로지는 검색된 자료 안의 개념들을 같은 의미 체계로 정렬하고, 법적 관계를 구조화하는 데 강합니다. <br />\n이 구별은 매우 중요합니다. RAG는 환각을 줄이는 데 도움이 되지만, 그...</p>",
-          "contentSnippet": "RAG는 외부 문서를 검색해 모델에게 공급함으로써 최신 정보 접근성과 근거 제시 능력을 높이는 데 강점이 있습니다.\n반면 온톨로지는 검색된 자료 안의 개념들을 같은 의미 체계로 정렬하고, 법적 관계를 구조화하는 데 강합니다. \n이 구별은 매우 중요합니다. RAG는 환각을 줄이는 데 도움이 되지만, 그...",
-          "id": "https://news.hada.io/topic?id=28044",
-          "isoDate": "2026-03-31T05:18:32.000Z"
-        },
-        {
-          "title": "Show GN: civStation – Civilization VI를 전략 수준에서 제어하는 computer-use VLM 기반 에이전트(Human in the...",
-          "link": "https://news.hada.io/topic?id=28042",
-          "pubDate": "2026-03-31T05:03:37.000Z",
-          "author": "ironman0722",
-          "content": "<ul>\n<li>\n<p>자연어 명령으로 Civilization VI를 플레이하는 computer-use VLM harness<br />\n“동쪽으로 확장”, “경제 집중”, “과학 승리” 등 high-level intent 입력 → 에이전트가 실제 조작 수행</p>\n</li>\n<li>\n<p>전략과 실행을 분리한 3-layer 구조 (Strategy / Action / HITL)</p>\n<ul>\n<li>Strategy Laye",
-          "contentSnippet": "자연어 명령으로 Civilization VI를 플레이하는 computer-use VLM harness\n전략과 실행을 분리한 3-layer 구조 (Strategy / Action / HITL)\nStrategy Laye",
-          "id": "https://news.hada.io/topic?id=28042",
-          "isoDate": "2026-03-31T05:03:37.000Z"
-        },
-        {
-          "title": "Show GN: 보수학당 사이트 개발 - 바이브 코딩으로 만듦",
-          "link": "https://news.hada.io/topic?id=28041",
-          "pubDate": "2026-03-31T04:05:16.000Z",
-          "author": "wkwk2805",
-          "content": "<p>보수주의 가치에 대해 알 수 있는 여러가지 유튜브 영상들을 모아둔 사이트 입니다</p>\n<p>형식은 강의 사이트 형식으로 개발됬습니다</p>\n<p>제가 보고 괜찮다 느꼈던 영상들 위주로 넣어 두었습니다.</p>\n<p>감사합니다다</p>\n",
-          "contentSnippet": "보수주의 가치에 대해 알 수 있는 여러가지 유튜브 영상들을 모아둔 사이트 입니다\n형식은 강의 사이트 형식으로 개발됬습니다\n제가 보고 괜찮다 느꼈던 영상들 위주로 넣어 두었습니다.\n감사합니다다",
-          "id": "https://news.hada.io/topic?id=28041",
-          "isoDate": "2026-03-31T04:05:16.000Z"
         }
       ]
     }
