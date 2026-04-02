@@ -7,6 +7,56 @@
       "priority": 1,
       "data": [
         {
+          "title": "미국, ‘국가안보’ 이유로 멕시코만 석유 산업에 멸종위기종 보호 의무 면제",
+          "link": "https://news.hada.io/topic?id=28132",
+          "pubDate": "2026-04-02T19:33:33.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>트럼프 행정부의 고위 위원회가 <strong>멕시코만 석유·가스 산업을 멸종위기종보호법 적용 대상에서 면제</strong>하기로 만장일치 결정</li>\n<li>이로 인해 <strong>Rice’s 고래, 바다거북 등 멸종위기 해양동물 보호 조치</strong>가 해제되며, 국방장관이 “국가 안보”를 이유로 회의를 소집</li>\n<li>환...</p>",
+          "contentSnippet": "트럼프 행정부의 고위 위원회가 멕시코만 석유·가스 산업을 멸종위기종보호법 적용 대상에서 면제하기로 만장일치 결정\n이로 인해 Rice’s 고래, 바다거북 등 멸종위기 해양동물 보호 조치가 해제되며, 국방장관이 “국가 안보”를 이유로 회의를 소집\n환...",
+          "id": "https://news.hada.io/topic?id=28132",
+          "isoDate": "2026-04-02T19:33:33.000Z"
+        },
+        {
+          "title": "FreeBSD 원격 커널 RCE(CVE-2026-4747)로 root 쉘 획득",
+          "link": "https://news.hada.io/topic?id=28130",
+          "pubDate": "2026-04-02T16:36:55.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>FreeBSD의 <strong>kgssapi.ko 모듈</strong>에서 RPCSEC_GSS 인증 처리 중 <strong>스택 버퍼 오버플로</strong>가 발생해 원격 코드 실행 가능</li>\n<li>\n<code>svc_rpc_gss_validate()</code> 함수가 <strong>경계 검사 없이 자격 증명 데이터를 복사</strong>하면서 반환 주소까지 덮어씀</li>\n<li>공격자는...</p>",
+          "contentSnippet": "FreeBSD의 kgssapi.ko 모듈에서 RPCSEC_GSS 인증 처리 중 스택 버퍼 오버플로가 발생해 원격 코드 실행 가능\nsvc_rpc_gss_validate() 함수가 경계 검사 없이 자격 증명 데이터를 복사하면서 반환 주소까지 덮어씀\n공격자는...",
+          "id": "https://news.hada.io/topic?id=28130",
+          "isoDate": "2026-04-02T16:36:55.000Z"
+        },
+        {
+          "title": "아르테미스 II 발사: 네 명의 우주비행사, 10일간의 달 궤도 임무 시작",
+          "link": "https://news.hada.io/topic?id=28129",
+          "pubDate": "2026-04-02T16:33:55.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>NASA</strong>가 유인 달 탐사 프로그램의 일환으로 <strong>Artemis II</strong>를 발사해, 4명의 우주비행사가 <strong>10일간의 cislunar 비행</strong>을 시작함</li>\n<li>이번 임무는 <strong>Orion 우주선의 생명 유지 및 의료 시스템 검증</strong>을 목표로 하며, 인류 최초로 <strong>여성과...</p>",
+          "contentSnippet": "NASA가 유인 달 탐사 프로그램의 일환으로 Artemis II를 발사해, 4명의 우주비행사가 10일간의 cislunar 비행을 시작함\n이번 임무는 Orion 우주선의 생명 유지 및 의료 시스템 검증을 목표로 하며, 인류 최초로 여성과...",
+          "id": "https://news.hada.io/topic?id=28129",
+          "isoDate": "2026-04-02T16:33:55.000Z"
+        },
+        {
+          "title": "Chrome이 yt-dlp 다운로드 시 '의심스러운 다운로드' 경고 표시",
+          "link": "https://news.hada.io/topic?id=28128",
+          "pubDate": "2026-04-02T15:33:08.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Chrome 브라우저가 <strong>yt-dlp 실행 파일을 다운로드할 때 차단 또는 경고 메시지</strong>를 표시하는 사례가 보고됨</li>\n<li>경고 문구는 “<strong>suspicious download</strong>”로 나타나며, 사용자가 직접 다운로드를 허용해야 함</li>\n<li>yt-dlp는 <strong>YouTube 등 다양한 플랫폼의 영상 다운...</p>",
+          "contentSnippet": "Chrome 브라우저가 yt-dlp 실행 파일을 다운로드할 때 차단 또는 경고 메시지를 표시하는 사례가 보고됨\n경고 문구는 “suspicious download”로 나타나며, 사용자가 직접 다운로드를 허용해야 함\nyt-dlp는 YouTube 등 다양한 플랫폼의 영상 다운...",
+          "id": "https://news.hada.io/topic?id=28128",
+          "isoDate": "2026-04-02T15:33:08.000Z"
+        },
+        {
+          "title": "SpaceX, 기업공개(IPO) 신청",
+          "link": "https://news.hada.io/topic?id=28127",
+          "pubDate": "2026-04-02T14:33:17.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>SpaceX</strong>가 기업공개를 위한 <strong>상장 절차를 공식적으로 개시</strong>\n</li>\n<li>상장과 관련된 <strong>구체적 일정이나 조건은 공개되지 않음</strong>\n</li>\n<li>\n<strong>Elon Musk</strong>가 이끄는 민간 우주기업으로, <strong>로켓 발사와 위성 인터넷 서비스</strong>를 운영...</p>",
+          "contentSnippet": "SpaceX가 기업공개를 위한 상장 절차를 공식적으로 개시\n\n상장과 관련된 구체적 일정이나 조건은 공개되지 않음\n\n\nElon Musk가 이끄는 민간 우주기업으로, 로켓 발사와 위성 인터넷 서비스를 운영...",
+          "id": "https://news.hada.io/topic?id=28127",
+          "isoDate": "2026-04-02T14:33:17.000Z"
+        },
+        {
           "title": "앤스로픽(Anthropic)의 수익성, 김밥천국 보다 안 좋다",
           "link": "https://news.hada.io/topic?id=28125",
           "pubDate": "2026-04-02T13:25:14.000Z",
@@ -455,56 +505,6 @@
           "contentSnippet": "전 세계 직원 약 2만~3만 명(전체의 18%) 이 화요일 오전 6시 이메일 한 통으로 해고 통보를 받음\n이메일은 “Oracle Leadership” 명의로 발송됐으며, 전화나 관리자 사전 통보 없이 즉시 효력 발생\n해고 통보 직후 내부 시스템...",
           "id": "https://news.hada.io/topic?id=28072",
           "isoDate": "2026-04-01T00:43:22.000Z"
-        },
-        {
-          "title": "edgejs - WebAssembly 기반 안전한 JS 런타임",
-          "link": "https://news.hada.io/topic?id=28071",
-          "pubDate": "2026-04-01T00:41:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>Edge 컴퓨팅·AI 워크로드용</strong> 보안 중심 JavaScript 런타임</li>\n<li>\n<code>--safe</code> 모드에서 <strong>WebAssembly 샌드박스</strong>로 격리 실행</li>\n<li>\n<strong>Node.js 완전 호환</strong>, 기존 코드 그대로 동작</li>\n<li>\n<strong>V8 / JavaScriptCore / QuickJS</strong> 등...</p>",
-          "contentSnippet": "Edge 컴퓨팅·AI 워크로드용 보안 중심 JavaScript 런타임\n--safe 모드에서 WebAssembly 샌드박스로 격리 실행\nNode.js 완전 호환, 기존 코드 그대로 동작\nV8 / JavaScriptCore / QuickJS 등...",
-          "id": "https://news.hada.io/topic?id=28071",
-          "isoDate": "2026-04-01T00:41:01.000Z"
-        },
-        {
-          "title": "Claude Code의 소스 코드가 NPM 레지스트리의 map 파일을 통해 유출됨",
-          "link": "https://news.hada.io/topic?id=28070",
-          "pubDate": "2026-04-01T00:40:22.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>npm 레지스트리의 <strong>소스맵(map) 파일</strong>을 통해 <strong>Claude Code의 전체 소스 코드</strong>가 외부에 노출되어 내부 구조와 기능이 공개됨</li>\n<li>유출된 파일에는 <strong>시스템 프롬프트, 텔레메트리, 바이패스 모드, Undercover Mode</strong> 등 핵심 구성요소가 포함되어 있음</li>\n...</p>",
-          "contentSnippet": "npm 레지스트리의 소스맵(map) 파일을 통해 Claude Code의 전체 소스 코드가 외부에 노출되어 내부 구조와 기능이 공개됨\n유출된 파일에는 시스템 프롬프트, 텔레메트리, 바이패스 모드, Undercover Mode 등 핵심 구성요소가 포함되어 있음\n...",
-          "id": "https://news.hada.io/topic?id=28070",
-          "isoDate": "2026-04-01T00:40:22.000Z"
-        },
-        {
-          "title": "Apple Silicon M4·M5 칩에서 외부 4K 디스플레이의 HiDPI 해상도 제한 발생",
-          "link": "https://news.hada.io/topic?id=28068",
-          "pubDate": "2026-03-31T21:38:31.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>M4·M5 세대에서는 외부 4K 모니터에서 <strong>3840×2160@2x HiDPI 모드</strong>가 지원되지 않고, 최대 <strong>3360×1890</strong>까지만 가능함</li>\n<li>이 제한은 <strong>Display Coprocessor(DCP) 펌웨어 구조 변경</strong>으로 인해 생기며, 하드웨어 성능 문제는 아님</li>\n<li>M5 Max의 <strong>프...</p>",
-          "contentSnippet": "M4·M5 세대에서는 외부 4K 모니터에서 3840×2160@2x HiDPI 모드가 지원되지 않고, 최대 3360×1890까지만 가능함\n이 제한은 Display Coprocessor(DCP) 펌웨어 구조 변경으로 인해 생기며, 하드웨어 성능 문제는 아님\nM5 Max의 프...",
-          "id": "https://news.hada.io/topic?id=28068",
-          "isoDate": "2026-03-31T21:38:31.000Z"
-        },
-        {
-          "title": "AI 이전 글쓰기 시대가 그리워진다",
-          "link": "https://news.hada.io/topic?id=28067",
-          "pubDate": "2026-03-31T21:35:31.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>LLM을 이용해 초안을 다듬었지만 <strong>AI 작성물로 판정되어 게시가 거부된 경험</strong>을 통해, 글쓰기의 진정성에 대한 문제의식을 제기</li>\n<li>과거에는 <strong>AI 없이도 문체와 사고의 흐름을 유지</strong>하며 창의적 글쓰기를 즐겼으나, 최근에는 도구 의존으로 <strong>자율성과 표현력 저하...</p>",
-          "contentSnippet": "LLM을 이용해 초안을 다듬었지만 AI 작성물로 판정되어 게시가 거부된 경험을 통해, 글쓰기의 진정성에 대한 문제의식을 제기\n과거에는 AI 없이도 문체와 사고의 흐름을 유지하며 창의적 글쓰기를 즐겼으나, 최근에는 도구 의존으로 자율성과 표현력 저하...",
-          "id": "https://news.hada.io/topic?id=28067",
-          "isoDate": "2026-03-31T21:35:31.000Z"
-        },
-        {
-          "title": "Android 개발자 인증: 모든 개발자에게 확대 적용 시작",
-          "link": "https://news.hada.io/topic?id=28066",
-          "pubDate": "2026-03-31T20:33:10.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Google이 <strong>Android 개발자 인증 제도</strong>를 모든 개발자에게 확대 적용해, 플랫폼의 <strong>개방성과 보안성</strong>을 동시에 강화함</li>\n<li>\n<strong>사이드로드 앱의 악성코드 발생률이 Google Play보다 90배 높음</strong>에 따라, 익명 악성 행위자를 차단하기 위한 <strong>추가 인증 절...</p>",
-          "contentSnippet": "Google이 Android 개발자 인증 제도를 모든 개발자에게 확대 적용해, 플랫폼의 개방성과 보안성을 동시에 강화함\n사이드로드 앱의 악성코드 발생률이 Google Play보다 90배 높음에 따라, 익명 악성 행위자를 차단하기 위한 추가 인증 절...",
-          "id": "https://news.hada.io/topic?id=28066",
-          "isoDate": "2026-03-31T20:33:10.000Z"
         }
       ]
     }
