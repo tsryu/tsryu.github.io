@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: mrg - macOS에서 자모 분리 현상을 해결하고 잡다한 메타데이터 파일들을 제거하는 툴",
+          "link": "https://news.hada.io/topic?id=28176",
+          "pubDate": "2026-04-03T19:55:41.000Z",
+          "author": "ilotoki0804",
+          "content": "<p>mrg는 macOS에서 생성되는 잡다한 파일들을 제거하거나 파일명을 유니코드로 정규화할 때 사용하는 CLI 유틸리티입니다.</p>\n<h3>mrg의 기능</h3>\n<ul>\n<li>\n<strong>유니코드 파일명 NFC 정규화</strong>(<code>--bad-unicode</code>): 자모 분리 현상을 해결합니다.</li>\n<li>\n<strong><code>.DS_Store</code> 파일",
+          "contentSnippet": "mrg는 macOS에서 생성되는 잡다한 파일들을 제거하거나 파일명을 유니코드로 정규화할 때 사용하는 CLI 유틸리티입니다.\nmrg의 기능\n유니코드 파일명 NFC 정규화(--bad-unicode): 자모 분리 현상을 해결합니다.\n.DS_Store 파일",
+          "id": "https://news.hada.io/topic?id=28176",
+          "isoDate": "2026-04-03T19:55:41.000Z"
+        },
+        {
+          "title": "좋은 아이디어는 대중의 지지를 얻기 위해 많은 거짓말이 필요하지 않다 (2008)",
+          "link": "https://news.hada.io/topic?id=28175",
+          "pubDate": "2026-04-03T19:32:53.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>이라크 전쟁의 실패 원인</strong>을 비즈니스 스쿨의 교훈으로 분석하며, 신뢰와 검증의 부재가 정책 실패로 이어졌음을 설명</li>\n<li>핵심 원칙으로 “<strong>좋은 아이디어는 거짓말이 필요하지 않다</strong>”를 제시하고, 대량살상무기 주장 같은 허위 근거가 나쁜 정책의 징후임을 지적</li>...</p>",
+          "contentSnippet": "이라크 전쟁의 실패 원인을 비즈니스 스쿨의 교훈으로 분석하며, 신뢰와 검증의 부재가 정책 실패로 이어졌음을 설명\n핵심 원칙으로 “좋은 아이디어는 거짓말이 필요하지 않다”를 제시하고, 대량살상무기 주장 같은 허위 근거가 나쁜 정책의 징후임을 지적\n...",
+          "id": "https://news.hada.io/topic?id=28175",
+          "isoDate": "2026-04-03T19:32:53.000Z"
+        },
+        {
+          "title": "Artemis II, 레이저 빔으로 4K 달 영상을 260Mbps로 실시간 중계 예정",
+          "link": "https://news.hada.io/topic?id=28174",
+          "pubDate": "2026-04-03T17:32:46.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>NASA의 <strong>Artemis II 임무</strong>는 <strong>O2O(Orion Artemis II Optical Communications)</strong> 시스템을 통해 달에서 <strong>4K 영상</strong>을 <strong>최대 260Mbps 속도</strong>로 지구에 실시간 전송할 계획임</li>\n<li>이 <strong>레이저 기반 통신 기술</strong>은 아폴로 시대의 <str...</p>",
+          "contentSnippet": "NASA의 Artemis II 임무는 O2O(Orion Artemis II Optical Communications) 시스템을 통해 달에서 4K 영상을 최대 260Mbps 속도로 지구에 실시간 전송할 계획임\n이 레이저 기반 통신 기술은 아폴로 시대의",
+          "id": "https://news.hada.io/topic?id=28174",
+          "isoDate": "2026-04-03T17:32:46.000Z"
+        },
+        {
           "title": "라라벨 기반 그누보드7 오픈베타 출시",
           "link": "https://news.hada.io/topic?id=28172",
           "pubDate": "2026-04-03T15:04:55.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "Cloudflare가 개발한 EmDash는 WordPress의 구조적 한계를 극복하기 위해 TypeScript와 서버리스 아키텍처로 새롭게 설계된 오픈소스 CMS\n\n각 플러그인을 격리된 샌드박스 환경에서 실행해, WordPress 사이트...",
           "id": "https://news.hada.io/topic?id=28111",
           "isoDate": "2026-04-02T02:33:32.000Z"
-        },
-        {
-          "title": "Show GN: claw-code를 Elixir로 포팅하면서 OTP, 멀티노드 강점을 살려봤습니다.",
-          "link": "https://news.hada.io/topic?id=28110",
-          "pubDate": "2026-04-02T02:04:59.000Z",
-          "author": "wlehgus78",
-          "content": "<p>안녕하세요.<br />\n최근에 instructkr / ultraworkers의 claw-code (https://github.com/ultraworkers/claw-code) 를 Elixir로 포팅해보는 실험을 하고 있습니다.</p>\n<p>그냥 1:1로 옮기는 것보다는,<br />\n이런 종류의 agent / control-plane 성격의 프로젝트를 Elixir스럽게 만들면 어떤 모습이 될지 보고 싶었습니",
-          "contentSnippet": "안녕하세요.\n그냥 1:1로 옮기는 것보다는,\n이런 종류의 agent / control-plane 성격의 프로젝트를 Elixir스럽게 만들면 어떤 모습이 될지 보고 싶었습니",
-          "id": "https://news.hada.io/topic?id=28110",
-          "isoDate": "2026-04-02T02:04:59.000Z"
-        },
-        {
-          "title": "OpenAI 유통 주식 수요 급감, 투자자들 Anthropic으로 이동",
-          "link": "https://news.hada.io/topic?id=28109",
-          "pubDate": "2026-04-02T01:37:22.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>2차 시장(세컨더리 마켓)에서 OpenAI 지분 수요가 급격히 줄고, 투자자들이 최대 경쟁사인 <strong>Anthropic으로 빠르게 이동</strong>하는 현상이 나타나고 있음</li>\n<li>Next Round Capital이 수백 개 기관 투자자 풀을 통해 6억 달러 규모의 OpenAI 지분 매도를 시도했으나, <strong>매수자를 단 한 곳도 ...</p>",
-          "contentSnippet": "2차 시장(세컨더리 마켓)에서 OpenAI 지분 수요가 급격히 줄고, 투자자들이 최대 경쟁사인 Anthropic으로 빠르게 이동하는 현상이 나타나고 있음\nNext Round Capital이 수백 개 기관 투자자 풀을 통해 6억 달러 규모의 OpenAI 지분 매도를 시도했으나, 매수자를 단 한 곳도 ...",
-          "id": "https://news.hada.io/topic?id=28109",
-          "isoDate": "2026-04-02T01:37:22.000Z"
-        },
-        {
-          "title": "Claude Code, 깜빡임 없는 NO_FLICKER 모드 공개",
-          "link": "https://news.hada.io/topic?id=28108",
-          "pubDate": "2026-04-02T01:37:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>기존 렌더러의 화면 <strong>깜박임·점프 현상을 해소</strong>하는 실험적 렌더러 도입</li>\n<li>대화가 길어져도 <strong>메모리·CPU 사용량이 일정</strong>하게 유지되며, 터미널 환경에서 <strong>마우스 클릭·커서 이동·UI 요소 클릭이 가능</strong>해짐</li>\n<li>\n<code>CLAUDE_CODE_NO_FLICKER=1</cod...</p>",
-          "contentSnippet": "기존 렌더러의 화면 깜박임·점프 현상을 해소하는 실험적 렌더러 도입\n대화가 길어져도 메모리·CPU 사용량이 일정하게 유지되며, 터미널 환경에서 마우스 클릭·커서 이동·UI 요소 클릭이 가능해짐\nCLAUDE_CODE_NO_FLICKER=1",
-          "id": "https://news.hada.io/topic?id=28108",
-          "isoDate": "2026-04-02T01:37:02.000Z"
         }
       ]
     }
