@@ -7,6 +7,216 @@
       "priority": 1,
       "data": [
         {
+          "title": "Claude Code 유출 사건",
+          "link": "https://news.hada.io/topic?id=28155",
+          "pubDate": "2026-04-03T02:56:19.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>Claude Code의 소스 코드 유출</strong>은 코드 품질보다 <strong>제품-시장 적합성</strong>이 성공을 좌우함을 보여준 사례임</li>\n<li>Anthropic은 코드 자체보다 <strong>관찰 시스템과 자가 치유 메커니즘</strong>을 중시하며, 빠른 개발 주기를 유지함</li>\n<li>사용자에게 중요한 것은 코드의...</p>",
+          "contentSnippet": "Claude Code의 소스 코드 유출은 코드 품질보다 제품-시장 적합성이 성공을 좌우함을 보여준 사례임\nAnthropic은 코드 자체보다 관찰 시스템과 자가 치유 메커니즘을 중시하며, 빠른 개발 주기를 유지함\n사용자에게 중요한 것은 코드의...",
+          "id": "https://news.hada.io/topic?id=28155",
+          "isoDate": "2026-04-03T02:56:19.000Z"
+        },
+        {
+          "title": "Show GN: Claude Clipboard Cleaner - Claude Code 터미널 출력 복사 시 공백 자동 정리 macOS 앱",
+          "link": "https://news.hada.io/topic?id=28154",
+          "pubDate": "2026-04-03T02:38:50.000Z",
+          "author": "esc5221",
+          "content": "<p>❯ 클로드야 긱뉴스에 올릴 설명을 적어줘.</p>\n<p>⦁  제목 - Show GN: Claude Clipboard Cleaner - Claude Code 터미널 출력 복사 시 공백 자동 정리 macOS 앱<br />\n  Claude Code 터미널에서 코드를 복사해서 에디터나 Slack에 붙여넣으면, 앞에 2칸 공백이랑 뒤쪽 trailing space가 같이 딸려옵니다.<br />\n ",
+          "contentSnippet": "❯ 클로드야 긱뉴스에 올릴 설명을 적어줘.\n⦁  제목 - Show GN: Claude Clipboard Cleaner - Claude Code 터미널 출력 복사 시 공백 자동 정리 macOS 앱\n  Claude Code 터미널에서 코드를 복사해서 에디터나 Slack에 붙여넣으면, 앞에 2칸 공백이랑 뒤쪽 trailing space가 같이 딸려옵니다.",
+          "id": "https://news.hada.io/topic?id=28154",
+          "isoDate": "2026-04-03T02:38:50.000Z"
+        },
+        {
+          "title": "Tailscale의 새로운 macOS 홈",
+          "link": "https://news.hada.io/topic?id=28153",
+          "pubDate": "2026-04-03T02:19:21.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>MacBook 노치 디자인</strong>으로 인해 메뉴 막대 아이콘이 가려지는 문제를 해결하기 위해 <strong>Tailscale</strong>이 새로운 <strong>macOS용 윈도우형 인터페이스</strong>를 도입함</li>\n<li>초기에는 아이콘이 노치 뒤로 숨겨질 때 <strong>팝업 알림</strong>을 띄우는 임시 대응을 사용했으...</p>",
+          "contentSnippet": "MacBook 노치 디자인으로 인해 메뉴 막대 아이콘이 가려지는 문제를 해결하기 위해 Tailscale이 새로운 macOS용 윈도우형 인터페이스를 도입함\n초기에는 아이콘이 노치 뒤로 숨겨질 때 팝업 알림을 띄우는 임시 대응을 사용했으...",
+          "id": "https://news.hada.io/topic?id=28153",
+          "isoDate": "2026-04-03T02:19:21.000Z"
+        },
+        {
+          "title": "Azure 신뢰를 무너뜨린 결정들 – 전직 Azure Core 엔지니어의 기록",
+          "link": "https://news.hada.io/topic?id=28152",
+          "pubDate": "2026-04-03T02:18:18.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>Microsoft Azure Core 내부의 비현실적 의사결정</strong>이 누적되며 기술적 혼란과 신뢰 붕괴로 이어진 과정을 전직 엔지니어가 상세히 서술</li>\n<li>하드웨어 제약을 무시한 <strong>Windows 기능 포팅 계획</strong>과 <strong>173개의 관리 에이전트 난립</strong>이 대표적 문제로 지적됨</li>...</p>",
+          "contentSnippet": "Microsoft Azure Core 내부의 비현실적 의사결정이 누적되며 기술적 혼란과 신뢰 붕괴로 이어진 과정을 전직 엔지니어가 상세히 서술\n하드웨어 제약을 무시한 Windows 기능 포팅 계획과 173개의 관리 에이전트 난립이 대표적 문제로 지적됨\n...",
+          "id": "https://news.hada.io/topic?id=28152",
+          "isoDate": "2026-04-03T02:18:18.000Z"
+        },
+        {
+          "title": "Cursor 3 공개",
+          "link": "https://news.hada.io/topic?id=28151",
+          "pubDate": "2026-04-03T02:11:00.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>에이전트 중심 개발 환경</strong>으로 전환되는 흐름 속에서, Cursor는 이를 통합 관리할 수 있는 새로운 워크스페이스를 제시함</li>\n<li>\n<strong>멀티 리포지토리 구조</strong>와 <strong>로컬·클라우드 에이전트 전환</strong> 기능을 통해 복잡한 협업 과정을 단일 인터페이스에서 처리 가능...</p>",
+          "contentSnippet": "에이전트 중심 개발 환경으로 전환되는 흐름 속에서, Cursor는 이를 통합 관리할 수 있는 새로운 워크스페이스를 제시함\n멀티 리포지토리 구조와 로컬·클라우드 에이전트 전환 기능을 통해 복잡한 협업 과정을 단일 인터페이스에서 처리 가능...",
+          "id": "https://news.hada.io/topic?id=28151",
+          "isoDate": "2026-04-03T02:11:00.000Z"
+        },
+        {
+          "title": "Show GN: Whispree - 한국어 개발자를 위한 STT + LLM 교정 음성 입력 macOS 앱",
+          "link": "https://news.hada.io/topic?id=28150",
+          "pubDate": "2026-04-03T01:47:42.000Z",
+          "author": "arsture",
+          "content": "<p>개발 좋아하는 대학생입니다. AI한테 뭔가 시킬 때마다 타이핑이 병목이라 음성 입력을 찾아봤는데, 처음에 Superwhisper를 썼었습니다. 나름 나쁘지 않았는데, 한국어 전용이 아니다 보니까 단어를 계속 틀리더라구요.</p>\n<ul>\n<li>&quot;GitHub에 PR 올려놨어&quot;라고 하면 → '깃펍 펄 올렸어' 같은 식으로 전사",
+          "contentSnippet": "개발 좋아하는 대학생입니다. AI한테 뭔가 시킬 때마다 타이핑이 병목이라 음성 입력을 찾아봤는데, 처음에 Superwhisper를 썼었습니다. 나름 나쁘지 않았는데, 한국어 전용이 아니다 보니까 단어를 계속 틀리더라구요.\n\"GitHub에 PR 올려놨어\"라고 하면 → '깃펍 펄 올렸어' 같은 식으로 전사",
+          "id": "https://news.hada.io/topic?id=28150",
+          "isoDate": "2026-04-03T01:47:42.000Z"
+        },
+        {
+          "title": "Github, Copilot SDK Preview 공개",
+          "link": "https://news.hada.io/topic?id=28149",
+          "pubDate": "2026-04-03T01:17:11.000Z",
+          "author": "safethecode",
+          "content": "<p>GitHub Copilot SDK가 퍼블릭 프리뷰로 공개됐습니다.</p>\n<p>GitHub Copilot 클라우드 에이전트와 Copilot CLI에서 쓰이는 동일한 에이전트 런타임을 SDK로 꺼내,<br />\n자체 앱·워크플로·플랫폼에 Copilot의 에이전틱 기능을 직접 임베드할 수 있게 한 것이 핵심입니다.</p>\n<p>지원 언어: Node.js/TypeScript, Pyt",
+          "contentSnippet": "GitHub Copilot SDK가 퍼블릭 프리뷰로 공개됐습니다.\nGitHub Copilot 클라우드 에이전트와 Copilot CLI에서 쓰이는 동일한 에이전트 런타임을 SDK로 꺼내,\n지원 언어: Node.js/TypeScript, Pyt",
+          "id": "https://news.hada.io/topic?id=28149",
+          "isoDate": "2026-04-03T01:17:11.000Z"
+        },
+        {
+          "title": "이메일 난독화: 2026년에 효과적인 방법은?",
+          "link": "https://news.hada.io/topic?id=28147",
+          "pubDate": "2026-04-03T00:59:14.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>이메일 주소를 <strong>스팸 수집기</strong>로부터 보호하기 위해 다양한 <strong>HTML·CSS·JavaScript 난독화 기법</strong>을 실험해 차단율을 비교함</li>\n<li>426개 텍스트·399개 링크 표본을 대상으로 테스트한 결과, <strong>대부분의 JS 기반·CSS·SVG 기법이 100% 차단율</strong>을 기록함</li>\n<li>\n...</p>",
+          "contentSnippet": "이메일 주소를 스팸 수집기로부터 보호하기 위해 다양한 HTML·CSS·JavaScript 난독화 기법을 실험해 차단율을 비교함\n426개 텍스트·399개 링크 표본을 대상으로 테스트한 결과, 대부분의 JS 기반·CSS·SVG 기법이 100% 차단율을 기록함\n\n...",
+          "id": "https://news.hada.io/topic?id=28147",
+          "isoDate": "2026-04-03T00:59:14.000Z"
+        },
+        {
+          "title": "나는 숫자가 아니다 – 72,000명 이상의 팔레스타인 희생자를 추모하며",
+          "link": "https://news.hada.io/topic?id=28145",
+          "pubDate": "2026-04-03T00:56:14.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>가자 지구 학살로 희생된 72,000명 이상의 팔레스타인인</strong>을 추모하는 웹 기반 인터랙티브 추모 페이지</li>\n<li>화면에는 <strong>60,199개의 빛</strong>이 표시되어, 각 빛이 한 사람의 생명을 상징함</li>\n<li>사용자는 마우스를 올려 개별 생명을 <strong>기억(remember)</strong> 할 수 ...</p>",
+          "contentSnippet": "가자 지구 학살로 희생된 72,000명 이상의 팔레스타인인을 추모하는 웹 기반 인터랙티브 추모 페이지\n화면에는 60,199개의 빛이 표시되어, 각 빛이 한 사람의 생명을 상징함\n사용자는 마우스를 올려 개별 생명을 기억(remember) 할 수 ...",
+          "id": "https://news.hada.io/topic?id=28145",
+          "isoDate": "2026-04-03T00:56:14.000Z"
+        },
+        {
+          "title": "Qwen3.6-Plus: 현실 세계 에이전트를 향하여",
+          "link": "https://news.hada.io/topic?id=28144",
+          "pubDate": "2026-04-03T00:53:14.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Qwen3.6-Plus</strong>는 Qwen3.5 이후 공개된 대규모 업그레이드 모델로, <strong>에이전트형 코딩 능력</strong>과 <strong>멀티모달 추론 성능</strong>을 대폭 강화함</li>\n<li>\n<strong>1M 토큰 컨텍스트 윈도우</strong>를 지원하며, <strong>Alibaba Cloud Model Studio API</strong>를 통해 즉...</p>",
+          "contentSnippet": "Qwen3.6-Plus는 Qwen3.5 이후 공개된 대규모 업그레이드 모델로, 에이전트형 코딩 능력과 멀티모달 추론 성능을 대폭 강화함\n1M 토큰 컨텍스트 윈도우를 지원하며, Alibaba Cloud Model Studio API를 통해 즉...",
+          "id": "https://news.hada.io/topic?id=28144",
+          "isoDate": "2026-04-03T00:53:14.000Z"
+        },
+        {
+          "title": "Lemonade by AMD: GPU와 NPU를 활용한 빠른 오픈소스 로컬 LLM 서버",
+          "link": "https://news.hada.io/topic?id=28143",
+          "pubDate": "2026-04-03T00:50:14.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>AMD 지원 로컬 AI 서버</strong>로, GPU와 NPU를 활용해 <strong>텍스트·이미지·음성</strong>을 빠르게 처리하는 <strong>오픈소스 플랫폼</strong>\n</li>\n<li>\n<strong>로컬 실행과 개인정보 보호</strong>를 중시하며, <strong>OpenAI API 표준</strong>과 호환되어 다양한 앱과 즉시 연동 가능</l...</p>",
+          "contentSnippet": "AMD 지원 로컬 AI 서버로, GPU와 NPU를 활용해 텍스트·이미지·음성을 빠르게 처리하는 오픈소스 플랫폼\n\n\n로컬 실행과 개인정보 보호를 중시하며, OpenAI API 표준과 호환되어 다양한 앱과 즉시 연동 가능",
+          "id": "https://news.hada.io/topic?id=28143",
+          "isoDate": "2026-04-03T00:50:14.000Z"
+        },
+        {
+          "title": "Steam의 리눅스 사용률이 3월에 5%를 돌파",
+          "link": "https://news.hada.io/topic?id=28142",
+          "pubDate": "2026-04-03T00:47:14.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Steam Linux 이용률이 역대 최고치인 <strong>5.33%</strong> 를 기록하며 처음으로 5% 선을 돌파했으며, 이는 macOS 점유율(2.35%)의 두 배를 넘는 수치</li>\n<li>3월 한 달 사이 <strong>3.1%포인트 급등</strong>하며 Steam 조사 역사상 Linux 기준 가장 큰 폭의 단기 상승</li>\n<li>이 급등의 일부는 <stro...</p>",
+          "contentSnippet": "Steam Linux 이용률이 역대 최고치인 5.33% 를 기록하며 처음으로 5% 선을 돌파했으며, 이는 macOS 점유율(2.35%)의 두 배를 넘는 수치\n3월 한 달 사이 3.1%포인트 급등하며 Steam 조사 역사상 Linux 기준 가장 큰 폭의 단기 상승\n이 급등의 일부는",
+          "id": "https://news.hada.io/topic?id=28142",
+          "isoDate": "2026-04-03T00:47:14.000Z"
+        },
+        {
+          "title": "스웨덴, 교실에서 스크린 대신 책으로 돌아가다",
+          "link": "https://news.hada.io/topic?id=28141",
+          "pubDate": "2026-04-03T00:44:13.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>스웨덴 정부가 <strong>읽기·쓰기 등 기초 학습 능력 강화</strong>를 위해 학교 교육을 디지털 중심에서 <strong>종이책 중심으로 전환</strong>함</li>\n<li>초등 저학년부터 <strong>실물 교과서와 손글씨 학습</strong>을 재도입하고, 전국 학교를 <strong>휴대전화 금지 구역</strong>으로 지정하는 정책 추...</p>",
+          "contentSnippet": "스웨덴 정부가 읽기·쓰기 등 기초 학습 능력 강화를 위해 학교 교육을 디지털 중심에서 종이책 중심으로 전환함\n초등 저학년부터 실물 교과서와 손글씨 학습을 재도입하고, 전국 학교를 휴대전화 금지 구역으로 지정하는 정책 추...",
+          "id": "https://news.hada.io/topic?id=28141",
+          "isoDate": "2026-04-03T00:44:13.000Z"
+        },
+        {
+          "title": "LinkedIn이 사용자의 브라우저 확장 프로그램을 검색하고 있음",
+          "link": "https://news.hada.io/topic?id=28140",
+          "pubDate": "2026-04-03T00:41:13.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>LinkedIn이 사용자의 <strong>브라우저 확장 프로그램을 비밀리에 스캔</strong>하고, 결과를 자사 및 제3자 서버로 전송하는 행위가 확인됨</li>\n<li>이 과정에서 <strong>사용자 동의나 고지 없이 실행</strong>되며, LinkedIn의 <strong>개인정보 보호정책에도 명시되지 않음</strong>\n</li>\n<li>스캔 대상에...</p>",
+          "contentSnippet": "LinkedIn이 사용자의 브라우저 확장 프로그램을 비밀리에 스캔하고, 결과를 자사 및 제3자 서버로 전송하는 행위가 확인됨\n이 과정에서 사용자 동의나 고지 없이 실행되며, LinkedIn의 개인정보 보호정책에도 명시되지 않음\n\n스캔 대상에...",
+          "id": "https://news.hada.io/topic?id=28140",
+          "isoDate": "2026-04-03T00:41:13.000Z"
+        },
+        {
+          "title": "MiroFish - 다중에이전트 기반 예측 시뮬레이션 엔진",
+          "link": "https://news.hada.io/topic?id=28139",
+          "pubDate": "2026-04-03T00:31:02.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>군집 지능(Swarm Intelligence)</strong> 으로 현실을 복제해 미래를 예측하는 AI 엔진</li>\n<li>실세계의 시드 정보(뉴스, 정책 초안, 금융 신호 등)를 주입하면 <strong>평행 디지털 세계</strong>를 자동 생성</li>\n<li>해당 공간내에서 수천 개의 독립 에이전트가 기억·성격·행동 규칙을 갖고 상호...</p>",
+          "contentSnippet": "군집 지능(Swarm Intelligence) 으로 현실을 복제해 미래를 예측하는 AI 엔진\n실세계의 시드 정보(뉴스, 정책 초안, 금융 신호 등)를 주입하면 평행 디지털 세계를 자동 생성\n해당 공간내에서 수천 개의 독립 에이전트가 기억·성격·행동 규칙을 갖고 상호...",
+          "id": "https://news.hada.io/topic?id=28139",
+          "isoDate": "2026-04-03T00:31:02.000Z"
+        },
+        {
+          "title": "Google, 오픈 모델 Gemma 4 공개",
+          "link": "https://news.hada.io/topic?id=28138",
+          "pubDate": "2026-04-03T00:22:19.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>Google DeepMind가 <strong>Gemini 3 기술을 기반으로 한 차세대 오픈 AI 모델 Gemma 4</strong>를 발표, <strong>매개변수당 지능 효율</strong>을 극대화한 구조로 설계됨</li>\n<li>모델은 <strong>E2B, E4B, 26B, 31B</strong> 네 가지 크기로 제공되며, <strong>모바일·IoT부터 개인용 GPU 환경까지</stron...</p>",
+          "contentSnippet": "Google DeepMind가 Gemini 3 기술을 기반으로 한 차세대 오픈 AI 모델 Gemma 4를 발표, 매개변수당 지능 효율을 극대화한 구조로 설계됨\n모델은 E2B, E4B, 26B, 31B 네 가지 크기로 제공되며, 모바일·IoT부터 개인용 GPU 환경까지",
+          "id": "https://news.hada.io/topic?id=28138",
+          "isoDate": "2026-04-03T00:22:19.000Z"
+        },
+        {
+          "title": "OCaml 컴파일러용 새로운 C++ 백엔드",
+          "link": "https://news.hada.io/topic?id=28137",
+          "pubDate": "2026-04-02T23:41:16.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>OCaml 컴파일러에 <strong>C++ 코드 생성을 지원하는 새로운 백엔드</strong>가 제안되어, 기존 C 기반 백엔드의 한계를 보완</li>\n<li>변환된 코드는 <strong>순수 함수형 스타일</strong>로 작성되며, 가변 상태나 표준 라이브러리 사용 없이 <code>List</code> 모듈 일부를 재구현</li>\n<li>실행에는 <stron...</p>",
+          "contentSnippet": "OCaml 컴파일러에 C++ 코드 생성을 지원하는 새로운 백엔드가 제안되어, 기존 C 기반 백엔드의 한계를 보완\n변환된 코드는 순수 함수형 스타일로 작성되며, 가변 상태나 표준 라이브러리 사용 없이 List 모듈 일부를 재구현\n실행에는",
+          "id": "https://news.hada.io/topic?id=28137",
+          "isoDate": "2026-04-02T23:41:16.000Z"
+        },
+        {
+          "title": "화이트하우스 공식 앱의 네트워크 트래픽을 가로채 분석한 결과",
+          "link": "https://news.hada.io/topic?id=28136",
+          "pubDate": "2026-04-02T23:38:16.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>화이트하우스 iOS 앱의 실제 <strong>HTTPS 트래픽을 MITM 프록시로 캡처</strong>해 어떤 서버와 데이터를 주고받는지 분석함</li>\n<li>앱은 <strong>whitehouse.gov 외에도 Elfsight, OneSignal, YouTube, Google DoubleClick, Facebook, Twitter</strong> 등 <strong>31개 제3자 호스트</strong>와 통신함...</p>",
+          "contentSnippet": "화이트하우스 iOS 앱의 실제 HTTPS 트래픽을 MITM 프록시로 캡처해 어떤 서버와 데이터를 주고받는지 분석함\n앱은 whitehouse.gov 외에도 Elfsight, OneSignal, YouTube, Google DoubleClick, Facebook, Twitter 등 31개 제3자 호스트와 통신함...",
+          "id": "https://news.hada.io/topic?id=28136",
+          "isoDate": "2026-04-02T23:38:16.000Z"
+        },
+        {
+          "title": "네안데르탈인은 35만 년 동안 벼랑 끝에서 생존했다",
+          "link": "https://news.hada.io/topic?id=28135",
+          "pubDate": "2026-04-02T23:35:16.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>약 <strong>40만~4만5천 년 전</strong>, 네안데르탈인은 유라시아 전역에서 사냥과 도구 제작을 하며 살았으나 <strong>소규모·고립된 집단 구조</strong>로 인해 불안정한 생존을 이어감</li>\n<li>\n<strong>고대 DNA 분석</strong> 결과, 이들은 근친 교배를 반복하며 <strong>유전적 다양성 감소와 유해 돌연...</p>",
+          "contentSnippet": "약 40만~4만5천 년 전, 네안데르탈인은 유라시아 전역에서 사냥과 도구 제작을 하며 살았으나 소규모·고립된 집단 구조로 인해 불안정한 생존을 이어감\n고대 DNA 분석 결과, 이들은 근친 교배를 반복하며 유전적 다양성 감소와 유해 돌연...",
+          "id": "https://news.hada.io/topic?id=28135",
+          "isoDate": "2026-04-02T23:35:16.000Z"
+        },
+        {
+          "title": "Show GN: 내 클로드를 소크라테스로 만들어봅시다",
+          "link": "https://news.hada.io/topic?id=28134",
+          "pubDate": "2026-04-02T22:58:20.000Z",
+          "author": "remocode",
+          "content": "<p>&quot;절대 정답을 알려주지 마!&quot;</p>\n<p>AI와 함께 공부하면서, 제일 아쉬웠던 점은 AI가 정답을 다 알려주는 바람에<br />\n아이디어를 스스로 떠올리는 힘을 키우기가 어려웠다는 점입니다.</p>\n<p>그래서 절대 정답을 알려주지 않으면서,<br />\n문답법으로 아이디어를 떠올리도록 유도하는 소크라테스 스킬을",
+          "contentSnippet": "\"절대 정답을 알려주지 마!\"\nAI와 함께 공부하면서, 제일 아쉬웠던 점은 AI가 정답을 다 알려주는 바람에\n그래서 절대 정답을 알려주지 않으면서,\n문답법으로 아이디어를 떠올리도록 유도하는 소크라테스 스킬을",
+          "id": "https://news.hada.io/topic?id=28134",
+          "isoDate": "2026-04-02T22:58:20.000Z"
+        },
+        {
+          "title": "BGP는 아직 안전하지 않은가",
+          "link": "https://news.hada.io/topic?id=28133",
+          "pubDate": "2026-04-02T20:33:11.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>인터넷의 핵심 라우팅 프로토콜인 <strong>BGP(Border Gateway Protocol)</strong> 은 경로 선택 기능을 담당하지만 <strong>보안 검증 기능이 내장되어 있지 않음</strong>\n</li>\n<li>이로 인해 잘못된 경로 정보가 전파되면 <strong>트래픽 탈취나 대규모 장애</strong>가 발생할 수 있으며, 이를 방지하기 위...</p>",
+          "contentSnippet": "인터넷의 핵심 라우팅 프로토콜인 BGP(Border Gateway Protocol) 은 경로 선택 기능을 담당하지만 보안 검증 기능이 내장되어 있지 않음\n\n이로 인해 잘못된 경로 정보가 전파되면 트래픽 탈취나 대규모 장애가 발생할 수 있으며, 이를 방지하기 위...",
+          "id": "https://news.hada.io/topic?id=28133",
+          "isoDate": "2026-04-02T20:33:11.000Z"
+        },
+        {
           "title": "미국, ‘국가안보’ 이유로 멕시코만 석유 산업에 멸종위기종 보호 의무 면제",
           "link": "https://news.hada.io/topic?id=28132",
           "pubDate": "2026-04-02T19:33:33.000Z",
@@ -41,8 +251,8 @@
           "link": "https://news.hada.io/topic?id=28128",
           "pubDate": "2026-04-02T15:33:08.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>Chrome 브라우저가 <strong>yt-dlp 실행 파일을 다운로드할 때 차단 또는 경고 메시지</strong>를 표시하는 사례가 보고됨</li>\n<li>경고 문구는 “<strong>suspicious download</strong>”로 나타나며, 사용자가 직접 다운로드를 허용해야 함</li>\n<li>yt-dlp는 <strong>YouTube 등 다양한 플랫폼의 영상 다운...</p>",
-          "contentSnippet": "Chrome 브라우저가 yt-dlp 실행 파일을 다운로드할 때 차단 또는 경고 메시지를 표시하는 사례가 보고됨\n경고 문구는 “suspicious download”로 나타나며, 사용자가 직접 다운로드를 허용해야 함\nyt-dlp는 YouTube 등 다양한 플랫폼의 영상 다운...",
+          "content": "<ul>\n<li>크롬 브라우저가 <strong>yt-dlp 실행 파일을 다운로드할 때 차단 또는 경고 메시지</strong>를 표시하는 사례가 보고됨</li>\n<li>경고 문구는 “<strong>suspicious download</strong>”로 나타나며, 사용자가 경고를 무시하고 수동으로 허용해야 파일을 받을 수 있음</li>\n<li>yt-dlp는 <strong>YouTube 등 다...</p>",
+          "contentSnippet": "크롬 브라우저가 yt-dlp 실행 파일을 다운로드할 때 차단 또는 경고 메시지를 표시하는 사례가 보고됨\n경고 문구는 “suspicious download”로 나타나며, 사용자가 경고를 무시하고 수동으로 허용해야 파일을 받을 수 있음\nyt-dlp는 YouTube 등 다...",
           "id": "https://news.hada.io/topic?id=28128",
           "isoDate": "2026-04-02T15:33:08.000Z"
         },
@@ -51,8 +261,8 @@
           "link": "https://news.hada.io/topic?id=28127",
           "pubDate": "2026-04-02T14:33:17.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>SpaceX</strong>가 기업공개를 위한 <strong>상장 절차를 공식적으로 개시</strong>\n</li>\n<li>상장과 관련된 <strong>구체적 일정이나 조건은 공개되지 않음</strong>\n</li>\n<li>\n<strong>Elon Musk</strong>가 이끄는 민간 우주기업으로, <strong>로켓 발사와 위성 인터넷 서비스</strong>를 운영...</p>",
-          "contentSnippet": "SpaceX가 기업공개를 위한 상장 절차를 공식적으로 개시\n\n상장과 관련된 구체적 일정이나 조건은 공개되지 않음\n\n\nElon Musk가 이끄는 민간 우주기업으로, 로켓 발사와 위성 인터넷 서비스를 운영...",
+          "content": "<ul>\n<li>일론 머스크의 로켓·위성 기업 SpaceX가 비공개 방식으로 IPO 서류를 제출, <strong>월가 역사상 손꼽히는 대형 상장</strong>이 될 가능성이 제기됨</li>\n<li>6월 상장을 목표로 <strong>500억~750억 달러 조달</strong>을 추진 중이며, 기업가치는 1조 달러 이상으로 자체 평가</li>\n<li>IPO 자금은 궤도 AI ...</p>",
+          "contentSnippet": "일론 머스크의 로켓·위성 기업 SpaceX가 비공개 방식으로 IPO 서류를 제출, 월가 역사상 손꼽히는 대형 상장이 될 가능성이 제기됨\n6월 상장을 목표로 500억~750억 달러 조달을 추진 중이며, 기업가치는 1조 달러 이상으로 자체 평가\nIPO 자금은 궤도 AI ...",
           "id": "https://news.hada.io/topic?id=28127",
           "isoDate": "2026-04-02T14:33:17.000Z"
         },
@@ -141,8 +351,8 @@
           "link": "https://news.hada.io/topic?id=28111",
           "pubDate": "2026-04-02T02:33:32.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>\n<strong>EmDash</strong>는 WordPress의 구조적 한계를 극복하기 위해 <strong>TypeScript와 서버리스 아키텍처</strong>로 새롭게 설계된 <strong>오픈소스 CMS</strong>임</li>\n<li>각 <strong>플러그인을 격리된 샌드박스 환경</strong>에서 실행해, WordPress 사이트 보안 문제의 96%를 차지하던 <strong>...</p>",
-          "contentSnippet": "EmDash는 WordPress의 구조적 한계를 극복하기 위해 TypeScript와 서버리스 아키텍처로 새롭게 설계된 오픈소스 CMS임\n각 플러그인을 격리된 샌드박스 환경에서 실행해, WordPress 사이트 보안 문제의 96%를 차지하던 ...",
+          "content": "<ul>\n<li>\n<strong>Cloudflare</strong>가 개발한 <strong>EmDash</strong>는 WordPress의 구조적 한계를 극복하기 위해 <strong>TypeScript와 서버리스 아키텍처</strong>로 새롭게 설계된 <strong>오픈소스 CMS</strong>\n</li>\n<li>각 <strong>플러그인을 격리된 샌드박스 환경</strong>에서 실행해, WordPress 사이트...</p>",
+          "contentSnippet": "Cloudflare가 개발한 EmDash는 WordPress의 구조적 한계를 극복하기 위해 TypeScript와 서버리스 아키텍처로 새롭게 설계된 오픈소스 CMS\n\n각 플러그인을 격리된 샌드박스 환경에서 실행해, WordPress 사이트...",
           "id": "https://news.hada.io/topic?id=28111",
           "isoDate": "2026-04-02T02:33:32.000Z"
         },
@@ -295,216 +505,6 @@
           "contentSnippet": "Claude Code의 전체 구조와 내부 동작을 시각적으로 분석한 비공식 프로젝트로, 입력 처리부터 응답 렌더링까지의 에이전트 루프와 50개 이상의 도구 체계를 탐색 가능\n총 804개 파일, 22만 줄 이상의 코드, ...",
           "id": "https://news.hada.io/topic?id=28094",
           "isoDate": "2026-04-01T15:31:22.000Z"
-        },
-        {
-          "title": "1-bit Bonsai - 상업적으로 실용 가능한 최초의 1비트 LLM",
-          "link": "https://news.hada.io/topic?id=28093",
-          "pubDate": "2026-04-01T15:29:56.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>Caltech 연구에서 출발한 AI 스타트업 PrismML이 <strong>1-bit Bonsai 8B</strong> 모델을 공개하며, 기존 16비트 동급 모델 대비 약 14배 작은 1.15GB 크기로 스마트폰·엣지 디바이스에서의 실용적 AI 추론을 실현</li>\n<li>전체 네트워크(임베딩, 어텐션, MLP, LM 헤드)를 예외 없이 1비트로 구성한 <strong...</p>",
-          "contentSnippet": "Caltech 연구에서 출발한 AI 스타트업 PrismML이 1-bit Bonsai 8B 모델을 공개하며, 기존 16비트 동급 모델 대비 약 14배 작은 1.15GB 크기로 스마트폰·엣지 디바이스에서의 실용적 AI 추론을 실현\n전체 네트워크(임베딩, 어텐션, MLP, LM 헤드)를 예외 없이 1비트로 구성한",
-          "id": "https://news.hada.io/topic?id=28093",
-          "isoDate": "2026-04-01T15:29:56.000Z"
-        },
-        {
-          "title": "Show GN: Soul Spec - AI 에이전트를 위한 페르소나 표준",
-          "link": "https://news.hada.io/topic?id=28092",
-          "pubDate": "2026-04-01T14:28:59.000Z",
-          "author": "tomlee",
-          "content": "<p>저는 지난 몇개월동안 AI 페르소나 공유를 하는 커뮤니티 플랫폼 및 페르소나 표준을 만들어왔습니다.</p>\n<p>여기에 제가 만들어온 것을 공유해 봅니다.</p>\n<p>문제제기: AI 에이전트의 &quot;정체성&quot;을 어떻게 정의하고, 안전하게 지킬 수 있을까요?</p>\n<p>Abliterated(탈옥) LLM이 등장하면서 시스템 프롬프",
-          "contentSnippet": "저는 지난 몇개월동안 AI 페르소나 공유를 하는 커뮤니티 플랫폼 및 페르소나 표준을 만들어왔습니다.\n여기에 제가 만들어온 것을 공유해 봅니다.\n문제제기: AI 에이전트의 \"정체성\"을 어떻게 정의하고, 안전하게 지킬 수 있을까요?\nAbliterated(탈옥) LLM이 등장하면서 시스템 프롬프",
-          "id": "https://news.hada.io/topic?id=28092",
-          "isoDate": "2026-04-01T14:28:59.000Z"
-        },
-        {
-          "title": "Show GN: Conceptly.xyz - 새롭게 개편된, 다양한 개발 개념을 설명하는 학습 사이트",
-          "link": "https://news.hada.io/topic?id=28091",
-          "pubDate": "2026-04-01T12:56:44.000Z",
-          "author": "zzunebye",
-          "content": "<p>이전에 올렸던 Cloud Visualizer 라는 학습 웹사이트에 더 많은 도메인 (주제)과 더 다양한 설명을 포함해 Conceptly라는 이름으로 개편했습니다.</p>\n<p>제가 어떠한 개념에 대한 설명을 읽을때 언제 더 쉽게 이해하는지를 고려하며 만든 학습 사이트 입니다.</p>\n<blockquote>\n<p>개발자로서 AWS 시스템 디자인을 공",
-          "contentSnippet": "이전에 올렸던 Cloud Visualizer 라는 학습 웹사이트에 더 많은 도메인 (주제)과 더 다양한 설명을 포함해 Conceptly라는 이름으로 개편했습니다.\n제가 어떠한 개념에 대한 설명을 읽을때 언제 더 쉽게 이해하는지를 고려하며 만든 학습 사이트 입니다.\n개발자로서 AWS 시스템 디자인을 공",
-          "id": "https://news.hada.io/topic?id=28091",
-          "isoDate": "2026-04-01T12:56:44.000Z"
-        },
-        {
-          "title": "Claude code 개발자 Boris Cherny, 소스코드 유출 경위 공개",
-          "link": "https://news.hada.io/topic?id=28090",
-          "pubDate": "2026-04-01T12:52:59.000Z",
-          "author": "princox",
-          "content": "<h2>Claude Code 장애, Boris Cherny의 사후 회고: “개인의 실수가 아닌, 프로세스의 문제”</h2>\n<p>Claude Code 창시자 Boris Cherny(@bcherny)가 3월 31일 발생한 Claude 서비스 장애에 대해 짧지만 인상적인 코멘트를 남겼다.<br />\n“실수는 생깁니다. 팀으로서 중요한 건 이게 특정 개인의 잘못이 아니라는 점을 ...</p>",
-          "contentSnippet": "Claude Code 장애, Boris Cherny의 사후 회고: “개인의 실수가 아닌, 프로세스의 문제”\nClaude Code 창시자 Boris Cherny(@bcherny)가 3월 31일 발생한 Claude 서비스 장애에 대해 짧지만 인상적인 코멘트를 남겼다.\n“실수는 생깁니다. 팀으로서 중요한 건 이게 특정 개인의 잘못이 아니라는 점을 ...",
-          "id": "https://news.hada.io/topic?id=28090",
-          "isoDate": "2026-04-01T12:52:59.000Z"
-        },
-        {
-          "title": "왜 나는 ATProto에 베팅하는가 (그리고 당신도 그래야 하는 이유)",
-          "link": "https://news.hada.io/topic?id=28089",
-          "pubDate": "2026-04-01T09:43:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>광고와 분열로 가득 찬 주류 소셜 미디어의 대안으로, <strong>데이터 소유권과 이식성</strong>을 핵심으로 설계된 오픈 프로토콜 ATProto가 개발자·과학자·저널리스트 등 다양한 계층의 주목을 받고 있음</li>\n<li>ATProto 기반 앱에서는 사용자의 소셜 그래프, 게시물, 좋아요, 댓글이 모두 사용자 본인 소유...</p>",
-          "contentSnippet": "광고와 분열로 가득 찬 주류 소셜 미디어의 대안으로, 데이터 소유권과 이식성을 핵심으로 설계된 오픈 프로토콜 ATProto가 개발자·과학자·저널리스트 등 다양한 계층의 주목을 받고 있음\nATProto 기반 앱에서는 사용자의 소셜 그래프, 게시물, 좋아요, 댓글이 모두 사용자 본인 소유...",
-          "id": "https://news.hada.io/topic?id=28089",
-          "isoDate": "2026-04-01T09:43:01.000Z"
-        },
-        {
-          "title": "“CEO가 말했다”식 저널리즘",
-          "link": "https://news.hada.io/topic?id=28088",
-          "pubDate": "2026-04-01T09:41:29.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>기업 경영자의 발언을 <strong>검증이나 반론 없이 그대로 전달하는 보도 관행</strong>이 미국 언론 전반에 <strong>정상화된 형태로 자리잡음</strong>\n</li>\n<li>이러한 보도는 <strong>Elon Musk, Sam Altman, Mark Zuckerberg</strong> 등 유명 CEO들의 발언을 <strong>광고성 기사처럼 반복 인용</strong...</p>",
-          "contentSnippet": "기업 경영자의 발언을 검증이나 반론 없이 그대로 전달하는 보도 관행이 미국 언론 전반에 정상화된 형태로 자리잡음\n\n이러한 보도는 Elon Musk, Sam Altman, Mark Zuckerberg 등 유명 CEO들의 발언을 광고성 기사처럼 반복 인용",
-          "id": "https://news.hada.io/topic?id=28088",
-          "isoDate": "2026-04-01T09:41:29.000Z"
-        },
-        {
-          "title": "TimesFM - Google의 2억 파라미터, 16k 컨텍스트 시계열 기반 모델",
-          "link": "https://news.hada.io/topic?id=28087",
-          "pubDate": "2026-04-01T09:36:25.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>TimesFM</strong>은 Google Research가 개발한 <strong>시계열 예측용 대규모 사전학습 모델</strong>로, 디코더 전용 구조를 사용함</li>\n<li>최신 버전 <strong>2.5</strong>는 <strong>파라미터 수 2억 개</strong>, <strong>컨텍스트 길이 16k</strong>, <strong>최대 1k horizon 예측</strong>을...</p>",
-          "contentSnippet": "TimesFM은 Google Research가 개발한 시계열 예측용 대규모 사전학습 모델로, 디코더 전용 구조를 사용함\n최신 버전 2.5는 파라미터 수 2억 개, 컨텍스트 길이 16k, 최대 1k horizon 예측을...",
-          "id": "https://news.hada.io/topic?id=28087",
-          "isoDate": "2026-04-01T09:36:25.000Z"
-        },
-        {
-          "title": "OpenAI, 8,520억 달러 기업가치로 자금 조달 라운드 마무리",
-          "link": "https://news.hada.io/topic?id=28086",
-          "pubDate": "2026-04-01T09:33:08.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>사상 최대 규모의 <strong>1,220억 달러(약 184조원) 자금 조달</strong>을 완료하며 <strong>사후 기업가치 8,520억 달러(약 1280조원)</strong> 달성</li>\n<li>\n<strong>SoftBank</strong>, <strong>Andreessen Horowitz</strong>, <strong>D. E. Shaw Ventures</strong>가 주도하고 <strong>Microsoft</stro...</p>",
-          "contentSnippet": "사상 최대 규모의 1,220억 달러(약 184조원) 자금 조달을 완료하며 사후 기업가치 8,520억 달러(약 1280조원) 달성\nSoftBank, Andreessen Horowitz, D. E. Shaw Ventures가 주도하고 Microsoft",
-          "id": "https://news.hada.io/topic?id=28086",
-          "isoDate": "2026-04-01T09:33:08.000Z"
-        },
-        {
-          "title": "OkCupid가 얼굴 인식 기업에 300만 장의 데이팅 앱 사진을 제공했다고 FTC가 발표",
-          "link": "https://news.hada.io/topic?id=28085",
-          "pubDate": "2026-04-01T05:33:07.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>FTC</strong>는 OkCupid가 약 <strong>300만 장의 사용자 사진</strong>을 얼굴 인식 기업 <strong>Clarifai</strong>에 제공했다고 밝혔으며, 데이터 사용 방식에 <strong>허위 주장</strong>이 있었다고 지적</li>\n<li>Clarifai는 2014년 OkCupid 공동창업자에게 이메일을 보내 <strong>대규모 사진...</p>",
-          "contentSnippet": "FTC는 OkCupid가 약 300만 장의 사용자 사진을 얼굴 인식 기업 Clarifai에 제공했다고 밝혔으며, 데이터 사용 방식에 허위 주장이 있었다고 지적\nClarifai는 2014년 OkCupid 공동창업자에게 이메일을 보내 대규모 사진...",
-          "id": "https://news.hada.io/topic?id=28085",
-          "isoDate": "2026-04-01T05:33:07.000Z"
-        },
-        {
-          "title": "Function Calling Harness, turning success rate from 6.75% to 100%",
-          "link": "https://news.hada.io/topic?id=28084",
-          "pubDate": "2026-04-01T04:51:39.000Z",
-          "author": "autobe",
-          "content": "<blockquote>\n<p>Qwen Meetup Korea에 연사로 초대받아 발표한 내용입니다.</p>\n</blockquote>\n<p>재귀적 union 타입에서 function calling을 안정적으로 동작시키는 방법. <code>qwen3-coder-next</code>는 첫 시도 성공률 6.75%, Qwen 3.5 전 모델군은 double-stringify 버그로 0%였으나, 하네스 엔지니어링으로 100% ",
-          "contentSnippet": "Qwen Meetup Korea에 연사로 초대받아 발표한 내용입니다.\n재귀적 union 타입에서 function calling을 안정적으로 동작시키는 방법. qwen3-coder-next는 첫 시도 성공률 6.75%, Qwen 3.5 전 모델군은 double-stringify 버그로 0%였으나, 하네스 엔지니어링으로 100%",
-          "id": "https://news.hada.io/topic?id=28084",
-          "isoDate": "2026-04-01T04:51:39.000Z"
-        },
-        {
-          "title": "Google, Gmail 계정의 사용자명 변경 기능 공식 출시",
-          "link": "https://news.hada.io/topic?id=28083",
-          "pubDate": "2026-04-01T03:16:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>기존의 <strong>지메일 계정 사용자명(@gmail.com)을 변경할 수 있는 기능</strong>이 공식 출시, 메일뿐 아니라 Photos, Drive 등 Google 전반 도구에 다 적용됨</li>\n<li>예전 사용자명은 <strong>별칭(alias)으로 유지</strong>되어, 이전 주소와 새 주소 모두에서 이메일 수신 가능하며, 어느 주소로든 발신...</p>",
-          "contentSnippet": "기존의 지메일 계정 사용자명(@gmail.com)을 변경할 수 있는 기능이 공식 출시, 메일뿐 아니라 Photos, Drive 등 Google 전반 도구에 다 적용됨\n예전 사용자명은 별칭(alias)으로 유지되어, 이전 주소와 새 주소 모두에서 이메일 수신 가능하며, 어느 주소로든 발신...",
-          "id": "https://news.hada.io/topic?id=28083",
-          "isoDate": "2026-04-01T03:16:01.000Z"
-        },
-        {
-          "title": "Show GN: 제발 claude code나 gemini-cli가 내가 원하는 순서대로 작업하기를 원해서 만든 workflow-tool",
-          "link": "https://news.hada.io/topic?id=28082",
-          "pubDate": "2026-04-01T03:03:05.000Z",
-          "author": "hanyki111",
-          "content": "<p>매번 작업할 때마다, workflow를 입맛에 맞게 세팅해도 자꾸 AI들이 이를 벗어나 행동하는 부분에 지쳐서 만들었습니다.<br />\n각 단계마다 어떤 프로세스에 맞춰 작업을 해야하는지를 설정하여, AI들이 제가 원하는 순서대로 행동하도록 강제할 수 있습니다.<br />\nsubagent를 호출하거나, 반드시 사용자가 체크해야...</p>",
-          "contentSnippet": "매번 작업할 때마다, workflow를 입맛에 맞게 세팅해도 자꾸 AI들이 이를 벗어나 행동하는 부분에 지쳐서 만들었습니다.\n각 단계마다 어떤 프로세스에 맞춰 작업을 해야하는지를 설정하여, AI들이 제가 원하는 순서대로 행동하도록 강제할 수 있습니다.\nsubagent를 호출하거나, 반드시 사용자가 체크해야...",
-          "id": "https://news.hada.io/topic?id=28082",
-          "isoDate": "2026-04-01T03:03:05.000Z"
-        },
-        {
-          "title": "GitHub의 과거 가동 시간",
-          "link": "https://news.hada.io/topic?id=28081",
-          "pubDate": "2026-04-01T02:32:52.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>2016년부터 2026년까지의 <strong>GitHub 월별 가동 시간</strong>을 시각화한 페이지\n<ul>\n<li>모든 데이터는 <strong>공식 상태 페이지</strong>에서 수집된 기록 기반</li>\n</ul>\n</li>\n<li>\n<strong>평균 가동률(Average)</strong> 과 <strong>세부 중단 내역(Breakdown)</strong> 을 구분해 볼 수 있는 구...</p>",
-          "contentSnippet": "2016년부터 2026년까지의 GitHub 월별 가동 시간을 시각화한 페이지\n\n모든 데이터는 공식 상태 페이지에서 수집된 기록 기반\n평균 가동률(Average) 과 세부 중단 내역(Breakdown) 을 구분해 볼 수 있는 구...",
-          "id": "https://news.hada.io/topic?id=28081",
-          "isoDate": "2026-04-01T02:32:52.000Z"
-        },
-        {
-          "title": "Claude Code (유출본) 소스 코드  분석서",
-          "link": "https://news.hada.io/topic?id=28080",
-          "pubDate": "2026-04-01T02:00:19.000Z",
-          "author": "jaehong747",
-          "content": "<p>Anthropic의 Claude Code 전체 소스 코드 구조가 노출되었습니다.</p>\n<p>이로 인해 많은 클로드 코드 팬들은 흥분?된 상태인것 같고요.<br />\n관련 분야 많은 도사님들은 클로드 코드 소스를 해부하고 계시는것 같습니다.</p>\n<p>저도 오전에 부랴부랴 소스코드를 획득하고, 클로드 코드와 함께 분석을 진행해보았습",
-          "contentSnippet": "Anthropic의 Claude Code 전체 소스 코드 구조가 노출되었습니다.\n이로 인해 많은 클로드 코드 팬들은 흥분?된 상태인것 같고요.\n저도 오전에 부랴부랴 소스코드를 획득하고, 클로드 코드와 함께 분석을 진행해보았습",
-          "id": "https://news.hada.io/topic?id=28080",
-          "isoDate": "2026-04-01T02:00:19.000Z"
-        },
-        {
-          "title": "Show GN: 코딩 에이전트 구독료 뽕뽑기, 클로드코드, 코덱스, 제미나이, 오픈코드를 모두 묶어 텔레그램 봇으로 -...",
-          "link": "https://news.hada.io/topic?id=28079",
-          "pubDate": "2026-04-01T01:38:10.000Z",
-          "author": "cokac",
-          "content": "<p>이미 쓰고 있는 코딩 에이전트(Claude Code, Codex, Gemini CLI, OpenCode)를 텔레그램에서 그대로 쓸 수 있게 해주는 오픈소스 도구입니다.</p>\n<p>cokacdir은 자체 AI 에이전트를 내장하지 않습니다. 대신 기존 에이전트에 작업을 위임하고, 이를 텔레그램에서 편하게 운용할 수 있는 인터페이스와 실행 환경을 제공",
-          "contentSnippet": "이미 쓰고 있는 코딩 에이전트(Claude Code, Codex, Gemini CLI, OpenCode)를 텔레그램에서 그대로 쓸 수 있게 해주는 오픈소스 도구입니다.\ncokacdir은 자체 AI 에이전트를 내장하지 않습니다. 대신 기존 에이전트에 작업을 위임하고, 이를 텔레그램에서 편하게 운용할 수 있는 인터페이스와 실행 환경을 제공",
-          "id": "https://news.hada.io/topic?id=28079",
-          "isoDate": "2026-04-01T01:38:10.000Z"
-        },
-        {
-          "title": "Microsoft: Copilot은 오락용으로만 제공됨",
-          "link": "https://news.hada.io/topic?id=28078",
-          "pubDate": "2026-04-01T00:58:22.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Copilot은 <strong>AI 기반 대화형 서비스</strong>로, 사용자의 프롬프트에 응답을 생성하지만 그 결과는 <strong>정확하거나 신뢰할 수 없을 수 있음</strong>\n</li>\n<li>Microsoft는 Copilot을 <strong>오락용(Entertainment purposes only)</strong> 으로 제공하며, 중요한 조언이나 결정의 근거로 사용해서...</p>",
-          "contentSnippet": "Copilot은 AI 기반 대화형 서비스로, 사용자의 프롬프트에 응답을 생성하지만 그 결과는 정확하거나 신뢰할 수 없을 수 있음\n\nMicrosoft는 Copilot을 오락용(Entertainment purposes only) 으로 제공하며, 중요한 조언이나 결정의 근거로 사용해서...",
-          "id": "https://news.hada.io/topic?id=28078",
-          "isoDate": "2026-04-01T00:58:22.000Z"
-        },
-        {
-          "title": "Universal Claude.md – Claude 출력 토큰 절감",
-          "link": "https://news.hada.io/topic?id=28077",
-          "pubDate": "2026-04-01T00:55:22.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Claude 모델의 <strong>불필요한 서두·마무리·재진술</strong>을 제거해 <strong>출력 토큰 낭비를 줄이는 설정 파일</strong>\n</li>\n<li>프로젝트 루트에 <code>CLAUDE.md</code>를 추가하면 <strong>코드 수정 없이 즉시 적용</strong>되며, <strong>평균 63%의 토큰 절감</strong> 효과</li>\n<li>\n<strong>A...</p>",
-          "contentSnippet": "Claude 모델의 불필요한 서두·마무리·재진술을 제거해 출력 토큰 낭비를 줄이는 설정 파일\n\n프로젝트 루트에 CLAUDE.md를 추가하면 코드 수정 없이 즉시 적용되며, 평균 63%의 토큰 절감 효과\nA...",
-          "id": "https://news.hada.io/topic?id=28077",
-          "isoDate": "2026-04-01T00:55:22.000Z"
-        },
-        {
-          "title": "GitHub, 반발 이후 Copilot의 Pull Request 광고 기능 중단",
-          "link": "https://news.hada.io/topic?id=28076",
-          "pubDate": "2026-04-01T00:52:22.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>GitHub Copilot</strong>이 <strong>Pull Request(PR)</strong> 내에 삽입하던 <strong>광고성 ‘tips’ 메시지 기능을 제거</strong>, 개발자 반발에 따른 조치임</li>\n<li>해당 메시지는 <strong>Raycast 앱 설치를 권장</strong>하는 문구와 링크를 포함해, Copilot이 자동으로 PR 설명에 추가했음...</p>",
-          "contentSnippet": "GitHub Copilot이 Pull Request(PR) 내에 삽입하던 광고성 ‘tips’ 메시지 기능을 제거, 개발자 반발에 따른 조치임\n해당 메시지는 Raycast 앱 설치를 권장하는 문구와 링크를 포함해, Copilot이 자동으로 PR 설명에 추가했음...",
-          "id": "https://news.hada.io/topic?id=28076",
-          "isoDate": "2026-04-01T00:52:22.000Z"
-        },
-        {
-          "title": "Claude Code 소스 유출: 가짜 도구, 욕설 감지 정규식, 은폐 모드 등 내부 구조 드러남",
-          "link": "https://news.hada.io/topic?id=28074",
-          "pubDate": "2026-04-01T00:49:22.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Anthropic이 npm 패키지에 <strong>소스맵을 포함해 배포</strong>하면서 Claude Code의 전체 코드가 공개되어, 내부 기능과 실험적 플래그가 모두 드러남</li>\n<li>코드에는 <strong>모델 모방 방지를 위한 가짜 도구 삽입(anti-distillation)</strong>, <strong>AI 정체를 숨기는 undercover 모드</strong>, ...</p>",
-          "contentSnippet": "Anthropic이 npm 패키지에 소스맵을 포함해 배포하면서 Claude Code의 전체 코드가 공개되어, 내부 기능과 실험적 플래그가 모두 드러남\n코드에는 모델 모방 방지를 위한 가짜 도구 삽입(anti-distillation), AI 정체를 숨기는 undercover 모드, ...",
-          "id": "https://news.hada.io/topic?id=28074",
-          "isoDate": "2026-04-01T00:49:22.000Z"
-        },
-        {
-          "title": "아르테미스 II는 비행하기에 안전하지 않다",
-          "link": "https://news.hada.io/topic?id=28073",
-          "pubDate": "2026-04-01T00:46:22.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>오리온 캡슐의 <strong>열 차폐판 결함</strong>이 아르테미스 II 유인 비행의 <strong>승무원 생존을 위협</strong>하는 핵심 문제로 지적됨</li>\n<li>아르테미스 I 재진입 중 <strong>Avcoat 재료가 대규모로 탈락</strong>하며 구조적 손상이 발생했고, NASA 감사관실(OIG) 보고서로 그 심각성이 확인됨</li...</p>",
-          "contentSnippet": "오리온 캡슐의 열 차폐판 결함이 아르테미스 II 유인 비행의 승무원 생존을 위협하는 핵심 문제로 지적됨\n아르테미스 I 재진입 중 Avcoat 재료가 대규모로 탈락하며 구조적 손상이 발생했고, NASA 감사관실(OIG) 보고서로 그 심각성이 확인됨",
-          "id": "https://news.hada.io/topic?id=28073",
-          "isoDate": "2026-04-01T00:46:22.000Z"
-        },
-        {
-          "title": "오라클, 3만 명 해고 단행",
-          "link": "https://news.hada.io/topic?id=28072",
-          "pubDate": "2026-04-01T00:43:22.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>전 세계 직원 약 <strong>2만~3만 명(전체의 18%)</strong> 이 화요일 <strong>오전 6시 이메일 한 통으로 해고 통보</strong>를 받음</li>\n<li>이메일은 <strong>“Oracle Leadership”</strong> 명의로 발송됐으며, 전화나 관리자 사전 통보 없이 즉시 효력 발생</li>\n<li>해고 통보 직후 <strong>내부 시스템...</p>",
-          "contentSnippet": "전 세계 직원 약 2만~3만 명(전체의 18%) 이 화요일 오전 6시 이메일 한 통으로 해고 통보를 받음\n이메일은 “Oracle Leadership” 명의로 발송됐으며, 전화나 관리자 사전 통보 없이 즉시 효력 발생\n해고 통보 직후 내부 시스템...",
-          "id": "https://news.hada.io/topic?id=28072",
-          "isoDate": "2026-04-01T00:43:22.000Z"
         }
       ]
     }
