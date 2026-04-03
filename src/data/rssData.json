@@ -7,6 +7,66 @@
       "priority": 1,
       "data": [
         {
+          "title": "라라벨 기반 그누보드7 오픈베타 출시",
+          "link": "https://news.hada.io/topic?id=28172",
+          "pubDate": "2026-04-03T15:04:55.000Z",
+          "author": "lastorder",
+          "content": "<ul>\n<li>백엔드로 Laravel 12.x와 프론트엔드로 React 19, Vite, Tailwind CSS 4를 기반으로 하는 오픈소스 CMS</li>\n<li>2026년 4월 1일 첫 버전 공개</li>\n<li>기존 그누보드5와 달리 &quot;AI 친화적인 구조&quot;를 핵심으로 내세움. 공식 개발 문서를 <a href=\"https://github.com/gnuboard/g7/blob/main/AGENTS.m...</p>",
+          "contentSnippet": "백엔드로 Laravel 12.x와 프론트엔드로 React 19, Vite, Tailwind CSS 4를 기반으로 하는 오픈소스 CMS\n2026년 4월 1일 첫 버전 공개\n기존 그누보드5와 달리 \"AI 친화적인 구조\"를 핵심으로 내세움. 공식 개발 문서를",
+          "id": "https://news.hada.io/topic?id=28172",
+          "isoDate": "2026-04-03T15:04:55.000Z"
+        },
+        {
+          "title": "PyPI 보안팀 공식 공급망 공격 사고 보고서: LiteLLM·Telnyx 악성 패키지 사건 그리고 방어하기",
+          "link": "https://news.hada.io/topic?id=28171",
+          "pubDate": "2026-04-03T13:04:56.000Z",
+          "author": "darjeeling",
+          "content": "<h3>🔑 핵심 요약</h3>\n<p>Trivy 의존성 취약점을 통해 API 토큰이 탈취되었고, 이를 발판으로 PyPI에 <code>litellm</code>과 <code>telnyx</code> 패키지의 악성 버전이 배포됐다. 악성코드는 설치 즉시 실행되어 민감한 자격증명과 파일을 수집한 뒤 외부 서버로 유출했다.</p>\n<hr />\n<h3>⚠️ 이번 악성코드가 특별",
+          "contentSnippet": "🔑 핵심 요약\nTrivy 의존성 취약점을 통해 API 토큰이 탈취되었고, 이를 발판으로 PyPI에 litellm과 telnyx 패키지의 악성 버전이 배포됐다. 악성코드는 설치 즉시 실행되어 민감한 자격증명과 파일을 수집한 뒤 외부 서버로 유출했다.\n⚠️ 이번 악성코드가 특별",
+          "id": "https://news.hada.io/topic?id=28171",
+          "isoDate": "2026-04-03T13:04:56.000Z"
+        },
+        {
+          "title": "Show GN: 노래 한 곡 보내면 세계 어딘가에서 한 곡 받는 웹앱 만들었습니다",
+          "link": "https://news.hada.io/topic?id=28169",
+          "pubDate": "2026-04-03T10:09:54.000Z",
+          "author": "kongchu2",
+          "content": "<p>https://gachasong.app</p>\n<p>작년 도쿄 시모키타자와에 라이브를 보러 갔다가, 대기줄에서 대만에서 온 사람을 만났습니다. 서로 영어도 잘 못했지만 플레이리스트를 보여주다 보니 취향이 놀라울 정도로 겹쳐서, 바로 친구가 됐어요.</p>\n<p>나중에 그 친구를 보러 대만에 갔을 때, 타이베이의 PAR STORE라는 레코",
+          "contentSnippet": "https://gachasong.app\n작년 도쿄 시모키타자와에 라이브를 보러 갔다가, 대기줄에서 대만에서 온 사람을 만났습니다. 서로 영어도 잘 못했지만 플레이리스트를 보여주다 보니 취향이 놀라울 정도로 겹쳐서, 바로 친구가 됐어요.\n나중에 그 친구를 보러 대만에 갔을 때, 타이베이의 PAR STORE라는 레코",
+          "id": "https://news.hada.io/topic?id=28169",
+          "isoDate": "2026-04-03T10:09:54.000Z"
+        },
+        {
+          "title": "Physical AI가 지금 주목받는 이유와 과거와의 차이점",
+          "link": "https://news.hada.io/topic?id=28167",
+          "pubDate": "2026-04-03T09:46:02.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>Physical AI 분야에 <strong>VC 투자가 의미 있게 증가</strong>하며 NVIDIA GTC, Bessemer Robotics Day, Unitree IPO, Amazon의 Fauna Robotics 인수, Figure 휴머노이드의 백악관 등장 등 연이은 이벤트가 업계 모멘텀을 형성 중</li>\n<li>과거 로보틱스 투자 실패의 트라우마가 남아 있으나, 이번 사이클은...</p>",
+          "contentSnippet": "Physical AI 분야에 VC 투자가 의미 있게 증가하며 NVIDIA GTC, Bessemer Robotics Day, Unitree IPO, Amazon의 Fauna Robotics 인수, Figure 휴머노이드의 백악관 등장 등 연이은 이벤트가 업계 모멘텀을 형성 중\n과거 로보틱스 투자 실패의 트라우마가 남아 있으나, 이번 사이클은...",
+          "id": "https://news.hada.io/topic?id=28167",
+          "isoDate": "2026-04-03T09:46:02.000Z"
+        },
+        {
+          "title": "지금 가장 중요한 AI 아이디어들 (2026년 4월)",
+          "link": "https://news.hada.io/topic?id=28166",
+          "pubDate": "2026-04-03T09:45:04.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>AI 시대의 핵심 변화로 <strong>자율적 구성 요소 개선</strong>, 의도 기반 엔지니어링, 투명성 전환, 스캐폴딩 인식, 전문지식 확산 등 5가지 아이디어가 상호 강화하며 <strong>모든 조직의 운영 방식을 근본적으로 재편</strong>하는 중</li>\n<li>Karpathy의 <strong>Autoresearch 프로젝트</strong>에서 영...</p>",
+          "contentSnippet": "AI 시대의 핵심 변화로 자율적 구성 요소 개선, 의도 기반 엔지니어링, 투명성 전환, 스캐폴딩 인식, 전문지식 확산 등 5가지 아이디어가 상호 강화하며 모든 조직의 운영 방식을 근본적으로 재편하는 중\nKarpathy의 Autoresearch 프로젝트에서 영...",
+          "id": "https://news.hada.io/topic?id=28166",
+          "isoDate": "2026-04-03T09:45:04.000Z"
+        },
+        {
+          "title": "Cohere Transcribe - SOTA 오픈소스 음성 인식 모델",
+          "link": "https://news.hada.io/topic?id=28165",
+          "pubDate": "2026-04-03T09:38:30.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>영어,한국어,중국어 등 14개 언어를 지원하는 <strong>2B(20억)</strong> 파라미터 규모의 <strong>최신 자동 음성 인식(ASR)</strong> 모델</li>\n<li>\n<strong>Conformer 기반 인코더-디코더 구조</strong>를 사용하며, <strong>Apache 2.0 라이선스</strong>로 배포됨</li>\n<li>영어 기준 <strong>평균 단어 ...</p>",
+          "contentSnippet": "영어,한국어,중국어 등 14개 언어를 지원하는 2B(20억) 파라미터 규모의 최신 자동 음성 인식(ASR) 모델\nConformer 기반 인코더-디코더 구조를 사용하며, Apache 2.0 라이선스로 배포됨\n영어 기준 평균 단어 ...",
+          "id": "https://news.hada.io/topic?id=28165",
+          "isoDate": "2026-04-03T09:38:30.000Z"
+        },
+        {
           "title": "CI/CD 파이프라인 구축해보기",
           "link": "https://news.hada.io/topic?id=28164",
           "pubDate": "2026-04-03T09:13:18.000Z",
@@ -445,66 +505,6 @@
           "contentSnippet": "기존 렌더러의 화면 깜박임·점프 현상을 해소하는 실험적 렌더러 도입\n대화가 길어져도 메모리·CPU 사용량이 일정하게 유지되며, 터미널 환경에서 마우스 클릭·커서 이동·UI 요소 클릭이 가능해짐\nCLAUDE_CODE_NO_FLICKER=1",
           "id": "https://news.hada.io/topic?id=28108",
           "isoDate": "2026-04-02T01:37:02.000Z"
-        },
-        {
-          "title": "OpenAI의 무덤: 성사되지 못한 모든 거래와 제품들",
-          "link": "https://news.hada.io/topic?id=28107",
-          "pubDate": "2026-04-02T01:36:35.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>IPO를 앞두고 수익성 압박이 커지면서, OpenAI가 야심차게 발표했던 다수의 제품과 파트너십 딜들이 취소·지연·불투명 상태로 남겨지고 있음</li>\n<li>\n<strong>Sora-Disney 10억 달러 딜</strong>이 돌연 취소된 것을 비롯해, ChatGPT 쇼핑 기능, 성인용 모드 등 여러 이니셔티브가 잇따라 폐기됨</li>\n<li>\n...</p>",
-          "contentSnippet": "IPO를 앞두고 수익성 압박이 커지면서, OpenAI가 야심차게 발표했던 다수의 제품과 파트너십 딜들이 취소·지연·불투명 상태로 남겨지고 있음\nSora-Disney 10억 달러 딜이 돌연 취소된 것을 비롯해, ChatGPT 쇼핑 기능, 성인용 모드 등 여러 이니셔티브가 잇따라 폐기됨\n\n...",
-          "id": "https://news.hada.io/topic?id=28107",
-          "isoDate": "2026-04-02T01:36:35.000Z"
-        },
-        {
-          "title": "MiniStack — 무료 오픈소스 로컬 AWS 에뮬레이터",
-          "link": "https://news.hada.io/topic?id=28106",
-          "pubDate": "2026-04-02T01:35:54.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>AWS 환경을 로컬에서 완전히 재현할 수 있는 <strong>무료 오픈소스 에뮬레이터</strong>로, 유료화된 LocalStack의 대체재로 개발됨</li>\n<li>\n<strong>34개 AWS 서비스</strong>를 단일 포트에서 실행하며, <strong>Postgres·Redis·Docker 컨테이너</strong>를 실제로 구동해 인프라 수준의 테스트 환경을 제...</p>",
-          "contentSnippet": "AWS 환경을 로컬에서 완전히 재현할 수 있는 무료 오픈소스 에뮬레이터로, 유료화된 LocalStack의 대체재로 개발됨\n34개 AWS 서비스를 단일 포트에서 실행하며, Postgres·Redis·Docker 컨테이너를 실제로 구동해 인프라 수준의 테스트 환경을 제...",
-          "id": "https://news.hada.io/topic?id=28106",
-          "isoDate": "2026-04-02T01:35:54.000Z"
-        },
-        {
-          "title": "데이터 사이언티스트의 역습",
-          "link": "https://news.hada.io/topic?id=28105",
-          "pubDate": "2026-04-02T01:34:04.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>LLM API 등장으로 데이터 사이언티스트·MLE가 AI 출시 핵심 경로에서 배제되었지만, 실제 업무의 본질—<strong>실험 설계, 지표 측정, 확률적 시스템 디버깅</strong>—은 사라지지 않았음</li>\n<li>OpenAI의 Codex 사례와 Karpathy의 auto-research 프로젝트 모두 <strong>테스트·지표·관측 스택으로 구성된 ...</p>",
-          "contentSnippet": "LLM API 등장으로 데이터 사이언티스트·MLE가 AI 출시 핵심 경로에서 배제되었지만, 실제 업무의 본질—실험 설계, 지표 측정, 확률적 시스템 디버깅—은 사라지지 않았음\nOpenAI의 Codex 사례와 Karpathy의 auto-research 프로젝트 모두 테스트·지표·관측 스택으로 구성된 ...",
-          "id": "https://news.hada.io/topic?id=28105",
-          "isoDate": "2026-04-02T01:34:04.000Z"
-        },
-        {
-          "title": "lodash를 아직 쓰고 있다면 - package.json 한 줄로 번들 97% 줄이기 (es-toolkit)",
-          "link": "https://news.hada.io/topic?id=28104",
-          "pubDate": "2026-04-02T01:26:42.000Z",
-          "author": "bboydart91",
-          "content": "<p>토스 프론트엔드 팀에서 만든 lodash 대체 JavaScript 유틸리티 라이브러리 es-toolkit이 npm 주간 다운로드 1,000만 건을 넘기기까지의 과정을 정리한 글입니다.</p>\n<ul>\n<li>2024년 &quot;한국에서 세계적으로 사용되는 JS 라이브러리가 나온 적이 있나?&quot;라는 질문에서 출발</li>\n<li>lodash가 10년 전 설계된",
-          "contentSnippet": "토스 프론트엔드 팀에서 만든 lodash 대체 JavaScript 유틸리티 라이브러리 es-toolkit이 npm 주간 다운로드 1,000만 건을 넘기기까지의 과정을 정리한 글입니다.\n2024년 \"한국에서 세계적으로 사용되는 JS 라이브러리가 나온 적이 있나?\"라는 질문에서 출발\nlodash가 10년 전 설계된",
-          "id": "https://news.hada.io/topic?id=28104",
-          "isoDate": "2026-04-02T01:26:42.000Z"
-        },
-        {
-          "title": "Show GN: Uviewer - 이미지, 만화, 텍스트, pdf, epub 통합뷰어",
-          "link": "https://news.hada.io/topic?id=28103",
-          "pubDate": "2026-04-02T01:18:47.000Z",
-          "author": "kirinonakar",
-          "content": "<p>Winui3로 만든 이미지, 만화, 텍스트, pdf, epub 통합뷰어입니다.<br />\n만화나 소설 읽기에 최적화해서 만들었습니다.<br />\n자세한 사용법은 github를 참조해 주세요.</p>\n<p>github<br />\nhttps://github.com/kirinonakar/Uviewer<br />\nmicrosoft store<br />\nhttps://apps.microsoft.com/detail/9N6DL9Q4S6FK?hl",
-          "contentSnippet": "Winui3로 만든 이미지, 만화, 텍스트, pdf, epub 통합뷰어입니다.\ngithub\nhttps://github.com/kirinonakar/Uviewer\nmicrosoft store\nhttps://apps.microsoft.com/detail/9N6DL9Q4S6FK?hl",
-          "id": "https://news.hada.io/topic?id=28103",
-          "isoDate": "2026-04-02T01:18:47.000Z"
-        },
-        {
-          "title": "Hermes Agent — 경험으로부터 스킬을 생성·개선하는 자기 학습형 자율 AI 에이전트",
-          "link": "https://news.hada.io/topic?id=28101",
-          "pubDate": "2026-04-02T00:37:10.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>자기 학습 루프</strong>를 내장한 자율 에이전트로, 사용 중 스킬을 스스로 생성하고 개선하며, 세션 간에 사용자 모델을 점진적으로 심화시킴</li>\n<li>IDE에 묶인 코딩 코파일럿이나 단일 API 챗봇 래퍼가 아닌 자율 에이전트로 <strong>실행 시간이 길수록 더 유능해짐</strong>\n</li>\n<li>실행 환...</p>",
-          "contentSnippet": "자기 학습 루프를 내장한 자율 에이전트로, 사용 중 스킬을 스스로 생성하고 개선하며, 세션 간에 사용자 모델을 점진적으로 심화시킴\nIDE에 묶인 코딩 코파일럿이나 단일 API 챗봇 래퍼가 아닌 자율 에이전트로 실행 시간이 길수록 더 유능해짐\n\n실행 환...",
-          "id": "https://news.hada.io/topic?id=28101",
-          "isoDate": "2026-04-02T00:37:10.000Z"
         }
       ]
     }
