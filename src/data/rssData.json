@@ -7,6 +7,26 @@
       "priority": 1,
       "data": [
         {
+          "title": "FAA의 드론 비행 제한은 ICE 촬영을 범죄화하려는 시도",
+          "link": "https://news.hada.io/topic?id=28200",
+          "pubDate": "2026-04-04T12:36:44.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>FAA가 발행한 <strong>전국적 드론 비행 제한(FDC 6/4375)</strong> 은 ICE와 CBP 차량 반경 0.5마일 내 비행을 금지해 <strong>언론과 시민의 기록 활동</strong>을 제한함</li>\n<li>이 조치는 <strong>21개월간 지속되는 ‘임시’ 제한</strong>으로, 국방부·법무부 등 연방 기관의 모든 이동 자산 주변 3000...</p>",
+          "contentSnippet": "FAA가 발행한 전국적 드론 비행 제한(FDC 6/4375) 은 ICE와 CBP 차량 반경 0.5마일 내 비행을 금지해 언론과 시민의 기록 활동을 제한함\n이 조치는 21개월간 지속되는 ‘임시’ 제한으로, 국방부·법무부 등 연방 기관의 모든 이동 자산 주변 3000...",
+          "id": "https://news.hada.io/topic?id=28200",
+          "isoDate": "2026-04-04T12:36:44.000Z"
+        },
+        {
+          "title": "iNaturalist - 자연 관찰자 커뮤니티",
+          "link": "https://news.hada.io/topic?id=28199",
+          "pubDate": "2026-04-04T12:33:44.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>전 세계 사용자가 생물을 기록하고 공유하는 <strong>시민 과학 플랫폼</strong>으로, 협업을 통해 방대한 <strong>생물 데이터베이스</strong>를 구축함</li>\n<li>식물, 동물, 곰팡이 등 다양한 생물의 사진과 위치를 업로드하고, 다른 사용자와 함께 <strong>종 식별 및 토론</strong>을 진행함</li>\n<li>현재...</p>",
+          "contentSnippet": "전 세계 사용자가 생물을 기록하고 공유하는 시민 과학 플랫폼으로, 협업을 통해 방대한 생물 데이터베이스를 구축함\n식물, 동물, 곰팡이 등 다양한 생물의 사진과 위치를 업로드하고, 다른 사용자와 함께 종 식별 및 토론을 진행함\n현재...",
+          "id": "https://news.hada.io/topic?id=28199",
+          "isoDate": "2026-04-04T12:33:44.000Z"
+        },
+        {
           "title": "SSH 인증서: 더 나은 SSH 경험",
           "link": "https://news.hada.io/topic?id=28198",
           "pubDate": "2026-04-04T08:08:24.000Z",
@@ -485,26 +505,6 @@
           "contentSnippet": "군집 지능(Swarm Intelligence) 으로 현실을 복제해 미래를 예측하는 AI 엔진\n실세계의 시드 정보(뉴스, 정책 초안, 금융 신호 등)를 주입하면 평행 디지털 세계를 자동 생성\n해당 공간내에서 수천 개의 독립 에이전트가 기억·성격·행동 규칙을 갖고 상호...",
           "id": "https://news.hada.io/topic?id=28139",
           "isoDate": "2026-04-03T00:31:02.000Z"
-        },
-        {
-          "title": "Google, 오픈 모델 Gemma 4 공개",
-          "link": "https://news.hada.io/topic?id=28138",
-          "pubDate": "2026-04-03T00:22:19.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>Google DeepMind가 <strong>Gemini 3 기술을 기반으로 한 차세대 오픈 AI 모델 Gemma 4</strong>를 발표, <strong>매개변수당 지능 효율</strong>을 극대화한 구조로 설계됨</li>\n<li>모델은 <strong>E2B, E4B, 26B, 31B</strong> 네 가지 크기로 제공되며, <strong>모바일·IoT부터 개인용 GPU 환경까지</stron...</p>",
-          "contentSnippet": "Google DeepMind가 Gemini 3 기술을 기반으로 한 차세대 오픈 AI 모델 Gemma 4를 발표, 매개변수당 지능 효율을 극대화한 구조로 설계됨\n모델은 E2B, E4B, 26B, 31B 네 가지 크기로 제공되며, 모바일·IoT부터 개인용 GPU 환경까지",
-          "id": "https://news.hada.io/topic?id=28138",
-          "isoDate": "2026-04-03T00:22:19.000Z"
-        },
-        {
-          "title": "OCaml 컴파일러용 새로운 C++ 백엔드",
-          "link": "https://news.hada.io/topic?id=28137",
-          "pubDate": "2026-04-02T23:41:16.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>OCaml 컴파일러에 <strong>C++ 코드 생성을 지원하는 새로운 백엔드</strong>가 제안되어, 기존 C 기반 백엔드의 한계를 보완</li>\n<li>변환된 코드는 <strong>순수 함수형 스타일</strong>로 작성되며, 가변 상태나 표준 라이브러리 사용 없이 <code>List</code> 모듈 일부를 재구현</li>\n<li>실행에는 <stron...</p>",
-          "contentSnippet": "OCaml 컴파일러에 C++ 코드 생성을 지원하는 새로운 백엔드가 제안되어, 기존 C 기반 백엔드의 한계를 보완\n변환된 코드는 순수 함수형 스타일로 작성되며, 가변 상태나 표준 라이브러리 사용 없이 List 모듈 일부를 재구현\n실행에는",
-          "id": "https://news.hada.io/topic?id=28137",
-          "isoDate": "2026-04-02T23:41:16.000Z"
         }
       ]
     }
