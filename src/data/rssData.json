@@ -7,6 +7,46 @@
       "priority": 1,
       "data": [
         {
+          "title": "SSH 인증서: 더 나은 SSH 경험",
+          "link": "https://news.hada.io/topic?id=28198",
+          "pubDate": "2026-04-04T08:08:24.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>SSH 인증서는 기존 <strong>공개키 기반 SSH 인증의 번거로움</strong>을 해결하며, 클라이언트와 서버 간 <strong>자동 신뢰</strong>를 제공함</li>\n<li>OpenSSH 5.4부터 지원되며, <strong>CA(인증 기관)</strong> 가 사용자와 호스트 키를 서명해 <code>authorized_keys</code> 수정 없이 인증 가능</li>\n...</p>",
+          "contentSnippet": "SSH 인증서는 기존 공개키 기반 SSH 인증의 번거로움을 해결하며, 클라이언트와 서버 간 자동 신뢰를 제공함\nOpenSSH 5.4부터 지원되며, CA(인증 기관) 가 사용자와 호스트 키를 서명해 authorized_keys 수정 없이 인증 가능\n...",
+          "id": "https://news.hada.io/topic?id=28198",
+          "isoDate": "2026-04-04T08:08:24.000Z"
+        },
+        {
+          "title": "OpenAI, 미디어 기업 TBPN 인수",
+          "link": "https://news.hada.io/topic?id=28197",
+          "pubDate": "2026-04-04T07:59:40.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>OpenAI가 <strong>Technology Business Programming Network(TBPN)</strong> 을 인수하며, AI 관련 <strong>글로벌 대화의 가속화</strong>를 목표로 함</li>\n<li>TBPN은 기술·비즈니스·문화 분야의 인사들을 연결하는 <strong>라이브 테크 토크쇼 및 미디어 기업</strong>으로, 업계 내 영향력 높은 플랫폼으로...</p>",
+          "contentSnippet": "OpenAI가 Technology Business Programming Network(TBPN) 을 인수하며, AI 관련 글로벌 대화의 가속화를 목표로 함\nTBPN은 기술·비즈니스·문화 분야의 인사들을 연결하는 라이브 테크 토크쇼 및 미디어 기업으로, 업계 내 영향력 높은 플랫폼으로...",
+          "id": "https://news.hada.io/topic?id=28197",
+          "isoDate": "2026-04-04T07:59:40.000Z"
+        },
+        {
+          "title": "Samsung Magician 디스크 유틸리티 제거하려면 18단계와 두 번의 재부팅 필요",
+          "link": "https://news.hada.io/topic?id=28195",
+          "pubDate": "2026-04-04T06:44:49.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>macOS용 <strong>Samsung Magician</strong>은 하드웨어 암호화 설정을 위해 설치되었으나, 정상 작동하지 않아 제거 시도 시 <strong>삭제 버튼이 존재하지 않음</strong>\n</li>\n<li>앱 내부의 <strong>정리 스크립트 실행 시 500회 이상 오류</strong>가 발생하며, 파일 소유권 변경 실패로 대부분의 파일이 ...</p>",
+          "contentSnippet": "macOS용 Samsung Magician은 하드웨어 암호화 설정을 위해 설치되었으나, 정상 작동하지 않아 제거 시도 시 삭제 버튼이 존재하지 않음\n\n앱 내부의 정리 스크립트 실행 시 500회 이상 오류가 발생하며, 파일 소유권 변경 실패로 대부분의 파일이 ...",
+          "id": "https://news.hada.io/topic?id=28195",
+          "isoDate": "2026-04-04T06:44:49.000Z"
+        },
+        {
+          "title": "이란 상공에서 미군 F-15E 전투기 격추, 승무원 1명 구조",
+          "link": "https://news.hada.io/topic?id=28191",
+          "pubDate": "2026-04-04T04:32:49.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>미 공군 <strong>F-15E Strike Eagle 전투기</strong>가 이란 상공에서 격추되어 두 명의 승무원 중 한 명이 구조되고 다른 한 명은 실종 상태임</li>\n<li>\n<strong>이란 국영 언론</strong>은 처음에 F-35 격추를 주장했으나, 전문가들은 잔해가 영국 RAF Lakenheath 기지 소속 F-15E의 것임을 확인함</li>\n<l...</p>",
+          "contentSnippet": "미 공군 F-15E Strike Eagle 전투기가 이란 상공에서 격추되어 두 명의 승무원 중 한 명이 구조되고 다른 한 명은 실종 상태임\n이란 국영 언론은 처음에 F-35 격추를 주장했으나, 전문가들은 잔해가 영국 RAF Lakenheath 기지 소속 F-15E의 것임을 확인함",
+          "id": "https://news.hada.io/topic?id=28191",
+          "isoDate": "2026-04-04T04:32:49.000Z"
+        },
+        {
           "title": "Claude, 이제 OpenClaw 같은 써드파티에서 구독 모델 사용 불가",
           "link": "https://news.hada.io/topic?id=28190",
           "pubDate": "2026-04-04T03:13:55.000Z",
@@ -465,46 +505,6 @@
           "contentSnippet": "OCaml 컴파일러에 C++ 코드 생성을 지원하는 새로운 백엔드가 제안되어, 기존 C 기반 백엔드의 한계를 보완\n변환된 코드는 순수 함수형 스타일로 작성되며, 가변 상태나 표준 라이브러리 사용 없이 List 모듈 일부를 재구현\n실행에는",
           "id": "https://news.hada.io/topic?id=28137",
           "isoDate": "2026-04-02T23:41:16.000Z"
-        },
-        {
-          "title": "화이트하우스 공식 앱의 네트워크 트래픽을 가로채 분석한 결과",
-          "link": "https://news.hada.io/topic?id=28136",
-          "pubDate": "2026-04-02T23:38:16.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>화이트하우스 iOS 앱의 실제 <strong>HTTPS 트래픽을 MITM 프록시로 캡처</strong>해 어떤 서버와 데이터를 주고받는지 분석함</li>\n<li>앱은 <strong>whitehouse.gov 외에도 Elfsight, OneSignal, YouTube, Google DoubleClick, Facebook, Twitter</strong> 등 <strong>31개 제3자 호스트</strong>와 통신함...</p>",
-          "contentSnippet": "화이트하우스 iOS 앱의 실제 HTTPS 트래픽을 MITM 프록시로 캡처해 어떤 서버와 데이터를 주고받는지 분석함\n앱은 whitehouse.gov 외에도 Elfsight, OneSignal, YouTube, Google DoubleClick, Facebook, Twitter 등 31개 제3자 호스트와 통신함...",
-          "id": "https://news.hada.io/topic?id=28136",
-          "isoDate": "2026-04-02T23:38:16.000Z"
-        },
-        {
-          "title": "네안데르탈인은 35만 년 동안 벼랑 끝에서 생존했다",
-          "link": "https://news.hada.io/topic?id=28135",
-          "pubDate": "2026-04-02T23:35:16.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>약 <strong>40만~4만5천 년 전</strong>, 네안데르탈인은 유라시아 전역에서 사냥과 도구 제작을 하며 살았으나 <strong>소규모·고립된 집단 구조</strong>로 인해 불안정한 생존을 이어감</li>\n<li>\n<strong>고대 DNA 분석</strong> 결과, 이들은 근친 교배를 반복하며 <strong>유전적 다양성 감소와 유해 돌연...</p>",
-          "contentSnippet": "약 40만~4만5천 년 전, 네안데르탈인은 유라시아 전역에서 사냥과 도구 제작을 하며 살았으나 소규모·고립된 집단 구조로 인해 불안정한 생존을 이어감\n고대 DNA 분석 결과, 이들은 근친 교배를 반복하며 유전적 다양성 감소와 유해 돌연...",
-          "id": "https://news.hada.io/topic?id=28135",
-          "isoDate": "2026-04-02T23:35:16.000Z"
-        },
-        {
-          "title": "Show GN: 내 클로드를 소크라테스로 만들어봅시다",
-          "link": "https://news.hada.io/topic?id=28134",
-          "pubDate": "2026-04-02T22:58:20.000Z",
-          "author": "remocode",
-          "content": "<p>&quot;절대 정답을 알려주지 마!&quot;</p>\n<p>AI와 함께 공부하면서, 제일 아쉬웠던 점은 AI가 정답을 다 알려주는 바람에<br />\n아이디어를 스스로 떠올리는 힘을 키우기가 어려웠다는 점입니다.</p>\n<p>그래서 절대 정답을 알려주지 않으면서,<br />\n문답법으로 아이디어를 떠올리도록 유도하는 소크라테스 스킬을",
-          "contentSnippet": "\"절대 정답을 알려주지 마!\"\nAI와 함께 공부하면서, 제일 아쉬웠던 점은 AI가 정답을 다 알려주는 바람에\n그래서 절대 정답을 알려주지 않으면서,\n문답법으로 아이디어를 떠올리도록 유도하는 소크라테스 스킬을",
-          "id": "https://news.hada.io/topic?id=28134",
-          "isoDate": "2026-04-02T22:58:20.000Z"
-        },
-        {
-          "title": "BGP는 아직 안전하지 않은가",
-          "link": "https://news.hada.io/topic?id=28133",
-          "pubDate": "2026-04-02T20:33:11.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>인터넷의 핵심 라우팅 프로토콜인 <strong>BGP(Border Gateway Protocol)</strong> 은 경로 선택 기능을 담당하지만 <strong>보안 검증 기능이 내장되어 있지 않음</strong>\n</li>\n<li>이로 인해 잘못된 경로 정보가 전파되면 <strong>트래픽 탈취나 대규모 장애</strong>가 발생할 수 있으며, 이를 방지하기 위...</p>",
-          "contentSnippet": "인터넷의 핵심 라우팅 프로토콜인 BGP(Border Gateway Protocol) 은 경로 선택 기능을 담당하지만 보안 검증 기능이 내장되어 있지 않음\n\n이로 인해 잘못된 경로 정보가 전파되면 트래픽 탈취나 대규모 장애가 발생할 수 있으며, 이를 방지하기 위...",
-          "id": "https://news.hada.io/topic?id=28133",
-          "isoDate": "2026-04-02T20:33:11.000Z"
         }
       ]
     }
