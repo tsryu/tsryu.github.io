@@ -7,6 +7,146 @@
       "priority": 1,
       "data": [
         {
+          "title": "Claude, 이제 OpenClaw 같은 써드파티에서 구독 모델 사용 불가",
+          "link": "https://news.hada.io/topic?id=28190",
+          "pubDate": "2026-04-04T03:13:55.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>PT 4/5일 12시 (한국시간 4/6 04시) 부터 <strong>Claude 구독 플랜</strong>으로는 OpenClaw 등 서드파티 툴 사용 불가</li>\n<li>대신 할인된 <strong>추가 사용량 번들 구매</strong> 또는 <strong>Claude API 키</strong> 사용으로 전환해야 함</li>\n<li>이번 정책 변경의 배경은 <strong>서드파티 툴의 사용...</p>",
+          "contentSnippet": "PT 4/5일 12시 (한국시간 4/6 04시) 부터 Claude 구독 플랜으로는 OpenClaw 등 서드파티 툴 사용 불가\n대신 할인된 추가 사용량 번들 구매 또는 Claude API 키 사용으로 전환해야 함\n이번 정책 변경의 배경은 서드파티 툴의 사용...",
+          "id": "https://news.hada.io/topic?id=28190",
+          "isoDate": "2026-04-04T03:13:55.000Z"
+        },
+        {
+          "title": "Show GN: Lectone - PDF/PPT 올리면 AI가 강의 영상으로 만들어 드립니다",
+          "link": "https://news.hada.io/topic?id=28189",
+          "pubDate": "2026-04-04T02:19:21.000Z",
+          "author": "igdev",
+          "content": "<p>안녕하세요, Lectone을 만든 개발자입니다.</p>\n<p>AI로 강의 영상을 만들어보려다가 불편함을 느낀 게 계기였어요. 스크립트는 따로 써야 하고, 음성은 또 다른 툴에서 만들고, 영상 편집은 또 별도 작업… 이 과정이 너무 파편화돼 있더라고요. “슬라이드만 올리면 끝나는 게 왜 없지?” 싶어서 직접 만들었습니다",
+          "contentSnippet": "안녕하세요, Lectone을 만든 개발자입니다.\nAI로 강의 영상을 만들어보려다가 불편함을 느낀 게 계기였어요. 스크립트는 따로 써야 하고, 음성은 또 다른 툴에서 만들고, 영상 편집은 또 별도 작업… 이 과정이 너무 파편화돼 있더라고요. “슬라이드만 올리면 끝나는 게 왜 없지?” 싶어서 직접 만들었습니다",
+          "id": "https://news.hada.io/topic?id=28189",
+          "isoDate": "2026-04-04T02:19:21.000Z"
+        },
+        {
+          "title": "Gemma 4 비주얼 가이드",
+          "link": "https://news.hada.io/topic?id=28188",
+          "pubDate": "2026-04-04T01:33:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Google DeepMind가 출시한 <strong>Gemma 4</strong>는 E2B·E4B·31B·26B A4B 4가지 모델로 구성된 멀티모달 LLM 패밀리로, 모든 변형이 이미지 입력을 지원함</li>\n<li>모든 모델은 <strong>로컬 어텐션(슬라이딩 윈도우)과 글로벌 어텐션 레이어를 교차 배치</strong>하는 구조를 공유하며, 마지막 레이어는 항...</p>",
+          "contentSnippet": "Google DeepMind가 출시한 Gemma 4는 E2B·E4B·31B·26B A4B 4가지 모델로 구성된 멀티모달 LLM 패밀리로, 모든 변형이 이미지 입력을 지원함\n모든 모델은 로컬 어텐션(슬라이딩 윈도우)과 글로벌 어텐션 레이어를 교차 배치하는 구조를 공유하며, 마지막 레이어는 항...",
+          "id": "https://news.hada.io/topic?id=28188",
+          "isoDate": "2026-04-04T01:33:02.000Z"
+        },
+        {
+          "title": "Oracle, 대규모 해고 중에도 H-1B 비자 수천 건 신청",
+          "link": "https://news.hada.io/topic?id=28187",
+          "pubDate": "2026-04-04T01:32:47.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>미국 내 <strong>대규모 해고를 진행 중인 Oracle</strong>이 최근 2개 회계연도 동안 <strong>3,100건 이상의 H-1B 비자 청원서</strong>를 제출한 것으로 확인됨</li>\n<li>\n<strong>USCIS 자료</strong>에 따르면 2025 회계연도에 2,690건, 2026 회계연도에는 현재까지 436건이 접수됨</li>\n<li>회사는 해고와...</p>",
+          "contentSnippet": "미국 내 대규모 해고를 진행 중인 Oracle이 최근 2개 회계연도 동안 3,100건 이상의 H-1B 비자 청원서를 제출한 것으로 확인됨\nUSCIS 자료에 따르면 2025 회계연도에 2,690건, 2026 회계연도에는 현재까지 436건이 접수됨\n회사는 해고와...",
+          "id": "https://news.hada.io/topic?id=28187",
+          "isoDate": "2026-04-04T01:32:47.000Z"
+        },
+        {
+          "title": "당신의 엔지니어링 팀이 느린 진짜 이유는 사람이 아니라 코드베이스다",
+          "link": "https://news.hada.io/topic?id=28186",
+          "pubDate": "2026-04-04T01:19:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>코드베이스 Drag</strong> 는 모든 작업이 필요 이상으로 오래 걸리게 만드는 코드베이스 상태로, 대시보드나 스프린트 리포트에 드러나지 않아 리더십이 이를 '사람 문제'로 오해하는 악순환을 반복시킴</li>\n<li>수년간의 코드베이스 Audit 결과, 동일한 <strong>5가지 신호</strong>가 반복적으로 ...</p>",
+          "contentSnippet": "코드베이스 Drag 는 모든 작업이 필요 이상으로 오래 걸리게 만드는 코드베이스 상태로, 대시보드나 스프린트 리포트에 드러나지 않아 리더십이 이를 '사람 문제'로 오해하는 악순환을 반복시킴\n수년간의 코드베이스 Audit 결과, 동일한 5가지 신호가 반복적으로 ...",
+          "id": "https://news.hada.io/topic?id=28186",
+          "isoDate": "2026-04-04T01:19:01.000Z"
+        },
+        {
+          "title": "에이전트가 생성한 코드를 책임감 있게 다루기: Vercel의 프레임워크",
+          "link": "https://news.hada.io/topic?id=28185",
+          "pubDate": "2026-04-04T01:16:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>코딩 에이전트</strong>는 전례 없는 속도로 코드를 생성하지만, 엄격한 판단 없이 사용하면 잘못된 가정을 그대로 프로덕션에 배포하는 효율적인 경로가 됨</li>\n<li>에이전트가 생성한 코드는 PR 설명, 정적 분석 통과, 테스트 커버리지까지 갖춰 <strong>경험 많은 엔지니어가 작성한 것처럼</stro...</p>",
+          "contentSnippet": "코딩 에이전트는 전례 없는 속도로 코드를 생성하지만, 엄격한 판단 없이 사용하면 잘못된 가정을 그대로 프로덕션에 배포하는 효율적인 경로가 됨\n에이전트가 생성한 코드는 PR 설명, 정적 분석 통과, 테스트 커버리지까지 갖춰 경험 많은 엔지니어가 작성한 것처럼",
+          "id": "https://news.hada.io/topic?id=28185",
+          "isoDate": "2026-04-04T01:16:02.000Z"
+        },
+        {
+          "title": "구독 앱 경제학: AI 기능의 숨겨진 비용",
+          "link": "https://news.hada.io/topic?id=28184",
+          "pubDate": "2026-04-04T01:12:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>구독 앱에 AI 기능을 추가하면 사용자 참여가 높아질수록 비용이 함께 증가하는 <strong>가변 비용 구조</strong>가 도입되어, 기존의 한계 비용 제로 모델이 근본적으로 변화함</li>\n<li>AI 사용량을 <strong>ARPU, 이탈률, LTV</strong>와 연계해 모델링하지 않으면, 참여도는 높아지되 수익성은 조용히 악화...</p>",
+          "contentSnippet": "구독 앱에 AI 기능을 추가하면 사용자 참여가 높아질수록 비용이 함께 증가하는 가변 비용 구조가 도입되어, 기존의 한계 비용 제로 모델이 근본적으로 변화함\nAI 사용량을 ARPU, 이탈률, LTV와 연계해 모델링하지 않으면, 참여도는 높아지되 수익성은 조용히 악화...",
+          "id": "https://news.hada.io/topic?id=28184",
+          "isoDate": "2026-04-04T01:12:01.000Z"
+        },
+        {
+          "title": "Optio - AI 코딩 에이전트를 위한 워크플로 오케스트레이터",
+          "link": "https://news.hada.io/topic?id=28183",
+          "pubDate": "2026-04-04T00:46:40.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>에이전트가 티켓 접수부터 PR 머지까지 소프트웨어 개발 전 과정을 자동으로 처리하는 <strong>워크플로 자동화 플랫폼</strong>\n</li>\n<li>GitHub/Linear/Jira/Notion 등에서 태스크를 받아 <strong>PR 생성→CI→리뷰→머지</strong>까지 자동 진행</li>\n<li>작업이 CI 실패, 머지 충돌, 코드 리뷰 피드백을 ...</p>",
+          "contentSnippet": "에이전트가 티켓 접수부터 PR 머지까지 소프트웨어 개발 전 과정을 자동으로 처리하는 워크플로 자동화 플랫폼\n\nGitHub/Linear/Jira/Notion 등에서 태스크를 받아 PR 생성→CI→리뷰→머지까지 자동 진행\n작업이 CI 실패, 머지 충돌, 코드 리뷰 피드백을 ...",
+          "id": "https://news.hada.io/topic?id=28183",
+          "isoDate": "2026-04-04T00:46:40.000Z"
+        },
+        {
+          "title": "Marc Andreessen은 자기성찰에 대해 잘못 이해하고 있다",
+          "link": "https://news.hada.io/topic?id=28182",
+          "pubDate": "2026-04-04T00:45:50.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>벤처투자자 마카앤드리슨이 자기성찰(Introspection)을 <strong>20세기 초 Freud가 만든 개념</strong>으로 규정하며 이를 부정했으나, 이는 <strong>수천 년의 철학 전통을 무시한 오류</strong>임</li>\n<li>\n<strong>Socrates, Stoic 철학자, Augustine, Mencius, Shakespeare</strong> 등은 이미 오래전부터...</p>",
+          "contentSnippet": "벤처투자자 마카앤드리슨이 자기성찰(Introspection)을 20세기 초 Freud가 만든 개념으로 규정하며 이를 부정했으나, 이는 수천 년의 철학 전통을 무시한 오류임\nSocrates, Stoic 철학자, Augustine, Mencius, Shakespeare 등은 이미 오래전부터...",
+          "id": "https://news.hada.io/topic?id=28182",
+          "isoDate": "2026-04-04T00:45:50.000Z"
+        },
+        {
+          "title": "Artemis II 승무원이 촬영한 지구의 ‘장관’ 이미지",
+          "link": "https://news.hada.io/topic?id=28181",
+          "pubDate": "2026-04-04T00:42:50.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>NASA</strong>가 <strong>Artemis II</strong> 승무원이 달 궤도 비행 중 <strong>Orion 캡슐</strong>에서 촬영한 <strong>지구의 고해상도 사진</strong>을 공개</li>\n<li>첫 번째 사진 <strong>‘Hello, World’</strong> 는 대서양과 대기층의 빛, <strong>오로라</strong>를 담고 있으며, <stron...</p>",
+          "contentSnippet": "NASA가 Artemis II 승무원이 달 궤도 비행 중 Orion 캡슐에서 촬영한 지구의 고해상도 사진을 공개\n첫 번째 사진 ‘Hello, World’ 는 대서양과 대기층의 빛, 오로라를 담고 있으며,",
+          "id": "https://news.hada.io/topic?id=28181",
+          "isoDate": "2026-04-04T00:42:50.000Z"
+        },
+        {
+          "title": "개인 블로그를 위한 프론트페이지 Blogosphere",
+          "link": "https://news.hada.io/topic?id=28180",
+          "pubDate": "2026-04-04T00:39:49.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>독립 블로그들의 최신 글을 모아 <strong>인디 웹의 실시간 허브</strong>로 작동하는 웹사이트</li>\n<li>다양한 블로그의 <strong>RSS 피드</strong>를 수집해, 게시 시각 순으로 최신 포스트를 한눈에 보여줌</li>\n<li>기술, 예술, 일상 등 <strong>다양한 주제와 언어</strong>의 콘텐츠가 함께 노출되어 폭...</p>",
+          "contentSnippet": "독립 블로그들의 최신 글을 모아 인디 웹의 실시간 허브로 작동하는 웹사이트\n다양한 블로그의 RSS 피드를 수집해, 게시 시각 순으로 최신 포스트를 한눈에 보여줌\n기술, 예술, 일상 등 다양한 주제와 언어의 콘텐츠가 함께 노출되어 폭...",
+          "id": "https://news.hada.io/topic?id=28180",
+          "isoDate": "2026-04-04T00:39:49.000Z"
+        },
+        {
+          "title": "체화된(Embodied) 로봇 지능의 산업화",
+          "link": "https://news.hada.io/topic?id=28179",
+          "pubDate": "2026-04-04T00:37:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>로봇 분야에 막대한 자본과 최고 수준의 인재가 유입되고 있으나, 산업 자동화 등 제한된 환경 외의 <strong>실제 현장 배치는 여전히 미미한 상황</strong>\n</li>\n<li>부품 비용 하락, 배터리 경제성 개선, 모델 아키텍처 발전, 시뮬레이션 환경 개선 등 <strong>구조적 변화가 동시에 진행</strong> 중</li>\n...</p>",
+          "contentSnippet": "로봇 분야에 막대한 자본과 최고 수준의 인재가 유입되고 있으나, 산업 자동화 등 제한된 환경 외의 실제 현장 배치는 여전히 미미한 상황\n\n부품 비용 하락, 배터리 경제성 개선, 모델 아키텍처 발전, 시뮬레이션 환경 개선 등 구조적 변화가 동시에 진행 중\n...",
+          "id": "https://news.hada.io/topic?id=28179",
+          "isoDate": "2026-04-04T00:37:01.000Z"
+        },
+        {
+          "title": "apfel - Mac에 이미 내장된 무료 AI를 활용하게 해주는 도구",
+          "link": "https://news.hada.io/topic?id=28178",
+          "pubDate": "2026-04-04T00:36:49.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>macOS 26 이상 Apple Silicon Mac에 포함된 <strong>Apple 온디바이스 LLM</strong>을 직접 활용할 수 있게 하는 오픈소스</li>\n<li>\n<strong>FoundationModels.framework</strong> 기반 모델을 <strong>CLI, HTTP 서버, 대화형 채팅</strong> 형태로 개방해 <strong>OpenAI API와 호환</strong>\n</li>\n<li>모든...</p>",
+          "contentSnippet": "macOS 26 이상 Apple Silicon Mac에 포함된 Apple 온디바이스 LLM을 직접 활용할 수 있게 하는 오픈소스\nFoundationModels.framework 기반 모델을 CLI, HTTP 서버, 대화형 채팅 형태로 개방해 OpenAI API와 호환\n\n모든...",
+          "id": "https://news.hada.io/topic?id=28178",
+          "isoDate": "2026-04-04T00:36:49.000Z"
+        },
+        {
+          "title": "Artemis II의 화장실은 달 탐사 임무의 새로운 이정표",
+          "link": "https://news.hada.io/topic?id=28177",
+          "pubDate": "2026-04-03T23:32:41.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Artemis II 우주비행사 4명</strong>이 달 궤도 비행 중 사용할 <strong>신형 우주 화장실 시스템</strong>이 도입됨</li>\n<li>\n<strong>Universal Waste Management System(UWMS)</strong> 은 <strong>Collins Aerospace</strong>가 10년 이상 개발한 결과물로, <strong>Apollo·우주왕복선·ISS</stro...</p>",
+          "contentSnippet": "Artemis II 우주비행사 4명이 달 궤도 비행 중 사용할 신형 우주 화장실 시스템이 도입됨\nUniversal Waste Management System(UWMS) 은 Collins Aerospace가 10년 이상 개발한 결과물로, Apollo·우주왕복선·ISS",
+          "id": "https://news.hada.io/topic?id=28177",
+          "isoDate": "2026-04-03T23:32:41.000Z"
+        },
+        {
           "title": "Show GN: mrg - macOS에서 자모 분리 현상을 해결하고 잡다한 메타데이터 파일들을 제거하는 툴",
           "link": "https://news.hada.io/topic?id=28176",
           "pubDate": "2026-04-03T19:55:41.000Z",
@@ -365,146 +505,6 @@
           "contentSnippet": "인터넷의 핵심 라우팅 프로토콜인 BGP(Border Gateway Protocol) 은 경로 선택 기능을 담당하지만 보안 검증 기능이 내장되어 있지 않음\n\n이로 인해 잘못된 경로 정보가 전파되면 트래픽 탈취나 대규모 장애가 발생할 수 있으며, 이를 방지하기 위...",
           "id": "https://news.hada.io/topic?id=28133",
           "isoDate": "2026-04-02T20:33:11.000Z"
-        },
-        {
-          "title": "미국, ‘국가안보’ 이유로 멕시코만 석유 산업에 멸종위기종 보호 의무 면제",
-          "link": "https://news.hada.io/topic?id=28132",
-          "pubDate": "2026-04-02T19:33:33.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>트럼프 행정부의 고위 위원회가 <strong>멕시코만 석유·가스 산업을 멸종위기종보호법 적용 대상에서 면제</strong>하기로 만장일치 결정</li>\n<li>이로 인해 <strong>Rice’s 고래, 바다거북 등 멸종위기 해양동물 보호 조치</strong>가 해제되며, 국방장관이 “국가 안보”를 이유로 회의를 소집</li>\n<li>환...</p>",
-          "contentSnippet": "트럼프 행정부의 고위 위원회가 멕시코만 석유·가스 산업을 멸종위기종보호법 적용 대상에서 면제하기로 만장일치 결정\n이로 인해 Rice’s 고래, 바다거북 등 멸종위기 해양동물 보호 조치가 해제되며, 국방장관이 “국가 안보”를 이유로 회의를 소집\n환...",
-          "id": "https://news.hada.io/topic?id=28132",
-          "isoDate": "2026-04-02T19:33:33.000Z"
-        },
-        {
-          "title": "FreeBSD 원격 커널 RCE(CVE-2026-4747)로 root 쉘 획득",
-          "link": "https://news.hada.io/topic?id=28130",
-          "pubDate": "2026-04-02T16:36:55.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>FreeBSD의 <strong>kgssapi.ko 모듈</strong>에서 RPCSEC_GSS 인증 처리 중 <strong>스택 버퍼 오버플로</strong>가 발생해 원격 코드 실행 가능</li>\n<li>\n<code>svc_rpc_gss_validate()</code> 함수가 <strong>경계 검사 없이 자격 증명 데이터를 복사</strong>하면서 반환 주소까지 덮어씀</li>\n<li>공격자는...</p>",
-          "contentSnippet": "FreeBSD의 kgssapi.ko 모듈에서 RPCSEC_GSS 인증 처리 중 스택 버퍼 오버플로가 발생해 원격 코드 실행 가능\nsvc_rpc_gss_validate() 함수가 경계 검사 없이 자격 증명 데이터를 복사하면서 반환 주소까지 덮어씀\n공격자는...",
-          "id": "https://news.hada.io/topic?id=28130",
-          "isoDate": "2026-04-02T16:36:55.000Z"
-        },
-        {
-          "title": "아르테미스 II 발사: 네 명의 우주비행사, 10일간의 달 궤도 임무 시작",
-          "link": "https://news.hada.io/topic?id=28129",
-          "pubDate": "2026-04-02T16:33:55.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>NASA</strong>가 유인 달 탐사 프로그램의 일환으로 <strong>Artemis II</strong>를 발사해, 4명의 우주비행사가 <strong>10일간의 cislunar 비행</strong>을 시작함</li>\n<li>이번 임무는 <strong>Orion 우주선의 생명 유지 및 의료 시스템 검증</strong>을 목표로 하며, 인류 최초로 <strong>여성과...</p>",
-          "contentSnippet": "NASA가 유인 달 탐사 프로그램의 일환으로 Artemis II를 발사해, 4명의 우주비행사가 10일간의 cislunar 비행을 시작함\n이번 임무는 Orion 우주선의 생명 유지 및 의료 시스템 검증을 목표로 하며, 인류 최초로 여성과...",
-          "id": "https://news.hada.io/topic?id=28129",
-          "isoDate": "2026-04-02T16:33:55.000Z"
-        },
-        {
-          "title": "Chrome이 yt-dlp 다운로드 시 '의심스러운 다운로드' 경고 표시",
-          "link": "https://news.hada.io/topic?id=28128",
-          "pubDate": "2026-04-02T15:33:08.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>크롬 브라우저가 <strong>yt-dlp 실행 파일을 다운로드할 때 차단 또는 경고 메시지</strong>를 표시하는 사례가 보고됨</li>\n<li>경고 문구는 “<strong>suspicious download</strong>”로 나타나며, 사용자가 경고를 무시하고 수동으로 허용해야 파일을 받을 수 있음</li>\n<li>yt-dlp는 <strong>YouTube 등 다...</p>",
-          "contentSnippet": "크롬 브라우저가 yt-dlp 실행 파일을 다운로드할 때 차단 또는 경고 메시지를 표시하는 사례가 보고됨\n경고 문구는 “suspicious download”로 나타나며, 사용자가 경고를 무시하고 수동으로 허용해야 파일을 받을 수 있음\nyt-dlp는 YouTube 등 다...",
-          "id": "https://news.hada.io/topic?id=28128",
-          "isoDate": "2026-04-02T15:33:08.000Z"
-        },
-        {
-          "title": "SpaceX, 기업공개(IPO) 신청",
-          "link": "https://news.hada.io/topic?id=28127",
-          "pubDate": "2026-04-02T14:33:17.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>일론 머스크의 로켓·위성 기업 SpaceX가 비공개 방식으로 IPO 서류를 제출, <strong>월가 역사상 손꼽히는 대형 상장</strong>이 될 가능성이 제기됨</li>\n<li>6월 상장을 목표로 <strong>500억~750억 달러 조달</strong>을 추진 중이며, 기업가치는 1조 달러 이상으로 자체 평가</li>\n<li>IPO 자금은 궤도 AI ...</p>",
-          "contentSnippet": "일론 머스크의 로켓·위성 기업 SpaceX가 비공개 방식으로 IPO 서류를 제출, 월가 역사상 손꼽히는 대형 상장이 될 가능성이 제기됨\n6월 상장을 목표로 500억~750억 달러 조달을 추진 중이며, 기업가치는 1조 달러 이상으로 자체 평가\nIPO 자금은 궤도 AI ...",
-          "id": "https://news.hada.io/topic?id=28127",
-          "isoDate": "2026-04-02T14:33:17.000Z"
-        },
-        {
-          "title": "앤스로픽(Anthropic)의 수익성, 김밥천국 보다 안 좋다",
-          "link": "https://news.hada.io/topic?id=28125",
-          "pubDate": "2026-04-02T13:25:14.000Z",
-          "author": "computerphilosopher",
-          "content": "<ul>\n<li>IT 스타트업들은 초반에는 이익을 내지 못하지만, 임계점에 도달하면 폭발적인 수익 성장을 낼 것으로 기대 받음</li>\n<li>매출에 따라 선형 증가하는 비용, 즉 변동비가 낮기 때문\n<ul>\n<li>음식점의 재료비는 매출에 비례해 증가하지만 개발자의 인건비나 컴퓨팅 비용은 그렇지 않음</li>\n</ul>\n</li>\n<li>모...</p>",
-          "contentSnippet": "IT 스타트업들은 초반에는 이익을 내지 못하지만, 임계점에 도달하면 폭발적인 수익 성장을 낼 것으로 기대 받음\n매출에 따라 선형 증가하는 비용, 즉 변동비가 낮기 때문\n\n음식점의 재료비는 매출에 비례해 증가하지만 개발자의 인건비나 컴퓨팅 비용은 그렇지 않음\n모...",
-          "id": "https://news.hada.io/topic?id=28125",
-          "isoDate": "2026-04-02T13:25:14.000Z"
-        },
-        {
-          "title": "브라우저에서 실행되는 오픈소스 CAD (SolveSpace)",
-          "link": "https://news.hada.io/topic?id=28123",
-          "pubDate": "2026-04-02T11:33:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>데스크톱용으로 개발된 <strong>SolveSpace CAD</strong>가 <strong>emscripten</strong>을 통해 브라우저에서 실행 가능한 형태로 포팅됨</li>\n<li>웹 버전은 <strong>최신 개발 브랜치 기반의 실험적 빌드</strong>로, 일부 <strong>속도 저하와 버그</strong>가 존재함</li>\n<li>한 번 로드되면 <strong>네트...</p>",
-          "contentSnippet": "데스크톱용으로 개발된 SolveSpace CAD가 emscripten을 통해 브라우저에서 실행 가능한 형태로 포팅됨\n웹 버전은 최신 개발 브랜치 기반의 실험적 빌드로, 일부 속도 저하와 버그가 존재함\n한 번 로드되면 네트...",
-          "id": "https://news.hada.io/topic?id=28123",
-          "isoDate": "2026-04-02T11:33:02.000Z"
-        },
-        {
-          "title": "Show GN: 2026년 지정학 시뮬레이션 게임: 씽크탱크",
-          "link": "https://news.hada.io/topic?id=28122",
-          "pubDate": "2026-04-02T10:57:44.000Z",
-          "author": "luckydaun",
-          "content": "<p>씽크탱크는 AI를 활용한 전략 시뮬레이션 게임 플랫폼입니다.<br />\n첫 번째 게임으로 2026년 지정학 시뮬레이션 게임을 만들었습니다.</p>\n<p>요즘 세계 곳곳에서 전쟁이 일어나고 있고, 국가들간의 긴장 관계가 뉴스를 보는 저를 피로하게 만들고 있는데요.<br />\n뉴스를 자주 접하다보니 여러가지 가능성에 대한 상",
-          "contentSnippet": "씽크탱크는 AI를 활용한 전략 시뮬레이션 게임 플랫폼입니다.\n요즘 세계 곳곳에서 전쟁이 일어나고 있고, 국가들간의 긴장 관계가 뉴스를 보는 저를 피로하게 만들고 있는데요.\n뉴스를 자주 접하다보니 여러가지 가능성에 대한 상",
-          "id": "https://news.hada.io/topic?id=28122",
-          "isoDate": "2026-04-02T10:57:44.000Z"
-        },
-        {
-          "title": "CERN, 새로운 초전도 카트로 업그레이드",
-          "link": "https://news.hada.io/topic?id=28121",
-          "pubDate": "2026-04-02T10:32:54.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>LHC 터널</strong>에서 사용할 <strong>초전도 카트</strong>가 시험 중이며, 이는 <strong>HiLumi LHC 전환 공사</strong>를 앞둔 준비 단계임</li>\n<li>카트는 기존 자전거를 대체해 <strong>27km 터널 내 이동 효율</strong>을 높이도록 설계되었으며, <strong>Long Shutdown 3(LS3)</strong> 기간...</p>",
-          "contentSnippet": "LHC 터널에서 사용할 초전도 카트가 시험 중이며, 이는 HiLumi LHC 전환 공사를 앞둔 준비 단계임\n카트는 기존 자전거를 대체해 27km 터널 내 이동 효율을 높이도록 설계되었으며, Long Shutdown 3(LS3) 기간...",
-          "id": "https://news.hada.io/topic?id=28121",
-          "isoDate": "2026-04-02T10:32:54.000Z"
-        },
-        {
-          "title": "옛날 스타일 날씨",
-          "link": "https://news.hada.io/topic?id=28120",
-          "pubDate": "2026-04-02T09:35:08.000Z",
-          "author": "laeyoung",
-          "content": "<ul>\n<li>weather.com 에서 발표한 retro 스타일 날씨 페이지</li>\n<li>좋은 Bgm과 함께 캐스터의 이야기</li>\n</ul>\n...</p>",
-          "contentSnippet": "weather.com 에서 발표한 retro 스타일 날씨 페이지\n좋은 Bgm과 함께 캐스터의 이야기\n\n...",
-          "id": "https://news.hada.io/topic?id=28120",
-          "isoDate": "2026-04-02T09:35:08.000Z"
-        },
-        {
-          "title": "나는 그만둔다. 클랭커들이 이겼다",
-          "link": "https://news.hada.io/topic?id=28119",
-          "pubDate": "2026-04-02T06:33:12.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>AI와 자동화된 콘텐츠가 인간 창작을 대체</strong>하고 있다는 회의감이 확산되며, 많은 개발자들이 블로깅과 코딩의 의미를 잃고 있음</li>\n<li>알고리듬과 표절 기계가 지배하는 환경 속에서 <strong>인간적 대화와 진정성 있는 목소리</strong>가 사라지고 있음</li>\n<li>AI 산업은 <strong>과대광...</p>",
-          "contentSnippet": "AI와 자동화된 콘텐츠가 인간 창작을 대체하고 있다는 회의감이 확산되며, 많은 개발자들이 블로깅과 코딩의 의미를 잃고 있음\n알고리듬과 표절 기계가 지배하는 환경 속에서 인간적 대화와 진정성 있는 목소리가 사라지고 있음\nAI 산업은 과대광...",
-          "id": "https://news.hada.io/topic?id=28119",
-          "isoDate": "2026-04-02T06:33:12.000Z"
-        },
-        {
-          "title": "DRAM 가격 상승이 취미용 SBC 시장을 위축시키는 중",
-          "link": "https://news.hada.io/topic?id=28116",
-          "pubDate": "2026-04-02T05:33:00.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>LPDDR4 DRAM 가격 급등</strong>으로 Raspberry Pi를 비롯한 주요 SBC의 <strong>모델별 판매가가 대폭 인상</strong>됨</li>\n<li>RAM이 <strong>보드 원가의 대부분을 차지</strong>하면서 4GB 이상 제품은 <strong>취미 사용자에게 접근 불가능한 수준</strong>으로 상승</li>\n<li>\n<strong>신규 SB...</p>",
-          "contentSnippet": "LPDDR4 DRAM 가격 급등으로 Raspberry Pi를 비롯한 주요 SBC의 모델별 판매가가 대폭 인상됨\nRAM이 보드 원가의 대부분을 차지하면서 4GB 이상 제품은 취미 사용자에게 접근 불가능한 수준으로 상승\n신규 SB...",
-          "id": "https://news.hada.io/topic?id=28116",
-          "isoDate": "2026-04-02T05:33:00.000Z"
-        },
-        {
-          "title": "Claude Code 소스 유출로 탄생한 OpenClaude — GPT-4o, Gemini, Ollama 등 200개 모델을 Claude Code UI로",
-          "link": "https://news.hada.io/topic?id=28115",
-          "pubDate": "2026-04-02T05:04:20.000Z",
-          "author": "princox",
-          "content": "<p>2026년 3월 31일, Claude Code의 소스코드가 npm 소스맵을 통해 노출됐습니다.<br />\n이를 기반으로 만들어진 OpenClaude는 OpenAI 호환 provider shim을 추가해 GPT-4o, DeepSeek, Gemini, Llama, Mistral 등 OpenAI chat completions API를 지원하는 모든 모델을 꽂아 쓸 수 있게 한 포크 입니다.</p>\n<h2>핵심 특징",
-          "contentSnippet": "2026년 3월 31일, Claude Code의 소스코드가 npm 소스맵을 통해 노출됐습니다.\n핵심 특징",
-          "id": "https://news.hada.io/topic?id=28115",
-          "isoDate": "2026-04-02T05:04:20.000Z"
-        },
-        {
-          "title": "EmDash – 플러그인 보안 문제를 해결한 WordPress의 정신적 후속작",
-          "link": "https://news.hada.io/topic?id=28111",
-          "pubDate": "2026-04-02T02:33:32.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Cloudflare</strong>가 개발한 <strong>EmDash</strong>는 WordPress의 구조적 한계를 극복하기 위해 <strong>TypeScript와 서버리스 아키텍처</strong>로 새롭게 설계된 <strong>오픈소스 CMS</strong>\n</li>\n<li>각 <strong>플러그인을 격리된 샌드박스 환경</strong>에서 실행해, WordPress 사이트...</p>",
-          "contentSnippet": "Cloudflare가 개발한 EmDash는 WordPress의 구조적 한계를 극복하기 위해 TypeScript와 서버리스 아키텍처로 새롭게 설계된 오픈소스 CMS\n\n각 플러그인을 격리된 샌드박스 환경에서 실행해, WordPress 사이트...",
-          "id": "https://news.hada.io/topic?id=28111",
-          "isoDate": "2026-04-02T02:33:32.000Z"
         }
       ]
     }
