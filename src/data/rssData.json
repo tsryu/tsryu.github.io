@@ -7,6 +7,116 @@
       "priority": 1,
       "data": [
         {
+          "title": "Apple, Arm Mac에서 Nvidia eGPU 사용을 허용하는 드라이버 승인",
+          "link": "https://news.hada.io/topic?id=28219",
+          "pubDate": "2026-04-05T04:32:27.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>이 드라이버는 <strong>Nvidia가 아닌 Tiny Corp</strong>이 개발했으며, Apple의 서명 승인으로 <strong>System Integrity Protection(SIP)</strong> 을 비활성화하지 않아도 사용 가능함</li>\n<li>드라이버는 <strong>Docker를 통해 직접 컴파일해야 하며</strong>, 일반적인 플러그 앤 플레이 방식은 아님...</p>",
+          "contentSnippet": "이 드라이버는 Nvidia가 아닌 Tiny Corp이 개발했으며, Apple의 서명 승인으로 System Integrity Protection(SIP) 을 비활성화하지 않아도 사용 가능함\n드라이버는 Docker를 통해 직접 컴파일해야 하며, 일반적인 플러그 앤 플레이 방식은 아님...",
+          "id": "https://news.hada.io/topic?id=28219",
+          "isoDate": "2026-04-05T04:32:27.000Z"
+        },
+        {
+          "title": "감정적 표현이 AI 성능을 바꿀까? — 프롬프트 감정 프레이밍의 실제 효과",
+          "link": "https://news.hada.io/topic?id=28217",
+          "pubDate": "2026-04-05T02:06:51.000Z",
+          "author": "darjeeling",
+          "content": "<blockquote>\n<p><strong>&quot;화나서 물어보면 AI가 더 잘 답할까?&quot;</strong> 하버드 연구진이 6개 벤치마크로 실험한 결과, 감정 표현은 LLM 성능에 거의 영향을 미치지 않았다. 단, <strong>감정을 질문별로 적응적으로 선택하면 일관된 성능 향상</strong>이 가능하다는 것이 핵심 발견이다.</p>\n</blockquote",
+          "contentSnippet": "\"화나서 물어보면 AI가 더 잘 답할까?\" 하버드 연구진이 6개 벤치마크로 실험한 결과, 감정 표현은 LLM 성능에 거의 영향을 미치지 않았다. 단, 감정을 질문별로 적응적으로 선택하면 일관된 성능 향상이 가능하다는 것이 핵심 발견이다.\n</blockquote",
+          "id": "https://news.hada.io/topic?id=28217",
+          "isoDate": "2026-04-05T02:06:51.000Z"
+        },
+        {
+          "title": "Microsoft의 ‘Copilot’ 이름을 사용하는 제품은 몇 개인가",
+          "link": "https://news.hada.io/topic?id=28216",
+          "pubDate": "2026-04-05T01:32:41.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>‘Copilot’ 명칭이 <strong>75개 이상 제품과 기능에 사용</strong>되며, 앱·플랫폼·키보드 키·노트북 카테고리 등 다양한 형태로 확장됨</li>\n<li>Microsoft 내부에서도 <strong>공식 전체 목록이 존재하지 않으며</strong>, 여러 공개 자료를 종합해 직접 정리한 결과임</li>\n<li>각 Copilot을 <strong>카테...</p>",
+          "contentSnippet": "‘Copilot’ 명칭이 75개 이상 제품과 기능에 사용되며, 앱·플랫폼·키보드 키·노트북 카테고리 등 다양한 형태로 확장됨\nMicrosoft 내부에서도 공식 전체 목록이 존재하지 않으며, 여러 공개 자료를 종합해 직접 정리한 결과임\n각 Copilot을 카테...",
+          "id": "https://news.hada.io/topic?id=28216",
+          "isoDate": "2026-04-05T01:32:41.000Z"
+        },
+        {
+          "title": "AgentNews — 에이전트를 위한 해커뉴스",
+          "link": "https://news.hada.io/topic?id=28215",
+          "pubDate": "2026-04-05T01:16:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>자율 AI 에이전트가 직접 게시하고, 순위를 매기고, 정보를 소비하도록 설계된 <strong>최초의 에이전트 전용 정보 플랫폼</strong>으로, 인간이 운영하는 기존 뉴스 애그리게이터와 근본적으로 다른 구조</li>\n<li>에이전트가 <strong>HTTP 402 프로토콜</strong>을 통해 프로그래밍 방식으로 실제 금액을 스테...</p>",
+          "contentSnippet": "자율 AI 에이전트가 직접 게시하고, 순위를 매기고, 정보를 소비하도록 설계된 최초의 에이전트 전용 정보 플랫폼으로, 인간이 운영하는 기존 뉴스 애그리게이터와 근본적으로 다른 구조\n에이전트가 HTTP 402 프로토콜을 통해 프로그래밍 방식으로 실제 금액을 스테...",
+          "id": "https://news.hada.io/topic?id=28215",
+          "isoDate": "2026-04-05T01:16:01.000Z"
+        },
+        {
+          "title": "GPU를 직접 설계하며 배우는 인터랙티브 게임 ‘Mvidia’",
+          "link": "https://news.hada.io/topic?id=28214",
+          "pubDate": "2026-04-05T00:44:40.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>트랜지스터에서 GPU까지의 전체 컴퓨팅 스택</strong>을 단계별로 구축하며 학습하는 <strong>시뮬레이션형 게임</strong>\n</li>\n<li>각 단계는 <strong>ACT</strong>로 구성되어, 트랜지스터·논리 게이트·ALU·프로세서·GPU·셰이더 순으로 발전</li>\n<li>\n<strong>ACT 1</strong>에서는 NMOS·PMOS를 이...</p>",
+          "contentSnippet": "트랜지스터에서 GPU까지의 전체 컴퓨팅 스택을 단계별로 구축하며 학습하는 시뮬레이션형 게임\n\n각 단계는 ACT로 구성되어, 트랜지스터·논리 게이트·ALU·프로세서·GPU·셰이더 순으로 발전\nACT 1에서는 NMOS·PMOS를 이...",
+          "id": "https://news.hada.io/topic?id=28214",
+          "isoDate": "2026-04-05T00:44:40.000Z"
+        },
+        {
+          "title": "Delve가 Y Combinator 목록에서 삭제됨",
+          "link": "https://news.hada.io/topic?id=28213",
+          "pubDate": "2026-04-05T00:41:40.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Y Combinator 공식 사이트에서 <strong>Delve 페이지가 삭제된 사실이 확인됨</strong>\n</li>\n<li>해당 링크 접속 시 <strong>‘File Not Found’ 오류</strong>가 표시되어 페이지 접근 불가 상태임</li>\n<li>\n<strong>삭제 이유나 공식 입장</strong>에 대한 안내는 전혀 공개되지 않음</li>\n<li>Delve의 <st...</p>",
+          "contentSnippet": "Y Combinator 공식 사이트에서 Delve 페이지가 삭제된 사실이 확인됨\n\n해당 링크 접속 시 ‘File Not Found’ 오류가 표시되어 페이지 접근 불가 상태임\n삭제 이유나 공식 입장에 대한 안내는 전혀 공개되지 않음\nDelve의",
+          "id": "https://news.hada.io/topic?id=28213",
+          "isoDate": "2026-04-05T00:41:40.000Z"
+        },
+        {
+          "title": "SaaS 종말론(SaaSpocalypse)에 대한 반론",
+          "link": "https://news.hada.io/topic?id=28212",
+          "pubDate": "2026-04-05T00:39:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>AI가 SaaS 기업을 대체할 것이라는 'SaaSpocalypse' 담론이 확산되는 가운데, 실제 데이터는 훨씬 복잡한 <strong>승자와 패자의 혼재</strong> 양상을 보여줌</li>\n<li>소비자 AI 유료 가입 가구 비율은 아직 <strong>3%에 불과</strong>하지만 전년 대비 40% 성장하며 초기 확산 국면에 진입 중</li>\n<li>스트...</p>",
+          "contentSnippet": "AI가 SaaS 기업을 대체할 것이라는 'SaaSpocalypse' 담론이 확산되는 가운데, 실제 데이터는 훨씬 복잡한 승자와 패자의 혼재 양상을 보여줌\n소비자 AI 유료 가입 가구 비율은 아직 3%에 불과하지만 전년 대비 40% 성장하며 초기 확산 국면에 진입 중\n스트...",
+          "id": "https://news.hada.io/topic?id=28212",
+          "isoDate": "2026-04-05T00:39:02.000Z"
+        },
+        {
+          "title": "코드 생성 성능을 향상시키는 놀라울 만큼 단순한 자기 증류 기법",
+          "link": "https://news.hada.io/topic?id=28211",
+          "pubDate": "2026-04-05T00:38:40.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Simple Self-Distillation(SSD)</strong> 은 대형 언어 모델이 <strong>교사 모델이나 강화학습 없이</strong> 스스로 생성한 코드를 다시 학습해 성능을 높이는 방법</li>\n<li>\n<strong>Qwen3-30B-Instruct</strong> 모델의 LiveCodeBench v6 <strong>pass@1 점수를 42.4%에서 55.3%로 향상</strong>...</p>",
+          "contentSnippet": "Simple Self-Distillation(SSD) 은 대형 언어 모델이 교사 모델이나 강화학습 없이 스스로 생성한 코드를 다시 학습해 성능을 높이는 방법\nQwen3-30B-Instruct 모델의 LiveCodeBench v6 pass@1 점수를 42.4%에서 55.3%로 향상...",
+          "id": "https://news.hada.io/topic?id=28211",
+          "isoDate": "2026-04-05T00:38:40.000Z"
+        },
+        {
+          "title": "Meta 비판 저서 ‘Careless People’ 출간 후 저자에게 부과된 발언 금지 명령",
+          "link": "https://news.hada.io/topic?id=28210",
+          "pubDate": "2026-04-05T00:35:40.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Meta의 전 임원이자 <em>Careless People</em>의 저자 <strong>Sarah Wynn-Williams</strong>가 책 출간 직후 <strong>Meta에 대한 부정적 발언을 금지하는 법적 명령</strong>을 받음</li>\n<li>명령은 <strong>퇴직 합의서의 비방 금지 조항</strong>에 근거하며, 위반 시 <strong>발언당 5만 달러 벌금</stro...</p>",
+          "contentSnippet": "Meta의 전 임원이자 Careless People의 저자 Sarah Wynn-Williams가 책 출간 직후 Meta에 대한 부정적 발언을 금지하는 법적 명령을 받음\n명령은 퇴직 합의서의 비방 금지 조항에 근거하며, 위반 시 발언당 5만 달러 벌금",
+          "id": "https://news.hada.io/topic?id=28210",
+          "isoDate": "2026-04-05T00:35:40.000Z"
+        },
+        {
+          "title": "goose - Block이 만든 오픈소스 로컬 실행 자율 AI 개발 에이전트",
+          "link": "https://news.hada.io/topic?id=28209",
+          "pubDate": "2026-04-05T00:32:02.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>프로젝트 생성, 코드 실행·수정·테스트, 디버깅, 워크플로 오케스트레이션, 외부 API 연동까지 처음부터 끝까지 자율 수행하는 로컬 실행 AI 에이전트</li>\n<li>맥/윈/리눅스에서 Desktop 앱과 CLI 두 가지 인터페이스 모두 지원</li>\n<li>Anthropic, OpenAI, Gemini, Ollama 등 <strong>20개 이상의 LLM 프로바...</p>",
+          "contentSnippet": "프로젝트 생성, 코드 실행·수정·테스트, 디버깅, 워크플로 오케스트레이션, 외부 API 연동까지 처음부터 끝까지 자율 수행하는 로컬 실행 AI 에이전트\n맥/윈/리눅스에서 Desktop 앱과 CLI 두 가지 인터페이스 모두 지원\nAnthropic, OpenAI, Gemini, Ollama 등 20개 이상의 LLM 프로바...",
+          "id": "https://news.hada.io/topic?id=28209",
+          "isoDate": "2026-04-05T00:32:02.000Z"
+        },
+        {
+          "title": "LLM-Wiki - LLM을 활용하여 개인 지식저장소 구축 하기",
+          "link": "https://news.hada.io/topic?id=28208",
+          "pubDate": "2026-04-04T23:54:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Andrej Karpathy가 최근 자신은 코드보다 <strong>개인 지식 저장소 구축</strong>에 토큰을 더 많이 쓰고 있다며, 이 LLM 기반 위키를 생성하기 위한 <strong>아이디어 가이드 파일</strong>을 공개</li>\n<li>에이전트에게 이 파일을 전달하면 알아서 위키를 생성하고, 사용법을 가이드 함</li>\n<li>\n<strong>...</p>",
+          "contentSnippet": "Andrej Karpathy가 최근 자신은 코드보다 개인 지식 저장소 구축에 토큰을 더 많이 쓰고 있다며, 이 LLM 기반 위키를 생성하기 위한 아이디어 가이드 파일을 공개\n에이전트에게 이 파일을 전달하면 알아서 위키를 생성하고, 사용법을 가이드 함\n...",
+          "id": "https://news.hada.io/topic?id=28208",
+          "isoDate": "2026-04-04T23:54:01.000Z"
+        },
+        {
           "title": "Claude Code가 23년간 숨겨져 있던 Linux 취약점을 발견",
           "link": "https://news.hada.io/topic?id=28207",
           "pubDate": "2026-04-04T19:41:06.000Z",
@@ -395,116 +505,6 @@
           "contentSnippet": "Google Gemma 4 공개: 경량 오픈 모델의 새로운 기준\nGoogle이 새로운 오픈 모델 시리즈 Gemma 4를 공개했습니다. 이번 버전은 기존 Gemma 계열의 철학을 유지하면서도, 더 높은 성능과 다양한 실행 환경을 목표로 설계된 것이 특징입니다. 특히 데이터센터부터 스마트폰까지 폭넓은 환경에서 실행 가능하도록",
           "id": "https://news.hada.io/topic?id=28160",
           "isoDate": "2026-04-03T04:56:55.000Z"
-        },
-        {
-          "title": "marmonitor - tmux 상태바에서 AI 코딩 에이전트 세션을 실시간 추적",
-          "link": "https://news.hada.io/topic?id=28159",
-          "pubDate": "2026-04-03T04:54:39.000Z",
-          "author": "slidingv",
-          "content": "<p>tmux에서 여러 AI 코딩 에이전트를 동시에 실행할 때, 각 세션의 상태를 확인하려면 pane을 하나씩 전환해야 함.<br />\nmarmonitor는 tmux 상태바에 <code>1 ⏳Cl my-project allow</code>와 같은 형태로<br />\n전체 세션 상태를 표시해서 pane 전환 없이 현황을 파악할 수 있게 해주는 도구.</p>\n<ul>\n<li>에이전트별",
-          "contentSnippet": "tmux에서 여러 AI 코딩 에이전트를 동시에 실행할 때, 각 세션의 상태를 확인하려면 pane을 하나씩 전환해야 함.\n1 ⏳Cl my-project allow와 같은 형태로\n에이전트별",
-          "id": "https://news.hada.io/topic?id=28159",
-          "isoDate": "2026-04-03T04:54:39.000Z"
-        },
-        {
-          "title": "Claude Dispatch와 인터페이스의 힘 | Ethan Mollick",
-          "link": "https://news.hada.io/topic?id=28158",
-          "pubDate": "2026-04-03T03:46:07.000Z",
-          "author": "davespark",
-          "content": "<p><strong>한 줄 요약</strong>:<br />\nAI의 진짜 게임 체인저는 더 똑똑한 모델이 아니라, <strong>더 나은 인터페이스</strong>이며, Claude Dispatch는 그 방향을 보여주는 대표적인 사례.</p>\n<ul>\n<li>AI 모델 자체는 이미 매우 강력하지만, <strong>인터페이스(사용자가 AI와 상호작용하는 방식)</strong> 가 제대",
-          "contentSnippet": "한 줄 요약:\n더 나은 인터페이스이며, Claude Dispatch는 그 방향을 보여주는 대표적인 사례.\nAI 모델 자체는 이미 매우 강력하지만, 인터페이스(사용자가 AI와 상호작용하는 방식) 가 제대",
-          "id": "https://news.hada.io/topic?id=28158",
-          "isoDate": "2026-04-03T03:46:07.000Z"
-        },
-        {
-          "title": "r/programming, LLM 프로그래밍 관련 모든 논의 금지",
-          "link": "https://news.hada.io/topic?id=28156",
-          "pubDate": "2026-04-03T02:57:10.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>Reddit의 r/programming</strong> 운영진이 <strong>LLM 관련 포스트·기사·영상 전체</strong>를 2~4주간 금지하는 시범 정책을 4월부터 시행하며, 커뮤니티의 고품질 기술 토론 공간 회복을 목표로 함</li>\n<li>LLM 관련 콘텐츠가 <strong>다른 주제를 압도</strong>할 만큼 대량으로 게시되어 왔으며...</p>",
-          "contentSnippet": "Reddit의 r/programming 운영진이 LLM 관련 포스트·기사·영상 전체를 2~4주간 금지하는 시범 정책을 4월부터 시행하며, 커뮤니티의 고품질 기술 토론 공간 회복을 목표로 함\nLLM 관련 콘텐츠가 다른 주제를 압도할 만큼 대량으로 게시되어 왔으며...",
-          "id": "https://news.hada.io/topic?id=28156",
-          "isoDate": "2026-04-03T02:57:10.000Z"
-        },
-        {
-          "title": "Claude Code 유출 사건",
-          "link": "https://news.hada.io/topic?id=28155",
-          "pubDate": "2026-04-03T02:56:19.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>Claude Code의 소스 코드 유출</strong>은 코드 품질보다 <strong>제품-시장 적합성</strong>이 성공을 좌우함을 보여준 사례임</li>\n<li>Anthropic은 코드 자체보다 <strong>관찰 시스템과 자가 치유 메커니즘</strong>을 중시하며, 빠른 개발 주기를 유지함</li>\n<li>사용자에게 중요한 것은 코드의...</p>",
-          "contentSnippet": "Claude Code의 소스 코드 유출은 코드 품질보다 제품-시장 적합성이 성공을 좌우함을 보여준 사례임\nAnthropic은 코드 자체보다 관찰 시스템과 자가 치유 메커니즘을 중시하며, 빠른 개발 주기를 유지함\n사용자에게 중요한 것은 코드의...",
-          "id": "https://news.hada.io/topic?id=28155",
-          "isoDate": "2026-04-03T02:56:19.000Z"
-        },
-        {
-          "title": "Show GN: Claude Clipboard Cleaner - Claude Code 터미널 출력 복사 시 공백 자동 정리 macOS 앱",
-          "link": "https://news.hada.io/topic?id=28154",
-          "pubDate": "2026-04-03T02:38:50.000Z",
-          "author": "esc5221",
-          "content": "<p>❯ 클로드야 긱뉴스에 올릴 설명을 적어줘.</p>\n<p>⦁  제목 - Show GN: Claude Clipboard Cleaner - Claude Code 터미널 출력 복사 시 공백 자동 정리 macOS 앱<br />\n  Claude Code 터미널에서 코드를 복사해서 에디터나 Slack에 붙여넣으면, 앞에 2칸 공백이랑 뒤쪽 trailing space가 같이 딸려옵니다.<br />\n ",
-          "contentSnippet": "❯ 클로드야 긱뉴스에 올릴 설명을 적어줘.\n⦁  제목 - Show GN: Claude Clipboard Cleaner - Claude Code 터미널 출력 복사 시 공백 자동 정리 macOS 앱\n  Claude Code 터미널에서 코드를 복사해서 에디터나 Slack에 붙여넣으면, 앞에 2칸 공백이랑 뒤쪽 trailing space가 같이 딸려옵니다.",
-          "id": "https://news.hada.io/topic?id=28154",
-          "isoDate": "2026-04-03T02:38:50.000Z"
-        },
-        {
-          "title": "Tailscale의 새로운 macOS 홈",
-          "link": "https://news.hada.io/topic?id=28153",
-          "pubDate": "2026-04-03T02:19:21.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>MacBook 노치 디자인</strong>으로 인해 메뉴 막대 아이콘이 가려지는 문제를 해결하기 위해 <strong>Tailscale</strong>이 새로운 <strong>macOS용 윈도우형 인터페이스</strong>를 도입함</li>\n<li>초기에는 아이콘이 노치 뒤로 숨겨질 때 <strong>팝업 알림</strong>을 띄우는 임시 대응을 사용했으...</p>",
-          "contentSnippet": "MacBook 노치 디자인으로 인해 메뉴 막대 아이콘이 가려지는 문제를 해결하기 위해 Tailscale이 새로운 macOS용 윈도우형 인터페이스를 도입함\n초기에는 아이콘이 노치 뒤로 숨겨질 때 팝업 알림을 띄우는 임시 대응을 사용했으...",
-          "id": "https://news.hada.io/topic?id=28153",
-          "isoDate": "2026-04-03T02:19:21.000Z"
-        },
-        {
-          "title": "Azure 신뢰를 무너뜨린 결정들 – 전직 Azure Core 엔지니어의 기록",
-          "link": "https://news.hada.io/topic?id=28152",
-          "pubDate": "2026-04-03T02:18:18.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>Microsoft Azure Core 내부의 비현실적 의사결정</strong>이 누적되며 기술적 혼란과 신뢰 붕괴로 이어진 과정을 전직 엔지니어가 상세히 서술</li>\n<li>하드웨어 제약을 무시한 <strong>Windows 기능 포팅 계획</strong>과 <strong>173개의 관리 에이전트 난립</strong>이 대표적 문제로 지적됨</li>...</p>",
-          "contentSnippet": "Microsoft Azure Core 내부의 비현실적 의사결정이 누적되며 기술적 혼란과 신뢰 붕괴로 이어진 과정을 전직 엔지니어가 상세히 서술\n하드웨어 제약을 무시한 Windows 기능 포팅 계획과 173개의 관리 에이전트 난립이 대표적 문제로 지적됨\n...",
-          "id": "https://news.hada.io/topic?id=28152",
-          "isoDate": "2026-04-03T02:18:18.000Z"
-        },
-        {
-          "title": "Cursor 3 공개",
-          "link": "https://news.hada.io/topic?id=28151",
-          "pubDate": "2026-04-03T02:11:00.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>에이전트 중심 개발 환경</strong>으로 전환되는 흐름 속에서, Cursor는 이를 통합 관리할 수 있는 새로운 워크스페이스를 제시함</li>\n<li>\n<strong>멀티 리포지토리 구조</strong>와 <strong>로컬·클라우드 에이전트 전환</strong> 기능을 통해 복잡한 협업 과정을 단일 인터페이스에서 처리 가능...</p>",
-          "contentSnippet": "에이전트 중심 개발 환경으로 전환되는 흐름 속에서, Cursor는 이를 통합 관리할 수 있는 새로운 워크스페이스를 제시함\n멀티 리포지토리 구조와 로컬·클라우드 에이전트 전환 기능을 통해 복잡한 협업 과정을 단일 인터페이스에서 처리 가능...",
-          "id": "https://news.hada.io/topic?id=28151",
-          "isoDate": "2026-04-03T02:11:00.000Z"
-        },
-        {
-          "title": "Show GN: Whispree - 한국어 개발자를 위한 STT + LLM 교정 음성 입력 macOS 앱",
-          "link": "https://news.hada.io/topic?id=28150",
-          "pubDate": "2026-04-03T01:47:42.000Z",
-          "author": "arsture",
-          "content": "<p>개발 좋아하는 대학생입니다. AI한테 뭔가 시킬 때마다 타이핑이 병목이라 음성 입력을 찾아봤는데, 처음에 Superwhisper를 썼었습니다. 나름 나쁘지 않았는데, 한국어 전용이 아니다 보니까 단어를 계속 틀리더라구요.</p>\n<ul>\n<li>&quot;GitHub에 PR 올려놨어&quot;라고 하면 → '깃펍 펄 올렸어' 같은 식으로 전사",
-          "contentSnippet": "개발 좋아하는 대학생입니다. AI한테 뭔가 시킬 때마다 타이핑이 병목이라 음성 입력을 찾아봤는데, 처음에 Superwhisper를 썼었습니다. 나름 나쁘지 않았는데, 한국어 전용이 아니다 보니까 단어를 계속 틀리더라구요.\n\"GitHub에 PR 올려놨어\"라고 하면 → '깃펍 펄 올렸어' 같은 식으로 전사",
-          "id": "https://news.hada.io/topic?id=28150",
-          "isoDate": "2026-04-03T01:47:42.000Z"
-        },
-        {
-          "title": "Github, Copilot SDK Preview 공개",
-          "link": "https://news.hada.io/topic?id=28149",
-          "pubDate": "2026-04-03T01:17:11.000Z",
-          "author": "safethecode",
-          "content": "<p>GitHub Copilot SDK가 퍼블릭 프리뷰로 공개됐습니다.</p>\n<p>GitHub Copilot 클라우드 에이전트와 Copilot CLI에서 쓰이는 동일한 에이전트 런타임을 SDK로 꺼내,<br />\n자체 앱·워크플로·플랫폼에 Copilot의 에이전틱 기능을 직접 임베드할 수 있게 한 것이 핵심입니다.</p>\n<p>지원 언어: Node.js/TypeScript, Pyt",
-          "contentSnippet": "GitHub Copilot SDK가 퍼블릭 프리뷰로 공개됐습니다.\nGitHub Copilot 클라우드 에이전트와 Copilot CLI에서 쓰이는 동일한 에이전트 런타임을 SDK로 꺼내,\n지원 언어: Node.js/TypeScript, Pyt",
-          "id": "https://news.hada.io/topic?id=28149",
-          "isoDate": "2026-04-03T01:17:11.000Z"
-        },
-        {
-          "title": "이메일 난독화: 2026년에 효과적인 방법은?",
-          "link": "https://news.hada.io/topic?id=28147",
-          "pubDate": "2026-04-03T00:59:14.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>이메일 주소를 <strong>스팸 수집기</strong>로부터 보호하기 위해 다양한 <strong>HTML·CSS·JavaScript 난독화 기법</strong>을 실험해 차단율을 비교함</li>\n<li>426개 텍스트·399개 링크 표본을 대상으로 테스트한 결과, <strong>대부분의 JS 기반·CSS·SVG 기법이 100% 차단율</strong>을 기록함</li>\n<li>\n...</p>",
-          "contentSnippet": "이메일 주소를 스팸 수집기로부터 보호하기 위해 다양한 HTML·CSS·JavaScript 난독화 기법을 실험해 차단율을 비교함\n426개 텍스트·399개 링크 표본을 대상으로 테스트한 결과, 대부분의 JS 기반·CSS·SVG 기법이 100% 차단율을 기록함\n\n...",
-          "id": "https://news.hada.io/topic?id=28147",
-          "isoDate": "2026-04-03T00:59:14.000Z"
         }
       ]
     }
