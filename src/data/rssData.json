@@ -7,6 +7,56 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: notion-to-email: Notion 페이지를 이메일 HTML로 변환하는 오픈소스 라이브러리",
+          "link": "https://news.hada.io/topic?id=28228",
+          "pubDate": "2026-04-05T13:25:32.000Z",
+          "author": "wer2774",
+          "content": "<p>Notion 페이지 ID를 넘기면 Gmail, Outlook, Apple Mail에서 정상 렌더링되는<br />\nHTML을 반환하는 TypeScript 라이브러리입니다.</p>\n<pre><code class=\"language-typescript\">import { renderFromNotion } from 'notion-to-email'  \n  \nconst { html, title } = await renderFromNotion({  \n  pageId: 'your-page",
+          "contentSnippet": "Notion 페이지 ID를 넘기면 Gmail, Outlook, Apple Mail에서 정상 렌더링되는\nimport { renderFromNotion } from 'notion-to-email'  \n  \nconst { html, title } = await renderFromNotion({  \n  pageId: 'your-page",
+          "id": "https://news.hada.io/topic?id=28228",
+          "isoDate": "2026-04-05T13:25:32.000Z"
+        },
+        {
+          "title": "로그인 없는 정적 사이트에서 사용자를 구분하는 방법 — AI Agent 식별 고민까지",
+          "link": "https://news.hada.io/topic?id=28226",
+          "pubDate": "2026-04-05T13:00:57.000Z",
+          "author": "neocode24",
+          "content": "<p>Static site에서도 사용자 identity를 만들 수 있을까?</p>\n<p>이 글은 Browser Fingerprinting을 이용한 stateless pseudo identity 개념을 제안합니다.<br />\n•\t로그인 없음<br />\n•\t쿠키 없음<br />\n•\t서버 상태 없음<br />\n•\t정적 사이트</p>\n<p>이 환경에서 브라우저 fingerprint를 기반으로 확률적 사용자 ",
+          "contentSnippet": "Static site에서도 사용자 identity를 만들 수 있을까?\n이 글은 Browser Fingerprinting을 이용한 stateless pseudo identity 개념을 제안합니다.\n이 환경에서 브라우저 fingerprint를 기반으로 확률적 사용자",
+          "id": "https://news.hada.io/topic?id=28226",
+          "isoDate": "2026-04-05T13:00:57.000Z"
+        },
+        {
+          "title": "Show GN: Ravenclaw - AI 코딩 에이전트의 작업 컨텍스트를 관리하는 오픈소스 시스템",
+          "link": "https://news.hada.io/topic?id=28225",
+          "pubDate": "2026-04-05T12:54:01.000Z",
+          "author": "aeolian21",
+          "content": "<h3>개요</h3>\n<p>AI 코딩 에이전트(Claude Code, Gemini CLI, Codex 등)를 여러 프로젝트에서 활용하면서 두 가지 문제를 겪었습니다.</p>\n<p><strong>1. 에이전트를 바꾸면 맥락이 사라진다</strong></p>\n<p>Claude Code로 작업하다가 Gemini CLI로 전환하면, 이전에 뭘 했는지 처음부터 다시 설명해야 합니다. 같은 에",
+          "contentSnippet": "개요\nAI 코딩 에이전트(Claude Code, Gemini CLI, Codex 등)를 여러 프로젝트에서 활용하면서 두 가지 문제를 겪었습니다.\n1. 에이전트를 바꾸면 맥락이 사라진다\nClaude Code로 작업하다가 Gemini CLI로 전환하면, 이전에 뭘 했는지 처음부터 다시 설명해야 합니다. 같은 에",
+          "id": "https://news.hada.io/topic?id=28225",
+          "isoDate": "2026-04-05T12:54:01.000Z"
+        },
+        {
+          "title": "GitHub 역사상 가장 빠르게 10만 개의 스타를 기록한 오픈소스 프로젝트(Sigrid Jin&amp;Bellman)",
+          "link": "https://news.hada.io/topic?id=28223",
+          "pubDate": "2026-04-05T10:31:15.000Z",
+          "author": "mobeah",
+          "content": "<p>아래 요약글은 Youtube에 탑재되어 있는 Gemini가 요약 정리한 내용 입니다.</p>\n<h4>주요 내용 및 요약</h4>\n<p>•\tClaw-Code 및 Oh My Codex: Bellman이 유지보수하는 Oh My Codex는 AI 에이전트들을 위한 강력한 런타임이자 하네스(harness)입니다. 이는 T-mux 세션을 기반으로 여러 에이전트를 자동 스웜(swarm)시",
+          "contentSnippet": "아래 요약글은 Youtube에 탑재되어 있는 Gemini가 요약 정리한 내용 입니다.\n주요 내용 및 요약\n•\tClaw-Code 및 Oh My Codex: Bellman이 유지보수하는 Oh My Codex는 AI 에이전트들을 위한 강력한 런타임이자 하네스(harness)입니다. 이는 T-mux 세션을 기반으로 여러 에이전트를 자동 스웜(swarm)시",
+          "id": "https://news.hada.io/topic?id=28223",
+          "isoDate": "2026-04-05T10:31:15.000Z"
+        },
+        {
+          "title": "Cursor 3.0: 에이전트 중심 인터페이스로 완전히 재설계된 개발 환경",
+          "link": "https://news.hada.io/topic?id=28222",
+          "pubDate": "2026-04-05T10:27:49.000Z",
+          "author": "princox",
+          "content": "<p>2026년 4월 2일, Cursor 3.0이 공개되며 전체 개발 환경이 에이전트 중심 구조로 재설계되었다. 이번 업데이트는 단순 기능 추가가 아니라, 기존 IDE 중심 개발 방식에서 벗어나 에이전트를 중심으로 작업을 관리하는 새로운 인터페이스 도입에 초점이 맞춰져 있다.  ￼</p>\n<p>가장 핵심 변화는 새로운 Agents Windo",
+          "contentSnippet": "2026년 4월 2일, Cursor 3.0이 공개되며 전체 개발 환경이 에이전트 중심 구조로 재설계되었다. 이번 업데이트는 단순 기능 추가가 아니라, 기존 IDE 중심 개발 방식에서 벗어나 에이전트를 중심으로 작업을 관리하는 새로운 인터페이스 도입에 초점이 맞춰져 있다.  ￼\n가장 핵심 변화는 새로운 Agents Windo",
+          "id": "https://news.hada.io/topic?id=28222",
+          "isoDate": "2026-04-05T10:27:49.000Z"
+        },
+        {
           "title": "Show GN: 내가 쓰려고 만들어본 또 하나의 claw",
           "link": "https://news.hada.io/topic?id=28220",
           "pubDate": "2026-04-05T08:27:09.000Z",
@@ -455,56 +505,6 @@
           "contentSnippet": "https://gachasong.app\n작년 도쿄 시모키타자와에 라이브를 보러 갔다가, 대기줄에서 대만에서 온 사람을 만났습니다. 서로 영어도 잘 못했지만 플레이리스트를 보여주다 보니 취향이 놀라울 정도로 겹쳐서, 바로 친구가 됐어요.\n나중에 그 친구를 보러 대만에 갔을 때, 타이베이의 PAR STORE라는 레코",
           "id": "https://news.hada.io/topic?id=28169",
           "isoDate": "2026-04-03T10:09:54.000Z"
-        },
-        {
-          "title": "Physical AI가 지금 주목받는 이유와 과거와의 차이점",
-          "link": "https://news.hada.io/topic?id=28167",
-          "pubDate": "2026-04-03T09:46:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>Physical AI 분야에 <strong>VC 투자가 의미 있게 증가</strong>하며 NVIDIA GTC, Bessemer Robotics Day, Unitree IPO, Amazon의 Fauna Robotics 인수, Figure 휴머노이드의 백악관 등장 등 연이은 이벤트가 업계 모멘텀을 형성 중</li>\n<li>과거 로보틱스 투자 실패의 트라우마가 남아 있으나, 이번 사이클은...</p>",
-          "contentSnippet": "Physical AI 분야에 VC 투자가 의미 있게 증가하며 NVIDIA GTC, Bessemer Robotics Day, Unitree IPO, Amazon의 Fauna Robotics 인수, Figure 휴머노이드의 백악관 등장 등 연이은 이벤트가 업계 모멘텀을 형성 중\n과거 로보틱스 투자 실패의 트라우마가 남아 있으나, 이번 사이클은...",
-          "id": "https://news.hada.io/topic?id=28167",
-          "isoDate": "2026-04-03T09:46:02.000Z"
-        },
-        {
-          "title": "지금 가장 중요한 AI 아이디어들 (2026년 4월)",
-          "link": "https://news.hada.io/topic?id=28166",
-          "pubDate": "2026-04-03T09:45:04.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>AI 시대의 핵심 변화로 <strong>자율적 구성 요소 개선</strong>, 의도 기반 엔지니어링, 투명성 전환, 스캐폴딩 인식, 전문지식 확산 등 5가지 아이디어가 상호 강화하며 <strong>모든 조직의 운영 방식을 근본적으로 재편</strong>하는 중</li>\n<li>Karpathy의 <strong>Autoresearch 프로젝트</strong>에서 영...</p>",
-          "contentSnippet": "AI 시대의 핵심 변화로 자율적 구성 요소 개선, 의도 기반 엔지니어링, 투명성 전환, 스캐폴딩 인식, 전문지식 확산 등 5가지 아이디어가 상호 강화하며 모든 조직의 운영 방식을 근본적으로 재편하는 중\nKarpathy의 Autoresearch 프로젝트에서 영...",
-          "id": "https://news.hada.io/topic?id=28166",
-          "isoDate": "2026-04-03T09:45:04.000Z"
-        },
-        {
-          "title": "Cohere Transcribe - SOTA 오픈소스 음성 인식 모델",
-          "link": "https://news.hada.io/topic?id=28165",
-          "pubDate": "2026-04-03T09:38:30.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>영어,한국어,중국어 등 14개 언어를 지원하는 <strong>2B(20억)</strong> 파라미터 규모의 <strong>최신 자동 음성 인식(ASR)</strong> 모델</li>\n<li>\n<strong>Conformer 기반 인코더-디코더 구조</strong>를 사용하며, <strong>Apache 2.0 라이선스</strong>로 배포됨</li>\n<li>영어 기준 <strong>평균 단어 ...</p>",
-          "contentSnippet": "영어,한국어,중국어 등 14개 언어를 지원하는 2B(20억) 파라미터 규모의 최신 자동 음성 인식(ASR) 모델\nConformer 기반 인코더-디코더 구조를 사용하며, Apache 2.0 라이선스로 배포됨\n영어 기준 평균 단어 ...",
-          "id": "https://news.hada.io/topic?id=28165",
-          "isoDate": "2026-04-03T09:38:30.000Z"
-        },
-        {
-          "title": "CI/CD 파이프라인 구축해보기",
-          "link": "https://news.hada.io/topic?id=28164",
-          "pubDate": "2026-04-03T09:13:18.000Z",
-          "author": "jay03",
-          "content": "<p>CI/CD 파이프라인 구축을 경험해보았습니다. 가장 간단하다고 생각이 드는 CI 파이프라인을 구축하고 성공 시에만 CD 가 돌아가도록 구현했는데, CI 단계에서 실무에서나 다른 분들께서는 어떤 단계를 추가하는지 궁금합니다!</p>\n",
-          "contentSnippet": "CI/CD 파이프라인 구축을 경험해보았습니다. 가장 간단하다고 생각이 드는 CI 파이프라인을 구축하고 성공 시에만 CD 가 돌아가도록 구현했는데, CI 단계에서 실무에서나 다른 분들께서는 어떤 단계를 추가하는지 궁금합니다!",
-          "id": "https://news.hada.io/topic?id=28164",
-          "isoDate": "2026-04-03T09:13:18.000Z"
-        },
-        {
-          "title": "아르테미스 컴퓨터에서 Microsoft Outlook이 두 번 실행되는 원인 불명 현상",
-          "link": "https://news.hada.io/topic?id=28163",
-          "pubDate": "2026-04-03T07:33:06.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>우주선 내 컴퓨터에서 <strong>Microsoft Outlook이 동시에 두 번 실행되는 문제</strong>가 발생</li>\n<li>\n<strong>우주 비행사들이 원인을 찾지 못해 휴스턴 관제센터에 보고</strong>한 상황</li>\n<li>\n<strong>NASA가 원격 접속을 통해 시스템 점검을 시도</strong> 중임</li>\n<li>게시 내용은 <strong>Bl...</p>",
-          "contentSnippet": "우주선 내 컴퓨터에서 Microsoft Outlook이 동시에 두 번 실행되는 문제가 발생\n우주 비행사들이 원인을 찾지 못해 휴스턴 관제센터에 보고한 상황\nNASA가 원격 접속을 통해 시스템 점검을 시도 중임\n게시 내용은 Bl...",
-          "id": "https://news.hada.io/topic?id=28163",
-          "isoDate": "2026-04-03T07:33:06.000Z"
         }
       ]
     }
