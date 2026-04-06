@@ -7,6 +7,26 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: 나무위키 실검 이유 알려주는 서비스",
+          "link": "https://news.hada.io/topic?id=28263",
+          "pubDate": "2026-04-06T12:33:05.000Z",
+          "author": "laniakea",
+          "content": "<p>나무위키 읽는 걸 좋아하는 유저인데 실검에 뜬 키워드가 왜 떴을까 궁금한 불편함이 자주 있었습니다.</p>\n<p>그래서 만들어봤습니다.</p>\n",
+          "contentSnippet": "나무위키 읽는 걸 좋아하는 유저인데 실검에 뜬 키워드가 왜 떴을까 궁금한 불편함이 자주 있었습니다.\n그래서 만들어봤습니다.",
+          "id": "https://news.hada.io/topic?id=28263",
+          "isoDate": "2026-04-06T12:33:05.000Z"
+        },
+        {
+          "title": "Microsoft는 Petzold 이후 일관된 GUI 전략을 갖지 못했다",
+          "link": "https://news.hada.io/topic?id=28258",
+          "pubDate": "2026-04-06T08:32:54.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>1980년대 후반까지는 <strong>Win16/Win32 API</strong> 중심의 단일 모델로 Windows 앱 개발이 명확했으나, 이후 수십 년간 <strong>일관성 없는 플랫폼 전환</strong>이 반복됨</li>\n<li>\n<strong>MFC, COM, WPF, Silverlight, UWP, MAUI</strong> 등 17종의 GUI 기술이 공존하며, 개발자들은 어떤 프레임워크...</p>",
+          "contentSnippet": "1980년대 후반까지는 Win16/Win32 API 중심의 단일 모델로 Windows 앱 개발이 명확했으나, 이후 수십 년간 일관성 없는 플랫폼 전환이 반복됨\nMFC, COM, WPF, Silverlight, UWP, MAUI 등 17종의 GUI 기술이 공존하며, 개발자들은 어떤 프레임워크...",
+          "id": "https://news.hada.io/topic?id=28258",
+          "isoDate": "2026-04-06T08:32:54.000Z"
+        },
+        {
           "title": "Show GN: ROACH PI – AI 코딩 에이전트에 엔지니어링 규율을 씌우는 오픈소스 확장",
           "link": "https://news.hada.io/topic?id=28257",
           "pubDate": "2026-04-06T07:12:34.000Z",
@@ -485,26 +505,6 @@
           "contentSnippet": "OpenClaw 2026.3.28 이전 버전에서 비관리자 사용자가 관리자 권한 요청을 승인할 수 있는 권한 상승 취약점이 발견됨\n/pair approve 명령에서 scope 전달 누락으로 인해 승인 검증이 제대로 수행되지 않아 잘못된 권한 검증(CWE-863)",
           "id": "https://news.hada.io/topic?id=28201",
           "isoDate": "2026-04-04T14:32:40.000Z"
-        },
-        {
-          "title": "FAA의 드론 비행 제한은 ICE 촬영을 범죄화하려는 시도",
-          "link": "https://news.hada.io/topic?id=28200",
-          "pubDate": "2026-04-04T12:36:44.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>FAA가 발행한 <strong>전국적 드론 비행 제한(FDC 6/4375)</strong> 은 ICE와 CBP 차량 반경 0.5마일 내 비행을 금지해 <strong>언론과 시민의 기록 활동</strong>을 제한함</li>\n<li>이 조치는 <strong>21개월간 지속되는 ‘임시’ 제한</strong>으로, 국방부·법무부 등 연방 기관의 모든 이동 자산 주변 3000...</p>",
-          "contentSnippet": "FAA가 발행한 전국적 드론 비행 제한(FDC 6/4375) 은 ICE와 CBP 차량 반경 0.5마일 내 비행을 금지해 언론과 시민의 기록 활동을 제한함\n이 조치는 21개월간 지속되는 ‘임시’ 제한으로, 국방부·법무부 등 연방 기관의 모든 이동 자산 주변 3000...",
-          "id": "https://news.hada.io/topic?id=28200",
-          "isoDate": "2026-04-04T12:36:44.000Z"
-        },
-        {
-          "title": "iNaturalist - 자연 관찰자 커뮤니티",
-          "link": "https://news.hada.io/topic?id=28199",
-          "pubDate": "2026-04-04T12:33:44.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>전 세계 사용자가 생물을 기록하고 공유하는 <strong>시민 과학 플랫폼</strong>으로, 협업을 통해 방대한 <strong>생물 데이터베이스</strong>를 구축함</li>\n<li>식물, 동물, 곰팡이 등 다양한 생물의 사진과 위치를 업로드하고, 다른 사용자와 함께 <strong>종 식별 및 토론</strong>을 진행함</li>\n<li>현재...</p>",
-          "contentSnippet": "전 세계 사용자가 생물을 기록하고 공유하는 시민 과학 플랫폼으로, 협업을 통해 방대한 생물 데이터베이스를 구축함\n식물, 동물, 곰팡이 등 다양한 생물의 사진과 위치를 업로드하고, 다른 사용자와 함께 종 식별 및 토론을 진행함\n현재...",
-          "id": "https://news.hada.io/topic?id=28199",
-          "isoDate": "2026-04-04T12:33:44.000Z"
         }
       ]
     }
