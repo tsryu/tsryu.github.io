@@ -7,6 +7,26 @@
       "priority": 1,
       "data": [
         {
+          "title": "프로그래밍을 위한 음악",
+          "link": "https://news.hada.io/topic?id=28266",
+          "pubDate": "2026-04-06T18:32:52.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>프로그래밍 중 <strong>집중력 향상</strong>을 돕는 <strong>믹스 시리즈 스트리밍 사이트</strong>로, 총 77개의 에피소드와 114시간 분량의 음악을 제공</li>\n<li>각 에피소드는 <strong>전자음악·앰비언트 아티스트</strong>의 트랙으로 구성되며, <code>.mp3</code> 파일과 <strong>Discogs 링크</strong>...</p>",
+          "contentSnippet": "프로그래밍 중 집중력 향상을 돕는 믹스 시리즈 스트리밍 사이트로, 총 77개의 에피소드와 114시간 분량의 음악을 제공\n각 에피소드는 전자음악·앰비언트 아티스트의 트랙으로 구성되며, .mp3 파일과 Discogs 링크...",
+          "id": "https://news.hada.io/topic?id=28266",
+          "isoDate": "2026-04-06T18:32:52.000Z"
+        },
+        {
+          "title": "LM Studio Headless CLI와 Claude Code로 로컬에서 Google Gemma 4 실행하기",
+          "link": "https://news.hada.io/topic?id=28265",
+          "pubDate": "2026-04-06T17:33:27.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Gemma 4</strong>는 mixture-of-experts 구조로 일부 파라미터만 활성화해 <strong>저사양 하드웨어에서도 고성능 추론</strong>을 지원</li>\n<li>\n<strong>LM Studio 0.4.0</strong>은 새로운 <strong>Headless CLI(llmster)</strong> 를 도입해 데스크톱 앱 없이 모델 다운로드·로드·채팅·API 서버...</p>",
+          "contentSnippet": "Gemma 4는 mixture-of-experts 구조로 일부 파라미터만 활성화해 저사양 하드웨어에서도 고성능 추론을 지원\nLM Studio 0.4.0은 새로운 Headless CLI(llmster) 를 도입해 데스크톱 앱 없이 모델 다운로드·로드·채팅·API 서버...",
+          "id": "https://news.hada.io/topic?id=28265",
+          "isoDate": "2026-04-06T17:33:27.000Z"
+        },
+        {
           "title": "Show GN: 나무위키 실검 이유 알려주는 서비스",
           "link": "https://news.hada.io/topic?id=28263",
           "pubDate": "2026-04-06T12:33:05.000Z",
@@ -297,6 +317,16 @@
           "isoDate": "2026-04-05T12:54:01.000Z"
         },
         {
+          "title": "Show GN: Micro Diffusion - 공부를 위한 작은 Diffusion 모델",
+          "link": "https://news.hada.io/topic?id=28224",
+          "pubDate": "2026-04-05T12:38:29.000Z",
+          "author": "siwoo4985",
+          "content": "<p>안녕하세요, 약 한 달 전에 텍스트 Diffusion 모델을 처음부터 구현해서 공개했습니다. 최근 Geeknews를 보다가 문득 생각나서 이제야 올려봅니다.</p>\n<hr />\n<h3>만들게 된 계기</h3>\n<p>Andrej Karpathy의 MicroGPT를 보고 &quot;이렇게 짧은 코드로 GPT의 핵심을 설명할 수 있구나&quot;라는 인상을 받았습니다. ",
+          "contentSnippet": "안녕하세요, 약 한 달 전에 텍스트 Diffusion 모델을 처음부터 구현해서 공개했습니다. 최근 Geeknews를 보다가 문득 생각나서 이제야 올려봅니다.\n만들게 된 계기\nAndrej Karpathy의 MicroGPT를 보고 \"이렇게 짧은 코드로 GPT의 핵심을 설명할 수 있구나\"라는 인상을 받았습니다.",
+          "id": "https://news.hada.io/topic?id=28224",
+          "isoDate": "2026-04-05T12:38:29.000Z"
+        },
+        {
           "title": "GitHub 역사상 가장 빠르게 10만 개의 스타를 기록한 오픈소스 프로젝트(Sigrid Jin&amp;Bellman)",
           "link": "https://news.hada.io/topic?id=28223",
           "pubDate": "2026-04-05T10:31:15.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "영국 NHS 직원들이 미국 기업 Palantir의 윤리 논란을 이유로 Federated Data Platform(FDP) 사용을 거부하는 사례가 확산 중임\nPalantir은 NHS의 핵심 데이터를 통합 관리하는 3억3천만 파운드 규모 계약을 수주했으며, 환자 정...",
           "id": "https://news.hada.io/topic?id=28204",
           "isoDate": "2026-04-04T18:32:46.000Z"
-        },
-        {
-          "title": "미국산 앱 120개에 대응하는 유럽 대안 서비스 모음 Only EU",
-          "link": "https://news.hada.io/topic?id=28203",
-          "pubDate": "2026-04-04T17:32:50.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Only EU</strong>는 Google, Apple, Dropbox 등 미국 서비스에 대응하는 <strong>유럽산 제품과 소프트웨어 대안</strong>을 한눈에 찾을 수 있는 디렉터리</li>\n<li>플랫폼은 <strong>개인정보 보호, 품질, 지속가능성</strong>을 핵심 가치로 내세우며, <strong>GDPR 기반 데이터 보호</strong>와 ...</p>",
-          "contentSnippet": "Only EU는 Google, Apple, Dropbox 등 미국 서비스에 대응하는 유럽산 제품과 소프트웨어 대안을 한눈에 찾을 수 있는 디렉터리\n플랫폼은 개인정보 보호, 품질, 지속가능성을 핵심 가치로 내세우며, GDPR 기반 데이터 보호와 ...",
-          "id": "https://news.hada.io/topic?id=28203",
-          "isoDate": "2026-04-04T17:32:50.000Z"
-        },
-        {
-          "title": "AI 문서 어시스턴트를 위한 RAG 대체 가상 파일시스템 구축",
-          "link": "https://news.hada.io/topic?id=28202",
-          "pubDate": "2026-04-04T16:32:48.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>기존 <strong>RAG 기반 검색</strong>의 한계를 극복하기 위해, 문서를 파일과 디렉터리로 구성한 <strong>가상 파일시스템 구조</strong>로 전환</li>\n<li>실제 파일 복제 없이 <strong>Chroma 데이터베이스</strong>를 기반으로 <code>grep</code>, <code>cat</code>, <code>ls</code>, <code>find</code> 명...</p>",
-          "contentSnippet": "기존 RAG 기반 검색의 한계를 극복하기 위해, 문서를 파일과 디렉터리로 구성한 가상 파일시스템 구조로 전환\n실제 파일 복제 없이 Chroma 데이터베이스를 기반으로 grep, cat, ls, find 명...",
-          "id": "https://news.hada.io/topic?id=28202",
-          "isoDate": "2026-04-04T16:32:48.000Z"
-        },
-        {
-          "title": "OpenClaw 권한 상승 취약점 (CVE-2026-33579)",
-          "link": "https://news.hada.io/topic?id=28201",
-          "pubDate": "2026-04-04T14:32:40.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>OpenClaw 2026.3.28 이전 버전에서 <strong>비관리자 사용자가 관리자 권한 요청을 승인할 수 있는 권한 상승 취약점</strong>이 발견됨</li>\n<li>\n<code>/pair approve</code> 명령에서 <strong>scope 전달 누락</strong>으로 인해 승인 검증이 제대로 수행되지 않아 <strong>잘못된 권한 검증(CWE-863)</stro...</p>",
-          "contentSnippet": "OpenClaw 2026.3.28 이전 버전에서 비관리자 사용자가 관리자 권한 요청을 승인할 수 있는 권한 상승 취약점이 발견됨\n/pair approve 명령에서 scope 전달 누락으로 인해 승인 검증이 제대로 수행되지 않아 잘못된 권한 검증(CWE-863)",
-          "id": "https://news.hada.io/topic?id=28201",
-          "isoDate": "2026-04-04T14:32:40.000Z"
         }
       ]
     }
