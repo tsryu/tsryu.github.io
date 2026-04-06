@@ -7,6 +7,56 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: ROACH PI – AI 코딩 에이전트에 엔지니어링 규율을 씌우는 오픈소스 확장",
+          "link": "https://news.hada.io/topic?id=28257",
+          "pubDate": "2026-04-06T07:12:34.000Z",
+          "author": "tmdgusya",
+          "content": "<p>GitHub: https://github.com/tmdgusya/roach-pi</p>\n<hr />\n<p>최근 Claude Code 소스코드가 유출되면서, AI 코딩 에이전트 내부에서 어떤 프롬프트가 주입되고 어떤 동작이 일어나는지 사용자가 전혀 알 수 없다는 점이 다시 화제가 됨</p>\n<p>ROACH PI는 pi 코딩 에이전트(https://github.com/badlogic/pi-mono)의 ",
+          "contentSnippet": "GitHub: https://github.com/tmdgusya/roach-pi\n최근 Claude Code 소스코드가 유출되면서, AI 코딩 에이전트 내부에서 어떤 프롬프트가 주입되고 어떤 동작이 일어나는지 사용자가 전혀 알 수 없다는 점이 다시 화제가 됨\nROACH PI는 pi 코딩 에이전트(https://github.com/badlogic/pi-mono)의",
+          "id": "https://news.hada.io/topic?id=28257",
+          "isoDate": "2026-04-06T07:12:34.000Z"
+        },
+        {
+          "title": "왜 스위스에는 25Gbps 인터넷이 있고 미국에는 없는가",
+          "link": "https://news.hada.io/topic?id=28256",
+          "pubDate": "2026-04-06T06:33:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>스위스는 <strong>대칭형 25Gbps 전용 광인터넷</strong>을 가정까지 제공하며, 공공 인프라 기반의 <strong>개방형 경쟁 구조</strong>를 유지</li>\n<li>미국은 <strong>지역 독점과 공유형 네트워크</strong>로 인해 속도와 품질이 낮고, 소비자 선택권이 거의 없음</li>\n<li>스위스는 <strong>공공 또는 준공...</p>",
+          "contentSnippet": "스위스는 대칭형 25Gbps 전용 광인터넷을 가정까지 제공하며, 공공 인프라 기반의 개방형 경쟁 구조를 유지\n미국은 지역 독점과 공유형 네트워크로 인해 속도와 품질이 낮고, 소비자 선택권이 거의 없음\n스위스는 공공 또는 준공...",
+          "id": "https://news.hada.io/topic?id=28256",
+          "isoDate": "2026-04-06T06:33:02.000Z"
+        },
+        {
+          "title": "Show GN: Claude Code랑 같이 쓰려고 만든 터미널 Sticker",
+          "link": "https://news.hada.io/topic?id=28255",
+          "pubDate": "2026-04-06T06:28:20.000Z",
+          "author": "postdemian",
+          "content": "<p>Claude Code + tmux 환경에서 쓰려고 터미널 스티커 앱을 만들었습니다.</p>\n<p>만든 이유: 단축키나 메모를 macOS 스티커에 적어두고 있었는데, 터미널과 분리되어 있어서 계속 왔다 갔다 하는 게 불편했습니다.</p>\n<p>구현:</p>\n<ul>\n<li>터미널 안에서 스티커처럼 메모 생성 / 드래그 이동</li>\n<li>색상 변경 (테",
+          "contentSnippet": "Claude Code + tmux 환경에서 쓰려고 터미널 스티커 앱을 만들었습니다.\n만든 이유: 단축키나 메모를 macOS 스티커에 적어두고 있었는데, 터미널과 분리되어 있어서 계속 왔다 갔다 하는 게 불편했습니다.\n구현:\n터미널 안에서 스티커처럼 메모 생성 / 드래그 이동\n색상 변경 (테",
+          "id": "https://news.hada.io/topic?id=28255",
+          "isoDate": "2026-04-06T06:28:20.000Z"
+        },
+        {
+          "title": "Show GN: RHWP - Rust로 만든 오픈소스 HWP/HWPX 파서 및 웹 에디터",
+          "link": "https://news.hada.io/topic?id=28254",
+          "pubDate": "2026-04-06T05:11:34.000Z",
+          "author": "doxxx93",
+          "content": "<p>HWP/HWPX 파일을 오픈소스로 읽고 편집할 수 있는 Rust 기반 프로젝트입니다.</p>\n<ul>\n<li>HWP 5.0 바이너리와 HWPX(XML) 포맷 모두 파싱 지원</li>\n<li>WebAssembly로 브라우저에서 직접 실행 가능하며, npm 패키지(@rhwp/editor, @rhwp/core)로 제공</li>\n<li>문단, 표, 수식, 이미지, 차트 렌더링과 다단 레이아웃",
+          "contentSnippet": "HWP/HWPX 파일을 오픈소스로 읽고 편집할 수 있는 Rust 기반 프로젝트입니다.\nHWP 5.0 바이너리와 HWPX(XML) 포맷 모두 파싱 지원\nWebAssembly로 브라우저에서 직접 실행 가능하며, npm 패키지(@rhwp/editor, @rhwp/core)로 제공\n문단, 표, 수식, 이미지, 차트 렌더링과 다단 레이아웃",
+          "id": "https://news.hada.io/topic?id=28254",
+          "isoDate": "2026-04-06T05:11:34.000Z"
+        },
+        {
+          "title": "Ubuntu의 RAM 요구사항이 Windows 11보다 높아짐",
+          "link": "https://news.hada.io/topic?id=28253",
+          "pubDate": "2026-04-06T05:05:45.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>Ubuntu 26.04 LTS는 최소 <strong>6GB RAM</strong>을 요구하며, 이는 이전 버전 대비 50% 증가한 수치임</li>\n<li>이번 상향은 <strong>운영체제 비대화가 아닌 현대적 사용 패턴</strong>(다중 탭, 웹앱, 멀티태스킹 등)을 반영한 결과임</li>\n<li>\n<strong>Windows 11의 최소 요구 RAM은 4GB</strong>로 Ubu...</p>",
+          "contentSnippet": "Ubuntu 26.04 LTS는 최소 6GB RAM을 요구하며, 이는 이전 버전 대비 50% 증가한 수치임\n이번 상향은 운영체제 비대화가 아닌 현대적 사용 패턴(다중 탭, 웹앱, 멀티태스킹 등)을 반영한 결과임\nWindows 11의 최소 요구 RAM은 4GB로 Ubu...",
+          "id": "https://news.hada.io/topic?id=28253",
+          "isoDate": "2026-04-06T05:05:45.000Z"
+        },
+        {
           "title": "만약 당신이 클로드 블루 때문에 힘들다면",
           "link": "https://news.hada.io/topic?id=28252",
           "pubDate": "2026-04-06T04:52:22.000Z",
@@ -455,56 +505,6 @@
           "contentSnippet": "전 세계 사용자가 생물을 기록하고 공유하는 시민 과학 플랫폼으로, 협업을 통해 방대한 생물 데이터베이스를 구축함\n식물, 동물, 곰팡이 등 다양한 생물의 사진과 위치를 업로드하고, 다른 사용자와 함께 종 식별 및 토론을 진행함\n현재...",
           "id": "https://news.hada.io/topic?id=28199",
           "isoDate": "2026-04-04T12:33:44.000Z"
-        },
-        {
-          "title": "SSH 인증서: 더 나은 SSH 경험",
-          "link": "https://news.hada.io/topic?id=28198",
-          "pubDate": "2026-04-04T08:08:24.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>SSH 인증서는 기존 <strong>공개키 기반 SSH 인증의 번거로움</strong>을 해결하며, 클라이언트와 서버 간 <strong>자동 신뢰</strong>를 제공함</li>\n<li>OpenSSH 5.4부터 지원되며, <strong>CA(인증 기관)</strong> 가 사용자와 호스트 키를 서명해 <code>authorized_keys</code> 수정 없이 인증 가능</li>\n...</p>",
-          "contentSnippet": "SSH 인증서는 기존 공개키 기반 SSH 인증의 번거로움을 해결하며, 클라이언트와 서버 간 자동 신뢰를 제공함\nOpenSSH 5.4부터 지원되며, CA(인증 기관) 가 사용자와 호스트 키를 서명해 authorized_keys 수정 없이 인증 가능\n...",
-          "id": "https://news.hada.io/topic?id=28198",
-          "isoDate": "2026-04-04T08:08:24.000Z"
-        },
-        {
-          "title": "OpenAI, 미디어 기업 TBPN 인수",
-          "link": "https://news.hada.io/topic?id=28197",
-          "pubDate": "2026-04-04T07:59:40.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>OpenAI가 <strong>Technology Business Programming Network(TBPN)</strong> 을 인수하며, AI 관련 <strong>글로벌 대화의 가속화</strong>를 목표로 함</li>\n<li>TBPN은 기술·비즈니스·문화 분야의 인사들을 연결하는 <strong>라이브 테크 토크쇼 및 미디어 기업</strong>으로, 업계 내 영향력 높은 플랫폼으로...</p>",
-          "contentSnippet": "OpenAI가 Technology Business Programming Network(TBPN) 을 인수하며, AI 관련 글로벌 대화의 가속화를 목표로 함\nTBPN은 기술·비즈니스·문화 분야의 인사들을 연결하는 라이브 테크 토크쇼 및 미디어 기업으로, 업계 내 영향력 높은 플랫폼으로...",
-          "id": "https://news.hada.io/topic?id=28197",
-          "isoDate": "2026-04-04T07:59:40.000Z"
-        },
-        {
-          "title": "Samsung Magician 디스크 유틸리티 제거하려면 18단계와 두 번의 재부팅 필요",
-          "link": "https://news.hada.io/topic?id=28195",
-          "pubDate": "2026-04-04T06:44:49.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>macOS용 <strong>Samsung Magician</strong>은 하드웨어 암호화 설정을 위해 설치되었으나, 정상 작동하지 않아 제거 시도 시 <strong>삭제 버튼이 존재하지 않음</strong>\n</li>\n<li>앱 내부의 <strong>정리 스크립트 실행 시 500회 이상 오류</strong>가 발생하며, 파일 소유권 변경 실패로 대부분의 파일이 ...</p>",
-          "contentSnippet": "macOS용 Samsung Magician은 하드웨어 암호화 설정을 위해 설치되었으나, 정상 작동하지 않아 제거 시도 시 삭제 버튼이 존재하지 않음\n\n앱 내부의 정리 스크립트 실행 시 500회 이상 오류가 발생하며, 파일 소유권 변경 실패로 대부분의 파일이 ...",
-          "id": "https://news.hada.io/topic?id=28195",
-          "isoDate": "2026-04-04T06:44:49.000Z"
-        },
-        {
-          "title": "이란 상공에서 미군 F-15E 전투기 격추, 승무원 1명 구조",
-          "link": "https://news.hada.io/topic?id=28191",
-          "pubDate": "2026-04-04T04:32:49.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>미 공군 <strong>F-15E Strike Eagle 전투기</strong>가 이란 상공에서 격추되어 두 명의 승무원 중 한 명이 구조되고 다른 한 명은 실종 상태임</li>\n<li>\n<strong>이란 국영 언론</strong>은 처음에 F-35 격추를 주장했으나, 전문가들은 잔해가 영국 RAF Lakenheath 기지 소속 F-15E의 것임을 확인함</li>\n<l...</p>",
-          "contentSnippet": "미 공군 F-15E Strike Eagle 전투기가 이란 상공에서 격추되어 두 명의 승무원 중 한 명이 구조되고 다른 한 명은 실종 상태임\n이란 국영 언론은 처음에 F-35 격추를 주장했으나, 전문가들은 잔해가 영국 RAF Lakenheath 기지 소속 F-15E의 것임을 확인함",
-          "id": "https://news.hada.io/topic?id=28191",
-          "isoDate": "2026-04-04T04:32:49.000Z"
-        },
-        {
-          "title": "Claude, 이제 OpenClaw 같은 써드파티에서 구독 모델 사용 불가",
-          "link": "https://news.hada.io/topic?id=28190",
-          "pubDate": "2026-04-04T03:13:55.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>PT 4/5일 12시 (한국시간 4/6 04시) 부터 <strong>Claude 구독 플랜</strong>으로는 OpenClaw 등 서드파티 툴 사용 불가</li>\n<li>대신 할인된 <strong>추가 사용량 번들 구매</strong> 또는 <strong>Claude API 키</strong> 사용으로 전환해야 함</li>\n<li>이번 정책 변경의 배경은 <strong>서드파티 툴의 사용...</p>",
-          "contentSnippet": "PT 4/5일 12시 (한국시간 4/6 04시) 부터 Claude 구독 플랜으로는 OpenClaw 등 서드파티 툴 사용 불가\n대신 할인된 추가 사용량 번들 구매 또는 Claude API 키 사용으로 전환해야 함\n이번 정책 변경의 배경은 서드파티 툴의 사용...",
-          "id": "https://news.hada.io/topic?id=28190",
-          "isoDate": "2026-04-04T03:13:55.000Z"
         }
       ]
     }
