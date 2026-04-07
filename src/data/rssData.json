@@ -7,6 +7,56 @@
       "priority": 1,
       "data": [
         {
+          "title": "양자 컴퓨팅 시점에 대한 암호공학 엔지니어의 관점",
+          "link": "https://news.hada.io/topic?id=28284",
+          "pubDate": "2026-04-07T08:33:00.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>최근 연구 결과로 <strong>암호적으로 의미 있는 양자 컴퓨터(CRQC)</strong> 출현 가능성이 수년 내로 앞당겨지며, <strong>양자 내성 암호(PQC)</strong> 배포의 긴급성이 급격히 높아짐</li>\n<li>Google과 Oratomic의 연구는 <strong>256비트 타원곡선 공격에 필요한 자원 감소</strong>를 보여주며, 하드웨...</p>",
+          "contentSnippet": "최근 연구 결과로 암호적으로 의미 있는 양자 컴퓨터(CRQC) 출현 가능성이 수년 내로 앞당겨지며, 양자 내성 암호(PQC) 배포의 긴급성이 급격히 높아짐\nGoogle과 Oratomic의 연구는 256비트 타원곡선 공격에 필요한 자원 감소를 보여주며, 하드웨...",
+          "id": "https://news.hada.io/topic?id=28284",
+          "isoDate": "2026-04-07T08:33:00.000Z"
+        },
+        {
+          "title": "멀티 에이전트 오케스트레이션은 왜 잘 안 되는가?",
+          "link": "https://news.hada.io/topic?id=28283",
+          "pubDate": "2026-04-07T06:27:10.000Z",
+          "author": "shalome7",
+          "content": "<p>최근 AI로 “제로 휴먼 컴퍼니” 를 운영할 수 있게 해주는 ‘Paperclip’ 프로젝트가 이슈가 되었는데요. 에이전트들을 회사 조직도처럼 구성해서 CEO, 팀장, 실무자 역할을 부여하고 회사의 미션과 세부 프로젝트 들을 정의하면 자율적으로 일하기 시작합니다. 한 달 만에 github 스타 4만 개를 돌파했습니다.</p>\n",
+          "contentSnippet": "최근 AI로 “제로 휴먼 컴퍼니” 를 운영할 수 있게 해주는 ‘Paperclip’ 프로젝트가 이슈가 되었는데요. 에이전트들을 회사 조직도처럼 구성해서 CEO, 팀장, 실무자 역할을 부여하고 회사의 미션과 세부 프로젝트 들을 정의하면 자율적으로 일하기 시작합니다. 한 달 만에 github 스타 4만 개를 돌파했습니다.",
+          "id": "https://news.hada.io/topic?id=28283",
+          "isoDate": "2026-04-07T06:27:10.000Z"
+        },
+        {
+          "title": "구글에서 공개한 iOS 전용 Gemma4 온디바이스 구동 최적화 앱",
+          "link": "https://news.hada.io/topic?id=28282",
+          "pubDate": "2026-04-07T06:20:27.000Z",
+          "author": "haebom",
+          "content": "<ul>\n<li>아이폰 쓰시는 분들은 꼭 써보시길 바랍니다. 구글에서 배포한 gemma4를 온디바이스로 구동 가능하게 만든 최적화 시킨 앱입니다.</li>\n<li>간단하게 말하면, 비행기 모드에서도 LLM이 사용가능합니다. (멀티모달 인풋 가능)</li>\n<li>최적화가 무척 잘되어 있고 3~4기가 안에 이렇게 까지 유려화게 LLM 해놓을...</p>",
+          "contentSnippet": "아이폰 쓰시는 분들은 꼭 써보시길 바랍니다. 구글에서 배포한 gemma4를 온디바이스로 구동 가능하게 만든 최적화 시킨 앱입니다.\n간단하게 말하면, 비행기 모드에서도 LLM이 사용가능합니다. (멀티모달 인풋 가능)\n최적화가 무척 잘되어 있고 3~4기가 안에 이렇게 까지 유려화게 LLM 해놓을...",
+          "id": "https://news.hada.io/topic?id=28282",
+          "isoDate": "2026-04-07T06:20:27.000Z"
+        },
+        {
+          "title": "Show GN: StyleSeed – AI 코딩 도구에 디자인 감각을 심어주는 오픈소스 (2,200줄 디자인 규칙)",
+          "link": "https://news.hada.io/topic?id=28281",
+          "pubDate": "2026-04-07T05:41:34.000Z",
+          "author": "bitjaru0402",
+          "content": "<p>바이브코딩으로 UI를 만들면 &quot;기능은 되는데 디자인이 구린&quot; 문제가 있습니다.</p>\n<p>StyleSeed는 AI 코딩 도구(Claude Code 등)에 디자인 규칙을 심어주는 오픈소스입니다.<br />\n파일을 프로젝트에 복사하면, AI가 토스 앱 수준의 UI를 만들어냅니다.</p>\n<p>포함 내용:</p>\n<ul>\n<li>2,200줄의 시각 디",
+          "contentSnippet": "바이브코딩으로 UI를 만들면 \"기능은 되는데 디자인이 구린\" 문제가 있습니다.\nStyleSeed는 AI 코딩 도구(Claude Code 등)에 디자인 규칙을 심어주는 오픈소스입니다.\n포함 내용:\n2,200줄의 시각 디",
+          "id": "https://news.hada.io/topic?id=28281",
+          "isoDate": "2026-04-07T05:41:34.000Z"
+        },
+        {
+          "title": "크롬 제로데이 취약점 CVE-2026-5281이 활발히 공격받고 있습니다",
+          "link": "https://news.hada.io/topic?id=28280",
+          "pubDate": "2026-04-07T05:14:06.000Z",
+          "author": "textlanes33",
+          "content": "<p>구글은 목요일 크롬 웹 브라우저의 보안 업데이트를 발표하며 , 실제 공격에 사용된 적이 있는 제로데이 취약점을 포함한 21개의 취약점을 해결한다고 밝혔습니다.</p>\n<p>심각도가 높은 취약점인 CVE-2026-5281 (CVSS 점수: 해당 없음)은 오픈 소스 크로스 플랫폼 WebGPU 표준 구현체인 Dawn 의 use-after-free 버그",
+          "contentSnippet": "구글은 목요일 크롬 웹 브라우저의 보안 업데이트를 발표하며 , 실제 공격에 사용된 적이 있는 제로데이 취약점을 포함한 21개의 취약점을 해결한다고 밝혔습니다.\n심각도가 높은 취약점인 CVE-2026-5281 (CVSS 점수: 해당 없음)은 오픈 소스 크로스 플랫폼 WebGPU 표준 구현체인 Dawn 의 use-after-free 버그",
+          "id": "https://news.hada.io/topic?id=28280",
+          "isoDate": "2026-04-07T05:14:06.000Z"
+        },
+        {
           "title": "Bluesky, Claude 기반 AI 앱 Attie 공개",
           "link": "https://news.hada.io/topic?id=28278",
           "pubDate": "2026-04-07T02:58:23.000Z",
@@ -455,56 +505,6 @@
           "contentSnippet": "아래 요약글은 Youtube에 탑재되어 있는 Gemini가 요약 정리한 내용 입니다.\n주요 내용 및 요약\n•\tClaw-Code 및 Oh My Codex: Bellman이 유지보수하는 Oh My Codex는 AI 에이전트들을 위한 강력한 런타임이자 하네스(harness)입니다. 이는 T-mux 세션을 기반으로 여러 에이전트를 자동 스웜(swarm)시",
           "id": "https://news.hada.io/topic?id=28223",
           "isoDate": "2026-04-05T10:31:15.000Z"
-        },
-        {
-          "title": "Cursor 3.0: 에이전트 중심 인터페이스로 완전히 재설계된 개발 환경",
-          "link": "https://news.hada.io/topic?id=28222",
-          "pubDate": "2026-04-05T10:27:49.000Z",
-          "author": "princox",
-          "content": "<p>2026년 4월 2일, Cursor 3.0이 공개되며 전체 개발 환경이 에이전트 중심 구조로 재설계되었다. 이번 업데이트는 단순 기능 추가가 아니라, 기존 IDE 중심 개발 방식에서 벗어나 에이전트를 중심으로 작업을 관리하는 새로운 인터페이스 도입에 초점이 맞춰져 있다.  ￼</p>\n<p>가장 핵심 변화는 새로운 Agents Windo",
-          "contentSnippet": "2026년 4월 2일, Cursor 3.0이 공개되며 전체 개발 환경이 에이전트 중심 구조로 재설계되었다. 이번 업데이트는 단순 기능 추가가 아니라, 기존 IDE 중심 개발 방식에서 벗어나 에이전트를 중심으로 작업을 관리하는 새로운 인터페이스 도입에 초점이 맞춰져 있다.  ￼\n가장 핵심 변화는 새로운 Agents Windo",
-          "id": "https://news.hada.io/topic?id=28222",
-          "isoDate": "2026-04-05T10:27:49.000Z"
-        },
-        {
-          "title": "Show GN: 내가 쓰려고 만들어본 또 하나의 claw",
-          "link": "https://news.hada.io/topic?id=28220",
-          "pubDate": "2026-04-05T08:27:09.000Z",
-          "author": "hatsunemiku3939",
-          "content": "<p>몇일전에 pi-mono 참고로 py-pimono 라는 미니멀한 에이전트를 만들어 다고 소개하신 길을 GeekNews 에서 봤습니다.</p>\n<p>https://news.hada.io/topic?id=27966</p>\n<p>소개글을 보고 pi-mono란게 있는것도 처음 알았네요. 그동안 많이 나온 claw 들은 별로 관심이 없었는데,<br />\n살펴보니 미니멀한 구성이면 만들",
-          "contentSnippet": "몇일전에 pi-mono 참고로 py-pimono 라는 미니멀한 에이전트를 만들어 다고 소개하신 길을 GeekNews 에서 봤습니다.\nhttps://news.hada.io/topic?id=27966\n소개글을 보고 pi-mono란게 있는것도 처음 알았네요. 그동안 많이 나온 claw 들은 별로 관심이 없었는데,\n살펴보니 미니멀한 구성이면 만들",
-          "id": "https://news.hada.io/topic?id=28220",
-          "isoDate": "2026-04-05T08:27:09.000Z"
-        },
-        {
-          "title": "Apple, Arm Mac에서 Nvidia eGPU 사용을 허용하는 드라이버 승인",
-          "link": "https://news.hada.io/topic?id=28219",
-          "pubDate": "2026-04-05T04:32:27.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>이 드라이버는 <strong>Nvidia가 아닌 Tiny Corp</strong>이 개발했으며, Apple의 서명 승인으로 <strong>System Integrity Protection(SIP)</strong> 을 비활성화하지 않아도 사용 가능함</li>\n<li>드라이버는 <strong>Docker를 통해 직접 컴파일해야 하며</strong>, 일반적인 플러그 앤 플레이 방식은 아님...</p>",
-          "contentSnippet": "이 드라이버는 Nvidia가 아닌 Tiny Corp이 개발했으며, Apple의 서명 승인으로 System Integrity Protection(SIP) 을 비활성화하지 않아도 사용 가능함\n드라이버는 Docker를 통해 직접 컴파일해야 하며, 일반적인 플러그 앤 플레이 방식은 아님...",
-          "id": "https://news.hada.io/topic?id=28219",
-          "isoDate": "2026-04-05T04:32:27.000Z"
-        },
-        {
-          "title": "Show GN: SQL, 진짜 데이터로 배워야 실력이 됩니다",
-          "link": "https://news.hada.io/topic?id=28218",
-          "pubDate": "2026-04-05T04:31:50.000Z",
-          "author": "civilian",
-          "content": "<p>SQL, 진짜 데이터로 배워야 실력이 됩니다</p>\n<p>SQL 튜토리얼은 많습니다. 하지만 대부분 employees 테이블 3개짜리 예제로 끝납니다.</p>\n<p>실무에서 마주치는 건 그런 게 아닙니다. 21개 테이블이 외래 키로 엮여 있고, 10년치 주문 데이터에서 월별 매출 추이를<br />\n뽑아야 하고, 이탈 위험 고객을 찾아내야 ",
-          "contentSnippet": "SQL, 진짜 데이터로 배워야 실력이 됩니다\nSQL 튜토리얼은 많습니다. 하지만 대부분 employees 테이블 3개짜리 예제로 끝납니다.\n실무에서 마주치는 건 그런 게 아닙니다. 21개 테이블이 외래 키로 엮여 있고, 10년치 주문 데이터에서 월별 매출 추이를\n뽑아야 하고, 이탈 위험 고객을 찾아내야",
-          "id": "https://news.hada.io/topic?id=28218",
-          "isoDate": "2026-04-05T04:31:50.000Z"
-        },
-        {
-          "title": "감정적 표현이 AI 성능을 바꿀까? — 프롬프트 감정 프레이밍의 실제 효과",
-          "link": "https://news.hada.io/topic?id=28217",
-          "pubDate": "2026-04-05T02:06:51.000Z",
-          "author": "darjeeling",
-          "content": "<blockquote>\n<p><strong>&quot;화나서 물어보면 AI가 더 잘 답할까?&quot;</strong> 하버드 연구진이 6개 벤치마크로 실험한 결과, 감정 표현은 LLM 성능에 거의 영향을 미치지 않았다. 단, <strong>감정을 질문별로 적응적으로 선택하면 일관된 성능 향상</strong>이 가능하다는 것이 핵심 발견이다.</p>\n</blockquote",
-          "contentSnippet": "\"화나서 물어보면 AI가 더 잘 답할까?\" 하버드 연구진이 6개 벤치마크로 실험한 결과, 감정 표현은 LLM 성능에 거의 영향을 미치지 않았다. 단, 감정을 질문별로 적응적으로 선택하면 일관된 성능 향상이 가능하다는 것이 핵심 발견이다.\n</blockquote",
-          "id": "https://news.hada.io/topic?id=28217",
-          "isoDate": "2026-04-05T02:06:51.000Z"
         }
       ]
     }
