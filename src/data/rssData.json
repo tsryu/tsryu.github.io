@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "AI 챗봇에 가짜 질병을 물어봤더니… &quot;실제 병입니다&quot;라고 답했다",
+          "link": "https://news.hada.io/topic?id=28288",
+          "pubDate": "2026-04-07T15:28:38.000Z",
+          "author": "darjeeling",
+          "content": "<p>스웨덴 연구자가 완전히 허구의 질병 <strong>&quot;빅소니마니아(Bixonimania)&quot;</strong> 를 만들어 AI 챗봇들이 이를 실제 질병처럼 안내하는지 실험했다. 결과는 충격적이었다. ChatGPT, Google Gemini, Microsoft Copilot, Perplexity 등 주요 AI 시스템이 모두 이 가짜 병을 진짜처럼 설명했고, 심지어 가짜...</p>",
+          "contentSnippet": "스웨덴 연구자가 완전히 허구의 질병 \"빅소니마니아(Bixonimania)\" 를 만들어 AI 챗봇들이 이를 실제 질병처럼 안내하는지 실험했다. 결과는 충격적이었다. ChatGPT, Google Gemini, Microsoft Copilot, Perplexity 등 주요 AI 시스템이 모두 이 가짜 병을 진짜처럼 설명했고, 심지어 가짜...",
+          "id": "https://news.hada.io/topic?id=28288",
+          "isoDate": "2026-04-07T15:28:38.000Z"
+        },
+        {
+          "title": "Ghost Pepper – macOS용 로컬 음성-텍스트 변환 앱",
+          "link": "https://news.hada.io/topic?id=28287",
+          "pubDate": "2026-04-07T14:33:05.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>macOS에서 <strong>Control 키를 누르고 말하면 자동으로 텍스트로 변환 후 붙여넣기</strong>하는 <strong>로컬 음성 인식 앱</strong>\n</li>\n<li>모든 <strong>음성 인식과 텍스트 정리 과정이 로컬에서만 수행</strong>되어, <strong>클라우드 전송 없이 개인정보 보호</strong> 보장</li>\n<li>\n<strong>Whi...</p>",
+          "contentSnippet": "macOS에서 Control 키를 누르고 말하면 자동으로 텍스트로 변환 후 붙여넣기하는 로컬 음성 인식 앱\n\n모든 음성 인식과 텍스트 정리 과정이 로컬에서만 수행되어, 클라우드 전송 없이 개인정보 보호 보장\nWhi...",
+          "id": "https://news.hada.io/topic?id=28287",
+          "isoDate": "2026-04-07T14:33:05.000Z"
+        },
+        {
+          "title": "$35,000 사기를 통해 얻은 교훈",
+          "link": "https://news.hada.io/topic?id=28286",
+          "pubDate": "2026-04-07T11:32:56.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>베이징의 <strong>AR 버스 투어 프로젝트</strong>에 참여해 기술 복구를 시도했으나, <strong>$35,000의 대금을 받지 못한 채 종료된 경험</strong>임</li>\n<li>현장은 <strong>버전 관리 부재</strong>, <strong>비전문적 장비 구성</strong>, <strong>AR 기본 원리 무시</strong> 등으로 시스템이 붕괴된 상...</p>",
+          "contentSnippet": "베이징의 AR 버스 투어 프로젝트에 참여해 기술 복구를 시도했으나, $35,000의 대금을 받지 못한 채 종료된 경험임\n현장은 버전 관리 부재, 비전문적 장비 구성, AR 기본 원리 무시 등으로 시스템이 붕괴된 상...",
+          "id": "https://news.hada.io/topic?id=28286",
+          "isoDate": "2026-04-07T11:32:56.000Z"
+        },
+        {
           "title": "양자 컴퓨팅 시점에 대한 암호공학 엔지니어의 관점",
           "link": "https://news.hada.io/topic?id=28284",
           "pubDate": "2026-04-07T08:33:00.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "Static site에서도 사용자 identity를 만들 수 있을까?\n이 글은 Browser Fingerprinting을 이용한 stateless pseudo identity 개념을 제안합니다.\n이 환경에서 브라우저 fingerprint를 기반으로 확률적 사용자",
           "id": "https://news.hada.io/topic?id=28226",
           "isoDate": "2026-04-05T13:00:57.000Z"
-        },
-        {
-          "title": "Show GN: Ravenclaw - AI 코딩 에이전트의 작업 컨텍스트를 관리하는 오픈소스 시스템",
-          "link": "https://news.hada.io/topic?id=28225",
-          "pubDate": "2026-04-05T12:54:01.000Z",
-          "author": "aeolian21",
-          "content": "<h3>개요</h3>\n<p>AI 코딩 에이전트(Claude Code, Gemini CLI, Codex 등)를 여러 프로젝트에서 활용하면서 두 가지 문제를 겪었습니다.</p>\n<p><strong>1. 에이전트를 바꾸면 맥락이 사라진다</strong></p>\n<p>Claude Code로 작업하다가 Gemini CLI로 전환하면, 이전에 뭘 했는지 처음부터 다시 설명해야 합니다. 같은 에",
-          "contentSnippet": "개요\nAI 코딩 에이전트(Claude Code, Gemini CLI, Codex 등)를 여러 프로젝트에서 활용하면서 두 가지 문제를 겪었습니다.\n1. 에이전트를 바꾸면 맥락이 사라진다\nClaude Code로 작업하다가 Gemini CLI로 전환하면, 이전에 뭘 했는지 처음부터 다시 설명해야 합니다. 같은 에",
-          "id": "https://news.hada.io/topic?id=28225",
-          "isoDate": "2026-04-05T12:54:01.000Z"
-        },
-        {
-          "title": "Show GN: Micro Diffusion - 공부를 위한 작은 Diffusion 모델",
-          "link": "https://news.hada.io/topic?id=28224",
-          "pubDate": "2026-04-05T12:38:29.000Z",
-          "author": "siwoo4985",
-          "content": "<p>안녕하세요, 약 한 달 전에 텍스트 Diffusion 모델을 처음부터 구현해서 공개했습니다. 최근 Geeknews를 보다가 문득 생각나서 이제야 올려봅니다.</p>\n<hr />\n<h3>만들게 된 계기</h3>\n<p>Andrej Karpathy의 MicroGPT를 보고 &quot;이렇게 짧은 코드로 GPT의 핵심을 설명할 수 있구나&quot;라는 인상을 받았습니다. ",
-          "contentSnippet": "안녕하세요, 약 한 달 전에 텍스트 Diffusion 모델을 처음부터 구현해서 공개했습니다. 최근 Geeknews를 보다가 문득 생각나서 이제야 올려봅니다.\n만들게 된 계기\nAndrej Karpathy의 MicroGPT를 보고 \"이렇게 짧은 코드로 GPT의 핵심을 설명할 수 있구나\"라는 인상을 받았습니다.",
-          "id": "https://news.hada.io/topic?id=28224",
-          "isoDate": "2026-04-05T12:38:29.000Z"
-        },
-        {
-          "title": "GitHub 역사상 가장 빠르게 10만 개의 스타를 기록한 오픈소스 프로젝트(Sigrid Jin&amp;Bellman)",
-          "link": "https://news.hada.io/topic?id=28223",
-          "pubDate": "2026-04-05T10:31:15.000Z",
-          "author": "mobeah",
-          "content": "<p>아래 요약글은 Youtube에 탑재되어 있는 Gemini가 요약 정리한 내용 입니다.</p>\n<h4>주요 내용 및 요약</h4>\n<p>•\tClaw-Code 및 Oh My Codex: Bellman이 유지보수하는 Oh My Codex는 AI 에이전트들을 위한 강력한 런타임이자 하네스(harness)입니다. 이는 T-mux 세션을 기반으로 여러 에이전트를 자동 스웜(swarm)시",
-          "contentSnippet": "아래 요약글은 Youtube에 탑재되어 있는 Gemini가 요약 정리한 내용 입니다.\n주요 내용 및 요약\n•\tClaw-Code 및 Oh My Codex: Bellman이 유지보수하는 Oh My Codex는 AI 에이전트들을 위한 강력한 런타임이자 하네스(harness)입니다. 이는 T-mux 세션을 기반으로 여러 에이전트를 자동 스웜(swarm)시",
-          "id": "https://news.hada.io/topic?id=28223",
-          "isoDate": "2026-04-05T10:31:15.000Z"
         }
       ]
     }
