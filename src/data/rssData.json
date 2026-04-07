@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "독일 경찰, GandCrab·REvil 랜섬웨어 조직의 러시아인 수장 실명 공개",
+          "link": "https://news.hada.io/topic?id=28291",
+          "pubDate": "2026-04-07T19:36:36.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>독일 연방범죄수사청이 러시아 국적의 <strong>다닐 막시모비치 슈추킨</strong>을 GandCrab과 REvil 랜섬웨어 조직의 수장으로 지목하며 실명을 공개함</li>\n<li>슈추킨은 ‘<strong>UNKN(UNKNOWN)</strong>’이라는 닉네임으로 활동하며, 피해자에게 두 차례 돈을 요구하는 <strong>이중 갈취 방식</strong>을...</p>",
+          "contentSnippet": "독일 연방범죄수사청이 러시아 국적의 다닐 막시모비치 슈추킨을 GandCrab과 REvil 랜섬웨어 조직의 수장으로 지목하며 실명을 공개함\n슈추킨은 ‘UNKN(UNKNOWN)’이라는 닉네임으로 활동하며, 피해자에게 두 차례 돈을 요구하는 이중 갈취 방식을...",
+          "id": "https://news.hada.io/topic?id=28291",
+          "isoDate": "2026-04-07T19:36:36.000Z"
+        },
+        {
+          "title": "Adobe가 Creative Cloud 설치 여부를 감지하기 위해 hosts 파일을 수정함",
+          "link": "https://news.hada.io/topic?id=28290",
+          "pubDate": "2026-04-07T19:33:36.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Windows와 macOS에서 <strong>Adobe Creative Cloud</strong> 설치 시 시스템의 <strong>hosts 파일이 자동 변경</strong>되어, 웹사이트 방문 시 설치 여부를 감지하는 구조임</li>\n<li>[adobe.com/home] 접속 시 자바스크립트가 <strong>detect-ccd.creativecloud.adobe.com</strong>의 이미지를 요청하며, h...</p>",
+          "contentSnippet": "Windows와 macOS에서 Adobe Creative Cloud 설치 시 시스템의 hosts 파일이 자동 변경되어, 웹사이트 방문 시 설치 여부를 감지하는 구조임\n[adobe.com/home] 접속 시 자바스크립트가 detect-ccd.creativecloud.adobe.com의 이미지를 요청하며, h...",
+          "id": "https://news.hada.io/topic?id=28290",
+          "isoDate": "2026-04-07T19:33:36.000Z"
+        },
+        {
+          "title": "81세 다저스 팬, 스마트폰이 없어 더 이상 티켓을 구매할 수 없음",
+          "link": "https://news.hada.io/topic?id=28289",
+          "pubDate": "2026-04-07T18:32:40.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>81세 <strong>로스앤젤레스 다저스 팬</strong>이 스마트폰이 없다는 이유로 경기 티켓을 구입할 수 없는 상황</li>\n<li>구단이 <strong>모바일 전용 티켓 시스템</strong>으로 전면 전환하면서, <strong>종이 티켓이나 대체 수단이 제공되지 않음</strong>\n</li>\n<li>이 팬은 오랫동안 시즌 티켓을 구매해 온 ...</p>",
+          "contentSnippet": "81세 로스앤젤레스 다저스 팬이 스마트폰이 없다는 이유로 경기 티켓을 구입할 수 없는 상황\n구단이 모바일 전용 티켓 시스템으로 전면 전환하면서, 종이 티켓이나 대체 수단이 제공되지 않음\n\n이 팬은 오랫동안 시즌 티켓을 구매해 온 ...",
+          "id": "https://news.hada.io/topic?id=28289",
+          "isoDate": "2026-04-07T18:32:40.000Z"
+        },
+        {
           "title": "AI 챗봇에 가짜 질병을 물어봤더니… &quot;실제 병입니다&quot;라고 답했다",
           "link": "https://news.hada.io/topic?id=28288",
           "pubDate": "2026-04-07T15:28:38.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "2026년부터 시행된 새 군복무법은 18세에서 45세 사이의 남성이 3개월 이상 해외 체류 시 군 경력센터의 허가를 받아야 함\n이 규정은 학업, 근무, 여행 등 체류 목적과 무관하게 적용되며, 유럽 안보 위협 속 병력 확보 강화를 ...",
           "id": "https://news.hada.io/topic?id=28230",
           "isoDate": "2026-04-05T17:33:53.000Z"
-        },
-        {
-          "title": "독일 eIDAS 전자신원 지갑, Apple·Google 계정 기반 기기 보안 검증 구조",
-          "link": "https://news.hada.io/topic?id=28229",
-          "pubDate": "2026-04-05T14:33:21.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>독일 <strong>National EUDI Wallet</strong>은 모바일 기기의 <strong>보안 취약점 관리(MDVM)</strong> 체계를 통해 전자 신원 인증의 무결성을 유지함</li>\n<li>MDVM은 <strong>운영체제와 하드웨어 키 저장소(HKS)</strong> 의 취약점을 탐지하고, 위험이 높을 경우 <strong>인증 키 사용을 차단</strong>함...</p>",
-          "contentSnippet": "독일 National EUDI Wallet은 모바일 기기의 보안 취약점 관리(MDVM) 체계를 통해 전자 신원 인증의 무결성을 유지함\nMDVM은 운영체제와 하드웨어 키 저장소(HKS) 의 취약점을 탐지하고, 위험이 높을 경우 인증 키 사용을 차단함...",
-          "id": "https://news.hada.io/topic?id=28229",
-          "isoDate": "2026-04-05T14:33:21.000Z"
-        },
-        {
-          "title": "Show GN: notion-to-email: Notion 페이지를 이메일 HTML로 변환하는 오픈소스 라이브러리",
-          "link": "https://news.hada.io/topic?id=28228",
-          "pubDate": "2026-04-05T13:25:32.000Z",
-          "author": "wer2774",
-          "content": "<p>Notion 페이지 ID를 넘기면 Gmail, Outlook, Apple Mail에서 정상 렌더링되는<br />\nHTML을 반환하는 TypeScript 라이브러리입니다.</p>\n<pre><code class=\"language-typescript\">import { renderFromNotion } from 'notion-to-email'  \n  \nconst { html, title } = await renderFromNotion({  \n  pageId: 'your-page",
-          "contentSnippet": "Notion 페이지 ID를 넘기면 Gmail, Outlook, Apple Mail에서 정상 렌더링되는\nimport { renderFromNotion } from 'notion-to-email'  \n  \nconst { html, title } = await renderFromNotion({  \n  pageId: 'your-page",
-          "id": "https://news.hada.io/topic?id=28228",
-          "isoDate": "2026-04-05T13:25:32.000Z"
-        },
-        {
-          "title": "로그인 없는 정적 사이트에서 사용자를 구분하는 방법 — AI Agent 식별 고민까지",
-          "link": "https://news.hada.io/topic?id=28226",
-          "pubDate": "2026-04-05T13:00:57.000Z",
-          "author": "neocode24",
-          "content": "<p>Static site에서도 사용자 identity를 만들 수 있을까?</p>\n<p>이 글은 Browser Fingerprinting을 이용한 stateless pseudo identity 개념을 제안합니다.<br />\n•\t로그인 없음<br />\n•\t쿠키 없음<br />\n•\t서버 상태 없음<br />\n•\t정적 사이트</p>\n<p>이 환경에서 브라우저 fingerprint를 기반으로 확률적 사용자 ",
-          "contentSnippet": "Static site에서도 사용자 identity를 만들 수 있을까?\n이 글은 Browser Fingerprinting을 이용한 stateless pseudo identity 개념을 제안합니다.\n이 환경에서 브라우저 fingerprint를 기반으로 확률적 사용자",
-          "id": "https://news.hada.io/topic?id=28226",
-          "isoDate": "2026-04-05T13:00:57.000Z"
         }
       ]
     }
