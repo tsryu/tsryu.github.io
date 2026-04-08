@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: Screening Watch -- 현재 상영중인 영화의 상영관 정보를 한 눈에 확인",
+          "link": "https://news.hada.io/topic?id=28317",
+          "pubDate": "2026-04-08T12:42:20.000Z",
+          "author": "znjadong",
+          "content": "<p>현재 상영중인 영화의 상영관 정보를 한 눈에 확인할 수 있는 웹서비스를 만들었습니다.</p>\n<p>현재 롯데시네마 멀티플렉스와 소규모 독립영화관들을 포함한 162개의 극장에서 데이터를 수집해 영화 개봉관 현황을 한 눈에 파악할 수 있습니다.</p>\n<h3>주요 기능</h3>\n<ul>\n<li>현재 상영중인 영화 목록 및 극장 수",
+          "contentSnippet": "현재 상영중인 영화의 상영관 정보를 한 눈에 확인할 수 있는 웹서비스를 만들었습니다.\n현재 롯데시네마 멀티플렉스와 소규모 독립영화관들을 포함한 162개의 극장에서 데이터를 수집해 영화 개봉관 현황을 한 눈에 파악할 수 있습니다.\n주요 기능\n현재 상영중인 영화 목록 및 극장 수",
+          "id": "https://news.hada.io/topic?id=28317",
+          "isoDate": "2026-04-08T12:42:20.000Z"
+        },
+        {
+          "title": "캄보디아, 지뢰 탐지 영웅 쥐 ‘마가와’ 기념 동상 공개",
+          "link": "https://news.hada.io/topic?id=28316",
+          "pubDate": "2026-04-08T12:32:19.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>캄보디아 시엠립에서 <strong>지뢰 탐지 쥐 마가와(Magawa)</strong> 를 기리는 세계 최초의 동상이 공개됨</li>\n<li>마가와는 5년간 100개 이상의 지뢰와 폭발물을 찾아내며 <strong>141,000㎡의 땅을 정화</strong>한 공로를 남김</li>\n<li>\n<strong>벨기에 자선단체 Apopo</strong>에서 훈련받은 아프리카 자...</p>",
+          "contentSnippet": "캄보디아 시엠립에서 지뢰 탐지 쥐 마가와(Magawa) 를 기리는 세계 최초의 동상이 공개됨\n마가와는 5년간 100개 이상의 지뢰와 폭발물을 찾아내며 141,000㎡의 땅을 정화한 공로를 남김\n벨기에 자선단체 Apopo에서 훈련받은 아프리카 자...",
+          "id": "https://news.hada.io/topic?id=28316",
+          "isoDate": "2026-04-08T12:32:19.000Z"
+        },
+        {
+          "title": "백엔드 코딩 에이전트 개발자가 리뷰한 Claude Code 소스 코드 분석 (AutoBe vs Claude Code)",
+          "link": "https://news.hada.io/topic?id=28315",
+          "pubDate": "2026-04-08T10:24:46.000Z",
+          "author": "autobe",
+          "content": "<p>저는 AutoBe라는 오픈소스 백엔드 자동생성 에이전트를 만들고 있습니다.</p>\n<p>2026년 4월, Anthropic 엔지니어가 <code>.npmignore</code> 없이 <code>npm publish</code>를 실행하는 바람에 Claude Code 전체 소스코드(51만 2천 줄, 1,900개 파일)가 npm에 공개됐습니다. 마침 AutoBE에 오케스트레이션을 본격적으",
+          "contentSnippet": "저는 AutoBe라는 오픈소스 백엔드 자동생성 에이전트를 만들고 있습니다.\n2026년 4월, Anthropic 엔지니어가 .npmignore 없이 npm publish를 실행하는 바람에 Claude Code 전체 소스코드(51만 2천 줄, 1,900개 파일)가 npm에 공개됐습니다. 마침 AutoBE에 오케스트레이션을 본격적으",
+          "id": "https://news.hada.io/topic?id=28315",
+          "isoDate": "2026-04-08T10:24:46.000Z"
+        },
+        {
           "title": "미국과 이란, 호르무즈 해협 재개방을 포함한 임시 휴전 합의",
           "link": "https://news.hada.io/topic?id=28314",
           "pubDate": "2026-04-08T08:32:58.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "Gemma 4는 mixture-of-experts 구조로 일부 파라미터만 활성화해 저사양 하드웨어에서도 고성능 추론을 지원\nLM Studio 0.4.0은 새로운 Headless CLI(llmster) 를 도입해 데스크톱 앱 없이 모델 다운로드·로드·채팅·API 서버...",
           "id": "https://news.hada.io/topic?id=28265",
           "isoDate": "2026-04-06T17:33:27.000Z"
-        },
-        {
-          "title": "Show GN: 나무위키 실검 이유 알려주는 서비스",
-          "link": "https://news.hada.io/topic?id=28263",
-          "pubDate": "2026-04-06T12:33:05.000Z",
-          "author": "laniakea",
-          "content": "<p>나무위키 읽는 걸 좋아하는 유저인데 실검에 뜬 키워드가 왜 떴을까 궁금한 불편함이 자주 있었습니다.</p>\n<p>그래서 만들어봤습니다.</p>\n",
-          "contentSnippet": "나무위키 읽는 걸 좋아하는 유저인데 실검에 뜬 키워드가 왜 떴을까 궁금한 불편함이 자주 있었습니다.\n그래서 만들어봤습니다.",
-          "id": "https://news.hada.io/topic?id=28263",
-          "isoDate": "2026-04-06T12:33:05.000Z"
-        },
-        {
-          "title": "Microsoft는 Petzold 이후 일관된 GUI 전략을 갖지 못했다",
-          "link": "https://news.hada.io/topic?id=28258",
-          "pubDate": "2026-04-06T08:32:54.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>1980년대 후반까지는 <strong>Win16/Win32 API</strong> 중심의 단일 모델로 Windows 앱 개발이 명확했으나, 이후 수십 년간 <strong>일관성 없는 플랫폼 전환</strong>이 반복됨</li>\n<li>\n<strong>Windows GUI 전략의 붕괴</strong>는 특정 기술의 실패가 아니라 팀 간 정치, 개발자 컨퍼런스 중심의 발표 문...</p>",
-          "contentSnippet": "1980년대 후반까지는 Win16/Win32 API 중심의 단일 모델로 Windows 앱 개발이 명확했으나, 이후 수십 년간 일관성 없는 플랫폼 전환이 반복됨\nWindows GUI 전략의 붕괴는 특정 기술의 실패가 아니라 팀 간 정치, 개발자 컨퍼런스 중심의 발표 문...",
-          "id": "https://news.hada.io/topic?id=28258",
-          "isoDate": "2026-04-06T08:32:54.000Z"
-        },
-        {
-          "title": "Show GN: ROACH PI – AI 코딩 에이전트에 엔지니어링 규율을 씌우는 오픈소스 확장",
-          "link": "https://news.hada.io/topic?id=28257",
-          "pubDate": "2026-04-06T07:12:34.000Z",
-          "author": "tmdgusya",
-          "content": "<p>GitHub: https://github.com/tmdgusya/roach-pi</p>\n<hr />\n<p>최근 Claude Code 소스코드가 유출되면서, AI 코딩 에이전트 내부에서 어떤 프롬프트가 주입되고 어떤 동작이 일어나는지 사용자가 전혀 알 수 없다는 점이 다시 화제가 됨</p>\n<p>ROACH PI는 pi 코딩 에이전트(https://github.com/badlogic/pi-mono)의 ",
-          "contentSnippet": "GitHub: https://github.com/tmdgusya/roach-pi\n최근 Claude Code 소스코드가 유출되면서, AI 코딩 에이전트 내부에서 어떤 프롬프트가 주입되고 어떤 동작이 일어나는지 사용자가 전혀 알 수 없다는 점이 다시 화제가 됨\nROACH PI는 pi 코딩 에이전트(https://github.com/badlogic/pi-mono)의",
-          "id": "https://news.hada.io/topic?id=28257",
-          "isoDate": "2026-04-06T07:12:34.000Z"
         }
       ]
     }
