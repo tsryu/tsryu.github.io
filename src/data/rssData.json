@@ -7,6 +7,196 @@
       "priority": 1,
       "data": [
         {
+          "title": "GoClaw: OpenClaw를 Go로 재구성한 멀티 에이전트 게이트웨이 (보안·성능 중심 재설계)",
+          "link": "https://news.hada.io/topic?id=28310",
+          "pubDate": "2026-04-08T03:19:23.000Z",
+          "author": "princox",
+          "content": "<p>최근 에이전트 프레임워크(OpenClaw 계열)가 빠르게 확산되는 가운데, 이를 Go 기반으로 재구성한 GoClaw가 등장했습니다.</p>\n<p>GoClaw는 단순한 포팅이 아니라, 멀티 에이전트 운영을 위한 게이트웨이 레이어를 다시 설계한 프로젝트로, 특히 보안·멀티테넌시·운영 편의성에 초점을 맞춘 것이 특징입니다.</p>\n<p>",
+          "contentSnippet": "최근 에이전트 프레임워크(OpenClaw 계열)가 빠르게 확산되는 가운데, 이를 Go 기반으로 재구성한 GoClaw가 등장했습니다.\nGoClaw는 단순한 포팅이 아니라, 멀티 에이전트 운영을 위한 게이트웨이 레이어를 다시 설계한 프로젝트로, 특히 보안·멀티테넌시·운영 편의성에 초점을 맞춘 것이 특징입니다.",
+          "id": "https://news.hada.io/topic?id=28310",
+          "isoDate": "2026-04-08T03:19:23.000Z"
+        },
+        {
+          "title": "Amazon S3 Files 출시 – S3 버킷을 파일 시스템처럼 접근 가능",
+          "link": "https://news.hada.io/topic?id=28309",
+          "pubDate": "2026-04-08T01:38:27.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>Amazon S3 Files</strong>는 S3 버킷을 <strong>고성능 파일 시스템 형태로 직접 마운트</strong>해 EC2, ECS, EKS, Lambda 등에서 바로 접근할 수 있게 하는 기능</li>\n<li>객체 스토리지의 <strong>내구성과 비용 효율성</strong>을 유지하면서도 <strong>대화형 파일 접근성과 낮은 지연시간(~1ms)...</p>",
+          "contentSnippet": "Amazon S3 Files는 S3 버킷을 고성능 파일 시스템 형태로 직접 마운트해 EC2, ECS, EKS, Lambda 등에서 바로 접근할 수 있게 하는 기능\n객체 스토리지의 내구성과 비용 효율성을 유지하면서도 대화형 파일 접근성과 낮은 지연시간(~1ms)...",
+          "id": "https://news.hada.io/topic?id=28309",
+          "isoDate": "2026-04-08T01:38:27.000Z"
+        },
+        {
+          "title": "아폴로 11 유도 컴퓨터 코드에서 발견된 문서화되지 않은 버그",
+          "link": "https://news.hada.io/topic?id=28308",
+          "pubDate": "2026-04-08T01:32:40.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>57년간 완벽에 가깝다고 여겨졌던 <strong>Apollo Guidance Computer(AGC)</strong> 코드에서 <strong>자원 잠금 해제 누락 버그</strong>가 발견됨</li>\n<li>\n<strong>JUXT 팀</strong>이 AI 명세 언어 <strong>Allium</strong>과 <strong>Claude</strong>를 이용해 13만 줄의 어셈블리를 분석하며, 기존 검증...</p>",
+          "contentSnippet": "57년간 완벽에 가깝다고 여겨졌던 Apollo Guidance Computer(AGC) 코드에서 자원 잠금 해제 누락 버그가 발견됨\nJUXT 팀이 AI 명세 언어 Allium과 Claude를 이용해 13만 줄의 어셈블리를 분석하며, 기존 검증...",
+          "id": "https://news.hada.io/topic?id=28308",
+          "isoDate": "2026-04-08T01:32:40.000Z"
+        },
+        {
+          "title": "Google, 실험적 에이전트 오케스트레이션 테스트베드 Scion 오픈소스 공개",
+          "link": "https://news.hada.io/topic?id=28307",
+          "pubDate": "2026-04-08T01:31:43.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>컨테이너 안에서 동시에 실행되는 LLM 기반 에이전트들을 로컬 머신과 원격 클러스터에 걸쳐 관리하도록 설계된 실험적 플랫폼</li>\n<li>각 에이전트는 <strong>독립된 신원, 자격증명, 워크스페이스</strong>를 가진 격리된 프로세스로 동작하며, 코딩·감사·테스트 등 다양한 목표를 동적·병렬로 추진</li>\n<l...</p>",
+          "contentSnippet": "컨테이너 안에서 동시에 실행되는 LLM 기반 에이전트들을 로컬 머신과 원격 클러스터에 걸쳐 관리하도록 설계된 실험적 플랫폼\n각 에이전트는 독립된 신원, 자격증명, 워크스페이스를 가진 격리된 프로세스로 동작하며, 코딩·감사·테스트 등 다양한 목표를 동적·병렬로 추진",
+          "id": "https://news.hada.io/topic?id=28307",
+          "isoDate": "2026-04-08T01:31:43.000Z"
+        },
+        {
+          "title": "Cloudflare, 2029년까지 완전한 포스트양자 보안 목표",
+          "link": "https://news.hada.io/topic?id=28306",
+          "pubDate": "2026-04-08T01:31:01.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>Cloudflare는 <strong>2029년까지 모든 제품의 인증과 암호화 체계를 포스트양자 보안으로 전환</strong>하는 목표를 세우고, <strong>Q-Day(양자컴퓨터가 기존 암호를 깨는 시점)에 대비한 일정을 가속화</strong>함</li>\n<li>현재 트래픽의 <strong>65% 이상이 포스트양자 암호화</strong>를 사용하지만, 인증...</p>",
+          "contentSnippet": "Cloudflare는 2029년까지 모든 제품의 인증과 암호화 체계를 포스트양자 보안으로 전환하는 목표를 세우고, Q-Day(양자컴퓨터가 기존 암호를 깨는 시점)에 대비한 일정을 가속화함\n현재 트래픽의 65% 이상이 포스트양자 암호화를 사용하지만, 인증...",
+          "id": "https://news.hada.io/topic?id=28306",
+          "isoDate": "2026-04-08T01:31:01.000Z"
+        },
+        {
+          "title": "S3 Files와 변화하는 S3의 모습",
+          "link": "https://news.hada.io/topic?id=28305",
+          "pubDate": "2026-04-08T01:30:01.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>대규모 데이터 이동의 비효율을 줄이기 위해, <strong>S3 데이터를 파일 시스템처럼 직접 접근</strong>할 수 있게 하는 <strong>S3 Files</strong>가 도입됨</li>\n<li>이 기능은 <strong>Amazon EFS와 S3를 통합</strong>하여 EC2, 컨테이너, Lambda 등에서 <strong>S3 버킷을 NFS로 마운트</strong>해 읽기·�...</p>",
+          "contentSnippet": "대규모 데이터 이동의 비효율을 줄이기 위해, S3 데이터를 파일 시스템처럼 직접 접근할 수 있게 하는 S3 Files가 도입됨\n이 기능은 Amazon EFS와 S3를 통합하여 EC2, 컨테이너, Lambda 등에서 S3 버킷을 NFS로 마운트해 읽기·�...",
+          "id": "https://news.hada.io/topic?id=28305",
+          "isoDate": "2026-04-08T01:30:01.000Z"
+        },
+        {
+          "title": "달 궤도 비행",
+          "link": "https://news.hada.io/topic?id=28304",
+          "pubDate": "2026-04-08T01:28:54.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>Artemis II 우주비행사들이 달 궤도 비행 중 촬영한 첫 번째 사진</strong>이 공개되어, 인류가 처음 보는 달의 뒷면과 <strong>우주 공간의 일식 장면</strong>이 포함됨</li>\n<li>\n<strong>Orion 우주선 창문을 통해 포착된 지구와 달의 다양한 장면</strong>에는 Earthset과 Earthrise, 그리고 <st...</p>",
+          "contentSnippet": "Artemis II 우주비행사들이 달 궤도 비행 중 촬영한 첫 번째 사진이 공개되어, 인류가 처음 보는 달의 뒷면과 우주 공간의 일식 장면이 포함됨\nOrion 우주선 창문을 통해 포착된 지구와 달의 다양한 장면에는 Earthset과 Earthrise, 그리고",
+          "id": "https://news.hada.io/topic?id=28304",
+          "isoDate": "2026-04-08T01:28:54.000Z"
+        },
+        {
+          "title": "코드 에이전트 오케스트라 - 멀티 에이전트 코딩을 제대로 작동시키는 법",
+          "link": "https://news.hada.io/topic?id=28303",
+          "pubDate": "2026-04-08T01:05:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>단일 AI 어시스턴트와 동기적 루프로 협업하던 방식에서, 여러 에이전트가 각자의 <strong>컨텍스트 윈도우와 파일 범위</strong>를 가지고 비동기적으로 동작하는 오케스트레이터 모델로의 전환이 2026년 현재 진행 중</li>\n<li>서브에이전트(Subagents), <strong>에이전트 팀(Agent Teams)</strong>, 계층적 ...</p>",
+          "contentSnippet": "단일 AI 어시스턴트와 동기적 루프로 협업하던 방식에서, 여러 에이전트가 각자의 컨텍스트 윈도우와 파일 범위를 가지고 비동기적으로 동작하는 오케스트레이터 모델로의 전환이 2026년 현재 진행 중\n서브에이전트(Subagents), 에이전트 팀(Agent Teams), 계층적 ...",
+          "id": "https://news.hada.io/topic?id=28303",
+          "isoDate": "2026-04-08T01:05:02.000Z"
+        },
+        {
+          "title": "이제 Google Vids Screen Recorder Chrome 확장으로 직접 화면 녹화 가능",
+          "link": "https://news.hada.io/topic?id=28302",
+          "pubDate": "2026-04-08T00:58:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Chrome 확장 프로그램 하나로 <strong>별도 앱 없이 브라우저 어느 탭에서나</strong> 클릭 한 번으로 화면 녹화를 시작할 수 있는 기능이 Google Vids에 추가됨</li>\n<li>이번 업데이트는 화면 녹화 확장 외에도 <strong>Veo 3.1 기반 영상 생성, Lyria 3 기반 커스텀 음악, AI 아바타</strong> 등 대규모 AI ...</p>",
+          "contentSnippet": "Chrome 확장 프로그램 하나로 별도 앱 없이 브라우저 어느 탭에서나 클릭 한 번으로 화면 녹화를 시작할 수 있는 기능이 Google Vids에 추가됨\n이번 업데이트는 화면 녹화 확장 외에도 Veo 3.1 기반 영상 생성, Lyria 3 기반 커스텀 음악, AI 아바타 등 대규모 AI ...",
+          "id": "https://news.hada.io/topic?id=28302",
+          "isoDate": "2026-04-08T00:58:01.000Z"
+        },
+        {
+          "title": "프롬프트에서 하네스까지 - AI 에이전틱 패턴 4년의 기록",
+          "link": "https://news.hada.io/topic?id=28301",
+          "pubDate": "2026-04-08T00:46:01.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>2022~2026년, AI 개발 패러다임이 세 번 전환됨: <strong>Prompt Engineering → Context Engineering → Harness Engineering</strong>\n</li>\n<li>각 전환은 이전 패러다임이 약속을 지키지 못한 실패에서 비롯되었으며, <strong>엔지니어링의 엄밀함</strong>은 사라진 것이 아니라 프롬프트에서 컨텍스트로,...</p>",
+          "contentSnippet": "2022~2026년, AI 개발 패러다임이 세 번 전환됨: Prompt Engineering → Context Engineering → Harness Engineering\n\n각 전환은 이전 패러다임이 약속을 지키지 못한 실패에서 비롯되었으며, 엔지니어링의 엄밀함은 사라진 것이 아니라 프롬프트에서 컨텍스트로,...",
+          "id": "https://news.hada.io/topic?id=28301",
+          "isoDate": "2026-04-08T00:46:01.000Z"
+        },
+        {
+          "title": "Claude Mythos Preview 시스템 카드",
+          "link": "https://news.hada.io/topic?id=28300",
+          "pubDate": "2026-04-08T00:45:15.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Anthropic이 개발한 <strong>Claude Mythos Preview</strong>는 이전 세대보다 <strong>추론·소프트웨어 엔지니어링·지식 작업</strong> 등에서 크게 향상된 <strong>대형 언어 모델</strong>임</li>\n<li>\n<strong>사이버보안 탐지와 방어 능력</strong>이 매우 강력해, <strong>공격적 활용 위험</strong> 때문...</p>",
+          "contentSnippet": "Anthropic이 개발한 Claude Mythos Preview는 이전 세대보다 추론·소프트웨어 엔지니어링·지식 작업 등에서 크게 향상된 대형 언어 모델임\n사이버보안 탐지와 방어 능력이 매우 강력해, 공격적 활용 위험 때문...",
+          "id": "https://news.hada.io/topic?id=28300",
+          "isoDate": "2026-04-08T00:45:15.000Z"
+        },
+        {
+          "title": "우린 이미 ‘Idiocracy’인가?",
+          "link": "https://news.hada.io/topic?id=28299",
+          "pubDate": "2026-04-08T00:42:15.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>2006년 영화 <strong>‘Idiocracy’</strong> 의 디스토피아적 미래와 현재 사회를 비교한 <strong>‘Idiocracy Proximity Index’</strong> 가 공개되어, 현실 유사도를 수치로 제시함</li>\n<li>정치, 기업, 교육, 과학, 환경, 문화 등 전 영역에서 영화 속 설정과 실제 사례를 나란히 배치해 <strong>평균 유...</p>",
+          "contentSnippet": "2006년 영화 ‘Idiocracy’ 의 디스토피아적 미래와 현재 사회를 비교한 ‘Idiocracy Proximity Index’ 가 공개되어, 현실 유사도를 수치로 제시함\n정치, 기업, 교육, 과학, 환경, 문화 등 전 영역에서 영화 속 설정과 실제 사례를 나란히 배치해 평균 유...",
+          "id": "https://news.hada.io/topic?id=28299",
+          "isoDate": "2026-04-08T00:42:15.000Z"
+        },
+        {
+          "title": "2026년, 테크 커리어를 어떻게 유지해야 하는가?",
+          "link": "https://news.hada.io/topic?id=28298",
+          "pubDate": "2026-04-08T00:40:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>ChatGPT 출시 이후 <strong>50만 명의 테크 워커</strong>가 해고되며 역대 최악의 구직 시장이 형성됐음에도, AI 붐의 수혜는 실제 기술을 만드는 사람들에게 돌아가지 않고 있음</li>\n<li>수많은 주요 테크 기업 리더들이 과거에 표방했던 원칙을 버리고, 직원·고객을 외면한 채 <strong>도덕적·사회적 비겁함...</p>",
+          "contentSnippet": "ChatGPT 출시 이후 50만 명의 테크 워커가 해고되며 역대 최악의 구직 시장이 형성됐음에도, AI 붐의 수혜는 실제 기술을 만드는 사람들에게 돌아가지 않고 있음\n수많은 주요 테크 기업 리더들이 과거에 표방했던 원칙을 버리고, 직원·고객을 외면한 채 도덕적·사회적 비겁함...",
+          "id": "https://news.hada.io/topic?id=28298",
+          "isoDate": "2026-04-08T00:40:02.000Z"
+        },
+        {
+          "title": "브루탈리스트 콘크리트 노트북 거치대 (2024)",
+          "link": "https://news.hada.io/topic?id=28297",
+          "pubDate": "2026-04-08T00:39:15.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>1960년대 <strong>브루탈리즘 건축 미학</strong>을 콘크리트로 구현한 노트북 거치대로, 거칠고 노출된 표면 질감이 특징</li>\n<li>\n<strong>2개의 USB 포트</strong>, <strong>3핀 소켓</strong>, <strong>식물 화분</strong>을 통합해 기능성과 조형미를 결합</li>\n<li>표면은 의도적으로 불균질하게 타설하...</p>",
+          "contentSnippet": "1960년대 브루탈리즘 건축 미학을 콘크리트로 구현한 노트북 거치대로, 거칠고 노출된 표면 질감이 특징\n2개의 USB 포트, 3핀 소켓, 식물 화분을 통합해 기능성과 조형미를 결합\n표면은 의도적으로 불균질하게 타설하...",
+          "id": "https://news.hada.io/topic?id=28297",
+          "isoDate": "2026-04-08T00:39:15.000Z"
+        },
+        {
+          "title": "GLM-5.1: 장기적 과제 수행을 향한 진화",
+          "link": "https://news.hada.io/topic?id=28296",
+          "pubDate": "2026-04-08T00:37:25.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>차세대 <strong>에이전틱 엔지니어링 모델 GLM-5.1</strong>은 코딩과 문제 해결 능력을 대폭 강화한 플래그십 버전으로, <strong>장기적 최적화와 지속적 개선</strong>을 핵심으로 설계됨</li>\n<li>\n<strong>SWE-Bench Pro</strong>, <strong>NL2Repo</strong>, <strong>Terminal-Bench 2.0</strong> 등 주요...</p>",
+          "contentSnippet": "차세대 에이전틱 엔지니어링 모델 GLM-5.1은 코딩과 문제 해결 능력을 대폭 강화한 플래그십 버전으로, 장기적 최적화와 지속적 개선을 핵심으로 설계됨\nSWE-Bench Pro, NL2Repo, Terminal-Bench 2.0 등 주요...",
+          "id": "https://news.hada.io/topic?id=28296",
+          "isoDate": "2026-04-08T00:37:25.000Z"
+        },
+        {
+          "title": "Project Glasswing: AI 시대의 핵심 소프트웨어 보안을 위한 글로벌 협력",
+          "link": "https://news.hada.io/topic?id=28295",
+          "pubDate": "2026-04-08T00:36:15.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Amazon, Apple, Google, Microsoft 등 주요 기술 기업이 참여한 <strong>Project Glasswing</strong>은 AI를 활용해 전 세계 <strong>핵심 소프트웨어의 보안 취약점을 탐지하고 방어</strong>하는 협력 이니셔티브임</li>\n<li>Anthropic의 <strong>Claude Mythos 2 Preview</strong> 모델이 중심 역할을 하며,...</p>",
+          "contentSnippet": "Amazon, Apple, Google, Microsoft 등 주요 기술 기업이 참여한 Project Glasswing은 AI를 활용해 전 세계 핵심 소프트웨어의 보안 취약점을 탐지하고 방어하는 협력 이니셔티브임\nAnthropic의 Claude Mythos 2 Preview 모델이 중심 역할을 하며,...",
+          "id": "https://news.hada.io/topic?id=28295",
+          "isoDate": "2026-04-08T00:36:15.000Z"
+        },
+        {
+          "title": "agent-skills - AI 코딩 에이전트를 위한 프로덕션급 엔지니어링 스킬 모음",
+          "link": "https://news.hada.io/topic?id=28294",
+          "pubDate": "2026-04-08T00:31:02.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>AI 코딩 에이전트가 <strong>스펙·테스트·보안 리뷰를 건너뛰는 문제를 해결</strong>하기 위해, 구글 클라우드 AI 디렉터 Addy Osmani가 <strong>시니어 엔지니어 수준의 워크플로우</strong>를 구조화된 스킬로 패키징한 오픈소스</li>\n<li>개발 생명주기 전체(정의→계획→빌드→검증→리뷰→배포)에 대응하...</p>",
+          "contentSnippet": "AI 코딩 에이전트가 스펙·테스트·보안 리뷰를 건너뛰는 문제를 해결하기 위해, 구글 클라우드 AI 디렉터 Addy Osmani가 시니어 엔지니어 수준의 워크플로우를 구조화된 스킬로 패키징한 오픈소스\n개발 생명주기 전체(정의→계획→빌드→검증→리뷰→배포)에 대응하...",
+          "id": "https://news.hada.io/topic?id=28294",
+          "isoDate": "2026-04-08T00:31:02.000Z"
+        },
+        {
+          "title": "Anthropic의 최강 보안 AI &quot;Claude Mythos&quot;, 일반 공개 대신 선택된 파트너에게만 제한 배포",
+          "link": "https://news.hada.io/topic?id=28293",
+          "pubDate": "2026-04-08T00:25:59.000Z",
+          "author": "darjeeling",
+          "content": "<p>Anthropic이 신규 모델 <strong>Claude Mythos</strong>를 일반에 공개하지 않고, <strong>&quot;프로젝트 글래스윙(Project Glasswing)&quot;</strong> 이라는 제한적 프리뷰 프로그램을 통해 선별된 보안 연구 파트너에게만 배포하기로 했다. 이유는 단순하다. 이 모델의 사이버 보안 취약점 탐지 능력이 너무 강력...</p>",
+          "contentSnippet": "Anthropic이 신규 모델 Claude Mythos를 일반에 공개하지 않고, \"프로젝트 글래스윙(Project Glasswing)\" 이라는 제한적 프리뷰 프로그램을 통해 선별된 보안 연구 파트너에게만 배포하기로 했다. 이유는 단순하다. 이 모델의 사이버 보안 취약점 탐지 능력이 너무 강력...",
+          "id": "https://news.hada.io/topic?id=28293",
+          "isoDate": "2026-04-08T00:25:59.000Z"
+        },
+        {
+          "title": "YouTube 고급 검색 - Playlists.at",
+          "link": "https://news.hada.io/topic?id=28292",
+          "pubDate": "2026-04-07T20:33:09.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>YouTube 영상을 세밀하게 찾을 수 있는 <strong>고급 검색 인터페이스</strong>를 제공하는 웹 도구</li>\n<li>\n<strong>검색 접두어(prefix)</strong> 를 활용해 일반 검색보다 정교한 결과를 얻을 수 있음</li>\n<li>결과는 <strong>플레이리스트 형태</strong>로 표시되며, 포함된 영상 수가 함께 표시됨</li>...</p>",
+          "contentSnippet": "YouTube 영상을 세밀하게 찾을 수 있는 고급 검색 인터페이스를 제공하는 웹 도구\n검색 접두어(prefix) 를 활용해 일반 검색보다 정교한 결과를 얻을 수 있음\n결과는 플레이리스트 형태로 표시되며, 포함된 영상 수가 함께 표시됨\n...",
+          "id": "https://news.hada.io/topic?id=28292",
+          "isoDate": "2026-04-07T20:33:09.000Z"
+        },
+        {
           "title": "독일 경찰, GandCrab·REvil 랜섬웨어 조직의 러시아인 수장 실명 공개",
           "link": "https://news.hada.io/topic?id=28291",
           "pubDate": "2026-04-07T19:36:36.000Z",
@@ -21,8 +211,8 @@
           "link": "https://news.hada.io/topic?id=28290",
           "pubDate": "2026-04-07T19:33:36.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>Windows와 macOS에서 <strong>Adobe Creative Cloud</strong> 설치 시 시스템의 <strong>hosts 파일이 자동 변경</strong>되어, 웹사이트 방문 시 설치 여부를 감지하는 구조임</li>\n<li>[adobe.com/home] 접속 시 자바스크립트가 <strong>detect-ccd.creativecloud.adobe.com</strong>의 이미지를 요청하며, h...</p>",
-          "contentSnippet": "Windows와 macOS에서 Adobe Creative Cloud 설치 시 시스템의 hosts 파일이 자동 변경되어, 웹사이트 방문 시 설치 여부를 감지하는 구조임\n[adobe.com/home] 접속 시 자바스크립트가 detect-ccd.creativecloud.adobe.com의 이미지를 요청하며, h...",
+          "content": "<ul>\n<li>윈도우/맥에서 <strong>Adobe CC</strong> 설치 시 시스템의 <strong>hosts 파일이 자동 변경</strong>됨</li>\n<li>Adobe 웹사이트 접속 시 자바스크립트가 <strong>특정 어도비 서버</strong>의 이미지를 요청하며, hosts 파일 항목 존재 여부로 <strong>CC 설치 상태를 판별</strong>함</li>\n<li>과거에는 <s...</p>",
+          "contentSnippet": "윈도우/맥에서 Adobe CC 설치 시 시스템의 hosts 파일이 자동 변경됨\nAdobe 웹사이트 접속 시 자바스크립트가 특정 어도비 서버의 이미지를 요청하며, hosts 파일 항목 존재 여부로 CC 설치 상태를 판별함\n과거에는",
           "id": "https://news.hada.io/topic?id=28290",
           "isoDate": "2026-04-07T19:33:36.000Z"
         },
@@ -315,196 +505,6 @@
           "contentSnippet": "HWP/HWPX 파일을 오픈소스로 읽고 편집할 수 있는 Rust 기반 프로젝트입니다.\nHWP 5.0 바이너리와 HWPX(XML) 포맷 모두 파싱 지원\nWebAssembly로 브라우저에서 직접 실행 가능하며, npm 패키지(@rhwp/editor, @rhwp/core)로 제공\n문단, 표, 수식, 이미지, 차트 렌더링과 다단 레이아웃",
           "id": "https://news.hada.io/topic?id=28254",
           "isoDate": "2026-04-06T05:11:34.000Z"
-        },
-        {
-          "title": "이제 Ubuntu가 Windows 11보다 더 많은 기본 RAM을 요구하게 됐다",
-          "link": "https://news.hada.io/topic?id=28253",
-          "pubDate": "2026-04-06T05:05:45.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>Ubuntu 26.04 LTS</strong>는 최소 메모리 요구 사항을 6GB로 상향해, Windows 11의 공식 최소 사양인 <strong>4GB</strong>를 처음으로 초과하게 됨</li>\n<li>Ubuntu 14.04의 1GB, 18.04의 4GB에 이어 10년 넘는 기간 동안 <strong>세 번째 요구 사양 조정</strong>이며, 이번에는 이전 버전 대비 <s...</p>",
-          "contentSnippet": "Ubuntu 26.04 LTS는 최소 메모리 요구 사항을 6GB로 상향해, Windows 11의 공식 최소 사양인 4GB를 처음으로 초과하게 됨\nUbuntu 14.04의 1GB, 18.04의 4GB에 이어 10년 넘는 기간 동안 세 번째 요구 사양 조정이며, 이번에는 이전 버전 대비",
-          "id": "https://news.hada.io/topic?id=28253",
-          "isoDate": "2026-04-06T05:05:45.000Z"
-        },
-        {
-          "title": "만약 당신이 클로드 블루 때문에 힘들다면",
-          "link": "https://news.hada.io/topic?id=28252",
-          "pubDate": "2026-04-06T04:52:22.000Z",
-          "author": "kciter1",
-          "content": "<ul>\n<li>AI의 급격한 발전으로 전문성이 대체되는 데서 오는 심리적 우울감을 느끼는 개발자들이 많아짐</li>\n<li>이러한 우울감을 느끼는 개발자가 많아지면서 <strong>클로드 블루</strong>라는 이름이 붙게됨</li>\n<li>또한 매일 쏟아지는 신조어가 개발자들의 <strong>FOMO와 불안</strong>을 가중시키고 있음</li>...</p>",
-          "contentSnippet": "AI의 급격한 발전으로 전문성이 대체되는 데서 오는 심리적 우울감을 느끼는 개발자들이 많아짐\n이러한 우울감을 느끼는 개발자가 많아지면서 클로드 블루라는 이름이 붙게됨\n또한 매일 쏟아지는 신조어가 개발자들의 FOMO와 불안을 가중시키고 있음\n...",
-          "id": "https://news.hada.io/topic?id=28252",
-          "isoDate": "2026-04-06T04:52:22.000Z"
-        },
-        {
-          "title": "핀란드식 사우나 열 노출은 사이토카인 반응보다 더 강한 면역세포 반응을 유도함",
-          "link": "https://news.hada.io/topic?id=28250",
-          "pubDate": "2026-04-06T03:32:57.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>핀란드식 사우나의 고온 환경</strong>이 인체 면역 체계에 미치는 생리적 변화를 분석</li>\n<li>연구에서 <strong>면역세포의 활성화 수준</strong>이 <strong>사이토카인 반응</strong>보다 더 뚜렷하게 증가함</li>\n<li>이는 열 자극이 <strong>세포 단위의 면역 반응</strong>을 직접 촉진할 수 있...</p>",
-          "contentSnippet": "핀란드식 사우나의 고온 환경이 인체 면역 체계에 미치는 생리적 변화를 분석\n연구에서 면역세포의 활성화 수준이 사이토카인 반응보다 더 뚜렷하게 증가함\n이는 열 자극이 세포 단위의 면역 반응을 직접 촉진할 수 있...",
-          "id": "https://news.hada.io/topic?id=28250",
-          "isoDate": "2026-04-06T03:32:57.000Z"
-        },
-        {
-          "title": "원하는 일을 진짜로 해내는 사람들의 한 가지 차이는 자기 관련성 판단 능력임",
-          "link": "https://news.hada.io/topic?id=28248",
-          "pubDate": "2026-04-06T01:41:46.000Z",
-          "author": "jkklll",
-          "content": "<p>러닝이나 헬스를 꾸준히 못하는 이유는 의지력 부족이 아님. 뇌가 그 일을 &quot;나다운 일&quot;로 인식하지 못하기 때문임.<br />\n펜실베이니아대 신경과학자 에밀리 폴크(Emily Falk) 교수의 저서 What We Value에 따르면, 뇌는 모든 선택지에 주관적 가치를 매기는데, 이때 가장 강력하게 작동하는 게 자기 관련성...</p>",
-          "contentSnippet": "러닝이나 헬스를 꾸준히 못하는 이유는 의지력 부족이 아님. 뇌가 그 일을 \"나다운 일\"로 인식하지 못하기 때문임.\n펜실베이니아대 신경과학자 에밀리 폴크(Emily Falk) 교수의 저서 What We Value에 따르면, 뇌는 모든 선택지에 주관적 가치를 매기는데, 이때 가장 강력하게 작동하는 게 자기 관련성...",
-          "id": "https://news.hada.io/topic?id=28248",
-          "isoDate": "2026-04-06T01:41:46.000Z"
-        },
-        {
-          "title": "Google Workspace 계정 정지로 인한 업무 마비 사례",
-          "link": "https://news.hada.io/topic?id=28247",
-          "pubDate": "2026-04-06T01:33:14.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Google Workspace 계정이 해킹 의심으로 정지되며 이메일과 서비스 접근이 차단된 사건</strong>으로, DNS 인증으로 도메인 소유를 증명했음에도 복구가 지연됨</li>\n<li>단일 관리자 계정이 <strong>이메일·Drive·Calendar·급여·CRM 등 모든 업무 시스템의 인증 허브</strong>로 작동해, 정지 즉시 전...</p>",
-          "contentSnippet": "Google Workspace 계정이 해킹 의심으로 정지되며 이메일과 서비스 접근이 차단된 사건으로, DNS 인증으로 도메인 소유를 증명했음에도 복구가 지연됨\n단일 관리자 계정이 이메일·Drive·Calendar·급여·CRM 등 모든 업무 시스템의 인증 허브로 작동해, 정지 즉시 전...",
-          "id": "https://news.hada.io/topic?id=28247",
-          "isoDate": "2026-04-06T01:33:14.000Z"
-        },
-        {
-          "title": "Awesome Design.MD - 유명 웹사이트 디자인 시스템을 내 사이트에 적용하기",
-          "link": "https://news.hada.io/topic?id=28246",
-          "pubDate": "2026-04-06T01:21:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>DESIGN.md</strong>는 <a href=\"https://news.hada.io/topic?id=27635\">Google Stitch가 도입한 개념</a>으로, AI 에이전트가 읽고 일관된 UI를 생성하기 위한 <strong>텍스트 디자인 문서</strong>\n</li>\n<li>Figma, JSON 스키마, 별도 툴링 없이 <strong>마크다운 파일 하나</strong>만 프로젝트 루...</p>",
-          "contentSnippet": "DESIGN.md는 Google Stitch가 도입한 개념으로, AI 에이전트가 읽고 일관된 UI를 생성하기 위한 텍스트 디자인 문서\n\nFigma, JSON 스키마, 별도 툴링 없이 마크다운 파일 하나만 프로젝트 루...",
-          "id": "https://news.hada.io/topic?id=28246",
-          "isoDate": "2026-04-06T01:21:02.000Z"
-        },
-        {
-          "title": "rtk - LLM 토큰 소비를 60~90% 줄여주는 CLI 프록시",
-          "link": "https://news.hada.io/topic?id=28245",
-          "pubDate": "2026-04-06T01:06:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>AI 코딩 도구가 실행하는 CLI 명령어 출력을 LLM에 전달하기 전에 <strong>필터링·압축</strong>해 토큰을 <strong>60~90% 절감</strong>하는 단일 Rust 바이너리(윈/맥/리눅스)</li>\n<li>git, grep, ls, cargo test 등 <strong>100개 이상의 명령어</strong>를 지원하며, 명령어 출력을 LLM 컨텍스트에 전달하...</p>",
-          "contentSnippet": "AI 코딩 도구가 실행하는 CLI 명령어 출력을 LLM에 전달하기 전에 필터링·압축해 토큰을 60~90% 절감하는 단일 Rust 바이너리(윈/맥/리눅스)\ngit, grep, ls, cargo test 등 100개 이상의 명령어를 지원하며, 명령어 출력을 LLM 컨텍스트에 전달하...",
-          "id": "https://news.hada.io/topic?id=28245",
-          "isoDate": "2026-04-06T01:06:02.000Z"
-        },
-        {
-          "title": "BrowserStack에서 사용자 이메일 주소가 유출되고 있음",
-          "link": "https://news.hada.io/topic?id=28244",
-          "pubDate": "2026-04-06T00:56:05.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>서비스별로 <strong>고유 이메일 주소를 생성해 추적</strong>한 결과, BrowserStack 전용 주소로 제3자 발신 메일이 도착함</li>\n<li>BrowserStack 오픈소스 프로그램 가입 후, <strong>Apollo.io를 통해 발송된 외부 메일</strong>이 해당 주소로 수신됨</li>\n<li>Apollo.io는 처음엔 <strong>공개 정보 기반...</p>",
-          "contentSnippet": "서비스별로 고유 이메일 주소를 생성해 추적한 결과, BrowserStack 전용 주소로 제3자 발신 메일이 도착함\nBrowserStack 오픈소스 프로그램 가입 후, Apollo.io를 통해 발송된 외부 메일이 해당 주소로 수신됨\nApollo.io는 처음엔 공개 정보 기반...",
-          "id": "https://news.hada.io/topic?id=28244",
-          "isoDate": "2026-04-06T00:56:05.000Z"
-        },
-        {
-          "title": "Google AI Edge Gallery - 완전 오프라인 LLM 갤러리 앱 오픈소스",
-          "link": "https://news.hada.io/topic?id=28242",
-          "pubDate": "2026-04-06T00:51:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>온디바이스 생성형 AI</strong> 실행에 특화된 iOS/안드로이드 앱으로, 인터넷 연결 없이 <strong>완전 오프라인·프라이빗</strong> 환경에서 LLM을 구동</li>\n<li>\n<strong>Gemma 4 패밀리</strong> 공식 지원 추가 - 서버 전송 없이 고급 추론·논리·창작 기능 테스트 가능</li>\n<li>\n<strong>Agent ...</p>",
-          "contentSnippet": "온디바이스 생성형 AI 실행에 특화된 iOS/안드로이드 앱으로, 인터넷 연결 없이 완전 오프라인·프라이빗 환경에서 LLM을 구동\nGemma 4 패밀리 공식 지원 추가 - 서버 전송 없이 고급 추론·논리·창작 기능 테스트 가능\nAgent ...",
-          "id": "https://news.hada.io/topic?id=28242",
-          "isoDate": "2026-04-06T00:51:01.000Z"
-        },
-        {
-          "title": "AWS 엔지니어, Linux 7.0에서 PostgreSQL 성능이 절반으로 감소했다고 보고 – 수정이 쉽지 않을 수 있음",
-          "link": "https://news.hada.io/topic?id=28241",
-          "pubDate": "2026-04-06T00:50:05.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Linux 7.0 개발 커널에서 PostgreSQL 데이터베이스 서버의 <strong>처리량이 이전 커널 대비 약 절반 수준</strong>으로 떨어지는 <strong>심각한 성능 회귀</strong>가 Amazon/AWS 엔지니어에 의해 발견됨</li>\n<li>Graviton4 서버에서 측정한 결과, Linux 7.0은 이전 커널 대비 <strong>약 0.51배의 처리량...</p>",
-          "contentSnippet": "Linux 7.0 개발 커널에서 PostgreSQL 데이터베이스 서버의 처리량이 이전 커널 대비 약 절반 수준으로 떨어지는 심각한 성능 회귀가 Amazon/AWS 엔지니어에 의해 발견됨\nGraviton4 서버에서 측정한 결과, Linux 7.0은 이전 커널 대비 약 0.51배의 처리량...",
-          "id": "https://news.hada.io/topic?id=28241",
-          "isoDate": "2026-04-06T00:50:05.000Z"
-        },
-        {
-          "title": "아르테미스 II 승무원, 달의 뒷면 첫 관측",
-          "link": "https://news.hada.io/topic?id=28240",
-          "pubDate": "2026-04-06T00:47:05.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>NASA의 아르테미스 II 임무 승무원</strong>이 인류 최초로 달의 뒷면을 직접 관측하며 역사적 순간을 기록함</li>\n<li>\n<strong>오리온(Orion) 우주선</strong>을 이용해 달의 뒷면을 돌아 지구로 귀환하는 비행 중 관측이 이루어짐</li>\n<li>승무원 <strong>Christina Koch</strong>는 “익숙한 달이...</p>",
-          "contentSnippet": "NASA의 아르테미스 II 임무 승무원이 인류 최초로 달의 뒷면을 직접 관측하며 역사적 순간을 기록함\n오리온(Orion) 우주선을 이용해 달의 뒷면을 돌아 지구로 귀환하는 비행 중 관측이 이루어짐\n승무원 Christina Koch는 “익숙한 달이...",
-          "id": "https://news.hada.io/topic?id=28240",
-          "isoDate": "2026-04-06T00:47:05.000Z"
-        },
-        {
-          "title": "8년의 갈망, 3개월의 완성 - AI가 바꾼 사이드 프로젝트의 공식",
-          "link": "https://news.hada.io/topic?id=28239",
-          "pubDate": "2026-04-06T00:44:05.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>오랫동안 부족했던 <strong>SQLite용 고품질 개발 도구</strong>를 AI의 도움으로 단기간에 완성</li>\n<li>\n<strong>공식 문법 명세 부재와 복잡한 C 코드베이스</strong>로 인해 파서 구축이 가장 큰 난관이었음</li>\n<li>\n<strong>Claude Code 등 AI 코딩 에이전트</strong>를 활용해 초기 구현을 빠르게 진행...</p>",
-          "contentSnippet": "오랫동안 부족했던 SQLite용 고품질 개발 도구를 AI의 도움으로 단기간에 완성\n공식 문법 명세 부재와 복잡한 C 코드베이스로 인해 파서 구축이 가장 큰 난관이었음\nClaude Code 등 AI 코딩 에이전트를 활용해 초기 구현을 빠르게 진행...",
-          "id": "https://news.hada.io/topic?id=28239",
-          "isoDate": "2026-04-06T00:44:05.000Z"
-        },
-        {
-          "title": "Caveman - 원시인 말투로 Claude/Codex 토큰 절약하기",
-          "link": "https://news.hada.io/topic?id=28238",
-          "pubDate": "2026-04-06T00:41:05.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>원시인 말투</strong>로 응답하도록 강제해 평균 <strong>65~75%의 출력 토큰을 절감</strong>하는 스킬</li>\n<li>\n<strong>Lite·Full·Ultra</strong> 세 단계로 압축 강도를 조절하며, 기술적 정확성을 유지한 채 <strong>짧고 효율적인 답변</strong> 생성</li>\n<li>실제 벤치마크에서 <strong>Reac...</p>",
-          "contentSnippet": "원시인 말투로 응답하도록 강제해 평균 65~75%의 출력 토큰을 절감하는 스킬\nLite·Full·Ultra 세 단계로 압축 강도를 조절하며, 기술적 정확성을 유지한 채 짧고 효율적인 답변 생성\n실제 벤치마크에서 Reac...",
-          "id": "https://news.hada.io/topic?id=28238",
-          "isoDate": "2026-04-06T00:41:05.000Z"
-        },
-        {
-          "title": "기계는 괜찮아요. 나는 우리가 걱정됩니다.",
-          "link": "https://news.hada.io/topic?id=28237",
-          "pubDate": "2026-04-06T00:38:05.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>AI 도구가 연구 전 과정을 자동화하면서 <strong>이해 없이 결과만 생산하는 연구자</strong>가 늘어나며, 진짜 위기는 기술의 한계가 아니라 <strong>인간의 학습 과정 자체가 우회되는 구조</strong>에 있음</li>\n<li>학계의 <strong>정량적 평가 체계</strong>가 이런 변화를 부추기며, 사고력보다 <strong>...</p>",
-          "contentSnippet": "AI 도구가 연구 전 과정을 자동화하면서 이해 없이 결과만 생산하는 연구자가 늘어나며, 진짜 위기는 기술의 한계가 아니라 인간의 학습 과정 자체가 우회되는 구조에 있음\n학계의 정량적 평가 체계가 이런 변화를 부추기며, 사고력보다 ...",
-          "id": "https://news.hada.io/topic?id=28237",
-          "isoDate": "2026-04-06T00:38:05.000Z"
-        },
-        {
-          "title": "Show GN: 모두를 위한 투자 - 흩어진 정보를 한 곳에, 근데 AI 분석을 곁들인",
-          "link": "https://news.hada.io/topic?id=28235",
-          "pubDate": "2026-04-05T23:35:02.000Z",
-          "author": "firstseethesun",
-          "content": "<p>차트를 드래그하면 그 기간에 무슨 일이 있었는지 바로 볼 수 있는 위키형 투자 정보 사이트를 만들었어요</p>\n<p><strong>만들게 된 계기</strong>:<br />\n매일 주가 변동하면 왜 그런지 알려고 뉴스, 증권사 리포트, 커뮤니티를 뒤지기 바빴습니다.<br />\n저뿐만 아니라 수많은 투자자들이 똑같은 행동을 반복하고 ",
-          "contentSnippet": "차트를 드래그하면 그 기간에 무슨 일이 있었는지 바로 볼 수 있는 위키형 투자 정보 사이트를 만들었어요\n만들게 된 계기:\n매일 주가 변동하면 왜 그런지 알려고 뉴스, 증권사 리포트, 커뮤니티를 뒤지기 바빴습니다.\n저뿐만 아니라 수많은 투자자들이 똑같은 행동을 반복하고",
-          "id": "https://news.hada.io/topic?id=28235",
-          "isoDate": "2026-04-05T23:35:02.000Z"
-        },
-        {
-          "title": "금이 미 국채를 제치고 세계 최대 외환보유자산으로 부상",
-          "link": "https://news.hada.io/topic?id=28234",
-          "pubDate": "2026-04-05T19:37:28.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>2026년 금 보유액이 <strong>약 4조 달러</strong>로 늘며 <strong>3.9조 달러 규모의 미 국채</strong>를 넘어 세계 최대 외환보유자산으로 자리함</li>\n<li>금값은 2025년 한 해 동안 <strong>70% 이상 상승</strong>해 온스당 <strong>4,500달러</strong>를 돌파, 지정학적 불안과 인플레이션 우려가 주요 요...</p>",
-          "contentSnippet": "2026년 금 보유액이 약 4조 달러로 늘며 3.9조 달러 규모의 미 국채를 넘어 세계 최대 외환보유자산으로 자리함\n금값은 2025년 한 해 동안 70% 이상 상승해 온스당 4,500달러를 돌파, 지정학적 불안과 인플레이션 우려가 주요 요...",
-          "id": "https://news.hada.io/topic?id=28234",
-          "isoDate": "2026-04-05T19:37:28.000Z"
-        },
-        {
-          "title": "코딩 에이전트의 구성 요소",
-          "link": "https://news.hada.io/topic?id=28232",
-          "pubDate": "2026-04-05T18:33:23.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>코딩 에이전트</strong>는 LLM을 중심으로 코드 작성, 실행, 피드백을 반복 수행하는 <strong>제어 루프와 소프트웨어 하니스</strong>로 구성된 시스템</li>\n<li>\n<strong>에이전트 하니스</strong>는 컨텍스트 관리, 도구 접근, 프롬프트 구성, 상태 제어를 담당하며, 코딩 작업에 특화된 <strong>코...</p>",
-          "contentSnippet": "코딩 에이전트는 LLM을 중심으로 코드 작성, 실행, 피드백을 반복 수행하는 제어 루프와 소프트웨어 하니스로 구성된 시스템\n에이전트 하니스는 컨텍스트 관리, 도구 접근, 프롬프트 구성, 상태 제어를 담당하며, 코딩 작업에 특화된 코...",
-          "id": "https://news.hada.io/topic?id=28232",
-          "isoDate": "2026-04-05T18:33:23.000Z"
-        },
-        {
-          "title": "특이한 나무들",
-          "link": "https://news.hada.io/topic?id=28231",
-          "pubDate": "2026-04-05T17:36:53.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>1975년판 브리태니커 백과사전의 ‘나무’ 항목에서 출발해, 세계 곳곳의 <strong>비범한 형태의 나무들</strong>을 탐색하며 자연의 다양성을 조명</li>\n<li>해안 침식을 막는 <strong>맹그로브</strong>, 숲처럼 자라는 <strong>반얀나무</strong>, 건축물 같은 <strong>옴부</strong> 등 독특한 생태 구조를...</p>",
-          "contentSnippet": "1975년판 브리태니커 백과사전의 ‘나무’ 항목에서 출발해, 세계 곳곳의 비범한 형태의 나무들을 탐색하며 자연의 다양성을 조명\n해안 침식을 막는 맹그로브, 숲처럼 자라는 반얀나무, 건축물 같은 옴부 등 독특한 생태 구조를...",
-          "id": "https://news.hada.io/topic?id=28231",
-          "isoDate": "2026-04-05T17:36:53.000Z"
-        },
-        {
-          "title": "독일 남성 18~45세, 해외 장기 체류 시 군 허가 필요",
-          "link": "https://news.hada.io/topic?id=28230",
-          "pubDate": "2026-04-05T17:33:53.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>2026년부터 시행된 <strong>새 군복무법</strong>은 18세에서 45세 사이의 남성이 <strong>3개월 이상 해외 체류 시 군 경력센터의 허가</strong>를 받아야 함</li>\n<li>이 규정은 학업, 근무, 여행 등 <strong>체류 목적과 무관하게 적용</strong>되며, 유럽 안보 위협 속 <strong>병력 확보 강화</strong>를 ...</p>",
-          "contentSnippet": "2026년부터 시행된 새 군복무법은 18세에서 45세 사이의 남성이 3개월 이상 해외 체류 시 군 경력센터의 허가를 받아야 함\n이 규정은 학업, 근무, 여행 등 체류 목적과 무관하게 적용되며, 유럽 안보 위협 속 병력 확보 강화를 ...",
-          "id": "https://news.hada.io/topic?id=28230",
-          "isoDate": "2026-04-05T17:33:53.000Z"
         }
       ]
     }
