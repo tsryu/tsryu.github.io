@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "Claude Mythos Preview의 사이버보안 능력 평가",
+          "link": "https://news.hada.io/topic?id=28320",
+          "pubDate": "2026-04-08T20:34:06.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Anthropic의 <strong>Claude Mythos Preview</strong>는 제로데이 탐지, 익스플로잇 생성, 리버스 엔지니어링 등에서 <strong>기존 언어모델을 능가하는 보안 분석 성능</strong>을 보임</li>\n<li>OpenBSD·FFmpeg·FreeBSD 등에서 <strong>수십 년간 미발견된 취약점</strong>을 자율적으로 찾아내고, 완전한 공...</p>",
+          "contentSnippet": "Anthropic의 Claude Mythos Preview는 제로데이 탐지, 익스플로잇 생성, 리버스 엔지니어링 등에서 기존 언어모델을 능가하는 보안 분석 성능을 보임\nOpenBSD·FFmpeg·FreeBSD 등에서 수십 년간 미발견된 취약점을 자율적으로 찾아내고, 완전한 공...",
+          "id": "https://news.hada.io/topic?id=28320",
+          "isoDate": "2026-04-08T20:34:06.000Z"
+        },
+        {
+          "title": "모든 시대를 바꾼 GPU의 30년 연대기",
+          "link": "https://news.hada.io/topic?id=28319",
+          "pubDate": "2026-04-08T19:33:05.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>1996년부터 2025년까지의 <strong>49종 GPU</strong>를 시대별로 정리해, 기술 발전과 시장 변화를 시각화한 데이터 스토리</li>\n<li>각 세대는 <strong>트랜지스터 수·소비전력·가격·대표 게임</strong>을 기준으로 구분되며, GPU의 진화 흐름을 한눈에 보여줌</li>\n<li>\n<strong>Voodoo Graphics</strong>에...</p>",
+          "contentSnippet": "1996년부터 2025년까지의 49종 GPU를 시대별로 정리해, 기술 발전과 시장 변화를 시각화한 데이터 스토리\n각 세대는 트랜지스터 수·소비전력·가격·대표 게임을 기준으로 구분되며, GPU의 진화 흐름을 한눈에 보여줌\nVoodoo Graphics에...",
+          "id": "https://news.hada.io/topic?id=28319",
+          "isoDate": "2026-04-08T19:33:05.000Z"
+        },
+        {
+          "title": "Cloudflare에서 Bunny.net으로 전환",
+          "link": "https://news.hada.io/topic?id=28318",
+          "pubDate": "2026-04-08T15:32:50.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>중앙집중화된 <strong>Cloudflare 의존성</strong>을 줄이기 위해 개인 블로그를 <strong>bunny.net</strong>으로 이전한 사례</li>\n<li>\n<strong>bunny.net</strong>은 슬로베니아 기반의 <strong>유럽 CDN 서비스</strong>로, 전 세계적으로 빠른 성능과 효율적인 PoP 네트워크를 제공</li>\n<li>도메인 등록은...</p>",
+          "contentSnippet": "중앙집중화된 Cloudflare 의존성을 줄이기 위해 개인 블로그를 bunny.net으로 이전한 사례\nbunny.net은 슬로베니아 기반의 유럽 CDN 서비스로, 전 세계적으로 빠른 성능과 효율적인 PoP 네트워크를 제공\n도메인 등록은...",
+          "id": "https://news.hada.io/topic?id=28318",
+          "isoDate": "2026-04-08T15:32:50.000Z"
+        },
+        {
           "title": "Show GN: Screening Watch -- 현재 상영중인 영화의 상영관 정보를 한 눈에 확인",
           "link": "https://news.hada.io/topic?id=28317",
           "pubDate": "2026-04-08T12:42:20.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "Rust 스타일 문법을 사용하면서 Go 런타임 위에서 동작하는 소형 언어로, 두 언어의 장점을 결합한 형태\n대수적 데이터 타입, 패턴 매칭, Hindley-Milner 타입 시스템, 기본 불변성...",
           "id": "https://news.hada.io/topic?id=28268",
           "isoDate": "2026-04-06T21:32:49.000Z"
-        },
-        {
-          "title": "Show GN: seCall 터미널에이전트 대화 로그를 옵시디언에 정리하고 기억으로 사용해보세요",
-          "link": "https://news.hada.io/topic?id=28267",
-          "pubDate": "2026-04-06T20:37:09.000Z",
-          "author": "kurthong",
-          "content": "<p>&quot;터미널에이전트들(클로드코드,코덱스,제미나이CLI)과의 대화 로그를 옵시디언에 정리하고 기억으로 사용하고 위키로 정리해보세요&quot;</p>\n<p>QMD라고 유명(?)하신 분이 만드신 세션 검색앱이랑 해커뉴스에서 본 위키문서로 만들어 봤습니다.</p>\n<p>&quot;터미널 에이전트(클로드코드,코덱스,제미나이CLI)들",
-          "contentSnippet": "\"터미널에이전트들(클로드코드,코덱스,제미나이CLI)과의 대화 로그를 옵시디언에 정리하고 기억으로 사용하고 위키로 정리해보세요\"\nQMD라고 유명(?)하신 분이 만드신 세션 검색앱이랑 해커뉴스에서 본 위키문서로 만들어 봤습니다.\n\"터미널 에이전트(클로드코드,코덱스,제미나이CLI)들",
-          "id": "https://news.hada.io/topic?id=28267",
-          "isoDate": "2026-04-06T20:37:09.000Z"
-        },
-        {
-          "title": "프로그래밍을 위한 음악",
-          "link": "https://news.hada.io/topic?id=28266",
-          "pubDate": "2026-04-06T18:32:52.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>프로그래밍 중 <strong>집중력 향상</strong>을 돕는 <strong>믹스 시리즈 스트리밍 사이트</strong>로, 총 77개의 에피소드와 114시간 분량의 음악을 제공</li>\n<li>각 에피소드는 <strong>전자음악·앰비언트 아티스트</strong>의 트랙으로 구성되며, <code>.mp3</code> 파일과 <strong>Discogs 링크</strong>...</p>",
-          "contentSnippet": "프로그래밍 중 집중력 향상을 돕는 믹스 시리즈 스트리밍 사이트로, 총 77개의 에피소드와 114시간 분량의 음악을 제공\n각 에피소드는 전자음악·앰비언트 아티스트의 트랙으로 구성되며, .mp3 파일과 Discogs 링크...",
-          "id": "https://news.hada.io/topic?id=28266",
-          "isoDate": "2026-04-06T18:32:52.000Z"
-        },
-        {
-          "title": "LM Studio Headless CLI와 Claude Code로 로컬에서 Google Gemma 4 실행하기",
-          "link": "https://news.hada.io/topic?id=28265",
-          "pubDate": "2026-04-06T17:33:27.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Gemma 4</strong>는 mixture-of-experts 구조로 일부 파라미터만 활성화해 <strong>저사양 하드웨어에서도 고성능 추론</strong>을 지원</li>\n<li>\n<strong>LM Studio 0.4.0</strong>은 새로운 <strong>Headless CLI(llmster)</strong> 를 도입해 데스크톱 앱 없이 모델 다운로드·로드·채팅·API 서버...</p>",
-          "contentSnippet": "Gemma 4는 mixture-of-experts 구조로 일부 파라미터만 활성화해 저사양 하드웨어에서도 고성능 추론을 지원\nLM Studio 0.4.0은 새로운 Headless CLI(llmster) 를 도입해 데스크톱 앱 없이 모델 다운로드·로드·채팅·API 서버...",
-          "id": "https://news.hada.io/topic?id=28265",
-          "isoDate": "2026-04-06T17:33:27.000Z"
         }
       ]
     }
