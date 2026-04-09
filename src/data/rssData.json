@@ -7,6 +7,66 @@
       "priority": 1,
       "data": [
         {
+          "title": "MAU의 시대의 종말, MRR도 이제 못 믿는다?",
+          "link": "https://news.hada.io/topic?id=28350",
+          "pubDate": "2026-04-09T09:20:40.000Z",
+          "author": "haebom",
+          "content": "<p>안녕하세요. 요즘 뉴스레터를 하는 낙으로 살고 있습니다.<br />\n매일 한 개의 뉴스레터를 쓰고 있는데 너무 자주 올리면 GN 정책에 맞지 않아서 유달리 트래픽이 터지는 뉴스레터를 소개코자 합니다.</p>\n<p>개인적으로 정말 나쁘지 않은 내용이라 생각하고 한 번 생각해볼만한 주제라고 여겨 공유 드립니다.<br />\n",
+          "contentSnippet": "안녕하세요. 요즘 뉴스레터를 하는 낙으로 살고 있습니다.\n개인적으로 정말 나쁘지 않은 내용이라 생각하고 한 번 생각해볼만한 주제라고 여겨 공유 드립니다.",
+          "id": "https://news.hada.io/topic?id=28350",
+          "isoDate": "2026-04-09T09:20:40.000Z"
+        },
+        {
+          "title": "모든 것은 거짓으로 향하는가",
+          "link": "https://news.hada.io/topic?id=28349",
+          "pubDate": "2026-04-09T08:33:06.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>현대의 <strong>AI라 불리는 기술은 실제로는 복잡한 머신러닝(ML) 시스템</strong>으로, 텍스트·이미지·오디오를 통계적으로 완성하는 구조임</li>\n<li>\n<strong>LLM은 즉흥극처럼 ‘그럴듯한 거짓’을 만들어내는 기계</strong>로, 모른다는 답을 회피하며 허구적 사실을 생성함</li>\n<li>사람들은 이를 의식...</p>",
+          "contentSnippet": "현대의 AI라 불리는 기술은 실제로는 복잡한 머신러닝(ML) 시스템으로, 텍스트·이미지·오디오를 통계적으로 완성하는 구조임\nLLM은 즉흥극처럼 ‘그럴듯한 거짓’을 만들어내는 기계로, 모른다는 답을 회피하며 허구적 사실을 생성함\n사람들은 이를 의식...",
+          "id": "https://news.hada.io/topic?id=28349",
+          "isoDate": "2026-04-09T08:33:06.000Z"
+        },
+        {
+          "title": "Meta, 새 AI 모델 오픈소스 공개 예고",
+          "link": "https://news.hada.io/topic?id=28347",
+          "pubDate": "2026-04-09T07:04:25.000Z",
+          "author": "davespark",
+          "content": "<p>Meta가 <strong>차세대 AI 모델</strong>을 오픈소스 형태로 공개할 예정이라고 발표했습니다. 다만 기존 <strong>Llama 시리즈</strong>와는 상당히 다릅니다.</p>\n<h4>주요 내용</h4>\n<ul>\n<li>Meta는 Scale AI를 인수하면서 합류한 Alexandr Wang이 주도해 개발 중인 새 AI 모델 패밀리를 준비 중.</li>\n<li>\n<str",
+          "contentSnippet": "Meta가 차세대 AI 모델을 오픈소스 형태로 공개할 예정이라고 발표했습니다. 다만 기존 Llama 시리즈와는 상당히 다릅니다.\n주요 내용\nMeta는 Scale AI를 인수하면서 합류한 Alexandr Wang이 주도해 개발 중인 새 AI 모델 패밀리를 준비 중.\n\n<str",
+          "id": "https://news.hada.io/topic?id=28347",
+          "isoDate": "2026-04-09T07:04:25.000Z"
+        },
+        {
+          "title": "Show GN: , AI-SLOP Detector 3.1.1 - AI 에이전트가 만든 스파게티 코드를 잡는 분석 도구",
+          "link": "https://news.hada.io/topic?id=28346",
+          "pubDate": "2026-04-09T06:46:24.000Z",
+          "author": "flamehaven01",
+          "content": "<p>AI-SLOP Detector는 AI 에이전트가 만든 코드에서 자주 보이는 구조적 결함을 정적으로 분석하는 도구입니다.</p>\n<p>단순 스타일 검사보다, stub 구현, phantom import, 과장된 주석/용어, helper로 쪼개 숨긴 복잡도처럼<br />\n“겉보기엔 깔끔한데 실제로는 불안한 코드”를 잡는 데 초점을 둡니다.</p>\n<h4>무엇을",
+          "contentSnippet": "AI-SLOP Detector는 AI 에이전트가 만든 코드에서 자주 보이는 구조적 결함을 정적으로 분석하는 도구입니다.\n단순 스타일 검사보다, stub 구현, phantom import, 과장된 주석/용어, helper로 쪼개 숨긴 복잡도처럼\n무엇을",
+          "id": "https://news.hada.io/topic?id=28346",
+          "isoDate": "2026-04-09T06:46:24.000Z"
+        },
+        {
+          "title": "Show GN: Android arm64에서 proot 병목을 줄이기 위해 ptrace 없는 proroot를 만들어봤습니다",
+          "link": "https://news.hada.io/topic?id=28342",
+          "pubDate": "2026-04-09T05:47:56.000Z",
+          "author": "coderred",
+          "content": "<p>안녕하세요.</p>\n<p>Android에서 Ubuntu arm64 사용자 공간을 올려 사용하는 프로젝트를 진행하면서, 가장 큰 병목은 역시 proot의 ptrace 오버헤드였습니다. 특히 Node.js나 Chromium 같은 워크로드에서는 syscall마다 발생하는 context switch 비용이 꽤 크게 느껴졌습니다.</p>\n<p>그래서 proot와 비슷한 방향성을",
+          "contentSnippet": "안녕하세요.\nAndroid에서 Ubuntu arm64 사용자 공간을 올려 사용하는 프로젝트를 진행하면서, 가장 큰 병목은 역시 proot의 ptrace 오버헤드였습니다. 특히 Node.js나 Chromium 같은 워크로드에서는 syscall마다 발생하는 context switch 비용이 꽤 크게 느껴졌습니다.\n그래서 proot와 비슷한 방향성을",
+          "id": "https://news.hada.io/topic?id=28342",
+          "isoDate": "2026-04-09T05:47:56.000Z"
+        },
+        {
+          "title": "AX팀을 만드는 순간, 당신의 조직은 AX에 실패한다",
+          "link": "https://news.hada.io/topic?id=28341",
+          "pubDate": "2026-04-09T05:28:45.000Z",
+          "author": "flowkater",
+          "content": "<h3>한 줄 요약</h3>\n<p>AX 추진팀 신설은 계층을 줄여야 할 때 계층을 하나 더 쌓는 역설이다. MIT NANDA 연구에서 성공한 5%는 중앙 AI 랩이 아니라 현장 관리자가 주도한 조직이었다. 15년 CTO 경험에서 배운 AX의 제1원칙은 도구가 아니라 조직과 사람이다.</p>\n<h3>AX 추진팀 역설 — 계층을 없애야 하는데 계층을 ",
+          "contentSnippet": "한 줄 요약\nAX 추진팀 신설은 계층을 줄여야 할 때 계층을 하나 더 쌓는 역설이다. MIT NANDA 연구에서 성공한 5%는 중앙 AI 랩이 아니라 현장 관리자가 주도한 조직이었다. 15년 CTO 경험에서 배운 AX의 제1원칙은 도구가 아니라 조직과 사람이다.\nAX 추진팀 역설 — 계층을 없애야 하는데 계층을",
+          "id": "https://news.hada.io/topic?id=28341",
+          "isoDate": "2026-04-09T05:28:45.000Z"
+        },
+        {
           "title": "Ruff·uv 만든 Astral이 공개한 오픈소스 보안 전략 전모",
           "link": "https://news.hada.io/topic?id=28340",
           "pubDate": "2026-04-09T05:02:43.000Z",
@@ -445,66 +505,6 @@
           "contentSnippet": "YouTube 영상을 세밀하게 찾을 수 있는 고급 검색 인터페이스를 제공하는 웹 도구\n검색 접두어(prefix) 를 활용해 일반 검색보다 정교한 결과를 얻을 수 있음\n결과는 플레이리스트 형태로 표시되며, 포함된 영상 수가 함께 표시됨\n...",
           "id": "https://news.hada.io/topic?id=28292",
           "isoDate": "2026-04-07T20:33:09.000Z"
-        },
-        {
-          "title": "독일 경찰, GandCrab·REvil 랜섬웨어 조직의 러시아인 수장 실명 공개",
-          "link": "https://news.hada.io/topic?id=28291",
-          "pubDate": "2026-04-07T19:36:36.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>독일 연방범죄수사청이 러시아 국적의 <strong>다닐 막시모비치 슈추킨</strong>을 GandCrab과 REvil 랜섬웨어 조직의 수장으로 지목하며 실명을 공개함</li>\n<li>슈추킨은 ‘<strong>UNKN(UNKNOWN)</strong>’이라는 닉네임으로 활동하며, 피해자에게 두 차례 돈을 요구하는 <strong>이중 갈취 방식</strong>을...</p>",
-          "contentSnippet": "독일 연방범죄수사청이 러시아 국적의 다닐 막시모비치 슈추킨을 GandCrab과 REvil 랜섬웨어 조직의 수장으로 지목하며 실명을 공개함\n슈추킨은 ‘UNKN(UNKNOWN)’이라는 닉네임으로 활동하며, 피해자에게 두 차례 돈을 요구하는 이중 갈취 방식을...",
-          "id": "https://news.hada.io/topic?id=28291",
-          "isoDate": "2026-04-07T19:36:36.000Z"
-        },
-        {
-          "title": "Adobe가 Creative Cloud 설치 여부를 감지하기 위해 hosts 파일을 수정함",
-          "link": "https://news.hada.io/topic?id=28290",
-          "pubDate": "2026-04-07T19:33:36.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>윈도우/맥에서 <strong>Adobe CC</strong> 설치 시 시스템의 <strong>hosts 파일이 자동 변경</strong>됨</li>\n<li>Adobe 웹사이트 접속 시 자바스크립트가 <strong>특정 어도비 서버</strong>의 이미지를 요청하며, hosts 파일 항목 존재 여부로 <strong>CC 설치 상태를 판별</strong>함</li>\n<li>과거에는 <s...</p>",
-          "contentSnippet": "윈도우/맥에서 Adobe CC 설치 시 시스템의 hosts 파일이 자동 변경됨\nAdobe 웹사이트 접속 시 자바스크립트가 특정 어도비 서버의 이미지를 요청하며, hosts 파일 항목 존재 여부로 CC 설치 상태를 판별함\n과거에는",
-          "id": "https://news.hada.io/topic?id=28290",
-          "isoDate": "2026-04-07T19:33:36.000Z"
-        },
-        {
-          "title": "81세 다저스 팬, 스마트폰이 없어 더 이상 티켓을 구매할 수 없음",
-          "link": "https://news.hada.io/topic?id=28289",
-          "pubDate": "2026-04-07T18:32:40.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>81세 <strong>로스앤젤레스 다저스 팬</strong>이 스마트폰이 없다는 이유로 경기 티켓을 구입할 수 없는 상황</li>\n<li>구단이 <strong>모바일 전용 티켓 시스템</strong>으로 전면 전환하면서, <strong>종이 티켓이나 대체 수단이 제공되지 않음</strong>\n</li>\n<li>이 팬은 오랫동안 시즌 티켓을 구매해 온 ...</p>",
-          "contentSnippet": "81세 로스앤젤레스 다저스 팬이 스마트폰이 없다는 이유로 경기 티켓을 구입할 수 없는 상황\n구단이 모바일 전용 티켓 시스템으로 전면 전환하면서, 종이 티켓이나 대체 수단이 제공되지 않음\n\n이 팬은 오랫동안 시즌 티켓을 구매해 온 ...",
-          "id": "https://news.hada.io/topic?id=28289",
-          "isoDate": "2026-04-07T18:32:40.000Z"
-        },
-        {
-          "title": "AI 챗봇에 가짜 질병을 물어봤더니… &quot;실제 병입니다&quot;라고 답했다",
-          "link": "https://news.hada.io/topic?id=28288",
-          "pubDate": "2026-04-07T15:28:38.000Z",
-          "author": "darjeeling",
-          "content": "<p>스웨덴 연구자가 완전히 허구의 질병 <strong>&quot;빅소니마니아(Bixonimania)&quot;</strong> 를 만들어 AI 챗봇들이 이를 실제 질병처럼 안내하는지 실험했다. 결과는 충격적이었다. ChatGPT, Google Gemini, Microsoft Copilot, Perplexity 등 주요 AI 시스템이 모두 이 가짜 병을 진짜처럼 설명했고, 심지어 가짜...</p>",
-          "contentSnippet": "스웨덴 연구자가 완전히 허구의 질병 \"빅소니마니아(Bixonimania)\" 를 만들어 AI 챗봇들이 이를 실제 질병처럼 안내하는지 실험했다. 결과는 충격적이었다. ChatGPT, Google Gemini, Microsoft Copilot, Perplexity 등 주요 AI 시스템이 모두 이 가짜 병을 진짜처럼 설명했고, 심지어 가짜...",
-          "id": "https://news.hada.io/topic?id=28288",
-          "isoDate": "2026-04-07T15:28:38.000Z"
-        },
-        {
-          "title": "Ghost Pepper – macOS용 로컬 음성-텍스트 변환 앱",
-          "link": "https://news.hada.io/topic?id=28287",
-          "pubDate": "2026-04-07T14:33:05.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>macOS에서 <strong>Control 키를 누르고 말하면 자동으로 텍스트로 변환 후 붙여넣기</strong>하는 <strong>로컬 음성 인식 앱</strong>\n</li>\n<li>모든 <strong>음성 인식과 텍스트 정리 과정이 로컬에서만 수행</strong>되어, <strong>클라우드 전송 없이 개인정보 보호</strong> 보장</li>\n<li>\n<strong>Whi...</p>",
-          "contentSnippet": "macOS에서 Control 키를 누르고 말하면 자동으로 텍스트로 변환 후 붙여넣기하는 로컬 음성 인식 앱\n\n모든 음성 인식과 텍스트 정리 과정이 로컬에서만 수행되어, 클라우드 전송 없이 개인정보 보호 보장\nWhi...",
-          "id": "https://news.hada.io/topic?id=28287",
-          "isoDate": "2026-04-07T14:33:05.000Z"
-        },
-        {
-          "title": "$35,000 사기를 통해 얻은 교훈",
-          "link": "https://news.hada.io/topic?id=28286",
-          "pubDate": "2026-04-07T11:32:56.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>베이징의 <strong>AR 버스 투어 프로젝트</strong>에 참여해 기술 복구를 시도했으나, <strong>$35,000의 대금을 받지 못한 채 종료된 경험</strong>임</li>\n<li>현장은 <strong>버전 관리 부재</strong>, <strong>비전문적 장비 구성</strong>, <strong>AR 기본 원리 무시</strong> 등으로 시스템이 붕괴된 상...</p>",
-          "contentSnippet": "베이징의 AR 버스 투어 프로젝트에 참여해 기술 복구를 시도했으나, $35,000의 대금을 받지 못한 채 종료된 경험임\n현장은 버전 관리 부재, 비전문적 장비 구성, AR 기본 원리 무시 등으로 시스템이 붕괴된 상...",
-          "id": "https://news.hada.io/topic?id=28286",
-          "isoDate": "2026-04-07T11:32:56.000Z"
         }
       ]
     }
