@@ -7,6 +7,56 @@
       "priority": 1,
       "data": [
         {
+          "title": "OpenAI, 새 언어 모델 GPT-2를 위험성 이유로 전체 공개 보류",
+          "link": "https://news.hada.io/topic?id=28361",
+          "pubDate": "2026-04-09T19:32:51.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>GPT-2</strong>는 8백만 개 웹페이지로 학습된 <strong>대규모 텍스트 생성 인공지능</strong>으로, 주어진 문장을 자연스럽게 이어 쓰는 능력을 보임</li>\n<li>OpenAI는 이 모델이 <strong>가짜 뉴스나 온라인 사칭 등에 악용될 위험</strong>이 있다며 전체 모델 대신 <strong>축소 버전만 공개</st...</p>",
+          "contentSnippet": "GPT-2는 8백만 개 웹페이지로 학습된 대규모 텍스트 생성 인공지능으로, 주어진 문장을 자연스럽게 이어 쓰는 능력을 보임\nOpenAI는 이 모델이 가짜 뉴스나 온라인 사칭 등에 악용될 위험이 있다며 전체 모델 대신 축소 버전만 공개",
+          "id": "https://news.hada.io/topic?id=28361",
+          "isoDate": "2026-04-09T19:32:51.000Z"
+        },
+        {
+          "title": "Anthropic의 청구 오류와 한 달 넘게 답변이 없는 지원 문제",
+          "link": "https://news.hada.io/topic?id=28360",
+          "pubDate": "2026-04-09T18:36:52.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>3월 초 <strong>Anthropic 계정에서 약 180달러의 비정상 청구</strong>가 발생했으며, 사용자는 당시 <strong>Claude Max 구독자</strong>였음</li>\n<li>사용 기록상 <strong>실제 활동이 거의 없었음에도 ‘Extra Usage’ 청구서 16건</strong>이 연속 발행되어 금액이 누적됨</li>\n<li>동일한 <strong>잘못된...</p>",
+          "contentSnippet": "3월 초 Anthropic 계정에서 약 180달러의 비정상 청구가 발생했으며, 사용자는 당시 Claude Max 구독자였음\n사용 기록상 실제 활동이 거의 없었음에도 ‘Extra Usage’ 청구서 16건이 연속 발행되어 금액이 누적됨\n동일한 잘못된...",
+          "id": "https://news.hada.io/topic?id=28360",
+          "isoDate": "2026-04-09T18:36:52.000Z"
+        },
+        {
+          "title": "간단한 레이더 예시로 이해하는 칼만 필터",
+          "link": "https://news.hada.io/topic?id=28359",
+          "pubDate": "2026-04-09T18:33:52.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>칼만 필터</strong>는 잡음이 많은 환경에서 시스템의 상태를 추정하고 미래를 예측하는 <strong>최적 상태 추정 알고리듬</strong>\n</li>\n<li>항공기 추적 레이더를 예시로, 거리와 속도 측정값을 이용해 <strong>예측과 업데이트 단계를 반복</strong>하며 정확도를 높이는 과정을 설명</li>\n<li>각...</p>",
+          "contentSnippet": "칼만 필터는 잡음이 많은 환경에서 시스템의 상태를 추정하고 미래를 예측하는 최적 상태 추정 알고리듬\n\n항공기 추적 레이더를 예시로, 거리와 속도 측정값을 이용해 예측과 업데이트 단계를 반복하며 정확도를 높이는 과정을 설명\n각...",
+          "id": "https://news.hada.io/topic?id=28359",
+          "isoDate": "2026-04-09T18:33:52.000Z"
+        },
+        {
+          "title": "Hormuz 해협은 열렸나요?",
+          "link": "https://news.hada.io/topic?id=28357",
+          "pubDate": "2026-04-09T16:32:24.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Hormuz 해협의 개방 상태</strong>를 실시간으로 표시하는 웹사이트로, 현재는 “NO”로 표시됨</li>\n<li>지도는 <strong>Leaflet</strong>, <strong>OpenStreetMap</strong>, <strong>CARTO</strong> 데이터를 기반으로 구성되어 시각적 정보를 제공</li>\n<li>\n<strong>Polymarket 예측 시장</strong...</p>",
+          "contentSnippet": "Hormuz 해협의 개방 상태를 실시간으로 표시하는 웹사이트로, 현재는 “NO”로 표시됨\n지도는 Leaflet, OpenStreetMap, CARTO 데이터를 기반으로 구성되어 시각적 정보를 제공\nPolymarket 예측 시장",
+          "id": "https://news.hada.io/topic?id=28357",
+          "isoDate": "2026-04-09T16:32:24.000Z"
+        },
+        {
+          "title": "소프트웨어 개발자를 위한 USB: 사용자 공간 USB 드라이버 작성 입문",
+          "link": "https://news.hada.io/topic?id=28356",
+          "pubDate": "2026-04-09T16:04:06.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>USB 드라이버 개발은 커널 수준의 작업으로 여겨지지만, 실제로는 <strong>소켓 프로그래밍과 유사한 난이도</strong>로 사용자 공간에서도 구현 가능함</li>\n<li>\n<strong>libusb</strong>를 사용하면 커널 코드를 작성하지 않고도 장치 열거, 제어 전송, 데이터 송수신을 모두 수행할 수 있음</li>\n<li>USB 통...</p>",
+          "contentSnippet": "USB 드라이버 개발은 커널 수준의 작업으로 여겨지지만, 실제로는 소켓 프로그래밍과 유사한 난이도로 사용자 공간에서도 구현 가능함\nlibusb를 사용하면 커널 코드를 작성하지 않고도 장치 열거, 제어 전송, 데이터 송수신을 모두 수행할 수 있음\nUSB 통...",
+          "id": "https://news.hada.io/topic?id=28356",
+          "isoDate": "2026-04-09T16:04:06.000Z"
+        },
+        {
           "title": "Show GN: Spring AI Playground - MCP 툴 작성부터 테스트, 외부 연동까지 지원하는 데스크톱 앱",
           "link": "https://news.hada.io/topic?id=28355",
           "pubDate": "2026-04-09T14:25:51.000Z",
@@ -47,12 +97,12 @@
           "isoDate": "2026-04-09T12:24:02.000Z"
         },
         {
-          "title": "비트코인 창시자 사토시 나카모토는 누구인가 – 정체를 추적한 탐사",
+          "title": "비트코인 창시자 사토시 나카모토는 누구인가",
           "link": "https://news.hada.io/topic?id=28351",
           "pubDate": "2026-04-09T11:32:31.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>비트코인의 <strong>창시자 사토시 나카모토의 신원</strong>을 추적하는 탐사 보도</li>\n<li>나카모토가 남긴 <strong>디지털 흔적과 초기 커뮤니티 활동</strong>을 중심으로 분석</li>\n<li>후보로 거론된 인물들의 <strong>기술적 기여와 연관성</strong>을 검토</li>\n<li>암호화폐 역사에서 <strong>익명성...</p>",
-          "contentSnippet": "비트코인의 창시자 사토시 나카모토의 신원을 추적하는 탐사 보도\n나카모토가 남긴 디지털 흔적과 초기 커뮤니티 활동을 중심으로 분석\n후보로 거론된 인물들의 기술적 기여와 연관성을 검토\n암호화폐 역사에서 익명성...",
+          "content": "<ul>\n<li>17년간 가명 뒤에 숨어 있던 <strong>비트코인 창시자 사토시 나카모토</strong>의 정체를, 뉴욕타임스 탐사 기자가 1년간 수만 건의 수십 년 된 인터넷 게시물을 파헤쳐 추적한 결과물</li>\n<li>사이퍼펑크 메일링 리스트 아카이브 전체를 데이터베이스화하고 <strong>문체 분석·언어 패턴 필터링</strong>을 ...</p>",
+          "contentSnippet": "17년간 가명 뒤에 숨어 있던 비트코인 창시자 사토시 나카모토의 정체를, 뉴욕타임스 탐사 기자가 1년간 수만 건의 수십 년 된 인터넷 게시물을 파헤쳐 추적한 결과물\n사이퍼펑크 메일링 리스트 아카이브 전체를 데이터베이스화하고 문체 분석·언어 패턴 필터링을 ...",
           "id": "https://news.hada.io/topic?id=28351",
           "isoDate": "2026-04-09T11:32:31.000Z"
         },
@@ -455,56 +505,6 @@
           "contentSnippet": "Chrome 확장 프로그램 하나로 별도 앱 없이 브라우저 어느 탭에서나 클릭 한 번으로 화면 녹화를 시작할 수 있는 기능이 Google Vids에 추가됨\n이번 업데이트는 화면 녹화 확장 외에도 Veo 3.1 기반 영상 생성, Lyria 3 기반 커스텀 음악, AI 아바타 등 대규모 AI ...",
           "id": "https://news.hada.io/topic?id=28302",
           "isoDate": "2026-04-08T00:58:01.000Z"
-        },
-        {
-          "title": "프롬프트에서 하네스까지 - AI 에이전틱 패턴 4년의 기록",
-          "link": "https://news.hada.io/topic?id=28301",
-          "pubDate": "2026-04-08T00:46:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>2022~2026년, AI 개발 패러다임이 세 번 전환됨: <strong>Prompt Engineering → Context Engineering → Harness Engineering</strong>\n</li>\n<li>각 전환은 이전 패러다임이 약속을 지키지 못한 실패에서 비롯되었으며, <strong>엔지니어링의 엄밀함</strong>은 사라진 것이 아니라 프롬프트에서 컨텍스트로,...</p>",
-          "contentSnippet": "2022~2026년, AI 개발 패러다임이 세 번 전환됨: Prompt Engineering → Context Engineering → Harness Engineering\n\n각 전환은 이전 패러다임이 약속을 지키지 못한 실패에서 비롯되었으며, 엔지니어링의 엄밀함은 사라진 것이 아니라 프롬프트에서 컨텍스트로,...",
-          "id": "https://news.hada.io/topic?id=28301",
-          "isoDate": "2026-04-08T00:46:01.000Z"
-        },
-        {
-          "title": "Claude Mythos Preview 시스템 카드",
-          "link": "https://news.hada.io/topic?id=28300",
-          "pubDate": "2026-04-08T00:45:15.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Anthropic이 개발한 <strong>Claude Mythos Preview</strong>는 이전 세대보다 <strong>추론·소프트웨어 엔지니어링·지식 작업</strong> 등에서 크게 향상된 <strong>대형 언어 모델</strong>임</li>\n<li>\n<strong>사이버보안 탐지와 방어 능력</strong>이 매우 강력해, <strong>공격적 활용 위험</strong> 때문...</p>",
-          "contentSnippet": "Anthropic이 개발한 Claude Mythos Preview는 이전 세대보다 추론·소프트웨어 엔지니어링·지식 작업 등에서 크게 향상된 대형 언어 모델임\n사이버보안 탐지와 방어 능력이 매우 강력해, 공격적 활용 위험 때문...",
-          "id": "https://news.hada.io/topic?id=28300",
-          "isoDate": "2026-04-08T00:45:15.000Z"
-        },
-        {
-          "title": "우린 이미 ‘Idiocracy’인가?",
-          "link": "https://news.hada.io/topic?id=28299",
-          "pubDate": "2026-04-08T00:42:15.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>2006년 영화 <strong>‘Idiocracy’</strong> 의 디스토피아적 미래와 현재 사회를 비교한 <strong>‘Idiocracy Proximity Index’</strong> 가 공개되어, 현실 유사도를 수치로 제시함</li>\n<li>정치, 기업, 교육, 과학, 환경, 문화 등 전 영역에서 영화 속 설정과 실제 사례를 나란히 배치해 <strong>평균 유...</p>",
-          "contentSnippet": "2006년 영화 ‘Idiocracy’ 의 디스토피아적 미래와 현재 사회를 비교한 ‘Idiocracy Proximity Index’ 가 공개되어, 현실 유사도를 수치로 제시함\n정치, 기업, 교육, 과학, 환경, 문화 등 전 영역에서 영화 속 설정과 실제 사례를 나란히 배치해 평균 유...",
-          "id": "https://news.hada.io/topic?id=28299",
-          "isoDate": "2026-04-08T00:42:15.000Z"
-        },
-        {
-          "title": "2026년, 테크 커리어를 어떻게 유지해야 하는가?",
-          "link": "https://news.hada.io/topic?id=28298",
-          "pubDate": "2026-04-08T00:40:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>ChatGPT 출시 이후 <strong>50만 명의 테크 워커</strong>가 해고되며 역대 최악의 구직 시장이 형성됐음에도, AI 붐의 수혜는 실제 기술을 만드는 사람들에게 돌아가지 않고 있음</li>\n<li>수많은 주요 테크 기업 리더들이 과거에 표방했던 원칙을 버리고, 직원·고객을 외면한 채 <strong>도덕적·사회적 비겁함...</p>",
-          "contentSnippet": "ChatGPT 출시 이후 50만 명의 테크 워커가 해고되며 역대 최악의 구직 시장이 형성됐음에도, AI 붐의 수혜는 실제 기술을 만드는 사람들에게 돌아가지 않고 있음\n수많은 주요 테크 기업 리더들이 과거에 표방했던 원칙을 버리고, 직원·고객을 외면한 채 도덕적·사회적 비겁함...",
-          "id": "https://news.hada.io/topic?id=28298",
-          "isoDate": "2026-04-08T00:40:02.000Z"
-        },
-        {
-          "title": "브루탈리스트 콘크리트 노트북 거치대 (2024)",
-          "link": "https://news.hada.io/topic?id=28297",
-          "pubDate": "2026-04-08T00:39:15.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>1960년대 <strong>브루탈리즘 건축 미학</strong>을 콘크리트로 구현한 노트북 거치대로, 거칠고 노출된 표면 질감이 특징</li>\n<li>\n<strong>2개의 USB 포트</strong>, <strong>3핀 소켓</strong>, <strong>식물 화분</strong>을 통합해 기능성과 조형미를 결합</li>\n<li>표면은 의도적으로 불균질하게 타설하...</p>",
-          "contentSnippet": "1960년대 브루탈리즘 건축 미학을 콘크리트로 구현한 노트북 거치대로, 거칠고 노출된 표면 질감이 특징\n2개의 USB 포트, 3핀 소켓, 식물 화분을 통합해 기능성과 조형미를 결합\n표면은 의도적으로 불균질하게 타설하...",
-          "id": "https://news.hada.io/topic?id=28297",
-          "isoDate": "2026-04-08T00:39:15.000Z"
         }
       ]
     }
