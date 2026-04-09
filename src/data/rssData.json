@@ -7,6 +7,56 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: Spring AI Playground - MCP 툴 작성부터 테스트, 외부 연동까지 지원하는 데스크톱 앱",
+          "link": "https://news.hada.io/topic?id=28355",
+          "pubDate": "2026-04-09T14:25:51.000Z",
+          "author": "hjm1980",
+          "content": "<p>안녕하세요.</p>\n<p>최근 Claude Code나 Cursor 같은 AI 에이전트의 도움을 받아 MCP(Model Context Protocol) 툴 코드를 작성하고 활용하는 사례가 많아졌습니다. 하지만 막상 작성된 툴 코드를 실제 환경에서 돌려보고 검증하려고 하면 답답한 순간이 많았습니다.</p>\n<ul>\n<li>이 툴이 정말 제대로 동작하는가?</l",
+          "contentSnippet": "안녕하세요.\n최근 Claude Code나 Cursor 같은 AI 에이전트의 도움을 받아 MCP(Model Context Protocol) 툴 코드를 작성하고 활용하는 사례가 많아졌습니다. 하지만 막상 작성된 툴 코드를 실제 환경에서 돌려보고 검증하려고 하면 답답한 순간이 많았습니다.\n이 툴이 정말 제대로 동작하는가?</l",
+          "id": "https://news.hada.io/topic?id=28355",
+          "isoDate": "2026-04-09T14:25:51.000Z"
+        },
+        {
+          "title": "Show GN: AI가 거짓말 못 하게 만드는 완벽한 방법 - leceipts",
+          "link": "https://news.hada.io/topic?id=28354",
+          "pubDate": "2026-04-09T12:41:44.000Z",
+          "author": "0ooooo0",
+          "content": "<p>AI 코딩 도구를 쓰다 보면 묘하게 반복되는 상황이 있습니다.</p>\n<p>버그를 설명하면<br />\n→ “문제 수정했습니다”<br />\n→ 실행해보면 여전히 깨짐</p>\n<p>이게 단순히 AI 문제라기보다,<br />\n사람 코드 리뷰에서도 익숙한 패턴이기도 합니다.<br />\n• “아마 이거면 될 듯”<br />\n• “로컬에서는 잘 됨”...</p>",
+          "contentSnippet": "AI 코딩 도구를 쓰다 보면 묘하게 반복되는 상황이 있습니다.\n버그를 설명하면\n이게 단순히 AI 문제라기보다,\n사람 코드 리뷰에서도 익숙한 패턴이기도 합니다.\n• “아마 이거면 될 듯”\n• “로컬에서는 잘 됨”...",
+          "id": "https://news.hada.io/topic?id=28354",
+          "isoDate": "2026-04-09T12:41:44.000Z"
+        },
+        {
+          "title": "Show GN: legalize-kr 법령을 코드처럼, 판례도 코드처럼. 모든 법령과 판례는 Markdown 파일, 모든 개정과 판결...",
+          "link": "https://news.hada.io/topic?id=28353",
+          "pubDate": "2026-04-09T12:24:45.000Z",
+          "author": "ninebow",
+          "content": "<h3>legalize-kr가 무엇인가요?</h3>\n<p>legalize-kr은 법제처의 <a href=\"https://open.law.go.kr\">국가법령정보 공동활용</a>이 제공하는 대한민국의 법령 및 판례들을 Markdown + Git 히스토리로 아카이빙하는 프로젝트입니다. 모든 법령을 Markdown 문서로, 모든 개정 내역을 Git Commit으로 아카이빙하였으며, 판례...</p>",
+          "contentSnippet": "legalize-kr가 무엇인가요?\nlegalize-kr은 법제처의 국가법령정보 공동활용이 제공하는 대한민국의 법령 및 판례들을 Markdown + Git 히스토리로 아카이빙하는 프로젝트입니다. 모든 법령을 Markdown 문서로, 모든 개정 내역을 Git Commit으로 아카이빙하였으며, 판례...",
+          "id": "https://news.hada.io/topic?id=28353",
+          "isoDate": "2026-04-09T12:24:45.000Z"
+        },
+        {
+          "title": "Show GN: 안쓰는 Skill들 정리하는 Skill",
+          "link": "https://news.hada.io/topic?id=28352",
+          "pubDate": "2026-04-09T12:24:02.000Z",
+          "author": "kl529",
+          "content": "<p>안쓰는 Skill들이 너무 많아서, 좀 정리하다가, skill로 만들어보면 좋을 것 같아서 만들었습니다.<br />\n부족한 부분도 많을거라, 피드백은 언제나 환영입니다.</p>\n<h3>왜 스킬 정리가 필요한가</h3>\n<p>Claude Code는 스킬과 플러그인을 쉽게 설치할 수 있다.<br />\n문제는 설치는 쉽지만, 관리는 누구도 해주지 않",
+          "contentSnippet": "안쓰는 Skill들이 너무 많아서, 좀 정리하다가, skill로 만들어보면 좋을 것 같아서 만들었습니다.\n왜 스킬 정리가 필요한가\nClaude Code는 스킬과 플러그인을 쉽게 설치할 수 있다.\n문제는 설치는 쉽지만, 관리는 누구도 해주지 않",
+          "id": "https://news.hada.io/topic?id=28352",
+          "isoDate": "2026-04-09T12:24:02.000Z"
+        },
+        {
+          "title": "비트코인 창시자 사토시 나카모토는 누구인가 – 정체를 추적한 탐사",
+          "link": "https://news.hada.io/topic?id=28351",
+          "pubDate": "2026-04-09T11:32:31.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>비트코인의 <strong>창시자 사토시 나카모토의 신원</strong>을 추적하는 탐사 보도</li>\n<li>나카모토가 남긴 <strong>디지털 흔적과 초기 커뮤니티 활동</strong>을 중심으로 분석</li>\n<li>후보로 거론된 인물들의 <strong>기술적 기여와 연관성</strong>을 검토</li>\n<li>암호화폐 역사에서 <strong>익명성...</p>",
+          "contentSnippet": "비트코인의 창시자 사토시 나카모토의 신원을 추적하는 탐사 보도\n나카모토가 남긴 디지털 흔적과 초기 커뮤니티 활동을 중심으로 분석\n후보로 거론된 인물들의 기술적 기여와 연관성을 검토\n암호화폐 역사에서 익명성...",
+          "id": "https://news.hada.io/topic?id=28351",
+          "isoDate": "2026-04-09T11:32:31.000Z"
+        },
+        {
           "title": "MAU의 시대의 종말, MRR도 이제 못 믿는다?",
           "link": "https://news.hada.io/topic?id=28350",
           "pubDate": "2026-04-09T09:20:40.000Z",
@@ -455,56 +505,6 @@
           "contentSnippet": "1960년대 브루탈리즘 건축 미학을 콘크리트로 구현한 노트북 거치대로, 거칠고 노출된 표면 질감이 특징\n2개의 USB 포트, 3핀 소켓, 식물 화분을 통합해 기능성과 조형미를 결합\n표면은 의도적으로 불균질하게 타설하...",
           "id": "https://news.hada.io/topic?id=28297",
           "isoDate": "2026-04-08T00:39:15.000Z"
-        },
-        {
-          "title": "GLM-5.1: 장기적 과제 수행을 향한 진화",
-          "link": "https://news.hada.io/topic?id=28296",
-          "pubDate": "2026-04-08T00:37:25.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>차세대 <strong>에이전틱 엔지니어링 모델 GLM-5.1</strong>은 코딩과 문제 해결 능력을 대폭 강화한 플래그십 버전으로, <strong>장기적 최적화와 지속적 개선</strong>을 핵심으로 설계됨</li>\n<li>\n<strong>SWE-Bench Pro</strong>, <strong>NL2Repo</strong>, <strong>Terminal-Bench 2.0</strong> 등 주요...</p>",
-          "contentSnippet": "차세대 에이전틱 엔지니어링 모델 GLM-5.1은 코딩과 문제 해결 능력을 대폭 강화한 플래그십 버전으로, 장기적 최적화와 지속적 개선을 핵심으로 설계됨\nSWE-Bench Pro, NL2Repo, Terminal-Bench 2.0 등 주요...",
-          "id": "https://news.hada.io/topic?id=28296",
-          "isoDate": "2026-04-08T00:37:25.000Z"
-        },
-        {
-          "title": "Project Glasswing: AI 시대의 핵심 소프트웨어 보안을 위한 글로벌 협력",
-          "link": "https://news.hada.io/topic?id=28295",
-          "pubDate": "2026-04-08T00:36:15.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Amazon, Apple, Google, Microsoft 등 주요 기술 기업이 참여한 <strong>Project Glasswing</strong>은 AI를 활용해 전 세계 <strong>핵심 소프트웨어의 보안 취약점을 탐지하고 방어</strong>하는 협력 이니셔티브임</li>\n<li>Anthropic의 <strong>Claude Mythos 2 Preview</strong> 모델이 중심 역할을 하며,...</p>",
-          "contentSnippet": "Amazon, Apple, Google, Microsoft 등 주요 기술 기업이 참여한 Project Glasswing은 AI를 활용해 전 세계 핵심 소프트웨어의 보안 취약점을 탐지하고 방어하는 협력 이니셔티브임\nAnthropic의 Claude Mythos 2 Preview 모델이 중심 역할을 하며,...",
-          "id": "https://news.hada.io/topic?id=28295",
-          "isoDate": "2026-04-08T00:36:15.000Z"
-        },
-        {
-          "title": "agent-skills - AI 코딩 에이전트를 위한 프로덕션급 엔지니어링 스킬 모음",
-          "link": "https://news.hada.io/topic?id=28294",
-          "pubDate": "2026-04-08T00:31:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>AI 코딩 에이전트가 <strong>스펙·테스트·보안 리뷰를 건너뛰는 문제를 해결</strong>하기 위해, 구글 클라우드 AI 디렉터 Addy Osmani가 <strong>시니어 엔지니어 수준의 워크플로우</strong>를 구조화된 스킬로 패키징한 오픈소스</li>\n<li>개발 생명주기 전체(정의→계획→빌드→검증→리뷰→배포)에 대응하...</p>",
-          "contentSnippet": "AI 코딩 에이전트가 스펙·테스트·보안 리뷰를 건너뛰는 문제를 해결하기 위해, 구글 클라우드 AI 디렉터 Addy Osmani가 시니어 엔지니어 수준의 워크플로우를 구조화된 스킬로 패키징한 오픈소스\n개발 생명주기 전체(정의→계획→빌드→검증→리뷰→배포)에 대응하...",
-          "id": "https://news.hada.io/topic?id=28294",
-          "isoDate": "2026-04-08T00:31:02.000Z"
-        },
-        {
-          "title": "Anthropic의 최강 보안 AI &quot;Claude Mythos&quot;, 일반 공개 대신 선택된 파트너에게만 제한 배포",
-          "link": "https://news.hada.io/topic?id=28293",
-          "pubDate": "2026-04-08T00:25:59.000Z",
-          "author": "darjeeling",
-          "content": "<p>Anthropic이 신규 모델 <strong>Claude Mythos</strong>를 일반에 공개하지 않고, <strong>&quot;프로젝트 글래스윙(Project Glasswing)&quot;</strong> 이라는 제한적 프리뷰 프로그램을 통해 선별된 보안 연구 파트너에게만 배포하기로 했다. 이유는 단순하다. 이 모델의 사이버 보안 취약점 탐지 능력이 너무 강력...</p>",
-          "contentSnippet": "Anthropic이 신규 모델 Claude Mythos를 일반에 공개하지 않고, \"프로젝트 글래스윙(Project Glasswing)\" 이라는 제한적 프리뷰 프로그램을 통해 선별된 보안 연구 파트너에게만 배포하기로 했다. 이유는 단순하다. 이 모델의 사이버 보안 취약점 탐지 능력이 너무 강력...",
-          "id": "https://news.hada.io/topic?id=28293",
-          "isoDate": "2026-04-08T00:25:59.000Z"
-        },
-        {
-          "title": "YouTube 고급 검색 - Playlists.at",
-          "link": "https://news.hada.io/topic?id=28292",
-          "pubDate": "2026-04-07T20:33:09.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>YouTube 영상을 세밀하게 찾을 수 있는 <strong>고급 검색 인터페이스</strong>를 제공하는 웹 도구</li>\n<li>\n<strong>검색 접두어(prefix)</strong> 를 활용해 일반 검색보다 정교한 결과를 얻을 수 있음</li>\n<li>결과는 <strong>플레이리스트 형태</strong>로 표시되며, 포함된 영상 수가 함께 표시됨</li>...</p>",
-          "contentSnippet": "YouTube 영상을 세밀하게 찾을 수 있는 고급 검색 인터페이스를 제공하는 웹 도구\n검색 접두어(prefix) 를 활용해 일반 검색보다 정교한 결과를 얻을 수 있음\n결과는 플레이리스트 형태로 표시되며, 포함된 영상 수가 함께 표시됨\n...",
-          "id": "https://news.hada.io/topic?id=28292",
-          "isoDate": "2026-04-07T20:33:09.000Z"
         }
       ]
     }
