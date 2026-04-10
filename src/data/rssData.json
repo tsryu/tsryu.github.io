@@ -7,6 +7,46 @@
       "priority": 1,
       "data": [
         {
+          "title": "월 100달러 Claude Code 예산을 Zed와 OpenRouter로 재배분",
+          "link": "https://news.hada.io/topic?id=28396",
+          "pubDate": "2026-04-10T19:33:08.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>고정 구독형 <strong>Claude Code(월 100달러)</strong> 대신 <strong>Zed(월 10달러)</strong> 와 <strong>OpenRouter 크레딧(월 90달러)</strong> 로 나누어 사용하는 방식으로 전환</li>\n<li>Zed는 <strong>빠른 반응성과 시각적 파일 추적 기능</strong>을 갖춘 에디터로, <strong>Agent Client Protocol...</p>",
+          "contentSnippet": "고정 구독형 Claude Code(월 100달러) 대신 Zed(월 10달러) 와 OpenRouter 크레딧(월 90달러) 로 나누어 사용하는 방식으로 전환\nZed는 빠른 반응성과 시각적 파일 추적 기능을 갖춘 에디터로, Agent Client Protocol...",
+          "id": "https://news.hada.io/topic?id=28396",
+          "isoDate": "2026-04-10T19:33:08.000Z"
+        },
+        {
+          "title": "Astral의 오픈소스 보안 전략",
+          "link": "https://news.hada.io/topic?id=28395",
+          "pubDate": "2026-04-10T18:32:53.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>전 세계 개발자들이 사용하는 <strong>Ruff</strong>, <strong>uv</strong>, <strong>ty</strong> 등의 도구를 개발하는 Astral은 모든 제품의 <strong>보안성과 신뢰성</strong>을 핵심 가치로 유지함</li>\n<li>최근 <strong>공급망 공격 증가</strong>에 대응해, 빌드·배포·릴리스 전 과정의 <strong>보안 강...</p>",
+          "contentSnippet": "전 세계 개발자들이 사용하는 Ruff, uv, ty 등의 도구를 개발하는 Astral은 모든 제품의 보안성과 신뢰성을 핵심 가치로 유지함\n최근 공급망 공격 증가에 대응해, 빌드·배포·릴리스 전 과정의 보안 강...",
+          "id": "https://news.hada.io/topic?id=28395",
+          "isoDate": "2026-04-10T18:32:53.000Z"
+        },
+        {
+          "title": "개인 노트북을 저비용 전용 서버로 전환하는 CoLaptop 서비스",
+          "link": "https://news.hada.io/topic?id=28394",
+          "pubDate": "2026-04-10T17:32:54.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>사용하지 않는 노트북을 <strong>데이터센터에 위탁해 상시 온라인 서버로 운영</strong>할 수 있는 서비스로, <strong>암스테르담</strong> 기반에서 <strong>Hetzner 인프라</strong>를 활용해 미국·유럽 지역에 제공</li>\n<li>개인 노트북의 <strong>CPU·RAM·저장공간을 전용으로 활용</strong>하면서도 <st...</p>",
+          "contentSnippet": "사용하지 않는 노트북을 데이터센터에 위탁해 상시 온라인 서버로 운영할 수 있는 서비스로, 암스테르담 기반에서 Hetzner 인프라를 활용해 미국·유럽 지역에 제공\n개인 노트북의 CPU·RAM·저장공간을 전용으로 활용하면서도",
+          "id": "https://news.hada.io/topic?id=28394",
+          "isoDate": "2026-04-10T17:32:54.000Z"
+        },
+        {
+          "title": "John Deere, ‘수리 권리’ 분쟁에서 9,900만 달러 합의금 지급",
+          "link": "https://news.hada.io/topic?id=28393",
+          "pubDate": "2026-04-10T16:32:50.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>미국 농기계 제조사 <strong>John Deere</strong>가 농민들과의 <strong>장비 수리 권리(right-to-repair)</strong> 분쟁을 해결하기 위해 9,900만 달러를 지급하기로 함</li>\n<li>보상 대상은 2018년 이후 공인 대리점에서 대형 장비를 수리한 고객으로, <strong>초과 청구 손해액의 최대 53%</strong> 까지 환...</p>",
+          "contentSnippet": "미국 농기계 제조사 John Deere가 농민들과의 장비 수리 권리(right-to-repair) 분쟁을 해결하기 위해 9,900만 달러를 지급하기로 함\n보상 대상은 2018년 이후 공인 대리점에서 대형 장비를 수리한 고객으로, 초과 청구 손해액의 최대 53% 까지 환...",
+          "id": "https://news.hada.io/topic?id=28393",
+          "isoDate": "2026-04-10T16:32:50.000Z"
+        },
+        {
           "title": "Show GN: DecoyDuck - 노드 기반 비주얼 Rest API 워크플로우 클라이언트",
           "link": "https://news.hada.io/topic?id=28391",
           "pubDate": "2026-04-10T15:01:23.000Z",
@@ -465,46 +505,6 @@
           "contentSnippet": "Google Finance가 AI 기능을 탑재한 새 버전으로 전면 개편되어, 100개국 이상으로 확대하고 한국어도 지원 시작\n\nAI 리서치 기능을 통해 시장 복잡한 질문부터 개별 종목 세부 정보까지 자연어로 질문하면 포괄적인 AI 응답과 추가 학습 링크를 ...",
           "id": "https://news.hada.io/topic?id=28336",
           "isoDate": "2026-04-09T02:36:02.000Z"
-        },
-        {
-          "title": "webreel - 브라우저 데모를 MP4 영상으로 자동 녹화하는 CLI 도구",
-          "link": "https://news.hada.io/topic?id=28335",
-          "pubDate": "2026-04-09T02:16:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>JSON 설정 파일</strong>에 클릭·타이핑·드래그 등 액션을 정의하면 헤드리스 Chrome이 자동으로 구동되어 ~60fps로 캡처 후 ffmpeg으로 인코딩</li>\n<li>커서 애니메이션, <strong>키스트로크 HUD 오버레이</strong>, 사운드 이펙트를 영상에 합성 가능</li>\n<li>MP4(기본), <strong>GIF, WebM(VP9)...</p>",
-          "contentSnippet": "JSON 설정 파일에 클릭·타이핑·드래그 등 액션을 정의하면 헤드리스 Chrome이 자동으로 구동되어 ~60fps로 캡처 후 ffmpeg으로 인코딩\n커서 애니메이션, 키스트로크 HUD 오버레이, 사운드 이펙트를 영상에 합성 가능\nMP4(기본), GIF, WebM(VP9)...",
-          "id": "https://news.hada.io/topic?id=28335",
-          "isoDate": "2026-04-09T02:16:02.000Z"
-        },
-        {
-          "title": "Show GN: 풋볼 프로파일링 — 20개 질문으로 나의 축구 유형을 찾는 서비스",
-          "link": "https://news.hada.io/topic?id=28331",
-          "pubDate": "2026-04-09T01:05:26.000Z",
-          "author": "minkistic",
-          "content": "<p>바이브코딩으로 만든 내 축구 선수 프로필 만들기 서비스입니다.</p>\n<h3>뭘 만들었나</h3>\n<p>MBTI처럼 질문에 답하면 20가지 축구 유형 중 자신의 유형을 알려주고,<br />\n선수 카드를 생성해주는 웹 서비스입니다.</p>\n<ul>\n<li>필드 플레이어 16유형 + 골키퍼 4유형 = 20가지</li>\n<li>거리 기반 타이핑 엔진 (이",
-          "contentSnippet": "바이브코딩으로 만든 내 축구 선수 프로필 만들기 서비스입니다.\n뭘 만들었나\nMBTI처럼 질문에 답하면 20가지 축구 유형 중 자신의 유형을 알려주고,\n필드 플레이어 16유형 + 골키퍼 4유형 = 20가지\n거리 기반 타이핑 엔진 (이",
-          "id": "https://news.hada.io/topic?id=28331",
-          "isoDate": "2026-04-09T01:05:26.000Z"
-        },
-        {
-          "title": "Microsoft가 VeraCrypt 계정을 종료해 Windows 업데이트 중단",
-          "link": "https://news.hada.io/topic?id=28330",
-          "pubDate": "2026-04-09T00:52:42.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>오픈소스 암호화 소프트웨어 VeraCrypt</strong>의 Windows 업데이트 배포가 Microsoft의 갑작스러운 계정 해지로 전면 차단되었으며, 이는 대형 기술 기업에 의존하는 오픈소스 소프트웨어 <strong>공급망의 취약성</strong>을 드러낸 사례</li>\n<li>VeraCrypt 개발자 Mounir Idrassi는 사전 경고 없...</p>",
-          "contentSnippet": "오픈소스 암호화 소프트웨어 VeraCrypt의 Windows 업데이트 배포가 Microsoft의 갑작스러운 계정 해지로 전면 차단되었으며, 이는 대형 기술 기업에 의존하는 오픈소스 소프트웨어 공급망의 취약성을 드러낸 사례\nVeraCrypt 개발자 Mounir Idrassi는 사전 경고 없...",
-          "id": "https://news.hada.io/topic?id=28330",
-          "isoDate": "2026-04-09T00:52:42.000Z"
-        },
-        {
-          "title": "Škoda DuoBell: 소음을 뚫는 자전거 벨",
-          "link": "https://news.hada.io/topic?id=28329",
-          "pubDate": "2026-04-09T00:49:42.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>Škoda Auto</strong>가 <strong>University of Salford</strong>와 협력해 <strong>액티브 노이즈 캔슬링(ANC)</strong> 헤드폰 착용자에게도 들리는 자전거 벨 <strong>DuoBell</strong>을 개발</li>\n<li>기존 벨 소리가 ANC 알고리듬에 차단되는 문제를 해결하기 위해 <strong>특정 주파수대(750~78...</p>",
-          "contentSnippet": "Škoda Auto가 University of Salford와 협력해 액티브 노이즈 캔슬링(ANC) 헤드폰 착용자에게도 들리는 자전거 벨 DuoBell을 개발\n기존 벨 소리가 ANC 알고리듬에 차단되는 문제를 해결하기 위해 특정 주파수대(750~78...",
-          "id": "https://news.hada.io/topic?id=28329",
-          "isoDate": "2026-04-09T00:49:42.000Z"
         }
       ]
     }
