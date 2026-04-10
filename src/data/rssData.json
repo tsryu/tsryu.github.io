@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: DecoyDuck - 노드 기반 비주얼 Rest API 워크플로우 클라이언트",
+          "link": "https://news.hada.io/topic?id=28391",
+          "pubDate": "2026-04-10T15:01:23.000Z",
+          "author": "stopmale92",
+          "content": "<p>안녕하세요.</p>\n<p>백엔드 개발을 하던 중 API를 연속으로 호출해야 할 일이 생겼는데, 이 과정을 시각적으로 깔끔하게 확인하고 싶어 직접 도구를 만들게 되었습니다.</p>\n<p>기능은 단순합니다.<br />\n캔버스 위에서 'Start' 노드를 시작으로 원하는 노드들을 드래그 앤 드롭하여 연결하면 하나의 '플로우'가 완성",
+          "contentSnippet": "안녕하세요.\n백엔드 개발을 하던 중 API를 연속으로 호출해야 할 일이 생겼는데, 이 과정을 시각적으로 깔끔하게 확인하고 싶어 직접 도구를 만들게 되었습니다.\n기능은 단순합니다.\n캔버스 위에서 'Start' 노드를 시작으로 원하는 노드들을 드래그 앤 드롭하여 연결하면 하나의 '플로우'가 완성",
+          "id": "https://news.hada.io/topic?id=28391",
+          "isoDate": "2026-04-10T15:01:23.000Z"
+        },
+        {
+          "title": "Muse Spark: 개인 초지능으로 확장하는 Meta의 멀티모달 추론 모델",
+          "link": "https://news.hada.io/topic?id=28390",
+          "pubDate": "2026-04-10T14:33:16.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Meta Superintelligence Labs가 개발한 <strong>Muse Spark</strong>는 도구 사용, 시각적 사고 연쇄, 다중 에이전트 협업을 지원하는 <strong>멀티모달 추론 모델</strong>임</li>\n<li>\n<strong>개인 초지능(personal superintelligence)</strong> 을 향한 첫 단계로, meta.ai와 Meta AI 앱에서 일부 사용자에...</p>",
+          "contentSnippet": "Meta Superintelligence Labs가 개발한 Muse Spark는 도구 사용, 시각적 사고 연쇄, 다중 에이전트 협업을 지원하는 멀티모달 추론 모델임\n개인 초지능(personal superintelligence) 을 향한 첫 단계로, meta.ai와 Meta AI 앱에서 일부 사용자에...",
+          "id": "https://news.hada.io/topic?id=28390",
+          "isoDate": "2026-04-10T14:33:16.000Z"
+        },
+        {
+          "title": "NASA가 Artemis II의 내결함성 컴퓨터를 구축한 방법",
+          "link": "https://news.hada.io/topic?id=28389",
+          "pubDate": "2026-04-10T11:32:55.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>달 유인 비행선 <strong>Orion</strong>의 비행 컴퓨터는 <strong>Apollo 시대 시스템보다 복원력과 자동 제어 능력이 크게 향상된 구조</strong>로, 생명 유지·전력·통신 등 핵심 기능을 모두 관리함</li>\n<li>달 궤도 25만 마일 거리에서도 중단 없이 작동하도록, <strong>물리적·논리적 중복 구조와 다중 비...</p>",
+          "contentSnippet": "달 유인 비행선 Orion의 비행 컴퓨터는 Apollo 시대 시스템보다 복원력과 자동 제어 능력이 크게 향상된 구조로, 생명 유지·전력·통신 등 핵심 기능을 모두 관리함\n달 궤도 25만 마일 거리에서도 중단 없이 작동하도록, 물리적·논리적 중복 구조와 다중 비...",
+          "id": "https://news.hada.io/topic?id=28389",
+          "isoDate": "2026-04-10T11:32:55.000Z"
+        },
+        {
           "title": "Show GN: Advisor Opus — Anthropic의 Advisor Strategy를 Claude Code 플러그인으로 구현",
           "link": "https://news.hada.io/topic?id=28388",
           "pubDate": "2026-04-10T08:39:08.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "Škoda Auto가 University of Salford와 협력해 액티브 노이즈 캔슬링(ANC) 헤드폰 착용자에게도 들리는 자전거 벨 DuoBell을 개발\n기존 벨 소리가 ANC 알고리듬에 차단되는 문제를 해결하기 위해 특정 주파수대(750~78...",
           "id": "https://news.hada.io/topic?id=28329",
           "isoDate": "2026-04-09T00:49:42.000Z"
-        },
-        {
-          "title": "미국 도시들이 Flock Safety 감시 기술을 중단하는 이유",
-          "link": "https://news.hada.io/topic?id=28328",
-          "pubDate": "2026-04-09T00:46:42.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>여러 도시가 <strong>AI 차량 번호판 인식 카메라</strong>를 운영하던 Flock Safety와의 계약을 종료하며, <strong>프라이버시 침해</strong>와 <strong>감시 남용</strong>을 이유로 들고 있음</li>\n<li>Flock 시스템은 차량과 사람의 이동을 추적할 수 있는 <strong>ALPR 카메라와 드론 기술</strong>을 결합...</p>",
-          "contentSnippet": "여러 도시가 AI 차량 번호판 인식 카메라를 운영하던 Flock Safety와의 계약을 종료하며, 프라이버시 침해와 감시 남용을 이유로 들고 있음\nFlock 시스템은 차량과 사람의 이동을 추적할 수 있는 ALPR 카메라와 드론 기술을 결합...",
-          "id": "https://news.hada.io/topic?id=28328",
-          "isoDate": "2026-04-09T00:46:42.000Z"
-        },
-        {
-          "title": "VeraCrypt 프로젝트 업데이트",
-          "link": "https://news.hada.io/topic?id=28327",
-          "pubDate": "2026-04-09T00:43:42.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>VeraCrypt의 <strong>Windows 드라이버 서명용 Microsoft 계정이 예고 없이 종료</strong>되어, 개발자 Mounir Idrassi가 <strong>Windows 버전 업데이트를 배포할 수 없는 상황</strong>에 놓임</li>\n<li>Microsoft 측은 <strong>이의 제기 불가 메시지</strong>만 남겼으며, 여러 차례의 문의에도 <strong>자...</p>",
-          "contentSnippet": "VeraCrypt의 Windows 드라이버 서명용 Microsoft 계정이 예고 없이 종료되어, 개발자 Mounir Idrassi가 Windows 버전 업데이트를 배포할 수 없는 상황에 놓임\nMicrosoft 측은 이의 제기 불가 메시지만 남겼으며, 여러 차례의 문의에도 자...",
-          "id": "https://news.hada.io/topic?id=28327",
-          "isoDate": "2026-04-09T00:43:42.000Z"
-        },
-        {
-          "title": "Claude Managed Agents - 프로덕션 속도를 10배 더 빠르게",
-          "link": "https://news.hada.io/topic?id=28326",
-          "pubDate": "2026-04-09T00:41:57.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>클라우드 환경에서 대규모 에이전트를 구축·배포할 수 있는 <strong>조합형 API 제품군</strong>으로, 프로토타입을 며칠 내 프로덕션으로 전환 가능</li>\n<li>보안 샌드박싱, 자격 증명 관리, 권한 제어 등 <strong>프로덕션급 인프라를 자동 처리</strong>해 사용자는 작업 정의에만 집중 가능</li>\n<li>\n<st...</p>",
-          "contentSnippet": "클라우드 환경에서 대규모 에이전트를 구축·배포할 수 있는 조합형 API 제품군으로, 프로토타입을 며칠 내 프로덕션으로 전환 가능\n보안 샌드박싱, 자격 증명 관리, 권한 제어 등 프로덕션급 인프라를 자동 처리해 사용자는 작업 정의에만 집중 가능",
-          "id": "https://news.hada.io/topic?id=28326",
-          "isoDate": "2026-04-09T00:41:57.000Z"
         }
       ]
     }
