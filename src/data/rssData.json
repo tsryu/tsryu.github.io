@@ -7,6 +7,76 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: Advisor Opus — Anthropic의 Advisor Strategy를 Claude Code 플러그인으로 구현",
+          "link": "https://news.hada.io/topic?id=28388",
+          "pubDate": "2026-04-10T08:39:08.000Z",
+          "author": "shalome7",
+          "content": "<p>Anthropic이 Advisor Strategy를 발표했는데요.</p>\n<p>빠른 모델이 실행하고 Opus가 핵심 판단만 돕는 구조인데, API 전용이라 Claude Code에서는 쓸 수 없어서 아쉽잖아요. 그래서 plugin 으로 만들었습니다.</p>\n<p>꽤 많은 상황에서 Sonnet 세션으로 Claude Code를 쓰고 싶기도 하지만, 가끔 Opus가 필요한 순간이",
+          "contentSnippet": "Anthropic이 Advisor Strategy를 발표했는데요.\n빠른 모델이 실행하고 Opus가 핵심 판단만 돕는 구조인데, API 전용이라 Claude Code에서는 쓸 수 없어서 아쉽잖아요. 그래서 plugin 으로 만들었습니다.\n꽤 많은 상황에서 Sonnet 세션으로 Claude Code를 쓰고 싶기도 하지만, 가끔 Opus가 필요한 순간이",
+          "id": "https://news.hada.io/topic?id=28388",
+          "isoDate": "2026-04-10T08:39:08.000Z"
+        },
+        {
+          "title": "Show GN: WaitforAI – AI 응답 대기 시간에 미니게임·뉴스·퀴즈를 즐기는 크롬 익스텐션",
+          "link": "https://news.hada.io/topic?id=28387",
+          "pubDate": "2026-04-10T08:36:58.000Z",
+          "author": "j2hyeon02",
+          "content": "<p>ChatGPT, Claude, Gemini에 질문을 보내고 응답을 기다리는 동안 멍하니 화면을 보거나 의미없는 화면 스와이핑을 하는 경우가 많았습니다.</p>\n<p>WaitforAI는 AI 챗봇의 응답 생성을 자동 감지해서, 대기 시간 동안 미니게임·뉴스·퀴즈를 띄워주는 크롬 익스텐션입니다.<br />\n최대한 AI 답변 생성 흐름과 작업 흐름",
+          "contentSnippet": "ChatGPT, Claude, Gemini에 질문을 보내고 응답을 기다리는 동안 멍하니 화면을 보거나 의미없는 화면 스와이핑을 하는 경우가 많았습니다.\nWaitforAI는 AI 챗봇의 응답 생성을 자동 감지해서, 대기 시간 동안 미니게임·뉴스·퀴즈를 띄워주는 크롬 익스텐션입니다.\n최대한 AI 답변 생성 흐름과 작업 흐름",
+          "id": "https://news.hada.io/topic?id=28387",
+          "isoDate": "2026-04-10T08:36:58.000Z"
+        },
+        {
+          "title": "Claude가 발화자를 혼동하는 버그",
+          "link": "https://news.hada.io/topic?id=28386",
+          "pubDate": "2026-04-10T08:32:58.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Claude</strong>가 자신이 생성한 메시지를 <strong>사용자 발화로 오인</strong>하는 오류가 보고됨</li>\n<li>이 현상은 <strong>환각이나 권한 문제와는 별개</strong>로, 내부 지시문이 잘못 라벨링되어 실행되는 형태임</li>\n<li>Reddit 등에서도 Claude가 <strong>파괴적 명령을 스스로 내리고 사...</p>",
+          "contentSnippet": "Claude가 자신이 생성한 메시지를 사용자 발화로 오인하는 오류가 보고됨\n이 현상은 환각이나 권한 문제와는 별개로, 내부 지시문이 잘못 라벨링되어 실행되는 형태임\nReddit 등에서도 Claude가 파괴적 명령을 스스로 내리고 사...",
+          "id": "https://news.hada.io/topic?id=28386",
+          "isoDate": "2026-04-10T08:32:58.000Z"
+        },
+        {
+          "title": "Show GN: awake: AI 돌려도 노트북 덮고 회의실 갈 수 있게 해주는 CLI",
+          "link": "https://news.hada.io/topic?id=28385",
+          "pubDate": "2026-04-10T08:12:41.000Z",
+          "author": "hiddenest",
+          "content": "<p>AI가 코딩 작업을 하고 있는데 회의실로 가야해서, 노트북을 연 채로 들고 가신 적이 있나요?<br />\n또는, 출퇴근할 때 AI를 돌리고 싶은데 노트북을 펼쳐놓기에는 눈치보이셨던 적이 있으신가요?</p>\n<p>개인적으로 그런 불편함이 있었어서 간단하게 AI에 넣고 만들어보았습니다.<br />\nmacOS 만을 지원하며 아래의 ",
+          "contentSnippet": "AI가 코딩 작업을 하고 있는데 회의실로 가야해서, 노트북을 연 채로 들고 가신 적이 있나요?\n개인적으로 그런 불편함이 있었어서 간단하게 AI에 넣고 만들어보았습니다.\nmacOS 만을 지원하며 아래의",
+          "id": "https://news.hada.io/topic?id=28385",
+          "isoDate": "2026-04-10T08:12:41.000Z"
+        },
+        {
+          "title": "Show GN: SyncWatcher 맥 전용 백업 프로그램",
+          "link": "https://news.hada.io/topic?id=28382",
+          "pubDate": "2026-04-10T07:01:59.000Z",
+          "author": "kimjj81",
+          "content": "<p>안녕하세요.</p>\n<p>SyncWatcher 는 맥 전용 백업 프로그램입니다.</p>\n<ul>\n<li>일방향 디렉토리 복사</li>\n<li>xxhash 로 복사 후 검증 기능</li>\n<li>디렉토리 감시 복사</li>\n<li>스케줄 지정</li>\n<li>외장 드라이브 감시, 복사 후 자동 언마운트</li>\n</ul>\n<p>개발 후기입니다.</p>\n<p>카메라 사진을 백업하고",
+          "contentSnippet": "안녕하세요.\nSyncWatcher 는 맥 전용 백업 프로그램입니다.\n일방향 디렉토리 복사\nxxhash 로 복사 후 검증 기능\n디렉토리 감시 복사\n스케줄 지정\n외장 드라이브 감시, 복사 후 자동 언마운트\n개발 후기입니다.\n카메라 사진을 백업하고",
+          "id": "https://news.hada.io/topic?id=28382",
+          "isoDate": "2026-04-10T07:01:59.000Z"
+        },
+        {
+          "title": "macOS에서 네이티브 즉시 공간 전환 구현",
+          "link": "https://news.hada.io/topic?id=28381",
+          "pubDate": "2026-04-10T06:32:57.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>MacOS는 <strong>공간 전환 애니메이션을 비활성화할 수 없는 구조</strong>로, 잦은 전환 시 지연이 체감되는 문제가 있음</li>\n<li>기존의 <strong>“Reduce motion” 설정</strong>이나 <strong>yabai 윈도우 매니저</strong> 등은 각각 <strong>지연 지속</strong> 또는 <strong>SIP 비활성화 필요</strong...</p>",
+          "contentSnippet": "MacOS는 공간 전환 애니메이션을 비활성화할 수 없는 구조로, 잦은 전환 시 지연이 체감되는 문제가 있음\n기존의 “Reduce motion” 설정이나 yabai 윈도우 매니저 등은 각각 지연 지속 또는 SIP 비활성화 필요",
+          "id": "https://news.hada.io/topic?id=28381",
+          "isoDate": "2026-04-10T06:32:57.000Z"
+        },
+        {
+          "title": "Show GN: 지식 검증과 캐릭터 성장을 결합한 새로운 집단지성 커뮤니티 Crowdians를 소개합니다.",
+          "link": "https://news.hada.io/topic?id=28380",
+          "pubDate": "2026-04-10T06:08:09.000Z",
+          "author": "lyc2004y",
+          "content": "<p>AI가 생성한 답변을 인간이 수정 및 검증하고, 그 과정을 게임처럼 즐기며 캐릭터를 성장시키는 집단지성 플랫폼입니다.<br />\n최근 LLM의 비약적인 발전에 AI와의 대화를 하는 사람들이 많아졌습니다. 하지만 AI는 인간에게 공감하는 척 뻔한 말만 하죠. Crowdians는 이 문제를 인간의 수정과 검증을 게이미피케이션...</p>",
+          "contentSnippet": "AI가 생성한 답변을 인간이 수정 및 검증하고, 그 과정을 게임처럼 즐기며 캐릭터를 성장시키는 집단지성 플랫폼입니다.\n최근 LLM의 비약적인 발전에 AI와의 대화를 하는 사람들이 많아졌습니다. 하지만 AI는 인간에게 공감하는 척 뻔한 말만 하죠. Crowdians는 이 문제를 인간의 수정과 검증을 게이미피케이션...",
+          "id": "https://news.hada.io/topic?id=28380",
+          "isoDate": "2026-04-10T06:08:09.000Z"
+        },
+        {
           "title": "Shopify AI Toolkit - 클로드 코드/코덱스로 스토어를 관리하세요",
           "link": "https://news.hada.io/topic?id=28378",
           "pubDate": "2026-04-10T02:35:01.000Z",
@@ -435,76 +505,6 @@
           "contentSnippet": "클라우드 환경에서 대규모 에이전트를 구축·배포할 수 있는 조합형 API 제품군으로, 프로토타입을 며칠 내 프로덕션으로 전환 가능\n보안 샌드박싱, 자격 증명 관리, 권한 제어 등 프로덕션급 인프라를 자동 처리해 사용자는 작업 정의에만 집중 가능",
           "id": "https://news.hada.io/topic?id=28326",
           "isoDate": "2026-04-09T00:41:57.000Z"
-        },
-        {
-          "title": "닌텐도 Wii에서 Mac OS X 10.0(Cheetah) 구동 성공",
-          "link": "https://news.hada.io/topic?id=28325",
-          "pubDate": "2026-04-09T00:40:42.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Wii의 <strong>PowerPC 기반 하드웨어</strong>를 이용해 <strong>Mac OS X 10.0(Cheetah)</strong> 을 네이티브로 실행하는 포팅 프로젝트 완성</li>\n<li>\n<strong>Darwin/XNU 커널</strong>을 Wii에 맞게 수정하고, <strong>부트로더·디바이스 트리·드라이버</strong>를 직접 작성해 GUI 환경까지 부팅에 성공...</p>",
-          "contentSnippet": "Wii의 PowerPC 기반 하드웨어를 이용해 Mac OS X 10.0(Cheetah) 을 네이티브로 실행하는 포팅 프로젝트 완성\nDarwin/XNU 커널을 Wii에 맞게 수정하고, 부트로더·디바이스 트리·드라이버를 직접 작성해 GUI 환경까지 부팅에 성공...",
-          "id": "https://news.hada.io/topic?id=28325",
-          "isoDate": "2026-04-09T00:40:42.000Z"
-        },
-        {
-          "title": "코드를 읽기 전에 실행하는 Git 명령들",
-          "link": "https://news.hada.io/topic?id=28324",
-          "pubDate": "2026-04-09T00:37:42.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>새로운 코드베이스를 접할 때 <strong>Git 이력 분석으로 프로젝트의 구조와 위험 구역을 파악</strong>해 효율적인 탐색 방향을 설정</li>\n<li>최근 1년간 <strong>가장 자주 변경된 파일</strong>을 찾아 변경 빈도와 버그 집중도를 교차 분석해 <strong>고위험 코드</strong>를 식별</li>\n<li>\n<strong>기여...</p>",
-          "contentSnippet": "새로운 코드베이스를 접할 때 Git 이력 분석으로 프로젝트의 구조와 위험 구역을 파악해 효율적인 탐색 방향을 설정\n최근 1년간 가장 자주 변경된 파일을 찾아 변경 빈도와 버그 집중도를 교차 분석해 고위험 코드를 식별\n기여...",
-          "id": "https://news.hada.io/topic?id=28324",
-          "isoDate": "2026-04-09T00:37:42.000Z"
-        },
-        {
-          "title": "GBrain — 오픈소스 개인 지식 베이스",
-          "link": "https://news.hada.io/topic?id=28323",
-          "pubDate": "2026-04-09T00:31:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>YC CEO Garry Tan이 <strong>Karpathy의 LLMWiki 스타일</strong>로 만든 <strong>개인 지식 관리(Knowledge Brain)</strong> 도구</li>\n<li>CLI/라이브러리로도 사용 가능하지만, OpenClaw와 연동해 사용하는 것을 추천</li>\n<li>분산된 마크다운 파일들을 <strong>Postgres 기반 지식 베이스</strong>로 통합...</p>",
-          "contentSnippet": "YC CEO Garry Tan이 Karpathy의 LLMWiki 스타일로 만든 개인 지식 관리(Knowledge Brain) 도구\nCLI/라이브러리로도 사용 가능하지만, OpenClaw와 연동해 사용하는 것을 추천\n분산된 마크다운 파일들을 Postgres 기반 지식 베이스로 통합...",
-          "id": "https://news.hada.io/topic?id=28323",
-          "isoDate": "2026-04-09T00:31:02.000Z"
-        },
-        {
-          "title": "12,000톤의 오렌지 껍질이 예상치 못한 숲을 만든 이야기",
-          "link": "https://news.hada.io/topic?id=28322",
-          "pubDate": "2026-04-08T21:32:40.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>1990년대 코스타리카에서 버려진 <strong>12,000톤의 오렌지 껍질</strong>이 20년 후 <strong>무성한 숲으로 변한 생태 복원 사례</strong>로 확인됨</li>\n<li>\n<strong>프린스턴대 연구진</strong>이 황폐한 초지에 오렌지 껍질을 투기해 <strong>토양 회복과 생물량 증가</strong>를 유도한 실험이었음</li>...</p>",
-          "contentSnippet": "1990년대 코스타리카에서 버려진 12,000톤의 오렌지 껍질이 20년 후 무성한 숲으로 변한 생태 복원 사례로 확인됨\n프린스턴대 연구진이 황폐한 초지에 오렌지 껍질을 투기해 토양 회복과 생물량 증가를 유도한 실험이었음\n...",
-          "id": "https://news.hada.io/topic?id=28322",
-          "isoDate": "2026-04-08T21:32:40.000Z"
-        },
-        {
-          "title": "macOS에서 49.7일 후 TCP 네트워킹이 중단되는 버그 발견",
-          "link": "https://news.hada.io/topic?id=28321",
-          "pubDate": "2026-04-08T21:29:49.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>macOS의 <strong>TCP 타임스탬프 카운터(<code>tcp_now</code>)</strong> 가 부팅 후 약 49.7일이 지나면 32비트 오버플로로 인해 내부 <strong>TCP 시계가 정지</strong>함</li>\n<li>이로 인해 <strong>TIME_WAIT 상태의 연결이 만료되지 않고 누적</strong>되어 임시 포트가 해제되지 않음</li>\n<li>시간이 지...</p>",
-          "contentSnippet": "macOS의 TCP 타임스탬프 카운터(tcp_now) 가 부팅 후 약 49.7일이 지나면 32비트 오버플로로 인해 내부 TCP 시계가 정지함\n이로 인해 TIME_WAIT 상태의 연결이 만료되지 않고 누적되어 임시 포트가 해제되지 않음\n시간이 지...",
-          "id": "https://news.hada.io/topic?id=28321",
-          "isoDate": "2026-04-08T21:29:49.000Z"
-        },
-        {
-          "title": "Claude Mythos Preview의 사이버보안 능력 평가",
-          "link": "https://news.hada.io/topic?id=28320",
-          "pubDate": "2026-04-08T20:34:06.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Anthropic의 <strong>Claude Mythos Preview</strong>는 일반 목적 언어 모델임에도 사이버 보안 분야에서 전례 없는 수준의 취약점 발견 및 익스플로잇 능력을 보여주며, 이를 계기로 <strong>Project Glasswing</strong>을 출범시켜 세계 핵심 소프트웨어 보안 강화에 착수함</li>\n<li>Mythos Preview는 모든...</p>",
-          "contentSnippet": "Anthropic의 Claude Mythos Preview는 일반 목적 언어 모델임에도 사이버 보안 분야에서 전례 없는 수준의 취약점 발견 및 익스플로잇 능력을 보여주며, 이를 계기로 Project Glasswing을 출범시켜 세계 핵심 소프트웨어 보안 강화에 착수함\nMythos Preview는 모든...",
-          "id": "https://news.hada.io/topic?id=28320",
-          "isoDate": "2026-04-08T20:34:06.000Z"
-        },
-        {
-          "title": "모든 시대를 바꾼 GPU의 30년 연대기",
-          "link": "https://news.hada.io/topic?id=28319",
-          "pubDate": "2026-04-08T19:33:05.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>1996년부터 2025년까지의 <strong>49종 GPU</strong>를 시대별로 정리해, 기술 발전과 시장 변화를 시각화한 데이터 스토리</li>\n<li>각 세대는 <strong>트랜지스터 수·소비전력·가격·대표 게임</strong>을 기준으로 구분되며, GPU의 진화 흐름을 한눈에 보여줌</li>\n<li>\n<strong>Voodoo Graphics</strong>에...</p>",
-          "contentSnippet": "1996년부터 2025년까지의 49종 GPU를 시대별로 정리해, 기술 발전과 시장 변화를 시각화한 데이터 스토리\n각 세대는 트랜지스터 수·소비전력·가격·대표 게임을 기준으로 구분되며, GPU의 진화 흐름을 한눈에 보여줌\nVoodoo Graphics에...",
-          "id": "https://news.hada.io/topic?id=28319",
-          "isoDate": "2026-04-08T19:33:05.000Z"
         }
       ]
     }
