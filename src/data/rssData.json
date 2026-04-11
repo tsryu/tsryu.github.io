@@ -7,6 +7,26 @@
       "priority": 1,
       "data": [
         {
+          "title": "AI 서비스 PM, 이제 '기획'을 넘어 '평가'를 설계하라",
+          "link": "https://news.hada.io/topic?id=28412",
+          "pubDate": "2026-04-11T08:34:59.000Z",
+          "author": "pentaxzs",
+          "content": "<p>최근 생성형 AI 서비스가 급증하며 PM의 역할에 근본적인 변화가 생기고 있습니다.</p>\n<p>이는 QA역할에서도 마찬가지인데요.<br />\n과거 PM이 요구사항(Spec)을 정의하고 QA가 기능의 정상 작동(Pass/Fail)을 검증했다면, AI 시대의 품질은 PM이 직접 '정의'하고 '평가'해야 하는 영역이 되었습니다.</p>\n<ol>\n<li>",
+          "contentSnippet": "최근 생성형 AI 서비스가 급증하며 PM의 역할에 근본적인 변화가 생기고 있습니다.\n이는 QA역할에서도 마찬가지인데요.\n과거 PM이 요구사항(Spec)을 정의하고 QA가 기능의 정상 작동(Pass/Fail)을 검증했다면, AI 시대의 품질은 PM이 직접 '정의'하고 '평가'해야 하는 영역이 되었습니다.",
+          "id": "https://news.hada.io/topic?id=28412",
+          "isoDate": "2026-04-11T08:34:59.000Z"
+        },
+        {
+          "title": "MacBook 모서리를 갈아낸 경험",
+          "link": "https://news.hada.io/topic?id=28411",
+          "pubDate": "2026-04-11T03:32:36.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>MacBook의 알루미늄 모서리</strong>가 손목에 불편함을 주자, 이를 완화하기 위해 직접 <strong>파일로 모서리를 다듬는 작업</strong>을 수행</li>\n<li>특히 <strong>노치 주변의 뾰족한 부분</strong>을 중심으로, 작은 곡률을 큰 곡률과 자연스럽게 <strong>블렌딩</strong>해 매끄럽게 처리</li>...</p>",
+          "contentSnippet": "MacBook의 알루미늄 모서리가 손목에 불편함을 주자, 이를 완화하기 위해 직접 파일로 모서리를 다듬는 작업을 수행\n특히 노치 주변의 뾰족한 부분을 중심으로, 작은 곡률을 큰 곡률과 자연스럽게 블렌딩해 매끄럽게 처리\n...",
+          "id": "https://news.hada.io/topic?id=28411",
+          "isoDate": "2026-04-11T03:32:36.000Z"
+        },
+        {
           "title": "Claude Code /Ultraplan : 클라우드 기반 계획 수립 도구",
           "link": "https://news.hada.io/topic?id=28410",
           "pubDate": "2026-04-11T02:16:03.000Z",
@@ -485,26 +505,6 @@
           "contentSnippet": "안녕하세요.\n최근 Claude Code나 Cursor 같은 AI 에이전트의 도움을 받아 MCP(Model Context Protocol) 툴 코드를 작성하고 활용하는 사례가 많아졌습니다. 하지만 막상 작성된 툴 코드를 실제 환경에서 돌려보고 검증하려고 하면 답답한 순간이 많았습니다.\n이 툴이 정말 제대로 동작하는가?</l",
           "id": "https://news.hada.io/topic?id=28355",
           "isoDate": "2026-04-09T14:25:51.000Z"
-        },
-        {
-          "title": "Show GN: AI가 거짓말 못 하게 만드는 완벽한 방법 - leceipts",
-          "link": "https://news.hada.io/topic?id=28354",
-          "pubDate": "2026-04-09T12:41:44.000Z",
-          "author": "0ooooo0",
-          "content": "<p>AI 코딩 도구를 쓰다 보면 묘하게 반복되는 상황이 있습니다.</p>\n<p>버그를 설명하면<br />\n→ “문제 수정했습니다”<br />\n→ 실행해보면 여전히 깨짐</p>\n<p>이게 단순히 AI 문제라기보다,<br />\n사람 코드 리뷰에서도 익숙한 패턴이기도 합니다.<br />\n• “아마 이거면 될 듯”<br />\n• “로컬에서는 잘 됨”...</p>",
-          "contentSnippet": "AI 코딩 도구를 쓰다 보면 묘하게 반복되는 상황이 있습니다.\n버그를 설명하면\n이게 단순히 AI 문제라기보다,\n사람 코드 리뷰에서도 익숙한 패턴이기도 합니다.\n• “아마 이거면 될 듯”\n• “로컬에서는 잘 됨”...",
-          "id": "https://news.hada.io/topic?id=28354",
-          "isoDate": "2026-04-09T12:41:44.000Z"
-        },
-        {
-          "title": "Show GN: legalize-kr 법령을 코드처럼, 판례도 코드처럼. 모든 법령과 판례는 Markdown 파일, 모든 개정과 판결...",
-          "link": "https://news.hada.io/topic?id=28353",
-          "pubDate": "2026-04-09T12:24:45.000Z",
-          "author": "ninebow",
-          "content": "<h3>legalize-kr가 무엇인가요?</h3>\n<p>legalize-kr은 법제처의 <a href=\"https://open.law.go.kr\">국가법령정보 공동활용</a>이 제공하는 대한민국의 법령 및 판례들을 Markdown + Git 히스토리로 아카이빙하는 프로젝트입니다. 모든 법령을 Markdown 문서로, 모든 개정 내역을 Git Commit으로 아카이빙하였으며, 판례...</p>",
-          "contentSnippet": "legalize-kr가 무엇인가요?\nlegalize-kr은 법제처의 국가법령정보 공동활용이 제공하는 대한민국의 법령 및 판례들을 Markdown + Git 히스토리로 아카이빙하는 프로젝트입니다. 모든 법령을 Markdown 문서로, 모든 개정 내역을 Git Commit으로 아카이빙하였으며, 판례...",
-          "id": "https://news.hada.io/topic?id=28353",
-          "isoDate": "2026-04-09T12:24:45.000Z"
         }
       ]
     }
