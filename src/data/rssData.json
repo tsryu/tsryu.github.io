@@ -7,12 +7,132 @@
       "priority": 1,
       "data": [
         {
-          "title": "월 100달러 Claude Code 예산을 Zed와 OpenRouter로 재배분",
+          "title": "Claude Code /Ultraplan : 클라우드 기반 계획 수립 도구",
+          "link": "https://news.hada.io/topic?id=28410",
+          "pubDate": "2026-04-11T02:16:03.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>CLI에서 시작한 계획 작업을 클라우드로 넘겨 <strong>클로드 코드 웹</strong>에서 초안을 작성하고, 브라우저에서 검토·수정 후 웹 또는 로컬 터미널 중 원하는 곳에서 실행하는 워크플로를 제공</li>\n<li>터미널을 점유하지 않고 <strong>원격에서 계획을 생성</strong>하므로, 초안 작성 중에도 로컬 작업을...</p>",
+          "contentSnippet": "CLI에서 시작한 계획 작업을 클라우드로 넘겨 클로드 코드 웹에서 초안을 작성하고, 브라우저에서 검토·수정 후 웹 또는 로컬 터미널 중 원하는 곳에서 실행하는 워크플로를 제공\n터미널을 점유하지 않고 원격에서 계획을 생성하므로, 초안 작성 중에도 로컬 작업을...",
+          "id": "https://news.hada.io/topic?id=28410",
+          "isoDate": "2026-04-11T02:16:03.000Z"
+        },
+        {
+          "title": "WireGuard, Microsoft 서명 문제 해결 후 새 Windows 버전 공개",
+          "link": "https://news.hada.io/topic?id=28408",
+          "pubDate": "2026-04-11T01:32:41.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>WireGuardNT v0.11</strong>과 <strong>WireGuard for Windows v0.6</strong>이 공개되어 커널 드라이버와 관리 도구가 모두 최신화됨</li>\n<li>새 버전은 <strong>패킷 손실 없는 허용 IP 제거 처리</strong>, <strong>낮은 MTU 지원</strong>, <strong>버그 수정 및 성능 향상</strong>을 포함함</l...</p>",
+          "contentSnippet": "WireGuardNT v0.11과 WireGuard for Windows v0.6이 공개되어 커널 드라이버와 관리 도구가 모두 최신화됨\n새 버전은 패킷 손실 없는 허용 IP 제거 처리, 낮은 MTU 지원, 버그 수정 및 성능 향상을 포함함",
+          "id": "https://news.hada.io/topic?id=28408",
+          "isoDate": "2026-04-11T01:32:41.000Z"
+        },
+        {
+          "title": "일리노이주 AI 책임 제한 법안에 대한 OpenAI의 지지",
+          "link": "https://news.hada.io/topic?id=28406",
+          "pubDate": "2026-04-11T00:56:47.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>OpenAI</strong>가 일리노이주 상원 법안 <strong>SB 3444</strong>를 지지하며, AI 모델이 대규모 인명 피해나 막대한 재산 피해를 일으킨 경우에도 일정 조건하에 <strong>AI 연구소의 법적 책임을 제한</strong>하는 내용임\n<ul>\n<li>법안은 AI 모델이 100명 이상 사망 또는 중상, 혹은 10억 달러 ...</p>",
+          "contentSnippet": "OpenAI가 일리노이주 상원 법안 SB 3444를 지지하며, AI 모델이 대규모 인명 피해나 막대한 재산 피해를 일으킨 경우에도 일정 조건하에 AI 연구소의 법적 책임을 제한하는 내용임\n\n법안은 AI 모델이 100명 이상 사망 또는 중상, 혹은 10억 달러 ...",
+          "id": "https://news.hada.io/topic?id=28406",
+          "isoDate": "2026-04-11T00:56:47.000Z"
+        },
+        {
+          "title": "macOS의 Privacy &amp; Security 설정을 신뢰할 수 없는 이유",
+          "link": "https://news.hada.io/topic?id=28405",
+          "pubDate": "2026-04-11T00:53:47.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>macOS의 <strong>Privacy &amp; Security 설정이 실제 접근 권한 상태를 반영하지 못하는 문제</strong>가 확인됨</li>\n<li>Documents 폴더 접근이 차단된 상태에서도 <strong>Insent 앱이 여전히 파일을 읽을 수 있는 현상</strong>이 발생</li>\n<li>사용자가 폴더를 직접 선택하면 <strong>TCC 시스템이 이를...</p>",
+          "contentSnippet": "macOS의 Privacy & Security 설정이 실제 접근 권한 상태를 반영하지 못하는 문제가 확인됨\nDocuments 폴더 접근이 차단된 상태에서도 Insent 앱이 여전히 파일을 읽을 수 있는 현상이 발생\n사용자가 폴더를 직접 선택하면 TCC 시스템이 이를...",
+          "id": "https://news.hada.io/topic?id=28405",
+          "isoDate": "2026-04-11T00:53:47.000Z"
+        },
+        {
+          "title": "나는 여전히 Skills보다 MCP를 선호한다",
+          "link": "https://news.hada.io/topic?id=28404",
+          "pubDate": "2026-04-11T00:50:47.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>MCP</strong>는 LLM이 도구의 내부 구조를 몰라도 작업을 요청할 수 있는 <strong>API 추상화 기반 표준 인터페이스</strong>로, 원격 사용과 자동 업데이트를 지원함</li>\n<li>\n<strong>Zero-Install 구조</strong>, <strong>OAuth 인증</strong>, <strong>샌드박싱 보안</strong>을 통해 설치 부담과...</p>",
+          "contentSnippet": "MCP는 LLM이 도구의 내부 구조를 몰라도 작업을 요청할 수 있는 API 추상화 기반 표준 인터페이스로, 원격 사용과 자동 업데이트를 지원함\nZero-Install 구조, OAuth 인증, 샌드박싱 보안을 통해 설치 부담과...",
+          "id": "https://news.hada.io/topic?id=28404",
+          "isoDate": "2026-04-11T00:50:47.000Z"
+        },
+        {
+          "title": "프랑스, 미국 기술 의존 줄이기 위해 Windows 대신 Linux로 전환",
+          "link": "https://news.hada.io/topic?id=28403",
+          "pubDate": "2026-04-11T00:47:47.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>프랑스 정부가 <strong>Microsoft Windows를 사용하는 일부 공공 부문 컴퓨터를 Linux로 전환</strong>해 <strong>미국 기술 의존도를 줄이고 디지털 주권을 강화</strong>하려는 계획을 발표함</li>\n<li>전환은 정부 디지털 기관 <strong>DINUM</strong>에서 우선 시행되며, 구체적인 <strong>일정과 배포판 선...</p>",
+          "contentSnippet": "프랑스 정부가 Microsoft Windows를 사용하는 일부 공공 부문 컴퓨터를 Linux로 전환해 미국 기술 의존도를 줄이고 디지털 주권을 강화하려는 계획을 발표함\n전환은 정부 디지털 기관 DINUM에서 우선 시행되며, 구체적인 일정과 배포판 선...",
+          "id": "https://news.hada.io/topic?id=28403",
+          "isoDate": "2026-04-11T00:47:47.000Z"
+        },
+        {
+          "title": "FBI, iPhone 알림 데이터로 삭제된 Signal 메시지 복구",
+          "link": "https://news.hada.io/topic?id=28402",
+          "pubDate": "2026-04-11T00:44:46.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>FBI가 iPhone의 내부 알림 데이터베이스를 이용해 삭제된 Signal 메시지를 복구한 사례</strong>가 법정 증언을 통해 공개됨</li>\n<li>피고인의 iPhone에서 <strong>Signal 앱 삭제 후에도 수신 알림 내용이 내부 저장소에 남아 있었으며</strong>, 알림 미리보기 설정이 비활성화된 상태였음</li>\n<l...</p>",
+          "contentSnippet": "FBI가 iPhone의 내부 알림 데이터베이스를 이용해 삭제된 Signal 메시지를 복구한 사례가 법정 증언을 통해 공개됨\n피고인의 iPhone에서 Signal 앱 삭제 후에도 수신 알림 내용이 내부 저장소에 남아 있었으며, 알림 미리보기 설정이 비활성화된 상태였음",
+          "id": "https://news.hada.io/topic?id=28402",
+          "isoDate": "2026-04-11T00:44:46.000Z"
+        },
+        {
+          "title": "1D 체스",
+          "link": "https://news.hada.io/topic?id=28401",
+          "pubDate": "2026-04-11T00:41:46.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>전통적인 체스의 2차원 보드를 <strong>1차원 선형 보드</strong>로 단순화한 변형 체스 게임</li>\n<li>플레이어는 <strong>백 진영으로 AI와 대국</strong>하며, 최적의 수를 통해 필승 가능성을 탐구함</li>\n<li>\n<strong>King, Knight, Rook</strong> 세 가지 말만 존재하며, 각 말은 1차원 규칙에 맞게 이동...</p>",
+          "contentSnippet": "전통적인 체스의 2차원 보드를 1차원 선형 보드로 단순화한 변형 체스 게임\n플레이어는 백 진영으로 AI와 대국하며, 최적의 수를 통해 필승 가능성을 탐구함\nKing, Knight, Rook 세 가지 말만 존재하며, 각 말은 1차원 규칙에 맞게 이동...",
+          "id": "https://news.hada.io/topic?id=28401",
+          "isoDate": "2026-04-11T00:41:46.000Z"
+        },
+        {
+          "title": "프랑스, 정부용 리눅스 데스크톱 계획 착수로 윈도우 탈피 시작",
+          "link": "https://news.hada.io/topic?id=28400",
+          "pubDate": "2026-04-11T00:38:46.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>프랑스 정부가 <strong>비유럽 기술 의존도를 줄이고 디지털 주권을 강화하기 위한 국가 전략</strong>을 본격 추진함</li>\n<li>행정기관의 <strong>운영체제를 Windows에서 Linux로 단계적 전환</strong>하며, 공공기관 업무 환경을 정부 공통 플랫폼으로 이전 중임</li>\n<li>\n<strong>DINUM 주도의 부처 간 실...</p>",
+          "contentSnippet": "프랑스 정부가 비유럽 기술 의존도를 줄이고 디지털 주권을 강화하기 위한 국가 전략을 본격 추진함\n행정기관의 운영체제를 Windows에서 Linux로 단계적 전환하며, 공공기관 업무 환경을 정부 공통 플랫폼으로 이전 중임\nDINUM 주도의 부처 간 실...",
+          "id": "https://news.hada.io/topic?id=28400",
+          "isoDate": "2026-04-11T00:38:46.000Z"
+        },
+        {
+          "title": "multica - 코딩 에이전트를 실제 팀원으로 운영하는 관리형 에이전트 플랫폼",
+          "link": "https://news.hada.io/topic?id=28399",
+          "pubDate": "2026-04-11T00:37:20.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>동료에게 이슈를 할당하듯 <strong>에이전트에게 태스크를 배정</strong>하면, 에이전트가 코드 작성·블로커 보고·상태 업데이트를 자율 수행</li>\n<li>Claude Code, Codex, OpenClaw, OpenCode 지원. 단일 대시보드에서 통합 관리, 사용 가능한 CLI 자동 감지</li>\n<li>\n<strong>Reusable Skills</strong> : 배...</p>",
+          "contentSnippet": "동료에게 이슈를 할당하듯 에이전트에게 태스크를 배정하면, 에이전트가 코드 작성·블로커 보고·상태 업데이트를 자율 수행\nClaude Code, Codex, OpenClaw, OpenCode 지원. 단일 대시보드에서 통합 관리, 사용 가능한 CLI 자동 감지\nReusable Skills : 배...",
+          "id": "https://news.hada.io/topic?id=28399",
+          "isoDate": "2026-04-11T00:37:20.000Z"
+        },
+        {
+          "title": "메인주, 대형 신규 데이터센터 건설 금지 추진",
+          "link": "https://news.hada.io/topic?id=28398",
+          "pubDate": "2026-04-10T23:32:52.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>메인주 의회가 <strong>20메가와트 이상 전력 사용</strong> 데이터센터의 신규 허가를 <strong>2027년 11월까지 중단</strong>하는 법안 <strong>LD 307</strong>을 통과시킴</li>\n<li>\n<strong>AI 확산으로 인한 전력 수요 급증</strong>과 <strong>노후 전력망 부담</strong>을 조사하기 위해 <strong>데이터...</p>",
+          "contentSnippet": "메인주 의회가 20메가와트 이상 전력 사용 데이터센터의 신규 허가를 2027년 11월까지 중단하는 법안 LD 307을 통과시킴\nAI 확산으로 인한 전력 수요 급증과 노후 전력망 부담을 조사하기 위해 데이터...",
+          "id": "https://news.hada.io/topic?id=28398",
+          "isoDate": "2026-04-10T23:32:52.000Z"
+        },
+        {
+          "title": "Charcuterie – 시각적 유사성 기반 Unicode 탐색기",
+          "link": "https://news.hada.io/topic?id=28397",
+          "pubDate": "2026-04-10T22:32:47.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Unicode 문자 집합</strong>을 시각적으로 탐색하며, 각 문자의 <strong>글리프·스크립트·기호·형태</strong>를 확인할 수 있는 도구</li>\n<li>문자 간 <strong>시각적 유사성</strong>을 분석하기 위해 <strong>SigLIP 2 임베딩</strong>을 활용해 글리프를 벡터 공간에서 비교</li>\n<li>사용자는 문...</p>",
+          "contentSnippet": "Unicode 문자 집합을 시각적으로 탐색하며, 각 문자의 글리프·스크립트·기호·형태를 확인할 수 있는 도구\n문자 간 시각적 유사성을 분석하기 위해 SigLIP 2 임베딩을 활용해 글리프를 벡터 공간에서 비교\n사용자는 문...",
+          "id": "https://news.hada.io/topic?id=28397",
+          "isoDate": "2026-04-10T22:32:47.000Z"
+        },
+        {
+          "title": "월 100달러 Claude Code 예산을 Zed와 OpenRouter로 재배분하기",
           "link": "https://news.hada.io/topic?id=28396",
           "pubDate": "2026-04-10T19:33:08.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>고정 구독형 <strong>Claude Code(월 100달러)</strong> 대신 <strong>Zed(월 10달러)</strong> 와 <strong>OpenRouter 크레딧(월 90달러)</strong> 로 나누어 사용하는 방식으로 전환</li>\n<li>Zed는 <strong>빠른 반응성과 시각적 파일 추적 기능</strong>을 갖춘 에디터로, <strong>Agent Client Protocol...</p>",
-          "contentSnippet": "고정 구독형 Claude Code(월 100달러) 대신 Zed(월 10달러) 와 OpenRouter 크레딧(월 90달러) 로 나누어 사용하는 방식으로 전환\nZed는 빠른 반응성과 시각적 파일 추적 기능을 갖춘 에디터로, Agent Client Protocol...",
+          "content": "<ul>\n<li>고정 구독형 <strong>클로드 코드(월 $100)</strong> 대신 <strong>Zed(월 $10)</strong> 와 <strong>OpenRouter 크레딧(월 $90)</strong> 로 나누어 사용하는 방식으로 전환</li>\n<li>Zed는 <strong>빠른 반응성과 시각적 파일 추적 기능</strong>을 갖춘 에디터로, <strong>Agent Client Protocol</strong>을...</p>",
+          "contentSnippet": "고정 구독형 클로드 코드(월 $100) 대신 Zed(월 $10) 와 OpenRouter 크레딧(월 $90) 로 나누어 사용하는 방식으로 전환\nZed는 빠른 반응성과 시각적 파일 추적 기능을 갖춘 에디터로, Agent Client Protocol을...",
           "id": "https://news.hada.io/topic?id=28396",
           "isoDate": "2026-04-10T19:33:08.000Z"
         },
@@ -27,7 +147,7 @@
           "isoDate": "2026-04-10T18:32:53.000Z"
         },
         {
-          "title": "개인 노트북을 저비용 전용 서버로 전환하는 CoLaptop 서비스",
+          "title": "CoLaptop - 개인 노트북을 저비용 전용 서버로 전환하는 서비스",
           "link": "https://news.hada.io/topic?id=28394",
           "pubDate": "2026-04-10T17:32:54.000Z",
           "author": "neo",
@@ -61,8 +181,8 @@
           "link": "https://news.hada.io/topic?id=28390",
           "pubDate": "2026-04-10T14:33:16.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>Meta Superintelligence Labs가 개발한 <strong>Muse Spark</strong>는 도구 사용, 시각적 사고 연쇄, 다중 에이전트 협업을 지원하는 <strong>멀티모달 추론 모델</strong>임</li>\n<li>\n<strong>개인 초지능(personal superintelligence)</strong> 을 향한 첫 단계로, meta.ai와 Meta AI 앱에서 일부 사용자에...</p>",
-          "contentSnippet": "Meta Superintelligence Labs가 개발한 Muse Spark는 도구 사용, 시각적 사고 연쇄, 다중 에이전트 협업을 지원하는 멀티모달 추론 모델임\n개인 초지능(personal superintelligence) 을 향한 첫 단계로, meta.ai와 Meta AI 앱에서 일부 사용자에...",
+          "content": "<ul>\n<li>Meta Superintelligence Labs가 개발한 <strong>Muse Spark</strong>는 도구 사용, 시각적 사고 연쇄, 다중 에이전트 협업을 지원하는 <strong>멀티모달 추론 모델</strong>\n</li>\n<li>\n<strong>개인 초지능(personal superintelligence)</strong> 을 향한 첫 단계로, meta.ai와 Meta AI 앱에서 일부 사용자에게...</p>",
+          "contentSnippet": "Meta Superintelligence Labs가 개발한 Muse Spark는 도구 사용, 시각적 사고 연쇄, 다중 에이전트 협업을 지원하는 멀티모달 추론 모델\n\n\n개인 초지능(personal superintelligence) 을 향한 첫 단계로, meta.ai와 Meta AI 앱에서 일부 사용자에게...",
           "id": "https://news.hada.io/topic?id=28390",
           "isoDate": "2026-04-10T14:33:16.000Z"
         },
@@ -385,126 +505,6 @@
           "contentSnippet": "legalize-kr가 무엇인가요?\nlegalize-kr은 법제처의 국가법령정보 공동활용이 제공하는 대한민국의 법령 및 판례들을 Markdown + Git 히스토리로 아카이빙하는 프로젝트입니다. 모든 법령을 Markdown 문서로, 모든 개정 내역을 Git Commit으로 아카이빙하였으며, 판례...",
           "id": "https://news.hada.io/topic?id=28353",
           "isoDate": "2026-04-09T12:24:45.000Z"
-        },
-        {
-          "title": "Show GN: 안쓰는 Skill들 정리하는 Skill",
-          "link": "https://news.hada.io/topic?id=28352",
-          "pubDate": "2026-04-09T12:24:02.000Z",
-          "author": "kl529",
-          "content": "<p>안쓰는 Skill들이 너무 많아서, 좀 정리하다가, skill로 만들어보면 좋을 것 같아서 만들었습니다.<br />\n부족한 부분도 많을거라, 피드백은 언제나 환영입니다.</p>\n<h3>왜 스킬 정리가 필요한가</h3>\n<p>Claude Code는 스킬과 플러그인을 쉽게 설치할 수 있다.<br />\n문제는 설치는 쉽지만, 관리는 누구도 해주지 않",
-          "contentSnippet": "안쓰는 Skill들이 너무 많아서, 좀 정리하다가, skill로 만들어보면 좋을 것 같아서 만들었습니다.\n왜 스킬 정리가 필요한가\nClaude Code는 스킬과 플러그인을 쉽게 설치할 수 있다.\n문제는 설치는 쉽지만, 관리는 누구도 해주지 않",
-          "id": "https://news.hada.io/topic?id=28352",
-          "isoDate": "2026-04-09T12:24:02.000Z"
-        },
-        {
-          "title": "비트코인 창시자 사토시 나카모토는 누구인가",
-          "link": "https://news.hada.io/topic?id=28351",
-          "pubDate": "2026-04-09T11:32:31.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>17년간 가명 뒤에 숨어 있던 <strong>비트코인 창시자 사토시 나카모토</strong>의 정체를, 뉴욕타임스 탐사 기자가 1년간 수만 건의 수십 년 된 인터넷 게시물을 파헤쳐 추적한 결과물</li>\n<li>사이퍼펑크 메일링 리스트 아카이브 전체를 데이터베이스화하고 <strong>문체 분석·언어 패턴 필터링</strong>을 ...</p>",
-          "contentSnippet": "17년간 가명 뒤에 숨어 있던 비트코인 창시자 사토시 나카모토의 정체를, 뉴욕타임스 탐사 기자가 1년간 수만 건의 수십 년 된 인터넷 게시물을 파헤쳐 추적한 결과물\n사이퍼펑크 메일링 리스트 아카이브 전체를 데이터베이스화하고 문체 분석·언어 패턴 필터링을 ...",
-          "id": "https://news.hada.io/topic?id=28351",
-          "isoDate": "2026-04-09T11:32:31.000Z"
-        },
-        {
-          "title": "MAU의 시대의 종말, MRR도 이제 못 믿는다?",
-          "link": "https://news.hada.io/topic?id=28350",
-          "pubDate": "2026-04-09T09:20:40.000Z",
-          "author": "haebom",
-          "content": "<p>안녕하세요. 요즘 뉴스레터를 하는 낙으로 살고 있습니다.<br />\n매일 한 개의 뉴스레터를 쓰고 있는데 너무 자주 올리면 GN 정책에 맞지 않아서 유달리 트래픽이 터지는 뉴스레터를 소개코자 합니다.</p>\n<p>개인적으로 정말 나쁘지 않은 내용이라 생각하고 한 번 생각해볼만한 주제라고 여겨 공유 드립니다.<br />\n",
-          "contentSnippet": "안녕하세요. 요즘 뉴스레터를 하는 낙으로 살고 있습니다.\n개인적으로 정말 나쁘지 않은 내용이라 생각하고 한 번 생각해볼만한 주제라고 여겨 공유 드립니다.",
-          "id": "https://news.hada.io/topic?id=28350",
-          "isoDate": "2026-04-09T09:20:40.000Z"
-        },
-        {
-          "title": "모든 것은 거짓으로 향하는가",
-          "link": "https://news.hada.io/topic?id=28349",
-          "pubDate": "2026-04-09T08:33:06.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>현대의 <strong>AI라 불리는 기술은 실제로는 복잡한 머신러닝(ML) 시스템</strong>으로, 텍스트·이미지·오디오를 통계적으로 완성하는 구조임</li>\n<li>\n<strong>LLM은 즉흥극처럼 ‘그럴듯한 거짓’을 만들어내는 기계</strong>로, 모른다는 답을 회피하며 허구적 사실을 생성함</li>\n<li>사람들은 이를 의식...</p>",
-          "contentSnippet": "현대의 AI라 불리는 기술은 실제로는 복잡한 머신러닝(ML) 시스템으로, 텍스트·이미지·오디오를 통계적으로 완성하는 구조임\nLLM은 즉흥극처럼 ‘그럴듯한 거짓’을 만들어내는 기계로, 모른다는 답을 회피하며 허구적 사실을 생성함\n사람들은 이를 의식...",
-          "id": "https://news.hada.io/topic?id=28349",
-          "isoDate": "2026-04-09T08:33:06.000Z"
-        },
-        {
-          "title": "Meta, 새 AI 모델 오픈소스 공개 예고",
-          "link": "https://news.hada.io/topic?id=28347",
-          "pubDate": "2026-04-09T07:04:25.000Z",
-          "author": "davespark",
-          "content": "<p>Meta가 <strong>차세대 AI 모델</strong>을 오픈소스 형태로 공개할 예정이라고 발표했습니다. 다만 기존 <strong>Llama 시리즈</strong>와는 상당히 다릅니다.</p>\n<h4>주요 내용</h4>\n<ul>\n<li>Meta는 Scale AI를 인수하면서 합류한 Alexandr Wang이 주도해 개발 중인 새 AI 모델 패밀리를 준비 중.</li>\n<li>\n<str",
-          "contentSnippet": "Meta가 차세대 AI 모델을 오픈소스 형태로 공개할 예정이라고 발표했습니다. 다만 기존 Llama 시리즈와는 상당히 다릅니다.\n주요 내용\nMeta는 Scale AI를 인수하면서 합류한 Alexandr Wang이 주도해 개발 중인 새 AI 모델 패밀리를 준비 중.\n\n<str",
-          "id": "https://news.hada.io/topic?id=28347",
-          "isoDate": "2026-04-09T07:04:25.000Z"
-        },
-        {
-          "title": "Show GN: , AI-SLOP Detector 3.1.1 - AI 에이전트가 만든 스파게티 코드를 잡는 분석 도구",
-          "link": "https://news.hada.io/topic?id=28346",
-          "pubDate": "2026-04-09T06:46:24.000Z",
-          "author": "flamehaven01",
-          "content": "<p>AI-SLOP Detector는 AI 에이전트가 만든 코드에서 자주 보이는 구조적 결함을 정적으로 분석하는 도구입니다.</p>\n<p>단순 스타일 검사보다, stub 구현, phantom import, 과장된 주석/용어, helper로 쪼개 숨긴 복잡도처럼<br />\n“겉보기엔 깔끔한데 실제로는 불안한 코드”를 잡는 데 초점을 둡니다.</p>\n<h4>무엇을",
-          "contentSnippet": "AI-SLOP Detector는 AI 에이전트가 만든 코드에서 자주 보이는 구조적 결함을 정적으로 분석하는 도구입니다.\n단순 스타일 검사보다, stub 구현, phantom import, 과장된 주석/용어, helper로 쪼개 숨긴 복잡도처럼\n무엇을",
-          "id": "https://news.hada.io/topic?id=28346",
-          "isoDate": "2026-04-09T06:46:24.000Z"
-        },
-        {
-          "title": "Show GN: Android arm64에서 proot 병목을 줄이기 위해 ptrace 없는 proroot를 만들어봤습니다",
-          "link": "https://news.hada.io/topic?id=28342",
-          "pubDate": "2026-04-09T05:47:56.000Z",
-          "author": "coderred",
-          "content": "<p>안녕하세요.</p>\n<p>Android에서 Ubuntu arm64 사용자 공간을 올려 사용하는 프로젝트를 진행하면서, 가장 큰 병목은 역시 proot의 ptrace 오버헤드였습니다. 특히 Node.js나 Chromium 같은 워크로드에서는 syscall마다 발생하는 context switch 비용이 꽤 크게 느껴졌습니다.</p>\n<p>그래서 proot와 비슷한 방향성을",
-          "contentSnippet": "안녕하세요.\nAndroid에서 Ubuntu arm64 사용자 공간을 올려 사용하는 프로젝트를 진행하면서, 가장 큰 병목은 역시 proot의 ptrace 오버헤드였습니다. 특히 Node.js나 Chromium 같은 워크로드에서는 syscall마다 발생하는 context switch 비용이 꽤 크게 느껴졌습니다.\n그래서 proot와 비슷한 방향성을",
-          "id": "https://news.hada.io/topic?id=28342",
-          "isoDate": "2026-04-09T05:47:56.000Z"
-        },
-        {
-          "title": "AX팀을 만드는 순간, 당신의 조직은 AX에 실패한다",
-          "link": "https://news.hada.io/topic?id=28341",
-          "pubDate": "2026-04-09T05:28:45.000Z",
-          "author": "flowkater",
-          "content": "<h3>한 줄 요약</h3>\n<p>AX 추진팀 신설은 계층을 줄여야 할 때 계층을 하나 더 쌓는 역설이다. MIT NANDA 연구에서 성공한 5%는 중앙 AI 랩이 아니라 현장 관리자가 주도한 조직이었다. 15년 CTO 경험에서 배운 AX의 제1원칙은 도구가 아니라 조직과 사람이다.</p>\n<h3>AX 추진팀 역설 — 계층을 없애야 하는데 계층을 ",
-          "contentSnippet": "한 줄 요약\nAX 추진팀 신설은 계층을 줄여야 할 때 계층을 하나 더 쌓는 역설이다. MIT NANDA 연구에서 성공한 5%는 중앙 AI 랩이 아니라 현장 관리자가 주도한 조직이었다. 15년 CTO 경험에서 배운 AX의 제1원칙은 도구가 아니라 조직과 사람이다.\nAX 추진팀 역설 — 계층을 없애야 하는데 계층을",
-          "id": "https://news.hada.io/topic?id=28341",
-          "isoDate": "2026-04-09T05:28:45.000Z"
-        },
-        {
-          "title": "Ruff·uv 만든 Astral이 공개한 오픈소스 보안 전략 전모",
-          "link": "https://news.hada.io/topic?id=28340",
-          "pubDate": "2026-04-09T05:02:43.000Z",
-          "author": "darjeeling",
-          "content": "<p>Astral은 전 세계 수백만 개발자가 의존하는 도구(Ruff, uv, ty)를 만들고 있으며, 최근 Trivy와 LiteLLM 공급망 해킹 사건을 계기로 자신들의 보안 실천 방식을 공개했다. 대상 독자는 세 부류다: 사용자, 다른 오픈소스 메인테이너, CI/CD 시스템 개발자.</p>\n<hr />\n<h3>1. CI/CD 보안</h3>\n<p>GitHub Actions의 보",
-          "contentSnippet": "Astral은 전 세계 수백만 개발자가 의존하는 도구(Ruff, uv, ty)를 만들고 있으며, 최근 Trivy와 LiteLLM 공급망 해킹 사건을 계기로 자신들의 보안 실천 방식을 공개했다. 대상 독자는 세 부류다: 사용자, 다른 오픈소스 메인테이너, CI/CD 시스템 개발자.\n1. CI/CD 보안\nGitHub Actions의 보",
-          "id": "https://news.hada.io/topic?id=28340",
-          "isoDate": "2026-04-09T05:02:43.000Z"
-        },
-        {
-          "title": "그들은 고기로 만들어졌다 (1991)",
-          "link": "https://news.hada.io/topic?id=28338",
-          "pubDate": "2026-04-09T03:32:27.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>외계 존재들이 지구를 조사하며 <strong>완전히 고기로 이루어진 지적 생명체</strong>를 발견함</li>\n<li>이들은 <strong>두뇌까지 고기인 인간이 사고와 감정을 수행한다는 사실</strong>에 충격을 받음</li>\n<li>인간은 <strong>고기를 진동시켜 소리를 내는 방식으로 대화</strong>하며, 라디오 신호를 통해...</p>",
-          "contentSnippet": "외계 존재들이 지구를 조사하며 완전히 고기로 이루어진 지적 생명체를 발견함\n이들은 두뇌까지 고기인 인간이 사고와 감정을 수행한다는 사실에 충격을 받음\n인간은 고기를 진동시켜 소리를 내는 방식으로 대화하며, 라디오 신호를 통해...",
-          "id": "https://news.hada.io/topic?id=28338",
-          "isoDate": "2026-04-09T03:32:27.000Z"
-        },
-        {
-          "title": "Show GN: 한글 점자 변환 도구 braillify 2.0 출시",
-          "link": "https://news.hada.io/topic?id=28337",
-          "pubDate": "2026-04-09T03:30:27.000Z",
-          "author": "owjs3901",
-          "content": "<p>오픈소스 한글 -&gt; 한글 점자 변환 도구 braillify 2.0 출시했습니다</p>\n<p>테스트 케이스 2,000개 이상으로 확장했고<br />\n수학 점자랑 중세국어까지 대부분 지원합니다<br />\n정확도도 99%까지 올라갔습니다</p>\n<p>점사랑, 점자세상과 비교한 벤치마크도 같이 공개했습니다<br />\n국내 최고 및 압도적인 정확도",
-          "contentSnippet": "오픈소스 한글 -> 한글 점자 변환 도구 braillify 2.0 출시했습니다\n테스트 케이스 2,000개 이상으로 확장했고\n점사랑, 점자세상과 비교한 벤치마크도 같이 공개했습니다\n국내 최고 및 압도적인 정확도",
-          "id": "https://news.hada.io/topic?id=28337",
-          "isoDate": "2026-04-09T03:30:27.000Z"
-        },
-        {
-          "title": "AI 기반 Google Finance, 한국 포함 100개국 이상으로 글로벌 확장",
-          "link": "https://news.hada.io/topic?id=28336",
-          "pubDate": "2026-04-09T02:36:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Google Finance가 AI 기능을 탑재한 새 버전으로 전면 개편되어, <strong>100개국 이상</strong>으로 확대하고 <strong>한국어도 지원 시작</strong>\n</li>\n<li>AI 리서치 기능을 통해 <strong>시장 복잡한 질문부터 개별 종목 세부 정보</strong>까지 자연어로 질문하면 포괄적인 AI 응답과 추가 학습 링크를 ...</p>",
-          "contentSnippet": "Google Finance가 AI 기능을 탑재한 새 버전으로 전면 개편되어, 100개국 이상으로 확대하고 한국어도 지원 시작\n\nAI 리서치 기능을 통해 시장 복잡한 질문부터 개별 종목 세부 정보까지 자연어로 질문하면 포괄적인 AI 응답과 추가 학습 링크를 ...",
-          "id": "https://news.hada.io/topic?id=28336",
-          "isoDate": "2026-04-09T02:36:02.000Z"
         }
       ]
     }
