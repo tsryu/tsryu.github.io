@@ -7,6 +7,116 @@
       "priority": 1,
       "data": [
         {
+          "title": "프랑스 정부, 미국 기술 의존을 전략적 위험으로 보고 Windows에서 Linux로 전환",
+          "link": "https://news.hada.io/topic?id=28434",
+          "pubDate": "2026-04-12T03:32:23.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>프랑스 정부가 <strong>EU 외부 독점 기술 의존을 줄이고 오픈소스 중심으로 전환</strong>하는 계획을 추진</li>\n<li>디지털 행정국(DINUM)은 각 부처에 <strong>EU 외부 기술 의존도 조사와 탈피 계획 수립</strong>을 지시하고, <strong>Windows를 Linux로 대체</strong>하는 방안을 포함</li>\n<li>\n<strong...</p>",
+          "contentSnippet": "프랑스 정부가 EU 외부 독점 기술 의존을 줄이고 오픈소스 중심으로 전환하는 계획을 추진\n디지털 행정국(DINUM)은 각 부처에 EU 외부 기술 의존도 조사와 탈피 계획 수립을 지시하고, Windows를 Linux로 대체하는 방안을 포함",
+          "id": "https://news.hada.io/topic?id=28434",
+          "isoDate": "2026-04-12T03:32:23.000Z"
+        },
+        {
+          "title": "AWS에서의 20년과 결코 내 일이 아니었던 적이 없던 시간",
+          "link": "https://news.hada.io/topic?id=28433",
+          "pubDate": "2026-04-12T03:31:56.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>2006년 Amazon S3 출시 직후부터 FreeBSD 보안 담당자로서 <strong>AWS 보안 구조와 무결성 문제</strong>를 지속적으로 제기하며 협력 시작</li>\n<li>EC2 초기에는 <strong>커스텀 커널 제한과 Xen 보안성 우려</strong>가 있었으나, FreeBSD 실행과 보안 강화를 위한 제안이 장기적으로 반영됨</li>\n<li>2008...</p>",
+          "contentSnippet": "2006년 Amazon S3 출시 직후부터 FreeBSD 보안 담당자로서 AWS 보안 구조와 무결성 문제를 지속적으로 제기하며 협력 시작\nEC2 초기에는 커스텀 커널 제한과 Xen 보안성 우려가 있었으나, FreeBSD 실행과 보안 강화를 위한 제안이 장기적으로 반영됨\n2008...",
+          "id": "https://news.hada.io/topic?id=28433",
+          "isoDate": "2026-04-12T03:31:56.000Z"
+        },
+        {
+          "title": "Show GN: OCR 번역기 - VLM 기반 윈도우용 rust/slint 앱",
+          "link": "https://news.hada.io/topic?id=28431",
+          "pubDate": "2026-04-12T01:16:54.000Z",
+          "author": "kirinonakar",
+          "content": "<p>rust/slint로 만든 윈도우용 OCR 번역기입니다.<br />\nVLM 기반으로 gemini와 로컬 모델을 지원합니다. (LM Studio, OpenAI compatible API등)<br />\n단축키, 오버레이, 텍스트 박스, 자동 재번역, 클립보드, 프롬프트 변경, 스타일 기능 등 다양한 기능을 지원합니다.<br />\n텍스트 박스 모드에서는 번역중인 화면 내...</p>",
+          "contentSnippet": "rust/slint로 만든 윈도우용 OCR 번역기입니다.\nVLM 기반으로 gemini와 로컬 모델을 지원합니다. (LM Studio, OpenAI compatible API등)\n단축키, 오버레이, 텍스트 박스, 자동 재번역, 클립보드, 프롬프트 변경, 스타일 기능 등 다양한 기능을 지원합니다.\n텍스트 박스 모드에서는 번역중인 화면 내...",
+          "id": "https://news.hada.io/topic?id=28431",
+          "isoDate": "2026-04-12T01:16:54.000Z"
+        },
+        {
+          "title": "Meta의 HyperAgents — 에이전트가 스스로 자신의 하네스를 설계할 때",
+          "link": "https://news.hada.io/topic?id=28430",
+          "pubDate": "2026-04-12T01:02:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Meta와 UBC가 공동 발표한 <strong>HyperAgents</strong>는 작업 수행 코드뿐 아니라 개선 메커니즘 자체까지 스스로 수정하는 <strong>자기참조적 AI 에이전트</strong> 프레임워크</li>\n<li>코딩, 논문 리뷰, 로보틱스, 수학 채점 등 다양한 도메인에서 자기 개선을 반복한 결과, 에이전트가 <strong>영속 메...</p>",
+          "contentSnippet": "Meta와 UBC가 공동 발표한 HyperAgents는 작업 수행 코드뿐 아니라 개선 메커니즘 자체까지 스스로 수정하는 자기참조적 AI 에이전트 프레임워크\n코딩, 논문 리뷰, 로보틱스, 수학 채점 등 다양한 도메인에서 자기 개선을 반복한 결과, 에이전트가 영속 메...",
+          "id": "https://news.hada.io/topic?id=28430",
+          "isoDate": "2026-04-12T01:02:02.000Z"
+        },
+        {
+          "title": "HyperAgents: Meta AI의 자기 개선 에이전트 프레임워크",
+          "link": "https://news.hada.io/topic?id=28429",
+          "pubDate": "2026-04-12T01:01:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>인간 엔지니어링 의존도를 줄이기 위해 <strong>자기 자신의 학습과 문제 해결 과정을 스스로 개선</strong>하는 자기 참조형 AI 에이전트 시스템으로, 기존 재귀적 자기 개선 방식의 고정된 메타 메커니즘 한계를 극복</li>\n<li>태스크 에이전트(목표 과제 수행)와 메타 에이전트(자기 자신과 태스크 에이전트...</p>",
+          "contentSnippet": "인간 엔지니어링 의존도를 줄이기 위해 자기 자신의 학습과 문제 해결 과정을 스스로 개선하는 자기 참조형 AI 에이전트 시스템으로, 기존 재귀적 자기 개선 방식의 고정된 메타 메커니즘 한계를 극복\n태스크 에이전트(목표 과제 수행)와 메타 에이전트(자기 자신과 태스크 에이전트...",
+          "id": "https://news.hada.io/topic?id=28429",
+          "isoDate": "2026-04-12T01:01:02.000Z"
+        },
+        {
+          "title": "AI 사이버보안의 새로운 경계: Mythos 이후의 현실",
+          "link": "https://news.hada.io/topic?id=28428",
+          "pubDate": "2026-04-12T00:36:59.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Anthropic의 <strong>Claude Mythos</strong>가 대규모 제로데이 취약점을 자동 탐지한 이후, <strong>소형 오픈 모델들도 동일한 취약점 탐지에 성공</strong>\n</li>\n<li>\n<strong>3.6B~5.1B 파라미터급 모델</strong>이 FreeBSD·OpenBSD 버그를 재현하며, 일부는 Mythos와 다른 <strong>창의적 익스플로잇 경...</p>",
+          "contentSnippet": "Anthropic의 Claude Mythos가 대규모 제로데이 취약점을 자동 탐지한 이후, 소형 오픈 모델들도 동일한 취약점 탐지에 성공\n\n\n3.6B~5.1B 파라미터급 모델이 FreeBSD·OpenBSD 버그를 재현하며, 일부는 Mythos와 다른 창의적 익스플로잇 경...",
+          "id": "https://news.hada.io/topic?id=28428",
+          "isoDate": "2026-04-12T00:36:59.000Z"
+        },
+        {
+          "title": "Managed Agents 확장하기: 두뇌와 손을 분리하기",
+          "link": "https://news.hada.io/topic?id=28427",
+          "pubDate": "2026-04-12T00:35:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>장기 실행 에이전트를 위한 <strong>호스팅 서비스</strong> Managed Agents는 하네스(harness)가 모델 발전에 따라 변해도 안정적으로 유지되는 <strong>인터페이스 기반 아키텍처</strong>를 채택</li>\n<li>하네스는 Claude가 혼자 수행하지 못하는 작업에 대한 가정을 인코딩하지만, 모델이 발전하면 해당 가...</p>",
+          "contentSnippet": "장기 실행 에이전트를 위한 호스팅 서비스 Managed Agents는 하네스(harness)가 모델 발전에 따라 변해도 안정적으로 유지되는 인터페이스 기반 아키텍처를 채택\n하네스는 Claude가 혼자 수행하지 못하는 작업에 대한 가정을 인코딩하지만, 모델이 발전하면 해당 가...",
+          "id": "https://news.hada.io/topic?id=28427",
+          "isoDate": "2026-04-12T00:35:02.000Z"
+        },
+        {
+          "title": "아르테미스 II, 역사적 달 임무 후 샌디에이고 인근 해상에 안전 착수",
+          "link": "https://news.hada.io/topic?id=28426",
+          "pubDate": "2026-04-12T00:33:59.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>오리온 캡슐이 10일간의 달 비행을 마치고 <strong>샌디에이고 인근 태평양</strong>에 착수, NASA는 이를 “<strong>완벽한 명중 착수</strong>”로 평가</li>\n<li>재진입 중 약 <strong>6분간 통신 두절</strong>이 있었으나, 내부 온도와 시스템은 안정적으로 유지되어 모든 승무원이 <strong>무사 귀환</st...</p>",
+          "contentSnippet": "오리온 캡슐이 10일간의 달 비행을 마치고 샌디에이고 인근 태평양에 착수, NASA는 이를 “완벽한 명중 착수”로 평가\n재진입 중 약 6분간 통신 두절이 있었으나, 내부 온도와 시스템은 안정적으로 유지되어 모든 승무원이 무사 귀환",
+          "id": "https://news.hada.io/topic?id=28426",
+          "isoDate": "2026-04-12T00:33:59.000Z"
+        },
+        {
+          "title": "Arcmark - macOS용 브라우저 사이드북마크 관리자",
+          "link": "https://news.hada.io/topic?id=28425",
+          "pubDate": "2026-04-12T00:31:02.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>\n<strong>Arc 브라우저의 북마크 사이드바</strong>를 macOS 네이티브 앱으로 재현</li>\n<li>어떤 브라우저 창에도 붙는 <strong>떠다니는 사이드바</strong> 형태\n<ul>\n<li>Chrome, Arc, Safari, Brave 등 지원</li>\n<li>항상 위 모드로 고정 가능</li>\n</ul>\n</li>\n<li>\n<strong>워크스페이스 기반 정리 구조...</p>",
+          "contentSnippet": "Arc 브라우저의 북마크 사이드바를 macOS 네이티브 앱으로 재현\n어떤 브라우저 창에도 붙는 떠다니는 사이드바 형태\n\nChrome, Arc, Safari, Brave 등 지원\n항상 위 모드로 고정 가능\n워크스페이스 기반 정리 구조...",
+          "id": "https://news.hada.io/topic?id=28425",
+          "isoDate": "2026-04-12T00:31:02.000Z"
+        },
+        {
+          "title": "Microsoft, 주요 오픈소스 프로젝트 개발자 계정 정지",
+          "link": "https://news.hada.io/topic?id=28424",
+          "pubDate": "2026-04-11T22:32:48.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Microsoft가 WireGuard, VeraCrypt, MemTest86, Windscribe VPN 등 주요 오픈소스 프로젝트의 개발자 계정을 사전 통보 없이 정지</strong>, Windows용 빌드와 보안 패치 배포가 중단됨</li>\n<li>정지된 계정들은 <strong>Windows Hardware Program 파트너 계정</strong>으로, 복구 절차나 신속한 재활...</p>",
+          "contentSnippet": "Microsoft가 WireGuard, VeraCrypt, MemTest86, Windscribe VPN 등 주요 오픈소스 프로젝트의 개발자 계정을 사전 통보 없이 정지, Windows용 빌드와 보안 패치 배포가 중단됨\n정지된 계정들은 Windows Hardware Program 파트너 계정으로, 복구 절차나 신속한 재활...",
+          "id": "https://news.hada.io/topic?id=28424",
+          "isoDate": "2026-04-11T22:32:48.000Z"
+        },
+        {
+          "title": "CPU-Z와 HWMonitor가 해킹으로 악성코드 배포에 이용됨",
+          "link": "https://news.hada.io/topic?id=28423",
+          "pubDate": "2026-04-11T21:32:30.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>인기 시스템 유틸리티 <strong>HWMonitor와 CPU-Z의 다운로드 링크</strong>가 일시적으로 변조되어 악성코드가 배포됨</li>\n<li>공격자는 <strong>CPUID 웹사이트의 백엔드 일부를 장악</strong>해 정상 설치 파일 대신 악성 파일을 무작위로 제공함</li>\n<li>악성 버전은 <strong>가짜 CRYPTBASE.dll</strong...</p>",
+          "contentSnippet": "인기 시스템 유틸리티 HWMonitor와 CPU-Z의 다운로드 링크가 일시적으로 변조되어 악성코드가 배포됨\n공격자는 CPUID 웹사이트의 백엔드 일부를 장악해 정상 설치 파일 대신 악성 파일을 무작위로 제공함\n악성 버전은 가짜 CRYPTBASE.dll",
+          "id": "https://news.hada.io/topic?id=28423",
+          "isoDate": "2026-04-11T21:32:30.000Z"
+        },
+        {
           "title": "우간다 침팬지들, 8년째 이어진 ‘내전’ 상태 관찰",
           "link": "https://news.hada.io/topic?id=28422",
           "pubDate": "2026-04-11T18:32:44.000Z",
@@ -21,28 +131,28 @@
           "link": "https://news.hada.io/topic?id=28420",
           "pubDate": "2026-04-11T16:32:35.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>Linux 커널 개발에서 <strong>AI 코딩 보조 도구 사용 절차와 책임</strong>을 규정한 공식 문서</li>\n<li>모든 AI 기반 기여는 기존의 <strong>커널 개발 프로세스와 코딩 스타일 규칙</strong>을 그대로 따라야 함</li>\n<li>\n<strong>GPL-2.0-only 라이선스</strong>와 호환되어야 하며, 코드에는 <strong>SP...</p>",
-          "contentSnippet": "Linux 커널 개발에서 AI 코딩 보조 도구 사용 절차와 책임을 규정한 공식 문서\n모든 AI 기반 기여는 기존의 커널 개발 프로세스와 코딩 스타일 규칙을 그대로 따라야 함\nGPL-2.0-only 라이선스와 호환되어야 하며, 코드에는 SP...",
+          "content": "<ul>\n<li>Linus Torvalds의 Linux 커널 공식 문서로, AI 코딩 도구로 기여할 때 <strong>기존 커널 개발 프로세스와 코딩 스타일을 그대로 따라야</strong> 함</li>\n<li>\n<strong>AI는 Signed-off-by 태그를 추가할 수 없음</strong> — 법적으로 인간만 인증 가능하며, <strong>인간 개발자가 AI 생성 코드의 검토·라이�...</p>",
+          "contentSnippet": "Linus Torvalds의 Linux 커널 공식 문서로, AI 코딩 도구로 기여할 때 기존 커널 개발 프로세스와 코딩 스타일을 그대로 따라야 함\nAI는 Signed-off-by 태그를 추가할 수 없음 — 법적으로 인간만 인증 가능하며, 인간 개발자가 AI 생성 코드의 검토·라이�...",
           "id": "https://news.hada.io/topic?id=28420",
           "isoDate": "2026-04-11T16:32:35.000Z"
         },
         {
-          "title": "Gemini의 SynthID 탐지를 역공학한 프로젝트",
+          "title": "Gemini의 SynthID 워터마크를 역공학으로 탐지 및 제거하는 오픈소스",
           "link": "https://news.hada.io/topic?id=28419",
           "pubDate": "2026-04-11T16:02:31.000Z",
           "author": "xguru",
-          "content": "<ul>\n<li>Google의 <strong>SynthID 워터마크 시스템을 신호 처리와 스펙트럼 분석만으로 역공학</strong>해 Gemini 이미지의 비가시 워터마크를 탐지 및 제거하는 방법 제시</li>\n<li>해상도에 따라 달라지는 <strong>주파수 기반 워터마크 구조</strong>를 규명하고, <strong>90% 정확도의 탐지기</strong>와 <strong>...</p>",
-          "contentSnippet": "Google의 SynthID 워터마크 시스템을 신호 처리와 스펙트럼 분석만으로 역공학해 Gemini 이미지의 비가시 워터마크를 탐지 및 제거하는 방법 제시\n해상도에 따라 달라지는 주파수 기반 워터마크 구조를 규명하고, 90% 정확도의 탐지기와 ...",
+          "content": "<ul>\n<li>Google의 <strong>SynthID 인코더/디코더 접근 없이</strong>, 순수 신호 처리와 스펙트럼 분석만으로 Gemini 이미지의 비가시 워터마크 구조를 복원</li>\n<li>핵심 발견: SynthID는 해상도마다 <strong>다른 주파수 위치에 캐리어를 삽입</strong>하고, 동일 모델 생성 이미지 간 <strong>위상 템플릿 일관성이...</p>",
+          "contentSnippet": "Google의 SynthID 인코더/디코더 접근 없이, 순수 신호 처리와 스펙트럼 분석만으로 Gemini 이미지의 비가시 워터마크 구조를 복원\n핵심 발견: SynthID는 해상도마다 다른 주파수 위치에 캐리어를 삽입하고, 동일 모델 생성 이미지 간 위상 템플릿 일관성이...",
           "id": "https://news.hada.io/topic?id=28419",
           "isoDate": "2026-04-11T16:02:31.000Z"
         },
         {
-          "title": "Instant 1.0 – AI가 작성한 앱을 위한 백엔드 플랫폼",
+          "title": "Instant 1.0 – AI로 작성한 앱을 위한 백엔드 플랫폼",
           "link": "https://news.hada.io/topic?id=28418",
           "pubDate": "2026-04-11T16:01:36.000Z",
           "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>AI가 생성한 코드</strong>로 완전한 앱을 빌드할 수 있도록 설계된 <strong>오픈소스 백엔드 시스템</strong>으로, 실시간 동기화와 오프라인 모드를 기본 제공</li>\n<li>구조는 <strong>Client SDK</strong>, <strong>Clojure 기반 백엔드</strong>, <strong>Postgres 멀티테넌트 데이터베이스</str...</p>",
-          "contentSnippet": "AI가 생성한 코드로 완전한 앱을 빌드할 수 있도록 설계된 오픈소스 백엔드 시스템으로, 실시간 동기화와 오프라인 모드를 기본 제공\n구조는 Client SDK, Clojure 기반 백엔드, Postgres 멀티테넌트 데이터베이스",
+          "content": "<ul>\n<li>바이브 코딩으로 만든 앱에 <strong>실시간 동기화, 오프라인 모드, 인증, 파일 저장소</strong>를 한 번에 붙여주는 오픈소스 백엔드</li>\n<li>백엔드 생성이 VM 기동이 아니라 <strong>DB 행 추가</strong>라서, 수 밀리초 만에 백엔드가 생기고 안 쓰면 비용 제로</li>\n<li>프론트엔드에서 <code>db.useQuer...</p>",
+          "contentSnippet": "바이브 코딩으로 만든 앱에 실시간 동기화, 오프라인 모드, 인증, 파일 저장소를 한 번에 붙여주는 오픈소스 백엔드\n백엔드 생성이 VM 기동이 아니라 DB 행 추가라서, 수 밀리초 만에 백엔드가 생기고 안 쓰면 비용 제로\n프론트엔드에서 db.useQuer...",
           "id": "https://news.hada.io/topic?id=28418",
           "isoDate": "2026-04-11T16:01:36.000Z"
         },
@@ -51,8 +161,8 @@
           "link": "https://news.hada.io/topic?id=28417",
           "pubDate": "2026-04-11T16:00:35.000Z",
           "author": "xguru",
-          "content": "<ul>\n<li>이제 <strong>Free, Go, Plus, Pro</strong> 및 비즈니스, 엔터프라이즈의 6단계 요금제를 제공</li>\n<li>\n<strong>Pro 플랜은 월 $100 (5x) 와 $200 (20x)</strong> 가 있으며, GPT-5.4 Pro 모델과 최대 수준의 딥리서치·메모리·컨텍스트를 지원</li>\n<li>\n<strong>Business 플랜은 월 $20/사용자</strong>로 ...</p>",
-          "contentSnippet": "이제 Free, Go, Plus, Pro 및 비즈니스, 엔터프라이즈의 6단계 요금제를 제공\nPro 플랜은 월 $100 (5x) 와 $200 (20x) 가 있으며, GPT-5.4 Pro 모델과 최대 수준의 딥리서치·메모리·컨텍스트를 지원\nBusiness 플랜은 월 $20/사용자로 ...",
+          "content": "<ul>\n<li>기존 Free/Plus($20) 사이에 <strong>Go($8)</strong> 플랜이 새로 생기고, <strong>Pro는 $100(5x)과 $200(20x)</strong> 두 단계로 분리 — 총 6단계 요금 체계</li>\n<li>Pro 플랜부터 <strong>GPT-5.4 Pro</strong> 모델 사용 가능하고, 컨텍스트 윈도우 <strong>128K</strong>, 추론 컨텍스트 <strong>400K...</p>",
+          "contentSnippet": "기존 Free/Plus($20) 사이에 Go($8) 플랜이 새로 생기고, Pro는 $100(5x)과 $200(20x) 두 단계로 분리 — 총 6단계 요금 체계\nPro 플랜부터 GPT-5.4 Pro 모델 사용 가능하고, 컨텍스트 윈도우 128K, 추론 컨텍스트 400K...",
           "id": "https://news.hada.io/topic?id=28417",
           "isoDate": "2026-04-11T16:00:35.000Z"
         },
@@ -395,116 +505,6 @@
           "contentSnippet": "폴링으로 처리하는 대신, 클로드가 백그라운드 프로세스를 생성하고 표준 출력을 처리\n상황 발생시 스레드를 차단하지 않고 대화창으로 스트리밍\n\"Monitor Tool 과 kubectl logs -f | grep .. 를 이용해 오류를 수신하고, 충돌 발생시 PR을 제출해줘\"\n로그를...",
           "id": "https://news.hada.io/topic?id=28376",
           "isoDate": "2026-04-10T02:16:02.000Z"
-        },
-        {
-          "title": "Microsoft, 다크 패턴으로 사용자에게 저장 공간 유료 결제를 유도하고 있나?",
-          "link": "https://news.hada.io/topic?id=28374",
-          "pubDate": "2026-04-10T01:51:19.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>Outlook에서 <strong>저장 공간 부족 오류</strong>가 발생하며 <strong>이메일 수신이 중단</strong>됨</li>\n<li>실제 원인은 <strong>Windows 11의 기본 설정이 데스크톱 파일을 OneDrive에 자동 동기화</strong>해 무료 5GB 한도를 초과한 것이었음</li>\n<li>오류 메시지는 문제 해결책으로 <strong>유료 저...</p>",
-          "contentSnippet": "Outlook에서 저장 공간 부족 오류가 발생하며 이메일 수신이 중단됨\n실제 원인은 Windows 11의 기본 설정이 데스크톱 파일을 OneDrive에 자동 동기화해 무료 5GB 한도를 초과한 것이었음\n오류 메시지는 문제 해결책으로 유료 저...",
-          "id": "https://news.hada.io/topic?id=28374",
-          "isoDate": "2026-04-10T01:51:19.000Z"
-        },
-        {
-          "title": "Adam Back이 자신이 사토시 나카모토가 아닌 이유를 설명하다",
-          "link": "https://news.hada.io/topic?id=28373",
-          "pubDate": "2026-04-10T01:45:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>\n<strong>뉴욕타임스의 18개월 탐사보도</strong>가 영국 컴퓨터 과학자이자 Blockstream CEO인 Adam Back을 비트코인 창시자 Satoshi Nakamoto로 지목했으나, Back은 이를 즉각 부인</li>\n<li>AI를 활용한 <strong>문체 분석(stylometry)</strong> 에서 Back이 12명의 용의자 중 가장 근접한 일치를 보였으나,...</p>",
-          "contentSnippet": "뉴욕타임스의 18개월 탐사보도가 영국 컴퓨터 과학자이자 Blockstream CEO인 Adam Back을 비트코인 창시자 Satoshi Nakamoto로 지목했으나, Back은 이를 즉각 부인\nAI를 활용한 문체 분석(stylometry) 에서 Back이 12명의 용의자 중 가장 근접한 일치를 보였으나,...",
-          "id": "https://news.hada.io/topic?id=28373",
-          "isoDate": "2026-04-10T01:45:02.000Z"
-        },
-        {
-          "title": "Show GN: 누구나 바로 이용 가능, 마이리얼트립 파트너 API &amp; MCP 서버 공개",
-          "link": "https://news.hada.io/topic?id=28372",
-          "pubDate": "2026-04-10T01:40:44.000Z",
-          "author": "kamjik12",
-          "content": "<p>안녕하세요, 마이리얼트립 마케팅파트너 팀입니다.<br />\n마케팅파트너 팀은 그동안 여행 크리에이터 중심의 어필리에이트 생태계를 만들어왔습니다.<br />\n이제는 글/콘텐츠가 아닌 '서비스(코드)'가 가장 강력한 마케팅의 파트너가 될 것이라 생각했습니다.</p>\n<p>이 전환을 위해 사업팀이 직접 클로드 코드를 활용",
-          "contentSnippet": "안녕하세요, 마이리얼트립 마케팅파트너 팀입니다.\n이 전환을 위해 사업팀이 직접 클로드 코드를 활용",
-          "id": "https://news.hada.io/topic?id=28372",
-          "isoDate": "2026-04-10T01:40:44.000Z"
-        },
-        {
-          "title": "FreeBSD 사용에 적합한 최고의 노트북들",
-          "link": "https://news.hada.io/topic?id=28371",
-          "pubDate": "2026-04-10T01:02:05.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>FreeBSD Foundation이 주요 <strong>노트북 모델의 하드웨어 호환성</strong>을 평가해 점수화한 결과를 공개</li>\n<li>\n<strong>Framework Laptop 시리즈</strong>, <strong>HP EliteBook 845 G7</strong>, <strong>Lenovo Yoga 11e</strong>, <strong>Acer Aspire A315-24PT</strong> 등이 <strong>8/8 완전 ...</p>",
-          "contentSnippet": "FreeBSD Foundation이 주요 노트북 모델의 하드웨어 호환성을 평가해 점수화한 결과를 공개\nFramework Laptop 시리즈, HP EliteBook 845 G7, Lenovo Yoga 11e, Acer Aspire A315-24PT 등이 8/8 완전 ...",
-          "id": "https://news.hada.io/topic?id=28371",
-          "isoDate": "2026-04-10T01:02:05.000Z"
-        },
-        {
-          "title": "Advisor 전략: Opus를 조언자로 활용해 Sonnet의 지능을 끌어올리기",
-          "link": "https://news.hada.io/topic?id=28370",
-          "pubDate": "2026-04-10T00:51:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Claude Platform에서 <strong>어드바이저 전략</strong>이 공식 도입됨 — Opus를 어드바이저로, Sonnet 또는 Haiku를 실행자(executor)로 조합해 비용은 낮추면서 Opus 수준에 근접한 추론 능력을 에이전트에 적용하는 패턴</li>\n<li>Sonnet이 태스크를 단독 수행 시보다 Opus 어드바이저 결합 시 <strong>SWE...</p>",
-          "contentSnippet": "Claude Platform에서 어드바이저 전략이 공식 도입됨 — Opus를 어드바이저로, Sonnet 또는 Haiku를 실행자(executor)로 조합해 비용은 낮추면서 Opus 수준에 근접한 추론 능력을 에이전트에 적용하는 패턴\nSonnet이 태스크를 단독 수행 시보다 Opus 어드바이저 결합 시 SWE...",
-          "id": "https://news.hada.io/topic?id=28370",
-          "isoDate": "2026-04-10T00:51:01.000Z"
-        },
-        {
-          "title": "미 국방부, 교황 레오 14세 대사에게 ‘아비뇽 교황청’ 언급하며 위협",
-          "link": "https://news.hada.io/topic?id=28369",
-          "pubDate": "2026-04-10T00:48:47.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>미 국방부 비공개 회의에서 <strong>트럼프 행정부 고위 관계자</strong>가 교황 레오 14세의 미국 대사에게 <strong>군사력 우위와 정치적 충성 요구</strong>를 전달함</li>\n<li>한 관리가 <strong>14세기 아비뇽 교황청</strong>을 비유로 들며, 과거 프랑스 왕권이 교황을 굴복시킨 사례를 언급해 <strong>...</p>",
-          "contentSnippet": "미 국방부 비공개 회의에서 트럼프 행정부 고위 관계자가 교황 레오 14세의 미국 대사에게 군사력 우위와 정치적 충성 요구를 전달함\n한 관리가 14세기 아비뇽 교황청을 비유로 들며, 과거 프랑스 왕권이 교황을 굴복시킨 사례를 언급해 ...",
-          "id": "https://news.hada.io/topic?id=28369",
-          "isoDate": "2026-04-10T00:48:47.000Z"
-        },
-        {
-          "title": "Thunderbird를 계속 살리기 위한 도움 요청",
-          "link": "https://news.hada.io/topic?id=28368",
-          "pubDate": "2026-04-10T00:45:47.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>무료 이메일 클라이언트 Thunderbird는 <strong>전체 사용자 중 3% 미만의 기부금</strong>으로 운영됨</li>\n<li>\n<strong>광고나 데이터 판매 없이</strong>, 오직 사용자 후원으로 재정을 유지함</li>\n<li>\n<strong>개인정보 보호와 맞춤형 이메일 환경</strong>을 핵심 가치로 제공함</li>\n<li>지속 운영을 ...</p>",
-          "contentSnippet": "무료 이메일 클라이언트 Thunderbird는 전체 사용자 중 3% 미만의 기부금으로 운영됨\n광고나 데이터 판매 없이, 오직 사용자 후원으로 재정을 유지함\n개인정보 보호와 맞춤형 이메일 환경을 핵심 가치로 제공함\n지속 운영을 ...",
-          "id": "https://news.hada.io/topic?id=28368",
-          "isoDate": "2026-04-10T00:45:47.000Z"
-        },
-        {
-          "title": "Meta, 소셜미디어 중독 소송 관련 광고 제거",
-          "link": "https://news.hada.io/topic?id=28367",
-          "pubDate": "2026-04-10T00:42:46.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Meta가 <strong>소셜미디어 중독 피해자 모집 광고</strong>를 자사 플랫폼에서 대거 비활성화함</li>\n<li>조치는 <strong>캘리포니아주 법원에서 Meta와 YouTube가 과실 판결을 받은 지 2주 후</strong>에 이루어짐</li>\n<li>비활성화된 광고는 <strong>Facebook·Instagram 중심</strong>으로, 일부는 Threads...</p>",
-          "contentSnippet": "Meta가 소셜미디어 중독 피해자 모집 광고를 자사 플랫폼에서 대거 비활성화함\n조치는 캘리포니아주 법원에서 Meta와 YouTube가 과실 판결을 받은 지 2주 후에 이루어짐\n비활성화된 광고는 Facebook·Instagram 중심으로, 일부는 Threads...",
-          "id": "https://news.hada.io/topic?id=28367",
-          "isoDate": "2026-04-10T00:42:46.000Z"
-        },
-        {
-          "title": "EFF, X(구 트위터) 탈퇴 선언",
-          "link": "https://news.hada.io/topic?id=28366",
-          "pubDate": "2026-04-10T00:39:46.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>약 20년간 활동해온 <strong>Electronic Frontier Foundation(EFF)</strong> 이 X(구 트위터)에서 공식 활동을 중단하며, 플랫폼의 <strong>도달률 급감</strong>을 주요 이유로 제시함</li>\n<li>2018년 월 1억 회에 달하던 게시물 노출이 2025년에는 <strong>1,300만 회 수준으로 감소</strong>, 유지 실익이 ...</p>",
-          "contentSnippet": "약 20년간 활동해온 Electronic Frontier Foundation(EFF) 이 X(구 트위터)에서 공식 활동을 중단하며, 플랫폼의 도달률 급감을 주요 이유로 제시함\n2018년 월 1억 회에 달하던 게시물 노출이 2025년에는 1,300만 회 수준으로 감소, 유지 실익이 ...",
-          "id": "https://news.hada.io/topic?id=28366",
-          "isoDate": "2026-04-10T00:39:46.000Z"
-        },
-        {
-          "title": "리틀 스니치 for Linux",
-          "link": "https://news.hada.io/topic?id=28365",
-          "pubDate": "2026-04-10T00:36:46.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>애플리케이션의 <strong>네트워크 연결을 시각화하고 제어</strong>할 수 있는 도구로, 어떤 프로그램이 어떤 서버와 통신하는지 확인 가능</li>\n<li>\n<strong>Connections View</strong>에서 실시간 및 과거 트래픽을 앱별로 표시하며, 클릭 한 번으로 <strong>연결 차단</strong>과 <strong>데이터 사용량 추...</p>",
-          "contentSnippet": "애플리케이션의 네트워크 연결을 시각화하고 제어할 수 있는 도구로, 어떤 프로그램이 어떤 서버와 통신하는지 확인 가능\nConnections View에서 실시간 및 과거 트래픽을 앱별로 표시하며, 클릭 한 번으로 연결 차단과 데이터 사용량 추...",
-          "id": "https://news.hada.io/topic?id=28365",
-          "isoDate": "2026-04-10T00:36:46.000Z"
-        },
-        {
-          "title": "strix - 앱의 취약점을 찾아 수정하는 오픈소스 AI 해커",
-          "link": "https://news.hada.io/topic?id=28364",
-          "pubDate": "2026-04-10T00:31:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>자율 AI 에이전트</strong> 방식으로 실제 해커처럼 코드를 직접 실행하고, 취약점을 발견한 뒤 실제 <strong>PoC(개념 증명)</strong> 로 검증하는 오픈소스 보안 테스트 도구</li>\n<li>\n<strong>CI/CD 파이프라인 및 GitHub Actions 통합</strong>을 지원해, PR마다 자동으로 보안 스캔을 수행하고 ...</p>",
-          "contentSnippet": "자율 AI 에이전트 방식으로 실제 해커처럼 코드를 직접 실행하고, 취약점을 발견한 뒤 실제 PoC(개념 증명) 로 검증하는 오픈소스 보안 테스트 도구\nCI/CD 파이프라인 및 GitHub Actions 통합을 지원해, PR마다 자동으로 보안 스캔을 수행하고 ...",
-          "id": "https://news.hada.io/topic?id=28364",
-          "isoDate": "2026-04-10T00:31:02.000Z"
         }
       ]
     }
