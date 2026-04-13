@@ -7,6 +7,16 @@
       "priority": 1,
       "data": [
         {
+          "title": "pip install torch 한 줄로 끝낸다 — Python 패키징의 오랜 숙제, 드디어 풀리나",
+          "link": "https://news.hada.io/topic?id=28490",
+          "pubDate": "2026-04-13T12:34:44.000Z",
+          "author": "darjeeling",
+          "content": "<p>NVIDIA·Astral·Quansight 연합이 내놓은 <strong>Wheel Next</strong>: CPU·GPU를 가리지 않는 차세대 패키징 표준</p>\n<p><strong>출처:</strong> <a href=\"https://talkpython.fm/episodes/show/544/wheel-next-packaging-peps\">Talk Python To Me, Episode #544</a> |</p>\n<hr />\n<h3>배경: 2009년에 멈춰버린 바퀴",
+          "contentSnippet": "NVIDIA·Astral·Quansight 연합이 내놓은 Wheel Next: CPU·GPU를 가리지 않는 차세대 패키징 표준\n출처: Talk Python To Me, Episode #544 |\n배경: 2009년에 멈춰버린 바퀴",
+          "id": "https://news.hada.io/topic?id=28490",
+          "isoDate": "2026-04-13T12:34:44.000Z"
+        },
+        {
           "title": "GitButler — GitHub 공동창업자가 만든 AI 시대를 위한 Git 재설계, a16z $1,700만 Series A 투자 유치",
           "link": "https://news.hada.io/topic?id=28488",
           "pubDate": "2026-04-13T08:54:26.000Z",
@@ -15,6 +25,16 @@
           "contentSnippet": "GitButler: AI 시대를 위한 새로운 Git 클라이언트\nScott Chacon(GitHub 공동창업자, 『Pro Git』 저자)이 이끄는 팀이 만든 GitButler가\nAndreessen Horowitz(a16z) 주도로 $1,700만 Series A 투자를 유치했다.\n•\t참여 투자사: Fly Ventures, A Capital\n•\ta16z의 Pet...",
           "id": "https://news.hada.io/topic?id=28488",
           "isoDate": "2026-04-13T08:54:26.000Z"
+        },
+        {
+          "title": "Show GN: 꽃 어디 - 전국 꽃 명소 지도 &amp; 실시간 개화 정보 앱",
+          "link": "https://news.hada.io/topic?id=28487",
+          "pubDate": "2026-04-13T08:19:50.000Z",
+          "author": "nextvine",
+          "content": "<p>안녕하세요, 사이드 프로젝트로 만든 꽃 어디 앱을 소개합니다.</p>\n<p>&quot;이번 주말에 꽃 보러 가고 싶은데, 어디로 가야 하지?&quot; 라는 질문에서 시작된 앱입니다.<br />\n매년 봄마다 꽃 명소를 찾으려면 블로그, 인스타그램, 지자체 홈페이지를 돌아다녀야 했는데, 이 불편함을 해소하고자 만들었습니다....</p>",
+          "contentSnippet": "안녕하세요, 사이드 프로젝트로 만든 꽃 어디 앱을 소개합니다.\n\"이번 주말에 꽃 보러 가고 싶은데, 어디로 가야 하지?\" 라는 질문에서 시작된 앱입니다.\n매년 봄마다 꽃 명소를 찾으려면 블로그, 인스타그램, 지자체 홈페이지를 돌아다녀야 했는데, 이 불편함을 해소하고자 만들었습니다....",
+          "id": "https://news.hada.io/topic?id=28487",
+          "isoDate": "2026-04-13T08:19:50.000Z"
         },
         {
           "title": "macOS용 작업 표시줄 스타일 Dock 대체 도구 boringBar",
@@ -485,26 +505,6 @@
           "contentSnippet": "장기 실행 에이전트를 위한 호스팅 서비스 Managed Agents는 하네스(harness)가 모델 발전에 따라 변해도 안정적으로 유지되는 인터페이스 기반 아키텍처를 채택\n하네스는 Claude가 혼자 수행하지 못하는 작업에 대한 가정을 인코딩하지만, 모델이 발전하면 해당 가...",
           "id": "https://news.hada.io/topic?id=28427",
           "isoDate": "2026-04-12T00:35:02.000Z"
-        },
-        {
-          "title": "아르테미스 II, 역사적 달 임무 후 샌디에이고 인근 해상에 안전 착수",
-          "link": "https://news.hada.io/topic?id=28426",
-          "pubDate": "2026-04-12T00:33:59.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>오리온 캡슐이 10일간의 달 비행을 마치고 <strong>샌디에이고 인근 태평양</strong>에 착수, NASA는 이를 “<strong>완벽한 명중 착수</strong>”로 평가</li>\n<li>재진입 중 약 <strong>6분간 통신 두절</strong>이 있었으나, 내부 온도와 시스템은 안정적으로 유지되어 모든 승무원이 <strong>무사 귀환</st...</p>",
-          "contentSnippet": "오리온 캡슐이 10일간의 달 비행을 마치고 샌디에이고 인근 태평양에 착수, NASA는 이를 “완벽한 명중 착수”로 평가\n재진입 중 약 6분간 통신 두절이 있었으나, 내부 온도와 시스템은 안정적으로 유지되어 모든 승무원이 무사 귀환",
-          "id": "https://news.hada.io/topic?id=28426",
-          "isoDate": "2026-04-12T00:33:59.000Z"
-        },
-        {
-          "title": "Arcmark - macOS용 브라우저 사이드북마크 관리자",
-          "link": "https://news.hada.io/topic?id=28425",
-          "pubDate": "2026-04-12T00:31:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>\n<strong>Arc 브라우저의 북마크 사이드바</strong>를 macOS 네이티브 앱으로 재현</li>\n<li>어떤 브라우저 창에도 붙는 <strong>떠다니는 사이드바</strong> 형태\n<ul>\n<li>Chrome, Arc, Safari, Brave 등 지원</li>\n<li>항상 위 모드로 고정 가능</li>\n</ul>\n</li>\n<li>\n<strong>워크스페이스 기반 정리 구조...</p>",
-          "contentSnippet": "Arc 브라우저의 북마크 사이드바를 macOS 네이티브 앱으로 재현\n어떤 브라우저 창에도 붙는 떠다니는 사이드바 형태\n\nChrome, Arc, Safari, Brave 등 지원\n항상 위 모드로 고정 가능\n워크스페이스 기반 정리 구조...",
-          "id": "https://news.hada.io/topic?id=28425",
-          "isoDate": "2026-04-12T00:31:02.000Z"
         }
       ]
     }
