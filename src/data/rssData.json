@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "Ask HN: 지금 어떤 프로젝트를 진행하고 계신가요? (2026년 4월)",
+          "link": "https://news.hada.io/topic?id=28494",
+          "pubDate": "2026-04-13T20:32:21.000Z",
+          "author": "neo",
+          "content": "Ask HN: 지금 어떤 프로젝트를 진행하고 계신가요? (2026년 4월)",
+          "contentSnippet": "Ask HN: 지금 어떤 프로젝트를 진행하고 계신가요? (2026년 4월)",
+          "id": "https://news.hada.io/topic?id=28494",
+          "isoDate": "2026-04-13T20:32:21.000Z"
+        },
+        {
+          "title": "우리는 99%의 이메일 평판을 가지고 있지만 Gmail은 다르게 판단함",
+          "link": "https://news.hada.io/topic?id=28493",
+          "pubDate": "2026-04-13T17:32:40.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>\n<strong>Font Awesome 팀</strong>은 SendGrid에서 <strong>99%의 이메일 평판 점수</strong>를 유지하지만, Gmail에서는 메일이 <strong>스팸함으로 분류되는 문제</strong>를 겪고 있음</li>\n<li>Gmail은 <strong>자체 평판 시스템</strong>을 사용해 외부 점수와 무관하게 메일을 평가하며, 기준 미달 시 ...</p>",
+          "contentSnippet": "Font Awesome 팀은 SendGrid에서 99%의 이메일 평판 점수를 유지하지만, Gmail에서는 메일이 스팸함으로 분류되는 문제를 겪고 있음\nGmail은 자체 평판 시스템을 사용해 외부 점수와 무관하게 메일을 평가하며, 기준 미달 시 ...",
+          "id": "https://news.hada.io/topic?id=28493",
+          "isoDate": "2026-04-13T17:32:40.000Z"
+        },
+        {
+          "title": "Show GN: Girlfriend in cli - &quot;AI-native 시대의 사회성 훈련용 페르소나 하네스&quot;",
+          "link": "https://news.hada.io/topic?id=28492",
+          "pubDate": "2026-04-13T15:51:09.000Z",
+          "author": "ironman0722",
+          "content": "<p>이제는 코딩만 잘하는 걸로 부족합니다.</p>\n<p>AI native 시대에는 사람과 대화하는 능력, 공감하는 능력, 매력을 전달하는 능력도 stack입니다.</p>\n<p>바이브 코딩 중 외롭나요?<br />\n현실세계의 여자친구/남자친구를 만들고 싶으신가요?<br />\n내가 과연 아이유와 사귈 수 있는지 전투력 측정을 해보고 싶나요?...</p>",
+          "contentSnippet": "이제는 코딩만 잘하는 걸로 부족합니다.\nAI native 시대에는 사람과 대화하는 능력, 공감하는 능력, 매력을 전달하는 능력도 stack입니다.\n바이브 코딩 중 외롭나요?\n현실세계의 여자친구/남자친구를 만들고 싶으신가요?\n내가 과연 아이유와 사귈 수 있는지 전투력 측정을 해보고 싶나요?...",
+          "id": "https://news.hada.io/topic?id=28492",
+          "isoDate": "2026-04-13T15:51:09.000Z"
+        },
+        {
           "title": "pip install torch 한 줄로 끝낸다 — Python 패키징의 오랜 숙제, 드디어 풀리나",
           "link": "https://news.hada.io/topic?id=28490",
           "pubDate": "2026-04-13T12:34:44.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "Meta와 UBC가 공동 발표한 HyperAgents는 작업 수행 코드뿐 아니라 개선 메커니즘 자체까지 스스로 수정하는 자기참조적 AI 에이전트 프레임워크\n코딩, 논문 리뷰, 로보틱스, 수학 채점 등 다양한 도메인에서 자기 개선을 반복한 결과, 에이전트가 영속 메...",
           "id": "https://news.hada.io/topic?id=28430",
           "isoDate": "2026-04-12T01:02:02.000Z"
-        },
-        {
-          "title": "HyperAgents: Meta AI의 자기 개선 에이전트 프레임워크",
-          "link": "https://news.hada.io/topic?id=28429",
-          "pubDate": "2026-04-12T01:01:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>인간 엔지니어링 의존도를 줄이기 위해 <strong>자기 자신의 학습과 문제 해결 과정을 스스로 개선</strong>하는 자기 참조형 AI 에이전트 시스템으로, 기존 재귀적 자기 개선 방식의 고정된 메타 메커니즘 한계를 극복</li>\n<li>태스크 에이전트(목표 과제 수행)와 메타 에이전트(자기 자신과 태스크 에이전트...</p>",
-          "contentSnippet": "인간 엔지니어링 의존도를 줄이기 위해 자기 자신의 학습과 문제 해결 과정을 스스로 개선하는 자기 참조형 AI 에이전트 시스템으로, 기존 재귀적 자기 개선 방식의 고정된 메타 메커니즘 한계를 극복\n태스크 에이전트(목표 과제 수행)와 메타 에이전트(자기 자신과 태스크 에이전트...",
-          "id": "https://news.hada.io/topic?id=28429",
-          "isoDate": "2026-04-12T01:01:02.000Z"
-        },
-        {
-          "title": "AI 사이버보안의 새로운 경계: Mythos 이후의 현실",
-          "link": "https://news.hada.io/topic?id=28428",
-          "pubDate": "2026-04-12T00:36:59.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Anthropic의 <strong>Claude Mythos</strong>가 대규모 제로데이 취약점을 자동 탐지한 이후, <strong>소형 오픈 모델들도 동일한 취약점 탐지에 성공</strong>\n</li>\n<li>\n<strong>3.6B~5.1B 파라미터급 모델</strong>이 FreeBSD·OpenBSD 버그를 재현하며, 일부는 Mythos와 다른 <strong>창의적 익스플로잇 경...</p>",
-          "contentSnippet": "Anthropic의 Claude Mythos가 대규모 제로데이 취약점을 자동 탐지한 이후, 소형 오픈 모델들도 동일한 취약점 탐지에 성공\n\n\n3.6B~5.1B 파라미터급 모델이 FreeBSD·OpenBSD 버그를 재현하며, 일부는 Mythos와 다른 창의적 익스플로잇 경...",
-          "id": "https://news.hada.io/topic?id=28428",
-          "isoDate": "2026-04-12T00:36:59.000Z"
-        },
-        {
-          "title": "Managed Agents 확장하기: 두뇌와 손을 분리하기",
-          "link": "https://news.hada.io/topic?id=28427",
-          "pubDate": "2026-04-12T00:35:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>장기 실행 에이전트를 위한 <strong>호스팅 서비스</strong> Managed Agents는 하네스(harness)가 모델 발전에 따라 변해도 안정적으로 유지되는 <strong>인터페이스 기반 아키텍처</strong>를 채택</li>\n<li>하네스는 Claude가 혼자 수행하지 못하는 작업에 대한 가정을 인코딩하지만, 모델이 발전하면 해당 가...</p>",
-          "contentSnippet": "장기 실행 에이전트를 위한 호스팅 서비스 Managed Agents는 하네스(harness)가 모델 발전에 따라 변해도 안정적으로 유지되는 인터페이스 기반 아키텍처를 채택\n하네스는 Claude가 혼자 수행하지 못하는 작업에 대한 가정을 인코딩하지만, 모델이 발전하면 해당 가...",
-          "id": "https://news.hada.io/topic?id=28427",
-          "isoDate": "2026-04-12T00:35:02.000Z"
         }
       ]
     }
