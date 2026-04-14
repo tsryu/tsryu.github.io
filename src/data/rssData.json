@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: S3V: S3 GUI 클라이언트",
+          "link": "https://news.hada.io/topic?id=28514",
+          "pubDate": "2026-04-14T09:12:08.000Z",
+          "author": "aciddust",
+          "content": "<p>S3V: S3, R2, MinIO... 흩어진 버킷들을 한 곳에서 관리하는 GUI 툴을 만들었습니다.</p>\n<p>운영하는 서비스가 늘어나면서 AWS S3, Cloudflare R2, MinIO 등 다양한 스토리지를 목적에 따라 혼용하게 되었는데요.</p>\n<p>매번 파일 관리를 위해 수행하는 반복적인 s3 관련 코드 작성이나, 콘솔작업이 질리기도 했고,",
+          "contentSnippet": "S3V: S3, R2, MinIO... 흩어진 버킷들을 한 곳에서 관리하는 GUI 툴을 만들었습니다.\n운영하는 서비스가 늘어나면서 AWS S3, Cloudflare R2, MinIO 등 다양한 스토리지를 목적에 따라 혼용하게 되었는데요.\n매번 파일 관리를 위해 수행하는 반복적인 s3 관련 코드 작성이나, 콘솔작업이 질리기도 했고,",
+          "id": "https://news.hada.io/topic?id=28514",
+          "isoDate": "2026-04-14T09:12:08.000Z"
+        },
+        {
+          "title": "아무 일도 일어나지 않는다: 비스포츠형 Polymarket 시장에서 항상 ‘No’를 매수하는 봇",
+          "link": "https://news.hada.io/topic?id=28513",
+          "pubDate": "2026-04-14T07:32:37.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Polymarket의 <strong>비스포츠 예/아니오 시장</strong>에서 자동으로 <strong>‘No’ 포지션만 매수</strong>하는 비동기 Python 봇으로, 엔터테인먼트 용도로 제공됨</li>\n<li><strong>모의 거래와 실거래 모드</strong>를 구분하며, 실거래 시에는 여러 <strong>환경 변수와 개인 키 설정</strong>이 필수임...</p>",
+          "contentSnippet": "Polymarket의 비스포츠 예/아니오 시장에서 자동으로 ‘No’ 포지션만 매수하는 비동기 Python 봇으로, 엔터테인먼트 용도로 제공됨\n모의 거래와 실거래 모드를 구분하며, 실거래 시에는 여러 환경 변수와 개인 키 설정이 필수임...",
+          "id": "https://news.hada.io/topic?id=28513",
+          "isoDate": "2026-04-14T07:32:37.000Z"
+        },
+        {
+          "title": "단 20MB HTTP 패킷으로 Django 서버를 1분간 먹통 만드는 취약점이 공개되었습니다 (CVE-2026-33033)",
+          "link": "https://news.hada.io/topic?id=28512",
+          "pubDate": "2026-04-14T06:58:53.000Z",
+          "author": "nuremberg",
+          "content": "<p><strong>전체 한 줄 요약</strong></p>\n<p>Django의 <code>MultiPartParser</code>에서 <code>Content-Transfer-Encoding: base64</code> 파트 본문이 공백 위주일 때 발생하는 Pre-Auth CPU exhaustion 취약점으로, 약 2.5MB 요청 하나로 정상 대비 2,100배 이상의 처리 시간을 유발함 (CVE-2026-33033)</p>\n<p><str",
+          "contentSnippet": "전체 한 줄 요약\nDjango의 MultiPartParser에서 Content-Transfer-Encoding: base64 파트 본문이 공백 위주일 때 발생하는 Pre-Auth CPU exhaustion 취약점으로, 약 2.5MB 요청 하나로 정상 대비 2,100배 이상의 처리 시간을 유발함 (CVE-2026-33033)\n<str",
+          "id": "https://news.hada.io/topic?id=28512",
+          "isoDate": "2026-04-14T06:58:53.000Z"
+        },
+        {
           "title": "damn-my-slow-kt - KT 인터넷 SLA 미달 자동 측정 &amp; 요금 감면 신청 도구",
           "link": "https://news.hada.io/topic?id=28511",
           "pubDate": "2026-04-14T02:11:43.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "Google이 Pixel 10의 셀룰러 베이스밴드(modem) 펌웨어에 메모리 안전 언어인 Rust 기반 DNS 파서를\n핵심 포인트\nPixel 9에서는 메모리 안전 취약점 완화책을 적용했고, Pixel 10에",
           "id": "https://news.hada.io/topic?id=28454",
           "isoDate": "2026-04-12T21:29:33.000Z"
-        },
-        {
-          "title": "다크 캐슬",
-          "link": "https://news.hada.io/topic?id=28453",
-          "pubDate": "2026-04-12T20:36:22.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>1980년대 Macintosh용 고전 게임 <strong>Dark Castle 시리즈</strong>를 복원해 소개하는 웹사이트로, 초기 두 작품을 <strong>Mini vMac 에뮬레이터</strong>로 실행 가능</li>\n<li>제공 파일에는 <strong>System 6</strong>, <strong>Dark Castle</strong>, <strong>Beyond Dark Castle</strong>이 포함되며...</p>",
-          "contentSnippet": "1980년대 Macintosh용 고전 게임 Dark Castle 시리즈를 복원해 소개하는 웹사이트로, 초기 두 작품을 Mini vMac 에뮬레이터로 실행 가능\n제공 파일에는 System 6, Dark Castle, Beyond Dark Castle이 포함되며...",
-          "id": "https://news.hada.io/topic?id=28453",
-          "isoDate": "2026-04-12T20:36:22.000Z"
-        },
-        {
-          "title": "447 TB/cm²의 제로 보존 에너지 – 불소그래판 기반 원자 규모 메모리",
-          "link": "https://news.hada.io/topic?id=28452",
-          "pubDate": "2026-04-12T20:33:22.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>불소그래판 단일층</strong>의 공유결합 방향성을 이용해 <strong>원자 단위 비트 저장</strong>을 구현한 비휘발성 메모리 구조 제시</li>\n<li><strong>C–F 결합 반전 장벽 4.6~4.8 eV</strong>로 계산되어, <strong>자발적 비트 손실이 사실상 제거</strong>되고 <strong>보존 에너지 0</strong>에서...</p>",
-          "contentSnippet": "불소그래판 단일층의 공유결합 방향성을 이용해 원자 단위 비트 저장을 구현한 비휘발성 메모리 구조 제시\nC–F 결합 반전 장벽 4.6~4.8 eV로 계산되어, 자발적 비트 손실이 사실상 제거되고 보존 에너지 0에서...",
-          "id": "https://news.hada.io/topic?id=28452",
-          "isoDate": "2026-04-12T20:33:22.000Z"
-        },
-        {
-          "title": "Advanced Mac Substitute",
-          "link": "https://news.hada.io/topic?id=28451",
-          "pubDate": "2026-04-12T18:32:33.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>1980년대 <strong>Mac OS를 API 단위로 재구현</strong>해 Apple의 ROM이나 시스템 소프트웨어 없이 <strong>68K Mac 애플리케이션을 직접 실행</strong>할 수 있음</li>\n<li>전체 하드웨어를 에뮬레이션하지 않고 <strong>운영체제 자체를 대체</strong>하는 구조로, 부팅 과정 없이 <strong>즉시 앱 실행</st...</p>",
-          "contentSnippet": "1980년대 Mac OS를 API 단위로 재구현해 Apple의 ROM이나 시스템 소프트웨어 없이 68K Mac 애플리케이션을 직접 실행할 수 있음\n전체 하드웨어를 에뮬레이션하지 않고 운영체제 자체를 대체하는 구조로, 부팅 과정 없이 즉시 앱 실행",
-          "id": "https://news.hada.io/topic?id=28451",
-          "isoDate": "2026-04-12T18:32:33.000Z"
         }
       ]
     }
