@@ -7,6 +7,66 @@
       "priority": 1,
       "data": [
         {
+          "title": "기존 KV 압축 기법 대비 최대 25% 추가 절감, 성능은 오히려 개선 — CASK",
+          "link": "https://news.hada.io/topic?id=28520",
+          "pubDate": "2026-04-14T15:16:02.000Z",
+          "author": "skyline23",
+          "content": "<p>CASK는 LLM 추론 과정에서 발생하는 KV cache 증가 문제를 해결하기 위해<br />\n기존의 token importance 기반 pruning 방식이 아닌,<br />\n<strong>구조적(role-based) 접근</strong>을 제안하는 논문</p>\n<p>본 연구는 <strong>단 5일 만에 도출되었으며, 지도교수 없이 진행된 개인 연구자 2인의 결과</strong>라는",
+          "contentSnippet": "CASK는 LLM 추론 과정에서 발생하는 KV cache 증가 문제를 해결하기 위해\n구조적(role-based) 접근을 제안하는 논문\n본 연구는 단 5일 만에 도출되었으며, 지도교수 없이 진행된 개인 연구자 2인의 결과라는",
+          "id": "https://news.hada.io/topic?id=28520",
+          "isoDate": "2026-04-14T15:16:02.000Z"
+        },
+        {
+          "title": "Windows 11에서 Copilot이 제거되는 것이 아니라 이름만 바뀌는 것",
+          "link": "https://news.hada.io/topic?id=28519",
+          "pubDate": "2026-04-14T14:32:59.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Microsoft는 2026년 초 <strong>Windows 11 개선 계획</strong>을 발표하며, Copilot 관련 <strong>AI 통합 방식을 재검토</strong>하고 불필요한 삽입을 줄이겠다고 밝힘</li>\n<li>Insider 버전에서 <strong>Notepad의 Copilot 브랜드가 제거</strong>되고, 대신 <strong>AI 기반 글쓰기 지원 기능</strong>을...</p>",
+          "contentSnippet": "Microsoft는 2026년 초 Windows 11 개선 계획을 발표하며, Copilot 관련 AI 통합 방식을 재검토하고 불필요한 삽입을 줄이겠다고 밝힘\nInsider 버전에서 Notepad의 Copilot 브랜드가 제거되고, 대신 AI 기반 글쓰기 지원 기능을...",
+          "id": "https://news.hada.io/topic?id=28519",
+          "isoDate": "2026-04-14T14:32:59.000Z"
+        },
+        {
+          "title": "Linux 커널 7.0 공식 릴리스",
+          "link": "https://news.hada.io/topic?id=28518",
+          "pubDate": "2026-04-14T14:24:58.000Z",
+          "author": "princox",
+          "content": "<p>Linus Torvalds가 Linux 커널 7.0을 공식 릴리스했습니다. 다만 버전 번호가 크게 올랐다고 해서 획기적인 변화가 있는 건 아닙니다. Torvalds는 마이너 버전이 x.19처럼 너무 높아지면 메이저 버전을 올리는 관행을 유지하고 있으며, 이번 7.0도 그 연장선입니다.</p>\n<p><strong>주요 변경사항</strong></p>\n<ul>\n...</p>",
+          "contentSnippet": "Linus Torvalds가 Linux 커널 7.0을 공식 릴리스했습니다. 다만 버전 번호가 크게 올랐다고 해서 획기적인 변화가 있는 건 아닙니다. Torvalds는 마이너 버전이 x.19처럼 너무 높아지면 메이저 버전을 올리는 관행을 유지하고 있으며, 이번 7.0도 그 연장선입니다.\n주요 변경사항\n\n...",
+          "id": "https://news.hada.io/topic?id=28518",
+          "isoDate": "2026-04-14T14:24:58.000Z"
+        },
+        {
+          "title": "tmux를 보기 좋고 사용하기 쉽게 만드는 방법 (2024)",
+          "link": "https://news.hada.io/topic?id=28517",
+          "pubDate": "2026-04-14T13:36:41.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><code>~/.tmux.conf</code> 설정 파일을 통해 <strong>키 바인딩, 색상, 상태바, 마우스 동작</strong> 등을 자유롭게 조정할 수 있음</li>\n<li>기본 Prefix 키 <code>C-b</code>를 <strong><code>C-a</code>로 변경</strong>하고, Caps Lock을 Ctrl로 리매핑해 입력 효율을 높일 수 있음</li>\n<li>창 분할을 ...</p>",
+          "contentSnippet": "~/.tmux.conf 설정 파일을 통해 키 바인딩, 색상, 상태바, 마우스 동작 등을 자유롭게 조정할 수 있음\n기본 Prefix 키 C-b를 C-a로 변경하고, Caps Lock을 Ctrl로 리매핑해 입력 효율을 높일 수 있음\n창 분할을 ...",
+          "id": "https://news.hada.io/topic?id=28517",
+          "isoDate": "2026-04-14T13:36:41.000Z"
+        },
+        {
+          "title": "158년 된 가정 증류 금지법, 미국 항소법원서 위헌 판결",
+          "link": "https://news.hada.io/topic?id=28516",
+          "pubDate": "2026-04-14T13:33:41.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>미국 제5순회항소법원이 <strong>1868년 제정된 가정용 증류 금지법</strong>을 위헌으로 판단하며, 의회의 <strong>과세권과 직접 관련 없는 불필요한 규제</strong>로 결론</li>\n<li>소송은 <strong>Hobby Distillers Association</strong>과 회원 4명이 제기했으며, 개인이 <strong>취미나 개인 소비 목적의...</p>",
+          "contentSnippet": "미국 제5순회항소법원이 1868년 제정된 가정용 증류 금지법을 위헌으로 판단하며, 의회의 과세권과 직접 관련 없는 불필요한 규제로 결론\n소송은 Hobby Distillers Association과 회원 4명이 제기했으며, 개인이 취미나 개인 소비 목적의...",
+          "id": "https://news.hada.io/topic?id=28516",
+          "isoDate": "2026-04-14T13:33:41.000Z"
+        },
+        {
+          "title": "Show GN: 멋쮠 mcp 한국 리스트",
+          "link": "https://news.hada.io/topic?id=28515",
+          "pubDate": "2026-04-14T13:13:12.000Z",
+          "author": "darjeeling",
+          "content": "<p>한국형 MCP 서버를 모아둔 오픈소스 목록입니다.</p>\n<p>에이전트 시대에 큰 의미는 없을수 있지만 여러곳에 붙일수 있고 개발을 다시 하는 귀찬음을 줄여줍니다.</p>\n<p>검색에 나온 법률, 금융, 공공데이터, 지도 등 국내 특화 MCP를 모아서 쉽게 보려고 만들어봤습니다.</p>\n<p>제가 다 써본것은 아니고 검색에 잡",
+          "contentSnippet": "한국형 MCP 서버를 모아둔 오픈소스 목록입니다.\n에이전트 시대에 큰 의미는 없을수 있지만 여러곳에 붙일수 있고 개발을 다시 하는 귀찬음을 줄여줍니다.\n검색에 나온 법률, 금융, 공공데이터, 지도 등 국내 특화 MCP를 모아서 쉽게 보려고 만들어봤습니다.\n제가 다 써본것은 아니고 검색에 잡",
+          "id": "https://news.hada.io/topic?id=28515",
+          "isoDate": "2026-04-14T13:13:12.000Z"
+        },
+        {
           "title": "Show GN: S3V: S3 GUI 클라이언트",
           "link": "https://news.hada.io/topic?id=28514",
           "pubDate": "2026-04-14T09:12:08.000Z",
@@ -445,66 +505,6 @@
           "contentSnippet": "알바니아, 부탄, 네팔, 파라과이, 아이슬란드, 에티오피아, 콩고민주공화국이 전력의 99.7% 이상을 재생에너지로 생산\n이들 국가는 지열·수력·태양광·풍력 등 다양한 청정에너지원을 활용해 전력 자급 실현\n전 세계적으로 40개국이 이미 전력의 ...",
           "id": "https://news.hada.io/topic?id=28460",
           "isoDate": "2026-04-13T00:50:07.000Z"
-        },
-        {
-          "title": "Claude Code Pro Max 5x 요금제, 적당한 사용량에도 1.5시간 만에 할당량 소진되는 문제",
-          "link": "https://news.hada.io/topic?id=28459",
-          "pubDate": "2026-04-13T00:47:07.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>Pro Max 5x(1M 컨텍스트)</strong> 요금제에서 적당한 수준의 Q&amp;A와 개발 작업만으로도 <strong>1.5시간 만에 토큰 한도 초과</strong>가 발생</li>\n<li>원인으로 <strong><code>cache_read</code> 토큰이 전체 비율(1.0x)</strong> 로 계산되는 오류가 지목되며, 캐싱 효과가 사라져 급격한 소모가...</p>",
-          "contentSnippet": "Pro Max 5x(1M 컨텍스트) 요금제에서 적당한 수준의 Q&A와 개발 작업만으로도 1.5시간 만에 토큰 한도 초과가 발생\n원인으로 cache_read 토큰이 전체 비율(1.0x) 로 계산되는 오류가 지목되며, 캐싱 효과가 사라져 급격한 소모가...",
-          "id": "https://news.hada.io/topic?id=28459",
-          "isoDate": "2026-04-13T00:47:07.000Z"
-        },
-        {
-          "title": "스페인에서 Cloudflare의 축구 관련 차단으로 Docker Pull 실패 발생",
-          "link": "https://news.hada.io/topic?id=28458",
-          "pubDate": "2026-04-13T00:44:07.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>스페인 지역에서 <strong>Docker 이미지 다운로드(docker pull)</strong> 요청이 차단되는 현상 발생</li>\n<li>원인은 <strong>Cloudflare의 축구 경기 중계 관련 차단 정책</strong>이 Docker Hub 트래픽에도 영향을 준 것으로 확인</li>\n<li>해당 차단으로 인해 <strong>개발 환경 구축 및 배포 자동화 과정...</p>",
-          "contentSnippet": "스페인 지역에서 Docker 이미지 다운로드(docker pull) 요청이 차단되는 현상 발생\n원인은 Cloudflare의 축구 경기 중계 관련 차단 정책이 Docker Hub 트래픽에도 영향을 준 것으로 확인\n해당 차단으로 인해 개발 환경 구축 및 배포 자동화 과정...",
-          "id": "https://news.hada.io/topic?id=28458",
-          "isoDate": "2026-04-13T00:44:07.000Z"
-        },
-        {
-          "title": "월 $20 스택으로 월매출 $10K 회사를 여러 개 운영하는 법",
-          "link": "https://news.hada.io/topic?id=28457",
-          "pubDate": "2026-04-13T00:41:07.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>단일 VPS, Go 언어, SQLite, 로컬 GPU를 활용해 <strong>월 20달러 이하의 인프라 비용</strong>으로 MRR 1만 달러 이상의 SaaS 회사를 복수 운영하는 부트스트래핑 전략</li>\n<li>AWS나 복잡한 클라우드 오케스트레이션 대신 <strong>5~10달러짜리 VPS 한 대</strong>로 모든 서비스를 운영하며, 인프라 관리가...</p>",
-          "contentSnippet": "단일 VPS, Go 언어, SQLite, 로컬 GPU를 활용해 월 20달러 이하의 인프라 비용으로 MRR 1만 달러 이상의 SaaS 회사를 복수 운영하는 부트스트래핑 전략\nAWS나 복잡한 클라우드 오케스트레이션 대신 5~10달러짜리 VPS 한 대로 모든 서비스를 운영하며, 인프라 관리가...",
-          "id": "https://news.hada.io/topic?id=28457",
-          "isoDate": "2026-04-13T00:41:07.000Z"
-        },
-        {
-          "title": "Apple Silicon에서 가상머신 2개 제한을 우회하는 방법 (2023)",
-          "link": "https://news.hada.io/topic?id=28456",
-          "pubDate": "2026-04-12T23:36:36.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Apple Silicon 기반 macOS는 <strong>Virtualization.framework</strong>로 실행 가능한 <strong>macOS VM을 최대 2개로 제한</strong>하며, 이는 macOS 사용권 계약 조항에 근거함</li>\n<li>분석 결과 이 제한은 <strong>XNU 커널 내부의 비공개 변수 <code>hv_apple_isa_vm_quota</code></strong> 로 관리되며...</p>",
-          "contentSnippet": "Apple Silicon 기반 macOS는 Virtualization.framework로 실행 가능한 macOS VM을 최대 2개로 제한하며, 이는 macOS 사용권 계약 조항에 근거함\n분석 결과 이 제한은 XNU 커널 내부의 비공개 변수 hv_apple_isa_vm_quota 로 관리되며...",
-          "id": "https://news.hada.io/topic?id=28456",
-          "isoDate": "2026-04-12T23:36:36.000Z"
-        },
-        {
-          "title": "비트코인 채굴자, 난이도 7.8% 하락 속에 코인당 1만9천달러 손실",
-          "link": "https://news.hada.io/topic?id=28455",
-          "pubDate": "2026-04-12T23:33:36.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>비트코인 채굴의 <strong>평균 생산비용이 8만8천달러</strong>, 시장가 약 6만9천달러로 <strong>코인당 1만9천달러 손실</strong> 발생</li>\n<li><strong>중동 긴장과 유가 급등</strong>으로 전력비용이 상승하며 채굴 수익성이 악화</li>\n<li>네트워크 <strong>난이도는 7.76% 하락해 133.79조</strong>, 해...</p>",
-          "contentSnippet": "비트코인 채굴의 평균 생산비용이 8만8천달러, 시장가 약 6만9천달러로 코인당 1만9천달러 손실 발생\n중동 긴장과 유가 급등으로 전력비용이 상승하며 채굴 수익성이 악화\n네트워크 난이도는 7.76% 하락해 133.79조, 해...",
-          "id": "https://news.hada.io/topic?id=28455",
-          "isoDate": "2026-04-12T23:33:36.000Z"
-        },
-        {
-          "title": "Google, Pixel 10 베이스밴드 펌웨어에 Rust 도입",
-          "link": "https://news.hada.io/topic?id=28454",
-          "pubDate": "2026-04-12T21:29:33.000Z",
-          "author": "darjeeling",
-          "content": "<p>Google이 Pixel 10의 셀룰러 베이스밴드(modem) 펌웨어에 메모리 안전 언어인 Rust 기반 DNS 파서를<br />\n도입했다. 원격 공격 표면이 큰 베이스밴드에서 메모리 안전 취약점 계열을 줄이기 위한 선제 대응이다.</p>\n<h3>핵심 포인트</h3>\n<ul>\n<li>Pixel 9에서는 메모리 안전 취약점 완화책을 적용했고, Pixel 10에",
-          "contentSnippet": "Google이 Pixel 10의 셀룰러 베이스밴드(modem) 펌웨어에 메모리 안전 언어인 Rust 기반 DNS 파서를\n핵심 포인트\nPixel 9에서는 메모리 안전 취약점 완화책을 적용했고, Pixel 10에",
-          "id": "https://news.hada.io/topic?id=28454",
-          "isoDate": "2026-04-12T21:29:33.000Z"
         }
       ]
     }
