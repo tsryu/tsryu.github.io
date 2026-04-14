@@ -7,6 +7,26 @@
       "priority": 1,
       "data": [
         {
+          "title": "Cloudflare 전 제품을 아우르는 통합 CLI 구축",
+          "link": "https://news.hada.io/topic?id=28522",
+          "pubDate": "2026-04-14T19:32:46.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Cloudflare는 100개 이상의 제품과 약 3,000개의 API 작업을 통합 관리할 수 있는 <strong>전역 CLI</strong>를 개발 중임</li>\n<li>새로운 CLI는 기존 Wrangler를 확장해 <strong>모든 Cloudflare 서비스와 리소스</strong>를 코드 기반으로 제어 가능하게 함</li>\n<li><strong>TypeScript 스키마 시스템</str...</p>",
+          "contentSnippet": "Cloudflare는 100개 이상의 제품과 약 3,000개의 API 작업을 통합 관리할 수 있는 전역 CLI를 개발 중임\n새로운 CLI는 기존 Wrangler를 확장해 모든 Cloudflare 서비스와 리소스를 코드 기반으로 제어 가능하게 함\nTypeScript 스키마 시스템",
+          "id": "https://news.hada.io/topic?id=28522",
+          "isoDate": "2026-04-14T19:32:46.000Z"
+        },
+        {
+          "title": "올해의 해킹 타임라인은 미쳤다",
+          "link": "https://news.hada.io/topic?id=28521",
+          "pubDate": "2026-04-14T18:33:50.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>2026년 초 약 100일 동안 <strong>국가 및 범죄 조직이 연루된 대규모 사이버 공격</strong>이 연속적으로 발생하며, 컴퓨터 보안사에서 <strong>전환점으로 평가될 수준의 사태</strong>가 이어짐</li>\n<li>공격은 <strong>이란, SLH, 북한, 러시아</strong> 네 개 클러스터로 구분되며, 모두 <strong>공급망과...</p>",
+          "contentSnippet": "2026년 초 약 100일 동안 국가 및 범죄 조직이 연루된 대규모 사이버 공격이 연속적으로 발생하며, 컴퓨터 보안사에서 전환점으로 평가될 수준의 사태가 이어짐\n공격은 이란, SLH, 북한, 러시아 네 개 클러스터로 구분되며, 모두 공급망과...",
+          "id": "https://news.hada.io/topic?id=28521",
+          "isoDate": "2026-04-14T18:33:50.000Z"
+        },
+        {
           "title": "기존 KV 압축 기법 대비 최대 25% 추가 절감, 성능은 오히려 개선 — CASK",
           "link": "https://news.hada.io/topic?id=28520",
           "pubDate": "2026-04-14T15:16:02.000Z",
@@ -485,26 +505,6 @@
           "contentSnippet": "사용자에게 즉각적으로 이해되는 디자인 관용구는 학습 부담을 줄이고 일관된 상호작용을 가능하게 함\n과거 데스크톱 소프트웨어 시대에는 운영체제와 가이드라인 덕분에 메뉴 구조와 단축키 등 인터페이스가 통일되어 있었음\n반면 브라우저 기반...",
           "id": "https://news.hada.io/topic?id=28462",
           "isoDate": "2026-04-13T00:56:08.000Z"
-        },
-        {
-          "title": "Anthropic, 2026년 3월 6일 캐시 TTL을 1시간에서 5분으로 단축",
-          "link": "https://news.hada.io/topic?id=28461",
-          "pubDate": "2026-04-13T00:53:08.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>2026년 3월 초 <strong>Claude Code의 캐시 TTL이 1시간에서 5분으로 변경</strong>되어 동일한 사용 패턴에서도 서버 측 설정 차이로 인한 변화가 확인됨</li>\n<li>TTL 단축으로 <strong>캐시 재생성 비용이 20~32% 증가</strong>하고, 장시간 세션에서 <strong>쿼터 소모량이 급증</strong>함</li>\n<li>분석 ...</p>",
-          "contentSnippet": "2026년 3월 초 Claude Code의 캐시 TTL이 1시간에서 5분으로 변경되어 동일한 사용 패턴에서도 서버 측 설정 차이로 인한 변화가 확인됨\nTTL 단축으로 캐시 재생성 비용이 20~32% 증가하고, 장시간 세션에서 쿼터 소모량이 급증함\n분석 ...",
-          "id": "https://news.hada.io/topic?id=28461",
-          "isoDate": "2026-04-13T00:53:08.000Z"
-        },
-        {
-          "title": "100% 재생에너지로 전력 생산하는 7개국",
-          "link": "https://news.hada.io/topic?id=28460",
-          "pubDate": "2026-04-13T00:50:07.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>알바니아, 부탄, 네팔, 파라과이, 아이슬란드, 에티오피아, 콩고민주공화국이 <strong>전력의 99.7% 이상을 재생에너지</strong>로 생산</li>\n<li>이들 국가는 <strong>지열·수력·태양광·풍력</strong> 등 다양한 청정에너지원을 활용해 전력 자급 실현</li>\n<li>전 세계적으로 40개국이 이미 <strong>전력의 ...</p>",
-          "contentSnippet": "알바니아, 부탄, 네팔, 파라과이, 아이슬란드, 에티오피아, 콩고민주공화국이 전력의 99.7% 이상을 재생에너지로 생산\n이들 국가는 지열·수력·태양광·풍력 등 다양한 청정에너지원을 활용해 전력 자급 실현\n전 세계적으로 40개국이 이미 전력의 ...",
-          "id": "https://news.hada.io/topic?id=28460",
-          "isoDate": "2026-04-13T00:50:07.000Z"
         }
       ]
     }
