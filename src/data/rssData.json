@@ -7,6 +7,46 @@
       "priority": 1,
       "data": [
         {
+          "title": "내성 확산 언어 모델(Introspective Diffusion Language Models)",
+          "link": "https://news.hada.io/topic?id=28562",
+          "pubDate": "2026-04-15T19:32:58.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>I-DLM</strong>은 확산 기반 언어 모델이 <strong>AR(Autoregressive) 모델 수준의 품질</strong>과 <strong>병렬 생성 속도</strong>를 동시에 달성한 첫 사례임</li>\n<li><strong>Introspective Strided Decoding(ISD)</strong> 을 통해 한 번의 전방 패스에서 <strong>새 토큰 생성과 이전 토큰 검증...</p>",
+          "contentSnippet": "I-DLM은 확산 기반 언어 모델이 AR(Autoregressive) 모델 수준의 품질과 병렬 생성 속도를 동시에 달성한 첫 사례임\nIntrospective Strided Decoding(ISD) 을 통해 한 번의 전방 패스에서 새 토큰 생성과 이전 토큰 검증...",
+          "id": "https://news.hada.io/topic?id=28562",
+          "isoDate": "2026-04-15T19:32:58.000Z"
+        },
+        {
+          "title": "모든 것의 미래는 거짓인가: 일(Work)",
+          "link": "https://news.hada.io/topic?id=28561",
+          "pubDate": "2026-04-15T17:32:55.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>AI 자동화와 LLM 기반 노동</strong>이 확산되며, 기술 발전이 오히려 <strong>숙련 저하와 부의 집중</strong>을 초래할 위험이 커지고 있음</li>\n<li><strong>프로그래밍과 창작 활동</strong>은 점차 프롬프트를 다루는 <strong>‘마법사형 노동’</strong> 으로 변하고, 일부 개발자는 불안정한 LL...</p>",
+          "contentSnippet": "AI 자동화와 LLM 기반 노동이 확산되며, 기술 발전이 오히려 숙련 저하와 부의 집중을 초래할 위험이 커지고 있음\n프로그래밍과 창작 활동은 점차 프롬프트를 다루는 ‘마법사형 노동’ 으로 변하고, 일부 개발자는 불안정한 LL...",
+          "id": "https://news.hada.io/topic?id=28561",
+          "isoDate": "2026-04-15T17:32:55.000Z"
+        },
+        {
+          "title": "Lean이 프로그램의 정확성을 증명했지만, 그 안에서 버그가 발견됨",
+          "link": "https://news.hada.io/topic?id=28560",
+          "pubDate": "2026-04-15T16:32:53.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>형식 검증된 zlib 구현체</strong>를 퍼징한 결과, Lean 4 런타임의 <code>lean_alloc_sarray</code>에서 <strong>힙 버퍼 오버플로우</strong>가 발견됨</li>\n<li><strong>AI 퍼저 Claude</strong>와 <strong>AFL++</strong>, <strong>AddressSanitizer</strong> 등을 이용해 1억 회 이상 테스트한 끝...</p>",
+          "contentSnippet": "형식 검증된 zlib 구현체를 퍼징한 결과, Lean 4 런타임의 lean_alloc_sarray에서 힙 버퍼 오버플로우가 발견됨\nAI 퍼저 Claude와 AFL++, AddressSanitizer 등을 이용해 1억 회 이상 테스트한 끝...",
+          "id": "https://news.hada.io/topic?id=28560",
+          "isoDate": "2026-04-15T16:32:53.000Z"
+        },
+        {
+          "title": "스페인, 테니스·골프·영화 방송 시간대까지 인터넷 차단 확대",
+          "link": "https://news.hada.io/topic?id=28559",
+          "pubDate": "2026-04-15T15:32:46.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>스페인 법원이 <strong>Telefónica Audiovisual Digital</strong>에 축구 외에도 다양한 <strong>스포츠·엔터테인먼트 콘텐츠</strong>에 대한 <strong>IP 기반 차단 권한</strong>을 승인</li>\n<li>기존 <strong>LaLiga 경기 중 발생하던 인터넷 접속 장애</strong>는 불법 중계 차단 조치의 결과로, <strong>...</p>",
+          "contentSnippet": "스페인 법원이 Telefónica Audiovisual Digital에 축구 외에도 다양한 스포츠·엔터테인먼트 콘텐츠에 대한 IP 기반 차단 권한을 승인\n기존 LaLiga 경기 중 발생하던 인터넷 접속 장애는 불법 중계 차단 조치의 결과로, ...",
+          "id": "https://news.hada.io/topic?id=28559",
+          "isoDate": "2026-04-15T15:32:46.000Z"
+        },
+        {
           "title": "캘리포니아의 3D 프린팅 검열 법안의 위험성",
           "link": "https://news.hada.io/topic?id=28557",
           "pubDate": "2026-04-15T13:33:02.000Z",
@@ -465,46 +505,6 @@
           "contentSnippet": "Android가 사진 업로드 시 EXIF 위치 메타데이터를 자동으로 제거하도록 변경되어, 웹 기반 서비스의 위치 매핑 기능이 중단됨\nGoogle은 이 조치를 개인정보 보호 강화를 위한 것으로 설명하며, 스토킹이나 절도 위험을 줄이는 목적임\nBluetooth,...",
           "id": "https://news.hada.io/topic?id=28505",
           "isoDate": "2026-04-14T01:31:22.000Z"
-        },
-        {
-          "title": "Show GN: mux – AI 코딩 세션을 라이브 프리뷰로 전환하는 tmux 세션 매니저",
-          "link": "https://news.hada.io/topic?id=28504",
-          "pubDate": "2026-04-14T01:11:20.000Z",
-          "author": "lunemis",
-          "content": "<p>Claude Code, Codex, Aider 같은 AI CLI를 여러 tmux 세션에서 동시에 사용할 때, 어떤 세션에서 무엇이 실행 중인지 파악하기 어렵습니다.<br />\nmux는 세션 전환 전에 각 세션의 상태를 미리 보여주는 TUI 기반 tmux 세션 매니저입니다.</p>\n<h4>주요 기능</h4>\n<ul>\n<li>세션 라이브 프리뷰<br />\n전환 전에 각 세",
-          "contentSnippet": "Claude Code, Codex, Aider 같은 AI CLI를 여러 tmux 세션에서 동시에 사용할 때, 어떤 세션에서 무엇이 실행 중인지 파악하기 어렵습니다.\n주요 기능\n세션 라이브 프리뷰\n전환 전에 각 세",
-          "id": "https://news.hada.io/topic?id=28504",
-          "isoDate": "2026-04-14T01:11:20.000Z"
-        },
-        {
-          "title": "Axios 라이브러리의 헤더 주입(CRLF)을 악용한 클라우드 서버 권한 탈취 취약점",
-          "link": "https://news.hada.io/topic?id=28503",
-          "pubDate": "2026-04-14T00:50:42.000Z",
-          "author": "dowha",
-          "content": "<p>이 취약점은 해커가 AWS 같은 클라우드 서버의 관리자 권한을 탈취할 수 있게 만드는 치명적인 버그입니다.</p>\n<p>공격의 연쇄 작용 (Chain): 이 공격은 Axios 단독으로 발생하지 않습니다. 여러분의 프로젝트에 설치된 <strong>다른 라이브러리에 취약점(프로토타입 오염)</strong> 이 있을 경우, 해커가 이를 징검",
-          "contentSnippet": "이 취약점은 해커가 AWS 같은 클라우드 서버의 관리자 권한을 탈취할 수 있게 만드는 치명적인 버그입니다.\n공격의 연쇄 작용 (Chain): 이 공격은 Axios 단독으로 발생하지 않습니다. 여러분의 프로젝트에 설치된 다른 라이브러리에 취약점(프로토타입 오염) 이 있을 경우, 해커가 이를 징검",
-          "id": "https://news.hada.io/topic?id=28503",
-          "isoDate": "2026-04-14T00:50:42.000Z"
-        },
-        {
-          "title": "소프트웨어 팀의 경제학: 대부분의 엔지니어링 조직이 재무적으로 ‘눈을 가린’ 이유",
-          "link": "https://news.hada.io/topic?id=28502",
-          "pubDate": "2026-04-14T00:49:17.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>대부분의 엔지니어링 조직이 <strong>팀 단위의 비용과 가치 창출을 수치로 파악하지 못한 채 운영</strong>되고 있으며, 이는 재무적 비효율로 이어짐</li>\n<li>8명 규모 팀의 연간 비용은 약 <strong>€104만(월 €8.7만, 일 €4,000)</strong> 으로, 기능 개발이나 개선 지연 등 모든 결정이 명확한 금전적 ...</p>",
-          "contentSnippet": "대부분의 엔지니어링 조직이 팀 단위의 비용과 가치 창출을 수치로 파악하지 못한 채 운영되고 있으며, 이는 재무적 비효율로 이어짐\n8명 규모 팀의 연간 비용은 약 €104만(월 €8.7만, 일 €4,000) 으로, 기능 개발이나 개선 지연 등 모든 결정이 명확한 금전적 ...",
-          "id": "https://news.hada.io/topic?id=28502",
-          "isoDate": "2026-04-14T00:49:17.000Z"
-        },
-        {
-          "title": "Apple의 우연한 해자: ‘AI 패배자’가 승자가 될 수 있는 이유",
-          "link": "https://news.hada.io/topic?id=28501",
-          "pubDate": "2026-04-14T00:46:17.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>AI <strong>지능의 상품화</strong>가 가속되면서, 모든 기업이 최고 모델 경쟁에 뛰어든 사이 막대한 현금을 비축한 <strong>Apple이 오히려 유리한 위치를 확보</strong> 중</li>\n<li>OpenAI는 <strong>$300B 밸류에이션</strong>에도 불구하고 Sora 서비스 중단, Stargate Texas 취소 등 수익 모델 없는 인프...</p>",
-          "contentSnippet": "AI 지능의 상품화가 가속되면서, 모든 기업이 최고 모델 경쟁에 뛰어든 사이 막대한 현금을 비축한 Apple이 오히려 유리한 위치를 확보 중\nOpenAI는 $300B 밸류에이션에도 불구하고 Sora 서비스 중단, Stargate Texas 취소 등 수익 모델 없는 인프...",
-          "id": "https://news.hada.io/topic?id=28501",
-          "isoDate": "2026-04-14T00:46:17.000Z"
         }
       ]
     }
