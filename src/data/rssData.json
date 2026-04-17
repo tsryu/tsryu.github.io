@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "FSF, Gmail 계정에서 1만 건 이상 스팸 메일 발송 문제로 Google에 연락 시도",
+          "link": "https://news.hada.io/topic?id=28636",
+          "pubDate": "2026-04-17T12:37:46.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>Free Software Foundation(FSF)</strong> 이 Gmail 계정을 통해 대량의 스팸 메일이 발송된 사실을 확인</li>\n<li>해당 계정에서 <strong>1만 건이 넘는 메일</strong>이 전송된 것으로 보고됨</li>\n<li>FSF는 문제 해결을 위해 <strong>Google과의 직접적인 연락을 시도 중</strong></li>\n<li>스팸 발...</p>",
+          "contentSnippet": "Free Software Foundation(FSF) 이 Gmail 계정을 통해 대량의 스팸 메일이 발송된 사실을 확인\n해당 계정에서 1만 건이 넘는 메일이 전송된 것으로 보고됨\nFSF는 문제 해결을 위해 Google과의 직접적인 연락을 시도 중\n스팸 발...",
+          "id": "https://news.hada.io/topic?id=28636",
+          "isoDate": "2026-04-17T12:37:46.000Z"
+        },
+        {
+          "title": "13시간 만에 €54,000 과금 폭증: API 제한 없는 Firebase 브라우저 키로 Gemini API 호출 발생",
+          "link": "https://news.hada.io/topic?id=28635",
+          "pubDate": "2026-04-17T11:32:52.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>Firebase 브라우저 키가 API 제한 없이 노출</strong>되어 외부에서 <strong>Gemini API 요청이 자동 발생</strong>, 단시간 내 막대한 과금이 발생</li>\n<li>실제 사용자 트래픽과 무관하게 <strong>13시간 동안 €54,000 이상</strong>의 비용이 청구되었으며, <strong>비용 경보가 지연 발동</stron...</p>",
+          "contentSnippet": "Firebase 브라우저 키가 API 제한 없이 노출되어 외부에서 Gemini API 요청이 자동 발생, 단시간 내 막대한 과금이 발생\n실제 사용자 트래픽과 무관하게 13시간 동안 €54,000 이상의 비용이 청구되었으며, 비용 경보가 지연 발동",
+          "id": "https://news.hada.io/topic?id=28635",
+          "isoDate": "2026-04-17T11:32:52.000Z"
+        },
+        {
+          "title": "Qwen3.6-35B-A3B가 Claude Opus 4.7보다 더 나은 펠리컨 이미지를 생성함",
+          "link": "https://news.hada.io/topic?id=28634",
+          "pubDate": "2026-04-17T10:32:45.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>Qwen3.6-35B-A3B</strong>와 <strong>Claude Opus 4.7</strong>을 비교해 ‘자전거 타는 펠리컨’ 이미지를 생성한 결과, Qwen이 <strong>더 완성도 높은 그림</strong>을 출력</li>\n<li>Qwen 모델은 <strong>Alibaba</strong>의 최신 버전으로, <strong>Unsloth</strong>가 배포한 20.9GB <strong>양자...</p>",
+          "contentSnippet": "Qwen3.6-35B-A3B와 Claude Opus 4.7을 비교해 ‘자전거 타는 펠리컨’ 이미지를 생성한 결과, Qwen이 더 완성도 높은 그림을 출력\nQwen 모델은 Alibaba의 최신 버전으로, Unsloth가 배포한 20.9GB 양자...",
+          "id": "https://news.hada.io/topic?id=28634",
+          "isoDate": "2026-04-17T10:32:45.000Z"
+        },
+        {
           "title": "Show GN: rhwp의 데스크톱 래퍼를 공유합니다.",
           "link": "https://news.hada.io/topic?id=28632",
           "pubDate": "2026-04-17T06:28:50.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "Cloudflare가 Agents SDK의 차세대 버전인 Project Think를 발표하며, 장기 실행 에이전트를 위한 내구적 실행·서브 에이전트·샌드박스 코드 실행·영속 세션 등 새로운 핵심 프리미티브를 제공\n기존 코딩 에이전트들은 로컬 노트북에서만 실행되고, 유휴 상태에서도 비용이 발생하며...",
           "id": "https://news.hada.io/topic?id=28579",
           "isoDate": "2026-04-16T01:52:02.000Z"
-        },
-        {
-          "title": "Agents SDK의 차세대 진화",
-          "link": "https://news.hada.io/topic?id=28578",
-          "pubDate": "2026-04-16T01:38:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>OpenAI가 <strong>Agents SDK</strong>를 대폭 업데이트하여, 에이전트가 파일 검사·명령 실행·코드 편집·장기 작업을 <strong>제어된 샌드박스 환경</strong>에서 수행할 수 있는 표준화된 인프라 제공</li>\n<li>새 하니스(harness)는 <strong>구성 가능한 메모리</strong>, 샌드박스 인식 오케스트레이션, Co...</p>",
-          "contentSnippet": "OpenAI가 Agents SDK를 대폭 업데이트하여, 에이전트가 파일 검사·명령 실행·코드 편집·장기 작업을 제어된 샌드박스 환경에서 수행할 수 있는 표준화된 인프라 제공\n새 하니스(harness)는 구성 가능한 메모리, 샌드박스 인식 오케스트레이션, Co...",
-          "id": "https://news.hada.io/topic?id=28578",
-          "isoDate": "2026-04-16T01:38:02.000Z"
-        },
-        {
-          "title": "imweb 장애",
-          "link": "https://news.hada.io/topic?id=28577",
-          "pubDate": "2026-04-16T01:36:19.000Z",
-          "author": "minhoryang",
-          "content": "imweb 장애",
-          "contentSnippet": "imweb 장애",
-          "id": "https://news.hada.io/topic?id=28577",
-          "isoDate": "2026-04-16T01:36:19.000Z"
-        },
-        {
-          "title": "미국 연방 배심원단, Live Nation의 독점 행위 인정",
-          "link": "https://news.hada.io/topic?id=28576",
-          "pubDate": "2026-04-16T01:32:43.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>미국 연방 배심원단이 콘서트 업계 최대 기업 <strong>Live Nation</strong>이 연방 및 주 반독점법을 위반하며 독점적으로 운영해왔다고 평결, 음악 산업 전반에 광범위한 영향을 미칠 수 있는 결정</li>\n<li>뉴욕 연방법원에서 7주간의 재판과 4일간의 심리 끝에 내려진 판결로, <strong>Ticketmaster</stron...</p>",
-          "contentSnippet": "미국 연방 배심원단이 콘서트 업계 최대 기업 Live Nation이 연방 및 주 반독점법을 위반하며 독점적으로 운영해왔다고 평결, 음악 산업 전반에 광범위한 영향을 미칠 수 있는 결정\n뉴욕 연방법원에서 7주간의 재판과 4일간의 심리 끝에 내려진 판결로, Ticketmaster",
-          "id": "https://news.hada.io/topic?id=28576",
-          "isoDate": "2026-04-16T01:32:43.000Z"
         }
       ]
     }
