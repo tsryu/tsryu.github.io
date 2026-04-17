@@ -7,6 +7,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "Clojure 공식 다큐멘터리 페이지 – 영상, 쇼노트, 링크 제공",
+          "link": "https://news.hada.io/topic?id=28639",
+          "pubDate": "2026-04-17T20:32:49.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Rich Hickey의 아이디어에서 출발해 <strong>Clojure가 글로벌 핀테크 인프라 언어로 성장한 과정</strong>을 다룬 공식 다큐멘터리 공개</li>\n<li><strong>Nubank 후원</strong>으로 제작되었으며, Clojure의 <strong>비전통적 기원과 가치 중심 커뮤니티</strong>를 중심으로 구성</li>\n<li>쇼노트에는 Cloju...</p>",
+          "contentSnippet": "Rich Hickey의 아이디어에서 출발해 Clojure가 글로벌 핀테크 인프라 언어로 성장한 과정을 다룬 공식 다큐멘터리 공개\nNubank 후원으로 제작되었으며, Clojure의 비전통적 기원과 가치 중심 커뮤니티를 중심으로 구성\n쇼노트에는 Cloju...",
+          "id": "https://news.hada.io/topic?id=28639",
+          "isoDate": "2026-04-17T20:32:49.000Z"
+        },
+        {
+          "title": "‘패시브 인컴(수동 소득)’ 함정이 한 세대의 창업가를 삼켰다",
+          "link": "https://news.hada.io/topic?id=28638",
+          "pubDate": "2026-04-17T16:32:49.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>‘패시브 인컴’이 <strong>재정적 자유의 신화</strong>로 포장되며, 수많은 창업가들이 <strong>자동 수익 시스템 구축</strong>에 몰입함</li>\n<li>실제로는 <strong>드롭쉬핑·제휴 마케팅·온라인 강의 판매</strong>가 반복되며, 고객의 필요보다 <strong>자동화 자체</strong>가 목적이 됨</li>\n<li>이로 ...</p>",
+          "contentSnippet": "‘패시브 인컴’이 재정적 자유의 신화로 포장되며, 수많은 창업가들이 자동 수익 시스템 구축에 몰입함\n실제로는 드롭쉬핑·제휴 마케팅·온라인 강의 판매가 반복되며, 고객의 필요보다 자동화 자체가 목적이 됨\n이로 ...",
+          "id": "https://news.hada.io/topic?id=28638",
+          "isoDate": "2026-04-17T16:32:49.000Z"
+        },
+        {
+          "title": "Zig 0.16.0 릴리즈",
+          "link": "https://news.hada.io/topic?id=28637",
+          "pubDate": "2026-04-17T15:59:55.000Z",
+          "author": "bus710",
+          "content": "<p>2026년 4월 14일에 공개됐습니다. 244명의 기여자가 8개월 동안 1,183개의 커밋을 쌓아서 만든 릴리즈입니다.</p>\n<h3>I/O as an Interface — 이번 릴리즈의 핵심</h3>\n<p>이번 릴리즈에서 가장 큰 변화입니다. 파일시스템, 네트워킹, 타이머, 동기화처럼 블로킹이 생길 수 있는 거의 모든 것을 새로운 <code>std.Io",
+          "contentSnippet": "2026년 4월 14일에 공개됐습니다. 244명의 기여자가 8개월 동안 1,183개의 커밋을 쌓아서 만든 릴리즈입니다.\nI/O as an Interface — 이번 릴리즈의 핵심\n이번 릴리즈에서 가장 큰 변화입니다. 파일시스템, 네트워킹, 타이머, 동기화처럼 블로킹이 생길 수 있는 거의 모든 것을 새로운 std.Io",
+          "id": "https://news.hada.io/topic?id=28637",
+          "isoDate": "2026-04-17T15:59:55.000Z"
+        },
+        {
           "title": "FSF, Gmail 계정에서 1만 건 이상 스팸 메일 발송 문제로 Google에 연락 시도",
           "link": "https://news.hada.io/topic?id=28636",
           "pubDate": "2026-04-17T12:37:46.000Z",
@@ -475,36 +505,6 @@
           "contentSnippet": "위키피디아는 무언가를 소개하고 광고하는 광고판은 아닙니다. 하지만 단기간에 라이브러리가 쏟아져 나왔다는 것은 시대를 정의할 수 있는 하나의 현상으로 볼 수도 있을 것 같았습니다.\n그래서 지금의 이 현상을 문서로 기록하고, 지금까지 나온 HWP/HWPX 오픈소스 도구를 정리하여 미디어위키에 올려보았습",
           "id": "https://news.hada.io/topic?id=28582",
           "isoDate": "2026-04-16T02:11:35.000Z"
-        },
-        {
-          "title": "AI 에이전트 스킬, 벤치마크 성능의 절반도 현실에서 안 나온다",
-          "link": "https://news.hada.io/topic?id=28581",
-          "pubDate": "2026-04-16T02:07:47.000Z",
-          "author": "davespark",
-          "content": "<p>UC Santa Barbara, MIT CSAIL, MIT-IBM Watson AI Lab 연구팀이 <strong>AI 에이전트의 스킬 활용 능력</strong>을 현실적으로 평가한 연구 결과입니다.</p>\n<p>연구팀은 오픈소스에서 <strong>34,198개</strong>의 스킬(워크플로, API 사용법, 모범 사례 등 구조화된 지식)을 수집해 테스트했습니다. 기존 벤치마크(",
-          "contentSnippet": "UC Santa Barbara, MIT CSAIL, MIT-IBM Watson AI Lab 연구팀이 AI 에이전트의 스킬 활용 능력을 현실적으로 평가한 연구 결과입니다.\n연구팀은 오픈소스에서 34,198개의 스킬(워크플로, API 사용법, 모범 사례 등 구조화된 지식)을 수집해 테스트했습니다. 기존 벤치마크(",
-          "id": "https://news.hada.io/topic?id=28581",
-          "isoDate": "2026-04-16T02:07:47.000Z"
-        },
-        {
-          "title": "macOS용 Gemini 앱 출시",
-          "link": "https://news.hada.io/topic?id=28580",
-          "pubDate": "2026-04-16T02:02:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>swift로 개발된 <strong>맥 네이티브 앱</strong>, <strong>Option + Space</strong> 단축키로 미니 채팅창 호출 지원</li>\n<li>현재 열려 있는 창을 선택해서 Gemini에 공유하면 &quot;문서, 코드, 데이터&quot;등의 <strong>컨텍스트 기반 답변</strong>을 바로 제공</li>\n<li><strong>Nano Banana</strong>로...</p>",
-          "contentSnippet": "swift로 개발된 맥 네이티브 앱, Option + Space 단축키로 미니 채팅창 호출 지원\n현재 열려 있는 창을 선택해서 Gemini에 공유하면 \"문서, 코드, 데이터\"등의 컨텍스트 기반 답변을 바로 제공\nNano Banana로...",
-          "id": "https://news.hada.io/topic?id=28580",
-          "isoDate": "2026-04-16T02:02:02.000Z"
-        },
-        {
-          "title": "Project Think: Cloudflare에서 차세대 AI 에이전트 구축하기",
-          "link": "https://news.hada.io/topic?id=28579",
-          "pubDate": "2026-04-16T01:52:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Cloudflare가 <strong>Agents SDK</strong>의 차세대 버전인 Project Think를 발표하며, 장기 실행 에이전트를 위한 내구적 실행·서브 에이전트·샌드박스 코드 실행·영속 세션 등 새로운 핵심 프리미티브를 제공</li>\n<li>기존 코딩 에이전트들은 로컬 노트북에서만 실행되고, 유휴 상태에서도 비용이 발생하며...</p>",
-          "contentSnippet": "Cloudflare가 Agents SDK의 차세대 버전인 Project Think를 발표하며, 장기 실행 에이전트를 위한 내구적 실행·서브 에이전트·샌드박스 코드 실행·영속 세션 등 새로운 핵심 프리미티브를 제공\n기존 코딩 에이전트들은 로컬 노트북에서만 실행되고, 유휴 상태에서도 비용이 발생하며...",
-          "id": "https://news.hada.io/topic?id=28579",
-          "isoDate": "2026-04-16T01:52:02.000Z"
         }
       ]
     }
