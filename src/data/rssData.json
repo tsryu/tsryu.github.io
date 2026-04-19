@@ -7,6 +7,116 @@
       "priority": 1,
       "data": [
         {
+          "title": "B-52 폭격기 스타 트래커 내부의 전기기계식 각도 컴퓨터",
+          "link": "https://news.hada.io/topic?id=28677",
+          "pubDate": "2026-04-19T03:40:38.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>천문 항법</strong> 자동화를 위해 별 위치를 추적하고 현재 위치 기준의 <strong>고도와 방위각</strong>을 계산하는 전기기계식 아날로그 컴퓨터 탑재</li>\n<li>시스템은 별의 대략적 위치와 대략적인 위도·경도·기수 방향만으로 탐색을 시작하고, <strong>spiral search pattern</strong>과 반복 계...</p>",
+          "contentSnippet": "천문 항법 자동화를 위해 별 위치를 추적하고 현재 위치 기준의 고도와 방위각을 계산하는 전기기계식 아날로그 컴퓨터 탑재\n시스템은 별의 대략적 위치와 대략적인 위도·경도·기수 방향만으로 탐색을 시작하고, spiral search pattern과 반복 계...",
+          "id": "https://news.hada.io/topic?id=28677",
+          "isoDate": "2026-04-19T03:40:38.000Z"
+        },
+        {
+          "title": "Show GN: Paperclip + Gastown에서 영감을 받은, “영구기관” 컨셉의 오픈소스 AI 에이전트 프레임워크",
+          "link": "https://news.hada.io/topic?id=28676",
+          "pubDate": "2026-04-19T01:34:01.000Z",
+          "author": "bakkum",
+          "content": "<p>안녕하세요,</p>\n<p>Paperclip과 Gastown에서 영감을 받아, 토큰만 있으면 AI가 스스로 일을 이어가며 제품을 키워나가는 “영구기관(perpetual engine)” 컨셉의 오픈소스 에이전트 프레임워크를 만들었습니다.</p>\n<p>핵심 아이디어는 단순합니다:<br />\nAI를 단발성 호출이 아니라, 지속적으로 작동하는 시스템으로",
+          "contentSnippet": "안녕하세요,\nPaperclip과 Gastown에서 영감을 받아, 토큰만 있으면 AI가 스스로 일을 이어가며 제품을 키워나가는 “영구기관(perpetual engine)” 컨셉의 오픈소스 에이전트 프레임워크를 만들었습니다.\n핵심 아이디어는 단순합니다:\nAI를 단발성 호출이 아니라, 지속적으로 작동하는 시스템으로",
+          "id": "https://news.hada.io/topic?id=28676",
+          "isoDate": "2026-04-19T01:34:01.000Z"
+        },
+        {
+          "title": "분리된 구간 집합 위에서 계산하는 계산기",
+          "link": "https://news.hada.io/topic?id=28675",
+          "pubDate": "2026-04-19T01:01:14.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>분리된 구간들의 합집합</strong>을 입력으로 받아 사칙연산, 함수 호출, 거듭제곱까지 수행하며, <strong>interval union arithmetic</strong>를 브라우저에서 직접 계산 가능</li>\n<li>결과 구간은 입력 합집합에서 고른 값들로 같은 식을 실수 위에서 계산했을 때의 값을 <strong>반드시 포함</stro...</p>",
+          "contentSnippet": "분리된 구간들의 합집합을 입력으로 받아 사칙연산, 함수 호출, 거듭제곱까지 수행하며, interval union arithmetic를 브라우저에서 직접 계산 가능\n결과 구간은 입력 합집합에서 고른 값들로 같은 식을 실수 위에서 계산했을 때의 값을 반드시 포함",
+          "id": "https://news.hada.io/topic?id=28675",
+          "isoDate": "2026-04-19T01:01:14.000Z"
+        },
+        {
+          "title": "일본 철도가 이렇게 뛰어난 이유",
+          "link": "https://news.hada.io/topic?id=28674",
+          "pubDate": "2026-04-19T00:58:14.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>민간 소유</strong>와 <strong>다수 기업 경쟁</strong>이 함께 자리 잡으며, 철도 운영사들이 노선 운행뿐 아니라 도시 조성까지 묶어 수익과 수요를 함께 키운 구조</li>\n<li>철도회사는 주택·상업시설·오락시설·병원 같은 <strong>부대사업 포트폴리오</strong>를 철도축을 따라 구축했고, <strong...</p>",
+          "contentSnippet": "민간 소유와 다수 기업 경쟁이 함께 자리 잡으며, 철도 운영사들이 노선 운행뿐 아니라 도시 조성까지 묶어 수익과 수요를 함께 키운 구조\n철도회사는 주택·상업시설·오락시설·병원 같은 부대사업 포트폴리오를 철도축을 따라 구축했고,",
+          "id": "https://news.hada.io/topic?id=28674",
+          "isoDate": "2026-04-19T00:58:14.000Z"
+        },
+        {
+          "title": "Kdenlive 현황",
+          "link": "https://news.hada.io/topic?id=28673",
+          "pubDate": "2026-04-19T00:55:14.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>연 3회의 <strong>KDE Gear 릴리스 주기</strong>에 맞춰 기능 추가와 유지보수를 이어가며, 2025년에는 기능 확장보다 <strong>안정성 우선</strong> 기조 유지</li>\n<li>25.04.0에서는 <strong>자동 마스킹 도구</strong>, C++ 라이브러리 기반 <strong>OpenTimelineIO 가져오기·내보내기</strong>, 오디오 파...</p>",
+          "contentSnippet": "연 3회의 KDE Gear 릴리스 주기에 맞춰 기능 추가와 유지보수를 이어가며, 2025년에는 기능 확장보다 안정성 우선 기조 유지\n25.04.0에서는 자동 마스킹 도구, C++ 라이브러리 기반 OpenTimelineIO 가져오기·내보내기, 오디오 파...",
+          "id": "https://news.hada.io/topic?id=28673",
+          "isoDate": "2026-04-19T00:55:14.000Z"
+        },
+        {
+          "title": "Opus 4.6과 Opus 4.7의 토큰 비용 계산기",
+          "link": "https://news.hada.io/topic?id=28672",
+          "pubDate": "2026-04-19T00:52:14.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>Opus 4.7의 새 토크나이저</strong>로 인해 동일 프롬프트가 <strong>더 많은 토큰</strong>으로 집계되는 문제를 분석할 수 있는 계산 도구</li>\n<li>같은 입력이 콘텐츠 유형에 따라 <strong>1.0~1.35배</strong> 토큰으로 매핑되며, 단어를 바꾸지 않아도 <strong>요청당 비용 증가</strong></li>\n...</p>",
+          "contentSnippet": "Opus 4.7의 새 토크나이저로 인해 동일 프롬프트가 더 많은 토큰으로 집계되는 문제를 분석할 수 있는 계산 도구\n같은 입력이 콘텐츠 유형에 따라 1.0~1.35배 토큰으로 매핑되며, 단어를 바꾸지 않아도 요청당 비용 증가\n...",
+          "id": "https://news.hada.io/topic?id=28672",
+          "isoDate": "2026-04-19T00:52:14.000Z"
+        },
+        {
+          "title": "DigitalOcean에서 Hetzner로 마이그레이션하기",
+          "link": "https://news.hada.io/topic?id=28671",
+          "pubDate": "2026-04-19T00:49:14.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>월 $1,432 규모의 프로덕션 인프라</strong>를 <strong>월 $233 전용 서버</strong>로 옮기면서, 운영체제까지 교체하고도 다운타임 없이 서비스 연속성 유지</li>\n<li>30개 <strong>MySQL 데이터베이스</strong>와 34개 <strong>Nginx 가상 호스트</strong>, GitLab EE, Neo4J, Supervisor, Gearman을...</p>",
+          "contentSnippet": "월 $1,432 규모의 프로덕션 인프라를 월 $233 전용 서버로 옮기면서, 운영체제까지 교체하고도 다운타임 없이 서비스 연속성 유지\n30개 MySQL 데이터베이스와 34개 Nginx 가상 호스트, GitLab EE, Neo4J, Supervisor, Gearman을...",
+          "id": "https://news.hada.io/topic?id=28671",
+          "isoDate": "2026-04-19T00:49:14.000Z"
+        },
+        {
+          "title": "RepoBar - 메뉴 바와 터미널에서 GitHub 저장소 상태를 한눈에 표시",
+          "link": "https://news.hada.io/topic?id=28670",
+          "pubDate": "2026-04-19T00:33:45.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li><strong>GitHub 저장소의 상태를 실시간으로 모니터링</strong>하는 macOS 유틸</li>\n<li><strong>메뉴 바 대시보드</strong>에서 CI 상태, 릴리스, 트래픽, 활동 내역을 직관적으로 표시</li>\n<li>관심 있는 저장소를 <strong>고정(Pin)</strong> 하여 빠르게 접근 가능하며, <strong>활동 피드와 히트맵 시각...</p>",
+          "contentSnippet": "GitHub 저장소의 상태를 실시간으로 모니터링하는 macOS 유틸\n메뉴 바 대시보드에서 CI 상태, 릴리스, 트래픽, 활동 내역을 직관적으로 표시\n관심 있는 저장소를 고정(Pin) 하여 빠르게 접근 가능하며, 활동 피드와 히트맵 시각...",
+          "id": "https://news.hada.io/topic?id=28670",
+          "isoDate": "2026-04-19T00:33:45.000Z"
+        },
+        {
+          "title": "베를린에서 중학생이 발견한 트로이 주화",
+          "link": "https://news.hada.io/topic?id=28668",
+          "pubDate": "2026-04-18T23:33:58.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>기원전 281년~261년</strong> 사이 Ilion 조폐소에서 발행된 희귀 청동 주화가 Berlin의 Spandau 지구에서 발견됐으며, 베를린 시내에서 확인된 <strong>첫 그리스 고대 유물</strong></li>\n<li>직경 <strong>12mm</strong>, 무게 <strong>7g</strong> 규모로, 앞면에는 Corinthian helmet를 쓴 Athena...</p>",
+          "contentSnippet": "기원전 281년~261년 사이 Ilion 조폐소에서 발행된 희귀 청동 주화가 Berlin의 Spandau 지구에서 발견됐으며, 베를린 시내에서 확인된 첫 그리스 고대 유물\n직경 12mm, 무게 7g 규모로, 앞면에는 Corinthian helmet를 쓴 Athena...",
+          "id": "https://news.hada.io/topic?id=28668",
+          "isoDate": "2026-04-18T23:33:58.000Z"
+        },
+        {
+          "title": "최근 공개된 기록들을 통해 Amazon의 가격 담합 행위가 드러남",
+          "link": "https://news.hada.io/topic?id=28667",
+          "pubDate": "2026-04-18T22:34:03.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>비공개 해제된 문서에는 Amazon이 <strong>독립 판매자 가격</strong>을 감시하고, 경쟁사 사이트 가격이 더 낮아질 경우 불이익을 줬다는 <strong>California 당국 주장</strong> 포함</li>\n<li>경쟁사 가격이 Amazon보다 낮으면 <strong>Buy Box 박탈</strong> 같은 핵심 기능 제한이 이뤄졌고, 일부 판매자는...</p>",
+          "contentSnippet": "비공개 해제된 문서에는 Amazon이 독립 판매자 가격을 감시하고, 경쟁사 사이트 가격이 더 낮아질 경우 불이익을 줬다는 California 당국 주장 포함\n경쟁사 가격이 Amazon보다 낮으면 Buy Box 박탈 같은 핵심 기능 제한이 이뤄졌고, 일부 판매자는...",
+          "id": "https://news.hada.io/topic?id=28667",
+          "isoDate": "2026-04-18T22:34:03.000Z"
+        },
+        {
+          "title": "데이터센터 투자, 미국의 역대 메가프로젝트 지출을 6년 만에 추월",
+          "link": "https://news.hada.io/topic?id=28666",
+          "pubDate": "2026-04-18T21:32:50.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>데이터센터 capex</strong>가 단 <strong>6년간 약 9,300억 달러</strong>에 달해, 미국의 대표 메가프로젝트 누적 지출을 모두 상회함</li>\n<li>인플레이션을 반영한 <strong>2024년 달러 기준</strong>으로 비교한 그래프임</li>\n<li>기존 메가프로젝트는 <strong>Interstate Highway System(6,200억...</p>",
+          "contentSnippet": "데이터센터 capex가 단 6년간 약 9,300억 달러에 달해, 미국의 대표 메가프로젝트 누적 지출을 모두 상회함\n인플레이션을 반영한 2024년 달러 기준으로 비교한 그래프임\n기존 메가프로젝트는 Interstate Highway System(6,200억...",
+          "id": "https://news.hada.io/topic?id=28666",
+          "isoDate": "2026-04-18T21:32:50.000Z"
+        },
+        {
           "title": "이스라엘, 레바논에서 의료진 대상 치명적 ‘쿼드러플 탭’ 공격 확대",
           "link": "https://news.hada.io/topic?id=28665",
           "pubDate": "2026-04-18T19:34:09.000Z",
@@ -17,22 +127,22 @@
           "isoDate": "2026-04-18T19:34:09.000Z"
         },
         {
-          "title": "cat readme.txt도 안전하지 않다, iTerm2를 사용한다면",
+          "title": "iTerm2를 사용한다면, &quot;cat readme.txt&quot;도 안전하지 않다",
           "link": "https://news.hada.io/topic?id=28664",
           "pubDate": "2026-04-18T18:35:08.000Z",
           "author": "neo",
-          "content": "<ul>\n<li><strong>SSH integration</strong>은 원격 셸과 통신하기 위해 터미널 <strong>escape sequence</strong>를 사용하며, 이 구조 때문에 일반 터미널 출력도 conductor 프로토콜처럼 해석될 수 있는 상태</li>\n<li>핵심 문제는 <strong>신뢰 실패</strong>로, 실제 원격 conductor가 아닌 <strong>악성 파일·배너�...</p>",
-          "contentSnippet": "SSH integration은 원격 셸과 통신하기 위해 터미널 escape sequence를 사용하며, 이 구조 때문에 일반 터미널 출력도 conductor 프로토콜처럼 해석될 수 있는 상태\n핵심 문제는 신뢰 실패로, 실제 원격 conductor가 아닌 악성 파일·배너�...",
+          "content": "<ul>\n<li><strong>SSH integration</strong>은 원격 셸과 통신하기 위해 터미널 <strong>escape sequence</strong>를 사용하며, 이 구조 때문에 일반 터미널 출력도 conductor 프로토콜처럼 해석될 수 있음</li>\n<li>핵심 문제는 <strong>신뢰 실패</strong>로, 실제 원격 conductor가 아닌 <strong>악성 파일·배너·MOTD...</p>",
+          "contentSnippet": "SSH integration은 원격 셸과 통신하기 위해 터미널 escape sequence를 사용하며, 이 구조 때문에 일반 터미널 출력도 conductor 프로토콜처럼 해석될 수 있음\n핵심 문제는 신뢰 실패로, 실제 원격 conductor가 아닌 악성 파일·배너·MOTD...",
           "id": "https://news.hada.io/topic?id=28664",
           "isoDate": "2026-04-18T18:35:08.000Z"
         },
         {
-          "title": "몇 달 동안 예전 방식으로 코딩하는 중",
+          "title": "몇 달 동안 손으로 코딩하는 중이에요",
           "link": "https://news.hada.io/topic?id=28663",
           "pubDate": "2026-04-18T16:36:01.000Z",
           "author": "neo",
-          "content": "<ul>\n<li><strong>코드베이스 학습</strong>과 문제 해결 감각을 되찾기 위해, 코딩 에이전트 중심 작업에서 벗어나 손으로 코드를 작성하는 시간에 몇 달을 투입 중</li>\n<li>코딩 에이전트는 <strong>빠른 반복</strong>과 동작하는 소프트웨어 출시에 유용했지만, 원하는 바가 불명확할 때 많은 가정을 대신 수행해 학...</p>",
-          "contentSnippet": "코드베이스 학습과 문제 해결 감각을 되찾기 위해, 코딩 에이전트 중심 작업에서 벗어나 손으로 코드를 작성하는 시간에 몇 달을 투입 중\n코딩 에이전트는 빠른 반복과 동작하는 소프트웨어 출시에 유용했지만, 원하는 바가 불명확할 때 많은 가정을 대신 수행해 학...",
+          "content": "<ul>\n<li>AI 코딩 에이전트가 보편화된 시점에 오히려 <strong>LLM 없이 손으로 코딩</strong>하는 3개월 리트릿(Retreat)에 참여한 개발자의 기록</li>\n<li>Brooklyn의 <strong>Recurse Center</strong>에서 6주차를 보내며 LLM을 직접 처음부터 구축하고, Python 실력을 다지며 컴퓨터의 여러 추상화 계층에 대한 이해...</p>",
+          "contentSnippet": "AI 코딩 에이전트가 보편화된 시점에 오히려 LLM 없이 손으로 코딩하는 3개월 리트릿(Retreat)에 참여한 개발자의 기록\nBrooklyn의 Recurse Center에서 6주차를 보내며 LLM을 직접 처음부터 구축하고, Python 실력을 다지며 컴퓨터의 여러 추상화 계층에 대한 이해...",
           "id": "https://news.hada.io/topic?id=28663",
           "isoDate": "2026-04-18T16:36:01.000Z"
         },
@@ -87,12 +197,12 @@
           "isoDate": "2026-04-18T12:35:40.000Z"
         },
         {
-          "title": "Smol machines – 서브초 콜드스타트, 이식 가능한 가상머신",
+          "title": "Smol machines – 1초 미만 콜드스타트 및 포터블 한 가상머신",
           "link": "https://news.hada.io/topic?id=28657",
           "pubDate": "2026-04-18T10:32:29.000Z",
           "author": "neo",
-          "content": "<ul>\n<li><strong>smolvm</strong>은 macOS와 Linux에서 동작하는 <strong>CLI 기반 가상머신 관리 도구</strong>로, 격리된 환경에서 소프트웨어를 실행함</li>\n<li><strong>서브초(1초 미만) 콜드스타트</strong>, <strong>탄력적 메모리 관리</strong>, <strong>단일 파일 이식성</strong>을 지원해 빠르고 가벼운 VM...</p>",
-          "contentSnippet": "smolvm은 macOS와 Linux에서 동작하는 CLI 기반 가상머신 관리 도구로, 격리된 환경에서 소프트웨어를 실행함\n서브초(1초 미만) 콜드스타트, 탄력적 메모리 관리, 단일 파일 이식성을 지원해 빠르고 가벼운 VM...",
+          "content": "<ul>\n<li><strong>smolvm</strong>은 macOS와 Linux에서 동작하는 <strong>CLI 기반 가상머신 관리 도구</strong>로, 격리된 환경에서 소프트웨어를 실행</li>\n<li><strong>서브초(1초 미만) 콜드스타트</strong>, <strong>탄력적 메모리 관리</strong>, <strong>단일 파일 이식성</strong>을 지원해 빠르고 가벼운 VM 실...</p>",
+          "contentSnippet": "smolvm은 macOS와 Linux에서 동작하는 CLI 기반 가상머신 관리 도구로, 격리된 환경에서 소프트웨어를 실행\n서브초(1초 미만) 콜드스타트, 탄력적 메모리 관리, 단일 파일 이식성을 지원해 빠르고 가벼운 VM 실...",
           "id": "https://news.hada.io/topic?id=28657",
           "isoDate": "2026-04-18T10:32:29.000Z"
         },
@@ -395,116 +505,6 @@
           "contentSnippet": "Codex의 샌드박스 런타임을 독립 도구로 추출, 임의의 명령어에 파일·네트워크·자격증명 제어를 적용할 수 있는 경량 프로세스 격리 도구\nAI가 생성한 코드를 그대로 실행해도 파일 손상·데이터 유출 걱정 없음\n기본 정책이 den...",
           "id": "https://news.hada.io/topic?id=28620",
           "isoDate": "2026-04-17T00:31:02.000Z"
-        },
-        {
-          "title": "Mozilla Thunderbolt - 사용자가 완전히 제어하는 오픈소스 AI 클라이언트",
-          "link": "https://news.hada.io/topic?id=28619",
-          "pubDate": "2026-04-17T00:25:10.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>오픈소스 기반의 <strong>크로스플랫폼 AI 클라이언트</strong>로, 사용자가 직접 제어할 수 있는 인공지능 인프라 제공</li>\n<li>웹, 데스크톱, 모바일 등 다양한 환경에서 동작하며 <strong>데이터 주권</strong>과 <strong>기업용 확장성</strong>을 중시한 구조</li>\n<li><strong>OpenAI API 호환 모델</st...</p>",
-          "contentSnippet": "오픈소스 기반의 크로스플랫폼 AI 클라이언트로, 사용자가 직접 제어할 수 있는 인공지능 인프라 제공\n웹, 데스크톱, 모바일 등 다양한 환경에서 동작하며 데이터 주권과 기업용 확장성을 중시한 구조\nOpenAI API 호환 모델",
-          "id": "https://news.hada.io/topic?id=28619",
-          "isoDate": "2026-04-17T00:25:10.000Z"
-        },
-        {
-          "title": "Cloudflare Email Service 공개 베타 — 에이전트를 위한 양방향 이메일 플랫폼",
-          "link": "https://news.hada.io/topic?id=28618",
-          "pubDate": "2026-04-17T00:24:16.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>이메일이 <strong>에이전트와 애플리케이션의 핵심 인터페이스</strong>로 자리 잡으며, Cloudflare가 이를 위한 <strong>Email Service 공개 베타</strong>를 출시</li>\n<li><strong>Email Sending</strong>과 <strong>Email Routing</strong>을 결합해 Cloudflare 환경 내에서 이메일 수신, 처리, 응답까지 가...</p>",
-          "contentSnippet": "이메일이 에이전트와 애플리케이션의 핵심 인터페이스로 자리 잡으며, Cloudflare가 이를 위한 Email Service 공개 베타를 출시\nEmail Sending과 Email Routing을 결합해 Cloudflare 환경 내에서 이메일 수신, 처리, 응답까지 가...",
-          "id": "https://news.hada.io/topic?id=28618",
-          "isoDate": "2026-04-17T00:24:16.000Z"
-        },
-        {
-          "title": "Codex가 삼성 TV를 해킹함",
-          "link": "https://news.hada.io/topic?id=28617",
-          "pubDate": "2026-04-17T00:23:00.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li><strong>AI 모델 Codex</strong>가 실제 <strong>삼성 스마트 TV</strong>에서 브라우저 권한을 루트 권한으로 상승시키는 완전한 공격 체인을 수행</li>\n<li>실험은 <strong>OpenAI와 협력</strong>하여 Codex가 펌웨어 소스와 장치 접근권을 활용해 취약점을 자동 탐색하고 악용하는 과정을 검증</li>\n<li>Co...</p>",
-          "contentSnippet": "AI 모델 Codex가 실제 삼성 스마트 TV에서 브라우저 권한을 루트 권한으로 상승시키는 완전한 공격 체인을 수행\n실험은 OpenAI와 협력하여 Codex가 펌웨어 소스와 장치 접근권을 활용해 취약점을 자동 탐색하고 악용하는 과정을 검증\nCo...",
-          "id": "https://news.hada.io/topic?id=28617",
-          "isoDate": "2026-04-17T00:23:00.000Z"
-        },
-        {
-          "title": "Cloudflare의 AI 플랫폼: 에이전트를 위한 추론 계층",
-          "link": "https://news.hada.io/topic?id=28616",
-          "pubDate": "2026-04-17T00:22:05.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>다양한 모델과 제공자를 통합해 <strong>에이전트형 애플리케이션의 복잡성</strong>을 줄이는 <strong>통합 추론 계층</strong>을 구축</li>\n<li><strong>AI Gateway</strong>와 <strong>Workers AI</strong>를 통해 70개 이상의 모델과 12개 이상의 제공자를 <strong>하나의 API</strong>로 호출 가능하며, 비...</p>",
-          "contentSnippet": "다양한 모델과 제공자를 통합해 에이전트형 애플리케이션의 복잡성을 줄이는 통합 추론 계층을 구축\nAI Gateway와 Workers AI를 통해 70개 이상의 모델과 12개 이상의 제공자를 하나의 API로 호출 가능하며, 비...",
-          "id": "https://news.hada.io/topic?id=28616",
-          "isoDate": "2026-04-17T00:22:05.000Z"
-        },
-        {
-          "title": "Android CLI: 어떤 에이전트로든 Android 앱을 3배 빠르게 빌드",
-          "link": "https://news.hada.io/topic?id=28615",
-          "pubDate": "2026-04-17T00:21:11.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>새로운 <strong>Android CLI</strong>는 터미널 기반 인터페이스로, 다양한 <strong>AI 에이전트 및 도구</strong>와 연동해 Android 앱 개발 속도를 최대 <strong>3배 향상</strong></li>\n<li><strong>Gemini, Antigravity, Claude Code, Codex</strong> 등과 함께 작동하며, Android Studio 외부에서도 <stro...</p>",
-          "contentSnippet": "새로운 Android CLI는 터미널 기반 인터페이스로, 다양한 AI 에이전트 및 도구와 연동해 Android 앱 개발 속도를 최대 3배 향상\nGemini, Antigravity, Claude Code, Codex 등과 함께 작동하며, Android Studio 외부에서도",
-          "id": "https://news.hada.io/topic?id=28615",
-          "isoDate": "2026-04-17T00:21:11.000Z"
-        },
-        {
-          "title": "거의 모든 것을 위한 Codex",
-          "link": "https://news.hada.io/topic?id=28614",
-          "pubDate": "2026-04-17T00:20:27.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li><strong>Codex 앱</strong>이 대규모 업데이트되어, 이제 <strong>소프트웨어 개발 전 과정</strong>을 하나의 워크스페이스에서 수행 가능</li>\n<li><strong>컴퓨터를 직접 조작</strong>하며 일상 업무 도구와 앱을 함께 사용하고, <strong>이미지 생성, 과거 행동 학습, 반복 작업 수행</strong>를 추가해 ...</p>",
-          "contentSnippet": "Codex 앱이 대규모 업데이트되어, 이제 소프트웨어 개발 전 과정을 하나의 워크스페이스에서 수행 가능\n컴퓨터를 직접 조작하며 일상 업무 도구와 앱을 함께 사용하고, 이미지 생성, 과거 행동 학습, 반복 작업 수행를 추가해 ...",
-          "id": "https://news.hada.io/topic?id=28614",
-          "isoDate": "2026-04-17T00:20:27.000Z"
-        },
-        {
-          "title": "Claude Opus 4.7",
-          "link": "https://news.hada.io/topic?id=28613",
-          "pubDate": "2026-04-17T00:19:18.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li><strong>고급 소프트웨어 엔지니어링 성능</strong>이 강화되어 복잡하고 장시간 실행되는 작업을 높은 일관성과 정확도로 처리함</li>\n<li><strong>시각 인식과 멀티모달 이해력</strong>이 향상되어 고해상도 이미지, 기술 다이어그램, 화학 구조 등 복잡한 시각 정보를 분석 가능함</li>\n<li><strong>사이버...</p>",
-          "contentSnippet": "고급 소프트웨어 엔지니어링 성능이 강화되어 복잡하고 장시간 실행되는 작업을 높은 일관성과 정확도로 처리함\n시각 인식과 멀티모달 이해력이 향상되어 고해상도 이미지, 기술 다이어그램, 화학 구조 등 복잡한 시각 정보를 분석 가능함\n사이버...",
-          "id": "https://news.hada.io/topic?id=28613",
-          "isoDate": "2026-04-17T00:19:18.000Z"
-        },
-        {
-          "title": "Anthropic, Claude Opus 4.7 출시 - 셀프 검증, 3.3배 고해상도 비전, 코딩 13% 향상",
-          "link": "https://news.hada.io/topic?id=28611",
-          "pubDate": "2026-04-16T23:34:27.000Z",
-          "author": "minodevs",
-          "content": "<p>Anthropic이 플래그십 모델 Claude Opus 4.7을 출시했습니다.</p>\n<ul>\n<li>SWE-bench Verified 87.6% (+6.8pp), SWE-bench Pro 64.3%로 GPT-5.4(57.7%)를 제치고 1위</li>\n<li>GPQA Diamond 94.2%, Terminal-Bench 2.0 69.4%, Finance Agent 64.4% 달성</li>\n<li>코딩 벤치마크에서 Opus 4.6 대비 13% 향상, 프로덕션",
-          "contentSnippet": "Anthropic이 플래그십 모델 Claude Opus 4.7을 출시했습니다.\nSWE-bench Verified 87.6% (+6.8pp), SWE-bench Pro 64.3%로 GPT-5.4(57.7%)를 제치고 1위\nGPQA Diamond 94.2%, Terminal-Bench 2.0 69.4%, Finance Agent 64.4% 달성\n코딩 벤치마크에서 Opus 4.6 대비 13% 향상, 프로덕션",
-          "id": "https://news.hada.io/topic?id=28611",
-          "isoDate": "2026-04-16T23:34:27.000Z"
-        },
-        {
-          "title": "Google Gemma 4, iPhone에서 완전 오프라인 AI 추론 지원",
-          "link": "https://news.hada.io/topic?id=28610",
-          "pubDate": "2026-04-16T23:32:30.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Google의 <strong>오픈소스 모델 Gemma 4</strong>가 iPhone에서 <strong>인터넷 연결 없이 네이티브로 실행</strong>되어 완전한 오프라인 추론을 수행함</li>\n<li>Gemma 4의 <strong>31B 모델</strong>은 Qwen 3.5의 27B 모델과 유사한 성능을 보이며, 파라미터 수는 약 <strong>40억 개 더 많음</strong></l...</p>",
-          "contentSnippet": "Google의 오픈소스 모델 Gemma 4가 iPhone에서 인터넷 연결 없이 네이티브로 실행되어 완전한 오프라인 추론을 수행함\nGemma 4의 31B 모델은 Qwen 3.5의 27B 모델과 유사한 성능을 보이며, 파라미터 수는 약 40억 개 더 많음",
-          "id": "https://news.hada.io/topic?id=28610",
-          "isoDate": "2026-04-16T23:32:30.000Z"
-        },
-        {
-          "title": "Qwen3.6-35B-A3B: Agentic Coding Power, Now Open to All",
-          "link": "https://news.hada.io/topic?id=28609",
-          "pubDate": "2026-04-16T22:59:30.000Z",
-          "author": "ragingwind",
-          "content": "<p>알리바바 Qwen 팀이 2026년 4월에 오픈소스로 공개한 대규모 언어모델입니다. MoE(Mixture-of-Experts) 아키텍처를 사용합니다. MoE란 모델 내부에 여러 &quot;전문가 네트워크&quot;를 두고, 입력이 들어올 때마다 그중 일부만 골라 활성화하는 방식입니다. 총 파라미터는 350억 개이지만 실제 추론 시에는 30억 개만...</p>",
-          "contentSnippet": "알리바바 Qwen 팀이 2026년 4월에 오픈소스로 공개한 대규모 언어모델입니다. MoE(Mixture-of-Experts) 아키텍처를 사용합니다. MoE란 모델 내부에 여러 \"전문가 네트워크\"를 두고, 입력이 들어올 때마다 그중 일부만 골라 활성화하는 방식입니다. 총 파라미터는 350억 개이지만 실제 추론 시에는 30억 개만...",
-          "id": "https://news.hada.io/topic?id=28609",
-          "isoDate": "2026-04-16T22:59:30.000Z"
-        },
-        {
-          "title": "Show GN: 인스타그램 계정 이메일 다운로드하기",
-          "link": "https://news.hada.io/topic?id=28608",
-          "pubDate": "2026-04-16T22:14:42.000Z",
-          "author": "rrockp",
-          "content": "<p>사장님이 계정 3개만 뽑을수 있게 하라고 했는데 몰래 50개까지 무료로 바꿔서 배포합니다ㅋㅋㅋ</p>\n",
-          "contentSnippet": "사장님이 계정 3개만 뽑을수 있게 하라고 했는데 몰래 50개까지 무료로 바꿔서 배포합니다ㅋㅋㅋ",
-          "id": "https://news.hada.io/topic?id=28608",
-          "isoDate": "2026-04-16T22:14:42.000Z"
         }
       ]
     }
