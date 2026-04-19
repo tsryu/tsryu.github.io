@@ -7,6 +7,26 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: SPAR-Framework - 물리·수학 모델 결과의 ‘정당한 해석 가능성’을 검토하는 프레임워크",
+          "link": "https://news.hada.io/topic?id=28679",
+          "pubDate": "2026-04-19T05:13:56.000Z",
+          "author": "flamehaven01",
+          "content": "<h4>SPAR 란?</h4>\n<p>SPAR (Sovereign Physics Autonomous Review)는<br />\n물리·수학적 모델이 어떤 결과를 냈는지만 보는 것이 아니라,<br />\n그 결과에 붙은 주장(Claim) 이 정말 정당한지 검토하는 결정론적(Deterministic) 리뷰 프레임워크입니다.</p>\n<p>보통 테스트, 회귀검사(Regression), 수치 안정성 평가는...</p>",
+          "contentSnippet": "SPAR 란?\nSPAR (Sovereign Physics Autonomous Review)는\n보통 테스트, 회귀검사(Regression), 수치 안정성 평가는...",
+          "id": "https://news.hada.io/topic?id=28679",
+          "isoDate": "2026-04-19T05:13:56.000Z"
+        },
+        {
+          "title": "&quot;AI에게 무례할수록 성능이 좋다?&quot; 최신 연구가 경고하는 PM의 소통 위기",
+          "link": "https://news.hada.io/topic?id=28678",
+          "pubDate": "2026-04-19T05:11:16.000Z",
+          "author": "pentaxzs",
+          "content": "<p>최근 흥미로운 연구 결과 두 가지를 접하게 되었습니다.<br />\nAI와 협업하는 시간이 늘어날수록, 우리의 소통 능력이 오히려 '퇴보'할 수 있다는 경고를 담고 있는 내용입니다.</p>\n<ol>\n<li>무례함이 성능을 높인다? (Live Science 참조)<br />\nhttps://www.livescience.com/technology/artificial-intelligence/be",
+          "contentSnippet": "최근 흥미로운 연구 결과 두 가지를 접하게 되었습니다.\n무례함이 성능을 높인다? (Live Science 참조)\nhttps://www.livescience.com/technology/artificial-intelligence/be",
+          "id": "https://news.hada.io/topic?id=28678",
+          "isoDate": "2026-04-19T05:11:16.000Z"
+        },
+        {
           "title": "B-52 폭격기 스타 트래커 내부의 전기기계식 각도 컴퓨터",
           "link": "https://news.hada.io/topic?id=28677",
           "pubDate": "2026-04-19T03:40:38.000Z",
@@ -485,26 +505,6 @@
           "contentSnippet": "Ollama는 로컬 LLM 실행을 단순화한 초기 도구였으나, 이후 출처 은폐와 클라우드 중심 전환으로 신뢰를 잃음\n핵심 엔진인 llama.cpp의 공로를 축소하고, 자체 ggml 백엔드로 전환하면서 성능 저하와 버그 재도입이 발생\n...",
           "id": "https://news.hada.io/topic?id=28622",
           "isoDate": "2026-04-17T00:39:13.000Z"
-        },
-        {
-          "title": "Qwen3.6-35B-A3B: 모든 사용자를 위한 에이전트형 코딩 성능 공개",
-          "link": "https://news.hada.io/topic?id=28621",
-          "pubDate": "2026-04-17T00:36:13.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>총 350억 파라미터 중 30억만 활성화되는 <strong>희소 Mixture-of-Experts(MoE)</strong> 구조로, 효율성과 성능을 동시에 달성한 오픈소스 모델임</li>\n<li>이전 세대 대비 <strong>에이전트형 코딩 능력</strong>이 크게 향상되어, Qwen3.5-27B나 Gemma4-31B 같은 대형 밀집 모델과 경쟁 가능한 수준을 보임...</p>",
-          "contentSnippet": "총 350억 파라미터 중 30억만 활성화되는 희소 Mixture-of-Experts(MoE) 구조로, 효율성과 성능을 동시에 달성한 오픈소스 모델임\n이전 세대 대비 에이전트형 코딩 능력이 크게 향상되어, Qwen3.5-27B나 Gemma4-31B 같은 대형 밀집 모델과 경쟁 가능한 수준을 보임...",
-          "id": "https://news.hada.io/topic?id=28621",
-          "isoDate": "2026-04-17T00:36:13.000Z"
-        },
-        {
-          "title": "Zerobox - OpenAI Codex 런타임 기반의 경량 크로스 플랫폼 프로세스 샌드박싱 도구",
-          "link": "https://news.hada.io/topic?id=28620",
-          "pubDate": "2026-04-17T00:31:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>Codex의 샌드박스 런타임을 독립 도구로 추출, 임의의 명령어에 <strong>파일·네트워크·자격증명 제어</strong>를 적용할 수 있는 경량 프로세스 격리 도구</li>\n<li><strong>AI가 생성한 코드를 그대로 실행</strong>해도 <strong>파일 손상·데이터 유출 걱정 없음</strong></li>\n<li>기본 정책이 <strong>den...</p>",
-          "contentSnippet": "Codex의 샌드박스 런타임을 독립 도구로 추출, 임의의 명령어에 파일·네트워크·자격증명 제어를 적용할 수 있는 경량 프로세스 격리 도구\nAI가 생성한 코드를 그대로 실행해도 파일 손상·데이터 유출 걱정 없음\n기본 정책이 den...",
-          "id": "https://news.hada.io/topic?id=28620",
-          "isoDate": "2026-04-17T00:31:02.000Z"
         }
       ]
     }
