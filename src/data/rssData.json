@@ -7,6 +7,19 @@
       "priority": 1,
       "data": [
         {
+          "creator": "뒤돌아 보지마",
+          "title": "지포스 알고 계셨나요? | 지포스 GTX 1080이 10이 됩니다!",
+          "link": "https://bbs.ruliweb.com/pc/board/1003/read/2346707",
+          "pubDate": "Thu, 07 May 2026 03:20:09 +0900",
+          "author": "뒤돌아 보지마",
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            ""
+          ],
+          "isoDate": "2026-05-06T18:20:09.000Z"
+        },
+        {
           "creator": "아타호-_-",
           "title": "[하스스톤] 이번주 선술집 난투 (네파리안의 반격!)",
           "link": "https://bbs.ruliweb.com/pc/board/1003/read/2346706",
@@ -356,19 +369,6 @@
             ""
           ],
           "isoDate": "2026-05-06T09:00:52.000Z"
-        },
-        {
-          "creator": "하지만구",
-          "title": "블리자드 &amp; 콜옵까지, '배틀넷' 19일까지 최대 67% 특가 세일 돌입",
-          "link": "https://bbs.ruliweb.com/pc/board/1003/read/2346679",
-          "pubDate": "Wed, 06 May 2026 16:58:39 +0900",
-          "author": "하지만구",
-          "content": "<img width=\"236\" height=\"177\" src=\"https://i3.ruliweb.com/thumb/26/05/06/19dfc4b884c32b630.webp\">",
-          "contentSnippet": "",
-          "categories": [
-            ""
-          ],
-          "isoDate": "2026-05-06T07:58:39.000Z"
         }
       ]
     },
@@ -380,7 +380,7 @@
       "data": [
         {
           "creator": "nokcha",
-          "title": "시드마이어의 문명 7 시간의 시험 업데이트 5월 19일 배포 및 발표 트레일러",
+          "title": "문명 7 시간의 시험 업데이트 5월 19일 배포 및 발표 트레일러",
           "link": "https://bbs.ruliweb.com/nin/board/300004/read/2353077",
           "pubDate": "Thu, 07 May 2026 01:17:05 +0900",
           "author": "nokcha",
@@ -1125,6 +1125,36 @@
       "priority": 1,
       "data": [
         {
+          "title": "Y Combinator의 OpenAI 지분(0.6%?)",
+          "link": "https://news.hada.io/topic?id=29232",
+          "pubDate": "2026-05-06T19:34:27.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Sam Altman은 몇 년간 <strong>Y Combinator</strong> 사장을 지낸 뒤 OpenAI의 상근 CEO가 되기 위해 떠남</li>\n<li>OpenAI는 Altman이 YC를 이끌던 2016년에 Y Combinator의 분파인 <strong>YC Research</strong>로부터 시드 투자를 받음</li>\n<li>Gary Marcus는 Altman이 OpenAI 직접 지분은 없지만 Y Combi...</p>",
+          "contentSnippet": "Sam Altman은 몇 년간 Y Combinator 사장을 지낸 뒤 OpenAI의 상근 CEO가 되기 위해 떠남\nOpenAI는 Altman이 YC를 이끌던 2016년에 Y Combinator의 분파인 YC Research로부터 시드 투자를 받음\nGary Marcus는 Altman이 OpenAI 직접 지분은 없지만 Y Combi...",
+          "id": "https://news.hada.io/topic?id=29232",
+          "isoDate": "2026-05-06T19:34:27.000Z"
+        },
+        {
+          "title": "Zuckerberg가 Meta의 저작권 침해를 “개인적으로 승인하고 적극적으로 장려했다”",
+          "link": "https://news.hada.io/topic?id=29231",
+          "pubDate": "2026-05-06T16:35:20.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong><a href=\"https://variety.com/t/meta/\">Meta</a></strong> 와 CEO <strong><a href=\"https://variety.com/t/mark-zuckerberg/\">Mark Zuckerberg</a></strong> 가 AI 시스템 학습을 위해 수백만 권의 책·논문·기사 등 저작물을 불법 복제했다는 혐의로 5개 출판사와 <a href=\"https://variety.com/t/sc...</p>",
+          "contentSnippet": "Meta 와 CEO Mark Zuckerberg 가 AI 시스템 학습을 위해 수백만 권의 책·논문·기사 등 저작물을 불법 복제했다는 혐의로 5개 출판사와",
+          "id": "https://news.hada.io/topic?id=29231",
+          "isoDate": "2026-05-06T16:35:20.000Z"
+        },
+        {
+          "title": "krabby: 빠른 Rust 컴파일러 만들기",
+          "link": "https://news.hada.io/topic?id=29230",
+          "pubDate": "2026-05-06T16:01:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>Krabby</strong>는 <code>rustc</code>의 느린 컴파일 속도를 개선하려는 성능 우선의 <strong>빈 슬레이트 Rust 컴파일러</strong> 구현임</li>\n<li><code>rustc</code>의 체감 성능 개선은 이제 단일 함수 변경보다 <strong>API와 자료구조 변경</strong>에서 나오지만, 큰 코드베이스와 안정성 요구...</p>",
+          "contentSnippet": "Krabby는 rustc의 느린 컴파일 속도를 개선하려는 성능 우선의 빈 슬레이트 Rust 컴파일러 구현임\nrustc의 체감 성능 개선은 이제 단일 함수 변경보다 API와 자료구조 변경에서 나오지만, 큰 코드베이스와 안정성 요구...",
+          "id": "https://news.hada.io/topic?id=29230",
+          "isoDate": "2026-05-06T16:01:01.000Z"
+        },
+        {
           "title": "오늘 저는 Coinbase 규모를 약 14% 줄이는 어려운 결정을 내렸습니다",
           "link": "https://news.hada.io/topic?id=29229",
           "pubDate": "2026-05-06T14:36:04.000Z",
@@ -1593,36 +1623,6 @@
           "contentSnippet": "AI 네이티브 시대에 소프트웨어가 확률적 시스템으로 전환되면서, 창업자에게 요구되는 자질도 근본적으로 변화 중\n기존에는 2년짜리 로드맵을 충실히 실행하는 결정론적 창업자가 투자 대상이었으나, 이제는 불확실성 속에서 빠르게 실험하는 유형이 부상",
           "id": "https://news.hada.io/topic?id=29176",
           "isoDate": "2026-05-04T23:56:02.000Z"
-        },
-        {
-          "title": "2억 유로 슈퍼컴퓨터에서 코드를 실행하는 데 실제로 필요한 것",
-          "link": "https://news.hada.io/topic?id=29175",
-          "pubDate": "2026-05-04T23:37:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>바르셀로나 카탈루냐 공대의 <strong>MareNostrum V</strong>는 세계 15대 슈퍼컴퓨터 중 하나로, 8,000개 노드에 걸쳐 분산 컴퓨팅을 수행하는 €2억 규모의 공공 연구 인프라</li>\n<li>단일 고성능 컴퓨터가 아니라 수천 대의 독립 컴퓨터가 <strong>InfiniBand NDR200 팻트리 토폴로지</strong>로 연결된 분...</p>",
-          "contentSnippet": "바르셀로나 카탈루냐 공대의 MareNostrum V는 세계 15대 슈퍼컴퓨터 중 하나로, 8,000개 노드에 걸쳐 분산 컴퓨팅을 수행하는 €2억 규모의 공공 연구 인프라\n단일 고성능 컴퓨터가 아니라 수천 대의 독립 컴퓨터가 InfiniBand NDR200 팻트리 토폴로지로 연결된 분...",
-          "id": "https://news.hada.io/topic?id=29175",
-          "isoDate": "2026-05-04T23:37:02.000Z"
-        },
-        {
-          "title": "정확한 텍스트와 숫자를 위해 “밑그림” 사용하기",
-          "link": "https://news.hada.io/topic?id=29174",
-          "pubDate": "2026-05-04T23:27:32.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li><strong>underdrawing</strong>은 결정론적 도구로 숫자와 텍스트 위치가 들어간 밑그림 이미지를 먼저 만들고, 이미지 생성 모델이 그 위에 시각적 스타일을 입혀 정확도를 높이는 방식임</li>\n<li>50개의 디딤돌을 나선형으로 배치하고 1부터 50까지 번호를 붙이는 과제에서 <strong>Gemini 3 Pro</strong>와...</p>",
-          "contentSnippet": "underdrawing은 결정론적 도구로 숫자와 텍스트 위치가 들어간 밑그림 이미지를 먼저 만들고, 이미지 생성 모델이 그 위에 시각적 스타일을 입혀 정확도를 높이는 방식임\n50개의 디딤돌을 나선형으로 배치하고 1부터 50까지 번호를 붙이는 과제에서 Gemini 3 Pro와...",
-          "id": "https://news.hada.io/topic?id=29174",
-          "isoDate": "2026-05-04T23:27:32.000Z"
-        },
-        {
-          "title": "Redis array: 긴 개발 과정의 짧은 이야기",
-          "link": "https://news.hada.io/topic?id=29173",
-          "pubDate": "2026-05-04T23:25:50.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>Redis의 새 <strong>Array 데이터 타입</strong> 작업은 1월 초 시작돼 약 4개월 뒤 PR로 올라갔고, 첫 달에는 필요성, C 구조체, 희소 표현, 링 버퍼, <code>ARINSERT</code>용 배열 커서 의미를 담은 명세가 작성됨</li>\n<li>초기 설계는 Opus와 함께 다듬었고 GPT 5.3 출시 뒤에는 <strong>Codex</strong>로...</p>",
-          "contentSnippet": "Redis의 새 Array 데이터 타입 작업은 1월 초 시작돼 약 4개월 뒤 PR로 올라갔고, 첫 달에는 필요성, C 구조체, 희소 표현, 링 버퍼, ARINSERT용 배열 커서 의미를 담은 명세가 작성됨\n초기 설계는 Opus와 함께 다듬었고 GPT 5.3 출시 뒤에는 Codex로...",
-          "id": "https://news.hada.io/topic?id=29173",
-          "isoDate": "2026-05-04T23:25:50.000Z"
         }
       ]
     }
