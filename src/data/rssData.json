@@ -751,6 +751,32 @@
       "priority": 2,
       "data": [
         {
+          "creator": "베르세리아2",
+          "title": "도미노 피자 영국 공식 트위터, 플레이스테이션 디스크 종료 정책에 반응",
+          "link": "https://bbs.ruliweb.com/ps/board/300001/read/2357204",
+          "pubDate": "Thu, 02 Jul 2026 03:10:45 +0900",
+          "author": "베르세리아2",
+          "content": "<img width=\"236\" height=\"177\" src=\"https://i3.ruliweb.com/thumb/26/07/02/19f1edfd88d9c16f.webp\">",
+          "contentSnippet": "",
+          "categories": [
+            "정보"
+          ],
+          "isoDate": "2026-07-01T18:10:45.000Z"
+        },
+        {
+          "creator": "이토 시즈카",
+          "title": "마블 투혼: 파이팅 소울즈 - 아이언맨 캐릭터 가이드, 한국어 성우",
+          "link": "https://bbs.ruliweb.com/ps/board/300001/read/2357203",
+          "pubDate": "Thu, 02 Jul 2026 02:35:12 +0900",
+          "author": "이토 시즈카",
+          "content": "<img width=\"236\" height=\"177\" src=\"https://i1.ruliweb.com/thumb/26/07/02/19f1ec0cd06137dbd.webp\">",
+          "contentSnippet": "",
+          "categories": [
+            "PS5소프트"
+          ],
+          "isoDate": "2026-07-01T17:35:12.000Z"
+        },
+        {
           "creator": "BurnCrow",
           "title": "힘내라 고에몽 대집합! 선행 플레이 영상",
           "link": "https://bbs.ruliweb.com/ps/board/300001/read/2357200",
@@ -1087,32 +1113,6 @@
             "PS5소프트"
           ],
           "isoDate": "2026-07-01T04:38:24.000Z"
-        },
-        {
-          "creator": "nokcha",
-          "title": "기동경찰 패트레이버: 더 케이스 파일 PV 3탄 및 게임 모드 정보",
-          "link": "https://bbs.ruliweb.com/ps/board/300001/read/2357146",
-          "pubDate": "Wed, 01 Jul 2026 13:07:24 +0900",
-          "author": "nokcha",
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "PS5소프트"
-          ],
-          "isoDate": "2026-07-01T04:07:24.000Z"
-        },
-        {
-          "creator": "이토 시즈카",
-          "title": "[젠레스 존 제로] 2026년 7월 달력 월페이퍼",
-          "link": "https://bbs.ruliweb.com/ps/board/300001/read/2357145",
-          "pubDate": "Wed, 01 Jul 2026 13:00:45 +0900",
-          "author": "이토 시즈카",
-          "content": "<img width=\"236\" height=\"177\" src=\"https://i1.ruliweb.com/thumb/26/07/01/19f1bd5ccd3137dbd.webp\">",
-          "contentSnippet": "",
-          "categories": [
-            "기타"
-          ],
-          "isoDate": "2026-07-01T04:00:45.000Z"
         }
       ]
     }
@@ -1124,6 +1124,56 @@
       "category": "news",
       "priority": 1,
       "data": [
+        {
+          "title": "Google Copybara: 저장소 간 코드 이동",
+          "link": "https://news.hada.io/topic?id=31018",
+          "pubDate": "2026-07-01T20:34:42.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>Copybara</strong>는 Google 내부에서 쓰이는 도구로, 여러 저장소 사이에서 소스 코드를 변환하고 이동해 confidential 저장소와 public 저장소를 동기화하는 사례에 쓰임</li>\n<li>하나의 저장소를 <strong>권위 있는 저장소</strong>로 선택해 단일 진실 공급원을 유지하지만, 기여는 어느 저장소에...</p>",
+          "contentSnippet": "Copybara는 Google 내부에서 쓰이는 도구로, 여러 저장소 사이에서 소스 코드를 변환하고 이동해 confidential 저장소와 public 저장소를 동기화하는 사례에 쓰임\n하나의 저장소를 권위 있는 저장소로 선택해 단일 진실 공급원을 유지하지만, 기여는 어느 저장소에...",
+          "id": "https://news.hada.io/topic?id=31018",
+          "isoDate": "2026-07-01T20:34:42.000Z"
+        },
+        {
+          "title": "Servo 5월 업데이트: 사용자 스크립트, mp4 호환성, DevTools 블랙박싱 등",
+          "link": "https://news.hada.io/topic?id=31017",
+          "pubDate": "2026-07-01T19:04:54.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>Servo 0.3.0</strong>은 5월 병합분 391개 커밋을 담아 웹 플랫폼, 임베딩 API, 성능, 안정성, 보안 수정을 한 번에 반영한 릴리스임</li>\n<li>웹 플랫폼은 <code>font-variant-*</code>, fast start 없는 <strong>mp4</strong> <code>&lt;video&gt;</code> 재생, 폼 인코딩, DOM API 추가로 실제 사이...</p>",
+          "contentSnippet": "Servo 0.3.0은 5월 병합분 391개 커밋을 담아 웹 플랫폼, 임베딩 API, 성능, 안정성, 보안 수정을 한 번에 반영한 릴리스임\n웹 플랫폼은 font-variant-*, fast start 없는 mp4 <video> 재생, 폼 인코딩, DOM API 추가로 실제 사이...",
+          "id": "https://news.hada.io/topic?id=31017",
+          "isoDate": "2026-07-01T19:04:54.000Z"
+        },
+        {
+          "title": "Leanstral 1.5",
+          "link": "https://news.hada.io/topic?id=31016",
+          "pubDate": "2026-07-01T18:34:57.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>Leanstral 1.5</strong>는 Lean 4 형식 증명 엔지니어링에 맞춘 업데이트 모델로, 자동 정리 증명과 자동 형식화를 겨냥함</li>\n<li>모델 규모는 <strong>총 119B 파라미터</strong>와 <strong>6.5B 활성 파라미터</strong> 구성이며, 긴 증명·문서 맥락 처리를 전제로 함</li>\n<li>제공 식별자는 <cod...</p>",
+          "contentSnippet": "Leanstral 1.5는 Lean 4 형식 증명 엔지니어링에 맞춘 업데이트 모델로, 자동 정리 증명과 자동 형식화를 겨냥함\n모델 규모는 총 119B 파라미터와 6.5B 활성 파라미터 구성이며, 긴 증명·문서 맥락 처리를 전제로 함\n제공 식별자는",
+          "id": "https://news.hada.io/topic?id=31016",
+          "isoDate": "2026-07-01T18:34:57.000Z"
+        },
+        {
+          "title": "CERN, LHC 운전 종료하고 Long Shutdown 3 돌입",
+          "link": "https://news.hada.io/topic?id=31015",
+          "pubDate": "2026-07-01T17:43:59.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>세계 최강 입자 가속기 <strong>LHC</strong>가 마지막 물리 운전을 마치며, CERN은 High-Luminosity LHC 준비를 위한 <strong>Long Shutdown 3(LS3)</strong> 에 들어감</li>\n<li>2008년 첫 빔 순환 이후 Runs 1–3에서 축적한 데이터는 2012년 <strong>힉스 보손 발견</strong>과 85개 이상의 하드론 발견 등...</p>",
+          "contentSnippet": "세계 최강 입자 가속기 LHC가 마지막 물리 운전을 마치며, CERN은 High-Luminosity LHC 준비를 위한 Long Shutdown 3(LS3) 에 들어감\n2008년 첫 빔 순환 이후 Runs 1–3에서 축적한 데이터는 2012년 힉스 보손 발견과 85개 이상의 하드론 발견 등...",
+          "id": "https://news.hada.io/topic?id=31015",
+          "isoDate": "2026-07-01T17:43:59.000Z"
+        },
+        {
+          "title": "Kubernetes를 브라우저로 포팅함",
+          "link": "https://news.hada.io/topic?id=31014",
+          "pubDate": "2026-07-01T17:40:59.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>webernetes</strong>는 Kubernetes 일부를 TypeScript로 옮겨 브라우저 안에서 클러스터를 실행하게 만든 프로젝트로, 2개월 동안 552개 커밋·629개 파일·거의 10만 줄 규모로 만들어짐</li>\n<li>WebAssembly로 Kubernetes를 그대로 컴파일한 방식이 아니라, <strong>kubelet 일부</strong>, 여러 컨트...</p>",
+          "contentSnippet": "webernetes는 Kubernetes 일부를 TypeScript로 옮겨 브라우저 안에서 클러스터를 실행하게 만든 프로젝트로, 2개월 동안 552개 커밋·629개 파일·거의 10만 줄 규모로 만들어짐\nWebAssembly로 Kubernetes를 그대로 컴파일한 방식이 아니라, kubelet 일부, 여러 컨트...",
+          "id": "https://news.hada.io/topic?id=31014",
+          "isoDate": "2026-07-01T17:40:59.000Z"
+        },
         {
           "title": "검증하지 말고 파싱하라 — TypeScript처럼 원하지 않는 언어에서",
           "link": "https://news.hada.io/topic?id=31013",
@@ -1573,56 +1623,6 @@
           "contentSnippet": "미국 여러 주와 유럽 국가, 호주가 도입한 연령 확인 규제는 아동 보호를 명분으로 삼지만, 온라인 발화를 실명 정체성과 연결하는 기반이 될 수 있음\n법 집행이 온라인 발언에 개입하려면 무슨 일이 있었는가와 누가 했는가를 알아야 하며, 기존...",
           "id": "https://news.hada.io/topic?id=30960",
           "isoDate": "2026-06-30T00:44:06.000Z"
-        },
-        {
-          "title": "Compute-adjusted LTV(연산 비용 반영 LTV) 계산하는 방법",
-          "link": "https://news.hada.io/topic?id=30959",
-          "pubDate": "2026-06-30T00:42:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>AI 제품이 동일 구독료를 받으면서도 고객마다 <strong>추론 비용</strong>을 크게 다르게 소비하면서, 전체 고객층의 매출총이익률이 안정적이라는 전통적 LTV의 전제가 무너지는 상황</li>\n<li>핵심은 <strong>Compute-Adjusted LTV</strong>로, 고정·반고정 구독 매출에 변동성 큰 연산 비용이 결합된 AI 제...</p>",
-          "contentSnippet": "AI 제품이 동일 구독료를 받으면서도 고객마다 추론 비용을 크게 다르게 소비하면서, 전체 고객층의 매출총이익률이 안정적이라는 전통적 LTV의 전제가 무너지는 상황\n핵심은 Compute-Adjusted LTV로, 고정·반고정 구독 매출에 변동성 큰 연산 비용이 결합된 AI 제...",
-          "id": "https://news.hada.io/topic?id=30959",
-          "isoDate": "2026-06-30T00:42:01.000Z"
-        },
-        {
-          "title": "Go Micro - Go를 위한 에이전트 하네스",
-          "link": "https://news.hada.io/topic?id=30958",
-          "pubDate": "2026-06-30T00:31:01.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>에이전트/서비스/워크플로우를 <strong>하나의 런타임</strong> 위에서 구축하는 Go 프레임워크</li>\n<li>도구, 메모리, 가드레일, 트리거 워크플로우, 의존 서비스, 다른 에이전트가 접근하는 프로토콜까지 <strong>하나의 하네스</strong>로 묶음</li>\n<li>서비스의 모든 엔드포인트가 자동으로 <strong>AI 호...</p>",
-          "contentSnippet": "에이전트/서비스/워크플로우를 하나의 런타임 위에서 구축하는 Go 프레임워크\n도구, 메모리, 가드레일, 트리거 워크플로우, 의존 서비스, 다른 에이전트가 접근하는 프로토콜까지 하나의 하네스로 묶음\n서비스의 모든 엔드포인트가 자동으로 AI 호...",
-          "id": "https://news.hada.io/topic?id=30958",
-          "isoDate": "2026-06-30T00:31:01.000Z"
-        },
-        {
-          "title": "월간 요금제가 최선의 선택일 수 있음",
-          "link": "https://news.hada.io/topic?id=30957",
-          "pubDate": "2026-06-30T00:25:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>연간 구독이 리텐션·인기 지표에서 앞서지만 <strong>리텐션이 곧 매출은 아니며</strong>, 연간 해지는 수개월간 대시보드에 숨겨진 채 <strong>지연된 해지(delayed churn)</strong> 로 드러남</li>\n<li>월간 구독은 <strong>PMF 도달 이전</strong>이거나 신뢰가 낮을 때, 사용자가 유연성을 선호할 때, 단기...</p>",
-          "contentSnippet": "연간 구독이 리텐션·인기 지표에서 앞서지만 리텐션이 곧 매출은 아니며, 연간 해지는 수개월간 대시보드에 숨겨진 채 지연된 해지(delayed churn) 로 드러남\n월간 구독은 PMF 도달 이전이거나 신뢰가 낮을 때, 사용자가 유연성을 선호할 때, 단기...",
-          "id": "https://news.hada.io/topic?id=30957",
-          "isoDate": "2026-06-30T00:25:02.000Z"
-        },
-        {
-          "title": "Memora: 장기 작업을 위한 확장형 메모리 시스템",
-          "link": "https://news.hada.io/topic?id=30956",
-          "pubDate": "2026-06-30T00:13:12.000Z",
-          "author": "baeba",
-          "content": "<h3>요약 개요</h3>\n<ul>\n<li>\n<p><strong>목적</strong></p>\n<ul>\n<li>AI 에이전트가 대화·문서에서 필요한 정보를 자동으로 추출하고 장기적으로 저장·검색할 수 있도록 지원하는 메모리 프레임워크</li>\n</ul>\n</li>\n<li>\n<p><strong>핵심 설계</strong></p>\n<ul>\n<li>전체 원문인 <code>Memory value</code>는 그대로",
-          "contentSnippet": "요약 개요\n목적\nAI 에이전트가 대화·문서에서 필요한 정보를 자동으로 추출하고 장기적으로 저장·검색할 수 있도록 지원하는 메모리 프레임워크\n핵심 설계\n전체 원문인 Memory value는 그대로",
-          "id": "https://news.hada.io/topic?id=30956",
-          "isoDate": "2026-06-30T00:13:12.000Z"
-        },
-        {
-          "title": "인상적인 성능 향상이 중요하지 않을 때",
-          "link": "https://news.hada.io/topic?id=30955",
-          "pubDate": "2026-06-30T00:11:29.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>성능 최적화는 복잡한 시스템을 이해하고 제품을 개선하는 강력한 수단이지만, <strong>10배 빠른 결과</strong>도 실제 업무 방식이나 처리량을 바꾸지 못할 수 있음</li>\n<li>쿼리 응답을 5~10분에서 30초~1분으로 줄여도, 사람이 기다리며 주의를 유지하는 <strong>약 10초 임계값</strong>을 넘으면 체감 효...</p>",
-          "contentSnippet": "성능 최적화는 복잡한 시스템을 이해하고 제품을 개선하는 강력한 수단이지만, 10배 빠른 결과도 실제 업무 방식이나 처리량을 바꾸지 못할 수 있음\n쿼리 응답을 5~10분에서 30초~1분으로 줄여도, 사람이 기다리며 주의를 유지하는 약 10초 임계값을 넘으면 체감 효...",
-          "id": "https://news.hada.io/topic?id=30955",
-          "isoDate": "2026-06-30T00:11:29.000Z"
         }
       ]
     }
