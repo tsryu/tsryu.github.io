@@ -751,6 +751,32 @@
       "priority": 2,
       "data": [
         {
+          "creator": "BurnCrow",
+          "title": "'자본잠식' 라인게임즈, 경영난에 전사 희망퇴직 단행",
+          "link": "https://bbs.ruliweb.com/ps/board/300001/read/2357473",
+          "pubDate": "Mon, 06 Jul 2026 03:45:46 +0900",
+          "author": "BurnCrow",
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "제작사"
+          ],
+          "isoDate": "2026-07-05T18:45:46.000Z"
+        },
+        {
+          "creator": "Guyni",
+          "title": "Summer Games Done Quick 2026 개막 7/6 ~ 7/12",
+          "link": "https://bbs.ruliweb.com/ps/board/300001/read/2357471",
+          "pubDate": "Mon, 06 Jul 2026 01:52:13 +0900",
+          "author": "Guyni",
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "정보"
+          ],
+          "isoDate": "2026-07-05T16:52:13.000Z"
+        },
+        {
           "creator": "샤인블링",
           "title": "소니의 디스크 미지원은 비용을 더욱 절감할 기회라는 의견",
           "link": "https://bbs.ruliweb.com/ps/board/300001/read/2357469",
@@ -795,7 +821,7 @@
           "link": "https://bbs.ruliweb.com/ps/board/300001/read/2357465",
           "pubDate": "Sun, 05 Jul 2026 23:09:41 +0900",
           "author": "Naeri",
-          "content": "<img width=\"236\" height=\"177\" src=\"https://i3.ruliweb.com/thumb/26/07/05/19f329cdb3047f450.webp\">",
+          "content": "<img width=\"236\" height=\"177\" src=\"https://i2.ruliweb.com/thumb/26/07/06/19f339267ef47f450.webp\">",
           "contentSnippet": "",
           "categories": [
             "정보"
@@ -1087,32 +1113,6 @@
             "PS5소프트"
           ],
           "isoDate": "2026-07-04T21:42:59.000Z"
-        },
-        {
-          "creator": "BP_Lord",
-          "title": "페르소나4 리바이벌 캐릭터 소개 - 쿠지카와 리세",
-          "link": "https://bbs.ruliweb.com/ps/board/300001/read/2357437",
-          "pubDate": "Sun, 05 Jul 2026 05:42:34 +0900",
-          "author": "BP_Lord",
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "PS5소프트"
-          ],
-          "isoDate": "2026-07-04T20:42:34.000Z"
-        },
-        {
-          "creator": "베르세리아2",
-          "title": "IGN, 우리는 \"이렇게 PS4에서 게임을 공유하는 거에요\" 비디오를 기억합니다",
-          "link": "https://bbs.ruliweb.com/ps/board/300001/read/2357436",
-          "pubDate": "Sun, 05 Jul 2026 05:25:55 +0900",
-          "author": "베르세리아2",
-          "content": "<img width=\"236\" height=\"177\" src=\"https://i2.ruliweb.com/thumb/26/07/05/19f2ecdfd109c16f.webp\">",
-          "contentSnippet": "",
-          "categories": [
-            "정보"
-          ],
-          "isoDate": "2026-07-04T20:25:55.000Z"
         }
       ]
     }
@@ -1124,6 +1124,66 @@
       "category": "news",
       "priority": 1,
       "data": [
+        {
+          "title": "다시 Zig로 돌아가기",
+          "link": "https://news.hada.io/topic?id=31153",
+          "pubDate": "2026-07-05T21:03:50.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Zig는 C의 불편함을 줄이려는 낮은 수준 언어로 출발해, <strong>명시적 메모리 할당</strong>과 숨은 제어 흐름 없음 같은 철학으로 다시 검토할 만한 언어가 됨</li>\n<li>Rust는 Zig의 잦은 변경과 미성숙한 생태계에서 벗어날 실용적 대안이었지만, FFI·크로스 컴파일·숨은 할당 같은 지점에서 한계를 드러냄...</p>",
+          "contentSnippet": "Zig는 C의 불편함을 줄이려는 낮은 수준 언어로 출발해, 명시적 메모리 할당과 숨은 제어 흐름 없음 같은 철학으로 다시 검토할 만한 언어가 됨\nRust는 Zig의 잦은 변경과 미성숙한 생태계에서 벗어날 실용적 대안이었지만, FFI·크로스 컴파일·숨은 할당 같은 지점에서 한계를 드러냄...",
+          "id": "https://news.hada.io/topic?id=31153",
+          "isoDate": "2026-07-05T21:03:50.000Z"
+        },
+        {
+          "title": "Meta 데이터센터 방류, Cheyenne 재생수 오염으로 중단",
+          "link": "https://news.hada.io/topic?id=31152",
+          "pubDate": "2026-07-05T19:34:55.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Cheyenne Board of Public Utilities는 Meta의 Cheyenne 캠퍼스 건설과 관련된 Goat Systems LLC 방류수에서 <strong>Cupriavidus gilardii</strong>를 추적한 뒤, 데이터센터 fill-and-flush 및 폐쇄루프 냉각 폐수 수용을 중단함</li>\n<li>금속 저항성 박테리아가 두 곳의 <strong>물 재생 처리장</strong> 운...</p>",
+          "contentSnippet": "Cheyenne Board of Public Utilities는 Meta의 Cheyenne 캠퍼스 건설과 관련된 Goat Systems LLC 방류수에서 Cupriavidus gilardii를 추적한 뒤, 데이터센터 fill-and-flush 및 폐쇄루프 냉각 폐수 수용을 중단함\n금속 저항성 박테리아가 두 곳의 물 재생 처리장 운...",
+          "id": "https://news.hada.io/topic?id=31152",
+          "isoDate": "2026-07-05T19:34:55.000Z"
+        },
+        {
+          "title": "Odin, Wikipedia와 참여 유도형 분노 장사",
+          "link": "https://news.hada.io/topic?id=31151",
+          "pubDate": "2026-07-05T17:40:14.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>Odin 프로그래밍 언어</strong> 문서 삭제는 단순한 등재 실패를 넘어, 프로그래밍 지식이 Wikipedia의 출처 기준에 얼마나 잘 맞는지 묻는 논쟁으로 번짐</li>\n<li>2026년 3월 23~31일 AfD 토론에서 삭제 의견이 우세했고, 최종적으로 관리자가 문서를 삭제하면서 <strong>주목성 기준</strong>이 핵심...</p>",
+          "contentSnippet": "Odin 프로그래밍 언어 문서 삭제는 단순한 등재 실패를 넘어, 프로그래밍 지식이 Wikipedia의 출처 기준에 얼마나 잘 맞는지 묻는 논쟁으로 번짐\n2026년 3월 23~31일 AfD 토론에서 삭제 의견이 우세했고, 최종적으로 관리자가 문서를 삭제하면서 주목성 기준이 핵심...",
+          "id": "https://news.hada.io/topic?id=31151",
+          "isoDate": "2026-07-05T17:40:14.000Z"
+        },
+        {
+          "title": "구멍",
+          "link": "https://news.hada.io/topic?id=31150",
+          "pubDate": "2026-07-05T16:41:56.000Z",
+          "author": "neo",
+          "content": "구멍",
+          "contentSnippet": "구멍",
+          "id": "https://news.hada.io/topic?id=31150",
+          "isoDate": "2026-07-05T16:41:56.000Z"
+        },
+        {
+          "title": "거대 열대 나무는 꼭대기 가지까지 물을 잘 끌어올린다는 새 연구",
+          "link": "https://news.hada.io/topic?id=31149",
+          "pubDate": "2026-07-05T16:38:56.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>University of Exeter와 Cardiff University가 주도해 <em>Science</em>에 발표한 연구는 세계 최상급 열대 <strong>Dipterocarp</strong> 나무가 내부 수송 구조를 조정해 꼭대기 가지까지 물을 운반한다고 봄</li>\n<li>기존 이론은 키가 커질수록 물 수송 부담이 커져 <strong>성장 한계</strong>와 가뭄 취약...</p>",
+          "contentSnippet": "University of Exeter와 Cardiff University가 주도해 Science에 발표한 연구는 세계 최상급 열대 Dipterocarp 나무가 내부 수송 구조를 조정해 꼭대기 가지까지 물을 운반한다고 봄\n기존 이론은 키가 커질수록 물 수송 부담이 커져 성장 한계와 가뭄 취약...",
+          "id": "https://news.hada.io/topic?id=31149",
+          "isoDate": "2026-07-05T16:38:56.000Z"
+        },
+        {
+          "title": "더 나은 모델, 더 나빠진 도구",
+          "link": "https://news.hada.io/topic?id=31148",
+          "pubDate": "2026-07-05T16:04:54.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Pi의 edit 도구에서 <strong>Claude Opus 4.8</strong>과 <strong>Sonnet 5</strong>가 <code>edits[]</code> 내부에 스키마에 없는 필드를 덧붙여 호출이 거부됐고, 최신 모델이 특정 도구 스키마를 이전 모델보다 못 따르는 현상이 관찰됨</li>\n<li>도구 호출은 모델이 특수 마커와 JSON 형태의 <strong>텍스...</p>",
+          "contentSnippet": "Pi의 edit 도구에서 Claude Opus 4.8과 Sonnet 5가 edits[] 내부에 스키마에 없는 필드를 덧붙여 호출이 거부됐고, 최신 모델이 특정 도구 스키마를 이전 모델보다 못 따르는 현상이 관찰됨\n도구 호출은 모델이 특수 마커와 JSON 형태의 텍스...",
+          "id": "https://news.hada.io/topic?id=31148",
+          "isoDate": "2026-07-05T16:04:54.000Z"
+        },
         {
           "title": "공장은 그저 방이다",
           "link": "https://news.hada.io/topic?id=31147",
@@ -1563,66 +1623,6 @@
           "contentSnippet": "Steam Machine 전면을 꾸미는 e-ink 디스플레이를 Valve가 직접 판매하지 않는 대신, 사용자가 직접 제작할 수 있는 자료를 공개함\n제작 자료는 Valve GitLab에 MIT 라이선스로 올라와 있으며, 부품 구성과 조립 정보를 포함함\n프로젝트 이름은 I...",
           "id": "https://news.hada.io/topic?id=31095",
           "isoDate": "2026-07-03T23:15:57.000Z"
-        },
-        {
-          "title": "CarPlay는 부가적이다",
-          "link": "https://news.hada.io/topic?id=31094",
-          "pubDate": "2026-07-03T23:13:27.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>Rivian이 CarPlay를 지원하지 않으면서, Casey Liss는 <strong>CarPlay 미지원 차량은 사지 않겠다</strong>고 선을 그음</li>\n<li>Rivian은 화면 미러링이 차량 UI 전체를 차지한다고 우려하지만, 일반 <strong>CarPlay</strong>는 CarPlay Ultra처럼 모든 화면을 장악하는 방식이 아님</li>\n<li>Volvo XC90 사...</p>",
-          "contentSnippet": "Rivian이 CarPlay를 지원하지 않으면서, Casey Liss는 CarPlay 미지원 차량은 사지 않겠다고 선을 그음\nRivian은 화면 미러링이 차량 UI 전체를 차지한다고 우려하지만, 일반 CarPlay는 CarPlay Ultra처럼 모든 화면을 장악하는 방식이 아님\nVolvo XC90 사...",
-          "id": "https://news.hada.io/topic?id=31094",
-          "isoDate": "2026-07-03T23:13:27.000Z"
-        },
-        {
-          "title": "멘탈 모델을 전달하는 도구나 기법은?",
-          "link": "https://news.hada.io/topic?id=31093",
-          "pubDate": "2026-07-03T21:02:00.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>시스템이나 제품을 이해하는 <strong>멘탈 모델</strong>을 다른 사람에게 전달하고 함께 키우는 데 효과적인 도구와 기법을 묻는 질문임</li>\n<li>멘탈 모델을 키우는 방법으로 <strong>시스템을 직접 만들고 유지보수</strong>하는 경험이 거론됨</li>\n<li>전달 방식은 냅킨 낙서, 옆에서 몸짓으로 설명하기,...</p>",
-          "contentSnippet": "시스템이나 제품을 이해하는 멘탈 모델을 다른 사람에게 전달하고 함께 키우는 데 효과적인 도구와 기법을 묻는 질문임\n멘탈 모델을 키우는 방법으로 시스템을 직접 만들고 유지보수하는 경험이 거론됨\n전달 방식은 냅킨 낙서, 옆에서 몸짓으로 설명하기,...",
-          "id": "https://news.hada.io/topic?id=31093",
-          "isoDate": "2026-07-03T21:02:00.000Z"
-        },
-        {
-          "title": "로컬 인텔리전스에 대한 권리",
-          "link": "https://news.hada.io/topic?id=31092",
-          "pubDate": "2026-07-03T16:34:24.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>RTI는 플랫폼 계정이나 클라우드 API에 묶이지 않고 자기 기기에서 <strong>로컬 AI</strong>를 실행할 권리를 보호하려는 활동임</li>\n<li>공개 AI 모델의 <strong>다운로드·소유·실행·연구·수정·공유</strong>는 합법적 사용으로 보장하되, 실제 피해 행위는 계속 단속해야 한다는 입장임</li>\n<li>사기, 사...</p>",
-          "contentSnippet": "RTI는 플랫폼 계정이나 클라우드 API에 묶이지 않고 자기 기기에서 로컬 AI를 실행할 권리를 보호하려는 활동임\n공개 AI 모델의 다운로드·소유·실행·연구·수정·공유는 합법적 사용으로 보장하되, 실제 피해 행위는 계속 단속해야 한다는 입장임\n사기, 사...",
-          "id": "https://news.hada.io/topic?id=31092",
-          "isoDate": "2026-07-03T16:34:24.000Z"
-        },
-        {
-          "title": "jj v0.43.0 공개",
-          "link": "https://news.hada.io/topic?id=31091",
-          "pubDate": "2026-07-03T15:02:29.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Git 호환 버전 관리 시스템 <strong>jj v0.43.0</strong>은 여러 변경 집합을 대상으로 명령을 실행하는 <code>jj run</code>을 추가해 반복 검증·수정 작업을 더 자동화할 수 있게 함</li>\n<li><code>jj run</code>은 변경 집합마다 <strong>전용 작업 복사본</strong>을 쓰며, <code>cargo check</code>나 <c...</p>",
-          "contentSnippet": "Git 호환 버전 관리 시스템 jj v0.43.0은 여러 변경 집합을 대상으로 명령을 실행하는 jj run을 추가해 반복 검증·수정 작업을 더 자동화할 수 있게 함\njj run은 변경 집합마다 전용 작업 복사본을 쓰며, cargo check나",
-          "id": "https://news.hada.io/topic?id=31091",
-          "isoDate": "2026-07-03T15:02:29.000Z"
-        },
-        {
-          "title": "계란 담합 업체들, 벌금의 1,000배를 벌었다",
-          "link": "https://news.hada.io/topic?id=31090",
-          "pubDate": "2026-07-03T13:46:10.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>미국 <strong>18개 주와 DOJ Antitrust Division</strong>이 대형 계란 생산업체 3곳과 합의했지만, 2022~2025년 가격 조작 혐의에 비해 처벌 규모가 지나치게 작다는 비판이 핵심임</li>\n<li>혐의의 중심에는 소규모 현물 시장 <strong>Egg Clearinghouse</strong> 입찰을 움직여 Urner Barry 가격 지표를 올리...</p>",
-          "contentSnippet": "미국 18개 주와 DOJ Antitrust Division이 대형 계란 생산업체 3곳과 합의했지만, 2022~2025년 가격 조작 혐의에 비해 처벌 규모가 지나치게 작다는 비판이 핵심임\n혐의의 중심에는 소규모 현물 시장 Egg Clearinghouse 입찰을 움직여 Urner Barry 가격 지표를 올리...",
-          "id": "https://news.hada.io/topic?id=31090",
-          "isoDate": "2026-07-03T13:46:10.000Z"
-        },
-        {
-          "title": "Immich 3.0",
-          "link": "https://news.hada.io/topic?id=31089",
-          "pubDate": "2026-07-03T13:43:09.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Immich <strong>v3.0.0</strong>은 수개월 작업 뒤 나온 다음 메이저 릴리스로, 모바일 비파괴 편집, 워크플로우 미리보기, 백그라운드 백업 개선, 무결성 검사, 실시간 비디오 트랜스코딩 미리보기 등을 포함함</li>\n<li>이번 릴리스에는 <strong>Breaking changes</strong>가 있지만 상당수는 Immich API 엔드...</p>",
-          "contentSnippet": "Immich v3.0.0은 수개월 작업 뒤 나온 다음 메이저 릴리스로, 모바일 비파괴 편집, 워크플로우 미리보기, 백그라운드 백업 개선, 무결성 검사, 실시간 비디오 트랜스코딩 미리보기 등을 포함함\n이번 릴리스에는 Breaking changes가 있지만 상당수는 Immich API 엔드...",
-          "id": "https://news.hada.io/topic?id=31089",
-          "isoDate": "2026-07-03T13:43:09.000Z"
         }
       ]
     }
