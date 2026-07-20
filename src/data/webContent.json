@@ -1,96 +1,49 @@
 {
   "news": [
     {
-      "name": "경제",
-      "url": "https://news.naver.com/section/101",
-      "category": "news",
-      "data": [
-        {
-          "link": "https://n.news.naver.com/mnews/article/421/0009066347",
-          "title": "CJ제일제당, 프리미엄 증류주 'jari' 공개…\"글로벌 공략 나선다\""
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/052/0002381793",
-          "title": "코스피·코스닥 급락에 동반 '매도 사이드카'"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/001/0016203162",
-          "title": "현대차 노조, 4시간 파업 돌입…임협 교섭 지지부진"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/009/0005709211",
-          "title": "홈플 2천억 수혈에도 영업재개 일정 못잡아"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/029/0003037760",
-          "title": "급전 필요해 체결한 가짜 휴대폰 렌탈계약…알고보니 연 150% 고금리 ‘덫’"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/008/0005388066",
-          "title": "한국노총위원장 만난 박홍근 \"노동자 처우개선 예산 세밀히 살필것\""
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/005/0001861924",
-          "title": "서울 상위 1% 아파트 입성하려면 얼마 필요할까?"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/422/0000886805",
-          "title": "NH투자증권 \"코스피, 바닥은 6천피\""
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/029/0003037551",
-          "title": "HD현대, 美 최대 EPC 기업과 ‘선박 건조’ 협력 파트너십"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/018/0006332987",
-          "title": "'그냥드림'에 온기 보탠 대한상의…21개 지역상의 등 2억 후원"
-        }
-      ]
-    },
-    {
       "name": "사회",
       "url": "https://news.naver.com/section/102",
       "category": "news",
       "data": [
         {
-          "link": "https://n.news.naver.com/mnews/article/016/0002672094",
-          "title": "울산시, 2026년 주민등록 사실조사 실시"
+          "link": "https://n.news.naver.com/mnews/article/214/0001512663",
+          "title": "경찰, '김건희 명품백 종결' 권익위 압수수색"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/081/0003662568",
-          "title": "김진남 특별시의원 “광주교육청사 기능 강화 방안 시급”"
+          "link": "https://n.news.naver.com/mnews/article/586/0000134113",
+          "title": "항공기 비상구 커버 떼어낸 30대…이륙 지연에도 '무죄' 받은 이유는?"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/081/0003662517",
-          "title": "경찰청장 대행 “뼈 깎는 심정으로 수사 쇄신…장윤기 사건, 보완수사권과 별개”"
+          "link": "https://n.news.naver.com/mnews/article/015/0005311390",
+          "title": "이틀째 불탄 쿠팡 인천 물류센터…붕괴 우려에 주민 대피령"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/028/0002814820",
-          "title": "‘관저이전 봐주기 감사’ 유병호, 구속심사 ‘묵묵부답’ 출석"
+          "link": "https://n.news.naver.com/mnews/article/421/0009068925",
+          "title": "국내 4대 항만도시 시민단체 \"항만공사 통합 중단하라\""
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/005/0001861821",
-          "title": "警간부 “검찰,장윤기 보완수사 잘했다 생각”… 김용민 “검사 직접수사 필요하다는 말이냐”"
+          "link": "https://n.news.naver.com/mnews/article/119/0003113060",
+          "title": "장윤기 말고 또 있었다…2018년 광산경찰서에서 벌어진 일"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/586/0000134072",
-          "title": "박수현 지사, 국회서 발전공기업 통합본사 충남 설치 공식 건의[충남 24시]"
+          "link": "https://n.news.naver.com/mnews/article/214/0001512587",
+          "title": "합수본, '외유성 출장 의혹' 중앙선관위 압수수색"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/016/0002672116",
-          "title": "헌재로 가려다 마음 바뀐 윤석열 측…‘체포방해’ 징역 7년 재판소원 않는다 [세상&]"
+          "link": "https://n.news.naver.com/mnews/article/003/0014076038",
+          "title": "밀양시의회 임시회 개회…\"31일까지 20개 안건 심의\""
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/003/0014076089",
-          "title": "전남동부 상반기 해양오염사고 13건…물질 유출은 812ℓ"
+          "link": "https://n.news.naver.com/mnews/article/052/0002381796",
+          "title": "'어울림 더하기' 대상  '스마트폰 없는 학교' 운영"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/277/0005791820",
-          "title": "맛은 별로인데 별점이 왜?… '가짜 리뷰'로 병원·맛집 띄워 19억원 챙긴 바이럴 조직"
+          "link": "https://n.news.naver.com/mnews/article/014/0005550197",
+          "title": "\"아이유가 중국 국적자?\" 악플러 신원 찾는다…美 법원에 자료 요청"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/020/0003734886",
-          "title": "인천 쿠팡 물류센터 붕괴 위험…반경 116m 구민에 대피령"
+          "link": "https://n.news.naver.com/mnews/article/052/0002381959",
+          "title": "쿠팡 물류센터 화재 사흘째...'로봇 배터리' 5층 확산 차단 총력"
         }
       ]
     },
@@ -100,32 +53,28 @@
       "category": "news",
       "data": [
         {
-          "link": "https://n.news.naver.com/mnews/article/028/0002814677",
-          "title": "오늘 곳에 따라 비…낮 최고 25~33도 ‘평년 수준’"
+          "link": "https://n.news.naver.com/mnews/article/666/0000115776",
+          "title": "월요일 아침부터 쏟아진 장대비…\"장마 안 끝났다\""
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/025/0003538598",
-          "title": "“국제사회 협력이 한 도시 운명 바꿔…이 곳 부산이 증명”"
+          "link": "https://n.news.naver.com/mnews/article/277/0005792055",
+          "title": "전쟁·기후·AI 위기 함께 맞선다…세계유산위 '부산 선언' 채택"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/052/0002381792",
-          "title": "이번 주 내내 장맛비...중부 호우 vs 남부 폭염[날씨]"
+          "link": "https://n.news.naver.com/mnews/article/052/0002382002",
+          "title": "중부 또 호우...내일 새벽 시간당 최고 80mm '물 폭탄'[날씨]"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/001/0016203843",
-          "title": "피아노와 미술의 만남…조성진, 키아프 무대 오른다"
+          "link": "https://n.news.naver.com/mnews/article/011/0004643229",
+          "title": "피아니스트 조성진, 키아프 무대 오른다"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/422/0000886793",
-          "title": "중부 중심 강한 장맛비…남부 폭염특보 확대[날씨]"
+          "link": "https://n.news.naver.com/mnews/article/018/0006333148",
+          "title": "제9기 국가도서관위원회 출범…위원장에 김기영 교수"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/011/0004643137",
-          "title": "이효석문학상 대상에 박솔뫼의 ‘사과’"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/016/0002672364",
-          "title": "제9기 국가도서관위원회 출범…도서관발전종합계획 박차"
+          "link": "https://n.news.naver.com/mnews/article/001/0016204461",
+          "title": "한국 미술사학 기틀 세운 1세대…안휘준 서울대 명예교수 별세"
         }
       ]
     },
@@ -135,36 +84,36 @@
       "category": "news",
       "data": [
         {
-          "link": "https://n.news.naver.com/mnews/article/018/0006333029",
-          "title": "넷마블 '세븐나이츠 리버스' 홍대 AK플라자서 콜라보 카페 운영"
+          "link": "https://n.news.naver.com/mnews/article/055/0001373821",
+          "title": "중, 딥시크 이어 '키미 K3'로 미 AI 추격…\"기술격차 2∼3개월\""
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/277/0005791638",
-          "title": "라온시큐어, NH농협손보에 양자내성암호 공급…금융권 PQC 시장 공략 속도"
+          "link": "https://n.news.naver.com/mnews/article/018/0006333351",
+          "title": "이해진·최수연 캐나다行…네이버, AIDC '투자 세일즈'"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/081/0003662544",
-          "title": "중국 문샷 AI, ‘키미 K3’ 공개 …긴장하는 미국 AI 업계 [고든 정의 TECH+]"
+          "link": "https://n.news.naver.com/mnews/article/138/0002234674",
+          "title": "LCK 5위도 세계 정상…디플러스 기아가 보여준 리그의 저력[e모션]"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/029/0003037720",
-          "title": "삼성SDS, 퓨리오사AI RGND 기반 NPUaaS 출시"
+          "link": "https://n.news.naver.com/mnews/article/011/0004642885",
+          "title": "22일 베일 벗는 8세대 갤Z…삼성 비메모리 반등 이끌까"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/011/0004643102",
-          "title": "KT, 휴가철 맞아 동남아 알뜰로밍 출시…‘그랩’ 제휴 혜택도"
+          "link": "https://n.news.naver.com/mnews/article/023/0003988564",
+          "title": "배경훈 부총리 “미토스급 한국형 프런티어 AI 개발 나서야...GPU 1만장 필요, 구매비만 3.5조“"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/001/0016203005",
-          "title": "네이버, 유명인 블로그 발굴 프로젝트…첫 주인공은 넉살"
+          "link": "https://n.news.naver.com/mnews/article/001/0016204474",
+          "title": "국가AI전략위 \"GPU만으론 한계…컴퓨팅 자원배분이 관건\"[AI픽]"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/119/0003112886",
-          "title": "임금 체불에도…'노력의 가치' 증명한 디플러스 기아의 EWC 우승 서사"
+          "link": "https://n.news.naver.com/mnews/article/001/0016204046",
+          "title": "홈쇼핑 상생협력 선언…정부·업계, 중기 판로 넓힌다"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/366/0001180328",
-          "title": "韓, EU 연구 혁신 프로그램 ‘호라이즌 유럽’ 참여 넓어졌지만… “기술 넘어 사회 영향까지 설계해야”"
+          "link": "https://n.news.naver.com/mnews/article/001/0016202766",
+          "title": "삼성SDS, 퓨리오사AI 기반 NPUaaS 선보여[AI픽]"
         }
       ]
     },
@@ -174,44 +123,40 @@
       "category": "news",
       "data": [
         {
-          "link": "https://n.news.naver.com/mnews/article/009/0005709327",
-          "title": "BTS, 월드컵 첫 하프타임쇼 장악…전 세계에 울려 퍼진 ‘다이너마이트’"
+          "link": "https://n.news.naver.com/mnews/article/003/0014075723",
+          "title": "맘다니, 네타냐후 체포 방침 고수…9월 유엔총회 앞두고 논란"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/050/0000108703",
-          "title": "“주가만큼 오르네” 젠슨 황 가죽 재킷도 들썩"
+          "link": "https://n.news.naver.com/mnews/article/586/0000134066",
+          "title": "중국 AI 스타트업 문샷, '키미 K3' 흥행 업고 홍콩 상장 속도"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/029/0003037667",
-          "title": "미군, 이란 원전 건설현장에 미사일…혁수대는 호르무즈 상선 또 쐈다"
+          "link": "https://n.news.naver.com/mnews/article/018/0006332699",
+          "title": "美 \"아카바 공항·항구 접근 자제\"…요르단 \"소개령 없어\""
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/056/0012220848",
-          "title": "맘다니 뉴욕시장 “네타냐후, 뉴욕 오면 체포 방안 검토”"
+          "link": "https://n.news.naver.com/mnews/article/055/0001373905",
+          "title": "러·우크라 격전지 된 흑해…해상 물류 마비에 밀 가격 급등"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/421/0009067162",
-          "title": "이란 \"호르무즈 무허가 통과 선박 2척 저지…2척은 운항 포기\""
+          "link": "https://n.news.naver.com/mnews/article/028/0002814749",
+          "title": "미군 2명 사망, 강한 응징과 제한적 대응 사이…또 딜레마에 빠진 트럼프"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/011/0004643078",
-          "title": "TSMC “AI 메가트렌드 장기화...美 애리조나 증설 가속”"
+          "link": "https://n.news.naver.com/mnews/article/366/0001180194",
+          "title": "러시아, 우크라이나 키이우에 ‘최대 규모’ 탄도미사일 공격"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/020/0003735042",
-          "title": "“팔걸이는 누구 거?”…가운데 좌석 비운 이코노미석 등장"
+          "link": "https://n.news.naver.com/mnews/article/437/0000502016",
+          "title": "이란 혁명수비대 \"호르무즈 해협 통과하려던 유조선 2척 폭발\""
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/055/0001373776",
-          "title": "\"걸프국서 '이란과 호르무즈 공동관리' 제안도 나와\""
+          "link": "https://n.news.naver.com/mnews/article/052/0002381626",
+          "title": "잰슨황 가죽재킷 '예상가 16배' 14억 원에 낙찰"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/015/0005311383",
-          "title": "글로벌 10% 관세 만료 눈앞…트럼프 무역장벽 더 높이나"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/001/0016203512",
-          "title": "中, 딥시크 이어 '키미 K3'로 美AI 추격…\"기술격차 2∼3개월\""
+          "link": "https://n.news.naver.com/mnews/article/003/0014074730",
+          "title": "미군 \"이라크서 드론 불발탄 처리 중 1명 사망·1명 부상\""
         }
       ]
     }
