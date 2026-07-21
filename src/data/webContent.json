@@ -1,49 +1,96 @@
 {
   "news": [
     {
+      "name": "경제",
+      "url": "https://news.naver.com/section/101",
+      "category": "news",
+      "data": [
+        {
+          "link": "https://n.news.naver.com/mnews/article/016/0002673087",
+          "title": "서울 아파트 임대차 시장서 월세 비중 54%…전세보다 10% 더 많아졌다 [부동산360]"
+        },
+        {
+          "link": "https://n.news.naver.com/mnews/article/011/0004643714",
+          "title": "어제는 상한가, 오늘은 하한가…고점서 1억 넣었다면 1358만원 남은 삼천당제약, 무슨 일"
+        },
+        {
+          "link": "https://n.news.naver.com/mnews/article/417/0001152262",
+          "title": "배재규 한투운용 대표 \"단일종목 레버리지 ETF 투자, 당장 멈춰라\""
+        },
+        {
+          "link": "https://n.news.naver.com/mnews/article/666/0000116008",
+          "title": "국세청, 경인권 ‘국세외수입’ 체납관리단 1천500명 추가 채용"
+        },
+        {
+          "link": "https://n.news.naver.com/mnews/article/008/0005388950",
+          "title": "삼성, 로봇 패권전쟁 출사표... 노태문 직속 'RX 조직' 신설"
+        },
+        {
+          "link": "https://n.news.naver.com/mnews/article/029/0003038040",
+          "title": "‘아만’과 손잡고 초고가 해외 부동산 개발 7500억 투자 승부수[오늘의 DT인]"
+        },
+        {
+          "link": "https://n.news.naver.com/mnews/article/001/0016205892",
+          "title": "카카오뱅크 노조, 오는 31일 전일 파업한다…\"임금교섭 결렬\""
+        },
+        {
+          "link": "https://n.news.naver.com/mnews/article/008/0005388386",
+          "title": "7월 1~20일 수출 52.3%↑…중순 실적도 반도체 중심 '역대 최대'"
+        },
+        {
+          "link": "https://n.news.naver.com/mnews/article/055/0001374067",
+          "title": "블룸버그 \"'키미3'는 훨씬 많은 메모리 요구\""
+        },
+        {
+          "link": "https://n.news.naver.com/mnews/article/008/0005388968",
+          "title": "현대차그룹 월드컵 영상 3억뷰 돌파...광고효과 '수십조원' 기대"
+        }
+      ]
+    },
+    {
       "name": "사회",
       "url": "https://news.naver.com/section/102",
       "category": "news",
       "data": [
         {
-          "link": "https://n.news.naver.com/mnews/article/055/0001373951",
-          "title": "'관저이전 봐주기 감사' 유병호 감사위원 구속…\"증거인멸 염려\""
+          "link": "https://n.news.naver.com/mnews/article/011/0004643761",
+          "title": "장윤기 사건 ‘윗선’ 동시 수사…적용 혐의서 드러난 검경 온도차"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/088/0001020068",
-          "title": "\"이불 덮고 있어 몰랐다\" 아내 방치 살해 前부사관…2심서도 무죄 주장"
+          "link": "https://n.news.naver.com/mnews/article/277/0005792221",
+          "title": "수도권 곳곳 호우특보…\"시간당 30~50㎜ 강한 비\"[날씨]"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/001/0016206571",
-          "title": "경기북부소방, 임진강 수위 상승에 긴급구조통제단 운영"
+          "link": "https://n.news.naver.com/mnews/article/422/0000887486",
+          "title": "여주 하천서 잡힌 악어…국제 멸종위기종 '샴악어'"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/001/0016206705",
-          "title": "경남도의회 교육위, 지방교육교부금 개편 대응 범도민기구 제안"
+          "link": "https://n.news.naver.com/mnews/article/469/0000943559",
+          "title": "삼척 송전탑 자재 옮기던 헬기, 돌풍에 추락… 2명 경상"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/001/0016206197",
-          "title": "쯔양 협박한 유튜버 구제역, 항소심서 배상액 8천만원으로 늘어"
+          "link": "https://n.news.naver.com/mnews/article/092/0002431295",
+          "title": "공공 자전거 '따릉이' 유출 규모 462만명…30일 정기권 제공 보상"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/021/0002805778",
-          "title": "[속보]인천 쿠팡물류센터 화재 초진, 61시간 만…대응 단계는 유지"
+          "link": "https://n.news.naver.com/mnews/article/052/0002382083",
+          "title": "[속보] 종합특검, '관저 의혹 부실 감사' 유병호 신병 확보"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/469/0000943583",
-          "title": "[속보] '장윤기 사건' 초동수사 형사과장 구속영장 기각"
+          "link": "https://n.news.naver.com/mnews/article/654/0000191381",
+          "title": "[속보] 삼척 고정간첩단 사건 2건 포상 취소...국가폭력 연루 정부포상 198건 취소"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/032/0003459569",
-          "title": "‘감사 방해’ 수사 권한에 시간·인력 추가 확보…특검, 뒷심 낼까"
+          "link": "https://n.news.naver.com/mnews/article/016/0002672503",
+          "title": "인천 쿠팡물류센터 인근 대피령 해제…발령 하루만"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/422/0000887455",
-          "title": "개표소 막은 '올다르크' 구속영장 기각…\"증거인멸·도주 우려 없어\""
+          "link": "https://n.news.naver.com/mnews/article/022/0004144671",
+          "title": "“안경에 답 보이고, 이어폰으로 불러주고”… 부정시험 판친다"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/009/0005710404",
-          "title": "장예찬 ‘한동훈 게시판 막말’ 공세? 경찰, 무혐의 준 이유가…"
+          "link": "https://n.news.naver.com/mnews/article/020/0003735247",
+          "title": "기획처 “교육교부금, 내국세의 20.79% 연동 폐지” 교육부에 제시"
         }
       ]
     },
@@ -53,36 +100,36 @@
       "category": "news",
       "data": [
         {
-          "link": "https://n.news.naver.com/mnews/article/057/0001959566",
-          "title": "중부 강한 비…남부는 폭염"
+          "link": "https://n.news.naver.com/mnews/article/052/0002382448",
+          "title": "중부 폭우 잠시 소강...남부는 폭염, 포항 35.6℃[날씨]"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/008/0005388611",
-          "title": "로봇 스님·불교 챗봇까지…조계종, 하정우 전 AI수석 초청 강연"
+          "link": "https://n.news.naver.com/mnews/article/421/0009069313",
+          "title": "\"강제동원 진실 숨긴 채 세계유산 될 수 없다\"…사도광산 피해자 목소리 알린다"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/656/0000182041",
-          "title": "대전일보 오늘의 운세 양력 7월 22일, 음력 6월 9일"
+          "link": "https://n.news.naver.com/mnews/article/660/0000113592",
+          "title": "광양 낮 최고 기온 34도...내일까지 5~30mm 비"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/011/0004643707",
-          "title": "이런 XX…‘21세기 앤디 워홀’ 카우스가 왔다"
+          "link": "https://n.news.naver.com/mnews/article/032/0003459473",
+          "title": "청와대 불자회장 출신 하정우 “불교 지식, 정부 모델에 학습시키면 전세계 최고의 ‘불교 AI’ 가능”"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/057/0001959481",
-          "title": "오전까지 중부 중심 호우…시간당 30~50mm[날씨]"
+          "link": "https://n.news.naver.com/mnews/article/421/0009069650",
+          "title": "세계유산협약국 대표단 부산 만찬, 70여개국 140여명 참석…우호·협력 다졌다"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/011/0004643300",
-          "title": "전세계인 앞에서 “문화강국 도약” 선언한 李대통령<전문>"
+          "link": "https://n.news.naver.com/mnews/article/018/0006333973",
+          "title": "한국GM, 임단협에 '신규 차종' 첫 명시…노조 \"검토는 부족, 신차 확약해야\""
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/138/0002234875",
-          "title": "한국GM 노조, 16차 교섭 결렬…휴가 전 타결 불발에 재파업"
+          "link": "https://n.news.naver.com/mnews/article/081/0003663196",
+          "title": "2026년 7월 22일[김동완의 오늘의 운세]"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/003/0014079694",
-          "title": "호암 이병철 삼성창업주 '공수래공수거' 1억 낙찰"
+          "link": "https://n.news.naver.com/mnews/article/025/0003539196",
+          "title": "출간 전 2만부 찍는 소설가 박상영 “모르는 자리에 깃발 꽂고 싶었다”"
         }
       ]
     },
@@ -92,36 +139,32 @@
       "category": "news",
       "data": [
         {
-          "link": "https://n.news.naver.com/mnews/article/138/0002234841",
-          "title": "\"스타링크 시대, 소버린 위성 핵심은 소유 아닌 통제\""
+          "link": "https://n.news.naver.com/mnews/article/421/0009071414",
+          "title": "뇌 속 노폐물 어디로 빠질까…'숨은 배수구' 첫 발견"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/020/0003735419",
-          "title": "LG유플러스-에릭슨, ‘통신망 기반 음성 AI’ 공동 개발"
+          "link": "https://n.news.naver.com/mnews/article/014/0005550600",
+          "title": "LG U+, 에릭슨과 손잡고 네트워크 기반 글로벌 보이스 AI 키운다"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/277/0005792649",
-          "title": "삼성전자, 미국서 첫 신용카드 출시…애플카드에 맞불"
+          "link": "https://n.news.naver.com/mnews/article/008/0005388430",
+          "title": "한국대표팀, 국제 생물·화학 올림피아드 '메달 물결'"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/014/0005550599",
-          "title": "SKT, AI 스타트업 15곳 키운다…'스케치 위드 AI' 참가 모집"
+          "link": "https://n.news.naver.com/mnews/article/421/0009070918",
+          "title": "삼성전자, 美 첫 제휴 신용카드 출시…\"애플처럼 금융생태계 도전\""
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/056/0012221664",
-          "title": "MS, 클라우드 ‘애저’에 AMD AI랙 대거 도입…엔비디아 독주 견제"
+          "link": "https://n.news.naver.com/mnews/article/081/0003663271",
+          "title": "토종 AI ‘모티프3’, 中 딥시크 최신 모델과 동급 성능 기록"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/014/0005551019",
-          "title": "'와이드 폴드' 공개 D-1…삼성 英 언팩 막바지 준비 분주"
+          "link": "https://n.news.naver.com/mnews/article/138/0002234868",
+          "title": "누적 다운로드 6000만 '윈드러너', 방치형 RPG로 귀환…한국·대만 출시"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/008/0005388768",
-          "title": "국립중앙과학관 첫 여성 관장, 이은영 신임 관장 취임"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/018/0006334111",
-          "title": "유니티의 반격…‘게임 엔진 제국’ 넘어 AI 시뮬레이션 플랫폼 노린다"
+          "link": "https://n.news.naver.com/mnews/article/009/0005710164",
+          "title": "삼성 모바일 혁신 기술 한 자리에...런던 갤럭시 언팩 관전 포인트 셋"
         }
       ]
     },
@@ -131,44 +174,44 @@
       "category": "news",
       "data": [
         {
-          "link": "https://n.news.naver.com/mnews/article/003/0014077043",
-          "title": "뉴욕증시, 반도체 반등에 상승 출발…나스닥 1.05%↑"
+          "link": "https://n.news.naver.com/mnews/article/023/0003988848",
+          "title": "AI 반도체 이어 AI 인프라 공급… ‘脫엔비디아 전쟁’ 2라운드 돌입"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/001/0016204596",
-          "title": "'안팔린 옷·신발, 폐기 안돼' EU규정 발효…명품업체 등 타격"
+          "link": "https://n.news.naver.com/mnews/article/422/0000887266",
+          "title": "中, 필리핀 대사 긴급 초치…충돌 부상자 이송은 허용"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/001/0016204704",
-          "title": "스타머에 맞섰던 힐리 전 국방, 버넘 내각 '2인자' 재무장관에"
+          "link": "https://n.news.naver.com/mnews/article/011/0004643294",
+          "title": "버넘 英 총리 취임…2년 만에 총리 교체, 영국 노동당의 승부수"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/008/0005388306",
-          "title": "이라크서 미군 1명 추가 사망… 美·이란 전면전 위기 고조"
+          "link": "https://n.news.naver.com/mnews/article/366/0001180801",
+          "title": "뉴욕증시, 반도체주 반등에 상승 마감"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/011/0004643658",
-          "title": "‘키미’ 파급력에 고무된 中, AI 데이터 해외유출 차단"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/003/0014077176",
-          "title": "\"요르단 美기지 때린 이란 미사일, 방공망 뚫고 막사 직격\""
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/011/0004643506",
-          "title": "중국·러시아, 일본 EEZ서 해상 실전훈련…실사격도 실시"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/023/0003988869",
-          "title": "100년간 안 쓴 법 끄집어내… 트럼프, 캐나다에 50% 관세"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/029/0003037926",
-          "title": "사우디, 후티 대응 선박 보호조치 착수…아랍 연합군 “해적행위 간주”"
+          "link": "https://n.news.naver.com/mnews/article/018/0006334188",
+          "title": "비축유 바닥났는데 원유 우회로마저 막혀…최악 오일쇼크 온다"
         },
         {
           "link": "https://n.news.naver.com/mnews/article/055/0001374138",
           "title": "미국, 자국민에 중동 여행 주의보…\"전 세계 어디서나 공격 대상 될 수 있어\""
+        },
+        {
+          "link": "https://n.news.naver.com/mnews/article/055/0001374308",
+          "title": "레바논 대통령, '내전 위험' 경고…트럼프 \"헤즈볼라와 대화할 것\""
+        },
+        {
+          "link": "https://n.news.naver.com/mnews/article/052/0002382148",
+          "title": "'스페인의 별들' 개선 행렬...메시 \"고통스럽다\""
+        },
+        {
+          "link": "https://n.news.naver.com/mnews/article/052/0002382297",
+          "title": "이란 미사일에 방공망 뚫린 미국...\"러시아·중국 개입 가능성\" [이슈톺]"
+        },
+        {
+          "link": "https://n.news.naver.com/mnews/article/366/0001180541",
+          "title": "美·이란 전면전에 휴전 논의 나선 중재국... 카타르, 10일 휴전 제안"
         }
       ]
     }
@@ -271,40 +314,40 @@
           "title": "바이바이 스트레인지니스"
         },
         {
-          "link": "https://ridibooks.com/books/5134000006?_rdt_sid=bestsellers&_rdt_idx=2&_rdt_arg=general",
-          "title": "종점은 아직 멀어서"
-        },
-        {
-          "link": "https://ridibooks.com/books/6286000001?_rdt_sid=bestsellers&_rdt_idx=3&_rdt_arg=general",
+          "link": "https://ridibooks.com/books/6286000001?_rdt_sid=bestsellers&_rdt_idx=2&_rdt_arg=general",
           "title": "천막 너머"
         },
         {
-          "link": "https://ridibooks.com/books/4927000003?_rdt_sid=bestsellers&_rdt_idx=4&_rdt_arg=general",
+          "link": "https://ridibooks.com/books/4927000003?_rdt_sid=bestsellers&_rdt_idx=3&_rdt_arg=general",
           "title": "밸런스 게임"
         },
         {
-          "link": "https://ridibooks.com/books/4239000438?_rdt_sid=bestsellers&_rdt_idx=5&_rdt_arg=general",
-          "title": "신 퇴마록 신세편 1권"
+          "link": "https://ridibooks.com/books/5134000006?_rdt_sid=bestsellers&_rdt_idx=4&_rdt_arg=general",
+          "title": "종점은 아직 멀어서"
         },
         {
-          "link": "https://ridibooks.com/books/4579000004?_rdt_sid=bestsellers&_rdt_idx=6&_rdt_arg=general",
+          "link": "https://ridibooks.com/books/4579000004?_rdt_sid=bestsellers&_rdt_idx=5&_rdt_arg=general",
           "title": "프리메이슨 프로젝트"
         },
         {
-          "link": "https://ridibooks.com/books/510001099?_rdt_sid=bestsellers&_rdt_idx=7&_rdt_arg=general",
-          "title": "프로젝트 헤일메리"
+          "link": "https://ridibooks.com/books/4239000438?_rdt_sid=bestsellers&_rdt_idx=6&_rdt_arg=general",
+          "title": "신 퇴마록 신세편 1권"
         },
         {
-          "link": "https://ridibooks.com/books/4139000120?_rdt_sid=bestsellers&_rdt_idx=8&_rdt_arg=general",
+          "link": "https://ridibooks.com/books/4139000120?_rdt_sid=bestsellers&_rdt_idx=7&_rdt_arg=general",
           "title": "1020 극우가 온다"
         },
         {
-          "link": "https://ridibooks.com/books/509000551?_rdt_sid=bestsellers&_rdt_idx=9&_rdt_arg=general",
-          "title": "싯다르타"
+          "link": "https://ridibooks.com/books/510001099?_rdt_sid=bestsellers&_rdt_idx=8&_rdt_arg=general",
+          "title": "프로젝트 헤일메리"
         },
         {
-          "link": "https://ridibooks.com/books/280000286?_rdt_sid=bestsellers&_rdt_idx=10&_rdt_arg=general",
+          "link": "https://ridibooks.com/books/280000286?_rdt_sid=bestsellers&_rdt_idx=9&_rdt_arg=general",
           "title": "사고외주"
+        },
+        {
+          "link": "https://ridibooks.com/books/509000551?_rdt_sid=bestsellers&_rdt_idx=10&_rdt_arg=general",
+          "title": "싯다르타"
         }
       ]
     }
