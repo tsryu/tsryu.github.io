@@ -1,96 +1,49 @@
 {
   "news": [
     {
-      "name": "경제",
-      "url": "https://news.naver.com/section/101",
-      "category": "news",
-      "data": [
-        {
-          "link": "https://n.news.naver.com/mnews/article/014/0005558207",
-          "title": "BGF리테일, 2분기 영업익 22.3%↑…소비 심리 회복에 성장세 견조"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/081/0003668438",
-          "title": "와이즈버즈, 상반기 영업이익 58억원 기록…AI 광고 자동화 플랫폼 성장세로 연간 사상 최대 실적 가시권"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/018/0006346642",
-          "title": "중기·벤처업계 “2026 세제개편안 환영…성장 기반 확충”"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/003/0014113636",
-          "title": "백화점이 끌었다…롯데쇼핑, 상반기 영업익 3428억·매출 7조 돌파"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/001/0016238617",
-          "title": "비상장주식·조각투자, 연내 다른 증권사 계좌 거래 가능해진다"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/015/0005318427",
-          "title": "LS일렉트릭·효성도 합류…나주에 '에너지 밸리' 생긴다"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/366/0001184905",
-          "title": "리가켐바이오, 공동개발 ADC ‘LNCB74′ 단독개발로 전환…기술이전 권리 확보"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/138/0002236951",
-          "title": "신협, 고창 해상풍력에 1000억 규모 금융지원"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/079/0004176446",
-          "title": "LG AI '엑사원' 이 정도였어?…'산업 특화 AI'로 구글 제쳐"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/022/0004148984",
-          "title": "“회사 살리겠다는 마음으로 재개장 준비”… 홈플러스, 7일 가오픈"
-        }
-      ]
-    },
-    {
       "name": "사회",
       "url": "https://news.naver.com/section/102",
       "category": "news",
       "data": [
         {
-          "link": "https://n.news.naver.com/mnews/article/214/0001516497",
-          "title": "합수본, '통계 조작 의혹' 서울·경기·충북 선관위 등 추가 압수수색"
+          "link": "https://n.news.naver.com/mnews/article/001/0016237846",
+          "title": "내달부터 제주 읍면지역서 '심야 주유소' 시범 운영"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/018/0006346159",
-          "title": "\"중국 공세 속 피지컬AI 주도권 확보\"…현대차, 정부에 전폭지원 요청"
+          "link": "https://n.news.naver.com/mnews/article/009/0005717972",
+          "title": "노태악 해외출장에 ‘배우자 전담 직원’ 동행…보고서엔 ‘공식일정’"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/421/0009102435",
-          "title": "백록담 암벽 붕괴·낙석 '㎝ 단위' 추적…고해상도 3D 정밀자료 구축"
+          "link": "https://n.news.naver.com/mnews/article/003/0014114364",
+          "title": "호랑이는 향어·반달곰은 우족…서울대공원, 폭염 특별식 쏜다"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/002/0002451336",
-          "title": "[속보] '순직해병 책임자' 임성근 전 사단장, 2심서도 징역 3년"
+          "link": "https://n.news.naver.com/mnews/article/018/0006346735",
+          "title": "검경, 중앙선관위 등 추가 압수수색…'투표 통계 조작' 수사 확대"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/656/0000183464",
-          "title": "대한축구협회, 15년 전 월드컵·올림픽 외국인 심판 성 접대"
+          "link": "https://n.news.naver.com/mnews/article/421/0009103175",
+          "title": "경찰, 9월 상피제 전격 실시…가족 사건 다른 경찰서로(종합)"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/056/0012233337",
-          "title": "수유동 오피스텔서 지인 살해한 50대 송치…“금품 강취 목적”"
+          "link": "https://n.news.naver.com/mnews/article/057/0001962359",
+          "title": "폭염 속 연락 안 닿던 80대…고추밭에서 숨진 채 발견"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/028/0002817555",
-          "title": "“윤석열 영화비·밥값 내역 공개” 판결 대법서 뒤집혀…이미 대통령기록관 이관"
+          "link": "https://n.news.naver.com/mnews/article/003/0014114160",
+          "title": "'채상병 순직 책임' 임성근, 항소심도 징역 3년…\"책임 회피 급급\""
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/005/0001865443",
-          "title": "연일 ‘재정 비상론’ 띄우는 추미애 “낡은 지방세제 탓”"
+          "link": "https://n.news.naver.com/mnews/article/586/0000135480",
+          "title": "[속보] 입추에도 계속되는 '괴물 폭염'…서울 8년 만에 40도 넘었다"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/003/0014113825",
-          "title": "지방공기업 20곳 경영평가 최상위…부진 5곳은 경영진단"
+          "link": "https://n.news.naver.com/mnews/article/421/0009102688",
+          "title": "특검, '포고령 위반자 수용 공간 확보' 신용해 전 교정본부장 기소"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/052/0002390071",
-          "title": "랜섬웨어 해커 손잡고 26억 챙긴 데이터복구업체 대표...1심서 징역 3년"
+          "link": "https://n.news.naver.com/mnews/article/081/0003668599",
+          "title": "보완수사 사라지면 피해자 보호는?… “검사 조기자문 강화해야”"
         }
       ]
     },
@@ -100,36 +53,24 @@
       "category": "news",
       "data": [
         {
-          "link": "https://n.news.naver.com/mnews/article/449/0000355896",
-          "title": "입추에 ‘서울 39도’, 폭염 절정…주말부터 다소 누그러져[날씨]"
+          "link": "https://n.news.naver.com/mnews/article/052/0002390351",
+          "title": "주말 극한 폭염 주춤...동해안 최대 150mm 호우"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/081/0003668476",
-          "title": "창문 뚫고 들어오는 자외선…실내에서도 차단제 발라야"
+          "link": "https://n.news.naver.com/mnews/article/092/0002433333",
+          "title": "BMW코리아, 8월 온라인 한정판 3종 출시…총 89대 판매"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/021/0002809897",
-          "title": "‘호남의 금강’ 월출산 일원, 국가 자연유산 ‘명승’ 된다"
+          "link": "https://n.news.naver.com/mnews/article/081/0003668560",
+          "title": "가수 이랑, 日 나가이 가후 문학상 수상…‘엄마와 딸들의 미친년의 역사’ 여성 향한 폭력과 상처 응시"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/421/0009102112",
-          "title": "벤츠 코리아, '서비스품질지수' 수입차판매 부문 12년 연속 1위"
+          "link": "https://n.news.naver.com/mnews/article/003/0014115070",
+          "title": "'나 혼자만 레벨업' 차준환 \"성장하는 성진우, 제 인생 모토와 부합\""
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/056/0012233382",
-          "title": "‘입추’ 무색한 폭염…내일부터 극한 폭염은 누그러져[뉴스타임날씨]"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/008/0005396982",
-          "title": "수몰 위기 넘긴 안동의 향교 건물, 보물 됐다…월출산도 명승으로"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/277/0005800256",
-          "title": "\"한국 가서 싹쓸이해오자\" 외국인 우르르 몰려오더니…3000원짜리 '이것'에도 열광"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/421/0009101939",
-          "title": "폭염 속 수분 섭취, 탈수 예방 절실…\"임의로 약 줄이면 안 돼\""
+          "link": "https://n.news.naver.com/mnews/article/366/0001184942",
+          "title": "테슬라 요구에 FSD 안전 자료 감춘 유럽… “안전보다 영업비밀 중요”"
         }
       ]
     },
@@ -139,36 +80,36 @@
       "category": "news",
       "data": [
         {
-          "link": "https://n.news.naver.com/mnews/article/016/0002680791",
-          "title": "네이버 역대 최대 매출…영업이익은 0.2%↓"
+          "link": "https://n.news.naver.com/mnews/article/009/0005718101",
+          "title": "컴투스, ‘제우스’ 출격 ‘카운트다운’…남재관 대표 “모두를 위한 MMORPG”"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/009/0005717908",
-          "title": "“월 8800원 알뜰폰에 전자책 구독까지”…LG헬로비전, 교보문고와 맞손"
+          "link": "https://n.news.naver.com/mnews/article/011/0004649673",
+          "title": "“네이버 AI 팩토리, 내년부터 수익 창출”"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/009/0005717814",
-          "title": "오픈AI 첫 AI 기기 ‘하키퍽 크기 도넛’ 모양 스피커…가격 300~400달러"
+          "link": "https://n.news.naver.com/mnews/article/008/0005397140",
+          "title": "사람 수준 로봇손 기준은?…K-스타트업들 '글로벌 표준' 구축한다"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/018/0006346777",
-          "title": "데브시스터즈 2분기 영업손실 160억원…적자전환"
+          "link": "https://n.news.naver.com/mnews/article/009/0005718017",
+          "title": "팬들과 함께 성장한 ‘TFT’, 역대 최대 축제 ‘와일드 팬페스트’ 개최"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/008/0005396950",
-          "title": "네이버 \"내년까지 온오프라인 합산 B2C 결제액 1위 목표\"[컨콜]"
+          "link": "https://n.news.naver.com/mnews/article/009/0005718137",
+          "title": "AI경쟁 다급한 구글 … 공동창업자에 구원투수 맡긴다"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/015/0005318390",
-          "title": "1030 女 푹 빠졌다…'여권폰' 라방서 130억 잭팟 역대급 돌풍 [트렌드+]"
+          "link": "https://n.news.naver.com/mnews/article/031/0001048043",
+          "title": "네이버 \"AI 검색 요약 도입 후 창작자 지원 2배 늘어\""
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/008/0005396418",
-          "title": "가입자 늘고 AI 성장하고…LGU+ 2분기 영업익 3445억 '최대실적'"
+          "link": "https://n.news.naver.com/mnews/article/030/0003455280",
+          "title": "창사 첫 파업까지 갔던 카카오…연봉 6.3% 인상 합의"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/008/0005396546",
-          "title": "KBO에 '갑자기' 돌아온 IOI·워너원까지…CJ ENM 2Q 수익성 개선"
+          "link": "https://n.news.naver.com/mnews/article/293/0000088767",
+          "title": "데브시스터즈, 비용 다이어트에도 2분기 적자…크럼블 3분기 반등 시험대"
         }
       ]
     },
@@ -178,44 +119,40 @@
       "category": "news",
       "data": [
         {
-          "link": "https://n.news.naver.com/mnews/article/215/0001261476",
-          "title": "美 원정출산 막힐까...트럼프 '시민권 부여 금지' 행정명령 서명"
+          "link": "https://n.news.naver.com/mnews/article/015/0005318557",
+          "title": "韓·대만 수출, 日 동반 추월"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/016/0002680663",
-          "title": "이란 매체 “호르무즈 진출입 항로 일시 분리…이후엔 중앙항로로 일원화”"
+          "link": "https://n.news.naver.com/mnews/article/016/0002680643",
+          "title": "트럼프, ‘원정출산 아기 美시민권 차단’ 행정명령 서명[1일1트]"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/421/0009100587",
-          "title": "\"무기 재고 문제 없다더니\"…WP \"트럼프, 국방장관 공개 질책\""
+          "link": "https://n.news.naver.com/mnews/article/032/0003462863",
+          "title": "트럼프, ‘반도체 핵심 원료’ 폴리실리콘 파생상품에 15% 관세"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/056/0012233195",
-          "title": "트럼프, ‘반도체 핵심원료’ 폴리실리콘 산업보호 행정명령"
+          "link": "https://n.news.naver.com/mnews/article/009/0005717718",
+          "title": "호르무즈 60일 개방 막판 기싸움 …\"이란, 통행 수수료 7% 요구\""
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/023/0003991785",
-          "title": "美하원, 정통망법 공개 항의… “언론·표현의 자유 중대한 위협”"
+          "link": "https://n.news.naver.com/mnews/article/001/0016239677",
+          "title": "이란 반체제 매체 \"최고지도자 모즈타바 위독설\""
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/016/0002680642",
-          "title": "이란 협상단장 “무한 반복 쇼 외교”…트럼프의 ‘말바꾸기’ 조롱 [1일1트]"
+          "link": "https://n.news.naver.com/mnews/article/008/0005396743",
+          "title": "美 연준 트럼프 입김 사실로?…\"워시 의장 취임후에도 수시 통화\""
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/437/0000504846",
-          "title": "미국 정가 돌풍 일으킨 한국계 '홍 후보'...트럼프는 \"미쳤냐\" 공격, 왜?"
+          "link": "https://n.news.naver.com/mnews/article/001/0016239462",
+          "title": "\"美, 엔화방어 위해 유로화 팔고 ECB에 사후통보만…관행 깨져\""
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/215/0001261475",
-          "title": "트럼프 \"미군 막대한 탄약 보유...전쟁 곧 끝날 것\""
+          "link": "https://n.news.naver.com/mnews/article/025/0003542954",
+          "title": "후티 총공세에 예멘 휴전 붕괴 위기, 사우디 민간인까지 타격"
         },
         {
-          "link": "https://n.news.naver.com/mnews/article/374/0000526156",
-          "title": "\"예맨반군이 사우디 남부 공격\"…중동 '제 2전선'"
-        },
-        {
-          "link": "https://n.news.naver.com/mnews/article/055/0001378825",
-          "title": "이스라엘, 레바논에 약속했던 철군 거부…미 중재 삐그덕"
+          "link": "https://n.news.naver.com/mnews/article/020/0003739270",
+          "title": "美민주, 트럼프 일가에 30억원 건넨 韓기업 조사 요구…“잠재적 뇌물”"
         }
       ]
     }
