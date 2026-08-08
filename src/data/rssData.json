@@ -7,6 +7,19 @@
       "priority": 1,
       "data": [
         {
+          "creator": "Saminet",
+          "title": "세계 첫 다이아몬드 양자컴퓨터 화제…\"상온에서 작동\"",
+          "link": "https://bbs.ruliweb.com/pc/board/1003/read/2352700",
+          "pubDate": "Sun, 09 Aug 2026 00:49:55 +0900",
+          "author": "Saminet",
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            ""
+          ],
+          "isoDate": "2026-08-08T15:49:55.000Z"
+        },
+        {
           "creator": "이토 시즈카",
           "title": "에이스 컴뱃 8 \"The Art of Aircraft\" 트레일러",
           "link": "https://bbs.ruliweb.com/pc/board/1003/read/2352699",
@@ -356,19 +369,6 @@
             ""
           ],
           "isoDate": "2026-08-08T00:18:51.000Z"
-        },
-        {
-          "creator": "대한제국군",
-          "title": "설마 우리집도?…中공유기, 35초마다 몰래 교신 '발칵'",
-          "link": "https://bbs.ruliweb.com/pc/board/1003/read/2352672",
-          "pubDate": "Sat, 08 Aug 2026 08:50:40 +0900",
-          "author": "대한제국군",
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            ""
-          ],
-          "isoDate": "2026-08-07T23:50:40.000Z"
         }
       ]
     },
@@ -751,6 +751,19 @@
       "priority": 2,
       "data": [
         {
+          "creator": "ＪＪＯＮＧｓ",
+          "title": "EWC 2026 철권8 최종 결과",
+          "link": "https://bbs.ruliweb.com/ps/board/300001/read/2359595",
+          "pubDate": "Sun, 09 Aug 2026 03:45:16 +0900",
+          "author": "ＪＪＯＮＧｓ",
+          "content": "<img width=\"236\" height=\"177\" src=\"https://i2.ruliweb.com/thumb/26/08/09/19fe2c5b37ce970d.webp\">",
+          "contentSnippet": "",
+          "categories": [
+            "정보"
+          ],
+          "isoDate": "2026-08-08T18:45:16.000Z"
+        },
+        {
           "creator": "기본삭제대1",
           "title": "[AC] 아이돌마스터 투어즈 세컨드 스테이지 어트랙트 무비",
           "link": "https://bbs.ruliweb.com/ps/board/300001/read/2359594",
@@ -1100,19 +1113,6 @@
             "제작사"
           ],
           "isoDate": "2026-08-07T14:56:51.000Z"
-        },
-        {
-          "creator": "nokcha",
-          "title": "GTA V 2억 3천만장, 레데리2 8700만장 돌파등 테이크투 판매 실적",
-          "link": "https://bbs.ruliweb.com/ps/board/300001/read/2359555",
-          "pubDate": "Fri, 07 Aug 2026 23:46:45 +0900",
-          "author": "nokcha",
-          "content": "<img width=\"236\" height=\"177\" src=\"https://i1.ruliweb.com/thumb/26/08/07/19fdcaef84e242da.webp\">",
-          "contentSnippet": "",
-          "categories": [
-            "PS5소프트"
-          ],
-          "isoDate": "2026-08-07T14:46:45.000Z"
         }
       ]
     }
@@ -1124,6 +1124,76 @@
       "category": "news",
       "priority": 1,
       "data": [
+        {
+          "title": "“코드는 결코 어려운 부분이 아니었다”는 말은 모든 프로그래머에 대한 모욕이다",
+          "link": "https://news.hada.io/topic?id=32276",
+          "pubDate": "2026-08-08T20:33:36.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>AI가 프로그래밍을 바꾸고 있지만 코딩을 쉬운 작업으로 치부하면, 오랫동안 요구된 <strong>기술·경험·노력</strong>과 소프트웨어가 여전히 버그투성이라는 현실을 무시하게 됨</li>\n<li>무엇을 만들지 결정하고 고객을 이해하는 일도 중요하지만 구현보다 본질적으로 어렵다고 단정할 수 없으며, 개발자마다...</p>",
+          "contentSnippet": "AI가 프로그래밍을 바꾸고 있지만 코딩을 쉬운 작업으로 치부하면, 오랫동안 요구된 기술·경험·노력과 소프트웨어가 여전히 버그투성이라는 현실을 무시하게 됨\n무엇을 만들지 결정하고 고객을 이해하는 일도 중요하지만 구현보다 본질적으로 어렵다고 단정할 수 없으며, 개발자마다...",
+          "id": "https://news.hada.io/topic?id=32276",
+          "isoDate": "2026-08-08T20:33:36.000Z"
+        },
+        {
+          "title": "일부 x86 CPU의 하드웨어 백도어",
+          "link": "https://news.hada.io/topic?id=32275",
+          "pubDate": "2026-08-08T18:37:15.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>project:rosenbridge</strong>는 일부 데스크톱·노트북·임베디드 x86 프로세서에서 사용자 영역 코드가 CPU 보호를 우회해 커널 데이터를 읽고 쓸 수 있는 하드웨어 백도어를 공개함</li>\n<li>백도어는 x86 코어 옆에 내장된 <strong>비(非) x86 코어</strong>로, 특수 명령을 받아 메모리 보호와 권한...</p>",
+          "contentSnippet": "project:rosenbridge는 일부 데스크톱·노트북·임베디드 x86 프로세서에서 사용자 영역 코드가 CPU 보호를 우회해 커널 데이터를 읽고 쓸 수 있는 하드웨어 백도어를 공개함\n백도어는 x86 코어 옆에 내장된 비(非) x86 코어로, 특수 명령을 받아 메모리 보호와 권한...",
+          "id": "https://news.hada.io/topic?id=32275",
+          "isoDate": "2026-08-08T18:37:15.000Z"
+        },
+        {
+          "title": "DeepMind WeatherNext, 사이클론 예측 정확도를 하루 앞당김",
+          "link": "https://news.hada.io/topic?id=32274",
+          "pubDate": "2026-08-08T18:34:15.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>WeatherNext Cyclones</strong>는 경로·강도·바람 구조를 함께 예측하며, 기존 2일 예측과 같은 정확도를 3일 예측에서 달성해 <strong>24시간 이상의 추가 대비 시간</strong>을 확보함</li>\n<li>전 지구 기상 역학과 약 5,000개 폭풍의 관측 자료를 함께 학습해, 전 지구 경로 모델과 고해상도 국지 ...</p>",
+          "contentSnippet": "WeatherNext Cyclones는 경로·강도·바람 구조를 함께 예측하며, 기존 2일 예측과 같은 정확도를 3일 예측에서 달성해 24시간 이상의 추가 대비 시간을 확보함\n전 지구 기상 역학과 약 5,000개 폭풍의 관측 자료를 함께 학습해, 전 지구 경로 모델과 고해상도 국지 ...",
+          "id": "https://news.hada.io/topic?id=32274",
+          "isoDate": "2026-08-08T18:34:15.000Z"
+        },
+        {
+          "title": "대규모 AI 코딩 비용을 관리하는 방법",
+          "link": "https://news.hada.io/topic?id=32273",
+          "pubDate": "2026-08-08T17:39:26.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>AI 코딩은 개발 생산성을 크게 높이지만 사용량과 함께 비용도 기하급수적으로 늘어날 수 있어, <strong>폭넓은 도구 접근성</strong>과 사용자당 예측 가능한 비용을 함께 달성해야 함</li>\n<li>가장 큰 절감 수단은 최고 지능보다 주어진 품질에서 가격 경쟁력이 높은 <strong>효율성 프런티어</strong>를 추...</p>",
+          "contentSnippet": "AI 코딩은 개발 생산성을 크게 높이지만 사용량과 함께 비용도 기하급수적으로 늘어날 수 있어, 폭넓은 도구 접근성과 사용자당 예측 가능한 비용을 함께 달성해야 함\n가장 큰 절감 수단은 최고 지능보다 주어진 품질에서 가격 경쟁력이 높은 효율성 프런티어를 추...",
+          "id": "https://news.hada.io/topic?id=32273",
+          "isoDate": "2026-08-08T17:39:26.000Z"
+        },
+        {
+          "title": "미국 에너지부, 과학용 오픈 모델 이니셔티브 출범",
+          "link": "https://news.hada.io/topic?id=32272",
+          "pubDate": "2026-08-08T17:36:26.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>미국 에너지부(DOE)가 과학 연구를 위한 <strong>오픈 가중치 기반 모델</strong> 생태계를 구축하며, 첫 모델 Genesis-Science-1을 Arcee AI와 공동 개발함</li>\n<li>Genesis 모델은 재료·에너지·지구 시스템, 핵융합, 생물학, 고에너지 물리학 등에 적용할 수 있는 <strong>투명하고 확장 가능한 공용 AI 인프...</p>",
+          "contentSnippet": "미국 에너지부(DOE)가 과학 연구를 위한 오픈 가중치 기반 모델 생태계를 구축하며, 첫 모델 Genesis-Science-1을 Arcee AI와 공동 개발함\nGenesis 모델은 재료·에너지·지구 시스템, 핵융합, 생물학, 고에너지 물리학 등에 적용할 수 있는 투명하고 확장 가능한 공용 AI 인프...",
+          "id": "https://news.hada.io/topic?id=32272",
+          "isoDate": "2026-08-08T17:36:26.000Z"
+        },
+        {
+          "title": "AI 시험지는 함정이 9할이다 - LLM 테스트 케이스 설계법",
+          "link": "https://news.hada.io/topic?id=32270",
+          "pubDate": "2026-08-08T14:55:47.000Z",
+          "author": "ramses203",
+          "content": "<p>주문 메시지를 읽는 LLM 파이프라인을 검증하려고 테스트 29개를 만들었는데, 그 중 정상 케이스는 4개뿐입니다. 나머지는 전부 함정입니다.</p>\n<ul>\n<li>제일 많은 그룹은 &quot;주문이 아닌 것&quot; 6개. 상품명과 숫자가 다 있는 단순 문의를 주문으로 잡으면 안 시킨 물건이 출고됩니다</li>\n<li>문제만 어렵게",
+          "contentSnippet": "주문 메시지를 읽는 LLM 파이프라인을 검증하려고 테스트 29개를 만들었는데, 그 중 정상 케이스는 4개뿐입니다. 나머지는 전부 함정입니다.\n제일 많은 그룹은 \"주문이 아닌 것\" 6개. 상품명과 숫자가 다 있는 단순 문의를 주문으로 잡으면 안 시킨 물건이 출고됩니다\n문제만 어렵게",
+          "id": "https://news.hada.io/topic?id=32270",
+          "isoDate": "2026-08-08T14:55:47.000Z"
+        },
+        {
+          "title": "NASA, 48년 된 Voyager 2를 1년 더 가동할 전력 확보",
+          "link": "https://news.hada.io/topic?id=32269",
+          "pubDate": "2026-08-08T14:31:52.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>NASA는 <strong>비과학 장비를 끄고 저전력 대체 장치를 적용</strong>해 Voyager 2의 과학 장비 3개를 최소 1년 더 운용할 전력을 확보함</li>\n<li>플루토늄 붕괴열을 이용하는 방사성동위원소 열전기 발전기의 가용 전력은 우주선마다 매년 약 <strong>4W씩 감소</strong>함</li>\n<li>전력 부족으로 Voyager ...</p>",
+          "contentSnippet": "NASA는 비과학 장비를 끄고 저전력 대체 장치를 적용해 Voyager 2의 과학 장비 3개를 최소 1년 더 운용할 전력을 확보함\n플루토늄 붕괴열을 이용하는 방사성동위원소 열전기 발전기의 가용 전력은 우주선마다 매년 약 4W씩 감소함\n전력 부족으로 Voyager ...",
+          "id": "https://news.hada.io/topic?id=32269",
+          "isoDate": "2026-08-08T14:31:52.000Z"
+        },
         {
           "title": "Show GN: Toolio - 파일 업로드 없이 도는 무료 웹툴 190개 넘게 만들었습니다.",
           "link": "https://news.hada.io/topic?id=32267",
@@ -1553,76 +1623,6 @@
           "contentSnippet": "Python의 raw 문자열 리터럴도 일반 문자열처럼 어휘 분석되므로 끝에 홀수 개의 백슬래시를 둘 수 없음\nr'asdf\\'는 마지막 따옴표가 종료 문자로 처리되지 않아 문법 오류가 되지만, r'asdf\\''는 유효하며 문자열 내용은 asdf\\'가 됨\n...",
           "id": "https://news.hada.io/topic?id=32220",
           "isoDate": "2026-08-07T00:08:14.000Z"
-        },
-        {
-          "title": "tl;dv(Too Lazy; Didn&#039;t Validate): 회의 181,874건이 무방비로 노출",
-          "link": "https://news.hada.io/topic?id=32219",
-          "pubDate": "2026-08-07T00:05:13.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>AI 회의 기록 플랫폼 <strong>tl;dv</strong>의 Firestore <code>meetings</code> 컬렉션에서 테넌트 격리가 빠져, 무료 계정으로 다른 사용자의 회의 메타데이터와 실시간 통화 ID를 조회할 수 있었음</li>\n<li>레코드에는 생성자 이메일, Google Meet·Teams 회의 ID, 제공자, 녹화 상태, 시간이 담겼으며, 한...</p>",
-          "contentSnippet": "AI 회의 기록 플랫폼 tl;dv의 Firestore meetings 컬렉션에서 테넌트 격리가 빠져, 무료 계정으로 다른 사용자의 회의 메타데이터와 실시간 통화 ID를 조회할 수 있었음\n레코드에는 생성자 이메일, Google Meet·Teams 회의 ID, 제공자, 녹화 상태, 시간이 담겼으며, 한...",
-          "id": "https://news.hada.io/topic?id=32219",
-          "isoDate": "2026-08-07T00:05:13.000Z"
-        },
-        {
-          "title": "LLM은 ‘점프’할 수 없다",
-          "link": "https://news.hada.io/topic?id=32218",
-          "pubDate": "2026-08-06T23:32:15.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>현재 생성형 AI는 데이터에서 규칙을 찾는 <strong>귀납(Induction)</strong> 과 주어진 공리에서 결과를 도출하는 <strong>연역(Deduction)</strong> 은 빠르게 기계화하고 있지만, 감각 경험에서 새로운 설명과 공리로 넘어가는 <strong>귀추(Abduction)</strong> 의 ‘점프’는 수행하지 못한다는 입장임</l...</p>",
-          "contentSnippet": "현재 생성형 AI는 데이터에서 규칙을 찾는 귀납(Induction) 과 주어진 공리에서 결과를 도출하는 연역(Deduction) 은 빠르게 기계화하고 있지만, 감각 경험에서 새로운 설명과 공리로 넘어가는 귀추(Abduction) 의 ‘점프’는 수행하지 못한다는 입장임",
-          "id": "https://news.hada.io/topic?id=32218",
-          "isoDate": "2026-08-06T23:32:15.000Z"
-        },
-        {
-          "title": "Alphabet을 떠나는 Jeff Dean",
-          "link": "https://news.hada.io/topic?id=32217",
-          "pubDate": "2026-08-06T22:37:50.000Z",
-          "author": "neo",
-          "content": "Alphabet을 떠나는 Jeff Dean",
-          "contentSnippet": "Alphabet을 떠나는 Jeff Dean",
-          "id": "https://news.hada.io/topic?id=32217",
-          "isoDate": "2026-08-06T22:37:50.000Z"
-        },
-        {
-          "title": "Qwen3.8 Max, Agentic Index 종합 1위",
-          "link": "https://news.hada.io/topic?id=32216",
-          "pubDate": "2026-08-06T22:34:50.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>Qwen3.8 Max</strong>가 도구 사용·계획·자율성·복합 문제 해결을 측정하는 Artificial Analysis <strong>Agentic Index</strong>에서 종합 최고 모델로 평가됨</li>\n<li>Agentic Index는 특정 역량과 산업별 성능을 측정하는 Capability Indices 중 하나로, 총 <strong>24개 모델</strong>을 비교함...</p>",
-          "contentSnippet": "Qwen3.8 Max가 도구 사용·계획·자율성·복합 문제 해결을 측정하는 Artificial Analysis Agentic Index에서 종합 최고 모델로 평가됨\nAgentic Index는 특정 역량과 산업별 성능을 측정하는 Capability Indices 중 하나로, 총 24개 모델을 비교함...",
-          "id": "https://news.hada.io/topic?id=32216",
-          "isoDate": "2026-08-06T22:34:50.000Z"
-        },
-        {
-          "title": "GitHub Actions 및 Pages 대규모 장애 발생",
-          "link": "https://news.hada.io/topic?id=32215",
-          "pubDate": "2026-08-06T22:29:59.000Z",
-          "author": "idisid1",
-          "content": "<p><a href=\"https://www.githubstatus.com/incidents/qcvjkzcs7j74\">GitHub Actions와 GitHub Pages가 6시간 이상 대규모 장애 및 성능 저하를 겪었습니다.</a> 워크플로우 실행 실패, 대기열 체증, 웹훅 처리 제약뿐만 아니라 자체 호스팅 러너까지 정상 작동하지 않으면서 글로벌 개발 공정이 차단되었습니다.</p>\n<h",
-          "contentSnippet": "GitHub Actions와 GitHub Pages가 6시간 이상 대규모 장애 및 성능 저하를 겪었습니다. 워크플로우 실행 실패, 대기열 체증, 웹훅 처리 제약뿐만 아니라 자체 호스팅 러너까지 정상 작동하지 않으면서 글로벌 개발 공정이 차단되었습니다.\n<h",
-          "id": "https://news.hada.io/topic?id=32215",
-          "isoDate": "2026-08-06T22:29:59.000Z"
-        },
-        {
-          "title": "내슈빌, 동물원 인근 데이터센터 막기 위해 토지수용권 행사",
-          "link": "https://news.hada.io/topic?id=32214",
-          "pubDate": "2026-08-06T20:32:45.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>동물과 주변 환경에 미칠 영향을 둘러싼 반대가 커지자, 내슈빌 광역의회가 <strong>DC Blox 데이터센터 부지 수용</strong>을 추진할 권한을 시장에게 부여함</li>\n<li>안건은 <strong>27대 5</strong>로 통과됐으며, Freddie O’Connell 시장은 부지 매입을 위한 법적 절차와 공공 활용 계획을 진행할 예정임...</p>",
-          "contentSnippet": "동물과 주변 환경에 미칠 영향을 둘러싼 반대가 커지자, 내슈빌 광역의회가 DC Blox 데이터센터 부지 수용을 추진할 권한을 시장에게 부여함\n안건은 27대 5로 통과됐으며, Freddie O’Connell 시장은 부지 매입을 위한 법적 절차와 공공 활용 계획을 진행할 예정임...",
-          "id": "https://news.hada.io/topic?id=32214",
-          "isoDate": "2026-08-06T20:32:45.000Z"
-        },
-        {
-          "title": "Muse Code와 Muse Spark 1.2 공개",
-          "link": "https://news.hada.io/topic?id=32213",
-          "pubDate": "2026-08-06T19:31:55.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Meta가 대규모 저장소에서 계획 수립부터 코드 작성·검증까지 수행하는 터미널 코딩 에이전트 <strong>Muse Code 베타</strong>와 기반 모델 <strong>Muse Spark 1.2</strong>를 공개함</li>\n<li>세션 내내 유지되는 여러 <strong>비동기 백그라운드 에이전트</strong>가 정보 수집과 후속 작업을 분담해 지연과...</p>",
-          "contentSnippet": "Meta가 대규모 저장소에서 계획 수립부터 코드 작성·검증까지 수행하는 터미널 코딩 에이전트 Muse Code 베타와 기반 모델 Muse Spark 1.2를 공개함\n세션 내내 유지되는 여러 비동기 백그라운드 에이전트가 정보 수집과 후속 작업을 분담해 지연과...",
-          "id": "https://news.hada.io/topic?id=32213",
-          "isoDate": "2026-08-06T19:31:55.000Z"
         }
       ]
     }
