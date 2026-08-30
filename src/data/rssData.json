@@ -7,6 +7,19 @@
       "priority": 1,
       "data": [
         {
+          "creator": "@Crash@",
+          "title": "Pump it up 2026 Phoenix 2 정식 가동",
+          "link": "https://bbs.ruliweb.com/pc/board/1003/read/2354170",
+          "pubDate": "Mon, 31 Aug 2026 07:43:06 +0900",
+          "author": "@Crash@",
+          "content": "<img width=\"236\" height=\"177\" src=\"https://i2.ruliweb.com/thumb/26/08/31/1a054d3f9ea2cc39.webp\">",
+          "contentSnippet": "",
+          "categories": [
+            ""
+          ],
+          "isoDate": "2026-08-30T22:43:06.000Z"
+        },
+        {
           "creator": "Fancysquare",
           "title": "상상을 넘어선 죄의 순간들, 어떤 판단을 하시겠습니까?-마이클 테스트 텀블벅예정",
           "link": "https://bbs.ruliweb.com/pc/board/1003/read/2354169",
@@ -356,19 +369,6 @@
             ""
           ],
           "isoDate": "2026-08-30T05:40:07.000Z"
-        },
-        {
-          "creator": "ComShepard",
-          "title": "드래곤소드: 어웨이크닝 - 1.0.11 업데이트 예고",
-          "link": "https://bbs.ruliweb.com/pc/board/1003/read/2354142",
-          "pubDate": "Sun, 30 Aug 2026 14:29:35 +0900",
-          "author": "ComShepard",
-          "content": "<img width=\"236\" height=\"177\" src=\"https://i1.ruliweb.com/thumb/26/08/30/1a0512453e015e737.webp\">",
-          "contentSnippet": "",
-          "categories": [
-            ""
-          ],
-          "isoDate": "2026-08-30T05:29:35.000Z"
         }
       ]
     },
@@ -751,6 +751,19 @@
       "priority": 2,
       "data": [
         {
+          "creator": "로메오카이",
+          "title": "금일 하츠네 미쿠 탄생일 19주년 맞이",
+          "link": "https://bbs.ruliweb.com/ps/board/300001/read/2361090",
+          "pubDate": "Mon, 31 Aug 2026 07:13:35 +0900",
+          "author": "로메오카이",
+          "content": "<img width=\"236\" height=\"177\" src=\"https://i2.ruliweb.com/thumb/26/08/31/1a054ba64c54d4df1.webp\">",
+          "contentSnippet": "",
+          "categories": [
+            "정보"
+          ],
+          "isoDate": "2026-08-30T22:13:35.000Z"
+        },
+        {
           "creator": "Taliss",
           "title": "GTA6 출시로 인해 마이애미 공항명칭을 바이스 시티 공항으로 변경 추진",
           "link": "https://bbs.ruliweb.com/ps/board/300001/read/2361089",
@@ -1100,19 +1113,6 @@
             "루머"
           ],
           "isoDate": "2026-08-30T01:01:38.000Z"
-        },
-        {
-          "creator": "스텔라이비",
-          "title": "007 개발자, \"GTA 6, NPC 기술력으로 업계 10년 앞서\"",
-          "link": "https://bbs.ruliweb.com/ps/board/300001/read/2361057",
-          "pubDate": "Sun, 30 Aug 2026 09:42:46 +0900",
-          "author": "스텔라이비",
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "PS5소프트"
-          ],
-          "isoDate": "2026-08-30T00:42:46.000Z"
         }
       ]
     }
@@ -1125,12 +1125,42 @@
       "priority": 1,
       "data": [
         {
-          "title": "스마트 TV가 PC를 통해 소프트웨어를 설치하지 못하게 막는 방법",
+          "title": "TwelveLabs Jockey로 강의 검수 파이프라인 만들기, 한 달 실측기",
+          "link": "https://news.hada.io/topic?id=33045",
+          "pubDate": "2026-08-30T22:01:39.000Z",
+          "author": "chessire",
+          "content": "<ul>\n<li>인프런 강의 18편(편당 5~25분) 제작에서 병목은 촬영이 아니라 검수였음. 딜리버리(말 끊김·톤 점프), 편집 요소(강조 표시와 발화 일치), 페이싱을 각각 봐야 해서 편집본 하나당 최소 2회 정주행, 전체로는 10시간 이상</li>\n<li>더 큰 문제는 제작자가 자기 영상의 이음새 위치를 전부 안다는 것. 객관적인...</p>",
+          "contentSnippet": "인프런 강의 18편(편당 5~25분) 제작에서 병목은 촬영이 아니라 검수였음. 딜리버리(말 끊김·톤 점프), 편집 요소(강조 표시와 발화 일치), 페이싱을 각각 봐야 해서 편집본 하나당 최소 2회 정주행, 전체로는 10시간 이상\n더 큰 문제는 제작자가 자기 영상의 이음새 위치를 전부 안다는 것. 객관적인...",
+          "id": "https://news.hada.io/topic?id=33045",
+          "isoDate": "2026-08-30T22:01:39.000Z"
+        },
+        {
+          "title": "유럽연합 집행위원회, ProtectEU 전략으로 암호화 백도어 추진 재개",
+          "link": "https://news.hada.io/topic?id=33044",
+          "pubDate": "2026-08-30T20:31:40.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>EU 집행위원회의 내부 보안 전략 <strong>ProtectEU</strong>는 구체적인 정책안보다 여러 해에 걸친 비전과 작업 계획을 제시하며, 법 집행기관의 암호화 데이터 접근을 추진함</li>\n<li>적대 국가와 범죄 조직, 테러리스트, 사이버 범죄, 핵심 인프라 공격에 대응할 6개 영역 중 하나로 <strong>법 집행 도구...</p>",
+          "contentSnippet": "EU 집행위원회의 내부 보안 전략 ProtectEU는 구체적인 정책안보다 여러 해에 걸친 비전과 작업 계획을 제시하며, 법 집행기관의 암호화 데이터 접근을 추진함\n적대 국가와 범죄 조직, 테러리스트, 사이버 범죄, 핵심 인프라 공격에 대응할 6개 영역 중 하나로 법 집행 도구...",
+          "id": "https://news.hada.io/topic?id=33044",
+          "isoDate": "2026-08-30T20:31:40.000Z"
+        },
+        {
+          "title": "Omarchy의 모든 사용자 프로세스가 root 권한을 얻을 수 있었던 취약점",
+          "link": "https://news.hada.io/topic?id=33043",
+          "pubDate": "2026-08-30T19:32:40.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Omarchy의 기본 Docker 설정 때문에 데스크톱 세션의 사실상 모든 프로그램이 <strong>암호·sudo·권한 확인 없이 root 권한</strong>을 얻을 수 있었으며, 비공개 제보 후 수정됨</li>\n<li>기본 사용자를 Linux <code>docker</code> 그룹에 추가해 root Docker 데몬의 소켓에 접근시킨 것이 원인으로, 호스트 파...</p>",
+          "contentSnippet": "Omarchy의 기본 Docker 설정 때문에 데스크톱 세션의 사실상 모든 프로그램이 암호·sudo·권한 확인 없이 root 권한을 얻을 수 있었으며, 비공개 제보 후 수정됨\n기본 사용자를 Linux docker 그룹에 추가해 root Docker 데몬의 소켓에 접근시킨 것이 원인으로, 호스트 파...",
+          "id": "https://news.hada.io/topic?id=33043",
+          "isoDate": "2026-08-30T19:32:40.000Z"
+        },
+        {
+          "title": "오프라인 LG TV를 연결했을 때 Windows의 제조사 앱 설치를 막는 방법",
           "link": "https://news.hada.io/topic?id=33042",
           "pubDate": "2026-08-30T17:32:31.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>Windows 11 PC에 LG TV를 연결한 뒤 McAfee 등 요청하지 않은 앱이 설치된 경험은 <strong>디스플레이 드라이버 자동 설치</strong>가 사용자 통제권을 침해할 수 있음을 보여줌</li>\n<li>HDMI와 DisplayPort의 <strong>EDID</strong>는 제조사·모델·해상도·일련번호를 운영체제에 전달하며, Windows는 이를 바...</p>",
-          "contentSnippet": "Windows 11 PC에 LG TV를 연결한 뒤 McAfee 등 요청하지 않은 앱이 설치된 경험은 디스플레이 드라이버 자동 설치가 사용자 통제권을 침해할 수 있음을 보여줌\nHDMI와 DisplayPort의 EDID는 제조사·모델·해상도·일련번호를 운영체제에 전달하며, Windows는 이를 바...",
+          "content": "<ul>\n<li>인터넷을 끊어둔 LG TV를 Windows PC에 HDMI로 연결하자, Windows Update를 통해 <strong>LG용 동반 앱이 설치되고 McAfee 같은 추가 소프트웨어의 광고와 설치 제안</strong>이 나타남</li>\n<li>TV가 보내는 <strong>EDID는 제조사, 모델, 해상도 같은 식별 정보</strong>일 뿐이지만, Windows가 이를 장치 메...</p>",
+          "contentSnippet": "인터넷을 끊어둔 LG TV를 Windows PC에 HDMI로 연결하자, Windows Update를 통해 LG용 동반 앱이 설치되고 McAfee 같은 추가 소프트웨어의 광고와 설치 제안이 나타남\nTV가 보내는 EDID는 제조사, 모델, 해상도 같은 식별 정보일 뿐이지만, Windows가 이를 장치 메...",
           "id": "https://news.hada.io/topic?id=33042",
           "isoDate": "2026-08-30T17:32:31.000Z"
         },
@@ -1593,36 +1623,6 @@
           "contentSnippet": "Z.ai가 복잡한 코딩과 장기 에이전트 작업을 강화한 GLM-5.3의 가중치를 공개해, 자체 환경에 배포하거나 목적에 맞게 미세 조정할 수 있게 함\nGLM-5.2와 동일한 기반 모델을 사용하면서 후속 학습만으로 성능을 개선했으며, 자체 Z.ai Code Bench에서 이전 모델 대...",
           "id": "https://news.hada.io/topic?id=32989",
           "isoDate": "2026-08-28T19:37:26.000Z"
-        },
-        {
-          "title": "Zohran과 짧은 링크",
-          "link": "https://news.hada.io/topic?id=32988",
-          "pubDate": "2026-08-28T18:35:16.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>시민 참여가 필요한 프로젝트·행사 영상은 <code>nyc.gov/{initiative}</code> 형태의 <strong>짧은 최상위 링크</strong>로 마무리함</li>\n<li>기억하기 쉬운 URL이 <strong>시정 참여와 후속 행동</strong>의 문턱을 낮춤</li>\n<li>소셜미디어 이용자를 NYC가 직접 소유·운영하는 <strong>단일 웹사이트</str...</p>",
-          "contentSnippet": "시민 참여가 필요한 프로젝트·행사 영상은 nyc.gov/{initiative} 형태의 짧은 최상위 링크로 마무리함\n기억하기 쉬운 URL이 시정 참여와 후속 행동의 문턱을 낮춤\n소셜미디어 이용자를 NYC가 직접 소유·운영하는 단일 웹사이트",
-          "id": "https://news.hada.io/topic?id=32988",
-          "isoDate": "2026-08-28T18:35:16.000Z"
-        },
-        {
-          "title": "미 법원, 국방부의 Anthropic 블랙리스트 지정은 불법이라고 판결",
-          "link": "https://news.hada.io/topic?id=32987",
-          "pubDate": "2026-08-28T18:32:16.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>캘리포니아 연방법원은 Trump 행정부가 Anthropic을 <strong>국가안보 위험 기업</strong>으로 지정하고 미국 정부 업무에서 배제한 조치가 불법이며, 헌법이 보호하는 표현 활동에 대한 보복이라고 판결함</li>\n<li>Anthropic은 미 국방부와의 <strong>2억 달러 규모 AI 계약</strong> 협상에서 자사 기술을 미...</p>",
-          "contentSnippet": "캘리포니아 연방법원은 Trump 행정부가 Anthropic을 국가안보 위험 기업으로 지정하고 미국 정부 업무에서 배제한 조치가 불법이며, 헌법이 보호하는 표현 활동에 대한 보복이라고 판결함\nAnthropic은 미 국방부와의 2억 달러 규모 AI 계약 협상에서 자사 기술을 미...",
-          "id": "https://news.hada.io/topic?id=32987",
-          "isoDate": "2026-08-28T18:32:16.000Z"
-        },
-        {
-          "title": "미 법원, 국방부의 Anthropic 블랙리스트 지정은 위법",
-          "link": "https://news.hada.io/topic?id=32986",
-          "pubDate": "2026-08-28T17:36:57.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>미국 연방법원이 Claude의 군사적 이용 제한을 둘러싼 갈등에서 국방부의 <strong>Anthropic 블랙리스트 지정</strong>을 차단함</li>\n<li>리타 린 판사는 59쪽 명령문에서 국가안보 공급망 위험 지정을 “<strong>위법하고 근거 없다</strong>”고 판단하고, 국가안보를 정부 비판자 처벌에 이용할 수 없다고 ...</p>",
-          "contentSnippet": "미국 연방법원이 Claude의 군사적 이용 제한을 둘러싼 갈등에서 국방부의 Anthropic 블랙리스트 지정을 차단함\n리타 린 판사는 59쪽 명령문에서 국가안보 공급망 위험 지정을 “위법하고 근거 없다”고 판단하고, 국가안보를 정부 비판자 처벌에 이용할 수 없다고 ...",
-          "id": "https://news.hada.io/topic?id=32986",
-          "isoDate": "2026-08-28T17:36:57.000Z"
         }
       ]
     }
