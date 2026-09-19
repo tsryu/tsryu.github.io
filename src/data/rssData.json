@@ -8,6 +8,19 @@
       "data": [
         {
           "creator": "민초맛돈까스",
+          "title": "트릭컬, PC 클라이언트 준비 중",
+          "link": "https://bbs.ruliweb.com/pc/board/1003/read/2355653",
+          "pubDate": "Sun, 20 Sep 2026 02:57:32 +0900",
+          "author": "민초맛돈까스",
+          "content": "<img width=\"236\" height=\"177\" src=\"https://i2.ruliweb.com/thumb/26/09/20/1a0bacfd3da53a69d.webp\">",
+          "contentSnippet": "",
+          "categories": [
+            ""
+          ],
+          "isoDate": "2026-09-19T17:57:32.000Z"
+        },
+        {
+          "creator": "민초맛돈까스",
           "title": "'발더스 게이트3' 지금이니? 팬 모드, 새 지역 베타 공개",
           "link": "https://bbs.ruliweb.com/pc/board/1003/read/2355652",
           "pubDate": "Sat, 19 Sep 2026 23:38:24 +0900",
@@ -356,19 +369,6 @@
             ""
           ],
           "isoDate": "2026-09-19T04:55:33.000Z"
-        },
-        {
-          "creator": "아타호-_-",
-          "title": "[하스스톤] 신규 흑마법사 전설 타락자 자카이즈 공개",
-          "link": "https://bbs.ruliweb.com/pc/board/1003/read/2355625",
-          "pubDate": "Sat, 19 Sep 2026 13:03:22 +0900",
-          "author": "아타호-_-",
-          "content": "<img width=\"236\" height=\"177\" src=\"https://i1.ruliweb.com/thumb/26/09/19/1a0b7e8192b1874ce.webp\">",
-          "contentSnippet": "",
-          "categories": [
-            ""
-          ],
-          "isoDate": "2026-09-19T04:03:22.000Z"
         }
       ]
     },
@@ -751,6 +751,19 @@
       "priority": 2,
       "data": [
         {
+          "creator": "로메오카이",
+          "title": "길티기어 스트라이브 캐릭터 매치업 테마 4곡이 게임에 추가 예정!",
+          "link": "https://bbs.ruliweb.com/ps/board/300001/read/2363042",
+          "pubDate": "Sun, 20 Sep 2026 06:15:55 +0900",
+          "author": "로메오카이",
+          "content": "<img width=\"236\" height=\"177\" src=\"https://i1.ruliweb.com/thumb/26/09/20/1a0bb85935d4d4df1.webp\">",
+          "contentSnippet": "",
+          "categories": [
+            "PS5소프트"
+          ],
+          "isoDate": "2026-09-19T21:15:55.000Z"
+        },
+        {
           "creator": "이토 시즈카",
           "title": "하늘의 궤적 the 1st, 1주년 기념 월페이퍼",
           "link": "https://bbs.ruliweb.com/ps/board/300001/read/2363041",
@@ -1100,19 +1113,6 @@
             "인터뷰"
           ],
           "isoDate": "2026-09-19T04:53:55.000Z"
-        },
-        {
-          "creator": "로메오카이",
-          "title": "멜티 블러드: 트와이 루미나 추가 스크린 샷 공개",
-          "link": "https://bbs.ruliweb.com/ps/board/300001/read/2363010",
-          "pubDate": "Sat, 19 Sep 2026 13:44:07 +0900",
-          "author": "로메오카이",
-          "content": "<img width=\"236\" height=\"177\" src=\"https://i3.ruliweb.com/thumb/26/09/19/1a0b82993784d4df1.webp\">",
-          "contentSnippet": "",
-          "categories": [
-            "PS5소프트"
-          ],
-          "isoDate": "2026-09-19T04:44:07.000Z"
         }
       ]
     }
@@ -1124,6 +1124,66 @@
       "category": "news",
       "priority": 1,
       "data": [
+        {
+          "title": "TIN - Postgres용 전문 검색",
+          "link": "https://news.hada.io/topic?id=33955",
+          "pubDate": "2026-09-19T21:42:22.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>PlanetScale이 Postgres 전문 검색 확장 <strong>TIN(Text INdex)</strong> 을 정식 출시함. PlanetScale의 모든 Postgres 및 Neki 데이터베이스에서 사용할 수 있음</li>\n<li><strong>불리언/구문/스팬 검색</strong>, 퍼지/와일드카드/정규식 매칭부터 <code>COUNT(*)</code>와 <strong>BM25 상위 결과 검색...</p>",
+          "contentSnippet": "PlanetScale이 Postgres 전문 검색 확장 TIN(Text INdex) 을 정식 출시함. PlanetScale의 모든 Postgres 및 Neki 데이터베이스에서 사용할 수 있음\n불리언/구문/스팬 검색, 퍼지/와일드카드/정규식 매칭부터 COUNT(*)와 BM25 상위 결과 검색...",
+          "id": "https://news.hada.io/topic?id=33955",
+          "isoDate": "2026-09-19T21:42:22.000Z"
+        },
+        {
+          "title": "과학은 오픈 소프트웨어다",
+          "link": "https://news.hada.io/topic?id=33954",
+          "pubDate": "2026-09-19T20:42:22.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>현대 과학, 적어도 <strong>계산과학에서 오픈소스 소프트웨어는 과학 그 자체</strong>임. 소프트웨어는 예측 모델을 실행 가능한 형태로 담고 공유하는 수단이기 때문임</li>\n<li><strong>재현성</strong>은 같은 결과를 반복하는 데 그치지 않음. 다른 사람이 과학적 아이디어를 자신의 모델에 통합하고, 검...</p>",
+          "contentSnippet": "현대 과학, 적어도 계산과학에서 오픈소스 소프트웨어는 과학 그 자체임. 소프트웨어는 예측 모델을 실행 가능한 형태로 담고 공유하는 수단이기 때문임\n재현성은 같은 결과를 반복하는 데 그치지 않음. 다른 사람이 과학적 아이디어를 자신의 모델에 통합하고, 검...",
+          "id": "https://news.hada.io/topic?id=33954",
+          "isoDate": "2026-09-19T20:42:22.000Z"
+        },
+        {
+          "title": "Xcode 27.1 베타 릴리스 노트",
+          "link": "https://news.hada.io/topic?id=33953",
+          "pubDate": "2026-09-19T18:42:23.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>Xcode 27.1 베타</strong>는 Swift 6.4와 iOS 27.1 등 각 플랫폼 SDK를 포함하며, 실행하려면 <strong>macOS Tahoe 26.6 이상</strong>이 필요함</li>\n<li>미리보기 캔버스의 설정 재정의 선택기에 <strong>Display 그룹</strong>이 추가되어 기기의 다른 디스플레이에서 콘텐츠를 미리 볼 수 있음</li...</p>",
+          "contentSnippet": "Xcode 27.1 베타는 Swift 6.4와 iOS 27.1 등 각 플랫폼 SDK를 포함하며, 실행하려면 macOS Tahoe 26.6 이상이 필요함\n미리보기 캔버스의 설정 재정의 선택기에 Display 그룹이 추가되어 기기의 다른 디스플레이에서 콘텐츠를 미리 볼 수 있음",
+          "id": "https://news.hada.io/topic?id=33953",
+          "isoDate": "2026-09-19T18:42:23.000Z"
+        },
+        {
+          "title": "Microsoft, 네가 싫다",
+          "link": "https://news.hada.io/topic?id=33952",
+          "pubDate": "2026-09-19T18:42:22.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>대학 <strong>기관 계정</strong>으로 PowerPoint 문서를 열었지만, “이 계정으로는 Mac에서 편집할 수 없다”는 안내를 받아 편집이 막힘</li>\n<li>대학이 Microsoft와 <strong>수십만 유로 규모로 추정되는 계약</strong>을 맺고도 Mac에서 편집하지 못하는 상황에 강한 불만을 드러냄</li>\n<li>이러한 <str...</p>",
+          "contentSnippet": "대학 기관 계정으로 PowerPoint 문서를 열었지만, “이 계정으로는 Mac에서 편집할 수 없다”는 안내를 받아 편집이 막힘\n대학이 Microsoft와 수십만 유로 규모로 추정되는 계약을 맺고도 Mac에서 편집하지 못하는 상황에 강한 불만을 드러냄\n이러한",
+          "id": "https://news.hada.io/topic?id=33952",
+          "isoDate": "2026-09-19T18:42:22.000Z"
+        },
+        {
+          "title": "외국 중앙은행과 정부에 매력을 잃은 미국 국채",
+          "link": "https://news.hada.io/topic?id=33951",
+          "pubDate": "2026-09-19T17:52:23.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>외국 중앙은행과 정부의 미국 국채 보유액이 2026년 7월 <strong>3조 7,700억 달러</strong>로 줄었으며, 시장성 국채 잔액에서 차지하는 비중은 <strong>12.8%</strong> 로 1993년 이후 최저치를 기록함</li>\n<li>미국의 막대한 재정적자 조달은 <strong>외국 공공부문 의존도가 낮아지는 대신</strong>, 미국...</p>",
+          "contentSnippet": "외국 중앙은행과 정부의 미국 국채 보유액이 2026년 7월 3조 7,700억 달러로 줄었으며, 시장성 국채 잔액에서 차지하는 비중은 12.8% 로 1993년 이후 최저치를 기록함\n미국의 막대한 재정적자 조달은 외국 공공부문 의존도가 낮아지는 대신, 미국...",
+          "id": "https://news.hada.io/topic?id=33951",
+          "isoDate": "2026-09-19T17:52:23.000Z"
+        },
+        {
+          "title": "가장 중요한 제품 결정은 무엇을 만들지 않을 것인가",
+          "link": "https://news.hada.io/topic?id=33950",
+          "pubDate": "2026-09-19T17:52:22.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>소비자용 금융 앱의 <strong>문서 허브와 알림 센터</strong>는 단순한 요구에서 출발해 복잡한 범용 플랫폼으로 커지며, 조직의 부담을 사용자에게 떠넘길 수 있음</li>\n<li>기능 추가를 재고하게 만드는 데는 초기 개발비보다 <strong>수년에 걸친 운영 비용</strong>을 보여주는 것이 효과적임</li>\n<li>고객...</p>",
+          "contentSnippet": "소비자용 금융 앱의 문서 허브와 알림 센터는 단순한 요구에서 출발해 복잡한 범용 플랫폼으로 커지며, 조직의 부담을 사용자에게 떠넘길 수 있음\n기능 추가를 재고하게 만드는 데는 초기 개발비보다 수년에 걸친 운영 비용을 보여주는 것이 효과적임\n고객...",
+          "id": "https://news.hada.io/topic?id=33950",
+          "isoDate": "2026-09-19T17:52:22.000Z"
+        },
         {
           "title": "Stallman: 수천 명 사망, 수백만 명의 자유 박탈 (2001)",
           "link": "https://news.hada.io/topic?id=33949",
@@ -1563,66 +1623,6 @@
           "contentSnippet": "사용자가 제공한 문서와 새로운 정보를 매번 프롬프트로 읽는 대신, 모델의 가중치 조정값으로 변환해 활용하는 연구\n기존 모델은 고정하고 하이퍼네트워크로 작은 가중치 변화량을 만들며, 대화가 이어질수록 어떤 조정값이 필요한지 판단을 갱신함\nQwen...",
           "id": "https://news.hada.io/topic?id=33899",
           "isoDate": "2026-09-18T15:42:19.000Z"
-        },
-        {
-          "title": "Warren Buffett, Berkshire 이사회 의장직에서 물러나고 아들을 후임으로 지명",
-          "link": "https://news.hada.io/topic?id=33898",
-          "pubDate": "2026-09-18T15:42:17.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>Warren Buffett</strong>이 Berkshire Hathaway 회장직에서 즉시 물러나 명예회장으로 이사회에 남고, 아들 <strong>Howard G. Buffett</strong>이 회장직을 이어받음</li>\n<li>오랫동안 준비한 <strong>경영진 승계</strong>의 후속 단계로, Buffett은 2025년 말 최고경영자 자리에서 물러났으며 오랜...</p>",
-          "contentSnippet": "Warren Buffett이 Berkshire Hathaway 회장직에서 즉시 물러나 명예회장으로 이사회에 남고, 아들 Howard G. Buffett이 회장직을 이어받음\n오랫동안 준비한 경영진 승계의 후속 단계로, Buffett은 2025년 말 최고경영자 자리에서 물러났으며 오랜...",
-          "id": "https://news.hada.io/topic?id=33898",
-          "isoDate": "2026-09-18T15:42:17.000Z"
-        },
-        {
-          "title": "GLM 코딩 에이전트 ZCode, 사용자 모르게 Git 이력을 업로드함",
-          "link": "https://news.hada.io/topic?id=33897",
-          "pubDate": "2026-09-18T14:52:18.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Z.ai의 데스크톱 코딩 앱 <strong>ZCode</strong>가 로그인 상태에서 전체 작업 공간과 Git 이력 등을 암호화해 <strong>Aliyun OSS</strong>로 업로드하는 동작이 역공학 분석에서 확인됨</li>\n<li>아카이브 복호화에 필요한 <strong>개인 키는 Z.ai 클라우드에만 존재</strong>함. 사용자 디스크에 저장된 암...</p>",
-          "contentSnippet": "Z.ai의 데스크톱 코딩 앱 ZCode가 로그인 상태에서 전체 작업 공간과 Git 이력 등을 암호화해 Aliyun OSS로 업로드하는 동작이 역공학 분석에서 확인됨\n아카이브 복호화에 필요한 개인 키는 Z.ai 클라우드에만 존재함. 사용자 디스크에 저장된 암...",
-          "id": "https://news.hada.io/topic?id=33897",
-          "isoDate": "2026-09-18T14:52:18.000Z"
-        },
-        {
-          "title": "Bend 2와 바이브 코딩의 함정",
-          "link": "https://news.hada.io/topic?id=33896",
-          "pubDate": "2026-09-18T14:52:17.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>바이브 코딩</strong>은 문제를 충분히 이해하기 전에 큰 규모의 해법을 완성하게 해, 기존에 더 나은 접근법이 있다는 사실을 놓치게 할 수 있음</li>\n<li><strong>Bend 2</strong>는 사람이 법칙을 작성하고 AI가 구현과 증명을 만들면 컴파일러가 증명의 타당성을 검사하는 언어지만, 데모의 단순한...</p>",
-          "contentSnippet": "바이브 코딩은 문제를 충분히 이해하기 전에 큰 규모의 해법을 완성하게 해, 기존에 더 나은 접근법이 있다는 사실을 놓치게 할 수 있음\nBend 2는 사람이 법칙을 작성하고 AI가 구현과 증명을 만들면 컴파일러가 증명의 타당성을 검사하는 언어지만, 데모의 단순한...",
-          "id": "https://news.hada.io/topic?id=33896",
-          "isoDate": "2026-09-18T14:52:17.000Z"
-        },
-        {
-          "title": "나는 패스키가 마음에 들지 않는다",
-          "link": "https://news.hada.io/topic?id=33895",
-          "pubDate": "2026-09-18T14:42:17.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>패스키</strong>는 피싱과 서버 데이터 유출에 강하지만, 개인에게는 영구적인 계정 접근 상실, 자동 계정 정지, 기기 분실이 더 큰 위험일 수 있음</li>\n<li>일반 로그인 과정의 피싱을 막더라도 계정 보안은 <strong>가장 취약한 복구 수단</strong>에 좌우되며, SMS, 이메일 링크, 보안 질문 등을 없...</p>",
-          "contentSnippet": "패스키는 피싱과 서버 데이터 유출에 강하지만, 개인에게는 영구적인 계정 접근 상실, 자동 계정 정지, 기기 분실이 더 큰 위험일 수 있음\n일반 로그인 과정의 피싱을 막더라도 계정 보안은 가장 취약한 복구 수단에 좌우되며, SMS, 이메일 링크, 보안 질문 등을 없...",
-          "id": "https://news.hada.io/topic?id=33895",
-          "isoDate": "2026-09-18T14:42:17.000Z"
-        },
-        {
-          "title": "CrowdSec 소스 코드 유출",
-          "link": "https://news.hada.io/topic?id=33894",
-          "pubDate": "2026-09-18T13:32:17.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>CrowdSec</strong>이 2026년 5월 발생한 GitHub 비공개 소스 코드 유출을 9월 16일 통보받고 확인함</li>\n<li>CrowdSec에 따르면 <strong>고객 데이터나 로그인 정보는 유출되지 않았으며</strong>, 현재까지 횡적 이동에 악용할 수 있는 토큰이나 자격 증명 등의 유출도 발견하지 못함</li>\n<li>유출 ...</p>",
-          "contentSnippet": "CrowdSec이 2026년 5월 발생한 GitHub 비공개 소스 코드 유출을 9월 16일 통보받고 확인함\nCrowdSec에 따르면 고객 데이터나 로그인 정보는 유출되지 않았으며, 현재까지 횡적 이동에 악용할 수 있는 토큰이나 자격 증명 등의 유출도 발견하지 못함\n유출 ...",
-          "id": "https://news.hada.io/topic?id=33894",
-          "isoDate": "2026-09-18T13:32:17.000Z"
-        },
-        {
-          "title": "황금 못, 그리고 Vale(n) 프로그래밍 언어의 부활",
-          "link": "https://news.hada.io/topic?id=33893",
-          "pubDate": "2026-09-18T13:12:18.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>Valen</strong>은 Rust 라이브러리를 직접 활용하면서 언어 경계를 넘는 제네릭과 메모리 안전성을 지원하려는 실험적 언어이며, Rust 그래픽 라이브러리를 호출해 첫 렌더링에 성공함</li>\n<li>C ABI를 통한 연동 대신 <strong>rustc 내부 API</strong>와 컴파일러 패치를 이용해, Valen의 타입이 Rus...</p>",
-          "contentSnippet": "Valen은 Rust 라이브러리를 직접 활용하면서 언어 경계를 넘는 제네릭과 메모리 안전성을 지원하려는 실험적 언어이며, Rust 그래픽 라이브러리를 호출해 첫 렌더링에 성공함\nC ABI를 통한 연동 대신 rustc 내부 API와 컴파일러 패치를 이용해, Valen의 타입이 Rus...",
-          "id": "https://news.hada.io/topic?id=33893",
-          "isoDate": "2026-09-18T13:12:18.000Z"
         }
       ]
     }
