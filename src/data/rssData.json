@@ -751,6 +751,19 @@
       "priority": 2,
       "data": [
         {
+          "creator": "三上眞司",
+          "title": "「마블 울버린」PS5 vs PS5 Pro",
+          "link": "https://bbs.ruliweb.com/ps/board/300001/read/2363109",
+          "pubDate": "Mon, 21 Sep 2026 07:32:33 +0900",
+          "author": "三上眞司",
+          "content": "<img width=\"236\" height=\"177\" src=\"https://i2.ruliweb.com/thumb/26/09/21/1a0c0f298ce23c9e.webp\">",
+          "contentSnippet": "",
+          "categories": [
+            "PS5소프트"
+          ],
+          "isoDate": "2026-09-20T22:32:33.000Z"
+        },
+        {
           "creator": "베르세리아2",
           "title": "도쿄 게임쇼에서 무료로 배포된 GTA6 티셔츠가 이베이에서 200달러 이상에 팔려",
           "link": "https://bbs.ruliweb.com/ps/board/300001/read/2363108",
@@ -1100,19 +1113,6 @@
             "인터뷰"
           ],
           "isoDate": "2026-09-20T06:52:11.000Z"
-        },
-        {
-          "creator": "이토 시즈카",
-          "title": "페르소나 시리즈 30주년 기념 영상, 옥외 광고 안내",
-          "link": "https://bbs.ruliweb.com/ps/board/300001/read/2363071",
-          "pubDate": "Sun, 20 Sep 2026 15:31:24 +0900",
-          "author": "이토 시즈카",
-          "content": "<img width=\"236\" height=\"177\" src=\"https://i3.ruliweb.com/thumb/26/09/20/1a0bd830f60137dbd.webp\">",
-          "contentSnippet": "",
-          "categories": [
-            "PS5소프트"
-          ],
-          "isoDate": "2026-09-20T06:31:24.000Z"
         }
       ]
     }
@@ -1124,6 +1124,16 @@
       "category": "news",
       "priority": 1,
       "data": [
+        {
+          "title": "Ask GN: 3주간 코딩 에이전트에게 보낸 제 메시지를 분석해 봤습니다. 40%는 실제 작업이 아니었어요. 다른 분들...",
+          "link": "https://news.hada.io/topic?id=34012",
+          "pubDate": "2026-09-20T19:11:12.000Z",
+          "author": "agentseal",
+          "content": "<p>여러 코딩 에이전트를 동시에 돌리고 있습니다. 주로 Claude Code와 Kimi를 쓰고, 가끔 Cursor와 Copilot도 씁니다. 요즘 작업 속도가 느리다는 느낌이 들어서, 지난 3주 동안 에이전트에게 보낸 메시지를 전부 내보낸 뒤, 모델이 메시지를 하나씩 읽고 용도별로 분류하게 했습니다. 키워드 검색은 쓰지 않았습니다. ...</p>",
+          "contentSnippet": "여러 코딩 에이전트를 동시에 돌리고 있습니다. 주로 Claude Code와 Kimi를 쓰고, 가끔 Cursor와 Copilot도 씁니다. 요즘 작업 속도가 느리다는 느낌이 들어서, 지난 3주 동안 에이전트에게 보낸 메시지를 전부 내보낸 뒤, 모델이 메시지를 하나씩 읽고 용도별로 분류하게 했습니다. 키워드 검색은 쓰지 않았습니다. ...",
+          "id": "https://news.hada.io/topic?id=34012",
+          "isoDate": "2026-09-20T19:11:12.000Z"
+        },
         {
           "title": "Pirate Face - LLM 모델을 삭제로부터 구하는 서비스",
           "link": "https://news.hada.io/topic?id=34011",
@@ -1613,16 +1623,6 @@
           "contentSnippet": "미 제2연방항소법원이 국경 요원의 여행자 전자기기 수색에 아무런 혐의나 의심이 없어도 된다고 판결함\n사건은 United States v. Alisigwe로, 정부가 국경에서 피고인의 휴대전화를 영장 없이 두 차례 수색해 확보한 증거를 형사재판에 사용함\nK...",
           "id": "https://news.hada.io/topic?id=33958",
           "isoDate": "2026-09-19T22:52:24.000Z"
-        },
-        {
-          "title": "Alibaba, 암을 포함한 약 150개 질환을 탐지하는 AI 모델 오픈소스로 공개",
-          "link": "https://news.hada.io/topic?id=33957",
-          "pubDate": "2026-09-19T22:52:23.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Alibaba 산하 연구기관 Damo Academy가 CT 영상에서 암을 포함한 약 150개 복부 질환을 식별하는 <strong>Damo Radar</strong>를 오픈소스로 공개함</li>\n<li><strong>비전 언어 모델</strong>로, 18개 복부 장기를 포함하는 조영증강 CT를 분석해 악성 종양 등 질환과 이상 소견을 찾아냄</li>\n<li>CT 영상과 ...</p>",
-          "contentSnippet": "Alibaba 산하 연구기관 Damo Academy가 CT 영상에서 암을 포함한 약 150개 복부 질환을 식별하는 Damo Radar를 오픈소스로 공개함\n비전 언어 모델로, 18개 복부 장기를 포함하는 조영증강 CT를 분석해 악성 종양 등 질환과 이상 소견을 찾아냄\nCT 영상과 ...",
-          "id": "https://news.hada.io/topic?id=33957",
-          "isoDate": "2026-09-19T22:52:23.000Z"
         }
       ]
     }
