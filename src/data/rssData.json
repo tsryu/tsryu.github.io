@@ -8,6 +8,19 @@
       "data": [
         {
           "creator": "아타호-_-",
+          "title": "[하스스톤] 신규 사냥꾼 제피르스 미미론 공개",
+          "link": "https://bbs.ruliweb.com/pc/board/1003/read/2356097",
+          "pubDate": "Sat, 26 Sep 2026 06:05:52 +0900",
+          "author": "아타호-_-",
+          "content": "<img width=\"236\" height=\"177\" src=\"https://i3.ruliweb.com/thumb/26/09/26/1a0da9962241874ce.webp\">",
+          "contentSnippet": "",
+          "categories": [
+            ""
+          ],
+          "isoDate": "2026-09-25T21:05:52.000Z"
+        },
+        {
+          "creator": "아타호-_-",
           "title": "[하스스톤] 암시장 시스템 개선 예정+흥정 시스템에 대한 힌트",
           "link": "https://bbs.ruliweb.com/pc/board/1003/read/2356095",
           "pubDate": "Sat, 26 Sep 2026 04:10:19 +0900",
@@ -356,19 +369,6 @@
             ""
           ],
           "isoDate": "2026-09-25T11:05:44.000Z"
-        },
-        {
-          "creator": "사쿠라모리 카오리P",
-          "title": "챗GPT보다 빨랐다…메타 '뮤즈' 12일 만에 280만 다운로드",
-          "link": "https://bbs.ruliweb.com/pc/board/1003/read/2356068",
-          "pubDate": "Fri, 25 Sep 2026 19:56:00 +0900",
-          "author": "사쿠라모리 카오리P",
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            ""
-          ],
-          "isoDate": "2026-09-25T10:56:00.000Z"
         }
       ]
     },
@@ -751,6 +751,32 @@
       "priority": 2,
       "data": [
         {
+          "creator": "Winter Love",
+          "title": "파이널 판타지 7 리벨레이션 트로피 난이도는 리버스보다 낮아질 것",
+          "link": "https://bbs.ruliweb.com/ps/board/300001/read/2363457",
+          "pubDate": "Sat, 26 Sep 2026 08:19:49 +0900",
+          "author": "Winter Love",
+          "content": "<img width=\"236\" height=\"177\" src=\"https://i1.ruliweb.com/thumb/26/09/26/1a0dadd12632af81.webp\">",
+          "contentSnippet": "",
+          "categories": [
+            "PS5소프트"
+          ],
+          "isoDate": "2026-09-25T23:19:49.000Z"
+        },
+        {
+          "creator": "Gold Gold",
+          "title": "에이스 컴뱃8 리뷰영상(스포주의!)",
+          "link": "https://bbs.ruliweb.com/ps/board/300001/read/2363456",
+          "pubDate": "Sat, 26 Sep 2026 07:31:38 +0900",
+          "author": "Gold Gold",
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "PS5소프트"
+          ],
+          "isoDate": "2026-09-25T22:31:38.000Z"
+        },
+        {
           "creator": "베르세리아2",
           "title": "사로스&amp;울버린, 골든 조이스틱 어워드 토탈 4개 부문 후보",
           "link": "https://bbs.ruliweb.com/ps/board/300001/read/2363455",
@@ -1087,32 +1113,6 @@
             "기타"
           ],
           "isoDate": "2026-09-25T05:07:41.000Z"
-        },
-        {
-          "creator": "이토 시즈카",
-          "title": "스트레인저 댄 헤븐 공식 사이트 업데이트, 스크린샷, 캐릭터 소개",
-          "link": "https://bbs.ruliweb.com/ps/board/300001/read/2363415",
-          "pubDate": "Fri, 25 Sep 2026 13:48:46 +0900",
-          "author": "이토 시즈카",
-          "content": "<img width=\"236\" height=\"177\" src=\"https://i3.ruliweb.com/thumb/26/09/25/1a0d6e88ed9137dbd.webp\">",
-          "contentSnippet": "",
-          "categories": [
-            "PS5소프트"
-          ],
-          "isoDate": "2026-09-25T04:48:46.000Z"
-        },
-        {
-          "creator": "베르세리아2",
-          "title": "제이슨 슈라이어, 코지마가 피진트 개발을 위한 매우 높은 예산을 요청 했다",
-          "link": "https://bbs.ruliweb.com/ps/board/300001/read/2363414",
-          "pubDate": "Fri, 25 Sep 2026 13:39:31 +0900",
-          "author": "베르세리아2",
-          "content": "<img width=\"236\" height=\"177\" src=\"https://i2.ruliweb.com/thumb/26/09/25/1a0d6dc660a9c16f.webp\">",
-          "contentSnippet": "",
-          "categories": [
-            "정보"
-          ],
-          "isoDate": "2026-09-25T04:39:31.000Z"
         }
       ]
     }
@@ -1125,12 +1125,142 @@
       "priority": 1,
       "data": [
         {
-          "title": "Virtio-nvgpu - KVM 게스트에서 네이티브에 가까운 NVIDIA GPU 접근",
+          "title": "Ollaya - 오픈소스 Jev 스타일 의사결정 모델을 위한 Ollama",
+          "link": "https://news.hada.io/topic?id=34288",
+          "pubDate": "2026-09-25T21:32:54.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>Ollaya</strong>는 텍스트나 JSON에 타입이 지정된 질문을 하고, 보정된 답을 로컬 하드웨어에서 얻는 오픈소스 의사결정 모델 실행 도구임</li>\n<li>토큰을 순차 생성하지 않고 <strong>한 번의 순전파</strong>로 답하며, RTX 4090에서 Laya로 질문 5개를 처리하는 HTTP API 요청의 전체 소요 시간은...</p>",
+          "contentSnippet": "Ollaya는 텍스트나 JSON에 타입이 지정된 질문을 하고, 보정된 답을 로컬 하드웨어에서 얻는 오픈소스 의사결정 모델 실행 도구임\n토큰을 순차 생성하지 않고 한 번의 순전파로 답하며, RTX 4090에서 Laya로 질문 5개를 처리하는 HTTP API 요청의 전체 소요 시간은...",
+          "id": "https://news.hada.io/topic?id=34288",
+          "isoDate": "2026-09-25T21:32:54.000Z"
+        },
+        {
+          "title": "Oracle, 데이터센터에 전력이 공급되지 않아도 투자자에게 대금 지급 의무",
+          "link": "https://news.hada.io/topic?id=34287",
+          "pubDate": "2026-09-25T20:43:27.000Z",
+          "author": "neo",
+          "content": "Oracle, 데이터센터에 전력이 공급되지 않아도 투자자에게 대금 지급 의무",
+          "contentSnippet": "Oracle, 데이터센터에 전력이 공급되지 않아도 투자자에게 대금 지급 의무",
+          "id": "https://news.hada.io/topic?id=34287",
+          "isoDate": "2026-09-25T20:43:27.000Z"
+        },
+        {
+          "title": "시험",
+          "link": "https://news.hada.io/topic?id=34286",
+          "pubDate": "2026-09-25T20:40:27.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>기술 업계 거물들의 터무니없는 발언은, 의도적으로 설계하지 않았더라도 주변 사람이 어디까지 받아들이는지 가르는 <strong>복종의 시험</strong>으로 작동함</li>\n<li><strong>Jensen Huang</strong>은 아이들이 기초 수학을 잊는 것이 중요하지 않다고 답하고, 자신의 주소와 전화번호를 몰라도 생활할 수 ...</p>",
+          "contentSnippet": "기술 업계 거물들의 터무니없는 발언은, 의도적으로 설계하지 않았더라도 주변 사람이 어디까지 받아들이는지 가르는 복종의 시험으로 작동함\nJensen Huang은 아이들이 기초 수학을 잊는 것이 중요하지 않다고 답하고, 자신의 주소와 전화번호를 몰라도 생활할 수 ...",
+          "id": "https://news.hada.io/topic?id=34286",
+          "isoDate": "2026-09-25T20:40:27.000Z"
+        },
+        {
+          "title": "제1원리 사고",
+          "link": "https://news.hada.io/topic?id=34285",
+          "pubDate": "2026-09-25T20:37:27.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>축적한 경험은 변화한 환경에서 다른 접근을 어렵게 만들 수 있으며, <strong>제1원리 사고</strong>는 기존 답보다 지금 해결하려는 문제와 목적에서 출발함</li>\n<li>막혔을 때는 결과에만 집중하기보다 <strong>실행 가능한 가장 작은 일</strong>을 끝내며 추진력을 얻는 것이 다음 행동을 찾는 데 도움이 ...</p>",
+          "contentSnippet": "축적한 경험은 변화한 환경에서 다른 접근을 어렵게 만들 수 있으며, 제1원리 사고는 기존 답보다 지금 해결하려는 문제와 목적에서 출발함\n막혔을 때는 결과에만 집중하기보다 실행 가능한 가장 작은 일을 끝내며 추진력을 얻는 것이 다음 행동을 찾는 데 도움이 ...",
+          "id": "https://news.hada.io/topic?id=34285",
+          "isoDate": "2026-09-25T20:37:27.000Z"
+        },
+        {
+          "title": "SourceHut 빌드 로그를 통한 계정 탈취 취약점, ansi2html의 XSS",
+          "link": "https://news.hada.io/topic?id=34284",
+          "pubDate": "2026-09-25T19:55:00.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>ansi2html의 XSS 취약점</strong>으로 빌드 로그에 악성 문자열을 삽입한 공격자가 해당 로그를 열람하는 SourceHut 사용자의 계정을 탈취할 수 있었음</li>\n<li>공격자는 <strong>OSC 8 하이퍼링크</strong> 처리의 허점을 악용할 수 있었으며, CI가 활성화된 공개 메일링 리스트에 패치를 보내는 경로...</p>",
+          "contentSnippet": "ansi2html의 XSS 취약점으로 빌드 로그에 악성 문자열을 삽입한 공격자가 해당 로그를 열람하는 SourceHut 사용자의 계정을 탈취할 수 있었음\n공격자는 OSC 8 하이퍼링크 처리의 허점을 악용할 수 있었으며, CI가 활성화된 공개 메일링 리스트에 패치를 보내는 경로...",
+          "id": "https://news.hada.io/topic?id=34284",
+          "isoDate": "2026-09-25T19:55:00.000Z"
+        },
+        {
+          "title": "Oracle, 논란의 데이터센터 사업에서 자사 보호 위해 ‘불가항력’ 사유 내세워",
+          "link": "https://news.hada.io/topic?id=34283",
+          "pubDate": "2026-09-25T19:52:00.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>Oracle</strong>이 뉴멕시코에 건설 중인 대규모 데이터센터에서 비용 부담이 쌓이는 것을 막기 위한 조치에 나섬</li>\n<li>사정을 아는 관계자들에 따르면, 개발사인 <strong>Blue Owl Capital 계열사</strong>에 <strong>불가항력(force majeure)</strong> 사유를 명시한 통지를 보냄</li>\n<li>대상인...</p>",
+          "contentSnippet": "Oracle이 뉴멕시코에 건설 중인 대규모 데이터센터에서 비용 부담이 쌓이는 것을 막기 위한 조치에 나섬\n사정을 아는 관계자들에 따르면, 개발사인 Blue Owl Capital 계열사에 불가항력(force majeure) 사유를 명시한 통지를 보냄\n대상인...",
+          "id": "https://news.hada.io/topic?id=34283",
+          "isoDate": "2026-09-25T19:52:00.000Z"
+        },
+        {
+          "title": "HTTP에서 가장 보기 흉한 부분, Vary 지원을 출시하다",
+          "link": "https://news.hada.io/topic?id=34282",
+          "pubDate": "2026-09-25T19:48:59.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Cloudflare가 모든 요금제의 <strong>Cache Rules에 <code>Vary</code> 지원</strong>을 추가함. 원본 서버가 응답에 영향을 주는 요청 헤더를 지정하고, 운영자는 각 헤더 값을 캐시에 어떻게 반영할지 결정함</li>\n<li><strong><code>Vary</code>는 같은 URL의 서로 다른 응답을 구분</strong>하지만, 어떤 헤...</p>",
+          "contentSnippet": "Cloudflare가 모든 요금제의 Cache Rules에 Vary 지원을 추가함. 원본 서버가 응답에 영향을 주는 요청 헤더를 지정하고, 운영자는 각 헤더 값을 캐시에 어떻게 반영할지 결정함\nVary는 같은 URL의 서로 다른 응답을 구분하지만, 어떤 헤...",
+          "id": "https://news.hada.io/topic?id=34282",
+          "isoDate": "2026-09-25T19:48:59.000Z"
+        },
+        {
+          "title": "기밀 추산으로 드러난 NSA의 수십억 달러 규모 AI 모델 테스트 지출",
+          "link": "https://news.hada.io/topic?id=34281",
+          "pubDate": "2026-09-25T19:45:59.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>기밀 추산을 아는 소식통 2명에 따르면, <strong>NSA</strong>는 올해 첨단 AI 모델 평가와 테스트에 <strong>수십억 달러의 세금</strong>을 쓰고 있다고 의원들에게 알림</li>\n<li>잇따른 해킹과 보안 사고 이후 NSA의 <strong>Artificial Intelligence Security Center</strong>가 최첨단 모델의 잠재적 국가...</p>",
+          "contentSnippet": "기밀 추산을 아는 소식통 2명에 따르면, NSA는 올해 첨단 AI 모델 평가와 테스트에 수십억 달러의 세금을 쓰고 있다고 의원들에게 알림\n잇따른 해킹과 보안 사고 이후 NSA의 Artificial Intelligence Security Center가 최첨단 모델의 잠재적 국가...",
+          "id": "https://news.hada.io/topic?id=34281",
+          "isoDate": "2026-09-25T19:45:59.000Z"
+        },
+        {
+          "title": "Mercury 2.5 LLM, 초당 770토큰 달성",
+          "link": "https://news.hada.io/topic?id=34279",
+          "pubDate": "2026-09-25T18:40:14.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>Mercury 2.5</strong>는 Inception API 기준 초당 <strong>780.8토큰</strong>을 출력하며, 비슷한 가격대 추론 모델의 중앙값인 111.9토큰/초를 크게 웃돎</li>\n<li><strong>Artificial Analysis Intelligence Index는 12점</strong>으로 비교 대상 중앙값 13점보다 낮으며, 빠른 출력 속도와 지능 평...</p>",
+          "contentSnippet": "Mercury 2.5는 Inception API 기준 초당 780.8토큰을 출력하며, 비슷한 가격대 추론 모델의 중앙값인 111.9토큰/초를 크게 웃돎\nArtificial Analysis Intelligence Index는 12점으로 비교 대상 중앙값 13점보다 낮으며, 빠른 출력 속도와 지능 평...",
+          "id": "https://news.hada.io/topic?id=34279",
+          "isoDate": "2026-09-25T18:40:14.000Z"
+        },
+        {
+          "title": "직접 만질 수 있는 Factorio",
+          "link": "https://news.hada.io/topic?id=34278",
+          "pubDate": "2026-09-25T18:37:14.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Wube가 Factorio의 게임 초반 요소를 실물로 만들 수 있는 <strong>3D 프린팅 모델</strong>을 공개함. 총 15개 모델 세트, 개별 모델 65개, STL 파일 247개를 다운로드할 수 있음</li>\n<li>운송 벨트를 중심으로 게임처럼 구조물을 배치하는 <strong>격자 시스템</strong>을 설계하고, 거의 모든 모델에 정밀 ...</p>",
+          "contentSnippet": "Wube가 Factorio의 게임 초반 요소를 실물로 만들 수 있는 3D 프린팅 모델을 공개함. 총 15개 모델 세트, 개별 모델 65개, STL 파일 247개를 다운로드할 수 있음\n운송 벨트를 중심으로 게임처럼 구조물을 배치하는 격자 시스템을 설계하고, 거의 모든 모델에 정밀 ...",
+          "id": "https://news.hada.io/topic?id=34278",
+          "isoDate": "2026-09-25T18:37:14.000Z"
+        },
+        {
+          "title": "Ink &amp; Switch의 인터랙티브 홈페이지",
+          "link": "https://news.hada.io/topic?id=34277",
+          "pubDate": "2026-09-25T17:45:16.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>Ink &amp; Switch</strong>가 설립 10주년을 기념해 연구 기술로 만든 인터랙티브 작품 <strong>Tenfold</strong>를 공개함</li>\n<li><strong>Tenfold</strong>는 열 글자와 10년을 뜻하며, 화면 곳곳을 클릭하거나 드래그하며 즐길 수 있음</li>\n<li>사고를 돕는 도구의 미래를 탐구하는 <strong>독립...</p>",
+          "contentSnippet": "Ink & Switch가 설립 10주년을 기념해 연구 기술로 만든 인터랙티브 작품 Tenfold를 공개함\nTenfold는 열 글자와 10년을 뜻하며, 화면 곳곳을 클릭하거나 드래그하며 즐길 수 있음\n사고를 돕는 도구의 미래를 탐구하는 독립...",
+          "id": "https://news.hada.io/topic?id=34277",
+          "isoDate": "2026-09-25T17:45:16.000Z"
+        },
+        {
+          "title": "비행기에서 아기띠 사용을 허용하라",
+          "link": "https://news.hada.io/topic?id=34276",
+          "pubDate": "2026-09-25T17:42:16.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>FAA는 추가 좌석 비용 때문에 부모가 더 위험한 자동차 여행을 택할 수 있다는 이유로 <strong>영아를 무릎에 안고 타는 것</strong>을 허용하지만, 지상 이동과 이착륙 중 <strong>아기띠 사용</strong>은 금지함</li>\n<li>금지 근거인 <strong>1994년 연구</strong>는 여러 아동 보호장치를 시험했으나, 착용...</p>",
+          "contentSnippet": "FAA는 추가 좌석 비용 때문에 부모가 더 위험한 자동차 여행을 택할 수 있다는 이유로 영아를 무릎에 안고 타는 것을 허용하지만, 지상 이동과 이착륙 중 아기띠 사용은 금지함\n금지 근거인 1994년 연구는 여러 아동 보호장치를 시험했으나, 착용...",
+          "id": "https://news.hada.io/topic?id=34276",
+          "isoDate": "2026-09-25T17:42:16.000Z"
+        },
+        {
+          "title": "미국 항소법원, Anthropic의 공급망 위험 지정 유지",
+          "link": "https://news.hada.io/topic?id=34275",
+          "pubDate": "2026-09-25T17:39:16.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>워싱턴 D.C. 연방항소법원이 <strong>2대 1 판결</strong>로 국방부의 Anthropic 공급망 위험 지정을 유지하고, Claude 사용 금지가 자의적이고 권한을 벗어났으며 위헌이라는 회사 측 주장을 받아들이지 않음</li>\n<li><strong>공급망 위험 지정</strong>은 미군의 Anthropic 모델 사용을 금지하며, 방산 계약...</p>",
+          "contentSnippet": "워싱턴 D.C. 연방항소법원이 2대 1 판결로 국방부의 Anthropic 공급망 위험 지정을 유지하고, Claude 사용 금지가 자의적이고 권한을 벗어났으며 위헌이라는 회사 측 주장을 받아들이지 않음\n공급망 위험 지정은 미군의 Anthropic 모델 사용을 금지하며, 방산 계약...",
+          "id": "https://news.hada.io/topic?id=34275",
+          "isoDate": "2026-09-25T17:39:16.000Z"
+        },
+        {
+          "title": "Virtio-nvgpu - KVM 가상 머신에서 NVIDIA GPU를 네이티브에 가까운 성능으로 공유",
           "link": "https://news.hada.io/topic?id=34274",
           "pubDate": "2026-09-25T16:54:39.000Z",
           "author": "neo",
-          "content": "<ul>\n<li><strong>virtio-nvgpu</strong>는 그래픽 API 대신 NVIDIA 커널 드라이버의 <strong>ABI 수준</strong>에서 ioctl을 전달하며, 게스트가 수정하지 않은 NVIDIA 사용자 모드 드라이버로 호스트 GPU를 사용하게 함</li>\n<li>목표는 <strong>헤드리스 스트리밍</strong>으로, 게스트 안에서 GPU 렌더링, 합성, 인코...</p>",
-          "contentSnippet": "virtio-nvgpu는 그래픽 API 대신 NVIDIA 커널 드라이버의 ABI 수준에서 ioctl을 전달하며, 게스트가 수정하지 않은 NVIDIA 사용자 모드 드라이버로 호스트 GPU를 사용하게 함\n목표는 헤드리스 스트리밍으로, 게스트 안에서 GPU 렌더링, 합성, 인코...",
+          "content": "<ul>\n<li>GPU 한 장을 가상 머신 하나에 통째로 넘기는 대신, <strong>호스트가 GPU를 유지하면서 여러 KVM 가상 머신이 함께 사용</strong>하도록 하는 실험적 프로젝트</li>\n<li><strong>모니터 없이 화면을 만들어 전송하는 헤드리스 스트리밍</strong>을 목표로, 게스트 안에서 GPU 렌더링, 합성, 인코딩을 수행하고...</p>",
+          "contentSnippet": "GPU 한 장을 가상 머신 하나에 통째로 넘기는 대신, 호스트가 GPU를 유지하면서 여러 KVM 가상 머신이 함께 사용하도록 하는 실험적 프로젝트\n모니터 없이 화면을 만들어 전송하는 헤드리스 스트리밍을 목표로, 게스트 안에서 GPU 렌더링, 합성, 인코딩을 수행하고...",
           "id": "https://news.hada.io/topic?id=34274",
           "isoDate": "2026-09-25T16:54:39.000Z"
         },
@@ -1493,136 +1623,6 @@
           "contentSnippet": "말기 암을 앓던 Warren Zevon은 2002년 David Letterman의 방송에서 삶과 죽음에 관해 새롭게 알게 된 것이 있느냐는 질문에, “모든 샌드위치를 즐기는 것”의 소중함으로 답함\nZevon에게는 매 순간이 이전보다 귀해졌으며, 샌드위치를 먹고 동료들과 연주하고 아...",
           "id": "https://news.hada.io/topic?id=34235",
           "isoDate": "2026-09-24T18:38:14.000Z"
-        },
-        {
-          "title": "최신 ESP32, Linux를 실행하며 Raspberry Pi에 가까워지고 있음",
-          "link": "https://news.hada.io/topic?id=34234",
-          "pubDate": "2026-09-24T17:40:14.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>센서와 기기를 제어하는 데 쓰이는 <strong>ESP32 마이크로컨트롤러가 Linux와 다양한 주변장치를 지원</strong>하면서, 소형 컴퓨터로 활용할 수 있는 범위를 넓히고 있음</li>\n<li>Espressif의 <strong>ESP32-S31</strong>은 기가비트 Ethernet, USB 호스트, 카메라와 디스플레이 인터페이스를 갖춰 화면과 키...</p>",
-          "contentSnippet": "센서와 기기를 제어하는 데 쓰이는 ESP32 마이크로컨트롤러가 Linux와 다양한 주변장치를 지원하면서, 소형 컴퓨터로 활용할 수 있는 범위를 넓히고 있음\nEspressif의 ESP32-S31은 기가비트 Ethernet, USB 호스트, 카메라와 디스플레이 인터페이스를 갖춰 화면과 키...",
-          "id": "https://news.hada.io/topic?id=34234",
-          "isoDate": "2026-09-24T17:40:14.000Z"
-        },
-        {
-          "title": "Nokia 디자인 아카이브(2025)",
-          "link": "https://news.hada.io/topic?id=34233",
-          "pubDate": "2026-09-24T17:37:14.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>Nokia Design Archive</strong>는 Nokia Mobile Phones와 Microsoft Mobile에서 수행한 디자인 작업 관련 자료를 모은 컬렉션임</li>\n<li>자료의 시간 범위는 <strong>1990년 1월 1일부터 2020년 12월 31일</strong>까지이며, 영어와 핀란드어 자료가 있음</li>\n<li><strong>실물과 재료 샘플</strong>...</p>",
-          "contentSnippet": "Nokia Design Archive는 Nokia Mobile Phones와 Microsoft Mobile에서 수행한 디자인 작업 관련 자료를 모은 컬렉션임\n자료의 시간 범위는 1990년 1월 1일부터 2020년 12월 31일까지이며, 영어와 핀란드어 자료가 있음\n실물과 재료 샘플...",
-          "id": "https://news.hada.io/topic?id=34233",
-          "isoDate": "2026-09-24T17:37:14.000Z"
-        },
-        {
-          "title": "Show GN: TODO Flow — 선택한 TODO를 코딩 에이전트의 병렬 작업·검증·리뷰로 연결하는 오픈소스",
-          "link": "https://news.hada.io/topic?id=34232",
-          "pubDate": "2026-09-24T17:11:12.000Z",
-          "author": "ttghus",
-          "content": "<p>안녕하세요. Claude 또는 Codex CLI로 여러 개발 작업을 진행할 때, 작업 상태와 검증 근거를 대화 세션 밖에 남기고 관리할 수 있는 TODO Flow를 만들었습니다.</p>\n<p>작업 계획을 등록하고 실행할 TODO를 선택하면, 각 작업을 별도의 Git worktree에서 진행합니다. 로컬 대시보드에서는 진행 중인 작업, 담당 에이",
-          "contentSnippet": "안녕하세요. Claude 또는 Codex CLI로 여러 개발 작업을 진행할 때, 작업 상태와 검증 근거를 대화 세션 밖에 남기고 관리할 수 있는 TODO Flow를 만들었습니다.\n작업 계획을 등록하고 실행할 TODO를 선택하면, 각 작업을 별도의 Git worktree에서 진행합니다. 로컬 대시보드에서는 진행 중인 작업, 담당 에이",
-          "id": "https://news.hada.io/topic?id=34232",
-          "isoDate": "2026-09-24T17:11:12.000Z"
-        },
-        {
-          "title": "삼성 스마트 냉장고, 업데이트 후 먹통돼 보관하던 음식까지 폐기",
-          "link": "https://news.hada.io/topic?id=34231",
-          "pubDate": "2026-09-24T16:41:30.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>삼성 비스포크 AI 냉장고 일부가 펌웨어 업데이트 후 냉장/냉동 기능을 멈춰</strong>, 보관하던 음식을 버렸다는 피해 신고가 이어짐</li>\n<li>SmartThings 업데이트 직후 전원이 꺼지거나 화면이 멈추고 앱에서는 오프라인으로 표시됐으며, 피해 제품은 주로 <strong>2024년 이후 출시된 4도어 모델...</p>",
-          "contentSnippet": "삼성 비스포크 AI 냉장고 일부가 펌웨어 업데이트 후 냉장/냉동 기능을 멈춰, 보관하던 음식을 버렸다는 피해 신고가 이어짐\nSmartThings 업데이트 직후 전원이 꺼지거나 화면이 멈추고 앱에서는 오프라인으로 표시됐으며, 피해 제품은 주로 2024년 이후 출시된 4도어 모델...",
-          "id": "https://news.hada.io/topic?id=34231",
-          "isoDate": "2026-09-24T16:41:30.000Z"
-        },
-        {
-          "title": "F-Droid 2.0 발표, 10년 만의 대규모 개편",
-          "link": "https://news.hada.io/topic?id=34230",
-          "pubDate": "2026-09-24T16:38:29.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>자유/오픈소스 안드로이드 앱을 찾아 설치하는 F-Droid</strong>가 공식 앱을 전면 재설계하고, 14차례 테스트를 거쳐 앞으로 수주간 순차 배포함</li>\n<li>화면을 <strong>앱 발견, 검색, 내 앱 관리</strong> 중심으로 정리하고, 신규 앱과 최근 업데이트뿐 아니라 많이 다운로드된 앱도 쉽게 찾도록...</p>",
-          "contentSnippet": "자유/오픈소스 안드로이드 앱을 찾아 설치하는 F-Droid가 공식 앱을 전면 재설계하고, 14차례 테스트를 거쳐 앞으로 수주간 순차 배포함\n화면을 앱 발견, 검색, 내 앱 관리 중심으로 정리하고, 신규 앱과 최근 업데이트뿐 아니라 많이 다운로드된 앱도 쉽게 찾도록...",
-          "id": "https://news.hada.io/topic?id=34230",
-          "isoDate": "2026-09-24T16:38:29.000Z"
-        },
-        {
-          "title": "영국의 이원화된 암호화 보호, 같은 Apple 기기에도 다른 보호 수준",
-          "link": "https://news.hada.io/topic?id=34229",
-          "pubDate": "2026-09-24T15:36:57.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>영국에서는 <strong>Advanced Data Protection(ADP)</strong> 을 2025년 2월 신규 활성화 중단 전에 켰는지에 따라, 같은 기기와 iCloud 서비스를 사용하는 고객도 서로 다른 수준의 데이터 보호를 받음</li>\n<li>영국 정부는 Apple에 <strong>ADP로 암호화된 데이터에 접근할 기술적 능력</strong>을 요구한 것...</p>",
-          "contentSnippet": "영국에서는 Advanced Data Protection(ADP) 을 2025년 2월 신규 활성화 중단 전에 켰는지에 따라, 같은 기기와 iCloud 서비스를 사용하는 고객도 서로 다른 수준의 데이터 보호를 받음\n영국 정부는 Apple에 ADP로 암호화된 데이터에 접근할 기술적 능력을 요구한 것...",
-          "id": "https://news.hada.io/topic?id=34229",
-          "isoDate": "2026-09-24T15:36:57.000Z"
-        },
-        {
-          "title": "OpenAI 에이전트가 호주 정부 웹사이트를 해킹했다고 호주 총리가 밝힘",
-          "link": "https://news.hada.io/topic?id=34228",
-          "pubDate": "2026-09-24T14:35:12.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>자율형 <strong>OpenAI 에이전트</strong>가 호주 공공의료보험 Medicare의 통계 포털에 침입함. OpenAI는 환자 데이터에 접근한 기록을 찾지 못했다고 밝힘</li>\n<li>침입은 <strong>6월 18일</strong> 발생했지만 OpenAI는 8월에 잠재적 침해를 인지하고 9월 10일 정부에 통보함. Anthony Albanese 총리는 <s...</p>",
-          "contentSnippet": "자율형 OpenAI 에이전트가 호주 공공의료보험 Medicare의 통계 포털에 침입함. OpenAI는 환자 데이터에 접근한 기록을 찾지 못했다고 밝힘\n침입은 6월 18일 발생했지만 OpenAI는 8월에 잠재적 침해를 인지하고 9월 10일 정부에 통보함. Anthony Albanese 총리는",
-          "id": "https://news.hada.io/topic?id=34228",
-          "isoDate": "2026-09-24T14:35:12.000Z"
-        },
-        {
-          "title": "자료를 찾다 막히자 해킹을 시도한 AI 에이전트들",
-          "link": "https://news.hada.io/topic?id=34227",
-          "pubDate": "2026-09-24T13:37:19.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>AI 에이전트가 <strong>일반적인 데이터 검색 작업</strong>을 수행하다 접근에 실패하자, 호주 정부 기관을 포함한 <strong>웹사이트의 취약점을 탐색하고 해킹을 시도한 기록</strong>이 발견됨</li>\n<li>웹 보안 검사 서비스 <strong>urlquery.net을 원격 브라우저처럼 활용</strong>해 접근 제한을 우회하고...</p>",
-          "contentSnippet": "AI 에이전트가 일반적인 데이터 검색 작업을 수행하다 접근에 실패하자, 호주 정부 기관을 포함한 웹사이트의 취약점을 탐색하고 해킹을 시도한 기록이 발견됨\n웹 보안 검사 서비스 urlquery.net을 원격 브라우저처럼 활용해 접근 제한을 우회하고...",
-          "id": "https://news.hada.io/topic?id=34227",
-          "isoDate": "2026-09-24T13:37:19.000Z"
-        },
-        {
-          "title": "Show GN: Malkuth - 다국어 한국어 분류 특화 Jev like system one model (4B/2B)",
-          "link": "https://news.hada.io/topic?id=34226",
-          "pubDate": "2026-09-24T13:29:39.000Z",
-          "author": "dhtocks",
-          "content": "<p>텍스트와 질문, 선택지를 주면 답을 생성하는 대신 각 선택지의 확률을 돌려주는 모델<br />\n4B와 2B 두 가지. Kev(Apache-2.0) 체크포인트에서 post-training했고 TypeSafe System One API와 호환</p>\n<h3>측정</h3>\n<ul>\n<li>공개 벤치마크 29개 suite, 약 129,000 질문. 모든 모델이 같은 문항을 풀었고 Jev는 API",
-          "contentSnippet": "텍스트와 질문, 선택지를 주면 답을 생성하는 대신 각 선택지의 확률을 돌려주는 모델\n측정\n공개 벤치마크 29개 suite, 약 129,000 질문. 모든 모델이 같은 문항을 풀었고 Jev는 API",
-          "id": "https://news.hada.io/topic?id=34226",
-          "isoDate": "2026-09-24T13:29:39.000Z"
-        },
-        {
-          "title": "내 메시 네트워크는 암호화 대신 서명되길 바란다",
-          "link": "https://news.hada.io/topic?id=34225",
-          "pubDate": "2026-09-24T12:01:52.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>아마추어 무선 대역에서 메시 네트워크를 운용할 수 있도록, 메시지를 암호화하지 않고 <strong>평문에 서명하는 프로토콜</strong>을 제안함</li>\n<li><strong>Meshtastic과 Meshcore</strong>는 손쉽게 메시 네트워크를 구축하게 해주지만, 기본 암호화를 끄기 번거롭거나 불가능해 암호화 송신을 할 수 없는...</p>",
-          "contentSnippet": "아마추어 무선 대역에서 메시 네트워크를 운용할 수 있도록, 메시지를 암호화하지 않고 평문에 서명하는 프로토콜을 제안함\nMeshtastic과 Meshcore는 손쉽게 메시 네트워크를 구축하게 해주지만, 기본 암호화를 끄기 번거롭거나 불가능해 암호화 송신을 할 수 없는...",
-          "id": "https://news.hada.io/topic?id=34225",
-          "isoDate": "2026-09-24T12:01:52.000Z"
-        },
-        {
-          "title": "Meta, 자사에서 촬영된 Meta AI Glasses 비판 영상 삭제",
-          "link": "https://news.hada.io/topic?id=34224",
-          "pubDate": "2026-09-24T11:31:30.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>네덜란드 방송 제작자가 카메라가 달린 Meta AI 안경으로 암스테르담 사무실 직원들을 촬영한 비판 영상이 <strong>Facebook과 Instagram에서 삭제됨</strong></li>\n<li>Meta는 영상에 <strong>따돌림과 괴롭힘에 해당하는 장면이 포함됐을 수 있다</strong>며 플랫폼 지침을 삭제 근거로 듦</li>\n<li>온라인 프...</p>",
-          "contentSnippet": "네덜란드 방송 제작자가 카메라가 달린 Meta AI 안경으로 암스테르담 사무실 직원들을 촬영한 비판 영상이 Facebook과 Instagram에서 삭제됨\nMeta는 영상에 따돌림과 괴롭힘에 해당하는 장면이 포함됐을 수 있다며 플랫폼 지침을 삭제 근거로 듦\n온라인 프...",
-          "id": "https://news.hada.io/topic?id=34224",
-          "isoDate": "2026-09-24T11:31:30.000Z"
-        },
-        {
-          "title": "오픈소스 데스크톱 현대화를 위한 아이디어",
-          "link": "https://news.hada.io/topic?id=34223",
-          "pubDate": "2026-09-24T11:03:57.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Linux 데스크톱은 <strong>Apple과 Microsoft를 따라가는 데서 벗어나</strong>, 사용자가 실제로 일하기 편한 환경을 직접 연구하고 실험해야 함</li>\n<li>개선할 대상은 아이콘과 색상만이 아니라 <strong>작업하던 자료와 맥락을 기억하지 못하는 데스크톱</strong>임. 여러 앱을 오가며 모은 정보를 계속 보...</p>",
-          "contentSnippet": "Linux 데스크톱은 Apple과 Microsoft를 따라가는 데서 벗어나, 사용자가 실제로 일하기 편한 환경을 직접 연구하고 실험해야 함\n개선할 대상은 아이콘과 색상만이 아니라 작업하던 자료와 맥락을 기억하지 못하는 데스크톱임. 여러 앱을 오가며 모은 정보를 계속 보...",
-          "id": "https://news.hada.io/topic?id=34223",
-          "isoDate": "2026-09-24T11:03:57.000Z"
-        },
-        {
-          "title": "Tailscale을 더 빠르게 만들기",
-          "link": "https://news.hada.io/topic?id=34222",
-          "pubDate": "2026-09-24T10:33:58.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Tailscale이 <strong>패킷 메모리 처리와 병렬 처리</strong>를 개선해 앱 커넥터, 서브넷 라우터, 출구 노드의 처리량을 높이고 지연을 줄이는 작업을 진행 중임</li>\n<li>Linux와 Android에서는 작은 패킷을 별도 64 KiB 버퍼로 복사하지 않고 수신 버퍼 안에서 처리해, 여러 네트워크 구성에서 <strong>약 5...</p>",
-          "contentSnippet": "Tailscale이 패킷 메모리 처리와 병렬 처리를 개선해 앱 커넥터, 서브넷 라우터, 출구 노드의 처리량을 높이고 지연을 줄이는 작업을 진행 중임\nLinux와 Android에서는 작은 패킷을 별도 64 KiB 버퍼로 복사하지 않고 수신 버퍼 안에서 처리해, 여러 네트워크 구성에서 약 5...",
-          "id": "https://news.hada.io/topic?id=34222",
-          "isoDate": "2026-09-24T10:33:58.000Z"
         }
       ]
     }
