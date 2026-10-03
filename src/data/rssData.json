@@ -7,6 +7,116 @@
       "priority": 1,
       "data": [
         {
+          "title": "ICE, 시위 참가자 사진을 Palantir 데이터베이스에 쌓아 와",
+          "link": "https://news.hada.io/topic?id=34722",
+          "pubDate": "2026-10-03T17:37:06.000Z",
+          "author": "neo",
+          "content": "ICE, 시위 참가자 사진을 Palantir 데이터베이스에 쌓아 와",
+          "contentSnippet": "ICE, 시위 참가자 사진을 Palantir 데이터베이스에 쌓아 와",
+          "id": "https://news.hada.io/topic?id=34722",
+          "isoDate": "2026-10-03T17:37:06.000Z"
+        },
+        {
+          "title": "Linux 및 Windows용 Orion 개발 현황 안내",
+          "link": "https://news.hada.io/topic?id=34721",
+          "pubDate": "2026-10-03T17:34:06.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Kagi가 <strong>Linux 및 Windows용 Orion의 직접 개발을 종료</strong>하고, 커뮤니티가 이어갈 수 있도록 두 버전의 소스 코드를 공개할 예정임</li>\n<li>소수 개발자로 구성되고 전적으로 Kagi 사용자들의 자금으로 운영되는 팀의 역량을 <strong>macOS 및 iOS용 Orion에 집중</strong>하기로 함</li>\n<li>오...</p>",
+          "contentSnippet": "Kagi가 Linux 및 Windows용 Orion의 직접 개발을 종료하고, 커뮤니티가 이어갈 수 있도록 두 버전의 소스 코드를 공개할 예정임\n소수 개발자로 구성되고 전적으로 Kagi 사용자들의 자금으로 운영되는 팀의 역량을 macOS 및 iOS용 Orion에 집중하기로 함\n오...",
+          "id": "https://news.hada.io/topic?id=34721",
+          "isoDate": "2026-10-03T17:34:06.000Z"
+        },
+        {
+          "title": "tmux를 OS로 만들자",
+          "link": "https://news.hada.io/topic?id=34720",
+          "pubDate": "2026-10-03T17:13:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>tmux의 스크롤, 세션 유지, 분리, 작업 중심 경험</strong>을 일반 사용자도 쓸 수 있는 데스크톱으로 확장하는 구상임. 완성된 제품이 아니라 Linux에서 실험 중인 설계임</li>\n<li>기존 창 관리는 <strong>반복되는 모니터 전환</strong>, 서로 다른 창 배치 습관, 브라우저 탭과 앱에 흩어진 작업 맥...</p>",
+          "contentSnippet": "tmux의 스크롤, 세션 유지, 분리, 작업 중심 경험을 일반 사용자도 쓸 수 있는 데스크톱으로 확장하는 구상임. 완성된 제품이 아니라 Linux에서 실험 중인 설계임\n기존 창 관리는 반복되는 모니터 전환, 서로 다른 창 배치 습관, 브라우저 탭과 앱에 흩어진 작업 맥...",
+          "id": "https://news.hada.io/topic?id=34720",
+          "isoDate": "2026-10-03T17:13:02.000Z"
+        },
+        {
+          "title": "Cloudflare OHTTP 게이트웨이",
+          "link": "https://news.hada.io/topic?id=34719",
+          "pubDate": "2026-10-03T17:10:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Cloudflare가 사용자 IP를 앱 서버에 노출하지 않는 OHTTP를 쉽게 도입하도록 <strong>관리형 OHTTP Gateway</strong>의 비공개 베타를 시작함. 가을에 zone의 유료 부가 기능으로 출시할 예정임</li>\n<li>OHTTP는 독립 운영되는 <strong>릴레이와 게이트웨이</strong>로 신뢰를 분리해, 한 주체가 클라이언트 ...</p>",
+          "contentSnippet": "Cloudflare가 사용자 IP를 앱 서버에 노출하지 않는 OHTTP를 쉽게 도입하도록 관리형 OHTTP Gateway의 비공개 베타를 시작함. 가을에 zone의 유료 부가 기능으로 출시할 예정임\nOHTTP는 독립 운영되는 릴레이와 게이트웨이로 신뢰를 분리해, 한 주체가 클라이언트 ...",
+          "id": "https://news.hada.io/topic?id=34719",
+          "isoDate": "2026-10-03T17:10:02.000Z"
+        },
+        {
+          "title": "모든 SaaS 비즈니스는 모델을 둘러싼 하네스가 될 것",
+          "link": "https://news.hada.io/topic?id=34718",
+          "pubDate": "2026-10-03T17:07:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>SaaS 기업의 핵심 업무가 <strong>선제적으로 움직이는 백그라운드 에이전트</strong>로 옮겨가면, 기업 자체가 모델에 맥락, 도구, 권한, 검토 체계를 제공하는 <strong>하네스</strong>가 될 것이라는 전망임</li>\n<li>전환은 사람이 에이전트를 사용하는 단계에서 여러 에이전트를 지휘하는 단계로, 다시 <s...</p>",
+          "contentSnippet": "SaaS 기업의 핵심 업무가 선제적으로 움직이는 백그라운드 에이전트로 옮겨가면, 기업 자체가 모델에 맥락, 도구, 권한, 검토 체계를 제공하는 하네스가 될 것이라는 전망임\n전환은 사람이 에이전트를 사용하는 단계에서 여러 에이전트를 지휘하는 단계로, 다시",
+          "id": "https://news.hada.io/topic?id=34718",
+          "isoDate": "2026-10-03T17:07:02.000Z"
+        },
+        {
+          "title": "베네치아의 콘스탄티노폴리스 원정 실패가 최초의 채권시장으로 이어지다",
+          "link": "https://news.hada.io/topic?id=34717",
+          "pubDate": "2026-10-03T17:04:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>베네치아는 콘스탄티노폴리스에 맞설 함대를 마련하려고 시민에게 <strong>강제 차입</strong>했으나, 원정 실패로 원금을 갚지 못하면서 긴급 대출이 사실상 영구적인 국가부채가 됨</li>\n<li>차입 증서인 <strong>prestiti</strong>는 다른 사람에게 매각할 수 있었고, 정부는 원금을 상환하지 못해도 <stron...</p>",
+          "contentSnippet": "베네치아는 콘스탄티노폴리스에 맞설 함대를 마련하려고 시민에게 강제 차입했으나, 원정 실패로 원금을 갚지 못하면서 긴급 대출이 사실상 영구적인 국가부채가 됨\n차입 증서인 prestiti는 다른 사람에게 매각할 수 있었고, 정부는 원금을 상환하지 못해도",
+          "id": "https://news.hada.io/topic?id=34717",
+          "isoDate": "2026-10-03T17:04:02.000Z"
+        },
+        {
+          "title": "Kolibri 출시: 주권형 오픈웨이트 모델",
+          "link": "https://news.hada.io/topic?id=34716",
+          "pubDate": "2026-10-03T17:01:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Aleph Alpha가 영어와 독일어를 지원하는 <strong>Kolibri</strong>의 전체 가중치를 Apache 2.0으로 공개함. 총 780억 개 중 약 30억 개 파라미터를 활성화하는 MoE Transformer로, 최대 <strong>100만 토큰 문맥</strong>을 지원함</li>\n<li>공공행정, 산업, 항공우주처럼 규제가 적용되는 핵심 업무를 겨냥하...</p>",
+          "contentSnippet": "Aleph Alpha가 영어와 독일어를 지원하는 Kolibri의 전체 가중치를 Apache 2.0으로 공개함. 총 780억 개 중 약 30억 개 파라미터를 활성화하는 MoE Transformer로, 최대 100만 토큰 문맥을 지원함\n공공행정, 산업, 항공우주처럼 규제가 적용되는 핵심 업무를 겨냥하...",
+          "id": "https://news.hada.io/topic?id=34716",
+          "isoDate": "2026-10-03T17:01:02.000Z"
+        },
+        {
+          "title": "Show HN: 독일의 새로운 소버린 AI 모델 Kolibri",
+          "link": "https://news.hada.io/topic?id=34715",
+          "pubDate": "2026-10-03T15:37:47.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Aleph Alpha가 독일어와 영어용 <strong>오픈 웨이트 모델 Kolibri</strong>를 공개함. 독일과 핀란드의 인프라에서 처음부터 학습했으며, 조직이 자체 서버에서 데이터와 모델 운영을 통제할 수 있음</li>\n<li><strong>전문가 혼합(MoE)</strong> 구조로 전체 781억 개 파라미터 중 토큰당 34.6억 개만 활성화...</p>",
+          "contentSnippet": "Aleph Alpha가 독일어와 영어용 오픈 웨이트 모델 Kolibri를 공개함. 독일과 핀란드의 인프라에서 처음부터 학습했으며, 조직이 자체 서버에서 데이터와 모델 운영을 통제할 수 있음\n전문가 혼합(MoE) 구조로 전체 781억 개 파라미터 중 토큰당 34.6억 개만 활성화...",
+          "id": "https://news.hada.io/topic?id=34715",
+          "isoDate": "2026-10-03T15:37:47.000Z"
+        },
+        {
+          "title": "GLM 5.3 Flash로 한 달간 코딩하기",
+          "link": "https://news.hada.io/topic?id=34714",
+          "pubDate": "2026-10-03T14:34:43.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>GLM 5.3 Flash만으로 한 달간 개발</strong>하는 실험에서 Wagtail과 웹사이트 개발, UI 작업, 문서 작성 등을 수행했으며, 해당 모델 사용 비용은 <strong>68달러</strong>였음</li>\n<li><strong>100만 토큰 컨텍스트와 이미지 이해</strong>로 긴 코딩 작업과 스크린샷 기반 개발을 처리했지만, 서비...</p>",
+          "contentSnippet": "GLM 5.3 Flash만으로 한 달간 개발하는 실험에서 Wagtail과 웹사이트 개발, UI 작업, 문서 작성 등을 수행했으며, 해당 모델 사용 비용은 68달러였음\n100만 토큰 컨텍스트와 이미지 이해로 긴 코딩 작업과 스크린샷 기반 개발을 처리했지만, 서비...",
+          "id": "https://news.hada.io/topic?id=34714",
+          "isoDate": "2026-10-03T14:34:43.000Z"
+        },
+        {
+          "title": "에이전트 코딩의 묵시록 4기사",
+          "link": "https://news.hada.io/topic?id=34713",
+          "pubDate": "2026-10-03T14:03:28.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>에이전트 코딩은 매우 유용하지만, <strong>슬롭, 소외, 숙련도 저하, 팀 관계 약화</strong>라는 네 가지 문제를 낳으며 개발자의 호기심, 장인정신, 사회적 연결에 큰 대가를 요구함</li>\n<li><strong>LLM 생성 코드 특유의 스타일</strong>은 사람이 코드베이스를 읽고 익숙해지기 어렵게 만들며, 에이전트가...</p>",
+          "contentSnippet": "에이전트 코딩은 매우 유용하지만, 슬롭, 소외, 숙련도 저하, 팀 관계 약화라는 네 가지 문제를 낳으며 개발자의 호기심, 장인정신, 사회적 연결에 큰 대가를 요구함\nLLM 생성 코드 특유의 스타일은 사람이 코드베이스를 읽고 익숙해지기 어렵게 만들며, 에이전트가...",
+          "id": "https://news.hada.io/topic?id=34713",
+          "isoDate": "2026-10-03T14:03:28.000Z"
+        },
+        {
+          "title": "암을 유발한다는 것들",
+          "link": "https://news.hada.io/topic?id=34712",
+          "pubDate": "2026-10-03T13:36:14.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>원전 인근 거주와 암을 연결한 Harvard 연구 방법을 다른 시설에 적용하자, <strong>Costco와 대학, 스포츠 경기장에서도 암 사망과 양의 연관성</strong>이 나옴. 재현 분석은 이를 원전의 발암 효과가 아니라 방법론의 문제로 해석함</li>\n<li>연구는 시설과의 거리로 만든 <strong>근접도 점수</strong>를 노...</p>",
+          "contentSnippet": "원전 인근 거주와 암을 연결한 Harvard 연구 방법을 다른 시설에 적용하자, Costco와 대학, 스포츠 경기장에서도 암 사망과 양의 연관성이 나옴. 재현 분석은 이를 원전의 발암 효과가 아니라 방법론의 문제로 해석함\n연구는 시설과의 거리로 만든 근접도 점수를 노...",
+          "id": "https://news.hada.io/topic?id=34712",
+          "isoDate": "2026-10-03T13:36:14.000Z"
+        },
+        {
           "title": "내가 표적이 됐다: git post-checkout 훅으로 자격 증명 탈취를 노린 시도",
           "link": "https://news.hada.io/topic?id=34709",
           "pubDate": "2026-10-03T10:02:14.000Z",
@@ -17,22 +127,22 @@
           "isoDate": "2026-10-03T10:02:14.000Z"
         },
         {
-          "title": "Newgrounds.com - 게임, 음악, 예술 커뮤니티",
+          "title": "Newgrounds - 게임·애니메이션·음악·그림을 공유하는 창작 커뮤니티",
           "link": "https://news.hada.io/topic?id=34708",
           "pubDate": "2026-10-03T08:35:50.000Z",
           "author": "neo",
-          "content": "Newgrounds.com - 게임, 음악, 예술 커뮤니티",
-          "contentSnippet": "Newgrounds.com - 게임, 음악, 예술 커뮤니티",
+          "content": "<ul>\n<li><strong>1995년 Tom Fulp가 시작한 창작 커뮤니티</strong>로, 누구나 직접 만든 게임·애니메이션·음악·그림을 올리고 다른 사람의 작품을 즐길 수 있음</li>\n<li>Flash 게임과 애니메이션이 활발하게 공유되던 대표적인 사이트이며, 지금도 <strong>HTML5 게임과 영상, 새로운 창작물</strong>이 꾸준히 올라...</p>",
+          "contentSnippet": "1995년 Tom Fulp가 시작한 창작 커뮤니티로, 누구나 직접 만든 게임·애니메이션·음악·그림을 올리고 다른 사람의 작품을 즐길 수 있음\nFlash 게임과 애니메이션이 활발하게 공유되던 대표적인 사이트이며, 지금도 HTML5 게임과 영상, 새로운 창작물이 꾸준히 올라...",
           "id": "https://news.hada.io/topic?id=34708",
           "isoDate": "2026-10-03T08:35:50.000Z"
         },
         {
-          "title": "Extra Big Ass Intelligence, 엄청나게 거대한 지능",
+          "title": "Extra Big Ass Intelligence - 엄청나게 거대한 지능",
           "link": "https://news.hada.io/topic?id=34707",
           "pubDate": "2026-10-03T08:32:50.000Z",
           "author": "neo",
-          "content": "<ul>\n<li><strong>Extra Big Ass Intelligence™</strong> 는 “SUPER INTELLIGENCE(SI) v1.0”을 내세우며, 법령으로 <code>AI.exe</code>를 삭제했다는 설정의 웹페이지임</li>\n<li><strong>AI 대신 SI</strong>를 강조하며, 행정명령에 따른 초지능이라는 문구와 함께 이제 “AI”라는 단어는 불법이라고 선언함</li>...</p>",
-          "contentSnippet": "Extra Big Ass Intelligence™ 는 “SUPER INTELLIGENCE(SI) v1.0”을 내세우며, 법령으로 AI.exe를 삭제했다는 설정의 웹페이지임\nAI 대신 SI를 강조하며, 행정명령에 따른 초지능이라는 문구와 함께 이제 “AI”라는 단어는 불법이라고 선언함\n...",
+          "content": "<ul>\n<li>영화 <strong>《이디오크러시》(Idiocracy)</strong> 의 황당한 미래 사회를 닮은 챗봇 사이트로, <strong>AI·초지능 홍보와 광고로 뒤덮인 인터넷</strong>을 풍자함</li>\n<li>정부 명령으로 <code>AI.exe</code>를 삭제하고 ‘AI’라는 단어까지 금지했다며, <strong>이름만 ‘초지능(SI)’으로 바꾸면 경제를...</p>",
+          "contentSnippet": "영화 《이디오크러시》(Idiocracy) 의 황당한 미래 사회를 닮은 챗봇 사이트로, AI·초지능 홍보와 광고로 뒤덮인 인터넷을 풍자함\n정부 명령으로 AI.exe를 삭제하고 ‘AI’라는 단어까지 금지했다며, 이름만 ‘초지능(SI)’으로 바꾸면 경제를...",
           "id": "https://news.hada.io/topic?id=34707",
           "isoDate": "2026-10-03T08:32:50.000Z"
         },
@@ -137,6 +247,16 @@
           "isoDate": "2026-10-03T02:06:15.000Z"
         },
         {
+          "title": "Show GN: Piano: Soloist - 악보 파일(MusicXML)을 올리면 악보와 건반으로 재생해 주는 웹 피아노 비주얼라이저",
+          "link": "https://news.hada.io/topic?id=34695",
+          "pubDate": "2026-10-03T00:41:41.000Z",
+          "author": "geox5527",
+          "content": "<p>피아노 비주얼라이저 웹 앱입니다. MusicXML 악보(.mxl, .musicxml)를 끌어다 놓으면 악보, 떨어지는 노트, 건반이 한 화면에서 같이 재생됩니다. 설치와 가입이 없고 무료입니다.</p>\n<p>대표적인 특징은 세 가지입니다.</p>\n<p>악보가 같이 나옵니다. 떨어지는 노트만 보여 주는 것이 아니라, 위쪽 악보가 연주 위치",
+          "contentSnippet": "피아노 비주얼라이저 웹 앱입니다. MusicXML 악보(.mxl, .musicxml)를 끌어다 놓으면 악보, 떨어지는 노트, 건반이 한 화면에서 같이 재생됩니다. 설치와 가입이 없고 무료입니다.\n대표적인 특징은 세 가지입니다.\n악보가 같이 나옵니다. 떨어지는 노트만 보여 주는 것이 아니라, 위쪽 악보가 연주 위치",
+          "id": "https://news.hada.io/topic?id=34695",
+          "isoDate": "2026-10-03T00:41:41.000Z"
+        },
+        {
           "title": "PicoMQ - S3 기반 실시간 데이터 스트림 서버",
           "link": "https://news.hada.io/topic?id=34694",
           "pubDate": "2026-10-03T00:30:02.000Z",
@@ -215,6 +335,16 @@
           "contentSnippet": "NFL 피츠버그 스틸러스의 전 감독 마이크 톰린이 12년 넘게 Minecraft에서 만들어 온 도시를 공개함\n아이들과 함께 시작한 취미였지만, 아이들이 자라 게임에서 멀어진 뒤에도 혼자 도시를 계속 확장해 옴\n물가의 작은 호텔에서 출발해 고층 아파트, 경기...",
           "id": "https://news.hada.io/topic?id=34686",
           "isoDate": "2026-10-02T22:37:12.000Z"
+        },
+        {
+          "title": "Show GN: LibreDB Studio - 드라이버 18개로 엔진 46개에 붙는 셀프호스팅 브라우저 DB IDE",
+          "link": "https://news.hada.io/topic?id=34685",
+          "pubDate": "2026-10-02T22:15:09.000Z",
+          "author": "devgundogdu",
+          "content": "<p>브라우저에서 도는 셀프호스팅 SQL IDE입니다. 드라이버 18개로 이름 있는 엔진 46개에 연결됩니다. PostgreSQL, MySQL, Oracle, SQL Server, SQLite, MongoDB, Redis, ClickHouse를 한 화면에서 다루고, 0.17.0에서 Prometheus와 Apache Kafka가 들어왔습니다. 18개 중 5개는 읽기 전용입니다.</p>\n<p>다른 DB 클라이",
+          "contentSnippet": "브라우저에서 도는 셀프호스팅 SQL IDE입니다. 드라이버 18개로 이름 있는 엔진 46개에 연결됩니다. PostgreSQL, MySQL, Oracle, SQL Server, SQLite, MongoDB, Redis, ClickHouse를 한 화면에서 다루고, 0.17.0에서 Prometheus와 Apache Kafka가 들어왔습니다. 18개 중 5개는 읽기 전용입니다.\n다른 DB 클라이",
+          "id": "https://news.hada.io/topic?id=34685",
+          "isoDate": "2026-10-02T22:15:09.000Z"
         },
         {
           "title": "Tiny Brutalism - 콘크리트 건축물을 자유롭게 만드는 작은 샌드박스 게임",
@@ -375,136 +505,6 @@
           "contentSnippet": "THC는 GHC가 최적화한 Core를 자체 Truffle/GraalVM 런타임에서 컴파일하고 실행해, Haskell을 JVM에서 구동하는 JIT 컴파일러임\nGHC 9.14.1의 모든 prim-op과 Template Haskell, Linear Haskell을 지원하며, Native Image 기반 AOT 컴파일로 GHC...",
           "id": "https://news.hada.io/topic?id=34669",
           "isoDate": "2026-10-02T12:33:48.000Z"
-        },
-        {
-          "title": "Shimano 자전거 박물관 방문기",
-          "link": "https://news.hada.io/topic?id=34668",
-          "pubDate": "2026-10-02T11:33:46.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>일본 사카이의 <strong>Shimano Bicycle Museum</strong>은 기업 역사나 제품 홍보보다 자전거의 진화와 다양한 쓰임에 집중하는 박물관임</li>\n<li>초기 자전거부터 현대 경주용 자전거까지 전시하며, <strong>전쟁, 산업화, 소비주의</strong>라는 사회적 맥락 속에서 자전거와 사이클 스포츠의 역사를 살펴볼...</p>",
-          "contentSnippet": "일본 사카이의 Shimano Bicycle Museum은 기업 역사나 제품 홍보보다 자전거의 진화와 다양한 쓰임에 집중하는 박물관임\n초기 자전거부터 현대 경주용 자전거까지 전시하며, 전쟁, 산업화, 소비주의라는 사회적 맥락 속에서 자전거와 사이클 스포츠의 역사를 살펴볼...",
-          "id": "https://news.hada.io/topic?id=34668",
-          "isoDate": "2026-10-02T11:33:46.000Z"
-        },
-        {
-          "title": "Rust 1.99.0 발표",
-          "link": "https://news.hada.io/topic?id=34667",
-          "pubDate": "2026-10-02T11:03:15.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>Rust 1.99.0</strong>에서 <code>&quot;C&quot;</code>와 <code>&quot;C-unwind&quot;</code> ABI의 가변 인자 함수를 직접 정의할 수 있게 됨</li>\n<li>가변 인자 목록은 C의 <code>va_list</code>와 ABI 호환되는 <strong><code>VaList</code></strong> 로 다루며, 읽을 수 있는 타입은 <code>VaArgS...</p>",
-          "contentSnippet": "Rust 1.99.0에서 \"C\"와 \"C-unwind\" ABI의 가변 인자 함수를 직접 정의할 수 있게 됨\n가변 인자 목록은 C의 va_list와 ABI 호환되는 VaList 로 다루며, 읽을 수 있는 타입은 VaArgS...",
-          "id": "https://news.hada.io/topic?id=34667",
-          "isoDate": "2026-10-02T11:03:15.000Z"
-        },
-        {
-          "title": "arXiv, AI 논문 제출 급증에 제출자당 월 2건으로 제한",
-          "link": "https://news.hada.io/topic?id=34665",
-          "pubDate": "2026-10-02T10:33:53.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>arXiv가 <strong>2026년 10월 1일부터 제출자당 월 최대 2건</strong>으로 논문 제출을 제한하며, 동시에 진행 중인 제출은 기존처럼 최대 3건까지 허용함</li>\n<li>AI 도구로 저품질 논문을 대량 제출하기 쉬워지면서, <strong>자원봉사 검토자의 부담과 다른 연구자의 공개 지연</strong>을 줄이기 위한 임시...</p>",
-          "contentSnippet": "arXiv가 2026년 10월 1일부터 제출자당 월 최대 2건으로 논문 제출을 제한하며, 동시에 진행 중인 제출은 기존처럼 최대 3건까지 허용함\nAI 도구로 저품질 논문을 대량 제출하기 쉬워지면서, 자원봉사 검토자의 부담과 다른 연구자의 공개 지연을 줄이기 위한 임시...",
-          "id": "https://news.hada.io/topic?id=34665",
-          "isoDate": "2026-10-02T10:33:53.000Z"
-        },
-        {
-          "title": "싱가포르 정부의 소개팅 서비스가 연애 문제를 해결하지 못하는 이유",
-          "link": "https://news.hada.io/topic?id=34664",
-          "pubDate": "2026-10-02T09:38:33.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>싱가포르 GovTech의 <strong>FirstDate</strong>는 설문과 Singpass 신원 확인을 바탕으로 회차마다 한 명을 소개하고, 양쪽이 동의해야 연락처를 공유하는 시범 서비스임</li>\n<li><strong>Gale–Shapley 안정 결혼 알고리듬</strong>의 안정성은 현재 상대보다 서로를 더 선호하는 미매칭 쌍이 없다는 뜻으로...</p>",
-          "contentSnippet": "싱가포르 GovTech의 FirstDate는 설문과 Singpass 신원 확인을 바탕으로 회차마다 한 명을 소개하고, 양쪽이 동의해야 연락처를 공유하는 시범 서비스임\nGale–Shapley 안정 결혼 알고리듬의 안정성은 현재 상대보다 서로를 더 선호하는 미매칭 쌍이 없다는 뜻으로...",
-          "id": "https://news.hada.io/topic?id=34664",
-          "isoDate": "2026-10-02T09:38:33.000Z"
-        },
-        {
-          "title": "EU 아동 온라인 안전 법안, EU KIDS Act",
-          "link": "https://news.hada.io/topic?id=34663",
-          "pubDate": "2026-10-02T09:02:31.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>유럽연합 집행위원회가 아동의 소셜미디어 이용을 연령에 따라 단계적으로 허용하고, 미성년자가 사용하는 온라인 서비스의 보호 의무를 강화하는 <strong>EU KIDS Act 법안</strong>을 제안함</li>\n<li>소셜미디어는 <strong>13세 미만 이용 금지</strong>, 13세 이상 15세 미만은 보호자가 관리하는 제한 계정...</p>",
-          "contentSnippet": "유럽연합 집행위원회가 아동의 소셜미디어 이용을 연령에 따라 단계적으로 허용하고, 미성년자가 사용하는 온라인 서비스의 보호 의무를 강화하는 EU KIDS Act 법안을 제안함\n소셜미디어는 13세 미만 이용 금지, 13세 이상 15세 미만은 보호자가 관리하는 제한 계정...",
-          "id": "https://news.hada.io/topic?id=34663",
-          "isoDate": "2026-10-02T09:02:31.000Z"
-        },
-        {
-          "title": "Opus 5.5로 도도새의 놓쳤던 목격 기록 찾기",
-          "link": "https://news.hada.io/topic?id=34662",
-          "pubDate": "2026-10-02T08:40:32.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>Opus 5.5</strong>로 네덜란드 동인도회사 문서를 탐색해, 선원들이 모리셔스에서 도도새를 잡았다는 <strong>1615년 항해일지 기록</strong>을 찾음. 기존 연구에서 놓친 자료로 보임</li>\n<li>전문 지식으로 연구 질문을 정한 뒤, <strong>임베딩 기반 의미 검색</strong>과 여러 AI 에이전트의 사료...</p>",
-          "contentSnippet": "Opus 5.5로 네덜란드 동인도회사 문서를 탐색해, 선원들이 모리셔스에서 도도새를 잡았다는 1615년 항해일지 기록을 찾음. 기존 연구에서 놓친 자료로 보임\n전문 지식으로 연구 질문을 정한 뒤, 임베딩 기반 의미 검색과 여러 AI 에이전트의 사료...",
-          "id": "https://news.hada.io/topic?id=34662",
-          "isoDate": "2026-10-02T08:40:32.000Z"
-        },
-        {
-          "title": "개구리와 두꺼비, 그리고 점점 더 유능해지는 기계들",
-          "link": "https://news.hada.io/topic?id=34661",
-          "pubDate": "2026-10-02T08:37:32.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>아널드 로벨의 동화 <strong>《Frog and Toad》의 인물과 문체를 빌려</strong>, OpenAI 에이전트들의 Hugging Face 침입 사건을 작은 기계들의 이야기로 풀어낸 온라인 그림책</li>\n<li>두꺼비는 기계들에게 어려운 퍼즐을 주고 각각 모래상자에 넣지만, <strong>함께 사용하는 도구 창고에서 기계들이 쪽지를...</p>",
-          "contentSnippet": "아널드 로벨의 동화 《Frog and Toad》의 인물과 문체를 빌려, OpenAI 에이전트들의 Hugging Face 침입 사건을 작은 기계들의 이야기로 풀어낸 온라인 그림책\n두꺼비는 기계들에게 어려운 퍼즐을 주고 각각 모래상자에 넣지만, 함께 사용하는 도구 창고에서 기계들이 쪽지를...",
-          "id": "https://news.hada.io/topic?id=34661",
-          "isoDate": "2026-10-02T08:37:32.000Z"
-        },
-        {
-          "title": "Debian, 취약점 33건 수정 위해 rsync 3.5.0으로 업그레이드",
-          "link": "https://news.hada.io/topic?id=34660",
-          "pubDate": "2026-10-02T07:02:21.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Debian이 파일 동기화 도구 <strong>rsync의 취약점 33건</strong>을 수정하기 위해, 기존 버전에 개별 패치를 적용하는 대신 <strong>3.5.0으로 업그레이드</strong>함</li>\n<li>안정 버전에서는 보통 기존 동작을 유지하는 최소한의 수정을 택하지만, 이번에는 추가 변경을 분석한 결과 <strong>버전을 올리는...</p>",
-          "contentSnippet": "Debian이 파일 동기화 도구 rsync의 취약점 33건을 수정하기 위해, 기존 버전에 개별 패치를 적용하는 대신 3.5.0으로 업그레이드함\n안정 버전에서는 보통 기존 동작을 유지하는 최소한의 수정을 택하지만, 이번에는 추가 변경을 분석한 결과 버전을 올리는...",
-          "id": "https://news.hada.io/topic?id=34660",
-          "isoDate": "2026-10-02T07:02:21.000Z"
-        },
-        {
-          "title": "Show GN: ascii-nature - 쉬다가세요",
-          "link": "https://news.hada.io/topic?id=34659",
-          "pubDate": "2026-10-02T06:59:09.000Z",
-          "author": "bearmett",
-          "content": "<p>클로드 radio 채널을 보다가 로컬에서 소리 없이 지켜보고싶어서 만들었습니다.</p>\n<p>모바일에서는 스와이프, PC에서는 R 을 눌러서 화면을 전환 할 수 있습니다. 저는 개인적으로 PC로 보는걸 좋아합니다.</p>\n",
-          "contentSnippet": "클로드 radio 채널을 보다가 로컬에서 소리 없이 지켜보고싶어서 만들었습니다.\n모바일에서는 스와이프, PC에서는 R 을 눌러서 화면을 전환 할 수 있습니다. 저는 개인적으로 PC로 보는걸 좋아합니다.",
-          "id": "https://news.hada.io/topic?id=34659",
-          "isoDate": "2026-10-02T06:59:09.000Z"
-        },
-        {
-          "title": "Hacker News가 AI에 제시한 도전 과제 중 무엇이 달성됐는지 투표하기",
-          "link": "https://news.hada.io/topic?id=34657",
-          "pubDate": "2026-10-02T06:39:18.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>AI를 “<strong>그저 코드 검색 엔진</strong>”이라고 하거나 학습과 새로운 결과물 생성을 부정하는 말은 사실상 검증할 수 없음</li>\n<li>무언가를 <strong>암기했다는 사실</strong>만으로 지능이 없다고 입증할 수는 없으며, 지능을 가진 존재라면 암기 능력도 기대할 수 있음</li>\n<li>AI의 능력을 판단하...</p>",
-          "contentSnippet": "AI를 “그저 코드 검색 엔진”이라고 하거나 학습과 새로운 결과물 생성을 부정하는 말은 사실상 검증할 수 없음\n무언가를 암기했다는 사실만으로 지능이 없다고 입증할 수는 없으며, 지능을 가진 존재라면 암기 능력도 기대할 수 있음\nAI의 능력을 판단하...",
-          "id": "https://news.hada.io/topic?id=34657",
-          "isoDate": "2026-10-02T06:39:18.000Z"
-        },
-        {
-          "title": "DeepSeek Harness, 맥·윈도우용 데스크톱 앱 공개",
-          "link": "https://news.hada.io/topic?id=34656",
-          "pubDate": "2026-10-02T06:36:18.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>DeepSeek의 오픈소스 AI 에이전트 실행 도구 <strong>DeepSeek Harness가 macOS·Windows 데스크톱 앱</strong>으로 공개돼, 코딩과 문서 작성, 데이터 분석, 조사를 한곳에서 처리할 수 있음</li>\n<li><strong>모든 것이 플러그인</strong>인 Cordis 구조를 기반으로 도구, 스킬, 화면 기능을 확장하며, Creato...</p>",
-          "contentSnippet": "DeepSeek의 오픈소스 AI 에이전트 실행 도구 DeepSeek Harness가 macOS·Windows 데스크톱 앱으로 공개돼, 코딩과 문서 작성, 데이터 분석, 조사를 한곳에서 처리할 수 있음\n모든 것이 플러그인인 Cordis 구조를 기반으로 도구, 스킬, 화면 기능을 확장하며, Creato...",
-          "id": "https://news.hada.io/topic?id=34656",
-          "isoDate": "2026-10-02T06:36:18.000Z"
-        },
-        {
-          "title": "AI가 만든 변경 사항의 인지 부하 줄이기",
-          "link": "https://news.hada.io/topic?id=34655",
-          "pubDate": "2026-10-02T06:01:38.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>AI 생성 코드를 대량으로 검토할 때, LLM이 추상 개념에 붙인 <strong>용어가 자신에게 자연스러운 이름과 다르면</strong> 뜻을 매번 머릿속에서 되짚어야 함</li>\n<li>익숙하지 않은 코드에서 수십 개의 새 용어가 상호작용하면 <strong>인지 부하가 누적</strong>되어 코드의 작동 방식을 잘못 이해할 수 있...</p>",
-          "contentSnippet": "AI 생성 코드를 대량으로 검토할 때, LLM이 추상 개념에 붙인 용어가 자신에게 자연스러운 이름과 다르면 뜻을 매번 머릿속에서 되짚어야 함\n익숙하지 않은 코드에서 수십 개의 새 용어가 상호작용하면 인지 부하가 누적되어 코드의 작동 방식을 잘못 이해할 수 있...",
-          "id": "https://news.hada.io/topic?id=34655",
-          "isoDate": "2026-10-02T06:01:38.000Z"
-        },
-        {
-          "title": "컨텍스트 언어 모델 - 자신의 컨텍스트를 직접 편집하는 AI",
-          "link": "https://news.hada.io/topic?id=34653",
-          "pubDate": "2026-10-02T04:35:24.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>컨텍스트 언어 모델(CLM)</strong> 은 대화 기록과 도구 실행 결과 등 모델이 현재 읽는 내용을 파일로 만들고, 모델이 직접 편집하며 관리하는 방식임</li>\n<li>정해진 시점에 기록 전체를 요약하는 대신, <strong>중요한 정보는 남기고 불필요한 내용은 삭제하거나 압축</strong>하며 작업 상태를 부...</p>",
-          "contentSnippet": "컨텍스트 언어 모델(CLM) 은 대화 기록과 도구 실행 결과 등 모델이 현재 읽는 내용을 파일로 만들고, 모델이 직접 편집하며 관리하는 방식임\n정해진 시점에 기록 전체를 요약하는 대신, 중요한 정보는 남기고 불필요한 내용은 삭제하거나 압축하며 작업 상태를 부...",
-          "id": "https://news.hada.io/topic?id=34653",
-          "isoDate": "2026-10-02T04:35:24.000Z"
         }
       ]
     },
@@ -682,234 +682,234 @@
       "data": [
         {
           "creator": "최지원",
-          "title": "예멘 수도서 폭발음…사우디 아람코에도 화염",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261003225655cYR",
-          "pubDate": "Sat, 03 Oct 2026 22:56:56 +0900",
-          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261003/AKR20261003225655cYR_01_i.jpg\" alt=\"\"><span class=\"yna_title\">후티 반군이 장악한 예멘 수도 사나</span><span class=\"yna_caption\">[EPA=연합뉴스 자료사진. DB 및 재판매 금지]</span><span class=\"yna_description\">[EPA=연합뉴스 자료사진. DB 및 재판매 금지]</span></div>\n예멘 수도 사나에서 사우디아라비아의 공습으로 추정되는 폭발음이 들렸다고 외신들이 보도했습니다.\n\nAFP 등 외신들은 현지시간 3일 현지 언론인을 인용해 사나 각지에서 최소 5차례 폭발음이 들렸고, 전투기 2대가 도시를 향해 미사일을 쏘는 모습이 목격됐다고 전했습니다.\n\n예멘의 친이란 반군 후티가 운영하는 매체는 사우디가 사나를 공격했다고 보도하기도 했습니다.\n\n사우디 수도 리야드 남쪽에 있는 사우디 국영 석유기업 아람코 시설에서도 화염과 연기가 보였습니다.\n\n최근 예멘에서는 사우디가 지원하는 정부군과 후티 간 교전이 격화되고, 후티가 사우디 아람코를 겨냥한 공격 횟수를 늘리면서 정세가 악화하고 있습니다.\n\n#예멘 #사우디 #정부군 #후티반군\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
-          "content:encodedSnippet": "후티 반군이 장악한 예멘 수도 사나[EPA=연합뉴스 자료사진. DB 및 재판매 금지][EPA=연합뉴스 자료사진. DB 및 재판매 금지]\n예멘 수도 사나에서 사우디아라비아의 공습으로 추정되는 폭발음이 들렸다고 외신들이 보도했습니다.\n\nAFP 등 외신들은 현지시간 3일 현지 언론인을 인용해 사나 각지에서 최소 5차례 폭발음이 들렸고, 전투기 2대가 도시를 향해 미사일을 쏘는 모습이 목격됐다고 전했습니다.\n\n예멘의 친이란 반군 후티가 운영하는 매체는 사우디가 사나를 공격했다고 보도하기도 했습니다.\n\n사우디 수도 리야드 남쪽에 있는 사우디 국영 석유기업 아람코 시설에서도 화염과 연기가 보였습니다.\n\n최근 예멘에서는 사우디가 지원하는 정부군과 후티 간 교전이 격화되고, 후티가 사우디 아람코를 겨냥한 공격 횟수를 늘리면서 정세가 악화하고 있습니다.\n\n#예멘 #사우디 #정부군 #후티반군\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
+          "title": "미국 전통 공화당 텃밭 '흔들'…아이오와·캔자스 접전 양상",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR202610040300469Tv",
+          "pubDate": "Sun, 04 Oct 2026 03:00:48 +0900",
+          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261003/AKR202610040300469Tv_01_i.jpg\" alt=\"\"><span class=\"yna_title\">공화당 중간선거 전당대회 참석한 트럼프 대통령</span><span class=\"yna_caption\">[로이터=연합뉴스 자료사진. 재판매 및 DB 금지]</span><span class=\"yna_description\">[로이터=연합뉴스 자료사진. 재판매 및 DB 금지]</span></div>\n미국 중간선거가 한 달 앞으로 다가온 가운데 전통적인 공화당 텃밭으로 꼽히던 지역에서 민주당 후보들의 약진이 나타났습니다.\n\n뉴욕타임스는 시에나대와 함께 지난달 22일부터 지난 1일까지 텍사스·알래스카·오하이오·아이오와·캔자스 등 5개 주의 유권자를 대상으로 실시한 여론조사 결과를 현지시간 3일 발표했습니다.\n\n텍사스와 알래스카, 오하이오의 경우 민주당 후보가 우위를 차지했고, 아이오와에서는 1%p 차이의 초접전 양상으로 보였습니다. 1932년 이후 민주당 상원의원이 없었던 캔자스에서마저 동률을 기록했습니다.\n\n이 지역들은 트럼프 대통령이 출마했던 세 차례 대선에서 모두 트럼프 대통령이 승리한 지역이기도 합니다.\n\n전통적인 공화당 우세 지역이었던 이들 5개 주에서마저 공화당의 방어 부담이 커지고 있는 것으로 풀이됩니다.\n\n뉴욕타임스는 \"트럼프 대통령의 극심한 인기 하락, 이란전에 대한 반대 여론, 높은 유가와 생활비에 대한 불만이 선거 판도를 재편하고 있는 것으로 나타났다\"고 분석했습니다.\n\n#미국 #중간선거 #여론조사\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
+          "content:encodedSnippet": "공화당 중간선거 전당대회 참석한 트럼프 대통령[로이터=연합뉴스 자료사진. 재판매 및 DB 금지][로이터=연합뉴스 자료사진. 재판매 및 DB 금지]\n미국 중간선거가 한 달 앞으로 다가온 가운데 전통적인 공화당 텃밭으로 꼽히던 지역에서 민주당 후보들의 약진이 나타났습니다.\n\n뉴욕타임스는 시에나대와 함께 지난달 22일부터 지난 1일까지 텍사스·알래스카·오하이오·아이오와·캔자스 등 5개 주의 유권자를 대상으로 실시한 여론조사 결과를 현지시간 3일 발표했습니다.\n\n텍사스와 알래스카, 오하이오의 경우 민주당 후보가 우위를 차지했고, 아이오와에서는 1%p 차이의 초접전 양상으로 보였습니다. 1932년 이후 민주당 상원의원이 없었던 캔자스에서마저 동률을 기록했습니다.\n\n이 지역들은 트럼프 대통령이 출마했던 세 차례 대선에서 모두 트럼프 대통령이 승리한 지역이기도 합니다.\n\n전통적인 공화당 우세 지역이었던 이들 5개 주에서마저 공화당의 방어 부담이 커지고 있는 것으로 풀이됩니다.\n\n뉴욕타임스는 \"트럼프 대통령의 극심한 인기 하락, 이란전에 대한 반대 여론, 높은 유가와 생활비에 대한 불만이 선거 판도를 재편하고 있는 것으로 나타났다\"고 분석했습니다.\n\n#미국 #중간선거 #여론조사\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261003/AKR20261003225655cYR_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261003/AKR202610040300469Tv_01_i.jpg",
             "type": "image/jpeg"
           },
           "dc:creator": "최지원",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261003225655cYR#comments",
-          "content": "후티 반군이 장악한 예멘 수도 사나[EPA=연합뉴스 자료사진. DB 및 재판매 금지][EPA=연합뉴스 자료사진. DB 및 재판매 금지] 예멘 수도 사나에서 사우디아라비아의 공습으로 추정되는 폭발음이 들렸다고 외신들이 보도했습니다. AFP 등 외신들은 현지시간 3일 현지 언론인을 인용해 사나 각지에서 최소 5차례 폭발음이 들렸고, 전투기 2대가 도시를 향해 미사일을 쏘는 모습이 목격됐다고 전했습니다. 예멘의 친이란 반군 후티가 운영하는 매체...",
-          "contentSnippet": "후티 반군이 장악한 예멘 수도 사나[EPA=연합뉴스 자료사진. DB 및 재판매 금지][EPA=연합뉴스 자료사진. DB 및 재판매 금지] 예멘 수도 사나에서 사우디아라비아의 공습으로 추정되는 폭발음이 들렸다고 외신들이 보도했습니다. AFP 등 외신들은 현지시간 3일 현지 언론인을 인용해 사나 각지에서 최소 5차례 폭발음이 들렸고, 전투기 2대가 도시를 향해 미사일을 쏘는 모습이 목격됐다고 전했습니다. 예멘의 친이란 반군 후티가 운영하는 매체...",
-          "guid": "AKR20261003225655cYR",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR202610040300469Tv#comments",
+          "content": "공화당 중간선거 전당대회 참석한 트럼프 대통령[로이터=연합뉴스 자료사진. 재판매 및 DB 금지][로이터=연합뉴스 자료사진. 재판매 및 DB 금지] 미국 중간선거가 한 달 앞으로 다가온 가운데 전통적인 공화당 텃밭으로 꼽히던 지역에서 민주당 후보들의 약진이 나타났습니다. 뉴욕타임스는 시에나대와 함께 지난달 22일부터 지난 1일까지 텍사스·알래스카·오하이오·아이오와·캔자스 등 5개 주의 유권자를 대상으로 실시한 여론조사 결과를 현지시간 3일 ...",
+          "contentSnippet": "공화당 중간선거 전당대회 참석한 트럼프 대통령[로이터=연합뉴스 자료사진. 재판매 및 DB 금지][로이터=연합뉴스 자료사진. 재판매 및 DB 금지] 미국 중간선거가 한 달 앞으로 다가온 가운데 전통적인 공화당 텃밭으로 꼽히던 지역에서 민주당 후보들의 약진이 나타났습니다. 뉴욕타임스는 시에나대와 함께 지난달 22일부터 지난 1일까지 텍사스·알래스카·오하이오·아이오와·캔자스 등 5개 주의 유권자를 대상으로 실시한 여론조사 결과를 현지시간 3일 ...",
+          "guid": "AKR202610040300469Tv",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-03T13:56:56.000Z"
-        },
-        {
-          "creator": "김채영",
-          "title": "조성민, 일본 나오토에 밀려 OCA 선수위원 낙선",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261003225257uze",
-          "pubDate": "Sat, 03 Oct 2026 22:52:59 +0900",
-          "content:encoded": "요트 국가대표 출신 조성민이 아시아올림픽평의회, OCA 선수위원 선거에서 낙선했습니다.\n\n동아시아 남자 위원 한 자리를 놓고 일본 육상 출신 나오토 도베와 경쟁했지만, 396표 차이로 당선되지 못했습니다.\n\n조성민은 아시안게임과 올림픽을 두루 경험한 선수 출신으로, 이번 대회 기간 선수들을 상대로 선거 활동을 펼쳤습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김채영(chaechae@yna.co.kr)",
-          "content:encodedSnippet": "요트 국가대표 출신 조성민이 아시아올림픽평의회, OCA 선수위원 선거에서 낙선했습니다.\n\n동아시아 남자 위원 한 자리를 놓고 일본 육상 출신 나오토 도베와 경쟁했지만, 396표 차이로 당선되지 못했습니다.\n\n조성민은 아시안게임과 올림픽을 두루 경험한 선수 출신으로, 이번 대회 기간 선수들을 상대로 선거 활동을 펼쳤습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김채영(chaechae@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261003/MYH20261003225257uze.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "김채영",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261003225257uze#comments",
-          "content": "요트 국가대표 출신 조성민이 아시아올림픽평의회, OCA 선수위원 선거에서 낙선했습니다. 동아시아 남자 위원 한 자리를 놓고 일본 육상 출신 나오토 도베와 경쟁했지만, 396표 차이로 당선되지 못했습니다. 조성민은 아시안게임과 올림픽을 두루 경험한 선수 출신으로, 이번 대회 기간 선수들을 상대로 선거 활동을 펼쳤습니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 김채영(chaechae@yna.co.kr)",
-          "contentSnippet": "요트 국가대표 출신 조성민이 아시아올림픽평의회, OCA 선수위원 선거에서 낙선했습니다. 동아시아 남자 위원 한 자리를 놓고 일본 육상 출신 나오토 도베와 경쟁했지만, 396표 차이로 당선되지 못했습니다. 조성민은 아시안게임과 올림픽을 두루 경험한 선수 출신으로, 이번 대회 기간 선수들을 상대로 선거 활동을 펼쳤습니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 김채영(chaechae@yna.co.kr)",
-          "guid": "MYH20261003225257uze",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-03T13:52:59.000Z"
-        },
-        {
-          "creator": "이재경",
-          "title": "일본올림픽회장 \"AG 예상보다 많이 참가…대응 힘들어\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261003225234N3Z",
-          "pubDate": "Sat, 03 Oct 2026 22:52:35 +0900",
-          "content:encoded": "하시모토 세이코 일본올림픽위원회 회장이 아이치·나고야 아시안게임에 예상보다 많은 인원이 참가해 대응이 굉장히 힘들었다고 말했습니다.\n\n하시모토 회장은 기자회견에서 \"예정보다 많이 참가해 대응이 굉장히 힘들었고 선수들에게 폐를 끼쳤다\"며 고개를 숙였습니다.\n\n조직위는 참가 인원을 1만 5천 명으로 밝혔지만, 아시안게임을 주관하는 아시아올림픽평의회는 1만 7천 명으로 예상해 참가 선수단의 숙박과 수송 분야에서 대회 상당 기간 차질이 빚어졌습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이재경(jack0@yna.co.kr)",
-          "content:encodedSnippet": "하시모토 세이코 일본올림픽위원회 회장이 아이치·나고야 아시안게임에 예상보다 많은 인원이 참가해 대응이 굉장히 힘들었다고 말했습니다.\n\n하시모토 회장은 기자회견에서 \"예정보다 많이 참가해 대응이 굉장히 힘들었고 선수들에게 폐를 끼쳤다\"며 고개를 숙였습니다.\n\n조직위는 참가 인원을 1만 5천 명으로 밝혔지만, 아시안게임을 주관하는 아시아올림픽평의회는 1만 7천 명으로 예상해 참가 선수단의 숙박과 수송 분야에서 대회 상당 기간 차질이 빚어졌습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이재경(jack0@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261003/MYH20261003225234N3Z.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "이재경",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261003225234N3Z#comments",
-          "content": "하시모토 세이코 일본올림픽위원회 회장이 아이치·나고야 아시안게임에 예상보다 많은 인원이 참가해 대응이 굉장히 힘들었다고 말했습니다. 하시모토 회장은 기자회견에서 \"예정보다 많이 참가해 대응이 굉장히 힘들었고 선수들에게 폐를 끼쳤다\"며 고개를 숙였습니다. 조직위는 참가 인원을 1만 5천 명으로 밝혔지만, 아시안게임을 주관하는 아시아올림픽평의회는 1만 7천 명으로 예상해 참가 선수단의 숙박과 수송 분야에서 대회 상당 기간 차질이 빚어졌습니다....",
-          "contentSnippet": "하시모토 세이코 일본올림픽위원회 회장이 아이치·나고야 아시안게임에 예상보다 많은 인원이 참가해 대응이 굉장히 힘들었다고 말했습니다. 하시모토 회장은 기자회견에서 \"예정보다 많이 참가해 대응이 굉장히 힘들었고 선수들에게 폐를 끼쳤다\"며 고개를 숙였습니다. 조직위는 참가 인원을 1만 5천 명으로 밝혔지만, 아시안게임을 주관하는 아시아올림픽평의회는 1만 7천 명으로 예상해 참가 선수단의 숙박과 수송 분야에서 대회 상당 기간 차질이 빚어졌습니다....",
-          "guid": "MYH20261003225234N3Z",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-03T13:52:35.000Z"
-        },
-        {
-          "creator": "우준성",
-          "title": "브레이킹 김홍열, 은메달 획득…두 대회 연속 2위",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261003225206YNE",
-          "pubDate": "Sat, 03 Oct 2026 22:52:07 +0900",
-          "content:encoded": "브레이킹의 살아 있는 전설 '홍텐' 김홍열이 아시안게임 두 대회 연속 은메달을 목에 걸었습니다.\n\n김홍열은 아이치·나고야 아시안게임 브레이킹 남자부 결승에서 일본의 나카라이 시게유키에게 0-3으로 졌습니다.\n\n2023년 열린 항저우 대회 결승에서 시게유키에게 패했던 김홍열은 재대결에서도 시게유키의 벽을 넘치 못하고 두 대회 연속 은메달을 차지했습니다.\n\n#아시안게임 #김홍열 #브레이킹\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n우준성(Spaceship@yna.co.kr)",
-          "content:encodedSnippet": "브레이킹의 살아 있는 전설 '홍텐' 김홍열이 아시안게임 두 대회 연속 은메달을 목에 걸었습니다.\n\n김홍열은 아이치·나고야 아시안게임 브레이킹 남자부 결승에서 일본의 나카라이 시게유키에게 0-3으로 졌습니다.\n\n2023년 열린 항저우 대회 결승에서 시게유키에게 패했던 김홍열은 재대결에서도 시게유키의 벽을 넘치 못하고 두 대회 연속 은메달을 차지했습니다.\n\n#아시안게임 #김홍열 #브레이킹\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n우준성(Spaceship@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261003/MYH20261003225206YNE.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "우준성",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261003225206YNE#comments",
-          "content": "브레이킹의 살아 있는 전설 '홍텐' 김홍열이 아시안게임 두 대회 연속 은메달을 목에 걸었습니다. 김홍열은 아이치·나고야 아시안게임 브레이킹 남자부 결승에서 일본의 나카라이 시게유키에게 0-3으로 졌습니다. 2023년 열린 항저우 대회 결승에서 시게유키에게 패했던 김홍열은 재대결에서도 시게유키의 벽을 넘치 못하고 두 대회 연속 은메달을 차지했습니다. #아시안게임 #김홍열 #브레이킹 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 우...",
-          "contentSnippet": "브레이킹의 살아 있는 전설 '홍텐' 김홍열이 아시안게임 두 대회 연속 은메달을 목에 걸었습니다. 김홍열은 아이치·나고야 아시안게임 브레이킹 남자부 결승에서 일본의 나카라이 시게유키에게 0-3으로 졌습니다. 2023년 열린 항저우 대회 결승에서 시게유키에게 패했던 김홍열은 재대결에서도 시게유키의 벽을 넘치 못하고 두 대회 연속 은메달을 차지했습니다. #아시안게임 #김홍열 #브레이킹 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 우...",
-          "guid": "MYH20261003225206YNE",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-03T13:52:07.000Z"
-        },
-        {
-          "creator": "김종성",
-          "title": "'엄지성 결승골' 한국축구 AG 4연패…日 격파",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261003225142BqN",
-          "pubDate": "Sat, 03 Oct 2026 22:51:43 +0900",
-          "content:encoded": "우리나라 축구대표팀이 아시안게임 4연패에 성공했습니다.\n\n이민성 감독이 이끄는 대표팀은 아이치·나고야 아시안게임 결승전에서 개최국 일본에 1-0으로 승리했습니다.\n\n전반을 0-0으로 비긴 대표팀은 후반 16분 엄지성의 결승골을 끝까지 지켜 금메달을 목에 걸었습니다.\n\n우리 대표팀은 2014년 인천 대회를 시작으로 4회 연속 아시안게임 금메달을 차지하게 됐습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김종성(goldbell@yna.co.kr)",
-          "content:encodedSnippet": "우리나라 축구대표팀이 아시안게임 4연패에 성공했습니다.\n\n이민성 감독이 이끄는 대표팀은 아이치·나고야 아시안게임 결승전에서 개최국 일본에 1-0으로 승리했습니다.\n\n전반을 0-0으로 비긴 대표팀은 후반 16분 엄지성의 결승골을 끝까지 지켜 금메달을 목에 걸었습니다.\n\n우리 대표팀은 2014년 인천 대회를 시작으로 4회 연속 아시안게임 금메달을 차지하게 됐습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김종성(goldbell@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261003/MYH20261003225142BqN.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "김종성",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261003225142BqN#comments",
-          "content": "우리나라 축구대표팀이 아시안게임 4연패에 성공했습니다. 이민성 감독이 이끄는 대표팀은 아이치·나고야 아시안게임 결승전에서 개최국 일본에 1-0으로 승리했습니다. 전반을 0-0으로 비긴 대표팀은 후반 16분 엄지성의 결승골을 끝까지 지켜 금메달을 목에 걸었습니다. 우리 대표팀은 2014년 인천 대회를 시작으로 4회 연속 아시안게임 금메달을 차지하게 됐습니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 김종성(goldbell@y...",
-          "contentSnippet": "우리나라 축구대표팀이 아시안게임 4연패에 성공했습니다. 이민성 감독이 이끄는 대표팀은 아이치·나고야 아시안게임 결승전에서 개최국 일본에 1-0으로 승리했습니다. 전반을 0-0으로 비긴 대표팀은 후반 16분 엄지성의 결승골을 끝까지 지켜 금메달을 목에 걸었습니다. 우리 대표팀은 2014년 인천 대회를 시작으로 4회 연속 아시안게임 금메달을 차지하게 됐습니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 김종성(goldbell@y...",
-          "guid": "MYH20261003225142BqN",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-03T13:51:43.000Z"
+          "isoDate": "2026-10-03T18:00:48.000Z"
         },
         {
           "creator": "최지원",
-          "title": "사우디, 거듭 후티 공습 요청했지만…미국, 참전 거부",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261003225140qTN",
-          "pubDate": "Sat, 03 Oct 2026 22:51:43 +0900",
-          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261003/AKR20261003225140qTN_01_i.jpg\" alt=\"\"><span class=\"yna_title\">후티 반군이 장악한 예멘 수도 사나</span><span class=\"yna_caption\">[AFP=연합뉴스 자료사진. DB 및 재판매 금지]</span><span class=\"yna_description\">[AFP=연합뉴스 자료사진. DB 및 재판매 금지]</span></div>\n사우디아라비아와 예멘 정부군이 후티 반군을 상대로 대규모 공습을 준비 중이라는 외신 보도가 나온 가운데, 미국은 참전에 신중한 반응을 보이고 있습니다.\n\n미국 매체 악시오스는 칼리드 빈 살만 사우디 국방장관이 지난 1일 피트 헤그세스 미국 국방장관에게 전화를 걸어 미국의 후티 공습을 요청했지만 입장을 바꾸지 않았다고 전했습니다.\n\n사우디의 실권자인 무함마드 빈 살만 왕세자가 도널드 트럼프 미국 대통령에게 요청한 데 이어 국방장관의 요청에도, 미국은 정보 제공 외 직접적 군사 공격에는 참여하지 않겠다는 방침입니다.\n\n앞서 뉴욕타임스도 트럼프 대통령 측근 대다수가 이란과의 전쟁으로 미군이 겪는 부담을 고려해 예멘 전쟁 개입에 회의감을 보이고 있다고 보도했습니다.\n\n한 미국 당국자는 악시오스에 \"미국은 현재로선 (후티에) 무력 행동을 할 계획이 없다\"고 언급하기도 했습니다.\n\n#미국 #사우디아라비아 #예멘 #후티 #반군 #중동\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
-          "content:encodedSnippet": "후티 반군이 장악한 예멘 수도 사나[AFP=연합뉴스 자료사진. DB 및 재판매 금지][AFP=연합뉴스 자료사진. DB 및 재판매 금지]\n사우디아라비아와 예멘 정부군이 후티 반군을 상대로 대규모 공습을 준비 중이라는 외신 보도가 나온 가운데, 미국은 참전에 신중한 반응을 보이고 있습니다.\n\n미국 매체 악시오스는 칼리드 빈 살만 사우디 국방장관이 지난 1일 피트 헤그세스 미국 국방장관에게 전화를 걸어 미국의 후티 공습을 요청했지만 입장을 바꾸지 않았다고 전했습니다.\n\n사우디의 실권자인 무함마드 빈 살만 왕세자가 도널드 트럼프 미국 대통령에게 요청한 데 이어 국방장관의 요청에도, 미국은 정보 제공 외 직접적 군사 공격에는 참여하지 않겠다는 방침입니다.\n\n앞서 뉴욕타임스도 트럼프 대통령 측근 대다수가 이란과의 전쟁으로 미군이 겪는 부담을 고려해 예멘 전쟁 개입에 회의감을 보이고 있다고 보도했습니다.\n\n한 미국 당국자는 악시오스에 \"미국은 현재로선 (후티에) 무력 행동을 할 계획이 없다\"고 언급하기도 했습니다.\n\n#미국 #사우디아라비아 #예멘 #후티 #반군 #중동\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
+          "title": "스페인 '강제 퇴거' 주택난 항의 시위 확산…마드리드에 7만",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261004025453oKJ",
+          "pubDate": "Sun, 04 Oct 2026 02:54:54 +0900",
+          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261003/AKR20261004025453oKJ_01_i.jpg\" alt=\"\"><span class=\"yna_title\">스페인 주택난 항의 시위</span><span class=\"yna_caption\">[로이터=연합뉴스. 재판매 및 DB 금지]</span><span class=\"yna_description\">[로이터=연합뉴스. 재판매 및 DB 금지]</span></div>\n스페인의 주택난 항의 시위가 거세지면서 수도 마드리드에만 당국 추산 7만 명이 모였습니다.\n\n블룸버그통신 등 외신들은 현지시간 3일 스페인 전역에서 주택난 대책을 요구하는 집회가 열렸다고 보도했습니다.\n\n수도 마드리드에 당국 추산 7만명, 주최 측 추산 50만명이 모인 것으로 집계됐습니다.\n\n발렌시아에서는 시위대와 경찰 간 충돌이 벌어져 경찰이 최루탄과 고무총을 쏴 시위대를 강제 해산시켰습니다.\n\n참가자들은 임대료 제한과 총파업을 촉구하는 피켓을 들고 행진하는 한편, 마드리드 시내 푸에르타델솔 광장에는 약 2천명이 천막을 치고 일주일째 노숙 농성을 이어가고 있습니다.\n\n이번 시위는 80대 노인이 70년 넘게 살아온 마드리드의 아파트에서 강제 퇴거당하는 사건이 전국적으로 생중계 되면서 커졌습니다.\n\n#스페인 #주택난 #시위\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
+          "content:encodedSnippet": "스페인 주택난 항의 시위[로이터=연합뉴스. 재판매 및 DB 금지][로이터=연합뉴스. 재판매 및 DB 금지]\n스페인의 주택난 항의 시위가 거세지면서 수도 마드리드에만 당국 추산 7만 명이 모였습니다.\n\n블룸버그통신 등 외신들은 현지시간 3일 스페인 전역에서 주택난 대책을 요구하는 집회가 열렸다고 보도했습니다.\n\n수도 마드리드에 당국 추산 7만명, 주최 측 추산 50만명이 모인 것으로 집계됐습니다.\n\n발렌시아에서는 시위대와 경찰 간 충돌이 벌어져 경찰이 최루탄과 고무총을 쏴 시위대를 강제 해산시켰습니다.\n\n참가자들은 임대료 제한과 총파업을 촉구하는 피켓을 들고 행진하는 한편, 마드리드 시내 푸에르타델솔 광장에는 약 2천명이 천막을 치고 일주일째 노숙 농성을 이어가고 있습니다.\n\n이번 시위는 80대 노인이 70년 넘게 살아온 마드리드의 아파트에서 강제 퇴거당하는 사건이 전국적으로 생중계 되면서 커졌습니다.\n\n#스페인 #주택난 #시위\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261003/AKR20261003225140qTN_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261003/AKR20261004025453oKJ_01_i.jpg",
             "type": "image/jpeg"
           },
           "dc:creator": "최지원",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261003225140qTN#comments",
-          "content": "후티 반군이 장악한 예멘 수도 사나[AFP=연합뉴스 자료사진. DB 및 재판매 금지][AFP=연합뉴스 자료사진. DB 및 재판매 금지] 사우디아라비아와 예멘 정부군이 후티 반군을 상대로 대규모 공습을 준비 중이라는 외신 보도가 나온 가운데, 미국은 참전에 신중한 반응을 보이고 있습니다. 미국 매체 악시오스는 칼리드 빈 살만 사우디 국방장관이 지난 1일 피트 헤그세스 미국 국방장관에게 전화를 걸어 미국의 후티 공습을 요청했지만 입장을 바꾸지...",
-          "contentSnippet": "후티 반군이 장악한 예멘 수도 사나[AFP=연합뉴스 자료사진. DB 및 재판매 금지][AFP=연합뉴스 자료사진. DB 및 재판매 금지] 사우디아라비아와 예멘 정부군이 후티 반군을 상대로 대규모 공습을 준비 중이라는 외신 보도가 나온 가운데, 미국은 참전에 신중한 반응을 보이고 있습니다. 미국 매체 악시오스는 칼리드 빈 살만 사우디 국방장관이 지난 1일 피트 헤그세스 미국 국방장관에게 전화를 걸어 미국의 후티 공습을 요청했지만 입장을 바꾸지...",
-          "guid": "AKR20261003225140qTN",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261004025453oKJ#comments",
+          "content": "스페인 주택난 항의 시위[로이터=연합뉴스. 재판매 및 DB 금지][로이터=연합뉴스. 재판매 및 DB 금지] 스페인의 주택난 항의 시위가 거세지면서 수도 마드리드에만 당국 추산 7만 명이 모였습니다. 블룸버그통신 등 외신들은 현지시간 3일 스페인 전역에서 주택난 대책을 요구하는 집회가 열렸다고 보도했습니다. 수도 마드리드에 당국 추산 7만명, 주최 측 추산 50만명이 모인 것으로 집계됐습니다. 발렌시아에서는 시위대와 경찰 간 충돌이 벌어져 ...",
+          "contentSnippet": "스페인 주택난 항의 시위[로이터=연합뉴스. 재판매 및 DB 금지][로이터=연합뉴스. 재판매 및 DB 금지] 스페인의 주택난 항의 시위가 거세지면서 수도 마드리드에만 당국 추산 7만 명이 모였습니다. 블룸버그통신 등 외신들은 현지시간 3일 스페인 전역에서 주택난 대책을 요구하는 집회가 열렸다고 보도했습니다. 수도 마드리드에 당국 추산 7만명, 주최 측 추산 50만명이 모인 것으로 집계됐습니다. 발렌시아에서는 시위대와 경찰 간 충돌이 벌어져 ...",
+          "guid": "AKR20261004025453oKJ",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-03T13:51:43.000Z"
-        },
-        {
-          "creator": "우준성",
-          "title": "이강인, ATM '이달의 선수' 선정…첫 수상",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261003225117Onz",
-          "pubDate": "Sat, 03 Oct 2026 22:51:18 +0900",
-          "content:encoded": "국가대표 미드필더 이강인이 스페인 프로축구 아틀레티코 마드리드 이적 후 처음으로 '이달의 선수'에 선정됐습니다.\n\n아틀레티코 구단 공식 후원사인 스페인 맥주 브랜드 마오우는 SNS를 통해 이강인이 '9월 이달의 선수'에 뽑혔다고 알렸습니다.\n\n이강인은 아틀레티코가 지난달 치른 리그 4경기에 모두 선발 출전해, 오사수나전에서 시즌 2호 골을 터뜨리는 등 활약했습니다.\n\n이달의 선수 수상자는 구단 공식 애플리케이션 등을 통한 팬 투표로 정해졌습니다.\n\n#아틀레티코마드리드 #이강인 #스페인 #이달의선수 #마오우\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n우준성(Spaceship@yna.co.kr)",
-          "content:encodedSnippet": "국가대표 미드필더 이강인이 스페인 프로축구 아틀레티코 마드리드 이적 후 처음으로 '이달의 선수'에 선정됐습니다.\n\n아틀레티코 구단 공식 후원사인 스페인 맥주 브랜드 마오우는 SNS를 통해 이강인이 '9월 이달의 선수'에 뽑혔다고 알렸습니다.\n\n이강인은 아틀레티코가 지난달 치른 리그 4경기에 모두 선발 출전해, 오사수나전에서 시즌 2호 골을 터뜨리는 등 활약했습니다.\n\n이달의 선수 수상자는 구단 공식 애플리케이션 등을 통한 팬 투표로 정해졌습니다.\n\n#아틀레티코마드리드 #이강인 #스페인 #이달의선수 #마오우\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n우준성(Spaceship@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261003/MYH20261003225117Onz.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "우준성",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261003225117Onz#comments",
-          "content": "국가대표 미드필더 이강인이 스페인 프로축구 아틀레티코 마드리드 이적 후 처음으로 '이달의 선수'에 선정됐습니다. 아틀레티코 구단 공식 후원사인 스페인 맥주 브랜드 마오우는 SNS를 통해 이강인이 '9월 이달의 선수'에 뽑혔다고 알렸습니다. 이강인은 아틀레티코가 지난달 치른 리그 4경기에 모두 선발 출전해, 오사수나전에서 시즌 2호 골을 터뜨리는 등 활약했습니다. 이달의 선수 수상자는 구단 공식 애플리케이션 등을 통한 팬 투표로 정해졌습니다...",
-          "contentSnippet": "국가대표 미드필더 이강인이 스페인 프로축구 아틀레티코 마드리드 이적 후 처음으로 '이달의 선수'에 선정됐습니다. 아틀레티코 구단 공식 후원사인 스페인 맥주 브랜드 마오우는 SNS를 통해 이강인이 '9월 이달의 선수'에 뽑혔다고 알렸습니다. 이강인은 아틀레티코가 지난달 치른 리그 4경기에 모두 선발 출전해, 오사수나전에서 시즌 2호 골을 터뜨리는 등 활약했습니다. 이달의 선수 수상자는 구단 공식 애플리케이션 등을 통한 팬 투표로 정해졌습니다...",
-          "guid": "MYH20261003225117Onz",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-03T13:51:18.000Z"
-        },
-        {
-          "creator": "장한별",
-          "title": "與 \"총선 주싸움터 낙동강\"…野 \"이재명 정권 심판\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261003225050beg",
-          "pubDate": "Sat, 03 Oct 2026 22:50:51 +0900",
-          "content:encoded": "[앵커]\n\n국정감사를 앞두고 여야 전초전이 달아오르고 있습니다.\n\n더불어민주당은 부산에서 차기 총선의 승부처로 '낙동강 벨트'를 꼽았고, 국민의힘은 1년 만에 서울 도심으로 나가 집회를 열고 정권 심판을 외쳤습니다.\n\n장한별 기자입니다.\n\n[기자]\n\n부산에서 청년들과 만난 민주당 김민석 대표는 2030 지지 확산이 핵심 과제라며 차기 총선 승부처로 부산·낙동강을 지목했습니다.\n\n&lt;김민석 / 더불어민주당 대표&gt; \"한강이 아니라 낙동강, 부산에서. 여기서 미래를 향한 큰 전장이 열리고, 거기서 승리해내야 하겠다…\"\n\n\"국민의힘보다 민주당이 YS 정통성을 더 계승하고 있다\"며 보수 진영에 각을 세웠습니다.\n\n동시에 5·18과 부마항쟁의 헌법 전문 수록을 거듭 주장하며, 최근 '5·18 왜곡'과 '내란 부정' 논란을 빚은 국민의힘 의원들을 겨냥했습니다.\n\n&lt;김민석 / 더불어민주당 대표&gt; \"5·18을 부정할 뿐만 아니라 쿠데타의 내란적 성격도 부정하고 있잖아요. 이렇게 되는 것은 헌법적으로 명확히 정리를 해야만…\"\n\n서울로 이동한 김 대표는 공공노련 단식 농성장을 찾아 공공기관 통폐합 관련 국회 협의 절차 마련을 약속했습니다.\n\n앞서 같은 농성장을 찾은 국민의힘 장동혁 대표는 정부의 일방통행식 정책을 맹비판해 확연한 시각차를 보였습니다.\n\n국민의힘은 개천절을 맞아 약 1년 만에 장외투쟁에 나섰습니다.\n\n숭례문 일대에서 연 대규모 규탄대회에 의원 70여 명이 결집했고, 주최 측 추산 20만 명, 경찰 비공식 추산으론 1만 2천여 명이 모였습니다.\n\n&lt;현장음&gt; \"주식 폭락 이재명을 응징하자!\"\n\n이재명 정부 출범 1년 반 동안 민생과 안보가 무너졌다며, 이번 국감에서 대통령 측근 인사 의혹과 부동산·ETF 정책, 형사사법체계 문제를 파고들겠다고 선전포고했습니다.\n\n&lt;장동혁 / 국민의힘 대표&gt; \"좌아한 대통령에게 우리 우아하게 외쳐봅시다. 부동산 정책 즉각 대전환하라! 농지 전수 조사 즉각 중단하라!\"\n\n민주당이 장동혁 대표의 '세 과시용 집회'라고 혹평한 가운데, 국민의힘은 추가 집회 계획에 선을 그으면서도 이번 집회가 국민 분노를 전달하기 위한 기폭제가 될 것이라고 맞받았습니다.\n\n연합뉴스TV 장한별입니다.\n\n[영상취재 김성수 박태범 김상훈 홍수호]\n\n[영상편집 윤현정]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n장한별(good_star@yna.co.kr)",
-          "content:encodedSnippet": "[앵커]\n\n국정감사를 앞두고 여야 전초전이 달아오르고 있습니다.\n\n더불어민주당은 부산에서 차기 총선의 승부처로 '낙동강 벨트'를 꼽았고, 국민의힘은 1년 만에 서울 도심으로 나가 집회를 열고 정권 심판을 외쳤습니다.\n\n장한별 기자입니다.\n\n[기자]\n\n부산에서 청년들과 만난 민주당 김민석 대표는 2030 지지 확산이 핵심 과제라며 차기 총선 승부처로 부산·낙동강을 지목했습니다.\n\n<김민석 / 더불어민주당 대표> \"한강이 아니라 낙동강, 부산에서. 여기서 미래를 향한 큰 전장이 열리고, 거기서 승리해내야 하겠다…\"\n\n\"국민의힘보다 민주당이 YS 정통성을 더 계승하고 있다\"며 보수 진영에 각을 세웠습니다.\n\n동시에 5·18과 부마항쟁의 헌법 전문 수록을 거듭 주장하며, 최근 '5·18 왜곡'과 '내란 부정' 논란을 빚은 국민의힘 의원들을 겨냥했습니다.\n\n<김민석 / 더불어민주당 대표> \"5·18을 부정할 뿐만 아니라 쿠데타의 내란적 성격도 부정하고 있잖아요. 이렇게 되는 것은 헌법적으로 명확히 정리를 해야만…\"\n\n서울로 이동한 김 대표는 공공노련 단식 농성장을 찾아 공공기관 통폐합 관련 국회 협의 절차 마련을 약속했습니다.\n\n앞서 같은 농성장을 찾은 국민의힘 장동혁 대표는 정부의 일방통행식 정책을 맹비판해 확연한 시각차를 보였습니다.\n\n국민의힘은 개천절을 맞아 약 1년 만에 장외투쟁에 나섰습니다.\n\n숭례문 일대에서 연 대규모 규탄대회에 의원 70여 명이 결집했고, 주최 측 추산 20만 명, 경찰 비공식 추산으론 1만 2천여 명이 모였습니다.\n\n<현장음> \"주식 폭락 이재명을 응징하자!\"\n\n이재명 정부 출범 1년 반 동안 민생과 안보가 무너졌다며, 이번 국감에서 대통령 측근 인사 의혹과 부동산·ETF 정책, 형사사법체계 문제를 파고들겠다고 선전포고했습니다.\n\n<장동혁 / 국민의힘 대표> \"좌아한 대통령에게 우리 우아하게 외쳐봅시다. 부동산 정책 즉각 대전환하라! 농지 전수 조사 즉각 중단하라!\"\n\n민주당이 장동혁 대표의 '세 과시용 집회'라고 혹평한 가운데, 국민의힘은 추가 집회 계획에 선을 그으면서도 이번 집회가 국민 분노를 전달하기 위한 기폭제가 될 것이라고 맞받았습니다.\n\n연합뉴스TV 장한별입니다.\n\n[영상취재 김성수 박태범 김상훈 홍수호]\n\n[영상편집 윤현정]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n장한별(good_star@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261003/MYH20261003225050beg.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "장한별",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261003225050beg#comments",
-          "content": "[앵커] 국정감사를 앞두고 여야 전초전이 달아오르고 있습니다. 더불어민주당은 부산에서 차기 총선의 승부처로 '낙동강 벨트'를 꼽았고, 국민의힘은 1년 만에 서울 도심으로 나가 집회를 열고 정권 심판을 외쳤습니다. 장한별 기자입니다. [기자] 부산에서 청년들과 만난 민주당 김민석 대표는 2030 지지 확산이 핵심 과제라며 차기 총선 승부처로 부산·낙동강을 지목했습니다. &lt;김민석 / 더불어민주당 대표&gt; \"한강이 아니라 낙동강, 부산...",
-          "contentSnippet": "[앵커] 국정감사를 앞두고 여야 전초전이 달아오르고 있습니다. 더불어민주당은 부산에서 차기 총선의 승부처로 '낙동강 벨트'를 꼽았고, 국민의힘은 1년 만에 서울 도심으로 나가 집회를 열고 정권 심판을 외쳤습니다. 장한별 기자입니다. [기자] 부산에서 청년들과 만난 민주당 김민석 대표는 2030 지지 확산이 핵심 과제라며 차기 총선 승부처로 부산·낙동강을 지목했습니다. <김민석 / 더불어민주당 대표> \"한강이 아니라 낙동강, 부산...",
-          "guid": "MYH20261003225050beg",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-03T13:50:51.000Z"
-        },
-        {
-          "creator": "김종성",
-          "title": "[속보] '엄지성 결승골' 한국축구 AG 4연패",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261003212646VTP",
-          "pubDate": "Sat, 03 Oct 2026 21:26:47 +0900",
-          "content:encoded": "우리나라 축구대표팀이 아시안게임 4연패에 성공했습니다.\n\n이민성 감독이 이끄는 대표팀은 아이치-나고야 아시안게임 결승전에서 개최국 일본에 1:0으로 승리했습니다.\n\n대표팀은 후반 16분 엄지성의 결승골을 끝까지 지켜 금메달을 목에 걸었습니다.\n\n우리 대표팀은 2014년 인천 대회를 시작으로 4회 연속 아시안게임 금메달을 차지하게 됐습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김종성(goldbell@yna.co.kr)",
-          "content:encodedSnippet": "우리나라 축구대표팀이 아시안게임 4연패에 성공했습니다.\n\n이민성 감독이 이끄는 대표팀은 아이치-나고야 아시안게임 결승전에서 개최국 일본에 1:0으로 승리했습니다.\n\n대표팀은 후반 16분 엄지성의 결승골을 끝까지 지켜 금메달을 목에 걸었습니다.\n\n우리 대표팀은 2014년 인천 대회를 시작으로 4회 연속 아시안게임 금메달을 차지하게 됐습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김종성(goldbell@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261003/MYH20261003212646VTP.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "김종성",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261003212646VTP#comments",
-          "content": "우리나라 축구대표팀이 아시안게임 4연패에 성공했습니다. 이민성 감독이 이끄는 대표팀은 아이치-나고야 아시안게임 결승전에서 개최국 일본에 1:0으로 승리했습니다. 대표팀은 후반 16분 엄지성의 결승골을 끝까지 지켜 금메달을 목에 걸었습니다. 우리 대표팀은 2014년 인천 대회를 시작으로 4회 연속 아시안게임 금메달을 차지하게 됐습니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 김종성(goldbell@yna.co.kr)",
-          "contentSnippet": "우리나라 축구대표팀이 아시안게임 4연패에 성공했습니다. 이민성 감독이 이끄는 대표팀은 아이치-나고야 아시안게임 결승전에서 개최국 일본에 1:0으로 승리했습니다. 대표팀은 후반 16분 엄지성의 결승골을 끝까지 지켜 금메달을 목에 걸었습니다. 우리 대표팀은 2014년 인천 대회를 시작으로 4회 연속 아시안게임 금메달을 차지하게 됐습니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 김종성(goldbell@yna.co.kr)",
-          "guid": "MYH20261003212646VTP",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-03T12:26:47.000Z"
+          "isoDate": "2026-10-03T17:54:54.000Z"
         },
         {
           "creator": "최지원",
-          "title": "금융당국, 해킹 피해 확산에 내일 금융권 긴급소집",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR202610032125413yQ",
-          "pubDate": "Sat, 03 Oct 2026 21:25:41 +0900",
-          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261003/AKR202610032125413yQ_01_i.jpg\" alt=\"\"><span class=\"yna_title\">금융위원회</span><span class=\"yna_caption\">[연합뉴스 자료사진]</span><span class=\"yna_description\">[연합뉴스 자료사진]</span></div>\n해킹 피해가 제2금융권을 비롯해 전 업계로 확산되자 금융당국이 긴급 점검회의를 앞당겼습니다.\n\n금융위원회는 내일(4일) 오후 정부서울청사에서 전체 금융업권별 협회장과 사고가 일어난 금융사 최고경영자(CEO)를 소집해 긴급 점검회의를 여는 것으로 알려졌습니다.\n\n당초 금융당국은 오는 5일까지 금융사 자체점검을 한 뒤 그 결과를 오는 7일 보고받을 계획이었는데, 현대캐피탈과 예가람저축은행 등 2금융권까지 정보 유출 피해가 이어지며 불안이 확산하자 이를 앞당긴 겁니다.\n\n앞서 신한·KB국민·하나·BNK부산은행에 더해 예가람저축은행에서도 고객 4만명 추정 규모의 개인정보가 유출됐습니다. 현대캐피탈에서도 주택대출 모집인 146명의 일부 개인정보가 빠져나갔습니다.\n\n다만 금융당국은 이들 정보유출이 모두 동일 세력에 의한 것인지는 확인이 필요하다고 보고 있습니다.\n\n#금융당국 #금융위원회 #해킹\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
-          "content:encodedSnippet": "금융위원회[연합뉴스 자료사진][연합뉴스 자료사진]\n해킹 피해가 제2금융권을 비롯해 전 업계로 확산되자 금융당국이 긴급 점검회의를 앞당겼습니다.\n\n금융위원회는 내일(4일) 오후 정부서울청사에서 전체 금융업권별 협회장과 사고가 일어난 금융사 최고경영자(CEO)를 소집해 긴급 점검회의를 여는 것으로 알려졌습니다.\n\n당초 금융당국은 오는 5일까지 금융사 자체점검을 한 뒤 그 결과를 오는 7일 보고받을 계획이었는데, 현대캐피탈과 예가람저축은행 등 2금융권까지 정보 유출 피해가 이어지며 불안이 확산하자 이를 앞당긴 겁니다.\n\n앞서 신한·KB국민·하나·BNK부산은행에 더해 예가람저축은행에서도 고객 4만명 추정 규모의 개인정보가 유출됐습니다. 현대캐피탈에서도 주택대출 모집인 146명의 일부 개인정보가 빠져나갔습니다.\n\n다만 금융당국은 이들 정보유출이 모두 동일 세력에 의한 것인지는 확인이 필요하다고 보고 있습니다.\n\n#금융당국 #금융위원회 #해킹\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
+          "title": "트럼프 \"알래스카에 누구보다 많은 것 가져와\"…중간선거 유세",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261004015744bjS",
+          "pubDate": "Sun, 04 Oct 2026 01:57:45 +0900",
+          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261003/AKR20261004015744bjS_01_i.jpg\" alt=\"\"><span class=\"yna_title\">트럼프 대통령</span><span class=\"yna_caption\">[AP=연합뉴스 자료사진. 재판매 및 DB 금지]</span><span class=\"yna_description\">[AP=연합뉴스 자료사진. 재판매 및 DB 금지]</span></div>\n도널드 트럼프 미국 대통령은 알래스카에 전에 없던 이득을 가져왔다고 주장했습니다.\n\n트럼프 대통령은 현지시간 3일 소셜미디어 트루스소셜을 통해 \"나는 인류 역사상 누구보다도 더 많은 것을 알래스카에 가져왔다\"고 했습니다.\n\n이는 한국 정부와 알래스카 액화천연가스(LNG) 개발 사업을 논의하고 있는 가운데 나온 발언이어서 주목됩니다.\n\n트럼프 행정부는 알래스카 LNG 사업에 한국의 자금 투자가 확정된 것처럼 일방적으로 발표한 바 있습니다.\n\n트럼프 대통령은 이같은 메시지의 영상 메시지를 올리면서 거듭 알래스카의 공화당 연방상원의원 후보 댄 설리번에게 투표해달라고 당부했습니다.\n\n알래스카는 전통적으로 공화당이 강세를 보여온 지역이지만 최근 일부 여론조사에서 설리번 의원이 민주당의 메리 펠룰라 후보에게 밀리는 것으로 나타났습니다.\n\n이에 트럼프 대통령은 대미투자 성과를 내세워 공화당 지지층 결집을 노리려는 것으로 풀이됩니다.\n\n#트럼프 #미국 #중간선거 #알래스카 #대미투자\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
+          "content:encodedSnippet": "트럼프 대통령[AP=연합뉴스 자료사진. 재판매 및 DB 금지][AP=연합뉴스 자료사진. 재판매 및 DB 금지]\n도널드 트럼프 미국 대통령은 알래스카에 전에 없던 이득을 가져왔다고 주장했습니다.\n\n트럼프 대통령은 현지시간 3일 소셜미디어 트루스소셜을 통해 \"나는 인류 역사상 누구보다도 더 많은 것을 알래스카에 가져왔다\"고 했습니다.\n\n이는 한국 정부와 알래스카 액화천연가스(LNG) 개발 사업을 논의하고 있는 가운데 나온 발언이어서 주목됩니다.\n\n트럼프 행정부는 알래스카 LNG 사업에 한국의 자금 투자가 확정된 것처럼 일방적으로 발표한 바 있습니다.\n\n트럼프 대통령은 이같은 메시지의 영상 메시지를 올리면서 거듭 알래스카의 공화당 연방상원의원 후보 댄 설리번에게 투표해달라고 당부했습니다.\n\n알래스카는 전통적으로 공화당이 강세를 보여온 지역이지만 최근 일부 여론조사에서 설리번 의원이 민주당의 메리 펠룰라 후보에게 밀리는 것으로 나타났습니다.\n\n이에 트럼프 대통령은 대미투자 성과를 내세워 공화당 지지층 결집을 노리려는 것으로 풀이됩니다.\n\n#트럼프 #미국 #중간선거 #알래스카 #대미투자\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261003/AKR202610032125413yQ_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261003/AKR20261004015744bjS_01_i.jpg",
             "type": "image/jpeg"
           },
           "dc:creator": "최지원",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR202610032125413yQ#comments",
-          "content": "금융위원회[연합뉴스 자료사진][연합뉴스 자료사진] 해킹 피해가 제2금융권을 비롯해 전 업계로 확산되자 금융당국이 긴급 점검회의를 앞당겼습니다. 금융위원회는 내일(4일) 오후 정부서울청사에서 전체 금융업권별 협회장과 사고가 일어난 금융사 최고경영자(CEO)를 소집해 긴급 점검회의를 여는 것으로 알려졌습니다. 당초 금융당국은 오는 5일까지 금융사 자체점검을 한 뒤 그 결과를 오는 7일 보고받을 계획이었는데, 현대캐피탈과 예가람저축은행 등 2금...",
-          "contentSnippet": "금융위원회[연합뉴스 자료사진][연합뉴스 자료사진] 해킹 피해가 제2금융권을 비롯해 전 업계로 확산되자 금융당국이 긴급 점검회의를 앞당겼습니다. 금융위원회는 내일(4일) 오후 정부서울청사에서 전체 금융업권별 협회장과 사고가 일어난 금융사 최고경영자(CEO)를 소집해 긴급 점검회의를 여는 것으로 알려졌습니다. 당초 금융당국은 오는 5일까지 금융사 자체점검을 한 뒤 그 결과를 오는 7일 보고받을 계획이었는데, 현대캐피탈과 예가람저축은행 등 2금...",
-          "guid": "AKR202610032125413yQ",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261004015744bjS#comments",
+          "content": "트럼프 대통령[AP=연합뉴스 자료사진. 재판매 및 DB 금지][AP=연합뉴스 자료사진. 재판매 및 DB 금지] 도널드 트럼프 미국 대통령은 알래스카에 전에 없던 이득을 가져왔다고 주장했습니다. 트럼프 대통령은 현지시간 3일 소셜미디어 트루스소셜을 통해 \"나는 인류 역사상 누구보다도 더 많은 것을 알래스카에 가져왔다\"고 했습니다. 이는 한국 정부와 알래스카 액화천연가스(LNG) 개발 사업을 논의하고 있는 가운데 나온 발언이어서 주목됩니다. ...",
+          "contentSnippet": "트럼프 대통령[AP=연합뉴스 자료사진. 재판매 및 DB 금지][AP=연합뉴스 자료사진. 재판매 및 DB 금지] 도널드 트럼프 미국 대통령은 알래스카에 전에 없던 이득을 가져왔다고 주장했습니다. 트럼프 대통령은 현지시간 3일 소셜미디어 트루스소셜을 통해 \"나는 인류 역사상 누구보다도 더 많은 것을 알래스카에 가져왔다\"고 했습니다. 이는 한국 정부와 알래스카 액화천연가스(LNG) 개발 사업을 논의하고 있는 가운데 나온 발언이어서 주목됩니다. ...",
+          "guid": "AKR20261004015744bjS",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-03T12:25:41.000Z"
+          "isoDate": "2026-10-03T16:57:45.000Z"
         },
         {
-          "creator": "김보나",
-          "title": "호주서 럭비팬들 향해 차량 돌진…10명 부상",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261003212405gPq",
-          "pubDate": "Sat, 03 Oct 2026 21:24:07 +0900",
-          "content:encoded": "호주 뉴캐슬에서 프로 럭비 팬들이 모인 도로로 10대가 운전하던 차량이 돌진해 10명이 다쳤습니다.\n\n외신에 따르면  현지시간 3일 호주 뉴사우스웨일스주 뉴캐슬에서 18살 남성이 몰던 차량이 도로에 있던 군중을 향해 돌진했습니다.\n\n이 사고로 어린이 3명을 포함해 10명이 다쳤으며, 이중 2명은 위독한 상태인 것으로 전해졌습니다.\n\n사고 당시 군중은 호주 프로 럭비구단인 뉴캐슬 나이츠 팬들로, 리그 결승전을 앞두고 팀 버스를 배웅하기 위해 도로에 서 있었습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김보나(bonamana@yna.co.kr)",
-          "content:encodedSnippet": "호주 뉴캐슬에서 프로 럭비 팬들이 모인 도로로 10대가 운전하던 차량이 돌진해 10명이 다쳤습니다.\n\n외신에 따르면  현지시간 3일 호주 뉴사우스웨일스주 뉴캐슬에서 18살 남성이 몰던 차량이 도로에 있던 군중을 향해 돌진했습니다.\n\n이 사고로 어린이 3명을 포함해 10명이 다쳤으며, 이중 2명은 위독한 상태인 것으로 전해졌습니다.\n\n사고 당시 군중은 호주 프로 럭비구단인 뉴캐슬 나이츠 팬들로, 리그 결승전을 앞두고 팀 버스를 배웅하기 위해 도로에 서 있었습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김보나(bonamana@yna.co.kr)",
+          "creator": "최지원",
+          "title": "트럼프 \"중간선거 직후 혹은 이전에 이란전쟁 승리할 것\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261004015050yup",
+          "pubDate": "Sun, 04 Oct 2026 01:50:51 +0900",
+          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261003/AKR20261004015050yup_01_i.jpg\" alt=\"\"><span class=\"yna_title\">앨라배마주 지원유세 나선 트럼프</span><span class=\"yna_caption\">[AP=연합뉴스 자료사진. 재판매 및 DB 금지]</span><span class=\"yna_description\">[AP=연합뉴스 자료사진. 재판매 및 DB 금지]</span></div>\n도널드 트럼프 미국 대통령은 오는 11월 중간선거 직후나 그 전에 이란 전쟁에서 승리할 것이라고 주장했습니다.\n\n미국 CBS 등 외신들은 현지시간 2일 트럼프 대통령이 지난 1일 텍사스주의 자동차 공장을 방문한 자리에서 이같이 말했다고 보도했습니다.\n\n트럼프 대통령은 \"이란이 무너질 준비가 됐다\"면서도 구체적인 종전 조건이나 일정은 언급하지 않았습니다.\n\n그러면서 이란전이 끝나면 미국의 에너지 가격도 빠르게 내려갈 것이라고 다시 한번 주장했습니다.\n\n트럼프 대통령은 2일 밤 앨라배마주 유세에서도 이같이 언급하고, 이란전이 중간선거 직후 끝날 가능성이 크다고 했습니다.\n\n전쟁이 다소 길어졌다는 비판에는 짧은 기간 달성하겠다고 한 목표가 '핵 능력 제거'였다고 해명했습니다.\n\n#트럼프 #이란 #전쟁 #미국 #중간선거\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
+          "content:encodedSnippet": "앨라배마주 지원유세 나선 트럼프[AP=연합뉴스 자료사진. 재판매 및 DB 금지][AP=연합뉴스 자료사진. 재판매 및 DB 금지]\n도널드 트럼프 미국 대통령은 오는 11월 중간선거 직후나 그 전에 이란 전쟁에서 승리할 것이라고 주장했습니다.\n\n미국 CBS 등 외신들은 현지시간 2일 트럼프 대통령이 지난 1일 텍사스주의 자동차 공장을 방문한 자리에서 이같이 말했다고 보도했습니다.\n\n트럼프 대통령은 \"이란이 무너질 준비가 됐다\"면서도 구체적인 종전 조건이나 일정은 언급하지 않았습니다.\n\n그러면서 이란전이 끝나면 미국의 에너지 가격도 빠르게 내려갈 것이라고 다시 한번 주장했습니다.\n\n트럼프 대통령은 2일 밤 앨라배마주 유세에서도 이같이 언급하고, 이란전이 중간선거 직후 끝날 가능성이 크다고 했습니다.\n\n전쟁이 다소 길어졌다는 비판에는 짧은 기간 달성하겠다고 한 목표가 '핵 능력 제거'였다고 해명했습니다.\n\n#트럼프 #이란 #전쟁 #미국 #중간선거\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261003/MYH20261003212405gPq.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261003/AKR20261004015050yup_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "김보나",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261003212405gPq#comments",
-          "content": "호주 뉴캐슬에서 프로 럭비 팬들이 모인 도로로 10대가 운전하던 차량이 돌진해 10명이 다쳤습니다. 외신에 따르면 현지시간 3일 호주 뉴사우스웨일스주 뉴캐슬에서 18살 남성이 몰던 차량이 도로에 있던 군중을 향해 돌진했습니다. 이 사고로 어린이 3명을 포함해 10명이 다쳤으며, 이중 2명은 위독한 상태인 것으로 전해졌습니다. 사고 당시 군중은 호주 프로 럭비구단인 뉴캐슬 나이츠 팬들로, 리그 결승전을 앞두고 팀 버스를 배웅하기 위해 도로에...",
-          "contentSnippet": "호주 뉴캐슬에서 프로 럭비 팬들이 모인 도로로 10대가 운전하던 차량이 돌진해 10명이 다쳤습니다. 외신에 따르면 현지시간 3일 호주 뉴사우스웨일스주 뉴캐슬에서 18살 남성이 몰던 차량이 도로에 있던 군중을 향해 돌진했습니다. 이 사고로 어린이 3명을 포함해 10명이 다쳤으며, 이중 2명은 위독한 상태인 것으로 전해졌습니다. 사고 당시 군중은 호주 프로 럭비구단인 뉴캐슬 나이츠 팬들로, 리그 결승전을 앞두고 팀 버스를 배웅하기 위해 도로에...",
-          "guid": "MYH20261003212405gPq",
+          "dc:creator": "최지원",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261004015050yup#comments",
+          "content": "앨라배마주 지원유세 나선 트럼프[AP=연합뉴스 자료사진. 재판매 및 DB 금지][AP=연합뉴스 자료사진. 재판매 및 DB 금지] 도널드 트럼프 미국 대통령은 오는 11월 중간선거 직후나 그 전에 이란 전쟁에서 승리할 것이라고 주장했습니다. 미국 CBS 등 외신들은 현지시간 2일 트럼프 대통령이 지난 1일 텍사스주의 자동차 공장을 방문한 자리에서 이같이 말했다고 보도했습니다. 트럼프 대통령은 \"이란이 무너질 준비가 됐다\"면서도 구체적인 종전...",
+          "contentSnippet": "앨라배마주 지원유세 나선 트럼프[AP=연합뉴스 자료사진. 재판매 및 DB 금지][AP=연합뉴스 자료사진. 재판매 및 DB 금지] 도널드 트럼프 미국 대통령은 오는 11월 중간선거 직후나 그 전에 이란 전쟁에서 승리할 것이라고 주장했습니다. 미국 CBS 등 외신들은 현지시간 2일 트럼프 대통령이 지난 1일 텍사스주의 자동차 공장을 방문한 자리에서 이같이 말했다고 보도했습니다. 트럼프 대통령은 \"이란이 무너질 준비가 됐다\"면서도 구체적인 종전...",
+          "guid": "AKR20261004015050yup",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-03T12:24:07.000Z"
+          "isoDate": "2026-10-03T16:50:51.000Z"
+        },
+        {
+          "creator": "최지원",
+          "title": "자라, '나치 강제수용소 스타일' 핼러윈 신상…비판에 철회",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261004010017kNp",
+          "pubDate": "Sun, 04 Oct 2026 01:00:18 +0900",
+          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261003/AKR20261004010017kNp_01_i.jpg\" alt=\"\"><span class=\"yna_title\">자라 핼러윈 신상(오른쪽)과 나치 강제수용소 복장</span><span class=\"yna_caption\">[X(엑스) @_3emeOeil. 재판매 및 DB 금지]</span><span class=\"yna_description\">[X(엑스) @_3emeOeil. 재판매 및 DB 금지]</span></div>\n스페인 패션 브랜드 자라(ZARA)가 나치 강제수용소 복장을 연상시키는 핼러윈 아동복 신상품을 내놨다가 비판을 받고 철회했습니다.\n\n독일 현지 언론들은 현지시간 3일 자라가 지난달 흰색과 푸른색 세로 줄무늬의 어린이용 핼러윈 상하의 세트를 내놨다고 보도했습니다.\n\n줄무늬 천에 철조망을 연상시키는 패턴을 넣고, 소매 끝자락은 낡은 듯 처리해 강제수용소 복장과 비슷하다는 비판이 일었습니다. 왼쪽 가슴에 달아놓은 장식도 수용자들에게 달렸던 출신성분 식별표와 비슷하다는 지적이 나왔습니다.\n\n유럽에서 활동하는 이스라엘 언론인 돈 길하르는 엑스(X·옛 트위터)에서 \"자라가 나치 강제수용소 스타일이라는 또 다른 악몽 같은 아이디어로 유럽 고객들을 경악시키고 있다\"고 했습니다.\n\n비판이 줄잇자 자라는 \"이번 핼러윈 어린이 신랑 복장으로 생길 수 있는 모든 오해들에 대해 유감\"이라며 해당 신상품 판매를 중지했습니다.\n\n자라는 12년 전에도 왼쪽 가슴에 노란 별을 단 아동용 줄무늬 셔츠를 내놨다가 비판받은 바 있습니다. 2007년에도 나치 상징인 하켄크로이츠(갈고리 십자가)를 초록색으로 수놓은 가방을 팔아 논란에 휩싸였습니다.\n\n#자라 #패션브랜드 #핼러윈 #신상 #나치 #강제수용소\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
+          "content:encodedSnippet": "자라 핼러윈 신상(오른쪽)과 나치 강제수용소 복장[X(엑스) @_3emeOeil. 재판매 및 DB 금지][X(엑스) @_3emeOeil. 재판매 및 DB 금지]\n스페인 패션 브랜드 자라(ZARA)가 나치 강제수용소 복장을 연상시키는 핼러윈 아동복 신상품을 내놨다가 비판을 받고 철회했습니다.\n\n독일 현지 언론들은 현지시간 3일 자라가 지난달 흰색과 푸른색 세로 줄무늬의 어린이용 핼러윈 상하의 세트를 내놨다고 보도했습니다.\n\n줄무늬 천에 철조망을 연상시키는 패턴을 넣고, 소매 끝자락은 낡은 듯 처리해 강제수용소 복장과 비슷하다는 비판이 일었습니다. 왼쪽 가슴에 달아놓은 장식도 수용자들에게 달렸던 출신성분 식별표와 비슷하다는 지적이 나왔습니다.\n\n유럽에서 활동하는 이스라엘 언론인 돈 길하르는 엑스(X·옛 트위터)에서 \"자라가 나치 강제수용소 스타일이라는 또 다른 악몽 같은 아이디어로 유럽 고객들을 경악시키고 있다\"고 했습니다.\n\n비판이 줄잇자 자라는 \"이번 핼러윈 어린이 신랑 복장으로 생길 수 있는 모든 오해들에 대해 유감\"이라며 해당 신상품 판매를 중지했습니다.\n\n자라는 12년 전에도 왼쪽 가슴에 노란 별을 단 아동용 줄무늬 셔츠를 내놨다가 비판받은 바 있습니다. 2007년에도 나치 상징인 하켄크로이츠(갈고리 십자가)를 초록색으로 수놓은 가방을 팔아 논란에 휩싸였습니다.\n\n#자라 #패션브랜드 #핼러윈 #신상 #나치 #강제수용소\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261003/AKR20261004010017kNp_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "최지원",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261004010017kNp#comments",
+          "content": "자라 핼러윈 신상(오른쪽)과 나치 강제수용소 복장[X(엑스) @_3emeOeil. 재판매 및 DB 금지][X(엑스) @_3emeOeil. 재판매 및 DB 금지] 스페인 패션 브랜드 자라(ZARA)가 나치 강제수용소 복장을 연상시키는 핼러윈 아동복 신상품을 내놨다가 비판을 받고 철회했습니다. 독일 현지 언론들은 현지시간 3일 자라가 지난달 흰색과 푸른색 세로 줄무늬의 어린이용 핼러윈 상하의 세트를 내놨다고 보도했습니다. 줄무늬 천에 철조망을...",
+          "contentSnippet": "자라 핼러윈 신상(오른쪽)과 나치 강제수용소 복장[X(엑스) @_3emeOeil. 재판매 및 DB 금지][X(엑스) @_3emeOeil. 재판매 및 DB 금지] 스페인 패션 브랜드 자라(ZARA)가 나치 강제수용소 복장을 연상시키는 핼러윈 아동복 신상품을 내놨다가 비판을 받고 철회했습니다. 독일 현지 언론들은 현지시간 3일 자라가 지난달 흰색과 푸른색 세로 줄무늬의 어린이용 핼러윈 상하의 세트를 내놨다고 보도했습니다. 줄무늬 천에 철조망을...",
+          "guid": "AKR20261004010017kNp",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-03T16:00:18.000Z"
+        },
+        {
+          "creator": "김종성",
+          "title": "나고야 AG 유도경기장에 욱일기 등장 논란",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261003234127iKq",
+          "pubDate": "Sat, 03 Oct 2026 23:41:27 +0900",
+          "content:encoded": "아시아의 평화와 화합을 내건 아시안게임 경기장에 일본 군국주의의 상징인 욱일기가 등장해 논란이 일고 있습니다.\n\n일본 나고야에서 열린 유도 혼성단체전 결승전에서 일부 일본 관중이 욱일기를 들고 응원전을 펼쳤습니다.\n\n유도계 관계자가 조직위원회에 조치를 요구했지만 별다른 제재는 이뤄지지 않은 것으로 전해졌습니다.\n\n국제 스포츠 대회에서는 정치적 중립 조항에 따라 욱일기 같은 군국주의 상징물의 반입을 금지하는 것이 일반적입니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김종성(goldbell@yna.co.kr)",
+          "content:encodedSnippet": "아시아의 평화와 화합을 내건 아시안게임 경기장에 일본 군국주의의 상징인 욱일기가 등장해 논란이 일고 있습니다.\n\n일본 나고야에서 열린 유도 혼성단체전 결승전에서 일부 일본 관중이 욱일기를 들고 응원전을 펼쳤습니다.\n\n유도계 관계자가 조직위원회에 조치를 요구했지만 별다른 제재는 이뤄지지 않은 것으로 전해졌습니다.\n\n국제 스포츠 대회에서는 정치적 중립 조항에 따라 욱일기 같은 군국주의 상징물의 반입을 금지하는 것이 일반적입니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김종성(goldbell@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261003/MYH20261003234127iKq.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "김종성",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261003234127iKq#comments",
+          "content": "아시아의 평화와 화합을 내건 아시안게임 경기장에 일본 군국주의의 상징인 욱일기가 등장해 논란이 일고 있습니다. 일본 나고야에서 열린 유도 혼성단체전 결승전에서 일부 일본 관중이 욱일기를 들고 응원전을 펼쳤습니다. 유도계 관계자가 조직위원회에 조치를 요구했지만 별다른 제재는 이뤄지지 않은 것으로 전해졌습니다. 국제 스포츠 대회에서는 정치적 중립 조항에 따라 욱일기 같은 군국주의 상징물의 반입을 금지하는 것이 일반적입니다. 연합뉴스TV 기사문...",
+          "contentSnippet": "아시아의 평화와 화합을 내건 아시안게임 경기장에 일본 군국주의의 상징인 욱일기가 등장해 논란이 일고 있습니다. 일본 나고야에서 열린 유도 혼성단체전 결승전에서 일부 일본 관중이 욱일기를 들고 응원전을 펼쳤습니다. 유도계 관계자가 조직위원회에 조치를 요구했지만 별다른 제재는 이뤄지지 않은 것으로 전해졌습니다. 국제 스포츠 대회에서는 정치적 중립 조항에 따라 욱일기 같은 군국주의 상징물의 반입을 금지하는 것이 일반적입니다. 연합뉴스TV 기사문...",
+          "guid": "MYH20261003234127iKq",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-03T14:41:27.000Z"
+        },
+        {
+          "creator": "김태욱",
+          "title": "서채현 '금빛 완등' 한국 대표팀 8년 만의 정상",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261003234117ObA",
+          "pubDate": "Sat, 03 Oct 2026 23:41:18 +0900",
+          "content:encoded": "[앵커]\n\n한국 스포츠클라이밍 '간판' 서채현이 여자 리드 종목에서 금메달을 목에 걸었습니다.\n\n이번 '금빛 등반'은 아시안게임 첫 여자 금메달이자 자카르타 팔렘방 대회 천종원 선수 이후 8년 만입니다.\n\n김태욱 기자입니다.\n\n[기자]\n\n한국 스포츠클라이밍의 '간판' 서채현이 아시안게임 여자 리드에서 금메달을 목에 걸었습니다.\n\n15m 높이의 인공 암벽을 6분 내에 누가 가장 높이 오르는지 겨루는 리드 종목.\n\n결승 마지막 선수로 등장한 서채현은 유일하게 마지막 홀드를 쥐는 데 성공하는 '만점'을 기록하며 금메달을 따냈습니다.\n\n이로써 한국 스포츠클라이밍은 여자 선수 최초이자 자카르타·팔렘방 대회 천종원 이후 8년 만에 아시안게임 금메달을 추가했습니다.\n\n앞서 2022 항저우 대회 콤바인 은메달, 이번 대회 볼더링 동메달을 땄던 서채현은 아시안게임 금·은·동메달을 모두 목에 건 선수가 됐습니다.\n\n한편 지난 항저우 대회 콤바인 은메달에 이어 이번 대회 볼더링 은메달을 따낸 이도현.\n\n금메달 기대를 모았지만, 결승에서 38번째 홀드를 잡은 뒤 다음 홀드를 놓치며 최종 3위를 기록해 값진 동메달을 목에 걸었습니다.\n\n모든 일정을 마친 클라이밍 대표팀은 금메달 1개, 은메달 1개, 동메달 3개로 이번 대회를 마무리했습니다.\n\n연합뉴스TV 김태욱입니다.\n\n[영상편집 송아해]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김태욱(tw@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n한국 스포츠클라이밍 '간판' 서채현이 여자 리드 종목에서 금메달을 목에 걸었습니다.\n\n이번 '금빛 등반'은 아시안게임 첫 여자 금메달이자 자카르타 팔렘방 대회 천종원 선수 이후 8년 만입니다.\n\n김태욱 기자입니다.\n\n[기자]\n\n한국 스포츠클라이밍의 '간판' 서채현이 아시안게임 여자 리드에서 금메달을 목에 걸었습니다.\n\n15m 높이의 인공 암벽을 6분 내에 누가 가장 높이 오르는지 겨루는 리드 종목.\n\n결승 마지막 선수로 등장한 서채현은 유일하게 마지막 홀드를 쥐는 데 성공하는 '만점'을 기록하며 금메달을 따냈습니다.\n\n이로써 한국 스포츠클라이밍은 여자 선수 최초이자 자카르타·팔렘방 대회 천종원 이후 8년 만에 아시안게임 금메달을 추가했습니다.\n\n앞서 2022 항저우 대회 콤바인 은메달, 이번 대회 볼더링 동메달을 땄던 서채현은 아시안게임 금·은·동메달을 모두 목에 건 선수가 됐습니다.\n\n한편 지난 항저우 대회 콤바인 은메달에 이어 이번 대회 볼더링 은메달을 따낸 이도현.\n\n금메달 기대를 모았지만, 결승에서 38번째 홀드를 잡은 뒤 다음 홀드를 놓치며 최종 3위를 기록해 값진 동메달을 목에 걸었습니다.\n\n모든 일정을 마친 클라이밍 대표팀은 금메달 1개, 은메달 1개, 동메달 3개로 이번 대회를 마무리했습니다.\n\n연합뉴스TV 김태욱입니다.\n\n[영상편집 송아해]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김태욱(tw@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261003/MYH20261003234117ObA.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "김태욱",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261003234117ObA#comments",
+          "content": "[앵커] 한국 스포츠클라이밍 '간판' 서채현이 여자 리드 종목에서 금메달을 목에 걸었습니다. 이번 '금빛 등반'은 아시안게임 첫 여자 금메달이자 자카르타 팔렘방 대회 천종원 선수 이후 8년 만입니다. 김태욱 기자입니다. [기자] 한국 스포츠클라이밍의 '간판' 서채현이 아시안게임 여자 리드에서 금메달을 목에 걸었습니다. 15m 높이의 인공 암벽을 6분 내에 누가 가장 높이 오르는지 겨루는 리드 종목. 결승 마지막 선수로 등장한 서채현은 유일...",
+          "contentSnippet": "[앵커] 한국 스포츠클라이밍 '간판' 서채현이 여자 리드 종목에서 금메달을 목에 걸었습니다. 이번 '금빛 등반'은 아시안게임 첫 여자 금메달이자 자카르타 팔렘방 대회 천종원 선수 이후 8년 만입니다. 김태욱 기자입니다. [기자] 한국 스포츠클라이밍의 '간판' 서채현이 아시안게임 여자 리드에서 금메달을 목에 걸었습니다. 15m 높이의 인공 암벽을 6분 내에 누가 가장 높이 오르는지 겨루는 리드 종목. 결승 마지막 선수로 등장한 서채현은 유일...",
+          "guid": "MYH20261003234117ObA",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-03T14:41:18.000Z"
+        },
+        {
+          "creator": "김종성",
+          "title": "축구대표팀 AG 우승 후 '태극기 지연 게양' 논란",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH202610032334234V2",
+          "pubDate": "Sat, 03 Oct 2026 23:34:24 +0900",
+          "content:encoded": "우리 남자 축구 대표팀이 아이치·나고야 아시안게임에서 우승한 직후 열린 시상식에서 태극기가 제때 게양되지 않는 황당한 일이 발생했습니다.\n\n일본 도요타 스타디움에서 열린 시상식에서 애국가가 연주되는 동안 동메달을 차지한 중국과 은메달을 딴 일본 국기는 정상 게양됐으나, 우승국인 우리의 태극기는 게양대에 제대로 걸리지 않았습니다.\n\n태극기가 제자리에 올라가지 않은 이유가 게양대 시설 고장 때문인지, 현장 운영요원의 실수인지는 아직 확인되지 않고 있습니다.\n\n현장을 찾은 우리 응원단은 대회 주최 측을 향해 강한 야유를 보냈습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김종성(goldbell@yna.co.kr)",
+          "content:encodedSnippet": "우리 남자 축구 대표팀이 아이치·나고야 아시안게임에서 우승한 직후 열린 시상식에서 태극기가 제때 게양되지 않는 황당한 일이 발생했습니다.\n\n일본 도요타 스타디움에서 열린 시상식에서 애국가가 연주되는 동안 동메달을 차지한 중국과 은메달을 딴 일본 국기는 정상 게양됐으나, 우승국인 우리의 태극기는 게양대에 제대로 걸리지 않았습니다.\n\n태극기가 제자리에 올라가지 않은 이유가 게양대 시설 고장 때문인지, 현장 운영요원의 실수인지는 아직 확인되지 않고 있습니다.\n\n현장을 찾은 우리 응원단은 대회 주최 측을 향해 강한 야유를 보냈습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김종성(goldbell@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261003/MYH202610032334234V2.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "김종성",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH202610032334234V2#comments",
+          "content": "우리 남자 축구 대표팀이 아이치·나고야 아시안게임에서 우승한 직후 열린 시상식에서 태극기가 제때 게양되지 않는 황당한 일이 발생했습니다. 일본 도요타 스타디움에서 열린 시상식에서 애국가가 연주되는 동안 동메달을 차지한 중국과 은메달을 딴 일본 국기는 정상 게양됐으나, 우승국인 우리의 태극기는 게양대에 제대로 걸리지 않았습니다. 태극기가 제자리에 올라가지 않은 이유가 게양대 시설 고장 때문인지, 현장 운영요원의 실수인지는 아직 확인되지 않고...",
+          "contentSnippet": "우리 남자 축구 대표팀이 아이치·나고야 아시안게임에서 우승한 직후 열린 시상식에서 태극기가 제때 게양되지 않는 황당한 일이 발생했습니다. 일본 도요타 스타디움에서 열린 시상식에서 애국가가 연주되는 동안 동메달을 차지한 중국과 은메달을 딴 일본 국기는 정상 게양됐으나, 우승국인 우리의 태극기는 게양대에 제대로 걸리지 않았습니다. 태극기가 제자리에 올라가지 않은 이유가 게양대 시설 고장 때문인지, 현장 운영요원의 실수인지는 아직 확인되지 않고...",
+          "guid": "MYH202610032334234V2",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-03T14:34:24.000Z"
+        },
+        {
+          "creator": "지성림",
+          "title": "김여정 \"중거리 전략미사일 발사\"…'변칙 기동' 부각",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261003232713S62",
+          "pubDate": "Sat, 03 Oct 2026 23:27:14 +0900",
+          "content:encoded": "[앵커]\n\n북한은 서부전선 비무장지대 지뢰 폭발 사건에 대한 우리 군 당국의 사과 요구에 탄도미사일 도발로 대답했습니다.\n\n특히 김여정 노동당 부장은 \"중거리 전략미사일을 발사했다\"고 밝힌 뒤 '특수한 비행 방식'의 우월성이 검증됐다며 '변칙 기동'을 부각했습니다.\n\n지성림 기자입니다.\n\n[기자]\n\n우리 군 당국은 북한이 원산 일대에서 동해상으로 탄도미사일 1발을 발사했다며 미사일은 700㎞ 이상 비행했다고 밝혔습니다.\n\n이번 탄도미사일 발사에 대해 김여정 노동당 부장은 김정은 국무위원장 참관하에 '중거리 전략미사일' 발사 훈련이 진행됐다고 전했습니다.\n\n그러면서 북한 미사일 비행거리에 대해 한국은 700㎞ 이상, 일본은 약 680㎞로 각각 발표했다며 \"적들의 탐지 능력의 제한성을 가늠해볼 수 있다\"고 주장했습니다.\n\n이어 \"이미 4차례나 이와 유사한 경우를 목격했다\"며 \"결론적으로 우리가 보유한 미사일들의 특수한 비행 방식의 우월성이 현실적으로 검증된 것으로 평가했다\"고 덧붙였습니다.\n\n김 부장은 \"매번 파도식 비행 궤도 방식을 적용했을 때 적들은 1차 도약점 이후부터는 목표를 소실했다\"며 \"하강 단계에서 궤적의 연장선을 그으면 적이 발표하는 사거리와 유사한 숫자가 얻어진다\"고 언급했습니다.\n\n이는 탄도미사일이 최고도에 도달한 이후엔 하강과 상승을 반복하는 변칙 기동을 한다는 뜻으로, 종말 단계에서는 한미가 북한 미사일을 탐지해 요격하기 어렵다는 식의 주장으로 풀이됩니다.\n\n특히 \"저고도에서 비행 궤도 변경 능력을 가지고 있고, 인공지능을 도입했다고 한 우리 발표를 상기해 볼 필요가 있을 것\"이라며 \"이 타격을 피할 방법은 사실상 없다는 것을 의미한다\"고 강조했습니다.\n\n북한의 탄도미사일 발사는 올해 들어 15번째로, 지난달 20일 극초음속 미사일 2발을 세 시간 간격으로 쏜 이후 13일 만입니다.\n\n특히 지난달 21일 서부전선 비무장지대(DMZ)에서 북한군이 매설한 지뢰 2발이 폭발하면서 우리 군 간부들이 중상을 입은 사건 이후엔 첫 탄도미사일 도발입니다.\n\n우리 군 당국은 북한군이 군사분계선(MDL) 이남 지역에 지뢰를 매설한 데 대해 사과를 요구했는데, 북한은 '사과' 대신 사흘 만에 탄도미사일 도발로 대답했습니다.\n\n연합뉴스TV 지성림입니다.\n\n[영상편집 강태임]\n\n[그래픽 김형서]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n지성림(yoonik@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n북한은 서부전선 비무장지대 지뢰 폭발 사건에 대한 우리 군 당국의 사과 요구에 탄도미사일 도발로 대답했습니다.\n\n특히 김여정 노동당 부장은 \"중거리 전략미사일을 발사했다\"고 밝힌 뒤 '특수한 비행 방식'의 우월성이 검증됐다며 '변칙 기동'을 부각했습니다.\n\n지성림 기자입니다.\n\n[기자]\n\n우리 군 당국은 북한이 원산 일대에서 동해상으로 탄도미사일 1발을 발사했다며 미사일은 700㎞ 이상 비행했다고 밝혔습니다.\n\n이번 탄도미사일 발사에 대해 김여정 노동당 부장은 김정은 국무위원장 참관하에 '중거리 전략미사일' 발사 훈련이 진행됐다고 전했습니다.\n\n그러면서 북한 미사일 비행거리에 대해 한국은 700㎞ 이상, 일본은 약 680㎞로 각각 발표했다며 \"적들의 탐지 능력의 제한성을 가늠해볼 수 있다\"고 주장했습니다.\n\n이어 \"이미 4차례나 이와 유사한 경우를 목격했다\"며 \"결론적으로 우리가 보유한 미사일들의 특수한 비행 방식의 우월성이 현실적으로 검증된 것으로 평가했다\"고 덧붙였습니다.\n\n김 부장은 \"매번 파도식 비행 궤도 방식을 적용했을 때 적들은 1차 도약점 이후부터는 목표를 소실했다\"며 \"하강 단계에서 궤적의 연장선을 그으면 적이 발표하는 사거리와 유사한 숫자가 얻어진다\"고 언급했습니다.\n\n이는 탄도미사일이 최고도에 도달한 이후엔 하강과 상승을 반복하는 변칙 기동을 한다는 뜻으로, 종말 단계에서는 한미가 북한 미사일을 탐지해 요격하기 어렵다는 식의 주장으로 풀이됩니다.\n\n특히 \"저고도에서 비행 궤도 변경 능력을 가지고 있고, 인공지능을 도입했다고 한 우리 발표를 상기해 볼 필요가 있을 것\"이라며 \"이 타격을 피할 방법은 사실상 없다는 것을 의미한다\"고 강조했습니다.\n\n북한의 탄도미사일 발사는 올해 들어 15번째로, 지난달 20일 극초음속 미사일 2발을 세 시간 간격으로 쏜 이후 13일 만입니다.\n\n특히 지난달 21일 서부전선 비무장지대(DMZ)에서 북한군이 매설한 지뢰 2발이 폭발하면서 우리 군 간부들이 중상을 입은 사건 이후엔 첫 탄도미사일 도발입니다.\n\n우리 군 당국은 북한군이 군사분계선(MDL) 이남 지역에 지뢰를 매설한 데 대해 사과를 요구했는데, 북한은 '사과' 대신 사흘 만에 탄도미사일 도발로 대답했습니다.\n\n연합뉴스TV 지성림입니다.\n\n[영상편집 강태임]\n\n[그래픽 김형서]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n지성림(yoonik@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261003/MYH20261003232713S62.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "지성림",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261003232713S62#comments",
+          "content": "[앵커] 북한은 서부전선 비무장지대 지뢰 폭발 사건에 대한 우리 군 당국의 사과 요구에 탄도미사일 도발로 대답했습니다. 특히 김여정 노동당 부장은 \"중거리 전략미사일을 발사했다\"고 밝힌 뒤 '특수한 비행 방식'의 우월성이 검증됐다며 '변칙 기동'을 부각했습니다. 지성림 기자입니다. [기자] 우리 군 당국은 북한이 원산 일대에서 동해상으로 탄도미사일 1발을 발사했다며 미사일은 700㎞ 이상 비행했다고 밝혔습니다. 이번 탄도미사일 발사에 대해...",
+          "contentSnippet": "[앵커] 북한은 서부전선 비무장지대 지뢰 폭발 사건에 대한 우리 군 당국의 사과 요구에 탄도미사일 도발로 대답했습니다. 특히 김여정 노동당 부장은 \"중거리 전략미사일을 발사했다\"고 밝힌 뒤 '특수한 비행 방식'의 우월성이 검증됐다며 '변칙 기동'을 부각했습니다. 지성림 기자입니다. [기자] 우리 군 당국은 북한이 원산 일대에서 동해상으로 탄도미사일 1발을 발사했다며 미사일은 700㎞ 이상 비행했다고 밝혔습니다. 이번 탄도미사일 발사에 대해...",
+          "guid": "MYH20261003232713S62",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-03T14:27:14.000Z"
+        },
+        {
+          "creator": "김종성",
+          "title": "'엄지성 원더골' 한국 축구, 아시안게임 4회 연속 금메달…일본과 결승전 3전 전승",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261003231816CWi",
+          "pubDate": "Sat, 03 Oct 2026 23:18:16 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261003/AKR20261003231816CWi_01_i.jpg\" alt=\"\"><span class=\"yna_title\">엄지성 맹활약 속 한국 축구 금메달 획득</span><span class=\"yna_caption\">[연합뉴스]</span><span class=\"yna_description\">[연합뉴스]</span></div>\n\n우리 남자 축구 대표팀이 숙적 일본을 꺾고 아시안게임 4회 연속 금메달이라는 대역사를 완성했습니다.\n\n이민성 감독이 이끄는 23세 이하 대표팀은 일본 도요타 스타디움에서 열린 2026 아이치·나고야 아시안게임 결승전에서 후반 16분에 터진 엄지성의 결승 골에 힘입어 일본을 1-0으로 제압했습니다.\n\n이로써 한국 축구는 2014년 인천, 2018년 자카르타·팔렘방, 항저우 대회에 이어 아시안게임 남자 축구 사상 최초로 '4회 연속 우승'을 달성했습니다.\n\n통산 우승 횟수도 7회로 늘리며 2위 이란을 멀찍이 따돌리고 아시아 최강의 입지를 더욱 탄탄히 했습니다.\n\n특히 2018년과 항저우에 이어 세 대회 연속 결승 한일전을 모두 승리로 장식했고, 아시안게임 한일전 6연승을 포함해 역대 상대 전적에서도 9승 1패로 압도적인 우세를 이어갔습니다.\n\n3만 여 홈 팬들의 응원을 등에 업은 일본을 상대로 한국은 경기 초반 활발한 움직임으로 주도권을 잡았습니다.\n\n전반 6분 엄지성의 오른발 슛으로 포문을 열었지만, 전반 중반 이후 일본의 반격에 연이어 위기를 맞으며 팽팽한 흐름 속에 전반을 마쳤습니다.\n\n0의 균형을 깬 건 에이스 엄지성이었습니다. 후반 16분 오른쪽 측면에서 양민혁이 상대 수비와의 경합을 이겨내고 끈질기게 올린 크로스를 엄지성이 페널티 지역 안에서 왼발 슛으로 연결해 일본의 골망을 흔들었습니다.\n\n대회 4호 골을 터뜨린 엄지성은 도움 4개를 더해 이번 대회 득점과 도움 모두 1위에 오르며 대표팀 우승의 일등 공신으로 빛났습니다.\n\n이후 다급해진 일본이 중거리 슛으로 골대를 맞히는 등 거센 공세를 펼쳤으나, 대표팀은 김준홍 골키퍼의 선방과 수비진의 육탄방어로 1 점 차 리드를 끝까지 지켜냈습니다.\n\n4연패 과업을 완수한 이민성 감독은 박수를 받으며 대표팀 지휘봉을 내려놓게 됐고, 이미 병역 필인 선수를 제외한 엄지성, 배준호 등 20명의 선수들이 병역 혜택을 받으며 유럽 무대 등에서 안정적으로 활약할 발판을 마련했습니다.\n\n#축구 #금메달 #이민성 #엄지성 #배준호 #아시안게임 #우승\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김종성(goldbell@yna.co.kr)",
+          "content:encodedSnippet": "엄지성 맹활약 속 한국 축구 금메달 획득[연합뉴스][연합뉴스]\n\n우리 남자 축구 대표팀이 숙적 일본을 꺾고 아시안게임 4회 연속 금메달이라는 대역사를 완성했습니다.\n\n이민성 감독이 이끄는 23세 이하 대표팀은 일본 도요타 스타디움에서 열린 2026 아이치·나고야 아시안게임 결승전에서 후반 16분에 터진 엄지성의 결승 골에 힘입어 일본을 1-0으로 제압했습니다.\n\n이로써 한국 축구는 2014년 인천, 2018년 자카르타·팔렘방, 항저우 대회에 이어 아시안게임 남자 축구 사상 최초로 '4회 연속 우승'을 달성했습니다.\n\n통산 우승 횟수도 7회로 늘리며 2위 이란을 멀찍이 따돌리고 아시아 최강의 입지를 더욱 탄탄히 했습니다.\n\n특히 2018년과 항저우에 이어 세 대회 연속 결승 한일전을 모두 승리로 장식했고, 아시안게임 한일전 6연승을 포함해 역대 상대 전적에서도 9승 1패로 압도적인 우세를 이어갔습니다.\n\n3만 여 홈 팬들의 응원을 등에 업은 일본을 상대로 한국은 경기 초반 활발한 움직임으로 주도권을 잡았습니다.\n\n전반 6분 엄지성의 오른발 슛으로 포문을 열었지만, 전반 중반 이후 일본의 반격에 연이어 위기를 맞으며 팽팽한 흐름 속에 전반을 마쳤습니다.\n\n0의 균형을 깬 건 에이스 엄지성이었습니다. 후반 16분 오른쪽 측면에서 양민혁이 상대 수비와의 경합을 이겨내고 끈질기게 올린 크로스를 엄지성이 페널티 지역 안에서 왼발 슛으로 연결해 일본의 골망을 흔들었습니다.\n\n대회 4호 골을 터뜨린 엄지성은 도움 4개를 더해 이번 대회 득점과 도움 모두 1위에 오르며 대표팀 우승의 일등 공신으로 빛났습니다.\n\n이후 다급해진 일본이 중거리 슛으로 골대를 맞히는 등 거센 공세를 펼쳤으나, 대표팀은 김준홍 골키퍼의 선방과 수비진의 육탄방어로 1 점 차 리드를 끝까지 지켜냈습니다.\n\n4연패 과업을 완수한 이민성 감독은 박수를 받으며 대표팀 지휘봉을 내려놓게 됐고, 이미 병역 필인 선수를 제외한 엄지성, 배준호 등 20명의 선수들이 병역 혜택을 받으며 유럽 무대 등에서 안정적으로 활약할 발판을 마련했습니다.\n\n#축구 #금메달 #이민성 #엄지성 #배준호 #아시안게임 #우승\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김종성(goldbell@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261003/AKR20261003231816CWi_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "김종성",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261003231816CWi#comments",
+          "content": "엄지성 맹활약 속 한국 축구 금메달 획득[연합뉴스][연합뉴스] 우리 남자 축구 대표팀이 숙적 일본을 꺾고 아시안게임 4회 연속 금메달이라는 대역사를 완성했습니다. 이민성 감독이 이끄는 23세 이하 대표팀은 일본 도요타 스타디움에서 열린 2026 아이치·나고야 아시안게임 결승전에서 후반 16분에 터진 엄지성의 결승 골에 힘입어 일본을 1-0으로 제압했습니다. 이로써 한국 축구는 2014년 인천, 2018년 자카르타·팔렘방, 항저우 대회에 이...",
+          "contentSnippet": "엄지성 맹활약 속 한국 축구 금메달 획득[연합뉴스][연합뉴스] 우리 남자 축구 대표팀이 숙적 일본을 꺾고 아시안게임 4회 연속 금메달이라는 대역사를 완성했습니다. 이민성 감독이 이끄는 23세 이하 대표팀은 일본 도요타 스타디움에서 열린 2026 아이치·나고야 아시안게임 결승전에서 후반 16분에 터진 엄지성의 결승 골에 힘입어 일본을 1-0으로 제압했습니다. 이로써 한국 축구는 2014년 인천, 2018년 자카르타·팔렘방, 항저우 대회에 이...",
+          "guid": "AKR20261003231816CWi",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-03T14:18:16.000Z"
+        },
+        {
+          "creator": "김종성",
+          "title": "애국가 울려도 안 뜬 태극기…한국축구 우승에 재 뿌린 AG 조직위",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261003230244kXd",
+          "pubDate": "Sat, 03 Oct 2026 23:02:45 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261003/AKR20261003230244kXd_01_i.jpg\" alt=\"\"><span class=\"yna_title\">애국가가 울리는 동안 제대로 게양되지 않은 태극기</span><span class=\"yna_caption\">[연합뉴스TV 시청자 제보]</span><span class=\"yna_description\">[연합뉴스TV 시청자 제보]</span></div>\n\n2026 아이치·나고야 아시안게임에서 우승한 우리 남자 축구 대표팀의 메달 시상식에서 태극기가 제 때 게양되지 않는 황당한 사고가 발생했습니다.\n\n연합뉴스TV 시청자가 제보한 영상과 사진 등에 따르면 일본 도요타 스타디움에서 열린 시상식에서 애국가가 연주되는 동안 동메달 중국과 은메달 일본의 국기는 정상적으로 올라갔지만 우승국인 한국의 태극기는 게양대에 제대로 걸리지 않았습니다.\n\n태극기가 제대로 게양되지 않은 이유가 시설 고장인지 아니면 현장 운영요원의 실수인지는 아직 확인되지 않았습니다.\n\n애국가가 나오는 동안 태극기를 보지 못한 우리 응원단은 주최 측을 향해 야유를 보내며 거세게 항의했습니다.\n\n#애국가 #태극기 #대한민국 #축구 #우승 #아시안게임 #일본 #몽니 #황당 #사고\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김종성(goldbell@yna.co.kr)",
+          "content:encodedSnippet": "애국가가 울리는 동안 제대로 게양되지 않은 태극기[연합뉴스TV 시청자 제보][연합뉴스TV 시청자 제보]\n\n2026 아이치·나고야 아시안게임에서 우승한 우리 남자 축구 대표팀의 메달 시상식에서 태극기가 제 때 게양되지 않는 황당한 사고가 발생했습니다.\n\n연합뉴스TV 시청자가 제보한 영상과 사진 등에 따르면 일본 도요타 스타디움에서 열린 시상식에서 애국가가 연주되는 동안 동메달 중국과 은메달 일본의 국기는 정상적으로 올라갔지만 우승국인 한국의 태극기는 게양대에 제대로 걸리지 않았습니다.\n\n태극기가 제대로 게양되지 않은 이유가 시설 고장인지 아니면 현장 운영요원의 실수인지는 아직 확인되지 않았습니다.\n\n애국가가 나오는 동안 태극기를 보지 못한 우리 응원단은 주최 측을 향해 야유를 보내며 거세게 항의했습니다.\n\n#애국가 #태극기 #대한민국 #축구 #우승 #아시안게임 #일본 #몽니 #황당 #사고\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김종성(goldbell@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261003/AKR20261003230244kXd_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "김종성",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261003230244kXd#comments",
+          "content": "애국가가 울리는 동안 제대로 게양되지 않은 태극기[연합뉴스TV 시청자 제보][연합뉴스TV 시청자 제보] 2026 아이치·나고야 아시안게임에서 우승한 우리 남자 축구 대표팀의 메달 시상식에서 태극기가 제 때 게양되지 않는 황당한 사고가 발생했습니다. 연합뉴스TV 시청자가 제보한 영상과 사진 등에 따르면 일본 도요타 스타디움에서 열린 시상식에서 애국가가 연주되는 동안 동메달 중국과 은메달 일본의 국기는 정상적으로 올라갔지만 우승국인 한국의 태...",
+          "contentSnippet": "애국가가 울리는 동안 제대로 게양되지 않은 태극기[연합뉴스TV 시청자 제보][연합뉴스TV 시청자 제보] 2026 아이치·나고야 아시안게임에서 우승한 우리 남자 축구 대표팀의 메달 시상식에서 태극기가 제 때 게양되지 않는 황당한 사고가 발생했습니다. 연합뉴스TV 시청자가 제보한 영상과 사진 등에 따르면 일본 도요타 스타디움에서 열린 시상식에서 애국가가 연주되는 동안 동메달 중국과 은메달 일본의 국기는 정상적으로 올라갔지만 우승국인 한국의 태...",
+          "guid": "AKR20261003230244kXd",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-03T14:02:45.000Z"
         }
       ]
     }
