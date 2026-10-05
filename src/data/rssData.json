@@ -7,6 +7,256 @@
       "priority": 1,
       "data": [
         {
+          "title": "스왑으로 발생한 Go 가비지 컬렉터의 40ms 정지",
+          "link": "https://news.hada.io/topic?id=34816",
+          "pubDate": "2026-10-05T08:41:37.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Go GC가 <strong>전체 실행 정지(STW)</strong> 중 읽는 힙 외부 메타데이터도 스왑으로 밀려날 수 있으며, 이를 다시 읽는 과정에서 최대 <strong>40ms 정지</strong>가 발생함</li>\n<li>커널 6.8과 MGLRU를 사용한 Hetzner 실험에서 정지 시간 중앙값은 약 <strong>51µs</strong>였지만, 최악의 정지에서는 ...</p>",
+          "contentSnippet": "Go GC가 전체 실행 정지(STW) 중 읽는 힙 외부 메타데이터도 스왑으로 밀려날 수 있으며, 이를 다시 읽는 과정에서 최대 40ms 정지가 발생함\n커널 6.8과 MGLRU를 사용한 Hetzner 실험에서 정지 시간 중앙값은 약 51µs였지만, 최악의 정지에서는 ...",
+          "id": "https://news.hada.io/topic?id=34816",
+          "isoDate": "2026-10-05T08:41:37.000Z"
+        },
+        {
+          "title": "오리지널 Doom을 SQL로 포팅하기",
+          "link": "https://news.hada.io/topic?id=34815",
+          "pubDate": "2026-10-05T08:38:37.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>SQLDoom</strong>은 1993년 Doom의 게임 로직과 렌더러를 SQL로 옮겨 데이터베이스 안에서 실행함. Python 클라이언트는 입력, 타이밍, 반환된 비트맵 표시만 담당함</li>\n<li>게임 로직은 원작과 같은 <strong>35Hz</strong>로 실행하고, 렌더링은 별도로 처리함. 노트북에서 완전한 320×200 프레임버...</p>",
+          "contentSnippet": "SQLDoom은 1993년 Doom의 게임 로직과 렌더러를 SQL로 옮겨 데이터베이스 안에서 실행함. Python 클라이언트는 입력, 타이밍, 반환된 비트맵 표시만 담당함\n게임 로직은 원작과 같은 35Hz로 실행하고, 렌더링은 별도로 처리함. 노트북에서 완전한 320×200 프레임버...",
+          "id": "https://news.hada.io/topic?id=34815",
+          "isoDate": "2026-10-05T08:38:37.000Z"
+        },
+        {
+          "title": "AI로 의도, 품질, 예술성을 확장하는 법 [영상]",
+          "link": "https://news.hada.io/topic?id=34813",
+          "pubDate": "2026-10-05T07:36:16.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>AI로 누구나 빠르게 제품을 만드는 시대</strong>에는 맥락과 개성 없이 외형만 그럴듯한 ‘좀비 UI’가 늘어날 수 있음</li>\n<li>대규모 언어 모델은 고유한 브랜드나 사용자 맥락보다 <strong>흔하고 확률 높은 답</strong>에 능하며, 완성돼 보이는 결과물과 빠른 제작 속도가 품질 판단과 장기적 책...</p>",
+          "contentSnippet": "AI로 누구나 빠르게 제품을 만드는 시대에는 맥락과 개성 없이 외형만 그럴듯한 ‘좀비 UI’가 늘어날 수 있음\n대규모 언어 모델은 고유한 브랜드나 사용자 맥락보다 흔하고 확률 높은 답에 능하며, 완성돼 보이는 결과물과 빠른 제작 속도가 품질 판단과 장기적 책...",
+          "id": "https://news.hada.io/topic?id=34813",
+          "isoDate": "2026-10-05T07:36:16.000Z"
+        },
+        {
+          "title": "블라인드사이트, 의식 없는 지능과의 첫 접촉을 그린 하드 SF",
+          "link": "https://news.hada.io/topic?id=34811",
+          "pubDate": "2026-10-05T06:43:03.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>Blindsight</strong>는 외계 문명과의 첫 접촉을 통해 지능과 의식의 관계를 탐구하는 하드 SF 소설로, 인간보다 지능이 높지만 자의식은 없는 존재를 등장시킴</li>\n<li>2082년 지구에서 정체불명의 외계 현상이 관측된 뒤, <strong>Theseus</strong> 탐사선의 강화 인간 전문가들이 신호를 추적해 외...</p>",
+          "contentSnippet": "Blindsight는 외계 문명과의 첫 접촉을 통해 지능과 의식의 관계를 탐구하는 하드 SF 소설로, 인간보다 지능이 높지만 자의식은 없는 존재를 등장시킴\n2082년 지구에서 정체불명의 외계 현상이 관측된 뒤, Theseus 탐사선의 강화 인간 전문가들이 신호를 추적해 외...",
+          "id": "https://news.hada.io/topic?id=34811",
+          "isoDate": "2026-10-05T06:43:03.000Z"
+        },
+        {
+          "title": "프록시 소프트웨어 Xray-core, 인증서 검증 우회 취약점 반년간 은폐 의혹",
+          "link": "https://news.hada.io/topic?id=34810",
+          "pubDate": "2026-10-05T06:40:03.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>취약점 신고자는 <strong>Xray-core</strong>가 인증서 고정 로직의 검증 우회 취약점을 비공개 신고받아 수정하고도 사용자에게 알리지 않았다고 비판함</li>\n<li>2026년 1월 기존 인증서 체인 고정 옵션을 <strong><code>pinnedPeerCertSha256</code></strong> 으로 교체하면서 취약점이 유입됐으며, 기존 옵...</p>",
+          "contentSnippet": "취약점 신고자는 Xray-core가 인증서 고정 로직의 검증 우회 취약점을 비공개 신고받아 수정하고도 사용자에게 알리지 않았다고 비판함\n2026년 1월 기존 인증서 체인 고정 옵션을 pinnedPeerCertSha256 으로 교체하면서 취약점이 유입됐으며, 기존 옵...",
+          "id": "https://news.hada.io/topic?id=34810",
+          "isoDate": "2026-10-05T06:40:03.000Z"
+        },
+        {
+          "title": "ArtCraft Apps - Rust로 작성한 Adobe 호환 오픈소스 도구 모음",
+          "link": "https://news.hada.io/topic?id=34809",
+          "pubDate": "2026-10-05T06:37:03.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>ArtCraft 팀이 이미지 편집부터 페이지 레이아웃까지 다루는 <strong>무료 오픈소스 창작 앱 7종</strong>을 개발 중이며, 모두 Rust로 처음부터 작성함</li>\n<li><strong>PhotoCraft와 PrintCraft는 초기 알파 단계</strong>이고, 나머지 5종은 개발 중임</li>\n<li>데스크톱 앱은 <strong>Electron이나 웹뷰 없...</p>",
+          "contentSnippet": "ArtCraft 팀이 이미지 편집부터 페이지 레이아웃까지 다루는 무료 오픈소스 창작 앱 7종을 개발 중이며, 모두 Rust로 처음부터 작성함\nPhotoCraft와 PrintCraft는 초기 알파 단계이고, 나머지 5종은 개발 중임\n데스크톱 앱은 Electron이나 웹뷰 없...",
+          "id": "https://news.hada.io/topic?id=34809",
+          "isoDate": "2026-10-05T06:37:03.000Z"
+        },
+        {
+          "title": "폐업 이후 온라인에 공개된 애니메이션 자료 디지털 아카이브",
+          "link": "https://news.hada.io/topic?id=34807",
+          "pubDate": "2026-10-05T05:31:19.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>폐업한 <strong>Tippett Studios</strong>와 Phil Tippett의 스톱모션 작업 자료가 <strong>Internet Archive</strong>에 공개돼 무료로 열람할 수 있음</li>\n<li>익명의 구매자 <strong>TippettFan</strong>이 폐업 경매에서 디스크 보관철을 구입하고, 중복을 제외한 주요 디스크 <strong>90장</strong>을 IS...</p>",
+          "contentSnippet": "폐업한 Tippett Studios와 Phil Tippett의 스톱모션 작업 자료가 Internet Archive에 공개돼 무료로 열람할 수 있음\n익명의 구매자 TippettFan이 폐업 경매에서 디스크 보관철을 구입하고, 중복을 제외한 주요 디스크 90장을 IS...",
+          "id": "https://news.hada.io/topic?id=34807",
+          "isoDate": "2026-10-05T05:31:19.000Z"
+        },
+        {
+          "title": "자율주행 데이터의 진짜 문제는 크기가 아니다",
+          "link": "https://news.hada.io/topic?id=34805",
+          "pubDate": "2026-10-05T04:51:08.000Z",
+          "author": "sanspareilsmyn",
+          "content": "<ul>\n<li>자율주행 데이터의 가장 어려운 문제는 데이터의 <strong>크기 자체가 아니라 의미를 보존하는 것</strong>이다.</li>\n<li>센서 데이터는 서로 다른 주기와 시계를 사용하기 때문에, 카메라·LiDAR·Radar 데이터를 정확한 시간 관계로 묶는 것이 생각보다 어렵다.</li>\n<li>주행 데이터의 대부분은 반복적이고 지...</p>",
+          "contentSnippet": "자율주행 데이터의 가장 어려운 문제는 데이터의 크기 자체가 아니라 의미를 보존하는 것이다.\n센서 데이터는 서로 다른 주기와 시계를 사용하기 때문에, 카메라·LiDAR·Radar 데이터를 정확한 시간 관계로 묶는 것이 생각보다 어렵다.\n주행 데이터의 대부분은 반복적이고 지...",
+          "id": "https://news.hada.io/topic?id=34805",
+          "isoDate": "2026-10-05T04:51:08.000Z"
+        },
+        {
+          "title": "이르쿠츠크 연구소 직원 페스트 사망 후 약 200명 의학적 관찰",
+          "link": "https://news.hada.io/topic?id=34804",
+          "pubDate": "2026-10-05T04:32:48.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>러시아 이르쿠츠크 지역에서 <strong>연구소 직원이 페스트로 사망</strong>한 뒤, 접촉 가능성이 있는 약 200명이 의학적 관찰 대상이 됨</li>\n<li>사망한 직원은 검사용 시료를 채취하다 <strong>살아 있는 세균이 담긴 시험관을 실수로 깨뜨렸다</strong>고 의료진에게 말한 것으로 전해짐</li>\n<li>언론은 ...</p>",
+          "contentSnippet": "러시아 이르쿠츠크 지역에서 연구소 직원이 페스트로 사망한 뒤, 접촉 가능성이 있는 약 200명이 의학적 관찰 대상이 됨\n사망한 직원은 검사용 시료를 채취하다 살아 있는 세균이 담긴 시험관을 실수로 깨뜨렸다고 의료진에게 말한 것으로 전해짐\n언론은 ...",
+          "id": "https://news.hada.io/topic?id=34804",
+          "isoDate": "2026-10-05T04:32:48.000Z"
+        },
+        {
+          "title": "Show GN: Alpine-Code - 에이전트가 쓸 도구를 직접 개발해 커스터마이징 가능한 코딩 에이전트를 만들었습니다. ...",
+          "link": "https://news.hada.io/topic?id=34803",
+          "pubDate": "2026-10-05T04:28:09.000Z",
+          "author": "goddessana",
+          "content": "<h2>Alpine-Code 가 뭐냐?</h2>\n<p>폴더를 열고 하고 싶은 걸 말하면 파일을 읽고, 고치고, 제대로 되는지 확인까지 하는 오픈소스(MIT) AI 코딩 에이전트를 만들었습니다.<br />\nCodex Desktop, Claude Desktop 의 오픈소스 대안입니다.</p>\n<h2>코딩을 잘 몰라도 쓸 수 있게 만들어봤어요.</h2>\n<ul>\n<li>앱이 한국어로",
+          "contentSnippet": "Alpine-Code 가 뭐냐?\n폴더를 열고 하고 싶은 걸 말하면 파일을 읽고, 고치고, 제대로 되는지 확인까지 하는 오픈소스(MIT) AI 코딩 에이전트를 만들었습니다.\n코딩을 잘 몰라도 쓸 수 있게 만들어봤어요.\n앱이 한국어로",
+          "id": "https://news.hada.io/topic?id=34803",
+          "isoDate": "2026-10-05T04:28:09.000Z"
+        },
+        {
+          "title": "SSH와 Nginx로 직접 호스팅하는 HTTP 터널",
+          "link": "https://news.hada.io/topic?id=34802",
+          "pubDate": "2026-10-05T03:40:05.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>OpenSSH와 nginx</strong>만으로 로컬 HTTP 서비스를 외부에 공유하는 터널을 구성할 수 있음. 짧은 SSH 명령 하나로 터널을 열고 공유용 HTTPS URL을 얻음</li>\n<li><strong>SSH 원격 포트 포워딩</strong>이 서버의 빈 포트를 로컬 서비스에 연결하고, nginx는 서브도메인에서 포트 번호를 추출해 해...</p>",
+          "contentSnippet": "OpenSSH와 nginx만으로 로컬 HTTP 서비스를 외부에 공유하는 터널을 구성할 수 있음. 짧은 SSH 명령 하나로 터널을 열고 공유용 HTTPS URL을 얻음\nSSH 원격 포트 포워딩이 서버의 빈 포트를 로컬 서비스에 연결하고, nginx는 서브도메인에서 포트 번호를 추출해 해...",
+          "id": "https://news.hada.io/topic?id=34802",
+          "isoDate": "2026-10-05T03:40:05.000Z"
+        },
+        {
+          "title": "F1, 소프트웨어 버그로 가속 페달 먹통에 드라이버들 반발",
+          "link": "https://news.hada.io/topic?id=34800",
+          "pubDate": "2026-10-05T03:37:04.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>말레이시아 Sepang에서 열린 바레인 GP에서 다수 차량이 <strong>소프트웨어 오류로 공회전 상태에 갇혀</strong>, 예정된 출발이 중단됨</li>\n<li>2026년형 차량의 첫 우천 레이스에서 파워 유닛 제어기의 <strong>우천 모드</strong>가 극저속 주행 중 버그를 유발함</li>\n<li>FIA는 적기 중단 중 <strong>11...</p>",
+          "contentSnippet": "말레이시아 Sepang에서 열린 바레인 GP에서 다수 차량이 소프트웨어 오류로 공회전 상태에 갇혀, 예정된 출발이 중단됨\n2026년형 차량의 첫 우천 레이스에서 파워 유닛 제어기의 우천 모드가 극저속 주행 중 버그를 유발함\nFIA는 적기 중단 중 11...",
+          "id": "https://news.hada.io/topic?id=34800",
+          "isoDate": "2026-10-05T03:37:04.000Z"
+        },
+        {
+          "title": "Show GN: smooth-stream - Claude Code 답변을 타자기처럼 부드럽게 보여주는 mod",
+          "link": "https://news.hada.io/topic?id=34799",
+          "pubDate": "2026-10-05T03:19:00.000Z",
+          "author": "sam1287",
+          "content": "<p>Claude Code CLI는 스트리밍 응답이 청크 단위로 툭툭 끊겨서 나타나는데, 이걸 claude.ai 웹처럼 한 글자씩 부드럽게 흘러나오게 바꿔주는 mod를 만들었습니다.<br />\n공식 이슈에도 같은 요청이 두 번(#66432, #76432) 있었지만 반영되지 않고 닫혀서, 이번에 나온 mods 기능으로 직접 구현해 봤습니다.</p>\n<p>기능",
+          "contentSnippet": "Claude Code CLI는 스트리밍 응답이 청크 단위로 툭툭 끊겨서 나타나는데, 이걸 claude.ai 웹처럼 한 글자씩 부드럽게 흘러나오게 바꿔주는 mod를 만들었습니다.\n기능",
+          "id": "https://news.hada.io/topic?id=34799",
+          "isoDate": "2026-10-05T03:19:00.000Z"
+        },
+        {
+          "title": "「Quo Vadis, Mathematics?」—“수학이여, 어디로 가는가?”",
+          "link": "https://news.hada.io/topic?id=34798",
+          "pubDate": "2026-10-05T02:36:45.000Z",
+          "author": "regentag",
+          "content": "「Quo Vadis, Mathematics?」—“수학이여, 어디로 가는가?”",
+          "contentSnippet": "「Quo Vadis, Mathematics?」—“수학이여, 어디로 가는가?”",
+          "id": "https://news.hada.io/topic?id=34798",
+          "isoDate": "2026-10-05T02:36:45.000Z"
+        },
+        {
+          "title": "Infidel이 폭주하다",
+          "link": "https://news.hada.io/topic?id=34797",
+          "pubDate": "2026-10-05T02:34:48.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Infocom의 <strong>Infidel</strong>에서 사막에 내려놓은 물건을 처리할 때 엉뚱한 메모리를 덮어쓰는 <strong>컴파일러 버그</strong>가 발견됨</li>\n<li>ZIL 컴파일 결과가 전역 변수의 값을 인수 기본값으로 사용하지 않고 <strong>전역 변수 번호 30</strong>을 사용해, 원래 배열 주소인 11129 대신 주소...</p>",
+          "contentSnippet": "Infocom의 Infidel에서 사막에 내려놓은 물건을 처리할 때 엉뚱한 메모리를 덮어쓰는 컴파일러 버그가 발견됨\nZIL 컴파일 결과가 전역 변수의 값을 인수 기본값으로 사용하지 않고 전역 변수 번호 30을 사용해, 원래 배열 주소인 11129 대신 주소...",
+          "id": "https://news.hada.io/topic?id=34797",
+          "isoDate": "2026-10-05T02:34:48.000Z"
+        },
+        {
+          "title": "Claude Code 모드(mod) 시작하기",
+          "link": "https://news.hada.io/topic?id=34796",
+          "pubDate": "2026-10-05T02:24:45.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li><strong>Claude Code의 동작과 UI를 바꾸는 JavaScript/TypeScript 확장인 모드(mod)</strong> 로, 세션 안에서 이벤트를 관찰하고 도구 실행에 개입하거나 맞춤 패널을 표시할 수 있음</li>\n<li><strong>원하는 기능을 자연어로 요청해 모드를 만들 수 있으며</strong>, 핫 리로드로 세션을 재시작하지 않고 수...</p>",
+          "contentSnippet": "Claude Code의 동작과 UI를 바꾸는 JavaScript/TypeScript 확장인 모드(mod) 로, 세션 안에서 이벤트를 관찰하고 도구 실행에 개입하거나 맞춤 패널을 표시할 수 있음\n원하는 기능을 자연어로 요청해 모드를 만들 수 있으며, 핫 리로드로 세션을 재시작하지 않고 수...",
+          "id": "https://news.hada.io/topic?id=34796",
+          "isoDate": "2026-10-05T02:24:45.000Z"
+        },
+        {
+          "title": "Bill Draper 별세",
+          "link": "https://news.hada.io/topic?id=34795",
+          "pubDate": "2026-10-05T01:35:49.000Z",
+          "author": "neo",
+          "content": "Bill Draper 별세",
+          "contentSnippet": "Bill Draper 별세",
+          "id": "https://news.hada.io/topic?id=34795",
+          "isoDate": "2026-10-05T01:35:49.000Z"
+        },
+        {
+          "title": "브라우저에서 실행되는 클래식 Visual Basic VB6 IDE",
+          "link": "https://news.hada.io/topic?id=34794",
+          "pubDate": "2026-10-05T01:32:49.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>브라우저 네이티브 <strong>클래식 Visual Basic VB6 IDE</strong>로, 도구 상자, 프로젝트 트리, 속성 창, 폼 레이아웃과 폼 화면을 갖춤</li>\n<li>예제 프로젝트 <strong>Project1</strong>에는 주문 입력 폼 <code>frmOrders.frm</code>과 모듈 <code>modUtilities.bas</code>가 포함됨</li>\n<li><strong>속...</p>",
+          "contentSnippet": "브라우저 네이티브 클래식 Visual Basic VB6 IDE로, 도구 상자, 프로젝트 트리, 속성 창, 폼 레이아웃과 폼 화면을 갖춤\n예제 프로젝트 Project1에는 주문 입력 폼 frmOrders.frm과 모듈 modUtilities.bas가 포함됨\n속...",
+          "id": "https://news.hada.io/topic?id=34794",
+          "isoDate": "2026-10-05T01:32:49.000Z"
+        },
+        {
+          "title": "AI 시대의 커리어 조언 - 문제를 푸는 능력보다 찾고 선택하는 능력",
+          "link": "https://news.hada.io/topic?id=34793",
+          "pubDate": "2026-10-05T01:05:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>AI는 정답과 평가 기준을 명확히 정의할 수 있는 문제에서 빠르게 발전하므로, 앞으로의 가치는 <strong>훈련 과정 안에서 채점하기 어려운 문제를 발견하고 선택하는 능력</strong>에서 나옴</li>\n<li>소프트웨어와 자본에 대한 접근은 쉬워졌지만 시간과 좋은 인간관계, 평판은 여전히 희소하므로, 단기적인 ...</p>",
+          "contentSnippet": "AI는 정답과 평가 기준을 명확히 정의할 수 있는 문제에서 빠르게 발전하므로, 앞으로의 가치는 훈련 과정 안에서 채점하기 어려운 문제를 발견하고 선택하는 능력에서 나옴\n소프트웨어와 자본에 대한 접근은 쉬워졌지만 시간과 좋은 인간관계, 평판은 여전히 희소하므로, 단기적인 ...",
+          "id": "https://news.hada.io/topic?id=34793",
+          "isoDate": "2026-10-05T01:05:02.000Z"
+        },
+        {
+          "title": "AI 네이티브 SDLC - 개발 전 과정을 에이전트에 맞게 재설계하기",
+          "link": "https://news.hada.io/topic?id=34792",
+          "pubDate": "2026-10-05T00:55:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>에이전트가 코드 작성 시간을 크게 줄여도 계획과 검토, 보안 승인, 배포가 기존 속도로 움직이면 <strong>병목이 개발 전후 단계로 이동</strong>할 뿐 전체 출시 속도는 크게 나아지지 않음</li>\n<li>기존의 선형적인 역할별 인계 대신 계획, 설계, 구현, 테스트, 배포, 운영에 AI를 넣고, 각 단계가 만든 산...</p>",
+          "contentSnippet": "에이전트가 코드 작성 시간을 크게 줄여도 계획과 검토, 보안 승인, 배포가 기존 속도로 움직이면 병목이 개발 전후 단계로 이동할 뿐 전체 출시 속도는 크게 나아지지 않음\n기존의 선형적인 역할별 인계 대신 계획, 설계, 구현, 테스트, 배포, 운영에 AI를 넣고, 각 단계가 만든 산...",
+          "id": "https://news.hada.io/topic?id=34792",
+          "isoDate": "2026-10-05T00:55:01.000Z"
+        },
+        {
+          "title": "AI가 코드를 쓸수록 도메인 주도 설계가 더 중요해지는 이유",
+          "link": "https://news.hada.io/topic?id=34791",
+          "pubDate": "2026-10-05T00:45:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>AI가 언어와 프레임워크의 구현 세부를 빠르게 처리해도, <strong>어떤 문제를 어떤 방식으로 해결해야 하는지 이해하고 모델링하는 일</strong>은 여전히 사람이 맡아야 함</li>\n<li>도메인 모델의 가치는 완성된 문서나 다이어그램이 아니라 개발자와 도메인 전문가가 함께 탐색하며 <strong>사업에 대한 공통...</p>",
+          "contentSnippet": "AI가 언어와 프레임워크의 구현 세부를 빠르게 처리해도, 어떤 문제를 어떤 방식으로 해결해야 하는지 이해하고 모델링하는 일은 여전히 사람이 맡아야 함\n도메인 모델의 가치는 완성된 문서나 다이어그램이 아니라 개발자와 도메인 전문가가 함께 탐색하며 사업에 대한 공통...",
+          "id": "https://news.hada.io/topic?id=34791",
+          "isoDate": "2026-10-05T00:45:02.000Z"
+        },
+        {
+          "title": "OpenMuse - 브라우저와 터미널로 일하는 오픈소스 개인 AI 에이전트",
+          "link": "https://news.hada.io/topic?id=34790",
+          "pubDate": "2026-10-05T00:30:02.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li><strong>Meta Muse처럼 AI에 원하는 결과를 맡기고 작업 과정을 확인하는 개인 에이전트 앱</strong>으로, CopilotKit이 오픈소스로 개발</li>\n<li>자체 브라우저와 파일, 선택적으로 구성하는 Linux 터미널을 활용해 <strong>자료 조사, 메일 처리, 문서 작성과 반복 확인 작업</strong>을 수행하며, 사용자가...</p>",
+          "contentSnippet": "Meta Muse처럼 AI에 원하는 결과를 맡기고 작업 과정을 확인하는 개인 에이전트 앱으로, CopilotKit이 오픈소스로 개발\n자체 브라우저와 파일, 선택적으로 구성하는 Linux 터미널을 활용해 자료 조사, 메일 처리, 문서 작성과 반복 확인 작업을 수행하며, 사용자가...",
+          "id": "https://news.hada.io/topic?id=34790",
+          "isoDate": "2026-10-05T00:30:02.000Z"
+        },
+        {
+          "title": "과업이 곧 일의 목적은 아니다",
+          "link": "https://news.hada.io/topic?id=34789",
+          "pubDate": "2026-10-05T00:03:04.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li><strong>코딩 에이전트</strong>가 구현 속도를 높여도 무엇을 만들 가치가 있는지 판단하는 능력까지 같은 비율로 좋아지지는 않음. 구현에 들던 시간이 줄면서 어려운 의사결정에 더 빨리 도달하게 됨</li>\n<li>발표용 배경음악이 필요하면 완성된 곡을 받으면 되지만, <strong>직접 음악을 만들고 싶다면 창...</p>",
+          "contentSnippet": "코딩 에이전트가 구현 속도를 높여도 무엇을 만들 가치가 있는지 판단하는 능력까지 같은 비율로 좋아지지는 않음. 구현에 들던 시간이 줄면서 어려운 의사결정에 더 빨리 도달하게 됨\n발표용 배경음악이 필요하면 완성된 곡을 받으면 되지만, 직접 음악을 만들고 싶다면 창...",
+          "id": "https://news.hada.io/topic?id=34789",
+          "isoDate": "2026-10-05T00:03:04.000Z"
+        },
+        {
+          "title": "Rust의 derive는 종종 inline을 암묵적으로 포함함",
+          "link": "https://news.hada.io/topic?id=34788",
+          "pubDate": "2026-10-05T00:01:59.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Rust는 현재 <strong><code>#[derive(...)]</code>로 생성하는 구현에 <code>#[inline]</code>을 추가</strong>함. 보장된 동작은 아닌 것으로 보이지만, 레퍼런스 예제와 매크로 확장에서 확인할 수 있음</li>\n<li><strong><code>#[inline]</code>은 힌트</strong>일 뿐이며, 자동 생성한 <code>Debug</code>,...</p>",
+          "contentSnippet": "Rust는 현재 #[derive(...)]로 생성하는 구현에 #[inline]을 추가함. 보장된 동작은 아닌 것으로 보이지만, 레퍼런스 예제와 매크로 확장에서 확인할 수 있음\n#[inline]은 힌트일 뿐이며, 자동 생성한 Debug,...",
+          "id": "https://news.hada.io/topic?id=34788",
+          "isoDate": "2026-10-05T00:01:59.000Z"
+        },
+        {
+          "title": "영국 정부 기구, 극단주의 대응 정책 비판자들의 온라인 게시물 수집",
+          "link": "https://news.hada.io/topic?id=34787",
+          "pubDate": "2026-10-04T23:31:50.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>영국 내무부 연계 기구 <strong>Prevent Standards and Compliance Unit(StaCU)</strong> 이 정부의 극단주의 대응 프로그램인 Prevent를 온라인에서 비판한 사람들에 관한 기록을 수집하고 보관함</li>\n<li>2024년 3월부터 2025년 2월까지 <strong>77건의 관찰 기록</strong>을 작성했으며, 대부분 X에서 수집...</p>",
+          "contentSnippet": "영국 내무부 연계 기구 Prevent Standards and Compliance Unit(StaCU) 이 정부의 극단주의 대응 프로그램인 Prevent를 온라인에서 비판한 사람들에 관한 기록을 수집하고 보관함\n2024년 3월부터 2025년 2월까지 77건의 관찰 기록을 작성했으며, 대부분 X에서 수집...",
+          "id": "https://news.hada.io/topic?id=34787",
+          "isoDate": "2026-10-04T23:31:50.000Z"
+        },
+        {
           "title": "미국 살인범의 형량, 법정에서 상영된 피해자 AI 영상 때문에 파기",
           "link": "https://news.hada.io/topic?id=34786",
           "pubDate": "2026-10-04T22:49:19.000Z",
@@ -31,8 +281,8 @@
           "link": "https://news.hada.io/topic?id=34784",
           "pubDate": "2026-10-04T22:43:19.000Z",
           "author": "neo",
-          "content": "<ul>\n<li><strong>Vx</strong>는 CPU, GPU, NPU와 가속기 메모리를 타입 시스템에 포함하는 이기종 컴퓨팅용 시스템 프로그래밍 언어로, 호스트에서 장치 포인터를 역참조하면 런타임 오류 대신 컴파일 오류가 발생함</li>\n<li><strong>데이터 위치가 타입의 일부</strong>이며, 메모리 영역 사이를 이동할 때는 하드웨어...</p>",
-          "contentSnippet": "Vx는 CPU, GPU, NPU와 가속기 메모리를 타입 시스템에 포함하는 이기종 컴퓨팅용 시스템 프로그래밍 언어로, 호스트에서 장치 포인터를 역참조하면 런타임 오류 대신 컴파일 오류가 발생함\n데이터 위치가 타입의 일부이며, 메모리 영역 사이를 이동할 때는 하드웨어...",
+          "content": "<ul>\n<li><strong>CPU, GPU, NPU 등 서로 다른 칩을 하나의 언어로 프로그래밍</strong>하는 시스템 언어로, 데이터 위치와 칩 사이의 연결 구조를 타입 시스템에 포함</li>\n<li>CPU 메모리와 GPU 메모리에 있는 데이터를 <strong>서로 다른 타입으로 구분</strong>하며, 다른 메모리 영역으로 옮길 때는 <code>transfer...</p>",
+          "contentSnippet": "CPU, GPU, NPU 등 서로 다른 칩을 하나의 언어로 프로그래밍하는 시스템 언어로, 데이터 위치와 칩 사이의 연결 구조를 타입 시스템에 포함\nCPU 메모리와 GPU 메모리에 있는 데이터를 서로 다른 타입으로 구분하며, 다른 메모리 영역으로 옮길 때는 transfer...",
           "id": "https://news.hada.io/topic?id=34784",
           "isoDate": "2026-10-04T22:43:19.000Z"
         },
@@ -41,8 +291,8 @@
           "link": "https://news.hada.io/topic?id=34783",
           "pubDate": "2026-10-04T22:40:19.000Z",
           "author": "neo",
-          "content": "<ul>\n<li><strong>Offrun</strong>은 Mac에서 기존 계정으로 코딩 에이전트 CLI를 실행하고, Claude Code, Codex, Antigravity를 한 작업 공간에서 함께 관리함</li>\n<li>에이전트마다 별도의 <strong>git worktree와 브랜치</strong>를 할당해 같은 저장소에서 리팩터링과 버그 수정을 동시에 진행해도 같은 파일을 편집...</p>",
-          "contentSnippet": "Offrun은 Mac에서 기존 계정으로 코딩 에이전트 CLI를 실행하고, Claude Code, Codex, Antigravity를 한 작업 공간에서 함께 관리함\n에이전트마다 별도의 git worktree와 브랜치를 할당해 같은 저장소에서 리팩터링과 버그 수정을 동시에 진행해도 같은 파일을 편집...",
+          "content": "<ul>\n<li>기존 구독과 계정으로 <strong>Claude Code, Codex, Antigravity, Grok Build를 한 작업 공간에서 병렬 실행</strong>하는 Mac용 앱</li>\n<li>에이전트마다 <strong>별도의 Git worktree와 브랜치</strong>를 만들어, 같은 저장소에서 리팩터링과 버그 수정 등을 서로 독립적으로 진행</li>\n<li><strong>다른 에...</p>",
+          "contentSnippet": "기존 구독과 계정으로 Claude Code, Codex, Antigravity, Grok Build를 한 작업 공간에서 병렬 실행하는 Mac용 앱\n에이전트마다 별도의 Git worktree와 브랜치를 만들어, 같은 저장소에서 리팩터링과 버그 수정 등을 서로 독립적으로 진행\n다른 에...",
           "id": "https://news.hada.io/topic?id=34783",
           "isoDate": "2026-10-04T22:40:19.000Z"
         },
@@ -71,8 +321,8 @@
           "link": "https://news.hada.io/topic?id=34780",
           "pubDate": "2026-10-04T21:40:47.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>Google이 <strong>영업비밀로 가린 데이터센터 보고서</strong>에서 해당 영역을 선택해 다른 문서에 복사해 붙여넣자, 물과 전력 사용 수치가 그대로 드러남</li>\n<li>네브래스카주 링컨의 <strong>Agate LLC</strong>는 최대 전력 수요 시 <strong>52.65MW</strong>, 지난 1년간 물 1,329만 9,000갤런을 사용...</p>",
-          "contentSnippet": "Google이 영업비밀로 가린 데이터센터 보고서에서 해당 영역을 선택해 다른 문서에 복사해 붙여넣자, 물과 전력 사용 수치가 그대로 드러남\n네브래스카주 링컨의 Agate LLC는 최대 전력 수요 시 52.65MW, 지난 1년간 물 1,329만 9,000갤런을 사용...",
+          "content": "<ul>\n<li>Google이 <strong>영업비밀로 가린 데이터센터 보고서</strong>에서 해당 영역을 선택해 다른 문서에 복사해 붙여넣자, 물과 전력 사용 수치가 그대로 드러남</li>\n<li>Google의 네브래스카주 <strong>링컨 데이터센터</strong>는 최대 전력 수요가 <strong>52.65MW</strong>이며, 지난 1년간 물 1,329만 9,000...</p>",
+          "contentSnippet": "Google이 영업비밀로 가린 데이터센터 보고서에서 해당 영역을 선택해 다른 문서에 복사해 붙여넣자, 물과 전력 사용 수치가 그대로 드러남\nGoogle의 네브래스카주 링컨 데이터센터는 최대 전력 수요가 52.65MW이며, 지난 1년간 물 1,329만 9,000...",
           "id": "https://news.hada.io/topic?id=34780",
           "isoDate": "2026-10-04T21:40:47.000Z"
         },
@@ -91,8 +341,8 @@
           "link": "https://news.hada.io/topic?id=34778",
           "pubDate": "2026-10-04T20:57:07.000Z",
           "author": "neo",
-          "content": "<ul>\n<li><strong>Thoreau BASIC</strong>은 GW-BASIC 스타일 문법에 64비트 메모리, 그래픽, 네트워킹, 오디오와 네이티브 x64 JIT 컴파일을 결합한 BASIC 구현임</li>\n<li>같은 언어를 <strong>Windows 프로그램</strong>으로 실행하거나 운영체제 없이 <strong>UEFI에서 직접 실행</strong>할 수 있으며, BASIC 프로그...</p>",
-          "contentSnippet": "Thoreau BASIC은 GW-BASIC 스타일 문법에 64비트 메모리, 그래픽, 네트워킹, 오디오와 네이티브 x64 JIT 컴파일을 결합한 BASIC 구현임\n같은 언어를 Windows 프로그램으로 실행하거나 운영체제 없이 UEFI에서 직접 실행할 수 있으며, BASIC 프로그...",
+          "content": "<ul>\n<li><strong>GW-BASIC의 줄 번호와 <code>PRINT</code>, <code>FOR</code>, <code>NEXT</code> 문법을 유지</strong>하면서 현대적인 그래픽·네트워크·사운드 기능을 더한 무료 64비트 BASIC 인터프리터</li>\n<li>Windows 프로그램으로 실행하거나 <strong>운영체제 없이 PC에서 직접 부팅</strong>해 사용할 수 있...</p>",
+          "contentSnippet": "GW-BASIC의 줄 번호와 PRINT, FOR, NEXT 문법을 유지하면서 현대적인 그래픽·네트워크·사운드 기능을 더한 무료 64비트 BASIC 인터프리터\nWindows 프로그램으로 실행하거나 운영체제 없이 PC에서 직접 부팅해 사용할 수 있...",
           "id": "https://news.hada.io/topic?id=34778",
           "isoDate": "2026-10-04T20:57:07.000Z"
         },
@@ -177,7 +427,7 @@
           "isoDate": "2026-10-04T17:40:24.000Z"
         },
         {
-          "title": "자동차는 바퀴 달린 스마트폰이다. 누가 귀 기울이고 있을까",
+          "title": "자동차는 바퀴 달린 스마트폰이다. 누가 지켜보고 있을까?",
           "link": "https://news.hada.io/topic?id=34769",
           "pubDate": "2026-10-04T17:37:24.000Z",
           "author": "neo",
@@ -187,12 +437,12 @@
           "isoDate": "2026-10-04T17:37:24.000Z"
         },
         {
-          "title": "암호화폐를 통한 해외 원조금 유용",
+          "title": "암호화폐로 빼돌리는 해외 원조금",
           "link": "https://news.hada.io/topic?id=34768",
           "pubDate": "2026-10-04T16:46:46.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>세계은행 원조금 지급 시점을 분석한 결과, <strong>지급 당월에 암호화폐 활동이 급증</strong>했다가 증가세가 빠르게 사라지는 현상이 나타남</li>\n<li>활동 급증은 조세피난처 거래소와 일반 거래소 모두에서 <strong>익명 지갑과 신규 생성 지갑</strong>이 주도했으며, 블록체인에서는 전통적인 자금세탁...</p>",
-          "contentSnippet": "세계은행 원조금 지급 시점을 분석한 결과, 지급 당월에 암호화폐 활동이 급증했다가 증가세가 빠르게 사라지는 현상이 나타남\n활동 급증은 조세피난처 거래소와 일반 거래소 모두에서 익명 지갑과 신규 생성 지갑이 주도했으며, 블록체인에서는 전통적인 자금세탁...",
+          "content": "<ul>\n<li><strong>2018~2024년 93개국의 세계은행 원조금 지급 시점</strong>을 분석한 결과, 지급 당월에 암호화폐 활동이 급증했다가 빠르게 잦아드는 현상이 나타남</li>\n<li>활동 급증은 조세피난처 거래소와 일반 거래소 모두에서 <strong>익명 지갑과 신규 생성 지갑</strong>이 주도했으며, 블록체인에서는 전통적...</p>",
+          "contentSnippet": "2018~2024년 93개국의 세계은행 원조금 지급 시점을 분석한 결과, 지급 당월에 암호화폐 활동이 급증했다가 빠르게 잦아드는 현상이 나타남\n활동 급증은 조세피난처 거래소와 일반 거래소 모두에서 익명 지갑과 신규 생성 지갑이 주도했으며, 블록체인에서는 전통적...",
           "id": "https://news.hada.io/topic?id=34768",
           "isoDate": "2026-10-04T16:46:46.000Z"
         },
@@ -201,8 +451,8 @@
           "link": "https://news.hada.io/topic?id=34767",
           "pubDate": "2026-10-04T16:43:46.000Z",
           "author": "neo",
-          "content": "<ul>\n<li><strong>BinRange</strong>는 고정 UWB 앵커 1대와 배터리 태그 6개로 쓰레기통의 이동을 감지하고, Home Assistant의 수거 일정과 결합해 실제로 밖에 내놓았는지 확인하는 취미 프로젝트임</li>\n<li>신호 세기로 거리를 추정하던 Bluetooth 방식 대신 <strong>전파 이동 시간</strong>을 측정하며, 새 거리 측...</p>",
-          "contentSnippet": "BinRange는 고정 UWB 앵커 1대와 배터리 태그 6개로 쓰레기통의 이동을 감지하고, Home Assistant의 수거 일정과 결합해 실제로 밖에 내놓았는지 확인하는 취미 프로젝트임\n신호 세기로 거리를 추정하던 Bluetooth 방식 대신 전파 이동 시간을 측정하며, 새 거리 측...",
+          "content": "<ul>\n<li><strong>쓰레기통을 수거일에 내놓았는지 확인하려고</strong>, 쓰레기통 6개에 무선 태그를 붙이고 고정 수신기·자체 펌웨어·Home Assistant 연동까지 만든 취미 프로젝트</li>\n<li>신호 세기로 거리를 추정하는 Bluetooth 대신 <strong>전파의 이동 시간을 측정하는 UWB</strong>를 사용하며, 두 보드 실험에...</p>",
+          "contentSnippet": "쓰레기통을 수거일에 내놓았는지 확인하려고, 쓰레기통 6개에 무선 태그를 붙이고 고정 수신기·자체 펌웨어·Home Assistant 연동까지 만든 취미 프로젝트\n신호 세기로 거리를 추정하는 Bluetooth 대신 전파의 이동 시간을 측정하는 UWB를 사용하며, 두 보드 실험에...",
           "id": "https://news.hada.io/topic?id=34767",
           "isoDate": "2026-10-04T16:43:46.000Z"
         },
@@ -211,8 +461,8 @@
           "link": "https://news.hada.io/topic?id=34766",
           "pubDate": "2026-10-04T16:40:46.000Z",
           "author": "neo",
-          "content": "<ul>\n<li><strong>pi pod</strong>는 직접 운영하는 서버에서 pi 세션을 격리된 샌드박스인 <strong>pod</strong>로 실행하며, 조합 가능한 환경을 지원하는 오픈소스 프로젝트임</li>\n<li>기존에 사용자가 다듬어 온 <strong>pi 하네스</strong>의 사용 경험을 유지하면서, 최소한의 엄선된 도구로 샌드박스 실행에 필요...</p>",
-          "contentSnippet": "pi pod는 직접 운영하는 서버에서 pi 세션을 격리된 샌드박스인 pod로 실행하며, 조합 가능한 환경을 지원하는 오픈소스 프로젝트임\n기존에 사용자가 다듬어 온 pi 하네스의 사용 경험을 유지하면서, 최소한의 엄선된 도구로 샌드박스 실행에 필요...",
+          "content": "<ul>\n<li><strong>pi 코딩 에이전트를 자체 서버의 격리된 작업 공간에서 실행</strong>하고 터미널이나 휴대폰에서 접속하는 별도의 오픈소스 도구</li>\n<li>CLI와 <strong>iOS·Android 앱</strong>으로 서버의 에이전트 세션을 이용하며, 서버가 작업 공간의 생성과 실행, 세션 연결을 관리</li>\n<li>이미 구성한 <str...</p>",
+          "contentSnippet": "pi 코딩 에이전트를 자체 서버의 격리된 작업 공간에서 실행하고 터미널이나 휴대폰에서 접속하는 별도의 오픈소스 도구\nCLI와 iOS·Android 앱으로 서버의 에이전트 세션을 이용하며, 서버가 작업 공간의 생성과 실행, 세션 연결을 관리\n이미 구성한",
           "id": "https://news.hada.io/topic?id=34766",
           "isoDate": "2026-10-04T16:40:46.000Z"
         },
@@ -255,256 +505,6 @@
           "contentSnippet": "RuneFest에서 Unreal Engine 기반의 신규 RuneScape MMORPG를 처음 공개했으며, 네 번째 세대 프로젝트의 가칭은 RS4임\n개발은 극초기 단계로 출시까지 수년이 남았지만, 처음부터 플레이어와 아이디어를 공유하고 테스트하며 함께 만들기 위해 일...",
           "id": "https://news.hada.io/topic?id=34762",
           "isoDate": "2026-10-04T14:47:10.000Z"
-        },
-        {
-          "title": "Qwen 3.8 Flash Next(125B)를 소비자용 하드웨어(RTX 4090)에서 초당 100토큰으로 실행하기",
-          "link": "https://news.hada.io/topic?id=34761",
-          "pubDate": "2026-10-04T14:44:10.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>Strata</strong>는 1,250억 매개변수 모델 Qwen3.8-Flash-Next를 일반 PC에서 실행하는 무료 오픈소스 도구로, 대화, 코드 작성, 이미지 읽기와 코딩 에이전트 연동을 지원하며 데이터는 PC 밖으로 나가지 않음</li>\n<li><strong>GPU, RAM, CPU, SSD에 작업을 분산</strong>해 모델을 구동함. 자주 쓰는...</p>",
-          "contentSnippet": "Strata는 1,250억 매개변수 모델 Qwen3.8-Flash-Next를 일반 PC에서 실행하는 무료 오픈소스 도구로, 대화, 코드 작성, 이미지 읽기와 코딩 에이전트 연동을 지원하며 데이터는 PC 밖으로 나가지 않음\nGPU, RAM, CPU, SSD에 작업을 분산해 모델을 구동함. 자주 쓰는...",
-          "id": "https://news.hada.io/topic?id=34761",
-          "isoDate": "2026-10-04T14:44:10.000Z"
-        },
-        {
-          "title": "종교학자들이 Anthropic과 만났다",
-          "link": "https://news.hada.io/topic?id=34760",
-          "pubDate": "2026-10-04T14:41:10.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>Anthropic</strong>이 여러 종교 전통의 학자들을 비공개로 초청해 Claude의 도덕성을 형성하는 방법과 <strong>AI 의식의 가능성</strong>을 논의해 옴</li>\n<li>공동창업자 <strong>Christopher Olah</strong>는 모델이 스스로 선한 선택을 하도록 만드는 것이 인류의 안전에 도움이 된다고 봄. AI 의...</p>",
-          "contentSnippet": "Anthropic이 여러 종교 전통의 학자들을 비공개로 초청해 Claude의 도덕성을 형성하는 방법과 AI 의식의 가능성을 논의해 옴\n공동창업자 Christopher Olah는 모델이 스스로 선한 선택을 하도록 만드는 것이 인류의 안전에 도움이 된다고 봄. AI 의...",
-          "id": "https://news.hada.io/topic?id=34760",
-          "isoDate": "2026-10-04T14:41:10.000Z"
-        },
-        {
-          "title": "우크라이나에서 분산형 재생에너지가 러시아의 공격을 무력화하다",
-          "link": "https://news.hada.io/topic?id=34758",
-          "pubDate": "2026-10-04T12:34:32.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>러시아의 발전소 공격으로 Mykolaiv 대부분 지역에서 급수 펌프가 멈췄지만, 한 동부 외곽 지역은 <strong>독립형 태양광 설비와 배터리</strong> 덕분에 식수 공급을 유지함</li>\n<li><strong>분산형 발전</strong>은 대형 중앙집중식 시설보다 공격하기 어렵고 복구도 빠르며, 풍력과 태양광은 설비 일부가 파...</p>",
-          "contentSnippet": "러시아의 발전소 공격으로 Mykolaiv 대부분 지역에서 급수 펌프가 멈췄지만, 한 동부 외곽 지역은 독립형 태양광 설비와 배터리 덕분에 식수 공급을 유지함\n분산형 발전은 대형 중앙집중식 시설보다 공격하기 어렵고 복구도 빠르며, 풍력과 태양광은 설비 일부가 파...",
-          "id": "https://news.hada.io/topic?id=34758",
-          "isoDate": "2026-10-04T12:34:32.000Z"
-        },
-        {
-          "title": "Show GN: cuesheet - 링크 하나로 MSW 응답을 바꿔, AI도 QA도 상황별 화면을 확인하는 도구",
-          "link": "https://news.hada.io/topic?id=34757",
-          "pubDate": "2026-10-04T12:21:06.000Z",
-          "author": "dae4805",
-          "content": "<p>회사에서 새 서비스를 만들면서 프론트 코드의 상당 부분을 AI로 짜고 있습니다. 새 제품이라 백엔드도 같이 개발되는데, API가 프론트보다 늦게 나오는 경우가 많고, 나와도 실제 서버에서는 빈 목록이나 에러 같은 상황을 만들기가 어려웠습니다. 그래서 프론트를 독립적으로 빠르게 개발하려고 MSW를 도입했습니다...</p>",
-          "contentSnippet": "회사에서 새 서비스를 만들면서 프론트 코드의 상당 부분을 AI로 짜고 있습니다. 새 제품이라 백엔드도 같이 개발되는데, API가 프론트보다 늦게 나오는 경우가 많고, 나와도 실제 서버에서는 빈 목록이나 에러 같은 상황을 만들기가 어려웠습니다. 그래서 프론트를 독립적으로 빠르게 개발하려고 MSW를 도입했습니다...",
-          "id": "https://news.hada.io/topic?id=34757",
-          "isoDate": "2026-10-04T12:21:06.000Z"
-        },
-        {
-          "title": "Ask GN: 코딩 에이전트 뭐 쓰고 계세요? 고른 이유가 궁금합니다",
-          "link": "https://news.hada.io/topic?id=34756",
-          "pubDate": "2026-10-04T11:15:26.000Z",
-          "author": "parkjy",
-          "content": "<p>저는 지금 Claude Code로 작업하고 있는데, 요즘 코딩 에이전트가 너무 많아져서 다른 것도 써봐야 하나 고민이 됩니다. 저는 코드를 직접 짜는 쪽이 아니라서 시킨 말을 잘 알아듣는지, 그리고 중간에 시키지 않은 파일을 멋대로 고치지 않는지가 제일 중요합니다. 그래서 세 가지가 궁금합니다. 첫째, 지금 어떤 코...</p>",
-          "contentSnippet": "저는 지금 Claude Code로 작업하고 있는데, 요즘 코딩 에이전트가 너무 많아져서 다른 것도 써봐야 하나 고민이 됩니다. 저는 코드를 직접 짜는 쪽이 아니라서 시킨 말을 잘 알아듣는지, 그리고 중간에 시키지 않은 파일을 멋대로 고치지 않는지가 제일 중요합니다. 그래서 세 가지가 궁금합니다. 첫째, 지금 어떤 코...",
-          "id": "https://news.hada.io/topic?id=34756",
-          "isoDate": "2026-10-04T11:15:26.000Z"
-        },
-        {
-          "title": "소프트웨어 품질의 시대인가, 타조의 시대인가?",
-          "link": "https://news.hada.io/topic?id=34755",
-          "pubDate": "2026-10-04T10:05:28.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>AI 취약점 스캔</strong>은 2026년 소프트웨어 품질 유지에 필수적이며, GNOME이 스스로 취약점을 찾지 않으면 공격자가 먼저 찾을 수 있음</li>\n<li><strong>AI 생성 취약점 보고서의 품질</strong>은 2025년보다 크게 개선됐지만 오류가 여전히 남아 있으며, 유효한 보고서도 대량으로 쌓이면 자원봉...</p>",
-          "contentSnippet": "AI 취약점 스캔은 2026년 소프트웨어 품질 유지에 필수적이며, GNOME이 스스로 취약점을 찾지 않으면 공격자가 먼저 찾을 수 있음\nAI 생성 취약점 보고서의 품질은 2025년보다 크게 개선됐지만 오류가 여전히 남아 있으며, 유효한 보고서도 대량으로 쌓이면 자원봉...",
-          "id": "https://news.hada.io/topic?id=34755",
-          "isoDate": "2026-10-04T10:05:28.000Z"
-        },
-        {
-          "title": "LeCun, AI의 인류 멸종과 최근 ‘일탈’ 사건에 “전혀 우려 없다”",
-          "link": "https://news.hada.io/topic?id=34754",
-          "pubDate": "2026-10-04T09:35:53.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>Yann LeCun</strong>은 AI가 인류를 멸종시킬 가능성과 최근 에이전트 일탈 사건을 전혀 우려하지 않으며, 사건 원인을 인간의 감독 부족과 잘못된 시스템 설계에서 찾음</li>\n<li><strong>샌드박스와 사이버보안</strong>을 제대로 설계하면 이런 사건을 완전히 예방할 수 있다는 입장으로, 에이전트는...</p>",
-          "contentSnippet": "Yann LeCun은 AI가 인류를 멸종시킬 가능성과 최근 에이전트 일탈 사건을 전혀 우려하지 않으며, 사건 원인을 인간의 감독 부족과 잘못된 시스템 설계에서 찾음\n샌드박스와 사이버보안을 제대로 설계하면 이런 사건을 완전히 예방할 수 있다는 입장으로, 에이전트는...",
-          "id": "https://news.hada.io/topic?id=34754",
-          "isoDate": "2026-10-04T09:35:53.000Z"
-        },
-        {
-          "title": "왜 더 많은 개발자가 “플랫폼을 활용”하지 않을까?",
-          "link": "https://news.hada.io/topic?id=34753",
-          "pubDate": "2026-10-04T08:04:48.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>브라우저의 기본 기능을 쓰면 직접 만든 JavaScript보다 성능과 사용성이 나을 가능성이 높지만, <strong>플랫폼 활용을 꺼리는 이유</strong> 에는 역사적 지원 격차, 익숙한 도구, 직접 만드는 즐거움이 함께 작용함</li>\n<li><strong>라이브러리 생태계</strong>는 브라우저의 부족한 기능뿐 아니라 사용 편...</p>",
-          "contentSnippet": "브라우저의 기본 기능을 쓰면 직접 만든 JavaScript보다 성능과 사용성이 나을 가능성이 높지만, 플랫폼 활용을 꺼리는 이유 에는 역사적 지원 격차, 익숙한 도구, 직접 만드는 즐거움이 함께 작용함\n라이브러리 생태계는 브라우저의 부족한 기능뿐 아니라 사용 편...",
-          "id": "https://news.hada.io/topic?id=34753",
-          "isoDate": "2026-10-04T08:04:48.000Z"
-        },
-        {
-          "title": "Claude Code 스킬 패턴 — 반복 작업을 재사용 가능한 스킬로 설계하는 법과 실무에서 쌓으며 배운 것",
-          "link": "https://news.hada.io/topic?id=34752",
-          "pubDate": "2026-10-04T07:06:36.000Z",
-          "author": "koh3276",
-          "content": "<p>Claude Code 스킬을 설계하는 원칙과, 여러 스킬을 실제 개발 흐름에서 같이 쓰면서 확인한 점을 정리했습니다.</p>\n<ul>\n<li>스킬의 <code>description</code>은 설명문이 아니라 <strong>트리거</strong>. &quot;무엇을 하는가&quot;보다 &quot;언제 써야 하는가&quot;를 적어야 에이전트가 제때 고름</li>\n<li>본문",
-          "contentSnippet": "Claude Code 스킬을 설계하는 원칙과, 여러 스킬을 실제 개발 흐름에서 같이 쓰면서 확인한 점을 정리했습니다.\n스킬의 description은 설명문이 아니라 트리거. \"무엇을 하는가\"보다 \"언제 써야 하는가\"를 적어야 에이전트가 제때 고름\n본문",
-          "id": "https://news.hada.io/topic?id=34752",
-          "isoDate": "2026-10-04T07:06:36.000Z"
-        },
-        {
-          "title": "에이전트에게 필요한 것은 메모리가 아니라 문서다",
-          "link": "https://news.hada.io/topic?id=34750",
-          "pubDate": "2026-10-04T06:34:13.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>에이전트가 프로젝트를 이해하려면 과거 대화 조각을 검색하는 <strong>메모리보다 프로젝트 문서</strong>가 필요함. 기능의 위치, 구현 이유, 합의 사항, 중요하게 여기는 기준을 함께 파악할 수 있어야 함</li>\n<li>대화를 조각내 저장하고 프롬프트마다 유사한 항목을 주입하는 <strong>RAG 기반 메모리</s...</p>",
-          "contentSnippet": "에이전트가 프로젝트를 이해하려면 과거 대화 조각을 검색하는 메모리보다 프로젝트 문서가 필요함. 기능의 위치, 구현 이유, 합의 사항, 중요하게 여기는 기준을 함께 파악할 수 있어야 함\n대화를 조각내 저장하고 프롬프트마다 유사한 항목을 주입하는 RAG 기반 메모리",
-          "id": "https://news.hada.io/topic?id=34750",
-          "isoDate": "2026-10-04T06:34:13.000Z"
-        },
-        {
-          "title": "Cloudflare, 에이전트 시대의 Git 플랫폼 개발 대회 개최",
-          "link": "https://news.hada.io/topic?id=34749",
-          "pubDate": "2026-10-04T04:43:55.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Cloudflare가 <strong>Workers와 Artifacts</strong>를 이용해 에이전트 시대의 Git 플랫폼을 만드는 대회를 개최함</li>\n<li>기존 GitHub에 에이전트를 덧붙이는 수준을 넘어, <strong>여러 에이전트가 동시에 변경 작업을 수행</strong>할 수 있도록 작업 조율, 검토, 병합, 변경 이유 보존을 새롭게 설계하도...</p>",
-          "contentSnippet": "Cloudflare가 Workers와 Artifacts를 이용해 에이전트 시대의 Git 플랫폼을 만드는 대회를 개최함\n기존 GitHub에 에이전트를 덧붙이는 수준을 넘어, 여러 에이전트가 동시에 변경 작업을 수행할 수 있도록 작업 조율, 검토, 병합, 변경 이유 보존을 새롭게 설계하도...",
-          "id": "https://news.hada.io/topic?id=34749",
-          "isoDate": "2026-10-04T04:43:55.000Z"
-        },
-        {
-          "title": "로댕 박물관 3D 스캔 판결의 배신",
-          "link": "https://news.hada.io/topic?id=34748",
-          "pubDate": "2026-10-04T04:40:55.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>프랑스 최고행정법원 <strong>Conseil d’État</strong>가 로댕 박물관의 3D 스캔을 행정문서가 아닌 양도 불가능한 소장품으로 판단해, 8년간 이어진 정보공개 청구를 받아들이지 않음</li>\n<li>공개 청구 대상은 <strong>퍼블릭 도메인 조각의 공적 자금 기반 디지털화 자료</strong>였으며, 프랑스 행정문서...</p>",
-          "contentSnippet": "프랑스 최고행정법원 Conseil d’État가 로댕 박물관의 3D 스캔을 행정문서가 아닌 양도 불가능한 소장품으로 판단해, 8년간 이어진 정보공개 청구를 받아들이지 않음\n공개 청구 대상은 퍼블릭 도메인 조각의 공적 자금 기반 디지털화 자료였으며, 프랑스 행정문서...",
-          "id": "https://news.hada.io/topic?id=34748",
-          "isoDate": "2026-10-04T04:40:55.000Z"
-        },
-        {
-          "title": "EMT가 되지 않았던 이유, 순위별 정리",
-          "link": "https://news.hada.io/topic?id=34747",
-          "pubDate": "2026-10-04T03:38:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>소프트웨어 엔지니어 <strong>Ben Stolovitz</strong>는 수년간 미뤘던 EMT(응급의료기사) 자격을 2024년 한 달간 휴가를 내 취득했으며, 미뤘던 21가지 이유를 대략 황당한 정도에 따라 정리함</li>\n<li><strong>시간과 비용, 조직 문화</strong>는 실제 장벽이었음. 집중 과정은 28일 연속 진행됐고, 일부 응...</p>",
-          "contentSnippet": "소프트웨어 엔지니어 Ben Stolovitz는 수년간 미뤘던 EMT(응급의료기사) 자격을 2024년 한 달간 휴가를 내 취득했으며, 미뤘던 21가지 이유를 대략 황당한 정도에 따라 정리함\n시간과 비용, 조직 문화는 실제 장벽이었음. 집중 과정은 28일 연속 진행됐고, 일부 응...",
-          "id": "https://news.hada.io/topic?id=34747",
-          "isoDate": "2026-10-04T03:38:02.000Z"
-        },
-        {
-          "title": "Bob Cringely 별세",
-          "link": "https://news.hada.io/topic?id=34746",
-          "pubDate": "2026-10-04T02:31:24.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>가족의 지인에게 전해 들은 소식에 따르면, <strong>Bob Cringely</strong>가 토요일 이른 시간 잠든 사이 별세함</li>\n<li>Bob Cringely의 본명은 <strong>Mark Stevens</strong>임</li>\n<li><strong>Apple 초기 직원</strong>으로 일한 이력이 있음</li>\n<li><strong>PBS 다큐멘터리</strong>로 가장 잘 알려...</p>",
-          "contentSnippet": "가족의 지인에게 전해 들은 소식에 따르면, Bob Cringely가 토요일 이른 시간 잠든 사이 별세함\nBob Cringely의 본명은 Mark Stevens임\nApple 초기 직원으로 일한 이력이 있음\nPBS 다큐멘터리로 가장 잘 알려...",
-          "id": "https://news.hada.io/topic?id=34746",
-          "isoDate": "2026-10-04T02:31:24.000Z"
-        },
-        {
-          "title": "Show GN: AutoroShopping - AI 에이전트를 위한 이커머스 구매 관리 커넥터",
-          "link": "https://news.hada.io/topic?id=34745",
-          "pubDate": "2026-10-04T02:25:14.000Z",
-          "author": "flash659",
-          "content": "<p>AutoroShopping은 AI 에이전트가 쇼핑몰에서 물품을 찾고, 장바구니 및 결제 전 단계까지 자동화하여 진행할 수 있도록 도와주는 커넥터 입니다.<br />\n실제 직접 쿠X, 컬X, 교보문X 플랫폼에서 활용 중이고, AI 에이전트에게 플랫폼 가이드 제공을 통해 한국 이커머스 플랫폼을 쉽게 탐색할 수 있도록 제공합니다....</p>",
-          "contentSnippet": "AutoroShopping은 AI 에이전트가 쇼핑몰에서 물품을 찾고, 장바구니 및 결제 전 단계까지 자동화하여 진행할 수 있도록 도와주는 커넥터 입니다.\n실제 직접 쿠X, 컬X, 교보문X 플랫폼에서 활용 중이고, AI 에이전트에게 플랫폼 가이드 제공을 통해 한국 이커머스 플랫폼을 쉽게 탐색할 수 있도록 제공합니다....",
-          "id": "https://news.hada.io/topic?id=34745",
-          "isoDate": "2026-10-04T02:25:14.000Z"
-        },
-        {
-          "title": "거의 모든 서비스에 예산을 넘으면 멈추는 기능이 필요해질 것",
-          "link": "https://news.hada.io/topic?id=34744",
-          "pubDate": "2026-10-04T01:43:56.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>사용량 기반 서비스와 API에는 월 예산을 넘으면 <strong>서비스를 중단하고 오류를 반환하는 강제 상한</strong>이 기본으로 필요하며, 경고 이메일만 보내는 방식으로는 부족함</li>\n<li><strong>코딩 에이전트와 개인용 에이전트</strong>가 유료 API, 호스팅, 저장 공간과 컴퓨팅 비용이 발생하는 코드를 손...</p>",
-          "contentSnippet": "사용량 기반 서비스와 API에는 월 예산을 넘으면 서비스를 중단하고 오류를 반환하는 강제 상한이 기본으로 필요하며, 경고 이메일만 보내는 방식으로는 부족함\n코딩 에이전트와 개인용 에이전트가 유료 API, 호스팅, 저장 공간과 컴퓨팅 비용이 발생하는 코드를 손...",
-          "id": "https://news.hada.io/topic?id=34744",
-          "isoDate": "2026-10-04T01:43:56.000Z"
-        },
-        {
-          "title": "Valve의 Timur Kristóf가 진행한 Linux 구형 AMD GPU 개선 작업",
-          "link": "https://news.hada.io/topic?id=34743",
-          "pubDate": "2026-10-04T01:40:56.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Valve Linux 그래픽 드라이버 팀의 <strong>Timur Kristóf</strong>가 지난 1년간 AMDGPU 커널 드라이버를 개선해, 약 10년 전 <strong>GCN 1.0/1.1</strong> 그래픽 카드와 APU의 Linux 게임 및 기타 작업 지원을 강화함</li>\n<li>구형 하드웨어를 기존 Radeon 드라이버에서 <strong>AMDGPU</strong>로 전환하...</p>",
-          "contentSnippet": "Valve Linux 그래픽 드라이버 팀의 Timur Kristóf가 지난 1년간 AMDGPU 커널 드라이버를 개선해, 약 10년 전 GCN 1.0/1.1 그래픽 카드와 APU의 Linux 게임 및 기타 작업 지원을 강화함\n구형 하드웨어를 기존 Radeon 드라이버에서 AMDGPU로 전환하...",
-          "id": "https://news.hada.io/topic?id=34743",
-          "isoDate": "2026-10-04T01:40:56.000Z"
-        },
-        {
-          "title": "OpenAI 안전 책임자 사임, 회사 문화가 ‘망가졌다’고 경고",
-          "link": "https://news.hada.io/topic?id=34742",
-          "pubDate": "2026-10-04T01:37:56.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>OpenAI에서 제품 출시 시 제공하는 안전 보고서 작성을 이끈 <strong>David Robinson이 사임</strong>하며, 연이은 출시 경쟁 속에서 필요한 수준의 주의를 기울이지 못하고 있다고 비판함</li>\n<li>Robinson은 개별 규칙이나 새로운 법을 넘어 <strong>조직 문화의 전면 개편</strong>을 촉구하며, 문제가 생기...</p>",
-          "contentSnippet": "OpenAI에서 제품 출시 시 제공하는 안전 보고서 작성을 이끈 David Robinson이 사임하며, 연이은 출시 경쟁 속에서 필요한 수준의 주의를 기울이지 못하고 있다고 비판함\nRobinson은 개별 규칙이나 새로운 법을 넘어 조직 문화의 전면 개편을 촉구하며, 문제가 생기...",
-          "id": "https://news.hada.io/topic?id=34742",
-          "isoDate": "2026-10-04T01:37:56.000Z"
-        },
-        {
-          "title": "상품 바코드의 다음 단계는 QR 코드",
-          "link": "https://news.hada.io/topic?id=34741",
-          "pubDate": "2026-10-04T00:41:48.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>상품 식별에 쓰던 줄무늬 바코드가 <strong>QR 등 2차원 바코드로 확장</strong>되고 있으며, GS1은 2027년 말까지 매장 계산대에서 두 방식 모두 처리하도록 하는 목표를 추진 중임</li>\n<li>2차원 바코드는 상품 번호뿐 아니라 <strong>유통기한과 생산 배치</strong>도 담을 수 있어, 재고 관리와 문제가 생...</p>",
-          "contentSnippet": "상품 식별에 쓰던 줄무늬 바코드가 QR 등 2차원 바코드로 확장되고 있으며, GS1은 2027년 말까지 매장 계산대에서 두 방식 모두 처리하도록 하는 목표를 추진 중임\n2차원 바코드는 상품 번호뿐 아니라 유통기한과 생산 배치도 담을 수 있어, 재고 관리와 문제가 생...",
-          "id": "https://news.hada.io/topic?id=34741",
-          "isoDate": "2026-10-04T00:41:48.000Z"
-        },
-        {
-          "title": "나는 OpenAI의 조직 문화가 망가져 퇴사했다",
-          "link": "https://news.hada.io/topic?id=34740",
-          "pubDate": "2026-10-04T00:38:48.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>OpenAI에서 <strong>안전 보고서 작성을 이끌던 데이비드 로빈슨(David Robinson)</strong> 이 3년 반 만에 퇴사하며, 출시를 거듭하는 속도 중심 문화로는 필요한 수준의 안전을 확보하기 어렵다고 밝힘</li>\n<li><strong>문제가 생기면 고치는 반복적 배포</strong>는 실패를 전제로 하며, AI가 강력해질수록...</p>",
-          "contentSnippet": "OpenAI에서 안전 보고서 작성을 이끌던 데이비드 로빈슨(David Robinson) 이 3년 반 만에 퇴사하며, 출시를 거듭하는 속도 중심 문화로는 필요한 수준의 안전을 확보하기 어렵다고 밝힘\n문제가 생기면 고치는 반복적 배포는 실패를 전제로 하며, AI가 강력해질수록...",
-          "id": "https://news.hada.io/topic?id=34740",
-          "isoDate": "2026-10-04T00:38:48.000Z"
-        },
-        {
-          "title": "CogSend - 여러 소셜 플랫폼에 글을 예약 발행하는 셀프 호스팅 도구",
-          "link": "https://news.hada.io/topic?id=34739",
-          "pubDate": "2026-10-04T00:30:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>Mastodon, Bluesky, LinkedIn, Threads, X에 <strong>글을 한 번 작성하고 플랫폼별로 수정해 즉시 게시하거나 예약 발행</strong>하는 오픈소스 도구</li>\n<li>별도 서버 대신 <strong>자신의 Cloudflare 계정에서 운영</strong>하며, 게시물과 계정 인증 정보는 D1 데이터베이스에, 이미지는 R2에 보관</li>\n...</p>",
-          "contentSnippet": "Mastodon, Bluesky, LinkedIn, Threads, X에 글을 한 번 작성하고 플랫폼별로 수정해 즉시 게시하거나 예약 발행하는 오픈소스 도구\n별도 서버 대신 자신의 Cloudflare 계정에서 운영하며, 게시물과 계정 인증 정보는 D1 데이터베이스에, 이미지는 R2에 보관\n...",
-          "id": "https://news.hada.io/topic?id=34739",
-          "isoDate": "2026-10-04T00:30:02.000Z"
-        },
-        {
-          "title": "업스테이지, GPU 한 장에서 실행하는 Solar Mini 4 발표",
-          "link": "https://news.hada.io/topic?id=34738",
-          "pubDate": "2026-10-04T00:15:01.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>정보 조회, 문서 분류, 도구 호출처럼 <strong>반복되는 에이전트 작업을 적은 연산과 비용으로 처리</strong>하는 언어 모델</li>\n<li>총 <strong>350억 파라미터 중 토큰당 30억만 활성화</strong>하는 MoE 구조이며, 양자화 모델은 <strong>H100 80GB 한 장</strong>에서 배포 가능</li>\n<li>Artificial Ana...</p>",
-          "contentSnippet": "정보 조회, 문서 분류, 도구 호출처럼 반복되는 에이전트 작업을 적은 연산과 비용으로 처리하는 언어 모델\n총 350억 파라미터 중 토큰당 30억만 활성화하는 MoE 구조이며, 양자화 모델은 H100 80GB 한 장에서 배포 가능\nArtificial Ana...",
-          "id": "https://news.hada.io/topic?id=34738",
-          "isoDate": "2026-10-04T00:15:01.000Z"
-        },
-        {
-          "title": "네덜란드의 컴퓨터 박물관들(2022)",
-          "link": "https://news.hada.io/topic?id=34737",
-          "pubDate": "2026-10-03T23:47:19.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>네덜란드의 세 컴퓨터 전시 공간은 <strong>거실형 체험 박물관</strong>, 대규모 창고형 박물관, 외딴 헛간의 DEC 컬렉션으로 서로 다른 관람 경험을 제공함</li>\n<li>Helmond의 <strong>HomeComputerMuseum</strong>은 주로 1980년대 이후 컴퓨터 500대 이상을 소장하며, 상당수를 직접 작동하거나 게임을 즐...</p>",
-          "contentSnippet": "네덜란드의 세 컴퓨터 전시 공간은 거실형 체험 박물관, 대규모 창고형 박물관, 외딴 헛간의 DEC 컬렉션으로 서로 다른 관람 경험을 제공함\nHelmond의 HomeComputerMuseum은 주로 1980년대 이후 컴퓨터 500대 이상을 소장하며, 상당수를 직접 작동하거나 게임을 즐...",
-          "id": "https://news.hada.io/topic?id=34737",
-          "isoDate": "2026-10-03T23:47:19.000Z"
-        },
-        {
-          "title": "Kolibri - 기술 보고서 [PDF]",
-          "link": "https://news.hada.io/topic?id=34736",
-          "pubDate": "2026-10-03T23:44:19.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>Kolibri</strong>는 영어와 독일어를 지원하는 MoE 모델로, 전체 781억 개 파라미터 중 토큰당 34.6억 개만 활성화하며 가중치를 <strong>Apache 2.0</strong>으로 공개함</li>\n<li>공공행정, 산업, 항공우주처럼 민감한 데이터를 처리하는 조직의 <strong>자체 인프라 배포</strong>를 목표로 하며, 데...</p>",
-          "contentSnippet": "Kolibri는 영어와 독일어를 지원하는 MoE 모델로, 전체 781억 개 파라미터 중 토큰당 34.6억 개만 활성화하며 가중치를 Apache 2.0으로 공개함\n공공행정, 산업, 항공우주처럼 민감한 데이터를 처리하는 조직의 자체 인프라 배포를 목표로 하며, 데...",
-          "id": "https://news.hada.io/topic?id=34736",
-          "isoDate": "2026-10-03T23:44:19.000Z"
-        },
-        {
-          "title": "미 연방 판사, Flock을 ‘무차별적 대규모 감시’로 규정",
-          "link": "https://news.hada.io/topic?id=34735",
-          "pubDate": "2026-10-03T23:41:19.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>오클라호마주 Tulsa의 보안관보가 영장 없이 <strong>Flock Safety</strong>에서 한 여성의 차량 번호판을 조회한 행위는 <strong>수정헌법 제4조 위반</strong>이라는 연방 판결이 나옴</li>\n<li>Sara Hill 판사는 캘리포니아 번호판이라는 점 외에 뚜렷한 조회 이유가 없었다며, <strong>사전 영장</strong>이...</p>",
-          "contentSnippet": "오클라호마주 Tulsa의 보안관보가 영장 없이 Flock Safety에서 한 여성의 차량 번호판을 조회한 행위는 수정헌법 제4조 위반이라는 연방 판결이 나옴\nSara Hill 판사는 캘리포니아 번호판이라는 점 외에 뚜렷한 조회 이유가 없었다며, 사전 영장이...",
-          "id": "https://news.hada.io/topic?id=34735",
-          "isoDate": "2026-10-03T23:41:19.000Z"
         }
       ]
     },
@@ -681,235 +681,235 @@
       "category": "news",
       "data": [
         {
-          "creator": "김나영",
-          "title": "제주 차귀도 해상 어선 전복…9명 구조·2명 실종",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261005083350g34",
-          "pubDate": "Mon, 05 Oct 2026 08:33:53 +0900",
-          "content:encoded": "오늘(5일) 새벽 3시4분쯤 제주 차귀도 북서쪽 약 65km 해상에서 경남 사천 선적 29톤급 어선 A호가 전복됐습니다.\n\n해경은 사고 당시 A호에는 모두 11명이 타고 있었으며, 인근 어선이 인도네시아인 8명과 베트남인 1명 등 9명을 구조했다고 밝혔습니다.\n\n한국인 선장 1명과 인도네시아인 선원 1명 등 2명은 실종된 상태입니다.\n\n해경은 경비함정 9척과 헬기 2대, 항공기 1대 등을 투입해 실종자를 수색중입니다.\n\n#어선 #전복 #제주 #차귀도\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김나영(na0@yna.co.kr)",
-          "content:encodedSnippet": "오늘(5일) 새벽 3시4분쯤 제주 차귀도 북서쪽 약 65km 해상에서 경남 사천 선적 29톤급 어선 A호가 전복됐습니다.\n\n해경은 사고 당시 A호에는 모두 11명이 타고 있었으며, 인근 어선이 인도네시아인 8명과 베트남인 1명 등 9명을 구조했다고 밝혔습니다.\n\n한국인 선장 1명과 인도네시아인 선원 1명 등 2명은 실종된 상태입니다.\n\n해경은 경비함정 9척과 헬기 2대, 항공기 1대 등을 투입해 실종자를 수색중입니다.\n\n#어선 #전복 #제주 #차귀도\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김나영(na0@yna.co.kr)",
+          "creator": "배윤주",
+          "title": "광주 함평군 돈사서 불…340마리 폐사 등 1억원 피해",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261005190002nEl",
+          "pubDate": "Mon, 05 Oct 2026 19:00:04 +0900",
+          "content:encoded": "\n\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261005/AKR20261005190002nEl_01_i.jpg\" alt=\"\"><span class=\"yna_title\">돈사 화재</span><span class=\"yna_caption\">[전남광주통합소방본부 제공. 재판매 및 DB 금지]</span><span class=\"yna_description\">[전남광주통합소방본부 제공. 재판매 및 DB 금지]</span></div>\n오늘(5일) 오전 11시 41분쯤 전남광주시 함평군 신광면의 한 돼지농장에서 불이 났습니다.\n\n이 불로 축사 3개 동이 타고 돼지 340마리가 폐사하는 등 소방서 추산 1억 원의 재산 피해가 났습니다.\n\n소방당국은 신고 접수 53분 만인 낮 12시 34분쯤 불을 모두 껐습니다.\n\n소방당국은 축사 안 보온용 전등에서 누전이 발생해 불이 시작된 것으로 추정하고 정확한 화재 원인을 조사하고 있습니다.\n\n\n#광주 #함평 #돈사 #화재\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배윤주(boat@yna.co.kr)",
+          "content:encodedSnippet": "돈사 화재[전남광주통합소방본부 제공. 재판매 및 DB 금지][전남광주통합소방본부 제공. 재판매 및 DB 금지]\n오늘(5일) 오전 11시 41분쯤 전남광주시 함평군 신광면의 한 돼지농장에서 불이 났습니다.\n\n이 불로 축사 3개 동이 타고 돼지 340마리가 폐사하는 등 소방서 추산 1억 원의 재산 피해가 났습니다.\n\n소방당국은 신고 접수 53분 만인 낮 12시 34분쯤 불을 모두 껐습니다.\n\n소방당국은 축사 안 보온용 전등에서 누전이 발생해 불이 시작된 것으로 추정하고 정확한 화재 원인을 조사하고 있습니다.\n\n\n#광주 #함평 #돈사 #화재\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배윤주(boat@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261004/MYH20261005083350g34.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261005/AKR20261005190002nEl_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "배윤주",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261005190002nEl#comments",
+          "content": "돈사 화재[전남광주통합소방본부 제공. 재판매 및 DB 금지][전남광주통합소방본부 제공. 재판매 및 DB 금지] 오늘(5일) 오전 11시 41분쯤 전남광주시 함평군 신광면의 한 돼지농장에서 불이 났습니다. 이 불로 축사 3개 동이 타고 돼지 340마리가 폐사하는 등 소방서 추산 1억 원의 재산 피해가 났습니다. 소방당국은 신고 접수 53분 만인 낮 12시 34분쯤 불을 모두 껐습니다. 소방당국은 축사 안 보온용 전등에서 누전이 발생해 불이 ...",
+          "contentSnippet": "돈사 화재[전남광주통합소방본부 제공. 재판매 및 DB 금지][전남광주통합소방본부 제공. 재판매 및 DB 금지] 오늘(5일) 오전 11시 41분쯤 전남광주시 함평군 신광면의 한 돼지농장에서 불이 났습니다. 이 불로 축사 3개 동이 타고 돼지 340마리가 폐사하는 등 소방서 추산 1억 원의 재산 피해가 났습니다. 소방당국은 신고 접수 53분 만인 낮 12시 34분쯤 불을 모두 껐습니다. 소방당국은 축사 안 보온용 전등에서 누전이 발생해 불이 ...",
+          "guid": "AKR20261005190002nEl",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-05T10:00:04.000Z"
+        },
+        {
+          "creator": "배윤주",
+          "title": "노벨 생리의학상에 '광유전학' 칼 다이서로스 등 3인 선정",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261005185554LY0",
+          "pubDate": "Mon, 05 Oct 2026 18:55:55 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261005/AKR20261005185554LY0_01_i.jpg\" alt=\"\"><span class=\"yna_title\">2026년 노벨 생리의학상 수상자 3인</span><span class=\"yna_caption\">[노벨위원회 홈페이지 화면 캡쳐. 재판매 및 DB 금지]</span><span class=\"yna_description\">[노벨위원회 홈페이지 화면 캡쳐. 재판매 및 DB 금지]</span></div>\n올해 노벨 생리의학상 공동 수상자에 칼 다이서로스와 페터 헤게만, 게오르크 나겔 등 3인이 선정됐습니다.\n\n스웨덴 카롤린스카 연구소 노벨위원회는 현지시간 5일 \"광개폐성 이온 채널과 광유전학에 관한 발견\"을 한 공로로 이들을 수상자로 선정했다고 밝혔습니다.\n\n올해 노벨상은 이날 생리의학상을 시작으로, 6일 물리학상, 7일 화학상, 8일 문학상, 9일 평화상을 거쳐 오는 12일 경제학상까지 모두 6개 부문에서 수상자가 발표됩니다.\n\n#노벨상 #노벨생리의학상 #광유전학\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배윤주(boat@yna.co.kr)",
+          "content:encodedSnippet": "2026년 노벨 생리의학상 수상자 3인[노벨위원회 홈페이지 화면 캡쳐. 재판매 및 DB 금지][노벨위원회 홈페이지 화면 캡쳐. 재판매 및 DB 금지]\n올해 노벨 생리의학상 공동 수상자에 칼 다이서로스와 페터 헤게만, 게오르크 나겔 등 3인이 선정됐습니다.\n\n스웨덴 카롤린스카 연구소 노벨위원회는 현지시간 5일 \"광개폐성 이온 채널과 광유전학에 관한 발견\"을 한 공로로 이들을 수상자로 선정했다고 밝혔습니다.\n\n올해 노벨상은 이날 생리의학상을 시작으로, 6일 물리학상, 7일 화학상, 8일 문학상, 9일 평화상을 거쳐 오는 12일 경제학상까지 모두 6개 부문에서 수상자가 발표됩니다.\n\n#노벨상 #노벨생리의학상 #광유전학\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배윤주(boat@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261005/AKR20261005185554LY0_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "배윤주",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261005185554LY0#comments",
+          "content": "2026년 노벨 생리의학상 수상자 3인[노벨위원회 홈페이지 화면 캡쳐. 재판매 및 DB 금지][노벨위원회 홈페이지 화면 캡쳐. 재판매 및 DB 금지] 올해 노벨 생리의학상 공동 수상자에 칼 다이서로스와 페터 헤게만, 게오르크 나겔 등 3인이 선정됐습니다. 스웨덴 카롤린스카 연구소 노벨위원회는 현지시간 5일 \"광개폐성 이온 채널과 광유전학에 관한 발견\"을 한 공로로 이들을 수상자로 선정했다고 밝혔습니다. 올해 노벨상은 이날 생리의학상을 시작...",
+          "contentSnippet": "2026년 노벨 생리의학상 수상자 3인[노벨위원회 홈페이지 화면 캡쳐. 재판매 및 DB 금지][노벨위원회 홈페이지 화면 캡쳐. 재판매 및 DB 금지] 올해 노벨 생리의학상 공동 수상자에 칼 다이서로스와 페터 헤게만, 게오르크 나겔 등 3인이 선정됐습니다. 스웨덴 카롤린스카 연구소 노벨위원회는 현지시간 5일 \"광개폐성 이온 채널과 광유전학에 관한 발견\"을 한 공로로 이들을 수상자로 선정했다고 밝혔습니다. 올해 노벨상은 이날 생리의학상을 시작...",
+          "guid": "AKR20261005185554LY0",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-05T09:55:55.000Z"
+        },
+        {
+          "creator": "노수미",
+          "title": "[날씨] 내일 출근길 '쌀쌀' 가을 추위…강원 일부 한파주의보",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261005184118B4X",
+          "pubDate": "Mon, 05 Oct 2026 18:41:19 +0900",
+          "content:encoded": "오늘 낮에는 제법 쌀쌀했습니다.\n\n서울은 낮 기온 20.7도에 머물며, 어제보다 6도가량 기온이 크게 내려갔는데요.\n\n일상이 시작되는 내일 아침에도 가을 추위가 이어지겠습니다.\n\n지도에 짙은 파란색으로 보이는 내륙 곳곳이 10도 안팎을 보이겠고, 한파주의보가 발표된 강원 일부 지역은 5도를 밑돌겠습니다.\n\n옷차림 따뜻하게 잘 챙겨주셔야겠습니다.\n\n내일은 비 소식 없이 전국 하늘 대체로 맑겠습니다.\n\n다만, 오전까지는 계속해서 바람이 강하게 불겠는데요.\n\n현재 서해안 지역을 중심으로 강풍특보도 내려져 있습니다.\n\n해상에도 바람이 강하게 불면서, 서해상과 제주해상에 풍랑특보가 내려져 있고요.\n\n물결이 최고 3.5m까지 매우 높게 일겠습니다.\n\n해상 안전사고에 각별히 유의하셔야겠습니다.\n\n내일 기온도 보시면, 아침에 서울 11도로 출발하겠고, 한낮에는 서울과 대전, 청주 22도에 머물겠습니다.\n\n남부지방은 아침 기온 광주 11도, 낮 기온은 전주 23도, 부산 24도 예상됩니다.\n\n이번 주는 대체로 맑은 날씨가 이어지겠는데요.\n\n주 후반으로 갈수록 낮 기온이 다소 오르겠습니다.\n\n15도 안팎 큰 일교차에 유의하셔야겠습니다.\n\n날씨 전해드렸습니다.\n\n(전세영 기상캐스터)\n\n#날씨 #한파특보 #강풍 #비 #주말날씨 #일교차 #연휴날씨 #서리 #가을 #개천절\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
+          "content:encodedSnippet": "오늘 낮에는 제법 쌀쌀했습니다.\n\n서울은 낮 기온 20.7도에 머물며, 어제보다 6도가량 기온이 크게 내려갔는데요.\n\n일상이 시작되는 내일 아침에도 가을 추위가 이어지겠습니다.\n\n지도에 짙은 파란색으로 보이는 내륙 곳곳이 10도 안팎을 보이겠고, 한파주의보가 발표된 강원 일부 지역은 5도를 밑돌겠습니다.\n\n옷차림 따뜻하게 잘 챙겨주셔야겠습니다.\n\n내일은 비 소식 없이 전국 하늘 대체로 맑겠습니다.\n\n다만, 오전까지는 계속해서 바람이 강하게 불겠는데요.\n\n현재 서해안 지역을 중심으로 강풍특보도 내려져 있습니다.\n\n해상에도 바람이 강하게 불면서, 서해상과 제주해상에 풍랑특보가 내려져 있고요.\n\n물결이 최고 3.5m까지 매우 높게 일겠습니다.\n\n해상 안전사고에 각별히 유의하셔야겠습니다.\n\n내일 기온도 보시면, 아침에 서울 11도로 출발하겠고, 한낮에는 서울과 대전, 청주 22도에 머물겠습니다.\n\n남부지방은 아침 기온 광주 11도, 낮 기온은 전주 23도, 부산 24도 예상됩니다.\n\n이번 주는 대체로 맑은 날씨가 이어지겠는데요.\n\n주 후반으로 갈수록 낮 기온이 다소 오르겠습니다.\n\n15도 안팎 큰 일교차에 유의하셔야겠습니다.\n\n날씨 전해드렸습니다.\n\n(전세영 기상캐스터)\n\n#날씨 #한파특보 #강풍 #비 #주말날씨 #일교차 #연휴날씨 #서리 #가을 #개천절\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261005/MYH20261005184118B4X.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "노수미",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261005184118B4X#comments",
+          "content": "오늘 낮에는 제법 쌀쌀했습니다. 서울은 낮 기온 20.7도에 머물며, 어제보다 6도가량 기온이 크게 내려갔는데요. 일상이 시작되는 내일 아침에도 가을 추위가 이어지겠습니다. 지도에 짙은 파란색으로 보이는 내륙 곳곳이 10도 안팎을 보이겠고, 한파주의보가 발표된 강원 일부 지역은 5도를 밑돌겠습니다. 옷차림 따뜻하게 잘 챙겨주셔야겠습니다. 내일은 비 소식 없이 전국 하늘 대체로 맑겠습니다. 다만, 오전까지는 계속해서 바람이 강하게 불겠는데요...",
+          "contentSnippet": "오늘 낮에는 제법 쌀쌀했습니다. 서울은 낮 기온 20.7도에 머물며, 어제보다 6도가량 기온이 크게 내려갔는데요. 일상이 시작되는 내일 아침에도 가을 추위가 이어지겠습니다. 지도에 짙은 파란색으로 보이는 내륙 곳곳이 10도 안팎을 보이겠고, 한파주의보가 발표된 강원 일부 지역은 5도를 밑돌겠습니다. 옷차림 따뜻하게 잘 챙겨주셔야겠습니다. 내일은 비 소식 없이 전국 하늘 대체로 맑겠습니다. 다만, 오전까지는 계속해서 바람이 강하게 불겠는데요...",
+          "guid": "MYH20261005184118B4X",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-05T09:41:19.000Z"
+        },
+        {
+          "creator": "강지수",
+          "title": "유해란, LPGA 이어 국내 메이저도 정상",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH2026100518385374e",
+          "pubDate": "Mon, 05 Oct 2026 18:38:54 +0900",
+          "content:encoded": "여자골프 세계랭킹 3위 유해란이 KLPGA 투어 메이저 대회에서 우승했습니다.\n\n유해란은 KLPGA 시즌 마지막 메이저 대회인 하이트진로 챔피언십에서 최종 합계 4언더파 284타로 정상에 올랐습니다.\n\n공동 2위 김민솔, 김민주와는 4타 차입니다.\n\n올 시즌 LPGA 투어에서 메이저 2승을 올린 유해란은 KLPGA 투어 메이저 대회에서는 처음 우승하며 KLPGA 투어 통산 6번째 우승을 기록했고, 상금 2억 7천만 원을 받았습니다.\n\n[화면출처 SBS골프]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n강지수(jisurimasuri@yna.co.kr)",
+          "content:encodedSnippet": "여자골프 세계랭킹 3위 유해란이 KLPGA 투어 메이저 대회에서 우승했습니다.\n\n유해란은 KLPGA 시즌 마지막 메이저 대회인 하이트진로 챔피언십에서 최종 합계 4언더파 284타로 정상에 올랐습니다.\n\n공동 2위 김민솔, 김민주와는 4타 차입니다.\n\n올 시즌 LPGA 투어에서 메이저 2승을 올린 유해란은 KLPGA 투어 메이저 대회에서는 처음 우승하며 KLPGA 투어 통산 6번째 우승을 기록했고, 상금 2억 7천만 원을 받았습니다.\n\n[화면출처 SBS골프]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n강지수(jisurimasuri@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261005/MYH2026100518385374e.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "강지수",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH2026100518385374e#comments",
+          "content": "여자골프 세계랭킹 3위 유해란이 KLPGA 투어 메이저 대회에서 우승했습니다. 유해란은 KLPGA 시즌 마지막 메이저 대회인 하이트진로 챔피언십에서 최종 합계 4언더파 284타로 정상에 올랐습니다. 공동 2위 김민솔, 김민주와는 4타 차입니다. 올 시즌 LPGA 투어에서 메이저 2승을 올린 유해란은 KLPGA 투어 메이저 대회에서는 처음 우승하며 KLPGA 투어 통산 6번째 우승을 기록했고, 상금 2억 7천만 원을 받았습니다. [화면출처 ...",
+          "contentSnippet": "여자골프 세계랭킹 3위 유해란이 KLPGA 투어 메이저 대회에서 우승했습니다. 유해란은 KLPGA 시즌 마지막 메이저 대회인 하이트진로 챔피언십에서 최종 합계 4언더파 284타로 정상에 올랐습니다. 공동 2위 김민솔, 김민주와는 4타 차입니다. 올 시즌 LPGA 투어에서 메이저 2승을 올린 유해란은 KLPGA 투어 메이저 대회에서는 처음 우승하며 KLPGA 투어 통산 6번째 우승을 기록했고, 상금 2억 7천만 원을 받았습니다. [화면출처 ...",
+          "guid": "MYH2026100518385374e",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-05T09:38:54.000Z"
+        },
+        {
+          "creator": "배삼진",
+          "title": "中 전기차 한국행 러시…'가성비' 넘어 기술전쟁",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261005183840ja3",
+          "pubDate": "Mon, 05 Oct 2026 18:38:42 +0900",
+          "content:encoded": "[앵커]\n\n가격만 싸다 싶었던 중국산 전기차가 이제 배터리와 충전, 주행보조 기술까지 갖추고 한국 시장으로 밀려들고 있습니다.\n\n테슬라와 BYD에 이어 지켜, 샤오펑까지 가세하면서 주도권 다툼이 한층 뜨거워지고 있습니다.\n\n중국 샹양에서 배삼진 특파원입니다.\n\n[기자]\n\n올 상반기 국내에 새로 등록된 전기차 3대 중 1대는 중국산입니다.\n\n모두 6만 9천여 대, 1년 전보다 180% 가까이 급증했는데, 테슬라 인기 차종 상당수는 상하이 공장에서 만들고, BYD와 지커에 이어 샤오펑도 한국 판매를 준비 중입니다.\n\n2천만 원대 저가 모델에도 첨단 운전자 보조장치는 기본, 충전 시간을 10분 미만으로 단축한 초급속 충전 기술 경쟁도 치열합니다.\n\n&lt;인쥐린 / 中 BYD 푸디배터리 샹양공장장&gt; \"비야디는 기술에서 돌파구를 찾고 있습니다. 우리는 뛰어난 기술을 더 많은 사람, 더 많은 소비자에게 합리적 가격으로 누리게 하는 것입니다.\"\n\n경쟁력의 핵심은 촘촘한 현지 공급망입니다.\n\n실제로 테슬라 상하이 공장은 부품의 95% 이상을 현지에서 조달하고 있습니다.\n\n중국 정부가 출혈식 가격 인하에 제동을 걸자, 공정 자동화 등을 통한 체질 개선으로 전환하고 있습니다.\n\n가격 경쟁에 제동이 걸린 중국 자동차업계의 승부수는 생산효율과 기술 전환으로 원가를 낮추는 쪽으로 옮겨가고 있습니다.\n\n이런 변화는 성장세가 둔화된 내수를 넘어 해외 판매에 길을 열었습니다.\n\n올해 8월까지 중국 승용차 판매는 줄었지만 신에너지차 판매는 10%이상 늘었고, 수출은 12% 넘게 급증했습니다.\n\n&lt;장추쉬 / 中 둥펑자동차 샹양공장 생산책임자&gt; \"과거 신에너지차 생산 비중은 10% 정도였지만, 올해 8월에는 60%를 넘어섰습니다.\"\n\n미국과 유럽이 관세 장벽을 세워 중국차를 막아낸 사이, 상대적으로 문턱이 낮은 한국은 중국 전기차들의 주요 시험대가 되고 있습니다.\n\n가격에 기술력까지 더해진 중국산 전기차의 공습으로, 우리 안방 시장을 지켜야 하는 국내 완성차와 배터리업계의 셈법도 한층 복잡해지고 있습니다.\n\n중국 샹양에서 연합뉴스TV 배삼진입니다.\n\n[영상취재 임임락]\n\n[영상편집 김건영]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배삼진(baesj@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n가격만 싸다 싶었던 중국산 전기차가 이제 배터리와 충전, 주행보조 기술까지 갖추고 한국 시장으로 밀려들고 있습니다.\n\n테슬라와 BYD에 이어 지켜, 샤오펑까지 가세하면서 주도권 다툼이 한층 뜨거워지고 있습니다.\n\n중국 샹양에서 배삼진 특파원입니다.\n\n[기자]\n\n올 상반기 국내에 새로 등록된 전기차 3대 중 1대는 중국산입니다.\n\n모두 6만 9천여 대, 1년 전보다 180% 가까이 급증했는데, 테슬라 인기 차종 상당수는 상하이 공장에서 만들고, BYD와 지커에 이어 샤오펑도 한국 판매를 준비 중입니다.\n\n2천만 원대 저가 모델에도 첨단 운전자 보조장치는 기본, 충전 시간을 10분 미만으로 단축한 초급속 충전 기술 경쟁도 치열합니다.\n\n<인쥐린 / 中 BYD 푸디배터리 샹양공장장> \"비야디는 기술에서 돌파구를 찾고 있습니다. 우리는 뛰어난 기술을 더 많은 사람, 더 많은 소비자에게 합리적 가격으로 누리게 하는 것입니다.\"\n\n경쟁력의 핵심은 촘촘한 현지 공급망입니다.\n\n실제로 테슬라 상하이 공장은 부품의 95% 이상을 현지에서 조달하고 있습니다.\n\n중국 정부가 출혈식 가격 인하에 제동을 걸자, 공정 자동화 등을 통한 체질 개선으로 전환하고 있습니다.\n\n가격 경쟁에 제동이 걸린 중국 자동차업계의 승부수는 생산효율과 기술 전환으로 원가를 낮추는 쪽으로 옮겨가고 있습니다.\n\n이런 변화는 성장세가 둔화된 내수를 넘어 해외 판매에 길을 열었습니다.\n\n올해 8월까지 중국 승용차 판매는 줄었지만 신에너지차 판매는 10%이상 늘었고, 수출은 12% 넘게 급증했습니다.\n\n<장추쉬 / 中 둥펑자동차 샹양공장 생산책임자> \"과거 신에너지차 생산 비중은 10% 정도였지만, 올해 8월에는 60%를 넘어섰습니다.\"\n\n미국과 유럽이 관세 장벽을 세워 중국차를 막아낸 사이, 상대적으로 문턱이 낮은 한국은 중국 전기차들의 주요 시험대가 되고 있습니다.\n\n가격에 기술력까지 더해진 중국산 전기차의 공습으로, 우리 안방 시장을 지켜야 하는 국내 완성차와 배터리업계의 셈법도 한층 복잡해지고 있습니다.\n\n중국 샹양에서 연합뉴스TV 배삼진입니다.\n\n[영상취재 임임락]\n\n[영상편집 김건영]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배삼진(baesj@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261005/MYH20261005183840ja3.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "배삼진",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261005183840ja3#comments",
+          "content": "[앵커] 가격만 싸다 싶었던 중국산 전기차가 이제 배터리와 충전, 주행보조 기술까지 갖추고 한국 시장으로 밀려들고 있습니다. 테슬라와 BYD에 이어 지켜, 샤오펑까지 가세하면서 주도권 다툼이 한층 뜨거워지고 있습니다. 중국 샹양에서 배삼진 특파원입니다. [기자] 올 상반기 국내에 새로 등록된 전기차 3대 중 1대는 중국산입니다. 모두 6만 9천여 대, 1년 전보다 180% 가까이 급증했는데, 테슬라 인기 차종 상당수는 상하이 공장에서 만들...",
+          "contentSnippet": "[앵커] 가격만 싸다 싶었던 중국산 전기차가 이제 배터리와 충전, 주행보조 기술까지 갖추고 한국 시장으로 밀려들고 있습니다. 테슬라와 BYD에 이어 지켜, 샤오펑까지 가세하면서 주도권 다툼이 한층 뜨거워지고 있습니다. 중국 샹양에서 배삼진 특파원입니다. [기자] 올 상반기 국내에 새로 등록된 전기차 3대 중 1대는 중국산입니다. 모두 6만 9천여 대, 1년 전보다 180% 가까이 급증했는데, 테슬라 인기 차종 상당수는 상하이 공장에서 만들...",
+          "guid": "MYH20261005183840ja3",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-05T09:38:42.000Z"
+        },
+        {
+          "creator": "김수강",
+          "title": "신변 위협받는 유해진…소속사·영화계·문체부 '강력 경고'",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261005183709OqE",
+          "pubDate": "Mon, 05 Oct 2026 18:37:11 +0900",
+          "content:encoded": "[앵커]\n\n영화 '암살자(들)'의 역사 왜곡 논란이 주연배우 유해진 씨를 향한 위협으로까지 번지자, 소속사와 영화계 단체들이 일제히 대응에 나섰습니다.\n\n법적조치 예고와 함께 작품 비판과 개인에 대한 압박은 구분해야 한다는 목소리가 나왔습니다.\n\n김수강 기자입니다.\n\n[기자]\n\n배우 유해진 씨 측이 일각의 선 넘는 위협에 엄정 대응 방침을 밝혔습니다.\n\n유씨의 소속사는 \"개인의 사생활 침해와 신변 위협, 명예훼손 등 일체 불법 행위를 매우 엄중하게 보고 있다\"고 강조했습니다.\n\n\"온라인 비방과 허위사실에 대한 자료도 수집하고 있고, 배우의 권익과 안전을 지키기 위해 모든 법적 조치를 취할 것\"이라고도 덧붙였습니다.\n\n한국영화프로듀서조합, 한국영화감독조합 등 19개 단체가 참여한 '영화인연대'도 집단 성명서로 힘을 실었습니다.\n\n\"작품 비판과 개인에 대한 압박은 구분되어야 한다\"는 입장을 전했습니다.\n\n특히 \"작품 평가나 역사적 해석의 이견은 비평과 토론으로 이어져야 하며, 개인 주거지나 사생활 영역으로 확대되선 안 된다\"고 꼽았습니다.\n\n작품에 참여했거나 의견을 밝혔단 이유로 개인의 일상과 안전이 위협받아선 안 된다며 시민 사회의 성숙한 태도를 당부하기도 했습니다.\n\n정부 차원의 강경한 메시지도 이어졌습니다.\n\n최휘영 문화체육관광부 장관은 \"작품 비판은 자연스럽지만, 배우의 자택 앞 시위 등 개인 신변을 위협하는 것은 용납될 수 없다\"고 밝혔습니다.\n\n최 장관은 \"창작물에 문제제기를 하려면 법 절차를 따라야 한다\"며, \"경찰 등 관계 당국에 배우 안전 조치와 거주지 앞 위협 등 불법 행위에 엄정한 법 집행을 요청했다\"고 전했습니다.\n\n연합뉴스TV 김수강입니다.\n\n[영상편집 김민지]\n\n[그래픽 이예지]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김수강(kimsookang@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n영화 '암살자(들)'의 역사 왜곡 논란이 주연배우 유해진 씨를 향한 위협으로까지 번지자, 소속사와 영화계 단체들이 일제히 대응에 나섰습니다.\n\n법적조치 예고와 함께 작품 비판과 개인에 대한 압박은 구분해야 한다는 목소리가 나왔습니다.\n\n김수강 기자입니다.\n\n[기자]\n\n배우 유해진 씨 측이 일각의 선 넘는 위협에 엄정 대응 방침을 밝혔습니다.\n\n유씨의 소속사는 \"개인의 사생활 침해와 신변 위협, 명예훼손 등 일체 불법 행위를 매우 엄중하게 보고 있다\"고 강조했습니다.\n\n\"온라인 비방과 허위사실에 대한 자료도 수집하고 있고, 배우의 권익과 안전을 지키기 위해 모든 법적 조치를 취할 것\"이라고도 덧붙였습니다.\n\n한국영화프로듀서조합, 한국영화감독조합 등 19개 단체가 참여한 '영화인연대'도 집단 성명서로 힘을 실었습니다.\n\n\"작품 비판과 개인에 대한 압박은 구분되어야 한다\"는 입장을 전했습니다.\n\n특히 \"작품 평가나 역사적 해석의 이견은 비평과 토론으로 이어져야 하며, 개인 주거지나 사생활 영역으로 확대되선 안 된다\"고 꼽았습니다.\n\n작품에 참여했거나 의견을 밝혔단 이유로 개인의 일상과 안전이 위협받아선 안 된다며 시민 사회의 성숙한 태도를 당부하기도 했습니다.\n\n정부 차원의 강경한 메시지도 이어졌습니다.\n\n최휘영 문화체육관광부 장관은 \"작품 비판은 자연스럽지만, 배우의 자택 앞 시위 등 개인 신변을 위협하는 것은 용납될 수 없다\"고 밝혔습니다.\n\n최 장관은 \"창작물에 문제제기를 하려면 법 절차를 따라야 한다\"며, \"경찰 등 관계 당국에 배우 안전 조치와 거주지 앞 위협 등 불법 행위에 엄정한 법 집행을 요청했다\"고 전했습니다.\n\n연합뉴스TV 김수강입니다.\n\n[영상편집 김민지]\n\n[그래픽 이예지]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김수강(kimsookang@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261005/MYH20261005183709OqE.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "김수강",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261005183709OqE#comments",
+          "content": "[앵커] 영화 '암살자(들)'의 역사 왜곡 논란이 주연배우 유해진 씨를 향한 위협으로까지 번지자, 소속사와 영화계 단체들이 일제히 대응에 나섰습니다. 법적조치 예고와 함께 작품 비판과 개인에 대한 압박은 구분해야 한다는 목소리가 나왔습니다. 김수강 기자입니다. [기자] 배우 유해진 씨 측이 일각의 선 넘는 위협에 엄정 대응 방침을 밝혔습니다. 유씨의 소속사는 \"개인의 사생활 침해와 신변 위협, 명예훼손 등 일체 불법 행위를 매우 엄중하게 ...",
+          "contentSnippet": "[앵커] 영화 '암살자(들)'의 역사 왜곡 논란이 주연배우 유해진 씨를 향한 위협으로까지 번지자, 소속사와 영화계 단체들이 일제히 대응에 나섰습니다. 법적조치 예고와 함께 작품 비판과 개인에 대한 압박은 구분해야 한다는 목소리가 나왔습니다. 김수강 기자입니다. [기자] 배우 유해진 씨 측이 일각의 선 넘는 위협에 엄정 대응 방침을 밝혔습니다. 유씨의 소속사는 \"개인의 사생활 침해와 신변 위협, 명예훼손 등 일체 불법 행위를 매우 엄중하게 ...",
+          "guid": "MYH20261005183709OqE",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-05T09:37:11.000Z"
+        },
+        {
+          "creator": "신새롬",
+          "title": "러 '원인불명 폐렴' 1명 사망…백악관 \"상황 주시\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261005183647aRa",
+          "pubDate": "Mon, 05 Oct 2026 18:36:50 +0900",
+          "content:encoded": "러시아 시베리아의 한 페스트 연구소에서 병원체 유출 사고가 발생해 연구원 1명이 사망했습니다.\n\n러시아 관영 타스통신을 인용한 외신 보도에 따르면, 이번 사고는 이르쿠츠크주 인근의 셸레호프시에 위치한 이르쿠츠크 페스트 연구소에서 발생했습니다.\n\n숨진 연구원은 28세 여성 연구원으로 지난달 25일 페스트 병원체가 든 시험관을 깨뜨린 뒤 숨졌고, 당국은 현재 유출된 병원체 종류를 정확히 파악하기 위한 조사를 진행 중입니다.\n\n백악관은 이 사건 관련 및 관련 격리 조치를 주시하고 있다고 미 온라인 매체 악시오스가 보도했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신새롬(romi@yna.co.kr)",
+          "content:encodedSnippet": "러시아 시베리아의 한 페스트 연구소에서 병원체 유출 사고가 발생해 연구원 1명이 사망했습니다.\n\n러시아 관영 타스통신을 인용한 외신 보도에 따르면, 이번 사고는 이르쿠츠크주 인근의 셸레호프시에 위치한 이르쿠츠크 페스트 연구소에서 발생했습니다.\n\n숨진 연구원은 28세 여성 연구원으로 지난달 25일 페스트 병원체가 든 시험관을 깨뜨린 뒤 숨졌고, 당국은 현재 유출된 병원체 종류를 정확히 파악하기 위한 조사를 진행 중입니다.\n\n백악관은 이 사건 관련 및 관련 격리 조치를 주시하고 있다고 미 온라인 매체 악시오스가 보도했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신새롬(romi@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261005/MYH20261005183647aRa.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "신새롬",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261005183647aRa#comments",
+          "content": "러시아 시베리아의 한 페스트 연구소에서 병원체 유출 사고가 발생해 연구원 1명이 사망했습니다. 러시아 관영 타스통신을 인용한 외신 보도에 따르면, 이번 사고는 이르쿠츠크주 인근의 셸레호프시에 위치한 이르쿠츠크 페스트 연구소에서 발생했습니다. 숨진 연구원은 28세 여성 연구원으로 지난달 25일 페스트 병원체가 든 시험관을 깨뜨린 뒤 숨졌고, 당국은 현재 유출된 병원체 종류를 정확히 파악하기 위한 조사를 진행 중입니다. 백악관은 이 사건 관련...",
+          "contentSnippet": "러시아 시베리아의 한 페스트 연구소에서 병원체 유출 사고가 발생해 연구원 1명이 사망했습니다. 러시아 관영 타스통신을 인용한 외신 보도에 따르면, 이번 사고는 이르쿠츠크주 인근의 셸레호프시에 위치한 이르쿠츠크 페스트 연구소에서 발생했습니다. 숨진 연구원은 28세 여성 연구원으로 지난달 25일 페스트 병원체가 든 시험관을 깨뜨린 뒤 숨졌고, 당국은 현재 유출된 병원체 종류를 정확히 파악하기 위한 조사를 진행 중입니다. 백악관은 이 사건 관련...",
+          "guid": "MYH20261005183647aRa",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-05T09:36:50.000Z"
+        },
+        {
+          "creator": "김나영",
+          "title": "초록빛인데 달콤…제주 그린향 따기 인기",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261005183606ppY",
+          "pubDate": "Mon, 05 Oct 2026 18:36:08 +0900",
+          "content:encoded": "[앵커]\n\n제주 하면 노랗게 익은 감귤이 떠오르지만, 가을에는 초록빛 감귤을 가장 먼저 만날 수 있습니다.\n\n겉은 초록색이어도 속은 달콤하게 익은 극조생 감귤 '그린향'인데요.\n\n김나영 기자가 직접 따고 맛보는 체험 현장을 다녀왔습니다.\n\n[기자]\n\n가을을 맞은 제주 감귤밭은 온통 초록빛입니다.\n\n익숙한 노란 감귤 아닌, 푸른 열매가 나무마다 주렁주렁 달렸습니다.\n\n껍질을 가르자 그제야 주황빛 속살이 모습을 드러냅니다.\n\n&lt;이시아·박상희 / 전남광주시&gt; \"보통은 귤이 초록색이면 안 익은 귤이라고 생각하는데 여기 와서 보니까 초록색인데도 잘 익어서 새로운 경험이었습니다. 달콤했어요.\"\n\n반전의 주인공은 극조생 감귤 '그린향'.\n\n제주의 가을에 수확해 가장 먼저 만나는 감귤 가운데 하나입니다.\n\n초록빛의 그린향입니다.\n\n그린향은 다른 감귤과 달리 푸른 색을 띨 때 수확해야 맛도 좋고 품질도 우수해집니다.\n\n그린향은 재작년부터 본격적으로 시장에 선보이기 시작했습니다.\n\n&lt;강성길 / 감귤 따기 체험 농장 공동대표&gt; \"그린향은 최초에 가장 먼저 생과로 먹을 수 있기 때문에 소비를 많이 해주시면 우리 농가들한테도 도움이….\"\n\n양동이를 들고 마음에 드는 감귤을 골라 가위로 톡톡.\n\n하나둘 따다 보면 어느새 양동이는 초록빛 감귤로 가득 찹니다.\n\n&lt;조준희·조경민·조경준·홍은지 / 서울시&gt; \"농장이 유기농으로 농약도 안 쓰고 키운다고 해서 애기들 체험도 시킬 겸 해가지고. 너무 행복하게 잘 즐기고 있고.\"\n\n곤충도감을 펼쳐 밭에서 발견한 곤충을 관찰하기도 하고, 직접 딴 허브로 벌레 물림 치료제도 만들어봅니다.\n\n수확의 체험뿐 아니라, 생태 배움터로 자리매김하겠다는 계획입니다.\n\n연합뉴스TV 김나영입니다.\n\n[영상취재 이병권]\n\n#제주 #그린향 #감귤따기\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김나영(na0@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n제주 하면 노랗게 익은 감귤이 떠오르지만, 가을에는 초록빛 감귤을 가장 먼저 만날 수 있습니다.\n\n겉은 초록색이어도 속은 달콤하게 익은 극조생 감귤 '그린향'인데요.\n\n김나영 기자가 직접 따고 맛보는 체험 현장을 다녀왔습니다.\n\n[기자]\n\n가을을 맞은 제주 감귤밭은 온통 초록빛입니다.\n\n익숙한 노란 감귤 아닌, 푸른 열매가 나무마다 주렁주렁 달렸습니다.\n\n껍질을 가르자 그제야 주황빛 속살이 모습을 드러냅니다.\n\n<이시아·박상희 / 전남광주시> \"보통은 귤이 초록색이면 안 익은 귤이라고 생각하는데 여기 와서 보니까 초록색인데도 잘 익어서 새로운 경험이었습니다. 달콤했어요.\"\n\n반전의 주인공은 극조생 감귤 '그린향'.\n\n제주의 가을에 수확해 가장 먼저 만나는 감귤 가운데 하나입니다.\n\n초록빛의 그린향입니다.\n\n그린향은 다른 감귤과 달리 푸른 색을 띨 때 수확해야 맛도 좋고 품질도 우수해집니다.\n\n그린향은 재작년부터 본격적으로 시장에 선보이기 시작했습니다.\n\n<강성길 / 감귤 따기 체험 농장 공동대표> \"그린향은 최초에 가장 먼저 생과로 먹을 수 있기 때문에 소비를 많이 해주시면 우리 농가들한테도 도움이….\"\n\n양동이를 들고 마음에 드는 감귤을 골라 가위로 톡톡.\n\n하나둘 따다 보면 어느새 양동이는 초록빛 감귤로 가득 찹니다.\n\n<조준희·조경민·조경준·홍은지 / 서울시> \"농장이 유기농으로 농약도 안 쓰고 키운다고 해서 애기들 체험도 시킬 겸 해가지고. 너무 행복하게 잘 즐기고 있고.\"\n\n곤충도감을 펼쳐 밭에서 발견한 곤충을 관찰하기도 하고, 직접 딴 허브로 벌레 물림 치료제도 만들어봅니다.\n\n수확의 체험뿐 아니라, 생태 배움터로 자리매김하겠다는 계획입니다.\n\n연합뉴스TV 김나영입니다.\n\n[영상취재 이병권]\n\n#제주 #그린향 #감귤따기\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김나영(na0@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261005/MYH20261005183606ppY.jpg",
             "type": "image/jpeg"
           },
           "dc:creator": "김나영",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261005083350g34#comments",
-          "content": "오늘(5일) 새벽 3시4분쯤 제주 차귀도 북서쪽 약 65km 해상에서 경남 사천 선적 29톤급 어선 A호가 전복됐습니다. 해경은 사고 당시 A호에는 모두 11명이 타고 있었으며, 인근 어선이 인도네시아인 8명과 베트남인 1명 등 9명을 구조했다고 밝혔습니다. 한국인 선장 1명과 인도네시아인 선원 1명 등 2명은 실종된 상태입니다. 해경은 경비함정 9척과 헬기 2대, 항공기 1대 등을 투입해 실종자를 수색중입니다. #어선 #전복 #제주 #차...",
-          "contentSnippet": "오늘(5일) 새벽 3시4분쯤 제주 차귀도 북서쪽 약 65km 해상에서 경남 사천 선적 29톤급 어선 A호가 전복됐습니다. 해경은 사고 당시 A호에는 모두 11명이 타고 있었으며, 인근 어선이 인도네시아인 8명과 베트남인 1명 등 9명을 구조했다고 밝혔습니다. 한국인 선장 1명과 인도네시아인 선원 1명 등 2명은 실종된 상태입니다. 해경은 경비함정 9척과 헬기 2대, 항공기 1대 등을 투입해 실종자를 수색중입니다. #어선 #전복 #제주 #차...",
-          "guid": "MYH20261005083350g34",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261005183606ppY#comments",
+          "content": "[앵커] 제주 하면 노랗게 익은 감귤이 떠오르지만, 가을에는 초록빛 감귤을 가장 먼저 만날 수 있습니다. 겉은 초록색이어도 속은 달콤하게 익은 극조생 감귤 '그린향'인데요. 김나영 기자가 직접 따고 맛보는 체험 현장을 다녀왔습니다. [기자] 가을을 맞은 제주 감귤밭은 온통 초록빛입니다. 익숙한 노란 감귤 아닌, 푸른 열매가 나무마다 주렁주렁 달렸습니다. 껍질을 가르자 그제야 주황빛 속살이 모습을 드러냅니다. &lt;이시아·박상희 / 전남광...",
+          "contentSnippet": "[앵커] 제주 하면 노랗게 익은 감귤이 떠오르지만, 가을에는 초록빛 감귤을 가장 먼저 만날 수 있습니다. 겉은 초록색이어도 속은 달콤하게 익은 극조생 감귤 '그린향'인데요. 김나영 기자가 직접 따고 맛보는 체험 현장을 다녀왔습니다. [기자] 가을을 맞은 제주 감귤밭은 온통 초록빛입니다. 익숙한 노란 감귤 아닌, 푸른 열매가 나무마다 주렁주렁 달렸습니다. 껍질을 가르자 그제야 주황빛 속살이 모습을 드러냅니다. <이시아·박상희 / 전남광...",
+          "guid": "MYH20261005183606ppY",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-04T23:33:53.000Z"
+          "isoDate": "2026-10-05T09:36:08.000Z"
         },
         {
-          "creator": "임하경",
-          "title": "오늘 오전까지 가을비…비구름 물러난 뒤 쌀쌀",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261005083340CBy",
-          "pubDate": "Mon, 05 Oct 2026 08:33:41 +0900",
-          "content:encoded": "[앵커]\n\n연휴 마지막 날인 오늘(5일) 오전까지 곳곳에 가을비가 내리겠습니다.\n\n비구름이 물러난 뒤에는 찬 바람이 내려와 날이 크게 쌀쌀해질 텐데요.\n\n내일(6일) 아침 기온은 10도 안팎으로 뚝 떨어집니다.\n\n임하경 기자입니다.\n\n[기자]\n\n맑은 가을 날씨 속 청계천은 나들이객으로 활기를 띱니다.\n\n시민들은 시원한 물소리를 들으며 여유롭게 산책을 즐기고, 아이들은 돌다리 위를 폴짝폴짝 건너며 즐거운 시간을 보냅니다.\n\n개천절 연휴 초반에는 날이 대체로 무난했지만, 마지막 날은 전국이 흐린 가운데, 오전까지 곳곳에 비가 오겠습니다.\n\n저기압이 빠르게 동쪽으로 빠져나갈 전망이라, 비가 내리는 시간도 짧고, 비의 양도 많지 않겠습니다.\n\n다만, 대기가 매우 불안정해 돌풍과 함께 벼락이 치는 곳이 있겠습니다.\n\n중부 서해안과 경기, 강원 내륙에는 싸락우박이 떨어질 것으로 보여 농작물 관리에 유의가 필요합니다.\n\n비구름이 물러난 뒤, 오후부터는 찬 바람이 불어옵니다.\n\n화요일 아침에는 대부분 지역의 아침 기온이 10도 안팎으로 떨어지며 가을 추위가 찾아오겠습니다.\n\n&lt;복한규 / 기상청 예보분석관&gt; \"전국 내륙을 중심으로 아침 기온이 10도 안팎, 강원 내륙 산지는 5도 이하로 낮아져 쌀쌀하겠으며, 전국이 대체로 맑은 가운데 낮 기온이 다시 오르면서 전국 대부분 지역에서 낮과 밤의 기온차가 15도 안팎으로 매우 크겠으니, 환절기 건강관리에 유의하시기 바랍니다.\"\n\n기상청은 당분간 아침저녁으로 쌀쌀하고, 낮에는 기온이 20도 안팎으로 오르는 일교차 큰 날씨가 이어질 것으로 내다봤습니다.\n\n연합뉴스TV 임하경입니다.\n\n[영상취재 신재민]\n\n[영상편집 고종필]\n\n#날씨 #비 #기상청 #일교차 #쌀쌀 #가을\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n임하경(limhakyung@yna.co.kr)",
-          "content:encodedSnippet": "[앵커]\n\n연휴 마지막 날인 오늘(5일) 오전까지 곳곳에 가을비가 내리겠습니다.\n\n비구름이 물러난 뒤에는 찬 바람이 내려와 날이 크게 쌀쌀해질 텐데요.\n\n내일(6일) 아침 기온은 10도 안팎으로 뚝 떨어집니다.\n\n임하경 기자입니다.\n\n[기자]\n\n맑은 가을 날씨 속 청계천은 나들이객으로 활기를 띱니다.\n\n시민들은 시원한 물소리를 들으며 여유롭게 산책을 즐기고, 아이들은 돌다리 위를 폴짝폴짝 건너며 즐거운 시간을 보냅니다.\n\n개천절 연휴 초반에는 날이 대체로 무난했지만, 마지막 날은 전국이 흐린 가운데, 오전까지 곳곳에 비가 오겠습니다.\n\n저기압이 빠르게 동쪽으로 빠져나갈 전망이라, 비가 내리는 시간도 짧고, 비의 양도 많지 않겠습니다.\n\n다만, 대기가 매우 불안정해 돌풍과 함께 벼락이 치는 곳이 있겠습니다.\n\n중부 서해안과 경기, 강원 내륙에는 싸락우박이 떨어질 것으로 보여 농작물 관리에 유의가 필요합니다.\n\n비구름이 물러난 뒤, 오후부터는 찬 바람이 불어옵니다.\n\n화요일 아침에는 대부분 지역의 아침 기온이 10도 안팎으로 떨어지며 가을 추위가 찾아오겠습니다.\n\n<복한규 / 기상청 예보분석관> \"전국 내륙을 중심으로 아침 기온이 10도 안팎, 강원 내륙 산지는 5도 이하로 낮아져 쌀쌀하겠으며, 전국이 대체로 맑은 가운데 낮 기온이 다시 오르면서 전국 대부분 지역에서 낮과 밤의 기온차가 15도 안팎으로 매우 크겠으니, 환절기 건강관리에 유의하시기 바랍니다.\"\n\n기상청은 당분간 아침저녁으로 쌀쌀하고, 낮에는 기온이 20도 안팎으로 오르는 일교차 큰 날씨가 이어질 것으로 내다봤습니다.\n\n연합뉴스TV 임하경입니다.\n\n[영상취재 신재민]\n\n[영상편집 고종필]\n\n#날씨 #비 #기상청 #일교차 #쌀쌀 #가을\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n임하경(limhakyung@yna.co.kr)",
+          "creator": "고휘훈",
+          "title": "제주 차귀도 어선 전복 2명 실종…곳곳 사건사고",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261005182259leO",
+          "pubDate": "Mon, 05 Oct 2026 18:23:00 +0900",
+          "content:encoded": "[앵커]\n\n제주 차귀도 앞바다에서 11명이 타고 있던 어선이 전복돼 2명이 실종되는 사고가 발생했습니다.\n\n전남 나주에선 단독주택에 불이 나 1명이 숨졌습니다.\n\n주말 사건 사고 소식, 고휘훈 기자가 정리했습니다.\n\n[기자]\n\n바다 한가운데 선박 한 척이 뒤집혔습니다.\n\n뒤집힌 선체 바닥 위로 출동한 해경 대원들이 아슬아슬하게 올라서 있습니다.\n\n5일 새벽 3시쯤 제주 차귀도 북서쪽 약 65km 해상에서 29톤급 조기잡이 어선이 전복됐습니다.\n\n사고 당시 어선에는 50대 한국인 선장과 인도네시아인 선원 9명, 베트남인 선원 1명 등 모두 11명이 타고 있었습니다.\n\n다행히 인근에서 조업하던 어선이 외국인 선원 9명을 구조했지만, 선장과 20대 인도네시아인 선원 등 2명은 실종됐습니다.\n\n해경은 경비함정 17척과 항공기 4대 등을 동원해 수색 중이지만, 강한 바람과 높은 파도로 어려움을 겪고 있습니다.\n\n같은 날 오전 8시 40분쯤에는 충남 아산시의 한 국도에서 덤프트럭이 이정표 보수 작업 중이던 사다리차를 들이받았습니다.\n\n이 사고로 사다리차 위에서 작업하던 50대 작업자가 떨어져 숨졌고, 다른 작업자와 신호수, 덤프트럭 운전자 등 3명이 다쳤습니다.\n\n전날 밤 10시 40분쯤에는 전남 나주시 동강면의 한 단독주택에서 불이 나 70대 여성이 숨졌습니다.\n\n아내는 심정지 상태로 구조돼 병원으로 옮겨졌지만 끝내 숨졌고, 중증 지체 장애가 있는 남편은 스스로 대피했습니다.\n\n경찰은 아내도 중증 장애로 거동이 불편했다는 남편 진술을 토대로 정확한 화재 경위를 조사하고 있습니다.\n\n연합뉴스TV 고휘훈입니다.\n\n[화면제공 제주해양경찰청  전남광주소방본부  충남소방본부]\n\n[영상편집 박진희]\n\n[뉴스리뷰]\n\n#화재 #전복사고 #어선전복 #덤프트럭 #차귀도 #제주어선 #이정표 #주말사고 #주말사건 #중증장애\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n고휘훈(take5@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n제주 차귀도 앞바다에서 11명이 타고 있던 어선이 전복돼 2명이 실종되는 사고가 발생했습니다.\n\n전남 나주에선 단독주택에 불이 나 1명이 숨졌습니다.\n\n주말 사건 사고 소식, 고휘훈 기자가 정리했습니다.\n\n[기자]\n\n바다 한가운데 선박 한 척이 뒤집혔습니다.\n\n뒤집힌 선체 바닥 위로 출동한 해경 대원들이 아슬아슬하게 올라서 있습니다.\n\n5일 새벽 3시쯤 제주 차귀도 북서쪽 약 65km 해상에서 29톤급 조기잡이 어선이 전복됐습니다.\n\n사고 당시 어선에는 50대 한국인 선장과 인도네시아인 선원 9명, 베트남인 선원 1명 등 모두 11명이 타고 있었습니다.\n\n다행히 인근에서 조업하던 어선이 외국인 선원 9명을 구조했지만, 선장과 20대 인도네시아인 선원 등 2명은 실종됐습니다.\n\n해경은 경비함정 17척과 항공기 4대 등을 동원해 수색 중이지만, 강한 바람과 높은 파도로 어려움을 겪고 있습니다.\n\n같은 날 오전 8시 40분쯤에는 충남 아산시의 한 국도에서 덤프트럭이 이정표 보수 작업 중이던 사다리차를 들이받았습니다.\n\n이 사고로 사다리차 위에서 작업하던 50대 작업자가 떨어져 숨졌고, 다른 작업자와 신호수, 덤프트럭 운전자 등 3명이 다쳤습니다.\n\n전날 밤 10시 40분쯤에는 전남 나주시 동강면의 한 단독주택에서 불이 나 70대 여성이 숨졌습니다.\n\n아내는 심정지 상태로 구조돼 병원으로 옮겨졌지만 끝내 숨졌고, 중증 지체 장애가 있는 남편은 스스로 대피했습니다.\n\n경찰은 아내도 중증 장애로 거동이 불편했다는 남편 진술을 토대로 정확한 화재 경위를 조사하고 있습니다.\n\n연합뉴스TV 고휘훈입니다.\n\n[화면제공 제주해양경찰청  전남광주소방본부  충남소방본부]\n\n[영상편집 박진희]\n\n[뉴스리뷰]\n\n#화재 #전복사고 #어선전복 #덤프트럭 #차귀도 #제주어선 #이정표 #주말사고 #주말사건 #중증장애\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n고휘훈(take5@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261004/MYH20261005083340CBy.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261005/MYH20261005182259leO.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "임하경",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261005083340CBy#comments",
-          "content": "[앵커] 연휴 마지막 날인 오늘(5일) 오전까지 곳곳에 가을비가 내리겠습니다. 비구름이 물러난 뒤에는 찬 바람이 내려와 날이 크게 쌀쌀해질 텐데요. 내일(6일) 아침 기온은 10도 안팎으로 뚝 떨어집니다. 임하경 기자입니다. [기자] 맑은 가을 날씨 속 청계천은 나들이객으로 활기를 띱니다. 시민들은 시원한 물소리를 들으며 여유롭게 산책을 즐기고, 아이들은 돌다리 위를 폴짝폴짝 건너며 즐거운 시간을 보냅니다. 개천절 연휴 초반에는 날이 대체...",
-          "contentSnippet": "[앵커] 연휴 마지막 날인 오늘(5일) 오전까지 곳곳에 가을비가 내리겠습니다. 비구름이 물러난 뒤에는 찬 바람이 내려와 날이 크게 쌀쌀해질 텐데요. 내일(6일) 아침 기온은 10도 안팎으로 뚝 떨어집니다. 임하경 기자입니다. [기자] 맑은 가을 날씨 속 청계천은 나들이객으로 활기를 띱니다. 시민들은 시원한 물소리를 들으며 여유롭게 산책을 즐기고, 아이들은 돌다리 위를 폴짝폴짝 건너며 즐거운 시간을 보냅니다. 개천절 연휴 초반에는 날이 대체...",
-          "guid": "MYH20261005083340CBy",
+          "dc:creator": "고휘훈",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261005182259leO#comments",
+          "content": "[앵커] 제주 차귀도 앞바다에서 11명이 타고 있던 어선이 전복돼 2명이 실종되는 사고가 발생했습니다. 전남 나주에선 단독주택에 불이 나 1명이 숨졌습니다. 주말 사건 사고 소식, 고휘훈 기자가 정리했습니다. [기자] 바다 한가운데 선박 한 척이 뒤집혔습니다. 뒤집힌 선체 바닥 위로 출동한 해경 대원들이 아슬아슬하게 올라서 있습니다. 5일 새벽 3시쯤 제주 차귀도 북서쪽 약 65km 해상에서 29톤급 조기잡이 어선이 전복됐습니다. 사고 당...",
+          "contentSnippet": "[앵커] 제주 차귀도 앞바다에서 11명이 타고 있던 어선이 전복돼 2명이 실종되는 사고가 발생했습니다. 전남 나주에선 단독주택에 불이 나 1명이 숨졌습니다. 주말 사건 사고 소식, 고휘훈 기자가 정리했습니다. [기자] 바다 한가운데 선박 한 척이 뒤집혔습니다. 뒤집힌 선체 바닥 위로 출동한 해경 대원들이 아슬아슬하게 올라서 있습니다. 5일 새벽 3시쯤 제주 차귀도 북서쪽 약 65km 해상에서 29톤급 조기잡이 어선이 전복됐습니다. 사고 당...",
+          "guid": "MYH20261005182259leO",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-04T23:33:41.000Z"
+          "isoDate": "2026-10-05T09:23:00.000Z"
         },
         {
-          "creator": "김종성",
-          "title": "'암살자(들)' '총탄 굿즈' 논란…메가박스, 사과 후 전량 폐기",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261005083256XJ1",
-          "pubDate": "Mon, 05 Oct 2026 08:32:58 +0900",
-          "content:encoded": "메가박스가 영화 '암살자(들)'의 오리지널 티켓 디자인 논란에 사과하고 남은 수량을 전량 폐기하기로 했습니다.\n\n티켓은 1974년 육영수 여사 피격 사건 당시 기념식장 그림 위에 총탄 자국이 인쇄된 투명판을 포개도록 제작돼, 비극을 희화화했다는 비판을 받았습니다.\n\n메가박스는 입장문을 내고 \"사건의 엄중함을 깊이 헤아리지 못했다\"며 \"일정이 촉박해 사전 영화 관람 없이 제작하게 됐다\"고 해명했습니다.\n\n이어 남은 물량은 모두 폐기하고, 역사적 인물이나 사건을 활용할 때 윤리적 검증 절차를 강화하겠다고 밝혔습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김종성(goldbell@yna.co.kr)",
-          "content:encodedSnippet": "메가박스가 영화 '암살자(들)'의 오리지널 티켓 디자인 논란에 사과하고 남은 수량을 전량 폐기하기로 했습니다.\n\n티켓은 1974년 육영수 여사 피격 사건 당시 기념식장 그림 위에 총탄 자국이 인쇄된 투명판을 포개도록 제작돼, 비극을 희화화했다는 비판을 받았습니다.\n\n메가박스는 입장문을 내고 \"사건의 엄중함을 깊이 헤아리지 못했다\"며 \"일정이 촉박해 사전 영화 관람 없이 제작하게 됐다\"고 해명했습니다.\n\n이어 남은 물량은 모두 폐기하고, 역사적 인물이나 사건을 활용할 때 윤리적 검증 절차를 강화하겠다고 밝혔습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김종성(goldbell@yna.co.kr)",
+          "creator": "차승은",
+          "title": "일면식 없는 여성에 돌 휘두른 50대 남성 체포",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261005181933Olc",
+          "pubDate": "Mon, 05 Oct 2026 18:19:34 +0900",
+          "content:encoded": "한밤중 귀가하던 20대 여성의 머리를 돌로 내리친 50대 남성이 경찰에 붙잡혔습니다.\n\n경기 용인동부경찰서는 50대 남성 A씨를 특수상해 혐의로 현행범 체포해 조사하고 있습니다.\n\nA씨는 오늘(5일) 오전 1시 20분쯤 용인시 처인구 역북동에서 아르바이트를 마치고 귀가 중이던 20대 여성 B씨의 뒷머리를 돌로 때려 다치게 한 혐의를 받습니다.\n\n이들은 일면식이 전혀 없는 사이로 파악됐는데, A씨는 경찰에 \"술에 취해 기억이 나지 않는다\"고 진술한 것으로 전해졌습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n차승은(chaletuno@yna.co.kr)",
+          "content:encodedSnippet": "한밤중 귀가하던 20대 여성의 머리를 돌로 내리친 50대 남성이 경찰에 붙잡혔습니다.\n\n경기 용인동부경찰서는 50대 남성 A씨를 특수상해 혐의로 현행범 체포해 조사하고 있습니다.\n\nA씨는 오늘(5일) 오전 1시 20분쯤 용인시 처인구 역북동에서 아르바이트를 마치고 귀가 중이던 20대 여성 B씨의 뒷머리를 돌로 때려 다치게 한 혐의를 받습니다.\n\n이들은 일면식이 전혀 없는 사이로 파악됐는데, A씨는 경찰에 \"술에 취해 기억이 나지 않는다\"고 진술한 것으로 전해졌습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n차승은(chaletuno@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261004/MYH20261005083256XJ1.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261005/MYH20261005181933Olc.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "김종성",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261005083256XJ1#comments",
-          "content": "메가박스가 영화 '암살자(들)'의 오리지널 티켓 디자인 논란에 사과하고 남은 수량을 전량 폐기하기로 했습니다. 티켓은 1974년 육영수 여사 피격 사건 당시 기념식장 그림 위에 총탄 자국이 인쇄된 투명판을 포개도록 제작돼, 비극을 희화화했다는 비판을 받았습니다. 메가박스는 입장문을 내고 \"사건의 엄중함을 깊이 헤아리지 못했다\"며 \"일정이 촉박해 사전 영화 관람 없이 제작하게 됐다\"고 해명했습니다. 이어 남은 물량은 모두 폐기하고, 역사적 ...",
-          "contentSnippet": "메가박스가 영화 '암살자(들)'의 오리지널 티켓 디자인 논란에 사과하고 남은 수량을 전량 폐기하기로 했습니다. 티켓은 1974년 육영수 여사 피격 사건 당시 기념식장 그림 위에 총탄 자국이 인쇄된 투명판을 포개도록 제작돼, 비극을 희화화했다는 비판을 받았습니다. 메가박스는 입장문을 내고 \"사건의 엄중함을 깊이 헤아리지 못했다\"며 \"일정이 촉박해 사전 영화 관람 없이 제작하게 됐다\"고 해명했습니다. 이어 남은 물량은 모두 폐기하고, 역사적 ...",
-          "guid": "MYH20261005083256XJ1",
+          "dc:creator": "차승은",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261005181933Olc#comments",
+          "content": "한밤중 귀가하던 20대 여성의 머리를 돌로 내리친 50대 남성이 경찰에 붙잡혔습니다. 경기 용인동부경찰서는 50대 남성 A씨를 특수상해 혐의로 현행범 체포해 조사하고 있습니다. A씨는 오늘(5일) 오전 1시 20분쯤 용인시 처인구 역북동에서 아르바이트를 마치고 귀가 중이던 20대 여성 B씨의 뒷머리를 돌로 때려 다치게 한 혐의를 받습니다. 이들은 일면식이 전혀 없는 사이로 파악됐는데, A씨는 경찰에 \"술에 취해 기억이 나지 않는다\"고 진술...",
+          "contentSnippet": "한밤중 귀가하던 20대 여성의 머리를 돌로 내리친 50대 남성이 경찰에 붙잡혔습니다. 경기 용인동부경찰서는 50대 남성 A씨를 특수상해 혐의로 현행범 체포해 조사하고 있습니다. A씨는 오늘(5일) 오전 1시 20분쯤 용인시 처인구 역북동에서 아르바이트를 마치고 귀가 중이던 20대 여성 B씨의 뒷머리를 돌로 때려 다치게 한 혐의를 받습니다. 이들은 일면식이 전혀 없는 사이로 파악됐는데, A씨는 경찰에 \"술에 취해 기억이 나지 않는다\"고 진술...",
+          "guid": "MYH20261005181933Olc",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-04T23:32:58.000Z"
+          "isoDate": "2026-10-05T09:19:34.000Z"
         },
         {
-          "creator": "조한대",
-          "title": "효자 종목 주춤에 목표 달성 실패…과제 남긴 AG",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261005083230hoa",
-          "pubDate": "Mon, 05 Oct 2026 08:32:31 +0900",
-          "content:encoded": "[앵커]\n\n이번 아시안게임에서 '금빛 행진'을 기대했던 종목들이 다소 주춤했습니다.\n\n선수단의 금메달 목표 개수도 달성하지 못했는데요.\n\nLA 올림픽을 앞두고 쉽지 않은 과제가 던져졌습니다.\n\n조한대 기자입니다.\n\n[기자]\n\n직전 항저우에서 금 6개를 수확해 기대를 모았던 수영 경영팀.\n\n간판스타 김우민은 대회 도중 부상 불운을 겪었고, 황선우는 은과 동에 만족했습니다.\n\n김영범이 자유형 50m 금메달을 땄지만 황금세대가 내놓은 결과 치고는 다소 아쉬운 성적표였습니다.\n\n양궁 리커브 팀도 '절대 1강'이란 수식어에 균열이 갔습니다.\n\n인도의 공세에 눌려 여자 개인·단체전 정상 자리를 모두 내놨습니다.\n\n유도에선 여자 57㎏급 허미미가 유일한 금빛 낭보를 전했고,\n\n탁구는 '노골드'를 넘어서 역대 최초 '노실버' 수모를 당했습니다.\n\n옛 영광을 되찾겠다던 레슬링도 직전 항저우 때보다 못한 동메달 1개만을 따냈습니다.\n\n다만 농구와 야구, 남자 축구 등 일부 구기 종목들이 선전했고 테크볼, 스케이트보드 등 사상 처음으로 정상을 밟은 종목도 있었습니다.\n\n&lt;유승민/대한체육회장&gt; \"(비인기종목의 경우) 협회가 말 못할 사안들, 선수·지도자가 말 못할 사안들을 소통을 통해서 파악을 한 다음에 좀 더 빠르고 정확하고 규모있게 지원하는 게 저의 역할이 아닌가…\"\n\n하지만 종합 1위 중국의 강세 속 개최국 일본이 역대급 활약을 선보인 사이 우리는 금메달 40개 이상이란 목표마저 이루지 못했습니다.\n\n&lt;김택수/진천선수촌장&gt; \"단기적인 성과에 안주하기보다 메달이 감소한 종목들에 대한 정밀한 분석과 냉정한 평가로 다가오는 2028 LA 올림픽을 철저히 준비해야 될 것입니다.\"\n\n새로운 출발점에 선 우리 선수단이 세계 무대에서 더욱 활약할 수 있는 탄탄한 토대를 마련할 지 주목됩니다.\n\n연합뉴스TV 조한대입니다.\n\n[영상편집 이예림]\n\n[그래픽 박혜령]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n조한대(onepunch@yna.co.kr)",
-          "content:encodedSnippet": "[앵커]\n\n이번 아시안게임에서 '금빛 행진'을 기대했던 종목들이 다소 주춤했습니다.\n\n선수단의 금메달 목표 개수도 달성하지 못했는데요.\n\nLA 올림픽을 앞두고 쉽지 않은 과제가 던져졌습니다.\n\n조한대 기자입니다.\n\n[기자]\n\n직전 항저우에서 금 6개를 수확해 기대를 모았던 수영 경영팀.\n\n간판스타 김우민은 대회 도중 부상 불운을 겪었고, 황선우는 은과 동에 만족했습니다.\n\n김영범이 자유형 50m 금메달을 땄지만 황금세대가 내놓은 결과 치고는 다소 아쉬운 성적표였습니다.\n\n양궁 리커브 팀도 '절대 1강'이란 수식어에 균열이 갔습니다.\n\n인도의 공세에 눌려 여자 개인·단체전 정상 자리를 모두 내놨습니다.\n\n유도에선 여자 57㎏급 허미미가 유일한 금빛 낭보를 전했고,\n\n탁구는 '노골드'를 넘어서 역대 최초 '노실버' 수모를 당했습니다.\n\n옛 영광을 되찾겠다던 레슬링도 직전 항저우 때보다 못한 동메달 1개만을 따냈습니다.\n\n다만 농구와 야구, 남자 축구 등 일부 구기 종목들이 선전했고 테크볼, 스케이트보드 등 사상 처음으로 정상을 밟은 종목도 있었습니다.\n\n<유승민/대한체육회장> \"(비인기종목의 경우) 협회가 말 못할 사안들, 선수·지도자가 말 못할 사안들을 소통을 통해서 파악을 한 다음에 좀 더 빠르고 정확하고 규모있게 지원하는 게 저의 역할이 아닌가…\"\n\n하지만 종합 1위 중국의 강세 속 개최국 일본이 역대급 활약을 선보인 사이 우리는 금메달 40개 이상이란 목표마저 이루지 못했습니다.\n\n<김택수/진천선수촌장> \"단기적인 성과에 안주하기보다 메달이 감소한 종목들에 대한 정밀한 분석과 냉정한 평가로 다가오는 2028 LA 올림픽을 철저히 준비해야 될 것입니다.\"\n\n새로운 출발점에 선 우리 선수단이 세계 무대에서 더욱 활약할 수 있는 탄탄한 토대를 마련할 지 주목됩니다.\n\n연합뉴스TV 조한대입니다.\n\n[영상편집 이예림]\n\n[그래픽 박혜령]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n조한대(onepunch@yna.co.kr)",
+          "creator": "안채린",
+          "title": "강북구 주택가에서 일면식 없는 70대 살해한 20대",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261005181840f9T",
+          "pubDate": "Mon, 05 Oct 2026 18:18:42 +0900",
+          "content:encoded": "서울 강북구의 주택에서 일면식도 없는 70대 남성을 살해한 20대 남성이 경찰에 붙잡혔습니다.\n\n서울 강북경찰서는 오늘(5일) 20대 남성 A씨를 살인 혐의로 검거해 조사 중이라고 밝혔습니다.\n\n경찰은 피해자와 연락이 닿지 않는다는 지인 신고를 받고 출동했다가 어제(4일) 저녁 7시쯤 강북구의 한 주택에서 사망한 피해자를 발견했습니다.\n\nA씨는 경찰 조사에서 \"피해자와 어깨가 부딪혀 항의하려 찾아갔다가 범행했다\"고 진술한 것으로 확인됐습니다.\n\n경찰은 A씨를 상대로 범행 동기 등을 조사한 뒤 구속영장을 신청할 방침입니다.\n\n#살인 #체포 #강북구\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n안채린(chaerin163@yna.co.kr)",
+          "content:encodedSnippet": "서울 강북구의 주택에서 일면식도 없는 70대 남성을 살해한 20대 남성이 경찰에 붙잡혔습니다.\n\n서울 강북경찰서는 오늘(5일) 20대 남성 A씨를 살인 혐의로 검거해 조사 중이라고 밝혔습니다.\n\n경찰은 피해자와 연락이 닿지 않는다는 지인 신고를 받고 출동했다가 어제(4일) 저녁 7시쯤 강북구의 한 주택에서 사망한 피해자를 발견했습니다.\n\nA씨는 경찰 조사에서 \"피해자와 어깨가 부딪혀 항의하려 찾아갔다가 범행했다\"고 진술한 것으로 확인됐습니다.\n\n경찰은 A씨를 상대로 범행 동기 등을 조사한 뒤 구속영장을 신청할 방침입니다.\n\n#살인 #체포 #강북구\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n안채린(chaerin163@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261004/MYH20261005083230hoa.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261005/MYH20261005181840f9T.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "조한대",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261005083230hoa#comments",
-          "content": "[앵커] 이번 아시안게임에서 '금빛 행진'을 기대했던 종목들이 다소 주춤했습니다. 선수단의 금메달 목표 개수도 달성하지 못했는데요. LA 올림픽을 앞두고 쉽지 않은 과제가 던져졌습니다. 조한대 기자입니다. [기자] 직전 항저우에서 금 6개를 수확해 기대를 모았던 수영 경영팀. 간판스타 김우민은 대회 도중 부상 불운을 겪었고, 황선우는 은과 동에 만족했습니다. 김영범이 자유형 50m 금메달을 땄지만 황금세대가 내놓은 결과 치고는 다소 아쉬운...",
-          "contentSnippet": "[앵커] 이번 아시안게임에서 '금빛 행진'을 기대했던 종목들이 다소 주춤했습니다. 선수단의 금메달 목표 개수도 달성하지 못했는데요. LA 올림픽을 앞두고 쉽지 않은 과제가 던져졌습니다. 조한대 기자입니다. [기자] 직전 항저우에서 금 6개를 수확해 기대를 모았던 수영 경영팀. 간판스타 김우민은 대회 도중 부상 불운을 겪었고, 황선우는 은과 동에 만족했습니다. 김영범이 자유형 50m 금메달을 땄지만 황금세대가 내놓은 결과 치고는 다소 아쉬운...",
-          "guid": "MYH20261005083230hoa",
+          "dc:creator": "안채린",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261005181840f9T#comments",
+          "content": "서울 강북구의 주택에서 일면식도 없는 70대 남성을 살해한 20대 남성이 경찰에 붙잡혔습니다. 서울 강북경찰서는 오늘(5일) 20대 남성 A씨를 살인 혐의로 검거해 조사 중이라고 밝혔습니다. 경찰은 피해자와 연락이 닿지 않는다는 지인 신고를 받고 출동했다가 어제(4일) 저녁 7시쯤 강북구의 한 주택에서 사망한 피해자를 발견했습니다. A씨는 경찰 조사에서 \"피해자와 어깨가 부딪혀 항의하려 찾아갔다가 범행했다\"고 진술한 것으로 확인됐습니다. ...",
+          "contentSnippet": "서울 강북구의 주택에서 일면식도 없는 70대 남성을 살해한 20대 남성이 경찰에 붙잡혔습니다. 서울 강북경찰서는 오늘(5일) 20대 남성 A씨를 살인 혐의로 검거해 조사 중이라고 밝혔습니다. 경찰은 피해자와 연락이 닿지 않는다는 지인 신고를 받고 출동했다가 어제(4일) 저녁 7시쯤 강북구의 한 주택에서 사망한 피해자를 발견했습니다. A씨는 경찰 조사에서 \"피해자와 어깨가 부딪혀 항의하려 찾아갔다가 범행했다\"고 진술한 것으로 확인됐습니다. ...",
+          "guid": "MYH20261005181840f9T",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-04T23:32:31.000Z"
-        },
-        {
-          "creator": "권정상",
-          "title": "살충제 안 쓰고도 모기 잡는다…중국 업체, 레이저 기기 출시",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261002160002yaA",
-          "pubDate": "Mon, 05 Oct 2026 06:10:04 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261004/AKR20261002160002yaA_01_i.jpg\" alt=\"\"><span class=\"yna_title\">모기 잡는 레이저</span><span class=\"yna_caption\">[포톤매트릭스랩 홈페이지 캡처. 연합뉴스]</span><span class=\"yna_description\">[포톤매트릭스랩 홈페이지 캡처. 연합뉴스]</span></div>\n\n\n중국의 한 스타트업이 레이저를 이용해 모기를 없애는 기기를 개발해 이달 중 출하에 나선다고 홍콩 사우스차이나모닝포스트(SCMP)가 현지시간 2일 전했습니다.\n\n보도에 따르면 중국 장쑤성 창저우에 있는 스타트업 포톤매트릭스랩은 광선 레이더인 일명 '라이다'를 이용해 모기를 포착하고 레이저를 쏴 없애는 기기를 개발해 고객들로부터 선주문을 받고 있습니다.\n\n이 기기는 고정밀 라이다로 주변을 스캔해 작고 느리게 날아다니는 물체를 포착해 공격하는 방식으로 작동합니다.\n\n또 사람이나 큰 동물을 식별하고 공격 범위에 들어오기 전 멈출 수 있다고 회사 측은 설명합니다.\n\n레이저로 모기를 죽이는 방식은 수년간 연구실에서는 입증된 바 있지만, 논문이나 시제품 형태에 그쳤습니다.\n\n회사 측은 앞서 미국 크라우드펀딩 플랫폼에서 2만 달러(약 2,716만 원)를 목표로 자금을 모았는데, 온라인상에서 화제가 되면서 모금액이 280만 달러(약 38억 원)를 넘겼습니다.\n\n하지만 이후 대량 생산이 계획보다 늦어지고 안전성에 대한 우려가 제기됐습니다.\n\n이 때문에 3개월이면 제품을 만들 수 있을 것이라는 예상과 달리 제품 출시까지 3년이 걸렸습니다.\n\n이 회사 관계자는 제품화 과정에서 어려운 부분은 레이저가 모기를 죽일 수 있는지가 아니라 포착 정확도, 공격 정밀도, 비용, 제조 방식이었다며 출시를 위해 공급망과 제조 프로세스를 갖추고 성능과 안전성을 확보해야 했다고 설명했습니다.\n\n판매 가격은 사람 눈에 보이지 않는 적외선 레이저를 쏘는 실내용 제품이 988달러(약 134만 원), 눈에 보이는 블루 레이저를 쏘는 실외용 제품이 1,088달러(약 147만 원)입니다.\n\n회사 측은 크라우드 펀딩 단계 이후 중동·유럽·북미 등지에서 5,000 대 이상 선주문을 받았다고 밝히며 수요가 꾸준히 늘어날 것으로 기대했습니다.\n\n\n#모기 #레이저 #살충제 #포톤매트릭스랩 #제품화\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n권정상(jusang@yna.co.kr)",
-          "content:encodedSnippet": "모기 잡는 레이저[포톤매트릭스랩 홈페이지 캡처. 연합뉴스][포톤매트릭스랩 홈페이지 캡처. 연합뉴스]\n\n\n중국의 한 스타트업이 레이저를 이용해 모기를 없애는 기기를 개발해 이달 중 출하에 나선다고 홍콩 사우스차이나모닝포스트(SCMP)가 현지시간 2일 전했습니다.\n\n보도에 따르면 중국 장쑤성 창저우에 있는 스타트업 포톤매트릭스랩은 광선 레이더인 일명 '라이다'를 이용해 모기를 포착하고 레이저를 쏴 없애는 기기를 개발해 고객들로부터 선주문을 받고 있습니다.\n\n이 기기는 고정밀 라이다로 주변을 스캔해 작고 느리게 날아다니는 물체를 포착해 공격하는 방식으로 작동합니다.\n\n또 사람이나 큰 동물을 식별하고 공격 범위에 들어오기 전 멈출 수 있다고 회사 측은 설명합니다.\n\n레이저로 모기를 죽이는 방식은 수년간 연구실에서는 입증된 바 있지만, 논문이나 시제품 형태에 그쳤습니다.\n\n회사 측은 앞서 미국 크라우드펀딩 플랫폼에서 2만 달러(약 2,716만 원)를 목표로 자금을 모았는데, 온라인상에서 화제가 되면서 모금액이 280만 달러(약 38억 원)를 넘겼습니다.\n\n하지만 이후 대량 생산이 계획보다 늦어지고 안전성에 대한 우려가 제기됐습니다.\n\n이 때문에 3개월이면 제품을 만들 수 있을 것이라는 예상과 달리 제품 출시까지 3년이 걸렸습니다.\n\n이 회사 관계자는 제품화 과정에서 어려운 부분은 레이저가 모기를 죽일 수 있는지가 아니라 포착 정확도, 공격 정밀도, 비용, 제조 방식이었다며 출시를 위해 공급망과 제조 프로세스를 갖추고 성능과 안전성을 확보해야 했다고 설명했습니다.\n\n판매 가격은 사람 눈에 보이지 않는 적외선 레이저를 쏘는 실내용 제품이 988달러(약 134만 원), 눈에 보이는 블루 레이저를 쏘는 실외용 제품이 1,088달러(약 147만 원)입니다.\n\n회사 측은 크라우드 펀딩 단계 이후 중동·유럽·북미 등지에서 5,000 대 이상 선주문을 받았다고 밝히며 수요가 꾸준히 늘어날 것으로 기대했습니다.\n\n\n#모기 #레이저 #살충제 #포톤매트릭스랩 #제품화\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n권정상(jusang@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261004/AKR20261002160002yaA_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "권정상",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261002160002yaA#comments",
-          "content": "모기 잡는 레이저[포톤매트릭스랩 홈페이지 캡처. 연합뉴스][포톤매트릭스랩 홈페이지 캡처. 연합뉴스] 중국의 한 스타트업이 레이저를 이용해 모기를 없애는 기기를 개발해 이달 중 출하에 나선다고 홍콩 사우스차이나모닝포스트(SCMP)가 현지시간 2일 전했습니다. 보도에 따르면 중국 장쑤성 창저우에 있는 스타트업 포톤매트릭스랩은 광선 레이더인 일명 '라이다'를 이용해 모기를 포착하고 레이저를 쏴 없애는 기기를 개발해 고객들로부터 선주문을 받고 있...",
-          "contentSnippet": "모기 잡는 레이저[포톤매트릭스랩 홈페이지 캡처. 연합뉴스][포톤매트릭스랩 홈페이지 캡처. 연합뉴스] 중국의 한 스타트업이 레이저를 이용해 모기를 없애는 기기를 개발해 이달 중 출하에 나선다고 홍콩 사우스차이나모닝포스트(SCMP)가 현지시간 2일 전했습니다. 보도에 따르면 중국 장쑤성 창저우에 있는 스타트업 포톤매트릭스랩은 광선 레이더인 일명 '라이다'를 이용해 모기를 포착하고 레이저를 쏴 없애는 기기를 개발해 고객들로부터 선주문을 받고 있...",
-          "guid": "AKR20261002160002yaA",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-04T21:10:04.000Z"
-        },
-        {
-          "creator": "강서연",
-          "title": "신랑이 처제 부르며 '결혼식 사랑 맹세'…신부 반응 들어보니",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261002155740Upo",
-          "pubDate": "Mon, 05 Oct 2026 06:03:04 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261004/AKR20261002155740Upo_01_i.jpg\" alt=\"\"><span class=\"yna_title\">결혼식을 하고 있는 엠마의 모습.</span><span class=\"yna_caption\">[사진=뉴욕포스트]</span><span class=\"yna_description\">[사진=뉴욕포스트]</span></div>\n호주의 한 신랑이 결혼식 혼인 서약을 하면서 신부 이름이 아닌 신부의 동생 이름을 불러 엄청난 오해와 논란의 중심에 선 사건이 벌어졌습니다.\n\n현지시간 1일 뉴욕포스트에 따르면 호주 브리즈번에 사는 엠마는 자신의 SNS 계정에 \"시점: 당신은 결혼식 단상에 서 있는데 남편이 당신의 이름을 잘못 부르는 상황\"이라는 글과 함께 결혼식 영상을 올렸습니다.\n\n이 영상에는 신랑이 신부 엠마가 아닌 '에밀리'라는 여성에게 평생의 사랑과 충성을 맹세한다고 말하는 모습이 담겼습니다.\n\n에밀리는 엠마의 여동생 이름이었고, 엠마는 남편의 실수를 단순한 말실수로 받아들였습니다.\n\n사연이 알려지자 누리꾼들은 \"나라면 결혼식장을 박차고 나갔을 것\", \"정말 최악의 결혼식이다\", \"절대 안 돼\" 등의 반응을 보이며 신랑을 비판했습니다.\n\n일각에서는 신랑의 행동을 의심하는 반응도 나왔습니다.\n\n자신을 당시 결혼식 목격자라고 밝힌 한 누리꾼은 \"솔직히 말해서 혹시라도 이게 이상하다고 생각한다면 당신 생각이 맞다\"며 \"정말 이상한 일이고 때로는 가장 단순한 단서가 가장 큰 거짓말을 드러내기도 한다\"고 주장했습니다.\n\n누리꾼들의 걱정이 이어지자 엠마는 \"만약 모르는 이름이었다면 의문이 생겼을 것\"이라며 \"제 여동생은 저의 가장 친한 친구니까 전혀 걱정하지 않는다\"고 밝혔습니다.\n\n하지만 전문가들은 결혼식 당일의 부적절한 행동이 더 심각한 문제로 이어질 징조가 될 수 있다고 경고했습니다.\n\n심리학자 칼리 도버는 \"이러한 행동은 여성의 감정이 존중받지 못하고 상대로부터 존중받지 못하는 일부 관계의 불평등을 드러낼 수 있다\"고 설명했습니다.\n\n#결혼 #결혼식 #혼인서약 #여동생\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n강서연(yeon03@yna.co.kr)",
-          "content:encodedSnippet": "결혼식을 하고 있는 엠마의 모습.[사진=뉴욕포스트][사진=뉴욕포스트]\n호주의 한 신랑이 결혼식 혼인 서약을 하면서 신부 이름이 아닌 신부의 동생 이름을 불러 엄청난 오해와 논란의 중심에 선 사건이 벌어졌습니다.\n\n현지시간 1일 뉴욕포스트에 따르면 호주 브리즈번에 사는 엠마는 자신의 SNS 계정에 \"시점: 당신은 결혼식 단상에 서 있는데 남편이 당신의 이름을 잘못 부르는 상황\"이라는 글과 함께 결혼식 영상을 올렸습니다.\n\n이 영상에는 신랑이 신부 엠마가 아닌 '에밀리'라는 여성에게 평생의 사랑과 충성을 맹세한다고 말하는 모습이 담겼습니다.\n\n에밀리는 엠마의 여동생 이름이었고, 엠마는 남편의 실수를 단순한 말실수로 받아들였습니다.\n\n사연이 알려지자 누리꾼들은 \"나라면 결혼식장을 박차고 나갔을 것\", \"정말 최악의 결혼식이다\", \"절대 안 돼\" 등의 반응을 보이며 신랑을 비판했습니다.\n\n일각에서는 신랑의 행동을 의심하는 반응도 나왔습니다.\n\n자신을 당시 결혼식 목격자라고 밝힌 한 누리꾼은 \"솔직히 말해서 혹시라도 이게 이상하다고 생각한다면 당신 생각이 맞다\"며 \"정말 이상한 일이고 때로는 가장 단순한 단서가 가장 큰 거짓말을 드러내기도 한다\"고 주장했습니다.\n\n누리꾼들의 걱정이 이어지자 엠마는 \"만약 모르는 이름이었다면 의문이 생겼을 것\"이라며 \"제 여동생은 저의 가장 친한 친구니까 전혀 걱정하지 않는다\"고 밝혔습니다.\n\n하지만 전문가들은 결혼식 당일의 부적절한 행동이 더 심각한 문제로 이어질 징조가 될 수 있다고 경고했습니다.\n\n심리학자 칼리 도버는 \"이러한 행동은 여성의 감정이 존중받지 못하고 상대로부터 존중받지 못하는 일부 관계의 불평등을 드러낼 수 있다\"고 설명했습니다.\n\n#결혼 #결혼식 #혼인서약 #여동생\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n강서연(yeon03@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261004/AKR20261002155740Upo_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "강서연",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261002155740Upo#comments",
-          "content": "결혼식을 하고 있는 엠마의 모습.[사진=뉴욕포스트][사진=뉴욕포스트] 호주의 한 신랑이 결혼식 혼인 서약을 하면서 신부 이름이 아닌 신부의 동생 이름을 불러 엄청난 오해와 논란의 중심에 선 사건이 벌어졌습니다. 현지시간 1일 뉴욕포스트에 따르면 호주 브리즈번에 사는 엠마는 자신의 SNS 계정에 \"시점: 당신은 결혼식 단상에 서 있는데 남편이 당신의 이름을 잘못 부르는 상황\"이라는 글과 함께 결혼식 영상을 올렸습니다. 이 영상에는 신랑이 신...",
-          "contentSnippet": "결혼식을 하고 있는 엠마의 모습.[사진=뉴욕포스트][사진=뉴욕포스트] 호주의 한 신랑이 결혼식 혼인 서약을 하면서 신부 이름이 아닌 신부의 동생 이름을 불러 엄청난 오해와 논란의 중심에 선 사건이 벌어졌습니다. 현지시간 1일 뉴욕포스트에 따르면 호주 브리즈번에 사는 엠마는 자신의 SNS 계정에 \"시점: 당신은 결혼식 단상에 서 있는데 남편이 당신의 이름을 잘못 부르는 상황\"이라는 글과 함께 결혼식 영상을 올렸습니다. 이 영상에는 신랑이 신...",
-          "guid": "AKR20261002155740Upo",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-04T21:03:04.000Z"
-        },
-        {
-          "creator": "석승현",
-          "title": "\"치와와 군견입니다\"…멕시코 국가방위대 '코만도' 화제",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261001174622rA2",
-          "pubDate": "Mon, 05 Oct 2026 06:01:03 +0900",
-          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261004/AKR20261001174622rA2_01_i.jpg\" alt=\"\"><span class=\"yna_title\">멕시코 국가방위대 소속인 치와와 '코만도'</span><span class=\"yna_caption\">[로이터=연합뉴스. 재판매 및 DB 금지]</span><span class=\"yna_description\">[로이터=연합뉴스. 재판매 및 DB 금지]</span></div>\n멕시코 국가방위대에 몸무게 6.8kg의 치와와 한 마리가 수색구조견으로 합류해 화제가 되고 있습니다.\n\n현지시간 지난달 29일 로이터통신에 따르면, 멕시코시티 국가방위대 본부에서 '코만도'란 이름의 생후 13개월 된 치와와가 방위대의 가장 작고 이색적인 신병으로 공개됐습니다.\n\n코만도는 키 21㎝에 불과하지만 소형 고글과 카메라, 맞춤형 전술 조끼까지 갖추고 훈련에 참여하고 있습니다.\n\n최근 공개된 훈련 영상에서는 계단을 오르고 장애물을 빠르게 통과하는 모습도 보였습니다.\n\n국가방위대 관계자는 코만도가 “덩치가 커야 방위대에서 복무할 수 있다”는 고정관념을 깨는 동시에 시민들에게 친근한 이미지를 전달하는 역할도 하고 있다고 설명했습니다.\n\n코만도는 약 6개월 전 반려견을 돌보기 어려워진 고령의 주인에게서 국가방위대가 입양했습니다. 입양된 곳은 치와와 견종의 이름이 유래된 멕시코 북부 치와와주입니다.\n\n국가방위대 소속 군견 약 350마리 대부분이 셰퍼드나 리트리버와 같은 대형견인 만큼 치와와인 코만도의 합류는 이례적입니다.\n\n코만도는 멕시코 독립기념일 행진과 각종 공식 행사에도 모습을 드러냈고, 최근에는 캐릭터와 밈까지 등장하며 인기를 끌고 있습니다.\n\n#멕시코 #국가방위대 #치와와 #수색구조견 #코만도 #해외화제\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n석승현(stone@yna.co.kr)",
-          "content:encodedSnippet": "멕시코 국가방위대 소속인 치와와 '코만도'[로이터=연합뉴스. 재판매 및 DB 금지][로이터=연합뉴스. 재판매 및 DB 금지]\n멕시코 국가방위대에 몸무게 6.8kg의 치와와 한 마리가 수색구조견으로 합류해 화제가 되고 있습니다.\n\n현지시간 지난달 29일 로이터통신에 따르면, 멕시코시티 국가방위대 본부에서 '코만도'란 이름의 생후 13개월 된 치와와가 방위대의 가장 작고 이색적인 신병으로 공개됐습니다.\n\n코만도는 키 21㎝에 불과하지만 소형 고글과 카메라, 맞춤형 전술 조끼까지 갖추고 훈련에 참여하고 있습니다.\n\n최근 공개된 훈련 영상에서는 계단을 오르고 장애물을 빠르게 통과하는 모습도 보였습니다.\n\n국가방위대 관계자는 코만도가 “덩치가 커야 방위대에서 복무할 수 있다”는 고정관념을 깨는 동시에 시민들에게 친근한 이미지를 전달하는 역할도 하고 있다고 설명했습니다.\n\n코만도는 약 6개월 전 반려견을 돌보기 어려워진 고령의 주인에게서 국가방위대가 입양했습니다. 입양된 곳은 치와와 견종의 이름이 유래된 멕시코 북부 치와와주입니다.\n\n국가방위대 소속 군견 약 350마리 대부분이 셰퍼드나 리트리버와 같은 대형견인 만큼 치와와인 코만도의 합류는 이례적입니다.\n\n코만도는 멕시코 독립기념일 행진과 각종 공식 행사에도 모습을 드러냈고, 최근에는 캐릭터와 밈까지 등장하며 인기를 끌고 있습니다.\n\n#멕시코 #국가방위대 #치와와 #수색구조견 #코만도 #해외화제\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n석승현(stone@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261004/AKR20261001174622rA2_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "석승현",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261001174622rA2#comments",
-          "content": "멕시코 국가방위대 소속인 치와와 '코만도'[로이터=연합뉴스. 재판매 및 DB 금지][로이터=연합뉴스. 재판매 및 DB 금지] 멕시코 국가방위대에 몸무게 6.8kg의 치와와 한 마리가 수색구조견으로 합류해 화제가 되고 있습니다. 현지시간 지난달 29일 로이터통신에 따르면, 멕시코시티 국가방위대 본부에서 '코만도'란 이름의 생후 13개월 된 치와와가 방위대의 가장 작고 이색적인 신병으로 공개됐습니다. 코만도는 키 21㎝에 불과하지만 소형 고글...",
-          "contentSnippet": "멕시코 국가방위대 소속인 치와와 '코만도'[로이터=연합뉴스. 재판매 및 DB 금지][로이터=연합뉴스. 재판매 및 DB 금지] 멕시코 국가방위대에 몸무게 6.8kg의 치와와 한 마리가 수색구조견으로 합류해 화제가 되고 있습니다. 현지시간 지난달 29일 로이터통신에 따르면, 멕시코시티 국가방위대 본부에서 '코만도'란 이름의 생후 13개월 된 치와와가 방위대의 가장 작고 이색적인 신병으로 공개됐습니다. 코만도는 키 21㎝에 불과하지만 소형 고글...",
-          "guid": "AKR20261001174622rA2",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-04T21:01:03.000Z"
-        },
-        {
-          "creator": "김선홍",
-          "title": "네타냐후, 이스라엘행 외국 민항기 보안절차 전면 재검토 지시",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261005044804OuE",
-          "pubDate": "Mon, 05 Oct 2026 04:48:06 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261004/AKR20261005044804OuE_01_i.jpg\" alt=\"\"><span class=\"yna_title\">베냐민 네타냐후 이스라엘 총리</span><span class=\"yna_caption\">[로이터=연합뉴스 자료사진. 재판매 및 DB 금지]</span><span class=\"yna_description\">[로이터=연합뉴스 자료사진. 재판매 및 DB 금지]</span></div>\n베냐민 네타냐후 이스라엘 총리가 자국으로 오는 외국 민간 항공편의 보안 절차에 대해 전면 재검토를 지시했다고 현지시간 4일 타임스오브이스라엘이 보도했습니다.\n\n네타냐후 총리는 이날 슈무엘 벤 에즈라 국가안보위원회(NSC) 의장에게 이스라엘행 외국 민간 항공편의 보안 조치와 관련해 조사관을 임명해 모든 측면에서 철저한 재검토를 하도록 지시했다고 총리실이 밝혔습니다.\n\n이번 조치는 지난달 30일 아랍에미리트(UAE) 두바이에서 출발해 이스라엘 텔아비브로 향하던 플라이두바이 여객기 FZ1073편에서 오만 국적 부기장이 기장에게 흉기를 휘두르고 고의 추락을 시도한 사건 이후 항공기 보안 우려가 커진 상황에서 이뤄졌습니다.\n\n이스라엘은 오만과 같이 이스라엘과 공식 외교관계를 맺고 있지 않은 국가 출신 조종사들이 이스라엘행 항공편을 운항하는 것을 허용하지 않는 것으로 알려졌습니다.\n\n하지만 미리 레게브 이스라엘 교통부 장관은 최근 현지 방송에 이스라엘로 운항하는 모든 외국 항공사 조종사에 대한 신원조사를 할 역량이 없으며 신원 조사 책임은 보안 당국에 있다고 주장했습니다.\n\n이에 대해 교통부가 수년간 외국 항공편에 대한 보안 점검을 제대로 수행하지 않는 등 보안 부문 대비 태세에 문제가 있다는 감사기구의 경고 등이 이미 있었다는 주장도 제기됐습니다.\n\n\n\n#네타냐후 #이스라엘\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김선홍(redsun@yna.co.kr)",
-          "content:encodedSnippet": "베냐민 네타냐후 이스라엘 총리[로이터=연합뉴스 자료사진. 재판매 및 DB 금지][로이터=연합뉴스 자료사진. 재판매 및 DB 금지]\n베냐민 네타냐후 이스라엘 총리가 자국으로 오는 외국 민간 항공편의 보안 절차에 대해 전면 재검토를 지시했다고 현지시간 4일 타임스오브이스라엘이 보도했습니다.\n\n네타냐후 총리는 이날 슈무엘 벤 에즈라 국가안보위원회(NSC) 의장에게 이스라엘행 외국 민간 항공편의 보안 조치와 관련해 조사관을 임명해 모든 측면에서 철저한 재검토를 하도록 지시했다고 총리실이 밝혔습니다.\n\n이번 조치는 지난달 30일 아랍에미리트(UAE) 두바이에서 출발해 이스라엘 텔아비브로 향하던 플라이두바이 여객기 FZ1073편에서 오만 국적 부기장이 기장에게 흉기를 휘두르고 고의 추락을 시도한 사건 이후 항공기 보안 우려가 커진 상황에서 이뤄졌습니다.\n\n이스라엘은 오만과 같이 이스라엘과 공식 외교관계를 맺고 있지 않은 국가 출신 조종사들이 이스라엘행 항공편을 운항하는 것을 허용하지 않는 것으로 알려졌습니다.\n\n하지만 미리 레게브 이스라엘 교통부 장관은 최근 현지 방송에 이스라엘로 운항하는 모든 외국 항공사 조종사에 대한 신원조사를 할 역량이 없으며 신원 조사 책임은 보안 당국에 있다고 주장했습니다.\n\n이에 대해 교통부가 수년간 외국 항공편에 대한 보안 점검을 제대로 수행하지 않는 등 보안 부문 대비 태세에 문제가 있다는 감사기구의 경고 등이 이미 있었다는 주장도 제기됐습니다.\n\n\n\n#네타냐후 #이스라엘\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김선홍(redsun@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261004/AKR20261005044804OuE_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "김선홍",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261005044804OuE#comments",
-          "content": "베냐민 네타냐후 이스라엘 총리[로이터=연합뉴스 자료사진. 재판매 및 DB 금지][로이터=연합뉴스 자료사진. 재판매 및 DB 금지] 베냐민 네타냐후 이스라엘 총리가 자국으로 오는 외국 민간 항공편의 보안 절차에 대해 전면 재검토를 지시했다고 현지시간 4일 타임스오브이스라엘이 보도했습니다. 네타냐후 총리는 이날 슈무엘 벤 에즈라 국가안보위원회(NSC) 의장에게 이스라엘행 외국 민간 항공편의 보안 조치와 관련해 조사관을 임명해 모든 측면에서 철...",
-          "contentSnippet": "베냐민 네타냐후 이스라엘 총리[로이터=연합뉴스 자료사진. 재판매 및 DB 금지][로이터=연합뉴스 자료사진. 재판매 및 DB 금지] 베냐민 네타냐후 이스라엘 총리가 자국으로 오는 외국 민간 항공편의 보안 절차에 대해 전면 재검토를 지시했다고 현지시간 4일 타임스오브이스라엘이 보도했습니다. 네타냐후 총리는 이날 슈무엘 벤 에즈라 국가안보위원회(NSC) 의장에게 이스라엘행 외국 민간 항공편의 보안 조치와 관련해 조사관을 임명해 모든 측면에서 철...",
-          "guid": "AKR20261005044804OuE",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-04T19:48:06.000Z"
-        },
-        {
-          "creator": "김선홍",
-          "title": "재개봉 '어벤져스: 엔드게임', 세계 최고흥행 영화 자리 재탈환",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261005044439Apk",
-          "pubDate": "Mon, 05 Oct 2026 04:44:39 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261004/AKR20261005044439Apk_01_i.jpg\" alt=\"\"><span class=\"yna_title\">'어벤져스: 엔드게임' 영화 속 장면</span><span class=\"yna_caption\">[마블스튜디오/디즈니 제공. AP=연합뉴스 자료사진. 재판매 및 DB 금지]</span><span class=\"yna_description\">[마블스튜디오/디즈니 제공. AP=연합뉴스 자료사진. 재판매 및 DB 금지]</span></div>\n마블 스튜디오의 슈퍼히어로 영화 '어벤져스: 엔드게임'이 재개봉을 통해 전 세계 박스오피스 1위 자리를 되찾았습니다.\n\n현지시간 4일 미 영화 데이터사이트 더넘버스에 따르면 '어벤져스: 엔드게임'은 누적 매출 29억2천550만 달러(약 3조9천275억원)를 기록해 기존 1위였던 제임스 캐머런 감독의 영화 '아바타'(2009)를 제치고 정상을 탈환했습니다.\n\n아바타의 누적 흥행수입은 29억2천370만 달러(약 3조9천251억원)로, 두 영화의 매출 격차는 200만 달러도 되지 않습니다.\n\n'어벤져스: 엔드게임'은 북미 지역에서 약 8억9천460만 달러, 북미 이외 지역에서 20억3천90만 달러의 수익을 얻었습니다.\n\n이번 흥행 순위 역전은 마블이 신작 '어벤져스: 둠스데이'의 올 연말 개봉을 앞두고 기대감을 높이기 위해 단행한 전 세계 재개봉의 영향입니다.\n\n미 연예매체 버라이어티는 이번 재상영으로 거둬들인 영화표 수입만 1억2천600만 달러에 달한다고 전했습니다.\n\n'어벤져스: 엔드게임 앙코르'라는 제목으로 극장에 걸린 이 영화에는 기존 상영분에 더해 '부록 영상' 등 일부 추가 영상도 포함됐습니다.\n\n당초 '어벤져스: 엔드게임'은 지난 2019년 첫선을 보일 당시까지 10년간 1위 자리를 지켜왔던 '아바타'의 기록을 깨고 최고 흥행작 자리를 차지했습니다.\n\n그러나 '아바타'가 후속작 개봉을 앞둔 2021년 재상영을 선택하면서 다시 순위가 뒤바뀌었다가, 이번에 5년 만에 재역전한 겁니다.\n\n\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261004/AKR20261005044439Apk_02_i.jpg\" alt=\"\"><span class=\"yna_title\">'어벤져스: 엔드게임 앙코르' 포스터</span><span class=\"yna_caption\">[디즈니 제공. 재판매 및 DB 금지]</span><span class=\"yna_description\">[디즈니 제공. 재판매 및 DB 금지]</span></div>\n역대 박스오피스 3위 작품은 최근 개봉한 '스파이더맨: 브랜드 뉴 데이'가 차지했고 이어 '아바타: 물의 길', '타이타닉', '스타워즈 에피소드 7: 깨어난 포스', '어벤져스: 인피니티 워', '너자2', '스파이더맨: 노 웨이 홈', '주토피아2' 등이 뒤를 이었습니다.\n\n디즈니는 역대 박스오피스 최상위 10편 중 중 7편을 보유하고 있습니다.\n\n'어벤져스: 엔드게임'과 '아바타'는 모두 디즈니가 지식재산권을 확보한 영화로 '아바타'는 원래 20세기 폭스사가 배급한 작품이지만, 지난 2019년 디즈니가 이 회사를 인수하며 영화 자산을 확보했습니다.\n\n'어벤져스: 엔드게임'의 재개봉과 '스파이더맨: 브랜드 뉴 데이'의 흥행으로 마블 시네마틱 유니버스(MCU) 프랜차이즈 영화 38편의 전체 누적 수익은 350억7천만 달러(약 47조800억원)를 돌파했습니다.\n\n\n\n#어벤져스 #앤드게임 #재개봉 #박스오피스 #아바타 #디즈니\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김선홍(redsun@yna.co.kr)",
-          "content:encodedSnippet": "'어벤져스: 엔드게임' 영화 속 장면[마블스튜디오/디즈니 제공. AP=연합뉴스 자료사진. 재판매 및 DB 금지][마블스튜디오/디즈니 제공. AP=연합뉴스 자료사진. 재판매 및 DB 금지]\n'어벤져스: 엔드게임 앙코르' 포스터[디즈니 제공. 재판매 및 DB 금지][디즈니 제공. 재판매 및 DB 금지]\n역대 박스오피스 3위 작품은 최근 개봉한 '스파이더맨: 브랜드 뉴 데이'가 차지했고 이어 '아바타: 물의 길', '타이타닉', '스타워즈 에피소드 7: 깨어난 포스', '어벤져스: 인피니티 워', '너자2', '스파이더맨: 노 웨이 홈', '주토피아2' 등이 뒤를 이었습니다.\n\n디즈니는 역대 박스오피스 최상위 10편 중 중 7편을 보유하고 있습니다.\n\n'어벤져스: 엔드게임'과 '아바타'는 모두 디즈니가 지식재산권을 확보한 영화로 '아바타'는 원래 20세기 폭스사가 배급한 작품이지만, 지난 2019년 디즈니가 이 회사를 인수하며 영화 자산을 확보했습니다.\n\n'어벤져스: 엔드게임'의 재개봉과 '스파이더맨: 브랜드 뉴 데이'의 흥행으로 마블 시네마틱 유니버스(MCU) 프랜차이즈 영화 38편의 전체 누적 수익은 350억7천만 달러(약 47조800억원)를 돌파했습니다.\n\n\n\n#어벤져스 #앤드게임 #재개봉 #박스오피스 #아바타 #디즈니\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김선홍(redsun@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261004/AKR20261005044439Apk_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "김선홍",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261005044439Apk#comments",
-          "content": "'어벤져스: 엔드게임' 영화 속 장면[마블스튜디오/디즈니 제공. AP=연합뉴스 자료사진. 재판매 및 DB 금지][마블스튜디오/디즈니 제공. AP=연합뉴스 자료사진. 재판매 및 DB 금지] 마블 스튜디오의 슈퍼히어로 영화 '어벤져스: 엔드게임'이 재개봉을 통해 전 세계 박스오피스 1위 자리를 되찾았습니다. 현지시간 4일 미 영화 데이터사이트 더넘버스에 따르면 '어벤져스: 엔드게임'은 누적 매출 29억2천550만 달러(약 3조9천275억원)를...",
-          "contentSnippet": "'어벤져스: 엔드게임' 영화 속 장면[마블스튜디오/디즈니 제공. AP=연합뉴스 자료사진. 재판매 및 DB 금지][마블스튜디오/디즈니 제공. AP=연합뉴스 자료사진. 재판매 및 DB 금지] 마블 스튜디오의 슈퍼히어로 영화 '어벤져스: 엔드게임'이 재개봉을 통해 전 세계 박스오피스 1위 자리를 되찾았습니다. 현지시간 4일 미 영화 데이터사이트 더넘버스에 따르면 '어벤져스: 엔드게임'은 누적 매출 29억2천550만 달러(약 3조9천275억원)를...",
-          "guid": "AKR20261005044439Apk",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-04T19:44:39.000Z"
-        },
-        {
-          "creator": "김선홍",
-          "title": "\"호르무즈 해협서 또 유조선 피격\"…이달만 최소 4차례",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261005043849pfY",
-          "pubDate": "Mon, 05 Oct 2026 04:38:50 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261004/AKR20261005043849pfY_01_i.jpg\" alt=\"\"><span class=\"yna_title\">호르무즈 해협</span><span class=\"yna_caption\">[로이터=연합뉴스 자료사진. 재판매 및 DB 금지]</span><span class=\"yna_description\">[로이터=연합뉴스 자료사진. 재판매 및 DB 금지]</span></div>\n호르무즈 해협에서 유조선 1척이 또다시 미상의 발사체에 맞았다고 영국 해사무역기구(UKMTO)가 현지시간 4일 밝혔습니다.\n\n이달 들어 UKMTO가 공개한 호르무즈 해협 선박 피격 사례는 이번이 4번째입니다.\n\nUKMTO는 이날 \"호르무즈해협에서 사고 보고가 접수됐다\"며 \"유조선 한척이 미상의 발사체에 피격돼 기관실이 손상됐다\"고 밝혔습니다.\n\n이어 \"선원들은 안전하고 환경 피해는 보고되지 않았으며 당국이 조사하고 있다\"고 덧붙였습니다.\n\n해당 사건이 정확히 언제 어느 지점에서 발생했는지는 구체적으로 밝히지 않았습니다.\n\nUKMTO는 이번 사건을 포함해 이달 들어 4차례 호르무즈 해협 인근 선박 피격 사례를 전파했습니다.\n\nUKMTO는 지난 1일 호르무즈 해협을 지나던 유조선이 미상의 발사체에 맞아 화재가 발생했으나 선원들은 안전하다는 제3자 보고가 들어왔다고 2일 밝혔습니다.\n\nUKMTO는 당시 선박 이름이나 선적 등 상세한 정보를 공개하지 않았으나, 해당 선박은 쿠웨이트 선적 유조선 카지마3호로 알려졌습니다.\n\n2일에는 호르무즈 해협을 빠져나가던 한 유조선이 역시 미상의 발사체에 맞아 작은 화재와 정전이 발생했고, 약 10시간 뒤 다른 원유 운반선이 오만 동쪽 4해리 지점에서 미상 발사체에 맞았다는 보고가 들어왔다고 전파했습니다.\n\n이와 관련해 이란 파르스 통신은 지난 3일 보도에서 이란 이슬람 혁명수비대가 최근 5일간 최소한 7척의 유조선을 공격했으며 이들 선박에는 카지마3호 등 쿠웨이트 선박 2척과 아랍에미리트(UAE) 선박 3척이 포함됐다고 전했습니다.\n\n\n\n#호르무즈 #이란 #피격\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김선홍(redsun@yna.co.kr)",
-          "content:encodedSnippet": "호르무즈 해협[로이터=연합뉴스 자료사진. 재판매 및 DB 금지][로이터=연합뉴스 자료사진. 재판매 및 DB 금지]\n호르무즈 해협에서 유조선 1척이 또다시 미상의 발사체에 맞았다고 영국 해사무역기구(UKMTO)가 현지시간 4일 밝혔습니다.\n\n이달 들어 UKMTO가 공개한 호르무즈 해협 선박 피격 사례는 이번이 4번째입니다.\n\nUKMTO는 이날 \"호르무즈해협에서 사고 보고가 접수됐다\"며 \"유조선 한척이 미상의 발사체에 피격돼 기관실이 손상됐다\"고 밝혔습니다.\n\n이어 \"선원들은 안전하고 환경 피해는 보고되지 않았으며 당국이 조사하고 있다\"고 덧붙였습니다.\n\n해당 사건이 정확히 언제 어느 지점에서 발생했는지는 구체적으로 밝히지 않았습니다.\n\nUKMTO는 이번 사건을 포함해 이달 들어 4차례 호르무즈 해협 인근 선박 피격 사례를 전파했습니다.\n\nUKMTO는 지난 1일 호르무즈 해협을 지나던 유조선이 미상의 발사체에 맞아 화재가 발생했으나 선원들은 안전하다는 제3자 보고가 들어왔다고 2일 밝혔습니다.\n\nUKMTO는 당시 선박 이름이나 선적 등 상세한 정보를 공개하지 않았으나, 해당 선박은 쿠웨이트 선적 유조선 카지마3호로 알려졌습니다.\n\n2일에는 호르무즈 해협을 빠져나가던 한 유조선이 역시 미상의 발사체에 맞아 작은 화재와 정전이 발생했고, 약 10시간 뒤 다른 원유 운반선이 오만 동쪽 4해리 지점에서 미상 발사체에 맞았다는 보고가 들어왔다고 전파했습니다.\n\n이와 관련해 이란 파르스 통신은 지난 3일 보도에서 이란 이슬람 혁명수비대가 최근 5일간 최소한 7척의 유조선을 공격했으며 이들 선박에는 카지마3호 등 쿠웨이트 선박 2척과 아랍에미리트(UAE) 선박 3척이 포함됐다고 전했습니다.\n\n\n\n#호르무즈 #이란 #피격\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김선홍(redsun@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261004/AKR20261005043849pfY_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "김선홍",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261005043849pfY#comments",
-          "content": "호르무즈 해협[로이터=연합뉴스 자료사진. 재판매 및 DB 금지][로이터=연합뉴스 자료사진. 재판매 및 DB 금지] 호르무즈 해협에서 유조선 1척이 또다시 미상의 발사체에 맞았다고 영국 해사무역기구(UKMTO)가 현지시간 4일 밝혔습니다. 이달 들어 UKMTO가 공개한 호르무즈 해협 선박 피격 사례는 이번이 4번째입니다. UKMTO는 이날 \"호르무즈해협에서 사고 보고가 접수됐다\"며 \"유조선 한척이 미상의 발사체에 피격돼 기관실이 손상됐다\"고...",
-          "contentSnippet": "호르무즈 해협[로이터=연합뉴스 자료사진. 재판매 및 DB 금지][로이터=연합뉴스 자료사진. 재판매 및 DB 금지] 호르무즈 해협에서 유조선 1척이 또다시 미상의 발사체에 맞았다고 영국 해사무역기구(UKMTO)가 현지시간 4일 밝혔습니다. 이달 들어 UKMTO가 공개한 호르무즈 해협 선박 피격 사례는 이번이 4번째입니다. UKMTO는 이날 \"호르무즈해협에서 사고 보고가 접수됐다\"며 \"유조선 한척이 미상의 발사체에 피격돼 기관실이 손상됐다\"고...",
-          "guid": "AKR20261005043849pfY",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-04T19:38:50.000Z"
-        },
-        {
-          "creator": "김선홍",
-          "title": "트럼프 \"여론조사, 항상 MAGA 과소평가\"…지지층 투표 독려",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261005040832SBg",
-          "pubDate": "Mon, 05 Oct 2026 04:08:34 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261004/AKR20261005040832SBg_01_i.jpg\" alt=\"\"><span class=\"yna_title\">중간선거 유세하는 트럼프</span><span class=\"yna_caption\">[AP=연합뉴스. 재판매 및 DB 금지]</span><span class=\"yna_description\">[AP=연합뉴스. 재판매 및 DB 금지]</span></div>\n도널드 트럼프 미국 대통령이 현지시간 4일 고유가와 고물가 등으로 지지율이 역대 최저치라는 각종 여론조사 결과를 부인하면서 자신의 강성 지지층인 '마가'(MAGA)를 향해 중간선거 투표를 독려했습니다.\n\n트럼프 대통령은 이날 소셜미디어 트루스소셜에 \"여론조사들은 항상 마가를 과소평가해왔다\"며 \"그들(여론조사업체)은 투표하는 걸 억누르려 했지만 나는 7개 경합주와 전국 득표, 카운티의 86%, 올해 예비선거(경선)의 99%를 모두 이겼다\"고 적었습니다.\n\n선거를 앞두고 여론조사 업체들이 숨은 트럼프 지지층을 제대로 잡아내지 못했다고 지적한 뒤 자신이 승리한 2024년 대선 결과와 올해 공화당 중간선거 경선에서 자신이 지지한 후보의 당선율을 거론한 겁니다.\n\n실제 2024년 대선 때 각종 여론조사에서는 트럼프 대통령과 민주당 대통령 후보이던 카멀라 해리스 전 부통령이 막판까지 초박빙의 접전을 벌이는 것으로 나타났지만, 개표 시작 이후 트럼프 대통령이 우위를 유지하면서 압승하는 결과가 나왔습니다.\n\n트럼프 대통령은 그러면서 \"나는 투표용지에 올라 있다\"고 밝혔습니다.\n\n이는 자신이 이번 중간선거에 출마한 것처럼 생각하고 투표할 것을 지지층에 독려한 것으로 풀이됩니다.\n\n특히 트럼프 대통령은 민주당 출신 빌 클린턴 전 대통령의 정치 고문이었다가 공화당 진영으로 옮긴 선거 전략가 딕 모리스가 자신에게 전한 긍정적 중간선거 전망 발언을 구체적으로 인용했습니다.\n\n트럼프 캠프에서 오랫동안 자체 여론조사를 담당해온 짐 맥러플린의 조사 결과를 모리스가 인용해 \"2025년 11월 이래 맥러플린이 실시한 월간 여론조사에서 당신의 지지율은 항상 47~50%였다\"고 밝혔다고 트럼프 대통령은 전했습니다.\n\n모리스는 특히 이달 맥러플린의 여론조사에서 트럼프 대통령의 지지율이 49%이며, 일반 투표 예상은 민주당 50%, 공화당 48%로 나타났다면서 \"이 수치만으로 공화당이 하원을 지키기에 충분하다. 과거 기록은 민주당 우세가 4%포인트 미만이면 공화당의 하원 승리 가능성이 크다는 걸 보여준다\"고 말했다고 트럼프 대통령은 주장했습니다.\n\n하지만 트럼프 대통령이 전한 자신의 지지율 '49%'는 미국 언론들이 일반적으로 인용하는 선거 여론조사 결과와 차이가 큽니다.\n\n이날 뉴욕타임스(NYT)가 집계하는 최신 여론조사 결과 평균을 보면 트럼프 대통령 지지율은 37%, 비지지율은 61%로 나타났습니다.\n\n\n\n#트럼프 #중간선거 #여론조사\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김선홍(redsun@yna.co.kr)",
-          "content:encodedSnippet": "중간선거 유세하는 트럼프[AP=연합뉴스. 재판매 및 DB 금지][AP=연합뉴스. 재판매 및 DB 금지]\n도널드 트럼프 미국 대통령이 현지시간 4일 고유가와 고물가 등으로 지지율이 역대 최저치라는 각종 여론조사 결과를 부인하면서 자신의 강성 지지층인 '마가'(MAGA)를 향해 중간선거 투표를 독려했습니다.\n\n트럼프 대통령은 이날 소셜미디어 트루스소셜에 \"여론조사들은 항상 마가를 과소평가해왔다\"며 \"그들(여론조사업체)은 투표하는 걸 억누르려 했지만 나는 7개 경합주와 전국 득표, 카운티의 86%, 올해 예비선거(경선)의 99%를 모두 이겼다\"고 적었습니다.\n\n선거를 앞두고 여론조사 업체들이 숨은 트럼프 지지층을 제대로 잡아내지 못했다고 지적한 뒤 자신이 승리한 2024년 대선 결과와 올해 공화당 중간선거 경선에서 자신이 지지한 후보의 당선율을 거론한 겁니다.\n\n실제 2024년 대선 때 각종 여론조사에서는 트럼프 대통령과 민주당 대통령 후보이던 카멀라 해리스 전 부통령이 막판까지 초박빙의 접전을 벌이는 것으로 나타났지만, 개표 시작 이후 트럼프 대통령이 우위를 유지하면서 압승하는 결과가 나왔습니다.\n\n트럼프 대통령은 그러면서 \"나는 투표용지에 올라 있다\"고 밝혔습니다.\n\n이는 자신이 이번 중간선거에 출마한 것처럼 생각하고 투표할 것을 지지층에 독려한 것으로 풀이됩니다.\n\n특히 트럼프 대통령은 민주당 출신 빌 클린턴 전 대통령의 정치 고문이었다가 공화당 진영으로 옮긴 선거 전략가 딕 모리스가 자신에게 전한 긍정적 중간선거 전망 발언을 구체적으로 인용했습니다.\n\n트럼프 캠프에서 오랫동안 자체 여론조사를 담당해온 짐 맥러플린의 조사 결과를 모리스가 인용해 \"2025년 11월 이래 맥러플린이 실시한 월간 여론조사에서 당신의 지지율은 항상 47~50%였다\"고 밝혔다고 트럼프 대통령은 전했습니다.\n\n모리스는 특히 이달 맥러플린의 여론조사에서 트럼프 대통령의 지지율이 49%이며, 일반 투표 예상은 민주당 50%, 공화당 48%로 나타났다면서 \"이 수치만으로 공화당이 하원을 지키기에 충분하다. 과거 기록은 민주당 우세가 4%포인트 미만이면 공화당의 하원 승리 가능성이 크다는 걸 보여준다\"고 말했다고 트럼프 대통령은 주장했습니다.\n\n하지만 트럼프 대통령이 전한 자신의 지지율 '49%'는 미국 언론들이 일반적으로 인용하는 선거 여론조사 결과와 차이가 큽니다.\n\n이날 뉴욕타임스(NYT)가 집계하는 최신 여론조사 결과 평균을 보면 트럼프 대통령 지지율은 37%, 비지지율은 61%로 나타났습니다.\n\n\n\n#트럼프 #중간선거 #여론조사\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김선홍(redsun@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261004/AKR20261005040832SBg_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "김선홍",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261005040832SBg#comments",
-          "content": "중간선거 유세하는 트럼프[AP=연합뉴스. 재판매 및 DB 금지][AP=연합뉴스. 재판매 및 DB 금지] 도널드 트럼프 미국 대통령이 현지시간 4일 고유가와 고물가 등으로 지지율이 역대 최저치라는 각종 여론조사 결과를 부인하면서 자신의 강성 지지층인 '마가'(MAGA)를 향해 중간선거 투표를 독려했습니다. 트럼프 대통령은 이날 소셜미디어 트루스소셜에 \"여론조사들은 항상 마가를 과소평가해왔다\"며 \"그들(여론조사업체)은 투표하는 걸 억누르려 했...",
-          "contentSnippet": "중간선거 유세하는 트럼프[AP=연합뉴스. 재판매 및 DB 금지][AP=연합뉴스. 재판매 및 DB 금지] 도널드 트럼프 미국 대통령이 현지시간 4일 고유가와 고물가 등으로 지지율이 역대 최저치라는 각종 여론조사 결과를 부인하면서 자신의 강성 지지층인 '마가'(MAGA)를 향해 중간선거 투표를 독려했습니다. 트럼프 대통령은 이날 소셜미디어 트루스소셜에 \"여론조사들은 항상 마가를 과소평가해왔다\"며 \"그들(여론조사업체)은 투표하는 걸 억누르려 했...",
-          "guid": "AKR20261005040832SBg",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-04T19:08:34.000Z"
+          "isoDate": "2026-10-05T09:18:42.000Z"
         }
       ]
     }
