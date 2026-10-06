@@ -7,6 +7,166 @@
       "priority": 1,
       "data": [
         {
+          "title": "Async Rust: 스케줄러는 어디에 있는가?",
+          "link": "https://news.hada.io/topic?id=34882",
+          "pubDate": "2026-10-06T08:04:32.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>동시성에는 스케줄링을 담당할 런타임이 필요</strong>하며, async 대신 스레드를 쓰면 그 역할이 Tokio에서 커널로 옮겨갈 뿐임</li>\n<li>Rust가 <strong>런타임을 크레이트로 분리</strong>한 것은 임베디드, <code>no_std</code>, FFI 비용, 제로 비용 추상화라는 목표에 맞는 선택이지만, 런타임 간...</p>",
+          "contentSnippet": "동시성에는 스케줄링을 담당할 런타임이 필요하며, async 대신 스레드를 쓰면 그 역할이 Tokio에서 커널로 옮겨갈 뿐임\nRust가 런타임을 크레이트로 분리한 것은 임베디드, no_std, FFI 비용, 제로 비용 추상화라는 목표에 맞는 선택이지만, 런타임 간...",
+          "id": "https://news.hada.io/topic?id=34882",
+          "isoDate": "2026-10-06T08:04:32.000Z"
+        },
+        {
+          "title": "Photosuite 프로젝트에 대한 Photopea 개발자의 견해",
+          "link": "https://news.hada.io/topic?id=34881",
+          "pubDate": "2026-10-06T07:31:47.000Z",
+          "author": "neo",
+          "content": "Photosuite 프로젝트에 대한 Photopea 개발자의 견해",
+          "contentSnippet": "Photosuite 프로젝트에 대한 Photopea 개발자의 견해",
+          "id": "https://news.hada.io/topic?id=34881",
+          "isoDate": "2026-10-06T07:31:47.000Z"
+        },
+        {
+          "title": "Show GN: 오마이스피드 - 테슬라 기본 브라우저에서 쓸 수 있는 과속 단속 카메라 알림용 웹지도",
+          "link": "https://news.hada.io/topic?id=34880",
+          "pubDate": "2026-10-06T07:07:05.000Z",
+          "author": "tomlee",
+          "content": "<p>테슬라를 타면서 불편했던 게 하나 있습니다. 프리미엄 커넥티비티를 구독하지 않으면 과속 단속 카메라 경고음이 없습니다. 그래서 브라우저에서 바로 열리는 지도를 만들었습니다.</p>\n<p>• 설치·가입·광고가 없습니다. 주소만 열면 됩니다<br />\n• 위치는 브라우저 밖으로 나가지 않습니다. GPS 값을 서버로 보내",
+          "contentSnippet": "테슬라를 타면서 불편했던 게 하나 있습니다. 프리미엄 커넥티비티를 구독하지 않으면 과속 단속 카메라 경고음이 없습니다. 그래서 브라우저에서 바로 열리는 지도를 만들었습니다.\n• 설치·가입·광고가 없습니다. 주소만 열면 됩니다\n• 위치는 브라우저 밖으로 나가지 않습니다. GPS 값을 서버로 보내",
+          "id": "https://news.hada.io/topic?id=34880",
+          "isoDate": "2026-10-06T07:07:05.000Z"
+        },
+        {
+          "title": "Iroh의 글로벌 콘텐츠 탐색",
+          "link": "https://news.hada.io/topic?id=34879",
+          "pubDate": "2026-10-06T07:04:07.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Iroh가 <strong>BitTorrent Mainline DHT</strong>와 별도 주소 인덱스를 결합해, BLAKE3 해시로 콘텐츠 제공자를 찾고 데이터를 내려받는 실험적 시스템을 구현함</li>\n<li>콘텐츠 탐색과 전송을 분리하고, <strong>iroh-blobs의 BLAKE3 검증 스트리밍</strong>으로 데이터를 검증함. DHT가 잘못된 제공자를 반...</p>",
+          "contentSnippet": "Iroh가 BitTorrent Mainline DHT와 별도 주소 인덱스를 결합해, BLAKE3 해시로 콘텐츠 제공자를 찾고 데이터를 내려받는 실험적 시스템을 구현함\n콘텐츠 탐색과 전송을 분리하고, iroh-blobs의 BLAKE3 검증 스트리밍으로 데이터를 검증함. DHT가 잘못된 제공자를 반...",
+          "id": "https://news.hada.io/topic?id=34879",
+          "isoDate": "2026-10-06T07:04:07.000Z"
+        },
+        {
+          "title": "Common Lisp이 이제 최고의 프로그래밍 언어인 이유",
+          "link": "https://news.hada.io/topic?id=34876",
+          "pubDate": "2026-10-06T06:38:20.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>LLM이 코드 작성 속도를 높이면서 개발의 병목은 <strong>프로그램이 실제로 작동하는지 확인하는 피드백 루프</strong>로 옮겨감. Common Lisp은 실행 중인 프로그램의 함수를 바로 교체할 수 있어 재빌드와 재시작에 드는 대기를 줄임</li>\n<li><strong>디버거에서 수정 후 실행을 재개하는 방식</strong>은 ...</p>",
+          "contentSnippet": "LLM이 코드 작성 속도를 높이면서 개발의 병목은 프로그램이 실제로 작동하는지 확인하는 피드백 루프로 옮겨감. Common Lisp은 실행 중인 프로그램의 함수를 바로 교체할 수 있어 재빌드와 재시작에 드는 대기를 줄임\n디버거에서 수정 후 실행을 재개하는 방식은 ...",
+          "id": "https://news.hada.io/topic?id=34876",
+          "isoDate": "2026-10-06T06:38:20.000Z"
+        },
+        {
+          "title": "높은 경유 가격으로 단 30일 만에 트럭 운송업체 16곳 파산",
+          "link": "https://news.hada.io/topic?id=34875",
+          "pubDate": "2026-10-06T06:35:20.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>경유 가격 상승이 기존 경영난에 결정타가 되면서, 미국 화물 운송업체 <strong>16곳이 8월 말부터 9월 초 사이 파산보호를 신청</strong>함</li>\n<li>수년간 운송업 수익성 악화와 운영비 상승을 겪은 업체들은 <strong>연료비 부담</strong>까지 떠안았으며, 소규모 업체는 치열한 경쟁 때문에 추가 비용을 고...</p>",
+          "contentSnippet": "경유 가격 상승이 기존 경영난에 결정타가 되면서, 미국 화물 운송업체 16곳이 8월 말부터 9월 초 사이 파산보호를 신청함\n수년간 운송업 수익성 악화와 운영비 상승을 겪은 업체들은 연료비 부담까지 떠안았으며, 소규모 업체는 치열한 경쟁 때문에 추가 비용을 고...",
+          "id": "https://news.hada.io/topic?id=34875",
+          "isoDate": "2026-10-06T06:35:20.000Z"
+        },
+        {
+          "title": "Gleam은 더 이상 Erlang 소스 코드로 컴파일하지 않음",
+          "link": "https://news.hada.io/topic?id=34874",
+          "pubDate": "2026-10-06T06:02:23.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>Gleam v1.19.0</strong>은 Erlang 소스 코드 대신 중간 표현인 <strong>Erlang abstract forms</strong>를 생성하며, Erlang 컴파일러의 토큰화와 파싱 단계를 건너뛰어 빌드 시간을 줄임</li>\n<li>런타임의 <strong>소스 위치 메타데이터</strong>가 원본 Gleam 코드와 정확히 대응해, BEAM 오류 보고...</p>",
+          "contentSnippet": "Gleam v1.19.0은 Erlang 소스 코드 대신 중간 표현인 Erlang abstract forms를 생성하며, Erlang 컴파일러의 토큰화와 파싱 단계를 건너뛰어 빌드 시간을 줄임\n런타임의 소스 위치 메타데이터가 원본 Gleam 코드와 정확히 대응해, BEAM 오류 보고...",
+          "id": "https://news.hada.io/topic?id=34874",
+          "isoDate": "2026-10-06T06:02:23.000Z"
+        },
+        {
+          "title": "Example.com, 수십 년 만에 최대 규모의 리디자인 공개",
+          "link": "https://news.hada.io/topic?id=34872",
+          "pubDate": "2026-10-06T04:08:16.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>문서 예시용 예약 도메인인 <strong>example.com</strong>이 2026년 9월 28일 정적 영어 페이지에서 <strong>6개 언어를 5초마다 전환하는 페이지</strong>로 바뀜</li>\n<li>언어 전환은 JavaScript로 처리하며, 글자마다 별도의 <code>span</code>과 점진적인 <strong><code>transition-delay</code></strong>...</p>",
+          "contentSnippet": "문서 예시용 예약 도메인인 example.com이 2026년 9월 28일 정적 영어 페이지에서 6개 언어를 5초마다 전환하는 페이지로 바뀜\n언어 전환은 JavaScript로 처리하며, 글자마다 별도의 span과 점진적인 transition-delay...",
+          "id": "https://news.hada.io/topic?id=34872",
+          "isoDate": "2026-10-06T04:08:16.000Z"
+        },
+        {
+          "title": "수학의 미래",
+          "link": "https://news.hada.io/topic?id=34870",
+          "pubDate": "2026-10-06T02:46:40.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>AI의 도움으로 기존의 출판 가능한 수준의 결과를 쉽게 만들어내면서, <strong>문제 해결과 수학적 이해의 증진</strong>이 분리되고 있음. 중요한 질문은 수학이 여전히 필요한지가 아니라 AI 시대에 어떻게 이해를 추구할지임</li>\n<li><strong>더 어려운 문제</strong>에 도전할 여지는 여전히 큼. 현재 AI는...</p>",
+          "contentSnippet": "AI의 도움으로 기존의 출판 가능한 수준의 결과를 쉽게 만들어내면서, 문제 해결과 수학적 이해의 증진이 분리되고 있음. 중요한 질문은 수학이 여전히 필요한지가 아니라 AI 시대에 어떻게 이해를 추구할지임\n더 어려운 문제에 도전할 여지는 여전히 큼. 현재 AI는...",
+          "id": "https://news.hada.io/topic?id=34870",
+          "isoDate": "2026-10-06T02:46:40.000Z"
+        },
+        {
+          "title": "텍사스의 한 도시, Flock 사용 관련 공공기록 공개에 200만 달러 요구",
+          "link": "https://news.hada.io/topic?id=34869",
+          "pubDate": "2026-10-06T02:43:40.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>텍사스주 <strong>North Richland Hills</strong>가 경찰의 Flock 사용 관련 공공기록을 요청한 단체에 <strong>230만 달러</strong>를 요구함. 관련 통신 자료를 검색하는 데 약 14년치 노동이 필요하다는 근거를 내세움</li>\n<li><strong>공공기록 공개 비용</strong>은 기관마다 크게 다르며, 고액 수수료가...</p>",
+          "contentSnippet": "텍사스주 North Richland Hills가 경찰의 Flock 사용 관련 공공기록을 요청한 단체에 230만 달러를 요구함. 관련 통신 자료를 검색하는 데 약 14년치 노동이 필요하다는 근거를 내세움\n공공기록 공개 비용은 기관마다 크게 다르며, 고액 수수료가...",
+          "id": "https://news.hada.io/topic?id=34869",
+          "isoDate": "2026-10-06T02:43:40.000Z"
+        },
+        {
+          "title": "Dust - 역전파 없이 트랜스포머 사전학습하기",
+          "link": "https://news.hada.io/topic?id=34868",
+          "pubDate": "2026-10-06T02:40:40.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>Dust</strong>는 토큰마다 활성값에 독립적인 잡음을 더하고 손실 감소량을 보상으로 삼아 그래디언트를 추정하는 0차 최적화 방법으로, 큰 탐색 집단을 사용하면 사전학습에서 역전파에 근접하거나 일부 설정에서 더 낮은 손실을 달성함</li>\n<li><strong>가상 집단(virtual population)</strong> 방식...</p>",
+          "contentSnippet": "Dust는 토큰마다 활성값에 독립적인 잡음을 더하고 손실 감소량을 보상으로 삼아 그래디언트를 추정하는 0차 최적화 방법으로, 큰 탐색 집단을 사용하면 사전학습에서 역전파에 근접하거나 일부 설정에서 더 낮은 손실을 달성함\n가상 집단(virtual population) 방식...",
+          "id": "https://news.hada.io/topic?id=34868",
+          "isoDate": "2026-10-06T02:40:40.000Z"
+        },
+        {
+          "title": "Show GN: 애드덱 - 앱별 애드몹 수익을 폰 한 화면에서 보는 안드로이드 대시보드",
+          "link": "https://news.hada.io/topic?id=34867",
+          "pubDate": "2026-10-06T02:07:52.000Z",
+          "author": "eltacrew",
+          "content": "<p>안드로이드 앱 여러 개를 혼자 운영하고 있습니다. 아침마다 PC로 AdMob 콘솔에 들어가 앱 고르고 기간 바꿔 가며 어제 수익을 확인하는 게 번거로워서, 폰에서 바로 보려고 만들었습니다.</p>\n<p>홈에서 오늘·어제·이번 달 수익과 전일 대비 증감을 보고, 앱은 수익 순으로 정렬됩니다. 앱을 누르면 그 앱의 최근 7일",
+          "contentSnippet": "안드로이드 앱 여러 개를 혼자 운영하고 있습니다. 아침마다 PC로 AdMob 콘솔에 들어가 앱 고르고 기간 바꿔 가며 어제 수익을 확인하는 게 번거로워서, 폰에서 바로 보려고 만들었습니다.\n홈에서 오늘·어제·이번 달 수익과 전일 대비 증감을 보고, 앱은 수익 순으로 정렬됩니다. 앱을 누르면 그 앱의 최근 7일",
+          "id": "https://news.hada.io/topic?id=34867",
+          "isoDate": "2026-10-06T02:07:52.000Z"
+        },
+        {
+          "title": "AI 시대, 매니저의 길",
+          "link": "https://news.hada.io/topic?id=34865",
+          "pubDate": "2026-10-06T01:55:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>AI로 한 사람이 여러 사람 분량의 코드를 만들 수 있어도, <strong>팀이 같은 방향으로 움직이게 하는 일</strong>까지 자동으로 해결되지는 않음. 관리자의 기술적 판단과 사람 관리는 여전히 필요함</li>\n<li>AI는 업무 기록을 쉽게 보여주지만 <strong>가시성과 이해는 다름</strong>. 요약만 읽으면 맥락과...</p>",
+          "contentSnippet": "AI로 한 사람이 여러 사람 분량의 코드를 만들 수 있어도, 팀이 같은 방향으로 움직이게 하는 일까지 자동으로 해결되지는 않음. 관리자의 기술적 판단과 사람 관리는 여전히 필요함\nAI는 업무 기록을 쉽게 보여주지만 가시성과 이해는 다름. 요약만 읽으면 맥락과...",
+          "id": "https://news.hada.io/topic?id=34865",
+          "isoDate": "2026-10-06T01:55:01.000Z"
+        },
+        {
+          "title": "디자인 총괄이 진짜 디자인 책임자는 아니다",
+          "link": "https://news.hada.io/topic?id=34864",
+          "pubDate": "2026-10-06T01:45:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>회사의 진짜 <strong>디자인 책임자는 직함을 가진 사람이 아니라, 디자인에 관심이 깊고 최종 결정권을 가진 사람</strong>임. 경영진이 관심을 두지 않으면 디자인 시스템이나 리뷰 절차만으로 품질을 지키기 어려움</li>\n<li>디자인 총괄의 일은 그 관심을 <strong>특정 사람이 없어도 유지되는 원칙과 규칙...</p>",
+          "contentSnippet": "회사의 진짜 디자인 책임자는 직함을 가진 사람이 아니라, 디자인에 관심이 깊고 최종 결정권을 가진 사람임. 경영진이 관심을 두지 않으면 디자인 시스템이나 리뷰 절차만으로 품질을 지키기 어려움\n디자인 총괄의 일은 그 관심을 특정 사람이 없어도 유지되는 원칙과 규칙...",
+          "id": "https://news.hada.io/topic?id=34864",
+          "isoDate": "2026-10-06T01:45:02.000Z"
+        },
+        {
+          "title": "샌프란시스코의 두 지점 사이에서 가장 평탄한 경로 찾기",
+          "link": "https://news.hada.io/topic?id=34862",
+          "pubDate": "2026-10-06T01:31:38.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>Flatten SF</strong>는 샌프란시스코에서 출발지와 목적지 사이의 최단 경로부터 가장 평탄한 경로까지, 거리와 오르막의 절충에 따라 경로를 탐색하는 서비스임</li>\n<li><strong>16만 개 도로 구간</strong>을 대상으로 브라우저에서 경로를 계산하며, USGS의 1m 라이다 고도 데이터와 Overture / Op...</p>",
+          "contentSnippet": "Flatten SF는 샌프란시스코에서 출발지와 목적지 사이의 최단 경로부터 가장 평탄한 경로까지, 거리와 오르막의 절충에 따라 경로를 탐색하는 서비스임\n16만 개 도로 구간을 대상으로 브라우저에서 경로를 계산하며, USGS의 1m 라이다 고도 데이터와 Overture / Op...",
+          "id": "https://news.hada.io/topic?id=34862",
+          "isoDate": "2026-10-06T01:31:38.000Z"
+        },
+        {
+          "title": "고처리량 AI-SQL 엔진 구축하기",
+          "link": "https://news.hada.io/topic?id=34860",
+          "pubDate": "2026-10-06T01:05:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>Quail</strong>은 SQL 안에서 AI로 문서를 분류하거나 문서 간 관계를 판별하는 엔진으로, 데이터 전체에 걸친 수십만~수백만 번의 모델 호출을 빠르게 처리함</li>\n<li>호출을 하나씩 추론 서버에 보내는 대신 <strong>쿼리 실행 계획과 모델 추론을 함께 최적화</strong>해, 같은 문서를 반복해서 읽...</p>",
+          "contentSnippet": "Quail은 SQL 안에서 AI로 문서를 분류하거나 문서 간 관계를 판별하는 엔진으로, 데이터 전체에 걸친 수십만~수백만 번의 모델 호출을 빠르게 처리함\n호출을 하나씩 추론 서버에 보내는 대신 쿼리 실행 계획과 모델 추론을 함께 최적화해, 같은 문서를 반복해서 읽...",
+          "id": "https://news.hada.io/topic?id=34860",
+          "isoDate": "2026-10-06T01:05:02.000Z"
+        },
+        {
           "title": "Hack에서 Skip까지: 모든 것을 증분 처리하기",
           "link": "https://news.hada.io/topic?id=34859",
           "pubDate": "2026-10-06T00:55:02.000Z",
@@ -345,166 +505,6 @@
           "contentSnippet": "Huawei와 Qualcomm이 5G, 컴퓨팅, AI, 네트워킹 등 여러 기술 분야의 특허 포트폴리오를 상호 사용하도록 허용하는 다년간 라이선스 계약을 체결함\n계약에는 Qualcomm이 컴퓨팅, AI, 네트워킹 및 기타 기술 분야의 Huawei 미국 특허 일부를 매입하...",
           "id": "https://news.hada.io/topic?id=34824",
           "isoDate": "2026-10-05T12:37:38.000Z"
-        },
-        {
-          "title": "유럽의 새로운 로봇 유니콘: 독일 RobCo, 기업가치 약 1.5조원 달성",
-          "link": "https://news.hada.io/topic?id=34823",
-          "pubDate": "2026-10-05T12:34:38.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>독일 뮌헨 기반 <strong>RobCo</strong>가 신규 투자와 장기근속 직원의 구주 매각을 결합한 거래로 기업가치 <strong>10억 달러($1b)를 돌파</strong>했으며, 9개월 만에 가치가 두 배로 늘어남</li>\n<li><strong>서비스형 로봇(Robotics-as-a-Service)</strong> 모델을 통해 제조업체가 대규모 초기 투자 없이...</p>",
-          "contentSnippet": "독일 뮌헨 기반 RobCo가 신규 투자와 장기근속 직원의 구주 매각을 결합한 거래로 기업가치 10억 달러($1b)를 돌파했으며, 9개월 만에 가치가 두 배로 늘어남\n서비스형 로봇(Robotics-as-a-Service) 모델을 통해 제조업체가 대규모 초기 투자 없이...",
-          "id": "https://news.hada.io/topic?id=34823",
-          "isoDate": "2026-10-05T12:34:38.000Z"
-        },
-        {
-          "title": "MCPB로 로컬 MCP 서버를 Claude Desktop 원클릭 확장으로 만들기",
-          "link": "https://news.hada.io/topic?id=34822",
-          "pubDate": "2026-10-05T12:33:48.000Z",
-          "author": "hyunide",
-          "content": "<p>Anthropic 공식 문서. MCPB(.mcpb)는 로컬 MCP 서버와 manifest.json을 담은 zip 하나로, Claude Desktop이 브라우저 확장처럼 설치하는 방법입니다.(파일 더블클릭, 창에 드래그, 또는 Settings → Extensions → Advanced settings → Install Extension…). 서버는 사용자 PC에서 stdio로 돌아 로컬 파일·로컬 도구...</p>",
-          "contentSnippet": "Anthropic 공식 문서. MCPB(.mcpb)는 로컬 MCP 서버와 manifest.json을 담은 zip 하나로, Claude Desktop이 브라우저 확장처럼 설치하는 방법입니다.(파일 더블클릭, 창에 드래그, 또는 Settings → Extensions → Advanced settings → Install Extension…). 서버는 사용자 PC에서 stdio로 돌아 로컬 파일·로컬 도구...",
-          "id": "https://news.hada.io/topic?id=34822",
-          "isoDate": "2026-10-05T12:33:48.000Z"
-        },
-        {
-          "title": "내 35mm 필름 스캔 파이프라인 자동화하기",
-          "link": "https://news.hada.io/topic?id=34821",
-          "pubDate": "2026-10-05T11:33:47.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>한 롤 36장을 스캔하고 편집하는 데 평균 <strong>4시간</strong>이 걸리던 작업에서, VueScan을 이용한 수동 스캔은 유지하고 이후 변환, 먼지 제거, 메타데이터 생성과 게시를 자동화함</li>\n<li>처음에는 <strong>Claude가 SANE으로 스캐너를 직접 제어</strong>하게 했지만, 스캔 영역의 X/Y 방향을 반대로...</p>",
-          "contentSnippet": "한 롤 36장을 스캔하고 편집하는 데 평균 4시간이 걸리던 작업에서, VueScan을 이용한 수동 스캔은 유지하고 이후 변환, 먼지 제거, 메타데이터 생성과 게시를 자동화함\n처음에는 Claude가 SANE으로 스캐너를 직접 제어하게 했지만, 스캔 영역의 X/Y 방향을 반대로...",
-          "id": "https://news.hada.io/topic?id=34821",
-          "isoDate": "2026-10-05T11:33:47.000Z"
-        },
-        {
-          "title": "덴마크 인구등록부, 약 880만 명 개인정보 무단 접근 확인",
-          "link": "https://news.hada.io/topic?id=34820",
-          "pubDate": "2026-10-05T10:32:35.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>덴마크 <strong>중앙인구등록부(CPR)</strong> 에서 약 <strong>880만 명</strong>의 이름, 주소, CPR 번호 등에 대한 무단 접근이 확인됨</li>\n<li>외부인이 덴마크 기업에 부여된 <strong>합법적인 CPR 조회 권한</strong>을 악용해 정보에 접근함</li>\n<li>조사 결과, <strong>이름과 주소 보호</strong>를 ...</p>",
-          "contentSnippet": "덴마크 중앙인구등록부(CPR) 에서 약 880만 명의 이름, 주소, CPR 번호 등에 대한 무단 접근이 확인됨\n외부인이 덴마크 기업에 부여된 합법적인 CPR 조회 권한을 악용해 정보에 접근함\n조사 결과, 이름과 주소 보호를 ...",
-          "id": "https://news.hada.io/topic?id=34820",
-          "isoDate": "2026-10-05T10:32:35.000Z"
-        },
-        {
-          "title": "Android에서 시스템 수준으로 광고 차단하기",
-          "link": "https://news.hada.io/topic?id=34819",
-          "pubDate": "2026-10-05T10:07:38.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>시스템 수준 광고 차단</strong>은 특정 브라우저뿐 아니라 모든 앱과 Android 자체에 적용되며, 대개 DNS 조회 결과를 바꿔 알려진 광고 서버에 연결하지 못하게 함</li>\n<li>선택지는 <strong>광고 차단 DNS 서비스</strong>, 광고 차단 기능이 있는 VPN, 루팅 없이 사용하는 차단 앱, 루팅 후 <code...</p>",
-          "contentSnippet": "시스템 수준 광고 차단은 특정 브라우저뿐 아니라 모든 앱과 Android 자체에 적용되며, 대개 DNS 조회 결과를 바꿔 알려진 광고 서버에 연결하지 못하게 함\n선택지는 광고 차단 DNS 서비스, 광고 차단 기능이 있는 VPN, 루팅 없이 사용하는 차단 앱, 루팅 후",
-          "id": "https://news.hada.io/topic?id=34819",
-          "isoDate": "2026-10-05T10:07:38.000Z"
-        },
-        {
-          "title": "ncdu - NCurses 디스크 사용량 분석 도구(업데이트된 포크)",
-          "link": "https://news.hada.io/topic?id=34818",
-          "pubDate": "2026-10-05T10:04:38.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>ncdu</strong>는 ncurses 인터페이스로 디스크 사용량을 분석하며, 그래픽 환경이 없는 원격 서버에서 공간을 많이 차지하는 항목을 찾도록 설계됨</li>\n<li>원격 서버뿐 아니라 <strong>일반 데스크톱 환경</strong>에서도 유용한 도구임</li>\n<li><strong>빠르고 단순하며 사용하기 쉬운 도구</stron...</p>",
-          "contentSnippet": "ncdu는 ncurses 인터페이스로 디스크 사용량을 분석하며, 그래픽 환경이 없는 원격 서버에서 공간을 많이 차지하는 항목을 찾도록 설계됨\n원격 서버뿐 아니라 일반 데스크톱 환경에서도 유용한 도구임\n빠르고 단순하며 사용하기 쉬운 도구",
-          "id": "https://news.hada.io/topic?id=34818",
-          "isoDate": "2026-10-05T10:04:38.000Z"
-        },
-        {
-          "title": "스왑으로 발생한 Go 가비지 컬렉터의 40ms 정지",
-          "link": "https://news.hada.io/topic?id=34816",
-          "pubDate": "2026-10-05T08:41:37.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Go GC가 <strong>전체 실행 정지(STW)</strong> 중 읽는 힙 외부 메타데이터도 스왑으로 밀려날 수 있으며, 이를 다시 읽는 과정에서 최대 <strong>40ms 정지</strong>가 발생함</li>\n<li>커널 6.8과 MGLRU를 사용한 Hetzner 실험에서 정지 시간 중앙값은 약 <strong>51µs</strong>였지만, 최악의 정지에서는 ...</p>",
-          "contentSnippet": "Go GC가 전체 실행 정지(STW) 중 읽는 힙 외부 메타데이터도 스왑으로 밀려날 수 있으며, 이를 다시 읽는 과정에서 최대 40ms 정지가 발생함\n커널 6.8과 MGLRU를 사용한 Hetzner 실험에서 정지 시간 중앙값은 약 51µs였지만, 최악의 정지에서는 ...",
-          "id": "https://news.hada.io/topic?id=34816",
-          "isoDate": "2026-10-05T08:41:37.000Z"
-        },
-        {
-          "title": "SQLDoom - 오리지널 Doom을 SQL로 포팅하기",
-          "link": "https://news.hada.io/topic?id=34815",
-          "pubDate": "2026-10-05T08:38:37.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>SQLDoom</strong>은 1993년 Doom의 게임 로직과 렌더러를 SQL로 옮겨 <strong>CedarDB 안에서 실행</strong>함. Python 클라이언트는 입력, 타이밍과 완성된 화면 표시만 담당함</li>\n<li>게임 로직은 원작과 같은 <strong>35Hz</strong>로 실행하고, 320×200 화면을 노트북에서 보통 <strong>60FPS</s...</p>",
-          "contentSnippet": "SQLDoom은 1993년 Doom의 게임 로직과 렌더러를 SQL로 옮겨 CedarDB 안에서 실행함. Python 클라이언트는 입력, 타이밍과 완성된 화면 표시만 담당함\n게임 로직은 원작과 같은 35Hz로 실행하고, 320×200 화면을 노트북에서 보통 60FPS",
-          "id": "https://news.hada.io/topic?id=34815",
-          "isoDate": "2026-10-05T08:38:37.000Z"
-        },
-        {
-          "title": "AI로 의도, 품질, 예술성을 확장하는 법 [영상]",
-          "link": "https://news.hada.io/topic?id=34813",
-          "pubDate": "2026-10-05T07:36:16.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>AI로 누구나 빠르게 제품을 만드는 시대</strong>에는 맥락과 개성 없이 외형만 그럴듯한 ‘좀비 UI’가 늘어날 수 있음</li>\n<li>AI는 고유한 브랜드와 사용자 맥락보다 <strong>흔하고 그럴듯한 패턴</strong>을 재현하기 쉬우며, 빠르고 세련된 결과물이 품질의 부족함을 가릴 수 있음</li>\n<li>브랜...</p>",
-          "contentSnippet": "AI로 누구나 빠르게 제품을 만드는 시대에는 맥락과 개성 없이 외형만 그럴듯한 ‘좀비 UI’가 늘어날 수 있음\nAI는 고유한 브랜드와 사용자 맥락보다 흔하고 그럴듯한 패턴을 재현하기 쉬우며, 빠르고 세련된 결과물이 품질의 부족함을 가릴 수 있음\n브랜...",
-          "id": "https://news.hada.io/topic?id=34813",
-          "isoDate": "2026-10-05T07:36:16.000Z"
-        },
-        {
-          "title": "블라인드사이트, 의식 없는 지능과의 첫 접촉을 그린 하드 SF",
-          "link": "https://news.hada.io/topic?id=34811",
-          "pubDate": "2026-10-05T06:43:03.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>Blindsight</strong>는 외계 문명과의 첫 접촉을 통해 지능과 의식의 관계를 탐구하는 하드 SF 소설로, 인간보다 지능이 높지만 자의식은 없는 존재를 등장시킴</li>\n<li>2082년 지구에서 정체불명의 외계 현상이 관측된 뒤, <strong>Theseus</strong> 탐사선의 강화 인간 전문가들이 신호를 추적해 외...</p>",
-          "contentSnippet": "Blindsight는 외계 문명과의 첫 접촉을 통해 지능과 의식의 관계를 탐구하는 하드 SF 소설로, 인간보다 지능이 높지만 자의식은 없는 존재를 등장시킴\n2082년 지구에서 정체불명의 외계 현상이 관측된 뒤, Theseus 탐사선의 강화 인간 전문가들이 신호를 추적해 외...",
-          "id": "https://news.hada.io/topic?id=34811",
-          "isoDate": "2026-10-05T06:43:03.000Z"
-        },
-        {
-          "title": "프록시 소프트웨어 Xray-core, 인증서 검증 우회 취약점 반년간 은폐 의혹",
-          "link": "https://news.hada.io/topic?id=34810",
-          "pubDate": "2026-10-05T06:40:03.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>취약점 신고자는 <strong>Xray-core</strong>가 인증서 고정 로직의 검증 우회 취약점을 비공개 신고받아 수정하고도 사용자에게 알리지 않았다고 비판함</li>\n<li>2026년 1월 기존 인증서 체인 고정 옵션을 <strong><code>pinnedPeerCertSha256</code></strong> 으로 교체하면서 취약점이 유입됐으며, 기존 옵...</p>",
-          "contentSnippet": "취약점 신고자는 Xray-core가 인증서 고정 로직의 검증 우회 취약점을 비공개 신고받아 수정하고도 사용자에게 알리지 않았다고 비판함\n2026년 1월 기존 인증서 체인 고정 옵션을 pinnedPeerCertSha256 으로 교체하면서 취약점이 유입됐으며, 기존 옵...",
-          "id": "https://news.hada.io/topic?id=34810",
-          "isoDate": "2026-10-05T06:40:03.000Z"
-        },
-        {
-          "title": "ArtCraft Apps - Rust로 작성한 Adobe 호환 오픈소스 도구 모음",
-          "link": "https://news.hada.io/topic?id=34809",
-          "pubDate": "2026-10-05T06:37:03.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>ArtCraft 팀이 이미지 편집부터 페이지 레이아웃까지 다루는 <strong>무료 오픈소스 창작 앱 7종</strong>을 개발 중이며, 모두 Rust로 처음부터 작성함</li>\n<li><strong>PhotoCraft와 PrintCraft는 초기 알파 단계</strong>이고, 나머지 5종은 개발 중임</li>\n<li>데스크톱 앱은 <strong>Electron이나 웹뷰 없...</p>",
-          "contentSnippet": "ArtCraft 팀이 이미지 편집부터 페이지 레이아웃까지 다루는 무료 오픈소스 창작 앱 7종을 개발 중이며, 모두 Rust로 처음부터 작성함\nPhotoCraft와 PrintCraft는 초기 알파 단계이고, 나머지 5종은 개발 중임\n데스크톱 앱은 Electron이나 웹뷰 없...",
-          "id": "https://news.hada.io/topic?id=34809",
-          "isoDate": "2026-10-05T06:37:03.000Z"
-        },
-        {
-          "title": "폐업 이후 온라인에 공개된 애니메이션 자료 디지털 아카이브",
-          "link": "https://news.hada.io/topic?id=34807",
-          "pubDate": "2026-10-05T05:31:19.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>폐업한 <strong>Tippett Studios</strong>와 Phil Tippett의 스톱모션 작업 자료가 <strong>Internet Archive</strong>에 공개돼 무료로 열람할 수 있음</li>\n<li>익명의 구매자 <strong>TippettFan</strong>이 폐업 경매에서 디스크 보관철을 구입하고, 중복을 제외한 주요 디스크 <strong>90장</strong>을 IS...</p>",
-          "contentSnippet": "폐업한 Tippett Studios와 Phil Tippett의 스톱모션 작업 자료가 Internet Archive에 공개돼 무료로 열람할 수 있음\n익명의 구매자 TippettFan이 폐업 경매에서 디스크 보관철을 구입하고, 중복을 제외한 주요 디스크 90장을 IS...",
-          "id": "https://news.hada.io/topic?id=34807",
-          "isoDate": "2026-10-05T05:31:19.000Z"
-        },
-        {
-          "title": "자율주행 데이터의 진짜 문제는 크기가 아니다",
-          "link": "https://news.hada.io/topic?id=34805",
-          "pubDate": "2026-10-05T04:51:08.000Z",
-          "author": "sanspareilsmyn",
-          "content": "<ul>\n<li>자율주행 데이터의 가장 어려운 문제는 데이터의 <strong>크기 자체가 아니라 의미를 보존하는 것</strong>이다.</li>\n<li>센서 데이터는 서로 다른 주기와 시계를 사용하기 때문에, 카메라·LiDAR·Radar 데이터를 정확한 시간 관계로 묶는 것이 생각보다 어렵다.</li>\n<li>주행 데이터의 대부분은 반복적이고 지...</p>",
-          "contentSnippet": "자율주행 데이터의 가장 어려운 문제는 데이터의 크기 자체가 아니라 의미를 보존하는 것이다.\n센서 데이터는 서로 다른 주기와 시계를 사용하기 때문에, 카메라·LiDAR·Radar 데이터를 정확한 시간 관계로 묶는 것이 생각보다 어렵다.\n주행 데이터의 대부분은 반복적이고 지...",
-          "id": "https://news.hada.io/topic?id=34805",
-          "isoDate": "2026-10-05T04:51:08.000Z"
-        },
-        {
-          "title": "이르쿠츠크 연구소 직원 페스트 사망 후 약 200명 의학적 관찰",
-          "link": "https://news.hada.io/topic?id=34804",
-          "pubDate": "2026-10-05T04:32:48.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>러시아 이르쿠츠크 지역에서 <strong>연구소 직원이 페스트로 사망</strong>한 뒤, 접촉 가능성이 있는 약 200명이 의학적 관찰 대상이 됨</li>\n<li>사망한 직원은 검사용 시료를 채취하다 <strong>살아 있는 세균이 담긴 시험관을 실수로 깨뜨렸다</strong>고 의료진에게 말한 것으로 전해짐</li>\n<li>언론은 ...</p>",
-          "contentSnippet": "러시아 이르쿠츠크 지역에서 연구소 직원이 페스트로 사망한 뒤, 접촉 가능성이 있는 약 200명이 의학적 관찰 대상이 됨\n사망한 직원은 검사용 시료를 채취하다 살아 있는 세균이 담긴 시험관을 실수로 깨뜨렸다고 의료진에게 말한 것으로 전해짐\n언론은 ...",
-          "id": "https://news.hada.io/topic?id=34804",
-          "isoDate": "2026-10-05T04:32:48.000Z"
-        },
-        {
-          "title": "Show GN: Alpine-Code - 에이전트가 쓸 도구를 직접 개발해 커스터마이징 가능한 코딩 에이전트를 만들었습니다. ...",
-          "link": "https://news.hada.io/topic?id=34803",
-          "pubDate": "2026-10-05T04:28:09.000Z",
-          "author": "goddessana",
-          "content": "<h2>Alpine-Code 가 뭐냐?</h2>\n<p>폴더를 열고 하고 싶은 걸 말하면 파일을 읽고, 고치고, 제대로 되는지 확인까지 하는 오픈소스(MIT) AI 코딩 에이전트를 만들었습니다.<br />\nCodex Desktop, Claude Desktop 의 오픈소스 대안입니다.</p>\n<h2>코딩을 잘 몰라도 쓸 수 있게 만들어봤어요.</h2>\n<ul>\n<li>앱이 한국어로",
-          "contentSnippet": "Alpine-Code 가 뭐냐?\n폴더를 열고 하고 싶은 걸 말하면 파일을 읽고, 고치고, 제대로 되는지 확인까지 하는 오픈소스(MIT) AI 코딩 에이전트를 만들었습니다.\n코딩을 잘 몰라도 쓸 수 있게 만들어봤어요.\n앱이 한국어로",
-          "id": "https://news.hada.io/topic?id=34803",
-          "isoDate": "2026-10-05T04:28:09.000Z"
         }
       ]
     },
@@ -681,235 +681,235 @@
       "category": "news",
       "data": [
         {
-          "creator": "이성섭",
-          "title": "\"나는 재일한국인 3세 출신 국적자\"…일 공명당 대표, 논란에 대응",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261006103232iX3",
-          "pubDate": "Tue, 06 Oct 2026 10:32:33 +0900",
-          "content:encoded": "\n\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261006/AKR20261006103232iX3_01_i.jpg\" alt=\"\"><span class=\"yna_title\">오카모토 미쓰나리 일본 공명당 대표</span><span class=\"yna_caption\">[교도 연합뉴스 자료사진]</span><span class=\"yna_description\">[교도 연합뉴스 자료사진]</span></div>\n일본 공명당의 오카모토 미쓰나리 신임 대표가 자신이 재일한국인 3세 출신이며 대학 졸업 당시 일본 국적을 취득했다고 밝혔습니다.\n\n오늘(6일) 교도통신에 따르면 오카모토 대표는 어제 국회에서 기자들에게 \"정당 대표라는 직책을 맡게 된 만큼 이 시점에 전달할 수 있는 내용은 가능한 한 밝히고 싶었다\"며 이같이 말했습니다.\n\n그는 최근 인터넷상에서 자신의 국적을 둘러싸고 근거 없는 비방과 흑색선전이 잇따른 점도 직접 해명에 나선 이유로 꼽았습니다.\n\n오카모토 대표는 지난 3일 유튜브 채널을 통해 조부모가 한국에서 일본으로 이주했으며, 자신은 사가현에서 태어나 고등학교 때까지 그곳에서 자랐다고 밝혔습니다.\n\n이어 \"일본을 정말 사랑하고 앞으로도 일본에서 살아갈 생각으로 국적을 취득했다\"고 말했습니다.\n\n미국계 대형 투자은행 골드만삭스 출신인 오카모토 대표는 2012년 중의원 선거에서 처음 당선된 이후 내리 6선을 기록하고 있는 중진 정치인입니다.\n\n#공명당 #대표 #재일한국인\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이성섭(leess@yna.co.kr)",
-          "content:encodedSnippet": "오카모토 미쓰나리 일본 공명당 대표[교도 연합뉴스 자료사진][교도 연합뉴스 자료사진]\n일본 공명당의 오카모토 미쓰나리 신임 대표가 자신이 재일한국인 3세 출신이며 대학 졸업 당시 일본 국적을 취득했다고 밝혔습니다.\n\n오늘(6일) 교도통신에 따르면 오카모토 대표는 어제 국회에서 기자들에게 \"정당 대표라는 직책을 맡게 된 만큼 이 시점에 전달할 수 있는 내용은 가능한 한 밝히고 싶었다\"며 이같이 말했습니다.\n\n그는 최근 인터넷상에서 자신의 국적을 둘러싸고 근거 없는 비방과 흑색선전이 잇따른 점도 직접 해명에 나선 이유로 꼽았습니다.\n\n오카모토 대표는 지난 3일 유튜브 채널을 통해 조부모가 한국에서 일본으로 이주했으며, 자신은 사가현에서 태어나 고등학교 때까지 그곳에서 자랐다고 밝혔습니다.\n\n이어 \"일본을 정말 사랑하고 앞으로도 일본에서 살아갈 생각으로 국적을 취득했다\"고 말했습니다.\n\n미국계 대형 투자은행 골드만삭스 출신인 오카모토 대표는 2012년 중의원 선거에서 처음 당선된 이후 내리 6선을 기록하고 있는 중진 정치인입니다.\n\n#공명당 #대표 #재일한국인\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이성섭(leess@yna.co.kr)",
+          "creator": "최진경",
+          "title": "[속보] 노벨물리학상에 '뉴트리노 관측' 프랜시스 할선",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261006185110QBl",
+          "pubDate": "Tue, 06 Oct 2026 18:51:11 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261006/AKR20261006185110QBl_01_i.jpg\" alt=\"\"><span class=\"yna_title\">연합뉴스TV 속보(CG)</span><span class=\"yna_caption\"></span><span class=\"yna_description\"></span></div>\n\n\n\n#노벨상\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최진경(highjean@yna.co.kr)",
+          "content:encodedSnippet": "연합뉴스TV 속보(CG)\n\n\n\n#노벨상\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최진경(highjean@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261006/AKR20261006103232iX3_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261006/AKR20261006185110QBl_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "이성섭",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261006103232iX3#comments",
-          "content": "오카모토 미쓰나리 일본 공명당 대표[교도 연합뉴스 자료사진][교도 연합뉴스 자료사진] 일본 공명당의 오카모토 미쓰나리 신임 대표가 자신이 재일한국인 3세 출신이며 대학 졸업 당시 일본 국적을 취득했다고 밝혔습니다. 오늘(6일) 교도통신에 따르면 오카모토 대표는 어제 국회에서 기자들에게 \"정당 대표라는 직책을 맡게 된 만큼 이 시점에 전달할 수 있는 내용은 가능한 한 밝히고 싶었다\"며 이같이 말했습니다. 그는 최근 인터넷상에서 자신의 국적을...",
-          "contentSnippet": "오카모토 미쓰나리 일본 공명당 대표[교도 연합뉴스 자료사진][교도 연합뉴스 자료사진] 일본 공명당의 오카모토 미쓰나리 신임 대표가 자신이 재일한국인 3세 출신이며 대학 졸업 당시 일본 국적을 취득했다고 밝혔습니다. 오늘(6일) 교도통신에 따르면 오카모토 대표는 어제 국회에서 기자들에게 \"정당 대표라는 직책을 맡게 된 만큼 이 시점에 전달할 수 있는 내용은 가능한 한 밝히고 싶었다\"며 이같이 말했습니다. 그는 최근 인터넷상에서 자신의 국적을...",
-          "guid": "AKR20261006103232iX3",
+          "dc:creator": "최진경",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261006185110QBl#comments",
+          "content": "연합뉴스TV 속보(CG) #노벨상 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 최진경(highjean@yna.co.kr)",
+          "contentSnippet": "연합뉴스TV 속보(CG) #노벨상 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 최진경(highjean@yna.co.kr)",
+          "guid": "AKR20261006185110QBl",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-06T01:32:33.000Z"
-        },
-        {
-          "creator": "이준흠",
-          "title": "[속보] 조희대 \"재제청 요구 헌법 근거 없어…후속 절차 진행 어렵다 판단\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR202610061032133PH",
-          "pubDate": "Tue, 06 Oct 2026 10:32:13 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261006/AKR202610061032133PH_01_i.jpg\" alt=\"\"><span class=\"yna_title\">인사말하는 조희대 대법원장</span><span class=\"yna_caption\">[연합뉴스]</span><span class=\"yna_description\">[연합뉴스]</span></div>\n\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이준흠(humi@yna.co.kr)",
-          "content:encodedSnippet": "인사말하는 조희대 대법원장[연합뉴스][연합뉴스]\n\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이준흠(humi@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261006/AKR202610061032133PH_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "이준흠",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR202610061032133PH#comments",
-          "content": "인사말하는 조희대 대법원장[연합뉴스][연합뉴스] 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 이준흠(humi@yna.co.kr)",
-          "contentSnippet": "인사말하는 조희대 대법원장[연합뉴스][연합뉴스] 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 이준흠(humi@yna.co.kr)",
-          "guid": "AKR202610061032133PH",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-06T01:32:13.000Z"
-        },
-        {
-          "creator": "김길현",
-          "title": "“모두가 이해할 수 있게, 콕! 외국인 안전보건표지” [안전콕]",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261005202158ZSl",
-          "pubDate": "Tue, 06 Oct 2026 10:30:04 +0900",
-          "content:encoded": "언어가 달라도 안전수칙은 모두가 이해할 수 있어야 합니다.\n\n외국인 근로자가 안전수칙을 정확하게 이해하고 실천할 수 있도록,\n\n우리 모두 안전 콕!\n\n외국인 안전보건표지 실천 방법\n\n✅ 외국인 근로자에게 안전보건표지 교육\n\n✅ 이해할 수 있는 언어의 안전보건표지 부착\n\n✅ 안전보건표지에 따른 안전수칙 실천\n\n그리고!\n\n✅ 외국인 근로자가 안전수칙을 정확히 이해하고\n\n현장에서 실천할 수 있도록 함께 확인해 주세요!\n\n“안전은 선택이 아니라, 모두의 약속입니다.” 🟢\n\n지금 바로, 누구나 실천할 수 있는\n\n안전 습관에 함께해 주세요. 콕!\n\n🟢 참여인증 콕! 캠페인 (~10.20.)\n\n여러분의 안전 실천 순간을 기다립니다.\n\n[참여 방법]\n\n① 10~15초 분량의 실천 영상 촬영\n\n② 구글폼 작성 후 제출\n\n▶ 참여하기\n\nhttps://forms.gle/msYQmBRDXGcKPyaP8\n\n다 같이 지켜요 콕!\n\n※ 다음 주제 : 한파 대비 안전수칙 콕!\n\n제보 문의 : rlfgus8907@yna.co.kr\n\n#안전콕 #외국인근로자 #외국인안전 #안전보건표지 #외국어안전보건표지 #안전보건교육 #산업재해예방 #산업안전 #현장안전 #안전문화 #연합뉴스TV #안전보건공단 #고용노동부 #연합TVPLUS\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김길현(rlfgus8907@yna.co.kr)",
-          "content:encodedSnippet": "언어가 달라도 안전수칙은 모두가 이해할 수 있어야 합니다.\n\n외국인 근로자가 안전수칙을 정확하게 이해하고 실천할 수 있도록,\n\n우리 모두 안전 콕!\n\n외국인 안전보건표지 실천 방법\n\n✅ 외국인 근로자에게 안전보건표지 교육\n\n✅ 이해할 수 있는 언어의 안전보건표지 부착\n\n✅ 안전보건표지에 따른 안전수칙 실천\n\n그리고!\n\n✅ 외국인 근로자가 안전수칙을 정확히 이해하고\n\n현장에서 실천할 수 있도록 함께 확인해 주세요!\n\n“안전은 선택이 아니라, 모두의 약속입니다.” 🟢\n\n지금 바로, 누구나 실천할 수 있는\n\n안전 습관에 함께해 주세요. 콕!\n\n🟢 참여인증 콕! 캠페인 (~10.20.)\n\n여러분의 안전 실천 순간을 기다립니다.\n\n[참여 방법]\n\n① 10~15초 분량의 실천 영상 촬영\n\n② 구글폼 작성 후 제출\n\n▶ 참여하기\n\nhttps://forms.gle/msYQmBRDXGcKPyaP8\n\n다 같이 지켜요 콕!\n\n※ 다음 주제 : 한파 대비 안전수칙 콕!\n\n제보 문의 : rlfgus8907@yna.co.kr\n\n#안전콕 #외국인근로자 #외국인안전 #안전보건표지 #외국어안전보건표지 #안전보건교육 #산업재해예방 #산업안전 #현장안전 #안전문화 #연합뉴스TV #안전보건공단 #고용노동부 #연합TVPLUS\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김길현(rlfgus8907@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261006/MYH20261005202158ZSl.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "김길현",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261005202158ZSl#comments",
-          "content": "언어가 달라도 안전수칙은 모두가 이해할 수 있어야 합니다. 외국인 근로자가 안전수칙을 정확하게 이해하고 실천할 수 있도록, 우리 모두 안전 콕! 외국인 안전보건표지 실천 방법 ✅ 외국인 근로자에게 안전보건표지 교육 ✅ 이해할 수 있는 언어의 안전보건표지 부착 ✅ 안전보건표지에 따른 안전수칙 실천 그리고! ✅ 외국인 근로자가 안전수칙을 정확히 이해하고 현장에서 실천할 수 있도록 함께 확인해 주세요! “안전은 선택이 아니라, 모두의 약속입니다...",
-          "contentSnippet": "언어가 달라도 안전수칙은 모두가 이해할 수 있어야 합니다. 외국인 근로자가 안전수칙을 정확하게 이해하고 실천할 수 있도록, 우리 모두 안전 콕! 외국인 안전보건표지 실천 방법 ✅ 외국인 근로자에게 안전보건표지 교육 ✅ 이해할 수 있는 언어의 안전보건표지 부착 ✅ 안전보건표지에 따른 안전수칙 실천 그리고! ✅ 외국인 근로자가 안전수칙을 정확히 이해하고 현장에서 실천할 수 있도록 함께 확인해 주세요! “안전은 선택이 아니라, 모두의 약속입니다...",
-          "guid": "MYH20261005202158ZSl",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-06T01:30:04.000Z"
-        },
-        {
-          "creator": "하준",
-          "title": "후진하는 차에 손을…고의 사고로 합의금 뜯어낸 50대 구속",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261006102935OFE",
-          "pubDate": "Tue, 06 Oct 2026 10:29:35 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261006/AKR20261006102935OFE_01_i.jpg\" alt=\"\"><span class=\"yna_title\">고의 교통사고 장면 캡처</span><span class=\"yna_caption\">[진주경찰서 제공]</span><span class=\"yna_description\">[진주경찰서 제공]</span></div>\n고의로 교통사고를 유발해 피해자들로부터 합의금과 보험금을 뜯어낸 50대 남성이 경찰에 덜미를 잡혔습니다.\n\n경남 진주경찰서는 보험사기방지 특별법 위반 및 사기 혐의로 50대 남성 A씨를 구속했습니다.\n\nA씨는 올해 6월~7월 진주와 사천, 고성 일대에서 서행하거나 후진하는 차량에 고의로 신체 일부를 부딪치는 이른바 '손목치기' 수법으로 보험 사기를 저지른 혐의를 받습니다.\n\n경찰 조사 결과 A씨는 피해 운전자 등 총 11명에게 865만 원을 뜯어낸 것으로 파악됐습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n하준(hajun@yna.co.kr)",
-          "content:encodedSnippet": "고의 교통사고 장면 캡처[진주경찰서 제공][진주경찰서 제공]\n고의로 교통사고를 유발해 피해자들로부터 합의금과 보험금을 뜯어낸 50대 남성이 경찰에 덜미를 잡혔습니다.\n\n경남 진주경찰서는 보험사기방지 특별법 위반 및 사기 혐의로 50대 남성 A씨를 구속했습니다.\n\nA씨는 올해 6월~7월 진주와 사천, 고성 일대에서 서행하거나 후진하는 차량에 고의로 신체 일부를 부딪치는 이른바 '손목치기' 수법으로 보험 사기를 저지른 혐의를 받습니다.\n\n경찰 조사 결과 A씨는 피해 운전자 등 총 11명에게 865만 원을 뜯어낸 것으로 파악됐습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n하준(hajun@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261006/AKR20261006102935OFE_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "하준",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261006102935OFE#comments",
-          "content": "고의 교통사고 장면 캡처[진주경찰서 제공][진주경찰서 제공] 고의로 교통사고를 유발해 피해자들로부터 합의금과 보험금을 뜯어낸 50대 남성이 경찰에 덜미를 잡혔습니다. 경남 진주경찰서는 보험사기방지 특별법 위반 및 사기 혐의로 50대 남성 A씨를 구속했습니다. A씨는 올해 6월~7월 진주와 사천, 고성 일대에서 서행하거나 후진하는 차량에 고의로 신체 일부를 부딪치는 이른바 '손목치기' 수법으로 보험 사기를 저지른 혐의를 받습니다. 경찰 조사...",
-          "contentSnippet": "고의 교통사고 장면 캡처[진주경찰서 제공][진주경찰서 제공] 고의로 교통사고를 유발해 피해자들로부터 합의금과 보험금을 뜯어낸 50대 남성이 경찰에 덜미를 잡혔습니다. 경남 진주경찰서는 보험사기방지 특별법 위반 및 사기 혐의로 50대 남성 A씨를 구속했습니다. A씨는 올해 6월~7월 진주와 사천, 고성 일대에서 서행하거나 후진하는 차량에 고의로 신체 일부를 부딪치는 이른바 '손목치기' 수법으로 보험 사기를 저지른 혐의를 받습니다. 경찰 조사...",
-          "guid": "AKR20261006102935OFE",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-06T01:29:35.000Z"
-        },
-        {
-          "creator": "윤석이",
-          "title": "[반론보도] '야구심판 낭심보호대를 얼굴에...피해자 몫이 된 징계' 관련",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR2026100610291463Z",
-          "pubDate": "Tue, 06 Oct 2026 10:29:16 +0900",
-          "content:encoded": "본 방송은 지난 2026년 9월2일 &lt;뉴스현장&gt; 프로그램에서 '야구심판 낭심보호대를 얼굴에...피해자  몫이 된 징계'라는 제목으로 야구 심판 성희롱 의혹 사건에 대해 보도한 바 있습니다.\n\n이에 대해 가해자로 지목된 해당 팀장은 해당 사건은 현재 수사기관에서 수사진행 중인 사건으로서, 최종적인 법적 판단이나 결정이 내려지지 않은 사안이라고 밝혀왔습니다.\n\n이 보도는 언론중재위원회의 조정에 따른 것 입니다.\n\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤석이(seokyee@yna.co.kr)",
-          "content:encodedSnippet": "본 방송은 지난 2026년 9월2일 <뉴스현장> 프로그램에서 '야구심판 낭심보호대를 얼굴에...피해자  몫이 된 징계'라는 제목으로 야구 심판 성희롱 의혹 사건에 대해 보도한 바 있습니다.\n\n이에 대해 가해자로 지목된 해당 팀장은 해당 사건은 현재 수사기관에서 수사진행 중인 사건으로서, 최종적인 법적 판단이나 결정이 내려지지 않은 사안이라고 밝혀왔습니다.\n\n이 보도는 언론중재위원회의 조정에 따른 것 입니다.\n\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤석이(seokyee@yna.co.kr)",
-          "enclosure": {
-            "url": "",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "윤석이",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR2026100610291463Z#comments",
-          "content": "본 방송은 지난 2026년 9월2일 &lt;뉴스현장&gt; 프로그램에서 '야구심판 낭심보호대를 얼굴에...피해자 몫이 된 징계'라는 제목으로 야구 심판 성희롱 의혹 사건에 대해 보도한 바 있습니다. 이에 대해 가해자로 지목된 해당 팀장은 해당 사건은 현재 수사기관에서 수사진행 중인 사건으로서, 최종적인 법적 판단이나 결정이 내려지지 않은 사안이라고 밝혀왔습니다. 이 보도는 언론중재위원회의 조정에 따른 것 입니다. 연합뉴스TV 기사문의 및 ...",
-          "contentSnippet": "본 방송은 지난 2026년 9월2일 <뉴스현장> 프로그램에서 '야구심판 낭심보호대를 얼굴에...피해자 몫이 된 징계'라는 제목으로 야구 심판 성희롱 의혹 사건에 대해 보도한 바 있습니다. 이에 대해 가해자로 지목된 해당 팀장은 해당 사건은 현재 수사기관에서 수사진행 중인 사건으로서, 최종적인 법적 판단이나 결정이 내려지지 않은 사안이라고 밝혀왔습니다. 이 보도는 언론중재위원회의 조정에 따른 것 입니다. 연합뉴스TV 기사문의 및 ...",
-          "guid": "AKR2026100610291463Z",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-06T01:29:16.000Z"
-        },
-        {
-          "creator": "이준흠",
-          "title": "[속보] 조희대 \"대법관 제청 증언 응하기 어려워…삼권분립·사법독립 훼손 염려\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261006102845fBv",
-          "pubDate": "Tue, 06 Oct 2026 10:28:45 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261006/AKR20261006102845fBv_01_i.jpg\" alt=\"\"><span class=\"yna_title\">인사말하는 조희대 대법원장</span><span class=\"yna_caption\">[연합뉴스]</span><span class=\"yna_description\">[연합뉴스]</span></div>\n\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이준흠(humi@yna.co.kr)",
-          "content:encodedSnippet": "인사말하는 조희대 대법원장[연합뉴스][연합뉴스]\n\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이준흠(humi@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261006/AKR20261006102845fBv_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "이준흠",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261006102845fBv#comments",
-          "content": "인사말하는 조희대 대법원장[연합뉴스][연합뉴스] 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 이준흠(humi@yna.co.kr)",
-          "contentSnippet": "인사말하는 조희대 대법원장[연합뉴스][연합뉴스] 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 이준흠(humi@yna.co.kr)",
-          "guid": "AKR20261006102845fBv",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-06T01:28:45.000Z"
+          "isoDate": "2026-10-06T09:51:11.000Z"
         },
         {
           "creator": "박준혁",
-          "title": "與 \"김지용 중수청장 후보 인사청문회 14일 개최 예정\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261006102838aso",
-          "pubDate": "Tue, 06 Oct 2026 10:28:38 +0900",
-          "content:encoded": "<b>오는 7일 행안위서 계획서 의결 추진…윤리특위 '여야 동수'도 협상</b>\n\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261006/AKR20261006102838aso_01_i.jpg\" alt=\"\"><span class=\"yna_title\">김지용 중대범죄수사청장 후보자</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n김지용 초대 중대범죄수사청장 후보자에 대한 인사청문회가 오는 14일 개최될 전망입니다.\n\n더불어민주당 김성회 원내대변인은 오늘(6일) 국정감사대책회의 직후 기자들과 만나 \"오는 7일 국회 행정안전위원회 전체회의에서 김 후보자 인사청문계획서 의결이 예정됐다\"며 \"계획대로 의결되면 14일에 인사청문회가 있을 예정\"이라고 설명했습니다.\n\n앞서 김 후보자의 인사청문요청안은 범여권 검찰개혁 강경파의 반발을 이유로 추가 검증을 거친 끝에 제청 20여일 만인 지난 2일 국회에 제출된 바 있습니다.\n\n아울러 김 원내대변인은 국회 윤리특별위원회 구성과 관련해서 \"여야 동수로 구성하는 안이 지난 2일 발의돼서 (의안과에) 올라가 있다\"며 \"국민의힘과 협상을 이어가고 있다\"고 전했습니다.\n\n이어 \"최근 국민의힘 김태규 의원의 '내란은 아니다' 발언 등 윤리위에서 논의할 사항이 많은데 국민의힘이 최소한의 징계 조치를 하지 않고 있다\"며 \"윤리위 구성에도 협조하지 않고 있어서 협상에 속도를 내려고 한다\"고 덧붙였습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박준혁(baktoyou@yna.co.kr)",
-          "content:encodedSnippet": "오는 7일 행안위서 계획서 의결 추진…윤리특위 '여야 동수'도 협상\n\n김지용 중대범죄수사청장 후보자[연합뉴스 제공][연합뉴스 제공]\n김지용 초대 중대범죄수사청장 후보자에 대한 인사청문회가 오는 14일 개최될 전망입니다.\n\n더불어민주당 김성회 원내대변인은 오늘(6일) 국정감사대책회의 직후 기자들과 만나 \"오는 7일 국회 행정안전위원회 전체회의에서 김 후보자 인사청문계획서 의결이 예정됐다\"며 \"계획대로 의결되면 14일에 인사청문회가 있을 예정\"이라고 설명했습니다.\n\n앞서 김 후보자의 인사청문요청안은 범여권 검찰개혁 강경파의 반발을 이유로 추가 검증을 거친 끝에 제청 20여일 만인 지난 2일 국회에 제출된 바 있습니다.\n\n아울러 김 원내대변인은 국회 윤리특별위원회 구성과 관련해서 \"여야 동수로 구성하는 안이 지난 2일 발의돼서 (의안과에) 올라가 있다\"며 \"국민의힘과 협상을 이어가고 있다\"고 전했습니다.\n\n이어 \"최근 국민의힘 김태규 의원의 '내란은 아니다' 발언 등 윤리위에서 논의할 사항이 많은데 국민의힘이 최소한의 징계 조치를 하지 않고 있다\"며 \"윤리위 구성에도 협조하지 않고 있어서 협상에 속도를 내려고 한다\"고 덧붙였습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박준혁(baktoyou@yna.co.kr)",
+          "title": "與, 7일 공수처 토론회…\"수사 대상에서 대통령·국회의원 제외\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261006184742dRw",
+          "pubDate": "Tue, 06 Oct 2026 18:47:44 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261006/AKR20261006184742dRw_01_i.jpg\" alt=\"\"><span class=\"yna_title\">더불어민주당 김기표 의원</span><span class=\"yna_caption\">[연합뉴스 제공. 재판매 및 DB 금지]</span><span class=\"yna_description\">[연합뉴스 제공. 재판매 및 DB 금지]</span></div>\n여권에서 고위공직자범죄수사처(공수처) 수사 대상에서 대통령과 국회의원을 제외하는 것을 골자로 한 공수처 재설계 구상이 거론되는 가운데 국회 법제사법위원회 소속 더불어민주당 의원들이 관련 토론회를 개최합니다.\n\n국회 법사위 소속 더불어민주당 김기표·김남희·김동아·김한규·박균택 의원은 내일(7일) 국회에서 '수사·기소 분리 시대, 공수처 기능 전면 개편 토론회'를 열고, 공수처법 개정 방안을 논의합니다.\n\n이 자리에서 공수처 수사 대상을 판·검사와 경찰, 중대범죄수사청(중수청) 수사관 등 수사·사법기관 종사자 중심으로 재편하고 대통령과 국회의원 등은 중대범죄수사청으로 수사권을 넘기는 방안 등이 토의될 예정인데, 토론회를 시작으로 공수처법 개정 논의도 본격화할 전망입니다.\n\n앞서 공수처가 오늘(6일) 이 같은 재설계 구상에 대해 \"견제구조의 퇴보\"라고 공개적으로 밝힌 가운데, 공수처는 내일 열리는 토론회에 박상현 수사기획관을 토론자로 보내 의견을 밝힐 것으로 보입니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박준혁(baktoyou@yna.co.kr)",
+          "content:encodedSnippet": "더불어민주당 김기표 의원[연합뉴스 제공. 재판매 및 DB 금지][연합뉴스 제공. 재판매 및 DB 금지]\n여권에서 고위공직자범죄수사처(공수처) 수사 대상에서 대통령과 국회의원을 제외하는 것을 골자로 한 공수처 재설계 구상이 거론되는 가운데 국회 법제사법위원회 소속 더불어민주당 의원들이 관련 토론회를 개최합니다.\n\n국회 법사위 소속 더불어민주당 김기표·김남희·김동아·김한규·박균택 의원은 내일(7일) 국회에서 '수사·기소 분리 시대, 공수처 기능 전면 개편 토론회'를 열고, 공수처법 개정 방안을 논의합니다.\n\n이 자리에서 공수처 수사 대상을 판·검사와 경찰, 중대범죄수사청(중수청) 수사관 등 수사·사법기관 종사자 중심으로 재편하고 대통령과 국회의원 등은 중대범죄수사청으로 수사권을 넘기는 방안 등이 토의될 예정인데, 토론회를 시작으로 공수처법 개정 논의도 본격화할 전망입니다.\n\n앞서 공수처가 오늘(6일) 이 같은 재설계 구상에 대해 \"견제구조의 퇴보\"라고 공개적으로 밝힌 가운데, 공수처는 내일 열리는 토론회에 박상현 수사기획관을 토론자로 보내 의견을 밝힐 것으로 보입니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박준혁(baktoyou@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261006/AKR20261006102838aso_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261006/AKR20261006184742dRw_01_i.jpg",
             "type": "image/jpeg"
           },
           "dc:creator": "박준혁",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261006102838aso#comments",
-          "content": "오는 7일 행안위서 계획서 의결 추진…윤리특위 '여야 동수'도 협상 김지용 중대범죄수사청장 후보자[연합뉴스 제공][연합뉴스 제공] 김지용 초대 중대범죄수사청장 후보자에 대한 인사청문회가 오는 14일 개최될 전망입니다. 더불어민주당 김성회 원내대변인은 오늘(6일) 국정감사대책회의 직후 기자들과 만나 \"오는 7일 국회 행정안전위원회 전체회의에서 김 후보자 인사청문계획서 의결이 예정됐다\"며 \"계획대로 의결되면 14일에 인사청문회가 있을 예정\"이...",
-          "contentSnippet": "오는 7일 행안위서 계획서 의결 추진…윤리특위 '여야 동수'도 협상 김지용 중대범죄수사청장 후보자[연합뉴스 제공][연합뉴스 제공] 김지용 초대 중대범죄수사청장 후보자에 대한 인사청문회가 오는 14일 개최될 전망입니다. 더불어민주당 김성회 원내대변인은 오늘(6일) 국정감사대책회의 직후 기자들과 만나 \"오는 7일 국회 행정안전위원회 전체회의에서 김 후보자 인사청문계획서 의결이 예정됐다\"며 \"계획대로 의결되면 14일에 인사청문회가 있을 예정\"이...",
-          "guid": "AKR20261006102838aso",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261006184742dRw#comments",
+          "content": "더불어민주당 김기표 의원[연합뉴스 제공. 재판매 및 DB 금지][연합뉴스 제공. 재판매 및 DB 금지] 여권에서 고위공직자범죄수사처(공수처) 수사 대상에서 대통령과 국회의원을 제외하는 것을 골자로 한 공수처 재설계 구상이 거론되는 가운데 국회 법제사법위원회 소속 더불어민주당 의원들이 관련 토론회를 개최합니다. 국회 법사위 소속 더불어민주당 김기표·김남희·김동아·김한규·박균택 의원은 내일(7일) 국회에서 '수사·기소 분리 시대, 공수처 기능...",
+          "contentSnippet": "더불어민주당 김기표 의원[연합뉴스 제공. 재판매 및 DB 금지][연합뉴스 제공. 재판매 및 DB 금지] 여권에서 고위공직자범죄수사처(공수처) 수사 대상에서 대통령과 국회의원을 제외하는 것을 골자로 한 공수처 재설계 구상이 거론되는 가운데 국회 법제사법위원회 소속 더불어민주당 의원들이 관련 토론회를 개최합니다. 국회 법사위 소속 더불어민주당 김기표·김남희·김동아·김한규·박균택 의원은 내일(7일) 국회에서 '수사·기소 분리 시대, 공수처 기능...",
+          "guid": "AKR20261006184742dRw",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-06T01:28:38.000Z"
+          "isoDate": "2026-10-06T09:47:44.000Z"
+        },
+        {
+          "creator": "강은나래",
+          "title": "한동훈 \"국정원장 美입국 거부당해\"…조현 \"전혀 아냐\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261006184254fy7",
+          "pubDate": "Tue, 06 Oct 2026 18:42:55 +0900",
+          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261006/AKR20261006184254fy7_01_i.jpg\" alt=\"\"><span class=\"yna_title\">조현 외교부 장관이 6일 국회 외교통일위원회에서 열린 국정감사에서 의원 질의에 답변하고 있다. 2026.10.6</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n무소속 한동훈 의원은 \"올해 3월경 이종석 국가정보원장이 미국을 방문하려고 했는데 미국이 이 원장의 반미 성향 등을 문제 삼아 입국을 거부했다고 파악했다\"고 주장했습니다.\n\n국회 외교통일위원회의 소속인 한 의원은 오늘(6일) 국회에서 열린 외교부 상대 국정감사에서 조현 외교부 장관에게 \"그런 사실이 있느냐\"며 이같이 질의했습니다.\n\n이에 조 장관이 \"제가 아는 한 없다\"고 답하자, 한 의원은 \"미 당국이 이 원장 측에 문서로 반미 성향이라든가 이런 문제에 대해 문의한 사실이 있다고 하는데, 그런 사실도 모르느냐\"고 재차 물었습니다.\n\n그러자 조 장관은 \"전혀 아니다\"라며 \"제가 한미 외교장관 회담에서 정보 분야에 어떤 문제가 있는지 설명을 들었기 때문에 그런 것은 아니라는 것을 분명히 말씀드린다\"고 답했습니다.\n\n한 의원이 \"그럼 어떤 게 문제냐\"고 질의하자 조 장관은 \"정보 사항에 관한 것은 제가 말씀드릴 수는 없다\"고 말했습니다.\n\n한 의원은 이날 페이스북에 \"저는 국정원 화이트 요원이 미국 입국을 거부당한 초유의 사태가 발생했다는 신뢰할 만한 정보를 받아 지난 10월 4일 외교부에 확인할 수 있는 자료 제출을 요구했지만 아직 받지 못했다\"고 적었습니다.\n\n#국회 #외교통일위원회 #조현 #한동훈 #국정원\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n강은나래(rae@yna.co.kr)",
+          "content:encodedSnippet": "조현 외교부 장관이 6일 국회 외교통일위원회에서 열린 국정감사에서 의원 질의에 답변하고 있다. 2026.10.6[연합뉴스 제공][연합뉴스 제공]\n무소속 한동훈 의원은 \"올해 3월경 이종석 국가정보원장이 미국을 방문하려고 했는데 미국이 이 원장의 반미 성향 등을 문제 삼아 입국을 거부했다고 파악했다\"고 주장했습니다.\n\n국회 외교통일위원회의 소속인 한 의원은 오늘(6일) 국회에서 열린 외교부 상대 국정감사에서 조현 외교부 장관에게 \"그런 사실이 있느냐\"며 이같이 질의했습니다.\n\n이에 조 장관이 \"제가 아는 한 없다\"고 답하자, 한 의원은 \"미 당국이 이 원장 측에 문서로 반미 성향이라든가 이런 문제에 대해 문의한 사실이 있다고 하는데, 그런 사실도 모르느냐\"고 재차 물었습니다.\n\n그러자 조 장관은 \"전혀 아니다\"라며 \"제가 한미 외교장관 회담에서 정보 분야에 어떤 문제가 있는지 설명을 들었기 때문에 그런 것은 아니라는 것을 분명히 말씀드린다\"고 답했습니다.\n\n한 의원이 \"그럼 어떤 게 문제냐\"고 질의하자 조 장관은 \"정보 사항에 관한 것은 제가 말씀드릴 수는 없다\"고 말했습니다.\n\n한 의원은 이날 페이스북에 \"저는 국정원 화이트 요원이 미국 입국을 거부당한 초유의 사태가 발생했다는 신뢰할 만한 정보를 받아 지난 10월 4일 외교부에 확인할 수 있는 자료 제출을 요구했지만 아직 받지 못했다\"고 적었습니다.\n\n#국회 #외교통일위원회 #조현 #한동훈 #국정원\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n강은나래(rae@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261006/AKR20261006184254fy7_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "강은나래",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261006184254fy7#comments",
+          "content": "조현 외교부 장관이 6일 국회 외교통일위원회에서 열린 국정감사에서 의원 질의에 답변하고 있다. 2026.10.6[연합뉴스 제공][연합뉴스 제공] 무소속 한동훈 의원은 \"올해 3월경 이종석 국가정보원장이 미국을 방문하려고 했는데 미국이 이 원장의 반미 성향 등을 문제 삼아 입국을 거부했다고 파악했다\"고 주장했습니다. 국회 외교통일위원회의 소속인 한 의원은 오늘(6일) 국회에서 열린 외교부 상대 국정감사에서 조현 외교부 장관에게 \"그런 사실이...",
+          "contentSnippet": "조현 외교부 장관이 6일 국회 외교통일위원회에서 열린 국정감사에서 의원 질의에 답변하고 있다. 2026.10.6[연합뉴스 제공][연합뉴스 제공] 무소속 한동훈 의원은 \"올해 3월경 이종석 국가정보원장이 미국을 방문하려고 했는데 미국이 이 원장의 반미 성향 등을 문제 삼아 입국을 거부했다고 파악했다\"고 주장했습니다. 국회 외교통일위원회의 소속인 한 의원은 오늘(6일) 국회에서 열린 외교부 상대 국정감사에서 조현 외교부 장관에게 \"그런 사실이...",
+          "guid": "AKR20261006184254fy7",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-06T09:42:55.000Z"
+        },
+        {
+          "creator": "강지수",
+          "title": "정연욱 의원, 전북 올림픽 '부실 의혹' 제기…전북도 \"왜곡·폄훼, 법적 대응 검토\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261006182120OEJ",
+          "pubDate": "Tue, 06 Oct 2026 18:21:21 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261006/AKR20261006182120OEJ_01_i.jpg\" alt=\"\"><span class=\"yna_title\">올림픽 전북 유치 기원 성화 점화식</span><span class=\"yna_caption\">(진안=연합뉴스) 4일 전북 진안군 공설운동장에서 열린 전북도민체전 개막식에서 내빈들이 '하계 올림픽 전북 유치 기원 성화 점화식'을 하고 있다. 2026.9.4 [전북자치도 제공. 재판매 및 DB 금지] kan@yna.co.kr</span><span class=\"yna_description\">(진안=연합뉴스) 4일 전북 진안군 공설운동장에서 열린 전북도민체전 개막식에서 내빈들이 '하계 올림픽 전북 유치 기원 성화 점화식'을 하고 있다. 2026.9.4 [전북자치도 제공. 재판매 및 DB 금지] kan@yna.co.kr</span></div>\n2036년 하계 올림픽 유치에 나선 전북특별자치도가 준비 부실 지적에 강하게 반발하며 법적 대응까지 검토하겠다고 밝혔습니다.\n\n국회 문화체육관광위원회 국민의힘 정연욱 의원은 문화체육관광부와 대한체육회 자료를 인용해, 전북의 올림픽 유치 준비에 심각한 부실이 드러났다고 지적했습니다.\n\n정 의원은 숙박 시설 부족과 선수촌 부지 미확정, 경기장 분산 등을 이유로 단독 개최가 사실상 어렵다고 비판했습니다.\n\n특히 대한체육회 검토 의견에 \"예산 확보가 어렵다면 개최하지 않는 것이 바람직하다\"는 내용이 담겼고, 서울시 역시 공동 개최에 유보적이라고 주장했습니다.\n\n이에 대해 전북특별자치도는 즉각 브리핑을 열고 정 의원의 발표를 정면으로 받아쳤습니다.\n\n전북도는 \"서울시와 구체적인 실무 협의가 순조롭게 진행 중\"이라며, \"정 의원이 거짓과 일부 발언을 부풀려 올림픽 유치 노력을 폄훼하고 있다\"고 유감을 표명했습니다.\n\n그러면서 정 의원의 발언과 보도자료 배포에 대해 법적 조치를 검토하겠다며 강경 대응을 예고했습니다.\n\n이원택 전북지사 역시 서울시가 공동 개최에 적극적인 입장이라고 강조하며, 조만간 최종 방침이 정해질 것이라고 밝혔습니다.\n\n#올림픽 #하계올림픽 #2036하계올림픽 #전라북도 #서울 #정연욱 #이원택 #오세훈\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n강지수(jisurimasuri@yna.co.kr)",
+          "content:encodedSnippet": "올림픽 전북 유치 기원 성화 점화식(진안=연합뉴스) 4일 전북 진안군 공설운동장에서 열린 전북도민체전 개막식에서 내빈들이 '하계 올림픽 전북 유치 기원 성화 점화식'을 하고 있다. 2026.9.4 [전북자치도 제공. 재판매 및 DB 금지] kan@yna.co.kr(진안=연합뉴스) 4일 전북 진안군 공설운동장에서 열린 전북도민체전 개막식에서 내빈들이 '하계 올림픽 전북 유치 기원 성화 점화식'을 하고 있다. 2026.9.4 [전북자치도 제공. 재판매 및 DB 금지] kan@yna.co.kr\n2036년 하계 올림픽 유치에 나선 전북특별자치도가 준비 부실 지적에 강하게 반발하며 법적 대응까지 검토하겠다고 밝혔습니다.\n\n국회 문화체육관광위원회 국민의힘 정연욱 의원은 문화체육관광부와 대한체육회 자료를 인용해, 전북의 올림픽 유치 준비에 심각한 부실이 드러났다고 지적했습니다.\n\n정 의원은 숙박 시설 부족과 선수촌 부지 미확정, 경기장 분산 등을 이유로 단독 개최가 사실상 어렵다고 비판했습니다.\n\n특히 대한체육회 검토 의견에 \"예산 확보가 어렵다면 개최하지 않는 것이 바람직하다\"는 내용이 담겼고, 서울시 역시 공동 개최에 유보적이라고 주장했습니다.\n\n이에 대해 전북특별자치도는 즉각 브리핑을 열고 정 의원의 발표를 정면으로 받아쳤습니다.\n\n전북도는 \"서울시와 구체적인 실무 협의가 순조롭게 진행 중\"이라며, \"정 의원이 거짓과 일부 발언을 부풀려 올림픽 유치 노력을 폄훼하고 있다\"고 유감을 표명했습니다.\n\n그러면서 정 의원의 발언과 보도자료 배포에 대해 법적 조치를 검토하겠다며 강경 대응을 예고했습니다.\n\n이원택 전북지사 역시 서울시가 공동 개최에 적극적인 입장이라고 강조하며, 조만간 최종 방침이 정해질 것이라고 밝혔습니다.\n\n#올림픽 #하계올림픽 #2036하계올림픽 #전라북도 #서울 #정연욱 #이원택 #오세훈\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n강지수(jisurimasuri@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261006/AKR20261006182120OEJ_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "강지수",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261006182120OEJ#comments",
+          "content": "올림픽 전북 유치 기원 성화 점화식(진안=연합뉴스) 4일 전북 진안군 공설운동장에서 열린 전북도민체전 개막식에서 내빈들이 '하계 올림픽 전북 유치 기원 성화 점화식'을 하고 있다. 2026.9.4 [전북자치도 제공. 재판매 및 DB 금지] kan@yna.co.kr(진안=연합뉴스) 4일 전북 진안군 공설운동장에서 열린 전북도민체전 개막식에서 내빈들이 '하계 올림픽 전북 유치 기원 성화 점화식'을 하고 있다. 2026.9.4 [전북자치도 제공...",
+          "contentSnippet": "올림픽 전북 유치 기원 성화 점화식(진안=연합뉴스) 4일 전북 진안군 공설운동장에서 열린 전북도민체전 개막식에서 내빈들이 '하계 올림픽 전북 유치 기원 성화 점화식'을 하고 있다. 2026.9.4 [전북자치도 제공. 재판매 및 DB 금지] kan@yna.co.kr(진안=연합뉴스) 4일 전북 진안군 공설운동장에서 열린 전북도민체전 개막식에서 내빈들이 '하계 올림픽 전북 유치 기원 성화 점화식'을 하고 있다. 2026.9.4 [전북자치도 제공...",
+          "guid": "AKR20261006182120OEJ",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-06T09:21:21.000Z"
+        },
+        {
+          "creator": "박혜준",
+          "title": "축구대표팀 병역특례 논란에 시민들 생각은?｜“이해하지만 오만하지 않았으면” 군필자들 ‘부글부글’…손흥민·이강인은 달랐는데 [씬속뉴스]",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261006181923hKr",
+          "pubDate": "Tue, 06 Oct 2026 18:19:24 +0900",
+          "content:encoded": "2026 아이치·나고야 아시안게임에서 우승한 남자 축구대표팀의 발언과 세리모니를 두고 논란이 이어지면서 병역특례 제도 개편 논의에 불이 붙었습니다. 과거 국제대회에 출전해 병역 문제를 해결했던 국가대표 선수들의 발언까지 재조명되며 여론이 들끓고 있는데요. 대한민국 남성 대다수가 가는 군대. 군필자들은 해당 세리머니와 병역특례 제도에 대해 어떻게 말했을까요? ‘씬속뉴스’에서 전해드립니다.\n\n#아시안게임 #한일전 #축구 #국가대표 #금메달 #메달리스트 #연금 #혜택 #병역특례 #이기혁 #박승수 #최우진 #세리머니 #전역모 #손흥민 #이강인 #기성용 #군대 #입대 #면제 #미필 #국방 #의무 #육군 #공군 #해군 #특전사 #사회복무요원 #기초군사훈련 #휴전국 #북한 #DMZ #지뢰 #박정희 #국위선양 #병무청 #씬속뉴스 #속보 #특보 #생중계 #연합뉴스TV\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박혜준(hjun1589@yna.co.kr)",
+          "content:encodedSnippet": "2026 아이치·나고야 아시안게임에서 우승한 남자 축구대표팀의 발언과 세리모니를 두고 논란이 이어지면서 병역특례 제도 개편 논의에 불이 붙었습니다. 과거 국제대회에 출전해 병역 문제를 해결했던 국가대표 선수들의 발언까지 재조명되며 여론이 들끓고 있는데요. 대한민국 남성 대다수가 가는 군대. 군필자들은 해당 세리머니와 병역특례 제도에 대해 어떻게 말했을까요? ‘씬속뉴스’에서 전해드립니다.\n\n#아시안게임 #한일전 #축구 #국가대표 #금메달 #메달리스트 #연금 #혜택 #병역특례 #이기혁 #박승수 #최우진 #세리머니 #전역모 #손흥민 #이강인 #기성용 #군대 #입대 #면제 #미필 #국방 #의무 #육군 #공군 #해군 #특전사 #사회복무요원 #기초군사훈련 #휴전국 #북한 #DMZ #지뢰 #박정희 #국위선양 #병무청 #씬속뉴스 #속보 #특보 #생중계 #연합뉴스TV\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박혜준(hjun1589@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261006/MYH20261006181923hKr.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "박혜준",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261006181923hKr#comments",
+          "content": "2026 아이치·나고야 아시안게임에서 우승한 남자 축구대표팀의 발언과 세리모니를 두고 논란이 이어지면서 병역특례 제도 개편 논의에 불이 붙었습니다. 과거 국제대회에 출전해 병역 문제를 해결했던 국가대표 선수들의 발언까지 재조명되며 여론이 들끓고 있는데요. 대한민국 남성 대다수가 가는 군대. 군필자들은 해당 세리머니와 병역특례 제도에 대해 어떻게 말했을까요? ‘씬속뉴스’에서 전해드립니다. #아시안게임 #한일전 #축구 #국가대표 #금메달 #메...",
+          "contentSnippet": "2026 아이치·나고야 아시안게임에서 우승한 남자 축구대표팀의 발언과 세리모니를 두고 논란이 이어지면서 병역특례 제도 개편 논의에 불이 붙었습니다. 과거 국제대회에 출전해 병역 문제를 해결했던 국가대표 선수들의 발언까지 재조명되며 여론이 들끓고 있는데요. 대한민국 남성 대다수가 가는 군대. 군필자들은 해당 세리머니와 병역특례 제도에 대해 어떻게 말했을까요? ‘씬속뉴스’에서 전해드립니다. #아시안게임 #한일전 #축구 #국가대표 #금메달 #메...",
+          "guid": "MYH20261006181923hKr",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-06T09:19:24.000Z"
         },
         {
           "creator": "박준혁",
-          "title": "김민석, 사회민주당 대표 접견…교섭단체 정수 완화 공감대",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261006102750Hgi",
-          "pubDate": "Tue, 06 Oct 2026 10:27:51 +0900",
-          "content:encoded": "<b>송치용 사회민주당 대표 \"주거 안정에 당력 집중해 달라\"</b>\n\n\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261006/AKR20261006102750Hgi_01_i.jpg\" alt=\"\"><span class=\"yna_title\">더불어민주당 김민석 대표와 사회민주당 송치용 신임 대표</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n더불어민주당 김민석 대표는 국회에서 사회민주당 송치용 신임 대표를 접견하고 양당의 협력 방안 등을 논의했습니다.\n\n김 대표는 오늘(6일) 송 대표를 만난 자리에서 \"사회민주당과 민주당은 과거와 오늘을 만들어 온, 빛의 혁명을 함께 해온 동지\"라며 \"우리가 만들어 가야 할 사회의 기본적 지향과 이상을 공유하는 동지이기도 하다\"라고 말했습니다.\n\n김 대표와 송 대표는 접견에서 교섭단체 정수 완화에 공감대를 형성했습니다.\n\n김 대표는 \"양당이 함께 풀어야 할 정치적 과제 중 대표적인 것이 진보정당들의 교섭단체 정수 완화 문제\"라며 \"사회민주당을 포함한 여러 진보 정당과 함께 진지하게 성과를 내면서 (문제를) 풀어가겠다\"고 밝혔습니다.\n\n이에 송 대표는 \"사회민주당은 (교섭단체 정수로) 최대 5석을 주장했지만, 현실적으로 가능한 범위에서 빠르게 교섭단체 정상화의 길에 먼저 발을 뗐으면 한다\"고 화답했습니다.\n\n사회민주당은 비례대표 원내 1석을 보유하고 있습니다.\n\n송 대표는 또한 \"불평등과 불공정의 핵심은 자산 격차로, 이를 줄이려면 다주택 부자들의 볼모가 된 무주택자부터 구출해야 한다\"며 \"민주당 종합부동산세 감면 조치만 다루는 것 같아 유감스러웠는데 주거 안정에 당력을 집중해 달라\"고 요구했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박준혁(baktoyou@yna.co.kr)",
-          "content:encodedSnippet": "송치용 사회민주당 대표 \"주거 안정에 당력 집중해 달라\"\n\n\n더불어민주당 김민석 대표와 사회민주당 송치용 신임 대표[연합뉴스 제공][연합뉴스 제공]\n더불어민주당 김민석 대표는 국회에서 사회민주당 송치용 신임 대표를 접견하고 양당의 협력 방안 등을 논의했습니다.\n\n김 대표는 오늘(6일) 송 대표를 만난 자리에서 \"사회민주당과 민주당은 과거와 오늘을 만들어 온, 빛의 혁명을 함께 해온 동지\"라며 \"우리가 만들어 가야 할 사회의 기본적 지향과 이상을 공유하는 동지이기도 하다\"라고 말했습니다.\n\n김 대표와 송 대표는 접견에서 교섭단체 정수 완화에 공감대를 형성했습니다.\n\n김 대표는 \"양당이 함께 풀어야 할 정치적 과제 중 대표적인 것이 진보정당들의 교섭단체 정수 완화 문제\"라며 \"사회민주당을 포함한 여러 진보 정당과 함께 진지하게 성과를 내면서 (문제를) 풀어가겠다\"고 밝혔습니다.\n\n이에 송 대표는 \"사회민주당은 (교섭단체 정수로) 최대 5석을 주장했지만, 현실적으로 가능한 범위에서 빠르게 교섭단체 정상화의 길에 먼저 발을 뗐으면 한다\"고 화답했습니다.\n\n사회민주당은 비례대표 원내 1석을 보유하고 있습니다.\n\n송 대표는 또한 \"불평등과 불공정의 핵심은 자산 격차로, 이를 줄이려면 다주택 부자들의 볼모가 된 무주택자부터 구출해야 한다\"며 \"민주당 종합부동산세 감면 조치만 다루는 것 같아 유감스러웠는데 주거 안정에 당력을 집중해 달라\"고 요구했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박준혁(baktoyou@yna.co.kr)",
+          "title": "與 \"'암살자(들)'에 정치공세 과도…프레임 씌우기 중단하라\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261006181440Yyz",
+          "pubDate": "Tue, 06 Oct 2026 18:14:41 +0900",
+          "content:encoded": "<b>\"명백한 문화예술 탄압이자 정치적 검열 시도\"</b>\n\n\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261006/AKR20261006181440Yyz_01_i.jpg\" alt=\"\"><span class=\"yna_title\">더불어민주당 이재정 의원(국회 문체위원장)</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n국회 문화체육관광위원회 소속 더불어민주당 의원들이 보수 일각 제기하는 영화 '암살자(들)'의 역사 왜곡 논란에 대해 \"과도한 정치 공세와 창작의 자유를 왜곡하는 시대착오적 정치 검열을 즉시 중단하라\"고 촉구했습니다.\n\n문체위 소속 민주당 의원들은 오늘(6일) 발표한 성명에서 \"영화 제작진과 관계자에 대한 국정감사 증인 출석 요구, 법적 조치 운운, 국책은행 투자 과정에 대한 근거 없는 외압설 제기 등은 명백한 문화예술 탄압이자 정치적 검열 시도\"라며 이같이 밝혔습니다.\n\n특히 \"예술적 상상력과 음모론은 구분돼야 한다\"며 \"영화가 공식 발표와 다른 결론을 암시하거나 의문점을 던졌다고 해서 이를 곧바로 패륜이나 역사 왜곡으로 모는 것은 예술에 대한 지나친 검열이자 억측\"이라고 강조했습니다.\n\n그러면서 \"역사적 사건에 대한 다양한 해석과 질문은 자유로운 공론장에서 논의될 일이지, 정당이 앞장서서 특정 작품을 매도하고 처벌을 운운할 일이 아니다\"라며 \"정치적 이익을 위한 프레임 씌우기를 중단하라\"고 주장했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박준혁(baktoyou@yna.co.kr)",
+          "content:encodedSnippet": "\"명백한 문화예술 탄압이자 정치적 검열 시도\"\n\n\n더불어민주당 이재정 의원(국회 문체위원장)[연합뉴스 제공][연합뉴스 제공]\n국회 문화체육관광위원회 소속 더불어민주당 의원들이 보수 일각 제기하는 영화 '암살자(들)'의 역사 왜곡 논란에 대해 \"과도한 정치 공세와 창작의 자유를 왜곡하는 시대착오적 정치 검열을 즉시 중단하라\"고 촉구했습니다.\n\n문체위 소속 민주당 의원들은 오늘(6일) 발표한 성명에서 \"영화 제작진과 관계자에 대한 국정감사 증인 출석 요구, 법적 조치 운운, 국책은행 투자 과정에 대한 근거 없는 외압설 제기 등은 명백한 문화예술 탄압이자 정치적 검열 시도\"라며 이같이 밝혔습니다.\n\n특히 \"예술적 상상력과 음모론은 구분돼야 한다\"며 \"영화가 공식 발표와 다른 결론을 암시하거나 의문점을 던졌다고 해서 이를 곧바로 패륜이나 역사 왜곡으로 모는 것은 예술에 대한 지나친 검열이자 억측\"이라고 강조했습니다.\n\n그러면서 \"역사적 사건에 대한 다양한 해석과 질문은 자유로운 공론장에서 논의될 일이지, 정당이 앞장서서 특정 작품을 매도하고 처벌을 운운할 일이 아니다\"라며 \"정치적 이익을 위한 프레임 씌우기를 중단하라\"고 주장했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박준혁(baktoyou@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261006/AKR20261006102750Hgi_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261006/AKR20261006181440Yyz_01_i.jpg",
             "type": "image/jpeg"
           },
           "dc:creator": "박준혁",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261006102750Hgi#comments",
-          "content": "송치용 사회민주당 대표 \"주거 안정에 당력 집중해 달라\" 더불어민주당 김민석 대표와 사회민주당 송치용 신임 대표[연합뉴스 제공][연합뉴스 제공] 더불어민주당 김민석 대표는 국회에서 사회민주당 송치용 신임 대표를 접견하고 양당의 협력 방안 등을 논의했습니다. 김 대표는 오늘(6일) 송 대표를 만난 자리에서 \"사회민주당과 민주당은 과거와 오늘을 만들어 온, 빛의 혁명을 함께 해온 동지\"라며 \"우리가 만들어 가야 할 사회의 기본적 지향과 이상을...",
-          "contentSnippet": "송치용 사회민주당 대표 \"주거 안정에 당력 집중해 달라\" 더불어민주당 김민석 대표와 사회민주당 송치용 신임 대표[연합뉴스 제공][연합뉴스 제공] 더불어민주당 김민석 대표는 국회에서 사회민주당 송치용 신임 대표를 접견하고 양당의 협력 방안 등을 논의했습니다. 김 대표는 오늘(6일) 송 대표를 만난 자리에서 \"사회민주당과 민주당은 과거와 오늘을 만들어 온, 빛의 혁명을 함께 해온 동지\"라며 \"우리가 만들어 가야 할 사회의 기본적 지향과 이상을...",
-          "guid": "AKR20261006102750Hgi",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261006181440Yyz#comments",
+          "content": "\"명백한 문화예술 탄압이자 정치적 검열 시도\" 더불어민주당 이재정 의원(국회 문체위원장)[연합뉴스 제공][연합뉴스 제공] 국회 문화체육관광위원회 소속 더불어민주당 의원들이 보수 일각 제기하는 영화 '암살자(들)'의 역사 왜곡 논란에 대해 \"과도한 정치 공세와 창작의 자유를 왜곡하는 시대착오적 정치 검열을 즉시 중단하라\"고 촉구했습니다. 문체위 소속 민주당 의원들은 오늘(6일) 발표한 성명에서 \"영화 제작진과 관계자에 대한 국정감사 증인 출...",
+          "contentSnippet": "\"명백한 문화예술 탄압이자 정치적 검열 시도\" 더불어민주당 이재정 의원(국회 문체위원장)[연합뉴스 제공][연합뉴스 제공] 국회 문화체육관광위원회 소속 더불어민주당 의원들이 보수 일각 제기하는 영화 '암살자(들)'의 역사 왜곡 논란에 대해 \"과도한 정치 공세와 창작의 자유를 왜곡하는 시대착오적 정치 검열을 즉시 중단하라\"고 촉구했습니다. 문체위 소속 민주당 의원들은 오늘(6일) 발표한 성명에서 \"영화 제작진과 관계자에 대한 국정감사 증인 출...",
+          "guid": "AKR20261006181440Yyz",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-06T01:27:51.000Z"
+          "isoDate": "2026-10-06T09:14:41.000Z"
         },
         {
-          "creator": "구하림",
-          "title": "가스안전공사 채용비위 의혹…산업부 \"친인척 채용 전수조사\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261006102246hJK",
-          "pubDate": "Tue, 06 Oct 2026 10:22:47 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261006/AKR20261006102246hJK_01_i.jpeg\" alt=\"\"><span class=\"yna_title\">한국가스안전공사</span><span class=\"yna_caption\">[연합뉴스 자료사진]</span><span class=\"yna_description\">[연합뉴스 자료사진]</span></div>\n산업통상부는 한국가스안전공사의 채용 비위 및 봐주기 처분 의혹과 관련해 소관 모든 공공기관을 대상으로 친인척 채용 실태 전수조사를 실시한다고 밝혔습니다.\n\n국회 산업통상자원중소벤처기업위원회 소속 국민의힘 최수진 의원이 공사로부터 제출받은 감사 자료에 따르면 인사처장 A 씨는 지난해 9월 자녀가 공개 채용에 지원한 사실을 인지하고도 법정 기한 내 신고하지 않은 것으로 파악됐습니다.\n\n공사는 자체 감사를 통해 이를 확인하고도 경징계 처분을 내리는 데 그쳤습니다.\n\n산업부는 이에 대해 \"이번 사안을 매우 엄중하게 보고 한국가스안전공사의 감사 경과, 처분 적정성 등에 대한 면밀한 조사를 실시해 부실 감사, 봐주기 처분 등이 확인될 경우 엄중하게 책임을 물을 계획\"이라고 밝혔습니다.\n\n김정관 산업부 장관은 페이스북을 통해 \"취업을 준비하는 청년과 그 가족의 심정으로 채용 비위를 뿌리부터 근절하겠다\"며 \"공공기관 채용의 공정과 신뢰를 지키는 데 최선을 다하겠다\"고 강조했습니다.\n\n#한국가스안전공사 #산업통상부 #채용비리 #친인척채용실태조사\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n구하림(halimkoo@yna.co.kr)",
-          "content:encodedSnippet": "한국가스안전공사[연합뉴스 자료사진][연합뉴스 자료사진]\n산업통상부는 한국가스안전공사의 채용 비위 및 봐주기 처분 의혹과 관련해 소관 모든 공공기관을 대상으로 친인척 채용 실태 전수조사를 실시한다고 밝혔습니다.\n\n국회 산업통상자원중소벤처기업위원회 소속 국민의힘 최수진 의원이 공사로부터 제출받은 감사 자료에 따르면 인사처장 A 씨는 지난해 9월 자녀가 공개 채용에 지원한 사실을 인지하고도 법정 기한 내 신고하지 않은 것으로 파악됐습니다.\n\n공사는 자체 감사를 통해 이를 확인하고도 경징계 처분을 내리는 데 그쳤습니다.\n\n산업부는 이에 대해 \"이번 사안을 매우 엄중하게 보고 한국가스안전공사의 감사 경과, 처분 적정성 등에 대한 면밀한 조사를 실시해 부실 감사, 봐주기 처분 등이 확인될 경우 엄중하게 책임을 물을 계획\"이라고 밝혔습니다.\n\n김정관 산업부 장관은 페이스북을 통해 \"취업을 준비하는 청년과 그 가족의 심정으로 채용 비위를 뿌리부터 근절하겠다\"며 \"공공기관 채용의 공정과 신뢰를 지키는 데 최선을 다하겠다\"고 강조했습니다.\n\n#한국가스안전공사 #산업통상부 #채용비리 #친인척채용실태조사\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n구하림(halimkoo@yna.co.kr)",
+          "creator": "조한대",
+          "title": "역대 최다 관중 경신 중…여전히 뜨거운 프로야구",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH202610061809178AX",
+          "pubDate": "Tue, 06 Oct 2026 18:09:20 +0900",
+          "content:encoded": "[앵커]\n\n시즌 막바지를 향해가는 프로야구의 열기가 여전히 뜨겁습니다.\n\n지금 이 시간에도 역대 최다 관중 수를 늘려가고 있는데요.\n\n경기를 앞둔 서울 잠실구장에 취재기자 나가있습니다.\n\n조한대 기자.\n\n[기자]\n\n네, 저는 지금 LG와 NC의 경기가 곧 열릴 잠실구장에 나와 있습니다.\n\n프로야구는 어제(5일) 역대 최다 관중 수를 경신했는데요.\n\n어제 5개 구장에 총 9만 5,922명이 입장해 시즌 누적 관중 1,236만 2천명을 기록했습니다.\n\n지난해 세웠던 종전 최다 기록을 넘는 수치였습니다.\n\n올해 프로야구는 지난 8월 전국을 강타한 무더위 때문에 서른 경기가 취소됐다 '폭염브레이크' 이후 재편성 됐고요.\n\n얼마 전 있었던 아이치·나고야 아시안게임 때문에 KIA 김도영, 두산 곽빈 같은 팀의 스타 선수들이 리그에서 잠시 빠지기도 했는데요.\n\n흥행에 악영향을 줄 수도 있는 상황이었지만 프로야구의 열풍은 어느해보다 뜨거웠습니다.\n\n[앵커]\n\n오늘을 포함해 프로야구 경기가 아직 남아 있죠.\n\n새로운 기록들이 계속 나오겠네요.\n\n[기자]\n\n네, 그렇습니다.\n\n평일(6일)인 오늘도 이렇게 많은 팬들이 이미 잠실구장을 찾았는데요.\n\n여전히 식지 않은 프로야구의 열기를 보여주고 있습니다.\n\n구장을 찾은 팬들의 이야기 직접 들어보겠습니다.\n\n&lt;임하람·김선영 / 야구 팬&gt; \"여름에 더울 때도 저희 계속 왔었는데…폭염 브레이크나 이런 시간이 필요하다고는 생각하기는 했었어요. 아시안게임은 모든 선수들이 다 가는 건 아니니까.\"\n\n&lt;정은우·고혜원 / 야구 팬&gt; \"야구는 낭만이라고 생각하는데 경기들이 되게 큰 힘이 되는 거 같아서 인기가 많아지는 거 같습니다. 야구는 인생이지 않나. 뭔가 지는 거 같은 느낌이 들어도 뒤에 어떻게 바뀔지도 모르고…\"\n\n오늘(6일) 전국에서 열리는 다섯 경기를 비롯해 프로야구 시즌 경기는 21 경기가 남은 상태입니다.\n\n지금 이 순간에도 역대 최다 관중 수가 늘어나고 있는 상황인데요.\n\n매진 경기도 어제(5일)까지 330경기로 지난해 세웠던 최다 매진 기록 331경기를 무난히 돌파할 전망입니다.\n\n지금까지 서울 잠실구장에서 전해드렸습니다.\n\n[현장연결 김세완]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n조한대(onepunch@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n시즌 막바지를 향해가는 프로야구의 열기가 여전히 뜨겁습니다.\n\n지금 이 시간에도 역대 최다 관중 수를 늘려가고 있는데요.\n\n경기를 앞둔 서울 잠실구장에 취재기자 나가있습니다.\n\n조한대 기자.\n\n[기자]\n\n네, 저는 지금 LG와 NC의 경기가 곧 열릴 잠실구장에 나와 있습니다.\n\n프로야구는 어제(5일) 역대 최다 관중 수를 경신했는데요.\n\n어제 5개 구장에 총 9만 5,922명이 입장해 시즌 누적 관중 1,236만 2천명을 기록했습니다.\n\n지난해 세웠던 종전 최다 기록을 넘는 수치였습니다.\n\n올해 프로야구는 지난 8월 전국을 강타한 무더위 때문에 서른 경기가 취소됐다 '폭염브레이크' 이후 재편성 됐고요.\n\n얼마 전 있었던 아이치·나고야 아시안게임 때문에 KIA 김도영, 두산 곽빈 같은 팀의 스타 선수들이 리그에서 잠시 빠지기도 했는데요.\n\n흥행에 악영향을 줄 수도 있는 상황이었지만 프로야구의 열풍은 어느해보다 뜨거웠습니다.\n\n[앵커]\n\n오늘을 포함해 프로야구 경기가 아직 남아 있죠.\n\n새로운 기록들이 계속 나오겠네요.\n\n[기자]\n\n네, 그렇습니다.\n\n평일(6일)인 오늘도 이렇게 많은 팬들이 이미 잠실구장을 찾았는데요.\n\n여전히 식지 않은 프로야구의 열기를 보여주고 있습니다.\n\n구장을 찾은 팬들의 이야기 직접 들어보겠습니다.\n\n<임하람·김선영 / 야구 팬> \"여름에 더울 때도 저희 계속 왔었는데…폭염 브레이크나 이런 시간이 필요하다고는 생각하기는 했었어요. 아시안게임은 모든 선수들이 다 가는 건 아니니까.\"\n\n<정은우·고혜원 / 야구 팬> \"야구는 낭만이라고 생각하는데 경기들이 되게 큰 힘이 되는 거 같아서 인기가 많아지는 거 같습니다. 야구는 인생이지 않나. 뭔가 지는 거 같은 느낌이 들어도 뒤에 어떻게 바뀔지도 모르고…\"\n\n오늘(6일) 전국에서 열리는 다섯 경기를 비롯해 프로야구 시즌 경기는 21 경기가 남은 상태입니다.\n\n지금 이 순간에도 역대 최다 관중 수가 늘어나고 있는 상황인데요.\n\n매진 경기도 어제(5일)까지 330경기로 지난해 세웠던 최다 매진 기록 331경기를 무난히 돌파할 전망입니다.\n\n지금까지 서울 잠실구장에서 전해드렸습니다.\n\n[현장연결 김세완]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n조한대(onepunch@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261006/AKR20261006102246hJK_01_i.jpeg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261006/MYH202610061809178AX.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "구하림",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261006102246hJK#comments",
-          "content": "한국가스안전공사[연합뉴스 자료사진][연합뉴스 자료사진] 산업통상부는 한국가스안전공사의 채용 비위 및 봐주기 처분 의혹과 관련해 소관 모든 공공기관을 대상으로 친인척 채용 실태 전수조사를 실시한다고 밝혔습니다. 국회 산업통상자원중소벤처기업위원회 소속 국민의힘 최수진 의원이 공사로부터 제출받은 감사 자료에 따르면 인사처장 A 씨는 지난해 9월 자녀가 공개 채용에 지원한 사실을 인지하고도 법정 기한 내 신고하지 않은 것으로 파악됐습니다. 공사는...",
-          "contentSnippet": "한국가스안전공사[연합뉴스 자료사진][연합뉴스 자료사진] 산업통상부는 한국가스안전공사의 채용 비위 및 봐주기 처분 의혹과 관련해 소관 모든 공공기관을 대상으로 친인척 채용 실태 전수조사를 실시한다고 밝혔습니다. 국회 산업통상자원중소벤처기업위원회 소속 국민의힘 최수진 의원이 공사로부터 제출받은 감사 자료에 따르면 인사처장 A 씨는 지난해 9월 자녀가 공개 채용에 지원한 사실을 인지하고도 법정 기한 내 신고하지 않은 것으로 파악됐습니다. 공사는...",
-          "guid": "AKR20261006102246hJK",
+          "dc:creator": "조한대",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH202610061809178AX#comments",
+          "content": "[앵커] 시즌 막바지를 향해가는 프로야구의 열기가 여전히 뜨겁습니다. 지금 이 시간에도 역대 최다 관중 수를 늘려가고 있는데요. 경기를 앞둔 서울 잠실구장에 취재기자 나가있습니다. 조한대 기자. [기자] 네, 저는 지금 LG와 NC의 경기가 곧 열릴 잠실구장에 나와 있습니다. 프로야구는 어제(5일) 역대 최다 관중 수를 경신했는데요. 어제 5개 구장에 총 9만 5,922명이 입장해 시즌 누적 관중 1,236만 2천명을 기록했습니다. 지난해...",
+          "contentSnippet": "[앵커] 시즌 막바지를 향해가는 프로야구의 열기가 여전히 뜨겁습니다. 지금 이 시간에도 역대 최다 관중 수를 늘려가고 있는데요. 경기를 앞둔 서울 잠실구장에 취재기자 나가있습니다. 조한대 기자. [기자] 네, 저는 지금 LG와 NC의 경기가 곧 열릴 잠실구장에 나와 있습니다. 프로야구는 어제(5일) 역대 최다 관중 수를 경신했는데요. 어제 5개 구장에 총 9만 5,922명이 입장해 시즌 누적 관중 1,236만 2천명을 기록했습니다. 지난해...",
+          "guid": "MYH202610061809178AX",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-06T01:22:47.000Z"
+          "isoDate": "2026-10-06T09:09:20.000Z"
         },
         {
-          "creator": "김동욱",
-          "title": "신한투자증권, 연금고객관리팀 신설로 맞춤형 연금관리 강화",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261006102242dt4",
-          "pubDate": "Tue, 06 Oct 2026 10:22:43 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261006/AKR20261006102242dt4_01_i.jpg\" alt=\"\"><span class=\"yna_title\"></span><span class=\"yna_caption\"></span><span class=\"yna_description\"></span></div>\n\n신한투자증권은 올해 연금고객관리팀을 신설하고 고객 생애주기별 연금관리 서비스를 강화하고 있다고 6일 밝혔습니다.\n\n올해 신설된 연금고객관리팀은 고객 접점 확대와 상담 서비스 고도화에 집중하고 있습니다.\n\n신규 DC(확정기여형) 및 IRP(개인형퇴직연금) 가입 고객을 대상으로 '웰컴콜(Welcome Call)' 서비스를 운영해 계좌 개설 후 3일 이내 퇴직연금 제도, 계좌 활용 방법, 모바일 자산관리 서비스 이용 방법 등을 안내하고 있습니다.\n\n또한 우수 연금PB인 ‘연금스타’와 고객을 1대1로 매칭해 투자 성향과 자산 현황에 맞는 연금 투자 정보와 자산관리 솔루션을 제공하고 있습니다.\n\n연금 특화 서비스인 ‘신한 Premier 연금컨설팅’도 확대 운영 중으로, 퇴직소득세 절세 전략 시뮬레이션, 연금 수령 계획 수립, 맞춤형 연금보고서 제공 등을 통해 고객별 상황에 적합한 솔루션을 지원합니다.\n\n법인 CEO 및 고위 임원을 대상으로 한 ‘C-Level 컨설팅’ 서비스도 운영하고 있습니다. 자산 구조와 세무 이슈, 은퇴 계획 등을 종합적으로 분석해 자산관리 방안을 제시합니다.\n\n신한투자증권 정용욱 신한 Premier 총괄 사장은 \"연금은 가입 이후의 운용과 관리가 더욱 중요한 금융상품\"이라며 \"고객이 필요한 시점에 실질적인 도움을 받을 수 있도록 차별화된 고객관리 서비스와 연금 솔루션을 지속 확대해 나가겠다\"고 말했습니다.\n\n신한투자증권은 앞으로도 신한금융그룹(회장 진옥동)의 고객 중심 경영 철학을 바탕으로 연금 고객 대상 관리 서비스를 지속 고도화할 계획입니다.\n\n#신한투자증권 #연금 #신한금융그룹\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김동욱(DK1@yna.co.kr)",
-          "content:encodedSnippet": "신한투자증권은 올해 연금고객관리팀을 신설하고 고객 생애주기별 연금관리 서비스를 강화하고 있다고 6일 밝혔습니다.\n\n올해 신설된 연금고객관리팀은 고객 접점 확대와 상담 서비스 고도화에 집중하고 있습니다.\n\n신규 DC(확정기여형) 및 IRP(개인형퇴직연금) 가입 고객을 대상으로 '웰컴콜(Welcome Call)' 서비스를 운영해 계좌 개설 후 3일 이내 퇴직연금 제도, 계좌 활용 방법, 모바일 자산관리 서비스 이용 방법 등을 안내하고 있습니다.\n\n또한 우수 연금PB인 ‘연금스타’와 고객을 1대1로 매칭해 투자 성향과 자산 현황에 맞는 연금 투자 정보와 자산관리 솔루션을 제공하고 있습니다.\n\n연금 특화 서비스인 ‘신한 Premier 연금컨설팅’도 확대 운영 중으로, 퇴직소득세 절세 전략 시뮬레이션, 연금 수령 계획 수립, 맞춤형 연금보고서 제공 등을 통해 고객별 상황에 적합한 솔루션을 지원합니다.\n\n법인 CEO 및 고위 임원을 대상으로 한 ‘C-Level 컨설팅’ 서비스도 운영하고 있습니다. 자산 구조와 세무 이슈, 은퇴 계획 등을 종합적으로 분석해 자산관리 방안을 제시합니다.\n\n신한투자증권 정용욱 신한 Premier 총괄 사장은 \"연금은 가입 이후의 운용과 관리가 더욱 중요한 금융상품\"이라며 \"고객이 필요한 시점에 실질적인 도움을 받을 수 있도록 차별화된 고객관리 서비스와 연금 솔루션을 지속 확대해 나가겠다\"고 말했습니다.\n\n신한투자증권은 앞으로도 신한금융그룹(회장 진옥동)의 고객 중심 경영 철학을 바탕으로 연금 고객 대상 관리 서비스를 지속 고도화할 계획입니다.\n\n#신한투자증권 #연금 #신한금융그룹\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김동욱(DK1@yna.co.kr)",
+          "creator": "이화영",
+          "title": "유해진, 부산국제영화제 이어 부일영화상에서도 못 본다",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR202610061808359Af",
+          "pubDate": "Tue, 06 Oct 2026 18:08:37 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261006/AKR202610061808359Af_01_i.jpg\" alt=\"\"><span class=\"yna_title\">배우 유해진</span><span class=\"yna_caption\">[연합뉴스 자료사진]</span><span class=\"yna_description\">[연합뉴스 자료사진]</span></div>\n영화 '암살자(들)'을 둘러싼 논란으로 출연 배우들에게도 불똥이 튀고 있는 가운데 주연배우 유해진이 연이어 외부 일정에 불참합니다.\n\n내일(7일) 부산에서 열리는 부일영화상 시상식에 유해진은 참석하지 않기로 했습니다.\n\n유해진은 '2026 부일영화상'에서 영화 '왕과 사는 남자'로 남우주연상 후보에 올랐습니다.\n\n앞서 유해진은 오늘(6일) 개막하는 부산국제영화제 개막식에 참석할 예정이었지만, 논란이 불거진 이후 영화 '암살자(들)' 관련 행사가 무산된 바 있습니다.\n\n현재 논란은 스크린 밖으로 번져 유해진의 집 앞에서 한 보수단체가 시위에 나서는 등 오프라인으로까지 확산하고 있습니다.\n\n유해진의 소속사는 공식 입장을 통해 \"배우의 권익과 안전을 보호하기 위해 가능한 모든 조치를 취할 예정\"이라며 엄중 대응을 예고했습니다.\n\n#암살자들 #영화\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이화영(hwa@yna.co.kr)",
+          "content:encodedSnippet": "배우 유해진[연합뉴스 자료사진][연합뉴스 자료사진]\n영화 '암살자(들)'을 둘러싼 논란으로 출연 배우들에게도 불똥이 튀고 있는 가운데 주연배우 유해진이 연이어 외부 일정에 불참합니다.\n\n내일(7일) 부산에서 열리는 부일영화상 시상식에 유해진은 참석하지 않기로 했습니다.\n\n유해진은 '2026 부일영화상'에서 영화 '왕과 사는 남자'로 남우주연상 후보에 올랐습니다.\n\n앞서 유해진은 오늘(6일) 개막하는 부산국제영화제 개막식에 참석할 예정이었지만, 논란이 불거진 이후 영화 '암살자(들)' 관련 행사가 무산된 바 있습니다.\n\n현재 논란은 스크린 밖으로 번져 유해진의 집 앞에서 한 보수단체가 시위에 나서는 등 오프라인으로까지 확산하고 있습니다.\n\n유해진의 소속사는 공식 입장을 통해 \"배우의 권익과 안전을 보호하기 위해 가능한 모든 조치를 취할 예정\"이라며 엄중 대응을 예고했습니다.\n\n#암살자들 #영화\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이화영(hwa@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261006/AKR20261006102242dt4_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261006/AKR202610061808359Af_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "김동욱",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261006102242dt4#comments",
-          "content": "신한투자증권은 올해 연금고객관리팀을 신설하고 고객 생애주기별 연금관리 서비스를 강화하고 있다고 6일 밝혔습니다. 올해 신설된 연금고객관리팀은 고객 접점 확대와 상담 서비스 고도화에 집중하고 있습니다. 신규 DC(확정기여형) 및 IRP(개인형퇴직연금) 가입 고객을 대상으로 '웰컴콜(Welcome Call)' 서비스를 운영해 계좌 개설 후 3일 이내 퇴직연금 제도, 계좌 활용 방법, 모바일 자산관리 서비스 이용 방법 등을 안내하고 있습니다. ...",
-          "contentSnippet": "신한투자증권은 올해 연금고객관리팀을 신설하고 고객 생애주기별 연금관리 서비스를 강화하고 있다고 6일 밝혔습니다. 올해 신설된 연금고객관리팀은 고객 접점 확대와 상담 서비스 고도화에 집중하고 있습니다. 신규 DC(확정기여형) 및 IRP(개인형퇴직연금) 가입 고객을 대상으로 '웰컴콜(Welcome Call)' 서비스를 운영해 계좌 개설 후 3일 이내 퇴직연금 제도, 계좌 활용 방법, 모바일 자산관리 서비스 이용 방법 등을 안내하고 있습니다. ...",
-          "guid": "AKR20261006102242dt4",
+          "dc:creator": "이화영",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR202610061808359Af#comments",
+          "content": "배우 유해진[연합뉴스 자료사진][연합뉴스 자료사진] 영화 '암살자(들)'을 둘러싼 논란으로 출연 배우들에게도 불똥이 튀고 있는 가운데 주연배우 유해진이 연이어 외부 일정에 불참합니다. 내일(7일) 부산에서 열리는 부일영화상 시상식에 유해진은 참석하지 않기로 했습니다. 유해진은 '2026 부일영화상'에서 영화 '왕과 사는 남자'로 남우주연상 후보에 올랐습니다. 앞서 유해진은 오늘(6일) 개막하는 부산국제영화제 개막식에 참석할 예정이었지만, ...",
+          "contentSnippet": "배우 유해진[연합뉴스 자료사진][연합뉴스 자료사진] 영화 '암살자(들)'을 둘러싼 논란으로 출연 배우들에게도 불똥이 튀고 있는 가운데 주연배우 유해진이 연이어 외부 일정에 불참합니다. 내일(7일) 부산에서 열리는 부일영화상 시상식에 유해진은 참석하지 않기로 했습니다. 유해진은 '2026 부일영화상'에서 영화 '왕과 사는 남자'로 남우주연상 후보에 올랐습니다. 앞서 유해진은 오늘(6일) 개막하는 부산국제영화제 개막식에 참석할 예정이었지만, ...",
+          "guid": "AKR202610061808359Af",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-06T01:22:43.000Z"
+          "isoDate": "2026-10-06T09:08:37.000Z"
         },
         {
-          "creator": "한지이",
-          "title": "[현장연결] 이 대통령 \"국정감사에서 정부에 도움 되는 내용 적극 수용\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261006101929uMN",
-          "pubDate": "Tue, 06 Oct 2026 10:19:30 +0900",
-          "content:encoded": "\n\"오늘부터 국정감사…나라 운영 살펴보는 자리\"\n\n\"정부는 국회의 합리적 문제 제기 수용해야\"\n\n\"국정감사 반복 지적사항 점검해서 정책 개선\"\n\n\"국정감사에서 정부에 도움 되는 내용 적극 수용\"\n\n\"1~9월 누적 수출액 8천억 달러 넘어서\"\n\n\"수출 신화에 농어민 희생도 잊어선 안돼\"\n\n\"농어민 희생에 대한 보상 이뤄지지 못해\"\n\n\"양곡법 개정 등 추진됐지만 여전히 부족\"\n\n\"특정 부분에 부담 집중되는 부분 방치 못해\"\n\n\"농어촌 상생협력기금 1조 조성하려 했으나 부족\"\n\n\"정부 예산 투입해 1조원 적립 하려고 노력\"\n\n\"FTA체결로 이익 보는 분야는 피해 분야 지원\"\n\n\"정부 정책으로 특정 분야 혜택보면 조정\"\n\n\"농축산물 유통 구조 혁신 추진해야\"\n\n\"농어촌 소득안전망 강화…수도권 일극체계 완화\"\n\n\"모든 분야가 함께 성장할 필요 있어\"\n\n\"모든 분야가 성장의 혜택 고루 누려야\"\n\n\"농어촌 지역 필수 생활서비스 확충 속도\"\n\n\"금융·공공기관 개인정보 유출 불안\"\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n한지이(hanji@yna.co.kr)",
-          "content:encodedSnippet": "\"오늘부터 국정감사…나라 운영 살펴보는 자리\"\n\n\"정부는 국회의 합리적 문제 제기 수용해야\"\n\n\"국정감사 반복 지적사항 점검해서 정책 개선\"\n\n\"국정감사에서 정부에 도움 되는 내용 적극 수용\"\n\n\"1~9월 누적 수출액 8천억 달러 넘어서\"\n\n\"수출 신화에 농어민 희생도 잊어선 안돼\"\n\n\"농어민 희생에 대한 보상 이뤄지지 못해\"\n\n\"양곡법 개정 등 추진됐지만 여전히 부족\"\n\n\"특정 부분에 부담 집중되는 부분 방치 못해\"\n\n\"농어촌 상생협력기금 1조 조성하려 했으나 부족\"\n\n\"정부 예산 투입해 1조원 적립 하려고 노력\"\n\n\"FTA체결로 이익 보는 분야는 피해 분야 지원\"\n\n\"정부 정책으로 특정 분야 혜택보면 조정\"\n\n\"농축산물 유통 구조 혁신 추진해야\"\n\n\"농어촌 소득안전망 강화…수도권 일극체계 완화\"\n\n\"모든 분야가 함께 성장할 필요 있어\"\n\n\"모든 분야가 성장의 혜택 고루 누려야\"\n\n\"농어촌 지역 필수 생활서비스 확충 속도\"\n\n\"금융·공공기관 개인정보 유출 불안\"\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n한지이(hanji@yna.co.kr)",
+          "creator": "유연희",
+          "title": "[뉴스초점] 누리호 발사 하루 앞으로…준비 상황과 변수는?",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261006180738bKG",
+          "pubDate": "Tue, 06 Oct 2026 18:07:40 +0900",
+          "content:encoded": "&lt;전화연결 : 공철원 한국항공우주연구원 발사체 체계연구부장&gt;\n\n누리호 5차 발사가 하루 앞으로 다가왔습니다.\n\n오늘 누리호가 발사대로 이동해서 기립까지 진행됐고, 실제 발사를 위한 준비 절차를 거쳐 내일 낮 시간대에는 우주로 향할 예정인데요.\n\n누리호 준비 상황과 5차 발사의 의미 등을 공철원 한국항공우주연구원 발사체 체계연구부장과 얘기 나눠보겠습니다.\n\n&lt;질문 1&gt; 오늘 누리호가 이송부터 기립까지 모두 마쳤습니다. 계속해서 발사를 위한 준비 작업이 진행될 텐데요. 먼저, 현 시각까지 누리호 발사 준비, 점검 상황부터 전해주세요.\n\n&lt;질문 2&gt; 벌써 누리호 다섯 번째 발사를 앞두고 있는데요. 이번 누리호는 역대 가장 많은 위성을 싣고 우주로 향한다고요?\n\n&lt;질문 3&gt; 주탑재위성은 초소형 군집위성인 '네온샛' 5기입니다. 위성이 '군집'으로 운용된다는 점이 생소한데, 어떤 장점이 있는 건가요?\n\n&lt;질문 4&gt; 지난 4차 발사부터 민간기업의 참여가 크게 확대됐는데요. 이번 5차 발사에는 체계종합기업의 발사 운용 참여 인원이 더 늘고, 콘솔을 직접 운용하기도 한다고요?\n\n&lt;질문 5&gt; 지난 4차 발사 때는 새벽 시간에 누리호가 우주로 향했는데, 이번 5차는 낮 시간대입니다. 특별한 이유가 있는 건가요?\n\n&lt;질문 6&gt; 이번 누리호 5차 발사 후 성공했다고 말할 수 있는 '성공 기준'이 있다면요?\n\n&lt;질문 7&gt; 아무래도 발사체가 우주로 가는 것이라서 지상이나 상공, 또 우주 날씨까지 모두 중요한 변수가 될 텐데요. 발사일인 내일(6일), 기상 상황이나 우주 물체 충돌 가능성 등은 어떻게 예상되나요?\n\n&lt;질문 8&gt; 내일 누리호가 무사히 우주로 향했으면 합니다. 마지막으로 이번 누리호 5차의 총 비행 과정도 한 번 짚어주시면 좋을 것 같습니다.\n\n#우주항공청 #우주청 #누리호 #위성\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n유연희(rjs1027@yna.co.kr)",
+          "content:encodedSnippet": "<전화연결 : 공철원 한국항공우주연구원 발사체 체계연구부장>\n\n누리호 5차 발사가 하루 앞으로 다가왔습니다.\n\n오늘 누리호가 발사대로 이동해서 기립까지 진행됐고, 실제 발사를 위한 준비 절차를 거쳐 내일 낮 시간대에는 우주로 향할 예정인데요.\n\n누리호 준비 상황과 5차 발사의 의미 등을 공철원 한국항공우주연구원 발사체 체계연구부장과 얘기 나눠보겠습니다.\n\n<질문 1> 오늘 누리호가 이송부터 기립까지 모두 마쳤습니다. 계속해서 발사를 위한 준비 작업이 진행될 텐데요. 먼저, 현 시각까지 누리호 발사 준비, 점검 상황부터 전해주세요.\n\n<질문 2> 벌써 누리호 다섯 번째 발사를 앞두고 있는데요. 이번 누리호는 역대 가장 많은 위성을 싣고 우주로 향한다고요?\n\n<질문 3> 주탑재위성은 초소형 군집위성인 '네온샛' 5기입니다. 위성이 '군집'으로 운용된다는 점이 생소한데, 어떤 장점이 있는 건가요?\n\n<질문 4> 지난 4차 발사부터 민간기업의 참여가 크게 확대됐는데요. 이번 5차 발사에는 체계종합기업의 발사 운용 참여 인원이 더 늘고, 콘솔을 직접 운용하기도 한다고요?\n\n<질문 5> 지난 4차 발사 때는 새벽 시간에 누리호가 우주로 향했는데, 이번 5차는 낮 시간대입니다. 특별한 이유가 있는 건가요?\n\n<질문 6> 이번 누리호 5차 발사 후 성공했다고 말할 수 있는 '성공 기준'이 있다면요?\n\n<질문 7> 아무래도 발사체가 우주로 가는 것이라서 지상이나 상공, 또 우주 날씨까지 모두 중요한 변수가 될 텐데요. 발사일인 내일(6일), 기상 상황이나 우주 물체 충돌 가능성 등은 어떻게 예상되나요?\n\n<질문 8> 내일 누리호가 무사히 우주로 향했으면 합니다. 마지막으로 이번 누리호 5차의 총 비행 과정도 한 번 짚어주시면 좋을 것 같습니다.\n\n#우주항공청 #우주청 #누리호 #위성\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n유연희(rjs1027@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261006/MYH20261006101929uMN.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261006/MYH20261006180738bKG.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "한지이",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261006101929uMN#comments",
-          "content": "\"오늘부터 국정감사…나라 운영 살펴보는 자리\" \"정부는 국회의 합리적 문제 제기 수용해야\" \"국정감사 반복 지적사항 점검해서 정책 개선\" \"국정감사에서 정부에 도움 되는 내용 적극 수용\" \"1~9월 누적 수출액 8천억 달러 넘어서\" \"수출 신화에 농어민 희생도 잊어선 안돼\" \"농어민 희생에 대한 보상 이뤄지지 못해\" \"양곡법 개정 등 추진됐지만 여전히 부족\" \"특정 부분에 부담 집중되는 부분 방치 못해\" \"농어촌 상생협력기금 1조 조성하려...",
-          "contentSnippet": "\"오늘부터 국정감사…나라 운영 살펴보는 자리\" \"정부는 국회의 합리적 문제 제기 수용해야\" \"국정감사 반복 지적사항 점검해서 정책 개선\" \"국정감사에서 정부에 도움 되는 내용 적극 수용\" \"1~9월 누적 수출액 8천억 달러 넘어서\" \"수출 신화에 농어민 희생도 잊어선 안돼\" \"농어민 희생에 대한 보상 이뤄지지 못해\" \"양곡법 개정 등 추진됐지만 여전히 부족\" \"특정 부분에 부담 집중되는 부분 방치 못해\" \"농어촌 상생협력기금 1조 조성하려...",
-          "guid": "MYH20261006101929uMN",
+          "dc:creator": "유연희",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261006180738bKG#comments",
+          "content": "&lt;전화연결 : 공철원 한국항공우주연구원 발사체 체계연구부장&gt; 누리호 5차 발사가 하루 앞으로 다가왔습니다. 오늘 누리호가 발사대로 이동해서 기립까지 진행됐고, 실제 발사를 위한 준비 절차를 거쳐 내일 낮 시간대에는 우주로 향할 예정인데요. 누리호 준비 상황과 5차 발사의 의미 등을 공철원 한국항공우주연구원 발사체 체계연구부장과 얘기 나눠보겠습니다. &lt;질문 1&gt; 오늘 누리호가 이송부터 기립까지 모두 마쳤습니다. 계속해서...",
+          "contentSnippet": "<전화연결 : 공철원 한국항공우주연구원 발사체 체계연구부장> 누리호 5차 발사가 하루 앞으로 다가왔습니다. 오늘 누리호가 발사대로 이동해서 기립까지 진행됐고, 실제 발사를 위한 준비 절차를 거쳐 내일 낮 시간대에는 우주로 향할 예정인데요. 누리호 준비 상황과 5차 발사의 의미 등을 공철원 한국항공우주연구원 발사체 체계연구부장과 얘기 나눠보겠습니다. <질문 1> 오늘 누리호가 이송부터 기립까지 모두 마쳤습니다. 계속해서...",
+          "guid": "MYH20261006180738bKG",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-06T01:19:30.000Z"
+          "isoDate": "2026-10-06T09:07:40.000Z"
+        },
+        {
+          "creator": "유연희",
+          "title": "[속보] 경찰, '암살자(들)' 배우 유해진 신변보호 조치",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261006180429PYP",
+          "pubDate": "Tue, 06 Oct 2026 18:04:30 +0900",
+          "content:encoded": "영화 '암살자(들)' 출연 배우와 제작사에 대한 보수 단체 등의 시위가 이어지는 가운데 경찰이 주연 배우 유해진씨에 대한 신변보호 조치에 나섰습니다.\n\n서울 성북경찰서는 오늘(6일) 유 씨의 소속사로부터 신변보호 요청을 받고 안전조치를 가동했다고 밝혔습니다.\n\n지난 4일부터 유해진 씨 자택 앞에서 집회가 열리고 온라인에 협박성 발언이 올라오는 등 신변 위협 우려가 커진 데 따른 조치입니다.\n\n경찰 관계자는 \"오늘 오후 소속사에서 요청이 들어와 안전조치에 착수했다\"며 \"집중순찰과 스마트워치 지급 등이 이뤄진다\"고 밝혔습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n유연희(rjs1027@yna.co.kr)",
+          "content:encodedSnippet": "영화 '암살자(들)' 출연 배우와 제작사에 대한 보수 단체 등의 시위가 이어지는 가운데 경찰이 주연 배우 유해진씨에 대한 신변보호 조치에 나섰습니다.\n\n서울 성북경찰서는 오늘(6일) 유 씨의 소속사로부터 신변보호 요청을 받고 안전조치를 가동했다고 밝혔습니다.\n\n지난 4일부터 유해진 씨 자택 앞에서 집회가 열리고 온라인에 협박성 발언이 올라오는 등 신변 위협 우려가 커진 데 따른 조치입니다.\n\n경찰 관계자는 \"오늘 오후 소속사에서 요청이 들어와 안전조치에 착수했다\"며 \"집중순찰과 스마트워치 지급 등이 이뤄진다\"고 밝혔습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n유연희(rjs1027@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261006/MYH20261006180429PYP.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "유연희",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261006180429PYP#comments",
+          "content": "영화 '암살자(들)' 출연 배우와 제작사에 대한 보수 단체 등의 시위가 이어지는 가운데 경찰이 주연 배우 유해진씨에 대한 신변보호 조치에 나섰습니다. 서울 성북경찰서는 오늘(6일) 유 씨의 소속사로부터 신변보호 요청을 받고 안전조치를 가동했다고 밝혔습니다. 지난 4일부터 유해진 씨 자택 앞에서 집회가 열리고 온라인에 협박성 발언이 올라오는 등 신변 위협 우려가 커진 데 따른 조치입니다. 경찰 관계자는 \"오늘 오후 소속사에서 요청이 들어와 ...",
+          "contentSnippet": "영화 '암살자(들)' 출연 배우와 제작사에 대한 보수 단체 등의 시위가 이어지는 가운데 경찰이 주연 배우 유해진씨에 대한 신변보호 조치에 나섰습니다. 서울 성북경찰서는 오늘(6일) 유 씨의 소속사로부터 신변보호 요청을 받고 안전조치를 가동했다고 밝혔습니다. 지난 4일부터 유해진 씨 자택 앞에서 집회가 열리고 온라인에 협박성 발언이 올라오는 등 신변 위협 우려가 커진 데 따른 조치입니다. 경찰 관계자는 \"오늘 오후 소속사에서 요청이 들어와 ...",
+          "guid": "MYH20261006180429PYP",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-06T09:04:30.000Z"
+        },
+        {
+          "creator": "윤형섭",
+          "title": "검찰 수사 넘겨 받은 경찰…속도·절차 과제로",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261006175831WME",
+          "pubDate": "Tue, 06 Oct 2026 17:58:33 +0900",
+          "content:encoded": "[앵커]\n\n검찰청이 폐지되고 수사와 기소가 분리되면서, 검찰이 수사하던 사건들이 경찰로 넘어오고 있습니다.\n\n수사에 속도를 낼 수 있을지, 까다로워진 수사 절차는 풀어갈 수 있을지가 과제로 떠올랐습니다.\n\n윤형섭 기자입니다.\n\n[기자]\n\n검찰청이 78년 만에 문을 닫고 검사의 보완수사권까지 폐지되면서 경찰에 수사 권한과 책임은 한층 더 커졌습니다.\n\n검사가 직접 영장을 발부 받아 지명수배한 사건 2천여 건을 넘겨받은 데 이어, 검사가 직접 수사하던 사건 100여 건도 경찰 몫이 됐습니다.\n\n문제는 경찰 역시 이미 사건이 쌓여 있다는 겁니다.\n\n전국 경찰서에 남아 있는 3개월 이상 장기사건만 4만 7천 건에 육박합니다.\n\n기존 사건을 처리하면서 새로 넘어오는 사건까지 맡아야 하는 상황에서, 수사의 정확성과 속도를 동시에 확보해야 하는 겁니다.\n\n공소청으로 탈바꿈한 검찰과의 관계도 달라졌습니다.\n\n과거처럼 검찰의 보완수사를 거쳐 수사의 미비점을 보완하기 어려워졌고, 실제 수사 과정에서 양측의 판단이 충돌하는 경우도 나타나고 있습니다.\n\n올해 8월까지 경찰이 신청한 구속영장을 검찰이 기각한 비율은 34.1%로 처음으로 30%를 넘었습니다.\n\n수사 과정에서 사건 당사자나 변호인과의 절차적 다툼도 늘어날 수 있습니다.\n\n경찰의 보완수사나 재수사가 적절했는지, 압수수색 범위가 혐의에 맞게 설정됐는지, 조사 과정에서 피의자의 방어권이 충분히 보장됐는지 등을 두고 문제 제기가 이어질 수 있는 겁니다.\n\n&lt;장명 / 변호사&gt; \"경찰에서 조금 문제가 있어도 검찰에 가서 다시 한 번 다투면 된다, 이런 것 때문에 사소하거나 부차적인 것들은 다투지 않고 지나갔던 것들이 적지 않은데요. 이제 피의자라든지 변호인들이 문제를 삼을 수밖에 없게 됐고…\"\n\n경찰이 수사의 최종 책임을 지게 된 만큼, 늘어난 사건을 신속하게 처리하는 동시에 수사의 완결성과 절차적 정당성까지 스스로 입증해야 하는 과제를 안게 됐습니다.\n\n연합뉴스TV 윤형섭입니다.\n\n[영상편집 박진희]\n\n[그래픽 김형서]\n\n#검찰 #경찰 #보완수사 #중수청 #공소청 #수사권 #재수사\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤형섭(yhs931@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n검찰청이 폐지되고 수사와 기소가 분리되면서, 검찰이 수사하던 사건들이 경찰로 넘어오고 있습니다.\n\n수사에 속도를 낼 수 있을지, 까다로워진 수사 절차는 풀어갈 수 있을지가 과제로 떠올랐습니다.\n\n윤형섭 기자입니다.\n\n[기자]\n\n검찰청이 78년 만에 문을 닫고 검사의 보완수사권까지 폐지되면서 경찰에 수사 권한과 책임은 한층 더 커졌습니다.\n\n검사가 직접 영장을 발부 받아 지명수배한 사건 2천여 건을 넘겨받은 데 이어, 검사가 직접 수사하던 사건 100여 건도 경찰 몫이 됐습니다.\n\n문제는 경찰 역시 이미 사건이 쌓여 있다는 겁니다.\n\n전국 경찰서에 남아 있는 3개월 이상 장기사건만 4만 7천 건에 육박합니다.\n\n기존 사건을 처리하면서 새로 넘어오는 사건까지 맡아야 하는 상황에서, 수사의 정확성과 속도를 동시에 확보해야 하는 겁니다.\n\n공소청으로 탈바꿈한 검찰과의 관계도 달라졌습니다.\n\n과거처럼 검찰의 보완수사를 거쳐 수사의 미비점을 보완하기 어려워졌고, 실제 수사 과정에서 양측의 판단이 충돌하는 경우도 나타나고 있습니다.\n\n올해 8월까지 경찰이 신청한 구속영장을 검찰이 기각한 비율은 34.1%로 처음으로 30%를 넘었습니다.\n\n수사 과정에서 사건 당사자나 변호인과의 절차적 다툼도 늘어날 수 있습니다.\n\n경찰의 보완수사나 재수사가 적절했는지, 압수수색 범위가 혐의에 맞게 설정됐는지, 조사 과정에서 피의자의 방어권이 충분히 보장됐는지 등을 두고 문제 제기가 이어질 수 있는 겁니다.\n\n<장명 / 변호사> \"경찰에서 조금 문제가 있어도 검찰에 가서 다시 한 번 다투면 된다, 이런 것 때문에 사소하거나 부차적인 것들은 다투지 않고 지나갔던 것들이 적지 않은데요. 이제 피의자라든지 변호인들이 문제를 삼을 수밖에 없게 됐고…\"\n\n경찰이 수사의 최종 책임을 지게 된 만큼, 늘어난 사건을 신속하게 처리하는 동시에 수사의 완결성과 절차적 정당성까지 스스로 입증해야 하는 과제를 안게 됐습니다.\n\n연합뉴스TV 윤형섭입니다.\n\n[영상편집 박진희]\n\n[그래픽 김형서]\n\n#검찰 #경찰 #보완수사 #중수청 #공소청 #수사권 #재수사\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤형섭(yhs931@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261006/MYH20261006175831WME.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "윤형섭",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261006175831WME#comments",
+          "content": "[앵커] 검찰청이 폐지되고 수사와 기소가 분리되면서, 검찰이 수사하던 사건들이 경찰로 넘어오고 있습니다. 수사에 속도를 낼 수 있을지, 까다로워진 수사 절차는 풀어갈 수 있을지가 과제로 떠올랐습니다. 윤형섭 기자입니다. [기자] 검찰청이 78년 만에 문을 닫고 검사의 보완수사권까지 폐지되면서 경찰에 수사 권한과 책임은 한층 더 커졌습니다. 검사가 직접 영장을 발부 받아 지명수배한 사건 2천여 건을 넘겨받은 데 이어, 검사가 직접 수사하던 ...",
+          "contentSnippet": "[앵커] 검찰청이 폐지되고 수사와 기소가 분리되면서, 검찰이 수사하던 사건들이 경찰로 넘어오고 있습니다. 수사에 속도를 낼 수 있을지, 까다로워진 수사 절차는 풀어갈 수 있을지가 과제로 떠올랐습니다. 윤형섭 기자입니다. [기자] 검찰청이 78년 만에 문을 닫고 검사의 보완수사권까지 폐지되면서 경찰에 수사 권한과 책임은 한층 더 커졌습니다. 검사가 직접 영장을 발부 받아 지명수배한 사건 2천여 건을 넘겨받은 데 이어, 검사가 직접 수사하던 ...",
+          "guid": "MYH20261006175831WME",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-06T08:58:33.000Z"
         }
       ]
     }
