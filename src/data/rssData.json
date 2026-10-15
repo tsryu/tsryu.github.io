@@ -7,6 +7,236 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: 맥 os용 의미론적 검색 인덱스, Weft",
+          "link": "https://news.hada.io/topic?id=35397",
+          "pubDate": "2026-10-15T06:48:20.000Z",
+          "author": "cree1116",
+          "content": "<h2>emmbading gemma2 를 기반으로 컴퓨터의 파일을 인덱싱, 검색하는 오픈소스 프로젝트</h2>\n<h3>파일명과 의미로 두가지 검색 방식 지원, 에이전트를 위한 cli와 스킬 지원</h3>\n<p>파일을 파싱 -&gt; 청킹 -&gt; 임베딩 하여, 청크, 파일, 폴더 단위로 검색 가능</p>\n<h2>의미연산자</h2>\n<blockquote>\n<p>all = 의미",
+          "contentSnippet": "emmbading gemma2 를 기반으로 컴퓨터의 파일을 인덱싱, 검색하는 오픈소스 프로젝트\n파일명과 의미로 두가지 검색 방식 지원, 에이전트를 위한 cli와 스킬 지원\n파일을 파싱 -> 청킹 -> 임베딩 하여, 청크, 파일, 폴더 단위로 검색 가능\n의미연산자\nall = 의미",
+          "id": "https://news.hada.io/topic?id=35397",
+          "isoDate": "2026-10-15T06:48:20.000Z"
+        },
+        {
+          "title": "Apple: Chrome에서 Safari로 전환하세요",
+          "link": "https://news.hada.io/topic?id=35395",
+          "pubDate": "2026-10-15T05:02:25.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Apple은 <strong>속도, 배터리 수명, 개인정보 보호</strong>를 앞세워 Chrome 사용자의 Safari 전환을 권장함</li>\n<li><strong>Apple 자체 테스트</strong>에서 Safari는 Mac의 자주 방문하는 사이트를 Chrome보다 최대 35% 빠르게 불러오고, 동영상 스트리밍은 최대 5시간 더 오래 지속함</li>\n<li><strong>...</p>",
+          "contentSnippet": "Apple은 속도, 배터리 수명, 개인정보 보호를 앞세워 Chrome 사용자의 Safari 전환을 권장함\nApple 자체 테스트에서 Safari는 Mac의 자주 방문하는 사이트를 Chrome보다 최대 35% 빠르게 불러오고, 동영상 스트리밍은 최대 5시간 더 오래 지속함\n...",
+          "id": "https://news.hada.io/topic?id=35395",
+          "isoDate": "2026-10-15T05:02:25.000Z"
+        },
+        {
+          "title": "Starlink 속도 제한, 우크라이나 드론 운용에 타격",
+          "link": "https://news.hada.io/topic?id=35394",
+          "pubDate": "2026-10-15T04:39:07.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>SpaceX가 우크라이나에서 사용하는 <strong>StarShield 단말기에 속도 제한</strong>을 적용했으며, 우크라이나 소식통에 따르면 약 160km/h를 넘으면 연결이 끊겨 일부 전투 임무가 차질을 빚음</li>\n<li>이번 조치는 우크라이나군의 Starlink 전체를 차단한 것이 아니라 <strong>이동 중 사용하는 단말기</st...</p>",
+          "contentSnippet": "SpaceX가 우크라이나에서 사용하는 StarShield 단말기에 속도 제한을 적용했으며, 우크라이나 소식통에 따르면 약 160km/h를 넘으면 연결이 끊겨 일부 전투 임무가 차질을 빚음\n이번 조치는 우크라이나군의 Starlink 전체를 차단한 것이 아니라 이동 중 사용하는 단말기",
+          "id": "https://news.hada.io/topic?id=35394",
+          "isoDate": "2026-10-15T04:39:07.000Z"
+        },
+        {
+          "title": "미국은 희토류 산업을 잃은 것이 아니라 팔았다",
+          "link": "https://news.hada.io/topic?id=35393",
+          "pubDate": "2026-10-15T04:36:08.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>미국 기업은 경제적 이유로 희토류 사업을 매각했지만, 중국은 <strong>지정학적 공급 통제력</strong>을 확보하려고 투자함. 이 목적의 불일치 때문에 투자와 정책적 관심이 이어져도 미국의 의존이 해소되지 않음</li>\n<li>중국이 공급을 유지하면 국가 지원을 받는 저가 생산자 때문에 대체 공급망의 수익성...</p>",
+          "contentSnippet": "미국 기업은 경제적 이유로 희토류 사업을 매각했지만, 중국은 지정학적 공급 통제력을 확보하려고 투자함. 이 목적의 불일치 때문에 투자와 정책적 관심이 이어져도 미국의 의존이 해소되지 않음\n중국이 공급을 유지하면 국가 지원을 받는 저가 생산자 때문에 대체 공급망의 수익성...",
+          "id": "https://news.hada.io/topic?id=35393",
+          "isoDate": "2026-10-15T04:36:08.000Z"
+        },
+        {
+          "title": "Show GN: hone - 에이전트 평가 사이클을 자동으로 돌리고, 처음 보는 케이스로 판정하는 CLI",
+          "link": "https://news.hada.io/topic?id=35391",
+          "pubDate": "2026-10-15T03:35:39.000Z",
+          "author": "kyu1204",
+          "content": "<p>에이전트 프롬프트를 고칠 때마다 평가 돌리고, 결과 보고, 다시 고치는 일을 자동화해봤습니다. 이름은 hone입니다.</p>\n<p>명령어는 4개입니다.</p>\n<ul>\n<li>hone draft: 에이전트의 프롬프트와 코드를 읽고 테스트 케이스를 직접 씁니다. 반드시 불러야 하는 도구, 부르면 안 되는 도구, 호출 순서, 인자, 답에 들",
+          "contentSnippet": "에이전트 프롬프트를 고칠 때마다 평가 돌리고, 결과 보고, 다시 고치는 일을 자동화해봤습니다. 이름은 hone입니다.\n명령어는 4개입니다.\nhone draft: 에이전트의 프롬프트와 코드를 읽고 테스트 케이스를 직접 씁니다. 반드시 불러야 하는 도구, 부르면 안 되는 도구, 호출 순서, 인자, 답에 들",
+          "id": "https://news.hada.io/topic?id=35391",
+          "isoDate": "2026-10-15T03:35:39.000Z"
+        },
+        {
+          "title": "Tiny Little Office - 링크 자체가 문서인 소형 오피스 제품군",
+          "link": "https://news.hada.io/topic?id=35390",
+          "pubDate": "2026-10-15T03:31:26.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>링크 자체가 문서</strong>인 오피스 제품군으로, 계정 없이 사용할 수 있음</li>\n<li>기기에 보관하기로 선택하지 않으면 <strong>어디에도 저장하지 않음</strong></li>\n<li><strong>워드 프로세서</strong>, 개요 작성 도구, 프레젠테이션 제작 도구를 제공함</li>\n<li><strong>스프레드시트</stron...</p>",
+          "contentSnippet": "링크 자체가 문서인 오피스 제품군으로, 계정 없이 사용할 수 있음\n기기에 보관하기로 선택하지 않으면 어디에도 저장하지 않음\n워드 프로세서, 개요 작성 도구, 프레젠테이션 제작 도구를 제공함\n스프레드시트",
+          "id": "https://news.hada.io/topic?id=35390",
+          "isoDate": "2026-10-15T03:31:26.000Z"
+        },
+        {
+          "title": "State of AI 2026 - AI가 AI를 개발하는 시대, 추론 산업과 물리 AI의 부상",
+          "link": "https://news.hada.io/topic?id=35389",
+          "pubDate": "2026-10-15T02:35:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>AI가 소프트웨어와 과학 연구를 수행하고, 더 나은 AI를 개발하는 과정에도 참여</strong>하기 시작함. Anthropic의 내부 지표에서는 사람이 감독하는 가운데 Claude가 주도하는 모델 R&amp;D 업무 비중이 2월 1% 미만에서 8월 26%로 증가</li>\n<li>에이전트의 성능은 모델뿐 아니라 <strong>도구, 작업...</p>",
+          "contentSnippet": "AI가 소프트웨어와 과학 연구를 수행하고, 더 나은 AI를 개발하는 과정에도 참여하기 시작함. Anthropic의 내부 지표에서는 사람이 감독하는 가운데 Claude가 주도하는 모델 R&D 업무 비중이 2월 1% 미만에서 8월 26%로 증가\n에이전트의 성능은 모델뿐 아니라 도구, 작업...",
+          "id": "https://news.hada.io/topic?id=35389",
+          "isoDate": "2026-10-15T02:35:02.000Z"
+        },
+        {
+          "title": "AI 기업 인수에서는 ARR보다 코드부터 봐야 하는 이유",
+          "link": "https://news.hada.io/topic?id=35386",
+          "pubDate": "2026-10-15T02:05:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>기존 실사는 매출과 성장률을 보여주지만, AI 기업이 판매하는 기술을 <strong>실제로 자체 구축했는지, 경쟁사가 쉽게 복제할 수 있는지</strong>까지 알려주지는 못함</li>\n<li>연간 반복 매출 420만 달러, 성장률 40%를 내세운 한 기업의 코드를 열어보니 GPT-4o와 시스템 프롬프트, React 화면, <strong>약...</p>",
+          "contentSnippet": "기존 실사는 매출과 성장률을 보여주지만, AI 기업이 판매하는 기술을 실제로 자체 구축했는지, 경쟁사가 쉽게 복제할 수 있는지까지 알려주지는 못함\n연간 반복 매출 420만 달러, 성장률 40%를 내세운 한 기업의 코드를 열어보니 GPT-4o와 시스템 프롬프트, React 화면, 약...",
+          "id": "https://news.hada.io/topic?id=35386",
+          "isoDate": "2026-10-15T02:05:02.000Z"
+        },
+        {
+          "title": "2026년 B2B GTM 플레이북 - AI 검색, 구매 신호, GTM 엔진과 새로운 가격 모델",
+          "link": "https://news.hada.io/topic?id=35385",
+          "pubDate": "2026-10-15T01:55:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>2026년 B2B 시장 진입 전략은 <strong>GTM 방식과 채널, AI 우선 실행 체계, 신호와 데이터, 가격 모델</strong>이라는 네 가지 레버를 함께 설계하는 방향으로 바뀌고 있음</li>\n<li>여러 GTM 방식을 동시에 추진하기보다 제품 가격과 회사 단계, 시장 규모에 맞는 하나를 우선해야 하며, AI가 일반적인 영업 ...</p>",
+          "contentSnippet": "2026년 B2B 시장 진입 전략은 GTM 방식과 채널, AI 우선 실행 체계, 신호와 데이터, 가격 모델이라는 네 가지 레버를 함께 설계하는 방향으로 바뀌고 있음\n여러 GTM 방식을 동시에 추진하기보다 제품 가격과 회사 단계, 시장 규모에 맞는 하나를 우선해야 하며, AI가 일반적인 영업 ...",
+          "id": "https://news.hada.io/topic?id=35385",
+          "isoDate": "2026-10-15T01:55:02.000Z"
+        },
+        {
+          "title": "당신의 경쟁 해자는 죽었다. 누구나 당신의 제품을 다시 만들 수 있다",
+          "link": "https://news.hada.io/topic?id=35384",
+          "pubDate": "2026-10-15T01:42:28.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>AI 에이전트가 관찰 가능한 소프트웨어를 재구현하는 비용을 크게 낮추면서, <strong>코드 자체를 경쟁 해자로 삼는 전략</strong>이 흔들리고 있음</li>\n<li>Photoshop을 Rust로 재구현한 <strong>PhotoCraft</strong>는 공개 명세와 관찰된 동작만 사용했다고 밝힘. 기능은 아직 Photoshop의 절반에도 못 미친...</p>",
+          "contentSnippet": "AI 에이전트가 관찰 가능한 소프트웨어를 재구현하는 비용을 크게 낮추면서, 코드 자체를 경쟁 해자로 삼는 전략이 흔들리고 있음\nPhotoshop을 Rust로 재구현한 PhotoCraft는 공개 명세와 관찰된 동작만 사용했다고 밝힘. 기능은 아직 Photoshop의 절반에도 못 미친...",
+          "id": "https://news.hada.io/topic?id=35384",
+          "isoDate": "2026-10-15T01:42:28.000Z"
+        },
+        {
+          "title": "Jev 1.14.0 공개 - 이미지 입력과 긴 컨텍스트 실험 지원",
+          "link": "https://news.hada.io/topic?id=35383",
+          "pubDate": "2026-10-15T01:32:04.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>Jev 1.14.0</strong>을 <code>jev-preview</code>로 공개함. 전반적인 소폭 개선을 목표로 하며, 가장 큰 향상은 <strong>다국어 지원</strong>에서 나타날 것으로 예상함</li>\n<li>이미지와 긴 컨텍스트 등 실험 기능을 API 헤더의 <strong><code>danger zone</code> 플래그</strong>로 제공함. 향후 ...</p>",
+          "contentSnippet": "Jev 1.14.0을 jev-preview로 공개함. 전반적인 소폭 개선을 목표로 하며, 가장 큰 향상은 다국어 지원에서 나타날 것으로 예상함\n이미지와 긴 컨텍스트 등 실험 기능을 API 헤더의 danger zone 플래그로 제공함. 향후 ...",
+          "id": "https://news.hada.io/topic?id=35383",
+          "isoDate": "2026-10-15T01:32:04.000Z"
+        },
+        {
+          "title": "Show GN: 역시(yeok.si) - AI로 만든 결과물을 무료로 소개하고 홍보하는 커뮤니티",
+          "link": "https://news.hada.io/topic?id=35382",
+          "pubDate": "2026-10-15T01:20:46.000Z",
+          "author": "kagla",
+          "content": "<p>AI로 만든 결과물을 부담 없이 소개할 수 있는 커뮤니티 '역시'를 만들었습니다.</p>\n<p>AI로 사이트나 서비스를 만들고도 어디에 소개해야 할지 망설이는 분들이 자신의 결과물을 올리고, 다른 사람이 만든 것도 구경하고 직접 써볼 수 있는 공간을 목표로 하고 있습니다. 웹사이트·도구·게임뿐 아니라 이미지, 영상",
+          "contentSnippet": "AI로 만든 결과물을 부담 없이 소개할 수 있는 커뮤니티 '역시'를 만들었습니다.\nAI로 사이트나 서비스를 만들고도 어디에 소개해야 할지 망설이는 분들이 자신의 결과물을 올리고, 다른 사람이 만든 것도 구경하고 직접 써볼 수 있는 공간을 목표로 하고 있습니다. 웹사이트·도구·게임뿐 아니라 이미지, 영상",
+          "id": "https://news.hada.io/topic?id=35382",
+          "isoDate": "2026-10-15T01:20:46.000Z"
+        },
+        {
+          "title": "동네 치과의 AX 전환기",
+          "link": "https://news.hada.io/topic?id=35381",
+          "pubDate": "2026-10-15T00:40:03.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>생물학을 전공한 치과 원장이 <strong>AI 코딩 에이전트와 로컬 AI</strong>로 병원 업무를 <strong>직접 자동화</strong>한 사례</li>\n<li>네트워크 공사비가 너무 비싸서 직접 랜선찍고 스위치 달고 공유기 설정한게 시작</li>\n<li>유저 프렌들리한 <strong>UniFi 기반으로 네트워크를 구성</strong>하면서, ...</p>",
+          "contentSnippet": "생물학을 전공한 치과 원장이 AI 코딩 에이전트와 로컬 AI로 병원 업무를 직접 자동화한 사례\n네트워크 공사비가 너무 비싸서 직접 랜선찍고 스위치 달고 공유기 설정한게 시작\n유저 프렌들리한 UniFi 기반으로 네트워크를 구성하면서, ...",
+          "id": "https://news.hada.io/topic?id=35381",
+          "isoDate": "2026-10-15T00:40:03.000Z"
+        },
+        {
+          "title": "왜 합리주의자들의 블로그 글은 하나같이 너무 길까?",
+          "link": "https://news.hada.io/topic?id=35380",
+          "pubDate": "2026-10-15T00:37:27.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>합리주의 블로그 문화에서는 <strong>장황함이 철저함을 대신하는 듯함</strong>. 많은 분량을 썼다는 사실 자체가 말할 가치가 있는 내용의 증거처럼 취급됨</li>\n<li>세부 사항과 뉘앙스를 쌓는 데 치중하기보다 <strong>출발점의 가정을 검토</strong>하고, 하위문화 안에서 인기 있는 텍스트를 넘어 철학적...</p>",
+          "contentSnippet": "합리주의 블로그 문화에서는 장황함이 철저함을 대신하는 듯함. 많은 분량을 썼다는 사실 자체가 말할 가치가 있는 내용의 증거처럼 취급됨\n세부 사항과 뉘앙스를 쌓는 데 치중하기보다 출발점의 가정을 검토하고, 하위문화 안에서 인기 있는 텍스트를 넘어 철학적...",
+          "id": "https://news.hada.io/topic?id=35380",
+          "isoDate": "2026-10-15T00:37:27.000Z"
+        },
+        {
+          "title": "미국인의 사회 활동, 지난 30년간 급격히 감소",
+          "link": "https://news.hada.io/topic?id=35379",
+          "pubDate": "2026-10-15T00:34:27.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Data for Progress가 미국 성인 <strong>1,098명</strong>을 조사해 1995년 설문과 비교한 결과, 2026년에는 여러 주요 사회 활동의 연간 참여율이 <strong>두 자릿수 퍼센트포인트 감소</strong>함</li>\n<li>지난 12개월간 집에 사람을 초대한 비율은 <strong>88%에서 67%</strong>, 교회나 예배 장소에 참석한...</p>",
+          "contentSnippet": "Data for Progress가 미국 성인 1,098명을 조사해 1995년 설문과 비교한 결과, 2026년에는 여러 주요 사회 활동의 연간 참여율이 두 자릿수 퍼센트포인트 감소함\n지난 12개월간 집에 사람을 초대한 비율은 88%에서 67%, 교회나 예배 장소에 참석한...",
+          "id": "https://news.hada.io/topic?id=35379",
+          "isoDate": "2026-10-15T00:34:27.000Z"
+        },
+        {
+          "title": "Mecatl - 자체 인프라에서 AI 에이전트를 실행하는 클라우드 네이티브 런타임",
+          "link": "https://news.hada.io/topic?id=35378",
+          "pubDate": "2026-10-15T00:30:02.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>AI 에이전트를 <strong>로컬과 원격 서버, Kubernetes에서 같은 실행 구조로 운영</strong>하려는 개발자를 위한 도구</li>\n<li>에이전트 실행 루프와 모델, 저장소, 파일 시스템, UI를 분리해 각 구성요소를 교체 가능</li>\n<li>도구 호출과 권한 승인, 훅, 대화 압축, 하위 에이전트와 팀 작업 지원</li>\n<li...</p>",
+          "contentSnippet": "AI 에이전트를 로컬과 원격 서버, Kubernetes에서 같은 실행 구조로 운영하려는 개발자를 위한 도구\n에이전트 실행 루프와 모델, 저장소, 파일 시스템, UI를 분리해 각 구성요소를 교체 가능\n도구 호출과 권한 승인, 훅, 대화 압축, 하위 에이전트와 팀 작업 지원",
+          "id": "https://news.hada.io/topic?id=35378",
+          "isoDate": "2026-10-15T00:30:02.000Z"
+        },
+        {
+          "title": "일회용 VM으로 Linux에서 Windows 데스크톱 테스트 실행하기",
+          "link": "https://news.hada.io/topic?id=35377",
+          "pubDate": "2026-10-15T00:26:07.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>QA Wolf는 <strong>Windows VM을 테스트마다 한 번만 사용하고 폐기</strong>하는 구조로 데스크톱 앱 테스트를 구현함. 테스트 코드는 Linux에서 실행하고 Windows 앱은 원격으로 제어함</li>\n<li>Kubernetes의 기존 기기 스케줄러가 <strong>부팅과 로그인을 마친 VM 풀</strong>을 관리해, 테스트가 Windows...</p>",
+          "contentSnippet": "QA Wolf는 Windows VM을 테스트마다 한 번만 사용하고 폐기하는 구조로 데스크톱 앱 테스트를 구현함. 테스트 코드는 Linux에서 실행하고 Windows 앱은 원격으로 제어함\nKubernetes의 기존 기기 스케줄러가 부팅과 로그인을 마친 VM 풀을 관리해, 테스트가 Windows...",
+          "id": "https://news.hada.io/topic?id=35377",
+          "isoDate": "2026-10-15T00:26:07.000Z"
+        },
+        {
+          "title": "내가 셀프호스팅하는 것들 - N100 미니 PC로 서비스 28개 운영하기",
+          "link": "https://news.hada.io/topic?id=35376",
+          "pubDate": "2026-10-15T00:12:38.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>스트리밍 비용과 끊임없는 추천, 자동 재생을 피하려고 <strong>Jellyfin</strong>으로 전환한 뒤, 1년 반 동안 사진, 음악, 재무 관리 등으로 셀프호스팅을 확장한 개인 운영 사례임</li>\n<li>라우터의 VPN 서버 외에는 <strong>서비스를 인터넷에 직접 공개하지 않으며</strong>, 가능하면 네이티브로 실행하...</p>",
+          "contentSnippet": "스트리밍 비용과 끊임없는 추천, 자동 재생을 피하려고 Jellyfin으로 전환한 뒤, 1년 반 동안 사진, 음악, 재무 관리 등으로 셀프호스팅을 확장한 개인 운영 사례임\n라우터의 VPN 서버 외에는 서비스를 인터넷에 직접 공개하지 않으며, 가능하면 네이티브로 실행하...",
+          "id": "https://news.hada.io/topic?id=35376",
+          "isoDate": "2026-10-15T00:12:38.000Z"
+        },
+        {
+          "title": "멋진 curl 사이트",
+          "link": "https://news.hada.io/topic?id=35375",
+          "pubDate": "2026-10-15T00:09:38.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>nytpu.com</strong>은 브라우저용 페이지와 별도로 터미널에서 볼 수 있는 ANSI 서식 버전을 제공하며, <code>curl</code>로 사이트와 블로그 전체를 탐색할 수 있음</li>\n<li>홈과 소개 페이지는 <strong>ANSI 이스케이프 코드</strong>를 직접 넣어 작성하고, 블로그는 자체 마크업 언어 <strong>Gem...</p>",
+          "contentSnippet": "nytpu.com은 브라우저용 페이지와 별도로 터미널에서 볼 수 있는 ANSI 서식 버전을 제공하며, curl로 사이트와 블로그 전체를 탐색할 수 있음\n홈과 소개 페이지는 ANSI 이스케이프 코드를 직접 넣어 작성하고, 블로그는 자체 마크업 언어 Gem...",
+          "id": "https://news.hada.io/topic?id=35375",
+          "isoDate": "2026-10-15T00:09:38.000Z"
+        },
+        {
+          "title": "Firefox Enterprise 소개",
+          "link": "https://news.hada.io/topic?id=35374",
+          "pubDate": "2026-10-15T00:06:38.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Mozilla가 엄격한 보안, 거버넌스, 규정 준수 요구가 있는 조직을 위한 <strong>Firefox Enterprise</strong>를 공개함. Firefox 브라우저와 조직 자체 인프라에서 운영할 수 있는 관리 콘솔을 결합함</li>\n<li>IT 팀은 <strong>브라우저 정책과 접근 권한</strong>을 중앙에서 관리하고, 브라우저를 통한 데이...</p>",
+          "contentSnippet": "Mozilla가 엄격한 보안, 거버넌스, 규정 준수 요구가 있는 조직을 위한 Firefox Enterprise를 공개함. Firefox 브라우저와 조직 자체 인프라에서 운영할 수 있는 관리 콘솔을 결합함\nIT 팀은 브라우저 정책과 접근 권한을 중앙에서 관리하고, 브라우저를 통한 데이...",
+          "id": "https://news.hada.io/topic?id=35374",
+          "isoDate": "2026-10-15T00:06:38.000Z"
+        },
+        {
+          "title": "군은 어떻게 선거를 해킹할 것인가",
+          "link": "https://news.hada.io/topic?id=35373",
+          "pubDate": "2026-10-14T23:42:53.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>취재 결과에 따르면 미군 <strong>Task Force Raider</strong>가 2026년 중간선거를 앞두고 범정부 선거 보안 활동에 참여하며, 투표 집계 조작보다 러시아와 중국의 <strong>여론 영향력 행사</strong>에 더 집중하고 있음</li>\n<li>확보 문서와 익명 군 관계자 증언에 따르면 임무는 해외 익명 메시지 발송부...</p>",
+          "contentSnippet": "취재 결과에 따르면 미군 Task Force Raider가 2026년 중간선거를 앞두고 범정부 선거 보안 활동에 참여하며, 투표 집계 조작보다 러시아와 중국의 여론 영향력 행사에 더 집중하고 있음\n확보 문서와 익명 군 관계자 증언에 따르면 임무는 해외 익명 메시지 발송부...",
+          "id": "https://news.hada.io/topic?id=35373",
+          "isoDate": "2026-10-14T23:42:53.000Z"
+        },
+        {
+          "title": "Yandex 장애: 데이터에 따르면 악성 봇은 멈추지 않고 이동했음",
+          "link": "https://news.hada.io/topic?id=35372",
+          "pubDate": "2026-10-14T23:39:53.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>Cloudflare 관측 데이터</strong>에서 Yandex 장애로 줄어든 트래픽은 검색 크롤링과 일부 공격성 요청이었으며, 대규모 악성 자동화는 다른 호스팅 사업자로 이동함</li>\n<li><strong>Yandex Search</strong>에서 사라진 요청은 거의 모두 검증된 검색 크롤러의 활동으로, 주된 영향은 웹페이지와 뉴스...</p>",
+          "contentSnippet": "Cloudflare 관측 데이터에서 Yandex 장애로 줄어든 트래픽은 검색 크롤링과 일부 공격성 요청이었으며, 대규모 악성 자동화는 다른 호스팅 사업자로 이동함\nYandex Search에서 사라진 요청은 거의 모두 검증된 검색 크롤러의 활동으로, 주된 영향은 웹페이지와 뉴스...",
+          "id": "https://news.hada.io/topic?id=35372",
+          "isoDate": "2026-10-14T23:39:53.000Z"
+        },
+        {
+          "title": "OpenCode 2.0 - Code Mode와 백그라운드 에이전트, 단일 서비스 구조 도입",
+          "link": "https://news.hada.io/topic?id=35371",
+          "pubDate": "2026-10-14T23:36:53.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>OpenCode 2.0은 <strong>단일 백그라운드 서비스</strong>를 자동 실행하며, TUI와 웹 인터페이스, 데스크톱 앱이 같은 중앙 프로세스에 연결되는 구조로 개편</li>\n<li><strong>Code Mode</strong>는 MCP 서버와 OpenAPI 엔드포인트를 스크립트에서 호출할 수 있는 함수로 변환해, 여러 도구를 조합하는 작업을...</p>",
+          "contentSnippet": "OpenCode 2.0은 단일 백그라운드 서비스를 자동 실행하며, TUI와 웹 인터페이스, 데스크톱 앱이 같은 중앙 프로세스에 연결되는 구조로 개편\nCode Mode는 MCP 서버와 OpenAPI 엔드포인트를 스크립트에서 호출할 수 있는 함수로 변환해, 여러 도구를 조합하는 작업을...",
+          "id": "https://news.hada.io/topic?id=35371",
+          "isoDate": "2026-10-14T23:36:53.000Z"
+        },
+        {
           "title": "중년 남성 자살률, 역대 최고치 기록",
           "link": "https://news.hada.io/topic?id=35370",
           "pubDate": "2026-10-14T22:37:17.000Z",
@@ -121,8 +351,8 @@
           "link": "https://news.hada.io/topic?id=35359",
           "pubDate": "2026-10-14T18:48:31.000Z",
           "author": "neo",
-          "content": "<ul>\n<li><strong>pg_vectorsearch</strong>는 PostgreSQL에서 고성능 근사 최근접 이웃(ANN) 검색을 제공하는 확장으로, C로 구현한 <strong>PRISM 인덱스</strong>를 사용함</li>\n<li><strong>PRISM</strong>은 pgvector의 IVFFlat과 HNSW보다 검색과 인덱스 구축이 빠르며, 1억 벡터 데이터셋에서는 메모리가 4분의 1...</p>",
-          "contentSnippet": "pg_vectorsearch는 PostgreSQL에서 고성능 근사 최근접 이웃(ANN) 검색을 제공하는 확장으로, C로 구현한 PRISM 인덱스를 사용함\nPRISM은 pgvector의 IVFFlat과 HNSW보다 검색과 인덱스 구축이 빠르며, 1억 벡터 데이터셋에서는 메모리가 4분의 1...",
+          "content": "<ul>\n<li><strong>pg_vectorsearch</strong>는 PostgreSQL에서 고성능 근사 최근접 이웃, ANN 검색을 제공하는 확장으로, C로 구현한 <strong>PRISM 인덱스</strong>를 사용</li>\n<li>개발팀의 <strong>1억 벡터 벤치마크</strong>에서 재현율 95% 기준 PRISM은 128GiB 인스턴스에서 검색 지연 중앙값 6ms, pgvector HNS...</p>",
+          "contentSnippet": "pg_vectorsearch는 PostgreSQL에서 고성능 근사 최근접 이웃, ANN 검색을 제공하는 확장으로, C로 구현한 PRISM 인덱스를 사용\n개발팀의 1억 벡터 벤치마크에서 재현율 95% 기준 PRISM은 128GiB 인스턴스에서 검색 지연 중앙값 6ms, pgvector HNS...",
           "id": "https://news.hada.io/topic?id=35359",
           "isoDate": "2026-10-14T18:48:31.000Z"
         },
@@ -137,7 +367,7 @@
           "isoDate": "2026-10-14T18:45:31.000Z"
         },
         {
-          "title": "AI 에이전트가 ‘통제 불능’이 된 게 아니다. 선도 AI 연구소들이 보안의 기본을 건너뛰고 있다",
+          "title": "AI 에이전트가 ‘통제 불능’이 된 게 아니다. 프론티어 AI 랩들이 보안의 기본을 건너뛰고 있다",
           "link": "https://news.hada.io/topic?id=35357",
           "pubDate": "2026-10-14T18:42:31.000Z",
           "author": "neo",
@@ -177,12 +407,12 @@
           "isoDate": "2026-10-14T17:36:53.000Z"
         },
         {
-          "title": "Show HN: OpenAI 구독으로 오디오북 만들기",
+          "title": "OpenAI 구독을 이용해 오디오북 만들기",
           "link": "https://news.hada.io/topic?id=35353",
           "pubDate": "2026-10-14T16:37:43.000Z",
           "author": "neo",
-          "content": "<ul>\n<li><strong>PDF TO MP3</strong>는 AI 채팅에 첨부한 PDF를 MCP로 처리해 오디오북으로 만드는 흐름을 제공함</li>\n<li><strong>문서 처리</strong>에는 이미 결제한 AI 구독을 사용하며, PDF TO MP3에 내는 비용은 <strong>0달러</strong>임</li>\n<li><strong>음성 생성 비용은 별도</strong>이며, 음성용 API 키...</p>",
-          "contentSnippet": "PDF TO MP3는 AI 채팅에 첨부한 PDF를 MCP로 처리해 오디오북으로 만드는 흐름을 제공함\n문서 처리에는 이미 결제한 AI 구독을 사용하며, PDF TO MP3에 내는 비용은 0달러임\n음성 생성 비용은 별도이며, 음성용 API 키...",
+          "content": "<ul>\n<li><strong>PDF TO MP3</strong>는 AI 채팅에 첨부한 PDF를 MCP로 처리해 오디오북으로 만드는 흐름을 제공함</li>\n<li>문서 처리에는 이미 결제한 AI 구독 계정을 사용하며, PDF TO MP3에 내는 비용은 <strong>0달러</strong></li>\n<li><strong>음성 생성 비용은 별도</strong>이며, 음성용 API 키를 통해 Google...</p>",
+          "contentSnippet": "PDF TO MP3는 AI 채팅에 첨부한 PDF를 MCP로 처리해 오디오북으로 만드는 흐름을 제공함\n문서 처리에는 이미 결제한 AI 구독 계정을 사용하며, PDF TO MP3에 내는 비용은 0달러\n음성 생성 비용은 별도이며, 음성용 API 키를 통해 Google...",
           "id": "https://news.hada.io/topic?id=35353",
           "isoDate": "2026-10-14T16:37:43.000Z"
         },
@@ -250,7 +480,7 @@
           "title": "Show GN: Second Look - AI 웹 수정본의 기능·회귀·스크린샷 비교 도구",
           "link": "https://news.hada.io/topic?id=35345",
           "pubDate": "2026-10-14T12:03:55.000Z",
-          "author": "rhdudals0505",
+          "author": "mandu05",
           "content": "<p>새 모델이 나오면 예전 AI 작업물을 다시 고쳐보고 싶지만, 원래 요구를 더 잘 만족하는지와 기존 기능이 망가지지 않았는지를 확인하는 데 시간이 듭니다. 이 과정을 도우려고 만든 MIT 라이선스 CLI Second Look을 소개합니다. 개발에 AI의 도움을 받았습니다.</p>\n<p>원래 목적, 개선할 점, 유지할 동작을 기록하고",
           "contentSnippet": "새 모델이 나오면 예전 AI 작업물을 다시 고쳐보고 싶지만, 원래 요구를 더 잘 만족하는지와 기존 기능이 망가지지 않았는지를 확인하는 데 시간이 듭니다. 이 과정을 도우려고 만든 MIT 라이선스 CLI Second Look을 소개합니다. 개발에 AI의 도움을 받았습니다.\n원래 목적, 개선할 점, 유지할 동작을 기록하고",
           "id": "https://news.hada.io/topic?id=35345",
@@ -275,236 +505,6 @@
           "contentSnippet": "80세 기증자의 혈액 세포, 분자 나이 20세 미만의 줄기세포로 전환",
           "id": "https://news.hada.io/topic?id=35343",
           "isoDate": "2026-10-14T11:31:10.000Z"
-        },
-        {
-          "title": "Ente Locker는 출처 표시 없이 내 코드를 복사했을까?",
-          "link": "https://news.hada.io/topic?id=35342",
-          "pubDate": "2026-10-14T11:02:23.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>FairScan 개발자가 <strong>Ente Locker의 문서 스캔 기능</strong>에서 자신의 이미지 처리 코드와 매우 유사한 구현을 발견하고, 출처 표시 없는 코드 재사용 의혹을 제기함</li>\n<li>개발자에 따르면 비교한 구현은 <strong>전체 구조, 알고리듬, 함수와 변수 이름, 하드코딩된 값</strong>이 같았으며, Kot...</p>",
-          "contentSnippet": "FairScan 개발자가 Ente Locker의 문서 스캔 기능에서 자신의 이미지 처리 코드와 매우 유사한 구현을 발견하고, 출처 표시 없는 코드 재사용 의혹을 제기함\n개발자에 따르면 비교한 구현은 전체 구조, 알고리듬, 함수와 변수 이름, 하드코딩된 값이 같았으며, Kot...",
-          "id": "https://news.hada.io/topic?id=35342",
-          "isoDate": "2026-10-14T11:02:23.000Z"
-        },
-        {
-          "title": "즐거움을 위한 프로그래밍",
-          "link": "https://news.hada.io/topic?id=35341",
-          "pubDate": "2026-10-14T09:42:15.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>즐거움을 위한 프로그래밍</strong>은 업무, 돈, 외부 요구가 아니라 코딩 자체의 즐거움을 위해 만드는 활동이며, 핵심 기준은 <strong>내적 동기</strong>와 외부 압력의 차이임</li>\n<li>부담 없는 탐색은 <strong>직관</strong>을 키우고, 내적 동기와 다시 연결되면서 번아웃을 예방하고 장기적인...</p>",
-          "contentSnippet": "즐거움을 위한 프로그래밍은 업무, 돈, 외부 요구가 아니라 코딩 자체의 즐거움을 위해 만드는 활동이며, 핵심 기준은 내적 동기와 외부 압력의 차이임\n부담 없는 탐색은 직관을 키우고, 내적 동기와 다시 연결되면서 번아웃을 예방하고 장기적인...",
-          "id": "https://news.hada.io/topic?id=35341",
-          "isoDate": "2026-10-14T09:42:15.000Z"
-        },
-        {
-          "title": "Felix Rieseberg 홈페이지",
-          "link": "https://news.hada.io/topic?id=35340",
-          "pubDate": "2026-10-14T09:39:15.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>Felix Rieseberg</strong>는 Anthropic에서 AI로 사람들의 생산성을 높이는 일을 하며, Claude.ai, Cowork, Code Desktop의 엔지니어링을 이끌어 왔음</li>\n<li><strong>Electron 공동 메인테이너</strong>이며, Language Model Builder, windows95, macintosh.js, clippy 등 여러 오픈소스 프로젝트에...</p>",
-          "contentSnippet": "Felix Rieseberg는 Anthropic에서 AI로 사람들의 생산성을 높이는 일을 하며, Claude.ai, Cowork, Code Desktop의 엔지니어링을 이끌어 왔음\nElectron 공동 메인테이너이며, Language Model Builder, windows95, macintosh.js, clippy 등 여러 오픈소스 프로젝트에...",
-          "id": "https://news.hada.io/topic?id=35340",
-          "isoDate": "2026-10-14T09:39:15.000Z"
-        },
-        {
-          "title": "Grace Hopper Celebration 취소",
-          "link": "https://news.hada.io/topic?id=35339",
-          "pubDate": "2026-10-14T09:36:15.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>AnitaB.org가 행사 진행에 필요한 <strong>자금 부족</strong>으로 올해 미국 캘리포니아주 Anaheim에서 열릴 예정이던 <strong>Grace Hopper Celebration(GHC)</strong> 을 취소함</li>\n<li><strong>개인 등록과 후원 약정</strong>이 예상과 예년 수준을 크게 밑돌아 필수 운영비를 충당할 수 없는 상태임</l...</p>",
-          "contentSnippet": "AnitaB.org가 행사 진행에 필요한 자금 부족으로 올해 미국 캘리포니아주 Anaheim에서 열릴 예정이던 Grace Hopper Celebration(GHC) 을 취소함\n개인 등록과 후원 약정이 예상과 예년 수준을 크게 밑돌아 필수 운영비를 충당할 수 없는 상태임",
-          "id": "https://news.hada.io/topic?id=35339",
-          "isoDate": "2026-10-14T09:36:15.000Z"
-        },
-        {
-          "title": "ZX Spectrum용 데모씬 인트로 만들기",
-          "link": "https://news.hada.io/topic?id=35337",
-          "pubDate": "2026-10-14T08:44:54.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>기본 사양의 <strong>128KB ZX Spectrum</strong>에서 부드러운 스크롤 텍스트, 3채널 AY 음악, VU 미터, 시차 효과가 있는 별 배경을 구현한 인트로를 완성함</li>\n<li><strong>Z80 어셈블리</strong>로 화면 메모리와 하드웨어를 직접 다뤘으며, 비선형 화면 배치와 프레임당 처리 시간 제약이 구현의 주요 난...</p>",
-          "contentSnippet": "기본 사양의 128KB ZX Spectrum에서 부드러운 스크롤 텍스트, 3채널 AY 음악, VU 미터, 시차 효과가 있는 별 배경을 구현한 인트로를 완성함\nZ80 어셈블리로 화면 메모리와 하드웨어를 직접 다뤘으며, 비선형 화면 배치와 프레임당 처리 시간 제약이 구현의 주요 난...",
-          "id": "https://news.hada.io/topic?id=35337",
-          "isoDate": "2026-10-14T08:44:54.000Z"
-        },
-        {
-          "title": "Rails의 i18n/mail 유지보수자 Ryan Bigg, 구직 끝에 테크 업계를 떠나기로",
-          "link": "https://news.hada.io/topic?id=35336",
-          "pubDate": "2026-10-14T08:41:54.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>20년 경력의 개발자 Ryan Bigg가 반복되는 채용 거절로 테크 업계를 떠나기로 결정</strong>. 36곳 넘게 지원했으며, 24곳에서 거절 답변을 받음</li>\n<li>Rails의 다국어 처리와 이메일 기능에 쓰이는 <strong><code>i18n</code>, <code>mail</code> 유지보수자</strong>이며, 여러 프로그래밍 서적 집...</p>",
-          "contentSnippet": "20년 경력의 개발자 Ryan Bigg가 반복되는 채용 거절로 테크 업계를 떠나기로 결정. 36곳 넘게 지원했으며, 24곳에서 거절 답변을 받음\nRails의 다국어 처리와 이메일 기능에 쓰이는 i18n, mail 유지보수자이며, 여러 프로그래밍 서적 집...",
-          "id": "https://news.hada.io/topic?id=35336",
-          "isoDate": "2026-10-14T08:41:54.000Z"
-        },
-        {
-          "title": "AOSP 소스 공개가 너무 늦어 개발자들이 버그 신고를 위해 라이브러리를 역어셈블함",
-          "link": "https://news.hada.io/topic?id=35335",
-          "pubDate": "2026-10-14T08:38:54.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Android 17의 2026년 9월 빌드에서 <strong><code>wcscspn()</code>과 <code>wcspbrk()</code>의 유니코드 처리 오류</strong>가 확인됨. 공개 소스와 실제 탑재 코드가 달라 신고자는 배포된 <code>libc.so</code>를 역어셈블해 원인을 분석함</li>\n<li>검색 대상 집합이 <strong>U+0100 미만 문자 두 개 이상...</p>",
-          "contentSnippet": "Android 17의 2026년 9월 빌드에서 wcscspn()과 wcspbrk()의 유니코드 처리 오류가 확인됨. 공개 소스와 실제 탑재 코드가 달라 신고자는 배포된 libc.so를 역어셈블해 원인을 분석함\n검색 대상 집합이 U+0100 미만 문자 두 개 이상...",
-          "id": "https://news.hada.io/topic?id=35335",
-          "isoDate": "2026-10-14T08:38:54.000Z"
-        },
-        {
-          "title": "Show GN: TV 리모컨 - 폰으로 삼성·LG·소니·구글 TV를 조작하는 무료 안드로이드 앱",
-          "link": "https://news.hada.io/topic?id=35334",
-          "pubDate": "2026-10-14T08:20:21.000Z",
-          "author": "eltacrew",
-          "content": "<p>안녕하세요. 폰으로 TV를 조작하는 리모컨 앱을 만들어서 소개드려요.</p>\n<p>같은 와이파이에 있는 TV를 앱이 알아서 찾아서, 삼성·LG·소니·안드로이드 TV·구글 TV(크롬캐스트)를 브랜드 고르지 않고 바로 연결해요. 처음 한 번만 TV 화면에서 「허용」을 누르거나 숫자를 넣으면 다음부터는 그냥 붙어요. 가입이나 ",
-          "contentSnippet": "안녕하세요. 폰으로 TV를 조작하는 리모컨 앱을 만들어서 소개드려요.\n같은 와이파이에 있는 TV를 앱이 알아서 찾아서, 삼성·LG·소니·안드로이드 TV·구글 TV(크롬캐스트)를 브랜드 고르지 않고 바로 연결해요. 처음 한 번만 TV 화면에서 「허용」을 누르거나 숫자를 넣으면 다음부터는 그냥 붙어요. 가입이나",
-          "id": "https://news.hada.io/topic?id=35334",
-          "isoDate": "2026-10-14T08:20:21.000Z"
-        },
-        {
-          "title": "MIT 수업 프로젝트, FDA 허가를 받은 떨림 치료 기기로 발전",
-          "link": "https://news.hada.io/topic?id=35333",
-          "pubDate": "2026-10-14T06:32:27.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>Encora Therapeutics</strong>의 손목 착용형 기기가 2026년 2월 성인 본태성 떨림 치료용으로 <strong>FDA 510(k) 허가</strong>를 받음. 2017년 MIT 제품 설계 수업에서 시작해 약 9년 만에 이룬 성과임</li>\n<li>손목에 가하는 <strong>기계적 진동</strong>으로 감각 수용체를 자극하고 신경계를 통...</p>",
-          "contentSnippet": "Encora Therapeutics의 손목 착용형 기기가 2026년 2월 성인 본태성 떨림 치료용으로 FDA 510(k) 허가를 받음. 2017년 MIT 제품 설계 수업에서 시작해 약 9년 만에 이룬 성과임\n손목에 가하는 기계적 진동으로 감각 수용체를 자극하고 신경계를 통...",
-          "id": "https://news.hada.io/topic?id=35333",
-          "isoDate": "2026-10-14T06:32:27.000Z"
-        },
-        {
-          "title": "Show GN: 싱글 겟앰프드 웹버전",
-          "link": "https://news.hada.io/topic?id=35331",
-          "pubDate": "2026-10-14T05:12:36.000Z",
-          "author": "greekr4",
-          "content": "<p>안녕하세요.</p>\n<p>요즘 고전게임을 wasm으로 웹에 올리는 게 유행이던데,<br />\n저도 어릴 때 하던 싱글 겟앰프드를 웹에서 돌아가게 만들어 봤습니다.<br />\nCheerpJ로 java를 브라우저에서 구동할 수 있더라구요 설치 없이 웹에서 바로 플레이됩니다.</p>\n<p>P.S<br />\n어릴 때 악세 살 돈은 없고 쓰고는 싶어서 ",
-          "contentSnippet": "안녕하세요.\n요즘 고전게임을 wasm으로 웹에 올리는 게 유행이던데,\nP.S\n어릴 때 악세 살 돈은 없고 쓰고는 싶어서",
-          "id": "https://news.hada.io/topic?id=35331",
-          "isoDate": "2026-10-14T05:12:36.000Z"
-        },
-        {
-          "title": "Apple, 새 ‘Switch to Safari’ 캠페인으로 Chrome을 떠나야 할 이유 소개",
-          "link": "https://news.hada.io/topic?id=35327",
-          "pubDate": "2026-10-14T02:32:56.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Apple이 ‘<strong>Switch to Safari</strong>’ 웹페이지와 YouTube 영상 2개를 공개하며, Chrome보다 강력하고 개인정보 보호에 유리한 브라우저로 Safari를 홍보함</li>\n<li>Apple이 내세운 배터리 이점은 Mac에서 Chrome 대비 <strong>최대 5시간 더 긴 동영상 스트리밍</strong>임</li>\n<li>Apple에 따르면...</p>",
-          "contentSnippet": "Apple이 ‘Switch to Safari’ 웹페이지와 YouTube 영상 2개를 공개하며, Chrome보다 강력하고 개인정보 보호에 유리한 브라우저로 Safari를 홍보함\nApple이 내세운 배터리 이점은 Mac에서 Chrome 대비 최대 5시간 더 긴 동영상 스트리밍임\nApple에 따르면...",
-          "id": "https://news.hada.io/topic?id=35327",
-          "isoDate": "2026-10-14T02:32:56.000Z"
-        },
-        {
-          "title": "Google, Gemini 4 Argon의 로봇 제어와 시뮬레이션 활용 사례 공개",
-          "link": "https://news.hada.io/topic?id=35326",
-          "pubDate": "2026-10-14T01:34:07.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Google이 <strong>Gemini 4 Argon으로 로봇을 제어하고 시뮬레이션과 학습 데이터를 만드는 활용 사례</strong>를 공개. 코드 생성과 영상 분석, 물리 추론을 로봇 개발 과정에 연결</li>\n<li>물리적 공간 문제를 평가하는 <strong>ERQA 400문항에서 도구 없이 87%</strong> 를 기록. Google이 공개한 비교에서...</p>",
-          "contentSnippet": "Google이 Gemini 4 Argon으로 로봇을 제어하고 시뮬레이션과 학습 데이터를 만드는 활용 사례를 공개. 코드 생성과 영상 분석, 물리 추론을 로봇 개발 과정에 연결\n물리적 공간 문제를 평가하는 ERQA 400문항에서 도구 없이 87% 를 기록. Google이 공개한 비교에서...",
-          "id": "https://news.hada.io/topic?id=35326",
-          "isoDate": "2026-10-14T01:34:07.000Z"
-        },
-        {
-          "title": "Show GN: 자신이 독서를 기록하고 공유하는 사이트",
-          "link": "https://news.hada.io/topic?id=35324",
-          "pubDate": "2026-10-14T01:21:59.000Z",
-          "author": "gyu12345",
-          "content": "<p>요즘 독서에 빠지면서 직접 기록하는 사이트를 만들어보고자 진행한 프로젝트입니다.<br />\n블로그에 독후감을 기록하듯이 자신이 읽은 책을 기록하며 남들과 공유할 수 있고,<br />\n다른 사람들은 어떤 책들을 읽는지 자유롭게 탐방할 수 있습니다.</p>\n",
-          "contentSnippet": "요즘 독서에 빠지면서 직접 기록하는 사이트를 만들어보고자 진행한 프로젝트입니다.\n블로그에 독후감을 기록하듯이 자신이 읽은 책을 기록하며 남들과 공유할 수 있고,\n다른 사람들은 어떤 책들을 읽는지 자유롭게 탐방할 수 있습니다.",
-          "id": "https://news.hada.io/topic?id=35324",
-          "isoDate": "2026-10-14T01:21:59.000Z"
-        },
-        {
-          "title": "AesCode - 이미지의 디자인을 참고해 HTML/CSS를 생성하는 AI 모델",
-          "link": "https://news.hada.io/topic?id=35322",
-          "pubDate": "2026-10-14T00:40:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>슬라이드와 포스터, 대시보드를 <strong>수정 가능한 HTML/CSS로 생성</strong>하는 Microsoft의 AI 모델</li>\n<li>이미지 생성 모델이 만든 참고 이미지에서 레이아웃과 스타일을 가져오고, <strong>문구와 수치는 프롬프트를 기준으로 생성</strong>하도록 학습</li>\n<li>결과물은 완전한 HTML 문서로 출력, ...</p>",
-          "contentSnippet": "슬라이드와 포스터, 대시보드를 수정 가능한 HTML/CSS로 생성하는 Microsoft의 AI 모델\n이미지 생성 모델이 만든 참고 이미지에서 레이아웃과 스타일을 가져오고, 문구와 수치는 프롬프트를 기준으로 생성하도록 학습\n결과물은 완전한 HTML 문서로 출력, ...",
-          "id": "https://news.hada.io/topic?id=35322",
-          "isoDate": "2026-10-14T00:40:02.000Z"
-        },
-        {
-          "title": "영국의 1인당 전력 생산량, 1970년대보다 적어짐",
-          "link": "https://news.hada.io/topic?id=35321",
-          "pubDate": "2026-10-14T00:34:00.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>영국의 <strong>1인당 전력 생산량</strong>은 2003년 정점 이후 3분의 1 넘게 감소해, 현재 1960년대 후반 수준으로 돌아감</li>\n<li>이와 반대로 전 세계 <strong>1인당 전력 생산량</strong>은 이번 세기 들어 50% 넘게 증가함</li>\n<li>발전량 감소의 일부는 <strong>전력 순수입 증가</strong>에 따른 것이...</p>",
-          "contentSnippet": "영국의 1인당 전력 생산량은 2003년 정점 이후 3분의 1 넘게 감소해, 현재 1960년대 후반 수준으로 돌아감\n이와 반대로 전 세계 1인당 전력 생산량은 이번 세기 들어 50% 넘게 증가함\n발전량 감소의 일부는 전력 순수입 증가에 따른 것이...",
-          "id": "https://news.hada.io/topic?id=35321",
-          "isoDate": "2026-10-14T00:34:00.000Z"
-        },
-        {
-          "title": "Rebalancer - 복잡한 제약 조건에 맞춰 작업과 자원을 배치하는 Meta의 최적화 도구",
-          "link": "https://news.hada.io/topic?id=35320",
-          "pubDate": "2026-10-14T00:30:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>서버에 작업을 배치하거나 샤드를 분산할 때, <strong>용량 제한/부하 균형/장애 대비등의 조건을 고려해 배치안을 계산</strong></li>\n<li>복잡한 수학식 대신 <strong>25개 이상의 목표와 제약 조건을 조합</strong>해 문제를 정의</li>\n<li>같은 문제에 여러 알고리듬을 적용해 처리 속도와 해결책의 품질을...</p>",
-          "contentSnippet": "서버에 작업을 배치하거나 샤드를 분산할 때, 용량 제한/부하 균형/장애 대비등의 조건을 고려해 배치안을 계산\n복잡한 수학식 대신 25개 이상의 목표와 제약 조건을 조합해 문제를 정의\n같은 문제에 여러 알고리듬을 적용해 처리 속도와 해결책의 품질을...",
-          "id": "https://news.hada.io/topic?id=35320",
-          "isoDate": "2026-10-14T00:30:02.000Z"
-        },
-        {
-          "title": "AI 코딩이 그렇게 뛰어나다면, 새롭고 좋은 소프트웨어는 다 어디에 있나?",
-          "link": "https://news.hada.io/topic?id=35319",
-          "pubDate": "2026-10-14T00:06:50.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>AI 코딩이 뛰어나다면 왜 새롭고 좋은 소프트웨어가 더 많이 보이지 않을까?</strong> 기존 제품의 개선, 비공개 도구의 증가, 조직의 병목 등 9가지 가설을 제시</li>\n<li>발전이 새 제품의 등장보다 <strong>기존 소프트웨어의 버그 감소, 성능 향상, 기능 추가</strong>로 나타날 수 있으며, 새 도구...</p>",
-          "contentSnippet": "AI 코딩이 뛰어나다면 왜 새롭고 좋은 소프트웨어가 더 많이 보이지 않을까? 기존 제품의 개선, 비공개 도구의 증가, 조직의 병목 등 9가지 가설을 제시\n발전이 새 제품의 등장보다 기존 소프트웨어의 버그 감소, 성능 향상, 기능 추가로 나타날 수 있으며, 새 도구...",
-          "id": "https://news.hada.io/topic?id=35319",
-          "isoDate": "2026-10-14T00:06:50.000Z"
-        },
-        {
-          "title": "Gentoo 개발자, 순수 Python 패키지에 uv-build를 쓰지 말아 달라고 호소",
-          "link": "https://news.hada.io/topic?id=35318",
-          "pubDate": "2026-10-14T00:03:50.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Gentoo 개발자가 <strong>순수 Python 패키지의 빌드 백엔드로 uv-build를 사용하지 말아 달라고 요청</strong>. 핵심 의존성 하나의 전환으로 십여 개 패키지에서 일부 아키텍처의 지원 표식이 제거된 것이 계기</li>\n<li>Rust 기반 uv-build는 작은 Python 백엔드보다 의존성이 크고, 잦은 릴리스로 소스에서...</p>",
-          "contentSnippet": "Gentoo 개발자가 순수 Python 패키지의 빌드 백엔드로 uv-build를 사용하지 말아 달라고 요청. 핵심 의존성 하나의 전환으로 십여 개 패키지에서 일부 아키텍처의 지원 표식이 제거된 것이 계기\nRust 기반 uv-build는 작은 Python 백엔드보다 의존성이 크고, 잦은 릴리스로 소스에서...",
-          "id": "https://news.hada.io/topic?id=35318",
-          "isoDate": "2026-10-14T00:03:50.000Z"
-        },
-        {
-          "title": "Guitoro, 키보드로 줄을 튕겨 연주하는 가상 기타",
-          "link": "https://news.hada.io/topic?id=35316",
-          "pubDate": "2026-10-13T23:38:28.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>Guitoro</strong>는 설치나 회원가입 없이 브라우저에서 무료로 연주하는 가상 기타로, 키보드 왼손으로 코드를 잡고 오른손으로 스트로크하거나 터치 화면의 줄을 쓸어 연주함</li>\n<li><strong>실제 악기 녹음 샘플</strong>을 사용하는 어쿠스틱 기타, 클래식 기타, 일렉트릭 기타, 4현 베이스를 제...</p>",
-          "contentSnippet": "Guitoro는 설치나 회원가입 없이 브라우저에서 무료로 연주하는 가상 기타로, 키보드 왼손으로 코드를 잡고 오른손으로 스트로크하거나 터치 화면의 줄을 쓸어 연주함\n실제 악기 녹음 샘플을 사용하는 어쿠스틱 기타, 클래식 기타, 일렉트릭 기타, 4현 베이스를 제...",
-          "id": "https://news.hada.io/topic?id=35316",
-          "isoDate": "2026-10-13T23:38:28.000Z"
-        },
-        {
-          "title": "OpenAI 엔지니어, 임원 회의실 도청 혐의로 체포",
-          "link": "https://news.hada.io/topic?id=35315",
-          "pubDate": "2026-10-13T23:35:27.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>OpenAI 엔지니어 <strong>Abdulrahman Alfozan</strong>이 샌프란시스코 본사 임원 회의실에 녹음 장치를 숨긴 혐의로 체포돼, 구두 대화를 가로채기 위해 장치를 사용하거나 사용을 시도한 혐의로 기소됨</li>\n<li>고소장에 따르면 <strong>녹음 장치</strong>는 회의실 TV 뒷면 USB 포트에 연결된 채 화장지로...</p>",
-          "contentSnippet": "OpenAI 엔지니어 Abdulrahman Alfozan이 샌프란시스코 본사 임원 회의실에 녹음 장치를 숨긴 혐의로 체포돼, 구두 대화를 가로채기 위해 장치를 사용하거나 사용을 시도한 혐의로 기소됨\n고소장에 따르면 녹음 장치는 회의실 TV 뒷면 USB 포트에 연결된 채 화장지로...",
-          "id": "https://news.hada.io/topic?id=35315",
-          "isoDate": "2026-10-13T23:35:27.000Z"
-        },
-        {
-          "title": "Hacker News에 서비스를 소개했더니 AI 봇 트래픽이 밀려들었다",
-          "link": "https://news.hada.io/topic?id=35313",
-          "pubDate": "2026-10-13T21:41:29.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>맞춤형 피드 리더 <strong>sprinklz.io</strong>를 Hacker News에 소개한 뒤 사이트가 심하게 느려졌으며, 실제 로그인 사용자는 소수인데도 높은 서버 부하가 며칠 동안 지속</li>\n<li>엔드포인트별 요청 로그를 확인하자 <strong>대부분의 요청이 뉴스 조회 API를 호출하지 않았고</strong>, 화면을 렌더링하...</p>",
-          "contentSnippet": "맞춤형 피드 리더 sprinklz.io를 Hacker News에 소개한 뒤 사이트가 심하게 느려졌으며, 실제 로그인 사용자는 소수인데도 높은 서버 부하가 며칠 동안 지속\n엔드포인트별 요청 로그를 확인하자 대부분의 요청이 뉴스 조회 API를 호출하지 않았고, 화면을 렌더링하...",
-          "id": "https://news.hada.io/topic?id=35313",
-          "isoDate": "2026-10-13T21:41:29.000Z"
-        },
-        {
-          "title": "Minions - 유휴 Mac의 GPU를 모아 머신러닝 추론 작업을 분산하는 Apple의 시스템",
-          "link": "https://news.hada.io/topic?id=35312",
-          "pubDate": "2026-10-13T21:38:29.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>여러 Mac의 유휴 Apple Silicon GPU로 대규모 머신러닝 추론 작업을 나눠 처리</strong>하는 Apple 연구진의 분산 시스템</li>\n<li>기존 하드웨어를 활용해 GPU 추가 구매 부담을 줄이고, 자원이 부족한 중앙 GPU 인프라를 보완</li>\n<li><strong>Hugging Face 모델의 임베딩 생성과 Ollama 기반 LLM 추...</p>",
-          "contentSnippet": "여러 Mac의 유휴 Apple Silicon GPU로 대규모 머신러닝 추론 작업을 나눠 처리하는 Apple 연구진의 분산 시스템\n기존 하드웨어를 활용해 GPU 추가 구매 부담을 줄이고, 자원이 부족한 중앙 GPU 인프라를 보완\nHugging Face 모델의 임베딩 생성과 Ollama 기반 LLM 추...",
-          "id": "https://news.hada.io/topic?id=35312",
-          "isoDate": "2026-10-13T21:38:29.000Z"
-        },
-        {
-          "title": "Ledger, 지갑 암호화폐 도난 원인으로 삽입된 스파이 칩 확인",
-          "link": "https://news.hada.io/topic?id=35311",
-          "pubDate": "2026-10-13T21:35:29.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Ledger가 동남아 리셀러 <strong>CryptoBilis</strong>를 통해 판매된 일부 지갑의 암호화폐 도난과 관련해, 피해 기기에서 <strong>무단 하드웨어 삽입물</strong>을 확인함</li>\n<li>연구진이 분석한 Ledger X 삽입물은 <strong>화면 출력과 버튼 입력</strong>으로 시드 구문을 알아낸 뒤, eSIM을 사용하는 ...</p>",
-          "contentSnippet": "Ledger가 동남아 리셀러 CryptoBilis를 통해 판매된 일부 지갑의 암호화폐 도난과 관련해, 피해 기기에서 무단 하드웨어 삽입물을 확인함\n연구진이 분석한 Ledger X 삽입물은 화면 출력과 버튼 입력으로 시드 구문을 알아낸 뒤, eSIM을 사용하는 ...",
-          "id": "https://news.hada.io/topic?id=35311",
-          "isoDate": "2026-10-13T21:35:29.000Z"
         }
       ]
     },
@@ -681,235 +681,235 @@
       "category": "news",
       "data": [
         {
-          "creator": "신현정",
-          "title": "'황인범 19분 출전' 포르투, UCL 베티스에 2-3 역전패",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR202610150828578m7",
-          "pubDate": "Thu, 15 Oct 2026 08:28:58 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261014/AKR202610150828578m7_01_i.jpg\" alt=\"\"><span class=\"yna_title\">레알 베티스와의 경기에 나선 황인범의 모습</span><span class=\"yna_caption\">[로이터=연합뉴스]</span><span class=\"yna_description\">[로이터=연합뉴스]</span></div>\n국가대표팀 미드필더 황인범이 교체 출전한 FC 포르투가 스페인의 레알 베티스에 역전패를 당했습니다.\n\n포르투는 15일(한국시간) 스페인 세비야의 에스타디오 라 카르투하에서 열린 유럽축구연맹(UEFA) 챔피언스리그(UCL) 리그 페이즈 2차전 원정 경기에 나섰습니다.\n\n황인범은 팀이 2-1로 앞서던 후반 26분 교체 출전했지만 후반 29분 에르난데스의 동점골과 10분 뒤 이스코의 역전골이 터지며 팀의 역전패를 지켜봐야 했습니다.\n\n축구 통계 매체 '풋몹'에 따르면 황인범은 19분 동안 경기에 나서 패스 성공률 92%, 기회 창출 2회와 크로스 1회 등을 기록했고, 평점 6.8점을 받았습니다.\n\n이날 경기는 황인범이 최근 A매치 4연전 이후 김민재, 황희찬과 함께 대표팀 동반 은퇴설이 제기된 이후 소속팀으로 돌아가 나선 첫 경기였습니다.\n\n#황인범 #포르투 #챔피언스리그\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신현정(hyunspirit@yna.co.kr)",
-          "content:encodedSnippet": "레알 베티스와의 경기에 나선 황인범의 모습[로이터=연합뉴스][로이터=연합뉴스]\n국가대표팀 미드필더 황인범이 교체 출전한 FC 포르투가 스페인의 레알 베티스에 역전패를 당했습니다.\n\n포르투는 15일(한국시간) 스페인 세비야의 에스타디오 라 카르투하에서 열린 유럽축구연맹(UEFA) 챔피언스리그(UCL) 리그 페이즈 2차전 원정 경기에 나섰습니다.\n\n황인범은 팀이 2-1로 앞서던 후반 26분 교체 출전했지만 후반 29분 에르난데스의 동점골과 10분 뒤 이스코의 역전골이 터지며 팀의 역전패를 지켜봐야 했습니다.\n\n축구 통계 매체 '풋몹'에 따르면 황인범은 19분 동안 경기에 나서 패스 성공률 92%, 기회 창출 2회와 크로스 1회 등을 기록했고, 평점 6.8점을 받았습니다.\n\n이날 경기는 황인범이 최근 A매치 4연전 이후 김민재, 황희찬과 함께 대표팀 동반 은퇴설이 제기된 이후 소속팀으로 돌아가 나선 첫 경기였습니다.\n\n#황인범 #포르투 #챔피언스리그\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신현정(hyunspirit@yna.co.kr)",
+          "creator": "한웅희",
+          "title": "인천 흉기난동범 내일 구속 심사…소극 대응 도마",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261015170146oZb",
+          "pubDate": "Thu, 15 Oct 2026 17:01:47 +0900",
+          "content:encoded": "[앵커]\n\n인천에서 묻지마 흉기난동을 벌인 59살 남성의 구속 심사가 내일(16일) 오후 2시 인천지방법원에서 열립니다.\n\n경찰은 신상공개 여부도 검토하고 있는데요.\n\n한웅희 기자입니다.\n\n[기자]\n\n경찰은 어제 저녁 인천 흉기난동 사건 피의자 A씨에 살인미수와 공공장소 흉기소지 혐의를 적용해 구속영장을 신청했습니다.\n\n인천공소청은 오늘 오전 A씨를 불러 면담을 진행한 뒤 구속영장을 청구했습니다.\n\n공소청 관계자는 구속 요건 등을 판단하기 위해 원칙에 따라 진행하는 면담 절차라고 설명했습니다.\n\n담당 검사는 면담 후 A씨가 범행 당시 갖고 있던 현금 600여 만원이 도피 자금인지 등에 대한 확인을 경찰에 요청한 것으로 전해졌습니다.\n\nA씨에 대한 구속 전 피의자 심문은 내일 오후 2시에 열릴 예정입니다.\n\n한편 경찰은 신상공개 여부도 검토하고 있습니다.\n\n국민의 알 권리 보장과 범죄 예방 효과 등을 고려해 이번 주 안에 경찰 신상공개심의위원회를 열고 공개 여부를 결정할 방침입니다.\n\nA씨는 지난 13일 인천 구월동의 한 대형 상가 건물에서 이용객 10명을 흉기로 살해하려 한 혐의를 받습니다.\n\n피해자 중 심정지 상태로 병원으로 이송된 19살 여성은 고비는 넘겼지만, 사흘째 의식을 되찾지 못하고 있는 상태입니다.\n\n앞서 병원 치료에 대한 불만으로 1인 시위를 하던 중 흉기를 소지해 경찰에 입건되기도 했던 A씨는 경찰 조사에서 \"뉴스거리를 만들면 관심을 끌 수 있을것 같아 범행을 저질렀다\"고 주장했습니다.\n\n또 \"자신보다 힘이 없는 사람을 범행 대상으로 골랐다\"는 취지의 진술도 했는데, 살인을 저지를 의도는 없었다며 고의성은 부인했습니다.\n\n살인미수를 포함해 다수의 전과가 있는 A씨는 지난 2015년에도 전처 살인미수로 징역 4년형을 선고받고 복역한 뒤 2019년 출소했습니다.\n\n출소 후 10년간 전자발찌 부착도 명령받았는데, 법무부는 경찰로부터 A씨가 흉기소지 혐의로 입건됐다는 사실을 통보받았지만 흉기소지를 제한하는 등의 조치를 취하진 않았습니다.\n\n보호관찰 대상인데다 범행 일주일 전 흉기소지 혐의로 조사까지 받은 A씨가 불구속 상태로 수사를 받은 것을 두고 법무부는 물론 경찰의 대응도 도마에 오르고 있습니다.\n\n연합뉴스TV 한웅희입니다.\n\n#인천 #흉기난동 #면담\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n한웅희(hlight@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n인천에서 묻지마 흉기난동을 벌인 59살 남성의 구속 심사가 내일(16일) 오후 2시 인천지방법원에서 열립니다.\n\n경찰은 신상공개 여부도 검토하고 있는데요.\n\n한웅희 기자입니다.\n\n[기자]\n\n경찰은 어제 저녁 인천 흉기난동 사건 피의자 A씨에 살인미수와 공공장소 흉기소지 혐의를 적용해 구속영장을 신청했습니다.\n\n인천공소청은 오늘 오전 A씨를 불러 면담을 진행한 뒤 구속영장을 청구했습니다.\n\n공소청 관계자는 구속 요건 등을 판단하기 위해 원칙에 따라 진행하는 면담 절차라고 설명했습니다.\n\n담당 검사는 면담 후 A씨가 범행 당시 갖고 있던 현금 600여 만원이 도피 자금인지 등에 대한 확인을 경찰에 요청한 것으로 전해졌습니다.\n\nA씨에 대한 구속 전 피의자 심문은 내일 오후 2시에 열릴 예정입니다.\n\n한편 경찰은 신상공개 여부도 검토하고 있습니다.\n\n국민의 알 권리 보장과 범죄 예방 효과 등을 고려해 이번 주 안에 경찰 신상공개심의위원회를 열고 공개 여부를 결정할 방침입니다.\n\nA씨는 지난 13일 인천 구월동의 한 대형 상가 건물에서 이용객 10명을 흉기로 살해하려 한 혐의를 받습니다.\n\n피해자 중 심정지 상태로 병원으로 이송된 19살 여성은 고비는 넘겼지만, 사흘째 의식을 되찾지 못하고 있는 상태입니다.\n\n앞서 병원 치료에 대한 불만으로 1인 시위를 하던 중 흉기를 소지해 경찰에 입건되기도 했던 A씨는 경찰 조사에서 \"뉴스거리를 만들면 관심을 끌 수 있을것 같아 범행을 저질렀다\"고 주장했습니다.\n\n또 \"자신보다 힘이 없는 사람을 범행 대상으로 골랐다\"는 취지의 진술도 했는데, 살인을 저지를 의도는 없었다며 고의성은 부인했습니다.\n\n살인미수를 포함해 다수의 전과가 있는 A씨는 지난 2015년에도 전처 살인미수로 징역 4년형을 선고받고 복역한 뒤 2019년 출소했습니다.\n\n출소 후 10년간 전자발찌 부착도 명령받았는데, 법무부는 경찰로부터 A씨가 흉기소지 혐의로 입건됐다는 사실을 통보받았지만 흉기소지를 제한하는 등의 조치를 취하진 않았습니다.\n\n보호관찰 대상인데다 범행 일주일 전 흉기소지 혐의로 조사까지 받은 A씨가 불구속 상태로 수사를 받은 것을 두고 법무부는 물론 경찰의 대응도 도마에 오르고 있습니다.\n\n연합뉴스TV 한웅희입니다.\n\n#인천 #흉기난동 #면담\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n한웅희(hlight@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261014/AKR202610150828578m7_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261015/MYH20261015170146oZb.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "신현정",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR202610150828578m7#comments",
-          "content": "레알 베티스와의 경기에 나선 황인범의 모습[로이터=연합뉴스][로이터=연합뉴스] 국가대표팀 미드필더 황인범이 교체 출전한 FC 포르투가 스페인의 레알 베티스에 역전패를 당했습니다. 포르투는 15일(한국시간) 스페인 세비야의 에스타디오 라 카르투하에서 열린 유럽축구연맹(UEFA) 챔피언스리그(UCL) 리그 페이즈 2차전 원정 경기에 나섰습니다. 황인범은 팀이 2-1로 앞서던 후반 26분 교체 출전했지만 후반 29분 에르난데스의 동점골과 10분...",
-          "contentSnippet": "레알 베티스와의 경기에 나선 황인범의 모습[로이터=연합뉴스][로이터=연합뉴스] 국가대표팀 미드필더 황인범이 교체 출전한 FC 포르투가 스페인의 레알 베티스에 역전패를 당했습니다. 포르투는 15일(한국시간) 스페인 세비야의 에스타디오 라 카르투하에서 열린 유럽축구연맹(UEFA) 챔피언스리그(UCL) 리그 페이즈 2차전 원정 경기에 나섰습니다. 황인범은 팀이 2-1로 앞서던 후반 26분 교체 출전했지만 후반 29분 에르난데스의 동점골과 10분...",
-          "guid": "AKR202610150828578m7",
+          "dc:creator": "한웅희",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261015170146oZb#comments",
+          "content": "[앵커] 인천에서 묻지마 흉기난동을 벌인 59살 남성의 구속 심사가 내일(16일) 오후 2시 인천지방법원에서 열립니다. 경찰은 신상공개 여부도 검토하고 있는데요. 한웅희 기자입니다. [기자] 경찰은 어제 저녁 인천 흉기난동 사건 피의자 A씨에 살인미수와 공공장소 흉기소지 혐의를 적용해 구속영장을 신청했습니다. 인천공소청은 오늘 오전 A씨를 불러 면담을 진행한 뒤 구속영장을 청구했습니다. 공소청 관계자는 구속 요건 등을 판단하기 위해 원칙에...",
+          "contentSnippet": "[앵커] 인천에서 묻지마 흉기난동을 벌인 59살 남성의 구속 심사가 내일(16일) 오후 2시 인천지방법원에서 열립니다. 경찰은 신상공개 여부도 검토하고 있는데요. 한웅희 기자입니다. [기자] 경찰은 어제 저녁 인천 흉기난동 사건 피의자 A씨에 살인미수와 공공장소 흉기소지 혐의를 적용해 구속영장을 신청했습니다. 인천공소청은 오늘 오전 A씨를 불러 면담을 진행한 뒤 구속영장을 청구했습니다. 공소청 관계자는 구속 요건 등을 판단하기 위해 원칙에...",
+          "guid": "MYH20261015170146oZb",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-14T23:28:58.000Z"
+          "isoDate": "2026-10-15T08:01:47.000Z"
         },
         {
-          "creator": "최지원",
-          "title": "삼성전자, 하노이서 맞춤형 가전 선보여…동남아 시장 공략",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR202610150828552DC",
-          "pubDate": "Thu, 15 Oct 2026 08:28:56 +0900",
-          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261014/AKR202610150828552DC_01_i.jpg\" alt=\"\"><span class=\"yna_title\">삼성전자, 동남아 가전 테크 세미나 '더 브리프' 참석</span><span class=\"yna_caption\">삼성전자가 14일 베트남 하노이에서 열린 삼성 동남아 가전 테크세미나 '더 브리프'에서 냉장고에 탑재된 카메라 기반으로 식재료를 효율적으로 보관·관리할 수 있도록 돕는 'AI 비전' 기능을 시연했다. [출처 = 삼성전자]</span><span class=\"yna_description\">삼성전자가 14일 베트남 하노이에서 열린 삼성 동남아 가전 테크세미나 '더 브리프'에서 냉장고에 탑재된 카메라 기반으로 식재료를 효율적으로 보관·관리할 수 있도록 돕는 'AI 비전' 기능을 시연했다. [출처 = 삼성전자]</span></div>\n삼성전자는 현지시간 14일 베트남 하노이에서 동남아 가전 테크세미나 '더 브리프'를 열고 현지 사용자 맞춤 AI 가전 등을 선보였습니다.\n\n이번 행사는 지난 8월 문을 연 삼성 비즈니스 익스피리언스 스튜디오(BES)에서 진행됐습니다.\n\n삼성전자는 AI 비전을 통해 식재료 입출고 현황을 실시간으로 확인할 수 있는 냉장고와 사용자 생활패턴에 맞춘 AI 벽걸이 에어컨 등을 소개했습니다.\n\n또한 에어컨과 다양한 IoT 기기들을 하나의 플랫폼에 연결하는 연결·통합 제어 플랫폼 '스마트싱스 프로'도 시연했습니다.\n\n삼성전자 DA사업부 이상직 부사장은 \"삼성전자의 차별화된 AI 기술과 연결성을 기반으로 동남아 고객과 B2B 파트너 모두에게 실질적인 가치와 편의를 제공할 것\"이라고 했습니다.\n\n#삼성전자 #동남아 #가전\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
-          "content:encodedSnippet": "삼성전자, 동남아 가전 테크 세미나 '더 브리프' 참석삼성전자가 14일 베트남 하노이에서 열린 삼성 동남아 가전 테크세미나 '더 브리프'에서 냉장고에 탑재된 카메라 기반으로 식재료를 효율적으로 보관·관리할 수 있도록 돕는 'AI 비전' 기능을 시연했다. [출처 = 삼성전자]삼성전자가 14일 베트남 하노이에서 열린 삼성 동남아 가전 테크세미나 '더 브리프'에서 냉장고에 탑재된 카메라 기반으로 식재료를 효율적으로 보관·관리할 수 있도록 돕는 'AI 비전' 기능을 시연했다. [출처 = 삼성전자]\n삼성전자는 현지시간 14일 베트남 하노이에서 동남아 가전 테크세미나 '더 브리프'를 열고 현지 사용자 맞춤 AI 가전 등을 선보였습니다.\n\n이번 행사는 지난 8월 문을 연 삼성 비즈니스 익스피리언스 스튜디오(BES)에서 진행됐습니다.\n\n삼성전자는 AI 비전을 통해 식재료 입출고 현황을 실시간으로 확인할 수 있는 냉장고와 사용자 생활패턴에 맞춘 AI 벽걸이 에어컨 등을 소개했습니다.\n\n또한 에어컨과 다양한 IoT 기기들을 하나의 플랫폼에 연결하는 연결·통합 제어 플랫폼 '스마트싱스 프로'도 시연했습니다.\n\n삼성전자 DA사업부 이상직 부사장은 \"삼성전자의 차별화된 AI 기술과 연결성을 기반으로 동남아 고객과 B2B 파트너 모두에게 실질적인 가치와 편의를 제공할 것\"이라고 했습니다.\n\n#삼성전자 #동남아 #가전\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
+          "creator": "정지훈",
+          "title": "'장모 살해·시신 유기' 조재복 징역 45년",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261015170054bXY",
+          "pubDate": "Thu, 15 Oct 2026 17:00:54 +0900",
+          "content:encoded": "장모를 폭행해 숨지게 한 뒤 시신을 여행용 가방에 담아 유기한 조재복에게 1심에서 징역 45년이 선고됐습니다.\n\n대구지법은 존속살해 등의 혐의로 기소된 조재복에게 이같이 선고하고, 위치추적 전자장치 부착 30년을 명령했습니다.\n\n재판 과정에서 조재복은 살인의 고의가 없었다고 주장했습니다.\n\n하지만 재판부는 폭행의 강도와 지속 시간 등을 고려할 때 지적 능력 등을 참작해도 피해자가 충분히 숨질 것을 알 수 있었다며 살인의 미필적 고의가 인정된다고 판단했습니다.\n\n다만 제한된 지적 능력과 성장 과정 등을 고려할 때 장기간 구금과 치료로 달라질 가능성을 배제하기 어렵다고 양형 이유를 밝혔습니다.\n\n#1심 #대구지법 #조재복 #징역형_45년 #존속살해 #미필적_고의\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정지훈(daegurain@yna.co.kr)",
+          "content:encodedSnippet": "장모를 폭행해 숨지게 한 뒤 시신을 여행용 가방에 담아 유기한 조재복에게 1심에서 징역 45년이 선고됐습니다.\n\n대구지법은 존속살해 등의 혐의로 기소된 조재복에게 이같이 선고하고, 위치추적 전자장치 부착 30년을 명령했습니다.\n\n재판 과정에서 조재복은 살인의 고의가 없었다고 주장했습니다.\n\n하지만 재판부는 폭행의 강도와 지속 시간 등을 고려할 때 지적 능력 등을 참작해도 피해자가 충분히 숨질 것을 알 수 있었다며 살인의 미필적 고의가 인정된다고 판단했습니다.\n\n다만 제한된 지적 능력과 성장 과정 등을 고려할 때 장기간 구금과 치료로 달라질 가능성을 배제하기 어렵다고 양형 이유를 밝혔습니다.\n\n#1심 #대구지법 #조재복 #징역형_45년 #존속살해 #미필적_고의\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정지훈(daegurain@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261014/AKR202610150828552DC_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261015/MYH20261015170054bXY.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "최지원",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR202610150828552DC#comments",
-          "content": "삼성전자, 동남아 가전 테크 세미나 '더 브리프' 참석삼성전자가 14일 베트남 하노이에서 열린 삼성 동남아 가전 테크세미나 '더 브리프'에서 냉장고에 탑재된 카메라 기반으로 식재료를 효율적으로 보관·관리할 수 있도록 돕는 'AI 비전' 기능을 시연했다. [출처 = 삼성전자]삼성전자가 14일 베트남 하노이에서 열린 삼성 동남아 가전 테크세미나 '더 브리프'에서 냉장고에 탑재된 카메라 기반으로 식재료를 효율적으로 보관·관리할 수 있도록 돕는 ...",
-          "contentSnippet": "삼성전자, 동남아 가전 테크 세미나 '더 브리프' 참석삼성전자가 14일 베트남 하노이에서 열린 삼성 동남아 가전 테크세미나 '더 브리프'에서 냉장고에 탑재된 카메라 기반으로 식재료를 효율적으로 보관·관리할 수 있도록 돕는 'AI 비전' 기능을 시연했다. [출처 = 삼성전자]삼성전자가 14일 베트남 하노이에서 열린 삼성 동남아 가전 테크세미나 '더 브리프'에서 냉장고에 탑재된 카메라 기반으로 식재료를 효율적으로 보관·관리할 수 있도록 돕는 ...",
-          "guid": "AKR202610150828552DC",
+          "dc:creator": "정지훈",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261015170054bXY#comments",
+          "content": "장모를 폭행해 숨지게 한 뒤 시신을 여행용 가방에 담아 유기한 조재복에게 1심에서 징역 45년이 선고됐습니다. 대구지법은 존속살해 등의 혐의로 기소된 조재복에게 이같이 선고하고, 위치추적 전자장치 부착 30년을 명령했습니다. 재판 과정에서 조재복은 살인의 고의가 없었다고 주장했습니다. 하지만 재판부는 폭행의 강도와 지속 시간 등을 고려할 때 지적 능력 등을 참작해도 피해자가 충분히 숨질 것을 알 수 있었다며 살인의 미필적 고의가 인정된다고...",
+          "contentSnippet": "장모를 폭행해 숨지게 한 뒤 시신을 여행용 가방에 담아 유기한 조재복에게 1심에서 징역 45년이 선고됐습니다. 대구지법은 존속살해 등의 혐의로 기소된 조재복에게 이같이 선고하고, 위치추적 전자장치 부착 30년을 명령했습니다. 재판 과정에서 조재복은 살인의 고의가 없었다고 주장했습니다. 하지만 재판부는 폭행의 강도와 지속 시간 등을 고려할 때 지적 능력 등을 참작해도 피해자가 충분히 숨질 것을 알 수 있었다며 살인의 미필적 고의가 인정된다고...",
+          "guid": "MYH20261015170054bXY",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-14T23:28:56.000Z"
+          "isoDate": "2026-10-15T08:00:54.000Z"
         },
         {
-          "creator": "이화영",
-          "title": "국중박 전시 나온 친일파 글씨…\"유홍준 관장 소장품\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261015082738snq",
-          "pubDate": "Thu, 15 Oct 2026 08:27:39 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261014/AKR20261015082738snq_01_i.jpg\" alt=\"\"><span class=\"yna_title\">'일반시국은' 유묵</span><span class=\"yna_caption\">[국립중앙박물관 제공. 재판매 및 DB 금지]</span><span class=\"yna_description\">[국립중앙박물관 제공. 재판매 및 DB 금지]</span></div>\n국립중앙박물관에서 애국지사의 글씨로 소개했다가 친일파 글씨로 확인돼 철거한 작품이 유홍준 관장의 소장품으로 확인됐습니다.\n\n국회 문화체육관광위원회 국민의힘 정연욱 의원이 박물관에서 제출받은 자료에 따르면, 박물관은 유묵 '일반시국은'의 소장 정보에 관한 질의에 \"작품은 유홍준 관장의 소장품\"이라고 답변했습니다.\n\n박물관은 지난 7월 개막한 특별전 '우리들의 밥상'에 애국지사 박원근의 글씨라 소개하며 유묵 '일반시국은'을 전시했습니다.\n\n이후 해당 작품은 박원근이란 같은 이름을 사용한 친일파 박중양의 글씨라는 의혹이 제기됐고, 이후 박물관이 작품을 철거해 검증한 결과 사실로 확인됐습니다.\n\n박물관은 정 의원실에 \"관장 추천을 받아 절차에 따라 해당 작품을 차용해 전시에 활용하게 됐다\"며 \"작품은 유홍준 관장이 부여문화원에 기증하기 위해 구입해 놓은 것\"이라고 설명했습니다.\n\n이어 \"비교할 수 있는 애국지사 박원근의 유품이 전무한 점, 소장자의 전언 등을 종합해 박원근 지사의 작품으로 판단했다\"며 \"내부 검토를 거쳐 결정했으나 필체, 인물의 이력 등 분야별 전문가의 교차 검증이 충분치 못했다\"고 부연했습니다.\n\n앞서 유 관장은 지난달 10일 작품을 잘못 소개한 데 대해 \"유물의 정확한 의미를 읽지 못한 것은 역량 부족이자 실수\"라고 사과했습니다.\n\n#국립중앙박물관 #유홍준\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이화영(hwa@yna.co.kr)",
-          "content:encodedSnippet": "'일반시국은' 유묵[국립중앙박물관 제공. 재판매 및 DB 금지][국립중앙박물관 제공. 재판매 및 DB 금지]\n국립중앙박물관에서 애국지사의 글씨로 소개했다가 친일파 글씨로 확인돼 철거한 작품이 유홍준 관장의 소장품으로 확인됐습니다.\n\n국회 문화체육관광위원회 국민의힘 정연욱 의원이 박물관에서 제출받은 자료에 따르면, 박물관은 유묵 '일반시국은'의 소장 정보에 관한 질의에 \"작품은 유홍준 관장의 소장품\"이라고 답변했습니다.\n\n박물관은 지난 7월 개막한 특별전 '우리들의 밥상'에 애국지사 박원근의 글씨라 소개하며 유묵 '일반시국은'을 전시했습니다.\n\n이후 해당 작품은 박원근이란 같은 이름을 사용한 친일파 박중양의 글씨라는 의혹이 제기됐고, 이후 박물관이 작품을 철거해 검증한 결과 사실로 확인됐습니다.\n\n박물관은 정 의원실에 \"관장 추천을 받아 절차에 따라 해당 작품을 차용해 전시에 활용하게 됐다\"며 \"작품은 유홍준 관장이 부여문화원에 기증하기 위해 구입해 놓은 것\"이라고 설명했습니다.\n\n이어 \"비교할 수 있는 애국지사 박원근의 유품이 전무한 점, 소장자의 전언 등을 종합해 박원근 지사의 작품으로 판단했다\"며 \"내부 검토를 거쳐 결정했으나 필체, 인물의 이력 등 분야별 전문가의 교차 검증이 충분치 못했다\"고 부연했습니다.\n\n앞서 유 관장은 지난달 10일 작품을 잘못 소개한 데 대해 \"유물의 정확한 의미를 읽지 못한 것은 역량 부족이자 실수\"라고 사과했습니다.\n\n#국립중앙박물관 #유홍준\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이화영(hwa@yna.co.kr)",
+          "creator": "정주희",
+          "title": "與문체위, 'BIFF 불참' 국힘에 \"정치 논쟁에 영화 현장 외면\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR202610151700254UF",
+          "pubDate": "Thu, 15 Oct 2026 17:00:25 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261015/AKR202610151700254UF_01_i.jpg\" alt=\"\"><span class=\"yna_title\">문체위 국민의힘, '암살자(들) 증인 채택 문제로 퇴장</span><span class=\"yna_caption\">문체위 국민의힘, '암살자(들) 증인 채택 문제로 퇴장\n(서울=연합뉴스) 배재만 기자 = 14일 국회에서 열린 문화체육관광위원회 국정감사가 국민의힘 위원들이 영화 '암살자(들)' 관계자를 증인으로 채택하지 못하게 되자 퇴장한 가운데 회의가 열리고 있다. 2026.10.14\nscoop@yna.co.kr\n(끝)\n\n\n<저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지></span><span class=\"yna_description\">문체위 국민의힘, '암살자(들) 증인 채택 문제로 퇴장\n(서울=연합뉴스) 배재만 기자 = 14일 국회에서 열린 문화체육관광위원회 국정감사가 국민의힘 위원들이 영화 '암살자(들)' 관계자를 증인으로 채택하지 못하게 되자 퇴장한 가운데 회의가 열리고 있다. 2026.10.14\nscoop@yna.co.kr\n(끝)\n\n\n<저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지></span></div>\n국회 문화체육관광위원회 소속 더불어민주당 위원들은 부산국제영화제 현장시찰 일정에 불참한 국민의힘 위원들을 향해 \"정치적 논쟁을 이유로 영화계 현장을 외면해서는 안 된다\"고 비판했습니다.\n\n민주당 위원들은 오늘(15일) 입장문에서 \"문체위가 의결한 공식 의사일정에 국민의힘 위원들이 단체로 불참하고 별도의 일정을 진행하기로 한 데 깊은 유감을 표한다\"고 밝혔습니다.\n\n문체위는 오늘부터 이틀간 부산국제영화제 현장을 찾는 시찰 일정을 계획했지만, 영화 '암살자(들)'의 역사 왜곡 논란과 관련해 국민의힘이 요구했던 국정감사 증인 채택에 합의하지 못하면서 여당 위원들만 현장 시찰에 참여했습니다.\n\n국민의힘 위원들은 서울시와 국가유산청이 재개발을 놓고 갈등을 빚은 서울 종묘 앞 세운4구역 등을 찾아 별도로 현장 시찰을 진행했습니다.\n\n여당 위원들은 입장문에서 \"논란이 있는 때일수록 국회는 현장을 찾아 사실관계를 살피고 영화인들의 목소리를 직접 들어야 한다\"며 \"영화에 대한 정치권 공방으로 영화인과 영화제가 위축되는 일은 없어야 한다\"고 지적했습니다.\n\n#민주당 #문체위 #암살자들\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정주희(gee@yna.co.kr)",
+          "content:encodedSnippet": "문체위 국민의힘, '암살자(들) 증인 채택 문제로 퇴장문체위 국민의힘, '암살자(들) 증인 채택 문제로 퇴장\n(서울=연합뉴스) 배재만 기자 = 14일 국회에서 열린 문화체육관광위원회 국정감사가 국민의힘 위원들이 영화 '암살자(들)' 관계자를 증인으로 채택하지 못하게 되자 퇴장한 가운데 회의가 열리고 있다. 2026.10.14\nscoop@yna.co.kr\n(끝)\n\n\n문체위 국민의힘, '암살자(들) 증인 채택 문제로 퇴장\n(서울=연합뉴스) 배재만 기자 = 14일 국회에서 열린 문화체육관광위원회 국정감사가 국민의힘 위원들이 영화 '암살자(들)' 관계자를 증인으로 채택하지 못하게 되자 퇴장한 가운데 회의가 열리고 있다. 2026.10.14\nscoop@yna.co.kr\n(끝)\n\n\n\n국회 문화체육관광위원회 소속 더불어민주당 위원들은 부산국제영화제 현장시찰 일정에 불참한 국민의힘 위원들을 향해 \"정치적 논쟁을 이유로 영화계 현장을 외면해서는 안 된다\"고 비판했습니다.\n\n민주당 위원들은 오늘(15일) 입장문에서 \"문체위가 의결한 공식 의사일정에 국민의힘 위원들이 단체로 불참하고 별도의 일정을 진행하기로 한 데 깊은 유감을 표한다\"고 밝혔습니다.\n\n문체위는 오늘부터 이틀간 부산국제영화제 현장을 찾는 시찰 일정을 계획했지만, 영화 '암살자(들)'의 역사 왜곡 논란과 관련해 국민의힘이 요구했던 국정감사 증인 채택에 합의하지 못하면서 여당 위원들만 현장 시찰에 참여했습니다.\n\n국민의힘 위원들은 서울시와 국가유산청이 재개발을 놓고 갈등을 빚은 서울 종묘 앞 세운4구역 등을 찾아 별도로 현장 시찰을 진행했습니다.\n\n여당 위원들은 입장문에서 \"논란이 있는 때일수록 국회는 현장을 찾아 사실관계를 살피고 영화인들의 목소리를 직접 들어야 한다\"며 \"영화에 대한 정치권 공방으로 영화인과 영화제가 위축되는 일은 없어야 한다\"고 지적했습니다.\n\n#민주당 #문체위 #암살자들\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정주희(gee@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261014/AKR20261015082738snq_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261015/AKR202610151700254UF_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "이화영",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261015082738snq#comments",
-          "content": "'일반시국은' 유묵[국립중앙박물관 제공. 재판매 및 DB 금지][국립중앙박물관 제공. 재판매 및 DB 금지] 국립중앙박물관에서 애국지사의 글씨로 소개했다가 친일파 글씨로 확인돼 철거한 작품이 유홍준 관장의 소장품으로 확인됐습니다. 국회 문화체육관광위원회 국민의힘 정연욱 의원이 박물관에서 제출받은 자료에 따르면, 박물관은 유묵 '일반시국은'의 소장 정보에 관한 질의에 \"작품은 유홍준 관장의 소장품\"이라고 답변했습니다. 박물관은 지난 7월 개...",
-          "contentSnippet": "'일반시국은' 유묵[국립중앙박물관 제공. 재판매 및 DB 금지][국립중앙박물관 제공. 재판매 및 DB 금지] 국립중앙박물관에서 애국지사의 글씨로 소개했다가 친일파 글씨로 확인돼 철거한 작품이 유홍준 관장의 소장품으로 확인됐습니다. 국회 문화체육관광위원회 국민의힘 정연욱 의원이 박물관에서 제출받은 자료에 따르면, 박물관은 유묵 '일반시국은'의 소장 정보에 관한 질의에 \"작품은 유홍준 관장의 소장품\"이라고 답변했습니다. 박물관은 지난 7월 개...",
-          "guid": "AKR20261015082738snq",
+          "dc:creator": "정주희",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR202610151700254UF#comments",
+          "content": "문체위 국민의힘, '암살자(들) 증인 채택 문제로 퇴장문체위 국민의힘, '암살자(들) 증인 채택 문제로 퇴장 (서울=연합뉴스) 배재만 기자 = 14일 국회에서 열린 문화체육관광위원회 국정감사가 국민의힘 위원들이 영화 '암살자(들)' 관계자를 증인으로 채택하지 못하게 되자 퇴장한 가운데 회의가 열리고 있다. 2026.10.14 scoop@yna.co.kr (끝) 문체위 국민의힘, '암살자(들) 증인 채택 문제로 퇴장 (서울=연합뉴스) 배재만...",
+          "contentSnippet": "문체위 국민의힘, '암살자(들) 증인 채택 문제로 퇴장문체위 국민의힘, '암살자(들) 증인 채택 문제로 퇴장 (서울=연합뉴스) 배재만 기자 = 14일 국회에서 열린 문화체육관광위원회 국정감사가 국민의힘 위원들이 영화 '암살자(들)' 관계자를 증인으로 채택하지 못하게 되자 퇴장한 가운데 회의가 열리고 있다. 2026.10.14 scoop@yna.co.kr (끝) 문체위 국민의힘, '암살자(들) 증인 채택 문제로 퇴장 (서울=연합뉴스) 배재만...",
+          "guid": "AKR202610151700254UF",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-14T23:27:39.000Z"
+          "isoDate": "2026-10-15T08:00:25.000Z"
         },
         {
-          "creator": "이초원",
-          "title": "프로야구, 비오면 '평균 47분' 중단…폭염으로 리그 중단도",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261015082408Ch0",
-          "pubDate": "Thu, 15 Oct 2026 08:24:08 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261014/AKR20261015082408Ch0_01_i.jpg\" alt=\"\"><span class=\"yna_title\">야구장에 비</span><span class=\"yna_caption\">[연합뉴스 자료사진]</span><span class=\"yna_description\">[연합뉴스 자료사진]</span></div>\n최근 5년간 프로야구 경기가 비로 인해 멈춘 경우, 한 차례당 평균 중단 시간이 47분에 달하는 것으로 나타났습니다.\n\n국회 문화체육관광위원회 소속 더불어민주당 진선미 의원실에 따르면, 2022년부터 올해 8월까지 150회 경기가 중단됐으며 이 가운데 우천이 114회로 76%를 차지했습니다.\n\n우천 중단시간은 5천357분으로, 전체 중단시간의 95.8%를 차지했습니다. 우천 중단시간을 횟수로 나누면 한 차례에 평균 약 47분입니다.\n\n한편, 올해는 이상기후 현상으로 KBO 리그 사상 처음으로 폭염 탓에 리그가 전면 중단되기도 했습니다. 이에 따라 이상 기후에 대응하는 리그 운영 기준과 구장별 대응 방안 또한 새로 마련해야 한다는 목소리가 나오고 있습니다.\n\n#KBO #우천 #폭염\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이초원(grass@yna.co.kr)",
-          "content:encodedSnippet": "야구장에 비[연합뉴스 자료사진][연합뉴스 자료사진]\n최근 5년간 프로야구 경기가 비로 인해 멈춘 경우, 한 차례당 평균 중단 시간이 47분에 달하는 것으로 나타났습니다.\n\n국회 문화체육관광위원회 소속 더불어민주당 진선미 의원실에 따르면, 2022년부터 올해 8월까지 150회 경기가 중단됐으며 이 가운데 우천이 114회로 76%를 차지했습니다.\n\n우천 중단시간은 5천357분으로, 전체 중단시간의 95.8%를 차지했습니다. 우천 중단시간을 횟수로 나누면 한 차례에 평균 약 47분입니다.\n\n한편, 올해는 이상기후 현상으로 KBO 리그 사상 처음으로 폭염 탓에 리그가 전면 중단되기도 했습니다. 이에 따라 이상 기후에 대응하는 리그 운영 기준과 구장별 대응 방안 또한 새로 마련해야 한다는 목소리가 나오고 있습니다.\n\n#KBO #우천 #폭염\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이초원(grass@yna.co.kr)",
+          "creator": "지성림",
+          "title": "군 수사기관 지휘·감독 '서면으로' 규칙 개정…\"투명성 강화\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261015165952iwi",
+          "pubDate": "Thu, 15 Oct 2026 16:59:53 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261015/AKR20261015165952iwi_01_i.jpg\" alt=\"\"><span class=\"yna_title\">답변하는 강신철 국방부 장관</span><span class=\"yna_caption\">(서울=연합뉴스) 박동주 기자 = 강신철 국방부 장관이 15일 서울 국방부에서 열린 국회 법제사법위원회의 군사법원 국정감사에서 위원 질문에 답하고 있다. 2026.10.15\npdj6635@yna.co.kr\n(끝)\n<저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지></span><span class=\"yna_description\">(서울=연합뉴스) 박동주 기자 = 강신철 국방부 장관이 15일 서울 국방부에서 열린 국회 법제사법위원회의 군사법원 국정감사에서 위원 질문에 답하고 있다. 2026.10.15\npdj6635@yna.co.kr\n(끝)\n<저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지></span></div>\n국방부는 오늘(15일) 국회 법제사법위원회 군사법원 국정감사 업무보고에서 군사법경찰관에 대한 지휘·감독을 서면으로 하도록 국방부령인 '군사법경찰수사규칙' 개정을 추진하겠다고 밝혔습니다.\n\n이는 군 수사기관에 대한 지휘·감독 내용을 서면으로 남겨 수사 절차의 투명성을 높이고 책임 소재를 명확히 하려는 취지로 풀이됩니다.\n\n국방부는 또 군 수사 대상 장병의 인권을 보장하기 위해 군검사가 작성한 피의자신문조서의 증거능력 인정 요건을 강화하고, 구속영장과 압수·수색영장 집행 시 사본을 교부하는 방안 등을 추진해 수사·재판 절차를 보완하기로 했습니다.\n\n또 개정 형사소송법 시행으로 민간 검찰청이 폐지되고 공소청·중대범죄수사청이 신설됨에 따라 '군사법원법' 조문 상에 남은 '검찰청' 등의 명칭을 바꾸고 사건 이첩 기관을 '중대범죄수사청' 등으로 조정하는 법률 정비도 진행합니다.\n\n한편 군 수사기관인 군검찰, 군사법경찰은 '군사법원법'에 따라 설치된 조직으로 민간의 수사기관 조직 개편에 직접적인 영향을 받지는 않습니다.\n\n#국방부 #군사법원_국정감사 #군사법경찰수사규칙 #수사기관\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n지성림(yoonik@yna.co.kr)",
+          "content:encodedSnippet": "답변하는 강신철 국방부 장관(서울=연합뉴스) 박동주 기자 = 강신철 국방부 장관이 15일 서울 국방부에서 열린 국회 법제사법위원회의 군사법원 국정감사에서 위원 질문에 답하고 있다. 2026.10.15\npdj6635@yna.co.kr\n(끝)\n(서울=연합뉴스) 박동주 기자 = 강신철 국방부 장관이 15일 서울 국방부에서 열린 국회 법제사법위원회의 군사법원 국정감사에서 위원 질문에 답하고 있다. 2026.10.15\npdj6635@yna.co.kr\n(끝)\n\n국방부는 오늘(15일) 국회 법제사법위원회 군사법원 국정감사 업무보고에서 군사법경찰관에 대한 지휘·감독을 서면으로 하도록 국방부령인 '군사법경찰수사규칙' 개정을 추진하겠다고 밝혔습니다.\n\n이는 군 수사기관에 대한 지휘·감독 내용을 서면으로 남겨 수사 절차의 투명성을 높이고 책임 소재를 명확히 하려는 취지로 풀이됩니다.\n\n국방부는 또 군 수사 대상 장병의 인권을 보장하기 위해 군검사가 작성한 피의자신문조서의 증거능력 인정 요건을 강화하고, 구속영장과 압수·수색영장 집행 시 사본을 교부하는 방안 등을 추진해 수사·재판 절차를 보완하기로 했습니다.\n\n또 개정 형사소송법 시행으로 민간 검찰청이 폐지되고 공소청·중대범죄수사청이 신설됨에 따라 '군사법원법' 조문 상에 남은 '검찰청' 등의 명칭을 바꾸고 사건 이첩 기관을 '중대범죄수사청' 등으로 조정하는 법률 정비도 진행합니다.\n\n한편 군 수사기관인 군검찰, 군사법경찰은 '군사법원법'에 따라 설치된 조직으로 민간의 수사기관 조직 개편에 직접적인 영향을 받지는 않습니다.\n\n#국방부 #군사법원_국정감사 #군사법경찰수사규칙 #수사기관\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n지성림(yoonik@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261014/AKR20261015082408Ch0_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261015/AKR20261015165952iwi_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "이초원",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261015082408Ch0#comments",
-          "content": "야구장에 비[연합뉴스 자료사진][연합뉴스 자료사진] 최근 5년간 프로야구 경기가 비로 인해 멈춘 경우, 한 차례당 평균 중단 시간이 47분에 달하는 것으로 나타났습니다. 국회 문화체육관광위원회 소속 더불어민주당 진선미 의원실에 따르면, 2022년부터 올해 8월까지 150회 경기가 중단됐으며 이 가운데 우천이 114회로 76%를 차지했습니다. 우천 중단시간은 5천357분으로, 전체 중단시간의 95.8%를 차지했습니다. 우천 중단시간을 횟수로...",
-          "contentSnippet": "야구장에 비[연합뉴스 자료사진][연합뉴스 자료사진] 최근 5년간 프로야구 경기가 비로 인해 멈춘 경우, 한 차례당 평균 중단 시간이 47분에 달하는 것으로 나타났습니다. 국회 문화체육관광위원회 소속 더불어민주당 진선미 의원실에 따르면, 2022년부터 올해 8월까지 150회 경기가 중단됐으며 이 가운데 우천이 114회로 76%를 차지했습니다. 우천 중단시간은 5천357분으로, 전체 중단시간의 95.8%를 차지했습니다. 우천 중단시간을 횟수로...",
-          "guid": "AKR20261015082408Ch0",
+          "dc:creator": "지성림",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261015165952iwi#comments",
+          "content": "답변하는 강신철 국방부 장관(서울=연합뉴스) 박동주 기자 = 강신철 국방부 장관이 15일 서울 국방부에서 열린 국회 법제사법위원회의 군사법원 국정감사에서 위원 질문에 답하고 있다. 2026.10.15 pdj6635@yna.co.kr (끝) (서울=연합뉴스) 박동주 기자 = 강신철 국방부 장관이 15일 서울 국방부에서 열린 국회 법제사법위원회의 군사법원 국정감사에서 위원 질문에 답하고 있다. 2026.10.15 pdj6635@yna.co.k...",
+          "contentSnippet": "답변하는 강신철 국방부 장관(서울=연합뉴스) 박동주 기자 = 강신철 국방부 장관이 15일 서울 국방부에서 열린 국회 법제사법위원회의 군사법원 국정감사에서 위원 질문에 답하고 있다. 2026.10.15 pdj6635@yna.co.kr (끝) (서울=연합뉴스) 박동주 기자 = 강신철 국방부 장관이 15일 서울 국방부에서 열린 국회 법제사법위원회의 군사법원 국정감사에서 위원 질문에 답하고 있다. 2026.10.15 pdj6635@yna.co.k...",
+          "guid": "AKR20261015165952iwi",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-14T23:24:08.000Z"
+          "isoDate": "2026-10-15T07:59:53.000Z"
         },
         {
-          "creator": "이경희",
-          "title": "인천 흉기난동범, 과거 첫 살인미수 범행 형량 '집행유예' 그쳐",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261015082326ISG",
-          "pubDate": "Thu, 15 Oct 2026 08:23:28 +0900",
-          "content:encoded": "인천 대형 상가에서 흉기 난동을 벌인 50대 A씨가 22년 전 처음으로 살인미수 범행을 저질렀을 당시 피해자와 합의했다는 이유로 집행유예를 선고받은 것으로 확인됐습니다.\n\n법원 판결문에 따르면 A씨는 지난 2004년 7월 전셋집이 경매에 넘어가 보증금 900만원을 돌려받지 못하게 되자, 같은 해 9월 집을 소개해준 공인중개사 사무소 직원에게 흉기를 휘둘렀습니다.\n\n1심은 징역 5년을 선고했으나 2심에서 징역 2년 6개월에 집행유예 3년으로 감형됐고 풀려난 A씨는 2007년에도 흉기 범행을 저질렀습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이경희(sorimoa@yna.co.kr)",
-          "content:encodedSnippet": "인천 대형 상가에서 흉기 난동을 벌인 50대 A씨가 22년 전 처음으로 살인미수 범행을 저질렀을 당시 피해자와 합의했다는 이유로 집행유예를 선고받은 것으로 확인됐습니다.\n\n법원 판결문에 따르면 A씨는 지난 2004년 7월 전셋집이 경매에 넘어가 보증금 900만원을 돌려받지 못하게 되자, 같은 해 9월 집을 소개해준 공인중개사 사무소 직원에게 흉기를 휘둘렀습니다.\n\n1심은 징역 5년을 선고했으나 2심에서 징역 2년 6개월에 집행유예 3년으로 감형됐고 풀려난 A씨는 2007년에도 흉기 범행을 저질렀습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이경희(sorimoa@yna.co.kr)",
+          "creator": "소재형",
+          "title": "靑, 이상동기‧관계성‧사회적약자 범죄 대책회의 개최",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261015165916AoT",
+          "pubDate": "Thu, 15 Oct 2026 16:59:19 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261015/AKR20261015165916AoT_01_i.jpg\" alt=\"\"><span class=\"yna_title\">청와대</span><span class=\"yna_caption\">청와대 본관과 대정원\n(서울=연합뉴스) 김도훈 기자 = 6일 청와대 본관과 대정원 모습. 2026.5.6 superdoo82@yna.co.kr</span><span class=\"yna_description\">청와대 본관과 대정원\n(서울=연합뉴스) 김도훈 기자 = 6일 청와대 본관과 대정원 모습. 2026.5.6 superdoo82@yna.co.kr</span></div>\n청와대가 오늘(15일) 하준경 정책실장 주재로 관계부처 합동 이상동기‧관계성‧사회적약자 범죄 대책회의를 갖습니다.\n\n이날 회의는 최근 연달아 발생하고 있는 관계성 범죄와 이상동기 범죄 등 사회적 약자를 대상으로 하는 흉악범죄를 막기 위해 범정부적 대책을 마련하라는 이재명 대통령의 지시에 따라 마련됐습니다.\n\n이번 회의에서는 ‘피해자보호 최우선에 기반한 현장 대응력 확보 방안’, ‘전자감독 관리‧감독 체계 및 개선 대책’, ‘범죄 피해자 보호‧지원 방안’, ‘정신응급 대응체계 강화 방안’, ‘학교 내 폭력 예방교육 등 강화 방안’ 등에 대한 보고가 있을 예정입니다.\n\n앞서 이 대통령은 인천 흉기 난동 사건이 발생한 지난 13일 인천경찰청을 찾아 경위를 보고 받고, 강력범죄에 대한 특단의 대책 마련을 지시한 바 있습니다.\n\n\n#청와대 #이상동기범죄 #하준경 #관계성 #흉기 #무차별 #인천\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n소재형(sojay@yna.co.kr)",
+          "content:encodedSnippet": "청와대청와대 본관과 대정원\n(서울=연합뉴스) 김도훈 기자 = 6일 청와대 본관과 대정원 모습. 2026.5.6 superdoo82@yna.co.kr청와대 본관과 대정원\n(서울=연합뉴스) 김도훈 기자 = 6일 청와대 본관과 대정원 모습. 2026.5.6 superdoo82@yna.co.kr\n청와대가 오늘(15일) 하준경 정책실장 주재로 관계부처 합동 이상동기‧관계성‧사회적약자 범죄 대책회의를 갖습니다.\n\n이날 회의는 최근 연달아 발생하고 있는 관계성 범죄와 이상동기 범죄 등 사회적 약자를 대상으로 하는 흉악범죄를 막기 위해 범정부적 대책을 마련하라는 이재명 대통령의 지시에 따라 마련됐습니다.\n\n이번 회의에서는 ‘피해자보호 최우선에 기반한 현장 대응력 확보 방안’, ‘전자감독 관리‧감독 체계 및 개선 대책’, ‘범죄 피해자 보호‧지원 방안’, ‘정신응급 대응체계 강화 방안’, ‘학교 내 폭력 예방교육 등 강화 방안’ 등에 대한 보고가 있을 예정입니다.\n\n앞서 이 대통령은 인천 흉기 난동 사건이 발생한 지난 13일 인천경찰청을 찾아 경위를 보고 받고, 강력범죄에 대한 특단의 대책 마련을 지시한 바 있습니다.\n\n\n#청와대 #이상동기범죄 #하준경 #관계성 #흉기 #무차별 #인천\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n소재형(sojay@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261014/MYH20261015082326ISG.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261015/AKR20261015165916AoT_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "이경희",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261015082326ISG#comments",
-          "content": "인천 대형 상가에서 흉기 난동을 벌인 50대 A씨가 22년 전 처음으로 살인미수 범행을 저질렀을 당시 피해자와 합의했다는 이유로 집행유예를 선고받은 것으로 확인됐습니다. 법원 판결문에 따르면 A씨는 지난 2004년 7월 전셋집이 경매에 넘어가 보증금 900만원을 돌려받지 못하게 되자, 같은 해 9월 집을 소개해준 공인중개사 사무소 직원에게 흉기를 휘둘렀습니다. 1심은 징역 5년을 선고했으나 2심에서 징역 2년 6개월에 집행유예 3년으로 감...",
-          "contentSnippet": "인천 대형 상가에서 흉기 난동을 벌인 50대 A씨가 22년 전 처음으로 살인미수 범행을 저질렀을 당시 피해자와 합의했다는 이유로 집행유예를 선고받은 것으로 확인됐습니다. 법원 판결문에 따르면 A씨는 지난 2004년 7월 전셋집이 경매에 넘어가 보증금 900만원을 돌려받지 못하게 되자, 같은 해 9월 집을 소개해준 공인중개사 사무소 직원에게 흉기를 휘둘렀습니다. 1심은 징역 5년을 선고했으나 2심에서 징역 2년 6개월에 집행유예 3년으로 감...",
-          "guid": "MYH20261015082326ISG",
+          "dc:creator": "소재형",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261015165916AoT#comments",
+          "content": "청와대청와대 본관과 대정원 (서울=연합뉴스) 김도훈 기자 = 6일 청와대 본관과 대정원 모습. 2026.5.6 superdoo82@yna.co.kr청와대 본관과 대정원 (서울=연합뉴스) 김도훈 기자 = 6일 청와대 본관과 대정원 모습. 2026.5.6 superdoo82@yna.co.kr 청와대가 오늘(15일) 하준경 정책실장 주재로 관계부처 합동 이상동기‧관계성‧사회적약자 범죄 대책회의를 갖습니다. 이날 회의는 최근 연달아 발생하고 있는...",
+          "contentSnippet": "청와대청와대 본관과 대정원 (서울=연합뉴스) 김도훈 기자 = 6일 청와대 본관과 대정원 모습. 2026.5.6 superdoo82@yna.co.kr청와대 본관과 대정원 (서울=연합뉴스) 김도훈 기자 = 6일 청와대 본관과 대정원 모습. 2026.5.6 superdoo82@yna.co.kr 청와대가 오늘(15일) 하준경 정책실장 주재로 관계부처 합동 이상동기‧관계성‧사회적약자 범죄 대책회의를 갖습니다. 이날 회의는 최근 연달아 발생하고 있는...",
+          "guid": "AKR20261015165916AoT",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-14T23:23:28.000Z"
+          "isoDate": "2026-10-15T07:59:19.000Z"
         },
         {
-          "creator": "김경인",
-          "title": "전주서 아내 살해한 70대 체포 당시 음독…\"생명 지장 없어\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR202610150813226UZ",
-          "pubDate": "Thu, 15 Oct 2026 08:13:22 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261014/AKR202610150813226UZ_01_i.jpg\" alt=\"\"><span class=\"yna_title\">전북경찰청 청사</span><span class=\"yna_caption\"></span><span class=\"yna_description\"></span></div>\n전북 전주에서 아내를 살해하고 달아난 70대 남성이 체포 당시 음독해 병원으로 이송됐습니다.\n\n전북경찰청 등에 따르면 어제(14일) 살인 혐의로 긴급체포한 70대 남성 A씨가 체포 당시 음독해 종합병원에서 치료받고 있습니다.\n\nA씨는 생명에는 지장이 없는 것으로 전해졌습니다.\n\nA씨는 지난 13일 오후 전주시 덕진구의 한 주택에서 아내를 흉기로 찔러 살해한 뒤 달아났습니다.\n\n그는 범행 이후 자신의 차량으로 전북과 충남 지역을 돌아다니다가 어제(14일) 오후 8시 40분쯤 충남 서천군에서 경찰에 긴급체포 됐습니다.\n\nA씨는 최근 법원으로부터 아내에 대한 스토킹 잠정조치 1∼3호를 받은 것으로 파악됐습니다.\n\n잠정조치 1호는 스토킹 행위를 중단하라는 서면 경고, 2호는 피해자와 그 가족 주변 100ｍ 이내 접근 금지, 3호는 전화·문자메시지 등 연락 금지 결정입니다.\n\nA씨는 이전에도 아내를 폭행하는 등 여러 차례 가정폭력을 저지른 것으로 확인됐습니다.\n\n경찰은 A씨를 상대로 범행 동기 등을 조사하는 한편 피해자의 시신 부검을 의뢰했습니다.\n\n\n#아내 #흉기 #음독 #스토킹 #가정폭력\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김경인(kikim@yna.co.kr)",
-          "content:encodedSnippet": "전북경찰청 청사\n전북 전주에서 아내를 살해하고 달아난 70대 남성이 체포 당시 음독해 병원으로 이송됐습니다.\n\n전북경찰청 등에 따르면 어제(14일) 살인 혐의로 긴급체포한 70대 남성 A씨가 체포 당시 음독해 종합병원에서 치료받고 있습니다.\n\nA씨는 생명에는 지장이 없는 것으로 전해졌습니다.\n\nA씨는 지난 13일 오후 전주시 덕진구의 한 주택에서 아내를 흉기로 찔러 살해한 뒤 달아났습니다.\n\n그는 범행 이후 자신의 차량으로 전북과 충남 지역을 돌아다니다가 어제(14일) 오후 8시 40분쯤 충남 서천군에서 경찰에 긴급체포 됐습니다.\n\nA씨는 최근 법원으로부터 아내에 대한 스토킹 잠정조치 1∼3호를 받은 것으로 파악됐습니다.\n\n잠정조치 1호는 스토킹 행위를 중단하라는 서면 경고, 2호는 피해자와 그 가족 주변 100ｍ 이내 접근 금지, 3호는 전화·문자메시지 등 연락 금지 결정입니다.\n\nA씨는 이전에도 아내를 폭행하는 등 여러 차례 가정폭력을 저지른 것으로 확인됐습니다.\n\n경찰은 A씨를 상대로 범행 동기 등을 조사하는 한편 피해자의 시신 부검을 의뢰했습니다.\n\n\n#아내 #흉기 #음독 #스토킹 #가정폭력\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김경인(kikim@yna.co.kr)",
+          "creator": "문승욱",
+          "title": "지하철 빈자리 막은 캐리어에 눈살 찌푸릴 뻔…알고 보니 반전",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261015165506jJB",
+          "pubDate": "Thu, 15 Oct 2026 16:55:07 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261015/AKR20261015165506jJB_01_i.jpg\" alt=\"\"><span class=\"yna_title\">[사진=스레드 @leedonghun_dh2]</span><span class=\"yna_caption\"></span><span class=\"yna_description\"></span></div>\n공항철도 열차에서 한 일본인 여행객이 이물질이 묻은 옆자리 좌석을 캐리어로 막아두고, 앉으려는 승객에게 손짓으로 이를 알린 사연이 온라인에서 화제가 되고 있습니다.\n\n오늘(15일) SNS에는 공항철도에서 겪은 일을 소개하는 글이 이같이 올라왔습니다.\n\n작성자는 열차 안에서 빈자리를 발견해 앉으려는 순간, 옆자리에 앉아 있던 일본인 여행객이 손가락으로 해당 좌석을 가리켰다고 전했습니다.\n\n확인해 보니 좌석에는 이물질이 묻어 있었습니다. 이 여행객은 다른 승객이 이를 모르고 앉아 바지에 묻는 것을 막기 위해 자신의 캐리어로 좌석을 가려두고 있었습니다.\n\n사연을 접한 누리꾼들은 \"감사하다. 본 받아야 한다\", \"센스가 좋은 사람이다\", \"저런 것을 뻔히 알고도 모른 척 하는 사람들도 분명히 있다. 저런 분 만나면 참 감사하고 좋다\" 등 긍정적인 반응을 보였습니다.\n\n한 누리꾼은 \"문자로 (이물질이 묻은 좌석을) 알려주면 다다음역에 정차할 때 다 치워준다. 문자로 알려본 적이 있다\"고 관련 대응 정보를 공유하기도 했습니다.\n\n#공항철도 #일본인여행객 #온라인화제 #훈훈한미담 #캐리어\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n문승욱(winnerwook@yna.co.kr)",
+          "content:encodedSnippet": "[사진=스레드 @leedonghun_dh2]\n공항철도 열차에서 한 일본인 여행객이 이물질이 묻은 옆자리 좌석을 캐리어로 막아두고, 앉으려는 승객에게 손짓으로 이를 알린 사연이 온라인에서 화제가 되고 있습니다.\n\n오늘(15일) SNS에는 공항철도에서 겪은 일을 소개하는 글이 이같이 올라왔습니다.\n\n작성자는 열차 안에서 빈자리를 발견해 앉으려는 순간, 옆자리에 앉아 있던 일본인 여행객이 손가락으로 해당 좌석을 가리켰다고 전했습니다.\n\n확인해 보니 좌석에는 이물질이 묻어 있었습니다. 이 여행객은 다른 승객이 이를 모르고 앉아 바지에 묻는 것을 막기 위해 자신의 캐리어로 좌석을 가려두고 있었습니다.\n\n사연을 접한 누리꾼들은 \"감사하다. 본 받아야 한다\", \"센스가 좋은 사람이다\", \"저런 것을 뻔히 알고도 모른 척 하는 사람들도 분명히 있다. 저런 분 만나면 참 감사하고 좋다\" 등 긍정적인 반응을 보였습니다.\n\n한 누리꾼은 \"문자로 (이물질이 묻은 좌석을) 알려주면 다다음역에 정차할 때 다 치워준다. 문자로 알려본 적이 있다\"고 관련 대응 정보를 공유하기도 했습니다.\n\n#공항철도 #일본인여행객 #온라인화제 #훈훈한미담 #캐리어\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n문승욱(winnerwook@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261014/AKR202610150813226UZ_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261015/AKR20261015165506jJB_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "김경인",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR202610150813226UZ#comments",
-          "content": "전북경찰청 청사 전북 전주에서 아내를 살해하고 달아난 70대 남성이 체포 당시 음독해 병원으로 이송됐습니다. 전북경찰청 등에 따르면 어제(14일) 살인 혐의로 긴급체포한 70대 남성 A씨가 체포 당시 음독해 종합병원에서 치료받고 있습니다. A씨는 생명에는 지장이 없는 것으로 전해졌습니다. A씨는 지난 13일 오후 전주시 덕진구의 한 주택에서 아내를 흉기로 찔러 살해한 뒤 달아났습니다. 그는 범행 이후 자신의 차량으로 전북과 충남 지역을 돌...",
-          "contentSnippet": "전북경찰청 청사 전북 전주에서 아내를 살해하고 달아난 70대 남성이 체포 당시 음독해 병원으로 이송됐습니다. 전북경찰청 등에 따르면 어제(14일) 살인 혐의로 긴급체포한 70대 남성 A씨가 체포 당시 음독해 종합병원에서 치료받고 있습니다. A씨는 생명에는 지장이 없는 것으로 전해졌습니다. A씨는 지난 13일 오후 전주시 덕진구의 한 주택에서 아내를 흉기로 찔러 살해한 뒤 달아났습니다. 그는 범행 이후 자신의 차량으로 전북과 충남 지역을 돌...",
-          "guid": "AKR202610150813226UZ",
+          "dc:creator": "문승욱",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261015165506jJB#comments",
+          "content": "[사진=스레드 @leedonghun_dh2] 공항철도 열차에서 한 일본인 여행객이 이물질이 묻은 옆자리 좌석을 캐리어로 막아두고, 앉으려는 승객에게 손짓으로 이를 알린 사연이 온라인에서 화제가 되고 있습니다. 오늘(15일) SNS에는 공항철도에서 겪은 일을 소개하는 글이 이같이 올라왔습니다. 작성자는 열차 안에서 빈자리를 발견해 앉으려는 순간, 옆자리에 앉아 있던 일본인 여행객이 손가락으로 해당 좌석을 가리켰다고 전했습니다. 확인해 보니 ...",
+          "contentSnippet": "[사진=스레드 @leedonghun_dh2] 공항철도 열차에서 한 일본인 여행객이 이물질이 묻은 옆자리 좌석을 캐리어로 막아두고, 앉으려는 승객에게 손짓으로 이를 알린 사연이 온라인에서 화제가 되고 있습니다. 오늘(15일) SNS에는 공항철도에서 겪은 일을 소개하는 글이 이같이 올라왔습니다. 작성자는 열차 안에서 빈자리를 발견해 앉으려는 순간, 옆자리에 앉아 있던 일본인 여행객이 손가락으로 해당 좌석을 가리켰다고 전했습니다. 확인해 보니 ...",
+          "guid": "AKR20261015165506jJB",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-14T23:13:22.000Z"
+          "isoDate": "2026-10-15T07:55:07.000Z"
         },
         {
-          "creator": "노수미",
-          "title": "[날씨] 쌀쌀한 가을 추위, 큰 일교차…오후부터 중북부 비",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261015080507ZCL",
-          "pubDate": "Thu, 15 Oct 2026 08:05:09 +0900",
-          "content:encoded": "[앵커]\n\n가을 추위에 아침 공기가 차가운데요, 그래도 맑은 날씨에 낮에는 기온이 올라 일교차가 크겠습니다.\n\n한편, 일부 중북부 지역에는 오후부터 비 예보가 들어있습니다.\n\n자세한 날씨는 기상캐스터 연결해 알아보겠습니다.\n\n양윤진 캐스터.\n\n[캐스터]\n\n쌀쌀한 아침 공기가 온몸을 에워싸고 있습니다.\n\n지금 이 시각 서울 12.3도 보이는 등, 겉옷이 꼭 필요한 날씨입니다.\n\n그 밖의 대부분 지역의 아침 기온은 한 자릿수로 떨어졌고, 강원 영서와 일부 남부 내륙은 5도 이하를 보이는 곳도 있습니다.\n\n뚝 떨어진 기온에 서리와 얼음이 생기는 곳도 있어 농작물 냉해 피해에 유의해야겠습니다.\n\n그래도 한낮에는 기온이 올라 예년 이맘때 수준을 되찾겠습니다.\n\n서울 21도, 광주, 부산 23도 예상되는데요.\n\n대신에 일교차는 15도 안팎 매우 크게 벌어지니까요, 독감이 유행인 만큼 면역 관리 잘 해주셔야겠습니다.\n\n오늘 전국 하늘은 대체로 맑겠습니다.\n\n다만, 오후부터 밤사이 경기 북부와 강원 북부 내륙에는 5mm 미만의 비가 내리겠고요, 그 밖의 수도권과 강원으론 약한 빗방울이 떨어지겠습니다.\n\n현재 강원 영동에 부는 강풍은 내일 새벽까지 이어지겠고, 오후부터는 인천과 경기 서해안으로도 바람이 세차게 불겠습니다.\n\n오늘 낮부터 찬 기운이 점점 물러나면서, 주 후반으로 갈수록 한낮 25도 안팎으로 올라서겠고요.\n\n일요일 전국에 비가 내린 뒤엔 다시 기온이 내려가겠습니다.\n\n지금까지 날씨 전해드렸습니다.\n\n(양윤진 기상캐스터)\n\n[현장연결 김태현]\n\n#날씨 #일교차 #쌀쌀 #맑음 #가을추위 #오후중북부비\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
-          "content:encodedSnippet": "[앵커]\n\n가을 추위에 아침 공기가 차가운데요, 그래도 맑은 날씨에 낮에는 기온이 올라 일교차가 크겠습니다.\n\n한편, 일부 중북부 지역에는 오후부터 비 예보가 들어있습니다.\n\n자세한 날씨는 기상캐스터 연결해 알아보겠습니다.\n\n양윤진 캐스터.\n\n[캐스터]\n\n쌀쌀한 아침 공기가 온몸을 에워싸고 있습니다.\n\n지금 이 시각 서울 12.3도 보이는 등, 겉옷이 꼭 필요한 날씨입니다.\n\n그 밖의 대부분 지역의 아침 기온은 한 자릿수로 떨어졌고, 강원 영서와 일부 남부 내륙은 5도 이하를 보이는 곳도 있습니다.\n\n뚝 떨어진 기온에 서리와 얼음이 생기는 곳도 있어 농작물 냉해 피해에 유의해야겠습니다.\n\n그래도 한낮에는 기온이 올라 예년 이맘때 수준을 되찾겠습니다.\n\n서울 21도, 광주, 부산 23도 예상되는데요.\n\n대신에 일교차는 15도 안팎 매우 크게 벌어지니까요, 독감이 유행인 만큼 면역 관리 잘 해주셔야겠습니다.\n\n오늘 전국 하늘은 대체로 맑겠습니다.\n\n다만, 오후부터 밤사이 경기 북부와 강원 북부 내륙에는 5mm 미만의 비가 내리겠고요, 그 밖의 수도권과 강원으론 약한 빗방울이 떨어지겠습니다.\n\n현재 강원 영동에 부는 강풍은 내일 새벽까지 이어지겠고, 오후부터는 인천과 경기 서해안으로도 바람이 세차게 불겠습니다.\n\n오늘 낮부터 찬 기운이 점점 물러나면서, 주 후반으로 갈수록 한낮 25도 안팎으로 올라서겠고요.\n\n일요일 전국에 비가 내린 뒤엔 다시 기온이 내려가겠습니다.\n\n지금까지 날씨 전해드렸습니다.\n\n(양윤진 기상캐스터)\n\n[현장연결 김태현]\n\n#날씨 #일교차 #쌀쌀 #맑음 #가을추위 #오후중북부비\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
+          "creator": "박수주",
+          "title": "北, 첫 전술핵잠수함 무장시험…SLCM 발사",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261015164846C14",
+          "pubDate": "Thu, 15 Oct 2026 16:48:48 +0900",
+          "content:encoded": "[앵커]\n\n최근 무력시위를 벌이고 있는 북한이 이번엔 잠수함에서 순항미사일을 시험발사 했습니다.\n\n3년여 전 진수한 전술핵잠수함의 실전배치를 준비 중인 것으로 보이는데요.\n\n조만간 잠수함 발사 탄도미사일인 SLBM 시험에도 나설 것으로 예상됩니다.\n\n박수주 기자입니다.\n\n[기자]\n\n바다 위로 미사일이 화염과 연기를 내뿜으며 수직으로 솟구칩니다.\n\n또 다른 미사일은 사선으로 발사됩니다.\n\n북한이 공개한 잠수함 발사 순항미사일, SLCM 시험 장면입니다.\n\n북한은 미사일총국이 동해상에서 SLCM 2종을 시험발사 했다고 밝혔습니다.\n\n다만, 김정은 국무위원장은 참관하지 않았습니다.\n\n수면 위로 선체 일부를 드러낸 잠수함 모습도 공개했는데, 3년 전 북한이 '첫 전술핵 공격 잠수함'이라며 진수한 '김군옥영웅함'으로 보입니다.\n\n진수 당시 구소련의 재래식 잠수함인 로미오급을 3천 톤급으로 확대 개량하고, SLBM 발사가 가능한 수직발사관 10개를 탑재한 것으로 추정됐습니다.\n\n그러나 발사관 개수를 늘리느라 선체 상부를 크게 확장한 기형적인 구조 탓에, 당시 우리 군은 정상 운용이 어려울 것으로 판단했습니다.\n\n실제 북한은 진수 뒤 가동 모습은 공개하지 않았는데, 3년 만에 미사일 시험발사에 나선 것을 보면 설계상 결함을 보완했을 가능성이 제기됩니다.\n\n조만간 SLBM 시험에도 나서는 등 전력화 준비에 속도를 낼 것이라는 전망이 나옵니다.\n\n&lt;신종우/ 한국국방안보포럼 사무총장&gt; \"오늘 공개한 순항미사일을 보면 거기에다가 '화산-31'이라는 전술 핵탄두를 탑재할 수가 있습니다. SLBM까지 발사 시험까지 완료가 되면 SLBM과 SLCM을 섞어 쏘기 할 수 있는 능력까지 갖추게 되는 겁니다.\"\n\n이 같은 움직임은 지난 2월 9차 당대회를 통해 밝힌 '해군 핵 무장화' 기조의 연장선으로 풀이됩니다.\n\n북한은 당대회 이후 5천 톤급 신형 구축함 2척을 취역시켰고, 8,700톤급 핵추진잠수함도 건조 중입니다.\n\n한편, 우리 군은 미사일 발사 전부터 종료 단계까지 추적·감시했다고 밝혔습니다.\n\n연합뉴스TV 박수주입니다.\n\n[영상취재 정재현]\n\n[영상편집 박상규]\n\n[그래픽 천진원]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박수주(sooju@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n최근 무력시위를 벌이고 있는 북한이 이번엔 잠수함에서 순항미사일을 시험발사 했습니다.\n\n3년여 전 진수한 전술핵잠수함의 실전배치를 준비 중인 것으로 보이는데요.\n\n조만간 잠수함 발사 탄도미사일인 SLBM 시험에도 나설 것으로 예상됩니다.\n\n박수주 기자입니다.\n\n[기자]\n\n바다 위로 미사일이 화염과 연기를 내뿜으며 수직으로 솟구칩니다.\n\n또 다른 미사일은 사선으로 발사됩니다.\n\n북한이 공개한 잠수함 발사 순항미사일, SLCM 시험 장면입니다.\n\n북한은 미사일총국이 동해상에서 SLCM 2종을 시험발사 했다고 밝혔습니다.\n\n다만, 김정은 국무위원장은 참관하지 않았습니다.\n\n수면 위로 선체 일부를 드러낸 잠수함 모습도 공개했는데, 3년 전 북한이 '첫 전술핵 공격 잠수함'이라며 진수한 '김군옥영웅함'으로 보입니다.\n\n진수 당시 구소련의 재래식 잠수함인 로미오급을 3천 톤급으로 확대 개량하고, SLBM 발사가 가능한 수직발사관 10개를 탑재한 것으로 추정됐습니다.\n\n그러나 발사관 개수를 늘리느라 선체 상부를 크게 확장한 기형적인 구조 탓에, 당시 우리 군은 정상 운용이 어려울 것으로 판단했습니다.\n\n실제 북한은 진수 뒤 가동 모습은 공개하지 않았는데, 3년 만에 미사일 시험발사에 나선 것을 보면 설계상 결함을 보완했을 가능성이 제기됩니다.\n\n조만간 SLBM 시험에도 나서는 등 전력화 준비에 속도를 낼 것이라는 전망이 나옵니다.\n\n<신종우/ 한국국방안보포럼 사무총장> \"오늘 공개한 순항미사일을 보면 거기에다가 '화산-31'이라는 전술 핵탄두를 탑재할 수가 있습니다. SLBM까지 발사 시험까지 완료가 되면 SLBM과 SLCM을 섞어 쏘기 할 수 있는 능력까지 갖추게 되는 겁니다.\"\n\n이 같은 움직임은 지난 2월 9차 당대회를 통해 밝힌 '해군 핵 무장화' 기조의 연장선으로 풀이됩니다.\n\n북한은 당대회 이후 5천 톤급 신형 구축함 2척을 취역시켰고, 8,700톤급 핵추진잠수함도 건조 중입니다.\n\n한편, 우리 군은 미사일 발사 전부터 종료 단계까지 추적·감시했다고 밝혔습니다.\n\n연합뉴스TV 박수주입니다.\n\n[영상취재 정재현]\n\n[영상편집 박상규]\n\n[그래픽 천진원]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박수주(sooju@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261014/MYH20261015080507ZCL.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261015/MYH20261015164846C14.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "노수미",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261015080507ZCL#comments",
-          "content": "[앵커] 가을 추위에 아침 공기가 차가운데요, 그래도 맑은 날씨에 낮에는 기온이 올라 일교차가 크겠습니다. 한편, 일부 중북부 지역에는 오후부터 비 예보가 들어있습니다. 자세한 날씨는 기상캐스터 연결해 알아보겠습니다. 양윤진 캐스터. [캐스터] 쌀쌀한 아침 공기가 온몸을 에워싸고 있습니다. 지금 이 시각 서울 12.3도 보이는 등, 겉옷이 꼭 필요한 날씨입니다. 그 밖의 대부분 지역의 아침 기온은 한 자릿수로 떨어졌고, 강원 영서와 일부 ...",
-          "contentSnippet": "[앵커] 가을 추위에 아침 공기가 차가운데요, 그래도 맑은 날씨에 낮에는 기온이 올라 일교차가 크겠습니다. 한편, 일부 중북부 지역에는 오후부터 비 예보가 들어있습니다. 자세한 날씨는 기상캐스터 연결해 알아보겠습니다. 양윤진 캐스터. [캐스터] 쌀쌀한 아침 공기가 온몸을 에워싸고 있습니다. 지금 이 시각 서울 12.3도 보이는 등, 겉옷이 꼭 필요한 날씨입니다. 그 밖의 대부분 지역의 아침 기온은 한 자릿수로 떨어졌고, 강원 영서와 일부 ...",
-          "guid": "MYH20261015080507ZCL",
+          "dc:creator": "박수주",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261015164846C14#comments",
+          "content": "[앵커] 최근 무력시위를 벌이고 있는 북한이 이번엔 잠수함에서 순항미사일을 시험발사 했습니다. 3년여 전 진수한 전술핵잠수함의 실전배치를 준비 중인 것으로 보이는데요. 조만간 잠수함 발사 탄도미사일인 SLBM 시험에도 나설 것으로 예상됩니다. 박수주 기자입니다. [기자] 바다 위로 미사일이 화염과 연기를 내뿜으며 수직으로 솟구칩니다. 또 다른 미사일은 사선으로 발사됩니다. 북한이 공개한 잠수함 발사 순항미사일, SLCM 시험 장면입니다. ...",
+          "contentSnippet": "[앵커] 최근 무력시위를 벌이고 있는 북한이 이번엔 잠수함에서 순항미사일을 시험발사 했습니다. 3년여 전 진수한 전술핵잠수함의 실전배치를 준비 중인 것으로 보이는데요. 조만간 잠수함 발사 탄도미사일인 SLBM 시험에도 나설 것으로 예상됩니다. 박수주 기자입니다. [기자] 바다 위로 미사일이 화염과 연기를 내뿜으며 수직으로 솟구칩니다. 또 다른 미사일은 사선으로 발사됩니다. 북한이 공개한 잠수함 발사 순항미사일, SLCM 시험 장면입니다. ...",
+          "guid": "MYH20261015164846C14",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-14T23:05:09.000Z"
+          "isoDate": "2026-10-15T07:48:48.000Z"
         },
         {
-          "creator": "손성훈",
-          "title": "[출근길인터뷰] 독감 등 호흡기 질환 기승…예방 수칙은?",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261015080411x95",
-          "pubDate": "Thu, 15 Oct 2026 08:04:12 +0900",
-          "content:encoded": "&lt;출연 : 이명숙 서울시보건환경연구원 질병연구부장&gt;\n\n곳곳에서 기침하는 분들 많습니다.\n\n올해 독감 유행이 지난해보다 일찍 시작했고 유행 기간도 길어지고 있다는 분석이 나왔습니다.\n\n서울시보건환경연구원이 독감 예방접종을 당부하고 나섰는데요.\n\n뉴스캐스터 연결해서 자세히 알아보겠습니다.\n\n함현지 캐스터.\n\n[캐스터]\n\n네, 저는 서울시보건환경연구원에 나와 있습니다.\n\n올해 독감 유행 상황과 예방법에 대해 이명숙 질병연구부장과 이야기 나눠보겠습니다.\n\n&lt;질문 1&gt; 올해는 독감이 지난해보다 일찍 시작했고 유행 기간도 길어지고 있다고 분석했는데요. 구체적으로 얼마나 빨리 시작했고 유행 기간은 얼마나 길어진 겁니까?\n\n&lt;질문 2&gt; 독감이라고 하면 모두 같은 종류의 독감이라고 생각하기 쉬운데요. 독감도 종류가 서로 다른가요?\n\n&lt;질문 3&gt; 독감인지 감기인지, 증상만으로 구별할 수 있습니까?\n\n&lt;질문 4&gt; 독감 예방접종을 하면 독감을 예방할 수 있는 건가요?\n\n&lt;질문 5&gt; 독감은 예방이 가장 중요하겠군요. 시민들이 일상에서 실천할 수 있는 예방법도 소개해 주시죠.\n\n네, 말씀 잘 들었습니다.\n\n독감이 의심될 때 증상만으로 판단하지 마시고, 의료기관에서 진료를 받으시기를 바랍니다.\n\n지금까지 출근길 인터뷰였습니다.\n\n[현장연결 이대형]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n손성훈(sunghun906@yna.co.kr)",
-          "content:encodedSnippet": "<출연 : 이명숙 서울시보건환경연구원 질병연구부장>\n\n곳곳에서 기침하는 분들 많습니다.\n\n올해 독감 유행이 지난해보다 일찍 시작했고 유행 기간도 길어지고 있다는 분석이 나왔습니다.\n\n서울시보건환경연구원이 독감 예방접종을 당부하고 나섰는데요.\n\n뉴스캐스터 연결해서 자세히 알아보겠습니다.\n\n함현지 캐스터.\n\n[캐스터]\n\n네, 저는 서울시보건환경연구원에 나와 있습니다.\n\n올해 독감 유행 상황과 예방법에 대해 이명숙 질병연구부장과 이야기 나눠보겠습니다.\n\n<질문 1> 올해는 독감이 지난해보다 일찍 시작했고 유행 기간도 길어지고 있다고 분석했는데요. 구체적으로 얼마나 빨리 시작했고 유행 기간은 얼마나 길어진 겁니까?\n\n<질문 2> 독감이라고 하면 모두 같은 종류의 독감이라고 생각하기 쉬운데요. 독감도 종류가 서로 다른가요?\n\n<질문 3> 독감인지 감기인지, 증상만으로 구별할 수 있습니까?\n\n<질문 4> 독감 예방접종을 하면 독감을 예방할 수 있는 건가요?\n\n<질문 5> 독감은 예방이 가장 중요하겠군요. 시민들이 일상에서 실천할 수 있는 예방법도 소개해 주시죠.\n\n네, 말씀 잘 들었습니다.\n\n독감이 의심될 때 증상만으로 판단하지 마시고, 의료기관에서 진료를 받으시기를 바랍니다.\n\n지금까지 출근길 인터뷰였습니다.\n\n[현장연결 이대형]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n손성훈(sunghun906@yna.co.kr)",
+          "creator": "하준",
+          "title": "부산서 낚시어선 탄 50대 실종…해경 수색",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261015164725fD4",
+          "pubDate": "Thu, 15 Oct 2026 16:47:27 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261015/AKR20261015164725fD4_01_i.jpg\" alt=\"\"><span class=\"yna_title\">수색 현장</span><span class=\"yna_caption\">[창원해경 제공]</span><span class=\"yna_description\">[창원해경 제공]</span></div>\n부산에서 낚시어선을 탔던 50대 남성이 실종돼 해경이 수색에 나섰습니다.\n\n창원해양경찰서에 따르면 오늘(15일) 오전 10시 20분쯤 7톤급 낚시어선으로부터 50대 남성 A씨가 바다에 빠진 것으로 의심된다는 신고가 접수됐습니다.\n\n해당 어선은 전날 오후 5시 25분 부산 강서구 신호항에서 출항해 사하구 남형제도 인근 해상에서 낚시 영업을 했습니다.\n\n당시 어선에는 선원 2명과 낚시객 9명 등 11명이 타고 있었습니다.\n\nA씨는 이날 오전 3시 45분 인원 파악 당시 구명조끼를 착용하고 어선에 있었던 것으로 확인됐습니다.\n\n그러나 오전 5시 10분쯤 어선이 신호항에 입항한 뒤 A씨의 모습이 보이지 않고 연락도 닿지 않자 선장이 해경에 신고했습니다.\n\n해경과 소방당국은 헬기 2대와 연안구조정 등을 투입해 남형제도~지심도 해상에서 수색 작업을 펼치고 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n하준(hajun@yna.co.kr)",
+          "content:encodedSnippet": "수색 현장[창원해경 제공][창원해경 제공]\n부산에서 낚시어선을 탔던 50대 남성이 실종돼 해경이 수색에 나섰습니다.\n\n창원해양경찰서에 따르면 오늘(15일) 오전 10시 20분쯤 7톤급 낚시어선으로부터 50대 남성 A씨가 바다에 빠진 것으로 의심된다는 신고가 접수됐습니다.\n\n해당 어선은 전날 오후 5시 25분 부산 강서구 신호항에서 출항해 사하구 남형제도 인근 해상에서 낚시 영업을 했습니다.\n\n당시 어선에는 선원 2명과 낚시객 9명 등 11명이 타고 있었습니다.\n\nA씨는 이날 오전 3시 45분 인원 파악 당시 구명조끼를 착용하고 어선에 있었던 것으로 확인됐습니다.\n\n그러나 오전 5시 10분쯤 어선이 신호항에 입항한 뒤 A씨의 모습이 보이지 않고 연락도 닿지 않자 선장이 해경에 신고했습니다.\n\n해경과 소방당국은 헬기 2대와 연안구조정 등을 투입해 남형제도~지심도 해상에서 수색 작업을 펼치고 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n하준(hajun@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261014/MYH20261015080411x95.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261015/AKR20261015164725fD4_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "손성훈",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261015080411x95#comments",
-          "content": "&lt;출연 : 이명숙 서울시보건환경연구원 질병연구부장&gt; 곳곳에서 기침하는 분들 많습니다. 올해 독감 유행이 지난해보다 일찍 시작했고 유행 기간도 길어지고 있다는 분석이 나왔습니다. 서울시보건환경연구원이 독감 예방접종을 당부하고 나섰는데요. 뉴스캐스터 연결해서 자세히 알아보겠습니다. 함현지 캐스터. [캐스터] 네, 저는 서울시보건환경연구원에 나와 있습니다. 올해 독감 유행 상황과 예방법에 대해 이명숙 질병연구부장과 이야기 나눠보겠습니...",
-          "contentSnippet": "<출연 : 이명숙 서울시보건환경연구원 질병연구부장> 곳곳에서 기침하는 분들 많습니다. 올해 독감 유행이 지난해보다 일찍 시작했고 유행 기간도 길어지고 있다는 분석이 나왔습니다. 서울시보건환경연구원이 독감 예방접종을 당부하고 나섰는데요. 뉴스캐스터 연결해서 자세히 알아보겠습니다. 함현지 캐스터. [캐스터] 네, 저는 서울시보건환경연구원에 나와 있습니다. 올해 독감 유행 상황과 예방법에 대해 이명숙 질병연구부장과 이야기 나눠보겠습니...",
-          "guid": "MYH20261015080411x95",
+          "dc:creator": "하준",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261015164725fD4#comments",
+          "content": "수색 현장[창원해경 제공][창원해경 제공] 부산에서 낚시어선을 탔던 50대 남성이 실종돼 해경이 수색에 나섰습니다. 창원해양경찰서에 따르면 오늘(15일) 오전 10시 20분쯤 7톤급 낚시어선으로부터 50대 남성 A씨가 바다에 빠진 것으로 의심된다는 신고가 접수됐습니다. 해당 어선은 전날 오후 5시 25분 부산 강서구 신호항에서 출항해 사하구 남형제도 인근 해상에서 낚시 영업을 했습니다. 당시 어선에는 선원 2명과 낚시객 9명 등 11명이 ...",
+          "contentSnippet": "수색 현장[창원해경 제공][창원해경 제공] 부산에서 낚시어선을 탔던 50대 남성이 실종돼 해경이 수색에 나섰습니다. 창원해양경찰서에 따르면 오늘(15일) 오전 10시 20분쯤 7톤급 낚시어선으로부터 50대 남성 A씨가 바다에 빠진 것으로 의심된다는 신고가 접수됐습니다. 해당 어선은 전날 오후 5시 25분 부산 강서구 신호항에서 출항해 사하구 남형제도 인근 해상에서 낚시 영업을 했습니다. 당시 어선에는 선원 2명과 낚시객 9명 등 11명이 ...",
+          "guid": "AKR20261015164725fD4",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-14T23:04:12.000Z"
+          "isoDate": "2026-10-15T07:47:27.000Z"
         },
         {
-          "creator": "송채은",
-          "title": "미국 8개주, 오픈AI에 소송…\"챗GPT가 아이들 해쳐\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261015080316WID",
-          "pubDate": "Thu, 15 Oct 2026 08:03:17 +0900",
-          "content:encoded": "\n\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261014/AKR20261015080316WID_01_i.jpg\" alt=\"\"><span class=\"yna_title\">오픈AI</span><span class=\"yna_caption\">[로이터=연합뉴스 자료사진 제공]</span><span class=\"yna_description\">[로이터=연합뉴스 자료사진 제공]</span></div>\n미국의 8개 주 정부가 인공지능 챗봇 '챗GPT'가 청소년 등 이용자에게 위해를 가한다며 오픈AI를 상대로 소송을 냈습니다.\n\n브레나 버드 아이오와주 법무장관은 오픈AI가 챗GPT의 안전성을 허위로 홍보해 소비자를 기만했다며 주 법원에 소송을 제기했다고 현지시간 14일 밝혔습니다.\n\n아이오와주뿐 아니라 캔자스와 애리조나, 아칸소, 아이다호, 웨스트버지니아 등 총 8개 주가 오픈AI를 상대로 법적 대응에 나섰습니다.\n\n다만 공동소송 대신 각자 주 법원에 개별적으로 소장이 접수된 것으로 전해졌습니다.\n\n버드 장관은 \"오픈AI는 아이들을 해치고 아이오와 주민들에게 거짓말을 하고 있다\"며 \"챗GPT가 위험한 의료 조언을 하고 자신과 타인을 해치도록 부추기거나 도우면서도 거짓으로 친구인 척하고 있다\"고 비판했습니다.\n\n또 오픈AI가 챗GPT 이용 가능 나이를 13세 이상으로 표시하면서도 연령 인증을 의무화하지 않았다고도 지적했습니다.\n\n아이오와주는 법원에 오픈AI의 소비자사기방지법 위반 사안마다 건당 최대 4만달러, 한화 약 5,400만 원의 민사상 제재금을 부과해달라고 요청했습니다.\n\n60세 이상 고령자를 대상으로 한 위반 행위에는 건당 최대 5,000달러를 추가로 물려달라고 요구했습니다.\n\n또 오픈AI의 불법 이익 반환, 주민들의 정보 삭제와 더불어, 독립적인 제3자가 안전장치를 검증할 때까지 첨단 AI 모델의 추가 시험을 중단하도록 해달라는 요구도 담겼습니다.\n\n오픈AI 측은 이번 소송과 관련해 \"어떤 시스템도 완벽할 수는 없지만 우리는 전문가들과 지속적으로 협력해 추가적인 안전장치를 구축해나갈 것\"이라며 \"지금도 부모통제 기능과 휴식 알림 기능, 연령에 적합한 모델 보호 기능 등이 적용돼 있다\"고 해명했습니다.\n\n#오픈AI #챗지피티 #챗GPT #미국 #아이오와주 #캔자스주 #애리조나주 #청소년 #AI #인공지능\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n송채은(chaeun@yna.co.kr)",
-          "content:encodedSnippet": "오픈AI[로이터=연합뉴스 자료사진 제공][로이터=연합뉴스 자료사진 제공]\n미국의 8개 주 정부가 인공지능 챗봇 '챗GPT'가 청소년 등 이용자에게 위해를 가한다며 오픈AI를 상대로 소송을 냈습니다.\n\n브레나 버드 아이오와주 법무장관은 오픈AI가 챗GPT의 안전성을 허위로 홍보해 소비자를 기만했다며 주 법원에 소송을 제기했다고 현지시간 14일 밝혔습니다.\n\n아이오와주뿐 아니라 캔자스와 애리조나, 아칸소, 아이다호, 웨스트버지니아 등 총 8개 주가 오픈AI를 상대로 법적 대응에 나섰습니다.\n\n다만 공동소송 대신 각자 주 법원에 개별적으로 소장이 접수된 것으로 전해졌습니다.\n\n버드 장관은 \"오픈AI는 아이들을 해치고 아이오와 주민들에게 거짓말을 하고 있다\"며 \"챗GPT가 위험한 의료 조언을 하고 자신과 타인을 해치도록 부추기거나 도우면서도 거짓으로 친구인 척하고 있다\"고 비판했습니다.\n\n또 오픈AI가 챗GPT 이용 가능 나이를 13세 이상으로 표시하면서도 연령 인증을 의무화하지 않았다고도 지적했습니다.\n\n아이오와주는 법원에 오픈AI의 소비자사기방지법 위반 사안마다 건당 최대 4만달러, 한화 약 5,400만 원의 민사상 제재금을 부과해달라고 요청했습니다.\n\n60세 이상 고령자를 대상으로 한 위반 행위에는 건당 최대 5,000달러를 추가로 물려달라고 요구했습니다.\n\n또 오픈AI의 불법 이익 반환, 주민들의 정보 삭제와 더불어, 독립적인 제3자가 안전장치를 검증할 때까지 첨단 AI 모델의 추가 시험을 중단하도록 해달라는 요구도 담겼습니다.\n\n오픈AI 측은 이번 소송과 관련해 \"어떤 시스템도 완벽할 수는 없지만 우리는 전문가들과 지속적으로 협력해 추가적인 안전장치를 구축해나갈 것\"이라며 \"지금도 부모통제 기능과 휴식 알림 기능, 연령에 적합한 모델 보호 기능 등이 적용돼 있다\"고 해명했습니다.\n\n#오픈AI #챗지피티 #챗GPT #미국 #아이오와주 #캔자스주 #애리조나주 #청소년 #AI #인공지능\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n송채은(chaeun@yna.co.kr)",
+          "creator": "박지운",
+          "title": "특검, 대법에 김건희 추가 구속영장 발부 요청",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261015164537KUH",
+          "pubDate": "Thu, 15 Oct 2026 16:45:38 +0900",
+          "content:encoded": "김건희 특검이 대법원에 김건희 씨에 대한 추가 구속영장 발부를 요청했습니다.\n\n특검은 김 씨의 '매관매직' 사건 상고심을 심리하는 대법원에 직권으로 구속영장을 발부해달라는 요청서를 제출했습니다.\n\n특검은 \"구속기간 만기가 다가오는데, 계속 구속할 필요성이 있어 요청서를 제출했다\"고 오늘(15일) 밝혔습니다.\n\n도이치 주가조작 등 이른바 3대 의혹 사건으로 구속된 김 씨의 구속 기간은 오는 31일로 만료됩니다.\n\n이 사건과 관련해 대법원 전원합의체 심리가 진행 중인데 구속기한 내에 최종 결론이 나오지 않을 것으로 보이자 다른 혐의 사건을 심리하는 재판부에 추가 구속영장 발부를 요청한 것입니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박지운(zwoonie@yna.co.kr)",
+          "content:encodedSnippet": "김건희 특검이 대법원에 김건희 씨에 대한 추가 구속영장 발부를 요청했습니다.\n\n특검은 김 씨의 '매관매직' 사건 상고심을 심리하는 대법원에 직권으로 구속영장을 발부해달라는 요청서를 제출했습니다.\n\n특검은 \"구속기간 만기가 다가오는데, 계속 구속할 필요성이 있어 요청서를 제출했다\"고 오늘(15일) 밝혔습니다.\n\n도이치 주가조작 등 이른바 3대 의혹 사건으로 구속된 김 씨의 구속 기간은 오는 31일로 만료됩니다.\n\n이 사건과 관련해 대법원 전원합의체 심리가 진행 중인데 구속기한 내에 최종 결론이 나오지 않을 것으로 보이자 다른 혐의 사건을 심리하는 재판부에 추가 구속영장 발부를 요청한 것입니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박지운(zwoonie@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261014/AKR20261015080316WID_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261015/MYH20261015164537KUH.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "송채은",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261015080316WID#comments",
-          "content": "오픈AI[로이터=연합뉴스 자료사진 제공][로이터=연합뉴스 자료사진 제공] 미국의 8개 주 정부가 인공지능 챗봇 '챗GPT'가 청소년 등 이용자에게 위해를 가한다며 오픈AI를 상대로 소송을 냈습니다. 브레나 버드 아이오와주 법무장관은 오픈AI가 챗GPT의 안전성을 허위로 홍보해 소비자를 기만했다며 주 법원에 소송을 제기했다고 현지시간 14일 밝혔습니다. 아이오와주뿐 아니라 캔자스와 애리조나, 아칸소, 아이다호, 웨스트버지니아 등 총 8개 주...",
-          "contentSnippet": "오픈AI[로이터=연합뉴스 자료사진 제공][로이터=연합뉴스 자료사진 제공] 미국의 8개 주 정부가 인공지능 챗봇 '챗GPT'가 청소년 등 이용자에게 위해를 가한다며 오픈AI를 상대로 소송을 냈습니다. 브레나 버드 아이오와주 법무장관은 오픈AI가 챗GPT의 안전성을 허위로 홍보해 소비자를 기만했다며 주 법원에 소송을 제기했다고 현지시간 14일 밝혔습니다. 아이오와주뿐 아니라 캔자스와 애리조나, 아칸소, 아이다호, 웨스트버지니아 등 총 8개 주...",
-          "guid": "AKR20261015080316WID",
+          "dc:creator": "박지운",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261015164537KUH#comments",
+          "content": "김건희 특검이 대법원에 김건희 씨에 대한 추가 구속영장 발부를 요청했습니다. 특검은 김 씨의 '매관매직' 사건 상고심을 심리하는 대법원에 직권으로 구속영장을 발부해달라는 요청서를 제출했습니다. 특검은 \"구속기간 만기가 다가오는데, 계속 구속할 필요성이 있어 요청서를 제출했다\"고 오늘(15일) 밝혔습니다. 도이치 주가조작 등 이른바 3대 의혹 사건으로 구속된 김 씨의 구속 기간은 오는 31일로 만료됩니다. 이 사건과 관련해 대법원 전원합의체...",
+          "contentSnippet": "김건희 특검이 대법원에 김건희 씨에 대한 추가 구속영장 발부를 요청했습니다. 특검은 김 씨의 '매관매직' 사건 상고심을 심리하는 대법원에 직권으로 구속영장을 발부해달라는 요청서를 제출했습니다. 특검은 \"구속기간 만기가 다가오는데, 계속 구속할 필요성이 있어 요청서를 제출했다\"고 오늘(15일) 밝혔습니다. 도이치 주가조작 등 이른바 3대 의혹 사건으로 구속된 김 씨의 구속 기간은 오는 31일로 만료됩니다. 이 사건과 관련해 대법원 전원합의체...",
+          "guid": "MYH20261015164537KUH",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-14T23:03:17.000Z"
+          "isoDate": "2026-10-15T07:45:38.000Z"
         },
         {
-          "creator": "최진경",
-          "title": "트럼프, '폐암 수술' 교황에 쾌유 기원…\"사랑과 축복 전하고파\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261015080239K8D",
-          "pubDate": "Thu, 15 Oct 2026 08:02:41 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261014/AKR20261015080239K8D_01_i.jpg\" alt=\"\"><span class=\"yna_title\">질문에 답하는 트럼프 대통령</span><span class=\"yna_caption\">[로이터=연합뉴스 제공]</span><span class=\"yna_description\">[로이터=연합뉴스 제공]</span></div>\n도널드 트럼프 미국 대통령은 폐암 진단 뒤 수술을 받은 레오 14세 교황의 쾌유를 기원했습니다.\n\n트럼프 대통령은 현지시간 14일 애리조나 중간선거 지원 유세를 마친 뒤 취재진으로부터 '교황의 폐암 진단과 관련해 전할 메시지가 있느냐'는 질문을 받고 \"레오 교황이 쾌유하기를 바란다\"고 밝혔습니다.\n\n이어 \"암은 중대한 병\"이라면서도 \"예후는 좋아 보인다\"고 말했습니다.\n\n그러면서 \"그저 그분께 사랑과 최고의 축복을 전하고 싶다\"고 말했습니다.\n\n트럼프 대통령은 레오 교황의 형제가 \"내 친구\"라고도 언급했습니다.\n\n교황의 큰 형 루이스 프레보스트는 플로리다에 거주하는 트럼프 지지자로 알려져 있습니다.\n\n트럼프 대통령과 미국 출신 첫 교황인 레오 14세는 그동안 이란 전쟁과 이민 정책 등을 놓고 공개적으로 충돌해왔습니다.\n\n레오 14세 교황은 미국의 대이란 군사작전에 반대하며 전쟁 중단과 평화적 해결을 촉구해왔는데, 트럼프 대통령은 교황이 상황을 제대로 이해하지 못하고 있다며 정치의 영역에 관여하지 말라고 맹비난했습니다.\n\n#트럼프 #교황 #레오14세\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최진경(highjean@yna.co.kr)",
-          "content:encodedSnippet": "질문에 답하는 트럼프 대통령[로이터=연합뉴스 제공][로이터=연합뉴스 제공]\n도널드 트럼프 미국 대통령은 폐암 진단 뒤 수술을 받은 레오 14세 교황의 쾌유를 기원했습니다.\n\n트럼프 대통령은 현지시간 14일 애리조나 중간선거 지원 유세를 마친 뒤 취재진으로부터 '교황의 폐암 진단과 관련해 전할 메시지가 있느냐'는 질문을 받고 \"레오 교황이 쾌유하기를 바란다\"고 밝혔습니다.\n\n이어 \"암은 중대한 병\"이라면서도 \"예후는 좋아 보인다\"고 말했습니다.\n\n그러면서 \"그저 그분께 사랑과 최고의 축복을 전하고 싶다\"고 말했습니다.\n\n트럼프 대통령은 레오 교황의 형제가 \"내 친구\"라고도 언급했습니다.\n\n교황의 큰 형 루이스 프레보스트는 플로리다에 거주하는 트럼프 지지자로 알려져 있습니다.\n\n트럼프 대통령과 미국 출신 첫 교황인 레오 14세는 그동안 이란 전쟁과 이민 정책 등을 놓고 공개적으로 충돌해왔습니다.\n\n레오 14세 교황은 미국의 대이란 군사작전에 반대하며 전쟁 중단과 평화적 해결을 촉구해왔는데, 트럼프 대통령은 교황이 상황을 제대로 이해하지 못하고 있다며 정치의 영역에 관여하지 말라고 맹비난했습니다.\n\n#트럼프 #교황 #레오14세\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최진경(highjean@yna.co.kr)",
+          "creator": "김동욱",
+          "title": "'삼전·닉스' 급락에 단일종목 레버리지 또 신저가",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261015164251NUM",
+          "pubDate": "Thu, 15 Oct 2026 16:42:53 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261015/AKR20261015164251NUM_01_i.jpg\" alt=\"\"><span class=\"yna_title\">단일종목 레버리지 ETF (PG)</span><span class=\"yna_caption\">[김선영 제작] 일러스트</span><span class=\"yna_description\">[김선영 제작] 일러스트</span></div>\n\n삼성전자와 SK하이닉스가 오늘(15일) 다시 급락하면서 단일종목 레버리지 상품들도 신저가를 갈아치웠습니다.\n\n한국거래소와 코스콤 CHECK에 따르면 이날 단일종목 레버리지 14종은 19∼22% 하락률을 기록했습니다.\n\n이는 본주인 SK하이닉스와 삼성전자가 각각 11.06%, 9.48% 급락한 데 따른 것입니다.\n\n이중 거래량이 많은 KODEX SK하이닉스단일종목레버리지와 TIGER SK하이닉스단일종목레버리지는 각각 21.70%, 22.13% 내리며 5,285원과 4,470원에 마감했습니다.\n\nKODEX 삼성전자단일종목레버리지와 TIGER 삼성전자단일종목레버리지는 19.63%와 19.01%의 하락률을 나타냈습니다.\n\n이로써 신저가 기록도 줄줄이 경신됐습니다.\n\nKODEX와 TIGER SK하이닉스 단일종목레버리지의 경우 지난 13일 종가 기준 최저가를 기록한 데 이어 14, 15일 연속 하락하면서 또다시 바닥을 찍었습니다.\n\n상장가였던 각각 2만3천450원과 1만9천985원과 비교하면 약 5분의 1 수준입니다.\n\n삼성전자 단일종목레버리지도 지난 5월 27일 상장 이후 가장 낮아졌습니다.\n\nKODEX 삼성전자단일종목레버리지는 종전 종가 기준으로 최저가인 지난 7월 30일 8,345원보다 낮은 7,595원에 거래를 마감했습니다. TIGER 삼성전자단일종목레버리지 역시 이날 종가가 6,880원으로 직전 최저가 7월 30일 7,640원보다 낮아졌습니다.\n\n유진투자증권 허재환 연구원은 \"지난 7월 국내 증시와 반도체 급락 과정에서는 펀더멘탈(기초여건)보다 단일종목 레버리지와 메모리 반도체에 대한 지나친 쏠림 영향을 컸다\"며 \"그러나 이번에는 7월에 비해 더 높아진 금리 부담과 함께 신용 위험마저 겹치고 있다\"고 분석했습니다.\n\n\n\n#단일종목레버리지 #삼성전자 #하이닉스\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김동욱(DK1@yna.co.kr)",
+          "content:encodedSnippet": "단일종목 레버리지 ETF (PG)[김선영 제작] 일러스트[김선영 제작] 일러스트\n\n삼성전자와 SK하이닉스가 오늘(15일) 다시 급락하면서 단일종목 레버리지 상품들도 신저가를 갈아치웠습니다.\n\n한국거래소와 코스콤 CHECK에 따르면 이날 단일종목 레버리지 14종은 19∼22% 하락률을 기록했습니다.\n\n이는 본주인 SK하이닉스와 삼성전자가 각각 11.06%, 9.48% 급락한 데 따른 것입니다.\n\n이중 거래량이 많은 KODEX SK하이닉스단일종목레버리지와 TIGER SK하이닉스단일종목레버리지는 각각 21.70%, 22.13% 내리며 5,285원과 4,470원에 마감했습니다.\n\nKODEX 삼성전자단일종목레버리지와 TIGER 삼성전자단일종목레버리지는 19.63%와 19.01%의 하락률을 나타냈습니다.\n\n이로써 신저가 기록도 줄줄이 경신됐습니다.\n\nKODEX와 TIGER SK하이닉스 단일종목레버리지의 경우 지난 13일 종가 기준 최저가를 기록한 데 이어 14, 15일 연속 하락하면서 또다시 바닥을 찍었습니다.\n\n상장가였던 각각 2만3천450원과 1만9천985원과 비교하면 약 5분의 1 수준입니다.\n\n삼성전자 단일종목레버리지도 지난 5월 27일 상장 이후 가장 낮아졌습니다.\n\nKODEX 삼성전자단일종목레버리지는 종전 종가 기준으로 최저가인 지난 7월 30일 8,345원보다 낮은 7,595원에 거래를 마감했습니다. TIGER 삼성전자단일종목레버리지 역시 이날 종가가 6,880원으로 직전 최저가 7월 30일 7,640원보다 낮아졌습니다.\n\n유진투자증권 허재환 연구원은 \"지난 7월 국내 증시와 반도체 급락 과정에서는 펀더멘탈(기초여건)보다 단일종목 레버리지와 메모리 반도체에 대한 지나친 쏠림 영향을 컸다\"며 \"그러나 이번에는 7월에 비해 더 높아진 금리 부담과 함께 신용 위험마저 겹치고 있다\"고 분석했습니다.\n\n\n\n#단일종목레버리지 #삼성전자 #하이닉스\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김동욱(DK1@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261014/AKR20261015080239K8D_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261015/AKR20261015164251NUM_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "최진경",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261015080239K8D#comments",
-          "content": "질문에 답하는 트럼프 대통령[로이터=연합뉴스 제공][로이터=연합뉴스 제공] 도널드 트럼프 미국 대통령은 폐암 진단 뒤 수술을 받은 레오 14세 교황의 쾌유를 기원했습니다. 트럼프 대통령은 현지시간 14일 애리조나 중간선거 지원 유세를 마친 뒤 취재진으로부터 '교황의 폐암 진단과 관련해 전할 메시지가 있느냐'는 질문을 받고 \"레오 교황이 쾌유하기를 바란다\"고 밝혔습니다. 이어 \"암은 중대한 병\"이라면서도 \"예후는 좋아 보인다\"고 말했습니다....",
-          "contentSnippet": "질문에 답하는 트럼프 대통령[로이터=연합뉴스 제공][로이터=연합뉴스 제공] 도널드 트럼프 미국 대통령은 폐암 진단 뒤 수술을 받은 레오 14세 교황의 쾌유를 기원했습니다. 트럼프 대통령은 현지시간 14일 애리조나 중간선거 지원 유세를 마친 뒤 취재진으로부터 '교황의 폐암 진단과 관련해 전할 메시지가 있느냐'는 질문을 받고 \"레오 교황이 쾌유하기를 바란다\"고 밝혔습니다. 이어 \"암은 중대한 병\"이라면서도 \"예후는 좋아 보인다\"고 말했습니다....",
-          "guid": "AKR20261015080239K8D",
+          "dc:creator": "김동욱",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261015164251NUM#comments",
+          "content": "단일종목 레버리지 ETF (PG)[김선영 제작] 일러스트[김선영 제작] 일러스트 삼성전자와 SK하이닉스가 오늘(15일) 다시 급락하면서 단일종목 레버리지 상품들도 신저가를 갈아치웠습니다. 한국거래소와 코스콤 CHECK에 따르면 이날 단일종목 레버리지 14종은 19∼22% 하락률을 기록했습니다. 이는 본주인 SK하이닉스와 삼성전자가 각각 11.06%, 9.48% 급락한 데 따른 것입니다. 이중 거래량이 많은 KODEX SK하이닉스단일종목레버...",
+          "contentSnippet": "단일종목 레버리지 ETF (PG)[김선영 제작] 일러스트[김선영 제작] 일러스트 삼성전자와 SK하이닉스가 오늘(15일) 다시 급락하면서 단일종목 레버리지 상품들도 신저가를 갈아치웠습니다. 한국거래소와 코스콤 CHECK에 따르면 이날 단일종목 레버리지 14종은 19∼22% 하락률을 기록했습니다. 이는 본주인 SK하이닉스와 삼성전자가 각각 11.06%, 9.48% 급락한 데 따른 것입니다. 이중 거래량이 많은 KODEX SK하이닉스단일종목레버...",
+          "guid": "AKR20261015164251NUM",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-14T23:02:41.000Z"
+          "isoDate": "2026-10-15T07:42:53.000Z"
         },
         {
-          "creator": "손성훈",
-          "title": "[3분증시] 뉴욕증시, CPI 충격·AI 신용 우려에 하락",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261015075858kQQ",
-          "pubDate": "Thu, 15 Oct 2026 07:58:59 +0900",
-          "content:encoded": "&lt;출연 : 권용욱 연합인포맥스 국제경제부 기자&gt;\n\n[앵커]\n\n세계 증시와 우리 증시를 짚어보는 시간 '3분 증시'입니다.\n\n연합인포맥스 권용욱 기자 나와있습니다.\n\n먼저, 간밤 미국 증시부터 정리해주시죠.\n\n[기자]\n\n네, 간밤 뉴욕 증시는 3대 주가지수가 일제히 하락세로 마감했습니다.\n\n특히 기술주의 낙폭이 상대적으로 컸는데요, 미국의 9월 소비자물가지수가 예상보다 높게 나오면서 금리 인상에 대한 우려가 다시 커졌습니다.\n\n여기에 미국 AI 인프라 기업의 회사채 가격이 급락했다는 소식까지 전해졌는데요, 이 여파로 인공지능과 반도체 관련주들이 큰 충격을 받았습니다.\n\n마감가를 살펴보면 다우지수는 전장보다 0.09% 하락했습니다.\n\nS&amp;P500 지수는 전장 대비 1.11% 내렸고요, 나스닥지수는 1.88% 급락하며 장을 마감했습니다.\n\n시장을 가장 크게 흔든 건 코어위브라는 AI 인프라 기업의 신용 위험이었습니다.\n\n이 회사가 어떤 곳인지부터 궁금하실 텐데요, 코어위브는 AI용 그래픽장치(GPU)를 클라우드 서비스로 제공하는 회사입니다.\n\n엔비디아가 지분을 보유하고 있기도 한데요, 이 회사의 채권 가격이 부실 영역으로 간주되는 수준까지 급락했습니다.\n\n코어위브가 AI 인프라를 확장하기 위해 과도한 빚을 내왔는데, 이런 사업 모델에 시장의 의구심이 커진 건데요.\n\n결국 이것은 AI 산업 전반에 대한 신뢰 문제로 인식됐고, 기술주 투매로 이어졌습니다.\n\n[앵커]\n\n물가 지표가 예상보다 뜨겁게 나왔다고 하는데, 구체적인 수치는 어땠나요.\n\n[기자]\n\n네, 미국 9월 소비자물가지수에서 모든 품목을 포함하는 수치는 1년 전보다 3.7% 올랐는데요.\n\n변동성이 큰 식품과 에너지를 제외한 근원 물가 수치는 전년 대비 2.6% 상승했습니다.\n\n이런 수치는 모두 시장의 예상치를 뛰어넘는 수준이었습니다.\n\n물가가 좀처럼 잡히지 않자, 중앙은행이 기준금리를 더 올릴 것이라는 우려가 순식간에 번졌습니다.\n\n다만, 한 가지 위안거리는 국채 금리가 크게 오르지 않았다는 것입니다.\n\n장 중에 국채 저가 매수세가 몰리면서 중장기물 국채 금리는 하락세로 장을 마쳤습니다.\n\n[앵커]\n\n반도체와 주요 기술주, 그리고 다른 업종들의 흐름은 어땠습니까.\n\n[기자]\n\n네, 전해드린 대로 인공지능 신용 불안과 물가 충격이 겹치면서 반도체 종목들이 크게 무너졌습니다.\n\n필라델피아 반도체지수는 4% 넘게 급락하며 6거래일 연속 내림세를 이어갔는데요, 지수를 구성하는 30개 종목 중 단 1개를 제외하고 모두 하락했습니다.\n\n엔비디아와 TSMC, 마이크론, 인텔이 4% 안팎으로 떨어졌고요, AMD는 6% 가까이 급락했습니다.\n\n금융주도 실적 여파로 고전을 면치 못했습니다.\n\n뱅크오브아메리카는 3분기 실적이 기대에 못 미치며 5% 가까이 내렸습니다.\n\n모건스탠리는 호실적을 발표하고도 시장 악재에 휩쓸려 3% 가까이 하락했습니다.\n\n반면 물가 방어주 성격을 띤 필수소비재와 의료건강 업종은 2% 이상 오르며 선전했습니다.\n\n[앵커]\n\n마지막으로 오늘 코스피 전망까지 짚어주시죠.\n\n[기자]\n\n네, 어제 코스피가 강한 상승세로 출발했지만, 결국 하락세로 장을 마감했습니다.\n\n지수는 0.44% 내린 6,008.81로 장을 마치며 '6천피'를 간신히 사수했는데요, 오늘 코스피는 미국 반도체주 부진의 영향을 받으며 약보합권에서 출발할 것으로 전망됩니다.\n\n코스피가 2년여 만에 처음으로 6거래일 연속 하락하고 있는데요.\n\n반발 매수세가 충분히 들어올 수 있는 상황이지만, 간밤에 미국 증시에서 추가적인 악재가 나왔는데요.\n\n우리 증시는 제한적으로 반등 시도가 나올 수 있겠지만, 계속해서 보수적으로 접근해야 할 것으로 예상됩니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n손성훈(sunghun906@yna.co.kr)",
-          "content:encodedSnippet": "<출연 : 권용욱 연합인포맥스 국제경제부 기자>\n\n[앵커]\n\n세계 증시와 우리 증시를 짚어보는 시간 '3분 증시'입니다.\n\n연합인포맥스 권용욱 기자 나와있습니다.\n\n먼저, 간밤 미국 증시부터 정리해주시죠.\n\n[기자]\n\n네, 간밤 뉴욕 증시는 3대 주가지수가 일제히 하락세로 마감했습니다.\n\n특히 기술주의 낙폭이 상대적으로 컸는데요, 미국의 9월 소비자물가지수가 예상보다 높게 나오면서 금리 인상에 대한 우려가 다시 커졌습니다.\n\n여기에 미국 AI 인프라 기업의 회사채 가격이 급락했다는 소식까지 전해졌는데요, 이 여파로 인공지능과 반도체 관련주들이 큰 충격을 받았습니다.\n\n마감가를 살펴보면 다우지수는 전장보다 0.09% 하락했습니다.\n\nS&P500 지수는 전장 대비 1.11% 내렸고요, 나스닥지수는 1.88% 급락하며 장을 마감했습니다.\n\n시장을 가장 크게 흔든 건 코어위브라는 AI 인프라 기업의 신용 위험이었습니다.\n\n이 회사가 어떤 곳인지부터 궁금하실 텐데요, 코어위브는 AI용 그래픽장치(GPU)를 클라우드 서비스로 제공하는 회사입니다.\n\n엔비디아가 지분을 보유하고 있기도 한데요, 이 회사의 채권 가격이 부실 영역으로 간주되는 수준까지 급락했습니다.\n\n코어위브가 AI 인프라를 확장하기 위해 과도한 빚을 내왔는데, 이런 사업 모델에 시장의 의구심이 커진 건데요.\n\n결국 이것은 AI 산업 전반에 대한 신뢰 문제로 인식됐고, 기술주 투매로 이어졌습니다.\n\n[앵커]\n\n물가 지표가 예상보다 뜨겁게 나왔다고 하는데, 구체적인 수치는 어땠나요.\n\n[기자]\n\n네, 미국 9월 소비자물가지수에서 모든 품목을 포함하는 수치는 1년 전보다 3.7% 올랐는데요.\n\n변동성이 큰 식품과 에너지를 제외한 근원 물가 수치는 전년 대비 2.6% 상승했습니다.\n\n이런 수치는 모두 시장의 예상치를 뛰어넘는 수준이었습니다.\n\n물가가 좀처럼 잡히지 않자, 중앙은행이 기준금리를 더 올릴 것이라는 우려가 순식간에 번졌습니다.\n\n다만, 한 가지 위안거리는 국채 금리가 크게 오르지 않았다는 것입니다.\n\n장 중에 국채 저가 매수세가 몰리면서 중장기물 국채 금리는 하락세로 장을 마쳤습니다.\n\n[앵커]\n\n반도체와 주요 기술주, 그리고 다른 업종들의 흐름은 어땠습니까.\n\n[기자]\n\n네, 전해드린 대로 인공지능 신용 불안과 물가 충격이 겹치면서 반도체 종목들이 크게 무너졌습니다.\n\n필라델피아 반도체지수는 4% 넘게 급락하며 6거래일 연속 내림세를 이어갔는데요, 지수를 구성하는 30개 종목 중 단 1개를 제외하고 모두 하락했습니다.\n\n엔비디아와 TSMC, 마이크론, 인텔이 4% 안팎으로 떨어졌고요, AMD는 6% 가까이 급락했습니다.\n\n금융주도 실적 여파로 고전을 면치 못했습니다.\n\n뱅크오브아메리카는 3분기 실적이 기대에 못 미치며 5% 가까이 내렸습니다.\n\n모건스탠리는 호실적을 발표하고도 시장 악재에 휩쓸려 3% 가까이 하락했습니다.\n\n반면 물가 방어주 성격을 띤 필수소비재와 의료건강 업종은 2% 이상 오르며 선전했습니다.\n\n[앵커]\n\n마지막으로 오늘 코스피 전망까지 짚어주시죠.\n\n[기자]\n\n네, 어제 코스피가 강한 상승세로 출발했지만, 결국 하락세로 장을 마감했습니다.\n\n지수는 0.44% 내린 6,008.81로 장을 마치며 '6천피'를 간신히 사수했는데요, 오늘 코스피는 미국 반도체주 부진의 영향을 받으며 약보합권에서 출발할 것으로 전망됩니다.\n\n코스피가 2년여 만에 처음으로 6거래일 연속 하락하고 있는데요.\n\n반발 매수세가 충분히 들어올 수 있는 상황이지만, 간밤에 미국 증시에서 추가적인 악재가 나왔는데요.\n\n우리 증시는 제한적으로 반등 시도가 나올 수 있겠지만, 계속해서 보수적으로 접근해야 할 것으로 예상됩니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n손성훈(sunghun906@yna.co.kr)",
+          "creator": "권정상",
+          "title": "'화학물질 음식' 남편과 나눠 먹고 홀로 회생…50대 아내 징역 20년",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261015164151ZHP",
+          "pubDate": "Thu, 15 Oct 2026 16:41:52 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261015/AKR20261015164151ZHP_01_i.jpg\" alt=\"\"><span class=\"yna_title\">법정</span><span class=\"yna_caption\">[연합뉴스 자료사진]</span><span class=\"yna_description\">[연합뉴스 자료사진]</span></div>\n\n\n신변을 비관해 식당 음식에 화학물질을 몰래 섞어 남편과 나눠 먹은 뒤 혼자 살아남은 50대 아내에게 중형이 내려졌습니다.\n\n수원지법 성남지원 형사2부(김세현 부장판사)는 오늘(15일) 살인 혐의로 구속기소 된 이 모 씨에게 징역 20년을 선고했습니다.\n\n이 씨는 지난 5월 20일 오후 경기 성남시의 한 중국 음식점에서 주문한 음식에 미리 준비한 화학물질을 넣어 60대 남편을 살해한 혐의로 재판에 넘겨졌습니다.\n\n이 씨는 부부가 함께 지내던 고시원 건물 내 식당에 먼저 도착해 음식을 주문한 뒤 남편이 오기 전 화학물질을 섞어 함께 먹은 것으로 조사됐습니다.\n\n식사를 마치고 고시원 방으로 돌아간 이 씨는 다음 날 아침 구토 증세를 보이며 방 밖으로 나왔다가 이웃의 신고로 병원에 옮겨져 목숨을 구했으나, 남편은 방 안에서 숨진 채 발견됐습니다.\n\n방 안에서는 먼저 세상을 떠난 딸에 대한 미안함과 신변을 비관하는 내용이 담긴 이 씨의 유서가 나왔습니다.\n\n수년 전 암 투병 중이던 딸을 잃은 뒤 심리적 불안을 겪어온 이 씨는 수사 초기 \"같이 죽자고 했더니 남편이 동의했다\"라며 자살 방조를 주장했습니다.\n\n그러나 경찰이 식당 폐쇄회로(CC)TV 영상에서 이 씨가 남편 몰래 음식에 화학물질을 섞는 모습을 확인하고 추궁하자 범행을 인정했습니다.\n\n재판부는 \"사람의 생명은 어떤 이유에서라도 박탈할 수 없는, 국가와 사회가 보호해야 할 최우선의 가치\"라며 \"계획적 살인 범행은 피해 회복이 안 되는 중대 범죄이고 비난 가능성이 크다\"라고 판시했습니다.\n\n이어 \"피고인이 장기간 우울증과 환각·망상, 정신적 문제를 겪었고, 이러한 상태가 범행에 영향을 미친 점 등을 양형에 참작했다\"라고 밝혔습니다.\n\n\n#식당음식 #화학물질 #아내 #중형\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n권정상(jusang@yna.co.kr)",
+          "content:encodedSnippet": "법정[연합뉴스 자료사진][연합뉴스 자료사진]\n\n\n신변을 비관해 식당 음식에 화학물질을 몰래 섞어 남편과 나눠 먹은 뒤 혼자 살아남은 50대 아내에게 중형이 내려졌습니다.\n\n수원지법 성남지원 형사2부(김세현 부장판사)는 오늘(15일) 살인 혐의로 구속기소 된 이 모 씨에게 징역 20년을 선고했습니다.\n\n이 씨는 지난 5월 20일 오후 경기 성남시의 한 중국 음식점에서 주문한 음식에 미리 준비한 화학물질을 넣어 60대 남편을 살해한 혐의로 재판에 넘겨졌습니다.\n\n이 씨는 부부가 함께 지내던 고시원 건물 내 식당에 먼저 도착해 음식을 주문한 뒤 남편이 오기 전 화학물질을 섞어 함께 먹은 것으로 조사됐습니다.\n\n식사를 마치고 고시원 방으로 돌아간 이 씨는 다음 날 아침 구토 증세를 보이며 방 밖으로 나왔다가 이웃의 신고로 병원에 옮겨져 목숨을 구했으나, 남편은 방 안에서 숨진 채 발견됐습니다.\n\n방 안에서는 먼저 세상을 떠난 딸에 대한 미안함과 신변을 비관하는 내용이 담긴 이 씨의 유서가 나왔습니다.\n\n수년 전 암 투병 중이던 딸을 잃은 뒤 심리적 불안을 겪어온 이 씨는 수사 초기 \"같이 죽자고 했더니 남편이 동의했다\"라며 자살 방조를 주장했습니다.\n\n그러나 경찰이 식당 폐쇄회로(CC)TV 영상에서 이 씨가 남편 몰래 음식에 화학물질을 섞는 모습을 확인하고 추궁하자 범행을 인정했습니다.\n\n재판부는 \"사람의 생명은 어떤 이유에서라도 박탈할 수 없는, 국가와 사회가 보호해야 할 최우선의 가치\"라며 \"계획적 살인 범행은 피해 회복이 안 되는 중대 범죄이고 비난 가능성이 크다\"라고 판시했습니다.\n\n이어 \"피고인이 장기간 우울증과 환각·망상, 정신적 문제를 겪었고, 이러한 상태가 범행에 영향을 미친 점 등을 양형에 참작했다\"라고 밝혔습니다.\n\n\n#식당음식 #화학물질 #아내 #중형\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n권정상(jusang@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261014/MYH20261015075858kQQ.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261015/AKR20261015164151ZHP_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "손성훈",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261015075858kQQ#comments",
-          "content": "&lt;출연 : 권용욱 연합인포맥스 국제경제부 기자&gt; [앵커] 세계 증시와 우리 증시를 짚어보는 시간 '3분 증시'입니다. 연합인포맥스 권용욱 기자 나와있습니다. 먼저, 간밤 미국 증시부터 정리해주시죠. [기자] 네, 간밤 뉴욕 증시는 3대 주가지수가 일제히 하락세로 마감했습니다. 특히 기술주의 낙폭이 상대적으로 컸는데요, 미국의 9월 소비자물가지수가 예상보다 높게 나오면서 금리 인상에 대한 우려가 다시 커졌습니다. 여기에 미국 AI...",
-          "contentSnippet": "<출연 : 권용욱 연합인포맥스 국제경제부 기자> [앵커] 세계 증시와 우리 증시를 짚어보는 시간 '3분 증시'입니다. 연합인포맥스 권용욱 기자 나와있습니다. 먼저, 간밤 미국 증시부터 정리해주시죠. [기자] 네, 간밤 뉴욕 증시는 3대 주가지수가 일제히 하락세로 마감했습니다. 특히 기술주의 낙폭이 상대적으로 컸는데요, 미국의 9월 소비자물가지수가 예상보다 높게 나오면서 금리 인상에 대한 우려가 다시 커졌습니다. 여기에 미국 AI...",
-          "guid": "MYH20261015075858kQQ",
+          "dc:creator": "권정상",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261015164151ZHP#comments",
+          "content": "법정[연합뉴스 자료사진][연합뉴스 자료사진] 신변을 비관해 식당 음식에 화학물질을 몰래 섞어 남편과 나눠 먹은 뒤 혼자 살아남은 50대 아내에게 중형이 내려졌습니다. 수원지법 성남지원 형사2부(김세현 부장판사)는 오늘(15일) 살인 혐의로 구속기소 된 이 모 씨에게 징역 20년을 선고했습니다. 이 씨는 지난 5월 20일 오후 경기 성남시의 한 중국 음식점에서 주문한 음식에 미리 준비한 화학물질을 넣어 60대 남편을 살해한 혐의로 재판에 넘...",
+          "contentSnippet": "법정[연합뉴스 자료사진][연합뉴스 자료사진] 신변을 비관해 식당 음식에 화학물질을 몰래 섞어 남편과 나눠 먹은 뒤 혼자 살아남은 50대 아내에게 중형이 내려졌습니다. 수원지법 성남지원 형사2부(김세현 부장판사)는 오늘(15일) 살인 혐의로 구속기소 된 이 모 씨에게 징역 20년을 선고했습니다. 이 씨는 지난 5월 20일 오후 경기 성남시의 한 중국 음식점에서 주문한 음식에 미리 준비한 화학물질을 넣어 60대 남편을 살해한 혐의로 재판에 넘...",
+          "guid": "AKR20261015164151ZHP",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-14T22:58:59.000Z"
+          "isoDate": "2026-10-15T07:41:52.000Z"
         }
       ]
     }
