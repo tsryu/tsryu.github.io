@@ -7,6 +7,186 @@
       "priority": 1,
       "data": [
         {
+          "title": "Show GN: PCBox - 이미지로 PC 화면 요소 테마 패키지를 만드는 웹 도구 (베타)",
+          "link": "https://news.hada.io/topic?id=35694",
+          "pubDate": "2026-10-20T07:20:18.000Z",
+          "author": "maxhwang24",
+          "content": "<p>PCBox - CustomYourDesktop를 만들고 있습니다. 웹에서 이미지를 올려 배경·아이콘·커서 구성을 미리 보고 OS별 패키지를 생성하는 베타입니다.<br />\n기본 실행은 dry-run이며, 파일 추출은 지정한 기존 폴더 안의 PCBox-theme로 제한합니다. 실제 적용과 복원에는 제한이 있습니다. macOS 실기 검증은 끝나지 않았고...</p>",
+          "contentSnippet": "PCBox - CustomYourDesktop를 만들고 있습니다. 웹에서 이미지를 올려 배경·아이콘·커서 구성을 미리 보고 OS별 패키지를 생성하는 베타입니다.\n기본 실행은 dry-run이며, 파일 추출은 지정한 기존 폴더 안의 PCBox-theme로 제한합니다. 실제 적용과 복원에는 제한이 있습니다. macOS 실기 검증은 끝나지 않았고...",
+          "id": "https://news.hada.io/topic?id=35694",
+          "isoDate": "2026-10-20T07:20:18.000Z"
+        },
+        {
+          "title": "OpenBSD 8.0 - 가상 머신당 최대 64 vCPU와 arm64 최대 절전 모드 지원",
+          "link": "https://news.hada.io/topic?id=35692",
+          "pubDate": "2026-10-20T06:34:23.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>VMM/VMD</strong>에 게스트 가상 머신당 최대 <strong>64 vCPU</strong>를 지원하는 다중 프로세서 기능을 추가하고, 32비트 Linux 게스트 호환성과 가상 장치 처리를 개선함</li>\n<li><strong>amd64 커널 가상 주소 공간</strong>을 4GB에서 512GB로 확대해 4GB 초과 VRAM 매핑이 가능해졌으며, Intel...</p>",
+          "contentSnippet": "VMM/VMD에 게스트 가상 머신당 최대 64 vCPU를 지원하는 다중 프로세서 기능을 추가하고, 32비트 Linux 게스트 호환성과 가상 장치 처리를 개선함\namd64 커널 가상 주소 공간을 4GB에서 512GB로 확대해 4GB 초과 VRAM 매핑이 가능해졌으며, Intel...",
+          "id": "https://news.hada.io/topic?id=35692",
+          "isoDate": "2026-10-20T06:34:23.000Z"
+        },
+        {
+          "title": "Weball: 웹사이트에서 Katamari 플레이하기",
+          "link": "https://news.hada.io/topic?id=35691",
+          "pubDate": "2026-10-20T05:36:51.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>Weball</strong>은 웹페이지에서 공을 굴려 페이지를 모으고 공을 키우는 Katamari 방식의 게임임</li>\n<li>기본 레벨로 <strong>Wikipedia</strong>, Cameron's World, The Old Net을 제공함</li>\n<li>목표를 달성하면 <strong>추가 레벨 2개</strong>와 원하는 웹사이트에서 플레이하는 기능이 해제됨...</p>",
+          "contentSnippet": "Weball은 웹페이지에서 공을 굴려 페이지를 모으고 공을 키우는 Katamari 방식의 게임임\n기본 레벨로 Wikipedia, Cameron's World, The Old Net을 제공함\n목표를 달성하면 추가 레벨 2개와 원하는 웹사이트에서 플레이하는 기능이 해제됨...",
+          "id": "https://news.hada.io/topic?id=35691",
+          "isoDate": "2026-10-20T05:36:51.000Z"
+        },
+        {
+          "title": "WhatsApp 도움말 페이지에 숨겨진 LLM 지침: 규제기관에 연락하라고 권하지 말 것",
+          "link": "https://news.hada.io/topic?id=35690",
+          "pubDate": "2026-10-20T05:33:51.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>WhatsApp 도움말 <strong>545개 페이지 중 80개</strong>에서 화면에는 보이지 않는 AI용 지침 102개가 발견됐으며, 일부는 개인정보 규제기관이나 관련 법률을 답변에서 제외하도록 요구함</li>\n<li>계정 삭제 지침은 <strong>개인정보 감독기관에 연락하도록 권하지 말 것</strong>을 요구했고, 신고/차단 지...</p>",
+          "contentSnippet": "WhatsApp 도움말 545개 페이지 중 80개에서 화면에는 보이지 않는 AI용 지침 102개가 발견됐으며, 일부는 개인정보 규제기관이나 관련 법률을 답변에서 제외하도록 요구함\n계정 삭제 지침은 개인정보 감독기관에 연락하도록 권하지 말 것을 요구했고, 신고/차단 지...",
+          "id": "https://news.hada.io/topic?id=35690",
+          "isoDate": "2026-10-20T05:33:51.000Z"
+        },
+        {
+          "title": "Show GN: YugiTokenBar - AI 코딩 토큰사용량으로 유희왕 카드깡을 하는 macOS 메뉴바 앱",
+          "link": "https://news.hada.io/topic?id=35689",
+          "pubDate": "2026-10-20T05:07:51.000Z",
+          "author": "ohho0506",
+          "content": "<p>안녕하세요. AI 코딩 에이전트 토큰사용량만큼 <strong>유희왕 카드깡</strong>을 즐길 수 있는 macOS 메뉴바 앱 <strong>YugiTokenBar</strong>를 만들었습니다.<br />\nClaude Code나 Codex를 사용하다 보면 토큰 사용량이 계속 쌓이게 되는데,<br />\n이 숫자를 가챠의 설렘과 수집하는 재미로 활용해보면 어떨까 하...</p>",
+          "contentSnippet": "안녕하세요. AI 코딩 에이전트 토큰사용량만큼 유희왕 카드깡을 즐길 수 있는 macOS 메뉴바 앱 YugiTokenBar를 만들었습니다.\nClaude Code나 Codex를 사용하다 보면 토큰 사용량이 계속 쌓이게 되는데,\n이 숫자를 가챠의 설렘과 수집하는 재미로 활용해보면 어떨까 하...",
+          "id": "https://news.hada.io/topic?id=35689",
+          "isoDate": "2026-10-20T05:07:51.000Z"
+        },
+        {
+          "title": "Ende의 시작: 커뮤니티 Deno 포크",
+          "link": "https://news.hada.io/topic?id=35688",
+          "pubDate": "2026-10-20T05:01:27.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Deno 팀이 <strong>Cloudflare로 이동</strong>하고 1년 뒤 런타임 개발을 중단하기로 하면서, Deno에 의존해 온 개발자가 커뮤니티 포크 <strong>Ende</strong>를 시작함</li>\n<li>Ryan Dahl은 Deno가 <strong>Node 호환성</strong>에 묶여 큰 문제를 해결하지 못하고 있다고 판단함. 앞으로 1년간 월별 릴리스...</p>",
+          "contentSnippet": "Deno 팀이 Cloudflare로 이동하고 1년 뒤 런타임 개발을 중단하기로 하면서, Deno에 의존해 온 개발자가 커뮤니티 포크 Ende를 시작함\nRyan Dahl은 Deno가 Node 호환성에 묶여 큰 문제를 해결하지 못하고 있다고 판단함. 앞으로 1년간 월별 릴리스...",
+          "id": "https://news.hada.io/topic?id=35688",
+          "isoDate": "2026-10-20T05:01:27.000Z"
+        },
+        {
+          "title": "Anthropic의 IPO를 둘러싼 베일 속 신탁",
+          "link": "https://news.hada.io/topic?id=35686",
+          "pubDate": "2026-10-20T04:31:59.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>Anthropic</strong>이 기업공개(IPO)를 준비하는 가운데, 이사회 구성에 영향력을 행사하고 주요 행보를 막을 수 있는 신탁의 세부 사항은 대부분 공개되지 않은 상태임</li>\n<li><strong>Long-Term Benefit Trust</strong>는 회사에 막대한 영향력을 갖고 있지만, 신탁의 운영을 규율하는 문서는 공개...</p>",
+          "contentSnippet": "Anthropic이 기업공개(IPO)를 준비하는 가운데, 이사회 구성에 영향력을 행사하고 주요 행보를 막을 수 있는 신탁의 세부 사항은 대부분 공개되지 않은 상태임\nLong-Term Benefit Trust는 회사에 막대한 영향력을 갖고 있지만, 신탁의 운영을 규율하는 문서는 공개...",
+          "id": "https://news.hada.io/topic?id=35686",
+          "isoDate": "2026-10-20T04:31:59.000Z"
+        },
+        {
+          "title": "미 국방부는 얼마나 빨리 탄약 산업 기반을 재건하고 재편할 수 있을까?",
+          "link": "https://news.hada.io/topic?id=35684",
+          "pubDate": "2026-10-20T03:35:07.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>미국은 탄약 재고를 늘리는 동시에 고성능 미사일과 저비용 미사일/드론을 결합하는 <strong>고가형/저가형 혼합 전력</strong>으로 무기 구성을 바꾸려 함</li>\n<li>FY 2027 예산 요청에서 단가 60만 달러 미만 무기는 탄약 수량의 약 <strong>49%</strong> 를 차지하며, FY 2031 요청 전망에서는 <strong>70%...</p>",
+          "contentSnippet": "미국은 탄약 재고를 늘리는 동시에 고성능 미사일과 저비용 미사일/드론을 결합하는 고가형/저가형 혼합 전력으로 무기 구성을 바꾸려 함\nFY 2027 예산 요청에서 단가 60만 달러 미만 무기는 탄약 수량의 약 49% 를 차지하며, FY 2031 요청 전망에서는 70%...",
+          "id": "https://news.hada.io/topic?id=35684",
+          "isoDate": "2026-10-20T03:35:07.000Z"
+        },
+        {
+          "title": "우크라이나, 드론으로 부상병을 처음 후송했다고 밝혀",
+          "link": "https://news.hada.io/topic?id=35683",
+          "pubDate": "2026-10-20T02:36:32.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>우크라이나 <strong>제92독립강습여단</strong>이 전선의 부상병을 공중 드론으로 후송하는 영상을 공개하고, <strong>세계 최초 사례</strong>라고 밝힘</li>\n<li>여단에 따르면 <strong>적 드론의 집중적인 활동과 지뢰</strong> 때문에 기존 무인 지상 차량으로는 부상병을 후송할 수 없었음</li>\n<li>사용 ...</p>",
+          "contentSnippet": "우크라이나 제92독립강습여단이 전선의 부상병을 공중 드론으로 후송하는 영상을 공개하고, 세계 최초 사례라고 밝힘\n여단에 따르면 적 드론의 집중적인 활동과 지뢰 때문에 기존 무인 지상 차량으로는 부상병을 후송할 수 없었음\n사용 ...",
+          "id": "https://news.hada.io/topic?id=35683",
+          "isoDate": "2026-10-20T02:36:32.000Z"
+        },
+        {
+          "title": "룰라 지지자들, Meta의 ‘선거 개입’을 규탄하며 시위",
+          "link": "https://news.hada.io/topic?id=35682",
+          "pubDate": "2026-10-20T02:33:31.000Z",
+          "author": "neo",
+          "content": "룰라 지지자들, Meta의 ‘선거 개입’을 규탄하며 시위",
+          "contentSnippet": "룰라 지지자들, Meta의 ‘선거 개입’을 규탄하며 시위",
+          "id": "https://news.hada.io/topic?id=35682",
+          "isoDate": "2026-10-20T02:33:31.000Z"
+        },
+        {
+          "title": "Show GN: Nopetion – 내 서버에서 직접 운영하는 개인용 Notion 대안",
+          "link": "https://news.hada.io/topic?id=35680",
+          "pubDate": "2026-10-20T02:03:05.000Z",
+          "author": "mmmm1234",
+          "content": "<p>안녕하세요. 개인 문서를 직접 관리할 수 있는 셀프 호스팅 문서 워크스페이스 Nopetion을 만들었습니다.</p>\n<p>Notion처럼 편리하게 문서를 작성하고 정리하면서도, 데이터와 서버를 직접 관리할 수 있는 환경을 목표로 개발했습니다.</p>\n<p>Nopetion은 오픈소스 문서 협업 도구인 Docmost를 기반으로 수정한 포크",
+          "contentSnippet": "안녕하세요. 개인 문서를 직접 관리할 수 있는 셀프 호스팅 문서 워크스페이스 Nopetion을 만들었습니다.\nNotion처럼 편리하게 문서를 작성하고 정리하면서도, 데이터와 서버를 직접 관리할 수 있는 환경을 목표로 개발했습니다.\nNopetion은 오픈소스 문서 협업 도구인 Docmost를 기반으로 수정한 포크",
+          "id": "https://news.hada.io/topic?id=35680",
+          "isoDate": "2026-10-20T02:03:05.000Z"
+        },
+        {
+          "title": "Show GN: Review Inbox - 리뷰 기다리는 PR을 Claude Code 입력창 위에 띄워 주는 mod",
+          "link": "https://news.hada.io/topic?id=35676",
+          "pubDate": "2026-10-20T01:28:32.000Z",
+          "author": "riversound",
+          "content": "<p>2주전부터 제 Claude Code 입력창 위에는 노란 줄이 하나 떠 있습니다. 동료의 PR이 사흘째 제 리뷰를 기다리고 있다는 뜻입니다.</p>\n<p>Claude Code를 쓰고부터 하루 대부분을 터미널에서 보내다 보니, PR을 올리는 속도는 빨라졌는데 리뷰 요청은 오히려 놓치게 되었습니다. GitHub 알림 탭을 열 일이 없어졌거든요",
+          "contentSnippet": "2주전부터 제 Claude Code 입력창 위에는 노란 줄이 하나 떠 있습니다. 동료의 PR이 사흘째 제 리뷰를 기다리고 있다는 뜻입니다.\nClaude Code를 쓰고부터 하루 대부분을 터미널에서 보내다 보니, PR을 올리는 속도는 빨라졌는데 리뷰 요청은 오히려 놓치게 되었습니다. GitHub 알림 탭을 열 일이 없어졌거든요",
+          "id": "https://news.hada.io/topic?id=35676",
+          "isoDate": "2026-10-20T01:28:32.000Z"
+        },
+        {
+          "title": "Show GN: Markpin – 밑줄 긋고 나면 「왜 표시했나요?」를 묻는 웹 형광펜 (로컬 Markdown, MCP 서버 공개)",
+          "link": "https://news.hada.io/topic?id=35674",
+          "pubDate": "2026-10-20T01:10:28.000Z",
+          "author": "mudman",
+          "content": "<p><strong>무엇을 만들었는지</strong><br />\n웹페이지를 읽다가 문장을 드래그하면 형광펜(네 가지 색)을 긋고 그 자리에 메모를 달 수 있는 Chrome 확장입니다. 색 말고도 ? ! × ★ 기호를 같이 남길 수 있는데(저는 의문, 새로 안 것, 반박, 핵심 정도로 쓰고 있습니다), 밑줄을 긋고 나면 메모 칸이 열리면서 「왜 ...</p>",
+          "contentSnippet": "무엇을 만들었는지\n웹페이지를 읽다가 문장을 드래그하면 형광펜(네 가지 색)을 긋고 그 자리에 메모를 달 수 있는 Chrome 확장입니다. 색 말고도 ? ! × ★ 기호를 같이 남길 수 있는데(저는 의문, 새로 안 것, 반박, 핵심 정도로 쓰고 있습니다), 밑줄을 긋고 나면 메모 칸이 열리면서 「왜 ...",
+          "id": "https://news.hada.io/topic?id=35674",
+          "isoDate": "2026-10-20T01:10:28.000Z"
+        },
+        {
+          "title": "Ask GN: 회사에서 계속해서 늘어나는 에이전트, 어떻게 관리하나요?",
+          "link": "https://news.hada.io/topic?id=35673",
+          "pubDate": "2026-10-20T00:49:14.000Z",
+          "author": "noahl",
+          "content": "<p>데브옵스로 일하고 있는데, 여러 팀들이 클로드나 코덱스로 팀 에이전트를 만들고 배포하고 슬랙으로 연동하고 있습니다.</p>\n<p>자동화하는 것은 문제가 아닌데, 운영 팀 입장에선 중복과 보안이 문제가 되는 것 같습니다.</p>\n<p>대부분의 에이전트가 코딩, Q&amp;A이다 보니 기능적으로 겹치는 부분이 많습니다. 또",
+          "contentSnippet": "데브옵스로 일하고 있는데, 여러 팀들이 클로드나 코덱스로 팀 에이전트를 만들고 배포하고 슬랙으로 연동하고 있습니다.\n자동화하는 것은 문제가 아닌데, 운영 팀 입장에선 중복과 보안이 문제가 되는 것 같습니다.\n대부분의 에이전트가 코딩, Q&A이다 보니 기능적으로 겹치는 부분이 많습니다. 또",
+          "id": "https://news.hada.io/topic?id=35673",
+          "isoDate": "2026-10-20T00:49:14.000Z"
+        },
+        {
+          "title": "Plex 취약점, 암호화폐 채굴기 설치를 위한 실제 공격에 악용 중",
+          "link": "https://news.hada.io/topic?id=35672",
+          "pubDate": "2026-10-20T00:32:17.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>취약한 Plex 버전을 실행한 <strong>허니팟</strong>에서 2026년 10월 17일 실제 취약점 악용과 <strong>암호화폐 채굴기</strong> 배포가 관측됨</li>\n<li><strong>Plex2Shell</strong>은 여러 취약점을 연결해 원격 코드 실행을 달성하며, Plex는 앞서 9월 1일 관련 보안 업데이트를 공지함</li>\n<li>서로 다...</p>",
+          "contentSnippet": "취약한 Plex 버전을 실행한 허니팟에서 2026년 10월 17일 실제 취약점 악용과 암호화폐 채굴기 배포가 관측됨\nPlex2Shell은 여러 취약점을 연결해 원격 코드 실행을 달성하며, Plex는 앞서 9월 1일 관련 보안 업데이트를 공지함\n서로 다...",
+          "id": "https://news.hada.io/topic?id=35672",
+          "isoDate": "2026-10-20T00:32:17.000Z"
+        },
+        {
+          "title": "Anatomy - 기술 개념을 움직이는 입체 도해로 만드는 AI 에이전트 스킬",
+          "link": "https://news.hada.io/topic?id=35670",
+          "pubDate": "2026-10-20T00:30:02.000Z",
+          "author": "xguru",
+          "content": "<ul>\n<li>문서와 블로그, 교육 자료에 사용할 <strong>인터랙티브 입체 도해를 코딩 에이전트로 제작</strong>하는 스킬</li>\n<li>캐시, 연결 풀, 요청 제한 같은 개념을 <strong>실제로 움직이는 기계나 장치에 빗대어 시각화</strong>. 설명할 개념과 수치, 출력 형식을 지정해 요청</li>\n<li>SVG로 부품과 배관, 음영...</p>",
+          "contentSnippet": "문서와 블로그, 교육 자료에 사용할 인터랙티브 입체 도해를 코딩 에이전트로 제작하는 스킬\n캐시, 연결 풀, 요청 제한 같은 개념을 실제로 움직이는 기계나 장치에 빗대어 시각화. 설명할 개념과 수치, 출력 형식을 지정해 요청\nSVG로 부품과 배관, 음영...",
+          "id": "https://news.hada.io/topic?id=35670",
+          "isoDate": "2026-10-20T00:30:02.000Z"
+        },
+        {
+          "title": "사이트 가이드라인과 AI/LLM 태그 변경",
+          "link": "https://news.hada.io/topic?id=35667",
+          "pubDate": "2026-10-20T00:03:37.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Lobsters가 <strong>독자의 시간과 지성을 존중하는 컴퓨팅 콘텐츠</strong>에 집중하도록 주제 적합성과 자기 홍보 규칙을 명확히 하고, AI/LLM 태그를 개편함</li>\n<li>예정된 배포 이후에는 <strong>코드 저장소 자체를 제출할 수 없으며</strong>, 코드의 제작 이유, 목적, 해결한 과제와 유용성을 다룬 콘...</p>",
+          "contentSnippet": "Lobsters가 독자의 시간과 지성을 존중하는 컴퓨팅 콘텐츠에 집중하도록 주제 적합성과 자기 홍보 규칙을 명확히 하고, AI/LLM 태그를 개편함\n예정된 배포 이후에는 코드 저장소 자체를 제출할 수 없으며, 코드의 제작 이유, 목적, 해결한 과제와 유용성을 다룬 콘...",
+          "id": "https://news.hada.io/topic?id=35667",
+          "isoDate": "2026-10-20T00:03:37.000Z"
+        },
+        {
+          "title": "Microsoft 계정이 없어 RTX Spark 노트북에 Linux 설치하기",
+          "link": "https://news.hada.io/topic?id=35665",
+          "pubDate": "2026-10-19T23:32:58.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Windows만 공식 지원하는 <strong>ASUS ProArt P16</strong>에 Arch Linux ARM을 설치하고, 하드웨어 지원 패치와 부팅 가능한 USB 빌드 구성을 공개함</li>\n<li>NVIDIA의 Ubuntu용 커널 작업을 바탕으로 <strong>ACPI, 콘솔, 키보드, 오디오 지원</strong>을 보완했으며, 확장한 Archinstall 4.5로 설치할 수 ...</p>",
+          "contentSnippet": "Windows만 공식 지원하는 ASUS ProArt P16에 Arch Linux ARM을 설치하고, 하드웨어 지원 패치와 부팅 가능한 USB 빌드 구성을 공개함\nNVIDIA의 Ubuntu용 커널 작업을 바탕으로 ACPI, 콘솔, 키보드, 오디오 지원을 보완했으며, 확장한 Archinstall 4.5로 설치할 수 ...",
+          "id": "https://news.hada.io/topic?id=35665",
+          "isoDate": "2026-10-19T23:32:58.000Z"
+        },
+        {
           "title": "유럽 9월 전기차 판매 70.3% 증가, 시장 점유율 32.6%",
           "link": "https://news.hada.io/topic?id=35664",
           "pubDate": "2026-10-19T22:33:01.000Z",
@@ -27,7 +207,7 @@
           "isoDate": "2026-10-19T22:24:12.000Z"
         },
         {
-          "title": "Ask HN: 이해하지 못하는 AI 작성 코드를 배포하는 상황에 어떻게 대처하시나요?",
+          "title": "Ask HN: AI가 작성한 코드를 이해하지 못한 채 배포하는 문제, 어떻게 대처하시나요?",
           "link": "https://news.hada.io/topic?id=35662",
           "pubDate": "2026-10-19T21:33:18.000Z",
           "author": "neo",
@@ -41,8 +221,8 @@
           "link": "https://news.hada.io/topic?id=35661",
           "pubDate": "2026-10-19T20:39:07.000Z",
           "author": "neo",
-          "content": "모터 하나만으로 드론을 만들었다 [영상]",
-          "contentSnippet": "모터 하나만으로 드론을 만들었다 [영상]",
+          "content": "<ul>\n<li><strong>추가 모터나 조종용 서보 없이, 모터 하나로 떠오르고 방향을 바꾸는 드론</strong> 제작. 기계 구조를 단순하게 만드는 대신 복잡한 제어 소프트웨어로 비행을 구현</li>\n<li><strong>모터를 가속하고 감속하면 날개 각도가 달라지는 힌지 구조</strong> 사용. 회전 중 원하는 위치에서 양력 차이를 만...</p>",
+          "contentSnippet": "추가 모터나 조종용 서보 없이, 모터 하나로 떠오르고 방향을 바꾸는 드론 제작. 기계 구조를 단순하게 만드는 대신 복잡한 제어 소프트웨어로 비행을 구현\n모터를 가속하고 감속하면 날개 각도가 달라지는 힌지 구조 사용. 회전 중 원하는 위치에서 양력 차이를 만...",
           "id": "https://news.hada.io/topic?id=35661",
           "isoDate": "2026-10-19T20:39:07.000Z"
         },
@@ -67,12 +247,12 @@
           "isoDate": "2026-10-19T20:33:07.000Z"
         },
         {
-          "title": "Mercury 3 - 대규모로 확장한 확산 기반 LLM",
+          "title": "Mercury 3 - 텍스트를 병렬로 생성하는 대규모 확산 기반 LLM",
           "link": "https://news.hada.io/topic?id=35658",
           "pubDate": "2026-10-19T19:36:43.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>Inception이 <strong>확산 기반 LLM Mercury 3</strong>를 공개함. 회사 벤치마크 기준 GPT-6 Luna와 Claude Haiku 5.5를 여러 평가에서 앞서며, 초당 1,000토큰 이상으로 4~8배 빠르게 실행됨</li>\n<li><strong>총 파라미터 수는 Mercury 1 대비 40배 이상</strong> 늘었지만 속도는 유지됨. Inception 평가에...</p>",
-          "contentSnippet": "Inception이 확산 기반 LLM Mercury 3를 공개함. 회사 벤치마크 기준 GPT-6 Luna와 Claude Haiku 5.5를 여러 평가에서 앞서며, 초당 1,000토큰 이상으로 4~8배 빠르게 실행됨\n총 파라미터 수는 Mercury 1 대비 40배 이상 늘었지만 속도는 유지됨. Inception 평가에...",
+          "content": "<ul>\n<li>Inception이 <strong>여러 위치의 텍스트를 병렬로 다듬어 생성하는 확산 기반 언어 모델 Mercury 3</strong> 공개. 토큰을 하나씩 생성하는 일반적인 LLM과 다른 방식으로 빠른 응답을 구현</li>\n<li><strong>첫 모델보다 총 파라미터를 40배 이상 늘리고도 속도를 유지</strong>하며 복잡한 작업의 성능을 개...</p>",
+          "contentSnippet": "Inception이 여러 위치의 텍스트를 병렬로 다듬어 생성하는 확산 기반 언어 모델 Mercury 3 공개. 토큰을 하나씩 생성하는 일반적인 LLM과 다른 방식으로 빠른 응답을 구현\n첫 모델보다 총 파라미터를 40배 이상 늘리고도 속도를 유지하며 복잡한 작업의 성능을 개...",
           "id": "https://news.hada.io/topic?id=35658",
           "isoDate": "2026-10-19T19:36:43.000Z"
         },
@@ -81,8 +261,8 @@
           "link": "https://news.hada.io/topic?id=35657",
           "pubDate": "2026-10-19T19:33:43.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>MiniMax가 에이전트 작업, 코딩, 컴퓨터 사용, 사이버보안 역량을 강화한 <strong>M3.1 Flash</strong>를 출시함</li>\n<li>MiniMax에 따르면 온라인 추론 속도는 <strong>약 3배</strong> 빨라졌으며, 에이전트 작업의 전체 사용 비용은 이전 모델보다 <strong>70% 낮아짐</strong></li>\n<li>복잡한 소프트웨어...</p>",
-          "contentSnippet": "MiniMax가 에이전트 작업, 코딩, 컴퓨터 사용, 사이버보안 역량을 강화한 M3.1 Flash를 출시함\nMiniMax에 따르면 온라인 추론 속도는 약 3배 빨라졌으며, 에이전트 작업의 전체 사용 비용은 이전 모델보다 70% 낮아짐\n복잡한 소프트웨어...",
+          "content": "<ul>\n<li>MiniMax가 <strong>업무 자동화와 코딩, 컴퓨터 사용, 사이버보안 역량을 강화한 M3.1 Flash</strong> 출시. 익명으로 200조 토큰 이상을 처리한 <strong>Space Bunny</strong>가 이 모델의 초기 버전</li>\n<li>MiniMax 기준 전작보다 <strong>온라인 추론 속도는 약 3배, 에이전트 작업의 전체 사용 비용은 70...</p>",
+          "contentSnippet": "MiniMax가 업무 자동화와 코딩, 컴퓨터 사용, 사이버보안 역량을 강화한 M3.1 Flash 출시. 익명으로 200조 토큰 이상을 처리한 Space Bunny가 이 모델의 초기 버전\nMiniMax 기준 전작보다 온라인 추론 속도는 약 3배, 에이전트 작업의 전체 사용 비용은 70...",
           "id": "https://news.hada.io/topic?id=35657",
           "isoDate": "2026-10-19T19:33:43.000Z"
         },
@@ -325,186 +505,6 @@
           "contentSnippet": "Autodesk는 “cyberspace” 상표 등록을 출원했고 William Gibson은 실제로 반발했지만, Gibson이 보복으로 “Eric Gullichsen”을 상표 등록하려 했다는 이야기는 사실이 아님\n보복 상표 등록설은 Timothy Leary의 장난에서 시작됐으며, Barlow와 Rudy Rucker를 거...",
           "id": "https://news.hada.io/topic?id=35627",
           "isoDate": "2026-10-19T05:31:46.000Z"
-        },
-        {
-          "title": "MemScope - AI 에이전트의 기억 장치를 통째로 갈아엎지 않고, 고장 난 곳만 찾아 고친다",
-          "link": "https://news.hada.io/topic?id=35626",
-          "pubDate": "2026-10-19T05:22:43.000Z",
-          "author": "axis0",
-          "content": "<ul>\n<li>AI 에이전트는 겪은 일을 저장했다가 다시 꺼내 쓰는 기억 장치를 갖고 있는데, 보통 한 번 만들면 그대로 씁니다.</li>\n<li>스스로 고치는 기존 방법들은 점수나 요약만 보고 고쳐서, 어디가 고장인지 몰라 멀쩡한 부분까지 크게 뜯어고치는 일이 많았습니다.</li>\n<li>MemScope는 실제로 돌아간 기록, 그때 기...</p>",
-          "contentSnippet": "AI 에이전트는 겪은 일을 저장했다가 다시 꺼내 쓰는 기억 장치를 갖고 있는데, 보통 한 번 만들면 그대로 씁니다.\n스스로 고치는 기존 방법들은 점수나 요약만 보고 고쳐서, 어디가 고장인지 몰라 멀쩡한 부분까지 크게 뜯어고치는 일이 많았습니다.\nMemScope는 실제로 돌아간 기록, 그때 기...",
-          "id": "https://news.hada.io/topic?id=35626",
-          "isoDate": "2026-10-19T05:22:43.000Z"
-        },
-        {
-          "title": "테크 업계의 남성들 #YesAllMen",
-          "link": "https://news.hada.io/topic?id=35625",
-          "pubDate": "2026-10-19T05:00:54.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>한 여성이 경력 전반에 걸쳐 남성들에게 겪은 <strong>말과 행동</strong>을 다루는 강연으로, 여성에게 업계에서 살아남는 법을 가르치는 방식에서 벗어나려 함</li>\n<li>강연자는 동료에게 <strong>성적 비하와 욕설이 담긴 문자</strong>를 받았지만, 그 동료가 “질책하기에는 너무 중요한 사람”이라는 말...</p>",
-          "contentSnippet": "한 여성이 경력 전반에 걸쳐 남성들에게 겪은 말과 행동을 다루는 강연으로, 여성에게 업계에서 살아남는 법을 가르치는 방식에서 벗어나려 함\n강연자는 동료에게 성적 비하와 욕설이 담긴 문자를 받았지만, 그 동료가 “질책하기에는 너무 중요한 사람”이라는 말...",
-          "id": "https://news.hada.io/topic?id=35625",
-          "isoDate": "2026-10-19T05:00:54.000Z"
-        },
-        {
-          "title": "PalmOS Lemmings - 교육용으로 제공되는 게임 소스 코드",
-          "link": "https://news.hada.io/topic?id=35624",
-          "pubDate": "2026-10-19T04:35:52.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>PalmOS Lemmings</strong>의 소스 코드를 제공하는 저장소임</li>\n<li>소스 코드는 <strong>교육 목적</strong>으로 제공됨</li>\n<li>코드는 <strong>있는 그대로(AS-IS)</strong> 제공됨</li>\n<li>README에 Lemmings 소개 이미지가 있음</li>\n<li>별도의 스크린샷 섹션에 게임 화면 이미지가 있음</li...</p>",
-          "contentSnippet": "PalmOS Lemmings의 소스 코드를 제공하는 저장소임\n소스 코드는 교육 목적으로 제공됨\n코드는 있는 그대로(AS-IS) 제공됨\nREADME에 Lemmings 소개 이미지가 있음\n별도의 스크린샷 섹션에 게임 화면 이미지가 있음",
-          "id": "https://news.hada.io/topic?id=35624",
-          "isoDate": "2026-10-19T04:35:52.000Z"
-        },
-        {
-          "title": "LLM을 골탕 먹이려고 프로그래밍 언어를 만들었다",
-          "link": "https://news.hada.io/topic?id=35623",
-          "pubDate": "2026-10-19T04:32:52.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>KillSwitch</strong>는 인간은 사용할 수 있지만 LLM에는 최대한 어렵도록 만든 실험적 프로그래밍 언어. 처음 보는 언어에서도 코드를 작성하는 능력이 이해에서 오는지, 익숙한 코드의 재현에서 오는지 시험하기 위해 개발</li>\n<li><strong>식별자의 글자 수, 거짓 정보가 섞인 명세, 안전장치를 자...</p>",
-          "contentSnippet": "KillSwitch는 인간은 사용할 수 있지만 LLM에는 최대한 어렵도록 만든 실험적 프로그래밍 언어. 처음 보는 언어에서도 코드를 작성하는 능력이 이해에서 오는지, 익숙한 코드의 재현에서 오는지 시험하기 위해 개발\n식별자의 글자 수, 거짓 정보가 섞인 명세, 안전장치를 자...",
-          "id": "https://news.hada.io/topic?id=35623",
-          "isoDate": "2026-10-19T04:32:52.000Z"
-        },
-        {
-          "title": "Show GN: 무료 AI 보안 자가진단 - 내 웹/서버 보안을 점검해 보세요.",
-          "link": "https://news.hada.io/topic?id=35621",
-          "pubDate": "2026-10-19T04:10:01.000Z",
-          "author": "jic5760",
-          "content": "<p>안녕하세요.</p>\n<p>요즘 AI로 해킹하는 사례가 늘고, 지난 주말 동안에도 제 개인정보가 털렸다는 문제를 받았습니다..😭</p>\n<p>이렇게 해킹이 난립하는 시대.. 도메인/웹주소/IP 를 입력하면 공개된 정보와 간단한 프로빙 (악성 요청 없이)으로 취약성 여부를 진단할 수 있는 툴을 만들었습니다.</p>\n<p>상세한 취",
-          "contentSnippet": "안녕하세요.\n요즘 AI로 해킹하는 사례가 늘고, 지난 주말 동안에도 제 개인정보가 털렸다는 문제를 받았습니다..😭\n이렇게 해킹이 난립하는 시대.. 도메인/웹주소/IP 를 입력하면 공개된 정보와 간단한 프로빙 (악성 요청 없이)으로 취약성 여부를 진단할 수 있는 툴을 만들었습니다.\n상세한 취",
-          "id": "https://news.hada.io/topic?id=35621",
-          "isoDate": "2026-10-19T04:10:01.000Z"
-        },
-        {
-          "title": "ARP! 네트워크에 직접 물어보자",
-          "link": "https://news.hada.io/topic?id=35619",
-          "pubDate": "2026-10-19T03:01:07.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>arp-scan</strong>으로 로컬 네트워크 기기의 IP 주소, MAC 주소, 제조사를 확인할 수 있어, 기기에 직접 지정했거나 라우터가 할당한 IP를 찾는 데 유용함</li>\n<li>로컬 네트워크에서 기기에 메시지를 보내려면 <strong>IP 주소와 MAC 주소</strong>가 모두 필요하며, 스위치는 MAC 주소를 기준으로 ...</p>",
-          "contentSnippet": "arp-scan으로 로컬 네트워크 기기의 IP 주소, MAC 주소, 제조사를 확인할 수 있어, 기기에 직접 지정했거나 라우터가 할당한 IP를 찾는 데 유용함\n로컬 네트워크에서 기기에 메시지를 보내려면 IP 주소와 MAC 주소가 모두 필요하며, 스위치는 MAC 주소를 기준으로 ...",
-          "id": "https://news.hada.io/topic?id=35619",
-          "isoDate": "2026-10-19T03:01:07.000Z"
-        },
-        {
-          "title": "Show GN: RubraView - 순수 C23과 WinAPI로 만든 가벼운 Windows 이미지·만화·동영상 뷰어",
-          "link": "https://news.hada.io/topic?id=35617",
-          "pubDate": "2026-10-19T02:51:32.000Z",
-          "author": "rubidus",
-          "content": "<p>Windows용 이미지·만화·동영상·음악·텍스트 뷰어이자 일괄 이미지 변환기인 <strong>Rubraview</strong>를 소개합니다. MIT 라이선스 오픈소스입니다.</p>\n<ul>\n<li>GitHub: https://github.com/rubidus-api/rubraview</li>\n<li>Microsoft Store: https://apps.microsoft.com/detail/9n99b2x63k7x</li>\n</ul>\n<p>마이",
-          "contentSnippet": "Windows용 이미지·만화·동영상·음악·텍스트 뷰어이자 일괄 이미지 변환기인 Rubraview를 소개합니다. MIT 라이선스 오픈소스입니다.\nGitHub: https://github.com/rubidus-api/rubraview\nMicrosoft Store: https://apps.microsoft.com/detail/9n99b2x63k7x\n마이",
-          "id": "https://news.hada.io/topic?id=35617",
-          "isoDate": "2026-10-19T02:51:32.000Z"
-        },
-        {
-          "title": "Free Pascal 컴파일러, 동적 패키지 지원 추가",
-          "link": "https://news.hada.io/topic?id=35615",
-          "pubDate": "2026-10-19T01:31:57.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>Free Pascal Compiler와 Lazarus IDE용 동적 패키지 지원</strong>의 첫 완전 구현이 공개됨. 다운로드용 설치 프로그램에 포함되며, 변경 사항은 개발자의 GitLab 포크 브랜치에 반영됨</li>\n<li><strong>IDE 전체를 다시 빌드하지 않고</strong> 컴포넌트, 컨트롤, Lazarus 확장을 수초 안에 설치하거...</p>",
-          "contentSnippet": "Free Pascal Compiler와 Lazarus IDE용 동적 패키지 지원의 첫 완전 구현이 공개됨. 다운로드용 설치 프로그램에 포함되며, 변경 사항은 개발자의 GitLab 포크 브랜치에 반영됨\nIDE 전체를 다시 빌드하지 않고 컴포넌트, 컨트롤, Lazarus 확장을 수초 안에 설치하거...",
-          "id": "https://news.hada.io/topic?id=35615",
-          "isoDate": "2026-10-19T01:31:57.000Z"
-        },
-        {
-          "title": "Show GN: ALIGNS.md - 초정렬이 오기 전 내 판단 기준과 취향을 에이전트와 자가 정렬해보세요",
-          "link": "https://news.hada.io/topic?id=35614",
-          "pubDate": "2026-10-19T01:12:30.000Z",
-          "author": "hmmhmmhm",
-          "content": "<p>안녕하세요! 이번에 <a href=\"https://aligns.md\">ALIGNS.md</a> 라는 문서를 만들어주는 algin 스킬이라는 걸 만들었습니다.<br />\nCLAUDE.md 나 AGENTS.md 랑 유사하게 쓸 수 있으면서 다른 역할을 하는데요.</p>\n<p>이걸 깔면, 에이전트 대화로그/커밋/PR/코멘트까지 전부 분석해서<br />\n내가 어떤 상황에 어떤 판",
-          "contentSnippet": "안녕하세요! 이번에 ALIGNS.md 라는 문서를 만들어주는 algin 스킬이라는 걸 만들었습니다.\n이걸 깔면, 에이전트 대화로그/커밋/PR/코멘트까지 전부 분석해서\n내가 어떤 상황에 어떤 판",
-          "id": "https://news.hada.io/topic?id=35614",
-          "isoDate": "2026-10-19T01:12:30.000Z"
-        },
-        {
-          "title": "시니어 엔지니어처럼 소프트웨어 시스템 설계하기 - 풀코스 [동영상]",
-          "link": "https://news.hada.io/topic?id=35613",
-          "pubDate": "2026-10-19T00:46:57.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li><strong>약 3시간 짜리 시스템 설계 면접 대비 강의.</strong> 5단계 접근법을 배우고 Spotify, Booking.com, WhatsApp과 유사한 시스템을 설계하는 과정에 적용</li>\n<li>시스템 설계 면접은 완성된 아키텍처뿐 아니라 소통과 협업, 구조화된 사고, 기술적 판단, 실무 깊이, 시간 관리를 평가하며, <strong>모...</p>",
-          "contentSnippet": "약 3시간 짜리 시스템 설계 면접 대비 강의. 5단계 접근법을 배우고 Spotify, Booking.com, WhatsApp과 유사한 시스템을 설계하는 과정에 적용\n시스템 설계 면접은 완성된 아키텍처뿐 아니라 소통과 협업, 구조화된 사고, 기술적 판단, 실무 깊이, 시간 관리를 평가하며, 모...",
-          "id": "https://news.hada.io/topic?id=35613",
-          "isoDate": "2026-10-19T00:46:57.000Z"
-        },
-        {
-          "title": "T3 Code - 여러 AI 코딩 에이전트를 PC와 휴대폰에서 관리하는 앱",
-          "link": "https://news.hada.io/topic?id=35612",
-          "pubDate": "2026-10-19T00:40:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>기존 <strong>Claude Code/Codex 등의 계정과 구독을 그대로 사용</strong>하면서, PC에서 실행 중인 코딩 작업을 휴대폰에서도 확인하고 이어갈 수 있는 앱</li>\n<li><strong>Claude Code, Codex, Cursor, Grok Build, OpenCode, Google Antigravity</strong> 지원</li>\n<li>기존 에이전트의 계정과 구독을 그...</p>",
-          "contentSnippet": "기존 Claude Code/Codex 등의 계정과 구독을 그대로 사용하면서, PC에서 실행 중인 코딩 작업을 휴대폰에서도 확인하고 이어갈 수 있는 앱\nClaude Code, Codex, Cursor, Grok Build, OpenCode, Google Antigravity 지원\n기존 에이전트의 계정과 구독을 그...",
-          "id": "https://news.hada.io/topic?id=35612",
-          "isoDate": "2026-10-19T00:40:02.000Z"
-        },
-        {
-          "title": "개도 사람처럼 &#039;Bouba&#039;는 둥글고 &#039;Kiki&#039;는 뾰족하다고 느끼는 듯함",
-          "link": "https://news.hada.io/topic?id=35610",
-          "pubDate": "2026-10-19T00:39:04.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>반려견 <strong>70마리</strong>를 대상으로 한 두 실험에서, 개도 사람이 소리와 모양을 연결하는 <strong>Bouba/Kiki 효과</strong>를 보일 가능성이 나타남</li>\n<li>전체적으로 개는 '<strong>Bouba'</strong> 를 들을 때 둥근 도형을 유의하게 더 많이 바라봤고,<strong>'Kiki</strong>'를 들을 때는 뾰족...</p>",
-          "contentSnippet": "반려견 70마리를 대상으로 한 두 실험에서, 개도 사람이 소리와 모양을 연결하는 Bouba/Kiki 효과를 보일 가능성이 나타남\n전체적으로 개는 'Bouba' 를 들을 때 둥근 도형을 유의하게 더 많이 바라봤고,'Kiki'를 들을 때는 뾰족...",
-          "id": "https://news.hada.io/topic?id=35610",
-          "isoDate": "2026-10-19T00:39:04.000Z"
-        },
-        {
-          "title": "자기 조직화 데이터 스택 - 요구에 맞춰 데이터 파이프라인을 재구성하는 설계",
-          "link": "https://news.hada.io/topic?id=35609",
-          "pubDate": "2026-10-19T00:36:44.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li><strong>사람은 데이터의 의미와 정책을 정하고, 엔진은 테이블과 파이프라인을 구성하고 재편</strong>하는 차세대 데이터 스택 제안. AI로 새 파이프라인을 쉽게 만드는 만큼 중복과 관리 부담도 커지는 문제에서 출발</li>\n<li>소비자는 테이블이나 실행 순서 대신 <strong>필요한 결과와 갱신 주기 등의 보...</p>",
-          "contentSnippet": "사람은 데이터의 의미와 정책을 정하고, 엔진은 테이블과 파이프라인을 구성하고 재편하는 차세대 데이터 스택 제안. AI로 새 파이프라인을 쉽게 만드는 만큼 중복과 관리 부담도 커지는 문제에서 출발\n소비자는 테이블이나 실행 순서 대신 필요한 결과와 갱신 주기 등의 보...",
-          "id": "https://news.hada.io/topic?id=35609",
-          "isoDate": "2026-10-19T00:36:44.000Z"
-        },
-        {
-          "title": "AI 에이전트에게 고치라고 시켰더니 &quot;수정했습니다&quot; 라는 답만 오고 파일 md5 는 그대로였다",
-          "link": "https://news.hada.io/topic?id=35608",
-          "pubDate": "2026-10-19T00:36:27.000Z",
-          "author": "growuplove7",
-          "content": "<p>서브에이전트에게 파일을 고치라고 맡기면 정말 고칠까요? 빈 폴더에서 Claude Code 2.1.281 과 haiku 로 세 번 돌려 보니, 큰 AI 가 &quot;수정했습니다&quot; 라고 보고한 순간에도 calc.py 는 한 글자도 바뀌지 않았습니다.</p>\n<p>$ claude -p --model haiku --setting-sources project --tools &quot;Agent,Read",
-          "contentSnippet": "서브에이전트에게 파일을 고치라고 맡기면 정말 고칠까요? 빈 폴더에서 Claude Code 2.1.281 과 haiku 로 세 번 돌려 보니, 큰 AI 가 \"수정했습니다\" 라고 보고한 순간에도 calc.py 는 한 글자도 바뀌지 않았습니다.\n$ claude -p --model haiku --setting-sources project --tools \"Agent,Read",
-          "id": "https://news.hada.io/topic?id=35608",
-          "isoDate": "2026-10-19T00:36:27.000Z"
-        },
-        {
-          "title": "수학에 뛰어들기에 지금보다 좋은 때는 없었다, 3Blue1Brown [영상]",
-          "link": "https://news.hada.io/topic?id=35607",
-          "pubDate": "2026-10-19T00:36:04.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>AI로 수학의 역할과 평가 기준이 흔들리는 지금, 새로 들어오는 사람도 변화의 방향을 만들 수 있음.</strong> 3Blue1Brown이 AI 때문에 수학 진로를 포기할지 고민하는 학생들에게 전하는 조언</li>\n<li>수학자의 일은 <strong>증명 생성뿐 아니라 좋은 질문을 고르고, 여러 결과를 새로운 이론으로 엮...</p>",
-          "contentSnippet": "AI로 수학의 역할과 평가 기준이 흔들리는 지금, 새로 들어오는 사람도 변화의 방향을 만들 수 있음. 3Blue1Brown이 AI 때문에 수학 진로를 포기할지 고민하는 학생들에게 전하는 조언\n수학자의 일은 증명 생성뿐 아니라 좋은 질문을 고르고, 여러 결과를 새로운 이론으로 엮...",
-          "id": "https://news.hada.io/topic?id=35607",
-          "isoDate": "2026-10-19T00:36:04.000Z"
-        },
-        {
-          "title": "일회성 샌드박스를 위한 버전 관리 파일시스템",
-          "link": "https://news.hada.io/topic?id=35606",
-          "pubDate": "2026-10-19T00:34:36.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>Tines의 <strong>3B는 실행 후 폐기하는 Linux 샌드박스에 영속 파일시스템을 연결</strong>. Git 저장소와 SQLite, DuckDB 등을 다음 실행에서도 이어 쓰면서, 성공한 실행의 변경만 일괄 반영</li>\n<li>실행마다 <strong>고정된 스냅샷</strong>을 읽고, 실패하면 파일 변경을 폐기. 다른 실행이나 UI에는 반...</p>",
-          "contentSnippet": "Tines의 3B는 실행 후 폐기하는 Linux 샌드박스에 영속 파일시스템을 연결. Git 저장소와 SQLite, DuckDB 등을 다음 실행에서도 이어 쓰면서, 성공한 실행의 변경만 일괄 반영\n실행마다 고정된 스냅샷을 읽고, 실패하면 파일 변경을 폐기. 다른 실행이나 UI에는 반...",
-          "id": "https://news.hada.io/topic?id=35606",
-          "isoDate": "2026-10-19T00:34:36.000Z"
-        },
-        {
-          "title": "ArtCraft - 2D/3D 장면을 직접 구성하는 AI 이미지/영상 제작 도구",
-          "link": "https://news.hada.io/topic?id=35605",
-          "pubDate": "2026-10-19T00:30:02.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>아티스트와 디자이너, 영화 제작자가 <strong>구도와 인물 자세, 카메라 위치를 직접 정하고 AI로 생성</strong>하는 오픈소스 제작 도구</li>\n<li><strong>2D 캔버스</strong>에서 이미지 레이어와 배경 제거, 드로잉을 조합하고, 마스크와 인페인팅으로 원하는 영역만 수정</li>\n<li><strong>3D 편집기</stro...</p>",
-          "contentSnippet": "아티스트와 디자이너, 영화 제작자가 구도와 인물 자세, 카메라 위치를 직접 정하고 AI로 생성하는 오픈소스 제작 도구\n2D 캔버스에서 이미지 레이어와 배경 제거, 드로잉을 조합하고, 마스크와 인페인팅으로 원하는 영역만 수정\n3D 편집기",
-          "id": "https://news.hada.io/topic?id=35605",
-          "isoDate": "2026-10-19T00:30:02.000Z"
-        },
-        {
-          "title": "Brain Sandwich - AI 작업 전후에 직접 사고하는 개발 방식",
-          "link": "https://news.hada.io/topic?id=35604",
-          "pubDate": "2026-10-19T00:05:44.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>Brain Sandwich</strong>는 ‘직접 사고하기 → AI 활용하기 → 다시 직접 사고하기’ 순서로, AI를 충분히 활용하면서도 엔지니어링 역량이 퇴화하지 않도록 하는 작업 방식</li>\n<li>에이전트에게 구현을 맡기기 전에 <strong>문제와 맥락을 먼저 이해</strong>해야 함. 완전한 구현 계획까지는 필요...</p>",
-          "contentSnippet": "Brain Sandwich는 ‘직접 사고하기 → AI 활용하기 → 다시 직접 사고하기’ 순서로, AI를 충분히 활용하면서도 엔지니어링 역량이 퇴화하지 않도록 하는 작업 방식\n에이전트에게 구현을 맡기기 전에 문제와 맥락을 먼저 이해해야 함. 완전한 구현 계획까지는 필요...",
-          "id": "https://news.hada.io/topic?id=35604",
-          "isoDate": "2026-10-19T00:05:44.000Z"
         }
       ]
     },
@@ -681,235 +681,235 @@
       "category": "news",
       "data": [
         {
-          "creator": "이다현",
-          "title": "\"유튜버 법인 상위 10%가 신고 수입 76% 차지\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR202610200855346ZZ",
-          "pubDate": "Tue, 20 Oct 2026 08:55:35 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261019/AKR202610200855346ZZ_01_i.jpg\" alt=\"\"><span class=\"yna_title\">유튜버 (CG)</span><span class=\"yna_caption\">[연합뉴스TV 제공]</span><span class=\"yna_description\">[연합뉴스TV 제공]</span></div>\n유튜버 등 1인 미디어 관련 법인 상위 10%가 전체 신고 수입의 4분의 3 이상을 차지하는 것으로 집계됐습니다.\n\n20일 국회 재정경제기획위원회 더불어민주당 정태호 의원이 국세청에서 받은 '유튜브 등 1인 미디어 창작자 과세 자료'를 보면, 2025년 법인세 신고기준 1인 미디어 관련 업종 법인은 2,024개로, 신고 수익금액은 총 1조 1,134억원이었습니다.\n\n이 가운데 연 수입금액이 10억원 이상으로 상위 10%인 207곳의 신고 수입금액은 8,427억원으로 전체의 76%였습니다.\n\n반면 수입금액이 10억원 미만인 나머지 1,817개 법인의 신고 수입금액은 2,707억원으로 24%에 그쳤습니다.\n\n수입금액 10억원 이상 법인 수는 2021년 22개에서 지난해 207개로 9.4배로 늘었습니다.\n\n같은 기간 이들 법인의 신고 수입금액은 636억원에서 8,427억원으로 13.3배로 늘었습니다.\n\n10억원 이상 법인의 전체 법인 신고 수입금액 내 비중 역시 2021년 60%에서 지난해 76%로 증가했습니다.\n\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이다현(ok@yna.co.kr)",
-          "content:encodedSnippet": "유튜버 (CG)[연합뉴스TV 제공][연합뉴스TV 제공]\n유튜버 등 1인 미디어 관련 법인 상위 10%가 전체 신고 수입의 4분의 3 이상을 차지하는 것으로 집계됐습니다.\n\n20일 국회 재정경제기획위원회 더불어민주당 정태호 의원이 국세청에서 받은 '유튜브 등 1인 미디어 창작자 과세 자료'를 보면, 2025년 법인세 신고기준 1인 미디어 관련 업종 법인은 2,024개로, 신고 수익금액은 총 1조 1,134억원이었습니다.\n\n이 가운데 연 수입금액이 10억원 이상으로 상위 10%인 207곳의 신고 수입금액은 8,427억원으로 전체의 76%였습니다.\n\n반면 수입금액이 10억원 미만인 나머지 1,817개 법인의 신고 수입금액은 2,707억원으로 24%에 그쳤습니다.\n\n수입금액 10억원 이상 법인 수는 2021년 22개에서 지난해 207개로 9.4배로 늘었습니다.\n\n같은 기간 이들 법인의 신고 수입금액은 636억원에서 8,427억원으로 13.3배로 늘었습니다.\n\n10억원 이상 법인의 전체 법인 신고 수입금액 내 비중 역시 2021년 60%에서 지난해 76%로 증가했습니다.\n\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이다현(ok@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261019/AKR202610200855346ZZ_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "이다현",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR202610200855346ZZ#comments",
-          "content": "유튜버 (CG)[연합뉴스TV 제공][연합뉴스TV 제공] 유튜버 등 1인 미디어 관련 법인 상위 10%가 전체 신고 수입의 4분의 3 이상을 차지하는 것으로 집계됐습니다. 20일 국회 재정경제기획위원회 더불어민주당 정태호 의원이 국세청에서 받은 '유튜브 등 1인 미디어 창작자 과세 자료'를 보면, 2025년 법인세 신고기준 1인 미디어 관련 업종 법인은 2,024개로, 신고 수익금액은 총 1조 1,134억원이었습니다. 이 가운데 연 수입금액...",
-          "contentSnippet": "유튜버 (CG)[연합뉴스TV 제공][연합뉴스TV 제공] 유튜버 등 1인 미디어 관련 법인 상위 10%가 전체 신고 수입의 4분의 3 이상을 차지하는 것으로 집계됐습니다. 20일 국회 재정경제기획위원회 더불어민주당 정태호 의원이 국세청에서 받은 '유튜브 등 1인 미디어 창작자 과세 자료'를 보면, 2025년 법인세 신고기준 1인 미디어 관련 업종 법인은 2,024개로, 신고 수익금액은 총 1조 1,134억원이었습니다. 이 가운데 연 수입금액...",
-          "guid": "AKR202610200855346ZZ",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-19T23:55:35.000Z"
-        },
-        {
-          "creator": "김동욱",
-          "title": "중앙일보 매각 속도…JTBC는 매각 공고 11월로 연기",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261020085503HQy",
-          "pubDate": "Tue, 20 Oct 2026 08:55:03 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261019/AKR20261020085503HQy_01_i.jpg\" alt=\"\"><span class=\"yna_title\">중앙일보·JTBC 사옥</span><span class=\"yna_caption\">[중앙그룹 제공. 재판매 및 DB 금지]</span><span class=\"yna_description\">[중앙그룹 제공. 재판매 및 DB 금지]</span></div>\n\n\n중앙일보 경영권 인수를 위한 우선협상대상자가 선정된 가운데 같은 중앙그룹 계열사인 JTBC의 매각 공고는 당초 예정된 이달에서 다음 달로 늦춰질 전망입니다.\n\n매각 방침은 확정됐지만 구체적인 매각 방식이 정해지지 않은 가운데 잠재 인수자들의 반응을 살피며 매각 절차를 진행하고 있습니다.\n\n오늘(20일) 투자은행(IB) 업계에 따르면 JTBC의 매각 공고는 당초 예정된 이달을 넘겨 다음 달에 이뤄질 것으로 알려졌습니다.\n\n앞서 JTBC는 지난 14일 한영회계법인을 매각 주관사로 선정하고 이달 중 매각 공고를 낼 계획이라고 밝힌 바 있습니다.\n\n현재 매각 주관사는 잠재 원매자들과 접촉해 인수 의향을 확인하고 시장 반응을 살피고 있는 것으로 전해졌습니다.\n\n매각 방식으로는 공개경쟁입찰과 스토킹호스 방식 등이 검토되고 있지만 아직 어느 쪽으로 진행할지는 결정되지 않았습니다.\n\n스토킹호스는 사전에 인수 예정자를 선정해 조건부 계약을 체결한 뒤 공개입찰을 진행하는 방식입니다.\n\nJTBC는 이 같은 시장 반응을 토대로 매각 방식을 결정하고 법원 절차에 따라 매각 공고를 낼 것으로 보입니다.\n\n반면 중앙일보는 채권단 주도의 기업구조개선작업(워크아웃)을 통해 매각을 추진하고 있으며, 우선협상대상자 선정까지 마쳤습니다.\n\n전날 마감된 중앙일보 매각 본입찰에는 다우키움그룹과 오리온, 글로벌세아, OK금융그룹, 이브로드캐스팅, 금보개발 등 6곳이 참여했습니다.\n\n이 가운데 중앙일보 3대 주주인 CJ그룹과 컨소시엄을 구성해 참여한 다우키움그룹이 우선협상대상자로 선정됐습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김동욱(DK1@yna.co.kr)",
-          "content:encodedSnippet": "중앙일보·JTBC 사옥[중앙그룹 제공. 재판매 및 DB 금지][중앙그룹 제공. 재판매 및 DB 금지]\n\n\n중앙일보 경영권 인수를 위한 우선협상대상자가 선정된 가운데 같은 중앙그룹 계열사인 JTBC의 매각 공고는 당초 예정된 이달에서 다음 달로 늦춰질 전망입니다.\n\n매각 방침은 확정됐지만 구체적인 매각 방식이 정해지지 않은 가운데 잠재 인수자들의 반응을 살피며 매각 절차를 진행하고 있습니다.\n\n오늘(20일) 투자은행(IB) 업계에 따르면 JTBC의 매각 공고는 당초 예정된 이달을 넘겨 다음 달에 이뤄질 것으로 알려졌습니다.\n\n앞서 JTBC는 지난 14일 한영회계법인을 매각 주관사로 선정하고 이달 중 매각 공고를 낼 계획이라고 밝힌 바 있습니다.\n\n현재 매각 주관사는 잠재 원매자들과 접촉해 인수 의향을 확인하고 시장 반응을 살피고 있는 것으로 전해졌습니다.\n\n매각 방식으로는 공개경쟁입찰과 스토킹호스 방식 등이 검토되고 있지만 아직 어느 쪽으로 진행할지는 결정되지 않았습니다.\n\n스토킹호스는 사전에 인수 예정자를 선정해 조건부 계약을 체결한 뒤 공개입찰을 진행하는 방식입니다.\n\nJTBC는 이 같은 시장 반응을 토대로 매각 방식을 결정하고 법원 절차에 따라 매각 공고를 낼 것으로 보입니다.\n\n반면 중앙일보는 채권단 주도의 기업구조개선작업(워크아웃)을 통해 매각을 추진하고 있으며, 우선협상대상자 선정까지 마쳤습니다.\n\n전날 마감된 중앙일보 매각 본입찰에는 다우키움그룹과 오리온, 글로벌세아, OK금융그룹, 이브로드캐스팅, 금보개발 등 6곳이 참여했습니다.\n\n이 가운데 중앙일보 3대 주주인 CJ그룹과 컨소시엄을 구성해 참여한 다우키움그룹이 우선협상대상자로 선정됐습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김동욱(DK1@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261019/AKR20261020085503HQy_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "김동욱",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261020085503HQy#comments",
-          "content": "중앙일보·JTBC 사옥[중앙그룹 제공. 재판매 및 DB 금지][중앙그룹 제공. 재판매 및 DB 금지] 중앙일보 경영권 인수를 위한 우선협상대상자가 선정된 가운데 같은 중앙그룹 계열사인 JTBC의 매각 공고는 당초 예정된 이달에서 다음 달로 늦춰질 전망입니다. 매각 방침은 확정됐지만 구체적인 매각 방식이 정해지지 않은 가운데 잠재 인수자들의 반응을 살피며 매각 절차를 진행하고 있습니다. 오늘(20일) 투자은행(IB) 업계에 따르면 JTBC의...",
-          "contentSnippet": "중앙일보·JTBC 사옥[중앙그룹 제공. 재판매 및 DB 금지][중앙그룹 제공. 재판매 및 DB 금지] 중앙일보 경영권 인수를 위한 우선협상대상자가 선정된 가운데 같은 중앙그룹 계열사인 JTBC의 매각 공고는 당초 예정된 이달에서 다음 달로 늦춰질 전망입니다. 매각 방침은 확정됐지만 구체적인 매각 방식이 정해지지 않은 가운데 잠재 인수자들의 반응을 살피며 매각 절차를 진행하고 있습니다. 오늘(20일) 투자은행(IB) 업계에 따르면 JTBC의...",
-          "guid": "AKR20261020085503HQy",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-19T23:55:03.000Z"
-        },
-        {
-          "creator": "이다현",
-          "title": "'잠자는 계좌' 3억 4천만개…장기 미거래·미청구 잔액 14조",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261020085044tXY",
-          "pubDate": "Tue, 20 Oct 2026 08:50:44 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261019/AKR20261020085044tXY_01_i.jpg\" alt=\"\"><span class=\"yna_title\"></span><span class=\"yna_caption\"></span><span class=\"yna_description\"></span></div>\n금융권에서 장기간 거래가 없거나 휴면 상태인 '잠자는 계좌'가 3억 4천만개를 넘어선 것으로 나타났습니다.\n\n20일 국회 정무위원회 소속 국민의힘 박성훈 의원이 금융감독원에서 제출받은 자료에 따르면, 작년 말 장기 미거래·미청구 계좌와 휴면금융자산 계좌는 총 3억 4,191만개로 집계됐습니다.\n\n2021년 말(2억 6,440만개)보다 7천 751만개(29.3%) 증가했습니다.\n\n장기 미거래 계좌는 통상 3년 이상 거래가 없는 계좌를 의미합니다.\n\n휴면금융자산 계좌에는 청구권 소멸시효가 완성된 예·적금·보험금 계좌와 별도 기준을 적용하는 휴면성 증권계좌가 포함됩니다.\n\n장기 미거래·미청구 금융자산 잔액은 14조 1,857억원에 달했습니다.\n\n예·적금 7조 4,342억원, 보험금 5조 1,895억원, 예수금 1조 5,620억원 등입니다.\n\n전체 잔액은 2021년 말(15조 833억원)보다 줄었지만, 예·적금 잔액은 같은 기간 6조 5,849억원에서 8,493억원 늘어났습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이다현(ok@yna.co.kr)",
-          "content:encodedSnippet": "금융권에서 장기간 거래가 없거나 휴면 상태인 '잠자는 계좌'가 3억 4천만개를 넘어선 것으로 나타났습니다.\n\n20일 국회 정무위원회 소속 국민의힘 박성훈 의원이 금융감독원에서 제출받은 자료에 따르면, 작년 말 장기 미거래·미청구 계좌와 휴면금융자산 계좌는 총 3억 4,191만개로 집계됐습니다.\n\n2021년 말(2억 6,440만개)보다 7천 751만개(29.3%) 증가했습니다.\n\n장기 미거래 계좌는 통상 3년 이상 거래가 없는 계좌를 의미합니다.\n\n휴면금융자산 계좌에는 청구권 소멸시효가 완성된 예·적금·보험금 계좌와 별도 기준을 적용하는 휴면성 증권계좌가 포함됩니다.\n\n장기 미거래·미청구 금융자산 잔액은 14조 1,857억원에 달했습니다.\n\n예·적금 7조 4,342억원, 보험금 5조 1,895억원, 예수금 1조 5,620억원 등입니다.\n\n전체 잔액은 2021년 말(15조 833억원)보다 줄었지만, 예·적금 잔액은 같은 기간 6조 5,849억원에서 8,493억원 늘어났습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이다현(ok@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261019/AKR20261020085044tXY_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "이다현",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261020085044tXY#comments",
-          "content": "금융권에서 장기간 거래가 없거나 휴면 상태인 '잠자는 계좌'가 3억 4천만개를 넘어선 것으로 나타났습니다. 20일 국회 정무위원회 소속 국민의힘 박성훈 의원이 금융감독원에서 제출받은 자료에 따르면, 작년 말 장기 미거래·미청구 계좌와 휴면금융자산 계좌는 총 3억 4,191만개로 집계됐습니다. 2021년 말(2억 6,440만개)보다 7천 751만개(29.3%) 증가했습니다. 장기 미거래 계좌는 통상 3년 이상 거래가 없는 계좌를 의미합니다....",
-          "contentSnippet": "금융권에서 장기간 거래가 없거나 휴면 상태인 '잠자는 계좌'가 3억 4천만개를 넘어선 것으로 나타났습니다. 20일 국회 정무위원회 소속 국민의힘 박성훈 의원이 금융감독원에서 제출받은 자료에 따르면, 작년 말 장기 미거래·미청구 계좌와 휴면금융자산 계좌는 총 3억 4,191만개로 집계됐습니다. 2021년 말(2억 6,440만개)보다 7천 751만개(29.3%) 증가했습니다. 장기 미거래 계좌는 통상 3년 이상 거래가 없는 계좌를 의미합니다....",
-          "guid": "AKR20261020085044tXY",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-19T23:50:44.000Z"
-        },
-        {
-          "creator": "권정상",
-          "title": "\"약탈 시위대에도, 방치한 국가에도 분노\"…프랑스 주민·상인 공분",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261020084959241",
-          "pubDate": "Tue, 20 Oct 2026 08:49:59 +0900",
-          "content:encoded": "\n\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261019/AKR20261020084959241_01_i.jpg\" alt=\"\"><span class=\"yna_title\">약탈로 번진 프랑스 시위</span><span class=\"yna_caption\">[연합뉴스 자료사진]</span><span class=\"yna_description\">[연합뉴스 자료사진]</span></div>\n\n프랑스에서 벌어진 폭력 시위로 공공시설이 불타는가 하면 상점 2천∼3천 곳이 시위대에 의해 약탈 등의 피해를 보면서 상인들은 물론 일반 주민들의 분노가 커지고 있습니다.\n\n현지시간 19일 프랑스 일간지 르몽드에 따르면 전날 밤 파리에서 서남쪽으로 370km 떨어진 곳에 있는 리모주에서는 약 7천 명이 모여 광장에 모여 폭력 사태를 규탄하는 시위를 열었습니다.\n\n이곳에서는 지난 17일 시위대에 의해 1883년 준공된 유서 깊은 시청 청사가 불탔습니다.\n\n리모주는 프랑스 주요 노동조합 노동총연맹(CGT)이 창설된 곳으로, 현재 주민은 13만 명입니다.\n\n당시 시위에는 약 5,500명이 참여했는데, 일부가 시청 동쪽을 공격해 불을 질렀고 세 시간도 되지 않아 화염이 지붕을 완전히 집어삼켰습니다.\n\n집배원이자 CGT 노조원인 장프랑수아 라우신은 \"처음엔 모든 게 괜찮았는데 고속도로 인근에서 사람들이 갈라졌고 어떤 무리가 시청으로 향하고 있다는 말이 들렸다\"라며 \"시청을 불태운 이들에게도, 리모주를 방치한 국가에도 슬픔과 분노를 느낀다\"라고 말했습니다.\n\n공화당 소속 기욤 게랭 리모주 시장은 \"정당한 사유로 조직된 평화 시위였는데 복면을 쓰고 고도로 훈련돼 무장한 사람들이 끼어들었다\"라며 \"이들은 고등학생도, 기회를 틈타 약탈에 나선 동네 청년들도 아니다. 극좌 활동가들\"이라고 주장했습니다.\n\n수도 파리에서는 18일 밤까지도 약탈하는 사람들, 파손된 집기류를 치우는 직원, 겁에 질린 관광객, 평소와 다름없이 문을 연 카페에서 술을 마시는 손님이 뒤섞인 '초현실적' 광경이 펼쳐졌다고 르몽드는 전했습니다.\n\n앞서 AFP 통신도 지난 17일 식당과 호텔, 주거용 건물은 대체로 피해를 면해 군중이 밖에서 아수라장을 만드는 동안 파리 시민들이 친구들과 평소처럼 토요일 점심 식사를 즐기는 풍경이 펼쳐졌다고 보도했습니다.\n\n로이터 통신은 고급 호텔과 상점이 즐비한 파리 방돔 광장 일대에는 19일에도 대부분 상점의 셔터가 내려져 있었고 경비원들이 주위를 둘러싼 모습이었다고 전했습니다.\n\n디올 매장 앞문은 부서진 상태였고, 롤렉스와 루이비통, 랄프로렌, 구찌 등 다른 명품 매장 창문도 파손됐습니다.\n\n소매유통업연합(FCD)에 따르면 지난 주말 동안 피해를 본 상점은 3천 곳에 육박합니다.\n\n이 단체는 성명에서 \"소매업 부문은 잇단 위기로 이미 취약해진 상황에서 또다시 혼란의 최전선에 섰다\"라며 \"약탈당한 상점 뒤에는 수년간 일군 사업이 몇 시간 만에 날아가는 걸 지켜봐야 했던 점주와 직원들, 그의 가족들이 있다\"라고 유감을 표시했습니다.\n\n프랑스 상공회의소(CCI)는 2천여 개 업체가 직접 피해를 본 것으로 집계했습니다.\n\n알랭 디 크레센조 회장은 \"피해 규모가 수억 유로에 달할 수 있다\"라고 말했습니다.\n\n세바스티앵 르코르뉘 총리는 정부가 지원책을 마련하겠다고 약속했습니다.\n\n관계 당국은 장물 판매 글이 올라온 플랫폼들에 해당 게시물을 내리고 재판매자들을 기소하는 데 협조할 것을 요구한 것으로 알려졌습니다.\n\n그러나 상인들은 애초에 정부 대비책이 부족했다며 분노를 터뜨렸습니다.\n\n마르세유 의류점의 매니저 제라르 누시는 \"사람들이 모든 걸 부수고 우리를 모욕했다\"라며 폭도들을 막을 경찰이 충분치 않았다고 지적했습니다.\n\n로랑 뉘녜즈 내무장관은 프랑스앵포 라디오 인터뷰에서 지난 17일 배치된 경찰은 6만 명으로, 군중을 통제하기에 충분하지 못했다고 인정했습니다.\n\n에마뉘엘 그레구아르 파리 시장과 베누아 파양 마르세유 시장, 그레고리 두세 리옹 시장은 이날 리베라시옹 공동 기고를 통해 이들 세 도시가 시위에 익숙한데도 17일 사태에는 \"보호받지 못했다고 느꼈다\"라고 밝혔습니다.\n\n중도좌파 성향인 이들은 \"30분 이상 경찰 출동 없이 약탈이 계속될 때가 있었다\"라며 정부가 프랑스 국민에게 답해야 할 의무가 있다고 꼬집었습니다.\n\n\n#폭력시위 #약탈 #리모주 #상인 #르몽드\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n권정상(jusang@yna.co.kr)",
-          "content:encodedSnippet": "약탈로 번진 프랑스 시위[연합뉴스 자료사진][연합뉴스 자료사진]\n\n프랑스에서 벌어진 폭력 시위로 공공시설이 불타는가 하면 상점 2천∼3천 곳이 시위대에 의해 약탈 등의 피해를 보면서 상인들은 물론 일반 주민들의 분노가 커지고 있습니다.\n\n현지시간 19일 프랑스 일간지 르몽드에 따르면 전날 밤 파리에서 서남쪽으로 370km 떨어진 곳에 있는 리모주에서는 약 7천 명이 모여 광장에 모여 폭력 사태를 규탄하는 시위를 열었습니다.\n\n이곳에서는 지난 17일 시위대에 의해 1883년 준공된 유서 깊은 시청 청사가 불탔습니다.\n\n리모주는 프랑스 주요 노동조합 노동총연맹(CGT)이 창설된 곳으로, 현재 주민은 13만 명입니다.\n\n당시 시위에는 약 5,500명이 참여했는데, 일부가 시청 동쪽을 공격해 불을 질렀고 세 시간도 되지 않아 화염이 지붕을 완전히 집어삼켰습니다.\n\n집배원이자 CGT 노조원인 장프랑수아 라우신은 \"처음엔 모든 게 괜찮았는데 고속도로 인근에서 사람들이 갈라졌고 어떤 무리가 시청으로 향하고 있다는 말이 들렸다\"라며 \"시청을 불태운 이들에게도, 리모주를 방치한 국가에도 슬픔과 분노를 느낀다\"라고 말했습니다.\n\n공화당 소속 기욤 게랭 리모주 시장은 \"정당한 사유로 조직된 평화 시위였는데 복면을 쓰고 고도로 훈련돼 무장한 사람들이 끼어들었다\"라며 \"이들은 고등학생도, 기회를 틈타 약탈에 나선 동네 청년들도 아니다. 극좌 활동가들\"이라고 주장했습니다.\n\n수도 파리에서는 18일 밤까지도 약탈하는 사람들, 파손된 집기류를 치우는 직원, 겁에 질린 관광객, 평소와 다름없이 문을 연 카페에서 술을 마시는 손님이 뒤섞인 '초현실적' 광경이 펼쳐졌다고 르몽드는 전했습니다.\n\n앞서 AFP 통신도 지난 17일 식당과 호텔, 주거용 건물은 대체로 피해를 면해 군중이 밖에서 아수라장을 만드는 동안 파리 시민들이 친구들과 평소처럼 토요일 점심 식사를 즐기는 풍경이 펼쳐졌다고 보도했습니다.\n\n로이터 통신은 고급 호텔과 상점이 즐비한 파리 방돔 광장 일대에는 19일에도 대부분 상점의 셔터가 내려져 있었고 경비원들이 주위를 둘러싼 모습이었다고 전했습니다.\n\n디올 매장 앞문은 부서진 상태였고, 롤렉스와 루이비통, 랄프로렌, 구찌 등 다른 명품 매장 창문도 파손됐습니다.\n\n소매유통업연합(FCD)에 따르면 지난 주말 동안 피해를 본 상점은 3천 곳에 육박합니다.\n\n이 단체는 성명에서 \"소매업 부문은 잇단 위기로 이미 취약해진 상황에서 또다시 혼란의 최전선에 섰다\"라며 \"약탈당한 상점 뒤에는 수년간 일군 사업이 몇 시간 만에 날아가는 걸 지켜봐야 했던 점주와 직원들, 그의 가족들이 있다\"라고 유감을 표시했습니다.\n\n프랑스 상공회의소(CCI)는 2천여 개 업체가 직접 피해를 본 것으로 집계했습니다.\n\n알랭 디 크레센조 회장은 \"피해 규모가 수억 유로에 달할 수 있다\"라고 말했습니다.\n\n세바스티앵 르코르뉘 총리는 정부가 지원책을 마련하겠다고 약속했습니다.\n\n관계 당국은 장물 판매 글이 올라온 플랫폼들에 해당 게시물을 내리고 재판매자들을 기소하는 데 협조할 것을 요구한 것으로 알려졌습니다.\n\n그러나 상인들은 애초에 정부 대비책이 부족했다며 분노를 터뜨렸습니다.\n\n마르세유 의류점의 매니저 제라르 누시는 \"사람들이 모든 걸 부수고 우리를 모욕했다\"라며 폭도들을 막을 경찰이 충분치 않았다고 지적했습니다.\n\n로랑 뉘녜즈 내무장관은 프랑스앵포 라디오 인터뷰에서 지난 17일 배치된 경찰은 6만 명으로, 군중을 통제하기에 충분하지 못했다고 인정했습니다.\n\n에마뉘엘 그레구아르 파리 시장과 베누아 파양 마르세유 시장, 그레고리 두세 리옹 시장은 이날 리베라시옹 공동 기고를 통해 이들 세 도시가 시위에 익숙한데도 17일 사태에는 \"보호받지 못했다고 느꼈다\"라고 밝혔습니다.\n\n중도좌파 성향인 이들은 \"30분 이상 경찰 출동 없이 약탈이 계속될 때가 있었다\"라며 정부가 프랑스 국민에게 답해야 할 의무가 있다고 꼬집었습니다.\n\n\n#폭력시위 #약탈 #리모주 #상인 #르몽드\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n권정상(jusang@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261019/AKR20261020084959241_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "권정상",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261020084959241#comments",
-          "content": "약탈로 번진 프랑스 시위[연합뉴스 자료사진][연합뉴스 자료사진] 프랑스에서 벌어진 폭력 시위로 공공시설이 불타는가 하면 상점 2천∼3천 곳이 시위대에 의해 약탈 등의 피해를 보면서 상인들은 물론 일반 주민들의 분노가 커지고 있습니다. 현지시간 19일 프랑스 일간지 르몽드에 따르면 전날 밤 파리에서 서남쪽으로 370km 떨어진 곳에 있는 리모주에서는 약 7천 명이 모여 광장에 모여 폭력 사태를 규탄하는 시위를 열었습니다. 이곳에서는 지난 1...",
-          "contentSnippet": "약탈로 번진 프랑스 시위[연합뉴스 자료사진][연합뉴스 자료사진] 프랑스에서 벌어진 폭력 시위로 공공시설이 불타는가 하면 상점 2천∼3천 곳이 시위대에 의해 약탈 등의 피해를 보면서 상인들은 물론 일반 주민들의 분노가 커지고 있습니다. 현지시간 19일 프랑스 일간지 르몽드에 따르면 전날 밤 파리에서 서남쪽으로 370km 떨어진 곳에 있는 리모주에서는 약 7천 명이 모여 광장에 모여 폭력 사태를 규탄하는 시위를 열었습니다. 이곳에서는 지난 1...",
-          "guid": "AKR20261020084959241",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-19T23:49:59.000Z"
-        },
-        {
-          "creator": "조한대",
-          "title": "프로야구 '투수 2관왕' 곽빈, 최동원상 수상…국내 투수로 4년 만",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261020084933dEG",
-          "pubDate": "Tue, 20 Oct 2026 08:49:35 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261019/AKR20261020084933dEG_01_i.jpg\" alt=\"\"><span class=\"yna_title\">두산 곽빈 역투</span><span class=\"yna_caption\">두산 곽빈 역투\n(서울=연합뉴스) 김인철 기자 = 14일 서울 잠실야구장에서 열린 2026 신한 SOL KBO 포스트시즌 와일드카드 결정전 1차전 두산 베어스와 LG 트윈스의 경기. 4회초 두산 선발 투수 곽빈이 역투하고 있다. 2026.10.14\nyatoya@yna.co.kr\n(끝)\n\n\n<저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지></span><span class=\"yna_description\">두산 곽빈 역투\n(서울=연합뉴스) 김인철 기자 = 14일 서울 잠실야구장에서 열린 2026 신한 SOL KBO 포스트시즌 와일드카드 결정전 1차전 두산 베어스와 LG 트윈스의 경기. 4회초 두산 선발 투수 곽빈이 역투하고 있다. 2026.10.14\nyatoya@yna.co.kr\n(끝)\n\n\n<저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지></span></div>\n프로야구 두산의 에이스 곽빈이 최동원상을 수상자로 선정됐습니다.\n\n사단법인 최동원기념사업회는 제13회 BNK부산은행 최동원상 수상자로 두산 투수 곽빈을 선정했다고 밝혔습니다.\n\n지난 15일 열린 선정위원회에서 곽빈은 위원 7명 가운데 6명에게서 1순위 표를 받으며 압도적인 지지를 얻었습니다.\n\n국내 투수가 수상한 것은 2022년 SSG 김광현 이후 4년 만입니다.\n\n곽빈은 올시즌 정규리그 27경기에 등판해 11승 7패, 평균자책점 2.24, 탈삼진 197개를 기록했습니다.\n\n리그 유일의 2점대 이하 평균자책점을 남기며 평균자책점과 탈삼진 부문 타이틀을 독식해 2관왕에 올랐습니다.\n\n아이치·나고야 아시안게임에 와일드카드로 발탁된 곽빈은 한국의 아시안게임 5연패를 이끌기도 했습니다.\n\n기념사업회 측은 \"아시안게임 대표팀 차출로 인해 최동원상의 정량 기준인 12승과 180이닝에는 다소 미치지 못했지만, 올 시즌 보여준 압도적인 경기력과 헌신은 고(故) 최동원 선수가 남긴 에이스의 자격을 완벽히 충족했다\"고 설명했습니다.\n\n제13회 BNK부산은행 최동원상 시상식은 다음달 11일 오후 2시 부산은행 본점 2층 오션홀에서 열립니다.\n\n#최동원상 #곽빈 #평균자책점 #탈삼진\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n조한대(onepunch@yna.co.kr)",
-          "content:encodedSnippet": "두산 곽빈 역투두산 곽빈 역투\n(서울=연합뉴스) 김인철 기자 = 14일 서울 잠실야구장에서 열린 2026 신한 SOL KBO 포스트시즌 와일드카드 결정전 1차전 두산 베어스와 LG 트윈스의 경기. 4회초 두산 선발 투수 곽빈이 역투하고 있다. 2026.10.14\nyatoya@yna.co.kr\n(끝)\n\n\n두산 곽빈 역투\n(서울=연합뉴스) 김인철 기자 = 14일 서울 잠실야구장에서 열린 2026 신한 SOL KBO 포스트시즌 와일드카드 결정전 1차전 두산 베어스와 LG 트윈스의 경기. 4회초 두산 선발 투수 곽빈이 역투하고 있다. 2026.10.14\nyatoya@yna.co.kr\n(끝)\n\n\n\n프로야구 두산의 에이스 곽빈이 최동원상을 수상자로 선정됐습니다.\n\n사단법인 최동원기념사업회는 제13회 BNK부산은행 최동원상 수상자로 두산 투수 곽빈을 선정했다고 밝혔습니다.\n\n지난 15일 열린 선정위원회에서 곽빈은 위원 7명 가운데 6명에게서 1순위 표를 받으며 압도적인 지지를 얻었습니다.\n\n국내 투수가 수상한 것은 2022년 SSG 김광현 이후 4년 만입니다.\n\n곽빈은 올시즌 정규리그 27경기에 등판해 11승 7패, 평균자책점 2.24, 탈삼진 197개를 기록했습니다.\n\n리그 유일의 2점대 이하 평균자책점을 남기며 평균자책점과 탈삼진 부문 타이틀을 독식해 2관왕에 올랐습니다.\n\n아이치·나고야 아시안게임에 와일드카드로 발탁된 곽빈은 한국의 아시안게임 5연패를 이끌기도 했습니다.\n\n기념사업회 측은 \"아시안게임 대표팀 차출로 인해 최동원상의 정량 기준인 12승과 180이닝에는 다소 미치지 못했지만, 올 시즌 보여준 압도적인 경기력과 헌신은 고(故) 최동원 선수가 남긴 에이스의 자격을 완벽히 충족했다\"고 설명했습니다.\n\n제13회 BNK부산은행 최동원상 시상식은 다음달 11일 오후 2시 부산은행 본점 2층 오션홀에서 열립니다.\n\n#최동원상 #곽빈 #평균자책점 #탈삼진\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n조한대(onepunch@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261019/AKR20261020084933dEG_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "조한대",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261020084933dEG#comments",
-          "content": "두산 곽빈 역투두산 곽빈 역투 (서울=연합뉴스) 김인철 기자 = 14일 서울 잠실야구장에서 열린 2026 신한 SOL KBO 포스트시즌 와일드카드 결정전 1차전 두산 베어스와 LG 트윈스의 경기. 4회초 두산 선발 투수 곽빈이 역투하고 있다. 2026.10.14 yatoya@yna.co.kr (끝) 두산 곽빈 역투 (서울=연합뉴스) 김인철 기자 = 14일 서울 잠실야구장에서 열린 2026 신한 SOL KBO 포스트시즌 와일드카드 결정전 1...",
-          "contentSnippet": "두산 곽빈 역투두산 곽빈 역투 (서울=연합뉴스) 김인철 기자 = 14일 서울 잠실야구장에서 열린 2026 신한 SOL KBO 포스트시즌 와일드카드 결정전 1차전 두산 베어스와 LG 트윈스의 경기. 4회초 두산 선발 투수 곽빈이 역투하고 있다. 2026.10.14 yatoya@yna.co.kr (끝) 두산 곽빈 역투 (서울=연합뉴스) 김인철 기자 = 14일 서울 잠실야구장에서 열린 2026 신한 SOL KBO 포스트시즌 와일드카드 결정전 1...",
-          "guid": "AKR20261020084933dEG",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-19T23:49:35.000Z"
-        },
-        {
-          "creator": "이지현",
-          "title": "현대차·기아, 레벨4 자율주행 화물차 실증 사업 착수",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261020084712Q9P",
-          "pubDate": "Tue, 20 Oct 2026 08:47:13 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261019/AKR20261020084712Q9P_01_i.jpg\" alt=\"\"><span class=\"yna_title\">현대차·기아, 레벨 4 자율주행 대형트럭 실증 추진</span><span class=\"yna_caption\">[현대자동차그룹 제공]</span><span class=\"yna_description\">[현대자동차그룹 제공]</span></div>\n현대자동차·기아가 대형트럭의 레벨4 자율주행 상용화를 위한 실증에 나섭니다.\n\n현대차·기아는 오늘(20일) 현대모비스와 현대글로비스 등 그룹사와 국내 자율주행 소프트웨어 기업 마스오토·라이드플럭스와 자율주행 트럭 물류 운송 실증을 위한 업무협약을 체결했다고 밝혔습니다.\n\n업무협약을 통해 엑시언트 수소전기트럭 1대와 엑시언트 1대 등 실증 차량 2대를 개발하고, 내년 말까지 100km의 고속도로·도심 복합 구간과 약 400km의 고속도로 중심 장거리 구간 등 두 가지 운송 환경에서 실증할 예정입니다.\n\n확보한 데이터는 차량 제어와 안전 이중화 기술 고도화에 쓰입니다.\n\n레벨4 자율주행은 정해진 조건 안에서 차량이 스스로 운전하는 기술로, 운전자 개입을 최소화할 수 있습니다.\n\n#현대자동차그룹 #기아 #자율주행\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이지현(ji@yna.co.kr)",
-          "content:encodedSnippet": "현대차·기아, 레벨 4 자율주행 대형트럭 실증 추진[현대자동차그룹 제공][현대자동차그룹 제공]\n현대자동차·기아가 대형트럭의 레벨4 자율주행 상용화를 위한 실증에 나섭니다.\n\n현대차·기아는 오늘(20일) 현대모비스와 현대글로비스 등 그룹사와 국내 자율주행 소프트웨어 기업 마스오토·라이드플럭스와 자율주행 트럭 물류 운송 실증을 위한 업무협약을 체결했다고 밝혔습니다.\n\n업무협약을 통해 엑시언트 수소전기트럭 1대와 엑시언트 1대 등 실증 차량 2대를 개발하고, 내년 말까지 100km의 고속도로·도심 복합 구간과 약 400km의 고속도로 중심 장거리 구간 등 두 가지 운송 환경에서 실증할 예정입니다.\n\n확보한 데이터는 차량 제어와 안전 이중화 기술 고도화에 쓰입니다.\n\n레벨4 자율주행은 정해진 조건 안에서 차량이 스스로 운전하는 기술로, 운전자 개입을 최소화할 수 있습니다.\n\n#현대자동차그룹 #기아 #자율주행\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이지현(ji@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261019/AKR20261020084712Q9P_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "이지현",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261020084712Q9P#comments",
-          "content": "현대차·기아, 레벨 4 자율주행 대형트럭 실증 추진[현대자동차그룹 제공][현대자동차그룹 제공] 현대자동차·기아가 대형트럭의 레벨4 자율주행 상용화를 위한 실증에 나섭니다. 현대차·기아는 오늘(20일) 현대모비스와 현대글로비스 등 그룹사와 국내 자율주행 소프트웨어 기업 마스오토·라이드플럭스와 자율주행 트럭 물류 운송 실증을 위한 업무협약을 체결했다고 밝혔습니다. 업무협약을 통해 엑시언트 수소전기트럭 1대와 엑시언트 1대 등 실증 차량 2대를...",
-          "contentSnippet": "현대차·기아, 레벨 4 자율주행 대형트럭 실증 추진[현대자동차그룹 제공][현대자동차그룹 제공] 현대자동차·기아가 대형트럭의 레벨4 자율주행 상용화를 위한 실증에 나섭니다. 현대차·기아는 오늘(20일) 현대모비스와 현대글로비스 등 그룹사와 국내 자율주행 소프트웨어 기업 마스오토·라이드플럭스와 자율주행 트럭 물류 운송 실증을 위한 업무협약을 체결했다고 밝혔습니다. 업무협약을 통해 엑시언트 수소전기트럭 1대와 엑시언트 1대 등 실증 차량 2대를...",
-          "guid": "AKR20261020084712Q9P",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-19T23:47:13.000Z"
-        },
-        {
-          "creator": "이다현",
-          "title": "5년간 '주식 매매규정' 제재 받은 10대 증권사 직원 100명 육박",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261020084645EOp",
-          "pubDate": "Tue, 20 Oct 2026 08:46:46 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261019/AKR20261020084645EOp_01_i.jpg\" alt=\"\"><span class=\"yna_title\">여의도 증권가</span><span class=\"yna_caption\">[촬영 안 철 수] 2026.2</span><span class=\"yna_description\">[촬영 안 철 수] 2026.2</span></div>\n최근 5년여간 임직원 주식투자 매매규정 위반으로 제재받은 10대 증권사 임직원이 100명에 육박하는 것으로 나타났습니다.\n\n이 가운데 3명 중 1명 꼴로 퇴직해 위법·부당사항 통보를 받는 등 제재 실효성이 떨어진다는 지적이 나옵니다.\n\n20일 국회 정무위원회 소속 김현정 더불어민주당 의원이 금융감독원으로부터 제출받은 자료에 따르면, 2021년부터 2026년 8월까지 임직원 주식투자 매매규정 위반으로 제재받은 10대 증권사 임직원은 총 97명에 달했습니다.\n\n이들의 거래금액(최대 투자 원금)은 총 88억 5,360만원이었습니다.\n\n올해 KB증권에서는 임직원 1명이 1억4,800만원을 거래해 감봉 3월과 과태료 1,850만원 처분을 받았습니다. 신한투자증권에서도 임직원 1명이 2,580만원을 거래했으나 이미 퇴직해 과태료 없이 견책 상당의 퇴직자 위법·부당사항 통보만 받았습니다.\n\n지난해 10월 메리츠증권에서도 임직원 5명이 4억9천만원을 매매해 제재받았는데, 조치 당시 모두 퇴직한 상태였습니다.\n\n자본시장법 제63조는 금융투자업자의 임직원이 금융투자상품을 매매할 때 자기 명의로 매매하고, 하나의 회사와 하나의 계좌를 이용하도록 규정합니다.\n\n또 매매명세를 소속 회사에 통지해야 합니다.\n\n이를 위반하면 5천만원 이하의 과태료가 부과될 수 있습니다.\n\n하지만 과태료 수준은 법정 상한에 못 미쳤습니다.\n\n과태료 부과 대상자의 1인당 과태료 중간값은 약 450만원이었고, 최고액도 2,500만원에 그쳤습니다.\n\n제재 대상자 97명 중 퇴직자는 30명(30.9%)입니다.\n\n이들은 징계 대신 위법·부당사항 통보를 받았으며, 28명은 과태료도 함께 부과됐습니다.\n\n면직 또는 정직(상당 포함) 조치를 받은 19명 중에서도 12명이 퇴직자였습니다.\n\n재직자 67명 중 면직 처분을 받은 사람은 한 명도 없었으며, 40명(60%)은 견책 이하의 경징계나 과태료 부과에 그쳤습니다.\n\n김현정 의원은 \"증권사 임직원의 주식매매 규정은 고객보다 유리한 정보 접근성을 사적 이익에 이용하지 못하도록 하는 최소한의 안전장치\"라며 \"신뢰를 가장 중시해야 할 증권사 임직원들의 반복적인 규정 위반은 내부통제가 제대로 작동하지 않고 있다는 뜻\"이라고 지적했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이다현(ok@yna.co.kr)",
-          "content:encodedSnippet": "여의도 증권가[촬영 안 철 수] 2026.2[촬영 안 철 수] 2026.2\n최근 5년여간 임직원 주식투자 매매규정 위반으로 제재받은 10대 증권사 임직원이 100명에 육박하는 것으로 나타났습니다.\n\n이 가운데 3명 중 1명 꼴로 퇴직해 위법·부당사항 통보를 받는 등 제재 실효성이 떨어진다는 지적이 나옵니다.\n\n20일 국회 정무위원회 소속 김현정 더불어민주당 의원이 금융감독원으로부터 제출받은 자료에 따르면, 2021년부터 2026년 8월까지 임직원 주식투자 매매규정 위반으로 제재받은 10대 증권사 임직원은 총 97명에 달했습니다.\n\n이들의 거래금액(최대 투자 원금)은 총 88억 5,360만원이었습니다.\n\n올해 KB증권에서는 임직원 1명이 1억4,800만원을 거래해 감봉 3월과 과태료 1,850만원 처분을 받았습니다. 신한투자증권에서도 임직원 1명이 2,580만원을 거래했으나 이미 퇴직해 과태료 없이 견책 상당의 퇴직자 위법·부당사항 통보만 받았습니다.\n\n지난해 10월 메리츠증권에서도 임직원 5명이 4억9천만원을 매매해 제재받았는데, 조치 당시 모두 퇴직한 상태였습니다.\n\n자본시장법 제63조는 금융투자업자의 임직원이 금융투자상품을 매매할 때 자기 명의로 매매하고, 하나의 회사와 하나의 계좌를 이용하도록 규정합니다.\n\n또 매매명세를 소속 회사에 통지해야 합니다.\n\n이를 위반하면 5천만원 이하의 과태료가 부과될 수 있습니다.\n\n하지만 과태료 수준은 법정 상한에 못 미쳤습니다.\n\n과태료 부과 대상자의 1인당 과태료 중간값은 약 450만원이었고, 최고액도 2,500만원에 그쳤습니다.\n\n제재 대상자 97명 중 퇴직자는 30명(30.9%)입니다.\n\n이들은 징계 대신 위법·부당사항 통보를 받았으며, 28명은 과태료도 함께 부과됐습니다.\n\n면직 또는 정직(상당 포함) 조치를 받은 19명 중에서도 12명이 퇴직자였습니다.\n\n재직자 67명 중 면직 처분을 받은 사람은 한 명도 없었으며, 40명(60%)은 견책 이하의 경징계나 과태료 부과에 그쳤습니다.\n\n김현정 의원은 \"증권사 임직원의 주식매매 규정은 고객보다 유리한 정보 접근성을 사적 이익에 이용하지 못하도록 하는 최소한의 안전장치\"라며 \"신뢰를 가장 중시해야 할 증권사 임직원들의 반복적인 규정 위반은 내부통제가 제대로 작동하지 않고 있다는 뜻\"이라고 지적했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이다현(ok@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261019/AKR20261020084645EOp_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "이다현",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261020084645EOp#comments",
-          "content": "여의도 증권가[촬영 안 철 수] 2026.2[촬영 안 철 수] 2026.2 최근 5년여간 임직원 주식투자 매매규정 위반으로 제재받은 10대 증권사 임직원이 100명에 육박하는 것으로 나타났습니다. 이 가운데 3명 중 1명 꼴로 퇴직해 위법·부당사항 통보를 받는 등 제재 실효성이 떨어진다는 지적이 나옵니다. 20일 국회 정무위원회 소속 김현정 더불어민주당 의원이 금융감독원으로부터 제출받은 자료에 따르면, 2021년부터 2026년 8월까지 임...",
-          "contentSnippet": "여의도 증권가[촬영 안 철 수] 2026.2[촬영 안 철 수] 2026.2 최근 5년여간 임직원 주식투자 매매규정 위반으로 제재받은 10대 증권사 임직원이 100명에 육박하는 것으로 나타났습니다. 이 가운데 3명 중 1명 꼴로 퇴직해 위법·부당사항 통보를 받는 등 제재 실효성이 떨어진다는 지적이 나옵니다. 20일 국회 정무위원회 소속 김현정 더불어민주당 의원이 금융감독원으로부터 제출받은 자료에 따르면, 2021년부터 2026년 8월까지 임...",
-          "guid": "AKR20261020084645EOp",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-19T23:46:46.000Z"
-        },
-        {
           "creator": "정다미",
-          "title": "전세 실종에…1∼9월 서울 아파트 월세 비중 50% 첫 돌파",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR202610200844467r5",
-          "pubDate": "Tue, 20 Oct 2026 08:44:49 +0900",
-          "content:encoded": "\n\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261019/AKR202610200844467r5_01_i.jpg\" alt=\"\"><span class=\"yna_title\">서울 아파트 '전세의 월세화'</span><span class=\"yna_caption\">서울 강남구 한 부동산 중개업소에 붙은 월세 매물 모습.</span><span class=\"yna_description\">서울 강남구 한 부동산 중개업소에 붙은 월세 매물 모습.</span></div>\n올해 1∼9월 서울 아파트 임대차 거래에서 월세가 차지하는 비중이 처음으로 50%를 넘어선 것으로 나타났습니다.\n\n20일 서울부동산정보광장의 아파트 거래량 자료를 분석한 결과, 올해 1∼9월 서울 아파트 월세 거래량은 8만7,740건으로 전체 전월세 거래량(17만2,027건)의 51.0%를 차지했습니다.\n\n같은 기간 전세 거래량은 8만4,287건으로 월세보다 3,453건 적었습니다.\n\n작년 같은 기간에는 월세 거래량이 9,310건, 전세 거래량이 11만6,272건으로 월세 비중이 43.7%였습니다.\n\n1년 사이 월세 비중이 7.3%포인트 높아진 것입니다.\n\n월세 비중이 절반을 넘어선 것은 월세 거래 증가보다 전세 거래가 크게 급감하면서 나타난 현상입니다.\n\n올해 1∼9월 월세 거래량은 전년 동기 대비 2.8% 감소한 반면 전세 거래량은 27.5%나 줄었습니다.\n\n전세 거래량 감소 폭이 월세의 약 10배에 달한 셈입니다.\n\n이런 추세가 이어질 경우 올해는 월세 거래 비중이 전세를 넘어서는 첫해가 될 전망입니다.\n\n작년 연간 월세 거래 비중이 44.5%로 역대 최고치를 기록한 바 있습니다.\n\n월세 거래가 전세를 앞서는 지역은 서울 곳곳으로 확산하고 있습니다.\n\n올해 1∼9월 서울 25개 자치구 가운데 월세 거래량이 전세 거래량보다 많은 지역은 13곳으로 집계됐습니다.\n\n작년 같은 기간 월세 거래량이 전세를 웃돈 지역은 금천구·종로구·중구·구로구 등 4곳에 그쳤었습니다.\n\n올해는 강남구·강북구·관악구·광진구·동대문구·마포구·영등포구·용산구·중랑구 등 9곳이 새롭게 추가됐습니다.\n\n자치구별로는 종로구의 월세 비중이 65.6%로 가장 높았습니다.\n\n이어 중랑구(64.9%), 구로구(63.1%), 중구(59.6%), 금천구(58.7%), 용산구(56.9%), 동대문구(56.7%), 관악구(56.1%), 마포구(54.1%), 강남구(54.0%), 강북구(53.0%), 광진구(52.6%), 영등포구(50.2%) 순이었습니다.\n\n특히 중랑구는 월세 비중이 작년 같은 기간 44.6%에서 올해 64.9%로 20.3%포인트 높아져 서울 25개 자치구 가운데 상승 폭이 가장 컸습니다.\n\n중랑구의 월세 거래량은 작년 1∼9월 2,166건에서 올해 4,151건으로 91.6% 증가한 반면 전세 거래량은 2,687건에서 2,244건으로 16.5% 감소했습니다.\n\n강남구도 월세 거래량이 8,406건으로 전세(7,170건)를 웃돌면서 월세 비중이 작년 48.6%에서 올해 54.0%로 높아졌습니다.\n\n반면 양천구는 월세 비중이 42.1%로 서울 25개 자치구 가운데 가장 낮았습니다.\n\n성북구와 도봉구(각 44.7%), 강서구(45.6%), 동작구(46.0%) 등에서도 전세 거래량이 월세보다 많았습니다.\n\n월세 비중이 늘어난 가운데 월세 수준 계속 올라 서민들의 부담을 키우고 있습니다.\n\n한국부동산원의 전국주택가격동향조사에 따르면 지난 9월 서울 아파트 평균 월세는 166만1천원으로 작년 같은 달(144만3천원)보다 21만8천원 높았습니다.\n\n중위 월세도 같은 기간 120만원에서 140만원으로 높아졌습니다.\n\n다만 서울부동산정보광장의 아파트 거래량은 부동산 거래 신고 자료를 계약일 기준으로 집계한 참고용 수치로 신고 및 계약해제 등에 따라 추후 변동될 수 있습니다.\n\n\n\n\n#부동산\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정다미(smjung@yna.co.kr)",
-          "content:encodedSnippet": "서울 아파트 '전세의 월세화'서울 강남구 한 부동산 중개업소에 붙은 월세 매물 모습.서울 강남구 한 부동산 중개업소에 붙은 월세 매물 모습.\n올해 1∼9월 서울 아파트 임대차 거래에서 월세가 차지하는 비중이 처음으로 50%를 넘어선 것으로 나타났습니다.\n\n20일 서울부동산정보광장의 아파트 거래량 자료를 분석한 결과, 올해 1∼9월 서울 아파트 월세 거래량은 8만7,740건으로 전체 전월세 거래량(17만2,027건)의 51.0%를 차지했습니다.\n\n같은 기간 전세 거래량은 8만4,287건으로 월세보다 3,453건 적었습니다.\n\n작년 같은 기간에는 월세 거래량이 9,310건, 전세 거래량이 11만6,272건으로 월세 비중이 43.7%였습니다.\n\n1년 사이 월세 비중이 7.3%포인트 높아진 것입니다.\n\n월세 비중이 절반을 넘어선 것은 월세 거래 증가보다 전세 거래가 크게 급감하면서 나타난 현상입니다.\n\n올해 1∼9월 월세 거래량은 전년 동기 대비 2.8% 감소한 반면 전세 거래량은 27.5%나 줄었습니다.\n\n전세 거래량 감소 폭이 월세의 약 10배에 달한 셈입니다.\n\n이런 추세가 이어질 경우 올해는 월세 거래 비중이 전세를 넘어서는 첫해가 될 전망입니다.\n\n작년 연간 월세 거래 비중이 44.5%로 역대 최고치를 기록한 바 있습니다.\n\n월세 거래가 전세를 앞서는 지역은 서울 곳곳으로 확산하고 있습니다.\n\n올해 1∼9월 서울 25개 자치구 가운데 월세 거래량이 전세 거래량보다 많은 지역은 13곳으로 집계됐습니다.\n\n작년 같은 기간 월세 거래량이 전세를 웃돈 지역은 금천구·종로구·중구·구로구 등 4곳에 그쳤었습니다.\n\n올해는 강남구·강북구·관악구·광진구·동대문구·마포구·영등포구·용산구·중랑구 등 9곳이 새롭게 추가됐습니다.\n\n자치구별로는 종로구의 월세 비중이 65.6%로 가장 높았습니다.\n\n이어 중랑구(64.9%), 구로구(63.1%), 중구(59.6%), 금천구(58.7%), 용산구(56.9%), 동대문구(56.7%), 관악구(56.1%), 마포구(54.1%), 강남구(54.0%), 강북구(53.0%), 광진구(52.6%), 영등포구(50.2%) 순이었습니다.\n\n특히 중랑구는 월세 비중이 작년 같은 기간 44.6%에서 올해 64.9%로 20.3%포인트 높아져 서울 25개 자치구 가운데 상승 폭이 가장 컸습니다.\n\n중랑구의 월세 거래량은 작년 1∼9월 2,166건에서 올해 4,151건으로 91.6% 증가한 반면 전세 거래량은 2,687건에서 2,244건으로 16.5% 감소했습니다.\n\n강남구도 월세 거래량이 8,406건으로 전세(7,170건)를 웃돌면서 월세 비중이 작년 48.6%에서 올해 54.0%로 높아졌습니다.\n\n반면 양천구는 월세 비중이 42.1%로 서울 25개 자치구 가운데 가장 낮았습니다.\n\n성북구와 도봉구(각 44.7%), 강서구(45.6%), 동작구(46.0%) 등에서도 전세 거래량이 월세보다 많았습니다.\n\n월세 비중이 늘어난 가운데 월세 수준 계속 올라 서민들의 부담을 키우고 있습니다.\n\n한국부동산원의 전국주택가격동향조사에 따르면 지난 9월 서울 아파트 평균 월세는 166만1천원으로 작년 같은 달(144만3천원)보다 21만8천원 높았습니다.\n\n중위 월세도 같은 기간 120만원에서 140만원으로 높아졌습니다.\n\n다만 서울부동산정보광장의 아파트 거래량은 부동산 거래 신고 자료를 계약일 기준으로 집계한 참고용 수치로 신고 및 계약해제 등에 따라 추후 변동될 수 있습니다.\n\n\n\n\n#부동산\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정다미(smjung@yna.co.kr)",
+          "title": "100호 이상 임대단지 임대료 인상률 시·도 조례로 정한다",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261020171553e3A",
+          "pubDate": "Tue, 20 Oct 2026 17:15:54 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261020/AKR20261020171553e3A_01_i.jpg\" alt=\"\"><span class=\"yna_title\">임대료 인상(PG)</span><span class=\"yna_caption\">[정연주 제작] 일러스트</span><span class=\"yna_description\">[정연주 제작] 일러스트</span></div>\n앞으로 100가구 이상 민간임대주택 단지의 임대료 증액 비율을 시·도 조례로 정할 수 있게 됩니다.\n\n국토교통부는 오늘(20일) 열린 국무회의에서 이 같은 내용을 담은 '민간임대주택에 관한 특별법' 시행령 일부 개정안이 의결됐다고 밝혔습니다.\n\n또 임대사업자가 임대차계약에 관한 사항을 신고할 때 관리비와 사용료의 금액 또는 산정 방식도 함께 신고하도록 했습니다.\n\n현재 신고 대상인 임대차 기간과 임대료, 대출 금액(매입임대에 한함), 임차인 현황(준주택에 한함) 등에 관리비와 사용료 관련 사항이 추가되는 것입니다.\n\n임대 조건에 대한 정보 공개도 확대됩니다.\n\n시장·군수·구청장은 현재 임대사업자가 신고한 임대 조건을 지방자치단체 공보에만 공고하고 있지만, 앞으로는 누리집에도 공고해야 합니다.\n\n임대주택정보체계인 '렌트홈'을 통해 임대보증금 보증 가입 정보도 열람할 수 있게 됩니다.\n\n아울러 단순 임대차계약 신고 누락 등 경미한 위반에 대한 과태료는 일부 완화됩니다.\n\n1차 위반 시 과태료는 기존 500만원에서 300만원으로, 2차 위반 시에는 700만원에서 500만원으로 낮아집니다.\n\n다만 3차 위반 시 과태료 1천만원은 유지됩니다.\n\n이번 시행령 개정안은 오는 27일 공포되며, 공포 후 6개월이 경과한 날부터 시행됩니다.\n\n\n\n#부동산 #임대료 #아파트\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정다미(smjung@yna.co.kr)",
+          "content:encodedSnippet": "임대료 인상(PG)[정연주 제작] 일러스트[정연주 제작] 일러스트\n앞으로 100가구 이상 민간임대주택 단지의 임대료 증액 비율을 시·도 조례로 정할 수 있게 됩니다.\n\n국토교통부는 오늘(20일) 열린 국무회의에서 이 같은 내용을 담은 '민간임대주택에 관한 특별법' 시행령 일부 개정안이 의결됐다고 밝혔습니다.\n\n또 임대사업자가 임대차계약에 관한 사항을 신고할 때 관리비와 사용료의 금액 또는 산정 방식도 함께 신고하도록 했습니다.\n\n현재 신고 대상인 임대차 기간과 임대료, 대출 금액(매입임대에 한함), 임차인 현황(준주택에 한함) 등에 관리비와 사용료 관련 사항이 추가되는 것입니다.\n\n임대 조건에 대한 정보 공개도 확대됩니다.\n\n시장·군수·구청장은 현재 임대사업자가 신고한 임대 조건을 지방자치단체 공보에만 공고하고 있지만, 앞으로는 누리집에도 공고해야 합니다.\n\n임대주택정보체계인 '렌트홈'을 통해 임대보증금 보증 가입 정보도 열람할 수 있게 됩니다.\n\n아울러 단순 임대차계약 신고 누락 등 경미한 위반에 대한 과태료는 일부 완화됩니다.\n\n1차 위반 시 과태료는 기존 500만원에서 300만원으로, 2차 위반 시에는 700만원에서 500만원으로 낮아집니다.\n\n다만 3차 위반 시 과태료 1천만원은 유지됩니다.\n\n이번 시행령 개정안은 오는 27일 공포되며, 공포 후 6개월이 경과한 날부터 시행됩니다.\n\n\n\n#부동산 #임대료 #아파트\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정다미(smjung@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261019/AKR202610200844467r5_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261020/AKR20261020171553e3A_01_i.jpg",
             "type": "image/jpeg"
           },
           "dc:creator": "정다미",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR202610200844467r5#comments",
-          "content": "서울 아파트 '전세의 월세화'서울 강남구 한 부동산 중개업소에 붙은 월세 매물 모습.서울 강남구 한 부동산 중개업소에 붙은 월세 매물 모습. 올해 1∼9월 서울 아파트 임대차 거래에서 월세가 차지하는 비중이 처음으로 50%를 넘어선 것으로 나타났습니다. 20일 서울부동산정보광장의 아파트 거래량 자료를 분석한 결과, 올해 1∼9월 서울 아파트 월세 거래량은 8만7,740건으로 전체 전월세 거래량(17만2,027건)의 51.0%를 차지했습니다...",
-          "contentSnippet": "서울 아파트 '전세의 월세화'서울 강남구 한 부동산 중개업소에 붙은 월세 매물 모습.서울 강남구 한 부동산 중개업소에 붙은 월세 매물 모습. 올해 1∼9월 서울 아파트 임대차 거래에서 월세가 차지하는 비중이 처음으로 50%를 넘어선 것으로 나타났습니다. 20일 서울부동산정보광장의 아파트 거래량 자료를 분석한 결과, 올해 1∼9월 서울 아파트 월세 거래량은 8만7,740건으로 전체 전월세 거래량(17만2,027건)의 51.0%를 차지했습니다...",
-          "guid": "AKR202610200844467r5",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261020171553e3A#comments",
+          "content": "임대료 인상(PG)[정연주 제작] 일러스트[정연주 제작] 일러스트 앞으로 100가구 이상 민간임대주택 단지의 임대료 증액 비율을 시·도 조례로 정할 수 있게 됩니다. 국토교통부는 오늘(20일) 열린 국무회의에서 이 같은 내용을 담은 '민간임대주택에 관한 특별법' 시행령 일부 개정안이 의결됐다고 밝혔습니다. 또 임대사업자가 임대차계약에 관한 사항을 신고할 때 관리비와 사용료의 금액 또는 산정 방식도 함께 신고하도록 했습니다. 현재 신고 대상...",
+          "contentSnippet": "임대료 인상(PG)[정연주 제작] 일러스트[정연주 제작] 일러스트 앞으로 100가구 이상 민간임대주택 단지의 임대료 증액 비율을 시·도 조례로 정할 수 있게 됩니다. 국토교통부는 오늘(20일) 열린 국무회의에서 이 같은 내용을 담은 '민간임대주택에 관한 특별법' 시행령 일부 개정안이 의결됐다고 밝혔습니다. 또 임대사업자가 임대차계약에 관한 사항을 신고할 때 관리비와 사용료의 금액 또는 산정 방식도 함께 신고하도록 했습니다. 현재 신고 대상...",
+          "guid": "AKR20261020171553e3A",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-19T23:44:49.000Z"
+          "isoDate": "2026-10-20T08:15:54.000Z"
         },
         {
-          "creator": "장효인",
-          "title": "국제유가, 러 제재 완화·후티 공격에 혼조",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261020084426vWA",
-          "pubDate": "Tue, 20 Oct 2026 08:44:28 +0900",
-          "content:encoded": "미국의 대러시아 제재 완화에 따른 공급 확대 기대감과 예멘 친이란 후티 반군의 사우디아라비아 석유 시설 공격에 따른 공급 차질 우려가 맞물리며 국제유가가 혼조세로 마감했습니다.\n\n현지시간 19일 뉴욕상업거래소에서 서부텍사스산원유는 전장보다 2.22% 상승한 배럴당 103.66달러에 거래를 마쳤습니다.\n\n브렌트유는 0.28% 내린 109.55달러에 거래를 마감했습니다.\n\n국제유가는 도널드 트럼프 미국 대통령의 러시아 에너지 제재 일부 면제 조치에 따른 공급 확대 기대감으로 장 초반 내렸지만, 중동 지역의 지정학적 긴장이 고조되면서 하락 폭이 제한됐습니다.\n\n#국제유가\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n장효인(hijang@yna.co.kr)",
-          "content:encodedSnippet": "미국의 대러시아 제재 완화에 따른 공급 확대 기대감과 예멘 친이란 후티 반군의 사우디아라비아 석유 시설 공격에 따른 공급 차질 우려가 맞물리며 국제유가가 혼조세로 마감했습니다.\n\n현지시간 19일 뉴욕상업거래소에서 서부텍사스산원유는 전장보다 2.22% 상승한 배럴당 103.66달러에 거래를 마쳤습니다.\n\n브렌트유는 0.28% 내린 109.55달러에 거래를 마감했습니다.\n\n국제유가는 도널드 트럼프 미국 대통령의 러시아 에너지 제재 일부 면제 조치에 따른 공급 확대 기대감으로 장 초반 내렸지만, 중동 지역의 지정학적 긴장이 고조되면서 하락 폭이 제한됐습니다.\n\n#국제유가\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n장효인(hijang@yna.co.kr)",
+          "creator": "김예린",
+          "title": "트럼프, 연방기관서 딥시크 퇴출…中 \"과학기술 정치화\" 반발",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261020171336B7h",
+          "pubDate": "Tue, 20 Oct 2026 17:13:39 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261020/AKR20261020171336B7h_01_i.jpg\" alt=\"\"><span class=\"yna_title\">트럼프 대통령</span><span class=\"yna_caption\">[AP=연합뉴스 제공]</span><span class=\"yna_description\">[AP=연합뉴스 제공]</span></div>\n도널드 트럼프 미국 행정부가 연방 정부 기관에 중국 인공지능 기업 딥시크가 개발한 AI 모델을 퇴출하라고 명령했습니다.\n\n미 국토안보부(DHS)는 현지 시간 19일 이러한 내용의 지침을 연방 관보 웹사이트에 공개했습니다.\n\n사이버보안법에 근거한 이번 명령에 따르면 연방 기관들은 IT 시스템에서 딥시크 제품을 제거해야 하고, 사용이 전면 금지됩니다.\n\n국토안보부는 딥시크에 대해 \"다중 보안 위협 경로\"가 될 수 있다며 \"미국 정부 직원이나 공급업체가 해당 제품을 사용할 경우 민감한 데이터가 중국으로 이전될 위험이 있다\"고 경고했습니다.\n\n또한 정부 기관의 딥시크 사용이 미국 국민과 해당 기관에 대한 실행 가능한 정보를 생산해낼 수 있다며 딥시크가 \"악성코드나 기타 보안 취약점을 가졌을 가능성도 있다\"고 지적했습니다.\n\n국토안보부는 연방 기관들에 딥시크의 잠재적 위험에 대응하기 위해 정부 웹사이트 트래픽을 모니터링하라고 주문했습니다.\n\n중국 정부는 즉각 반발했습니다.\n\n마오닝 중국 외교부 대변인은 20일 관련 사안에 대한 논평 요청에 \"중국 측은 일관되게 국가안보 개념을 지나치게 확대하고 과학기술 및 경제·무역 문제를 정치화하는 것에 반대해 왔다\"며 \"우리는 중국 기업의 합법적인 권익을 단호히 수호할 것\"이라고 말했습니다.\n\n미국이 딥시크를 통해 민감한 데이터가 중국으로 이전될 가능성을 제기한 데 대한 입장을 묻는 말에는 별다른 답변을 하지 않았습니다.\n\n트럼프 행정부는 중국 기술 기업과 해당 제품에 대한 단속·규제 조처를 잇달아 도입하고 있습니다.\n\n연방통신위원회(FCC)는 작년 12월 중국산 신형 드론 수입을 금지했고, 컴퓨터, 휴대전화, 스마트 기기를 인터넷에 연결하는 장치인 중국산 가정용 라우터 수입 역시 금지했습니다.\n\nFCC는 이달 29일 미국 내에서 사용되는 스마트폰, 카메라, 컴퓨터 등 전자기기 시험 대상에서 모든 중국 연구소를 배제하는 방안도 표결할 예정입니다.\n\n\n#트럼프 #딥시크 #인공지능 #AI #중국\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김예린(yey@yna.co.kr)",
+          "content:encodedSnippet": "트럼프 대통령[AP=연합뉴스 제공][AP=연합뉴스 제공]\n도널드 트럼프 미국 행정부가 연방 정부 기관에 중국 인공지능 기업 딥시크가 개발한 AI 모델을 퇴출하라고 명령했습니다.\n\n미 국토안보부(DHS)는 현지 시간 19일 이러한 내용의 지침을 연방 관보 웹사이트에 공개했습니다.\n\n사이버보안법에 근거한 이번 명령에 따르면 연방 기관들은 IT 시스템에서 딥시크 제품을 제거해야 하고, 사용이 전면 금지됩니다.\n\n국토안보부는 딥시크에 대해 \"다중 보안 위협 경로\"가 될 수 있다며 \"미국 정부 직원이나 공급업체가 해당 제품을 사용할 경우 민감한 데이터가 중국으로 이전될 위험이 있다\"고 경고했습니다.\n\n또한 정부 기관의 딥시크 사용이 미국 국민과 해당 기관에 대한 실행 가능한 정보를 생산해낼 수 있다며 딥시크가 \"악성코드나 기타 보안 취약점을 가졌을 가능성도 있다\"고 지적했습니다.\n\n국토안보부는 연방 기관들에 딥시크의 잠재적 위험에 대응하기 위해 정부 웹사이트 트래픽을 모니터링하라고 주문했습니다.\n\n중국 정부는 즉각 반발했습니다.\n\n마오닝 중국 외교부 대변인은 20일 관련 사안에 대한 논평 요청에 \"중국 측은 일관되게 국가안보 개념을 지나치게 확대하고 과학기술 및 경제·무역 문제를 정치화하는 것에 반대해 왔다\"며 \"우리는 중국 기업의 합법적인 권익을 단호히 수호할 것\"이라고 말했습니다.\n\n미국이 딥시크를 통해 민감한 데이터가 중국으로 이전될 가능성을 제기한 데 대한 입장을 묻는 말에는 별다른 답변을 하지 않았습니다.\n\n트럼프 행정부는 중국 기술 기업과 해당 제품에 대한 단속·규제 조처를 잇달아 도입하고 있습니다.\n\n연방통신위원회(FCC)는 작년 12월 중국산 신형 드론 수입을 금지했고, 컴퓨터, 휴대전화, 스마트 기기를 인터넷에 연결하는 장치인 중국산 가정용 라우터 수입 역시 금지했습니다.\n\nFCC는 이달 29일 미국 내에서 사용되는 스마트폰, 카메라, 컴퓨터 등 전자기기 시험 대상에서 모든 중국 연구소를 배제하는 방안도 표결할 예정입니다.\n\n\n#트럼프 #딥시크 #인공지능 #AI #중국\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김예린(yey@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261019/MYH20261020084426vWA.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261020/AKR20261020171336B7h_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "장효인",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261020084426vWA#comments",
-          "content": "미국의 대러시아 제재 완화에 따른 공급 확대 기대감과 예멘 친이란 후티 반군의 사우디아라비아 석유 시설 공격에 따른 공급 차질 우려가 맞물리며 국제유가가 혼조세로 마감했습니다. 현지시간 19일 뉴욕상업거래소에서 서부텍사스산원유는 전장보다 2.22% 상승한 배럴당 103.66달러에 거래를 마쳤습니다. 브렌트유는 0.28% 내린 109.55달러에 거래를 마감했습니다. 국제유가는 도널드 트럼프 미국 대통령의 러시아 에너지 제재 일부 면제 조치에...",
-          "contentSnippet": "미국의 대러시아 제재 완화에 따른 공급 확대 기대감과 예멘 친이란 후티 반군의 사우디아라비아 석유 시설 공격에 따른 공급 차질 우려가 맞물리며 국제유가가 혼조세로 마감했습니다. 현지시간 19일 뉴욕상업거래소에서 서부텍사스산원유는 전장보다 2.22% 상승한 배럴당 103.66달러에 거래를 마쳤습니다. 브렌트유는 0.28% 내린 109.55달러에 거래를 마감했습니다. 국제유가는 도널드 트럼프 미국 대통령의 러시아 에너지 제재 일부 면제 조치에...",
-          "guid": "MYH20261020084426vWA",
+          "dc:creator": "김예린",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261020171336B7h#comments",
+          "content": "트럼프 대통령[AP=연합뉴스 제공][AP=연합뉴스 제공] 도널드 트럼프 미국 행정부가 연방 정부 기관에 중국 인공지능 기업 딥시크가 개발한 AI 모델을 퇴출하라고 명령했습니다. 미 국토안보부(DHS)는 현지 시간 19일 이러한 내용의 지침을 연방 관보 웹사이트에 공개했습니다. 사이버보안법에 근거한 이번 명령에 따르면 연방 기관들은 IT 시스템에서 딥시크 제품을 제거해야 하고, 사용이 전면 금지됩니다. 국토안보부는 딥시크에 대해 \"다중 보안...",
+          "contentSnippet": "트럼프 대통령[AP=연합뉴스 제공][AP=연합뉴스 제공] 도널드 트럼프 미국 행정부가 연방 정부 기관에 중국 인공지능 기업 딥시크가 개발한 AI 모델을 퇴출하라고 명령했습니다. 미 국토안보부(DHS)는 현지 시간 19일 이러한 내용의 지침을 연방 관보 웹사이트에 공개했습니다. 사이버보안법에 근거한 이번 명령에 따르면 연방 기관들은 IT 시스템에서 딥시크 제품을 제거해야 하고, 사용이 전면 금지됩니다. 국토안보부는 딥시크에 대해 \"다중 보안...",
+          "guid": "AKR20261020171336B7h",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-19T23:44:28.000Z"
+          "isoDate": "2026-10-20T08:13:39.000Z"
         },
         {
-          "creator": "신새롬",
-          "title": "스페인 폭우에 관광객도 고립…홍수 피해 속출",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261020084248Shi",
-          "pubDate": "Tue, 20 Oct 2026 08:42:48 +0900",
-          "content:encoded": "스페인 동부 전역에 폭풍과 함께 많은 비가 쏟아지면서 여러 마을이 고립됐습니다.\n\n스페인 기상청에 따르면, 허리케인 아담과 관련된 폭우로 알리칸테 주의 페고에서는 36시간 동안 632mm의 강우량을 기록했으며, 발렌시아 남부와 알리칸테 북부의 여러 지역에서도 같은 기간 동안 500mm가 넘는 비가 내린 것으로 확인됐습니다.\n\n현지시간 19일 최소 3명이 숨지고 8만 명 넘는 주민에 대피령이 내려졌습니다.\n\n유명 관광지인 이비자섬에서도 홍수 피해로 관광객들이 불편을 겪었습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신새롬(romi@yna.co.kr)",
-          "content:encodedSnippet": "스페인 동부 전역에 폭풍과 함께 많은 비가 쏟아지면서 여러 마을이 고립됐습니다.\n\n스페인 기상청에 따르면, 허리케인 아담과 관련된 폭우로 알리칸테 주의 페고에서는 36시간 동안 632mm의 강우량을 기록했으며, 발렌시아 남부와 알리칸테 북부의 여러 지역에서도 같은 기간 동안 500mm가 넘는 비가 내린 것으로 확인됐습니다.\n\n현지시간 19일 최소 3명이 숨지고 8만 명 넘는 주민에 대피령이 내려졌습니다.\n\n유명 관광지인 이비자섬에서도 홍수 피해로 관광객들이 불편을 겪었습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신새롬(romi@yna.co.kr)",
+          "creator": "김예린",
+          "title": "근거없는 '김정은 사망설' 해외 SNS서 확산",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261020171242Hgz",
+          "pubDate": "Tue, 20 Oct 2026 17:12:45 +0900",
+          "content:encoded": "김정은 북한 국무위원장이 사망했다는 근거 없는 주장이 해외 온라인에서 확산했습니다.\n\n영국 더선과 미국 뉴욕포스트 등에 따르면 최근 사회관계망서비스에 김 위원장이 뇌출혈로 중국 베이징의 병원으로 긴급 이송됐다는 확인되지 않은 내용이 퍼졌습니다.\n\n외신들은 미국 내 중국 반체제 인사로 알려진 셰완쥔의 엑스(X) 게시글이 소문의 진원지라고 전했습니다.\n\n북한 관영매체들은 김 위원장이 어제(19일) 평양에서 열린 '전국 피복, 신발 전시회'를 둘러봤다며 사진과 함께 보도했고, 한국의 외교·안보 부처 당국자들도 김정은 사망설을 일축한 것으로 전해졌습니다.\n\n#북한 #중국 #김정은 #sns #사망설\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김예린(yey@yna.co.kr)",
+          "content:encodedSnippet": "김정은 북한 국무위원장이 사망했다는 근거 없는 주장이 해외 온라인에서 확산했습니다.\n\n영국 더선과 미국 뉴욕포스트 등에 따르면 최근 사회관계망서비스에 김 위원장이 뇌출혈로 중국 베이징의 병원으로 긴급 이송됐다는 확인되지 않은 내용이 퍼졌습니다.\n\n외신들은 미국 내 중국 반체제 인사로 알려진 셰완쥔의 엑스(X) 게시글이 소문의 진원지라고 전했습니다.\n\n북한 관영매체들은 김 위원장이 어제(19일) 평양에서 열린 '전국 피복, 신발 전시회'를 둘러봤다며 사진과 함께 보도했고, 한국의 외교·안보 부처 당국자들도 김정은 사망설을 일축한 것으로 전해졌습니다.\n\n#북한 #중국 #김정은 #sns #사망설\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김예린(yey@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261019/MYH20261020084248Shi.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261020/MYH20261020171242Hgz.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "신새롬",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261020084248Shi#comments",
-          "content": "스페인 동부 전역에 폭풍과 함께 많은 비가 쏟아지면서 여러 마을이 고립됐습니다. 스페인 기상청에 따르면, 허리케인 아담과 관련된 폭우로 알리칸테 주의 페고에서는 36시간 동안 632mm의 강우량을 기록했으며, 발렌시아 남부와 알리칸테 북부의 여러 지역에서도 같은 기간 동안 500mm가 넘는 비가 내린 것으로 확인됐습니다. 현지시간 19일 최소 3명이 숨지고 8만 명 넘는 주민에 대피령이 내려졌습니다. 유명 관광지인 이비자섬에서도 홍수 피해...",
-          "contentSnippet": "스페인 동부 전역에 폭풍과 함께 많은 비가 쏟아지면서 여러 마을이 고립됐습니다. 스페인 기상청에 따르면, 허리케인 아담과 관련된 폭우로 알리칸테 주의 페고에서는 36시간 동안 632mm의 강우량을 기록했으며, 발렌시아 남부와 알리칸테 북부의 여러 지역에서도 같은 기간 동안 500mm가 넘는 비가 내린 것으로 확인됐습니다. 현지시간 19일 최소 3명이 숨지고 8만 명 넘는 주민에 대피령이 내려졌습니다. 유명 관광지인 이비자섬에서도 홍수 피해...",
-          "guid": "MYH20261020084248Shi",
+          "dc:creator": "김예린",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261020171242Hgz#comments",
+          "content": "김정은 북한 국무위원장이 사망했다는 근거 없는 주장이 해외 온라인에서 확산했습니다. 영국 더선과 미국 뉴욕포스트 등에 따르면 최근 사회관계망서비스에 김 위원장이 뇌출혈로 중국 베이징의 병원으로 긴급 이송됐다는 확인되지 않은 내용이 퍼졌습니다. 외신들은 미국 내 중국 반체제 인사로 알려진 셰완쥔의 엑스(X) 게시글이 소문의 진원지라고 전했습니다. 북한 관영매체들은 김 위원장이 어제(19일) 평양에서 열린 '전국 피복, 신발 전시회'를 둘러봤...",
+          "contentSnippet": "김정은 북한 국무위원장이 사망했다는 근거 없는 주장이 해외 온라인에서 확산했습니다. 영국 더선과 미국 뉴욕포스트 등에 따르면 최근 사회관계망서비스에 김 위원장이 뇌출혈로 중국 베이징의 병원으로 긴급 이송됐다는 확인되지 않은 내용이 퍼졌습니다. 외신들은 미국 내 중국 반체제 인사로 알려진 셰완쥔의 엑스(X) 게시글이 소문의 진원지라고 전했습니다. 북한 관영매체들은 김 위원장이 어제(19일) 평양에서 열린 '전국 피복, 신발 전시회'를 둘러봤...",
+          "guid": "MYH20261020171242Hgz",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-19T23:42:48.000Z"
+          "isoDate": "2026-10-20T08:12:45.000Z"
         },
         {
-          "creator": "송채은",
-          "title": "후티의 정부군 공세에 수백 명 사상…프랑스 '야간 통행금지령'",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261020084107F42",
-          "pubDate": "Tue, 20 Oct 2026 08:41:09 +0900",
-          "content:encoded": "[앵커]\n\n예멘 친이란 반군 후티의 정부군 기지 공격으로 수백 명의 사상자가 발생했습니다.\n\n후티는 같은 날 사우디아라비아의 주요 시설들을 향해서도 공습을 감행했는데요.\n\n국제부 취재기자 연결합니다.\n\n송채은 기자.\n\n[기자]\n\n네 예멘의 후티 반군이 정부군을 향해 대규모 공격을 감행하면서 수백 명의 사상자가 발생했습니다.\n\n현지시간 19일 후티 반군은 예멘 남부 샤브와주의 정부군 군사기지에 탄도미사일을 발사했는데요.\n\n이 공격으로 최소 53명이 숨지고 200여 명이 다쳤다고 주 정부 당국이 밝혔습니다.\n\n지난 7월 후티 반군이 정부군을 상대로 전면 공세를 재개한 이후 최대 규모의 인명피해입니다.\n\n후티 반군은 같은 날 사우디아라비아를 겨냥한 공세도 퍼부었는데요.\n\n사우디가 예멘 수도 사나 등을 타격한 것에 대한 보복이라고 밝혔습니다.\n\n&lt;야히야 사리 / 후티 반군 대변인&gt; \"예멘군은 지난 48시간 동안 다수의 탄도 미사일과 순항 미사일, 드론을 동원해 6차례 대규모 군사 작전을 수행했습니다.\"\n\n거세지는 후티의 공세에 사우디의 대규모 국제행사도 전격 연기됐습니다.\n\n사우디는 이달 26일부터 나흘간 열릴 예정이던 국제 투자회의 '미래 투자 이니셔티브'를 내년으로 미뤘습니다.\n\n'사막의 다보스'로 불리는 이 행사는 세계 각국의 투자자와 기업인들이 모이는 사우디의 대표적인 투자 유치 행사인데요.\n\n주최 측은 행사의 규모와 품질을 유지하기 위한 불가피한 결정이라며 추후 새로운 일정을 발표하겠다고 밝혔습니다.\n\n[앵커]\n\n한편 폭력 사태가 벌어진 프랑스 일부 지역에 야간 통행금지령까지 내려졌다고요?\n\n[기자]\n\n네 프랑스에서 약탈과 폭력 사태가 잇따르자 정부가 통행금지라는 강수를 꺼내 들었습니다.\n\n현지시간 19일 세바스티앵 르코르뉘 총리는 시민의 안전과 재산 보호를 위해 각 지역에 통행금지 시행을 지시했는데요.\n\n이에 따라 파리 주요 광장과 상업지구에는 밤 11시부터 다음 날 새벽 6시까지 통행금지령이 내려졌습니다.\n\n북부 4개 도시에서도 야간 통행이 제한되고, 남부 마르세유에서는 낮 시간대 공공 집회도 금지됐습니다.\n\n르코르뉘 총리는 비상사태 선포 가능성까지 언급하며 강경 대응 의지를 드러냈습니다.\n\n&lt;세바스티앵 르코르뉘 / 프랑스 총리&gt; \"정부, 특히 대통령 권한 아래 총리가 가진 모든 수단을 동원할 것입니다. 필요하다면 당연히 비상사태를 선포할 수 있습니다.\"\n\n프랑스 시민들의 분노는 시위자들뿐 아니라 정부를 향해서도 쏟아지고 있는데요.\n\n폭동 당시 경찰 인력이 충분히 배치하지 않아 피해를 키웠다는 비판입니다.\n\n&lt;제라르 누쉬 / 프랑스 마르세유 의류매장 매니저&gt; \"국가경찰의 인력이 턱없이 부족한 상황에서 그야말로 진짜 토네이도 같은 일이 벌어졌습니다. 경찰 인력이 충분하지 않았습니다.\"\n\n이탈리아에서도 반정부 시위가 폭력 사태로 번졌습니다.\n\n현지시간 19일 밀라노 경찰은 시위 과정에서 미성년자 220명을 포함한 271명을 연행했다고 밝혔는데요.\n\n28명은 검찰에 송치된 것으로 전해졌습니다.\n\n유럽 곳곳이 잇따른 폭력 시위로 몸살을 앓는 가운데 프랑스에선 또다시 집회가 예고됐습니다.\n\n프랑스 '노란 조끼' 운동 측은 오는 24일 또 한 차례 시위를 예고했고, 주요 노동조합들도 다음 달 5일 파업과 시위에 나설 계획입니다.\n\n지금까지 국제부에서 전해드렸습니다.\n\n[영상편집 김미정]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n송채은(chaeun@yna.co.kr)",
-          "content:encodedSnippet": "[앵커]\n\n예멘 친이란 반군 후티의 정부군 기지 공격으로 수백 명의 사상자가 발생했습니다.\n\n후티는 같은 날 사우디아라비아의 주요 시설들을 향해서도 공습을 감행했는데요.\n\n국제부 취재기자 연결합니다.\n\n송채은 기자.\n\n[기자]\n\n네 예멘의 후티 반군이 정부군을 향해 대규모 공격을 감행하면서 수백 명의 사상자가 발생했습니다.\n\n현지시간 19일 후티 반군은 예멘 남부 샤브와주의 정부군 군사기지에 탄도미사일을 발사했는데요.\n\n이 공격으로 최소 53명이 숨지고 200여 명이 다쳤다고 주 정부 당국이 밝혔습니다.\n\n지난 7월 후티 반군이 정부군을 상대로 전면 공세를 재개한 이후 최대 규모의 인명피해입니다.\n\n후티 반군은 같은 날 사우디아라비아를 겨냥한 공세도 퍼부었는데요.\n\n사우디가 예멘 수도 사나 등을 타격한 것에 대한 보복이라고 밝혔습니다.\n\n<야히야 사리 / 후티 반군 대변인> \"예멘군은 지난 48시간 동안 다수의 탄도 미사일과 순항 미사일, 드론을 동원해 6차례 대규모 군사 작전을 수행했습니다.\"\n\n거세지는 후티의 공세에 사우디의 대규모 국제행사도 전격 연기됐습니다.\n\n사우디는 이달 26일부터 나흘간 열릴 예정이던 국제 투자회의 '미래 투자 이니셔티브'를 내년으로 미뤘습니다.\n\n'사막의 다보스'로 불리는 이 행사는 세계 각국의 투자자와 기업인들이 모이는 사우디의 대표적인 투자 유치 행사인데요.\n\n주최 측은 행사의 규모와 품질을 유지하기 위한 불가피한 결정이라며 추후 새로운 일정을 발표하겠다고 밝혔습니다.\n\n[앵커]\n\n한편 폭력 사태가 벌어진 프랑스 일부 지역에 야간 통행금지령까지 내려졌다고요?\n\n[기자]\n\n네 프랑스에서 약탈과 폭력 사태가 잇따르자 정부가 통행금지라는 강수를 꺼내 들었습니다.\n\n현지시간 19일 세바스티앵 르코르뉘 총리는 시민의 안전과 재산 보호를 위해 각 지역에 통행금지 시행을 지시했는데요.\n\n이에 따라 파리 주요 광장과 상업지구에는 밤 11시부터 다음 날 새벽 6시까지 통행금지령이 내려졌습니다.\n\n북부 4개 도시에서도 야간 통행이 제한되고, 남부 마르세유에서는 낮 시간대 공공 집회도 금지됐습니다.\n\n르코르뉘 총리는 비상사태 선포 가능성까지 언급하며 강경 대응 의지를 드러냈습니다.\n\n<세바스티앵 르코르뉘 / 프랑스 총리> \"정부, 특히 대통령 권한 아래 총리가 가진 모든 수단을 동원할 것입니다. 필요하다면 당연히 비상사태를 선포할 수 있습니다.\"\n\n프랑스 시민들의 분노는 시위자들뿐 아니라 정부를 향해서도 쏟아지고 있는데요.\n\n폭동 당시 경찰 인력이 충분히 배치하지 않아 피해를 키웠다는 비판입니다.\n\n<제라르 누쉬 / 프랑스 마르세유 의류매장 매니저> \"국가경찰의 인력이 턱없이 부족한 상황에서 그야말로 진짜 토네이도 같은 일이 벌어졌습니다. 경찰 인력이 충분하지 않았습니다.\"\n\n이탈리아에서도 반정부 시위가 폭력 사태로 번졌습니다.\n\n현지시간 19일 밀라노 경찰은 시위 과정에서 미성년자 220명을 포함한 271명을 연행했다고 밝혔는데요.\n\n28명은 검찰에 송치된 것으로 전해졌습니다.\n\n유럽 곳곳이 잇따른 폭력 시위로 몸살을 앓는 가운데 프랑스에선 또다시 집회가 예고됐습니다.\n\n프랑스 '노란 조끼' 운동 측은 오는 24일 또 한 차례 시위를 예고했고, 주요 노동조합들도 다음 달 5일 파업과 시위에 나설 계획입니다.\n\n지금까지 국제부에서 전해드렸습니다.\n\n[영상편집 김미정]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n송채은(chaeun@yna.co.kr)",
+          "creator": "김동욱",
+          "title": "SK하닉 단일레버리지, 5천원도 하회…고점 대비 10분의 1 수준",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261020171213uNX",
+          "pubDate": "Tue, 20 Oct 2026 17:12:14 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261020/AKR20261020171213uNX_01_i.jpg\" alt=\"\"><span class=\"yna_title\">단일종목 레버리지 ETF (PG)</span><span class=\"yna_caption\">[김선영 제작] 일러스트</span><span class=\"yna_description\">[김선영 제작] 일러스트</span></div>\nSK하이닉스 단일종목 레버리지가 오늘(20일) 5천원 선 아래로 일제히 하락했습니다.\n\n전 고점과 비교하면 거의 10분의 1 토막이 나면서 연일 신저가를 경신하고 있는 상황입니다.\n\n오늘(20일) 한국거래소와 코스콤 CHECK에 따르면 SK하이닉스 단일종목 레버리지 7종은 이날 전 거래일 대비 9%대 하락률을 기록하며 4천원대에서 거래를 마감했습니다.\n\nKODEX의 경우 9.38% 떨어진 4,880원, TIGER는 9.84% 밀린 4,125원으로 각각 집계됐습니다. 종가 기준 5천원을 밑돈 것은 이번이 처음입니다.\n\n삼성전자 단일종목 레버리지 7종은 전장보다 5∼6%가량 내린 7천원 선에서 장을 마쳤습니다.\n\n지난 5월 27일 2만원으로 상장한 단일종목 레버리지는 한때 SK하이닉스는 4만원, 삼성전자는 3만원을 넘기도 했으나 본주가 조정을 받으면서 가파른 하락세를 탔습니다.\n\n이달(1∼20일) 들어서만 KODEX SK하이닉스단일종목레버리지는 54.86%, TIGER SK단일종목레버리지는 55.16% 급락했습니다.\n\n같은 기간 삼성전자단일종목레버리지는 KODEX와 TIGER가 각각 39.98%, 40.49%씩 내렸습니다.\n\n대신증권 이경민 연구원은 \"인공지능(AI) 관련 투자심리가 여전히 제한되며 국내 증시에서도 반도체 업종은 부진을 지속하고 있다\"며 \"코어위브 신용 및 중국 반도체 우려가 잔존한 가운데 반도체주를 중심으로 하락했다\"고 분석했습니다.\n\n#레버리지 #ETF #삼성전자 #SK하이닉스\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김동욱(DK1@yna.co.kr)",
+          "content:encodedSnippet": "단일종목 레버리지 ETF (PG)[김선영 제작] 일러스트[김선영 제작] 일러스트\nSK하이닉스 단일종목 레버리지가 오늘(20일) 5천원 선 아래로 일제히 하락했습니다.\n\n전 고점과 비교하면 거의 10분의 1 토막이 나면서 연일 신저가를 경신하고 있는 상황입니다.\n\n오늘(20일) 한국거래소와 코스콤 CHECK에 따르면 SK하이닉스 단일종목 레버리지 7종은 이날 전 거래일 대비 9%대 하락률을 기록하며 4천원대에서 거래를 마감했습니다.\n\nKODEX의 경우 9.38% 떨어진 4,880원, TIGER는 9.84% 밀린 4,125원으로 각각 집계됐습니다. 종가 기준 5천원을 밑돈 것은 이번이 처음입니다.\n\n삼성전자 단일종목 레버리지 7종은 전장보다 5∼6%가량 내린 7천원 선에서 장을 마쳤습니다.\n\n지난 5월 27일 2만원으로 상장한 단일종목 레버리지는 한때 SK하이닉스는 4만원, 삼성전자는 3만원을 넘기도 했으나 본주가 조정을 받으면서 가파른 하락세를 탔습니다.\n\n이달(1∼20일) 들어서만 KODEX SK하이닉스단일종목레버리지는 54.86%, TIGER SK단일종목레버리지는 55.16% 급락했습니다.\n\n같은 기간 삼성전자단일종목레버리지는 KODEX와 TIGER가 각각 39.98%, 40.49%씩 내렸습니다.\n\n대신증권 이경민 연구원은 \"인공지능(AI) 관련 투자심리가 여전히 제한되며 국내 증시에서도 반도체 업종은 부진을 지속하고 있다\"며 \"코어위브 신용 및 중국 반도체 우려가 잔존한 가운데 반도체주를 중심으로 하락했다\"고 분석했습니다.\n\n#레버리지 #ETF #삼성전자 #SK하이닉스\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김동욱(DK1@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261019/MYH20261020084107F42.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261020/AKR20261020171213uNX_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "송채은",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261020084107F42#comments",
-          "content": "[앵커] 예멘 친이란 반군 후티의 정부군 기지 공격으로 수백 명의 사상자가 발생했습니다. 후티는 같은 날 사우디아라비아의 주요 시설들을 향해서도 공습을 감행했는데요. 국제부 취재기자 연결합니다. 송채은 기자. [기자] 네 예멘의 후티 반군이 정부군을 향해 대규모 공격을 감행하면서 수백 명의 사상자가 발생했습니다. 현지시간 19일 후티 반군은 예멘 남부 샤브와주의 정부군 군사기지에 탄도미사일을 발사했는데요. 이 공격으로 최소 53명이 숨지고...",
-          "contentSnippet": "[앵커] 예멘 친이란 반군 후티의 정부군 기지 공격으로 수백 명의 사상자가 발생했습니다. 후티는 같은 날 사우디아라비아의 주요 시설들을 향해서도 공습을 감행했는데요. 국제부 취재기자 연결합니다. 송채은 기자. [기자] 네 예멘의 후티 반군이 정부군을 향해 대규모 공격을 감행하면서 수백 명의 사상자가 발생했습니다. 현지시간 19일 후티 반군은 예멘 남부 샤브와주의 정부군 군사기지에 탄도미사일을 발사했는데요. 이 공격으로 최소 53명이 숨지고...",
-          "guid": "MYH20261020084107F42",
+          "dc:creator": "김동욱",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261020171213uNX#comments",
+          "content": "단일종목 레버리지 ETF (PG)[김선영 제작] 일러스트[김선영 제작] 일러스트 SK하이닉스 단일종목 레버리지가 오늘(20일) 5천원 선 아래로 일제히 하락했습니다. 전 고점과 비교하면 거의 10분의 1 토막이 나면서 연일 신저가를 경신하고 있는 상황입니다. 오늘(20일) 한국거래소와 코스콤 CHECK에 따르면 SK하이닉스 단일종목 레버리지 7종은 이날 전 거래일 대비 9%대 하락률을 기록하며 4천원대에서 거래를 마감했습니다. KODEX의...",
+          "contentSnippet": "단일종목 레버리지 ETF (PG)[김선영 제작] 일러스트[김선영 제작] 일러스트 SK하이닉스 단일종목 레버리지가 오늘(20일) 5천원 선 아래로 일제히 하락했습니다. 전 고점과 비교하면 거의 10분의 1 토막이 나면서 연일 신저가를 경신하고 있는 상황입니다. 오늘(20일) 한국거래소와 코스콤 CHECK에 따르면 SK하이닉스 단일종목 레버리지 7종은 이날 전 거래일 대비 9%대 하락률을 기록하며 4천원대에서 거래를 마감했습니다. KODEX의...",
+          "guid": "AKR20261020171213uNX",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-19T23:41:09.000Z"
+          "isoDate": "2026-10-20T08:12:14.000Z"
+        },
+        {
+          "creator": "최신애",
+          "title": "[속보] 법원, 23일 오세훈 여론조사 2심 생중계 결정",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261020170828Fo8",
+          "pubDate": "Tue, 20 Oct 2026 17:08:29 +0900",
+          "content:encoded": "서울고법이 오는 23일 오후 2시로 예정된 오세훈 서울시장의 정치자금법 위반 사건 선고 공판을 생중계하기로 했습니다.\n\n오 시장은 정치브로커 명태균 씨로부터 여론조사를 받고 비용을 대납시킨 혐의로 재판에 넘겨졌는데요.\n\n앞서 1심에서 당선무효형인 벌금 천만원이 선고된 바 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최신애(newbaby29@yna.co.kr)",
+          "content:encodedSnippet": "서울고법이 오는 23일 오후 2시로 예정된 오세훈 서울시장의 정치자금법 위반 사건 선고 공판을 생중계하기로 했습니다.\n\n오 시장은 정치브로커 명태균 씨로부터 여론조사를 받고 비용을 대납시킨 혐의로 재판에 넘겨졌는데요.\n\n앞서 1심에서 당선무효형인 벌금 천만원이 선고된 바 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최신애(newbaby29@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261020/MYH20261020170828Fo8.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "최신애",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261020170828Fo8#comments",
+          "content": "서울고법이 오는 23일 오후 2시로 예정된 오세훈 서울시장의 정치자금법 위반 사건 선고 공판을 생중계하기로 했습니다. 오 시장은 정치브로커 명태균 씨로부터 여론조사를 받고 비용을 대납시킨 혐의로 재판에 넘겨졌는데요. 앞서 1심에서 당선무효형인 벌금 천만원이 선고된 바 있습니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 최신애(newbaby29@yna.co.kr)",
+          "contentSnippet": "서울고법이 오는 23일 오후 2시로 예정된 오세훈 서울시장의 정치자금법 위반 사건 선고 공판을 생중계하기로 했습니다. 오 시장은 정치브로커 명태균 씨로부터 여론조사를 받고 비용을 대납시킨 혐의로 재판에 넘겨졌는데요. 앞서 1심에서 당선무효형인 벌금 천만원이 선고된 바 있습니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 최신애(newbaby29@yna.co.kr)",
+          "guid": "MYH20261020170828Fo8",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-20T08:08:29.000Z"
+        },
+        {
+          "creator": "최신애",
+          "title": "[초대석] ‘AI 수도·힐링 충남’ 양대 비전 제시",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261020170715rX0",
+          "pubDate": "Tue, 20 Oct 2026 17:07:17 +0900",
+          "content:encoded": "&lt;출연 : 박수현 충남도지사&gt;\n\n충남이 ‘AI 수도 충남’과 ‘힐링 충남’을 양대 축으로 미래 성장 기반을 마련하겠다는 계획을 발표했습니다.\n\n충남을 AI 수도이자 제2 수도권으로 도약시키고, 수도권 시민에게 쉼과 치유를 제공하겠다는 구상인데요.\n\n이 자리에 박수현 충남도지사를 모시고 직접 들어보겠습니다.\n\n&lt;질문 1&gt; 지사님께서는 ‘AI 수도 충남’을 강력하게 추진하고 계십니다. 사실 모든 지역이 AI를 두고 각축전을 벌이고 있다 보니 대중이 느끼기에 비슷해 보일 수도 있을 것 같은데요. 다른 지역과는 확실히 구별되는 충남의 전략이 있을까요?\n\n&lt;질문 2&gt; 민선9기 100일여가 지난 지금, ‘AI 수도 충남’과 함께, ‘힐링 충남’을 또 하나의 화두로 제시하셨는데요. 너도나도 ‘힐링 관광’을 외치는 시대입니다. 지사님께서 그리시는 ‘힐링 충남’이 다른 지역의 휴양지 마케팅과 확실하게 차별화되는 지점은 무엇일까요?\n\n&lt;질문 3&gt; 취임 후 행보를 보면 흥미로운 점이 있습니다. 전임 도정의 슬로건 간판과 시설물은 그대로 두셨더군요. 반면 기존 시·군 방문은 ‘충남통(通)행’으로, 지방의 국무회의인 ‘실국원장회의’도 이름과 운영 방식 개편을 예고했습니다. ‘유지와 혁신’을 동시에 선택하신 배경은 무엇이며, 이를 통해 도정과 공직사회를 어떻게 변화시키고 싶으십니까?\n\n&lt;질문 4&gt; 최근 전국 시도지사를 대표해 대통령 직속 인구전략위원회 위원으로 위촉되셨습니다. 인구소멸 위기가 심각한 지방의 목소리를 중앙정부에 전달할 수 있는 강력한 통로가 마련된 셈인데요, 향후 2년의 임기 동안 어디에 역점을 두고 인구정책 수립에 나설 계획 이신가요?\n\n&lt;질문 5&gt; 정부가 발표한 중앙행정기관의 세종 추가 이전을 두고, 지사님께서는 이 효과가 충청권 전역으로 확산되어야 한다고 강조하셨습니다. 광역 교통망 확충 등 4개 시·도의 공동 현안을 해결하기 위해 충청광역연합 연합장으로서 어떤 역할을 해나가실 생각입니까?\n\n&lt;질문 6&gt; 정부가 추진하는 미래대응기금 신설에 다른 시도지사들과의 공동 대응을 예고하셨습니다. 국가의 미래투자도 중요하지만, 지방이 무너지면 미래도 없다는 뜻으로 읽히는데요. 정부가 이 갈등을 해결하기 위해 받아들여야 할 가장 시급한 재정 보완책은 무엇이라고 보십니까?\n\n&lt;질문 7&gt; 취임 100일을 보내신 소회와 앞으로의 각오를 말씀해 주십시오. 임기를 마치는 2030년, 도민들께 어떤 도지사로 기억되고, 충남에는 어떤 변화를 남기고 싶으십니까?\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최신애(newbaby29@yna.co.kr)",
+          "content:encodedSnippet": "<출연 : 박수현 충남도지사>\n\n충남이 ‘AI 수도 충남’과 ‘힐링 충남’을 양대 축으로 미래 성장 기반을 마련하겠다는 계획을 발표했습니다.\n\n충남을 AI 수도이자 제2 수도권으로 도약시키고, 수도권 시민에게 쉼과 치유를 제공하겠다는 구상인데요.\n\n이 자리에 박수현 충남도지사를 모시고 직접 들어보겠습니다.\n\n<질문 1> 지사님께서는 ‘AI 수도 충남’을 강력하게 추진하고 계십니다. 사실 모든 지역이 AI를 두고 각축전을 벌이고 있다 보니 대중이 느끼기에 비슷해 보일 수도 있을 것 같은데요. 다른 지역과는 확실히 구별되는 충남의 전략이 있을까요?\n\n<질문 2> 민선9기 100일여가 지난 지금, ‘AI 수도 충남’과 함께, ‘힐링 충남’을 또 하나의 화두로 제시하셨는데요. 너도나도 ‘힐링 관광’을 외치는 시대입니다. 지사님께서 그리시는 ‘힐링 충남’이 다른 지역의 휴양지 마케팅과 확실하게 차별화되는 지점은 무엇일까요?\n\n<질문 3> 취임 후 행보를 보면 흥미로운 점이 있습니다. 전임 도정의 슬로건 간판과 시설물은 그대로 두셨더군요. 반면 기존 시·군 방문은 ‘충남통(通)행’으로, 지방의 국무회의인 ‘실국원장회의’도 이름과 운영 방식 개편을 예고했습니다. ‘유지와 혁신’을 동시에 선택하신 배경은 무엇이며, 이를 통해 도정과 공직사회를 어떻게 변화시키고 싶으십니까?\n\n<질문 4> 최근 전국 시도지사를 대표해 대통령 직속 인구전략위원회 위원으로 위촉되셨습니다. 인구소멸 위기가 심각한 지방의 목소리를 중앙정부에 전달할 수 있는 강력한 통로가 마련된 셈인데요, 향후 2년의 임기 동안 어디에 역점을 두고 인구정책 수립에 나설 계획 이신가요?\n\n<질문 5> 정부가 발표한 중앙행정기관의 세종 추가 이전을 두고, 지사님께서는 이 효과가 충청권 전역으로 확산되어야 한다고 강조하셨습니다. 광역 교통망 확충 등 4개 시·도의 공동 현안을 해결하기 위해 충청광역연합 연합장으로서 어떤 역할을 해나가실 생각입니까?\n\n<질문 6> 정부가 추진하는 미래대응기금 신설에 다른 시도지사들과의 공동 대응을 예고하셨습니다. 국가의 미래투자도 중요하지만, 지방이 무너지면 미래도 없다는 뜻으로 읽히는데요. 정부가 이 갈등을 해결하기 위해 받아들여야 할 가장 시급한 재정 보완책은 무엇이라고 보십니까?\n\n<질문 7> 취임 100일을 보내신 소회와 앞으로의 각오를 말씀해 주십시오. 임기를 마치는 2030년, 도민들께 어떤 도지사로 기억되고, 충남에는 어떤 변화를 남기고 싶으십니까?\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최신애(newbaby29@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261020/MYH20261020170715rX0.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "최신애",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261020170715rX0#comments",
+          "content": "&lt;출연 : 박수현 충남도지사&gt; 충남이 ‘AI 수도 충남’과 ‘힐링 충남’을 양대 축으로 미래 성장 기반을 마련하겠다는 계획을 발표했습니다. 충남을 AI 수도이자 제2 수도권으로 도약시키고, 수도권 시민에게 쉼과 치유를 제공하겠다는 구상인데요. 이 자리에 박수현 충남도지사를 모시고 직접 들어보겠습니다. &lt;질문 1&gt; 지사님께서는 ‘AI 수도 충남’을 강력하게 추진하고 계십니다. 사실 모든 지역이 AI를 두고 각축전을 벌이...",
+          "contentSnippet": "<출연 : 박수현 충남도지사> 충남이 ‘AI 수도 충남’과 ‘힐링 충남’을 양대 축으로 미래 성장 기반을 마련하겠다는 계획을 발표했습니다. 충남을 AI 수도이자 제2 수도권으로 도약시키고, 수도권 시민에게 쉼과 치유를 제공하겠다는 구상인데요. 이 자리에 박수현 충남도지사를 모시고 직접 들어보겠습니다. <질문 1> 지사님께서는 ‘AI 수도 충남’을 강력하게 추진하고 계십니다. 사실 모든 지역이 AI를 두고 각축전을 벌이...",
+          "guid": "MYH20261020170715rX0",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-20T08:07:17.000Z"
+        },
+        {
+          "creator": "박준혁",
+          "title": "정부, 우크라 공관원 일부 철수 결정…\"전향적조치 없다고 판단\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261020170559v9Y",
+          "pubDate": "Tue, 20 Oct 2026 17:06:00 +0900",
+          "content:encoded": "[앵커]\n\n정부가 우크라이나 공관원 일부 철수를 결정했습니다.\n\n주우크라이나 대사 소환에 이은 추가 항의 조치인데요.\n\n외교부는 북한군 포로 송환 공개 논란에 대해 우크라이나의 전향적 조치가 여전히 없었다고 말했습니다.\n\n박준혁 기자입니다.\n\n[기자]\n\n정부가 북한군 포로 송환 공개 논란과 관련해 우크라이나에 대한 항의로 주우크라이나 대사를 소환한 데 이어 공관원 추가 철수에 나선다고 밝혔습니다.\n\n박두순 외교부 대변인은 오늘(20일) 오후 정례브리핑에서 \"정부는 주우크라이나 대사 소환 조치 이후에도 우크라이나 측의 전향적 조치가 없는 상황\"이라며 \"우크라이나 전역에 걸친 공습 위협이 상존해 안전 확보가 어려운 점 등을 고려, 공관원 일부 철수를 결정했다\"고 말했습니다.\n\n앞서 정부는 북한군 포로의 한국 송환 사실을 일방적으로 공개한 우크라이나에 공식 해명과 사과를 요구해 왔으나 뚜렷한 태도 변화가 없자, 지난 8일 박기창 주우크라이나 대사를 한국으로 소환하기로 결정한 바 있습니다.\n\n소환 이후 열흘의 시간이 흘렀지만, 우크라이나에서 공식 해명과 사과의 뜻을 밝히지 않자, 외교 대응 수위를 높인 것입니다.\n\n박 대변인은 공관원 철수가 외교적 항의의 의미냐는 질문에 \"우리 정부의 입장을 이미 다양한 방식을 통해서 우크라이나 측에 전달했고, 그런 여러 가지 상황 속에서도 전향적 조치가 없다고 판단해서 이런 조치를 마련하게 됐다\"고 답했습니다.\n\n다만 \"철수 시에도 대사대리를 중심으로 양국 간 필요한 외교 소통은 지속할 예정\"이라고 말했습니다.\n\n우크라이나에 남아 있는 우리 교민들의 안전 문제에 대해선 \"영사 업무 인력은 전원 잔류해 계속해서 재외국민 보호에 만전을 기할 것\"이라고 덧붙였습니다.\n\n연합뉴스TV 박준혁입니다.\n\n[영상편집 윤현정]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박준혁(baktoyou@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n정부가 우크라이나 공관원 일부 철수를 결정했습니다.\n\n주우크라이나 대사 소환에 이은 추가 항의 조치인데요.\n\n외교부는 북한군 포로 송환 공개 논란에 대해 우크라이나의 전향적 조치가 여전히 없었다고 말했습니다.\n\n박준혁 기자입니다.\n\n[기자]\n\n정부가 북한군 포로 송환 공개 논란과 관련해 우크라이나에 대한 항의로 주우크라이나 대사를 소환한 데 이어 공관원 추가 철수에 나선다고 밝혔습니다.\n\n박두순 외교부 대변인은 오늘(20일) 오후 정례브리핑에서 \"정부는 주우크라이나 대사 소환 조치 이후에도 우크라이나 측의 전향적 조치가 없는 상황\"이라며 \"우크라이나 전역에 걸친 공습 위협이 상존해 안전 확보가 어려운 점 등을 고려, 공관원 일부 철수를 결정했다\"고 말했습니다.\n\n앞서 정부는 북한군 포로의 한국 송환 사실을 일방적으로 공개한 우크라이나에 공식 해명과 사과를 요구해 왔으나 뚜렷한 태도 변화가 없자, 지난 8일 박기창 주우크라이나 대사를 한국으로 소환하기로 결정한 바 있습니다.\n\n소환 이후 열흘의 시간이 흘렀지만, 우크라이나에서 공식 해명과 사과의 뜻을 밝히지 않자, 외교 대응 수위를 높인 것입니다.\n\n박 대변인은 공관원 철수가 외교적 항의의 의미냐는 질문에 \"우리 정부의 입장을 이미 다양한 방식을 통해서 우크라이나 측에 전달했고, 그런 여러 가지 상황 속에서도 전향적 조치가 없다고 판단해서 이런 조치를 마련하게 됐다\"고 답했습니다.\n\n다만 \"철수 시에도 대사대리를 중심으로 양국 간 필요한 외교 소통은 지속할 예정\"이라고 말했습니다.\n\n우크라이나에 남아 있는 우리 교민들의 안전 문제에 대해선 \"영사 업무 인력은 전원 잔류해 계속해서 재외국민 보호에 만전을 기할 것\"이라고 덧붙였습니다.\n\n연합뉴스TV 박준혁입니다.\n\n[영상편집 윤현정]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박준혁(baktoyou@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261020/MYH20261020170559v9Y.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "박준혁",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261020170559v9Y#comments",
+          "content": "[앵커] 정부가 우크라이나 공관원 일부 철수를 결정했습니다. 주우크라이나 대사 소환에 이은 추가 항의 조치인데요. 외교부는 북한군 포로 송환 공개 논란에 대해 우크라이나의 전향적 조치가 여전히 없었다고 말했습니다. 박준혁 기자입니다. [기자] 정부가 북한군 포로 송환 공개 논란과 관련해 우크라이나에 대한 항의로 주우크라이나 대사를 소환한 데 이어 공관원 추가 철수에 나선다고 밝혔습니다. 박두순 외교부 대변인은 오늘(20일) 오후 정례브리핑...",
+          "contentSnippet": "[앵커] 정부가 우크라이나 공관원 일부 철수를 결정했습니다. 주우크라이나 대사 소환에 이은 추가 항의 조치인데요. 외교부는 북한군 포로 송환 공개 논란에 대해 우크라이나의 전향적 조치가 여전히 없었다고 말했습니다. 박준혁 기자입니다. [기자] 정부가 북한군 포로 송환 공개 논란과 관련해 우크라이나에 대한 항의로 주우크라이나 대사를 소환한 데 이어 공관원 추가 철수에 나선다고 밝혔습니다. 박두순 외교부 대변인은 오늘(20일) 오후 정례브리핑...",
+          "guid": "MYH20261020170559v9Y",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-20T08:06:00.000Z"
+        },
+        {
+          "creator": "정지훈",
+          "title": "여야, 대구 공소청 국감서 '검사 수사권 복원' 두고 공방",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261020170215ppi",
+          "pubDate": "Tue, 20 Oct 2026 17:02:18 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261020/AKR20261020170215ppi_01_i.jpg\" alt=\"\"><span class=\"yna_title\">법사위 대구광역공소청 등 국정감사</span><span class=\"yna_caption\">[사진=연합뉴스 제공]</span><span class=\"yna_description\">[사진=연합뉴스 제공]</span></div>\n대구에서 열린 국회 법제사법위원회의 공소청 국정감사에서 여야가 검사 수사권 폐지와 복원 문제를 놓고 충돌했습니다.\n\n법사위는 오늘(20일) 대구광역공소청에서 대구·부산광역공소청과 대구·부산·울산·창원지방공소청에 대한 국정감사를 진행했습니다.\n\n국민의힘 김태규 의원은 \"검수원복(검찰 수사권 원상복구)이 맞다고 생각한다\"며 \"우리 당이 집권하기만 기다려 달라\"고 수사권 복원을 주장했습니다.\n\n김 의원은 경찰이 불송치한 대구 전세사기 사건을 검찰이 직접 보완수사해 임차인 약 30명의 피해액 38억원 상당을 확인한 사례와 울산의 보조금 2억원 부정 수급 사건 등을 거론하며 보완수사권의 필요성을 강조했습니다.\n\n더불어민주당 김용민 의원은 \"검사의 수사권 부활은 없다\"며 \"이미 만들어진 제도를 안착시키고 국민에게 피해가 발생하지 않도록 하는 데 집중해야 한다\"고 반박했습니다.\n\n그러면서 \"공소청 직원들도 검사의 수사권이 부활하고 다시 검찰로 돌아갈 것이라는 기대를 갖고 준비해서는 안 된다\"고 말했습니다.\n\n이에 대해 국민의힘 박형수 의원은 \"수사권을 누구에게 줄 것인지는 정책적인 사안이고 정책은 언제든 변할 수 있다\"고 맞받았습니다.\n\n이어 \"수사권과 보완수사권의 필요성을 국민이 느낄 수 있도록 업무를 해달라는 취지\"라고 설명했습니다.\n\n이준범 울산지방공소청장은 입법적으로 결정된 사안이라며 현행 체계에서 국민의 권리를 보호할 방법을 찾겠다고 답했습니다.\n\n\n#공소청 #검사_수사권폐지_복원 #공방 #국정감사_법사위\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정지훈(daegurain@yna.co.kr)",
+          "content:encodedSnippet": "법사위 대구광역공소청 등 국정감사[사진=연합뉴스 제공][사진=연합뉴스 제공]\n대구에서 열린 국회 법제사법위원회의 공소청 국정감사에서 여야가 검사 수사권 폐지와 복원 문제를 놓고 충돌했습니다.\n\n법사위는 오늘(20일) 대구광역공소청에서 대구·부산광역공소청과 대구·부산·울산·창원지방공소청에 대한 국정감사를 진행했습니다.\n\n국민의힘 김태규 의원은 \"검수원복(검찰 수사권 원상복구)이 맞다고 생각한다\"며 \"우리 당이 집권하기만 기다려 달라\"고 수사권 복원을 주장했습니다.\n\n김 의원은 경찰이 불송치한 대구 전세사기 사건을 검찰이 직접 보완수사해 임차인 약 30명의 피해액 38억원 상당을 확인한 사례와 울산의 보조금 2억원 부정 수급 사건 등을 거론하며 보완수사권의 필요성을 강조했습니다.\n\n더불어민주당 김용민 의원은 \"검사의 수사권 부활은 없다\"며 \"이미 만들어진 제도를 안착시키고 국민에게 피해가 발생하지 않도록 하는 데 집중해야 한다\"고 반박했습니다.\n\n그러면서 \"공소청 직원들도 검사의 수사권이 부활하고 다시 검찰로 돌아갈 것이라는 기대를 갖고 준비해서는 안 된다\"고 말했습니다.\n\n이에 대해 국민의힘 박형수 의원은 \"수사권을 누구에게 줄 것인지는 정책적인 사안이고 정책은 언제든 변할 수 있다\"고 맞받았습니다.\n\n이어 \"수사권과 보완수사권의 필요성을 국민이 느낄 수 있도록 업무를 해달라는 취지\"라고 설명했습니다.\n\n이준범 울산지방공소청장은 입법적으로 결정된 사안이라며 현행 체계에서 국민의 권리를 보호할 방법을 찾겠다고 답했습니다.\n\n\n#공소청 #검사_수사권폐지_복원 #공방 #국정감사_법사위\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정지훈(daegurain@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261020/AKR20261020170215ppi_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "정지훈",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261020170215ppi#comments",
+          "content": "법사위 대구광역공소청 등 국정감사[사진=연합뉴스 제공][사진=연합뉴스 제공] 대구에서 열린 국회 법제사법위원회의 공소청 국정감사에서 여야가 검사 수사권 폐지와 복원 문제를 놓고 충돌했습니다. 법사위는 오늘(20일) 대구광역공소청에서 대구·부산광역공소청과 대구·부산·울산·창원지방공소청에 대한 국정감사를 진행했습니다. 국민의힘 김태규 의원은 \"검수원복(검찰 수사권 원상복구)이 맞다고 생각한다\"며 \"우리 당이 집권하기만 기다려 달라\"고 수사권 ...",
+          "contentSnippet": "법사위 대구광역공소청 등 국정감사[사진=연합뉴스 제공][사진=연합뉴스 제공] 대구에서 열린 국회 법제사법위원회의 공소청 국정감사에서 여야가 검사 수사권 폐지와 복원 문제를 놓고 충돌했습니다. 법사위는 오늘(20일) 대구광역공소청에서 대구·부산광역공소청과 대구·부산·울산·창원지방공소청에 대한 국정감사를 진행했습니다. 국민의힘 김태규 의원은 \"검수원복(검찰 수사권 원상복구)이 맞다고 생각한다\"며 \"우리 당이 집권하기만 기다려 달라\"고 수사권 ...",
+          "guid": "AKR20261020170215ppi",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-20T08:02:18.000Z"
+        },
+        {
+          "creator": "이지현",
+          "title": "경제6단체 \"초광역특구법 환영…노동특례 빠진 법안은 유감\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261020165313xcn",
+          "pubDate": "Tue, 20 Oct 2026 16:53:14 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261020/AKR20261020165313xcn_01_i.jpg\" alt=\"\"><span class=\"yna_title\">한국경영자총협회</span><span class=\"yna_caption\"></span><span class=\"yna_description\"></span></div>\n경제6단체가 초광역특구법 발의를 환영하면서, 노동특례가 포함된 법안의 신속한 국회 처리를 촉구했습니다.\n\n경제6단체는 오늘(20일) 공동 입장문을 내고 법안 취지에 맞춰 지역에 대한 기업의 투자와 고용을 늘리도록 노력하겠다고 밝혔습니다.\n\n다만 노동특례를 제외한 법안이 함께 발표된 데 대해서는 입법 목적 달성을 어렵게 할 수 있다며 강한 유감을 표했습니다.\n\n장시간 근로가 일상화되거나 임금이 낮아질 수 있다는 노동계 우려에 대해서는 노사 협의를 통해 합당한 보상체계를 마련하겠다고 밝혔습니다.\n\n#경제6단체 #초광역특구법 #노동특례 #메가프로젝트\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이지현(ji@yna.co.kr)",
+          "content:encodedSnippet": "한국경영자총협회\n경제6단체가 초광역특구법 발의를 환영하면서, 노동특례가 포함된 법안의 신속한 국회 처리를 촉구했습니다.\n\n경제6단체는 오늘(20일) 공동 입장문을 내고 법안 취지에 맞춰 지역에 대한 기업의 투자와 고용을 늘리도록 노력하겠다고 밝혔습니다.\n\n다만 노동특례를 제외한 법안이 함께 발표된 데 대해서는 입법 목적 달성을 어렵게 할 수 있다며 강한 유감을 표했습니다.\n\n장시간 근로가 일상화되거나 임금이 낮아질 수 있다는 노동계 우려에 대해서는 노사 협의를 통해 합당한 보상체계를 마련하겠다고 밝혔습니다.\n\n#경제6단체 #초광역특구법 #노동특례 #메가프로젝트\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이지현(ji@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261020/AKR20261020165313xcn_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "이지현",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261020165313xcn#comments",
+          "content": "한국경영자총협회 경제6단체가 초광역특구법 발의를 환영하면서, 노동특례가 포함된 법안의 신속한 국회 처리를 촉구했습니다. 경제6단체는 오늘(20일) 공동 입장문을 내고 법안 취지에 맞춰 지역에 대한 기업의 투자와 고용을 늘리도록 노력하겠다고 밝혔습니다. 다만 노동특례를 제외한 법안이 함께 발표된 데 대해서는 입법 목적 달성을 어렵게 할 수 있다며 강한 유감을 표했습니다. 장시간 근로가 일상화되거나 임금이 낮아질 수 있다는 노동계 우려에 대해...",
+          "contentSnippet": "한국경영자총협회 경제6단체가 초광역특구법 발의를 환영하면서, 노동특례가 포함된 법안의 신속한 국회 처리를 촉구했습니다. 경제6단체는 오늘(20일) 공동 입장문을 내고 법안 취지에 맞춰 지역에 대한 기업의 투자와 고용을 늘리도록 노력하겠다고 밝혔습니다. 다만 노동특례를 제외한 법안이 함께 발표된 데 대해서는 입법 목적 달성을 어렵게 할 수 있다며 강한 유감을 표했습니다. 장시간 근로가 일상화되거나 임금이 낮아질 수 있다는 노동계 우려에 대해...",
+          "guid": "AKR20261020165313xcn",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-20T07:53:14.000Z"
+        },
+        {
+          "creator": "정호진",
+          "title": "與 '언행 신중' 공문…野 \"갑질 퍼레이드\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261020165011jSR",
+          "pubDate": "Tue, 20 Oct 2026 16:50:14 +0900",
+          "content:encoded": "[앵커]\n\n이번엔 국회로 넘어가 보겠습니다.\n\n더불어민주당은 당내 인사들의 실언에 공문까지 전달하며 주의를 당부했는데요.\n\n국민의힘은 \"갑질 퍼레이드\"라며 맹공을 퍼부었습니다.\n\n국회 취재기자 연결해 자세한 내용 알아보겠습니다.\n\n정호진 기자!\n\n[기자]\n\n네, 국회입니다.\n\n더불어민주당은 최근 당내 인사들을 둘러싼 계속된 논란에 당 투톱이 나서 거듭 고개를 숙였습니다.\n\n민주당은 이와 함께 당내 선출직 공직자를 대상으로 '언행에 주의하라'는 내용의 공문도 발송한 것으로 확인됐는데요.\n\n김민석 대표는 오늘(20일) 아침 당 공식 유튜브에 출연해 \"다시 한번 죄송하다\"고 사과하는 한편, 최근 본인을 둘러싼 과잉 의전 논란도 의식한 듯 \"저를 포함해 모두가 말과 행동을 무겁게 하는 것이 좋겠다\"고 말했습니다.\n\n&lt;김민석 / 더불어민주당 대표 (유튜브 민주당티비)&gt; \"저를 포함해서 모두가 여러 가지 어려운 일들이 많이 생기고 있기 때문에 이럴 때일수록 조금 더 말과 행동을 무겁게 하는 것이 좋겠다…\"\n\n한병도 원내대표도 \"큰 책임감을 느낀다\"며 자세를 낮췄고, 국정감사 도중 '소방이 재정을 쭉쭉 빨아먹는다'고 말해 당 윤리감찰단 조사를 받게 된 부승찬 의원도 \"깊이 반성한다\"며 사과했습니다.\n\n반면 국민의힘은 \"안하무인 특권 의식이 끝없이 폭주하고 있다\", \"갑질 퍼레이드\"라며 징계를 촉구하는 등 맹공을 퍼부었습니다.\n\n정점식 원내대표는 추미애 경기도지사와 김민석 대표를 '추·석 남매'라 칭하며 \"모두 무례하긴 마찬가지\"라며, 김민석 대표를 정조준했는데요.\n\n&lt;정점식 / 국민의힘 원내대표&gt; \"추석 남매가 함께 삼보일배를 하면서 용서를 구해도 모자랄 판에, 김민석 대표가 추미애 지사의 사과를 일방적으로 요구한 것입니다. 한편의 부조리극이 따로 없습니다.\"\n\n김미애 정책수석도 \"부적절한 발언을 지적하자 반성은 고사하고 뭐가 잘못이냐는 듯 오히려 고성을 질렀다\"며 \"오만함이 도를 넘었다\"고 비판했습니다.\n\n[앵커]\n\n정 기자, 외교·안보 현안을 둘러싼 여야 공방도 이어가고 있죠?\n\n[기자]\n\n네, 국민의힘은 정부의 외교·안보 이슈를 두고 연일 십자포화를 퍼붓고 있습니다.\n\n특히 이재명 대통령이 어제 밝힌 '북핵은 최후 방어 무기'라는 발언을 정조준했는데요.\n\n장동혁 대표는 \"이 대통령, 불법 송금 영수증이 두려우냐\"며 공세 수위를 끌어올렸고요.\n\n박충권 수석대변인도 \"김정은이 아니라 대한민국 대통령 입에서 나온 말\"이라며 \"안보가 아니라 공상이자 현실 도피\"라고 날을 세웠습니다.\n\n대통령의 '전시작전통제권 조기 환수' 발언을 두고도 여야 설전이 오갔습니다.\n\n민주당 김병주 의원은 라디오에서 \"대통령의 기본 생각이시고 또 우리 이재명 정부의 방침\"이라며 \"국방부도 조기에 전작권을 전환하기 위해 여러 가지 노력을 하고 있다\"며 이 대통령을 옹호했는데요.\n\n반면 국민의힘 성일종 의원은 \"자주국방이라는 정치적 용어로 국민에게 큰 피해를 준다면 재고해야 할 문제\"라고 맞섰습니다.\n\n한편 여야는 김여정 북한 노동당 총무부장의 '대남확성기 방송 재개' 담화에 대해선 \"적반하장\"이라며 한목소리로 비판했습니다.\n\n[앵커]\n\n민주당은 오늘 메가프로젝트 지원을 위한 초광역특구법을 발의하겠다고도 밝혔죠?\n\n[기자]\n\n네, 민주당은 각 지역의 전략 산업 육성을 지원하는 '초광역특구법'을 발의하겠다고 밝혔습니다.\n\n과거 '메가특구법'으로 불렸던 이 법안은 김민석 대표가 이번 정기국회의 최우선 과제로 거론하기도 했는데요.\n\n다만 민주당은 주요 쟁점인 고소득 전문직과 연구개발 인력에 대한 주 52시간제 적용 제외 등 노동시간 특례를 놓고 당내 이견이 있는 점을 고려해 '특례 포함 안'과 '미포함 안' 두 가지 법안을 동시에 제출하기로 했습니다.\n\n한병도 원내대표는 법안 처리 시점은 정해두지 않고, 충분한 토론과 숙의를 거쳐 사회적 합의를 끌어내겠다고 밝혔습니다.\n\n직접 들어보시죠.\n\n&lt;한병도 / 더불어민주당 원내대표&gt; \"사회적 합의를 도출해 내는 데에 모든 노력을 기울이겠습니다. 현장에서 실효성 있게 작동할 법을 제대로 만들겠다는 말씀을 분명히 드립니다.\"\n\n그러면서 \"여러 부처와 상임위에 걸친 과제를 함께 풀어야 하는 만큼 국회 특위 설치를 적극 검토하겠다\"고도 말했는데요.\n\n반면 국민의힘은 \"이번 기회에 주 52시간제가 풀어져야 한다\"면서도 \"정치적 활용은 안된다\"며 공세를 이어갔습니다.\n\n&lt;최수진 / 국민의힘 원내수석대변인&gt; \"민주당이 이렇게 밀어붙이는 이유는 뭘까. 지지율이 아마 하락해서 지지율을 어떻게든 끌어올리려는…\"\n\n한편 조국혁신당은 \"특례가 기술혁신을 낳는지, 장시간 노동과 인력 소진을 낳는지부터 객관적으로 따져야 한다\"며 주 52시간 특례를 빼야 한다고 반발했습니다.\n\n지금까지 국회에서 연합뉴스TV 정호진입니다.\n\n[현장연결 박성현]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정호진(hojeans@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n이번엔 국회로 넘어가 보겠습니다.\n\n더불어민주당은 당내 인사들의 실언에 공문까지 전달하며 주의를 당부했는데요.\n\n국민의힘은 \"갑질 퍼레이드\"라며 맹공을 퍼부었습니다.\n\n국회 취재기자 연결해 자세한 내용 알아보겠습니다.\n\n정호진 기자!\n\n[기자]\n\n네, 국회입니다.\n\n더불어민주당은 최근 당내 인사들을 둘러싼 계속된 논란에 당 투톱이 나서 거듭 고개를 숙였습니다.\n\n민주당은 이와 함께 당내 선출직 공직자를 대상으로 '언행에 주의하라'는 내용의 공문도 발송한 것으로 확인됐는데요.\n\n김민석 대표는 오늘(20일) 아침 당 공식 유튜브에 출연해 \"다시 한번 죄송하다\"고 사과하는 한편, 최근 본인을 둘러싼 과잉 의전 논란도 의식한 듯 \"저를 포함해 모두가 말과 행동을 무겁게 하는 것이 좋겠다\"고 말했습니다.\n\n<김민석 / 더불어민주당 대표 (유튜브 민주당티비)> \"저를 포함해서 모두가 여러 가지 어려운 일들이 많이 생기고 있기 때문에 이럴 때일수록 조금 더 말과 행동을 무겁게 하는 것이 좋겠다…\"\n\n한병도 원내대표도 \"큰 책임감을 느낀다\"며 자세를 낮췄고, 국정감사 도중 '소방이 재정을 쭉쭉 빨아먹는다'고 말해 당 윤리감찰단 조사를 받게 된 부승찬 의원도 \"깊이 반성한다\"며 사과했습니다.\n\n반면 국민의힘은 \"안하무인 특권 의식이 끝없이 폭주하고 있다\", \"갑질 퍼레이드\"라며 징계를 촉구하는 등 맹공을 퍼부었습니다.\n\n정점식 원내대표는 추미애 경기도지사와 김민석 대표를 '추·석 남매'라 칭하며 \"모두 무례하긴 마찬가지\"라며, 김민석 대표를 정조준했는데요.\n\n<정점식 / 국민의힘 원내대표> \"추석 남매가 함께 삼보일배를 하면서 용서를 구해도 모자랄 판에, 김민석 대표가 추미애 지사의 사과를 일방적으로 요구한 것입니다. 한편의 부조리극이 따로 없습니다.\"\n\n김미애 정책수석도 \"부적절한 발언을 지적하자 반성은 고사하고 뭐가 잘못이냐는 듯 오히려 고성을 질렀다\"며 \"오만함이 도를 넘었다\"고 비판했습니다.\n\n[앵커]\n\n정 기자, 외교·안보 현안을 둘러싼 여야 공방도 이어가고 있죠?\n\n[기자]\n\n네, 국민의힘은 정부의 외교·안보 이슈를 두고 연일 십자포화를 퍼붓고 있습니다.\n\n특히 이재명 대통령이 어제 밝힌 '북핵은 최후 방어 무기'라는 발언을 정조준했는데요.\n\n장동혁 대표는 \"이 대통령, 불법 송금 영수증이 두려우냐\"며 공세 수위를 끌어올렸고요.\n\n박충권 수석대변인도 \"김정은이 아니라 대한민국 대통령 입에서 나온 말\"이라며 \"안보가 아니라 공상이자 현실 도피\"라고 날을 세웠습니다.\n\n대통령의 '전시작전통제권 조기 환수' 발언을 두고도 여야 설전이 오갔습니다.\n\n민주당 김병주 의원은 라디오에서 \"대통령의 기본 생각이시고 또 우리 이재명 정부의 방침\"이라며 \"국방부도 조기에 전작권을 전환하기 위해 여러 가지 노력을 하고 있다\"며 이 대통령을 옹호했는데요.\n\n반면 국민의힘 성일종 의원은 \"자주국방이라는 정치적 용어로 국민에게 큰 피해를 준다면 재고해야 할 문제\"라고 맞섰습니다.\n\n한편 여야는 김여정 북한 노동당 총무부장의 '대남확성기 방송 재개' 담화에 대해선 \"적반하장\"이라며 한목소리로 비판했습니다.\n\n[앵커]\n\n민주당은 오늘 메가프로젝트 지원을 위한 초광역특구법을 발의하겠다고도 밝혔죠?\n\n[기자]\n\n네, 민주당은 각 지역의 전략 산업 육성을 지원하는 '초광역특구법'을 발의하겠다고 밝혔습니다.\n\n과거 '메가특구법'으로 불렸던 이 법안은 김민석 대표가 이번 정기국회의 최우선 과제로 거론하기도 했는데요.\n\n다만 민주당은 주요 쟁점인 고소득 전문직과 연구개발 인력에 대한 주 52시간제 적용 제외 등 노동시간 특례를 놓고 당내 이견이 있는 점을 고려해 '특례 포함 안'과 '미포함 안' 두 가지 법안을 동시에 제출하기로 했습니다.\n\n한병도 원내대표는 법안 처리 시점은 정해두지 않고, 충분한 토론과 숙의를 거쳐 사회적 합의를 끌어내겠다고 밝혔습니다.\n\n직접 들어보시죠.\n\n<한병도 / 더불어민주당 원내대표> \"사회적 합의를 도출해 내는 데에 모든 노력을 기울이겠습니다. 현장에서 실효성 있게 작동할 법을 제대로 만들겠다는 말씀을 분명히 드립니다.\"\n\n그러면서 \"여러 부처와 상임위에 걸친 과제를 함께 풀어야 하는 만큼 국회 특위 설치를 적극 검토하겠다\"고도 말했는데요.\n\n반면 국민의힘은 \"이번 기회에 주 52시간제가 풀어져야 한다\"면서도 \"정치적 활용은 안된다\"며 공세를 이어갔습니다.\n\n<최수진 / 국민의힘 원내수석대변인> \"민주당이 이렇게 밀어붙이는 이유는 뭘까. 지지율이 아마 하락해서 지지율을 어떻게든 끌어올리려는…\"\n\n한편 조국혁신당은 \"특례가 기술혁신을 낳는지, 장시간 노동과 인력 소진을 낳는지부터 객관적으로 따져야 한다\"며 주 52시간 특례를 빼야 한다고 반발했습니다.\n\n지금까지 국회에서 연합뉴스TV 정호진입니다.\n\n[현장연결 박성현]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정호진(hojeans@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261020/MYH20261020165011jSR.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "정호진",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261020165011jSR#comments",
+          "content": "[앵커] 이번엔 국회로 넘어가 보겠습니다. 더불어민주당은 당내 인사들의 실언에 공문까지 전달하며 주의를 당부했는데요. 국민의힘은 \"갑질 퍼레이드\"라며 맹공을 퍼부었습니다. 국회 취재기자 연결해 자세한 내용 알아보겠습니다. 정호진 기자! [기자] 네, 국회입니다. 더불어민주당은 최근 당내 인사들을 둘러싼 계속된 논란에 당 투톱이 나서 거듭 고개를 숙였습니다. 민주당은 이와 함께 당내 선출직 공직자를 대상으로 '언행에 주의하라'는 내용의 공문...",
+          "contentSnippet": "[앵커] 이번엔 국회로 넘어가 보겠습니다. 더불어민주당은 당내 인사들의 실언에 공문까지 전달하며 주의를 당부했는데요. 국민의힘은 \"갑질 퍼레이드\"라며 맹공을 퍼부었습니다. 국회 취재기자 연결해 자세한 내용 알아보겠습니다. 정호진 기자! [기자] 네, 국회입니다. 더불어민주당은 최근 당내 인사들을 둘러싼 계속된 논란에 당 투톱이 나서 거듭 고개를 숙였습니다. 민주당은 이와 함께 당내 선출직 공직자를 대상으로 '언행에 주의하라'는 내용의 공문...",
+          "guid": "MYH20261020165011jSR",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-20T07:50:14.000Z"
+        },
+        {
+          "creator": "오주현",
+          "title": "\"AI시대, 중기 경쟁력 키우자\"…'중소기업 리더스포럼' 개막",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261020164704DxA",
+          "pubDate": "Tue, 20 Oct 2026 16:47:07 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261020/AKR20261020164704DxA_01_i.jpg\" alt=\"\"><span class=\"yna_title\">중소기업중앙회, '리더스포럼' 개막</span><span class=\"yna_caption\">중소기업중앙회, '리더스포럼' 개막\n(제주=연합뉴스) 20일 롯데호텔 제주에서 열린 '2026 중소기업 리더스포럼' 개막식에서 참석자들이 기념 촬영하고 있다. 2026.10.20 [중소기업중앙회 제공. 재판매 및 DB 금지]\nphoto@yna.co.kr\n(끝)\n\n<저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지></span><span class=\"yna_description\">중소기업중앙회, '리더스포럼' 개막\n(제주=연합뉴스) 20일 롯데호텔 제주에서 열린 '2026 중소기업 리더스포럼' 개막식에서 참석자들이 기념 촬영하고 있다. 2026.10.20 [중소기업중앙회 제공. 재판매 및 DB 금지]\nphoto@yna.co.kr\n(끝)\n\n<저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지></span></div>\n중소기업중앙회는 오늘(20일) 롯데호텔 제주에서 '2026 중소기업 리더스포럼' 개막식을 개최했습니다.\n\n올해로 19회째를 맞은 이번 행사에는 전국 업종·지역별 중소기업인 400여 명이 한자리에 모여, 오는 23일까지 '중소기업과 함께, 인공지능(AI) 3대 강국으로'를 주제로 중소기업의 혁신과 성장전략을 설계합니다.\n\n개막식에서는 조정식 국회의장과 한성숙 국무총리가 영상으로 축사했고, 김홍신 소설가가 '겪어보면 안다, 그냥 살자'라는 제목으로 강연을 진행했습니다.\n\n김기문 중기중앙회장은 개회사에서 \"대·중소기업의 AI 격차가 양극화를 가속할 것으로 우려하는 목소리가 크고 중소기업들도 AI의 필요성을 갖고 단계적으로 시작해 나가야 할 때\"라며 \"AI 3대 강국으로 진입하지 못하면 퇴보할 수밖에 없는 굉장히 중요한 시기이기에 우리가 모두 힘을 합쳐 잘 준비해야 한다\"고 말했습니다.\n\n포럼 둘째 날인 내일(21일)에는 김 회장과 박영선 재정경제부 전략경제자문단 위원장을 비롯한 민·관·학 전문가들이 참석해 '피지컬 AI시대, 중소기업의 혁신전략 토론회'를 진행할 예정입니다. 이들은 중소기업의 AI 활용과 경쟁력 강화 방안을 논의합니다.\n\n지난 2007년 시작된 이 포럼은 급변하는 경영환경에서 중소기업 정책 의제를 제안하고, 정치·경제 분야 강연과 오피니언 리더들의 경험·지식을 공유해 왔습니다.\n\n한편 이번 리더스포럼에 차기 중앙회장 유력 후보로 거론되고 있는 강동한 한국단조공업협동조합 이사장과 박장선 인쇄협동조합연합회 회장, 심승일 고압가스공업협동조합연합회 회장, 이민형 중부흄관사업협동조합 이사장, 이재광 한국전기에너지산업협동조합 이사장이 불참한 것으로 파악됐습니다.\n\n중기중앙회는 선거가 조기 과열되고 리더스포럼 의미가 퇴색될 것을 우려해 참석하지 말 것을 제안했다는 입장이지만, 후보들과 포럼 참석자들 사이에서는 합법적인 선거 운동과 후보자 파악 기회를 박탈당했다는 불만도 나오고 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n오주현(viva5@yna.co.kr)",
+          "content:encodedSnippet": "중소기업중앙회, '리더스포럼' 개막중소기업중앙회, '리더스포럼' 개막\n(제주=연합뉴스) 20일 롯데호텔 제주에서 열린 '2026 중소기업 리더스포럼' 개막식에서 참석자들이 기념 촬영하고 있다. 2026.10.20 [중소기업중앙회 제공. 재판매 및 DB 금지]\nphoto@yna.co.kr\n(끝)\n\n중소기업중앙회, '리더스포럼' 개막\n(제주=연합뉴스) 20일 롯데호텔 제주에서 열린 '2026 중소기업 리더스포럼' 개막식에서 참석자들이 기념 촬영하고 있다. 2026.10.20 [중소기업중앙회 제공. 재판매 및 DB 금지]\nphoto@yna.co.kr\n(끝)\n\n\n중소기업중앙회는 오늘(20일) 롯데호텔 제주에서 '2026 중소기업 리더스포럼' 개막식을 개최했습니다.\n\n올해로 19회째를 맞은 이번 행사에는 전국 업종·지역별 중소기업인 400여 명이 한자리에 모여, 오는 23일까지 '중소기업과 함께, 인공지능(AI) 3대 강국으로'를 주제로 중소기업의 혁신과 성장전략을 설계합니다.\n\n개막식에서는 조정식 국회의장과 한성숙 국무총리가 영상으로 축사했고, 김홍신 소설가가 '겪어보면 안다, 그냥 살자'라는 제목으로 강연을 진행했습니다.\n\n김기문 중기중앙회장은 개회사에서 \"대·중소기업의 AI 격차가 양극화를 가속할 것으로 우려하는 목소리가 크고 중소기업들도 AI의 필요성을 갖고 단계적으로 시작해 나가야 할 때\"라며 \"AI 3대 강국으로 진입하지 못하면 퇴보할 수밖에 없는 굉장히 중요한 시기이기에 우리가 모두 힘을 합쳐 잘 준비해야 한다\"고 말했습니다.\n\n포럼 둘째 날인 내일(21일)에는 김 회장과 박영선 재정경제부 전략경제자문단 위원장을 비롯한 민·관·학 전문가들이 참석해 '피지컬 AI시대, 중소기업의 혁신전략 토론회'를 진행할 예정입니다. 이들은 중소기업의 AI 활용과 경쟁력 강화 방안을 논의합니다.\n\n지난 2007년 시작된 이 포럼은 급변하는 경영환경에서 중소기업 정책 의제를 제안하고, 정치·경제 분야 강연과 오피니언 리더들의 경험·지식을 공유해 왔습니다.\n\n한편 이번 리더스포럼에 차기 중앙회장 유력 후보로 거론되고 있는 강동한 한국단조공업협동조합 이사장과 박장선 인쇄협동조합연합회 회장, 심승일 고압가스공업협동조합연합회 회장, 이민형 중부흄관사업협동조합 이사장, 이재광 한국전기에너지산업협동조합 이사장이 불참한 것으로 파악됐습니다.\n\n중기중앙회는 선거가 조기 과열되고 리더스포럼 의미가 퇴색될 것을 우려해 참석하지 말 것을 제안했다는 입장이지만, 후보들과 포럼 참석자들 사이에서는 합법적인 선거 운동과 후보자 파악 기회를 박탈당했다는 불만도 나오고 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n오주현(viva5@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261020/AKR20261020164704DxA_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "오주현",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261020164704DxA#comments",
+          "content": "중소기업중앙회, '리더스포럼' 개막중소기업중앙회, '리더스포럼' 개막 (제주=연합뉴스) 20일 롯데호텔 제주에서 열린 '2026 중소기업 리더스포럼' 개막식에서 참석자들이 기념 촬영하고 있다. 2026.10.20 [중소기업중앙회 제공. 재판매 및 DB 금지] photo@yna.co.kr (끝) 중소기업중앙회, '리더스포럼' 개막 (제주=연합뉴스) 20일 롯데호텔 제주에서 열린 '2026 중소기업 리더스포럼' 개막식에서 참석자들이 기념 촬영...",
+          "contentSnippet": "중소기업중앙회, '리더스포럼' 개막중소기업중앙회, '리더스포럼' 개막 (제주=연합뉴스) 20일 롯데호텔 제주에서 열린 '2026 중소기업 리더스포럼' 개막식에서 참석자들이 기념 촬영하고 있다. 2026.10.20 [중소기업중앙회 제공. 재판매 및 DB 금지] photo@yna.co.kr (끝) 중소기업중앙회, '리더스포럼' 개막 (제주=연합뉴스) 20일 롯데호텔 제주에서 열린 '2026 중소기업 리더스포럼' 개막식에서 참석자들이 기념 촬영...",
+          "guid": "AKR20261020164704DxA",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-20T07:47:07.000Z"
         }
       ]
     }
