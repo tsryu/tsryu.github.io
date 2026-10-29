@@ -7,6 +7,166 @@
       "priority": 1,
       "data": [
         {
+          "title": "NetBSD, 새로운 텍스트 편집기 atto 추가",
+          "link": "https://news.hada.io/topic?id=36245",
+          "pubDate": "2026-10-29T19:39:51.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>NetBSD-current</strong> 기본 시스템에 새 편집기 <strong>atto(1)</strong> 이 포함됨</li>\n<li><strong>신규 사용자의 적응</strong>을 돕기 위해 vi(1)과 xedit(1) 외에 선택할 수 있는 대안으로 추가함</li>\n<li><strong>모드 구분이 없는 화면 기반 편집기</strong>로, nano, pico, xedit, emacs...</p>",
+          "contentSnippet": "NetBSD-current 기본 시스템에 새 편집기 atto(1) 이 포함됨\n신규 사용자의 적응을 돕기 위해 vi(1)과 xedit(1) 외에 선택할 수 있는 대안으로 추가함\n모드 구분이 없는 화면 기반 편집기로, nano, pico, xedit, emacs...",
+          "id": "https://news.hada.io/topic?id=36245",
+          "isoDate": "2026-10-29T19:39:51.000Z"
+        },
+        {
+          "title": "LLM 문체가 만드는 글의 불쾌한 골짜기",
+          "link": "https://news.hada.io/topic?id=36244",
+          "pubDate": "2026-10-29T19:36:51.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>LLM 특유의 문체</strong>는 실제 AI 사용 여부와 별개로 읽고 싶은 마음을 약화시키고 거부감을 일으킬 수 있음</li>\n<li><strong>LLM으로 초안을 쓰는 방식</strong>은 사람이 편집해도 특유의 문체를 지우기 어려워 피하는 것이 좋으며, 개요에 도움을 받더라도 본문은 직접 쓰기를 권함</li>\n<li>L...</p>",
+          "contentSnippet": "LLM 특유의 문체는 실제 AI 사용 여부와 별개로 읽고 싶은 마음을 약화시키고 거부감을 일으킬 수 있음\nLLM으로 초안을 쓰는 방식은 사람이 편집해도 특유의 문체를 지우기 어려워 피하는 것이 좋으며, 개요에 도움을 받더라도 본문은 직접 쓰기를 권함\nL...",
+          "id": "https://news.hada.io/topic?id=36244",
+          "isoDate": "2026-10-29T19:36:51.000Z"
+        },
+        {
+          "title": "H.264는 마법이다 (2016)",
+          "link": "https://news.hada.io/topic?id=36243",
+          "pubDate": "2026-10-29T18:39:48.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>H.264</strong>는 덜 중요한 시각 정보를 버리는 손실 압축, 프레임 사이의 움직임을 활용하는 예측, 무손실 엔트로피 부호화를 결합해 영상 전송에 필요한 데이터량을 줄임</li>\n<li>Apple 홈페이지를 캡처한 예시에서 <strong>300프레임짜리 5초 영상은 175KB</strong>인 반면, PNG 스크린샷 한 장은...</p>",
+          "contentSnippet": "H.264는 덜 중요한 시각 정보를 버리는 손실 압축, 프레임 사이의 움직임을 활용하는 예측, 무손실 엔트로피 부호화를 결합해 영상 전송에 필요한 데이터량을 줄임\nApple 홈페이지를 캡처한 예시에서 300프레임짜리 5초 영상은 175KB인 반면, PNG 스크린샷 한 장은...",
+          "id": "https://news.hada.io/topic?id=36243",
+          "isoDate": "2026-10-29T18:39:48.000Z"
+        },
+        {
+          "title": "Google 검색, 이제 Alphabet 매출의 절반 미만",
+          "link": "https://news.hada.io/topic?id=36242",
+          "pubDate": "2026-10-29T18:36:47.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>2026년 3분기 Google 검색 매출은 <strong>634억 달러</strong>, Alphabet 전체 매출의 <strong>49.7%</strong> 로 검색 매출을 별도 공시한 이후 처음으로 절반 아래로 내려감</li>\n<li>검색 매출 자체는 전년 동기 대비 <strong>12% 증가</strong>했지만, 나머지 사업 매출이 <strong>40% 증가</strong>하면서...</p>",
+          "contentSnippet": "2026년 3분기 Google 검색 매출은 634억 달러, Alphabet 전체 매출의 49.7% 로 검색 매출을 별도 공시한 이후 처음으로 절반 아래로 내려감\n검색 매출 자체는 전년 동기 대비 12% 증가했지만, 나머지 사업 매출이 40% 증가하면서...",
+          "id": "https://news.hada.io/topic?id=36242",
+          "isoDate": "2026-10-29T18:36:47.000Z"
+        },
+        {
+          "title": "멕시코는 미국에서 살 수 없는 전기차의 전시장",
+          "link": "https://news.hada.io/topic?id=36241",
+          "pubDate": "2026-10-29T17:43:37.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>멕시코에서는 <strong>중국 전기차</strong>가 낮은 가격에 배터리, 소프트웨어, 고급 실내 기능을 묶어 판매되지만, 미국에서는 관세와 무역 장벽, 소프트웨어 규제로 사실상 진입이 막혀 있음</li>\n<li>중국 브랜드의 멕시코 자동차 시장 점유율은 5년 만에 <strong>1% 미만에서 15%</strong> 로 늘었으며, 전...</p>",
+          "contentSnippet": "멕시코에서는 중국 전기차가 낮은 가격에 배터리, 소프트웨어, 고급 실내 기능을 묶어 판매되지만, 미국에서는 관세와 무역 장벽, 소프트웨어 규제로 사실상 진입이 막혀 있음\n중국 브랜드의 멕시코 자동차 시장 점유율은 5년 만에 1% 미만에서 15% 로 늘었으며, 전...",
+          "id": "https://news.hada.io/topic?id=36241",
+          "isoDate": "2026-10-29T17:43:37.000Z"
+        },
+        {
+          "title": "PHP2Shell 연쇄 공격으로 미국 정부 관련 서버 포함 25대의 루트 권한 탈취",
+          "link": "https://news.hada.io/topic?id=36240",
+          "pubDate": "2026-10-29T17:40:37.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>공격자는 <strong>PHP2Shell 원격 코드 실행과 커널 권한 상승 취약점</strong>을 결합해 미국, 일본, 대만, 한국의 서버 25대에서 루트 권한을 확보함</li>\n<li>특정 대형 공급업체의 방화벽 소프트웨어가 표적이었으며, <strong>인터넷에 노출된 관리 인터페이스</strong>를 통해 인증 없이 침투함</li>\n<li>...</p>",
+          "contentSnippet": "공격자는 PHP2Shell 원격 코드 실행과 커널 권한 상승 취약점을 결합해 미국, 일본, 대만, 한국의 서버 25대에서 루트 권한을 확보함\n특정 대형 공급업체의 방화벽 소프트웨어가 표적이었으며, 인터넷에 노출된 관리 인터페이스를 통해 인증 없이 침투함\n...",
+          "id": "https://news.hada.io/topic?id=36240",
+          "isoDate": "2026-10-29T17:40:37.000Z"
+        },
+        {
+          "title": "IPv4가 땅이라면",
+          "link": "https://news.hada.io/topic?id=36239",
+          "pubDate": "2026-10-29T16:42:47.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>국가별 <strong>IPv4 주소 비중</strong>에 맞춰 각국의 면적을 다시 그린 세계 지도로, 실제 육지 면적과 주소 분포를 비교할 수 있음</li>\n<li>남극을 제외한 전 세계 육지 약 <strong>1억 3,500만 km²</strong>와 위치를 특정할 수 있는 IPv4 주소 약 <strong>36억 개</strong>를 기준으로 삼음</li>\n<li>국...</p>",
+          "contentSnippet": "국가별 IPv4 주소 비중에 맞춰 각국의 면적을 다시 그린 세계 지도로, 실제 육지 면적과 주소 분포를 비교할 수 있음\n남극을 제외한 전 세계 육지 약 1억 3,500만 km²와 위치를 특정할 수 있는 IPv4 주소 약 36억 개를 기준으로 삼음\n국...",
+          "id": "https://news.hada.io/topic?id=36239",
+          "isoDate": "2026-10-29T16:42:47.000Z"
+        },
+        {
+          "title": "Google이 Google Earth에서 수역의 이름을 정하는 방식 (2008)",
+          "link": "https://news.hada.io/topic?id=36238",
+          "pubDate": "2026-10-29T16:39:47.000Z",
+          "author": "neo",
+          "content": "Google이 Google Earth에서 수역의 이름을 정하는 방식 (2008)",
+          "contentSnippet": "Google이 Google Earth에서 수역의 이름을 정하는 방식 (2008)",
+          "id": "https://news.hada.io/topic?id=36238",
+          "isoDate": "2026-10-29T16:39:47.000Z"
+        },
+        {
+          "title": "해커들, 미국 국토안보부 직원 4만 명 이상의 신원 공개",
+          "link": "https://news.hada.io/topic?id=36237",
+          "pubDate": "2026-10-29T16:36:47.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>해킹 단체 <strong>Department of Peace</strong>가 미국 국토안보부(DHS) 인사 파일을 탈취해 요원과 관계자 4만 명 이상의 이름, 전화번호, 주소를 공개했으며, 잠복 작전 관련 인력도 포함됨</li>\n<li>해커들은 DHS의 <strong>통합 로그인(SSO) 시스템</strong>을 무력화해 데이터를 훔쳤다고 밝혔으며, 자료...</p>",
+          "contentSnippet": "해킹 단체 Department of Peace가 미국 국토안보부(DHS) 인사 파일을 탈취해 요원과 관계자 4만 명 이상의 이름, 전화번호, 주소를 공개했으며, 잠복 작전 관련 인력도 포함됨\n해커들은 DHS의 통합 로그인(SSO) 시스템을 무력화해 데이터를 훔쳤다고 밝혔으며, 자료...",
+          "id": "https://news.hada.io/topic?id=36237",
+          "isoDate": "2026-10-29T16:36:47.000Z"
+        },
+        {
+          "title": "DoorDash, 약 25.5조원에 Instacart 인수 추진",
+          "link": "https://news.hada.io/topic?id=36235",
+          "pubDate": "2026-10-29T15:47:45.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>DoorDash</strong>가 Instacart를 주당 65달러, 총 지분가치 약 <strong>170억 달러($17b)</strong> 에 인수하는 확정 계약을 체결함. 인수 대가의 최소 75%는 현금이며, 주식은 최대 25%로 제한됨</li>\n<li>DoorDash의 <strong>배송망</strong>과 Instacart의 식료품 주문 처리 기술을 결합해, 지역 매...</p>",
+          "contentSnippet": "DoorDash가 Instacart를 주당 65달러, 총 지분가치 약 170억 달러($17b) 에 인수하는 확정 계약을 체결함. 인수 대가의 최소 75%는 현금이며, 주식은 최대 25%로 제한됨\nDoorDash의 배송망과 Instacart의 식료품 주문 처리 기술을 결합해, 지역 매...",
+          "id": "https://news.hada.io/topic?id=36235",
+          "isoDate": "2026-10-29T15:47:45.000Z"
+        },
+        {
+          "title": "FBI가 마틴 루서 킹 주니어의 자살을 유도하려 보낸 편지(2014)",
+          "link": "https://news.hada.io/topic?id=36234",
+          "pubDate": "2026-10-29T15:44:45.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>FBI</strong>는 마틴 루서 킹 주니어를 대규모로 감시한 뒤, 자살을 유도하려는 서명 없는 편지를 그의 집으로 보냄</li>\n<li>1963년 <strong>“I Have a Dream” 연설</strong> 이후 FBI 국내정보 책임자 윌리엄 설리번은 킹을 공산주의와 국가안보 측면에서 위험한 인물로 지목함</li>\n<li>FBI 국장 ...</p>",
+          "contentSnippet": "FBI는 마틴 루서 킹 주니어를 대규모로 감시한 뒤, 자살을 유도하려는 서명 없는 편지를 그의 집으로 보냄\n1963년 “I Have a Dream” 연설 이후 FBI 국내정보 책임자 윌리엄 설리번은 킹을 공산주의와 국가안보 측면에서 위험한 인물로 지목함\nFBI 국장 ...",
+          "id": "https://news.hada.io/topic?id=36234",
+          "isoDate": "2026-10-29T15:44:45.000Z"
+        },
+        {
+          "title": "Mistral Large 4(Le Chonk), 가중치 공개",
+          "link": "https://news.hada.io/topic?id=36233",
+          "pubDate": "2026-10-29T15:41:45.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Mistral이 <strong>1조 파라미터 네이티브 멀티모달 모델 Mistral Large 4</strong>의 개선된 가중치를 공개함. 공개 프리뷰 이후 강화학습을 확대해 코딩, 방어적 사이버보안, 추론 효율을 높임</li>\n<li><strong>Artificial Analysis Coding Agent Index</strong>에서 GLM-5.3와 사실상 동률인 48%로 오픈웨이...</p>",
+          "contentSnippet": "Mistral이 1조 파라미터 네이티브 멀티모달 모델 Mistral Large 4의 개선된 가중치를 공개함. 공개 프리뷰 이후 강화학습을 확대해 코딩, 방어적 사이버보안, 추론 효율을 높임\nArtificial Analysis Coding Agent Index에서 GLM-5.3와 사실상 동률인 48%로 오픈웨이...",
+          "id": "https://news.hada.io/topic?id=36233",
+          "isoDate": "2026-10-29T15:41:45.000Z"
+        },
+        {
+          "title": "Show GN: 만든 사람도 결과를 미리 모르는 사다리타기 (drand 예약 추첨)",
+          "link": "https://news.hada.io/topic?id=36232",
+          "pubDate": "2026-10-29T14:49:24.000Z",
+          "author": "limyosep0274",
+          "content": "<p>카톡방에서 사다리타기 링크를 돌리면 늘 「조작 아니냐」는 말이 나옵니다. 실제로 흔히 쓰는 사다리 공유 사이트를 열어 보니, 링크에 사다리 모양이 통째로 들어 있어서 만든 사람이 원하는 결과가 나올 때까지 다시 섞은 뒤 그 링크만 보낼 수 있었습니다. 받는 사람은 알 방법이 없고요.</p>\n<p>그래서 결과를 「",
+          "contentSnippet": "카톡방에서 사다리타기 링크를 돌리면 늘 「조작 아니냐」는 말이 나옵니다. 실제로 흔히 쓰는 사다리 공유 사이트를 열어 보니, 링크에 사다리 모양이 통째로 들어 있어서 만든 사람이 원하는 결과가 나올 때까지 다시 섞은 뒤 그 링크만 보낼 수 있었습니다. 받는 사람은 알 방법이 없고요.\n그래서 결과를 「",
+          "id": "https://news.hada.io/topic?id=36232",
+          "isoDate": "2026-10-29T14:49:24.000Z"
+        },
+        {
+          "title": "미국, 단 3개월 만에 역대 최대인 20.2GWh 배터리 저장 용량 추가",
+          "link": "https://news.hada.io/topic?id=36231",
+          "pubDate": "2026-10-29T14:46:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>미국의 <strong>2026년 2분기 배터리 저장 설비 신규 설치량</strong>이 20.2GWh로 분기 최고치를 기록했으며, 상반기 설치량은 전년 대비 23% 증가한 30.8GWh에 달함</li>\n<li>성장은 <strong>전력망용 대규모 배터리</strong>가 주도했으며, 2분기 약 18GWh가 설치됨</li>\n<li>배터리는 전력이 풍부하고 저렴...</p>",
+          "contentSnippet": "미국의 2026년 2분기 배터리 저장 설비 신규 설치량이 20.2GWh로 분기 최고치를 기록했으며, 상반기 설치량은 전년 대비 23% 증가한 30.8GWh에 달함\n성장은 전력망용 대규모 배터리가 주도했으며, 2분기 약 18GWh가 설치됨\n배터리는 전력이 풍부하고 저렴...",
+          "id": "https://news.hada.io/topic?id=36231",
+          "isoDate": "2026-10-29T14:46:01.000Z"
+        },
+        {
+          "title": "논리 버그만으로 Microsoft Edge 전체 익스플로잇 체인 구축하기",
+          "link": "https://news.hada.io/topic?id=36230",
+          "pubDate": "2026-10-29T14:43:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Pwn2Own Berlin 2026을 위해 <strong>메모리 손상 없이 논리 버그만으로</strong> Microsoft Edge에서 임의 코드 실행까지 이어지는 체인을 구축함</li>\n<li>브라우저 내부 탐색 API가 <strong>출발 탭을 명시하지 않으면 활성 탭을 사용</strong>하는 동작을 이용해, 다른 사이트에서 JavaScript를 실행하는 범...</p>",
+          "contentSnippet": "Pwn2Own Berlin 2026을 위해 메모리 손상 없이 논리 버그만으로 Microsoft Edge에서 임의 코드 실행까지 이어지는 체인을 구축함\n브라우저 내부 탐색 API가 출발 탭을 명시하지 않으면 활성 탭을 사용하는 동작을 이용해, 다른 사이트에서 JavaScript를 실행하는 범...",
+          "id": "https://news.hada.io/topic?id=36230",
+          "isoDate": "2026-10-29T14:43:01.000Z"
+        },
+        {
+          "title": "Gemini 4 Carbon, Artificial Analysis Intelligence Index v5에서 새로운 1위 기록",
+          "link": "https://news.hada.io/topic?id=36229",
+          "pubDate": "2026-10-29T14:40:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Google의 <strong>Gemini 4 Carbon</strong>이 Intelligence Index v5에서 59점으로 1위를 기록함. 복잡한 추론, 지식, 과학 과제에서 강점을 보이며 9개 평가 중 4개에서 최고 점수를 얻음</li>\n<li><strong>코딩 에이전트 평가</strong>에서는 Antigravity CLI와 함께 사용했을 때 59점으로, Claude Opus 5.5...</p>",
+          "contentSnippet": "Google의 Gemini 4 Carbon이 Intelligence Index v5에서 59점으로 1위를 기록함. 복잡한 추론, 지식, 과학 과제에서 강점을 보이며 9개 평가 중 4개에서 최고 점수를 얻음\n코딩 에이전트 평가에서는 Antigravity CLI와 함께 사용했을 때 59점으로, Claude Opus 5.5...",
+          "id": "https://news.hada.io/topic?id=36229",
+          "isoDate": "2026-10-29T14:40:01.000Z"
+        },
+        {
           "title": "스파이 활동 의혹을 받는 이스라엘 기업, Starlink 사용자를 표적으로 삼아",
           "link": "https://news.hada.io/topic?id=36228",
           "pubDate": "2026-10-29T13:33:20.000Z",
@@ -345,166 +505,6 @@
           "contentSnippet": "가족, 친구와의 대화와 가끔 오는 2FA 코드가 중심이던 문자 채널에 정치 캠페인과 스팸 문자가 늘어나 중요한 알림의 가치를 훼손하고 있음\nSTOP 답장을 꺼리는 이유는 단순한 번거로움이 아니라, 발신자는 마음대로 문자를 보내고 수신자가 캠페인마다 개별적으로...",
           "id": "https://news.hada.io/topic?id=36184",
           "isoDate": "2026-10-28T19:55:03.000Z"
-        },
-        {
-          "title": "스페인 톨레도 인근에서 고속열차 두 대 충돌",
-          "link": "https://news.hada.io/topic?id=36183",
-          "pubDate": "2026-10-28T19:52:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>마드리드에서 세비야로 향하던 고속열차가 같은 선로에 정차한 다른 열차를 추돌해 <strong>최소 10명이 사망</strong>했으며, 당국은 사망자가 더 늘어날 수 있다고 경고함</li>\n<li>충돌로 <strong>객차 2량이 탈선</strong>하고 그중 1량이 크게 파손됐으며, 구조대가 피해가 가장 심한 객차에서 구조 작업을...</p>",
-          "contentSnippet": "마드리드에서 세비야로 향하던 고속열차가 같은 선로에 정차한 다른 열차를 추돌해 최소 10명이 사망했으며, 당국은 사망자가 더 늘어날 수 있다고 경고함\n충돌로 객차 2량이 탈선하고 그중 1량이 크게 파손됐으며, 구조대가 피해가 가장 심한 객차에서 구조 작업을...",
-          "id": "https://news.hada.io/topic?id=36183",
-          "isoDate": "2026-10-28T19:52:02.000Z"
-        },
-        {
-          "title": "Gforth 1.0 - 확장 가능한 문법과 멀티코어 멀티태스킹 지원",
-          "link": "https://news.hada.io/topic?id=36181",
-          "pubDate": "2026-10-28T19:46:02.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>텍스트 인터프리터의 문법을 확장</strong>해 다양한 리터럴, 어휘집 지정, 환경 변수 참조를 지원하며, 인식기(recognizer)를 추가해 해석할 문법을 확장할 수 있음</li>\n<li>여러 코어와 하드웨어 스레드에서 <strong>멀티태스킹</strong>을 지원하며, 메시지 큐 기반 통신과 동기화, Cilk 기반 작업...</p>",
-          "contentSnippet": "텍스트 인터프리터의 문법을 확장해 다양한 리터럴, 어휘집 지정, 환경 변수 참조를 지원하며, 인식기(recognizer)를 추가해 해석할 문법을 확장할 수 있음\n여러 코어와 하드웨어 스레드에서 멀티태스킹을 지원하며, 메시지 큐 기반 통신과 동기화, Cilk 기반 작업...",
-          "id": "https://news.hada.io/topic?id=36181",
-          "isoDate": "2026-10-28T19:46:02.000Z"
-        },
-        {
-          "title": "Apple, 터치를 지원하는 PROLED XDR 디스플레이 탑재 MacBook Pro 공개",
-          "link": "https://news.hada.io/topic?id=36179",
-          "pubDate": "2026-10-28T18:39:59.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>애플이 <strong>탠덤 OLED 기반 PROLED XDR</strong>을 탑재하고 Mac 최초로 <strong>터치를 지원</strong>하는 MacBook Pro 14 및 16 모델을 공개함</li>\n<li><strong>패널에 통합된 터치 센서</strong>로 그림 그리기, 악기 연주, iOS 및 iPadOS 앱의 터치 테스트가 가능, macOS가 터치 입력을 클릭으로 변환...</p>",
-          "contentSnippet": "애플이 탠덤 OLED 기반 PROLED XDR을 탑재하고 Mac 최초로 터치를 지원하는 MacBook Pro 14 및 16 모델을 공개함\n패널에 통합된 터치 센서로 그림 그리기, 악기 연주, iOS 및 iPadOS 앱의 터치 테스트가 가능, macOS가 터치 입력을 클릭으로 변환...",
-          "id": "https://news.hada.io/topic?id=36179",
-          "isoDate": "2026-10-28T18:39:59.000Z"
-        },
-        {
-          "title": "Gemini 4 Carbon - 사이버 보안과 장기 에이전트 작업 역량을 강화한 모델",
-          "link": "https://news.hada.io/topic?id=36178",
-          "pubDate": "2026-10-28T18:36:59.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Google이 <strong>Gemini 4 Carbon</strong>을 발표함. 복잡한 다단계 엔지니어링 작업을 지속해서 수행하도록 설계했으며, 코딩과 사이버 보안 방어 역량을 강화함</li>\n<li><strong>Artificial Analysis Intelligence Index v5.0</strong>에서 59점으로 1위를 기록하고, WebDev Arena에서는 89 Elo 상승한 1,...</p>",
-          "contentSnippet": "Google이 Gemini 4 Carbon을 발표함. 복잡한 다단계 엔지니어링 작업을 지속해서 수행하도록 설계했으며, 코딩과 사이버 보안 방어 역량을 강화함\nArtificial Analysis Intelligence Index v5.0에서 59점으로 1위를 기록하고, WebDev Arena에서는 89 Elo 상승한 1,...",
-          "id": "https://news.hada.io/topic?id=36178",
-          "isoDate": "2026-10-28T18:36:59.000Z"
-        },
-        {
-          "title": "미국 FCC, Amazon의 Globalstar 115억 달러 인수 승인",
-          "link": "https://news.hada.io/topic?id=36177",
-          "pubDate": "2026-10-28T17:39:42.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>미국 연방통신위원회(FCC)가 Amazon Leo의 Globalstar 115억 달러 인수를 승인했으며, Amazon은 이를 통해 SpaceX의 Starlink와 경쟁할 위성 통신망 구축을 추진함</li>\n<li>Amazon Leo는 2025년 4월 이후 약 400개의 위성을 발사했으며, 이번 인수로 Globalstar의 위성 약 24개와 이동위성통신 주파수를 확보해...</p>",
-          "contentSnippet": "미국 연방통신위원회(FCC)가 Amazon Leo의 Globalstar 115억 달러 인수를 승인했으며, Amazon은 이를 통해 SpaceX의 Starlink와 경쟁할 위성 통신망 구축을 추진함\nAmazon Leo는 2025년 4월 이후 약 400개의 위성을 발사했으며, 이번 인수로 Globalstar의 위성 약 24개와 이동위성통신 주파수를 확보해...",
-          "id": "https://news.hada.io/topic?id=36177",
-          "isoDate": "2026-10-28T17:39:42.000Z"
-        },
-        {
-          "title": "CNC를 활용한 석재 조각",
-          "link": "https://news.hada.io/topic?id=36176",
-          "pubDate": "2026-10-28T17:36:42.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>CNC 기계와 로봇</strong>을 활용하면 숙련된 조각가가 수개월 걸리던 고딕 성당의 정교한 장식물을 수일 만에 제작할 수 있어, 시간과 예산 때문에 장식을 생략할 필요가 줄어듦</li>\n<li>석재 조각용 CNC는 주로 <strong>다이아몬드 공구와 5축 제어</strong>로 돌을 깎으며, 물은 절삭 수단이 아니라...</p>",
-          "contentSnippet": "CNC 기계와 로봇을 활용하면 숙련된 조각가가 수개월 걸리던 고딕 성당의 정교한 장식물을 수일 만에 제작할 수 있어, 시간과 예산 때문에 장식을 생략할 필요가 줄어듦\n석재 조각용 CNC는 주로 다이아몬드 공구와 5축 제어로 돌을 깎으며, 물은 절삭 수단이 아니라...",
-          "id": "https://news.hada.io/topic?id=36176",
-          "isoDate": "2026-10-28T17:36:42.000Z"
-        },
-        {
-          "title": "사모펀드 투자 기업에 다가오는 3,000억 달러 규모의 부채 만기",
-          "link": "https://news.hada.io/topic?id=36175",
-          "pubDate": "2026-10-28T16:46:09.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>사모펀드(PE)가 인수한 기업들이 2028~2029년 만기가 도래하는 <strong>약 3,000억 달러(약 430조 원)의 부채</strong>를 안고 있으며, <strong>대규모 채무불이행</strong>과 투자 손실을 피하기 위해 <strong>대출 만기 연장</strong>을 서두르고 있음</li>\n<li>2021년 저금리 환경에서 사모펀드들이 7년 만기...</p>",
-          "contentSnippet": "사모펀드(PE)가 인수한 기업들이 2028~2029년 만기가 도래하는 약 3,000억 달러(약 430조 원)의 부채를 안고 있으며, 대규모 채무불이행과 투자 손실을 피하기 위해 대출 만기 연장을 서두르고 있음\n2021년 저금리 환경에서 사모펀드들이 7년 만기...",
-          "id": "https://news.hada.io/topic?id=36175",
-          "isoDate": "2026-10-28T16:46:09.000Z"
-        },
-        {
-          "title": "Emacs, 50주년을 맞다",
-          "link": "https://news.hada.io/topic?id=36174",
-          "pubDate": "2026-10-28T16:43:09.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>1976년 MIT 인공지능 연구소에서 탄생한 Emacs</strong>가 50주년을 맞음. 초기 전체 화면 텍스트 편집기 중 하나로, 여러 운영체제용으로 다시 구현되며 지금까지 사용되고 있음</li>\n<li>TECO의 화면 편집 확장인 Control-R을 개선하면서 <strong>각 키가 매크로를 실행하는 구조</strong>를 도입. 연...</p>",
-          "contentSnippet": "1976년 MIT 인공지능 연구소에서 탄생한 Emacs가 50주년을 맞음. 초기 전체 화면 텍스트 편집기 중 하나로, 여러 운영체제용으로 다시 구현되며 지금까지 사용되고 있음\nTECO의 화면 편집 확장인 Control-R을 개선하면서 각 키가 매크로를 실행하는 구조를 도입. 연...",
-          "id": "https://news.hada.io/topic?id=36174",
-          "isoDate": "2026-10-28T16:43:09.000Z"
-        },
-        {
-          "title": "켄터키주 남성, 인본주의자로는 처음으로 AI 사용에 대한 종교적 면제 인정받아",
-          "link": "https://news.hada.io/topic?id=36173",
-          "pubDate": "2026-10-28T16:40:09.000Z",
-          "author": "neo",
-          "content": "켄터키주 남성, 인본주의자로는 처음으로 AI 사용에 대한 종교적 면제 인정받아",
-          "contentSnippet": "켄터키주 남성, 인본주의자로는 처음으로 AI 사용에 대한 종교적 면제 인정받아",
-          "id": "https://news.hada.io/topic?id=36173",
-          "isoDate": "2026-10-28T16:40:09.000Z"
-        },
-        {
-          "title": "경쟁사들은 4F² DRAM에 집중하는데, Micron은 왜 포기했나?",
-          "link": "https://news.hada.io/topic?id=36172",
-          "pubDate": "2026-10-28T15:33:26.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Micron은 <strong>20년 넘게 연구한 4F² DRAM의 제품화를 포기</strong>하고 기존 6F² 구조의 미세화를 이어가기로 함. 4F²와 6F²는 공정 노드가 아니라 DRAM 셀의 면적과 배치를 나타냄</li>\n<li><strong>커패시터에 필요한 간격</strong>이 실제 DRAM 밀도를 제한하므로, Micron은 4F² 전환의 밀도 이득은 크...</p>",
-          "contentSnippet": "Micron은 20년 넘게 연구한 4F² DRAM의 제품화를 포기하고 기존 6F² 구조의 미세화를 이어가기로 함. 4F²와 6F²는 공정 노드가 아니라 DRAM 셀의 면적과 배치를 나타냄\n커패시터에 필요한 간격이 실제 DRAM 밀도를 제한하므로, Micron은 4F² 전환의 밀도 이득은 크...",
-          "id": "https://news.hada.io/topic?id=36172",
-          "isoDate": "2026-10-28T15:33:26.000Z"
-        },
-        {
-          "title": "Show GN: pele-animate - Mermaid 다이어그램에 애니메이션과 아이콘을 추가해주는 오픈소스 라이브러리",
-          "link": "https://news.hada.io/topic?id=36171",
-          "pubDate": "2026-10-28T15:31:30.000Z",
-          "author": "slowmo",
-          "content": "<p>기술 문서 사이트에서 많이 사용하는 <a href=\"https://mermaid.ai/open-source/\">Mermaid</a> 다이어그램에 단계 별 애니메이션 재생과 아이콘 지원을 추가해주는 오픈소스 라이브러리입니다.</p>\n<p>마크다운 노트 앱인 <a href=\"https://obsidian.md/\">옵시디언</a>의 CEO kapano가 기존 Mermaid의 단점을 개선하고",
-          "contentSnippet": "기술 문서 사이트에서 많이 사용하는 Mermaid 다이어그램에 단계 별 애니메이션 재생과 아이콘 지원을 추가해주는 오픈소스 라이브러리입니다.\n마크다운 노트 앱인 옵시디언의 CEO kapano가 기존 Mermaid의 단점을 개선하고",
-          "id": "https://news.hada.io/topic?id=36171",
-          "isoDate": "2026-10-28T15:31:30.000Z"
-        },
-        {
-          "title": "ICE, 미국 역사상 최대 규모급 좌파 감시 작전 수행 중",
-          "link": "https://news.hada.io/topic?id=36170",
-          "pubDate": "2026-10-28T14:36:33.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>미네소타 주민 15명의 연방 공모 혐의 사건에서 <strong>ICE의 광범위한 좌파 운동 감시 자료</strong>가 공개됨. 변호인들은 이 수사가 이민정책 반대자를 겨냥한 전국적 감시의 일부이며 위헌 소지가 있다고 주장함</li>\n<li>ICE 산하 <strong>국토안보수사국(HSI)</strong> 은 중대 범죄 수사용 자금과 권한...</p>",
-          "contentSnippet": "미네소타 주민 15명의 연방 공모 혐의 사건에서 ICE의 광범위한 좌파 운동 감시 자료가 공개됨. 변호인들은 이 수사가 이민정책 반대자를 겨냥한 전국적 감시의 일부이며 위헌 소지가 있다고 주장함\nICE 산하 국토안보수사국(HSI) 은 중대 범죄 수사용 자금과 권한...",
-          "id": "https://news.hada.io/topic?id=36170",
-          "isoDate": "2026-10-28T14:36:33.000Z"
-        },
-        {
-          "title": "UEFI 펌웨어의 코드 실행 취약점, 전 세계 서버 대부분을 위협",
-          "link": "https://news.hada.io/topic?id=36168",
-          "pubDate": "2026-10-28T13:40:50.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>주요 UEFI 공급업체가 사용하는 <strong>TianoCore EDK II</strong>에서 심각도 <strong>9.5/10</strong>의 코드 실행 취약점 CVE-2026-97631이 발견됨</li>\n<li><strong>PXE 네트워크 부팅</strong> 중 ICMP 오류 메시지를 처리하는 버퍼 오버플로로, 공격자는 운영체제와 Secure Boot 등의 방어 기능이 작동하...</p>",
-          "contentSnippet": "주요 UEFI 공급업체가 사용하는 TianoCore EDK II에서 심각도 9.5/10의 코드 실행 취약점 CVE-2026-97631이 발견됨\nPXE 네트워크 부팅 중 ICMP 오류 메시지를 처리하는 버퍼 오버플로로, 공격자는 운영체제와 Secure Boot 등의 방어 기능이 작동하...",
-          "id": "https://news.hada.io/topic?id=36168",
-          "isoDate": "2026-10-28T13:40:50.000Z"
-        },
-        {
-          "title": "열흘이 지나도 macOS의 Git은 여전히 침해된 eMudhra 인증서를 신뢰함",
-          "link": "https://news.hada.io/topic?id=36167",
-          "pubDate": "2026-10-28T13:37:50.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Apple은 10월 17일 eMudhra 사고를 통보받았지만, 10월 28일 기준 macOS에 함께 제공하는 <strong>git, curl, python3</strong>는 여전히 침해된 인증서를 신뢰함</li>\n<li>10월 26일 출시된 <strong>macOS 27.2</strong>는 문제를 해결하지 않았으며, 사용자가 수동으로 적용한 우회 조치까지 되돌려 다시 취약...</p>",
-          "contentSnippet": "Apple은 10월 17일 eMudhra 사고를 통보받았지만, 10월 28일 기준 macOS에 함께 제공하는 git, curl, python3는 여전히 침해된 인증서를 신뢰함\n10월 26일 출시된 macOS 27.2는 문제를 해결하지 않았으며, 사용자가 수동으로 적용한 우회 조치까지 되돌려 다시 취약...",
-          "id": "https://news.hada.io/topic?id=36167",
-          "isoDate": "2026-10-28T13:37:50.000Z"
-        },
-        {
-          "title": "디바이스 트리에서 Raspberry Pi Zero 3 W와 Pi 4 Model A 발견",
-          "link": "https://news.hada.io/topic?id=36165",
-          "pubDate": "2026-10-28T12:33:32.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Raspberry Pi의 <strong>Linux 커널 트리</strong>에 미발표 보드 두 종의 디바이스 트리 파일이 추가됨. 하드웨어 구성의 단서는 있지만 공식 발표나 확정 사양은 아직 없음</li>\n<li><strong>Zero 3 W</strong>에는 Pi 4와 같은 쿼드코어 Cortex-A72 기반 <strong>BCM2711</strong>이 사용됨. Zero 2 W보다 코...</p>",
-          "contentSnippet": "Raspberry Pi의 Linux 커널 트리에 미발표 보드 두 종의 디바이스 트리 파일이 추가됨. 하드웨어 구성의 단서는 있지만 공식 발표나 확정 사양은 아직 없음\nZero 3 W에는 Pi 4와 같은 쿼드코어 Cortex-A72 기반 BCM2711이 사용됨. Zero 2 W보다 코...",
-          "id": "https://news.hada.io/topic?id=36165",
-          "isoDate": "2026-10-28T12:33:32.000Z"
-        },
-        {
-          "title": "미국의 부의 불평등을 실제 비율로 그리다",
-          "link": "https://news.hada.io/topic?id=36164",
-          "pubDate": "2026-10-28T11:35:53.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>미국 가구를 순자산 순으로 나열하고 <strong>1픽셀당 5,000달러</strong>로 그려, 중위 가구와 최상위 부유층 사이의 격차를 스크롤 길이로 체감하게 하는 시각화임</li>\n<li><strong>중위 가구 순자산은 21만 1,292달러</strong>, 상위 1% 가구의 평균은 4,043만 4,990달러로 약 191배 차이가 남</li>\n<li>상...</p>",
-          "contentSnippet": "미국 가구를 순자산 순으로 나열하고 1픽셀당 5,000달러로 그려, 중위 가구와 최상위 부유층 사이의 격차를 스크롤 길이로 체감하게 하는 시각화임\n중위 가구 순자산은 21만 1,292달러, 상위 1% 가구의 평균은 4,043만 4,990달러로 약 191배 차이가 남\n상...",
-          "id": "https://news.hada.io/topic?id=36164",
-          "isoDate": "2026-10-28T11:35:53.000Z"
         }
       ]
     },
@@ -681,235 +681,235 @@
       "category": "news",
       "data": [
         {
-          "creator": "김동욱",
-          "title": "빗썸, 해킹 사고로 고객 정보도 수백건 유출",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH202610300038085KR",
-          "pubDate": "Fri, 30 Oct 2026 00:38:09 +0900",
-          "content:encoded": "가상자산 거래소 빗썸에서 일어난 사내 시스템 해킹으로 고객 개인정보도 유출된 것으로 알려졌습니다.\n\n어제(29일) 가상자산 업계 등에 따르면, 빗썸에서 지난 27일 일어난 사내 모바일 그룹웨어 시스템 해킹 사고로 고객정보 수백 건이 유출된 것으로 알려졌습니다.\n\n빗썸은 당일 사고를 인지한 뒤 금융당국과 한국인터넷진흥원, 개인정보보호위원회에 침해 사고로 임직원 정보가 유출됐다고 알렸지만, 이후 정확한 유출 범위를 분석하는 과정에서 고객정보 유출을 뒤늦게 인지한 것으로 전해졌습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김동욱(DK1@yna.co.kr)",
-          "content:encodedSnippet": "가상자산 거래소 빗썸에서 일어난 사내 시스템 해킹으로 고객 개인정보도 유출된 것으로 알려졌습니다.\n\n어제(29일) 가상자산 업계 등에 따르면, 빗썸에서 지난 27일 일어난 사내 모바일 그룹웨어 시스템 해킹 사고로 고객정보 수백 건이 유출된 것으로 알려졌습니다.\n\n빗썸은 당일 사고를 인지한 뒤 금융당국과 한국인터넷진흥원, 개인정보보호위원회에 침해 사고로 임직원 정보가 유출됐다고 알렸지만, 이후 정확한 유출 범위를 분석하는 과정에서 고객정보 유출을 뒤늦게 인지한 것으로 전해졌습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김동욱(DK1@yna.co.kr)",
+          "creator": "석승현",
+          "title": "\"한국 분들 사랑합니다\"…일본 소도시 카페에 붙은 '손 편지'",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261029101325Uof",
+          "pubDate": "Fri, 30 Oct 2026 05:02:03 +0900",
+          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261029/AKR20261029101325Uof_01_i.jpg\" alt=\"\"><span class=\"yna_title\">일본의 한 카페에서 한국인 관광객들에게 감사의 마음을 담은 손 편지를 붙여 놓은 모습.</span><span class=\"yna_caption\">[SNS 갈무리]</span><span class=\"yna_description\">[SNS 갈무리]</span></div>\n일본의 한 작은 도시에서 카페를 운영하는 사장이 코로나19 이후 가장 먼저 찾아와 준 한국인 관광객들에게 감사의 마음을 담은 손 편지를 남겨 훈훈함을 전하고 있습니다.\n\n지난 27일 SNS에는 ‘일본 한 소도시 카페 화장실에 붙어있는 글귀’라는 제목의 글이 올라왔습니다.\n\n공개된 사진에는 일본 에히메현 마쓰야마시의 한 카페 벽면에 한국어로 작성된 손 편지가 붙어 있는 모습이 담겼습니다.\n\n카페 측은 편지에서 \"이 가게를 개점하자마자 코로나 때문에 손님이 없어 고민이 많았다”며 “코로나 이후 가장 먼저 방문해 주신 분들이 한국분들”이라고 적었습니다.\n\n이어 \"그 이후에도 많은 한국 분이 저희 카페를 방문하고 사랑해 주셨다\"며 \"정말 많은 도움을 받아 감사한 만큼 더 열심히 하겠다. 방문해 주시는 한국 분들 사랑합니다\"고 감사의 마음을 전했습니다.\n\n해당 카페는 마쓰야마를 찾는 한국인 관광객들 사이에서 입소문이 난 곳으로 알려졌습니다.\n\n실제 방문 경험이 있다는 한 누리꾼은 \"한국인 관광객들이 숙소를 많이 잡는 동네에서 부부가 운영하는 카페\"라며 \"사장님이 친절해 입소문을 탔고 지금은 마쓰야마 여행 코스 중 하나가 됐다\"고 소개했습니다.\n\n또 다른 누리꾼은 \"오전 7시 30분부터 문을 열어 아침 일찍 움직이는 한국 관광객들에게 잘 맞는 곳\"이라고 전했습니다.\n\n사연을 접한 누리꾼들은 \"저렇게 아름답게 고마움을 표현해 주다니\", \"한국 관광객들이 저 글을 보면 여행이 더 즐거워질 것 같다\", \"다음에 또 방문하고 싶은 마음이 들 것 같다\" 등의 반응을 보였습니다.\n\n#일본 #소도시 #카페 #사장 #한국인 #사랑 #애정 #훈훈 #따뜻 #손편지\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n석승현(stone@yna.co.kr)",
+          "content:encodedSnippet": "일본의 한 카페에서 한국인 관광객들에게 감사의 마음을 담은 손 편지를 붙여 놓은 모습.[SNS 갈무리][SNS 갈무리]\n일본의 한 작은 도시에서 카페를 운영하는 사장이 코로나19 이후 가장 먼저 찾아와 준 한국인 관광객들에게 감사의 마음을 담은 손 편지를 남겨 훈훈함을 전하고 있습니다.\n\n지난 27일 SNS에는 ‘일본 한 소도시 카페 화장실에 붙어있는 글귀’라는 제목의 글이 올라왔습니다.\n\n공개된 사진에는 일본 에히메현 마쓰야마시의 한 카페 벽면에 한국어로 작성된 손 편지가 붙어 있는 모습이 담겼습니다.\n\n카페 측은 편지에서 \"이 가게를 개점하자마자 코로나 때문에 손님이 없어 고민이 많았다”며 “코로나 이후 가장 먼저 방문해 주신 분들이 한국분들”이라고 적었습니다.\n\n이어 \"그 이후에도 많은 한국 분이 저희 카페를 방문하고 사랑해 주셨다\"며 \"정말 많은 도움을 받아 감사한 만큼 더 열심히 하겠다. 방문해 주시는 한국 분들 사랑합니다\"고 감사의 마음을 전했습니다.\n\n해당 카페는 마쓰야마를 찾는 한국인 관광객들 사이에서 입소문이 난 곳으로 알려졌습니다.\n\n실제 방문 경험이 있다는 한 누리꾼은 \"한국인 관광객들이 숙소를 많이 잡는 동네에서 부부가 운영하는 카페\"라며 \"사장님이 친절해 입소문을 탔고 지금은 마쓰야마 여행 코스 중 하나가 됐다\"고 소개했습니다.\n\n또 다른 누리꾼은 \"오전 7시 30분부터 문을 열어 아침 일찍 움직이는 한국 관광객들에게 잘 맞는 곳\"이라고 전했습니다.\n\n사연을 접한 누리꾼들은 \"저렇게 아름답게 고마움을 표현해 주다니\", \"한국 관광객들이 저 글을 보면 여행이 더 즐거워질 것 같다\", \"다음에 또 방문하고 싶은 마음이 들 것 같다\" 등의 반응을 보였습니다.\n\n#일본 #소도시 #카페 #사장 #한국인 #사랑 #애정 #훈훈 #따뜻 #손편지\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n석승현(stone@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261029/MYH202610300038085KR.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261029/AKR20261029101325Uof_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "김동욱",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH202610300038085KR#comments",
-          "content": "가상자산 거래소 빗썸에서 일어난 사내 시스템 해킹으로 고객 개인정보도 유출된 것으로 알려졌습니다. 어제(29일) 가상자산 업계 등에 따르면, 빗썸에서 지난 27일 일어난 사내 모바일 그룹웨어 시스템 해킹 사고로 고객정보 수백 건이 유출된 것으로 알려졌습니다. 빗썸은 당일 사고를 인지한 뒤 금융당국과 한국인터넷진흥원, 개인정보보호위원회에 침해 사고로 임직원 정보가 유출됐다고 알렸지만, 이후 정확한 유출 범위를 분석하는 과정에서 고객정보 유출...",
-          "contentSnippet": "가상자산 거래소 빗썸에서 일어난 사내 시스템 해킹으로 고객 개인정보도 유출된 것으로 알려졌습니다. 어제(29일) 가상자산 업계 등에 따르면, 빗썸에서 지난 27일 일어난 사내 모바일 그룹웨어 시스템 해킹 사고로 고객정보 수백 건이 유출된 것으로 알려졌습니다. 빗썸은 당일 사고를 인지한 뒤 금융당국과 한국인터넷진흥원, 개인정보보호위원회에 침해 사고로 임직원 정보가 유출됐다고 알렸지만, 이후 정확한 유출 범위를 분석하는 과정에서 고객정보 유출...",
-          "guid": "MYH202610300038085KR",
+          "dc:creator": "석승현",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261029101325Uof#comments",
+          "content": "일본의 한 카페에서 한국인 관광객들에게 감사의 마음을 담은 손 편지를 붙여 놓은 모습.[SNS 갈무리][SNS 갈무리] 일본의 한 작은 도시에서 카페를 운영하는 사장이 코로나19 이후 가장 먼저 찾아와 준 한국인 관광객들에게 감사의 마음을 담은 손 편지를 남겨 훈훈함을 전하고 있습니다. 지난 27일 SNS에는 ‘일본 한 소도시 카페 화장실에 붙어있는 글귀’라는 제목의 글이 올라왔습니다. 공개된 사진에는 일본 에히메현 마쓰야마시의 한 카페 ...",
+          "contentSnippet": "일본의 한 카페에서 한국인 관광객들에게 감사의 마음을 담은 손 편지를 붙여 놓은 모습.[SNS 갈무리][SNS 갈무리] 일본의 한 작은 도시에서 카페를 운영하는 사장이 코로나19 이후 가장 먼저 찾아와 준 한국인 관광객들에게 감사의 마음을 담은 손 편지를 남겨 훈훈함을 전하고 있습니다. 지난 27일 SNS에는 ‘일본 한 소도시 카페 화장실에 붙어있는 글귀’라는 제목의 글이 올라왔습니다. 공개된 사진에는 일본 에히메현 마쓰야마시의 한 카페 ...",
+          "guid": "AKR20261029101325Uof",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-29T15:38:09.000Z"
+          "isoDate": "2026-10-29T20:02:03.000Z"
+        },
+        {
+          "creator": "석승현",
+          "title": "차 문 열어놨더니 흑곰 '쏙'…탈출 소동에 차량 '박살'",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261028173807TBo",
+          "pubDate": "Fri, 30 Oct 2026 05:02:03 +0900",
+          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261029/AKR20261028173807TBo_01_i.jpg\" alt=\"\"><span class=\"yna_title\">경찰이 밧줄로 차량 문을 열자 밖으로 빠져나오는 흑곰의 모습.</span><span class=\"yna_caption\">[페이스북 Angie Harkins 갈무리]</span><span class=\"yna_description\">[페이스북 Angie Harkins 갈무리]</span></div>\n미국 알래스카에서 흑곰 한 마리가 차량 안에 침입했다가 갇힌 뒤 탈출하는 과정에서 차량 내부를 크게 훼손하는 일이 벌어졌습니다.\n\n현지시간 27일 미국 매체 뉴욕포스트 등에 따르면, 지난 26일 새벽 0시 30분쯤 미국 알래스카주의 주도인 주노에서 한 흑곰이 문이 잠기지 않은 스바루 차량 안으로 들어갔다가 빠져나오지 못하는 사고가 발생했습니다.\n\n곰은 이날 밤에만 차량 3대 안에 들어갔으며, 마지막으로 들어간 차량에서 차 문이 닫히면서 안에 갇힌 것으로 전해졌습니다.\n\n이후 한 이웃 주민이 계속 울리는 차량 경적 소리를 듣고 확인에 나섰다가 차 안에 갇힌 곰을 발견해 경찰에 신고했습니다.\n\n출동한 경찰은 차량 주인을 깨워 차 문을 열려고 했지만, 곰이 차 안에서 전선을 뜯어놓은 탓에 문이 열리지 않았습니다.\n\n결국 경찰은 밧줄을 이용해 차량 문을 강제로 열었고, 약 5~10분 만에 곰을 밖으로 내보내는 데 성공했습니다. 곰은 큰 부상 없이 현장을 벗어난 것으로 알려졌습니다.\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261029/AKR20261028173807TBo_02_i.jpg\" alt=\"\"><span class=\"yna_title\">흑곰의 침입으로 파손된 차량 내부 모습.</span><span class=\"yna_caption\">[페이스북 Angie Harkins 갈무리]</span><span class=\"yna_description\">[페이스북 Angie Harkins 갈무리]</span></div>\n하지만 곰의 침입으로 차량 내부는 처참하게 파손됐습니다. 좌석과 뒷좌석이 찢겨 내부 충전재가 드러났고, 문 안쪽 플라스틱과 전선도 뜯겨나갔습니다.\n\n차량 주인 마이클 윌슨은 \"곰이 다른 문으로 나가려고 상당히 몸부림친 것 같다\"며 피해 상황을 설명했습니다. 이어 \"가입한 보험이 배상책임보험 뿐이고 차량 자체 피해를 보상하는 보험에는 가입하지 않아 차량 수리비를 보상 받기는 어려운 상황\"이라고 밝혔습니다.\n\n큰 피해를 입고도 윌슨은 “(피해 차량 제조사인) 스바루가 차는 잘 만든 것 같다. 곰도 빠져나오지 못했다”고 농담을 건넸습니다.\n\n그러면서 비슷한 피해를 막기 위해 “차 문은 꼭 잠그고 음식이나 사탕을 차 안에 두지 말라”고 당부했습니다.\n\n#미국 #알래스카 #흑곰 #침입 #해외화제 #이슈\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n석승현(stone@yna.co.kr)",
+          "content:encodedSnippet": "경찰이 밧줄로 차량 문을 열자 밖으로 빠져나오는 흑곰의 모습.[페이스북 Angie Harkins 갈무리][페이스북 Angie Harkins 갈무리]\n흑곰의 침입으로 파손된 차량 내부 모습.[페이스북 Angie Harkins 갈무리][페이스북 Angie Harkins 갈무리]\n하지만 곰의 침입으로 차량 내부는 처참하게 파손됐습니다. 좌석과 뒷좌석이 찢겨 내부 충전재가 드러났고, 문 안쪽 플라스틱과 전선도 뜯겨나갔습니다.\n\n차량 주인 마이클 윌슨은 \"곰이 다른 문으로 나가려고 상당히 몸부림친 것 같다\"며 피해 상황을 설명했습니다. 이어 \"가입한 보험이 배상책임보험 뿐이고 차량 자체 피해를 보상하는 보험에는 가입하지 않아 차량 수리비를 보상 받기는 어려운 상황\"이라고 밝혔습니다.\n\n큰 피해를 입고도 윌슨은 “(피해 차량 제조사인) 스바루가 차는 잘 만든 것 같다. 곰도 빠져나오지 못했다”고 농담을 건넸습니다.\n\n그러면서 비슷한 피해를 막기 위해 “차 문은 꼭 잠그고 음식이나 사탕을 차 안에 두지 말라”고 당부했습니다.\n\n#미국 #알래스카 #흑곰 #침입 #해외화제 #이슈\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n석승현(stone@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261029/AKR20261028173807TBo_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "석승현",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261028173807TBo#comments",
+          "content": "경찰이 밧줄로 차량 문을 열자 밖으로 빠져나오는 흑곰의 모습.[페이스북 Angie Harkins 갈무리][페이스북 Angie Harkins 갈무리] 미국 알래스카에서 흑곰 한 마리가 차량 안에 침입했다가 갇힌 뒤 탈출하는 과정에서 차량 내부를 크게 훼손하는 일이 벌어졌습니다. 현지시간 27일 미국 매체 뉴욕포스트 등에 따르면, 지난 26일 새벽 0시 30분쯤 미국 알래스카주의 주도인 주노에서 한 흑곰이 문이 잠기지 않은 스바루 차량 안으로...",
+          "contentSnippet": "경찰이 밧줄로 차량 문을 열자 밖으로 빠져나오는 흑곰의 모습.[페이스북 Angie Harkins 갈무리][페이스북 Angie Harkins 갈무리] 미국 알래스카에서 흑곰 한 마리가 차량 안에 침입했다가 갇힌 뒤 탈출하는 과정에서 차량 내부를 크게 훼손하는 일이 벌어졌습니다. 현지시간 27일 미국 매체 뉴욕포스트 등에 따르면, 지난 26일 새벽 0시 30분쯤 미국 알래스카주의 주도인 주노에서 한 흑곰이 문이 잠기지 않은 스바루 차량 안으로...",
+          "guid": "AKR20261028173807TBo",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-29T20:02:03.000Z"
         },
         {
           "creator": "김채영",
-          "title": "'수사반장'·'전원일기' 국민 배우 최불암 별세…향년 87세",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261030003801CB2",
-          "pubDate": "Fri, 30 Oct 2026 00:38:03 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261029/AKR20261030003801CB2_01_i.jpg\" alt=\"\"><span class=\"yna_title\">배우 최불암</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n'국민 아버지'로 불리며 오랜 세월 시청자들의 사랑을 받아온 배우 최불암이 향년 87세를 일기로 별세했습니다.\n\n방송계에 따르면 최불암은 어젯밤(29일) 10시쯤 서울 강서구의 한 병원에서 입원 치료 중 세상을 떠났습니다.\n\n1939년생인 고인은 1959년 연극 '햄릿'으로 데뷔한 뒤 1965년 국립극단 단원으로 본격적인 연기 활동을 시작했습니다.\n\n이후 1971년부터 1989년까지 방송된 MBC 드라마 '수사반장'에서 박영한 반장 역을 맡아 한국형 수사물의 상징적인 인물로 자리 잡았습니다.\n\n1980년부터 2002년까지 방영된 '전원일기'에서는 양촌리 김 회장 역으로 출연해 서민적이고 따뜻한 아버지의 모습을 보여주며 국민 배우로 사랑받았습니다.\n\n배우 활동뿐 아니라 KBS '좋은나라 운동본부'와 '한국인의 밥상' 등 시사·교양 프로그램 진행자로도 활약했습니다.\n\n지난해 3월 허리디스크 수술을 받은 뒤 거동이 불편해지면서 2011년부터 14년간 진행한 KBS 1TV 시사교양 프로그램 '한국인의 밥상'에서 하차했습니다. 이후 재활에 힘써왔으나 건강이 급격히 악화한 것으로 전해졌습니다\n\n올해 5월에는 고인의 60여년 연기 인생을 담은 MBC 다큐멘터리 '파하, 최불암입니다'가 2부에 걸쳐 공개돼 관심을 모았습니다. 당초 최불암도 출연하는 것으로 알려졌으나, 재활치료에 전념하고 싶다는 가족의 요청으로 카메라 앞에 서지 않았습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김채영(chaechae@yna.co.kr)",
-          "content:encodedSnippet": "배우 최불암[연합뉴스 제공][연합뉴스 제공]\n'국민 아버지'로 불리며 오랜 세월 시청자들의 사랑을 받아온 배우 최불암이 향년 87세를 일기로 별세했습니다.\n\n방송계에 따르면 최불암은 어젯밤(29일) 10시쯤 서울 강서구의 한 병원에서 입원 치료 중 세상을 떠났습니다.\n\n1939년생인 고인은 1959년 연극 '햄릿'으로 데뷔한 뒤 1965년 국립극단 단원으로 본격적인 연기 활동을 시작했습니다.\n\n이후 1971년부터 1989년까지 방송된 MBC 드라마 '수사반장'에서 박영한 반장 역을 맡아 한국형 수사물의 상징적인 인물로 자리 잡았습니다.\n\n1980년부터 2002년까지 방영된 '전원일기'에서는 양촌리 김 회장 역으로 출연해 서민적이고 따뜻한 아버지의 모습을 보여주며 국민 배우로 사랑받았습니다.\n\n배우 활동뿐 아니라 KBS '좋은나라 운동본부'와 '한국인의 밥상' 등 시사·교양 프로그램 진행자로도 활약했습니다.\n\n지난해 3월 허리디스크 수술을 받은 뒤 거동이 불편해지면서 2011년부터 14년간 진행한 KBS 1TV 시사교양 프로그램 '한국인의 밥상'에서 하차했습니다. 이후 재활에 힘써왔으나 건강이 급격히 악화한 것으로 전해졌습니다\n\n올해 5월에는 고인의 60여년 연기 인생을 담은 MBC 다큐멘터리 '파하, 최불암입니다'가 2부에 걸쳐 공개돼 관심을 모았습니다. 당초 최불암도 출연하는 것으로 알려졌으나, 재활치료에 전념하고 싶다는 가족의 요청으로 카메라 앞에 서지 않았습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김채영(chaechae@yna.co.kr)",
+          "title": "美 국가채무, GDP 100% 넘어…2차대전 이후 첫 연간 기록",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261030031536UxU",
+          "pubDate": "Fri, 30 Oct 2026 03:15:39 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261029/AKR20261030031536UxU_01_i.jpg\" alt=\"\"><span class=\"yna_title\">미 재무부 빌딩</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n미국의 국내총생산(GDP) 대비 연방정부 채무 비율이 회계연도 말 기준으로 80년 만에 처음 100%를 넘어섰습니다.\n\n월스트리트저널은 현지시간 29일, 2026 회계연도 말인 지난달 30일 기준 미국의 정부 내부 보유분을 제외한 연방정부 채무가 32조 2천억 달러, 우리 돈 약 4경 3천억 원으로 집계됐다고 보도했습니다.\n\n이는 GDP의 100.03%로, 전년도 회계연도 말 99.4%에서 상승한 수치입니다.\n\n미국의 GDP 대비 채무 비율이 회계연도 말 기준으로 100%를 넘어선 건 제2차 세계대전 직후인 1946년 이후 처음입니다.\n\n2026 회계연도 재정적자는 약 2조 달러로 GDP의 6.2%에 달했습니다.\n\n고금리로 국채 이자 부담이 커지는 가운데 정부 차입까지 빠르게 늘면서 미국의 재정 건전성에 대한 우려도 커지고 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김채영(chaechae@yna.co.kr)",
+          "content:encodedSnippet": "미 재무부 빌딩[연합뉴스 제공][연합뉴스 제공]\n미국의 국내총생산(GDP) 대비 연방정부 채무 비율이 회계연도 말 기준으로 80년 만에 처음 100%를 넘어섰습니다.\n\n월스트리트저널은 현지시간 29일, 2026 회계연도 말인 지난달 30일 기준 미국의 정부 내부 보유분을 제외한 연방정부 채무가 32조 2천억 달러, 우리 돈 약 4경 3천억 원으로 집계됐다고 보도했습니다.\n\n이는 GDP의 100.03%로, 전년도 회계연도 말 99.4%에서 상승한 수치입니다.\n\n미국의 GDP 대비 채무 비율이 회계연도 말 기준으로 100%를 넘어선 건 제2차 세계대전 직후인 1946년 이후 처음입니다.\n\n2026 회계연도 재정적자는 약 2조 달러로 GDP의 6.2%에 달했습니다.\n\n고금리로 국채 이자 부담이 커지는 가운데 정부 차입까지 빠르게 늘면서 미국의 재정 건전성에 대한 우려도 커지고 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김채영(chaechae@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261029/AKR20261030003801CB2_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261029/AKR20261030031536UxU_01_i.jpg",
             "type": "image/jpeg"
           },
           "dc:creator": "김채영",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261030003801CB2#comments",
-          "content": "배우 최불암[연합뉴스 제공][연합뉴스 제공] '국민 아버지'로 불리며 오랜 세월 시청자들의 사랑을 받아온 배우 최불암이 향년 87세를 일기로 별세했습니다. 방송계에 따르면 최불암은 어젯밤(29일) 10시쯤 서울 강서구의 한 병원에서 입원 치료 중 세상을 떠났습니다. 1939년생인 고인은 1959년 연극 '햄릿'으로 데뷔한 뒤 1965년 국립극단 단원으로 본격적인 연기 활동을 시작했습니다. 이후 1971년부터 1989년까지 방송된 MBC 드...",
-          "contentSnippet": "배우 최불암[연합뉴스 제공][연합뉴스 제공] '국민 아버지'로 불리며 오랜 세월 시청자들의 사랑을 받아온 배우 최불암이 향년 87세를 일기로 별세했습니다. 방송계에 따르면 최불암은 어젯밤(29일) 10시쯤 서울 강서구의 한 병원에서 입원 치료 중 세상을 떠났습니다. 1939년생인 고인은 1959년 연극 '햄릿'으로 데뷔한 뒤 1965년 국립극단 단원으로 본격적인 연기 활동을 시작했습니다. 이후 1971년부터 1989년까지 방송된 MBC 드...",
-          "guid": "AKR20261030003801CB2",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261030031536UxU#comments",
+          "content": "미 재무부 빌딩[연합뉴스 제공][연합뉴스 제공] 미국의 국내총생산(GDP) 대비 연방정부 채무 비율이 회계연도 말 기준으로 80년 만에 처음 100%를 넘어섰습니다. 월스트리트저널은 현지시간 29일, 2026 회계연도 말인 지난달 30일 기준 미국의 정부 내부 보유분을 제외한 연방정부 채무가 32조 2천억 달러, 우리 돈 약 4경 3천억 원으로 집계됐다고 보도했습니다. 이는 GDP의 100.03%로, 전년도 회계연도 말 99.4%에서 상승...",
+          "contentSnippet": "미 재무부 빌딩[연합뉴스 제공][연합뉴스 제공] 미국의 국내총생산(GDP) 대비 연방정부 채무 비율이 회계연도 말 기준으로 80년 만에 처음 100%를 넘어섰습니다. 월스트리트저널은 현지시간 29일, 2026 회계연도 말인 지난달 30일 기준 미국의 정부 내부 보유분을 제외한 연방정부 채무가 32조 2천억 달러, 우리 돈 약 4경 3천억 원으로 집계됐다고 보도했습니다. 이는 GDP의 100.03%로, 전년도 회계연도 말 99.4%에서 상승...",
+          "guid": "AKR20261030031536UxU",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-29T15:38:03.000Z"
+          "isoDate": "2026-10-29T18:15:39.000Z"
+        },
+        {
+          "creator": "김채영",
+          "title": "\"美, 국내 생산 확대하는 자동차 업체에 관세완화…아우디에 확약\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261030031510UGL",
+          "pubDate": "Fri, 30 Oct 2026 03:15:11 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261029/AKR20261030031510UGL_01_i.jpg\" alt=\"\"><span class=\"yna_title\">아우디</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n도널드 트럼프 미국 행정부가 미국 내 생산 확대를 약속하는 자동차 제조사에 관세를 완화해주겠다고 약속한 것으로 전해졌습니다.\n\n월스트리트저널은 현지시간 29일, 미 상무부가 독일 자동차 업체 아우디의 미국 공장 유치 협상 과정에서 이 같은 방침을 확약했다고 보도했습니다.\n\n미국에 생산시설을 짓는 기업이 수입하는 자동차와 부품의 관세를 면제하거나, 다른 방식으로 관세 부담을 상쇄해주는 방안이 검토되고 있습니다.\n\n혜택을 받으려면 내년 말 이전에 공장 건설에 착수하겠다고 약속해야 하는 것으로 알려졌습니다.\n\n앞서 트럼프 대통령은 지난 24일 조지아주 유세에서 아우디가 42억 달러, 우리 돈 약 5조 6천억 원을 투자해 미국에 공장을 짓겠다는 계획을 발표했습니다.\n\n아우디는 미국에서 판매하는 차량을 멕시코와 유럽에서 전량 수입해왔으며, 지난해 관세로만 10억 달러 넘게 낸 것으로 전해졌습니다.\n\n다만 관세 완화 프로그램의 구체적인 내용은 아직 조율 중이라고 월스트리트저널은 전했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김채영(chaechae@yna.co.kr)",
+          "content:encodedSnippet": "아우디[연합뉴스 제공][연합뉴스 제공]\n도널드 트럼프 미국 행정부가 미국 내 생산 확대를 약속하는 자동차 제조사에 관세를 완화해주겠다고 약속한 것으로 전해졌습니다.\n\n월스트리트저널은 현지시간 29일, 미 상무부가 독일 자동차 업체 아우디의 미국 공장 유치 협상 과정에서 이 같은 방침을 확약했다고 보도했습니다.\n\n미국에 생산시설을 짓는 기업이 수입하는 자동차와 부품의 관세를 면제하거나, 다른 방식으로 관세 부담을 상쇄해주는 방안이 검토되고 있습니다.\n\n혜택을 받으려면 내년 말 이전에 공장 건설에 착수하겠다고 약속해야 하는 것으로 알려졌습니다.\n\n앞서 트럼프 대통령은 지난 24일 조지아주 유세에서 아우디가 42억 달러, 우리 돈 약 5조 6천억 원을 투자해 미국에 공장을 짓겠다는 계획을 발표했습니다.\n\n아우디는 미국에서 판매하는 차량을 멕시코와 유럽에서 전량 수입해왔으며, 지난해 관세로만 10억 달러 넘게 낸 것으로 전해졌습니다.\n\n다만 관세 완화 프로그램의 구체적인 내용은 아직 조율 중이라고 월스트리트저널은 전했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김채영(chaechae@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261029/AKR20261030031510UGL_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "김채영",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261030031510UGL#comments",
+          "content": "아우디[연합뉴스 제공][연합뉴스 제공] 도널드 트럼프 미국 행정부가 미국 내 생산 확대를 약속하는 자동차 제조사에 관세를 완화해주겠다고 약속한 것으로 전해졌습니다. 월스트리트저널은 현지시간 29일, 미 상무부가 독일 자동차 업체 아우디의 미국 공장 유치 협상 과정에서 이 같은 방침을 확약했다고 보도했습니다. 미국에 생산시설을 짓는 기업이 수입하는 자동차와 부품의 관세를 면제하거나, 다른 방식으로 관세 부담을 상쇄해주는 방안이 검토되고 있습...",
+          "contentSnippet": "아우디[연합뉴스 제공][연합뉴스 제공] 도널드 트럼프 미국 행정부가 미국 내 생산 확대를 약속하는 자동차 제조사에 관세를 완화해주겠다고 약속한 것으로 전해졌습니다. 월스트리트저널은 현지시간 29일, 미 상무부가 독일 자동차 업체 아우디의 미국 공장 유치 협상 과정에서 이 같은 방침을 확약했다고 보도했습니다. 미국에 생산시설을 짓는 기업이 수입하는 자동차와 부품의 관세를 면제하거나, 다른 방식으로 관세 부담을 상쇄해주는 방안이 검토되고 있습...",
+          "guid": "AKR20261030031510UGL",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-29T18:15:11.000Z"
         },
         {
           "creator": "신선재",
-          "title": "경찰, '원당역 흉기 공격' 역무원 구속영장",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261030003726sl5",
-          "pubDate": "Fri, 30 Oct 2026 00:37:27 +0900",
-          "content:encoded": "경기 고양경찰서는 지하철 3호선 원당역에서 동료 여성 역무원에게 흉기를 휘두른 남성 역무원 A 씨에 대해 살인미수 혐의로 어제(29일) 구속영장을 신청했습니다.\n\nA 씨는 지난 28일 낮 12시 30분쯤 원당역 역무실에서 동료 여성 역무원 B 씨에게 흉기를 휘둘러 중상을 입힌 혐의를 받습니다.\n\n경찰 조사에서 A 씨는 6개월 전에 흉기를 구입해 가방에 소지하고 다녔다고 진술한 걸로 파악됐습니다.\n\n앞서 B 씨가 갈등을 겪던 A 씨와 분리조치를 요구했지만 묵살됐다는 주장도 나온 가운데, 경찰은 사측 대응이 적절했는지도 들여다보고 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신선재(freshash@yna.co.kr)",
-          "content:encodedSnippet": "경기 고양경찰서는 지하철 3호선 원당역에서 동료 여성 역무원에게 흉기를 휘두른 남성 역무원 A 씨에 대해 살인미수 혐의로 어제(29일) 구속영장을 신청했습니다.\n\nA 씨는 지난 28일 낮 12시 30분쯤 원당역 역무실에서 동료 여성 역무원 B 씨에게 흉기를 휘둘러 중상을 입힌 혐의를 받습니다.\n\n경찰 조사에서 A 씨는 6개월 전에 흉기를 구입해 가방에 소지하고 다녔다고 진술한 걸로 파악됐습니다.\n\n앞서 B 씨가 갈등을 겪던 A 씨와 분리조치를 요구했지만 묵살됐다는 주장도 나온 가운데, 경찰은 사측 대응이 적절했는지도 들여다보고 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신선재(freshash@yna.co.kr)",
+          "title": "[속보] 경기 버스 노사 임단협 타결…파업 예고 철회",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261030023721lXE",
+          "pubDate": "Fri, 30 Oct 2026 02:37:22 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261029/AKR20261030023721lXE_01_i.jpg\" alt=\"\"><span class=\"yna_title\">연합뉴스TV 속보(CG)</span><span class=\"yna_caption\"></span><span class=\"yna_description\"></span></div>\n\n\n[속보] 경기 버스 노사 임단협 타결…파업 예고 철회\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신선재(freshash@yna.co.kr)",
+          "content:encodedSnippet": "연합뉴스TV 속보(CG)\n\n\n[속보] 경기 버스 노사 임단협 타결…파업 예고 철회\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신선재(freshash@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261029/MYH20261030003726sl5.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261029/AKR20261030023721lXE_01_i.jpg",
             "type": "image/jpeg"
           },
           "dc:creator": "신선재",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261030003726sl5#comments",
-          "content": "경기 고양경찰서는 지하철 3호선 원당역에서 동료 여성 역무원에게 흉기를 휘두른 남성 역무원 A 씨에 대해 살인미수 혐의로 어제(29일) 구속영장을 신청했습니다. A 씨는 지난 28일 낮 12시 30분쯤 원당역 역무실에서 동료 여성 역무원 B 씨에게 흉기를 휘둘러 중상을 입힌 혐의를 받습니다. 경찰 조사에서 A 씨는 6개월 전에 흉기를 구입해 가방에 소지하고 다녔다고 진술한 걸로 파악됐습니다. 앞서 B 씨가 갈등을 겪던 A 씨와 분리조치를 ...",
-          "contentSnippet": "경기 고양경찰서는 지하철 3호선 원당역에서 동료 여성 역무원에게 흉기를 휘두른 남성 역무원 A 씨에 대해 살인미수 혐의로 어제(29일) 구속영장을 신청했습니다. A 씨는 지난 28일 낮 12시 30분쯤 원당역 역무실에서 동료 여성 역무원 B 씨에게 흉기를 휘둘러 중상을 입힌 혐의를 받습니다. 경찰 조사에서 A 씨는 6개월 전에 흉기를 구입해 가방에 소지하고 다녔다고 진술한 걸로 파악됐습니다. 앞서 B 씨가 갈등을 겪던 A 씨와 분리조치를 ...",
-          "guid": "MYH20261030003726sl5",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261030023721lXE#comments",
+          "content": "연합뉴스TV 속보(CG) [속보] 경기 버스 노사 임단협 타결…파업 예고 철회 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 신선재(freshash@yna.co.kr)",
+          "contentSnippet": "연합뉴스TV 속보(CG) [속보] 경기 버스 노사 임단협 타결…파업 예고 철회 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 신선재(freshash@yna.co.kr)",
+          "guid": "AKR20261030023721lXE",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-29T15:37:27.000Z"
+          "isoDate": "2026-10-29T17:37:22.000Z"
+        },
+        {
+          "creator": "신선재",
+          "title": "'영원한 수사반장' 배우 최불암 별세…향년 86세",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261030015609Ryn",
+          "pubDate": "Fri, 30 Oct 2026 01:56:11 +0900",
+          "content:encoded": "[앵커]\n\n오랫동안 안방 극장을 지키며 '국민 아버지'로 사랑 받은 배우 최불암 씨가 병원에서 입원 치료를 받던 도중 향년 86세로 세상을 떠났습니다.\n\n보도국 취재기자 연결해 자세히 들어보겠습니다.\n\n신선재 기자.\n\n[기자]\n\n네, 배우 최불암 씨가 어젯밤(29일) 10시 반쯤 별세했습니다.\n\n서울 강서구의 한 병원에서 입원 치료를 받던 중이었는데요.\n\n67년간 연기 인생을 이어온 고인은 향년 86세를 일기로 세상을 떠났습니다.\n\n고인은 지난해 3월 허리디스크 수술을 받은 뒤 거동이 불편해지면서 2011년부터 14년 동안 진행한 KBS 1TV '한국인의 밥상'에서도 하차해 재활 치료에 힘써왔습니다.\n\n하지만 최근 건강이 급격히 악화한 것으로 전해졌습니다.\n\n장례는 생전에 어린이와 청소년을 위해 힘써온 뜻을 기리기 위해 초록우산 어린이재단장으로 진행됩니다.\n\n장례위원장은 황영기 초록우산 회장이 맡을 예정인데, 이수성·이낙연 전 국무총리 등도 장례위원으로 참여할 것으로 알려졌습니다.\n\n구체적인 위원 명단과 역할은 최종 확정 뒤에 발표될 예정입니다.\n\n사단법인 제로캠프는 \"이번 장례는 대한민국 방송과 공연예술에 큰 발자취를 남긴 국민배우를 추모하는 자리이자, 오랜 세월 어린이와 청소년의 권익을 위해 헌신한 사회공헌가의 삶을 기리는 자리가 될 전망\"이라고 밝혔습니다.\n\n1939년 인천 제물포구에서 태어난 최불암 씨는 1959년 극단 '실험극회'에서 연극 '햄릿'으로 데뷔해 1965년 국립극단 단원으로 본격적인 연기 활동을 시작했습니다.\n\n이후 1967년 현재 KBS인 서울중앙방송 특채 6기 탤런트로 선발돼 드라마 '수양대군'의 김종서 역할로 드라마에 진출했는데요.\n\n특히 한국형 수사물의 시초라고 할 수 있는 드라마 '수사 반장'의 박 반장, 국내 최장수 드라마인 '전원일기'의 김 회장 역할로도 전국적인 인기를 얻으며 국민 배우로 자리매김했습니다.\n\n또 KBS 1TV '한국인의 밥상'의 진행자로도 지난해까지 시청자들과 만났습니다.\n\n최불암 씨의 빈소는 오늘(30일) 서울아산병원 장례식장에 마련될 예정입니다.\n\n지금까지 보도국에서 전해드렸습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신선재(freshash@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n오랫동안 안방 극장을 지키며 '국민 아버지'로 사랑 받은 배우 최불암 씨가 병원에서 입원 치료를 받던 도중 향년 86세로 세상을 떠났습니다.\n\n보도국 취재기자 연결해 자세히 들어보겠습니다.\n\n신선재 기자.\n\n[기자]\n\n네, 배우 최불암 씨가 어젯밤(29일) 10시 반쯤 별세했습니다.\n\n서울 강서구의 한 병원에서 입원 치료를 받던 중이었는데요.\n\n67년간 연기 인생을 이어온 고인은 향년 86세를 일기로 세상을 떠났습니다.\n\n고인은 지난해 3월 허리디스크 수술을 받은 뒤 거동이 불편해지면서 2011년부터 14년 동안 진행한 KBS 1TV '한국인의 밥상'에서도 하차해 재활 치료에 힘써왔습니다.\n\n하지만 최근 건강이 급격히 악화한 것으로 전해졌습니다.\n\n장례는 생전에 어린이와 청소년을 위해 힘써온 뜻을 기리기 위해 초록우산 어린이재단장으로 진행됩니다.\n\n장례위원장은 황영기 초록우산 회장이 맡을 예정인데, 이수성·이낙연 전 국무총리 등도 장례위원으로 참여할 것으로 알려졌습니다.\n\n구체적인 위원 명단과 역할은 최종 확정 뒤에 발표될 예정입니다.\n\n사단법인 제로캠프는 \"이번 장례는 대한민국 방송과 공연예술에 큰 발자취를 남긴 국민배우를 추모하는 자리이자, 오랜 세월 어린이와 청소년의 권익을 위해 헌신한 사회공헌가의 삶을 기리는 자리가 될 전망\"이라고 밝혔습니다.\n\n1939년 인천 제물포구에서 태어난 최불암 씨는 1959년 극단 '실험극회'에서 연극 '햄릿'으로 데뷔해 1965년 국립극단 단원으로 본격적인 연기 활동을 시작했습니다.\n\n이후 1967년 현재 KBS인 서울중앙방송 특채 6기 탤런트로 선발돼 드라마 '수양대군'의 김종서 역할로 드라마에 진출했는데요.\n\n특히 한국형 수사물의 시초라고 할 수 있는 드라마 '수사 반장'의 박 반장, 국내 최장수 드라마인 '전원일기'의 김 회장 역할로도 전국적인 인기를 얻으며 국민 배우로 자리매김했습니다.\n\n또 KBS 1TV '한국인의 밥상'의 진행자로도 지난해까지 시청자들과 만났습니다.\n\n최불암 씨의 빈소는 오늘(30일) 서울아산병원 장례식장에 마련될 예정입니다.\n\n지금까지 보도국에서 전해드렸습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신선재(freshash@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261029/MYH20261030015609Ryn.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "신선재",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261030015609Ryn#comments",
+          "content": "[앵커] 오랫동안 안방 극장을 지키며 '국민 아버지'로 사랑 받은 배우 최불암 씨가 병원에서 입원 치료를 받던 도중 향년 86세로 세상을 떠났습니다. 보도국 취재기자 연결해 자세히 들어보겠습니다. 신선재 기자. [기자] 네, 배우 최불암 씨가 어젯밤(29일) 10시 반쯤 별세했습니다. 서울 강서구의 한 병원에서 입원 치료를 받던 중이었는데요. 67년간 연기 인생을 이어온 고인은 향년 86세를 일기로 세상을 떠났습니다. 고인은 지난해 3월 ...",
+          "contentSnippet": "[앵커] 오랫동안 안방 극장을 지키며 '국민 아버지'로 사랑 받은 배우 최불암 씨가 병원에서 입원 치료를 받던 도중 향년 86세로 세상을 떠났습니다. 보도국 취재기자 연결해 자세히 들어보겠습니다. 신선재 기자. [기자] 네, 배우 최불암 씨가 어젯밤(29일) 10시 반쯤 별세했습니다. 서울 강서구의 한 병원에서 입원 치료를 받던 중이었는데요. 67년간 연기 인생을 이어온 고인은 향년 86세를 일기로 세상을 떠났습니다. 고인은 지난해 3월 ...",
+          "guid": "MYH20261030015609Ryn",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-29T16:56:11.000Z"
+        },
+        {
+          "creator": "김종성",
+          "title": "'국민 아버지' 배우 최불암 별세…서울 아산병원에 빈소",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261030014648ctS",
+          "pubDate": "Fri, 30 Oct 2026 01:46:49 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261029/AKR20261030014648ctS_01_i.jpg\" alt=\"\"><span class=\"yna_title\">대배우 최불암 별세</span><span class=\"yna_caption\">[연합뉴스]</span><span class=\"yna_description\">[연합뉴스]</span></div>\n\n'국민 아버지', '영원한 수사반장'으로 불리며, 오랜 시간 대중의 큰 사랑을 받아온 배우 최불암 씨가 향년 86세를 일기로 세상을 떠났습니다.\n\n방송계에 따르면 최불암 씨는 어제(29일) 오후 10시쯤 서울 강서구의 한 병원에서 입원 치료를 받던 중 영면했습니다.\n\n고인은 지난해 허리 수술을 받은 뒤 거동이 불편해져 14년간 진행을 맡았던 '한국인의 밥상'에서 하차했으며, 이후 재활에 전념해 왔으나 최근 건강이 급격히 악화한 것으로 전해졌습니다.\n\n빈소는 서울 아산병원으로 오늘(30일) 오전 10시부터 조문객을 맞을 예정입니다.\n\n1959년 연극 '햄릿'으로 데뷔해 1967년 TV 방송에 진출한 고인은, 20대 젊은 시절부터 작품의 완성도를 위해 노역을 마다하지 않는 남다른 열정을 보여줬습니다.\n\n특히 18년간 방송된 MBC 드라마 '수사반장'의 박 반장, 그리고 22년간 방영된 국내 최장수 드라마 '전원일기'의 김 회장 역을 통해 범국민적인 사랑을 받으며 '국민 배우'이자 '국민 아버지'로 자리매김했습니다.\n\n고인 특유의 소탈하고 정겨운 웃음소리는 시대를 아우르는 트레이드마크가 돼 1990년대 '최불암 시리즈'라는 유머집이 유행할 정도로 친근한 이미지로 남았습니다.\n\n고인은 연기 활동 외에도 다양한 분야에서 발자취를 남겼습니다.\n\n고 정주영 현대그룹 명예회장과의 인연으로 1992년 제14대 국회의원을 지내며 잠시 정계에 발을 들였고, 정치 활동을 마친 후에는 다시 안방극장으로 돌아와 명품 연기를 선사했습니다.\n\n또 '전원일기' 출연 당시 소외된 아동을 돕는 에피소드를 계기로 초록우산어린이재단 전국후원회장을 30년 가까이 맡았으며, 최근까지 제로캠프 이사장으로서 위기 청소년을 도우며 사회적 책무를 다하는 '시대의 진정한 어른'으로 귀감이 됐습니다.\n\n고 최불암 씨는 연기 인생 60여 년 동안 백상예술대상과 대종상, 은관문화훈장 등 수많은 영예를 안았고, '수사반장'의 공로로 민간인 최초 명예 국가수사본부장으로 위촉되기도 했습니다.\n\n유족으로는 평생을 아끼고 사랑했던 동료 배우이자 아내인 김민자 씨와 1남 1녀가 있습니다.\n\n#최불암 #별세 #배우 #어른 #아버지 #수사반장\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김종성(goldbell@yna.co.kr)",
+          "content:encodedSnippet": "대배우 최불암 별세[연합뉴스][연합뉴스]\n\n'국민 아버지', '영원한 수사반장'으로 불리며, 오랜 시간 대중의 큰 사랑을 받아온 배우 최불암 씨가 향년 86세를 일기로 세상을 떠났습니다.\n\n방송계에 따르면 최불암 씨는 어제(29일) 오후 10시쯤 서울 강서구의 한 병원에서 입원 치료를 받던 중 영면했습니다.\n\n고인은 지난해 허리 수술을 받은 뒤 거동이 불편해져 14년간 진행을 맡았던 '한국인의 밥상'에서 하차했으며, 이후 재활에 전념해 왔으나 최근 건강이 급격히 악화한 것으로 전해졌습니다.\n\n빈소는 서울 아산병원으로 오늘(30일) 오전 10시부터 조문객을 맞을 예정입니다.\n\n1959년 연극 '햄릿'으로 데뷔해 1967년 TV 방송에 진출한 고인은, 20대 젊은 시절부터 작품의 완성도를 위해 노역을 마다하지 않는 남다른 열정을 보여줬습니다.\n\n특히 18년간 방송된 MBC 드라마 '수사반장'의 박 반장, 그리고 22년간 방영된 국내 최장수 드라마 '전원일기'의 김 회장 역을 통해 범국민적인 사랑을 받으며 '국민 배우'이자 '국민 아버지'로 자리매김했습니다.\n\n고인 특유의 소탈하고 정겨운 웃음소리는 시대를 아우르는 트레이드마크가 돼 1990년대 '최불암 시리즈'라는 유머집이 유행할 정도로 친근한 이미지로 남았습니다.\n\n고인은 연기 활동 외에도 다양한 분야에서 발자취를 남겼습니다.\n\n고 정주영 현대그룹 명예회장과의 인연으로 1992년 제14대 국회의원을 지내며 잠시 정계에 발을 들였고, 정치 활동을 마친 후에는 다시 안방극장으로 돌아와 명품 연기를 선사했습니다.\n\n또 '전원일기' 출연 당시 소외된 아동을 돕는 에피소드를 계기로 초록우산어린이재단 전국후원회장을 30년 가까이 맡았으며, 최근까지 제로캠프 이사장으로서 위기 청소년을 도우며 사회적 책무를 다하는 '시대의 진정한 어른'으로 귀감이 됐습니다.\n\n고 최불암 씨는 연기 인생 60여 년 동안 백상예술대상과 대종상, 은관문화훈장 등 수많은 영예를 안았고, '수사반장'의 공로로 민간인 최초 명예 국가수사본부장으로 위촉되기도 했습니다.\n\n유족으로는 평생을 아끼고 사랑했던 동료 배우이자 아내인 김민자 씨와 1남 1녀가 있습니다.\n\n#최불암 #별세 #배우 #어른 #아버지 #수사반장\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김종성(goldbell@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261029/AKR20261030014648ctS_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "김종성",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261030014648ctS#comments",
+          "content": "대배우 최불암 별세[연합뉴스][연합뉴스] '국민 아버지', '영원한 수사반장'으로 불리며, 오랜 시간 대중의 큰 사랑을 받아온 배우 최불암 씨가 향년 86세를 일기로 세상을 떠났습니다. 방송계에 따르면 최불암 씨는 어제(29일) 오후 10시쯤 서울 강서구의 한 병원에서 입원 치료를 받던 중 영면했습니다. 고인은 지난해 허리 수술을 받은 뒤 거동이 불편해져 14년간 진행을 맡았던 '한국인의 밥상'에서 하차했으며, 이후 재활에 전념해 왔으나 ...",
+          "contentSnippet": "대배우 최불암 별세[연합뉴스][연합뉴스] '국민 아버지', '영원한 수사반장'으로 불리며, 오랜 시간 대중의 큰 사랑을 받아온 배우 최불암 씨가 향년 86세를 일기로 세상을 떠났습니다. 방송계에 따르면 최불암 씨는 어제(29일) 오후 10시쯤 서울 강서구의 한 병원에서 입원 치료를 받던 중 영면했습니다. 고인은 지난해 허리 수술을 받은 뒤 거동이 불편해져 14년간 진행을 맡았던 '한국인의 밥상'에서 하차했으며, 이후 재활에 전념해 왔으나 ...",
+          "guid": "AKR20261030014648ctS",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-29T16:46:49.000Z"
         },
         {
           "creator": "이동훈",
-          "title": "헌재 '보완수사권 폐지' 헌법소원 각하",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261030003647Wy7",
-          "pubDate": "Fri, 30 Oct 2026 00:36:47 +0900",
-          "content:encoded": "헌법재판소가 검사의 보완수사권을 폐지한 개정 형사소송법 조항에 대해 기본권 침해 가능성이 없다는 판단을 내놨습니다.\n\n헌재는 형사소송법 196조 삭제 부분 및 197조의2에 대한 위헌확인 소송을 각하했습니다.\n\n해당 소송을 청구한 A 씨는 검찰에서 피의자 조사를 받던 중 형사소송법 개정 이후 보완수사 요구로 수사 주체가 경찰로 바뀌자 \"공정한 재판받을 권리를 침해한다\"며 위헌확인 소송을 냈습니다.\n\n그러나 헌재는 \"보완수사권 관련 조항은 검사와 경찰 사이 수사 권한 배분에 대한 규정\"이라며 \"배분 내용이 변경됐다고 해서 청구인의 법적 지위 등에 불이익이 발생했다고 보기 어렵다\"고 판단했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이동훈(yigiza@yna.co.kr)",
-          "content:encodedSnippet": "헌법재판소가 검사의 보완수사권을 폐지한 개정 형사소송법 조항에 대해 기본권 침해 가능성이 없다는 판단을 내놨습니다.\n\n헌재는 형사소송법 196조 삭제 부분 및 197조의2에 대한 위헌확인 소송을 각하했습니다.\n\n해당 소송을 청구한 A 씨는 검찰에서 피의자 조사를 받던 중 형사소송법 개정 이후 보완수사 요구로 수사 주체가 경찰로 바뀌자 \"공정한 재판받을 권리를 침해한다\"며 위헌확인 소송을 냈습니다.\n\n그러나 헌재는 \"보완수사권 관련 조항은 검사와 경찰 사이 수사 권한 배분에 대한 규정\"이라며 \"배분 내용이 변경됐다고 해서 청구인의 법적 지위 등에 불이익이 발생했다고 보기 어렵다\"고 판단했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이동훈(yigiza@yna.co.kr)",
+          "title": "'테슬라 완전자율주행 환불 요구' 차주들 패소",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261030014353QoP",
+          "pubDate": "Fri, 30 Oct 2026 01:43:53 +0900",
+          "content:encoded": "테슬라의 완전자율주행, FSD 옵션을 구매했으나 해당 기능이 제대로 구현되지 않았다며 차주들이 환불 요구 소송을 제기했지만 패소했습니다.\n\n서울중앙지법은 차주 80여 명이 테슬라코리아유한회사를 상대로 낸 매매대금 반환 소송에서 원고 패소로 판결했습니다.\n\n2019년부터 2022년 사이 해당 옵션을 산 차주들은 수년간 해당 기능을 이용하지 못해 테슬라가 옵션 제공 이행 의무를 위반했다며 2024년에 소송을 냈습니다.\n\n하지만 재판부는 해당 옵션 구매 계약은 \"기술 발전이 이뤄지는 경우 제공하기로 한 불확정기한부 계약\"이며, 오토파일럿 기능도 포함돼 옵션에 대한 이행 불능이라고 볼 수 없다고 판단했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이동훈(yigiza@yna.co.kr)",
+          "content:encodedSnippet": "테슬라의 완전자율주행, FSD 옵션을 구매했으나 해당 기능이 제대로 구현되지 않았다며 차주들이 환불 요구 소송을 제기했지만 패소했습니다.\n\n서울중앙지법은 차주 80여 명이 테슬라코리아유한회사를 상대로 낸 매매대금 반환 소송에서 원고 패소로 판결했습니다.\n\n2019년부터 2022년 사이 해당 옵션을 산 차주들은 수년간 해당 기능을 이용하지 못해 테슬라가 옵션 제공 이행 의무를 위반했다며 2024년에 소송을 냈습니다.\n\n하지만 재판부는 해당 옵션 구매 계약은 \"기술 발전이 이뤄지는 경우 제공하기로 한 불확정기한부 계약\"이며, 오토파일럿 기능도 포함돼 옵션에 대한 이행 불능이라고 볼 수 없다고 판단했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이동훈(yigiza@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261029/MYH20261030003647Wy7.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261029/MYH20261030014353QoP.jpg",
             "type": "image/jpeg"
           },
           "dc:creator": "이동훈",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261030003647Wy7#comments",
-          "content": "헌법재판소가 검사의 보완수사권을 폐지한 개정 형사소송법 조항에 대해 기본권 침해 가능성이 없다는 판단을 내놨습니다. 헌재는 형사소송법 196조 삭제 부분 및 197조의2에 대한 위헌확인 소송을 각하했습니다. 해당 소송을 청구한 A 씨는 검찰에서 피의자 조사를 받던 중 형사소송법 개정 이후 보완수사 요구로 수사 주체가 경찰로 바뀌자 \"공정한 재판받을 권리를 침해한다\"며 위헌확인 소송을 냈습니다. 그러나 헌재는 \"보완수사권 관련 조항은 검사와...",
-          "contentSnippet": "헌법재판소가 검사의 보완수사권을 폐지한 개정 형사소송법 조항에 대해 기본권 침해 가능성이 없다는 판단을 내놨습니다. 헌재는 형사소송법 196조 삭제 부분 및 197조의2에 대한 위헌확인 소송을 각하했습니다. 해당 소송을 청구한 A 씨는 검찰에서 피의자 조사를 받던 중 형사소송법 개정 이후 보완수사 요구로 수사 주체가 경찰로 바뀌자 \"공정한 재판받을 권리를 침해한다\"며 위헌확인 소송을 냈습니다. 그러나 헌재는 \"보완수사권 관련 조항은 검사와...",
-          "guid": "MYH20261030003647Wy7",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261030014353QoP#comments",
+          "content": "테슬라의 완전자율주행, FSD 옵션을 구매했으나 해당 기능이 제대로 구현되지 않았다며 차주들이 환불 요구 소송을 제기했지만 패소했습니다. 서울중앙지법은 차주 80여 명이 테슬라코리아유한회사를 상대로 낸 매매대금 반환 소송에서 원고 패소로 판결했습니다. 2019년부터 2022년 사이 해당 옵션을 산 차주들은 수년간 해당 기능을 이용하지 못해 테슬라가 옵션 제공 이행 의무를 위반했다며 2024년에 소송을 냈습니다. 하지만 재판부는 해당 옵션 ...",
+          "contentSnippet": "테슬라의 완전자율주행, FSD 옵션을 구매했으나 해당 기능이 제대로 구현되지 않았다며 차주들이 환불 요구 소송을 제기했지만 패소했습니다. 서울중앙지법은 차주 80여 명이 테슬라코리아유한회사를 상대로 낸 매매대금 반환 소송에서 원고 패소로 판결했습니다. 2019년부터 2022년 사이 해당 옵션을 산 차주들은 수년간 해당 기능을 이용하지 못해 테슬라가 옵션 제공 이행 의무를 위반했다며 2024년에 소송을 냈습니다. 하지만 재판부는 해당 옵션 ...",
+          "guid": "MYH20261030014353QoP",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-29T15:36:47.000Z"
-        },
-        {
-          "creator": "신선재",
-          "title": "[속보] '영원한 수사반장'·'국민 아버지' 최불암 별세",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261030002551BRs",
-          "pubDate": "Fri, 30 Oct 2026 00:25:52 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261029/AKR20261030002551BRs_01_i.jpg\" alt=\"\"><span class=\"yna_title\">배우 최불암</span><span class=\"yna_caption\">[연합뉴스 자료사진]</span><span class=\"yna_description\">[연합뉴스 자료사진]</span></div>\n\n[속보] '영원한 수사반장'·'국민 아버지' 최불암 별세\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신선재(freshash@yna.co.kr)",
-          "content:encodedSnippet": "배우 최불암[연합뉴스 자료사진][연합뉴스 자료사진]\n\n[속보] '영원한 수사반장'·'국민 아버지' 최불암 별세\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신선재(freshash@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261029/AKR20261030002551BRs_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "신선재",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261030002551BRs#comments",
-          "content": "배우 최불암[연합뉴스 자료사진][연합뉴스 자료사진] [속보] '영원한 수사반장'·'국민 아버지' 최불암 별세 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 신선재(freshash@yna.co.kr)",
-          "contentSnippet": "배우 최불암[연합뉴스 자료사진][연합뉴스 자료사진] [속보] '영원한 수사반장'·'국민 아버지' 최불암 별세 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 신선재(freshash@yna.co.kr)",
-          "guid": "AKR20261030002551BRs",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-29T15:25:52.000Z"
-        },
-        {
-          "creator": "김채영",
-          "title": "미 국무부, 진성준 비자 거부에 \"트럼프 행정부, 미국 이익 우선\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261030001126SGH",
-          "pubDate": "Fri, 30 Oct 2026 00:11:26 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261029/AKR20261030001126SGH_01_i.jpg\" alt=\"\"><span class=\"yna_title\">미국 워싱턴DC의 미 국무부</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n미국 국무부가 더불어민주당 진성준 의원의 비자 발급 거부와 관련해 개별 사안에 대해서는 언급하지 않으면서도 미국의 이익을 우선한다는 입장을 밝혔습니다.\n\n미 국무부 대변인은 현지시간 29일 진 의원의 비자 처리와 관련한 질의에 \"트럼프 행정부는 미 이민법의 철저한 집행과 비자 절차에 따른 합법적 이동의 보장을 통해 미국과 미국의 이익을 계속 우선하고 있다\"고 답했습니다.\n\n이어 \"국무부는 각각의 비자 신청을 사안별로 심사한다”며 “일반적으로 특정 비자 사안과 관련한 국무부의 조치에 대해서는 언급하지 않는다\"고 덧붙였습니다.\n\n앞서 국회 국방위원장인 진 의원은 미군 태평양사령부 방문을 위해 비자를 신청했지만 발급이 거부됐다고 밝혔습니다.\n\n진 의원은 미국의 비자 발급 거부가 대한민국 국민을 대표하는 국회의 공식적인 의정 활동을 가로막은 것이라고 비판했습니다.\n\n앞서 민주당 정청래 의원도 국정감사 기간 주미대사관 감사 등을 위해 출국을 준비했지만, 비자 발급이 늦어지면서 감사 지역을 유럽으로 변경한 바 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김채영(chaechae@yna.co.kr)",
-          "content:encodedSnippet": "미국 워싱턴DC의 미 국무부[연합뉴스 제공][연합뉴스 제공]\n미국 국무부가 더불어민주당 진성준 의원의 비자 발급 거부와 관련해 개별 사안에 대해서는 언급하지 않으면서도 미국의 이익을 우선한다는 입장을 밝혔습니다.\n\n미 국무부 대변인은 현지시간 29일 진 의원의 비자 처리와 관련한 질의에 \"트럼프 행정부는 미 이민법의 철저한 집행과 비자 절차에 따른 합법적 이동의 보장을 통해 미국과 미국의 이익을 계속 우선하고 있다\"고 답했습니다.\n\n이어 \"국무부는 각각의 비자 신청을 사안별로 심사한다”며 “일반적으로 특정 비자 사안과 관련한 국무부의 조치에 대해서는 언급하지 않는다\"고 덧붙였습니다.\n\n앞서 국회 국방위원장인 진 의원은 미군 태평양사령부 방문을 위해 비자를 신청했지만 발급이 거부됐다고 밝혔습니다.\n\n진 의원은 미국의 비자 발급 거부가 대한민국 국민을 대표하는 국회의 공식적인 의정 활동을 가로막은 것이라고 비판했습니다.\n\n앞서 민주당 정청래 의원도 국정감사 기간 주미대사관 감사 등을 위해 출국을 준비했지만, 비자 발급이 늦어지면서 감사 지역을 유럽으로 변경한 바 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김채영(chaechae@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261029/AKR20261030001126SGH_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "김채영",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261030001126SGH#comments",
-          "content": "미국 워싱턴DC의 미 국무부[연합뉴스 제공][연합뉴스 제공] 미국 국무부가 더불어민주당 진성준 의원의 비자 발급 거부와 관련해 개별 사안에 대해서는 언급하지 않으면서도 미국의 이익을 우선한다는 입장을 밝혔습니다. 미 국무부 대변인은 현지시간 29일 진 의원의 비자 처리와 관련한 질의에 \"트럼프 행정부는 미 이민법의 철저한 집행과 비자 절차에 따른 합법적 이동의 보장을 통해 미국과 미국의 이익을 계속 우선하고 있다\"고 답했습니다. 이어 \"국...",
-          "contentSnippet": "미국 워싱턴DC의 미 국무부[연합뉴스 제공][연합뉴스 제공] 미국 국무부가 더불어민주당 진성준 의원의 비자 발급 거부와 관련해 개별 사안에 대해서는 언급하지 않으면서도 미국의 이익을 우선한다는 입장을 밝혔습니다. 미 국무부 대변인은 현지시간 29일 진 의원의 비자 처리와 관련한 질의에 \"트럼프 행정부는 미 이민법의 철저한 집행과 비자 절차에 따른 합법적 이동의 보장을 통해 미국과 미국의 이익을 계속 우선하고 있다\"고 답했습니다. 이어 \"국...",
-          "guid": "AKR20261030001126SGH",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-29T15:11:26.000Z"
-        },
-        {
-          "creator": "김채영",
-          "title": "미군, 일본·필리핀에 첨단 전투기·드론 배치…중국 견제 강화",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261030001112Y0e",
-          "pubDate": "Fri, 30 Oct 2026 00:11:12 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261029/AKR20261030001112Y0e_01_i.jpg\" alt=\"\"><span class=\"yna_title\">일본 오키나와 카데나 美공군기지 위를 비행하는 F-22 랩터</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n미국이 일본과 필리핀 등 중국 인근 동맹국에 첨단 전투기와 무인기를 배치하며 대중국 압박을 강화하고 있습니다.\n\n현지시간 29일 미 군사전문 매체 에어앤드스페이스 포스에 따르면, 일본 오키나와 가데나 미 공군기지에는 최근 F-22 랩터와 F-15C 이글 전투기 비행대대가 배치됐습니다.\n\n가데나 기지는 대만과 가까운 전략적 요충지로, 이번 배치는 노후 전투기를 신형 기종으로 교체하는 과정에서 공중전 능력을 유지하기 위한 조치로 풀이됩니다.\n\n필리핀 팔라완의 안토니오 바우티스타 공군기지에도 미 해병대의 무인항공기 부대가 배치돼 작전을 수행하고 있는 것으로 전해졌습니다.\n\n이 부대가 운용하는 MQ-9A 리퍼 드론은 정보 수집과 감시·정찰 등의 임무를 수행하며, 남중국해 일대에서 중국군의 움직임을 감시할 수 있습니다.\n\n미국은 중국이 남중국해 영유권 주장을 강화하는 가운데 필리핀의 군사 인프라 확충과 미군 전력의 순환 배치를 추진하고 있습니다.\n\n미국 싱크탱크 신미국안보센터의 라이언 클래피 연구원은 향후 필리핀에 대한 미국의 정보 공유와 합동 순찰, 장거리 미사일 배치가 확대될 것으로 전망했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김채영(chaechae@yna.co.kr)",
-          "content:encodedSnippet": "일본 오키나와 카데나 美공군기지 위를 비행하는 F-22 랩터[연합뉴스 제공][연합뉴스 제공]\n미국이 일본과 필리핀 등 중국 인근 동맹국에 첨단 전투기와 무인기를 배치하며 대중국 압박을 강화하고 있습니다.\n\n현지시간 29일 미 군사전문 매체 에어앤드스페이스 포스에 따르면, 일본 오키나와 가데나 미 공군기지에는 최근 F-22 랩터와 F-15C 이글 전투기 비행대대가 배치됐습니다.\n\n가데나 기지는 대만과 가까운 전략적 요충지로, 이번 배치는 노후 전투기를 신형 기종으로 교체하는 과정에서 공중전 능력을 유지하기 위한 조치로 풀이됩니다.\n\n필리핀 팔라완의 안토니오 바우티스타 공군기지에도 미 해병대의 무인항공기 부대가 배치돼 작전을 수행하고 있는 것으로 전해졌습니다.\n\n이 부대가 운용하는 MQ-9A 리퍼 드론은 정보 수집과 감시·정찰 등의 임무를 수행하며, 남중국해 일대에서 중국군의 움직임을 감시할 수 있습니다.\n\n미국은 중국이 남중국해 영유권 주장을 강화하는 가운데 필리핀의 군사 인프라 확충과 미군 전력의 순환 배치를 추진하고 있습니다.\n\n미국 싱크탱크 신미국안보센터의 라이언 클래피 연구원은 향후 필리핀에 대한 미국의 정보 공유와 합동 순찰, 장거리 미사일 배치가 확대될 것으로 전망했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김채영(chaechae@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261029/AKR20261030001112Y0e_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "김채영",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261030001112Y0e#comments",
-          "content": "일본 오키나와 카데나 美공군기지 위를 비행하는 F-22 랩터[연합뉴스 제공][연합뉴스 제공] 미국이 일본과 필리핀 등 중국 인근 동맹국에 첨단 전투기와 무인기를 배치하며 대중국 압박을 강화하고 있습니다. 현지시간 29일 미 군사전문 매체 에어앤드스페이스 포스에 따르면, 일본 오키나와 가데나 미 공군기지에는 최근 F-22 랩터와 F-15C 이글 전투기 비행대대가 배치됐습니다. 가데나 기지는 대만과 가까운 전략적 요충지로, 이번 배치는 노후 ...",
-          "contentSnippet": "일본 오키나와 카데나 美공군기지 위를 비행하는 F-22 랩터[연합뉴스 제공][연합뉴스 제공] 미국이 일본과 필리핀 등 중국 인근 동맹국에 첨단 전투기와 무인기를 배치하며 대중국 압박을 강화하고 있습니다. 현지시간 29일 미 군사전문 매체 에어앤드스페이스 포스에 따르면, 일본 오키나와 가데나 미 공군기지에는 최근 F-22 랩터와 F-15C 이글 전투기 비행대대가 배치됐습니다. 가데나 기지는 대만과 가까운 전략적 요충지로, 이번 배치는 노후 ...",
-          "guid": "AKR20261030001112Y0e",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-29T15:11:12.000Z"
-        },
-        {
-          "creator": "한웅희",
-          "title": "김포시, 정부 신규택지 반발…\"일방 발표 깊은 유감\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261030000001DwM",
-          "pubDate": "Fri, 30 Oct 2026 00:00:01 +0900",
-          "content:encoded": "정부가 경기 김포시 고촌읍 일대에 3만 7천 가구를 신규 공급하는 방안을 발표한 것과 관련해 김포시가 반발하고 나섰습니다.\n\n이기형 김포시장은 긴급 기자회견을 열고 \"철저한 대책 없는 주택 공급은 '소비형 베드타운'으로 전락시킬 뿐\"이라며 \"김포시의 반대에도 불구하고 일방 발표를 강행한 데 깊은 유감\"이라고 말했습니다.\n\n특히 김포골드라인 혼잡도 등 교통 문제를 거론하며 '선 교통, 후 입주' 원칙을 강조했습니다.\n\n이 시장은 \"공공임대를 늘리는 정부의 방향에는 동의하지만, 세원이 줄어들면 늘어난 인구에 맞춘 행정·복지 서비스를 할 수 없게 된다\"며 교부세 등 인센티브 지급도 요구했습니다.\n\n#김포 #신규택지 #유감\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n한웅희(hlight@yna.co.kr)",
-          "content:encodedSnippet": "정부가 경기 김포시 고촌읍 일대에 3만 7천 가구를 신규 공급하는 방안을 발표한 것과 관련해 김포시가 반발하고 나섰습니다.\n\n이기형 김포시장은 긴급 기자회견을 열고 \"철저한 대책 없는 주택 공급은 '소비형 베드타운'으로 전락시킬 뿐\"이라며 \"김포시의 반대에도 불구하고 일방 발표를 강행한 데 깊은 유감\"이라고 말했습니다.\n\n특히 김포골드라인 혼잡도 등 교통 문제를 거론하며 '선 교통, 후 입주' 원칙을 강조했습니다.\n\n이 시장은 \"공공임대를 늘리는 정부의 방향에는 동의하지만, 세원이 줄어들면 늘어난 인구에 맞춘 행정·복지 서비스를 할 수 없게 된다\"며 교부세 등 인센티브 지급도 요구했습니다.\n\n#김포 #신규택지 #유감\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n한웅희(hlight@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261029/MYH20261030000001DwM.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "한웅희",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261030000001DwM#comments",
-          "content": "정부가 경기 김포시 고촌읍 일대에 3만 7천 가구를 신규 공급하는 방안을 발표한 것과 관련해 김포시가 반발하고 나섰습니다. 이기형 김포시장은 긴급 기자회견을 열고 \"철저한 대책 없는 주택 공급은 '소비형 베드타운'으로 전락시킬 뿐\"이라며 \"김포시의 반대에도 불구하고 일방 발표를 강행한 데 깊은 유감\"이라고 말했습니다. 특히 김포골드라인 혼잡도 등 교통 문제를 거론하며 '선 교통, 후 입주' 원칙을 강조했습니다. 이 시장은 \"공공임대를 늘리...",
-          "contentSnippet": "정부가 경기 김포시 고촌읍 일대에 3만 7천 가구를 신규 공급하는 방안을 발표한 것과 관련해 김포시가 반발하고 나섰습니다. 이기형 김포시장은 긴급 기자회견을 열고 \"철저한 대책 없는 주택 공급은 '소비형 베드타운'으로 전락시킬 뿐\"이라며 \"김포시의 반대에도 불구하고 일방 발표를 강행한 데 깊은 유감\"이라고 말했습니다. 특히 김포골드라인 혼잡도 등 교통 문제를 거론하며 '선 교통, 후 입주' 원칙을 강조했습니다. 이 시장은 \"공공임대를 늘리...",
-          "guid": "MYH20261030000001DwM",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-29T15:00:01.000Z"
+          "isoDate": "2026-10-29T16:43:53.000Z"
         },
         {
           "creator": "서승택",
-          "title": "경기 버스 노사 최종 협상…결렬시 내일부터 총파업",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261029235415rC1",
-          "pubDate": "Thu, 29 Oct 2026 23:54:16 +0900",
-          "content:encoded": "[앵커]\n\n경기도 버스 노조의 총파업 돌입 여부를 가를 최종 조정회의가 진행되고 있습니다.\n\n오늘 최종 협상이 결렬될 경우 노조는 내일 아침 첫차부터 총파업에 돌입한다는 방침인데요.\n\n서승택 기자입니다.\n\n[기자]\n\n경기도 버스 노사는 오후 3시부터 수원시 영통구 경기지방노동위원회에서 최종 조정회의를 시작했습니다.\n\n이번 최종 조정회의에서 핵심은 임금 인상 여부입니다.\n\n노조는 준공영제 노선 임금을 올해부터 서울과 동일하게 맞추고 민영제 노선은 2027년부터 공공관리제와 동일하게 적용하기로 합의했다고 밝혔습니다.\n\n이에 따라 준공영제 21.56%, 민영제 30%의 임금을 인상해 서울 버스 통상임금과 비슷한 수준으로 맞춰야 한다고 주장하고 있습니다.\n\n또 근로시간 단축과 2일 고정 휴일제 안착 등도 요구안에 담겼습니다.\n\n반면 사측은 경기도의 재정 여건 악화 등을 이유로 민영제 노선의 임금 동결을 고수하고 있습니다.\n\n준공영제 노선에 대해서는 구체적인 인상안을 제시하지 않고 있습니다.\n\n노사 간 입장 차가 워낙 큰 데가 경기도의 재정 여건도 악화된 만큼 협상 타결이 쉽지 않아 보입니다.\n\n만약 이번 회의에서 합의점을 찾지 못하면 노조는 내일 첫차부터 전면 총파업에 돌입합니다.\n\n파업 참여 대상은 수원과 용인, 고양 등 도내 29개 업체 소속 버스 4천130대입니다.\n\n특히 서울과 수도권을 연결하는 광역버스도 63개 노선이 포함돼 있어 파업이 현실화할 경우 출퇴근길 시민들의 불편이 예상됩니다.\n\n지난해에도 파업 직전까지 갔었지만 14시간 협상 끝에 합의해 파업을 철회했습니다.\n\n경기도는 만일의 사태에 대비해  주요 거점 160곳에 순환 전세버스를 투입하고, 파업에 참여하지 않는 시내버스 노선을 출·퇴근 시간대에 집중적으로 배치하는 등 비상 수송 대책을 운영할 예정입니다.\n\n연합뉴스TV 서승택입니다.\n\n[영상취재 위유섭 이태주]\n\n[영상편집 최윤정]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n서승택(taxi226@yna.co.kr)",
-          "content:encodedSnippet": "[앵커]\n\n경기도 버스 노조의 총파업 돌입 여부를 가를 최종 조정회의가 진행되고 있습니다.\n\n오늘 최종 협상이 결렬될 경우 노조는 내일 아침 첫차부터 총파업에 돌입한다는 방침인데요.\n\n서승택 기자입니다.\n\n[기자]\n\n경기도 버스 노사는 오후 3시부터 수원시 영통구 경기지방노동위원회에서 최종 조정회의를 시작했습니다.\n\n이번 최종 조정회의에서 핵심은 임금 인상 여부입니다.\n\n노조는 준공영제 노선 임금을 올해부터 서울과 동일하게 맞추고 민영제 노선은 2027년부터 공공관리제와 동일하게 적용하기로 합의했다고 밝혔습니다.\n\n이에 따라 준공영제 21.56%, 민영제 30%의 임금을 인상해 서울 버스 통상임금과 비슷한 수준으로 맞춰야 한다고 주장하고 있습니다.\n\n또 근로시간 단축과 2일 고정 휴일제 안착 등도 요구안에 담겼습니다.\n\n반면 사측은 경기도의 재정 여건 악화 등을 이유로 민영제 노선의 임금 동결을 고수하고 있습니다.\n\n준공영제 노선에 대해서는 구체적인 인상안을 제시하지 않고 있습니다.\n\n노사 간 입장 차가 워낙 큰 데가 경기도의 재정 여건도 악화된 만큼 협상 타결이 쉽지 않아 보입니다.\n\n만약 이번 회의에서 합의점을 찾지 못하면 노조는 내일 첫차부터 전면 총파업에 돌입합니다.\n\n파업 참여 대상은 수원과 용인, 고양 등 도내 29개 업체 소속 버스 4천130대입니다.\n\n특히 서울과 수도권을 연결하는 광역버스도 63개 노선이 포함돼 있어 파업이 현실화할 경우 출퇴근길 시민들의 불편이 예상됩니다.\n\n지난해에도 파업 직전까지 갔었지만 14시간 협상 끝에 합의해 파업을 철회했습니다.\n\n경기도는 만일의 사태에 대비해  주요 거점 160곳에 순환 전세버스를 투입하고, 파업에 참여하지 않는 시내버스 노선을 출·퇴근 시간대에 집중적으로 배치하는 등 비상 수송 대책을 운영할 예정입니다.\n\n연합뉴스TV 서승택입니다.\n\n[영상취재 위유섭 이태주]\n\n[영상편집 최윤정]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n서승택(taxi226@yna.co.kr)",
+          "title": "4천억 대 불법 인터넷 도박사이트 운영 일당 무더기 검거",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261030014339ei3",
+          "pubDate": "Fri, 30 Oct 2026 01:43:40 +0900",
+          "content:encoded": "전국 성인 PC방에 불법 인터넷 도박사이트를 공급해 4천억 원대 도박판을 벌인 일당이 무더기로 검거됐습니다.\n\n경기 용인동부경찰서는 도박공간개설 혐의로 불법 인터넷 도박사이트 운영자 A 씨와 성인PC방 업주 등 89명을 불구속 송치했다고 밝혔습니다.\n\nA 씨 등은 지난해 10월부터 올해 8월까지 경기 용인과 시흥, 강원 춘천 등 전국 성인 PC방 90곳에 불법 인터넷 도박사이트를 제공해 4,125억 원 규모의 도박판을 벌인 혐의를 받습니다.\n\n경찰은 컴퓨터와 현금 등 1억 8,600만 원 상당을 압수하고, 66억 원 상당의 범죄수익에 대해 기소 전 몰수·추징보전을 신청했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n서승택(taxi226@yna.co.kr)",
+          "content:encodedSnippet": "전국 성인 PC방에 불법 인터넷 도박사이트를 공급해 4천억 원대 도박판을 벌인 일당이 무더기로 검거됐습니다.\n\n경기 용인동부경찰서는 도박공간개설 혐의로 불법 인터넷 도박사이트 운영자 A 씨와 성인PC방 업주 등 89명을 불구속 송치했다고 밝혔습니다.\n\nA 씨 등은 지난해 10월부터 올해 8월까지 경기 용인과 시흥, 강원 춘천 등 전국 성인 PC방 90곳에 불법 인터넷 도박사이트를 제공해 4,125억 원 규모의 도박판을 벌인 혐의를 받습니다.\n\n경찰은 컴퓨터와 현금 등 1억 8,600만 원 상당을 압수하고, 66억 원 상당의 범죄수익에 대해 기소 전 몰수·추징보전을 신청했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n서승택(taxi226@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261029/MYH20261029235415rC1.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261029/MYH20261030014339ei3.jpg",
             "type": "image/jpeg"
           },
           "dc:creator": "서승택",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261029235415rC1#comments",
-          "content": "[앵커] 경기도 버스 노조의 총파업 돌입 여부를 가를 최종 조정회의가 진행되고 있습니다. 오늘 최종 협상이 결렬될 경우 노조는 내일 아침 첫차부터 총파업에 돌입한다는 방침인데요. 서승택 기자입니다. [기자] 경기도 버스 노사는 오후 3시부터 수원시 영통구 경기지방노동위원회에서 최종 조정회의를 시작했습니다. 이번 최종 조정회의에서 핵심은 임금 인상 여부입니다. 노조는 준공영제 노선 임금을 올해부터 서울과 동일하게 맞추고 민영제 노선은 202...",
-          "contentSnippet": "[앵커] 경기도 버스 노조의 총파업 돌입 여부를 가를 최종 조정회의가 진행되고 있습니다. 오늘 최종 협상이 결렬될 경우 노조는 내일 아침 첫차부터 총파업에 돌입한다는 방침인데요. 서승택 기자입니다. [기자] 경기도 버스 노사는 오후 3시부터 수원시 영통구 경기지방노동위원회에서 최종 조정회의를 시작했습니다. 이번 최종 조정회의에서 핵심은 임금 인상 여부입니다. 노조는 준공영제 노선 임금을 올해부터 서울과 동일하게 맞추고 민영제 노선은 202...",
-          "guid": "MYH20261029235415rC1",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261030014339ei3#comments",
+          "content": "전국 성인 PC방에 불법 인터넷 도박사이트를 공급해 4천억 원대 도박판을 벌인 일당이 무더기로 검거됐습니다. 경기 용인동부경찰서는 도박공간개설 혐의로 불법 인터넷 도박사이트 운영자 A 씨와 성인PC방 업주 등 89명을 불구속 송치했다고 밝혔습니다. A 씨 등은 지난해 10월부터 올해 8월까지 경기 용인과 시흥, 강원 춘천 등 전국 성인 PC방 90곳에 불법 인터넷 도박사이트를 제공해 4,125억 원 규모의 도박판을 벌인 혐의를 받습니다. ...",
+          "contentSnippet": "전국 성인 PC방에 불법 인터넷 도박사이트를 공급해 4천억 원대 도박판을 벌인 일당이 무더기로 검거됐습니다. 경기 용인동부경찰서는 도박공간개설 혐의로 불법 인터넷 도박사이트 운영자 A 씨와 성인PC방 업주 등 89명을 불구속 송치했다고 밝혔습니다. A 씨 등은 지난해 10월부터 올해 8월까지 경기 용인과 시흥, 강원 춘천 등 전국 성인 PC방 90곳에 불법 인터넷 도박사이트를 제공해 4,125억 원 규모의 도박판을 벌인 혐의를 받습니다. ...",
+          "guid": "MYH20261030014339ei3",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-29T14:54:16.000Z"
+          "isoDate": "2026-10-29T16:43:40.000Z"
         },
         {
-          "creator": "김채영",
-          "title": "경부고속도로서 버스 3대 연쇄 추돌…승객 7명 경상",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR202610292335520dO",
-          "pubDate": "Thu, 29 Oct 2026 23:35:54 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261029/AKR202610292335520dO_01_i.jpg\" alt=\"\"><span class=\"yna_title\">구급차</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n오늘(29일) 저녁 7시 50분쯤 서울 서초구와 경기 성남시 사이 경부고속도로 서울 방향 달래내고개 부근에서 버스 3대가 잇따라 추돌했습니다.\n\n경기남부경찰청 고속도로순찰대에 따르면 사고는 정체 구간에서 버스전용차로를 달리던 고속버스가 앞서가던 노선버스의 뒤쪽을 들이받고, 뒤따르던 통근버스가 멈춰 선 고속버스의 후미를 다시 추돌하면서 발생했습니다.\n\n이 사고로 고속버스에 타고 있던 승객 7명이 경상을 입어 병원으로 옮겨졌습니다.\n\n사고 당시 노선버스에는 운전기사를 포함해 20명, 고속버스에는 13명, 통근버스에는 16명이 타고 있었습니다.\n\n경찰은 \"각 버스 운전기사의 음주 등 교통법규 위반 사항은 확인되지 않았다\"며 정확한 사고 원인을 조사하고 있습니다.\n\n현재 사고 현장 정리는 마무리됐으며, 사고 수습 과정에서 일부 차로가 통제돼 일대 교통 정체가 빚어졌습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김채영(chaechae@yna.co.kr)",
-          "content:encodedSnippet": "구급차[연합뉴스 제공][연합뉴스 제공]\n오늘(29일) 저녁 7시 50분쯤 서울 서초구와 경기 성남시 사이 경부고속도로 서울 방향 달래내고개 부근에서 버스 3대가 잇따라 추돌했습니다.\n\n경기남부경찰청 고속도로순찰대에 따르면 사고는 정체 구간에서 버스전용차로를 달리던 고속버스가 앞서가던 노선버스의 뒤쪽을 들이받고, 뒤따르던 통근버스가 멈춰 선 고속버스의 후미를 다시 추돌하면서 발생했습니다.\n\n이 사고로 고속버스에 타고 있던 승객 7명이 경상을 입어 병원으로 옮겨졌습니다.\n\n사고 당시 노선버스에는 운전기사를 포함해 20명, 고속버스에는 13명, 통근버스에는 16명이 타고 있었습니다.\n\n경찰은 \"각 버스 운전기사의 음주 등 교통법규 위반 사항은 확인되지 않았다\"며 정확한 사고 원인을 조사하고 있습니다.\n\n현재 사고 현장 정리는 마무리됐으며, 사고 수습 과정에서 일부 차로가 통제돼 일대 교통 정체가 빚어졌습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김채영(chaechae@yna.co.kr)",
+          "creator": "김도헌",
+          "title": "신세계百, 롯데 안방 접수…부산 센텀시티점 인수",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261030014329nDE",
+          "pubDate": "Fri, 30 Oct 2026 01:43:31 +0900",
+          "content:encoded": "신세계백화점이 부산 롯데백화점 센텀시티점을 인수합니다.\n\n신세계백화점과 롯데백화점은 지난달 말 점포 인수 계약을 체결하고 어제(29일) 공정거래위원회에 기업결합신고서를 제출했다고 밝혔습니다.\n\n롯데백화점은 매출 하위권 점포를 매각해 경영 효율성을 높이고, 신세계백화점은 기존 신세계 센텀시티를 중심으로 부산에 대한민국을 대표하는 글로벌 랜드마크를 만들겠다는 구상입니다.\n\n신세계가 업계 1위인 롯데의 매장을 인수하는 건데, 백화점 업계 1, 2위가 매장을 사고 파는 첫 사례입니다.\n\n#백화점 #롯데백화점 #신세계백화점\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김도헌(dohoney@yna.co.kr)",
+          "content:encodedSnippet": "신세계백화점이 부산 롯데백화점 센텀시티점을 인수합니다.\n\n신세계백화점과 롯데백화점은 지난달 말 점포 인수 계약을 체결하고 어제(29일) 공정거래위원회에 기업결합신고서를 제출했다고 밝혔습니다.\n\n롯데백화점은 매출 하위권 점포를 매각해 경영 효율성을 높이고, 신세계백화점은 기존 신세계 센텀시티를 중심으로 부산에 대한민국을 대표하는 글로벌 랜드마크를 만들겠다는 구상입니다.\n\n신세계가 업계 1위인 롯데의 매장을 인수하는 건데, 백화점 업계 1, 2위가 매장을 사고 파는 첫 사례입니다.\n\n#백화점 #롯데백화점 #신세계백화점\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김도헌(dohoney@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261029/AKR202610292335520dO_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261029/MYH20261030014329nDE.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "김채영",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR202610292335520dO#comments",
-          "content": "구급차[연합뉴스 제공][연합뉴스 제공] 오늘(29일) 저녁 7시 50분쯤 서울 서초구와 경기 성남시 사이 경부고속도로 서울 방향 달래내고개 부근에서 버스 3대가 잇따라 추돌했습니다. 경기남부경찰청 고속도로순찰대에 따르면 사고는 정체 구간에서 버스전용차로를 달리던 고속버스가 앞서가던 노선버스의 뒤쪽을 들이받고, 뒤따르던 통근버스가 멈춰 선 고속버스의 후미를 다시 추돌하면서 발생했습니다. 이 사고로 고속버스에 타고 있던 승객 7명이 경상을 입...",
-          "contentSnippet": "구급차[연합뉴스 제공][연합뉴스 제공] 오늘(29일) 저녁 7시 50분쯤 서울 서초구와 경기 성남시 사이 경부고속도로 서울 방향 달래내고개 부근에서 버스 3대가 잇따라 추돌했습니다. 경기남부경찰청 고속도로순찰대에 따르면 사고는 정체 구간에서 버스전용차로를 달리던 고속버스가 앞서가던 노선버스의 뒤쪽을 들이받고, 뒤따르던 통근버스가 멈춰 선 고속버스의 후미를 다시 추돌하면서 발생했습니다. 이 사고로 고속버스에 타고 있던 승객 7명이 경상을 입...",
-          "guid": "AKR202610292335520dO",
+          "dc:creator": "김도헌",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261030014329nDE#comments",
+          "content": "신세계백화점이 부산 롯데백화점 센텀시티점을 인수합니다. 신세계백화점과 롯데백화점은 지난달 말 점포 인수 계약을 체결하고 어제(29일) 공정거래위원회에 기업결합신고서를 제출했다고 밝혔습니다. 롯데백화점은 매출 하위권 점포를 매각해 경영 효율성을 높이고, 신세계백화점은 기존 신세계 센텀시티를 중심으로 부산에 대한민국을 대표하는 글로벌 랜드마크를 만들겠다는 구상입니다. 신세계가 업계 1위인 롯데의 매장을 인수하는 건데, 백화점 업계 1, 2위가...",
+          "contentSnippet": "신세계백화점이 부산 롯데백화점 센텀시티점을 인수합니다. 신세계백화점과 롯데백화점은 지난달 말 점포 인수 계약을 체결하고 어제(29일) 공정거래위원회에 기업결합신고서를 제출했다고 밝혔습니다. 롯데백화점은 매출 하위권 점포를 매각해 경영 효율성을 높이고, 신세계백화점은 기존 신세계 센텀시티를 중심으로 부산에 대한민국을 대표하는 글로벌 랜드마크를 만들겠다는 구상입니다. 신세계가 업계 1위인 롯데의 매장을 인수하는 건데, 백화점 업계 1, 2위가...",
+          "guid": "MYH20261030014329nDE",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-29T14:35:54.000Z"
+          "isoDate": "2026-10-29T16:43:31.000Z"
         },
         {
-          "creator": "노수미",
-          "title": "[날씨] 금요일 반짝 기온 올라…주말 다시 '가을 추위'",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261029232717r43",
-          "pubDate": "Thu, 29 Oct 2026 23:27:17 +0900",
-          "content:encoded": "계절은 아직 가을이지만 겨울이 성큼 다가온 듯합니다.\n\n때 이른 추위로 서울에 올가을 첫서리가 관측됐습니다.\n\n평년보다 하루 늦은 기록인데요.\n\n영하권 추위가 나타난 설악산에서는 단풍이 지기도 전에 올가을 첫눈이 흩날렸습니다.\n\n새벽까지 전국 곳곳에 비가 이어지겠습니다.\n\n비구름이 점차 남부 지방으로 이동하겠는데요.\n\n양이 많지는 않겠습니다.\n\n가을 한파는 금요일에 잠시 누그러들겠습니다.\n\n서울이 19도로 예년 이맘때 기온을 2도가량 웃돌겠는데요.\n\n토요일 낮부터 다시 찬 바람이 불어 들면서 일요일에는 한낮에도 12도에 그치겠습니다.\n\n자세한 지역별 기온 보시면 아침에 서울이 8도로 시작하겠고, 한낮에는 서울이 19도, 청주가 20도, 대전이 19도로 포근하겠습니다.\n\n남부지방은 안동이 6도로 출발해서, 낮에는 19도, 대구와 부산이 21도까지 오르겠습니다.\n\n비가 내리지 않는 강원 영동은 대기가 차츰 건조해지겠습니다.\n\n바람도 약간 강하게 불겠는데요.\n\n작은 불씨가 큰 불로 번지지 않도록 신경 써주셔야겠습니다.\n\n일요일에는 또 한 차례 전국에 비 예보가 들어 있는데요.\n\n남부지방은 월요일까지 이어질 전망입니다.\n\n지금까지 날씨였습니다.\n\n(권진영 기상캐스터)\n\n#날씨 #대기건조 #전국비 #첫눈 #첫서리 #가을한파\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
-          "content:encodedSnippet": "계절은 아직 가을이지만 겨울이 성큼 다가온 듯합니다.\n\n때 이른 추위로 서울에 올가을 첫서리가 관측됐습니다.\n\n평년보다 하루 늦은 기록인데요.\n\n영하권 추위가 나타난 설악산에서는 단풍이 지기도 전에 올가을 첫눈이 흩날렸습니다.\n\n새벽까지 전국 곳곳에 비가 이어지겠습니다.\n\n비구름이 점차 남부 지방으로 이동하겠는데요.\n\n양이 많지는 않겠습니다.\n\n가을 한파는 금요일에 잠시 누그러들겠습니다.\n\n서울이 19도로 예년 이맘때 기온을 2도가량 웃돌겠는데요.\n\n토요일 낮부터 다시 찬 바람이 불어 들면서 일요일에는 한낮에도 12도에 그치겠습니다.\n\n자세한 지역별 기온 보시면 아침에 서울이 8도로 시작하겠고, 한낮에는 서울이 19도, 청주가 20도, 대전이 19도로 포근하겠습니다.\n\n남부지방은 안동이 6도로 출발해서, 낮에는 19도, 대구와 부산이 21도까지 오르겠습니다.\n\n비가 내리지 않는 강원 영동은 대기가 차츰 건조해지겠습니다.\n\n바람도 약간 강하게 불겠는데요.\n\n작은 불씨가 큰 불로 번지지 않도록 신경 써주셔야겠습니다.\n\n일요일에는 또 한 차례 전국에 비 예보가 들어 있는데요.\n\n남부지방은 월요일까지 이어질 전망입니다.\n\n지금까지 날씨였습니다.\n\n(권진영 기상캐스터)\n\n#날씨 #대기건조 #전국비 #첫눈 #첫서리 #가을한파\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
+          "creator": "구하림",
+          "title": "현대차, 생산 차질에 3분기 매출↓…영업익은 증가",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261030014320Azz",
+          "pubDate": "Fri, 30 Oct 2026 01:43:22 +0900",
+          "content:encoded": "현대차가 3분기 파업에 따른 생산 차질과 글로벌 수요 감소 여파로 매출이 감소했습니다.\n\n현대차의 올해 3분기 매출은 45조 1,102억 원으로, 지난해 같은 기간보다 3.4% 감소했습니다.\n\n다만 3분기 영업이익은 2조 6,772억원으로, 5.5% 증가한 것으로 잠정 집계됐습니다.\n\n생산 차질 등으로 판매 물량이 감소했지만 우호적인 환율과 하이브리드차 판매 확대로 수익성을 방어한 것으로 풀이됩니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n구하림(halimkoo@yna.co.kr)",
+          "content:encodedSnippet": "현대차가 3분기 파업에 따른 생산 차질과 글로벌 수요 감소 여파로 매출이 감소했습니다.\n\n현대차의 올해 3분기 매출은 45조 1,102억 원으로, 지난해 같은 기간보다 3.4% 감소했습니다.\n\n다만 3분기 영업이익은 2조 6,772억원으로, 5.5% 증가한 것으로 잠정 집계됐습니다.\n\n생산 차질 등으로 판매 물량이 감소했지만 우호적인 환율과 하이브리드차 판매 확대로 수익성을 방어한 것으로 풀이됩니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n구하림(halimkoo@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261029/MYH20261029232717r43.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261029/MYH20261030014320Azz.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "노수미",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261029232717r43#comments",
-          "content": "계절은 아직 가을이지만 겨울이 성큼 다가온 듯합니다. 때 이른 추위로 서울에 올가을 첫서리가 관측됐습니다. 평년보다 하루 늦은 기록인데요. 영하권 추위가 나타난 설악산에서는 단풍이 지기도 전에 올가을 첫눈이 흩날렸습니다. 새벽까지 전국 곳곳에 비가 이어지겠습니다. 비구름이 점차 남부 지방으로 이동하겠는데요. 양이 많지는 않겠습니다. 가을 한파는 금요일에 잠시 누그러들겠습니다. 서울이 19도로 예년 이맘때 기온을 2도가량 웃돌겠는데요. 토요...",
-          "contentSnippet": "계절은 아직 가을이지만 겨울이 성큼 다가온 듯합니다. 때 이른 추위로 서울에 올가을 첫서리가 관측됐습니다. 평년보다 하루 늦은 기록인데요. 영하권 추위가 나타난 설악산에서는 단풍이 지기도 전에 올가을 첫눈이 흩날렸습니다. 새벽까지 전국 곳곳에 비가 이어지겠습니다. 비구름이 점차 남부 지방으로 이동하겠는데요. 양이 많지는 않겠습니다. 가을 한파는 금요일에 잠시 누그러들겠습니다. 서울이 19도로 예년 이맘때 기온을 2도가량 웃돌겠는데요. 토요...",
-          "guid": "MYH20261029232717r43",
+          "dc:creator": "구하림",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261030014320Azz#comments",
+          "content": "현대차가 3분기 파업에 따른 생산 차질과 글로벌 수요 감소 여파로 매출이 감소했습니다. 현대차의 올해 3분기 매출은 45조 1,102억 원으로, 지난해 같은 기간보다 3.4% 감소했습니다. 다만 3분기 영업이익은 2조 6,772억원으로, 5.5% 증가한 것으로 잠정 집계됐습니다. 생산 차질 등으로 판매 물량이 감소했지만 우호적인 환율과 하이브리드차 판매 확대로 수익성을 방어한 것으로 풀이됩니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인...",
+          "contentSnippet": "현대차가 3분기 파업에 따른 생산 차질과 글로벌 수요 감소 여파로 매출이 감소했습니다. 현대차의 올해 3분기 매출은 45조 1,102억 원으로, 지난해 같은 기간보다 3.4% 감소했습니다. 다만 3분기 영업이익은 2조 6,772억원으로, 5.5% 증가한 것으로 잠정 집계됐습니다. 생산 차질 등으로 판매 물량이 감소했지만 우호적인 환율과 하이브리드차 판매 확대로 수익성을 방어한 것으로 풀이됩니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인...",
+          "guid": "MYH20261030014320Azz",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-29T14:27:17.000Z"
+          "isoDate": "2026-10-29T16:43:22.000Z"
         }
       ]
     }
