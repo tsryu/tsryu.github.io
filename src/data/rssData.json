@@ -7,6 +7,126 @@
       "priority": 1,
       "data": [
         {
+          "title": "Prospero - 경량 설계와 원격 실행을 지원하는 새로운 코딩 하네스",
+          "link": "https://news.hada.io/topic?id=36346&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T17:49:44.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>Prospero</strong>는 C++와 Dear ImGui로 만든 코딩 하네스로, 개발자에 따르면 기능을 희생하지 않으면서 다른 하네스보다 약 100배 적은 자원을 사용함</li>\n<li><strong>서브에이전트와 원격 실행</strong>을 지원하며, 시각 기능이 있는 모델은 데스크톱을 직접 조작해 GUI 애플리케이션을 테스트하...</p>",
+          "contentSnippet": "Prospero는 C++와 Dear ImGui로 만든 코딩 하네스로, 개발자에 따르면 기능을 희생하지 않으면서 다른 하네스보다 약 100배 적은 자원을 사용함\n서브에이전트와 원격 실행을 지원하며, 시각 기능이 있는 모델은 데스크톱을 직접 조작해 GUI 애플리케이션을 테스트하...",
+          "id": "https://news.hada.io/topic?id=36346",
+          "isoDate": "2026-10-31T17:49:44.000Z"
+        },
+        {
+          "title": "돼지, 국가, 전쟁: 붉은 돼지(Porco Rosso) (2014)",
+          "link": "https://news.hada.io/topic?id=36345&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T17:46:44.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>《붉은 돼지》를 <strong>평화학과 국제관계 이론</strong>으로 분석하면, Porco의 변신은 전쟁의 트라우마뿐 아니라 인간의 이기주의, 국가의 민족주의/파시즘, 전쟁의 군국주의에 대한 거부로 읽을 수 있음</li>\n<li>Porco는 무기를 사용하고 현상금을 위해 싸우지만, 상대를 죽이지 않는 <strong>불살 원칙...</p>",
+          "contentSnippet": "《붉은 돼지》를 평화학과 국제관계 이론으로 분석하면, Porco의 변신은 전쟁의 트라우마뿐 아니라 인간의 이기주의, 국가의 민족주의/파시즘, 전쟁의 군국주의에 대한 거부로 읽을 수 있음\nPorco는 무기를 사용하고 현상금을 위해 싸우지만, 상대를 죽이지 않는 불살 원칙...",
+          "id": "https://news.hada.io/topic?id=36345",
+          "isoDate": "2026-10-31T17:46:44.000Z"
+        },
+        {
+          "title": "엘니뇨로 침수되는 캘리포니아 해안, 최고 만조는 아직 오지 않았다",
+          "link": "https://news.hada.io/topic?id=36344&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T17:43:44.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>캘리포니아 북부에서 <strong>만조에 따른 침수</strong>가 San Pablo Bay부터 Monterey까지 이어지고 있으며, Bay Area의 만조 수위는 <strong>10월 관측 최고 기록</strong>을 경신함</li>\n<li>현재 침수는 달의 주기에 따라 한 달에 약 두 번 발생하는 <strong>대조(spring tide)</strong> 때 일어났으며, 연...</p>",
+          "contentSnippet": "캘리포니아 북부에서 만조에 따른 침수가 San Pablo Bay부터 Monterey까지 이어지고 있으며, Bay Area의 만조 수위는 10월 관측 최고 기록을 경신함\n현재 침수는 달의 주기에 따라 한 달에 약 두 번 발생하는 대조(spring tide) 때 일어났으며, 연...",
+          "id": "https://news.hada.io/topic?id=36344",
+          "isoDate": "2026-10-31T17:43:44.000Z"
+        },
+        {
+          "title": "GCC가 switch를 저수준 코드로 변환하는 방법",
+          "link": "https://news.hada.io/topic?id=36343&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T17:40:44.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>GCC는 <code>switch</code>를 <strong>비트셋, 점프 테이블, 비교 트리</strong>로 변환하며, 하나의 <code>switch</code> 안에서도 구간별로 서로 다른 전략을 조합함</li>\n<li><strong>점프 테이블</strong>이 유리한지는 단순한 <code>case</code> 개수가 아니라 필요한 비교 횟수 대비 테이블 크기로 판단하...</p>",
+          "contentSnippet": "GCC는 switch를 비트셋, 점프 테이블, 비교 트리로 변환하며, 하나의 switch 안에서도 구간별로 서로 다른 전략을 조합함\n점프 테이블이 유리한지는 단순한 case 개수가 아니라 필요한 비교 횟수 대비 테이블 크기로 판단하...",
+          "id": "https://news.hada.io/topic?id=36343",
+          "isoDate": "2026-10-31T17:40:44.000Z"
+        },
+        {
+          "title": "Grace Blackwell에는 새 스케줄러가 필요하다: 같은 랙에서 사용 가능한 GPU 27% 확대",
+          "link": "https://news.hada.io/topic?id=36342&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T16:33:01.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>NVL72</strong>는 랙 내 72개 GPU를 NVLink로 연결하지만, 다중 노드 작업이 여러 랙에 흩어지면 여전히 InfiniBand 병목을 겪음. 하드웨어 성능을 활용하려면 <strong>랙을 고려한 작업 배치</strong>가 필요함</li>\n<li>학습의 <strong>텐서 병렬화와 전문가 병렬화</strong>는 연산으로 완전히 숨기...</p>",
+          "contentSnippet": "NVL72는 랙 내 72개 GPU를 NVLink로 연결하지만, 다중 노드 작업이 여러 랙에 흩어지면 여전히 InfiniBand 병목을 겪음. 하드웨어 성능을 활용하려면 랙을 고려한 작업 배치가 필요함\n학습의 텐서 병렬화와 전문가 병렬화는 연산으로 완전히 숨기...",
+          "id": "https://news.hada.io/topic?id=36342",
+          "isoDate": "2026-10-31T16:33:01.000Z"
+        },
+        {
+          "title": "Sanstun: Rust로 구현한 sans-IO, 병렬 처리 친화적 WireGuard",
+          "link": "https://news.hada.io/topic?id=36341&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T15:50:44.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Firezone이 <strong>sanstun</strong>을 공개함. WireGuard 상태 머신을 Rust로 구현한 사용자 공간 라이브러리로, 입출력과 상태 로직을 분리하고 사용성, 보안, 병렬 처리 성능을 고려한 API를 제공함</li>\n<li><strong>sans-IO</strong> 설계는 네트워크 입출력뿐 아니라 시간과 난수도 상태 로직에서 분리함...</p>",
+          "contentSnippet": "Firezone이 sanstun을 공개함. WireGuard 상태 머신을 Rust로 구현한 사용자 공간 라이브러리로, 입출력과 상태 로직을 분리하고 사용성, 보안, 병렬 처리 성능을 고려한 API를 제공함\nsans-IO 설계는 네트워크 입출력뿐 아니라 시간과 난수도 상태 로직에서 분리함...",
+          "id": "https://news.hada.io/topic?id=36341",
+          "isoDate": "2026-10-31T15:50:44.000Z"
+        },
+        {
+          "title": "Signal 포크 Molly, 3개월간 업데이트되지 않아 취약한 상태",
+          "link": "https://news.hada.io/topic?id=36340&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T15:47:44.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>Molly</strong>에 공식 Signal에서는 이미 수정된 취약점이 남아 있음</li>\n<li>게시물 시점의 최신 릴리스는 <strong>7월 31일 배포된 v8.19.2-4</strong>로, 약 3개월간 업데이트가 없었음</li>\n<li>미해결 사례로 <strong>10월 공개된 취약점</strong>이 있으며, 공식 Signal은 이를 <strong>8.27 버...</p>",
+          "contentSnippet": "Molly에 공식 Signal에서는 이미 수정된 취약점이 남아 있음\n게시물 시점의 최신 릴리스는 7월 31일 배포된 v8.19.2-4로, 약 3개월간 업데이트가 없었음\n미해결 사례로 10월 공개된 취약점이 있으며, 공식 Signal은 이를 8.27 버...",
+          "id": "https://news.hada.io/topic?id=36340",
+          "isoDate": "2026-10-31T15:47:44.000Z"
+        },
+        {
+          "title": "디지털 미니멀리즘",
+          "link": "https://news.hada.io/topic?id=36339&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T15:44:44.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>디지털 미니멀리즘</strong>은 기술을 무조건 덜 쓰는 것이 아니라, 디지털 기술에 끌려 들어가는 대신 매번 의식적으로 접근 방식을 선택하는 생활 방식임</li>\n<li>X를 탈퇴하지 않고 <strong>Firefly</strong>로 접속 인터페이스를 바꾼 개인 실험에서는 기분이 나아지고 온라인 논쟁에 대한 관심이...</p>",
+          "contentSnippet": "디지털 미니멀리즘은 기술을 무조건 덜 쓰는 것이 아니라, 디지털 기술에 끌려 들어가는 대신 매번 의식적으로 접근 방식을 선택하는 생활 방식임\nX를 탈퇴하지 않고 Firefly로 접속 인터페이스를 바꾼 개인 실험에서는 기분이 나아지고 온라인 논쟁에 대한 관심이...",
+          "id": "https://news.hada.io/topic?id=36339",
+          "isoDate": "2026-10-31T15:44:44.000Z"
+        },
+        {
+          "title": "ChatGPT 계정을 탈취한 방법",
+          "link": "https://news.hada.io/topic?id=36338&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T15:41:44.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Parameter 연구팀은 <strong>공개 ChatGPT 공유 링크</strong>를 통해 다른 사용자의 로그인 세션에서 임의 JavaScript를 실행하는 취약점을 발견했으며, 자동 Preview 경로에서는 링크를 여는 것만으로 공격이 실행됨</li>\n<li>격리된 HTML Preview가 보낸 메시지를 <strong>MathLive</strong>가 발신자 검증 ...</p>",
+          "contentSnippet": "Parameter 연구팀은 공개 ChatGPT 공유 링크를 통해 다른 사용자의 로그인 세션에서 임의 JavaScript를 실행하는 취약점을 발견했으며, 자동 Preview 경로에서는 링크를 여는 것만으로 공격이 실행됨\n격리된 HTML Preview가 보낸 메시지를 MathLive가 발신자 검증 ...",
+          "id": "https://news.hada.io/topic?id=36338",
+          "isoDate": "2026-10-31T15:41:44.000Z"
+        },
+        {
+          "title": "curl이 우연히 9개월 동안 튜링 완전했던 과정",
+          "link": "https://news.hada.io/topic?id=36337&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T15:01:26.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>curl 8.12~8.16</strong>에서는 변수 값 슬라이싱과 깊이 제한 없는 설정 파일 포함을 조합해 임의의 2카운터 Minsky 프로그램을 모사할 수 있었음</li>\n<li>카운터는 <code>x</code>의 개수로, 명령 상태는 설정 파일로 나타내며, <strong><code>expand-config</code></strong> 로 다음 파일을 선택해...</p>",
+          "contentSnippet": "curl 8.12~8.16에서는 변수 값 슬라이싱과 깊이 제한 없는 설정 파일 포함을 조합해 임의의 2카운터 Minsky 프로그램을 모사할 수 있었음\n카운터는 x의 개수로, 명령 상태는 설정 파일로 나타내며, expand-config 로 다음 파일을 선택해...",
+          "id": "https://news.hada.io/topic?id=36337",
+          "isoDate": "2026-10-31T15:01:26.000Z"
+        },
+        {
+          "title": "Ask HN: 여러분도 AI 시대에 피로를 느끼시나요?",
+          "link": "https://news.hada.io/topic?id=36335&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T14:38:04.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>AI 덕분에 훨씬 많은 일을 할 수 있지만, 이전보다 <strong>피로감</strong>이 상당히 커졌다고 느낌</li>\n<li>동시에 진행되는 여러 일을 추적하고 방대한 생성 텍스트를 읽는 데 더해, 끊임없는 <strong>통제와 의사결정</strong>, 맥락 전환으로 정신적 과부하를 겪고 있음</li>\n<li>다른 사람들도 비슷한 경...</p>",
+          "contentSnippet": "AI 덕분에 훨씬 많은 일을 할 수 있지만, 이전보다 피로감이 상당히 커졌다고 느낌\n동시에 진행되는 여러 일을 추적하고 방대한 생성 텍스트를 읽는 데 더해, 끊임없는 통제와 의사결정, 맥락 전환으로 정신적 과부하를 겪고 있음\n다른 사람들도 비슷한 경...",
+          "id": "https://news.hada.io/topic?id=36335",
+          "isoDate": "2026-10-31T14:38:04.000Z"
+        },
+        {
+          "title": "16colo.rs - ANSI/ASCII 아트 아카이브",
+          "link": "https://news.hada.io/topic?id=36334&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T14:35:04.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>Sixteen Colors</strong>는 ANSI/ASCII 작품 모음인 아트팩을 공익적 목적으로 수집하는 온라인 아카이브임</li>\n<li><strong>ANSI/ASCII 아트</strong>는 원래 컴퓨터 텍스트 모드 콘솔에 표시하기 위한 예술 형식으로, 1990년대 초 전화 접속 BBS의 확산과 함께 인기를 얻음</li>\n<li>아티스트들이 그...</p>",
+          "contentSnippet": "Sixteen Colors는 ANSI/ASCII 작품 모음인 아트팩을 공익적 목적으로 수집하는 온라인 아카이브임\nANSI/ASCII 아트는 원래 컴퓨터 텍스트 모드 콘솔에 표시하기 위한 예술 형식으로, 1990년대 초 전화 접속 BBS의 확산과 함께 인기를 얻음\n아티스트들이 그...",
+          "id": "https://news.hada.io/topic?id=36334",
+          "isoDate": "2026-10-31T14:35:04.000Z"
+        },
+        {
           "title": "Show GN: AI Usage - 여러 Claude Code·Codex 계정의 사용 한도를 보여 주는 macOS 바탕화면 위젯",
           "link": "https://news.hada.io/topic?id=36332&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
           "pubDate": "2026-10-31T13:48:08.000Z",
@@ -385,126 +505,6 @@
           "contentSnippet": "재선에서 패배할 상황인 말 후보가 가장 많은 의석을 얻도록 선거구를 직접 그리는 게리맨더링 퍼즐임\n서로 맞닿은 육각형 칸을 누르거나 드래그해 선거구를 만들며, 모든 선거구의 유권자 수는 같아야 함\n각 선거구에서 최다 득표한 후...",
           "id": "https://news.hada.io/topic?id=36290",
           "isoDate": "2026-10-30T13:36:16.000Z"
-        },
-        {
-          "title": "Show GN: 이라스토야 한국어 검색 - 2.5만 개 무료 일러스트를 한국어로 검색하는 서비스",
-          "link": "https://news.hada.io/topic?id=36289&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-30T12:59:49.000Z",
-          "author": "geniuskey",
-          "content": "<p>일본의 무료 일러스트 사이트 <a href=\"https://www.irasutoya.com/\">いらすとや(이라스토야)</a>의 그림을 한국어·일본어·영어 단어나 문장으로 찾을 수 있는 비영리 검색 서비스를 만들었습니다.</p>\n<p><strong>서비스:</strong> https://irasutoya.euiyun.com/</p>\n<h4>만들게 된 계기</h4>\n<p>이라스토야에는 다",
-          "contentSnippet": "일본의 무료 일러스트 사이트 いらすとや(이라스토야)의 그림을 한국어·일본어·영어 단어나 문장으로 찾을 수 있는 비영리 검색 서비스를 만들었습니다.\n서비스: https://irasutoya.euiyun.com/\n만들게 된 계기\n이라스토야에는 다",
-          "id": "https://news.hada.io/topic?id=36289",
-          "isoDate": "2026-10-30T12:59:49.000Z"
-        },
-        {
-          "title": "Claude Code 확장 변조로 개발자 시스템에 SSH 백도어 배포",
-          "link": "https://news.hada.io/topic?id=36288&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-30T12:37:14.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Cursor 확장 마켓플레이스의 공식 <strong>Claude Code 확장</strong>에 악성 코드가 포함돼, 자동 업데이트를 통해 개발자 시스템에 배포되는 <strong>공급망 공격이 발생</strong>함</li>\n<li>악성코드는 시스템 정보를 수집하고 <strong>SSH 키·역방향 터널·자동 실행 스크립트</strong>를 구성해, IDE 종료...</p>",
-          "contentSnippet": "Cursor 확장 마켓플레이스의 공식 Claude Code 확장에 악성 코드가 포함돼, 자동 업데이트를 통해 개발자 시스템에 배포되는 공급망 공격이 발생함\n악성코드는 시스템 정보를 수집하고 SSH 키·역방향 터널·자동 실행 스크립트를 구성해, IDE 종료...",
-          "id": "https://news.hada.io/topic?id=36288",
-          "isoDate": "2026-10-30T12:37:14.000Z"
-        },
-        {
-          "title": "Cursor 마켓플레이스의 Claude Code 확장에서 SSH 백도어 발견",
-          "link": "https://news.hada.io/topic?id=36287&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-30T12:34:14.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Cursor 마켓플레이스에서 배포된 <strong>Claude Code 확장 변조본에서 SSH 백도어 설치 코드</strong>가 발견됐으며, 최신 공지의 영향 대상은 macOS·Windows용 <strong>2.1.312·2.1.313</strong></li>\n<li>악성코드는 호스트·사용자 정보를 전송하고 <strong>공격자의 SSH 키와 지속성 스크립트를 설치</stro...</p>",
-          "contentSnippet": "Cursor 마켓플레이스에서 배포된 Claude Code 확장 변조본에서 SSH 백도어 설치 코드가 발견됐으며, 최신 공지의 영향 대상은 macOS·Windows용 2.1.312·2.1.313\n악성코드는 호스트·사용자 정보를 전송하고 공격자의 SSH 키와 지속성 스크립트를 설치",
-          "id": "https://news.hada.io/topic?id=36287",
-          "isoDate": "2026-10-30T12:34:14.000Z"
-        },
-        {
-          "title": "Show GN: Vicem - 로컬 AI 코딩 에이전트 간 작업 컨텍스트를 전달하는 CLI/GUI 도구",
-          "link": "https://news.hada.io/topic?id=36286&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-30T12:10:06.000Z",
-          "author": "woojinim64",
-          "content": "<p>안녕하세요, 여러 AI 코딩 에이전트를 번갈아 쓰면서 작업 맥락을 옮기는 과정을 자동화하려고 직접 만든 오픈소스 도구 <strong>Vicem</strong>을 소개합니다.</p>\n<h4>무엇을 하는 도구인가요?</h4>\n<p>Claude Code, OpenAI Codex, Cursor, Antigravity, Gemini CLI 등 로컬에서 사용하는 AI 코딩 에이전트를 전환할",
-          "contentSnippet": "안녕하세요, 여러 AI 코딩 에이전트를 번갈아 쓰면서 작업 맥락을 옮기는 과정을 자동화하려고 직접 만든 오픈소스 도구 Vicem을 소개합니다.\n무엇을 하는 도구인가요?\nClaude Code, OpenAI Codex, Cursor, Antigravity, Gemini CLI 등 로컬에서 사용하는 AI 코딩 에이전트를 전환할",
-          "id": "https://news.hada.io/topic?id=36286",
-          "isoDate": "2026-10-30T12:10:06.000Z"
-        },
-        {
-          "title": "Show GN: Shellside - Claude Code가 상주하는 생성형 캔버스, 요청하면 나만의 도구·앱·워크플로우를 즉석에서 생성",
-          "link": "https://news.hada.io/topic?id=36285&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-30T09:48:52.000Z",
-          "author": "namyunwoo",
-          "content": "<p>보드마다 Claude Code가 함께 들어 있는 생성형 캔버스 웹서비스</p>\n<ul>\n<li>보드에 붙은 터미널에서 Claude Code가 돌고, 보드를 직접 읽고 쓰며 작업</li>\n<li>필요한 도구·화면을 요청하면 그 자리에서 보드 위에 만들어 띄움</li>\n<li>강점: 코딩 없이 대화만으로 나만의 워크플로우를 직접 만들고 계속 고쳐 쓸",
-          "contentSnippet": "보드마다 Claude Code가 함께 들어 있는 생성형 캔버스 웹서비스\n보드에 붙은 터미널에서 Claude Code가 돌고, 보드를 직접 읽고 쓰며 작업\n필요한 도구·화면을 요청하면 그 자리에서 보드 위에 만들어 띄움\n강점: 코딩 없이 대화만으로 나만의 워크플로우를 직접 만들고 계속 고쳐 쓸",
-          "id": "https://news.hada.io/topic?id=36285",
-          "isoDate": "2026-10-30T09:48:52.000Z"
-        },
-        {
-          "title": "런던 모임 제안",
-          "link": "https://news.hada.io/topic?id=36284&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-30T09:00:57.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>런던 모임</strong>에 참석할 수 있는 사람이 얼마나 되는지 확인하고 있음</li>\n<li><strong>NYC Lobsters 모임 게시물</strong>을 보고 런던에서도 모임을 제안함</li>\n<li>런던에 기반을 두고 참석 가능한 사람이 <strong>두 명 넘게 모이면</strong> 모임을 직접 주최할 계획임</li>\n<li>조건이 충...</p>",
-          "contentSnippet": "런던 모임에 참석할 수 있는 사람이 얼마나 되는지 확인하고 있음\nNYC Lobsters 모임 게시물을 보고 런던에서도 모임을 제안함\n런던에 기반을 두고 참석 가능한 사람이 두 명 넘게 모이면 모임을 직접 주최할 계획임\n조건이 충...",
-          "id": "https://news.hada.io/topic?id=36284",
-          "isoDate": "2026-10-30T09:00:57.000Z"
-        },
-        {
-          "title": "Herdr - 터미널과 코딩 에이전트를 한곳에서 관리하는 네이티브 앱",
-          "link": "https://news.hada.io/topic?id=36283&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-30T08:32:34.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>터미널과 코딩 에이전트를 <strong>작업 공간/탭/분할 패널로 관리</strong>하는 데스크톱 앱. 저장소별로 공간을 나누고 여러 작업을 나란히 배치할 수 있음</li>\n<li>에이전트와 하위 작업자를 사이드바에 모으고 <strong>작업 중·입력 대기·완료 상태를 표시</strong>함. 상태 보고는 공개 프로토콜 OSC 750...</p>",
-          "contentSnippet": "터미널과 코딩 에이전트를 작업 공간/탭/분할 패널로 관리하는 데스크톱 앱. 저장소별로 공간을 나누고 여러 작업을 나란히 배치할 수 있음\n에이전트와 하위 작업자를 사이드바에 모으고 작업 중·입력 대기·완료 상태를 표시함. 상태 보고는 공개 프로토콜 OSC 750...",
-          "id": "https://news.hada.io/topic?id=36283",
-          "isoDate": "2026-10-30T08:32:34.000Z"
-        },
-        {
-          "title": "가족이 함께 쓸 비밀번호 관리자는 뭐가 좋을까요?",
-          "link": "https://news.hada.io/topic?id=36279&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-30T07:01:21.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>나이가 들어 금융과 보험 등의 계정 정리에 도움이 필요한 가족을 위해 <strong>공유 비밀번호 관리자</strong>를 찾고 있음</li>\n<li><strong>멀리 떨어져 있어도 공유</strong>할 수 있고, 비전문가도 명령줄 없이 사용할 수 있어야 하며, <strong>Linux와 macOS/iOS</strong>를 지원해야 함. 필요하면 웹 서...</p>",
-          "contentSnippet": "나이가 들어 금융과 보험 등의 계정 정리에 도움이 필요한 가족을 위해 공유 비밀번호 관리자를 찾고 있음\n멀리 떨어져 있어도 공유할 수 있고, 비전문가도 명령줄 없이 사용할 수 있어야 하며, Linux와 macOS/iOS를 지원해야 함. 필요하면 웹 서...",
-          "id": "https://news.hada.io/topic?id=36279",
-          "isoDate": "2026-10-30T07:01:21.000Z"
-        },
-        {
-          "title": "Show GN: korea-data-mcp – AI 에이전트가 한국 공공 API를 틀리게 읽지 않도록 해주는 MCP 서버",
-          "link": "https://news.hada.io/topic?id=36277&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-30T04:47:44.000Z",
-          "author": "youngtip",
-          "content": "<p>DART, 공공데이터포털, 국가법령정보 API를 MCP 서버로 묶었습니다. Claude, Cursor 같은 AI 에이전트가 한국 기업·부동산·법령 데이터를 정확히 조회하도록 만드는 게 목표입니다.</p>\n<p>만들게 된 계기</p>\n<ul>\n<li>공공 API 응답을 에이전트에 그대로 넘기면 그럴듯하지만 틀린 답이 나옵니다.</li>\n<li>예: DAR",
-          "contentSnippet": "DART, 공공데이터포털, 국가법령정보 API를 MCP 서버로 묶었습니다. Claude, Cursor 같은 AI 에이전트가 한국 기업·부동산·법령 데이터를 정확히 조회하도록 만드는 게 목표입니다.\n만들게 된 계기\n공공 API 응답을 에이전트에 그대로 넘기면 그럴듯하지만 틀린 답이 나옵니다.\n예: DAR",
-          "id": "https://news.hada.io/topic?id=36277",
-          "isoDate": "2026-10-30T04:47:44.000Z"
-        },
-        {
-          "title": "tinyworldformer - Raspberry Pi Pico 2 W에서 게임을 생성하는 초소형 월드 모델",
-          "link": "https://news.hada.io/topic?id=36274&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-30T03:33:39.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>두 개의 작은 신경망으로 게임을 생성하고 플레이</strong>하는 프로젝트. 월드 모델이 현재 화면과 행동으로 다음 화면·보상을 예측하고, 행동 모델이 생성된 화면에서 다음 행동을 선택함</li>\n<li>Breakout, Doom-lite, Flappy Bird, Pong, Pac-Man lite를 지원하며, <strong>보드에서는 원래 게임 ...</p>",
-          "contentSnippet": "두 개의 작은 신경망으로 게임을 생성하고 플레이하는 프로젝트. 월드 모델이 현재 화면과 행동으로 다음 화면·보상을 예측하고, 행동 모델이 생성된 화면에서 다음 행동을 선택함\nBreakout, Doom-lite, Flappy Bird, Pong, Pac-Man lite를 지원하며, 보드에서는 원래 게임 ...",
-          "id": "https://news.hada.io/topic?id=36274",
-          "isoDate": "2026-10-30T03:33:39.000Z"
-        },
-        {
-          "title": "OpenAI, Pro와 Business Premium 사용량 한도 2배 확대",
-          "link": "https://news.hada.io/topic?id=36273&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-30T03:06:14.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li><strong>Pro 100·200·500과 Business Premium의 모든 사용량 한도를 2배로 확대</strong>하며, 오늘부터 바로 적용시작</li>\n<li>사용자 피드백을 반영해 <strong>Pro 200의 한도를 축소하지 않기로 결정</strong>했으며, 기존 Work와 Codex 사용량 한도를 유지할 것</li>\n<li>개인 에이전트 <strong>dot의 확대...</p>",
-          "contentSnippet": "Pro 100·200·500과 Business Premium의 모든 사용량 한도를 2배로 확대하며, 오늘부터 바로 적용시작\n사용자 피드백을 반영해 Pro 200의 한도를 축소하지 않기로 결정했으며, 기존 Work와 Codex 사용량 한도를 유지할 것\n개인 에이전트 dot의 확대...",
-          "id": "https://news.hada.io/topic?id=36273",
-          "isoDate": "2026-10-30T03:06:14.000Z"
-        },
-        {
-          "title": "AI 데이터 에이전트는 실제 분석 업무를 수행할 수 있을까?",
-          "link": "https://news.hada.io/topic?id=36272&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-30T02:59:43.000Z",
-          "author": "xguru",
-          "content": "<ul>\n<li>데이터 에이전트의 분석 능력은 <strong>SQL 생성만으로 평가하기 어려움</strong>. 실제 업무처럼 여러 데이터베이스를 연결하고, 도메인 지식을 활용하며, 비정형 데이터를 처리하는 능력이 필요함</li>\n<li>실무 환경을 반영한 <strong>Data Agent Bench에서 최고 에이전트의 단일 시도 통과율은 약 61%</st...</p>",
-          "contentSnippet": "데이터 에이전트의 분석 능력은 SQL 생성만으로 평가하기 어려움. 실제 업무처럼 여러 데이터베이스를 연결하고, 도메인 지식을 활용하며, 비정형 데이터를 처리하는 능력이 필요함\n실무 환경을 반영한 Data Agent Bench에서 최고 에이전트의 단일 시도 통과율은 약 61%",
-          "id": "https://news.hada.io/topic?id=36272",
-          "isoDate": "2026-10-30T02:59:43.000Z"
         }
       ]
     },
@@ -682,6 +682,90 @@
       "data": [
         {
           "creator": "배규빈",
+          "title": "미 국무, 한국 의원 비자 문제에 “수십년 전 행동 관련…해결할 것”",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261101025933apj",
+          "pubDate": "Sun, 01 Nov 2026 02:59:34 +0900",
+          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261031/AKR20261101025933apj_01_i.jpg\" alt=\"\"><span class=\"yna_title\">마코 루비오 미국 국무장관</span><span class=\"yna_caption\"></span><span class=\"yna_description\"></span></div>\n마코 루비오 미국 국무장관이 일부 한국 국회의원들에 대한 미국 입국 비자가 거절되는 등의 문제와 관련해 한미 양자 간 협의를 통해 해결하겠다고 밝혔습니다.\n\n루비오 장관은 현지시간 지난달 31일 조지아주 애틀랜타에서 열린 G20 외무장관 회의 계기에 진행한 기자회견에서 '한국 국회의원들의 비자 문제를 비롯해 한미 관계에 긴장 우려가 한국 내에서 제기된다'는 질의에 \"우리는 비자 문제를 해결할 것\"이라고 답했습니다.\n\n이어 \"한 명의 특정 개인의 비자 이슈가 있었고, 아마 수십 년 전 행동과 관련한 이슈였다고 생각한다\"며 \"우리는 그 문제를 기자회견이 아닌, 양자(협의)를 근거로 해결할 것\"이라고 강조했습니다.\n\n앞서 이달 초 여당인 더불어민주당 대표를 지낸 정청래 의원이 주미대사관 등을 대상으로 한 국회 외교통일위원회의 국정감사를 위해 미국 비자를 신청했으나 발급이 지연된 데 이어, 최근에는 같은 당 진성준 국회 국방위원장의 관용 비자 신청이 거절됐다가 발급되면서 논란이 됐습니다.\n\n#정청래 #비자 #미국 #진성준\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배규빈(beanie@yna.co.kr)",
+          "content:encodedSnippet": "마코 루비오 미국 국무장관\n마코 루비오 미국 국무장관이 일부 한국 국회의원들에 대한 미국 입국 비자가 거절되는 등의 문제와 관련해 한미 양자 간 협의를 통해 해결하겠다고 밝혔습니다.\n\n루비오 장관은 현지시간 지난달 31일 조지아주 애틀랜타에서 열린 G20 외무장관 회의 계기에 진행한 기자회견에서 '한국 국회의원들의 비자 문제를 비롯해 한미 관계에 긴장 우려가 한국 내에서 제기된다'는 질의에 \"우리는 비자 문제를 해결할 것\"이라고 답했습니다.\n\n이어 \"한 명의 특정 개인의 비자 이슈가 있었고, 아마 수십 년 전 행동과 관련한 이슈였다고 생각한다\"며 \"우리는 그 문제를 기자회견이 아닌, 양자(협의)를 근거로 해결할 것\"이라고 강조했습니다.\n\n앞서 이달 초 여당인 더불어민주당 대표를 지낸 정청래 의원이 주미대사관 등을 대상으로 한 국회 외교통일위원회의 국정감사를 위해 미국 비자를 신청했으나 발급이 지연된 데 이어, 최근에는 같은 당 진성준 국회 국방위원장의 관용 비자 신청이 거절됐다가 발급되면서 논란이 됐습니다.\n\n#정청래 #비자 #미국 #진성준\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배규빈(beanie@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261031/AKR20261101025933apj_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "배규빈",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261101025933apj#comments",
+          "content": "마코 루비오 미국 국무장관 마코 루비오 미국 국무장관이 일부 한국 국회의원들에 대한 미국 입국 비자가 거절되는 등의 문제와 관련해 한미 양자 간 협의를 통해 해결하겠다고 밝혔습니다. 루비오 장관은 현지시간 지난달 31일 조지아주 애틀랜타에서 열린 G20 외무장관 회의 계기에 진행한 기자회견에서 '한국 국회의원들의 비자 문제를 비롯해 한미 관계에 긴장 우려가 한국 내에서 제기된다'는 질의에 \"우리는 비자 문제를 해결할 것\"이라고 답했습니다....",
+          "contentSnippet": "마코 루비오 미국 국무장관 마코 루비오 미국 국무장관이 일부 한국 국회의원들에 대한 미국 입국 비자가 거절되는 등의 문제와 관련해 한미 양자 간 협의를 통해 해결하겠다고 밝혔습니다. 루비오 장관은 현지시간 지난달 31일 조지아주 애틀랜타에서 열린 G20 외무장관 회의 계기에 진행한 기자회견에서 '한국 국회의원들의 비자 문제를 비롯해 한미 관계에 긴장 우려가 한국 내에서 제기된다'는 질의에 \"우리는 비자 문제를 해결할 것\"이라고 답했습니다....",
+          "guid": "AKR20261101025933apj",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-31T17:59:34.000Z"
+        },
+        {
+          "creator": "배규빈",
+          "title": "미 국무 “트럼프, 김정은과 대화 준비돼…아직 회담 일정 없어”",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261101025044kNW",
+          "pubDate": "Sun, 01 Nov 2026 02:50:45 +0900",
+          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261031/AKR20261101025044kNW_01_i.jpg\" alt=\"\"><span class=\"yna_title\">마코 루비오 미국 국무장관</span><span class=\"yna_caption\"></span><span class=\"yna_description\"></span></div>\n도널드 트럼프 미국 대통령이 김정은 북한 국무위원장과 만날 준비가 돼 있지만, 아직 회담 일정은 잡히지 않았다고 미 국무부가 밝혔습니다.\n\n마코 루비오 미국 국무장관은 현지시간 지난달 31일 조지아주 애틀란타에서 열린 G20 외무장관회의 계기에 진행한 기자회견에서 이같이 말했습니다.\n루비오 장관은 \"트럼프 대통령의 관점은 김 위원장이 미국과 한국 등 동맹국들이 우려하는 문제에 대해 논의할 준비가 돼 있다면, 그에 열려 있다는 것\"이라고 밝혔습니다.\n\n이어 \"트럼프 대통령은 공개적으로 언급한 것처럼 회담에 준비가 돼 있다\"면서도, 아직 회담 일정은 잡히지 않았다고 덧붙였습니다.\n\n또, 트럼프 대통령이 집권 1기에 김 위원장과 2차례 회담을 가졌다며 \"그러한 회담에서 생산적 결과가 나온다면, 트럼프 대통령은 회담을 재개할 의향이 있을 거라고 본다\"고 강조했습니다.\n\n루비오 장관은 \"전통적 외교정책에서는 누군가와 만나거나 행사에 초대하는 것을 상대방을 정당화하는 일종의 양보로 간주하는 경우가 있다고 알고 있다\"면서도 \"대통령은 대화나 만남을 양보로 보지 않는다\"고 말했습니다.\n\n#미국 #트럼프 #김정은\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배규빈(beanie@yna.co.kr)",
+          "content:encodedSnippet": "마코 루비오 미국 국무장관\n도널드 트럼프 미국 대통령이 김정은 북한 국무위원장과 만날 준비가 돼 있지만, 아직 회담 일정은 잡히지 않았다고 미 국무부가 밝혔습니다.\n\n마코 루비오 미국 국무장관은 현지시간 지난달 31일 조지아주 애틀란타에서 열린 G20 외무장관회의 계기에 진행한 기자회견에서 이같이 말했습니다.\n루비오 장관은 \"트럼프 대통령의 관점은 김 위원장이 미국과 한국 등 동맹국들이 우려하는 문제에 대해 논의할 준비가 돼 있다면, 그에 열려 있다는 것\"이라고 밝혔습니다.\n\n이어 \"트럼프 대통령은 공개적으로 언급한 것처럼 회담에 준비가 돼 있다\"면서도, 아직 회담 일정은 잡히지 않았다고 덧붙였습니다.\n\n또, 트럼프 대통령이 집권 1기에 김 위원장과 2차례 회담을 가졌다며 \"그러한 회담에서 생산적 결과가 나온다면, 트럼프 대통령은 회담을 재개할 의향이 있을 거라고 본다\"고 강조했습니다.\n\n루비오 장관은 \"전통적 외교정책에서는 누군가와 만나거나 행사에 초대하는 것을 상대방을 정당화하는 일종의 양보로 간주하는 경우가 있다고 알고 있다\"면서도 \"대통령은 대화나 만남을 양보로 보지 않는다\"고 말했습니다.\n\n#미국 #트럼프 #김정은\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배규빈(beanie@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261031/AKR20261101025044kNW_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "배규빈",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261101025044kNW#comments",
+          "content": "마코 루비오 미국 국무장관 도널드 트럼프 미국 대통령이 김정은 북한 국무위원장과 만날 준비가 돼 있지만, 아직 회담 일정은 잡히지 않았다고 미 국무부가 밝혔습니다. 마코 루비오 미국 국무장관은 현지시간 지난달 31일 조지아주 애틀란타에서 열린 G20 외무장관회의 계기에 진행한 기자회견에서 이같이 말했습니다. 루비오 장관은 \"트럼프 대통령의 관점은 김 위원장이 미국과 한국 등 동맹국들이 우려하는 문제에 대해 논의할 준비가 돼 있다면, 그에 ...",
+          "contentSnippet": "마코 루비오 미국 국무장관 도널드 트럼프 미국 대통령이 김정은 북한 국무위원장과 만날 준비가 돼 있지만, 아직 회담 일정은 잡히지 않았다고 미 국무부가 밝혔습니다. 마코 루비오 미국 국무장관은 현지시간 지난달 31일 조지아주 애틀란타에서 열린 G20 외무장관회의 계기에 진행한 기자회견에서 이같이 말했습니다. 루비오 장관은 \"트럼프 대통령의 관점은 김 위원장이 미국과 한국 등 동맹국들이 우려하는 문제에 대해 논의할 준비가 돼 있다면, 그에 ...",
+          "guid": "AKR20261101025044kNW",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-31T17:50:45.000Z"
+        },
+        {
+          "creator": "배규빈",
+          "title": "이란 최고지도자 \"미 모든 자산 타격권에…제한 없는 대응\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR202611010043050da",
+          "pubDate": "Sun, 01 Nov 2026 00:43:07 +0900",
+          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261031/AKR202611010043050da_01_i.jpg\" alt=\"\"><span class=\"yna_title\">아야톨라 세예드 모즈타바 하메네이</span><span class=\"yna_caption\">[이란 최고지도자실 제공. 재판매 및 DB 금지]</span><span class=\"yna_description\">[이란 최고지도자실 제공. 재판매 및 DB 금지]</span></div>\n이란 최고지도자인 아야톨라 세예드 모즈타바 하메네이가 미국에 대한 군사적 대비 태세를 주문했다고 최고지도자실이 밝혔습니다.\n\n아야톨라 하메네이는 현지시간 지난달 31일 고위급 지휘관들과 회의하면서 \"미국과 시온주의자(이스라엘) 적대 세력의 모든 자산이 이란군 타격 범위 내에 포함될 수 있도록 군사 표적 데이터베이스를 전면적으로 갱신하라\"고 지시했습니다.\n\n그러면서 \"적들과의 강력한 대결을 위한 지능적인 전투 대비 태세가 최대 억지력을 확보하기 위한 근본적인 전제 조건\"이라며, \"어떠한 수준이나 유형의 위협에 대해서도 즉각적이고 강력하며, 지리적 제한이 없는 대응으로 맞서야 한다\"고 말했습니다.\n\n\"만일 이란의 적들이 군사적 공격이나 테러를 재개한다면 이런 공격이 언제, 어떤 조건에서 종료될지를 결정하는 주체는 이란 이슬람공화국의 군과 국민이 될 것\"이라고 강조했습니다.\n\n이 발언은 최근 도널드 트럼프 미국 대통령이 오는 3일 중간선거를 앞둔 상황에서 이란에 대한 공격 재개 가능성을 수차례 시사한 상황에서 나왔습니다.\n\n\n#이란 #미국\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배규빈(beanie@yna.co.kr)",
+          "content:encodedSnippet": "아야톨라 세예드 모즈타바 하메네이[이란 최고지도자실 제공. 재판매 및 DB 금지][이란 최고지도자실 제공. 재판매 및 DB 금지]\n이란 최고지도자인 아야톨라 세예드 모즈타바 하메네이가 미국에 대한 군사적 대비 태세를 주문했다고 최고지도자실이 밝혔습니다.\n\n아야톨라 하메네이는 현지시간 지난달 31일 고위급 지휘관들과 회의하면서 \"미국과 시온주의자(이스라엘) 적대 세력의 모든 자산이 이란군 타격 범위 내에 포함될 수 있도록 군사 표적 데이터베이스를 전면적으로 갱신하라\"고 지시했습니다.\n\n그러면서 \"적들과의 강력한 대결을 위한 지능적인 전투 대비 태세가 최대 억지력을 확보하기 위한 근본적인 전제 조건\"이라며, \"어떠한 수준이나 유형의 위협에 대해서도 즉각적이고 강력하며, 지리적 제한이 없는 대응으로 맞서야 한다\"고 말했습니다.\n\n\"만일 이란의 적들이 군사적 공격이나 테러를 재개한다면 이런 공격이 언제, 어떤 조건에서 종료될지를 결정하는 주체는 이란 이슬람공화국의 군과 국민이 될 것\"이라고 강조했습니다.\n\n이 발언은 최근 도널드 트럼프 미국 대통령이 오는 3일 중간선거를 앞둔 상황에서 이란에 대한 공격 재개 가능성을 수차례 시사한 상황에서 나왔습니다.\n\n\n#이란 #미국\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배규빈(beanie@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261031/AKR202611010043050da_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "배규빈",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR202611010043050da#comments",
+          "content": "아야톨라 세예드 모즈타바 하메네이[이란 최고지도자실 제공. 재판매 및 DB 금지][이란 최고지도자실 제공. 재판매 및 DB 금지] 이란 최고지도자인 아야톨라 세예드 모즈타바 하메네이가 미국에 대한 군사적 대비 태세를 주문했다고 최고지도자실이 밝혔습니다. 아야톨라 하메네이는 현지시간 지난달 31일 고위급 지휘관들과 회의하면서 \"미국과 시온주의자(이스라엘) 적대 세력의 모든 자산이 이란군 타격 범위 내에 포함될 수 있도록 군사 표적 데이터베이...",
+          "contentSnippet": "아야톨라 세예드 모즈타바 하메네이[이란 최고지도자실 제공. 재판매 및 DB 금지][이란 최고지도자실 제공. 재판매 및 DB 금지] 이란 최고지도자인 아야톨라 세예드 모즈타바 하메네이가 미국에 대한 군사적 대비 태세를 주문했다고 최고지도자실이 밝혔습니다. 아야톨라 하메네이는 현지시간 지난달 31일 고위급 지휘관들과 회의하면서 \"미국과 시온주의자(이스라엘) 적대 세력의 모든 자산이 이란군 타격 범위 내에 포함될 수 있도록 군사 표적 데이터베이...",
+          "guid": "AKR202611010043050da",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-31T15:43:07.000Z"
+        },
+        {
+          "creator": "배규빈",
+          "title": "[속보] 핼러윈 인파 혼잡으로 지하철 이태원역 무정차 통과",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261031235258xa3",
+          "pubDate": "Sat, 31 Oct 2026 23:52:59 +0900",
+          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261031/AKR20261031235258xa3_01_i.jpg\" alt=\"\"><span class=\"yna_title\"></span><span class=\"yna_caption\"></span><span class=\"yna_description\"></span></div>\n오늘(31일) 오후 11시 47분부터 지하철 6호선이 이태원역을 무정차 통과합니다.\n\n용산구는 재난문자를 통해 \"현재 용산구 이태원 세계음식문화거리 주변 인파 혼잡으로 23시 47분 이태원역 무정차 통과 예정\"이라고 안내했습니다.\n\n아울러 이태원역으로의 진입 자제를 요청하고 인근 녹사평역 또는 한강진역을 이용할 것을 권고했습니다.\n\n이날 예정된 이태원역의 마지막 전철은 양방향 모두 11시59분입니다.\n\n\n#이태원 #핼러윈 #지하철\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배규빈(beanie@yna.co.kr)",
+          "content:encodedSnippet": "오늘(31일) 오후 11시 47분부터 지하철 6호선이 이태원역을 무정차 통과합니다.\n\n용산구는 재난문자를 통해 \"현재 용산구 이태원 세계음식문화거리 주변 인파 혼잡으로 23시 47분 이태원역 무정차 통과 예정\"이라고 안내했습니다.\n\n아울러 이태원역으로의 진입 자제를 요청하고 인근 녹사평역 또는 한강진역을 이용할 것을 권고했습니다.\n\n이날 예정된 이태원역의 마지막 전철은 양방향 모두 11시59분입니다.\n\n\n#이태원 #핼러윈 #지하철\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배규빈(beanie@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261031/AKR20261031235258xa3_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "배규빈",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261031235258xa3#comments",
+          "content": "오늘(31일) 오후 11시 47분부터 지하철 6호선이 이태원역을 무정차 통과합니다. 용산구는 재난문자를 통해 \"현재 용산구 이태원 세계음식문화거리 주변 인파 혼잡으로 23시 47분 이태원역 무정차 통과 예정\"이라고 안내했습니다. 아울러 이태원역으로의 진입 자제를 요청하고 인근 녹사평역 또는 한강진역을 이용할 것을 권고했습니다. 이날 예정된 이태원역의 마지막 전철은 양방향 모두 11시59분입니다. #이태원 #핼러윈 #지하철 연합뉴스TV 기사...",
+          "contentSnippet": "오늘(31일) 오후 11시 47분부터 지하철 6호선이 이태원역을 무정차 통과합니다. 용산구는 재난문자를 통해 \"현재 용산구 이태원 세계음식문화거리 주변 인파 혼잡으로 23시 47분 이태원역 무정차 통과 예정\"이라고 안내했습니다. 아울러 이태원역으로의 진입 자제를 요청하고 인근 녹사평역 또는 한강진역을 이용할 것을 권고했습니다. 이날 예정된 이태원역의 마지막 전철은 양방향 모두 11시59분입니다. #이태원 #핼러윈 #지하철 연합뉴스TV 기사...",
+          "guid": "AKR20261031235258xa3",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-31T14:52:59.000Z"
+        },
+        {
+          "creator": "배규빈",
           "title": "미 핼러윈 참극…쇼핑몰 곳곳 총격으로 2명 사망·6명 부상",
           "link": "https://www.yonhapnewstv.co.kr/news/AKR20261031234810vwb",
           "pubDate": "Sat, 31 Oct 2026 23:48:11 +0900",
@@ -826,90 +910,6 @@
             "최신"
           ],
           "isoDate": "2026-10-31T10:26:06.000Z"
-        },
-        {
-          "creator": "강은나래",
-          "title": "대통령 SNS 놓고 野 \"국민 모욕\"·與 \"진의 왜곡\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261031192420mDS",
-          "pubDate": "Sat, 31 Oct 2026 19:24:23 +0900",
-          "content:encoded": "\n이재명 대통령이 해외 순방이 잦다는 비판에 \"돼지 눈에는 돼지만 보인다\"고 반박한 데 대해, 국민의힘은 \"국민의 정당한 문제 제기를 깎아내리는 모욕적 표현\"이라고 비판했습니다.\n\n조용술 대변인은 \"대통령 말 한마디에는 국정의 무게와 국가의 품격이 담겨야 한다\"며, 비아냥이 아닌 구체적 외교 성과로 답하라고 촉구했습니다.\n\n반면 더불어민주당 조계원 대변인은 앞서 \"SNS 글의 단편적 단어를 물어뜯어 진의를 왜곡하는 보도가 도를 넘었다\"며, 말꼬리 잡아 국정을 흔들려는 시도를 중단하라고 비판했습니다.\n\n신현영 대변인도 SNS는 국민과 직접 소통하는 긍정적 수단이라면서, 다만 전달 과정에서 오해를 막기 위한 참모들의 보완 역할이 필요하다고 강조했습니다.\n\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n강은나래(rae@yna.co.kr)",
-          "content:encodedSnippet": "이재명 대통령이 해외 순방이 잦다는 비판에 \"돼지 눈에는 돼지만 보인다\"고 반박한 데 대해, 국민의힘은 \"국민의 정당한 문제 제기를 깎아내리는 모욕적 표현\"이라고 비판했습니다.\n\n조용술 대변인은 \"대통령 말 한마디에는 국정의 무게와 국가의 품격이 담겨야 한다\"며, 비아냥이 아닌 구체적 외교 성과로 답하라고 촉구했습니다.\n\n반면 더불어민주당 조계원 대변인은 앞서 \"SNS 글의 단편적 단어를 물어뜯어 진의를 왜곡하는 보도가 도를 넘었다\"며, 말꼬리 잡아 국정을 흔들려는 시도를 중단하라고 비판했습니다.\n\n신현영 대변인도 SNS는 국민과 직접 소통하는 긍정적 수단이라면서, 다만 전달 과정에서 오해를 막기 위한 참모들의 보완 역할이 필요하다고 강조했습니다.\n\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n강은나래(rae@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261031/MYH20261031192420mDS.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "강은나래",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261031192420mDS#comments",
-          "content": "이재명 대통령이 해외 순방이 잦다는 비판에 \"돼지 눈에는 돼지만 보인다\"고 반박한 데 대해, 국민의힘은 \"국민의 정당한 문제 제기를 깎아내리는 모욕적 표현\"이라고 비판했습니다. 조용술 대변인은 \"대통령 말 한마디에는 국정의 무게와 국가의 품격이 담겨야 한다\"며, 비아냥이 아닌 구체적 외교 성과로 답하라고 촉구했습니다. 반면 더불어민주당 조계원 대변인은 앞서 \"SNS 글의 단편적 단어를 물어뜯어 진의를 왜곡하는 보도가 도를 넘었다\"며, 말꼬...",
-          "contentSnippet": "이재명 대통령이 해외 순방이 잦다는 비판에 \"돼지 눈에는 돼지만 보인다\"고 반박한 데 대해, 국민의힘은 \"국민의 정당한 문제 제기를 깎아내리는 모욕적 표현\"이라고 비판했습니다. 조용술 대변인은 \"대통령 말 한마디에는 국정의 무게와 국가의 품격이 담겨야 한다\"며, 비아냥이 아닌 구체적 외교 성과로 답하라고 촉구했습니다. 반면 더불어민주당 조계원 대변인은 앞서 \"SNS 글의 단편적 단어를 물어뜯어 진의를 왜곡하는 보도가 도를 넘었다\"며, 말꼬...",
-          "guid": "MYH20261031192420mDS",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-31T10:24:23.000Z"
-        },
-        {
-          "creator": "윤형섭",
-          "title": "주말 겹친 핼러윈 이태원 북적…인파 관리 총력",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261031191229ggI",
-          "pubDate": "Sat, 31 Oct 2026 19:12:31 +0900",
-          "content:encoded": "\n[ 앵커 ]\n\n주말과 겹치는 핼러윈 데이, 이태원에는 축제를 즐기려는 시민들의 발길이 이어지고 있습니다.\n\n현장에 나가있는 취재기자 연결해보겠습니다. 윤형섭 기자!\n\n[ 기자 ]\n\n네, 저는 서울 이태원에 나와 있습니다.\n\n밤이 되자 핼러윈 분위기를 즐기기 위해 이태원을 찾는 발길이 이어지고 있습니다.\n\n인파가 늘어나는 만큼 경찰관들도 속속 이태원 골목들을 순찰하고 있으며, 도로에도 교통경찰들이 배치돼 차량 흐름을 제어하고 있습니다.\n\n소방차와 구급차도 일대를 돌아다니며 혹시 모를 상황에 대비하고 있는데요.\n\n오랜만에 주말과 겹치는 핼러윈인만큼 밤이 깊어질수록 인파가 늘어날 걸로 보여서 오후 9시부터 내일 새벽 1시까지 가장 붐빌 것으로 보입니다.\n\n한편, 4년 전 참사를 기리기 위해 이태원 골목 한 켠엔 추모 공간도 마련됐습니다.\n\n오늘 오전부터 희생자들을 기억하려는 시민들의 발길이 이어졌고, 추모공간 한 쪽 벽면은 국화와 추모글들로 가득 채워졌습니다.\n\n목소리 직접 들어보겠습니다.\n\n&lt;김민수 / 경기 성남시&gt; \"참사 때문에 사람들을 기억하기 위해 추모글을 하나 남겼습니다. 다시는 이런 일이 일어나면 안 되겠다고 했습니다.“\n\n[앵커]\n\n밤이 깊어지며 인파도 점점 늘어날 거로 예상이 되는데요. 현장에는 경찰과 소방, 안전 관리를 위한 인력들이 배치됐죠?\n\n[기자]\n\n네, 그렇습니다.\n\n앞서 말씀드린 것처럼 오후 5시쯤부터 경찰관들과 순찰차, 기동대 버스 등이 현장에 배치됐습니다.\n\n장갑차도 다시 등장했는데요. 조금 전부터는 이태원로 차량 통행도 전면 통제되고 있는데요.\n\n행정안전부가 핼러윈 주말 동안 인파사고 위기 경보를 '주의' 단계로 격상한 가운데, 전국에 28곳에 경찰력 7,800명이 투입됐습니다.\n\n인파 흐름을 관리하기 위해 이태원 골목엔 우측 보행 안내와 인구 밀집도를 보여주는 전광판들도 설치됐습니다.\n\n경찰은 가장 혼잡한 세계음식문화거리에서 이태원역 쪽으로 이어지는 경사진 골목 6곳을 주요 위험 구역으로 지정해 일방통행을 유도하고 분리대도 설치하는 등 집중관리하고 있습니다.\n\n상황실에서 지능형 CCTV로 실시간 인파 상황을 모니터하고 있으며, 혹시 모를 위급 상황에 대비해 비상벨도 골목 곳곳에 설치됐습니다.\n\n특히 밤시간대 혼잡이 심해질 경우 지하철역 무정차 통과나 출입구 통제 등을 실시한다는 계획입니다.\n\n지금까지 이태원에서 전해드렸습니다.\n\n\n\n현장연결 문원철\n\n[뉴스리뷰]\n\n#경찰 #사고 #이태원 #핼러윈 #인파관리\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤형섭(yhs931@yna.co.kr)",
-          "content:encodedSnippet": "[ 앵커 ]\n\n주말과 겹치는 핼러윈 데이, 이태원에는 축제를 즐기려는 시민들의 발길이 이어지고 있습니다.\n\n현장에 나가있는 취재기자 연결해보겠습니다. 윤형섭 기자!\n\n[ 기자 ]\n\n네, 저는 서울 이태원에 나와 있습니다.\n\n밤이 되자 핼러윈 분위기를 즐기기 위해 이태원을 찾는 발길이 이어지고 있습니다.\n\n인파가 늘어나는 만큼 경찰관들도 속속 이태원 골목들을 순찰하고 있으며, 도로에도 교통경찰들이 배치돼 차량 흐름을 제어하고 있습니다.\n\n소방차와 구급차도 일대를 돌아다니며 혹시 모를 상황에 대비하고 있는데요.\n\n오랜만에 주말과 겹치는 핼러윈인만큼 밤이 깊어질수록 인파가 늘어날 걸로 보여서 오후 9시부터 내일 새벽 1시까지 가장 붐빌 것으로 보입니다.\n\n한편, 4년 전 참사를 기리기 위해 이태원 골목 한 켠엔 추모 공간도 마련됐습니다.\n\n오늘 오전부터 희생자들을 기억하려는 시민들의 발길이 이어졌고, 추모공간 한 쪽 벽면은 국화와 추모글들로 가득 채워졌습니다.\n\n목소리 직접 들어보겠습니다.\n\n<김민수 / 경기 성남시> \"참사 때문에 사람들을 기억하기 위해 추모글을 하나 남겼습니다. 다시는 이런 일이 일어나면 안 되겠다고 했습니다.“\n\n[앵커]\n\n밤이 깊어지며 인파도 점점 늘어날 거로 예상이 되는데요. 현장에는 경찰과 소방, 안전 관리를 위한 인력들이 배치됐죠?\n\n[기자]\n\n네, 그렇습니다.\n\n앞서 말씀드린 것처럼 오후 5시쯤부터 경찰관들과 순찰차, 기동대 버스 등이 현장에 배치됐습니다.\n\n장갑차도 다시 등장했는데요. 조금 전부터는 이태원로 차량 통행도 전면 통제되고 있는데요.\n\n행정안전부가 핼러윈 주말 동안 인파사고 위기 경보를 '주의' 단계로 격상한 가운데, 전국에 28곳에 경찰력 7,800명이 투입됐습니다.\n\n인파 흐름을 관리하기 위해 이태원 골목엔 우측 보행 안내와 인구 밀집도를 보여주는 전광판들도 설치됐습니다.\n\n경찰은 가장 혼잡한 세계음식문화거리에서 이태원역 쪽으로 이어지는 경사진 골목 6곳을 주요 위험 구역으로 지정해 일방통행을 유도하고 분리대도 설치하는 등 집중관리하고 있습니다.\n\n상황실에서 지능형 CCTV로 실시간 인파 상황을 모니터하고 있으며, 혹시 모를 위급 상황에 대비해 비상벨도 골목 곳곳에 설치됐습니다.\n\n특히 밤시간대 혼잡이 심해질 경우 지하철역 무정차 통과나 출입구 통제 등을 실시한다는 계획입니다.\n\n지금까지 이태원에서 전해드렸습니다.\n\n\n\n현장연결 문원철\n\n[뉴스리뷰]\n\n#경찰 #사고 #이태원 #핼러윈 #인파관리\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤형섭(yhs931@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261031/MYH20261031191229ggI.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "윤형섭",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261031191229ggI#comments",
-          "content": "[ 앵커 ] 주말과 겹치는 핼러윈 데이, 이태원에는 축제를 즐기려는 시민들의 발길이 이어지고 있습니다. 현장에 나가있는 취재기자 연결해보겠습니다. 윤형섭 기자! [ 기자 ] 네, 저는 서울 이태원에 나와 있습니다. 밤이 되자 핼러윈 분위기를 즐기기 위해 이태원을 찾는 발길이 이어지고 있습니다. 인파가 늘어나는 만큼 경찰관들도 속속 이태원 골목들을 순찰하고 있으며, 도로에도 교통경찰들이 배치돼 차량 흐름을 제어하고 있습니다. 소방차와 구급차...",
-          "contentSnippet": "[ 앵커 ] 주말과 겹치는 핼러윈 데이, 이태원에는 축제를 즐기려는 시민들의 발길이 이어지고 있습니다. 현장에 나가있는 취재기자 연결해보겠습니다. 윤형섭 기자! [ 기자 ] 네, 저는 서울 이태원에 나와 있습니다. 밤이 되자 핼러윈 분위기를 즐기기 위해 이태원을 찾는 발길이 이어지고 있습니다. 인파가 늘어나는 만큼 경찰관들도 속속 이태원 골목들을 순찰하고 있으며, 도로에도 교통경찰들이 배치돼 차량 흐름을 제어하고 있습니다. 소방차와 구급차...",
-          "guid": "MYH20261031191229ggI",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-31T10:12:31.000Z"
-        },
-        {
-          "creator": "김재훈",
-          "title": "휴일 전국 가을비…찬 바람 불며 '쌀쌀'",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261031191102yne",
-          "pubDate": "Sat, 31 Oct 2026 19:11:04 +0900",
-          "content:encoded": "\n[앵커]\n\n휴일인 내일(1일)은 종일 찬 바람이 불면서 쌀쌀하겠습니다.\n\n전국 곳곳에 가을비도 내리는데, 제주도를 중심으로는 강한 비바람도 예상됩니다.\n\n자세한 날씨, 김재훈 기자가 전해드립니다.\n\n[기자]\n\n고즈넉한 고궁에도 어느덧 가을빛이 내려앉았습니다\n\n형형색색 곱게 물든 단풍이 나들이객들의 발길을 멈추게 만듭니다.\n\n포근한 가을 날씨도 잠시, 다시 찬 바람이 불며 쌀쌀해집니다.\n\n일요일 아침 서울 기온이 5도 안팎까지 내려가겠고, 일부 강원 산지와 내륙은 영하권을 보이겠습니다.\n\n먹구름이 잔뜩 끼면서 가을비도 내리겠습니다.\n\n경기 남서부와 충청에서 시작한 비는 오후에 남부지방, 밤에는 대부분 지역으로 확대될 전망입니다.\n\n특히 비구름 중심과 가까운 제주는 거센 비바람이 불겠습니다.\n\n&lt;남민지/기상청 예보분석관&gt; \"제주도에는 돌풍과 함께 천둥 번개가 치는 곳이 있겠고 시간당 20mm 안팎의 강한 비가 내리는 곳이 있겠으니 시설물 관리와 안전사고에 유의하기 바랍니다.\"\n\n제주에 최고 60㎜, 남부지방은 적게는 5㎜, 많게는 40㎜의 비가 예상됩니다.\n\n충청 5~10㎜, 서울과 경기, 강원은 5㎜ 안팎의 비가 내리겠습니다.\n\n이번 비는 월요일 아침이면 대부분 그칠 것으로 보입니다.\n\n당분간 우리나라 상공으로 차가운 고기압과 비구름이 번갈아 지나가면서 변덕 심한 날씨가 예상됩니다.\n\n목요일쯤 남부지방을 중심으로 또다시 비가 내릴 것으로 예측됐습니다.\n\n비가 그친 뒤 대륙에서 찬 공기가 확장하면서 주 후반에는 올가을 들어 가장 추워질 전망입니다.\n\n연합뉴스TV 김재훈입니다.\n\n\n영상취재 김세완\n\n영상편집 이승훈\n\n[뉴스리뷰]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김재훈(kimjh0@yna.co.kr)",
-          "content:encodedSnippet": "[앵커]\n\n휴일인 내일(1일)은 종일 찬 바람이 불면서 쌀쌀하겠습니다.\n\n전국 곳곳에 가을비도 내리는데, 제주도를 중심으로는 강한 비바람도 예상됩니다.\n\n자세한 날씨, 김재훈 기자가 전해드립니다.\n\n[기자]\n\n고즈넉한 고궁에도 어느덧 가을빛이 내려앉았습니다\n\n형형색색 곱게 물든 단풍이 나들이객들의 발길을 멈추게 만듭니다.\n\n포근한 가을 날씨도 잠시, 다시 찬 바람이 불며 쌀쌀해집니다.\n\n일요일 아침 서울 기온이 5도 안팎까지 내려가겠고, 일부 강원 산지와 내륙은 영하권을 보이겠습니다.\n\n먹구름이 잔뜩 끼면서 가을비도 내리겠습니다.\n\n경기 남서부와 충청에서 시작한 비는 오후에 남부지방, 밤에는 대부분 지역으로 확대될 전망입니다.\n\n특히 비구름 중심과 가까운 제주는 거센 비바람이 불겠습니다.\n\n<남민지/기상청 예보분석관> \"제주도에는 돌풍과 함께 천둥 번개가 치는 곳이 있겠고 시간당 20mm 안팎의 강한 비가 내리는 곳이 있겠으니 시설물 관리와 안전사고에 유의하기 바랍니다.\"\n\n제주에 최고 60㎜, 남부지방은 적게는 5㎜, 많게는 40㎜의 비가 예상됩니다.\n\n충청 5~10㎜, 서울과 경기, 강원은 5㎜ 안팎의 비가 내리겠습니다.\n\n이번 비는 월요일 아침이면 대부분 그칠 것으로 보입니다.\n\n당분간 우리나라 상공으로 차가운 고기압과 비구름이 번갈아 지나가면서 변덕 심한 날씨가 예상됩니다.\n\n목요일쯤 남부지방을 중심으로 또다시 비가 내릴 것으로 예측됐습니다.\n\n비가 그친 뒤 대륙에서 찬 공기가 확장하면서 주 후반에는 올가을 들어 가장 추워질 전망입니다.\n\n연합뉴스TV 김재훈입니다.\n\n\n영상취재 김세완\n\n영상편집 이승훈\n\n[뉴스리뷰]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김재훈(kimjh0@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261031/MYH20261031191102yne.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "김재훈",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261031191102yne#comments",
-          "content": "[앵커] 휴일인 내일(1일)은 종일 찬 바람이 불면서 쌀쌀하겠습니다. 전국 곳곳에 가을비도 내리는데, 제주도를 중심으로는 강한 비바람도 예상됩니다. 자세한 날씨, 김재훈 기자가 전해드립니다. [기자] 고즈넉한 고궁에도 어느덧 가을빛이 내려앉았습니다 형형색색 곱게 물든 단풍이 나들이객들의 발길을 멈추게 만듭니다. 포근한 가을 날씨도 잠시, 다시 찬 바람이 불며 쌀쌀해집니다. 일요일 아침 서울 기온이 5도 안팎까지 내려가겠고, 일부 강원 산지...",
-          "contentSnippet": "[앵커] 휴일인 내일(1일)은 종일 찬 바람이 불면서 쌀쌀하겠습니다. 전국 곳곳에 가을비도 내리는데, 제주도를 중심으로는 강한 비바람도 예상됩니다. 자세한 날씨, 김재훈 기자가 전해드립니다. [기자] 고즈넉한 고궁에도 어느덧 가을빛이 내려앉았습니다 형형색색 곱게 물든 단풍이 나들이객들의 발길을 멈추게 만듭니다. 포근한 가을 날씨도 잠시, 다시 찬 바람이 불며 쌀쌀해집니다. 일요일 아침 서울 기온이 5도 안팎까지 내려가겠고, 일부 강원 산지...",
-          "guid": "MYH20261031191102yne",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-31T10:11:04.000Z"
-        },
-        {
-          "creator": "김종성",
-          "title": "NC, 김강민 영입…KBO 최초 '외야 코디네이터'",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261031191041Bfr",
-          "pubDate": "Sat, 31 Oct 2026 19:10:43 +0900",
-          "content:encoded": "\n프로야구 NC 다이노스가 KBO리그 대표 외야수 출신 김강민 해설위원을 '외야 코디네이터'로 영입했습니다.\n\n타격이나 투수 코디네이터와 달리 리그 최초로 신설된 외야 코디네이터는 1·2군과 재활군 전체의 외야 수비와 육성을 총괄하게 됩니다.\n\nNC 구단은 김 코디네이터의 현장 경험과 전력분석 역량을 높이 평가했다며 수비 경쟁력 강화를 기대했습니다.\n\n김강민 코디네이터는 오는 3일 일본 오키나와 마무리 훈련부터 합류해 공식 일정을 시작합니다.\n\n\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김종성(goldbell@yna.co.kr)",
-          "content:encodedSnippet": "프로야구 NC 다이노스가 KBO리그 대표 외야수 출신 김강민 해설위원을 '외야 코디네이터'로 영입했습니다.\n\n타격이나 투수 코디네이터와 달리 리그 최초로 신설된 외야 코디네이터는 1·2군과 재활군 전체의 외야 수비와 육성을 총괄하게 됩니다.\n\nNC 구단은 김 코디네이터의 현장 경험과 전력분석 역량을 높이 평가했다며 수비 경쟁력 강화를 기대했습니다.\n\n김강민 코디네이터는 오는 3일 일본 오키나와 마무리 훈련부터 합류해 공식 일정을 시작합니다.\n\n\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김종성(goldbell@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261031/MYH20261031191041Bfr.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "김종성",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261031191041Bfr#comments",
-          "content": "프로야구 NC 다이노스가 KBO리그 대표 외야수 출신 김강민 해설위원을 '외야 코디네이터'로 영입했습니다. 타격이나 투수 코디네이터와 달리 리그 최초로 신설된 외야 코디네이터는 1·2군과 재활군 전체의 외야 수비와 육성을 총괄하게 됩니다. NC 구단은 김 코디네이터의 현장 경험과 전력분석 역량을 높이 평가했다며 수비 경쟁력 강화를 기대했습니다. 김강민 코디네이터는 오는 3일 일본 오키나와 마무리 훈련부터 합류해 공식 일정을 시작합니다. 연...",
-          "contentSnippet": "프로야구 NC 다이노스가 KBO리그 대표 외야수 출신 김강민 해설위원을 '외야 코디네이터'로 영입했습니다. 타격이나 투수 코디네이터와 달리 리그 최초로 신설된 외야 코디네이터는 1·2군과 재활군 전체의 외야 수비와 육성을 총괄하게 됩니다. NC 구단은 김 코디네이터의 현장 경험과 전력분석 역량을 높이 평가했다며 수비 경쟁력 강화를 기대했습니다. 김강민 코디네이터는 오는 3일 일본 오키나와 마무리 훈련부터 합류해 공식 일정을 시작합니다. 연...",
-          "guid": "MYH20261031191041Bfr",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-31T10:10:43.000Z"
         }
       ]
     }
