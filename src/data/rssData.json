@@ -7,12 +7,122 @@
       "priority": 1,
       "data": [
         {
+          "title": "Anthropic, 더 큰 모델 학습에 조금이라도 관련된 작업을 하는 사용자를 차단",
+          "link": "https://news.hada.io/topic?id=36358&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T23:42:59.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Jiahao Shao는 Claude로 <strong>연구 작업을 자동화</strong>하다가 “경쟁 모델 학습”으로 분류돼 차단 등의 조치를 받았다고 밝힘</li>\n<li>Shao에 따르면 <strong>Claude를 증류한 적은 없으며</strong>, 롤아웃은 성능이 좋은 오픈소스 모델에서 생성함</li>\n<li>해당 작업에서 <strong>Claude의 역할</s...</p>",
+          "contentSnippet": "Jiahao Shao는 Claude로 연구 작업을 자동화하다가 “경쟁 모델 학습”으로 분류돼 차단 등의 조치를 받았다고 밝힘\nShao에 따르면 Claude를 증류한 적은 없으며, 롤아웃은 성능이 좋은 오픈소스 모델에서 생성함\n해당 작업에서 Claude의 역할",
+          "id": "https://news.hada.io/topic?id=36358",
+          "isoDate": "2026-10-31T23:42:59.000Z"
+        },
+        {
+          "title": "프랑스 하원, GB당 0.055유로 인터넷세 도입안 가결",
+          "link": "https://news.hada.io/topic?id=36357&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T23:39:59.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>프랑스 하원이 프랑스 이용자에게 전송하는 데이터에 <strong>GB당 0.055유로</strong>를 부과하는 수정안을 가결함. 납세 대상은 이용자가 아닌 <strong>온라인 콘텐츠 공급자</strong>임</li>\n<li>인터넷 서비스 제공업체가 사업자별 전송량을 <strong>분기마다 측정</strong>하며, 이용자 가까이 있는 중계 ...</p>",
+          "contentSnippet": "프랑스 하원이 프랑스 이용자에게 전송하는 데이터에 GB당 0.055유로를 부과하는 수정안을 가결함. 납세 대상은 이용자가 아닌 온라인 콘텐츠 공급자임\n인터넷 서비스 제공업체가 사업자별 전송량을 분기마다 측정하며, 이용자 가까이 있는 중계 ...",
+          "id": "https://news.hada.io/topic?id=36357",
+          "isoDate": "2026-10-31T23:39:59.000Z"
+        },
+        {
+          "title": "GPT-5.6 Sol, 평화 모드에서 Factorio 클리어 가능",
+          "link": "https://news.hada.io/topic?id=36356&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T23:36:58.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>GPT-5.6 Sol</strong>이 Codex에서 낮은 사고 수준으로 실행돼, 바이터가 없는 Factorio 평화 모드를 <strong>게임 내 시간 13.5시간</strong> 만에 클리어함</li>\n<li>게임 관리자와 <strong>Python 라이브러리</strong>로 게임을 조작했으며, 플레이어의 도달 거리와 전장의 안개 등 GUI로 플레이하는...</p>",
+          "contentSnippet": "GPT-5.6 Sol이 Codex에서 낮은 사고 수준으로 실행돼, 바이터가 없는 Factorio 평화 모드를 게임 내 시간 13.5시간 만에 클리어함\n게임 관리자와 Python 라이브러리로 게임을 조작했으며, 플레이어의 도달 거리와 전장의 안개 등 GUI로 플레이하는...",
+          "id": "https://news.hada.io/topic?id=36356",
+          "isoDate": "2026-10-31T23:36:58.000Z"
+        },
+        {
+          "title": "공백 문자인지 확인하는 일이 얼마나 어려울까?",
+          "link": "https://news.hada.io/topic?id=36354&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T23:01:10.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>공백 판별은 단순한 <code>c == ' '</code> 비교로 끝나지 않으며, <strong>Unicode의 25개 공백 문자</strong>와 런타임별 판정 기준을 구분해야 함</li>\n<li><strong>Java, Python, JavaScript</strong>는 같은 문자도 다르게 판정함. 줄바꿈 없는 공백, 제어 문자, 너비 없는 문자 등의 포함 여부가 서로 다...</p>",
+          "contentSnippet": "공백 판별은 단순한 c == ' ' 비교로 끝나지 않으며, Unicode의 25개 공백 문자와 런타임별 판정 기준을 구분해야 함\nJava, Python, JavaScript는 같은 문자도 다르게 판정함. 줄바꿈 없는 공백, 제어 문자, 너비 없는 문자 등의 포함 여부가 서로 다...",
+          "id": "https://news.hada.io/topic?id=36354",
+          "isoDate": "2026-10-31T23:01:10.000Z"
+        },
+        {
+          "title": "Jepsen: ParticleDB 1.1.4 - AI용 데이터베이스의 정합성 검증에서 96개 문제 발견",
+          "link": "https://news.hada.io/topic?id=36353&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T22:33:15.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Jepsen이 AI 워크로드용 <strong>ParticleDB 1.1.4부터 1.1.18.11.rc-22까지</strong> 검사해 96개 문제를 발견함. 대부분은 서버와 클라이언트가 각각 하나이고 장애가 없는 환경에서도 발생해, “Full ACID”라는 제품 설명과 어긋남</li>\n<li>문제는 충돌과 교착 상태뿐 아니라 <strong>잘못된 SQL 결과와 데...</p>",
+          "contentSnippet": "Jepsen이 AI 워크로드용 ParticleDB 1.1.4부터 1.1.18.11.rc-22까지 검사해 96개 문제를 발견함. 대부분은 서버와 클라이언트가 각각 하나이고 장애가 없는 환경에서도 발생해, “Full ACID”라는 제품 설명과 어긋남\n문제는 충돌과 교착 상태뿐 아니라 잘못된 SQL 결과와 데...",
+          "id": "https://news.hada.io/topic?id=36353",
+          "isoDate": "2026-10-31T22:33:15.000Z"
+        },
+        {
+          "title": "TCP 해제 후 사용 취약점: CVE-2026-98432 / CVSS 9.8",
+          "link": "https://news.hada.io/topic?id=36352&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T21:36:38.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Linux 4.4 이후 커널의 <strong>IPv4 TCP 핸드셰이크</strong>에서 인증 없이 원격으로 도달할 수 있는 <strong>해제 후 사용(use-after-free)</strong> 취약점이 발견됐으며, 커널 CNA는 CVSS 3.1 9.8, Critical로 평가함</li>\n<li>연결 종료 시 IPv4 옵션 메모리를 즉시 해제해 다른 CPU의 읽기 작업과 충돌하...</p>",
+          "contentSnippet": "Linux 4.4 이후 커널의 IPv4 TCP 핸드셰이크에서 인증 없이 원격으로 도달할 수 있는 해제 후 사용(use-after-free) 취약점이 발견됐으며, 커널 CNA는 CVSS 3.1 9.8, Critical로 평가함\n연결 종료 시 IPv4 옵션 메모리를 즉시 해제해 다른 CPU의 읽기 작업과 충돌하...",
+          "id": "https://news.hada.io/topic?id=36352",
+          "isoDate": "2026-10-31T21:36:38.000Z"
+        },
+        {
+          "title": "HackerTube: HN에서 추천한 영상으로 만든 YouTube",
+          "link": "https://news.hada.io/topic?id=36351&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T21:33:38.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li><strong>HackerTube</strong>는 Hacker News 댓글에서 추천한 YouTube 영상을 모아 YouTube 형태의 UI로 제공하는 사이트임</li>\n<li><strong>Opus 5.5</strong>가 HN 댓글 전체를 내려받아 필터링하고, Sonnet을 활용한 작업 흐름으로 스팸과 저품질 콘텐츠를 제거함</li>\n<li>추천 댓글 약 <strong>4만 개</s...</p>",
+          "contentSnippet": "HackerTube는 Hacker News 댓글에서 추천한 YouTube 영상을 모아 YouTube 형태의 UI로 제공하는 사이트임\nOpus 5.5가 HN 댓글 전체를 내려받아 필터링하고, Sonnet을 활용한 작업 흐름으로 스팸과 저품질 콘텐츠를 제거함\n추천 댓글 약 4만 개",
+          "id": "https://news.hada.io/topic?id=36351",
+          "isoDate": "2026-10-31T21:33:38.000Z"
+        },
+        {
+          "title": "1980년대의 Casio 시계",
+          "link": "https://news.hada.io/topic?id=36350&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T19:37:54.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Casio는 1980년대에 <strong>계산기, 사전, 전화번호부, 센서</strong>를 손목시계에 통합하며 시간을 알려주는 기기를 손목에 착용하는 정보 기기로 확장함</li>\n<li>1983년에는 유리에 손가락으로 쓴 숫자와 수학 기호를 인식하는 <strong>AT-550</strong>과 화면의 가상 키를 누르는 계산기 시계 TC-500을 출...</p>",
+          "contentSnippet": "Casio는 1980년대에 계산기, 사전, 전화번호부, 센서를 손목시계에 통합하며 시간을 알려주는 기기를 손목에 착용하는 정보 기기로 확장함\n1983년에는 유리에 손가락으로 쓴 숫자와 수학 기호를 인식하는 AT-550과 화면의 가상 키를 누르는 계산기 시계 TC-500을 출...",
+          "id": "https://news.hada.io/topic?id=36350",
+          "isoDate": "2026-10-31T19:37:54.000Z"
+        },
+        {
+          "title": "영국 녹색당, 오랜 원자력 발전 반대 입장 철회",
+          "link": "https://news.hada.io/topic?id=36349&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T19:34:53.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>잉글랜드와 웨일스 녹색당이 전당대회 표결로 <strong>원전의 단계적 폐지 방침</strong>을 철회하고, 원전 사업을 다른 저탄소 기술과 함께 평가하기로 함</li>\n<li><strong>해상풍력, 육상풍력, 옥상 태양광 우선 정책</strong>은 유지하되, 선출직 대표가 신규 원자로를 사안별로 지지할 수 있도록 허용함...</p>",
+          "contentSnippet": "잉글랜드와 웨일스 녹색당이 전당대회 표결로 원전의 단계적 폐지 방침을 철회하고, 원전 사업을 다른 저탄소 기술과 함께 평가하기로 함\n해상풍력, 육상풍력, 옥상 태양광 우선 정책은 유지하되, 선출직 대표가 신규 원자로를 사안별로 지지할 수 있도록 허용함...",
+          "id": "https://news.hada.io/topic?id=36349",
+          "isoDate": "2026-10-31T19:34:53.000Z"
+        },
+        {
+          "title": "쥘 베른의 잃어버린 소설",
+          "link": "https://news.hada.io/topic?id=36348&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T18:39:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>쥘 베른이 1863년에 쓴 <strong>『20세기 파리』</strong> 는 과학, 기계, 상업, 효율을 향한 믿음이 지배하는 1960년의 문명을 상상한 소설로, 출판사의 거절로 미출간 상태였다가 집필 131년 뒤인 1994년에 출간됨</li>\n<li>소설 속 교통망, 계산기, 원격 문서 전송은 순수한 예언보다 <strong>당대 기술의 연...</p>",
+          "contentSnippet": "쥘 베른이 1863년에 쓴 『20세기 파리』 는 과학, 기계, 상업, 효율을 향한 믿음이 지배하는 1960년의 문명을 상상한 소설로, 출판사의 거절로 미출간 상태였다가 집필 131년 뒤인 1994년에 출간됨\n소설 속 교통망, 계산기, 원격 문서 전송은 순수한 예언보다 당대 기술의 연...",
+          "id": "https://news.hada.io/topic?id=36348",
+          "isoDate": "2026-10-31T18:39:02.000Z"
+        },
+        {
+          "title": "악성코드, LLM으로 피해자의 금전적 가치에 따라 순위를 매김",
+          "link": "https://news.hada.io/topic?id=36347&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T18:36:02.000Z",
+          "author": "neo",
+          "content": "<ul>\n<li>Windows 정보 탈취 악성코드 <strong>VOLTA-AUTODOXER</strong>는 훔친 인증정보와 개인 데이터를 LLM에 보내, 피해자의 자산을 현금화 가치에 따라 평가하고 우선순위를 매김</li>\n<li>단순한 정보 수집을 넘어 <strong>탈취한 세션</strong>으로 Gmail 영수증, 음식 배달 주문 내역, Discord 계정 등을 조회해...</p>",
+          "contentSnippet": "Windows 정보 탈취 악성코드 VOLTA-AUTODOXER는 훔친 인증정보와 개인 데이터를 LLM에 보내, 피해자의 자산을 현금화 가치에 따라 평가하고 우선순위를 매김\n단순한 정보 수집을 넘어 탈취한 세션으로 Gmail 영수증, 음식 배달 주문 내역, Discord 계정 등을 조회해...",
+          "id": "https://news.hada.io/topic?id=36347",
+          "isoDate": "2026-10-31T18:36:02.000Z"
+        },
+        {
           "title": "Prospero - 경량 설계와 원격 실행을 지원하는 새로운 코딩 하네스",
           "link": "https://news.hada.io/topic?id=36346&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
           "pubDate": "2026-10-31T17:49:44.000Z",
           "author": "neo",
-          "content": "<ul>\n<li><strong>Prospero</strong>는 C++와 Dear ImGui로 만든 코딩 하네스로, 개발자에 따르면 기능을 희생하지 않으면서 다른 하네스보다 약 100배 적은 자원을 사용함</li>\n<li><strong>서브에이전트와 원격 실행</strong>을 지원하며, 시각 기능이 있는 모델은 데스크톱을 직접 조작해 GUI 애플리케이션을 테스트하...</p>",
-          "contentSnippet": "Prospero는 C++와 Dear ImGui로 만든 코딩 하네스로, 개발자에 따르면 기능을 희생하지 않으면서 다른 하네스보다 약 100배 적은 자원을 사용함\n서브에이전트와 원격 실행을 지원하며, 시각 기능이 있는 모델은 데스크톱을 직접 조작해 GUI 애플리케이션을 테스트하...",
+          "content": "<ul>\n<li><strong>C++와 Dear ImGui로 만든 네이티브 GUI 코딩 하네스</strong>로, Windows, macOS, Linux에서 실행됨. 로컬 모델이나 외부 모델 API를 연결해 사용함</li>\n<li><strong>서브에이전트의 병렬 작업과 원격 실행</strong>을 지원하며, 시각 기능이 있는 모델은 화면을 보고 클릭하거나 입력해 GUI 앱을 테스...</p>",
+          "contentSnippet": "C++와 Dear ImGui로 만든 네이티브 GUI 코딩 하네스로, Windows, macOS, Linux에서 실행됨. 로컬 모델이나 외부 모델 API를 연결해 사용함\n서브에이전트의 병렬 작업과 원격 실행을 지원하며, 시각 기능이 있는 모델은 화면을 보고 클릭하거나 입력해 GUI 앱을 테스...",
           "id": "https://news.hada.io/topic?id=36346",
           "isoDate": "2026-10-31T17:49:44.000Z"
         },
@@ -77,22 +187,22 @@
           "isoDate": "2026-10-31T15:47:44.000Z"
         },
         {
-          "title": "디지털 미니멀리즘",
+          "title": "비탈릭 부테린의 디지털 미니멀리즘",
           "link": "https://news.hada.io/topic?id=36339&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
           "pubDate": "2026-10-31T15:44:44.000Z",
           "author": "neo",
-          "content": "<ul>\n<li><strong>디지털 미니멀리즘</strong>은 기술을 무조건 덜 쓰는 것이 아니라, 디지털 기술에 끌려 들어가는 대신 매번 의식적으로 접근 방식을 선택하는 생활 방식임</li>\n<li>X를 탈퇴하지 않고 <strong>Firefly</strong>로 접속 인터페이스를 바꾼 개인 실험에서는 기분이 나아지고 온라인 논쟁에 대한 관심이...</p>",
-          "contentSnippet": "디지털 미니멀리즘은 기술을 무조건 덜 쓰는 것이 아니라, 디지털 기술에 끌려 들어가는 대신 매번 의식적으로 접근 방식을 선택하는 생활 방식임\nX를 탈퇴하지 않고 Firefly로 접속 인터페이스를 바꾼 개인 실험에서는 기분이 나아지고 온라인 논쟁에 대한 관심이...",
+          "content": "<ul>\n<li><strong>디지털 기술을 사용하는 방식을 의식적으로 선택</strong>하는 생활을 제안함. 추천 피드와 기본 설정에 이끌리는 대신, 필요한 정보와 기능을 얻는 방법을 직접 정하는 것이 핵심</li>\n<li>X를 떠나는 대신 통합 클라이언트 <strong>Firefly로 인터페이스를 바꾸자</strong> 기분이 나아지고 온라인 논...</p>",
+          "contentSnippet": "디지털 기술을 사용하는 방식을 의식적으로 선택하는 생활을 제안함. 추천 피드와 기본 설정에 이끌리는 대신, 필요한 정보와 기능을 얻는 방법을 직접 정하는 것이 핵심\nX를 떠나는 대신 통합 클라이언트 Firefly로 인터페이스를 바꾸자 기분이 나아지고 온라인 논...",
           "id": "https://news.hada.io/topic?id=36339",
           "isoDate": "2026-10-31T15:44:44.000Z"
         },
         {
-          "title": "ChatGPT 계정을 탈취한 방법",
+          "title": "ChatGPT 공유 링크 하나로 계정을 탈취한 방법",
           "link": "https://news.hada.io/topic?id=36338&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
           "pubDate": "2026-10-31T15:41:44.000Z",
           "author": "neo",
-          "content": "<ul>\n<li>Parameter 연구팀은 <strong>공개 ChatGPT 공유 링크</strong>를 통해 다른 사용자의 로그인 세션에서 임의 JavaScript를 실행하는 취약점을 발견했으며, 자동 Preview 경로에서는 링크를 여는 것만으로 공격이 실행됨</li>\n<li>격리된 HTML Preview가 보낸 메시지를 <strong>MathLive</strong>가 발신자 검증 ...</p>",
-          "contentSnippet": "Parameter 연구팀은 공개 ChatGPT 공유 링크를 통해 다른 사용자의 로그인 세션에서 임의 JavaScript를 실행하는 취약점을 발견했으며, 자동 Preview 경로에서는 링크를 여는 것만으로 공격이 실행됨\n격리된 HTML Preview가 보낸 메시지를 MathLive가 발신자 검증 ...",
+          "content": "<ul>\n<li>악성 ChatGPT 공유 링크를 열면 <strong>로그인한 사용자의 권한으로 JavaScript가 실행되는 취약점</strong>이 발견됨. 자동 미리보기를 이용한 버전에서는 추가 클릭도 필요하지 않았음</li>\n<li>격리된 HTML 미리보기가 보낸 메시지를 수학 라이브러리 <strong>MathLive가 발신자 검증 없이 처리</strong>하...</p>",
+          "contentSnippet": "악성 ChatGPT 공유 링크를 열면 로그인한 사용자의 권한으로 JavaScript가 실행되는 취약점이 발견됨. 자동 미리보기를 이용한 버전에서는 추가 클릭도 필요하지 않았음\n격리된 HTML 미리보기가 보낸 메시지를 수학 라이브러리 MathLive가 발신자 검증 없이 처리하...",
           "id": "https://news.hada.io/topic?id=36338",
           "isoDate": "2026-10-31T15:41:44.000Z"
         },
@@ -147,12 +257,12 @@
           "isoDate": "2026-10-31T13:41:28.000Z"
         },
         {
-          "title": "OpenAI, 45조원 조달 목표의 절반에도 못 미치는 투자 약정 확보",
+          "title": "OpenAI, 최근 투자 라운드에서 목표액 40조원($30b)의 절반도 조달하지 못해",
           "link": "https://news.hada.io/topic?id=36330&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
           "pubDate": "2026-10-31T13:38:28.000Z",
           "author": "neo",
-          "content": "<ul>\n<li><strong>OpenAI</strong>가 최신 투자 라운드에서 약 110억 달러($11b)의 투자 약정을 확보해, <strong>목표인 300억 달러($30b)의 절반에 못 미침</strong></li>\n<li>사안에 정통한 관계자들에 따른 규모로, <strong>현재까지 확보한 투자 약정 기준</strong>임</li>\n<li>이번 거래의 <strong>기업가치는 1조 ...</p>",
-          "contentSnippet": "OpenAI가 최신 투자 라운드에서 약 110억 달러($11b)의 투자 약정을 확보해, 목표인 300억 달러($30b)의 절반에 못 미침\n사안에 정통한 관계자들에 따른 규모로, 현재까지 확보한 투자 약정 기준임\n이번 거래의 기업가치는 1조 ...",
+          "content": "<ul>\n<li>OpenAI가 최근 투자 유치에서 당초 목표인 <strong>300억 달러(약 40조 원)</strong> 의 절반에도 못 미치는 약 110억 달러의 투자 약정을 확보하는 데 그침. AI 산업에 대한 시장의 불안감이 커지면서 대형 투자자들의 참여가 기대보다 저조했음</li>\n<li>기업가치는 당초 기대했던 1조 4,000억 달러에서 1조 ...</p>",
+          "contentSnippet": "OpenAI가 최근 투자 유치에서 당초 목표인 300억 달러(약 40조 원) 의 절반에도 못 미치는 약 110억 달러의 투자 약정을 확보하는 데 그침. AI 산업에 대한 시장의 불안감이 커지면서 대형 투자자들의 참여가 기대보다 저조했음\n기업가치는 당초 기대했던 1조 4,000억 달러에서 1조 ...",
           "id": "https://news.hada.io/topic?id=36330",
           "isoDate": "2026-10-31T13:38:28.000Z"
         },
@@ -395,116 +505,6 @@
           "contentSnippet": "FlokiNET이 ICE를 대리하는 ZeroFox의 Icepick 사이트 삭제 요청을 거부함. 유출된 정부 직원의 업무상 신원 정보를 언론인과 시민의 공적 책임 추적에 쓰이는 자료로 판단함\n데이터는 침해 사고로 유출됐으며 당사자들은 공개에 동의하지 않았음. 다만 FlokiNET은...",
           "id": "https://news.hada.io/topic?id=36301",
           "isoDate": "2026-10-30T17:44:03.000Z"
-        },
-        {
-          "title": "Medicare는 심장마비 치료에 5만 달러를 지불한다. 예방에도 100달러를 지불해야 한다",
-          "link": "https://news.hada.io/topic?id=36300&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-30T17:41:03.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>약 <strong>100달러의 관상동맥 석회화 점수(CAC) 검사</strong>로 심장마비 발생 수년 전 동맥경화를 발견할 수 있지만, 보험 보장과 진료 체계의 제약으로 활용이 제한돼 있음</li>\n<li><strong>2026년 3월 ACC/AHA 지침</strong>은 관상동맥질환 위험이 경계 수준이거나 중간 수준이고 예방 치료 시작 여부가...</p>",
-          "contentSnippet": "약 100달러의 관상동맥 석회화 점수(CAC) 검사로 심장마비 발생 수년 전 동맥경화를 발견할 수 있지만, 보험 보장과 진료 체계의 제약으로 활용이 제한돼 있음\n2026년 3월 ACC/AHA 지침은 관상동맥질환 위험이 경계 수준이거나 중간 수준이고 예방 치료 시작 여부가...",
-          "id": "https://news.hada.io/topic?id=36300",
-          "isoDate": "2026-10-30T17:41:03.000Z"
-        },
-        {
-          "title": "AI는 SRE를 대체하는 게 아니라 숙련도를 떨어뜨리고 있음",
-          "link": "https://news.hada.io/topic?id=36299&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-30T17:38:03.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>AI가 일상적인 장애 대응을 맡을수록 SRE는 <strong>드물고 복잡한 장애</strong>에 집중하게 되지만, 이를 해결할 직관과 전문성을 연습할 기회는 줄어듦</li>\n<li><strong>자동화의 역설</strong>은 자동화가 실패할 때 인간의 역할이 더 중요해지는 동시에, 개입에 필요한 숙련도는 실전 경험 부족으로 약해...</p>",
-          "contentSnippet": "AI가 일상적인 장애 대응을 맡을수록 SRE는 드물고 복잡한 장애에 집중하게 되지만, 이를 해결할 직관과 전문성을 연습할 기회는 줄어듦\n자동화의 역설은 자동화가 실패할 때 인간의 역할이 더 중요해지는 동시에, 개입에 필요한 숙련도는 실전 경험 부족으로 약해...",
-          "id": "https://news.hada.io/topic?id=36299",
-          "isoDate": "2026-10-30T17:38:03.000Z"
-        },
-        {
-          "title": "Show GN: WORLD MODEL - 지금 쓸 수 있는 세계 AI 모델 1,100여 개를 한눈에 보는 도감",
-          "link": "https://news.hada.io/topic?id=36298&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-30T17:13:53.000Z",
-          "author": "onenonly",
-          "content": "<p>전 세계 개발사 138곳의 AI 모델 1,100여 개를 공식 발표 기준으로 모아 둔 사이트입니다.<br />\n분야는 대화·이미지·영상·음성·음악·비전·월드·3D·픽셀아트·검색·임베딩·판정으로 나눴습니다.</p>\n<ul>\n<li>국가·분야·로컬 실행 가능 여부로 거르고, 지구본에서 국가별로 볼 수 있습니다</li>\n<li>오픈 가중치 모",
-          "contentSnippet": "전 세계 개발사 138곳의 AI 모델 1,100여 개를 공식 발표 기준으로 모아 둔 사이트입니다.\n국가·분야·로컬 실행 가능 여부로 거르고, 지구본에서 국가별로 볼 수 있습니다\n오픈 가중치 모",
-          "id": "https://news.hada.io/topic?id=36298",
-          "isoDate": "2026-10-30T17:13:53.000Z"
-        },
-        {
-          "title": "약 8.5조원 규모 Binance 해킹, 대부분의 자금이 20분 만에 유출",
-          "link": "https://news.hada.io/topic?id=36297&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-30T16:37:51.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Binance의 <strong>10개 블록체인 지갑에서 약 63억6,000만 달러가 탈취</strong>됐으며, 대부분의 자금 이동은 약 20분 안에 이뤄짐</li>\n<li>공격 준비는 <strong>최소 36시간 전부터 시작</strong>됐고, 소액 자금 조달과 여러 지갑에서의 코드 시험·예행연습을 거쳐 실제 탈취로 이어짐</li>\n<li>Ethereum에...</p>",
-          "contentSnippet": "Binance의 10개 블록체인 지갑에서 약 63억6,000만 달러가 탈취됐으며, 대부분의 자금 이동은 약 20분 안에 이뤄짐\n공격 준비는 최소 36시간 전부터 시작됐고, 소액 자금 조달과 여러 지갑에서의 코드 시험·예행연습을 거쳐 실제 탈취로 이어짐\nEthereum에...",
-          "id": "https://news.hada.io/topic?id=36297",
-          "isoDate": "2026-10-30T16:37:51.000Z"
-        },
-        {
-          "title": "Azure의 가장 약한 고리: 테넌트 간 침해 취약점 5건 (수정 완료)",
-          "link": "https://news.hada.io/topic?id=36296&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-30T16:34:51.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Azure Logic Apps의 <strong>API Connections에서 다른 테넌트의 연결과 백엔드에 접근할 수 있는 치명적 권한 상승 취약점 5건</strong>이 공개됐으며, 보고된 취약점은 모두 수정됨</li>\n<li>공유 API Management가 연결에 저장된 자격 증명으로 백엔드를 호출하는 구조에서, <strong>호출 대상을 바꿔 피해자...</p>",
-          "contentSnippet": "Azure Logic Apps의 API Connections에서 다른 테넌트의 연결과 백엔드에 접근할 수 있는 치명적 권한 상승 취약점 5건이 공개됐으며, 보고된 취약점은 모두 수정됨\n공유 API Management가 연결에 저장된 자격 증명으로 백엔드를 호출하는 구조에서, 호출 대상을 바꿔 피해자...",
-          "id": "https://news.hada.io/topic?id=36296",
-          "isoDate": "2026-10-30T16:34:51.000Z"
-        },
-        {
-          "title": "Cursor 마켓플레이스의 Claude Code 확장에서 SSH 백도어 발견",
-          "link": "https://news.hada.io/topic?id=36295&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-30T15:34:07.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Cursor 마켓플레이스에서 <strong>Claude Code 확장에 SSH 백도어를 삽입한 변조본</strong>이 배포됨. 최신 공지의 영향 대상은 macOS·Windows용 <strong>2.1.312·2.1.313</strong></li>\n<li>악성코드는 확장 로드 즉시 실행돼 <strong>시스템 정보를 전송하고 공격자의 SSH 키와 자동 실행 스크립트를 설치...</p>",
-          "contentSnippet": "Cursor 마켓플레이스에서 Claude Code 확장에 SSH 백도어를 삽입한 변조본이 배포됨. 최신 공지의 영향 대상은 macOS·Windows용 2.1.312·2.1.313\n악성코드는 확장 로드 즉시 실행돼 시스템 정보를 전송하고 공격자의 SSH 키와 자동 실행 스크립트를 설치...",
-          "id": "https://news.hada.io/topic?id=36295",
-          "isoDate": "2026-10-30T15:34:07.000Z"
-        },
-        {
-          "title": "Show HN: macOS의 ‘앱이 로컬 네트워크에서 기기를 찾도록 허용할까요?’ 팝업 자동 닫기",
-          "link": "https://news.hada.io/topic?id=36294&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-30T14:39:19.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>dontallow</strong>는 macOS의 로컬 네트워크 접근 권한 팝업에서 ‘<strong>허용 안 함</strong>’을 자동으로 누르는 도구로, 기본 대기 시간은 0.25초이며 재부팅 후에도 작동함</li>\n<li>macOS Sequoia 이후 일부 앱에서는 <strong>설치 경로 변경</strong> 등으로 권한 결정이 유지되지 않아 실행...</p>",
-          "contentSnippet": "dontallow는 macOS의 로컬 네트워크 접근 권한 팝업에서 ‘허용 안 함’을 자동으로 누르는 도구로, 기본 대기 시간은 0.25초이며 재부팅 후에도 작동함\nmacOS Sequoia 이후 일부 앱에서는 설치 경로 변경 등으로 권한 결정이 유지되지 않아 실행...",
-          "id": "https://news.hada.io/topic?id=36294",
-          "isoDate": "2026-10-30T14:39:19.000Z"
-        },
-        {
-          "title": "미국 하원의원들, AI 거품 붕괴 시 빅테크 구제금융에 반대하는 민주당 결의안 발의 주도",
-          "link": "https://news.hada.io/topic?id=36293&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-30T14:36:18.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>Greg Casar와 Maxine Waters 하원의원이 <strong>AI 거품 붕괴 시 기업과 경영진 구제에 반대</strong>하고, 노동자와 은퇴자, 저소득층을 보호하는 연방 대응을 지지하는 결의안을 공동 발의함</li>\n<li>결의안은 AI 관련 기업의 <strong>수조 달러 부채</strong>와 불투명한 민간 신용시장, 높은 주가수익비율...</p>",
-          "contentSnippet": "Greg Casar와 Maxine Waters 하원의원이 AI 거품 붕괴 시 기업과 경영진 구제에 반대하고, 노동자와 은퇴자, 저소득층을 보호하는 연방 대응을 지지하는 결의안을 공동 발의함\n결의안은 AI 관련 기업의 수조 달러 부채와 불투명한 민간 신용시장, 높은 주가수익비율...",
-          "id": "https://news.hada.io/topic?id=36293",
-          "isoDate": "2026-10-30T14:36:18.000Z"
-        },
-        {
-          "title": "미니멀 CSS 프레임워크 Pico CSS, 유지보수 종료",
-          "link": "https://news.hada.io/topic?id=36292&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-30T13:42:16.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>시맨틱 HTML을 위한 미니멀 CSS 프레임워크 <strong>Pico CSS가 v2.1.1을 마지막으로 유지보수를 종료</strong>함. 10월 4일 저장소를 아카이브했으며, 새 이슈·PR·릴리스를 받지 않음</li>\n<li>유지보수자는 AI가 필요한 CSS만 포함한 가볍고 독립적이며 접근성을 갖춘 HTML을 생성할 수 있어, <strong>Pico 같...</p>",
-          "contentSnippet": "시맨틱 HTML을 위한 미니멀 CSS 프레임워크 Pico CSS가 v2.1.1을 마지막으로 유지보수를 종료함. 10월 4일 저장소를 아카이브했으며, 새 이슈·PR·릴리스를 받지 않음\n유지보수자는 AI가 필요한 CSS만 포함한 가볍고 독립적이며 접근성을 갖춘 HTML을 생성할 수 있어, Pico 같...",
-          "id": "https://news.hada.io/topic?id=36292",
-          "isoDate": "2026-10-30T13:42:16.000Z"
-        },
-        {
-          "title": "당구를 너무 못 쳐서 쌍곡평면까지 가버렸다 [영상]",
-          "link": "https://news.hada.io/topic?id=36291&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-30T13:39:16.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li><strong>외부 당구(outer billiards)</strong> 는 공이 테이블 꼭짓점을 스치도록 이동한 뒤, 접촉점까지 온 거리만큼 더 나아가는 규칙을 반복하는 수학적 시스템임</li>\n<li>출발점에 따라 <strong>주기 궤도</strong>가 달라지며, 평면의 각 점에 고유한 색을 부여하면 여러 출발점의 움직임과 반복 패턴을 ...</p>",
-          "contentSnippet": "외부 당구(outer billiards) 는 공이 테이블 꼭짓점을 스치도록 이동한 뒤, 접촉점까지 온 거리만큼 더 나아가는 규칙을 반복하는 수학적 시스템임\n출발점에 따라 주기 궤도가 달라지며, 평면의 각 점에 고유한 색을 부여하면 여러 출발점의 움직임과 반복 패턴을 ...",
-          "id": "https://news.hada.io/topic?id=36291",
-          "isoDate": "2026-10-30T13:39:16.000Z"
-        },
-        {
-          "title": "elect.horse - 선거구를 조작해 말을 당선시키는 일일 게리맨더링 퍼즐",
-          "link": "https://news.hada.io/topic?id=36290&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-30T13:36:16.000Z",
-          "author": "neo",
-          "content": "<ul>\n<li>재선에서 패배할 상황인 <strong>말 후보</strong>가 가장 많은 의석을 얻도록 선거구를 직접 그리는 <strong>게리맨더링 퍼즐</strong>임</li>\n<li>서로 맞닿은 <strong>육각형 칸</strong>을 누르거나 드래그해 선거구를 만들며, 모든 선거구의 유권자 수는 같아야 함</li>\n<li>각 선거구에서 최다 득표한 후...</p>",
-          "contentSnippet": "재선에서 패배할 상황인 말 후보가 가장 많은 의석을 얻도록 선거구를 직접 그리는 게리맨더링 퍼즐임\n서로 맞닿은 육각형 칸을 누르거나 드래그해 선거구를 만들며, 모든 선거구의 유권자 수는 같아야 함\n각 선거구에서 최다 득표한 후...",
-          "id": "https://news.hada.io/topic?id=36290",
-          "isoDate": "2026-10-30T13:36:16.000Z"
         }
       ]
     },
@@ -681,235 +681,235 @@
       "category": "news",
       "data": [
         {
-          "creator": "배규빈",
-          "title": "미 국무, 한국 의원 비자 문제에 “수십년 전 행동 관련…해결할 것”",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261101025933apj",
-          "pubDate": "Sun, 01 Nov 2026 02:59:34 +0900",
-          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261031/AKR20261101025933apj_01_i.jpg\" alt=\"\"><span class=\"yna_title\">마코 루비오 미국 국무장관</span><span class=\"yna_caption\"></span><span class=\"yna_description\"></span></div>\n마코 루비오 미국 국무장관이 일부 한국 국회의원들에 대한 미국 입국 비자가 거절되는 등의 문제와 관련해 한미 양자 간 협의를 통해 해결하겠다고 밝혔습니다.\n\n루비오 장관은 현지시간 지난달 31일 조지아주 애틀랜타에서 열린 G20 외무장관 회의 계기에 진행한 기자회견에서 '한국 국회의원들의 비자 문제를 비롯해 한미 관계에 긴장 우려가 한국 내에서 제기된다'는 질의에 \"우리는 비자 문제를 해결할 것\"이라고 답했습니다.\n\n이어 \"한 명의 특정 개인의 비자 이슈가 있었고, 아마 수십 년 전 행동과 관련한 이슈였다고 생각한다\"며 \"우리는 그 문제를 기자회견이 아닌, 양자(협의)를 근거로 해결할 것\"이라고 강조했습니다.\n\n앞서 이달 초 여당인 더불어민주당 대표를 지낸 정청래 의원이 주미대사관 등을 대상으로 한 국회 외교통일위원회의 국정감사를 위해 미국 비자를 신청했으나 발급이 지연된 데 이어, 최근에는 같은 당 진성준 국회 국방위원장의 관용 비자 신청이 거절됐다가 발급되면서 논란이 됐습니다.\n\n#정청래 #비자 #미국 #진성준\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배규빈(beanie@yna.co.kr)",
-          "content:encodedSnippet": "마코 루비오 미국 국무장관\n마코 루비오 미국 국무장관이 일부 한국 국회의원들에 대한 미국 입국 비자가 거절되는 등의 문제와 관련해 한미 양자 간 협의를 통해 해결하겠다고 밝혔습니다.\n\n루비오 장관은 현지시간 지난달 31일 조지아주 애틀랜타에서 열린 G20 외무장관 회의 계기에 진행한 기자회견에서 '한국 국회의원들의 비자 문제를 비롯해 한미 관계에 긴장 우려가 한국 내에서 제기된다'는 질의에 \"우리는 비자 문제를 해결할 것\"이라고 답했습니다.\n\n이어 \"한 명의 특정 개인의 비자 이슈가 있었고, 아마 수십 년 전 행동과 관련한 이슈였다고 생각한다\"며 \"우리는 그 문제를 기자회견이 아닌, 양자(협의)를 근거로 해결할 것\"이라고 강조했습니다.\n\n앞서 이달 초 여당인 더불어민주당 대표를 지낸 정청래 의원이 주미대사관 등을 대상으로 한 국회 외교통일위원회의 국정감사를 위해 미국 비자를 신청했으나 발급이 지연된 데 이어, 최근에는 같은 당 진성준 국회 국방위원장의 관용 비자 신청이 거절됐다가 발급되면서 논란이 됐습니다.\n\n#정청래 #비자 #미국 #진성준\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배규빈(beanie@yna.co.kr)",
+          "creator": "홍서현",
+          "title": "국감 끝, 예산전쟁 개막…821조 예산 심사 돌입",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261101084824NpR",
+          "pubDate": "Sun, 01 Nov 2026 08:48:25 +0900",
+          "content:encoded": "[앵커]\n\n국회가 약 3주 간의 국정감사를 끝내고 본격적인 예산 정국에 돌입합니다.\n\n821조 원에 달하는 역대 최대 규모의 '슈퍼 예산안'을 두고, 여야의 한 치 양보 없는 예산 전쟁이 펼쳐질 전망입니다.\n\n홍서현 기자입니다.\n\n[기자]\n\n국정감사가 끝나자마자 예산 전쟁의 막이 올랐습니다.\n\n국회가 이번에 심사할 내년도 예산안 규모는 820조 9천억 원, 올해보다 12.8% 늘어난 역대 최대 수준입니다.\n\n심사를 위해 오는 4일부터 예결위 종합정책질의와 부처별 심사, 예산소위 심사가 차례로 진행됩니다.\n\n최종 예산안을 의결하는 법정 시한은 다음 달 2일, 앞으로 한 달 남짓입니다.\n\n더불어민주당은 정부의 확장 재정 기조를 적극 뒷받침하며 예산안을 법정 시한 내 처리하겠다는 방침입니다.\n\n&lt;한병도 / 더불어민주당 원내대표 (지난달 30일)&gt; \"국민을 지키는 예산을 빈틈없이 챙기고, 국정감사에서 확인한 민생과제 입법에 속도를 내겠습니다.\"\n\n민주당 예결위원들은 본격적인 예결위 가동에 앞서 자체 워크숍을 열고 심사 기조를 점검할 계획입니다.\n\n반대로 국민의힘은 국가 부채 급증을 우려하며 재정 확대에 강하게 반대하고 있습니다.\n\n특히 정부가 편성한 162조 원 규모의 미래대응기금에 송곳 검증을 벼르고 있습니다.\n\n&lt;정점식 / 국민의힘 원내대표 (지난달 30일)&gt; \"정부가 국회의 통제를 벗어나 마음대로 돈을 뿌리겠다는 그야말로 200조 포퓰리즘 자유이용권입니다.\"\n\n반면 여당은 미래세대를 위해 기금 신설이 필요하다고 엄호하고 있어, 이번 예산 정국 최대 뇌관이 될 전망입니다.\n\n미래대응기금 운용에 대한 국회 통제권은 물론, 기금과 연계된 지방교부세 개편 등도 줄줄이 핵심 현안입니다.\n\n이밖에 청와대와 중수청 특활비 삭감 여부, 추미애 경기지사의 발언을 계기로 논란이 된 소방 재정의 지방정부 부담 등을 놓고도 공방이 오갈 것으로 보입니다.\n\n연합뉴스TV 홍서현입니다.\n\n[영상취재 김성수 박태범 김상훈 홍수호]\n\n[영상편집 박상규]\n\n[그래픽 김형서]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n홍서현(hsseo@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n국회가 약 3주 간의 국정감사를 끝내고 본격적인 예산 정국에 돌입합니다.\n\n821조 원에 달하는 역대 최대 규모의 '슈퍼 예산안'을 두고, 여야의 한 치 양보 없는 예산 전쟁이 펼쳐질 전망입니다.\n\n홍서현 기자입니다.\n\n[기자]\n\n국정감사가 끝나자마자 예산 전쟁의 막이 올랐습니다.\n\n국회가 이번에 심사할 내년도 예산안 규모는 820조 9천억 원, 올해보다 12.8% 늘어난 역대 최대 수준입니다.\n\n심사를 위해 오는 4일부터 예결위 종합정책질의와 부처별 심사, 예산소위 심사가 차례로 진행됩니다.\n\n최종 예산안을 의결하는 법정 시한은 다음 달 2일, 앞으로 한 달 남짓입니다.\n\n더불어민주당은 정부의 확장 재정 기조를 적극 뒷받침하며 예산안을 법정 시한 내 처리하겠다는 방침입니다.\n\n<한병도 / 더불어민주당 원내대표 (지난달 30일)> \"국민을 지키는 예산을 빈틈없이 챙기고, 국정감사에서 확인한 민생과제 입법에 속도를 내겠습니다.\"\n\n민주당 예결위원들은 본격적인 예결위 가동에 앞서 자체 워크숍을 열고 심사 기조를 점검할 계획입니다.\n\n반대로 국민의힘은 국가 부채 급증을 우려하며 재정 확대에 강하게 반대하고 있습니다.\n\n특히 정부가 편성한 162조 원 규모의 미래대응기금에 송곳 검증을 벼르고 있습니다.\n\n<정점식 / 국민의힘 원내대표 (지난달 30일)> \"정부가 국회의 통제를 벗어나 마음대로 돈을 뿌리겠다는 그야말로 200조 포퓰리즘 자유이용권입니다.\"\n\n반면 여당은 미래세대를 위해 기금 신설이 필요하다고 엄호하고 있어, 이번 예산 정국 최대 뇌관이 될 전망입니다.\n\n미래대응기금 운용에 대한 국회 통제권은 물론, 기금과 연계된 지방교부세 개편 등도 줄줄이 핵심 현안입니다.\n\n이밖에 청와대와 중수청 특활비 삭감 여부, 추미애 경기지사의 발언을 계기로 논란이 된 소방 재정의 지방정부 부담 등을 놓고도 공방이 오갈 것으로 보입니다.\n\n연합뉴스TV 홍서현입니다.\n\n[영상취재 김성수 박태범 김상훈 홍수호]\n\n[영상편집 박상규]\n\n[그래픽 김형서]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n홍서현(hsseo@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261031/AKR20261101025933apj_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261031/MYH20261101084824NpR.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "배규빈",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261101025933apj#comments",
-          "content": "마코 루비오 미국 국무장관 마코 루비오 미국 국무장관이 일부 한국 국회의원들에 대한 미국 입국 비자가 거절되는 등의 문제와 관련해 한미 양자 간 협의를 통해 해결하겠다고 밝혔습니다. 루비오 장관은 현지시간 지난달 31일 조지아주 애틀랜타에서 열린 G20 외무장관 회의 계기에 진행한 기자회견에서 '한국 국회의원들의 비자 문제를 비롯해 한미 관계에 긴장 우려가 한국 내에서 제기된다'는 질의에 \"우리는 비자 문제를 해결할 것\"이라고 답했습니다....",
-          "contentSnippet": "마코 루비오 미국 국무장관 마코 루비오 미국 국무장관이 일부 한국 국회의원들에 대한 미국 입국 비자가 거절되는 등의 문제와 관련해 한미 양자 간 협의를 통해 해결하겠다고 밝혔습니다. 루비오 장관은 현지시간 지난달 31일 조지아주 애틀랜타에서 열린 G20 외무장관 회의 계기에 진행한 기자회견에서 '한국 국회의원들의 비자 문제를 비롯해 한미 관계에 긴장 우려가 한국 내에서 제기된다'는 질의에 \"우리는 비자 문제를 해결할 것\"이라고 답했습니다....",
-          "guid": "AKR20261101025933apj",
+          "dc:creator": "홍서현",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261101084824NpR#comments",
+          "content": "[앵커] 국회가 약 3주 간의 국정감사를 끝내고 본격적인 예산 정국에 돌입합니다. 821조 원에 달하는 역대 최대 규모의 '슈퍼 예산안'을 두고, 여야의 한 치 양보 없는 예산 전쟁이 펼쳐질 전망입니다. 홍서현 기자입니다. [기자] 국정감사가 끝나자마자 예산 전쟁의 막이 올랐습니다. 국회가 이번에 심사할 내년도 예산안 규모는 820조 9천억 원, 올해보다 12.8% 늘어난 역대 최대 수준입니다. 심사를 위해 오는 4일부터 예결위 종합정책질...",
+          "contentSnippet": "[앵커] 국회가 약 3주 간의 국정감사를 끝내고 본격적인 예산 정국에 돌입합니다. 821조 원에 달하는 역대 최대 규모의 '슈퍼 예산안'을 두고, 여야의 한 치 양보 없는 예산 전쟁이 펼쳐질 전망입니다. 홍서현 기자입니다. [기자] 국정감사가 끝나자마자 예산 전쟁의 막이 올랐습니다. 국회가 이번에 심사할 내년도 예산안 규모는 820조 9천억 원, 올해보다 12.8% 늘어난 역대 최대 수준입니다. 심사를 위해 오는 4일부터 예결위 종합정책질...",
+          "guid": "MYH20261101084824NpR",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-31T17:59:34.000Z"
+          "isoDate": "2026-10-31T23:48:25.000Z"
         },
         {
-          "creator": "배규빈",
-          "title": "미 국무 “트럼프, 김정은과 대화 준비돼…아직 회담 일정 없어”",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261101025044kNW",
-          "pubDate": "Sun, 01 Nov 2026 02:50:45 +0900",
-          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261031/AKR20261101025044kNW_01_i.jpg\" alt=\"\"><span class=\"yna_title\">마코 루비오 미국 국무장관</span><span class=\"yna_caption\"></span><span class=\"yna_description\"></span></div>\n도널드 트럼프 미국 대통령이 김정은 북한 국무위원장과 만날 준비가 돼 있지만, 아직 회담 일정은 잡히지 않았다고 미 국무부가 밝혔습니다.\n\n마코 루비오 미국 국무장관은 현지시간 지난달 31일 조지아주 애틀란타에서 열린 G20 외무장관회의 계기에 진행한 기자회견에서 이같이 말했습니다.\n루비오 장관은 \"트럼프 대통령의 관점은 김 위원장이 미국과 한국 등 동맹국들이 우려하는 문제에 대해 논의할 준비가 돼 있다면, 그에 열려 있다는 것\"이라고 밝혔습니다.\n\n이어 \"트럼프 대통령은 공개적으로 언급한 것처럼 회담에 준비가 돼 있다\"면서도, 아직 회담 일정은 잡히지 않았다고 덧붙였습니다.\n\n또, 트럼프 대통령이 집권 1기에 김 위원장과 2차례 회담을 가졌다며 \"그러한 회담에서 생산적 결과가 나온다면, 트럼프 대통령은 회담을 재개할 의향이 있을 거라고 본다\"고 강조했습니다.\n\n루비오 장관은 \"전통적 외교정책에서는 누군가와 만나거나 행사에 초대하는 것을 상대방을 정당화하는 일종의 양보로 간주하는 경우가 있다고 알고 있다\"면서도 \"대통령은 대화나 만남을 양보로 보지 않는다\"고 말했습니다.\n\n#미국 #트럼프 #김정은\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배규빈(beanie@yna.co.kr)",
-          "content:encodedSnippet": "마코 루비오 미국 국무장관\n도널드 트럼프 미국 대통령이 김정은 북한 국무위원장과 만날 준비가 돼 있지만, 아직 회담 일정은 잡히지 않았다고 미 국무부가 밝혔습니다.\n\n마코 루비오 미국 국무장관은 현지시간 지난달 31일 조지아주 애틀란타에서 열린 G20 외무장관회의 계기에 진행한 기자회견에서 이같이 말했습니다.\n루비오 장관은 \"트럼프 대통령의 관점은 김 위원장이 미국과 한국 등 동맹국들이 우려하는 문제에 대해 논의할 준비가 돼 있다면, 그에 열려 있다는 것\"이라고 밝혔습니다.\n\n이어 \"트럼프 대통령은 공개적으로 언급한 것처럼 회담에 준비가 돼 있다\"면서도, 아직 회담 일정은 잡히지 않았다고 덧붙였습니다.\n\n또, 트럼프 대통령이 집권 1기에 김 위원장과 2차례 회담을 가졌다며 \"그러한 회담에서 생산적 결과가 나온다면, 트럼프 대통령은 회담을 재개할 의향이 있을 거라고 본다\"고 강조했습니다.\n\n루비오 장관은 \"전통적 외교정책에서는 누군가와 만나거나 행사에 초대하는 것을 상대방을 정당화하는 일종의 양보로 간주하는 경우가 있다고 알고 있다\"면서도 \"대통령은 대화나 만남을 양보로 보지 않는다\"고 말했습니다.\n\n#미국 #트럼프 #김정은\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배규빈(beanie@yna.co.kr)",
+          "creator": "이지현",
+          "title": "정비 넘어 현지 생산…K-조선, 미국 시장 공략 박차",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261101084718VDb",
+          "pubDate": "Sun, 01 Nov 2026 08:47:19 +0900",
+          "content:encoded": "[앵커]\n\n국내 조선사들이 미국 시장 공략에 박차를 가하고 있습니다.\n\n한미 조선 협력 프로젝트 '마스가'를 위해 정비사업, MRO부터 현지에 직접 조선소를 짓는 방안까지 추진합니다.\n\n이지현 기자입니다.\n\n[기자]\n\n정비를 마친 미 해군 소속 군수지원함, '앨런 셰퍼드함'이 울산 조선소를 떠납니다.\n\nHD현대중공업이 지난해 8월 처음 수주한 미 해군 함정 유지·보수·정비, MRO 사업을 마친 겁니다.\n\n추가 MRO 계약도 따냈는데, 미국과의 협력은 정비사업에 머무르지 않고 있습니다.\n\n미국 건설사와 합작법인을 세워 내년 착공, 3년 뒤 가동을 목표로 현지에 새 조선소를 건립하기로 했습니다.\n\n미국 조선업 재건에 참여하겠다고 밝힌 구상이 현지 투자로 구체화되는 겁니다.\n\n&lt;정기선 / HD현대 회장(지난 2025년)&gt; \"우리는 미국과 미 해군을 중심으로 차세대 함대와 재건되는 조선소가 이끄는 새로운 시대를 맞이하고 있습니다.\"\n\n이보다 앞선 지난 2024년 '월리 쉬라함' MRO 사업을 진행한 한화오션은 지금까지 7척을 수주하며 실적을 쌓고 있고, 미국 필리조선소를 인수해 현지 생산기반을 확보하고 있습니다.\n\n삼성중공업 역시 MRO 수주를 위한 자격 취득 작업에 들어가 연말쯤 나올 결과를 기다리고 있습니다.\n\n국내 조선사의 기술력과 생산 기반을 재건하려는 미국의 수요가 맞물린 건데, 안심할 수는 없습니다.\n\n생산력과 가격 경쟁력을 앞세운 중국이 글로벌 시장에서 입지를 넓히고 있기 때문입니다.\n\n&lt;김광석 / 한국경제산업연구원 경제연구실장&gt; \"미국 시장뿐만 아니라 유럽이나 그 밖의 미 동맹국들을 중심으로 조선업 시장을 확보해 나가는 전략을 추가적으로 마련해야 될 필요가 있지 않을까 의견 드리고 싶습니다.\"\n\n지정학적 동맹 관계로 중국의 공세를 방어하는 동안 기술 격차를 더 벌려야 하는 과제를 안은 채 미국 공략은 더욱 속도를 내고 있습니다.\n\n연합뉴스TV 이지현입니다.\n\n[영상편집 이유리]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이지현(ji@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n국내 조선사들이 미국 시장 공략에 박차를 가하고 있습니다.\n\n한미 조선 협력 프로젝트 '마스가'를 위해 정비사업, MRO부터 현지에 직접 조선소를 짓는 방안까지 추진합니다.\n\n이지현 기자입니다.\n\n[기자]\n\n정비를 마친 미 해군 소속 군수지원함, '앨런 셰퍼드함'이 울산 조선소를 떠납니다.\n\nHD현대중공업이 지난해 8월 처음 수주한 미 해군 함정 유지·보수·정비, MRO 사업을 마친 겁니다.\n\n추가 MRO 계약도 따냈는데, 미국과의 협력은 정비사업에 머무르지 않고 있습니다.\n\n미국 건설사와 합작법인을 세워 내년 착공, 3년 뒤 가동을 목표로 현지에 새 조선소를 건립하기로 했습니다.\n\n미국 조선업 재건에 참여하겠다고 밝힌 구상이 현지 투자로 구체화되는 겁니다.\n\n<정기선 / HD현대 회장(지난 2025년)> \"우리는 미국과 미 해군을 중심으로 차세대 함대와 재건되는 조선소가 이끄는 새로운 시대를 맞이하고 있습니다.\"\n\n이보다 앞선 지난 2024년 '월리 쉬라함' MRO 사업을 진행한 한화오션은 지금까지 7척을 수주하며 실적을 쌓고 있고, 미국 필리조선소를 인수해 현지 생산기반을 확보하고 있습니다.\n\n삼성중공업 역시 MRO 수주를 위한 자격 취득 작업에 들어가 연말쯤 나올 결과를 기다리고 있습니다.\n\n국내 조선사의 기술력과 생산 기반을 재건하려는 미국의 수요가 맞물린 건데, 안심할 수는 없습니다.\n\n생산력과 가격 경쟁력을 앞세운 중국이 글로벌 시장에서 입지를 넓히고 있기 때문입니다.\n\n<김광석 / 한국경제산업연구원 경제연구실장> \"미국 시장뿐만 아니라 유럽이나 그 밖의 미 동맹국들을 중심으로 조선업 시장을 확보해 나가는 전략을 추가적으로 마련해야 될 필요가 있지 않을까 의견 드리고 싶습니다.\"\n\n지정학적 동맹 관계로 중국의 공세를 방어하는 동안 기술 격차를 더 벌려야 하는 과제를 안은 채 미국 공략은 더욱 속도를 내고 있습니다.\n\n연합뉴스TV 이지현입니다.\n\n[영상편집 이유리]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이지현(ji@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261031/AKR20261101025044kNW_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261031/MYH20261101084718VDb.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "배규빈",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261101025044kNW#comments",
-          "content": "마코 루비오 미국 국무장관 도널드 트럼프 미국 대통령이 김정은 북한 국무위원장과 만날 준비가 돼 있지만, 아직 회담 일정은 잡히지 않았다고 미 국무부가 밝혔습니다. 마코 루비오 미국 국무장관은 현지시간 지난달 31일 조지아주 애틀란타에서 열린 G20 외무장관회의 계기에 진행한 기자회견에서 이같이 말했습니다. 루비오 장관은 \"트럼프 대통령의 관점은 김 위원장이 미국과 한국 등 동맹국들이 우려하는 문제에 대해 논의할 준비가 돼 있다면, 그에 ...",
-          "contentSnippet": "마코 루비오 미국 국무장관 도널드 트럼프 미국 대통령이 김정은 북한 국무위원장과 만날 준비가 돼 있지만, 아직 회담 일정은 잡히지 않았다고 미 국무부가 밝혔습니다. 마코 루비오 미국 국무장관은 현지시간 지난달 31일 조지아주 애틀란타에서 열린 G20 외무장관회의 계기에 진행한 기자회견에서 이같이 말했습니다. 루비오 장관은 \"트럼프 대통령의 관점은 김 위원장이 미국과 한국 등 동맹국들이 우려하는 문제에 대해 논의할 준비가 돼 있다면, 그에 ...",
-          "guid": "AKR20261101025044kNW",
+          "dc:creator": "이지현",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261101084718VDb#comments",
+          "content": "[앵커] 국내 조선사들이 미국 시장 공략에 박차를 가하고 있습니다. 한미 조선 협력 프로젝트 '마스가'를 위해 정비사업, MRO부터 현지에 직접 조선소를 짓는 방안까지 추진합니다. 이지현 기자입니다. [기자] 정비를 마친 미 해군 소속 군수지원함, '앨런 셰퍼드함'이 울산 조선소를 떠납니다. HD현대중공업이 지난해 8월 처음 수주한 미 해군 함정 유지·보수·정비, MRO 사업을 마친 겁니다. 추가 MRO 계약도 따냈는데, 미국과의 협력은 ...",
+          "contentSnippet": "[앵커] 국내 조선사들이 미국 시장 공략에 박차를 가하고 있습니다. 한미 조선 협력 프로젝트 '마스가'를 위해 정비사업, MRO부터 현지에 직접 조선소를 짓는 방안까지 추진합니다. 이지현 기자입니다. [기자] 정비를 마친 미 해군 소속 군수지원함, '앨런 셰퍼드함'이 울산 조선소를 떠납니다. HD현대중공업이 지난해 8월 처음 수주한 미 해군 함정 유지·보수·정비, MRO 사업을 마친 겁니다. 추가 MRO 계약도 따냈는데, 미국과의 협력은 ...",
+          "guid": "MYH20261101084718VDb",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-31T17:50:45.000Z"
-        },
-        {
-          "creator": "배규빈",
-          "title": "이란 최고지도자 \"미 모든 자산 타격권에…제한 없는 대응\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR202611010043050da",
-          "pubDate": "Sun, 01 Nov 2026 00:43:07 +0900",
-          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261031/AKR202611010043050da_01_i.jpg\" alt=\"\"><span class=\"yna_title\">아야톨라 세예드 모즈타바 하메네이</span><span class=\"yna_caption\">[이란 최고지도자실 제공. 재판매 및 DB 금지]</span><span class=\"yna_description\">[이란 최고지도자실 제공. 재판매 및 DB 금지]</span></div>\n이란 최고지도자인 아야톨라 세예드 모즈타바 하메네이가 미국에 대한 군사적 대비 태세를 주문했다고 최고지도자실이 밝혔습니다.\n\n아야톨라 하메네이는 현지시간 지난달 31일 고위급 지휘관들과 회의하면서 \"미국과 시온주의자(이스라엘) 적대 세력의 모든 자산이 이란군 타격 범위 내에 포함될 수 있도록 군사 표적 데이터베이스를 전면적으로 갱신하라\"고 지시했습니다.\n\n그러면서 \"적들과의 강력한 대결을 위한 지능적인 전투 대비 태세가 최대 억지력을 확보하기 위한 근본적인 전제 조건\"이라며, \"어떠한 수준이나 유형의 위협에 대해서도 즉각적이고 강력하며, 지리적 제한이 없는 대응으로 맞서야 한다\"고 말했습니다.\n\n\"만일 이란의 적들이 군사적 공격이나 테러를 재개한다면 이런 공격이 언제, 어떤 조건에서 종료될지를 결정하는 주체는 이란 이슬람공화국의 군과 국민이 될 것\"이라고 강조했습니다.\n\n이 발언은 최근 도널드 트럼프 미국 대통령이 오는 3일 중간선거를 앞둔 상황에서 이란에 대한 공격 재개 가능성을 수차례 시사한 상황에서 나왔습니다.\n\n\n#이란 #미국\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배규빈(beanie@yna.co.kr)",
-          "content:encodedSnippet": "아야톨라 세예드 모즈타바 하메네이[이란 최고지도자실 제공. 재판매 및 DB 금지][이란 최고지도자실 제공. 재판매 및 DB 금지]\n이란 최고지도자인 아야톨라 세예드 모즈타바 하메네이가 미국에 대한 군사적 대비 태세를 주문했다고 최고지도자실이 밝혔습니다.\n\n아야톨라 하메네이는 현지시간 지난달 31일 고위급 지휘관들과 회의하면서 \"미국과 시온주의자(이스라엘) 적대 세력의 모든 자산이 이란군 타격 범위 내에 포함될 수 있도록 군사 표적 데이터베이스를 전면적으로 갱신하라\"고 지시했습니다.\n\n그러면서 \"적들과의 강력한 대결을 위한 지능적인 전투 대비 태세가 최대 억지력을 확보하기 위한 근본적인 전제 조건\"이라며, \"어떠한 수준이나 유형의 위협에 대해서도 즉각적이고 강력하며, 지리적 제한이 없는 대응으로 맞서야 한다\"고 말했습니다.\n\n\"만일 이란의 적들이 군사적 공격이나 테러를 재개한다면 이런 공격이 언제, 어떤 조건에서 종료될지를 결정하는 주체는 이란 이슬람공화국의 군과 국민이 될 것\"이라고 강조했습니다.\n\n이 발언은 최근 도널드 트럼프 미국 대통령이 오는 3일 중간선거를 앞둔 상황에서 이란에 대한 공격 재개 가능성을 수차례 시사한 상황에서 나왔습니다.\n\n\n#이란 #미국\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배규빈(beanie@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261031/AKR202611010043050da_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "배규빈",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR202611010043050da#comments",
-          "content": "아야톨라 세예드 모즈타바 하메네이[이란 최고지도자실 제공. 재판매 및 DB 금지][이란 최고지도자실 제공. 재판매 및 DB 금지] 이란 최고지도자인 아야톨라 세예드 모즈타바 하메네이가 미국에 대한 군사적 대비 태세를 주문했다고 최고지도자실이 밝혔습니다. 아야톨라 하메네이는 현지시간 지난달 31일 고위급 지휘관들과 회의하면서 \"미국과 시온주의자(이스라엘) 적대 세력의 모든 자산이 이란군 타격 범위 내에 포함될 수 있도록 군사 표적 데이터베이...",
-          "contentSnippet": "아야톨라 세예드 모즈타바 하메네이[이란 최고지도자실 제공. 재판매 및 DB 금지][이란 최고지도자실 제공. 재판매 및 DB 금지] 이란 최고지도자인 아야톨라 세예드 모즈타바 하메네이가 미국에 대한 군사적 대비 태세를 주문했다고 최고지도자실이 밝혔습니다. 아야톨라 하메네이는 현지시간 지난달 31일 고위급 지휘관들과 회의하면서 \"미국과 시온주의자(이스라엘) 적대 세력의 모든 자산이 이란군 타격 범위 내에 포함될 수 있도록 군사 표적 데이터베이...",
-          "guid": "AKR202611010043050da",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-31T15:43:07.000Z"
-        },
-        {
-          "creator": "배규빈",
-          "title": "[속보] 핼러윈 인파 혼잡으로 지하철 이태원역 무정차 통과",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261031235258xa3",
-          "pubDate": "Sat, 31 Oct 2026 23:52:59 +0900",
-          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261031/AKR20261031235258xa3_01_i.jpg\" alt=\"\"><span class=\"yna_title\"></span><span class=\"yna_caption\"></span><span class=\"yna_description\"></span></div>\n오늘(31일) 오후 11시 47분부터 지하철 6호선이 이태원역을 무정차 통과합니다.\n\n용산구는 재난문자를 통해 \"현재 용산구 이태원 세계음식문화거리 주변 인파 혼잡으로 23시 47분 이태원역 무정차 통과 예정\"이라고 안내했습니다.\n\n아울러 이태원역으로의 진입 자제를 요청하고 인근 녹사평역 또는 한강진역을 이용할 것을 권고했습니다.\n\n이날 예정된 이태원역의 마지막 전철은 양방향 모두 11시59분입니다.\n\n\n#이태원 #핼러윈 #지하철\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배규빈(beanie@yna.co.kr)",
-          "content:encodedSnippet": "오늘(31일) 오후 11시 47분부터 지하철 6호선이 이태원역을 무정차 통과합니다.\n\n용산구는 재난문자를 통해 \"현재 용산구 이태원 세계음식문화거리 주변 인파 혼잡으로 23시 47분 이태원역 무정차 통과 예정\"이라고 안내했습니다.\n\n아울러 이태원역으로의 진입 자제를 요청하고 인근 녹사평역 또는 한강진역을 이용할 것을 권고했습니다.\n\n이날 예정된 이태원역의 마지막 전철은 양방향 모두 11시59분입니다.\n\n\n#이태원 #핼러윈 #지하철\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배규빈(beanie@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261031/AKR20261031235258xa3_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "배규빈",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261031235258xa3#comments",
-          "content": "오늘(31일) 오후 11시 47분부터 지하철 6호선이 이태원역을 무정차 통과합니다. 용산구는 재난문자를 통해 \"현재 용산구 이태원 세계음식문화거리 주변 인파 혼잡으로 23시 47분 이태원역 무정차 통과 예정\"이라고 안내했습니다. 아울러 이태원역으로의 진입 자제를 요청하고 인근 녹사평역 또는 한강진역을 이용할 것을 권고했습니다. 이날 예정된 이태원역의 마지막 전철은 양방향 모두 11시59분입니다. #이태원 #핼러윈 #지하철 연합뉴스TV 기사...",
-          "contentSnippet": "오늘(31일) 오후 11시 47분부터 지하철 6호선이 이태원역을 무정차 통과합니다. 용산구는 재난문자를 통해 \"현재 용산구 이태원 세계음식문화거리 주변 인파 혼잡으로 23시 47분 이태원역 무정차 통과 예정\"이라고 안내했습니다. 아울러 이태원역으로의 진입 자제를 요청하고 인근 녹사평역 또는 한강진역을 이용할 것을 권고했습니다. 이날 예정된 이태원역의 마지막 전철은 양방향 모두 11시59분입니다. #이태원 #핼러윈 #지하철 연합뉴스TV 기사...",
-          "guid": "AKR20261031235258xa3",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-31T14:52:59.000Z"
-        },
-        {
-          "creator": "배규빈",
-          "title": "미 핼러윈 참극…쇼핑몰 곳곳 총격으로 2명 사망·6명 부상",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261031234810vwb",
-          "pubDate": "Sat, 31 Oct 2026 23:48:11 +0900",
-          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261031/AKR20261031234810vwb_01_i.jpg\" alt=\"\"><span class=\"yna_title\">미국 핼러윈용품점</span><span class=\"yna_caption\"></span><span class=\"yna_description\"></span></div>\n미국에서 핼러윈을 하루 앞두고 관련 용품을 판매하는 상점에서 잇따라 총격 사건이 발생했습니다.\n\n현지시간 30일 저녁 8시 30분쯤, 페어필드의 쇼핑몰 내 '스피릿 핼러윈' 상점에서 총격이 발생했습니다.\n\n이 총격으로 1명이 숨지고 6명이 총상을 입어 병원으로 옮겨졌으며, 이 중 3명은 위독한 상태인 걸로 전해졌습니다.\n\n경찰은 아직 용의자를 특정하지 못한 채 수사를 벌이고 있습니다.\n\n같은 날 미시간주 매디슨 하이츠 지역의 '스피릿 핼러윈' 매장에서는 21살 남성 두 명이 말다툼하다 총격을 벌였고, 이들 중 한 명이 병원으로 옮겨졌지만 결국 숨졌습니다.\n\n현지 경찰은 당시 총격을 무차별 난사로는 보지 않고 있으며, 용의자로 지목된 남성은 체포돼 구금 중입니다.\n\n#핼러윈 #미국 #총격\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배규빈(beanie@yna.co.kr)",
-          "content:encodedSnippet": "미국 핼러윈용품점\n미국에서 핼러윈을 하루 앞두고 관련 용품을 판매하는 상점에서 잇따라 총격 사건이 발생했습니다.\n\n현지시간 30일 저녁 8시 30분쯤, 페어필드의 쇼핑몰 내 '스피릿 핼러윈' 상점에서 총격이 발생했습니다.\n\n이 총격으로 1명이 숨지고 6명이 총상을 입어 병원으로 옮겨졌으며, 이 중 3명은 위독한 상태인 걸로 전해졌습니다.\n\n경찰은 아직 용의자를 특정하지 못한 채 수사를 벌이고 있습니다.\n\n같은 날 미시간주 매디슨 하이츠 지역의 '스피릿 핼러윈' 매장에서는 21살 남성 두 명이 말다툼하다 총격을 벌였고, 이들 중 한 명이 병원으로 옮겨졌지만 결국 숨졌습니다.\n\n현지 경찰은 당시 총격을 무차별 난사로는 보지 않고 있으며, 용의자로 지목된 남성은 체포돼 구금 중입니다.\n\n#핼러윈 #미국 #총격\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배규빈(beanie@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261031/AKR20261031234810vwb_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "배규빈",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261031234810vwb#comments",
-          "content": "미국 핼러윈용품점 미국에서 핼러윈을 하루 앞두고 관련 용품을 판매하는 상점에서 잇따라 총격 사건이 발생했습니다. 현지시간 30일 저녁 8시 30분쯤, 페어필드의 쇼핑몰 내 '스피릿 핼러윈' 상점에서 총격이 발생했습니다. 이 총격으로 1명이 숨지고 6명이 총상을 입어 병원으로 옮겨졌으며, 이 중 3명은 위독한 상태인 걸로 전해졌습니다. 경찰은 아직 용의자를 특정하지 못한 채 수사를 벌이고 있습니다. 같은 날 미시간주 매디슨 하이츠 지역의 '...",
-          "contentSnippet": "미국 핼러윈용품점 미국에서 핼러윈을 하루 앞두고 관련 용품을 판매하는 상점에서 잇따라 총격 사건이 발생했습니다. 현지시간 30일 저녁 8시 30분쯤, 페어필드의 쇼핑몰 내 '스피릿 핼러윈' 상점에서 총격이 발생했습니다. 이 총격으로 1명이 숨지고 6명이 총상을 입어 병원으로 옮겨졌으며, 이 중 3명은 위독한 상태인 걸로 전해졌습니다. 경찰은 아직 용의자를 특정하지 못한 채 수사를 벌이고 있습니다. 같은 날 미시간주 매디슨 하이츠 지역의 '...",
-          "guid": "AKR20261031234810vwb",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-31T14:48:11.000Z"
-        },
-        {
-          "creator": "배규빈",
-          "title": "이태원 참사 이후 첫 주말 핼러윈…인파 관리 총력",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261031200244ul1",
-          "pubDate": "Sat, 31 Oct 2026 20:02:45 +0900",
-          "content:encoded": "\n[앵커]\n\n4년 전 이태원 참사 이후 처음으로 주말과 겹치는 핼러윈 데이가 돌아왔습니다.\n\n이태원에는 축제를 즐기려는 시민들의 발길이 이어지고 있는데요.\n\n현장에 나가있는 취재기자 연결합니다. 배규빈 기자!\n\n[기자]\n\n네, 서울 이태원에 나와 있습니다.\n\n늦은 저녁이 되면서 핼러윈 분위기를 즐기기 위해 이태원을 찾는 사람들이 더욱 많아지고 있습니다.\n\n가지각색의 핼러윈 분장을 하고 코스튬을 입은 시민들로 북적이고 있는데요. 목소리 직접 들어보겠습니다.\n\n&lt;박소희 / 서울 강남구&gt; \"올 겨울에 유행했던 두쫀쿠를 제가 많이 좋아했거든요. 그런 콘셉트로 한번 꾸며봤습니다.\"\n\n4년 전 참사 이후 처음으로 주말과 겹치는 핼러윈인 만큼, 최대 3만 명이 모일 것으로 전망되고 있는데요.\n\n특히 오후 9시부터 내일 새벽 1시까지 가장 붐빌 것으로 예상됩니다.\n\n경찰은 이태원 골목 순찰을 강화하고, 도로에는 교통경찰들을 배치해 차량 흐름을 제어하고 있습니다.\n\n들뜬 분위기 속에 축제를 즐기려는 시민도 많지만 4년 전 참사를 기억하려는 시민들 또한 많았는데요.\n\n참사 현장에 마련된 추모 공간에도 시민들의 발걸음이 이어졌습니다.\n\n[앵커]\n\n밤이 깊어지며 인파도 점점 늘어날 거로 예상이 되는데요. 인파 관리에도 만전을 기하고 있다고요.\n\n[기자]\n\n네, 그렇습니다, 오후 5시부터 경찰 순찰차와 기동대 버스가 현장에 배치됐고, 장갑차까지 인파 관리에 투입됐습니다.\n\n오후 6시부터는 이태원로 차량 통행도 전면 통제되고 있는데요.\n\n이태원 골목에 우측 보행 안내와 인구 밀집도를 보여주는 전광판이 설치돼 실시간 밀집도를 확인할 수 있습니다.\n\n경찰은 특히 가장 혼잡한 세계음식문화거리에서 이태원역 쪽으로 이어지는 경사진 골목 6곳을 주요 위험 구역으로 지정하고, 일방통행을 유도하는 등 인파를 집중 관리하고 있습니다.\n\n상황실에서 지능형 CCTV로 실시간 인파 상황을 모니터링하고 있으며, 혹시 모를 위급 상황에 대비해 비상벨도 골목 곳곳에 설치됐습니다.\n\n특히 밤시간대 혼잡이 심해질 경우 지하철역 무정차 통과나 출입구 통제 등을 실시한다는 계획입니다.\n\n경찰은 이번 주말 동안 인파사고 위기 경보를 '주의' 단계로 격상하고, 이곳 이태원과 홍대를 비롯해 전국 28곳에 경찰 7,800명을 투입했습니다.\n\n지금까지 이태원에서 전해드렸습니다.\n\n\n현장연결 문원철\n\n영상편집 박진희\n\n#경찰 #사고 #이태원 #핼러윈 #인파관리\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배규빈(beanie@yna.co.kr)",
-          "content:encodedSnippet": "[앵커]\n\n4년 전 이태원 참사 이후 처음으로 주말과 겹치는 핼러윈 데이가 돌아왔습니다.\n\n이태원에는 축제를 즐기려는 시민들의 발길이 이어지고 있는데요.\n\n현장에 나가있는 취재기자 연결합니다. 배규빈 기자!\n\n[기자]\n\n네, 서울 이태원에 나와 있습니다.\n\n늦은 저녁이 되면서 핼러윈 분위기를 즐기기 위해 이태원을 찾는 사람들이 더욱 많아지고 있습니다.\n\n가지각색의 핼러윈 분장을 하고 코스튬을 입은 시민들로 북적이고 있는데요. 목소리 직접 들어보겠습니다.\n\n<박소희 / 서울 강남구> \"올 겨울에 유행했던 두쫀쿠를 제가 많이 좋아했거든요. 그런 콘셉트로 한번 꾸며봤습니다.\"\n\n4년 전 참사 이후 처음으로 주말과 겹치는 핼러윈인 만큼, 최대 3만 명이 모일 것으로 전망되고 있는데요.\n\n특히 오후 9시부터 내일 새벽 1시까지 가장 붐빌 것으로 예상됩니다.\n\n경찰은 이태원 골목 순찰을 강화하고, 도로에는 교통경찰들을 배치해 차량 흐름을 제어하고 있습니다.\n\n들뜬 분위기 속에 축제를 즐기려는 시민도 많지만 4년 전 참사를 기억하려는 시민들 또한 많았는데요.\n\n참사 현장에 마련된 추모 공간에도 시민들의 발걸음이 이어졌습니다.\n\n[앵커]\n\n밤이 깊어지며 인파도 점점 늘어날 거로 예상이 되는데요. 인파 관리에도 만전을 기하고 있다고요.\n\n[기자]\n\n네, 그렇습니다, 오후 5시부터 경찰 순찰차와 기동대 버스가 현장에 배치됐고, 장갑차까지 인파 관리에 투입됐습니다.\n\n오후 6시부터는 이태원로 차량 통행도 전면 통제되고 있는데요.\n\n이태원 골목에 우측 보행 안내와 인구 밀집도를 보여주는 전광판이 설치돼 실시간 밀집도를 확인할 수 있습니다.\n\n경찰은 특히 가장 혼잡한 세계음식문화거리에서 이태원역 쪽으로 이어지는 경사진 골목 6곳을 주요 위험 구역으로 지정하고, 일방통행을 유도하는 등 인파를 집중 관리하고 있습니다.\n\n상황실에서 지능형 CCTV로 실시간 인파 상황을 모니터링하고 있으며, 혹시 모를 위급 상황에 대비해 비상벨도 골목 곳곳에 설치됐습니다.\n\n특히 밤시간대 혼잡이 심해질 경우 지하철역 무정차 통과나 출입구 통제 등을 실시한다는 계획입니다.\n\n경찰은 이번 주말 동안 인파사고 위기 경보를 '주의' 단계로 격상하고, 이곳 이태원과 홍대를 비롯해 전국 28곳에 경찰 7,800명을 투입했습니다.\n\n지금까지 이태원에서 전해드렸습니다.\n\n\n현장연결 문원철\n\n영상편집 박진희\n\n#경찰 #사고 #이태원 #핼러윈 #인파관리\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배규빈(beanie@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261031/MYH20261031200244ul1.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "배규빈",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261031200244ul1#comments",
-          "content": "[앵커] 4년 전 이태원 참사 이후 처음으로 주말과 겹치는 핼러윈 데이가 돌아왔습니다. 이태원에는 축제를 즐기려는 시민들의 발길이 이어지고 있는데요. 현장에 나가있는 취재기자 연결합니다. 배규빈 기자! [기자] 네, 서울 이태원에 나와 있습니다. 늦은 저녁이 되면서 핼러윈 분위기를 즐기기 위해 이태원을 찾는 사람들이 더욱 많아지고 있습니다. 가지각색의 핼러윈 분장을 하고 코스튬을 입은 시민들로 북적이고 있는데요. 목소리 직접 들어보겠습니다...",
-          "contentSnippet": "[앵커] 4년 전 이태원 참사 이후 처음으로 주말과 겹치는 핼러윈 데이가 돌아왔습니다. 이태원에는 축제를 즐기려는 시민들의 발길이 이어지고 있는데요. 현장에 나가있는 취재기자 연결합니다. 배규빈 기자! [기자] 네, 서울 이태원에 나와 있습니다. 늦은 저녁이 되면서 핼러윈 분위기를 즐기기 위해 이태원을 찾는 사람들이 더욱 많아지고 있습니다. 가지각색의 핼러윈 분장을 하고 코스튬을 입은 시민들로 북적이고 있는데요. 목소리 직접 들어보겠습니다...",
-          "guid": "MYH20261031200244ul1",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-31T11:02:45.000Z"
-        },
-        {
-          "creator": "이경희",
-          "title": "현직 판사 \"부당한 공격 맞서야\"…'동물농장' 빗대 사법개혁 비판",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261031200216GzC",
-          "pubDate": "Sat, 31 Oct 2026 20:02:17 +0900",
-          "content:encoded": "현직 판사가 검찰청 폐지와 대법관 증원을 비롯한 최근 형사사법체계 변화 모습을 조지 오웰의 소설 '동물농장'에 빗대 비판하며 \"부당한 공격에 대해서는 당당하게 맞서야 한다\"고 주장했습니다.\n\n법조계에 따르면 성찬용(사법연수원 44기) 인천지법 부천지원 판사는 30일 법원 내부망(코트넷)에 '소설 동물농장에 관하여'라는 제목의 글을 게시했습니다.\n\n성 판사는 \"검찰 폐지, 대법관 증원, '법 왜곡죄' 신설, 재판소원 도입, 대법원장에 대한 탄핵소추와 국정조사 시도 같은 일련의 변화와 심각한 혼란 속에서 결국엔 단 한 줄로 요약되어버린 동물 칠계명이 떠오른다\"고 적었습니다.\n\n동물농장은 러시아 혁명 이후 스탈린 독재를 풍자한 소설입니다.\n\n성 판사는 \"대법원장이 하루가 멀다하고 공격과 비난을 당하고 목적이나 의미를 알기 어려운 입법과 여론전이 난무하며, 국민의 인권과 직결되는 형사사법체계가 저조차 알 수 없게 바뀌는 등 사법부의 독립이 위태롭다\"고 지적했습니다.\n\n\"그럼에도 정작 법원 내부는 너무나 조용하다\"며 \"저와 견해가 다를 수 있지만, 최근 이뤄진 일련의 변화를 '특정인이나 특정 집단을 위한 것이 아니고 모든 국민을 위한 발전적인 것'으로 단언할 수 있는 분이 있느냐\"고 덧붙였습니다.\n\n그는 동물농장 속 돼지들의 만행을 모두 알면서도 아무런 행동을 하지 않는 당나귀 '벤자민'을 거론하며 \"법원 구성원이 다들 벤자민처럼 우리나라의 사법제도와 관련해 무엇이 바뀌었고 무엇이 문제인지 잘 알고 계시리라 믿는다. 하지만 알고만 있다는 것이 절대로 능사는 아니라고 생각한다\"라고도 했습니다.\n\n그러면서 \"'법관은 모든 외부의 영향으로부터 사법권의 독립을 지켜나간다'는 말이 자꾸만 떠오른다\"며 \"이 세상에서 어떤 사람으로, 어떤 법관으로 살아갈지 진지한 고민과 성찰이 필요한 때가 아닌가 생각한다\"고 적었습니다.\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261031/AKR20261031200216GzC_01_i.jpg\" alt=\"\"><span class=\"yna_title\">대법원 들어서는 조희대 대법원장</span><span class=\"yna_caption\">대법원 들어서는 조희대 대법원장\n(서울=연합뉴스) 이지은 기자 = 조희대 대법원장이 30일 서울 서초구 대법원으로 출근하고 있다. 2026.10.30\njieunlee@yna.co.kr\n(끝)\n\n\n<저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지></span><span class=\"yna_description\">대법원 들어서는 조희대 대법원장\n(서울=연합뉴스) 이지은 기자 = 조희대 대법원장이 30일 서울 서초구 대법원으로 출근하고 있다. 2026.10.30\njieunlee@yna.co.kr\n(끝)\n\n\n<저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지></span></div>\n\n\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이경희(sorimoa@yna.co.kr)",
-          "content:encodedSnippet": "현직 판사가 검찰청 폐지와 대법관 증원을 비롯한 최근 형사사법체계 변화 모습을 조지 오웰의 소설 '동물농장'에 빗대 비판하며 \"부당한 공격에 대해서는 당당하게 맞서야 한다\"고 주장했습니다.\n\n법조계에 따르면 성찬용(사법연수원 44기) 인천지법 부천지원 판사는 30일 법원 내부망(코트넷)에 '소설 동물농장에 관하여'라는 제목의 글을 게시했습니다.\n\n성 판사는 \"검찰 폐지, 대법관 증원, '법 왜곡죄' 신설, 재판소원 도입, 대법원장에 대한 탄핵소추와 국정조사 시도 같은 일련의 변화와 심각한 혼란 속에서 결국엔 단 한 줄로 요약되어버린 동물 칠계명이 떠오른다\"고 적었습니다.\n\n동물농장은 러시아 혁명 이후 스탈린 독재를 풍자한 소설입니다.\n\n성 판사는 \"대법원장이 하루가 멀다하고 공격과 비난을 당하고 목적이나 의미를 알기 어려운 입법과 여론전이 난무하며, 국민의 인권과 직결되는 형사사법체계가 저조차 알 수 없게 바뀌는 등 사법부의 독립이 위태롭다\"고 지적했습니다.\n\n\"그럼에도 정작 법원 내부는 너무나 조용하다\"며 \"저와 견해가 다를 수 있지만, 최근 이뤄진 일련의 변화를 '특정인이나 특정 집단을 위한 것이 아니고 모든 국민을 위한 발전적인 것'으로 단언할 수 있는 분이 있느냐\"고 덧붙였습니다.\n\n그는 동물농장 속 돼지들의 만행을 모두 알면서도 아무런 행동을 하지 않는 당나귀 '벤자민'을 거론하며 \"법원 구성원이 다들 벤자민처럼 우리나라의 사법제도와 관련해 무엇이 바뀌었고 무엇이 문제인지 잘 알고 계시리라 믿는다. 하지만 알고만 있다는 것이 절대로 능사는 아니라고 생각한다\"라고도 했습니다.\n\n그러면서 \"'법관은 모든 외부의 영향으로부터 사법권의 독립을 지켜나간다'는 말이 자꾸만 떠오른다\"며 \"이 세상에서 어떤 사람으로, 어떤 법관으로 살아갈지 진지한 고민과 성찰이 필요한 때가 아닌가 생각한다\"고 적었습니다.\n대법원 들어서는 조희대 대법원장대법원 들어서는 조희대 대법원장\n(서울=연합뉴스) 이지은 기자 = 조희대 대법원장이 30일 서울 서초구 대법원으로 출근하고 있다. 2026.10.30\njieunlee@yna.co.kr\n(끝)\n\n\n대법원 들어서는 조희대 대법원장\n(서울=연합뉴스) 이지은 기자 = 조희대 대법원장이 30일 서울 서초구 대법원으로 출근하고 있다. 2026.10.30\njieunlee@yna.co.kr\n(끝)\n\n\n\n\n\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이경희(sorimoa@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261031/AKR20261031200216GzC_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "이경희",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261031200216GzC#comments",
-          "content": "현직 판사가 검찰청 폐지와 대법관 증원을 비롯한 최근 형사사법체계 변화 모습을 조지 오웰의 소설 '동물농장'에 빗대 비판하며 \"부당한 공격에 대해서는 당당하게 맞서야 한다\"고 주장했습니다. 법조계에 따르면 성찬용(사법연수원 44기) 인천지법 부천지원 판사는 30일 법원 내부망(코트넷)에 '소설 동물농장에 관하여'라는 제목의 글을 게시했습니다. 성 판사는 \"검찰 폐지, 대법관 증원, '법 왜곡죄' 신설, 재판소원 도입, 대법원장에 대한 탄핵...",
-          "contentSnippet": "현직 판사가 검찰청 폐지와 대법관 증원을 비롯한 최근 형사사법체계 변화 모습을 조지 오웰의 소설 '동물농장'에 빗대 비판하며 \"부당한 공격에 대해서는 당당하게 맞서야 한다\"고 주장했습니다. 법조계에 따르면 성찬용(사법연수원 44기) 인천지법 부천지원 판사는 30일 법원 내부망(코트넷)에 '소설 동물농장에 관하여'라는 제목의 글을 게시했습니다. 성 판사는 \"검찰 폐지, 대법관 증원, '법 왜곡죄' 신설, 재판소원 도입, 대법원장에 대한 탄핵...",
-          "guid": "AKR20261031200216GzC",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-10-31T11:02:17.000Z"
+          "isoDate": "2026-10-31T23:47:19.000Z"
         },
         {
           "creator": "노수미",
-          "title": "[날씨] 내일 전국 가을비…찬 바람 불며 '쌀쌀'",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261031194932Ivj",
-          "pubDate": "Sat, 31 Oct 2026 19:49:34 +0900",
-          "content:encoded": "\n10월의 마지막 날인 오늘은 맑은 하늘이 함께했습니다.\n\n하지만 내일은 나가실 때 우산을 잘 챙겨주셔야겠는데요.\n\n전국 대부분 지역에 비가 내리겠습니다.\n\n내일 오전부터 중부 지방에 비가 내리기 시작해, 오후에는 전국으로 차츰 확대되겠습니다.\n\n이 비는 월요일 새벽까지 이어지겠습니다.\n\n특히 제주도에는 돌풍과 함께 시간당 20mm 안팎의 강한 비가 쏟아지는 곳도 있어 주의하셔야겠습니다.\n\n앞으로 제주도에 최대 60mm, 남부 지방에 최대 40mm, 중부 지방에는 5~10mm의 비가 내리겠고요.\n\n강원 산지에서는 비가 눈으로 바뀌어 내릴 수 있겠습니다.\n\n비가 내리기 전까지는 동해안을 중심으로 대기가 건조하겠습니다.\n\n여기에 바람까지 강하게 부는 만큼 불씨 관리를 잘해주셔야겠습니다.\n\n내일 아침 기온은 서울 5도, 대전과 전주 6도로 출발하겠습니다.\n\n한낮에는 서울과 대구 13도, 대전 12도에 그치며 종일 쌀쌀하겠습니다.\n\n다음 주에는 찬 공기가 내려와, 날씨가 한층 더 추워지겠는데요.\n\n화요일에는 서울의 아침 기온이 3도까지 곤두박질치겠습니다. 지금까지 날씨 전해드렸습니다.\n\n(김수진 기상캐스터)\n\n\n#건조 #강풍 #비 #주말날씨 #쌀쌀 #가을 #가을추위\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
-          "content:encodedSnippet": "10월의 마지막 날인 오늘은 맑은 하늘이 함께했습니다.\n\n하지만 내일은 나가실 때 우산을 잘 챙겨주셔야겠는데요.\n\n전국 대부분 지역에 비가 내리겠습니다.\n\n내일 오전부터 중부 지방에 비가 내리기 시작해, 오후에는 전국으로 차츰 확대되겠습니다.\n\n이 비는 월요일 새벽까지 이어지겠습니다.\n\n특히 제주도에는 돌풍과 함께 시간당 20mm 안팎의 강한 비가 쏟아지는 곳도 있어 주의하셔야겠습니다.\n\n앞으로 제주도에 최대 60mm, 남부 지방에 최대 40mm, 중부 지방에는 5~10mm의 비가 내리겠고요.\n\n강원 산지에서는 비가 눈으로 바뀌어 내릴 수 있겠습니다.\n\n비가 내리기 전까지는 동해안을 중심으로 대기가 건조하겠습니다.\n\n여기에 바람까지 강하게 부는 만큼 불씨 관리를 잘해주셔야겠습니다.\n\n내일 아침 기온은 서울 5도, 대전과 전주 6도로 출발하겠습니다.\n\n한낮에는 서울과 대구 13도, 대전 12도에 그치며 종일 쌀쌀하겠습니다.\n\n다음 주에는 찬 공기가 내려와, 날씨가 한층 더 추워지겠는데요.\n\n화요일에는 서울의 아침 기온이 3도까지 곤두박질치겠습니다. 지금까지 날씨 전해드렸습니다.\n\n(김수진 기상캐스터)\n\n\n#건조 #강풍 #비 #주말날씨 #쌀쌀 #가을 #가을추위\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
+          "title": "[토요와이드] 휴일 전국 가을비…찬 바람 불어 종일 쌀쌀",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261101084658H6z",
+          "pubDate": "Sun, 01 Nov 2026 08:47:00 +0900",
+          "content:encoded": "&lt;출연 : 양윤진 기상캐스터&gt;\n\n휴일인 오늘, 찬 바람이 불면서 종일 쌀쌀한 날씨가 이어지겠습니다.\n\n비구름도 차차 확대되면서 곳곳에 가을비가 내리겠는데요.\n\n자세한 날씨, 양윤진 기상캐스터와 알아보겠습니다.\n\n&lt;질문 1&gt; 11월의 첫날부터 가을비가 내린다는 예보인데요. 비가 언제부터 내리고, 얼마나 내리나요?\n\n&lt;질문 2&gt; 밤사이 찬 바람이 불면서 어제보다 아침 기온도 크게 떨어졌는데요. 오늘은 한낮에도 쌀쌀하다고요?\n\n&lt;질문 3&gt; 남쪽에서는 31호 태풍이 북상하고 있습니다. 지난 30호 태풍이 이례적으로 우리나라에 영향을 주기도 했는데요. 이번 태풍 예상 경로는 어떻습니까?\n\n&lt;질문 4&gt; 지난 달 날씨 변덕이 만만치 않았는데요. 이번 주 날씨는 어떻게 전망되는지도 궁금합니다. 한주간의 날씨 전망 전해주시죠.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
+          "content:encodedSnippet": "<출연 : 양윤진 기상캐스터>\n\n휴일인 오늘, 찬 바람이 불면서 종일 쌀쌀한 날씨가 이어지겠습니다.\n\n비구름도 차차 확대되면서 곳곳에 가을비가 내리겠는데요.\n\n자세한 날씨, 양윤진 기상캐스터와 알아보겠습니다.\n\n<질문 1> 11월의 첫날부터 가을비가 내린다는 예보인데요. 비가 언제부터 내리고, 얼마나 내리나요?\n\n<질문 2> 밤사이 찬 바람이 불면서 어제보다 아침 기온도 크게 떨어졌는데요. 오늘은 한낮에도 쌀쌀하다고요?\n\n<질문 3> 남쪽에서는 31호 태풍이 북상하고 있습니다. 지난 30호 태풍이 이례적으로 우리나라에 영향을 주기도 했는데요. 이번 태풍 예상 경로는 어떻습니까?\n\n<질문 4> 지난 달 날씨 변덕이 만만치 않았는데요. 이번 주 날씨는 어떻게 전망되는지도 궁금합니다. 한주간의 날씨 전망 전해주시죠.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261031/MYH20261031194932Ivj.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261031/MYH20261101084658H6z.jpg",
             "type": "image/jpeg"
           },
           "dc:creator": "노수미",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261031194932Ivj#comments",
-          "content": "10월의 마지막 날인 오늘은 맑은 하늘이 함께했습니다. 하지만 내일은 나가실 때 우산을 잘 챙겨주셔야겠는데요. 전국 대부분 지역에 비가 내리겠습니다. 내일 오전부터 중부 지방에 비가 내리기 시작해, 오후에는 전국으로 차츰 확대되겠습니다. 이 비는 월요일 새벽까지 이어지겠습니다. 특히 제주도에는 돌풍과 함께 시간당 20mm 안팎의 강한 비가 쏟아지는 곳도 있어 주의하셔야겠습니다. 앞으로 제주도에 최대 60mm, 남부 지방에 최대 40mm, ...",
-          "contentSnippet": "10월의 마지막 날인 오늘은 맑은 하늘이 함께했습니다. 하지만 내일은 나가실 때 우산을 잘 챙겨주셔야겠는데요. 전국 대부분 지역에 비가 내리겠습니다. 내일 오전부터 중부 지방에 비가 내리기 시작해, 오후에는 전국으로 차츰 확대되겠습니다. 이 비는 월요일 새벽까지 이어지겠습니다. 특히 제주도에는 돌풍과 함께 시간당 20mm 안팎의 강한 비가 쏟아지는 곳도 있어 주의하셔야겠습니다. 앞으로 제주도에 최대 60mm, 남부 지방에 최대 40mm, ...",
-          "guid": "MYH20261031194932Ivj",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261101084658H6z#comments",
+          "content": "&lt;출연 : 양윤진 기상캐스터&gt; 휴일인 오늘, 찬 바람이 불면서 종일 쌀쌀한 날씨가 이어지겠습니다. 비구름도 차차 확대되면서 곳곳에 가을비가 내리겠는데요. 자세한 날씨, 양윤진 기상캐스터와 알아보겠습니다. &lt;질문 1&gt; 11월의 첫날부터 가을비가 내린다는 예보인데요. 비가 언제부터 내리고, 얼마나 내리나요? &lt;질문 2&gt; 밤사이 찬 바람이 불면서 어제보다 아침 기온도 크게 떨어졌는데요. 오늘은 한낮에도 쌀쌀하다고...",
+          "contentSnippet": "<출연 : 양윤진 기상캐스터> 휴일인 오늘, 찬 바람이 불면서 종일 쌀쌀한 날씨가 이어지겠습니다. 비구름도 차차 확대되면서 곳곳에 가을비가 내리겠는데요. 자세한 날씨, 양윤진 기상캐스터와 알아보겠습니다. <질문 1> 11월의 첫날부터 가을비가 내린다는 예보인데요. 비가 언제부터 내리고, 얼마나 내리나요? <질문 2> 밤사이 찬 바람이 불면서 어제보다 아침 기온도 크게 떨어졌는데요. 오늘은 한낮에도 쌀쌀하다고...",
+          "guid": "MYH20261101084658H6z",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-31T10:49:34.000Z"
+          "isoDate": "2026-10-31T23:47:00.000Z"
         },
         {
-          "creator": "신현정",
-          "title": "한화 노시환, MLB 도전…사무국에 포스팅 요청",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261031194917fxK",
-          "pubDate": "Sat, 31 Oct 2026 19:49:19 +0900",
-          "content:encoded": "\n한화 이글스 노시환이 미국 메이저리그에 도전장을 냅니다.\n\n한국야구위원회 KBO는 구단의 요청에 따라 노시환을 미국 메이저리그 30개 구단에 포스팅해 줄 것을 사무국에 요청했다고 밝혔습니다.\n\n미 구단이 노시환과 계약을 체결할 경우, 구단은 한·미 선수계약협정에 따라 한화에 이적료를 지급해야 합니다.\n\n2019년 프로에 데뷔한 노시환은 통산 153홈런 타율 2할 6푼 7리를 기록했고, 지난 아이치·나고야 아시안게임에서 국가대표로 나서 금메달을 땄습니다.\n\n\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신현정(hyunspirit@yna.co.kr)",
-          "content:encodedSnippet": "한화 이글스 노시환이 미국 메이저리그에 도전장을 냅니다.\n\n한국야구위원회 KBO는 구단의 요청에 따라 노시환을 미국 메이저리그 30개 구단에 포스팅해 줄 것을 사무국에 요청했다고 밝혔습니다.\n\n미 구단이 노시환과 계약을 체결할 경우, 구단은 한·미 선수계약협정에 따라 한화에 이적료를 지급해야 합니다.\n\n2019년 프로에 데뷔한 노시환은 통산 153홈런 타율 2할 6푼 7리를 기록했고, 지난 아이치·나고야 아시안게임에서 국가대표로 나서 금메달을 땄습니다.\n\n\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신현정(hyunspirit@yna.co.kr)",
+          "creator": "임민형",
+          "title": "[토요와이드] 北 해킹 배후로 지목…북미 대화 악재될까",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261101084633WF0",
+          "pubDate": "Sun, 01 Nov 2026 08:46:37 +0900",
+          "content:encoded": "&lt;출연 : 김열수 한국군사문제연구원 안보전략실장&gt;\n\n미 FBI는 북한이 바이낸스에서 60억 달러 규모의 가상화폐를 탈취한 배후라고 지목했는데요.\n\n북미 대화에 미칠 영향도 주목됩니다.\n\n사흘 앞으로 다가온 미국 중간선거가 한반도 정세에 어떤 변수가 될지도 살펴보겠습니다.\n\n김열수 한국군사문제연구원 안보전략실장과 짚어보겠습니다.\n\n&lt;질문 1&gt; 가상화폐 거래소 바이낸스에서 역대 최대인 8조 4천억 원 규모의 해킹 피해가 발생해 북한이 배후로 지목됐습니다. 트럼프 대통령은 \"살펴보고 있다\"며 신중한 반응인데요. 북한 소행으로 확인된다면 국제사회의 대북제재에 어떤 영향을 미칠까요?\n\n&lt;질문 1-2&gt; 북한의 사이버 공격이 단순한 금전 탈취를 넘어 핵·미사일 개발 자금 확보 수단으로 활용되고 있다는 분석도 나오는데요. 북한의 해킹 능력은 어느 정도로 발전했으며, 국제사회의 제재와 감시망을 피해 공격을 지속할 수 있는 이유는 무엇일까요?\n\n&lt;질문 1-3&gt; 북한이 해킹 배후로 지목된 상황에서 북미관계에도 부담으로 작용할 수 있을 텐데요. 트럼프 대통령이 김정은 위원장과의 대화 의지는 유지하면서도 사이버 공격에 대해서는 대북 압박을 강화할 가능성이 있을까요? 향후 북미관계에 어떤 변수가 될까요?\n\n&lt;질문 2&gt; 루비오 미 국무장관은 트럼프 대통령이 김정은 위원장과 만날 준비가 돼 있지만, 잡힌 일정은 없다고 밝혔습니다. 김 위원장의 방중에 이어 이달 중순 중국 선전 APEC이 북미 접촉의 계기가 될 거란 관측도 나오는데요. 실제 만남으로 이어질 수 있을까요?\n\n&lt;질문 3&gt; 북한이 예고한 '10월 중 대남 확성기 재가동' 시한은 지났지만, 접경지 주민들의 불안은 여전합니다. 군은 정비 동향만 포착됐다고 밝혔는데요. 북한이 실제 재가동에 나설까요?\n\n&lt;질문 4&gt; 스위스 외무장관이 평양 외교사무소 개소를 계기로 방북해 조용원 비서와 최선희 외무상 등을 만났습니다. 북한도 대화·협력 강화와 국제정세를 논의했다고 밝혔는데요. 중국 역할론에 한계가 보이는 상황에서, 중립국 스위스가 북한과의 소통 창구가 될 수 있을까요?\n\n&lt;질문 5&gt; 북한이 김정은 위원장 참관 아래 '저격수'라는 이름의 초정밀 600㎜ 방사포 공개 사격에 처음 나섰습니다. 스텔스형을 포함한 무인기 30여 종에, 우리 군 GP로 추정되는 표적을 자폭 드론으로 공격하는 장면까지 공개했는데요. 어떤 메시지로 읽어야 할까요?\n\n&lt;질문 6&gt; 미국 중간선거가 사흘 앞으로 다가왔습니다. 사전투표자가 5천만 명 돌파하며 역대 최다를 기록했고, 공화당 텃밭인 캔자스와 아이오와에서도 초접전이 벌어지고 있는데요. 트럼프 집권 2년 차 중간평가, 판세를 어떻게 보십니까?\n\n&lt;질문 7&gt; 트럼프 대통령은 10월에만 26차례 유세에 나서며 \"개처럼 일하고 있다\"고 했습니다. 캔자스와 아이오와 유세는 취소했다가 하루 만에 다시 가기로 했는데요. 막판까지 직접 뛰는 모습, 그만큼 공화당의 위기감이 크다는 뜻일까요?\n\n&lt;질문 7-1&gt; 트럼프 대통령이 중간선거 결과에 불복해 미국 내 혼란이 커진다면, 한미 관계에는 어떤 여파가 있을까요?\n\n&lt;질문 8&gt; 미국 중간선거를 앞두고 카타르 중재단이 테헤란에서 12시간 넘게 협상을 벌였습니다. 선거 직후 미국이 대규모 대이란 군사작전에 나설 수 있다는 관측도 나오는데요. 이번 협상이 돌파구를 마련할 수 있을까요, 선거 이후 중동의 긴장이 더 높아질까요?\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n임민형(nhm3115@yna.co.kr)",
+          "content:encodedSnippet": "<출연 : 김열수 한국군사문제연구원 안보전략실장>\n\n미 FBI는 북한이 바이낸스에서 60억 달러 규모의 가상화폐를 탈취한 배후라고 지목했는데요.\n\n북미 대화에 미칠 영향도 주목됩니다.\n\n사흘 앞으로 다가온 미국 중간선거가 한반도 정세에 어떤 변수가 될지도 살펴보겠습니다.\n\n김열수 한국군사문제연구원 안보전략실장과 짚어보겠습니다.\n\n<질문 1> 가상화폐 거래소 바이낸스에서 역대 최대인 8조 4천억 원 규모의 해킹 피해가 발생해 북한이 배후로 지목됐습니다. 트럼프 대통령은 \"살펴보고 있다\"며 신중한 반응인데요. 북한 소행으로 확인된다면 국제사회의 대북제재에 어떤 영향을 미칠까요?\n\n<질문 1-2> 북한의 사이버 공격이 단순한 금전 탈취를 넘어 핵·미사일 개발 자금 확보 수단으로 활용되고 있다는 분석도 나오는데요. 북한의 해킹 능력은 어느 정도로 발전했으며, 국제사회의 제재와 감시망을 피해 공격을 지속할 수 있는 이유는 무엇일까요?\n\n<질문 1-3> 북한이 해킹 배후로 지목된 상황에서 북미관계에도 부담으로 작용할 수 있을 텐데요. 트럼프 대통령이 김정은 위원장과의 대화 의지는 유지하면서도 사이버 공격에 대해서는 대북 압박을 강화할 가능성이 있을까요? 향후 북미관계에 어떤 변수가 될까요?\n\n<질문 2> 루비오 미 국무장관은 트럼프 대통령이 김정은 위원장과 만날 준비가 돼 있지만, 잡힌 일정은 없다고 밝혔습니다. 김 위원장의 방중에 이어 이달 중순 중국 선전 APEC이 북미 접촉의 계기가 될 거란 관측도 나오는데요. 실제 만남으로 이어질 수 있을까요?\n\n<질문 3> 북한이 예고한 '10월 중 대남 확성기 재가동' 시한은 지났지만, 접경지 주민들의 불안은 여전합니다. 군은 정비 동향만 포착됐다고 밝혔는데요. 북한이 실제 재가동에 나설까요?\n\n<질문 4> 스위스 외무장관이 평양 외교사무소 개소를 계기로 방북해 조용원 비서와 최선희 외무상 등을 만났습니다. 북한도 대화·협력 강화와 국제정세를 논의했다고 밝혔는데요. 중국 역할론에 한계가 보이는 상황에서, 중립국 스위스가 북한과의 소통 창구가 될 수 있을까요?\n\n<질문 5> 북한이 김정은 위원장 참관 아래 '저격수'라는 이름의 초정밀 600㎜ 방사포 공개 사격에 처음 나섰습니다. 스텔스형을 포함한 무인기 30여 종에, 우리 군 GP로 추정되는 표적을 자폭 드론으로 공격하는 장면까지 공개했는데요. 어떤 메시지로 읽어야 할까요?\n\n<질문 6> 미국 중간선거가 사흘 앞으로 다가왔습니다. 사전투표자가 5천만 명 돌파하며 역대 최다를 기록했고, 공화당 텃밭인 캔자스와 아이오와에서도 초접전이 벌어지고 있는데요. 트럼프 집권 2년 차 중간평가, 판세를 어떻게 보십니까?\n\n<질문 7> 트럼프 대통령은 10월에만 26차례 유세에 나서며 \"개처럼 일하고 있다\"고 했습니다. 캔자스와 아이오와 유세는 취소했다가 하루 만에 다시 가기로 했는데요. 막판까지 직접 뛰는 모습, 그만큼 공화당의 위기감이 크다는 뜻일까요?\n\n<질문 7-1> 트럼프 대통령이 중간선거 결과에 불복해 미국 내 혼란이 커진다면, 한미 관계에는 어떤 여파가 있을까요?\n\n<질문 8> 미국 중간선거를 앞두고 카타르 중재단이 테헤란에서 12시간 넘게 협상을 벌였습니다. 선거 직후 미국이 대규모 대이란 군사작전에 나설 수 있다는 관측도 나오는데요. 이번 협상이 돌파구를 마련할 수 있을까요, 선거 이후 중동의 긴장이 더 높아질까요?\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n임민형(nhm3115@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261031/MYH20261031194917fxK.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261031/MYH20261101084633WF0.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "신현정",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261031194917fxK#comments",
-          "content": "한화 이글스 노시환이 미국 메이저리그에 도전장을 냅니다. 한국야구위원회 KBO는 구단의 요청에 따라 노시환을 미국 메이저리그 30개 구단에 포스팅해 줄 것을 사무국에 요청했다고 밝혔습니다. 미 구단이 노시환과 계약을 체결할 경우, 구단은 한·미 선수계약협정에 따라 한화에 이적료를 지급해야 합니다. 2019년 프로에 데뷔한 노시환은 통산 153홈런 타율 2할 6푼 7리를 기록했고, 지난 아이치·나고야 아시안게임에서 국가대표로 나서 금메달을 ...",
-          "contentSnippet": "한화 이글스 노시환이 미국 메이저리그에 도전장을 냅니다. 한국야구위원회 KBO는 구단의 요청에 따라 노시환을 미국 메이저리그 30개 구단에 포스팅해 줄 것을 사무국에 요청했다고 밝혔습니다. 미 구단이 노시환과 계약을 체결할 경우, 구단은 한·미 선수계약협정에 따라 한화에 이적료를 지급해야 합니다. 2019년 프로에 데뷔한 노시환은 통산 153홈런 타율 2할 6푼 7리를 기록했고, 지난 아이치·나고야 아시안게임에서 국가대표로 나서 금메달을 ...",
-          "guid": "MYH20261031194917fxK",
+          "dc:creator": "임민형",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261101084633WF0#comments",
+          "content": "&lt;출연 : 김열수 한국군사문제연구원 안보전략실장&gt; 미 FBI는 북한이 바이낸스에서 60억 달러 규모의 가상화폐를 탈취한 배후라고 지목했는데요. 북미 대화에 미칠 영향도 주목됩니다. 사흘 앞으로 다가온 미국 중간선거가 한반도 정세에 어떤 변수가 될지도 살펴보겠습니다. 김열수 한국군사문제연구원 안보전략실장과 짚어보겠습니다. &lt;질문 1&gt; 가상화폐 거래소 바이낸스에서 역대 최대인 8조 4천억 원 규모의 해킹 피해가 발생해 북...",
+          "contentSnippet": "<출연 : 김열수 한국군사문제연구원 안보전략실장> 미 FBI는 북한이 바이낸스에서 60억 달러 규모의 가상화폐를 탈취한 배후라고 지목했는데요. 북미 대화에 미칠 영향도 주목됩니다. 사흘 앞으로 다가온 미국 중간선거가 한반도 정세에 어떤 변수가 될지도 살펴보겠습니다. 김열수 한국군사문제연구원 안보전략실장과 짚어보겠습니다. <질문 1> 가상화폐 거래소 바이낸스에서 역대 최대인 8조 4천억 원 규모의 해킹 피해가 발생해 북...",
+          "guid": "MYH20261101084633WF0",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-31T10:49:19.000Z"
+          "isoDate": "2026-10-31T23:46:37.000Z"
         },
         {
-          "creator": "김민아",
-          "title": "한 총리 \"나라 잘된다는데 나는?…소비 진작 행사 늘릴 것\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261031193539hI1",
-          "pubDate": "Sat, 31 Oct 2026 19:35:39 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261031/AKR20261031193539hI1_01_i.jpg\" alt=\"\"><span class=\"yna_title\">'코리아 그랜드 페스티벌' 개막 축사하는 한성숙 총리</span><span class=\"yna_caption\">'코리아 그랜드 페스티벌' 개막 축사하는 한성숙 총리\n(안동=연합뉴스) 김주성 기자 = 한성숙 국무총리가 31일 경북 안동시 중앙선 1942 안동역 특설무대에서 열린 제2회 코리아 그랜드 페스티벌 개막식에서 축사하고 있다. 2026.10.31\nutzza@yna.co.kr\n(끝)\n\n\n<저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지></span><span class=\"yna_description\">'코리아 그랜드 페스티벌' 개막 축사하는 한성숙 총리\n(안동=연합뉴스) 김주성 기자 = 한성숙 국무총리가 31일 경북 안동시 중앙선 1942 안동역 특설무대에서 열린 제2회 코리아 그랜드 페스티벌 개막식에서 축사하고 있다. 2026.10.31\nutzza@yna.co.kr\n(끝)\n\n\n<저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지></span></div>\n한성숙 국무총리가 전국적인 소비 축제인 '제2회 코리아 그랜드 페스티벌' 개막식에 참석해 정부의 내수 활성화, 지역 소비 촉진 의지를 밝혔습니다.\n\n한 총리는 오늘(31일) 경북 안동시에서 열린 개막식 축사에서 \"정부가 좀 더 많은 소비 진작 행사를 만들겠다\"며 \"이번 기회에 사시고 싶은 것들 많이 사시고 즐거운 시간 되시면 좋겠다\"고 말했습니다.\n\n그러면서 \"나라도 잘되고 돈도 많이 벌린다고 하고 세금도 많이 걷혔다고 하는데, 도대체 나한테는 어떻게 되는 거냐?’라는 걱정들이 좀 풀리실 수 있도록 정말 최선을 다해서 애쓰겠다\"고 강조했습니다.\n\n가을이 여행에 좋은 계절이라고 언급하며 \"국무회의에서 대통령님께서 고향 안동 분들께 꼭 안부도 전해달라고 그래서 제가 오늘 안부도 전해드린다\"고 말하기도 했습니다.\n\n한 총리는 행사가 \"전국에 걸쳐서 진행되고 있고, 면세점·백화점·마트에서도 한다\"며 \"50% 이상 할인하는 제품들이 많으니까 이번 기회에 사시고 싶은 것들 많이 사시고 즐거운 시간 되시면 좋겠다\"고 전했습니다.\n\n축사 이후 자신의 X엔 \"최근 나아지는 경제지표가 뉴스에만 머무는 것이 아니라 골목골목, 그리고 국민 한분 한분께 그 성과가 돌아가도록 노력하겠다\"고 적었습니다.\n\n코리아 그랜드 페스티벌은 내수 활성화와 지역 소비 촉진을 위해 정부 부처별 소비 행사를 통합한 국가 단위 소비 축제입니다.\n\n지난 29일 시작해 다음 달 15일까지 18일 동안 전국 곳곳에서 열립니다.\n\n#한성숙국무총리 #코리아그랜드페스티벌 #소비진작행사 #내수활성화 #지역소비촉진 #개막식\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김민아(goldmina@yna.co.kr)",
-          "content:encodedSnippet": "'코리아 그랜드 페스티벌' 개막 축사하는 한성숙 총리'코리아 그랜드 페스티벌' 개막 축사하는 한성숙 총리\n(안동=연합뉴스) 김주성 기자 = 한성숙 국무총리가 31일 경북 안동시 중앙선 1942 안동역 특설무대에서 열린 제2회 코리아 그랜드 페스티벌 개막식에서 축사하고 있다. 2026.10.31\nutzza@yna.co.kr\n(끝)\n\n\n'코리아 그랜드 페스티벌' 개막 축사하는 한성숙 총리\n(안동=연합뉴스) 김주성 기자 = 한성숙 국무총리가 31일 경북 안동시 중앙선 1942 안동역 특설무대에서 열린 제2회 코리아 그랜드 페스티벌 개막식에서 축사하고 있다. 2026.10.31\nutzza@yna.co.kr\n(끝)\n\n\n\n한성숙 국무총리가 전국적인 소비 축제인 '제2회 코리아 그랜드 페스티벌' 개막식에 참석해 정부의 내수 활성화, 지역 소비 촉진 의지를 밝혔습니다.\n\n한 총리는 오늘(31일) 경북 안동시에서 열린 개막식 축사에서 \"정부가 좀 더 많은 소비 진작 행사를 만들겠다\"며 \"이번 기회에 사시고 싶은 것들 많이 사시고 즐거운 시간 되시면 좋겠다\"고 말했습니다.\n\n그러면서 \"나라도 잘되고 돈도 많이 벌린다고 하고 세금도 많이 걷혔다고 하는데, 도대체 나한테는 어떻게 되는 거냐?’라는 걱정들이 좀 풀리실 수 있도록 정말 최선을 다해서 애쓰겠다\"고 강조했습니다.\n\n가을이 여행에 좋은 계절이라고 언급하며 \"국무회의에서 대통령님께서 고향 안동 분들께 꼭 안부도 전해달라고 그래서 제가 오늘 안부도 전해드린다\"고 말하기도 했습니다.\n\n한 총리는 행사가 \"전국에 걸쳐서 진행되고 있고, 면세점·백화점·마트에서도 한다\"며 \"50% 이상 할인하는 제품들이 많으니까 이번 기회에 사시고 싶은 것들 많이 사시고 즐거운 시간 되시면 좋겠다\"고 전했습니다.\n\n축사 이후 자신의 X엔 \"최근 나아지는 경제지표가 뉴스에만 머무는 것이 아니라 골목골목, 그리고 국민 한분 한분께 그 성과가 돌아가도록 노력하겠다\"고 적었습니다.\n\n코리아 그랜드 페스티벌은 내수 활성화와 지역 소비 촉진을 위해 정부 부처별 소비 행사를 통합한 국가 단위 소비 축제입니다.\n\n지난 29일 시작해 다음 달 15일까지 18일 동안 전국 곳곳에서 열립니다.\n\n#한성숙국무총리 #코리아그랜드페스티벌 #소비진작행사 #내수활성화 #지역소비촉진 #개막식\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김민아(goldmina@yna.co.kr)",
+          "creator": "배규빈",
+          "title": "미 국무, 한국 국회의원 비자 문제에 \"수십 년 전 행동 관련…해결할 것\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261101084612PNi",
+          "pubDate": "Sun, 01 Nov 2026 08:46:15 +0900",
+          "content:encoded": "마코 루비오 미국 국무장관이 일부 한국 국회의원들에 대한 미국 입국 비자가 거절되는 문제에 대해 한미 간 협의를 통해 해결하겠다고 밝혔습니다.\n\n루비오 장관은 현지시간 지난달 31일, 조지아주 애틀란타에서 열린 기자회견에서 이같이 말했습니다.\n\n그러면서 \"특정 개인 한 명의 비자 이슈가 있었고, 수십 년 전 행동과 관련된 문제였다고 생각한다\"고 덧붙였습니다.\n\n앞서 더불어민주당 정청래 의원의 미국 비자 발급이 지연된 데 이어, 같은 당 진성준 국회 국방위원장의 관용 비자 신청이 거절됐다가 발급되면서 논란이 된 바 있습니다.\n\n#미국 #마코루비오 #비자\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배규빈(beanie@yna.co.kr)",
+          "content:encodedSnippet": "마코 루비오 미국 국무장관이 일부 한국 국회의원들에 대한 미국 입국 비자가 거절되는 문제에 대해 한미 간 협의를 통해 해결하겠다고 밝혔습니다.\n\n루비오 장관은 현지시간 지난달 31일, 조지아주 애틀란타에서 열린 기자회견에서 이같이 말했습니다.\n\n그러면서 \"특정 개인 한 명의 비자 이슈가 있었고, 수십 년 전 행동과 관련된 문제였다고 생각한다\"고 덧붙였습니다.\n\n앞서 더불어민주당 정청래 의원의 미국 비자 발급이 지연된 데 이어, 같은 당 진성준 국회 국방위원장의 관용 비자 신청이 거절됐다가 발급되면서 논란이 된 바 있습니다.\n\n#미국 #마코루비오 #비자\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배규빈(beanie@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261031/AKR20261031193539hI1_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261031/MYH20261101084612PNi.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "김민아",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261031193539hI1#comments",
-          "content": "'코리아 그랜드 페스티벌' 개막 축사하는 한성숙 총리'코리아 그랜드 페스티벌' 개막 축사하는 한성숙 총리 (안동=연합뉴스) 김주성 기자 = 한성숙 국무총리가 31일 경북 안동시 중앙선 1942 안동역 특설무대에서 열린 제2회 코리아 그랜드 페스티벌 개막식에서 축사하고 있다. 2026.10.31 utzza@yna.co.kr (끝) '코리아 그랜드 페스티벌' 개막 축사하는 한성숙 총리 (안동=연합뉴스) 김주성 기자 = 한성숙 국무총리가 31일...",
-          "contentSnippet": "'코리아 그랜드 페스티벌' 개막 축사하는 한성숙 총리'코리아 그랜드 페스티벌' 개막 축사하는 한성숙 총리 (안동=연합뉴스) 김주성 기자 = 한성숙 국무총리가 31일 경북 안동시 중앙선 1942 안동역 특설무대에서 열린 제2회 코리아 그랜드 페스티벌 개막식에서 축사하고 있다. 2026.10.31 utzza@yna.co.kr (끝) '코리아 그랜드 페스티벌' 개막 축사하는 한성숙 총리 (안동=연합뉴스) 김주성 기자 = 한성숙 국무총리가 31일...",
-          "guid": "AKR20261031193539hI1",
+          "dc:creator": "배규빈",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261101084612PNi#comments",
+          "content": "마코 루비오 미국 국무장관이 일부 한국 국회의원들에 대한 미국 입국 비자가 거절되는 문제에 대해 한미 간 협의를 통해 해결하겠다고 밝혔습니다. 루비오 장관은 현지시간 지난달 31일, 조지아주 애틀란타에서 열린 기자회견에서 이같이 말했습니다. 그러면서 \"특정 개인 한 명의 비자 이슈가 있었고, 수십 년 전 행동과 관련된 문제였다고 생각한다\"고 덧붙였습니다. 앞서 더불어민주당 정청래 의원의 미국 비자 발급이 지연된 데 이어, 같은 당 진성준 ...",
+          "contentSnippet": "마코 루비오 미국 국무장관이 일부 한국 국회의원들에 대한 미국 입국 비자가 거절되는 문제에 대해 한미 간 협의를 통해 해결하겠다고 밝혔습니다. 루비오 장관은 현지시간 지난달 31일, 조지아주 애틀란타에서 열린 기자회견에서 이같이 말했습니다. 그러면서 \"특정 개인 한 명의 비자 이슈가 있었고, 수십 년 전 행동과 관련된 문제였다고 생각한다\"고 덧붙였습니다. 앞서 더불어민주당 정청래 의원의 미국 비자 발급이 지연된 데 이어, 같은 당 진성준 ...",
+          "guid": "MYH20261101084612PNi",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-31T10:35:39.000Z"
+          "isoDate": "2026-10-31T23:46:15.000Z"
         },
         {
-          "creator": "윤해남",
-          "title": "[영상구성] 전원일기 식구들이 전하는 마지막 인사 \"너무 그리운 사람\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261031192605i7J",
-          "pubDate": "Sat, 31 Oct 2026 19:26:06 +0900",
-          "content:encoded": "배우 최불암 별세 향년 87세\n\n배우 나문희\n\n우리의 자랑이었는데 이렇게 먼저 가서 마음 한구석이 많이 섭섭합니다.\n\n양촌리 김 회장에게 전하는\n\n전원일기 식구들의 마지막 인사\n\n배우 김혜자\n\n저 사람에 대한 추억도 많고\n\n다 기억하면서 살 거예요. 왜 마지막이야 마지막 아니야.\n\n곧 만나요. 곧 만날 거예요. 너무 그리운 사람이니까. 곧 만날 거야.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤해남(yoonpd@yna.co.kr)",
-          "content:encodedSnippet": "배우 최불암 별세 향년 87세\n\n배우 나문희\n\n우리의 자랑이었는데 이렇게 먼저 가서 마음 한구석이 많이 섭섭합니다.\n\n양촌리 김 회장에게 전하는\n\n전원일기 식구들의 마지막 인사\n\n배우 김혜자\n\n저 사람에 대한 추억도 많고\n\n다 기억하면서 살 거예요. 왜 마지막이야 마지막 아니야.\n\n곧 만나요. 곧 만날 거예요. 너무 그리운 사람이니까. 곧 만날 거야.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤해남(yoonpd@yna.co.kr)",
+          "creator": "배규빈",
+          "title": "미 핼러윈 참극…쇼핑몰 곳곳 총격으로 사상자 속출",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261101084016WGh",
+          "pubDate": "Sun, 01 Nov 2026 08:40:17 +0900",
+          "content:encoded": "미국에서 핼러윈을 하루 앞두고 관련 용품을 판매하는 상점에서 잇따라 총격 사건이 발생했습니다.\n\n현지시간 지난달 30일 오후 8시 30분쯤, 페어필드의 쇼핑몰 내 '스피릿 핼러윈' 상점에서 총격이 발생했습니다.\n\n이 총격으로 1명이 숨지고 6명이 총상을 입어 병원으로 옮겨졌으며, 이 중 3명은 위독한 상태인 걸로 전해졌습니다.\n\n같은 날 미시간주 매디슨 하이츠 지역의 '스피릿 핼러윈' 매장에서는 21살 남성 두 명이 말다툼하다 총격을 벌였고, 이들 중 한 명이 병원으로 옮겨졌지만 결국 숨졌습니다.\n\n#미국 #총격 #핼러윈\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배규빈(beanie@yna.co.kr)",
+          "content:encodedSnippet": "미국에서 핼러윈을 하루 앞두고 관련 용품을 판매하는 상점에서 잇따라 총격 사건이 발생했습니다.\n\n현지시간 지난달 30일 오후 8시 30분쯤, 페어필드의 쇼핑몰 내 '스피릿 핼러윈' 상점에서 총격이 발생했습니다.\n\n이 총격으로 1명이 숨지고 6명이 총상을 입어 병원으로 옮겨졌으며, 이 중 3명은 위독한 상태인 걸로 전해졌습니다.\n\n같은 날 미시간주 매디슨 하이츠 지역의 '스피릿 핼러윈' 매장에서는 21살 남성 두 명이 말다툼하다 총격을 벌였고, 이들 중 한 명이 병원으로 옮겨졌지만 결국 숨졌습니다.\n\n#미국 #총격 #핼러윈\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배규빈(beanie@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261031/MYH20261031192605i7J.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261031/MYH20261101084016WGh.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "윤해남",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261031192605i7J#comments",
-          "content": "배우 최불암 별세 향년 87세 배우 나문희 우리의 자랑이었는데 이렇게 먼저 가서 마음 한구석이 많이 섭섭합니다. 양촌리 김 회장에게 전하는 전원일기 식구들의 마지막 인사 배우 김혜자 저 사람에 대한 추억도 많고 다 기억하면서 살 거예요. 왜 마지막이야 마지막 아니야. 곧 만나요. 곧 만날 거예요. 너무 그리운 사람이니까. 곧 만날 거야. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 윤해남(yoonpd@yna.co.kr)",
-          "contentSnippet": "배우 최불암 별세 향년 87세 배우 나문희 우리의 자랑이었는데 이렇게 먼저 가서 마음 한구석이 많이 섭섭합니다. 양촌리 김 회장에게 전하는 전원일기 식구들의 마지막 인사 배우 김혜자 저 사람에 대한 추억도 많고 다 기억하면서 살 거예요. 왜 마지막이야 마지막 아니야. 곧 만나요. 곧 만날 거예요. 너무 그리운 사람이니까. 곧 만날 거야. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 윤해남(yoonpd@yna.co.kr)",
-          "guid": "MYH20261031192605i7J",
+          "dc:creator": "배규빈",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261101084016WGh#comments",
+          "content": "미국에서 핼러윈을 하루 앞두고 관련 용품을 판매하는 상점에서 잇따라 총격 사건이 발생했습니다. 현지시간 지난달 30일 오후 8시 30분쯤, 페어필드의 쇼핑몰 내 '스피릿 핼러윈' 상점에서 총격이 발생했습니다. 이 총격으로 1명이 숨지고 6명이 총상을 입어 병원으로 옮겨졌으며, 이 중 3명은 위독한 상태인 걸로 전해졌습니다. 같은 날 미시간주 매디슨 하이츠 지역의 '스피릿 핼러윈' 매장에서는 21살 남성 두 명이 말다툼하다 총격을 벌였고, ...",
+          "contentSnippet": "미국에서 핼러윈을 하루 앞두고 관련 용품을 판매하는 상점에서 잇따라 총격 사건이 발생했습니다. 현지시간 지난달 30일 오후 8시 30분쯤, 페어필드의 쇼핑몰 내 '스피릿 핼러윈' 상점에서 총격이 발생했습니다. 이 총격으로 1명이 숨지고 6명이 총상을 입어 병원으로 옮겨졌으며, 이 중 3명은 위독한 상태인 걸로 전해졌습니다. 같은 날 미시간주 매디슨 하이츠 지역의 '스피릿 핼러윈' 매장에서는 21살 남성 두 명이 말다툼하다 총격을 벌였고, ...",
+          "guid": "MYH20261101084016WGh",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-10-31T10:26:06.000Z"
+          "isoDate": "2026-10-31T23:40:17.000Z"
+        },
+        {
+          "creator": "배규빈",
+          "title": "핼러윈 홍대서 '마약 사탕' 소동…\"오인 신고\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261101083847Tdq",
+          "pubDate": "Sun, 01 Nov 2026 08:38:50 +0900",
+          "content:encoded": "핼러윈 데이 당일인 어제(31일) 서울 마포구 홍대 거리에서 마약 사탕을 건네받았다는 신고가 들어왔지만, 사실이 아닌 걸로 드러났습니다.\n\n서울 마포경찰서는 홍대에서 캐릭터 인형 탈을 쓴 남성이 마약류로 의심되는 사탕을 나눠준다는 신고를 받고 출동했지만, 오인 신고였다고 밝혔습니다.\n\n경찰 조사 결과 이 남성이 나눠준 사탕에서 마약류 등이 검출되지 않아 범죄 혐의점은 없었던 걸로 확인됐습니다.\n\n앞서 SNS에서는 해당 사탕을 먹은 뒤 이상 증세를 느꼈다는 전언이 유포되기도 했습니다.\n\n#마포경찰서 #핼러윈 #마약사탕\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배규빈(beanie@yna.co.kr)",
+          "content:encodedSnippet": "핼러윈 데이 당일인 어제(31일) 서울 마포구 홍대 거리에서 마약 사탕을 건네받았다는 신고가 들어왔지만, 사실이 아닌 걸로 드러났습니다.\n\n서울 마포경찰서는 홍대에서 캐릭터 인형 탈을 쓴 남성이 마약류로 의심되는 사탕을 나눠준다는 신고를 받고 출동했지만, 오인 신고였다고 밝혔습니다.\n\n경찰 조사 결과 이 남성이 나눠준 사탕에서 마약류 등이 검출되지 않아 범죄 혐의점은 없었던 걸로 확인됐습니다.\n\n앞서 SNS에서는 해당 사탕을 먹은 뒤 이상 증세를 느꼈다는 전언이 유포되기도 했습니다.\n\n#마포경찰서 #핼러윈 #마약사탕\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배규빈(beanie@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261031/MYH20261101083847Tdq.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "배규빈",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261101083847Tdq#comments",
+          "content": "핼러윈 데이 당일인 어제(31일) 서울 마포구 홍대 거리에서 마약 사탕을 건네받았다는 신고가 들어왔지만, 사실이 아닌 걸로 드러났습니다. 서울 마포경찰서는 홍대에서 캐릭터 인형 탈을 쓴 남성이 마약류로 의심되는 사탕을 나눠준다는 신고를 받고 출동했지만, 오인 신고였다고 밝혔습니다. 경찰 조사 결과 이 남성이 나눠준 사탕에서 마약류 등이 검출되지 않아 범죄 혐의점은 없었던 걸로 확인됐습니다. 앞서 SNS에서는 해당 사탕을 먹은 뒤 이상 증세...",
+          "contentSnippet": "핼러윈 데이 당일인 어제(31일) 서울 마포구 홍대 거리에서 마약 사탕을 건네받았다는 신고가 들어왔지만, 사실이 아닌 걸로 드러났습니다. 서울 마포경찰서는 홍대에서 캐릭터 인형 탈을 쓴 남성이 마약류로 의심되는 사탕을 나눠준다는 신고를 받고 출동했지만, 오인 신고였다고 밝혔습니다. 경찰 조사 결과 이 남성이 나눠준 사탕에서 마약류 등이 검출되지 않아 범죄 혐의점은 없었던 걸로 확인됐습니다. 앞서 SNS에서는 해당 사탕을 먹은 뒤 이상 증세...",
+          "guid": "MYH20261101083847Tdq",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-31T23:38:50.000Z"
+        },
+        {
+          "creator": "윤형섭",
+          "title": "이태원 참사 이후 첫 주말 핼러윈…인파 관리 총력전",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261101083802Sjc",
+          "pubDate": "Sun, 01 Nov 2026 08:38:04 +0900",
+          "content:encoded": "[앵커]\n\n어제(31일) 핼러윈 데이를 맞아 이태원과 홍대 등에는 축제를 즐기려는 시민들의 발길이 이어졌습니다.\n\n이태원 참사 이후 4년 만에 처음으로 주말과 핼러윈이 겹치며 더 많은 인파가 몰린 만큼 경찰과 지자체는 안전 관리에 총력을 기울였습니다.\n\n윤형섭 기자입니다.\n\n[기자]\n\n서울 용산구 해밀턴 호텔 옆 이태원 참사 추모공간.\n\n희생자들을 기리기 위한 국화와 추모글들로 가득합니다.\n\n핼러윈데이 당일이지만, 낮 시간은 축제보다 희생자들을 기억하려는 시민들의 발길이 이어졌습니다.\n\n&lt;김민수 / 경기 성남시&gt; \"참사 때문에 사람들을 기억하기 위해 추모글을 하나 남겼습니다. 다시는 이런 일이 일어나면 안 되겠다고 했습니다.“\n\n참사 이후 4년 만에 주말과 겹친 올해 핼러윈.\n\n날이 어두워지자 이색 복장을 한 시민들로 뒤덮였고 가게들도 호박과 해골 장식으로 한껏 단장했습니다.\n\n&lt;박소희 / 서울 강남구&gt; \"올 겨울에 유행했던 두쫀쿠를 제가 많이 좋아했거든요. 그런 콘셉트로 한번 꾸며봤습니다.\"\n\n&lt;양승미 / 인천 미추홀구&gt; \"남편이 표범이라 저도 같이 주토피아 캐릭터를 하려고 토끼로 한번 입어봤습니다.\"\n\n경찰과 지자체는 더 많은 인파가 몰릴 것을 대비해 안전 관리에 총력을 기울였습니다.\n\n전날에 이어 장갑차가 다시 등장했고 순찰차와 경찰도 대거 배치됐습니다.\n\n혹시 모를 사고에 대비해 구급차, 소방차도 동원됐습니다.\n\n오후 6시를 넘기며 인파가 급격히 늘어나자 이태원로 차량 통행은 제한됐습니다.\n\n인파사고 위기 경보가 '주의' 단계로 격상된 가운데, 실시간 밀집도를 보여주는 전광판과 CCTV 등으로 인파 흐름을 조절했습니다.\n\n특히 가장 혼잡한 좁고 경사진 골목 6곳에는 일방통행을 유도하는 분리대가 설치되는 등 집중적인 관리가 이뤄졌습니다.\n\n핼러윈 당일 이태원과 홍대를 비롯한 전국의 인파 밀집 우려 지역 28곳에는 현장 관리를 위해 경찰력 7,800여명이 투입됐습니다.\n\n이젠 축제와 추모가 공존하게 된 이태원. 흥겨운 축제 속에서도 질서를 지키려는 노력이 이어졌습니다.\n\n연합뉴스TV 윤형섭입니다.\n\n[영상취재 문원철 권혁준]\n\n[영상편집 박진희]\n\n#경찰 #사고 #이태원 #핼러윈 #인파관리\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤형섭(yhs931@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n어제(31일) 핼러윈 데이를 맞아 이태원과 홍대 등에는 축제를 즐기려는 시민들의 발길이 이어졌습니다.\n\n이태원 참사 이후 4년 만에 처음으로 주말과 핼러윈이 겹치며 더 많은 인파가 몰린 만큼 경찰과 지자체는 안전 관리에 총력을 기울였습니다.\n\n윤형섭 기자입니다.\n\n[기자]\n\n서울 용산구 해밀턴 호텔 옆 이태원 참사 추모공간.\n\n희생자들을 기리기 위한 국화와 추모글들로 가득합니다.\n\n핼러윈데이 당일이지만, 낮 시간은 축제보다 희생자들을 기억하려는 시민들의 발길이 이어졌습니다.\n\n<김민수 / 경기 성남시> \"참사 때문에 사람들을 기억하기 위해 추모글을 하나 남겼습니다. 다시는 이런 일이 일어나면 안 되겠다고 했습니다.“\n\n참사 이후 4년 만에 주말과 겹친 올해 핼러윈.\n\n날이 어두워지자 이색 복장을 한 시민들로 뒤덮였고 가게들도 호박과 해골 장식으로 한껏 단장했습니다.\n\n<박소희 / 서울 강남구> \"올 겨울에 유행했던 두쫀쿠를 제가 많이 좋아했거든요. 그런 콘셉트로 한번 꾸며봤습니다.\"\n\n<양승미 / 인천 미추홀구> \"남편이 표범이라 저도 같이 주토피아 캐릭터를 하려고 토끼로 한번 입어봤습니다.\"\n\n경찰과 지자체는 더 많은 인파가 몰릴 것을 대비해 안전 관리에 총력을 기울였습니다.\n\n전날에 이어 장갑차가 다시 등장했고 순찰차와 경찰도 대거 배치됐습니다.\n\n혹시 모를 사고에 대비해 구급차, 소방차도 동원됐습니다.\n\n오후 6시를 넘기며 인파가 급격히 늘어나자 이태원로 차량 통행은 제한됐습니다.\n\n인파사고 위기 경보가 '주의' 단계로 격상된 가운데, 실시간 밀집도를 보여주는 전광판과 CCTV 등으로 인파 흐름을 조절했습니다.\n\n특히 가장 혼잡한 좁고 경사진 골목 6곳에는 일방통행을 유도하는 분리대가 설치되는 등 집중적인 관리가 이뤄졌습니다.\n\n핼러윈 당일 이태원과 홍대를 비롯한 전국의 인파 밀집 우려 지역 28곳에는 현장 관리를 위해 경찰력 7,800여명이 투입됐습니다.\n\n이젠 축제와 추모가 공존하게 된 이태원. 흥겨운 축제 속에서도 질서를 지키려는 노력이 이어졌습니다.\n\n연합뉴스TV 윤형섭입니다.\n\n[영상취재 문원철 권혁준]\n\n[영상편집 박진희]\n\n#경찰 #사고 #이태원 #핼러윈 #인파관리\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤형섭(yhs931@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261031/MYH20261101083802Sjc.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "윤형섭",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261101083802Sjc#comments",
+          "content": "[앵커] 어제(31일) 핼러윈 데이를 맞아 이태원과 홍대 등에는 축제를 즐기려는 시민들의 발길이 이어졌습니다. 이태원 참사 이후 4년 만에 처음으로 주말과 핼러윈이 겹치며 더 많은 인파가 몰린 만큼 경찰과 지자체는 안전 관리에 총력을 기울였습니다. 윤형섭 기자입니다. [기자] 서울 용산구 해밀턴 호텔 옆 이태원 참사 추모공간. 희생자들을 기리기 위한 국화와 추모글들로 가득합니다. 핼러윈데이 당일이지만, 낮 시간은 축제보다 희생자들을 기억하...",
+          "contentSnippet": "[앵커] 어제(31일) 핼러윈 데이를 맞아 이태원과 홍대 등에는 축제를 즐기려는 시민들의 발길이 이어졌습니다. 이태원 참사 이후 4년 만에 처음으로 주말과 핼러윈이 겹치며 더 많은 인파가 몰린 만큼 경찰과 지자체는 안전 관리에 총력을 기울였습니다. 윤형섭 기자입니다. [기자] 서울 용산구 해밀턴 호텔 옆 이태원 참사 추모공간. 희생자들을 기리기 위한 국화와 추모글들로 가득합니다. 핼러윈데이 당일이지만, 낮 시간은 축제보다 희생자들을 기억하...",
+          "guid": "MYH20261101083802Sjc",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-31T23:38:04.000Z"
+        },
+        {
+          "creator": "박수주",
+          "title": "이번 달로 다가온 '中선전 APEC'…북미 접촉 가능성은",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261101083645cp3",
+          "pubDate": "Sun, 01 Nov 2026 08:36:46 +0900",
+          "content:encoded": "[앵커]\n\n최근 김정은 북한 국무위원장이 중국을 전격 방문한 뒤 이번 달 중국에서 열리는 APEC 정상회의가 주목받고 있습니다.\n\n북미 사이 접촉의 계기가 될 수 있다는 전망이 나오면서인데요.\n\n다만, 당장 북미정상회담이 이뤄질지는 지켜봐야 할 것 같습니다.\n\n박수주 기자의 보도입니다.\n\n[기자]\n\n김정은 북한 국무위원장이 중국 단둥을 깜짝 방문한 뒤, 중국 선전에서 열릴 APEC 정상회의에 이목이 쏠리고 있습니다.\n\n이번 북중 회담에 외교라인이 총출동한 데다 특히 중국 측 '미국통', 마자오쉬 외교부 상무부부장까지 자리하면서, 양측이 선전 APEC을 계기로 한 북미 접촉을 논의했을 거라는 관측이 제기됐기 때문입니다.\n\n국정원은 김 위원장이 북미대화에 대한 의중을 전달하기 위해 중국에 간 것이라고 분석했습니다.\n\n중국이 선전 APEC 전후 북미대화 중재에 나설 가능성에 무게를 싣는 중국 내 전문가들이 전보다 많아졌다는 주장도 있습니다.\n\n&lt;정은이 / 통일연구원 북한연구실장&gt; \"그 전만 해도 지금 얘기가 좀 갈렸거든요. 근데 최근에 들어와서 그런 움직임이 좀 더 강해지는 것 같고…\"\n\n하지만 여러 정황을 고려할 때 메시지 교환 등의 접촉을 넘어, 당장 '북미정상회담 개최'로 이어질 것을 기대하기는 쉽지 않다는 전망도 나옵니다.\n\n&lt;이상숙 / 국립외교원 교수&gt; \"북미정상회담의 가능성이 있었다면 북중정상회담이 있었을 겁니다. 북미정상회담으로 가기까지는 아직까지는 북중 관계가 그렇게 긴밀하지 않은 것 같다…\"\n\n미국의 싱크탱크 전략국제문제연구소(CSIS)에서는 북한은 물론 중국, 러시아가 현재 북미대화에 대한 절박함이 없다는 분석이 나오기도 했습니다.\n\n&lt;시드니 사일러 / CSIS 선임 고문&gt; \"사실 대화를 거절함으로써 얻을 수 있는 것이 많거든요. 미국을 더 불안하게 하는 거죠. 미국을 더 갈망하게, 더 절박하게 만드는 겁니다.\"\n\n트럼프 임기 내 북미정상회담이 성사될 가능성이 높다는 전망은 여전히 우세한 가운데, 선전 APEC이 북미를 다시 잇는 징검다리가 될지, 단순한 탐색전에 그칠지 주목됩니다.\n\n연합뉴스TV 박수주입니다.\n\n[영상편집 김경미]\n\n[그래픽 김형서]\n\n[화면출처 CSIS]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박수주(sooju@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n최근 김정은 북한 국무위원장이 중국을 전격 방문한 뒤 이번 달 중국에서 열리는 APEC 정상회의가 주목받고 있습니다.\n\n북미 사이 접촉의 계기가 될 수 있다는 전망이 나오면서인데요.\n\n다만, 당장 북미정상회담이 이뤄질지는 지켜봐야 할 것 같습니다.\n\n박수주 기자의 보도입니다.\n\n[기자]\n\n김정은 북한 국무위원장이 중국 단둥을 깜짝 방문한 뒤, 중국 선전에서 열릴 APEC 정상회의에 이목이 쏠리고 있습니다.\n\n이번 북중 회담에 외교라인이 총출동한 데다 특히 중국 측 '미국통', 마자오쉬 외교부 상무부부장까지 자리하면서, 양측이 선전 APEC을 계기로 한 북미 접촉을 논의했을 거라는 관측이 제기됐기 때문입니다.\n\n국정원은 김 위원장이 북미대화에 대한 의중을 전달하기 위해 중국에 간 것이라고 분석했습니다.\n\n중국이 선전 APEC 전후 북미대화 중재에 나설 가능성에 무게를 싣는 중국 내 전문가들이 전보다 많아졌다는 주장도 있습니다.\n\n<정은이 / 통일연구원 북한연구실장> \"그 전만 해도 지금 얘기가 좀 갈렸거든요. 근데 최근에 들어와서 그런 움직임이 좀 더 강해지는 것 같고…\"\n\n하지만 여러 정황을 고려할 때 메시지 교환 등의 접촉을 넘어, 당장 '북미정상회담 개최'로 이어질 것을 기대하기는 쉽지 않다는 전망도 나옵니다.\n\n<이상숙 / 국립외교원 교수> \"북미정상회담의 가능성이 있었다면 북중정상회담이 있었을 겁니다. 북미정상회담으로 가기까지는 아직까지는 북중 관계가 그렇게 긴밀하지 않은 것 같다…\"\n\n미국의 싱크탱크 전략국제문제연구소(CSIS)에서는 북한은 물론 중국, 러시아가 현재 북미대화에 대한 절박함이 없다는 분석이 나오기도 했습니다.\n\n<시드니 사일러 / CSIS 선임 고문> \"사실 대화를 거절함으로써 얻을 수 있는 것이 많거든요. 미국을 더 불안하게 하는 거죠. 미국을 더 갈망하게, 더 절박하게 만드는 겁니다.\"\n\n트럼프 임기 내 북미정상회담이 성사될 가능성이 높다는 전망은 여전히 우세한 가운데, 선전 APEC이 북미를 다시 잇는 징검다리가 될지, 단순한 탐색전에 그칠지 주목됩니다.\n\n연합뉴스TV 박수주입니다.\n\n[영상편집 김경미]\n\n[그래픽 김형서]\n\n[화면출처 CSIS]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박수주(sooju@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261031/MYH20261101083645cp3.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "박수주",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261101083645cp3#comments",
+          "content": "[앵커] 최근 김정은 북한 국무위원장이 중국을 전격 방문한 뒤 이번 달 중국에서 열리는 APEC 정상회의가 주목받고 있습니다. 북미 사이 접촉의 계기가 될 수 있다는 전망이 나오면서인데요. 다만, 당장 북미정상회담이 이뤄질지는 지켜봐야 할 것 같습니다. 박수주 기자의 보도입니다. [기자] 김정은 북한 국무위원장이 중국 단둥을 깜짝 방문한 뒤, 중국 선전에서 열릴 APEC 정상회의에 이목이 쏠리고 있습니다. 이번 북중 회담에 외교라인이 총출...",
+          "contentSnippet": "[앵커] 최근 김정은 북한 국무위원장이 중국을 전격 방문한 뒤 이번 달 중국에서 열리는 APEC 정상회의가 주목받고 있습니다. 북미 사이 접촉의 계기가 될 수 있다는 전망이 나오면서인데요. 다만, 당장 북미정상회담이 이뤄질지는 지켜봐야 할 것 같습니다. 박수주 기자의 보도입니다. [기자] 김정은 북한 국무위원장이 중국 단둥을 깜짝 방문한 뒤, 중국 선전에서 열릴 APEC 정상회의에 이목이 쏠리고 있습니다. 이번 북중 회담에 외교라인이 총출...",
+          "guid": "MYH20261101083645cp3",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-31T23:36:46.000Z"
+        },
+        {
+          "creator": "배규빈",
+          "title": "FBI, '바이낸스 가상자산 탈취' 배후로 북한 지목",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261101083352MrV",
+          "pubDate": "Sun, 01 Nov 2026 08:33:55 +0900",
+          "content:encoded": "[앵커]\n\n미 연방수사국 FBI가 가상화폐 거래소 바이낸스에서 60억 달러 이상의 가상자산이 도난당한 사건의 배후로 북한을 지목했습니다.\n\n보도국 취재기자 연결해 자세한 내용 알아봅니다.\n\n배규빈 기자.\n\n[기자]\n\n네, FBI는 가상화폐 거래소 바이낸스에서 대규모 가상자산이 도난당한 사건을 수사해 온 결과, 그 배후로 북한을 지목했습니다.\n\n북한의 해킹 조직 '트레이더 트레이터'가 탈취한 자산을 이더리움으로 전환하는 방식으로 자금세탁을 하는 게 관찰됐다는 건데요.\n\n트레이더트레이터는 북한의 정예 해킹조직으로, 북한 정찰총국 등 첩보기관 산하에서 활동하는 조직으로 알려져있습니다.\n\n그동안 여러 보안업체들이 북한을 배후로 지목해왔지만, FBI가 이를 공식 확인한 건 이번이 처음입니다.\n\n그러면서 탈취된 디지털 자산에 대해 \"추가적인 자금세탁 단계가 이어질 걸로 예상한다\"고 덧붙였습니다.\n\n또 이들이 사용한 것으로 추정되는 가상자산 지갑 주소 목록을 공개하고, 관련 거래 차단과 의심 거래에 대한 제보를 촉구했습니다.\n\n[앵커]\n\n이번 해킹 사고로 입은 피해 규모가 상당한데요.\n\n북미 관계에도 영향이 있을까요?\n\n[기자]\n\n네, 지난달 29일 해킹 사고로 바이낸스에서 무려 63억 달러, 우리 돈 8조 4천억원의 가상자산이 순식간에 빠져나갔습니다.\n\n하지만 당시 임직원들은 계좌에서 자산이 탈취되는 모습을 지켜볼 수밖에 없었던 걸로 알려졌습니다.\n\n앞서 트럼프 대통령은 \"해킹 피해가 북한 소행이냐\"는 질문에 \"모른다\"고 답하며 확답을 피한 바 있는데요.\n\nFBI가 북한을 공식 해킹 배후로 지목한 만큼, 이번 해킹 사건이 트럼프 대통령이 추진하는 북미 대화 재개에 변수가 될지 관심이 쏠립니다.\n\n한편 바이낸스는 사내 자금으로 손실액 90%를 먼저 충당했고 나머지 10%도 곧 보전할 계획이라며, 출금 서비스를 오늘부터 재개하겠다고 밝혔습니다.\n\n지금까지 보도국에서 전해드렸습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배규빈(beanie@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n미 연방수사국 FBI가 가상화폐 거래소 바이낸스에서 60억 달러 이상의 가상자산이 도난당한 사건의 배후로 북한을 지목했습니다.\n\n보도국 취재기자 연결해 자세한 내용 알아봅니다.\n\n배규빈 기자.\n\n[기자]\n\n네, FBI는 가상화폐 거래소 바이낸스에서 대규모 가상자산이 도난당한 사건을 수사해 온 결과, 그 배후로 북한을 지목했습니다.\n\n북한의 해킹 조직 '트레이더 트레이터'가 탈취한 자산을 이더리움으로 전환하는 방식으로 자금세탁을 하는 게 관찰됐다는 건데요.\n\n트레이더트레이터는 북한의 정예 해킹조직으로, 북한 정찰총국 등 첩보기관 산하에서 활동하는 조직으로 알려져있습니다.\n\n그동안 여러 보안업체들이 북한을 배후로 지목해왔지만, FBI가 이를 공식 확인한 건 이번이 처음입니다.\n\n그러면서 탈취된 디지털 자산에 대해 \"추가적인 자금세탁 단계가 이어질 걸로 예상한다\"고 덧붙였습니다.\n\n또 이들이 사용한 것으로 추정되는 가상자산 지갑 주소 목록을 공개하고, 관련 거래 차단과 의심 거래에 대한 제보를 촉구했습니다.\n\n[앵커]\n\n이번 해킹 사고로 입은 피해 규모가 상당한데요.\n\n북미 관계에도 영향이 있을까요?\n\n[기자]\n\n네, 지난달 29일 해킹 사고로 바이낸스에서 무려 63억 달러, 우리 돈 8조 4천억원의 가상자산이 순식간에 빠져나갔습니다.\n\n하지만 당시 임직원들은 계좌에서 자산이 탈취되는 모습을 지켜볼 수밖에 없었던 걸로 알려졌습니다.\n\n앞서 트럼프 대통령은 \"해킹 피해가 북한 소행이냐\"는 질문에 \"모른다\"고 답하며 확답을 피한 바 있는데요.\n\nFBI가 북한을 공식 해킹 배후로 지목한 만큼, 이번 해킹 사건이 트럼프 대통령이 추진하는 북미 대화 재개에 변수가 될지 관심이 쏠립니다.\n\n한편 바이낸스는 사내 자금으로 손실액 90%를 먼저 충당했고 나머지 10%도 곧 보전할 계획이라며, 출금 서비스를 오늘부터 재개하겠다고 밝혔습니다.\n\n지금까지 보도국에서 전해드렸습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배규빈(beanie@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261031/MYH20261101083352MrV.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "배규빈",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261101083352MrV#comments",
+          "content": "[앵커] 미 연방수사국 FBI가 가상화폐 거래소 바이낸스에서 60억 달러 이상의 가상자산이 도난당한 사건의 배후로 북한을 지목했습니다. 보도국 취재기자 연결해 자세한 내용 알아봅니다. 배규빈 기자. [기자] 네, FBI는 가상화폐 거래소 바이낸스에서 대규모 가상자산이 도난당한 사건을 수사해 온 결과, 그 배후로 북한을 지목했습니다. 북한의 해킹 조직 '트레이더 트레이터'가 탈취한 자산을 이더리움으로 전환하는 방식으로 자금세탁을 하는 게 관...",
+          "contentSnippet": "[앵커] 미 연방수사국 FBI가 가상화폐 거래소 바이낸스에서 60억 달러 이상의 가상자산이 도난당한 사건의 배후로 북한을 지목했습니다. 보도국 취재기자 연결해 자세한 내용 알아봅니다. 배규빈 기자. [기자] 네, FBI는 가상화폐 거래소 바이낸스에서 대규모 가상자산이 도난당한 사건을 수사해 온 결과, 그 배후로 북한을 지목했습니다. 북한의 해킹 조직 '트레이더 트레이터'가 탈취한 자산을 이더리움으로 전환하는 방식으로 자금세탁을 하는 게 관...",
+          "guid": "MYH20261101083352MrV",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-31T23:33:55.000Z"
+        },
+        {
+          "creator": "임혜준",
+          "title": "北, 전술탄도미사일 집속탄두 시험…\"13ha 초토화\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH202611010832371s2",
+          "pubDate": "Sun, 01 Nov 2026 08:32:39 +0900",
+          "content:encoded": "북한이 전술탄도미사일에 탑재하는 집속탄두의 위력을 평가하는 시험을 진행했다고 조선중앙통신이 오늘(1일) 보도했습니다.\n\n미사일총국 산하 탄도미사일체계연구소는 시험 결과를 발표하며 \"표준2형 산포전투부로 최대 13ha의 표적 구역을 초강력 밀도로 초토화할 수 있다\"고 주장했습니다.\n\n산포전투부는 하나의 탄두 안에 여러 개의 새끼탄을 넣은 집속탄두입니다.\n\n이어 연내 4종의 탄두를 운용할 수 있도록 하겠다고 밝혀, 다변화 탄두의 실전 배치를 예고했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n임혜준(junelim@yna.co.kr)",
+          "content:encodedSnippet": "북한이 전술탄도미사일에 탑재하는 집속탄두의 위력을 평가하는 시험을 진행했다고 조선중앙통신이 오늘(1일) 보도했습니다.\n\n미사일총국 산하 탄도미사일체계연구소는 시험 결과를 발표하며 \"표준2형 산포전투부로 최대 13ha의 표적 구역을 초강력 밀도로 초토화할 수 있다\"고 주장했습니다.\n\n산포전투부는 하나의 탄두 안에 여러 개의 새끼탄을 넣은 집속탄두입니다.\n\n이어 연내 4종의 탄두를 운용할 수 있도록 하겠다고 밝혀, 다변화 탄두의 실전 배치를 예고했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n임혜준(junelim@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261031/MYH202611010832371s2.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "임혜준",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH202611010832371s2#comments",
+          "content": "북한이 전술탄도미사일에 탑재하는 집속탄두의 위력을 평가하는 시험을 진행했다고 조선중앙통신이 오늘(1일) 보도했습니다. 미사일총국 산하 탄도미사일체계연구소는 시험 결과를 발표하며 \"표준2형 산포전투부로 최대 13ha의 표적 구역을 초강력 밀도로 초토화할 수 있다\"고 주장했습니다. 산포전투부는 하나의 탄두 안에 여러 개의 새끼탄을 넣은 집속탄두입니다. 이어 연내 4종의 탄두를 운용할 수 있도록 하겠다고 밝혀, 다변화 탄두의 실전 배치를 예고했...",
+          "contentSnippet": "북한이 전술탄도미사일에 탑재하는 집속탄두의 위력을 평가하는 시험을 진행했다고 조선중앙통신이 오늘(1일) 보도했습니다. 미사일총국 산하 탄도미사일체계연구소는 시험 결과를 발표하며 \"표준2형 산포전투부로 최대 13ha의 표적 구역을 초강력 밀도로 초토화할 수 있다\"고 주장했습니다. 산포전투부는 하나의 탄두 안에 여러 개의 새끼탄을 넣은 집속탄두입니다. 이어 연내 4종의 탄두를 운용할 수 있도록 하겠다고 밝혀, 다변화 탄두의 실전 배치를 예고했...",
+          "guid": "MYH202611010832371s2",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-10-31T23:32:39.000Z"
         }
       ]
     }
