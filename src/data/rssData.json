@@ -7,7 +7,107 @@
       "priority": 1,
       "data": [
         {
-          "title": "Geoffrey Hinton: AI가 없었더라면 더 나았을 수도 있다",
+          "title": "GitBook 침해 사고 발생",
+          "link": "https://news.hada.io/topic?id=36604&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-04T18:44:45.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>GitBook이 공유한 사고 안내에 따르면, <strong>11월 2일 19:00 CET</strong> 공격자가 일부 인프라 자격 증명에 무단 접근했으며, <strong>AI 에이전트를 이용한 정교한 표적 공격</strong>이었음</li><li>GitBook은 공격을 탐지한 뒤 <strong>앱과 인증이 필요한 문서 사이트를 중단</strong>했으며, 공개 문서는 캐시 데이터를 이용해 가능한 한 오래 서비스함</li><li>공격자가 <strong>Git Sync 시크릿, GitBook 및 외부 서비스 API 토큰</strong>, 사이트 방문자가 GitBook Assistant에 입력한 질문에 접근했을 가능성이 있음</li><li>인프라 전체의 <strong>자격 증명과 시크릿을 교체</strong>하고 모든 고객 API 토큰을 무효화했으며, 고객에게 </li></ul></div>…",
+          "contentSnippet": "GitBook이 공유한 사고 안내에 따르면, 11월 2일 19:00 CET 공격자가 일부 인프라 자격 증명에 무단 접근했으며, AI 에이전트를 이용한 정교한 표적 공격이었음\nGitBook은 공격을 탐지한 뒤 앱과 인증이 필요한 문서 사이트를 중단했으며, 공개 문서는 캐시 데이터를 이용해 가능한 한 오래 서비스함\n공격자가 Git Sync 시크릿, GitBook 및 외부 서비스 API 토큰, 사이트 방문자가 GitBook Assistant에 입력한 질문에 접근했을 가능성이 있음\n인프라 전체의 자격 증명과 시크릿을 교체하고 모든 고객 API 토큰을 무효화했으며, 고객에게 \n\n…",
+          "id": "https://news.hada.io/topic?id=36604",
+          "isoDate": "2026-11-04T18:44:45.000Z"
+        },
+        {
+          "title": "Ask HN: Cleveland 지역 아마추어 무선 동호회에 아는 분이 있나요?",
+          "link": "https://news.hada.io/topic?id=36603&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-04T18:41:45.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>집에서 반출해야 하는 <strong>대량의 무선 장비</strong>가 있으며, 반출하지 못하면 쓰레기 수거함에 버려질 예정임. 상당수가 새 제품임</li><li><strong>Cuyahoga Amateur Radio Club</strong> 웹 양식으로 장비 정보를 보냈지만, 접수가 무시됐을 가능성을 우려함</li><li>해당 동호회에 아는 사람이 있다면 <strong>웹 양식 접수 내역</strong>을 확인해 달라고 전달해 주기를 요청함</li></ul></div>…",
+          "contentSnippet": "집에서 반출해야 하는 대량의 무선 장비가 있으며, 반출하지 못하면 쓰레기 수거함에 버려질 예정임. 상당수가 새 제품임\nCuyahoga Amateur Radio Club 웹 양식으로 장비 정보를 보냈지만, 접수가 무시됐을 가능성을 우려함\n해당 동호회에 아는 사람이 있다면 웹 양식 접수 내역을 확인해 달라고 전달해 주기를 요청함\n\n…",
+          "id": "https://news.hada.io/topic?id=36603",
+          "isoDate": "2026-11-04T18:41:45.000Z"
+        },
+        {
+          "title": "AMD, 4분기 매출에서 사상 처음 Intel 추월 전망",
+          "link": "https://news.hada.io/topic?id=36602&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-04T18:38:45.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>AMD가 <strong>2026년 4분기 매출 약 170억 달러</strong>를 전망함. 전망대로라면 매출 150억~160억 달러를 예상하는 Intel을 분기 매출에서 사상 처음 앞서게 됨</li><li><strong>Epyc 서버 CPU와 Instinct AI 가속기</strong> 수요가 성장을 이끌며 3분기 매출이 사상 최대인 133억 7,700만 달러를 기록함. 데이터센터 성장이 클라이언트 부문 감소를 상쇄하며 수익성도 개선됨</li><li><strong>데이터센터 매출은 전년 대비 97% 증가</strong>했고 전체 매출의 64%를 차지함. AMD는 서버 CPU와 AI 사업 확대로 2027년에는 이 비중이 80%를 넘을 것으로 예상함</li><li>반면 <strong>클라이언트/게이밍 사업</strong>은 메모리 가격 </li></ul></div>…",
+          "contentSnippet": "AMD가 2026년 4분기 매출 약 170억 달러를 전망함. 전망대로라면 매출 150억~160억 달러를 예상하는 Intel을 분기 매출에서 사상 처음 앞서게 됨\nEpyc 서버 CPU와 Instinct AI 가속기 수요가 성장을 이끌며 3분기 매출이 사상 최대인 133억 7,700만 달러를 기록함. 데이터센터 성장이 클라이언트 부문 감소를 상쇄하며 수익성도 개선됨\n데이터센터 매출은 전년 대비 97% 증가했고 전체 매출의 64%를 차지함. AMD는 서버 CPU와 AI 사업 확대로 2027년에는 이 비중이 80%를 넘을 것으로 예상함\n반면 클라이언트/게이밍 사업은 메모리 가격 \n\n…",
+          "id": "https://news.hada.io/topic?id=36602",
+          "isoDate": "2026-11-04T18:38:45.000Z"
+        },
+        {
+          "title": "소소한 즐거움 삼아, AI에 조금 저항하기",
+          "link": "https://news.hada.io/topic?id=36600&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-04T17:40:39.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>Ocado에 <strong>캘린더 파일 오류</strong>를 신고한 고객이 AI가 쓴 듯한 답변에 항의한 뒤, 사람이 직접 작성했다고 밝히는 사과와 후속 답변을 받음</li><li>첫 답변은 기술팀에 전달했다는 안내였지만, <strong>과도한 동조와 정형적인 문체</strong> 때문에 실제로 문제를 검토했는지 신뢰를 주지 못함</li><li>고객 만족도 설문에서 <strong>모든 항목에 별 1개</strong>를 주고 AI 응대에 항의하자, 며칠 뒤 상세한 기술 진단에 감사를 표하는 답변이 도착함</li><li>후속 답변은 문법과 문장 흐름이 덜 매끈하고 신고 내용에 반응해 <strong>더 인간적으로 느껴졌지만</strong>, 이는 신고자의 인상임</li><li><strong>문의 분류와 요약</strong>에 AI를</li></ul></div>…",
+          "contentSnippet": "Ocado에 캘린더 파일 오류를 신고한 고객이 AI가 쓴 듯한 답변에 항의한 뒤, 사람이 직접 작성했다고 밝히는 사과와 후속 답변을 받음\n첫 답변은 기술팀에 전달했다는 안내였지만, 과도한 동조와 정형적인 문체 때문에 실제로 문제를 검토했는지 신뢰를 주지 못함\n고객 만족도 설문에서 모든 항목에 별 1개를 주고 AI 응대에 항의하자, 며칠 뒤 상세한 기술 진단에 감사를 표하는 답변이 도착함\n후속 답변은 문법과 문장 흐름이 덜 매끈하고 신고 내용에 반응해 더 인간적으로 느껴졌지만, 이는 신고자의 인상임\n문의 분류와 요약에 AI를\n\n…",
+          "id": "https://news.hada.io/topic?id=36600",
+          "isoDate": "2026-11-04T17:40:39.000Z"
+        },
+        {
+          "title": "검증은 지식이 아니다: 과학에는 정답 이상의 것이 필요하다",
+          "link": "https://news.hada.io/topic?id=36599&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-04T17:37:39.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>AI가 만든 결과의 <strong>정확성</strong>만으로 과학적 가치를 판단하면, 결과를 비판하고 수정하며 지식으로 발전시키는 <strong>인간의 이해와 책임성</strong>을 놓치게 됨</li><li>이해는 정답에 덧붙이는 선택적 정신 상태가 아님. 결과가 실패했을 때 근거를 따지고 문제를 해결할 수 있는 <strong>책임지고 답할 주체</strong>가 있는지가 중요함</li><li>윤리적 가치나 사회적 가치를 과학 판단에서 배제하는 <strong>가치중립적 이상</strong>은, 올바른 절차를 대규모로 실행하면 인간의 판단 없이도 진리에 도달할 수 있다는 AI 과학 담론의 전제를 뒷받침함</li><li><strong>동료 심사와 비판</strong>은 오류를 거르는 절차에 그치지 않음</li></ul></div>…",
+          "contentSnippet": "AI가 만든 결과의 정확성만으로 과학적 가치를 판단하면, 결과를 비판하고 수정하며 지식으로 발전시키는 인간의 이해와 책임성을 놓치게 됨\n이해는 정답에 덧붙이는 선택적 정신 상태가 아님. 결과가 실패했을 때 근거를 따지고 문제를 해결할 수 있는 책임지고 답할 주체가 있는지가 중요함\n윤리적 가치나 사회적 가치를 과학 판단에서 배제하는 가치중립적 이상은, 올바른 절차를 대규모로 실행하면 인간의 판단 없이도 진리에 도달할 수 있다는 AI 과학 담론의 전제를 뒷받침함\n동료 심사와 비판은 오류를 거르는 절차에 그치지 않음\n\n…",
+          "id": "https://news.hada.io/topic?id=36599",
+          "isoDate": "2026-11-04T17:37:39.000Z"
+        },
+        {
+          "title": "GitHub Pull Requests, Git 작업 및 Issues 장애",
+          "link": "https://news.hada.io/topic?id=36598&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-04T16:42:47.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>GitHub에서 <strong>오류 증가와 간헐적 실패</strong>가 발생해 Pull Requests, Git 작업, Issues 등에서 일부 요청이 실패하거나 지연될 수 있었음</li><li>영향 범위는 <strong>API Requests와 Actions</strong>까지 포함한 5개 서비스였으며, 성능 저하와 Pull Requests 가용성 저하가 확인됨</li><li>2026년 11월 4일 <strong>11:30 UTC</strong>에 API Requests, Git 작업, Issues, Pull Requests의 장애 영향이 완화됐으며 안정성 모니터링에 들어감</li><li><strong>Actions</strong>의 성능 저하는 11:43 UTC에 완화됐고, 전체 장애는 <strong>11:50 UTC에 해결</strong>됨</li><li>상세 <strong>근본 원인 분석</strong>은 아직 공개되지 않았으며, GitHub는 준비되는 대</li></ul></div>…",
+          "contentSnippet": "GitHub에서 오류 증가와 간헐적 실패가 발생해 Pull Requests, Git 작업, Issues 등에서 일부 요청이 실패하거나 지연될 수 있었음\n영향 범위는 API Requests와 Actions까지 포함한 5개 서비스였으며, 성능 저하와 Pull Requests 가용성 저하가 확인됨\n2026년 11월 4일 11:30 UTC에 API Requests, Git 작업, Issues, Pull Requests의 장애 영향이 완화됐으며 안정성 모니터링에 들어감\nActions의 성능 저하는 11:43 UTC에 완화됐고, 전체 장애는 11:50 UTC에 해결됨\n상세 근본 원인 분석은 아직 공개되지 않았으며, GitHub는 준비되는 대\n\n…",
+          "id": "https://news.hada.io/topic?id=36598",
+          "isoDate": "2026-11-04T16:42:47.000Z"
+        },
+        {
+          "title": "미국 유권자들, 주민투표에서 데이터센터에 압도적 반대",
+          "link": "https://news.hada.io/topic?id=36597&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-04T16:39:47.000Z",
+          "author": "neo",
+          "content": "미국 유권자들, 주민투표에서 데이터센터에 압도적 반대",
+          "contentSnippet": "미국 유권자들, 주민투표에서 데이터센터에 압도적 반대",
+          "id": "https://news.hada.io/topic?id=36597",
+          "isoDate": "2026-11-04T16:39:47.000Z"
+        },
+        {
+          "title": "북한의 가짜 채용 면접이 Binance의 63억 달러 탈취로 이어짐",
+          "link": "https://news.hada.io/topic?id=36596&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-04T16:36:47.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>북한 공격자들이 <strong>가짜 채용 면접</strong>으로 Binance 소프트웨어 엔지니어의 업무용 컴퓨터에 악성코드를 실행하게 했으며, 이후 내부 시스템 침해가 <strong>63억 달러 규모 암호화폐 탈취</strong>로 이어짐</li><li>Binance의 현재 조사에 따르면 이번 사건은 단순 피싱이 아니라 공급망 공격, 사회공학, 개발 도구 변조, <strong>내부 AI 도구 침해</strong>와 단말 장악을 결합한 다단계 공격임</li><li>공격자는 면접 과제로 전달한 코드 저장소를 통해 정상 <strong>pyenv 구성요소를 악성 버전으로 교체</strong>했으며, 단말 보안 도구는 이를 즉시 탐지하지 못함</li><li>침해된 컴퓨터와 내부 AI 도구를 이용해 지</li></ul></div>…",
+          "contentSnippet": "북한 공격자들이 가짜 채용 면접으로 Binance 소프트웨어 엔지니어의 업무용 컴퓨터에 악성코드를 실행하게 했으며, 이후 내부 시스템 침해가 63억 달러 규모 암호화폐 탈취로 이어짐\nBinance의 현재 조사에 따르면 이번 사건은 단순 피싱이 아니라 공급망 공격, 사회공학, 개발 도구 변조, 내부 AI 도구 침해와 단말 장악을 결합한 다단계 공격임\n공격자는 면접 과제로 전달한 코드 저장소를 통해 정상 pyenv 구성요소를 악성 버전으로 교체했으며, 단말 보안 도구는 이를 즉시 탐지하지 못함\n침해된 컴퓨터와 내부 AI 도구를 이용해 지\n\n…",
+          "id": "https://news.hada.io/topic?id=36596",
+          "isoDate": "2026-11-04T16:36:47.000Z"
+        },
+        {
+          "title": "Kimi K3.1 Pro 가중치 공개",
+          "link": "https://news.hada.io/topic?id=36595&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-04T15:57:32.000Z",
+          "author": "unsure4000",
+          "content": "<div><p>지난달 API와 Kimi 웹등을 통해 공개되었던 K3.1 Pro의 가중치가 예정대로 공개되었습니다.<br> https://news.hada.io/topic?id=35879</p><h4><strong>GN⁺ 추가 요약</strong></h4><blockquote><p>Neo가 원문을 바탕으로 추가 정리했습니다</p></blockquote><ul><li><strong>Kimi K3.1 Pro</strong>는 텍스트와 이미지를 처리하는 공개 가중치 에이전트 모델로, 총 2.8조 파라미터와 약 100만 토큰의 컨텍스트 창을 갖춤</li><li>Kimi K3를 기반으로 수백 개의 하위 작업 영역에서 <strong>대규모 공동 강화학습</strong>을 수행했으며, 코딩, 3D 제작, 금융 연구, 사실 정확도와 에이전트 역량을 개선함</li><li><strong>MoE</strong> 구조에서 활성 파라미터는 1,040억 개이며, 장문</li></ul></div>…",
+          "contentSnippet": "지난달 API와 Kimi 웹등을 통해 공개되었던 K3.1 Pro의 가중치가 예정대로 공개되었습니다.\n https://news.hada.io/topic?id=35879\nGN⁺ 추가 요약\n\nNeo가 원문을 바탕으로 추가 정리했습니다\n\nKimi K3.1 Pro는 텍스트와 이미지를 처리하는 공개 가중치 에이전트 모델로, 총 2.8조 파라미터와 약 100만 토큰의 컨텍스트 창을 갖춤\nKimi K3를 기반으로 수백 개의 하위 작업 영역에서 대규모 공동 강화학습을 수행했으며, 코딩, 3D 제작, 금융 연구, 사실 정확도와 에이전트 역량을 개선함\nMoE 구조에서 활성 파라미터는 1,040억 개이며, 장문\n\n…",
+          "id": "https://news.hada.io/topic?id=36595",
+          "isoDate": "2026-11-04T15:57:32.000Z"
+        },
+        {
+          "title": "민주당, 미국 하원 다수당 차지",
+          "link": "https://news.hada.io/topic?id=36594&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-04T15:34:39.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>NBC News 예측</strong>에 따르면 민주당이 하원 과반 기준인 218석을 크게 웃도는 약 255석을 확보할 전망이며, 상원도 탈환해 양원을 장악할 것으로 예상됨</li><li>민주당은 다수당 탈환에 필요한 순증 3석을 넘어 공화당 현역 의원들을 대거 꺾었으며, 승리한 지역구 상당수는 <strong>2024년 Trump가 승리했던 곳</strong>임</li><li>이번 선거 결과는 강경한 이민 단속, 8개월째 이어진 이란 전쟁, 물가를 끌어올린 관세 등 <strong>Trump 정책에 대한 심판</strong>으로 널리 받아들여짐</li><li>민주당은 하원 위원회와 <strong>소환 권한</strong>을 확보해 Trump 행정부와 가족, 사업을 조사할 수 있게 되며, 세 번째</li></ul></div>…",
+          "contentSnippet": "NBC News 예측에 따르면 민주당이 하원 과반 기준인 218석을 크게 웃도는 약 255석을 확보할 전망이며, 상원도 탈환해 양원을 장악할 것으로 예상됨\n민주당은 다수당 탈환에 필요한 순증 3석을 넘어 공화당 현역 의원들을 대거 꺾었으며, 승리한 지역구 상당수는 2024년 Trump가 승리했던 곳임\n이번 선거 결과는 강경한 이민 단속, 8개월째 이어진 이란 전쟁, 물가를 끌어올린 관세 등 Trump 정책에 대한 심판으로 널리 받아들여짐\n민주당은 하원 위원회와 소환 권한을 확보해 Trump 행정부와 가족, 사업을 조사할 수 있게 되며, 세 번째\n\n…",
+          "id": "https://news.hada.io/topic?id=36594",
+          "isoDate": "2026-11-04T15:34:39.000Z"
+        },
+        {
+          "title": "제프리 힌턴: AI가 없었더라면 더 나았을 수도 있다",
           "link": "https://news.hada.io/topic?id=36593&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
           "pubDate": "2026-11-04T14:39:34.000Z",
           "author": "neo",
@@ -105,106 +205,6 @@
           "contentSnippet": "이직 오퍼를 비교할 때 쓰려고 만든 구글 시트입니다. 11년 차 개발자이고 제가 직접 만들었습니다.\n연봉, 식대(연봉 포함/별도), 성과급, 사이닝 보너스, 부양가족·자녀 수를 넣으면 현재 회사와 오퍼 두 곳의 월 실수령액, 1년차·2년차 세전 총보상, 현재 회사 대비 차이를 나란히 보여 줍니다. 링크에서 '사본 만들기'를 누르면 내 드라이브에 복사되고 바로 쓸 수 있습니다. 별도 가입이나 이메일 입력은 없고 구글 계정 로그인만 필요합니다. 입력한 값은 본인 사본에만 남습니다.\n만든 이유\n 연봉 실수령액 계산기는 많지만 대부분\n…",
           "id": "https://news.hada.io/topic?id=36583",
           "isoDate": "2026-11-04T08:52:54.000Z"
-        },
-        {
-          "title": "Jelly Sheet - 천을 드래그하고 재질과 렌더링을 조절하는 인터랙티브 데모",
-          "link": "https://news.hada.io/topic?id=36582&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-04T08:31:28.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>천을 드래그</strong>해 조작하는 데모로, 화면에는 <code>CODEVEMBER 2026 / 01 / FOLD</code>라는 제목이 표시됨</li><li><strong>스페이스 키</strong>로 일시 정지할 수 있음</li><li>설정에서 <strong>공급 속도(Feed speed)</strong> 와 <strong>굽힘 강성(Bending stiffness)</strong> 을 조절할 수 있음</li><li><strong>플라스틱 재질</strong> 설정에는 두께, 굴절, 굴절률(IOR), 색상 밀도, 거칠기가 있음</li><li><strong>색 보정</strong>과 <strong>렌더링</strong> 설정으로 노출, 대비, 채도, 색온도, GTAO 및 해상도를 조절할 수 있음</li></ul><hr><h2>조작과 동작 설정</h2><ul><li>화면 안내에 따라 <strong>천을 드래그</strong>할 수 있으며, <strong>스페이스 키</strong>는 일시 정지에 사용함</li><li>동작 관련 설정으로 <strong>공급 속도</strong>와 <strong>굽힘 강성</strong>을 제공함</li></ul></div>…",
-          "contentSnippet": "천을 드래그해 조작하는 데모로, 화면에는 CODEVEMBER 2026 / 01 / FOLD라는 제목이 표시됨\n스페이스 키로 일시 정지할 수 있음\n설정에서 공급 속도(Feed speed) 와 굽힘 강성(Bending stiffness) 을 조절할 수 있음\n플라스틱 재질 설정에는 두께, 굴절, 굴절률(IOR), 색상 밀도, 거칠기가 있음\n색 보정과 렌더링 설정으로 노출, 대비, 채도, 색온도, GTAO 및 해상도를 조절할 수 있음\n\n조작과 동작 설정\n\n화면 안내에 따라 천을 드래그할 수 있으며, 스페이스 키는 일시 정지에 사용함\n동작 관련 설정으로 공급 속도와 굽힘 강성을 제공함\n\n…",
-          "id": "https://news.hada.io/topic?id=36582",
-          "isoDate": "2026-11-04T08:31:28.000Z"
-        },
-        {
-          "title": "Show GN: 서울은 밤하늘에 별이 잘 안 보여서 그냥 만들었어요. 별자리 구경가요 eunha.io",
-          "link": "https://news.hada.io/topic?id=36581&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-04T08:12:44.000Z",
-          "author": "amebahead",
-          "content": "<div><p>지금 이 시간 서울 하늘에 떠 있는 별이 그대로 보여요.<br> 따로 설치할 것 없이 링크만 누르면 되고, 휴대폰으로도 돼요.</p><p>claude로 개발했고, 특징은</p><ul><li>지금 서울 하늘: 별 5,044개와 88개 별자리를 서울 위치와 지금 시각에 맞춰 띄워요. 행성과 달도 실제 자리에 있어요</li><li>천체망원경: 5배, 15배, 40배로 당겨 볼 수 있어요. 확대하면 맨눈으로는 안 보이는 어두운 별 3만 6천여 개가 더 나타나요</li><li>별 이야기: 별을 누르면 이름과 별자리, 밝기가 나오고, 그리스 신화나 견우직녀 같은 이야기도 함께 볼 수 있어요</li></ul><p>Three.js와 Node.js로 만들</p></div>…",
-          "contentSnippet": "지금 이 시간 서울 하늘에 떠 있는 별이 그대로 보여요.\n 따로 설치할 것 없이 링크만 누르면 되고, 휴대폰으로도 돼요.\nclaude로 개발했고, 특징은\n\n지금 서울 하늘: 별 5,044개와 88개 별자리를 서울 위치와 지금 시각에 맞춰 띄워요. 행성과 달도 실제 자리에 있어요\n천체망원경: 5배, 15배, 40배로 당겨 볼 수 있어요. 확대하면 맨눈으로는 안 보이는 어두운 별 3만 6천여 개가 더 나타나요\n별 이야기: 별을 누르면 이름과 별자리, 밝기가 나오고, 그리스 신화나 견우직녀 같은 이야기도 함께 볼 수 있어요\n\nThree.js와 Node.js로 만들\n…",
-          "id": "https://news.hada.io/topic?id=36581",
-          "isoDate": "2026-11-04T08:12:44.000Z"
-        },
-        {
-          "title": "C++26 표준안 부결 이후, Contracts 논쟁과 남은 선택지",
-          "link": "https://news.hada.io/topic?id=36576&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-04T06:33:00.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>C++26이 <strong>2026년 10월 23일 ISO 국제표준안(DIS) 투표에서 부결</strong>됨. 12주간 진행된 국가 회원기관(NB) 투표에서 필요한 3분의 2 찬성을 확보하지 못함</li><li>반대의 핵심은 <strong>Contracts</strong>로, 여러 NB가 아직 표준에 포함해 출시할 준비가 되지 않았다고 판단함</li><li>Contracts는 수년간의 검토와 여러 차례의 다수결을 거쳐 C++26에 포함됐으며, <strong>2026년 3월 WG21 초안 투표</strong>에서도 큰 찬성 다수를 확보했음</li><li>후속 선택지는 수정안의 DIS 재투표, 위원회 단계 복귀, 기술 명세 발행, 프로젝트 취소이며, <strong>어느 경로든 차기 표준이 지연</strong>되고 WG21 내 다수의 동의</li></ul></div>…",
-          "contentSnippet": "C++26이 2026년 10월 23일 ISO 국제표준안(DIS) 투표에서 부결됨. 12주간 진행된 국가 회원기관(NB) 투표에서 필요한 3분의 2 찬성을 확보하지 못함\n반대의 핵심은 Contracts로, 여러 NB가 아직 표준에 포함해 출시할 준비가 되지 않았다고 판단함\nContracts는 수년간의 검토와 여러 차례의 다수결을 거쳐 C++26에 포함됐으며, 2026년 3월 WG21 초안 투표에서도 큰 찬성 다수를 확보했음\n후속 선택지는 수정안의 DIS 재투표, 위원회 단계 복귀, 기술 명세 발행, 프로젝트 취소이며, 어느 경로든 차기 표준이 지연되고 WG21 내 다수의 동의\n\n…",
-          "id": "https://news.hada.io/topic?id=36576",
-          "isoDate": "2026-11-04T06:33:00.000Z"
-        },
-        {
-          "title": "Show GN: Nico - 오른쪽 ⌘를 누르고 말하면 대신 일을 처리하는 Mac용 개인 에이전트",
-          "link": "https://news.hada.io/topic?id=36575&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-04T06:23:44.000Z",
-          "author": "jimmyhuang2002",
-          "content": "<div><p>Nico 팀에서 개발하고 있는 Jimmy입니다. Mac용 개인 에이전트를 만들었는데, 써 보시고 피드백을 받고 싶어 올립니다.</p><p><strong>무엇인가요</strong></p><p>어느 앱에서든 오른쪽 ⌘를 누른 채 한국어로 말하고 손을 떼면, Nico가 지금 보고 있는 창을 참고해 내 Mac에서 직접 일을 처리합니다.</p><ul><li>\"이 표 엑셀로 만들어 줘\" — 지금 화면에 보이는 표를 xlsx 파일로</li><li>\"지난주에 거래처가 보낸 견적서 읽어 줘\" — 메일에서 메일과 첨부파일을 찾아 요점 정리</li><li>\"거래처 사이트에서 지난달 세금계산서 받아 줘\" — 로그인된 내 Chrome에서 내려받아 저장</li><li>\"이 채용 페이</li></ul></div>…",
-          "contentSnippet": "Nico 팀에서 개발하고 있는 Jimmy입니다. Mac용 개인 에이전트를 만들었는데, 써 보시고 피드백을 받고 싶어 올립니다.\n무엇인가요\n어느 앱에서든 오른쪽 ⌘를 누른 채 한국어로 말하고 손을 떼면, Nico가 지금 보고 있는 창을 참고해 내 Mac에서 직접 일을 처리합니다.\n\n\"이 표 엑셀로 만들어 줘\" — 지금 화면에 보이는 표를 xlsx 파일로\n\"지난주에 거래처가 보낸 견적서 읽어 줘\" — 메일에서 메일과 첨부파일을 찾아 요점 정리\n\"거래처 사이트에서 지난달 세금계산서 받아 줘\" — 로그인된 내 Chrome에서 내려받아 저장\n\"이 채용 페이\n\n…",
-          "id": "https://news.hada.io/topic?id=36575",
-          "isoDate": "2026-11-04T06:23:44.000Z"
-        },
-        {
-          "title": "PostgreSQL의 내부 구조",
-          "link": "https://news.hada.io/topic?id=36573&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-04T05:31:46.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>PostgreSQL의 각 하위 시스템이 작동하는 방식</strong>과 전체 구조를 이해하기 위한 기술 문서임</li><li>PostgreSQL은 복잡한 기능을 담당하는 여러 하위 시스템이 협력하는 거대한 시스템으로, <strong>내부 동작 이해는 운영과 시스템 통합에 중요</strong>하지만 규모와 복잡성 때문에 쉽지 않음</li><li>문서는 <strong>PostgreSQL 19-beta와 이전 버전</strong>을 다루며, 19-beta의 새로운 버퍼 페이지 잠금 메커니즘은 제외함</li><li>최근 문서 확장에는 <strong>비동기 I/O</strong>와 <strong>논리 복제</strong> 장의 베타 버전이 포함됨</li><li><strong>HTML 열람에 최적화</strong>되어 있으며, PDF와 스마트폰용 버전을 만들 계획은 없음</li></ul><hr><h2>문서의 목적과 </h2></div>…",
-          "contentSnippet": "PostgreSQL의 각 하위 시스템이 작동하는 방식과 전체 구조를 이해하기 위한 기술 문서임\nPostgreSQL은 복잡한 기능을 담당하는 여러 하위 시스템이 협력하는 거대한 시스템으로, 내부 동작 이해는 운영과 시스템 통합에 중요하지만 규모와 복잡성 때문에 쉽지 않음\n문서는 PostgreSQL 19-beta와 이전 버전을 다루며, 19-beta의 새로운 버퍼 페이지 잠금 메커니즘은 제외함\n최근 문서 확장에는 비동기 I/O와 논리 복제 장의 베타 버전이 포함됨\nHTML 열람에 최적화되어 있으며, PDF와 스마트폰용 버전을 만들 계획은 없음\n\n문서의 목적과 \n…",
-          "id": "https://news.hada.io/topic?id=36573",
-          "isoDate": "2026-11-04T05:31:46.000Z"
-        },
-        {
-          "title": "Show GN: 코딩하다 자세가 흐트러지면 거북이가 알려주는 앱, 모꼬 (Mac, Windows)",
-          "link": "https://news.hada.io/topic?id=36572&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-04T04:55:48.000Z",
-          "author": "kwan03240324",
-          "content": "<div><p>안녕하세요. 컴퓨터 앞에서 자세가 흐트러지면 거북이가 알려주는 무료 앱, 모꼬(Mokko)를 만들었습니다.<br> 처음에는 반듯하게 앉아 있어도 코딩이나 문서 작업에 집중하다 보면 어느새 고개가 앞으로 나오거나 몸이 아래로 내려갑니다. 그 순간을 알아차릴 수 있게 해주는 앱입니다.</p><p>사용 방법은 간단합니다.<br> 웹캠에 얼굴과 양쪽 어깨가 보이도록 앉습니다.<br> 좋은 자세를 5초 동안 유지해 기준으로 저장합니다.<br> 저장한 자세에서 일정 수준 이상 변화한 상태가 이어지면 화면에 거북이가 나타나 알려줍니다.</p><p>알림 기준과 지속 시간을 조</p></div>…",
-          "contentSnippet": "안녕하세요. 컴퓨터 앞에서 자세가 흐트러지면 거북이가 알려주는 무료 앱, 모꼬(Mokko)를 만들었습니다.\n 처음에는 반듯하게 앉아 있어도 코딩이나 문서 작업에 집중하다 보면 어느새 고개가 앞으로 나오거나 몸이 아래로 내려갑니다. 그 순간을 알아차릴 수 있게 해주는 앱입니다.\n사용 방법은 간단합니다.\n 웹캠에 얼굴과 양쪽 어깨가 보이도록 앉습니다.\n 좋은 자세를 5초 동안 유지해 기준으로 저장합니다.\n 저장한 자세에서 일정 수준 이상 변화한 상태가 이어지면 화면에 거북이가 나타나 알려줍니다.\n알림 기준과 지속 시간을 조\n…",
-          "id": "https://news.hada.io/topic?id=36572",
-          "isoDate": "2026-11-04T04:55:48.000Z"
-        },
-        {
-          "title": "NIKKE PC 런처 침해 사고",
-          "link": "https://news.hada.io/topic?id=36571&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-04T04:26:17.000Z",
-          "author": "hi098123",
-          "content": "<div><h3>1. 공격 요약</h3><p>2026년 9월 27일부터 Level Infinite가 운영하는 CDN의 공식 JavaScript 파일 4개에 공격자 코드가 삽입된 정황이 확인됐다. NIKKE PC 런처는 해당 파일을 정상 구성 요소로 로드하기 때문에, 변조된 파일을 받은 런처를 실행하면 외부 스크립트를 추가로 불러오고 원격 제어 에이전트를 설치할 수 있었다.</p><p>공격자는 감염된 시스템에서 임의 명령 실행, 파일 열람·수집, 모니터 캡처, 브라우저 저장 비밀번호 및 세션 정보 수집, 개발자 도구 자격 증명과 SSH 키·클라우드 토큰·암호화폐 지갑 데이터 수집 등을 수행할 수 있었다. Windows에서는 Chrome 로딩 경로를 악용한 DLL 지속성도 설치할 수 있었다.</p></div>…",
-          "contentSnippet": "1. 공격 요약\n2026년 9월 27일부터 Level Infinite가 운영하는 CDN의 공식 JavaScript 파일 4개에 공격자 코드가 삽입된 정황이 확인됐다. NIKKE PC 런처는 해당 파일을 정상 구성 요소로 로드하기 때문에, 변조된 파일을 받은 런처를 실행하면 외부 스크립트를 추가로 불러오고 원격 제어 에이전트를 설치할 수 있었다.\n공격자는 감염된 시스템에서 임의 명령 실행, 파일 열람·수집, 모니터 캡처, 브라우저 저장 비밀번호 및 세션 정보 수집, 개발자 도구 자격 증명과 SSH 키·클라우드 토큰·암호화폐 지갑 데이터 수집 등을 수행할 수 있었다. Windows에서는 Chrome 로딩 경로를 악용한 DLL 지속성도 설치할 수 있었다.\n…",
-          "id": "https://news.hada.io/topic?id=36571",
-          "isoDate": "2026-11-04T04:26:17.000Z"
-        },
-        {
-          "title": "Flipper One Kickstarter 준비와 사전 주문 개시",
-          "link": "https://news.hada.io/topic?id=36569&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-04T03:33:05.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>Flipper One</strong>은 Wi-Fi 6E와 기가비트 이더넷을 내장한 ARM 기반 오픈 Linux 컴퓨터이자 네트워크 멀티툴로, 사전 주문이 시작됨</li><li><strong>메인라인 Linux</strong>와 완전한 업스트림 지원을 지향하며, Collabora와 함께 RK3576 지원을 메인라인 커널에 통합하고 바이너리 블롭 의존성을 없애는 작업을 진행 중임</li><li><strong>RP2350과 RK3576의 이중 프로세서 구조</strong>로 기기 제어와 Linux 실행을 분리해, Linux 커널이 준비되지 않았거나 꺼져 있어도 내장 화면에서 Linux 하위 시스템을 제어할 수 있음</li><li><strong>최대 5개 업링크</strong>를 사용하는 멀티 WAN 구성, 라우팅과 장애 조치, 부</li></ul></div>…",
-          "contentSnippet": "Flipper One은 Wi-Fi 6E와 기가비트 이더넷을 내장한 ARM 기반 오픈 Linux 컴퓨터이자 네트워크 멀티툴로, 사전 주문이 시작됨\n메인라인 Linux와 완전한 업스트림 지원을 지향하며, Collabora와 함께 RK3576 지원을 메인라인 커널에 통합하고 바이너리 블롭 의존성을 없애는 작업을 진행 중임\nRP2350과 RK3576의 이중 프로세서 구조로 기기 제어와 Linux 실행을 분리해, Linux 커널이 준비되지 않았거나 꺼져 있어도 내장 화면에서 Linux 하위 시스템을 제어할 수 있음\n최대 5개 업링크를 사용하는 멀티 WAN 구성, 라우팅과 장애 조치, 부\n\n…",
-          "id": "https://news.hada.io/topic?id=36569",
-          "isoDate": "2026-11-04T03:33:05.000Z"
-        },
-        {
-          "title": "Show HN: HackerTV - HN에서 가장 많이 추천된 YouTube 영상을 24시간 TV 채널로 방송",
-          "link": "https://news.hada.io/topic?id=36568&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-04T02:30:57.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>HackerTV</strong>는 Hacker News에서 거듭 추천되는 YouTube 영상을 채널별로 24시간 방송하는 서비스임</li><li>모든 시청자에게 <strong>동일한 편성표</strong>를 적용함</li><li>YouTube 메타데이터를 가져오기 전까지는 <strong>영상 길이를 추정</strong>하므로 실제 재생 시간과 편성이 어긋날 수 있음</li><li>일부 프로그램은 일찍 끝나 <strong>대기 화면</strong>이 나오거나, 끝까지 재생되지 않고 잘릴 수 있음</li><li><strong>키보드 단축키</strong>로 채널 선택, 편성표, 음소거, 자막 등을 조작하며 화면을 더블클릭하면 전체 화면으로 전환함</li></ul><hr><h2>방송 방식과 재생 제약</h2><ul><li><strong>HackerTV</strong>는 Hacker News에서 반복적으로 추천되는 YouTube 영상을 </li></ul></div>…",
-          "contentSnippet": "HackerTV는 Hacker News에서 거듭 추천되는 YouTube 영상을 채널별로 24시간 방송하는 서비스임\n모든 시청자에게 동일한 편성표를 적용함\nYouTube 메타데이터를 가져오기 전까지는 영상 길이를 추정하므로 실제 재생 시간과 편성이 어긋날 수 있음\n일부 프로그램은 일찍 끝나 대기 화면이 나오거나, 끝까지 재생되지 않고 잘릴 수 있음\n키보드 단축키로 채널 선택, 편성표, 음소거, 자막 등을 조작하며 화면을 더블클릭하면 전체 화면으로 전환함\n\n방송 방식과 재생 제약\n\nHackerTV는 Hacker News에서 반복적으로 추천되는 YouTube 영상을 \n\n…",
-          "id": "https://news.hada.io/topic?id=36568",
-          "isoDate": "2026-11-04T02:30:57.000Z"
-        },
-        {
-          "title": "OpenAI, 버그 바운티 보상금 최대 약 2.3억원으로 인상",
-          "link": "https://news.hada.io/topic?id=36567&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-04T02:30:02.000Z",
-          "author": "xguru",
-          "content": "<div><ul><li>OpenAI가 독립 보안 연구자의 <strong>취약점 발견을 장려</strong>하기 위해 버그 바운티 보상 체계를 대폭 개편함</li><li>중간/높음·/명적 취약점의 보상금 범위 중간값을 <strong>평균 4배 이상 인상</strong>함</li><li>ChatGPT, Codex, API 플랫폼 등 핵심 제품의 치명적 취약점에는 기본 보상금 최대 <strong>$30k(4천만원)</strong> 을 지급</li><li>특별히 중대한 취약점은 기존처럼 $100k(약 1.3억)를 지급하며, 보너스 포함 시 <strong>$172k(약 2.3억)</strong> 까지 받을 수 있음</li><li>기본 보상금 외에 세 가지 <strong>추가 보너스 제도를 도입</strong>함 <ul><li><strong>품질</strong> 보너스: 취약점 재현, 악용 조건, 영향을 명확하게 입증한 보고서에 추가 보상</li><li><strong>로</strong></li></ul></li></ul></div>…",
-          "contentSnippet": "OpenAI가 독립 보안 연구자의 취약점 발견을 장려하기 위해 버그 바운티 보상 체계를 대폭 개편함\n중간/높음·/명적 취약점의 보상금 범위 중간값을 평균 4배 이상 인상함\nChatGPT, Codex, API 플랫폼 등 핵심 제품의 치명적 취약점에는 기본 보상금 최대 $30k(4천만원) 을 지급\n특별히 중대한 취약점은 기존처럼 $100k(약 1.3억)를 지급하며, 보너스 포함 시 $172k(약 2.3억) 까지 받을 수 있음\n기본 보상금 외에 세 가지 추가 보너스 제도를 도입함 \n품질 보너스: 취약점 재현, 악용 조건, 영향을 명확하게 입증한 보고서에 추가 보상\n로\n\n\n…",
-          "id": "https://news.hada.io/topic?id=36567",
-          "isoDate": "2026-11-04T02:30:02.000Z"
         }
       ]
     },
@@ -381,235 +381,235 @@
       "category": "news",
       "data": [
         {
-          "creator": "최지원",
-          "title": "크렘린궁, 미 중간선거 결과에 \"트럼프, 평화 유지노력 계속해주길\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR2026110501151768s",
-          "pubDate": "Thu, 05 Nov 2026 01:15:18 +0900",
-          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261104/AKR2026110501151768s_01_i.jpg\" alt=\"\"><span class=\"yna_title\">UKRAINE-CRISIS/PUTIN-TRUMP</span><span class=\"yna_caption\">FILE PHOTO: U.S. President Donald Trump and Russia's President Vladimir Putin shake hands as they meet in Helsinki, Finland July 16, 2018. REUTERS/Kevin Lamarque/File Photo\n\n\n\n<Copyright (c) Yonhap News Agency prohibits its content from being redistributed or reprinted without consent, and forbids the content from being learned and used by artificial intelligence systems.></span><span class=\"yna_description\">FILE PHOTO: U.S. President Donald Trump and Russia's President Vladimir Putin shake hands as they meet in Helsinki, Finland July 16, 2018. REUTERS/Kevin Lamarque/File Photo\n\n\n\n<Copyright (c) Yonhap News Agency prohibits its content from being redistributed or reprinted without consent, and forbids the content from being learned and used by artificial intelligence systems.></span></div>\n미국 중간선거 결과로 미국 상하원이 모두 '여소야대'가 될 것으로 보이자 러시아는 도널드 트럼프 미국 대통령을 향해 \"평화 유지 노력을 계속해주기를 바란다\"고 했습니다.\n\n드미트리 페스코프 러시아 크렘린궁 대변인은 현지시간 4일 러시아 매체 라이프와의 인터뷰에서 \"트럼프 대통령은 자신의 임기를 계속 수행하고 있다\"며 이같이 말했습니다.\n\n페스코프 대변인은 트럼프 대통령이 이번 투표 결과나 미국 의회 내 정치 구도의 변화와 관계없이 중재자 역할을 유지해주기를 기대한다고 언급했습니다.\n\n이어 미국 의회가 트럼프 대통령의 외교 행보를 막아설 가능성에 대해 질문받자, \"미국 선거와 그 결과는 내정 문제\"라며 신중한 태도를 보였습니다.\n\n타스통신은 페스코프 대변인이 브리핑에서도 오는 10일 아랍에미리트 아부다비에서 열릴 예정인 미국과 러시아, 우크라이나 간 3자 회담도 미국의 중간선거와 관계가 없다고 선을 그었다고 보도했습니다.\n\n#미국 #중간선거 #러시아\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
-          "content:encodedSnippet": "UKRAINE-CRISIS/PUTIN-TRUMPFILE PHOTO: U.S. President Donald Trump and Russia's President Vladimir Putin shake hands as they meet in Helsinki, Finland July 16, 2018. REUTERS/Kevin Lamarque/File Photo\n\n\n\nFILE PHOTO: U.S. President Donald Trump and Russia's President Vladimir Putin shake hands as they meet in Helsinki, Finland July 16, 2018. REUTERS/Kevin Lamarque/File Photo\n\n\n\n\n미국 중간선거 결과로 미국 상하원이 모두 '여소야대'가 될 것으로 보이자 러시아는 도널드 트럼프 미국 대통령을 향해 \"평화 유지 노력을 계속해주기를 바란다\"고 했습니다.\n\n드미트리 페스코프 러시아 크렘린궁 대변인은 현지시간 4일 러시아 매체 라이프와의 인터뷰에서 \"트럼프 대통령은 자신의 임기를 계속 수행하고 있다\"며 이같이 말했습니다.\n\n페스코프 대변인은 트럼프 대통령이 이번 투표 결과나 미국 의회 내 정치 구도의 변화와 관계없이 중재자 역할을 유지해주기를 기대한다고 언급했습니다.\n\n이어 미국 의회가 트럼프 대통령의 외교 행보를 막아설 가능성에 대해 질문받자, \"미국 선거와 그 결과는 내정 문제\"라며 신중한 태도를 보였습니다.\n\n타스통신은 페스코프 대변인이 브리핑에서도 오는 10일 아랍에미리트 아부다비에서 열릴 예정인 미국과 러시아, 우크라이나 간 3자 회담도 미국의 중간선거와 관계가 없다고 선을 그었다고 보도했습니다.\n\n#미국 #중간선거 #러시아\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
+          "creator": "송채은",
+          "title": "[속보] 美중간선거 끝나자 다우지수 3% 급등…18개월만에 최대폭 상승",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR202611050605458CH",
+          "pubDate": "Thu, 05 Nov 2026 06:05:46 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261104/AKR202611050605458CH_01_i.jpg\" alt=\"\"><span class=\"yna_title\">연합뉴스TV 속보(CG)</span><span class=\"yna_caption\"></span><span class=\"yna_description\"></span></div>\n\n\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n송채은(chaeun@yna.co.kr)",
+          "content:encodedSnippet": "연합뉴스TV 속보(CG)\n\n\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n송채은(chaeun@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261104/AKR2026110501151768s_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261104/AKR202611050605458CH_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "최지원",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR2026110501151768s#comments",
-          "content": "UKRAINE-CRISIS/PUTIN-TRUMPFILE PHOTO: U.S. President Donald Trump and Russia's President Vladimir Putin shake hands as they meet in Helsinki, Finland July 16, 2018. REUTERS/Kevin Lamarque/File Photo FILE PHOTO: U.S. President Donald Trump and Russ...",
-          "contentSnippet": "UKRAINE-CRISIS/PUTIN-TRUMPFILE PHOTO: U.S. President Donald Trump and Russia's President Vladimir Putin shake hands as they meet in Helsinki, Finland July 16, 2018. REUTERS/Kevin Lamarque/File Photo FILE PHOTO: U.S. President Donald Trump and Russ...",
-          "guid": "AKR2026110501151768s",
+          "dc:creator": "송채은",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR202611050605458CH#comments",
+          "content": "연합뉴스TV 속보(CG) 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 송채은(chaeun@yna.co.kr)",
+          "contentSnippet": "연합뉴스TV 속보(CG) 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 송채은(chaeun@yna.co.kr)",
+          "guid": "AKR202611050605458CH",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-04T16:15:18.000Z"
+          "isoDate": "2026-11-04T21:05:46.000Z"
         },
         {
-          "creator": "오주현",
-          "title": "성평등부 \"'동성애는 비행' 상담 매뉴얼 수정\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261105004612wDc",
-          "pubDate": "Thu, 05 Nov 2026 00:46:14 +0900",
-          "content:encoded": "동성애를 청소년 비행 유형으로 분류한 위기청소년 상담 매뉴얼이 논란이 되자, 성평등가족부가 이를 즉시 수정하기로 했습니다.\n\n성평등부는 \"성소수자를 비행 유형으로 분류한 부분으로 인해 성소수자 청소년과 관계자에게 불편과 심려를 끼친 점에 대해 안타깝게 생각한다\"며 이같이 밝혔습니다.\n\n앞서 성평등부 산하 청소년상담복지개발원이 위기청소년 상담·지원 전문가를 위해 배포한 매뉴얼에 동성애를 성폭력, 도벽, 약물 등과 함께 비행 관련 문제로 기재한 사실이 알려져 논란이 일었습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n오주현(viva5@yna.co.kr)",
-          "content:encodedSnippet": "동성애를 청소년 비행 유형으로 분류한 위기청소년 상담 매뉴얼이 논란이 되자, 성평등가족부가 이를 즉시 수정하기로 했습니다.\n\n성평등부는 \"성소수자를 비행 유형으로 분류한 부분으로 인해 성소수자 청소년과 관계자에게 불편과 심려를 끼친 점에 대해 안타깝게 생각한다\"며 이같이 밝혔습니다.\n\n앞서 성평등부 산하 청소년상담복지개발원이 위기청소년 상담·지원 전문가를 위해 배포한 매뉴얼에 동성애를 성폭력, 도벽, 약물 등과 함께 비행 관련 문제로 기재한 사실이 알려져 논란이 일었습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n오주현(viva5@yna.co.kr)",
+          "creator": "정영빈",
+          "title": "美 휩쓴 '블루쓰나미'…민주, 트럼프 강력 견제 예고",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261105060242yiq",
+          "pubDate": "Thu, 05 Nov 2026 06:02:43 +0900",
+          "content:encoded": "[앵커]\n\n이번 미국 중간선거 결과는 말 그대로 민주당의 압승이었습니다.\n\n상하원 모두 다수당을 탈환하며 의회 권력을 손에 쥐게 된 민주당은 트럼프 대통령의 국정운영에 대한 강력한 견제를 예고했는데요, 워싱턴 연결해 자세한 내용 들어보겠습니다.\n\n정영빈 특파원.\n\n[기자]\n\n네, 워싱턴입니다.\n\n이번 선거 결과는 민주당의 상하원 승리를 뜻하는 '블루웨이브'를 넘어서, 압도적 승리를 의미하는 '블루쓰나미'였습니다.\n\n현재 이곳 시간은 선거 다음 날 오후 4시를 향해 가고 있는데요.\n\n지금까지 개표 결과를 보면 상원의 경우 민주당이 과반을 넘는 54석을 확보한 것으로 나타났습니다.\n\n공화당은 44석에 불과한 상황인데요.\n\n아직까지 미시시피와 알래스카 결과가 남아있긴 하지만 두 지역 모두 민주당 후보가 앞서고 있는 만큼, 민주당이 최대 56석까지도 확보할 수 있을 것으로 예상됩니다.\n\n이번 상원 선거의 승패를 좌우할 것으로 전망됐던 7개 경합주 중에서 최소 6곳을 확보한 영향이 컸습니다.\n\n하원 역시 민주당이 현재까지 과반인 218석을 넘는 240석을 확보했는데요.\n\n미국 언론들은 250석 이상을 차지할 것으로 전망하고 있습니다.\n\n민주당은 의회 권력 뿐 아니라 지방 권력도 탈환했는데요.\n\n20년 만에 주지사직에서 과반을 차지했습니다.\n\n지난 2년 간 트럼프 대통령의 일방적인 국정 운영에 미국 유권자들이 강력한 제동을 건 셈인데요.\n\n이에 민주당은 향후 트럼프 대통령을 겨냥한 강도높은 견제를 예고했습니다.\n\n척 슈머 민주당 상원 원내대표 발언입니다.\n\n&lt;척 슈머 / 미국 민주당 상원 원내대표&gt; \"트럼프가 미국 국민 뜻이나 법률을 거스를 때마다 우리는 조사를 개시하고, 그를 법정으로 끌고 갈 것이며, 입법이라는 면도날 철조망으로 옭아맬 것입니다. 트럼프 앞에 굽신거리던 상원의 시대는 끝났습니다.\"\n\n차기 하원의장에 유력한 하킴 제프리스 하원 원내대표는 트럼프 대통령과 측근들의 부패에 반드시 책임을 묻겠다고 선언했습니다.\n\n다만 정치적 보복보다는 미국 국민들의 삶이 더 나아지도록 할 것이라고 강조했습니다.\n\n직접 들어보시죠.\n\n&lt;하킴 제프리스 / 미국 민주당 하원 원내대표&gt; \"하원 민주당은 임기 첫날부터 국민 여러분의 삶을 더 나아지게 만드는 데 헌신할 것입니다. 지금은 당파적 이익을 따질 때가 아닙니다. 애국심으로 하나가 되어야 할 순간입니다.\"\n\n이번 선거의 핵심 쟁점으로는 생활비와 의료서비스, 이란 전쟁 등 3가지를 꼽았는데요.\n\n특히 내년 1월 새로운 의회가 출범하기 전에 이란 전쟁을 끝내는 것이 중요하다고 강조했습니다.\n\n[앵커]\n\n민주당과 협력할 것이라며 패배를 인정한 트럼프 대통령은 선거 이후 첫 공개 행보에 나섰다면서요?\n\n[기자]\n\n네, 공화당이 중간선거에서 대패한 후 트럼프 대통령의 첫 공식일정은 백악관 연회장 건설현장 방문이었습니다.\n\n이번 패배가 아무 일도 아닌 것처럼 연회장 상량식 행사에 참석한 트럼프 대통령은 약 20분 동안 연회장 규모와 안정성을 자랑했는데요.\n\n뒤이어 진행된 취재진과의 질의 응답에선 재차 이번 선거 패배의 책임을 후보들에게 돌렸습니다.\n\n직접 들어보시죠\n\n&lt;도널드 트럼프 / 미국 대통령&gt; \"제가 투표용지에 이름이 올라가 있었다면 우리는 이겼을 겁니다. 매 유세마다 수천, 수만 명의 사람들이 모여든 걸 직접 보셨잖아요. 제가 후보로 나섰다면 우리는 무조건 이겼을 겁니다.\"\n\n이란 전쟁이 패배의 원인이라는 지적도 인정했는데요.\n\n트럼프 대통령은 단기적으로 휘발유 가격이 올랐으니 대체적으로 맞는 말이라면서도 다만 다시 하라고 해도 또 할 것이라며 이란전 정당성을 강조했습니다.\n\n이란 전쟁 때문에 패배했다며 조속한 전쟁 종식을 촉구한 JD밴스 부통령 발언과는 온도차가 느껴지는 대목입니다.\n\n트럼프 대통령은 민주당의 탄핵 추진 가능성을 묻는 질문에 발끈하는 모습도 보였는데요.\n\n트럼프 대통령 발언입니다.\n\n&lt;도널드 트럼프 / 미국 대통령&gt; \"민주당이 탄핵을 추진한다면 그들 스스로 파멸하게 될 것입니다. 나라를 역사상 그 어느 때보다 성공적으로 이끌고 있는데 아무 이유도 없이 탄핵하겠다는 겁니까?\"\n\n트럼프 대통령은 민주당과 잘 지낼 것이라면서도 자신에게는 거부권이 있다는 점을 재차 강조하기도 했습니다.\n\n[앵커]\n\n일각에서는 이번 중간선거 참패로 입지가 좁아진 트럼프 대통령이 대외정책 분야에서 폭주할 수 있다는 우려도 나오고 있다고요?\n\n[기자]\n\n네 그렇습니다.\n\n무엇보다 이란에 대한 대규모 군사공격을 재개할 가능성이 거론됩니다.\n\n트럼프 대통령은 그동안 중간선거를 앞두고 유가에 미치는 영향을 최소화 하기 위해 이란에 대한 군사공격을 중단한 상태였는데요.\n\n중간선거가 마무리된 만큼 재차 군사 공격 카드를 꺼내들 수 있습니다.\n\n실제 하메네이 이란 최고지도자는 이번 중간선거 결과로 미국의 행동이 바뀔 것이라고 기대하는 것은 착각이라고 주장했는데요\n\n그러면서 미국이 이란에 대한 공격을 재개하면 중동전쟁이 훨씬 확대될 것이라고 경고했습니다.\n\n관세 부과 정책을 더 적극적으로 펼 수 있다는 전망도 나옵니다.\n\n뉴욕타임스는 트럼프 대통령이 관세 부과에 공세적으로 나설 수 있다며 일본과 중국, 베트남 등이 추가 관세 대상이 될 가능성이 크다고 내다봤습니다.\n\n또 트럼프 대통령이 외교적 성과를 위해 김정은 국무위원장과 북미회담재개에 나설 것이라는 관측도 끊이지 않고 있습니다.\n\n지금까지 워싱턴에서 연합뉴스TV 정영빈입니다.\n\n[현장연결 유미선]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정영빈(jyb21@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n이번 미국 중간선거 결과는 말 그대로 민주당의 압승이었습니다.\n\n상하원 모두 다수당을 탈환하며 의회 권력을 손에 쥐게 된 민주당은 트럼프 대통령의 국정운영에 대한 강력한 견제를 예고했는데요, 워싱턴 연결해 자세한 내용 들어보겠습니다.\n\n정영빈 특파원.\n\n[기자]\n\n네, 워싱턴입니다.\n\n이번 선거 결과는 민주당의 상하원 승리를 뜻하는 '블루웨이브'를 넘어서, 압도적 승리를 의미하는 '블루쓰나미'였습니다.\n\n현재 이곳 시간은 선거 다음 날 오후 4시를 향해 가고 있는데요.\n\n지금까지 개표 결과를 보면 상원의 경우 민주당이 과반을 넘는 54석을 확보한 것으로 나타났습니다.\n\n공화당은 44석에 불과한 상황인데요.\n\n아직까지 미시시피와 알래스카 결과가 남아있긴 하지만 두 지역 모두 민주당 후보가 앞서고 있는 만큼, 민주당이 최대 56석까지도 확보할 수 있을 것으로 예상됩니다.\n\n이번 상원 선거의 승패를 좌우할 것으로 전망됐던 7개 경합주 중에서 최소 6곳을 확보한 영향이 컸습니다.\n\n하원 역시 민주당이 현재까지 과반인 218석을 넘는 240석을 확보했는데요.\n\n미국 언론들은 250석 이상을 차지할 것으로 전망하고 있습니다.\n\n민주당은 의회 권력 뿐 아니라 지방 권력도 탈환했는데요.\n\n20년 만에 주지사직에서 과반을 차지했습니다.\n\n지난 2년 간 트럼프 대통령의 일방적인 국정 운영에 미국 유권자들이 강력한 제동을 건 셈인데요.\n\n이에 민주당은 향후 트럼프 대통령을 겨냥한 강도높은 견제를 예고했습니다.\n\n척 슈머 민주당 상원 원내대표 발언입니다.\n\n<척 슈머 / 미국 민주당 상원 원내대표> \"트럼프가 미국 국민 뜻이나 법률을 거스를 때마다 우리는 조사를 개시하고, 그를 법정으로 끌고 갈 것이며, 입법이라는 면도날 철조망으로 옭아맬 것입니다. 트럼프 앞에 굽신거리던 상원의 시대는 끝났습니다.\"\n\n차기 하원의장에 유력한 하킴 제프리스 하원 원내대표는 트럼프 대통령과 측근들의 부패에 반드시 책임을 묻겠다고 선언했습니다.\n\n다만 정치적 보복보다는 미국 국민들의 삶이 더 나아지도록 할 것이라고 강조했습니다.\n\n직접 들어보시죠.\n\n<하킴 제프리스 / 미국 민주당 하원 원내대표> \"하원 민주당은 임기 첫날부터 국민 여러분의 삶을 더 나아지게 만드는 데 헌신할 것입니다. 지금은 당파적 이익을 따질 때가 아닙니다. 애국심으로 하나가 되어야 할 순간입니다.\"\n\n이번 선거의 핵심 쟁점으로는 생활비와 의료서비스, 이란 전쟁 등 3가지를 꼽았는데요.\n\n특히 내년 1월 새로운 의회가 출범하기 전에 이란 전쟁을 끝내는 것이 중요하다고 강조했습니다.\n\n[앵커]\n\n민주당과 협력할 것이라며 패배를 인정한 트럼프 대통령은 선거 이후 첫 공개 행보에 나섰다면서요?\n\n[기자]\n\n네, 공화당이 중간선거에서 대패한 후 트럼프 대통령의 첫 공식일정은 백악관 연회장 건설현장 방문이었습니다.\n\n이번 패배가 아무 일도 아닌 것처럼 연회장 상량식 행사에 참석한 트럼프 대통령은 약 20분 동안 연회장 규모와 안정성을 자랑했는데요.\n\n뒤이어 진행된 취재진과의 질의 응답에선 재차 이번 선거 패배의 책임을 후보들에게 돌렸습니다.\n\n직접 들어보시죠\n\n<도널드 트럼프 / 미국 대통령> \"제가 투표용지에 이름이 올라가 있었다면 우리는 이겼을 겁니다. 매 유세마다 수천, 수만 명의 사람들이 모여든 걸 직접 보셨잖아요. 제가 후보로 나섰다면 우리는 무조건 이겼을 겁니다.\"\n\n이란 전쟁이 패배의 원인이라는 지적도 인정했는데요.\n\n트럼프 대통령은 단기적으로 휘발유 가격이 올랐으니 대체적으로 맞는 말이라면서도 다만 다시 하라고 해도 또 할 것이라며 이란전 정당성을 강조했습니다.\n\n이란 전쟁 때문에 패배했다며 조속한 전쟁 종식을 촉구한 JD밴스 부통령 발언과는 온도차가 느껴지는 대목입니다.\n\n트럼프 대통령은 민주당의 탄핵 추진 가능성을 묻는 질문에 발끈하는 모습도 보였는데요.\n\n트럼프 대통령 발언입니다.\n\n<도널드 트럼프 / 미국 대통령> \"민주당이 탄핵을 추진한다면 그들 스스로 파멸하게 될 것입니다. 나라를 역사상 그 어느 때보다 성공적으로 이끌고 있는데 아무 이유도 없이 탄핵하겠다는 겁니까?\"\n\n트럼프 대통령은 민주당과 잘 지낼 것이라면서도 자신에게는 거부권이 있다는 점을 재차 강조하기도 했습니다.\n\n[앵커]\n\n일각에서는 이번 중간선거 참패로 입지가 좁아진 트럼프 대통령이 대외정책 분야에서 폭주할 수 있다는 우려도 나오고 있다고요?\n\n[기자]\n\n네 그렇습니다.\n\n무엇보다 이란에 대한 대규모 군사공격을 재개할 가능성이 거론됩니다.\n\n트럼프 대통령은 그동안 중간선거를 앞두고 유가에 미치는 영향을 최소화 하기 위해 이란에 대한 군사공격을 중단한 상태였는데요.\n\n중간선거가 마무리된 만큼 재차 군사 공격 카드를 꺼내들 수 있습니다.\n\n실제 하메네이 이란 최고지도자는 이번 중간선거 결과로 미국의 행동이 바뀔 것이라고 기대하는 것은 착각이라고 주장했는데요\n\n그러면서 미국이 이란에 대한 공격을 재개하면 중동전쟁이 훨씬 확대될 것이라고 경고했습니다.\n\n관세 부과 정책을 더 적극적으로 펼 수 있다는 전망도 나옵니다.\n\n뉴욕타임스는 트럼프 대통령이 관세 부과에 공세적으로 나설 수 있다며 일본과 중국, 베트남 등이 추가 관세 대상이 될 가능성이 크다고 내다봤습니다.\n\n또 트럼프 대통령이 외교적 성과를 위해 김정은 국무위원장과 북미회담재개에 나설 것이라는 관측도 끊이지 않고 있습니다.\n\n지금까지 워싱턴에서 연합뉴스TV 정영빈입니다.\n\n[현장연결 유미선]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정영빈(jyb21@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261104/MYH20261105004612wDc.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261104/MYH20261105060242yiq.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "오주현",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261105004612wDc#comments",
-          "content": "동성애를 청소년 비행 유형으로 분류한 위기청소년 상담 매뉴얼이 논란이 되자, 성평등가족부가 이를 즉시 수정하기로 했습니다. 성평등부는 \"성소수자를 비행 유형으로 분류한 부분으로 인해 성소수자 청소년과 관계자에게 불편과 심려를 끼친 점에 대해 안타깝게 생각한다\"며 이같이 밝혔습니다. 앞서 성평등부 산하 청소년상담복지개발원이 위기청소년 상담·지원 전문가를 위해 배포한 매뉴얼에 동성애를 성폭력, 도벽, 약물 등과 함께 비행 관련 문제로 기재한 ...",
-          "contentSnippet": "동성애를 청소년 비행 유형으로 분류한 위기청소년 상담 매뉴얼이 논란이 되자, 성평등가족부가 이를 즉시 수정하기로 했습니다. 성평등부는 \"성소수자를 비행 유형으로 분류한 부분으로 인해 성소수자 청소년과 관계자에게 불편과 심려를 끼친 점에 대해 안타깝게 생각한다\"며 이같이 밝혔습니다. 앞서 성평등부 산하 청소년상담복지개발원이 위기청소년 상담·지원 전문가를 위해 배포한 매뉴얼에 동성애를 성폭력, 도벽, 약물 등과 함께 비행 관련 문제로 기재한 ...",
-          "guid": "MYH20261105004612wDc",
+          "dc:creator": "정영빈",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261105060242yiq#comments",
+          "content": "[앵커] 이번 미국 중간선거 결과는 말 그대로 민주당의 압승이었습니다. 상하원 모두 다수당을 탈환하며 의회 권력을 손에 쥐게 된 민주당은 트럼프 대통령의 국정운영에 대한 강력한 견제를 예고했는데요, 워싱턴 연결해 자세한 내용 들어보겠습니다. 정영빈 특파원. [기자] 네, 워싱턴입니다. 이번 선거 결과는 민주당의 상하원 승리를 뜻하는 '블루웨이브'를 넘어서, 압도적 승리를 의미하는 '블루쓰나미'였습니다. 현재 이곳 시간은 선거 다음 날 오후...",
+          "contentSnippet": "[앵커] 이번 미국 중간선거 결과는 말 그대로 민주당의 압승이었습니다. 상하원 모두 다수당을 탈환하며 의회 권력을 손에 쥐게 된 민주당은 트럼프 대통령의 국정운영에 대한 강력한 견제를 예고했는데요, 워싱턴 연결해 자세한 내용 들어보겠습니다. 정영빈 특파원. [기자] 네, 워싱턴입니다. 이번 선거 결과는 민주당의 상하원 승리를 뜻하는 '블루웨이브'를 넘어서, 압도적 승리를 의미하는 '블루쓰나미'였습니다. 현재 이곳 시간은 선거 다음 날 오후...",
+          "guid": "MYH20261105060242yiq",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-04T15:46:14.000Z"
-        },
-        {
-          "creator": "최지원",
-          "title": "한진칼 최대주주, 조원태 회장서 호반건설로 변경",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261105004150rOH",
-          "pubDate": "Thu, 05 Nov 2026 00:41:50 +0900",
-          "content:encoded": "[앵커]\n\n한진그룹의 지주사인 한진칼의 주인이 호반건설로 바뀌었습니다.\n\n조원태 한진그룹 회장과 호반그룹의 치열한 지분 싸움 속에 한진그룹의 경영권 구도에 관심이 모입니다.\n\n최지원 기자입니다.\n\n[기자]\n\n한진칼은 호반건설 등이 한진칼 보통주 20.69%를 보유하게 되면서 최대주주가 변경됐다고 공시했습니다.\n\n호반그룹은 지난 2022년 사모펀드 KCGI로부터 한진칼 지분을 인수하면서 2대 주주로 올라섰습니다.\n\n그 뒤 꾸준히 계열사들을 통해서 지분을 늘려왔는데, 지난 7월에는 조원태 회장 측과 0.42%p까지 격차를 좁혔습니다.\n\n결국 지난달 지분율이 역전되자 공정거래위원회에 기업결합을 신고했습니다.\n\n2대 주주인 조 회장과 호반그룹의 지분율 차이는 단 0.11%p입니다.\n\n다음달 초 조 회장 측이 추가 주식 매입에 나서면 최대주주 지위는 또 한번 바뀔 수 있습니다.\n\n한진칼은 지난 2일 조 회장 측이 다음달 초 한진칼 보통주 0.49%를 추가 매입할 계획이라고 예고한 바 있습니다.\n\n이렇게 되면 또 한번 0.38%p, 근소한 차이로 최대주주가 바뀌게 됩니다.\n\n호반그룹이 한진칼 지분 매입 목적을 늘 '단순 투자'라고 해왔지만, 재계에서는 경영 참여 가능성이 거론되고 있습니다.\n\n특히 내년 3월 정기 주주총회에서 이사회 진입을 시도할 가능성도 제기됩니다.\n\n이를 의식한 듯 조 회장은 다음 달 초 예고한 추가 주식 매입 목적을 '책임 경영 강화'를 위해서라고 밝혔습니다.\n\n다만 이들의 '최대주주 쟁탈전'이 곧바로 한진그룹의 경영권 변동으로 이어지는 건 아닙니다.\n\n한진그룹은 델타항공과 한국산업은행의 우호지분을 합치면 경영권 방어에 문제가 없다는 입장입니다.\n\n다음달 대한항공과 아시아나항공의 통합도 앞두고 있어 산업은행 보유 지분의 향방도 향후 관심사입니다.\n\n연합뉴스TV 최지원입니다.\n\n[영상편집 이예림]\n\n[그래픽 강예빈]\n\n#호반건설 #경영권 #한진그룹 #한진칼 #최대주주\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
-          "content:encodedSnippet": "[앵커]\n\n한진그룹의 지주사인 한진칼의 주인이 호반건설로 바뀌었습니다.\n\n조원태 한진그룹 회장과 호반그룹의 치열한 지분 싸움 속에 한진그룹의 경영권 구도에 관심이 모입니다.\n\n최지원 기자입니다.\n\n[기자]\n\n한진칼은 호반건설 등이 한진칼 보통주 20.69%를 보유하게 되면서 최대주주가 변경됐다고 공시했습니다.\n\n호반그룹은 지난 2022년 사모펀드 KCGI로부터 한진칼 지분을 인수하면서 2대 주주로 올라섰습니다.\n\n그 뒤 꾸준히 계열사들을 통해서 지분을 늘려왔는데, 지난 7월에는 조원태 회장 측과 0.42%p까지 격차를 좁혔습니다.\n\n결국 지난달 지분율이 역전되자 공정거래위원회에 기업결합을 신고했습니다.\n\n2대 주주인 조 회장과 호반그룹의 지분율 차이는 단 0.11%p입니다.\n\n다음달 초 조 회장 측이 추가 주식 매입에 나서면 최대주주 지위는 또 한번 바뀔 수 있습니다.\n\n한진칼은 지난 2일 조 회장 측이 다음달 초 한진칼 보통주 0.49%를 추가 매입할 계획이라고 예고한 바 있습니다.\n\n이렇게 되면 또 한번 0.38%p, 근소한 차이로 최대주주가 바뀌게 됩니다.\n\n호반그룹이 한진칼 지분 매입 목적을 늘 '단순 투자'라고 해왔지만, 재계에서는 경영 참여 가능성이 거론되고 있습니다.\n\n특히 내년 3월 정기 주주총회에서 이사회 진입을 시도할 가능성도 제기됩니다.\n\n이를 의식한 듯 조 회장은 다음 달 초 예고한 추가 주식 매입 목적을 '책임 경영 강화'를 위해서라고 밝혔습니다.\n\n다만 이들의 '최대주주 쟁탈전'이 곧바로 한진그룹의 경영권 변동으로 이어지는 건 아닙니다.\n\n한진그룹은 델타항공과 한국산업은행의 우호지분을 합치면 경영권 방어에 문제가 없다는 입장입니다.\n\n다음달 대한항공과 아시아나항공의 통합도 앞두고 있어 산업은행 보유 지분의 향방도 향후 관심사입니다.\n\n연합뉴스TV 최지원입니다.\n\n[영상편집 이예림]\n\n[그래픽 강예빈]\n\n#호반건설 #경영권 #한진그룹 #한진칼 #최대주주\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261104/MYH20261105004150rOH.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "최지원",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261105004150rOH#comments",
-          "content": "[앵커] 한진그룹의 지주사인 한진칼의 주인이 호반건설로 바뀌었습니다. 조원태 한진그룹 회장과 호반그룹의 치열한 지분 싸움 속에 한진그룹의 경영권 구도에 관심이 모입니다. 최지원 기자입니다. [기자] 한진칼은 호반건설 등이 한진칼 보통주 20.69%를 보유하게 되면서 최대주주가 변경됐다고 공시했습니다. 호반그룹은 지난 2022년 사모펀드 KCGI로부터 한진칼 지분을 인수하면서 2대 주주로 올라섰습니다. 그 뒤 꾸준히 계열사들을 통해서 지분을...",
-          "contentSnippet": "[앵커] 한진그룹의 지주사인 한진칼의 주인이 호반건설로 바뀌었습니다. 조원태 한진그룹 회장과 호반그룹의 치열한 지분 싸움 속에 한진그룹의 경영권 구도에 관심이 모입니다. 최지원 기자입니다. [기자] 한진칼은 호반건설 등이 한진칼 보통주 20.69%를 보유하게 되면서 최대주주가 변경됐다고 공시했습니다. 호반그룹은 지난 2022년 사모펀드 KCGI로부터 한진칼 지분을 인수하면서 2대 주주로 올라섰습니다. 그 뒤 꾸준히 계열사들을 통해서 지분을...",
-          "guid": "MYH20261105004150rOH",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-04T15:41:50.000Z"
+          "isoDate": "2026-11-04T21:02:43.000Z"
         },
         {
           "creator": "최지원",
-          "title": "\"벤츠, 배터리 허위 안내…400만원씩 배상해야\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261105004026KJA",
-          "pubDate": "Thu, 05 Nov 2026 00:40:28 +0900",
-          "content:encoded": "메르세데스-벤츠 코리아가 전기차 배터리 제조사 정보를 소비자들에게 정확히 제공하지 않은 것과 관련해 차주들에 400만원씩 배상해야 한다는 결정이 나왔습니다.\n\n한국소비자원 소비자분쟁조정위원회는 어제(4일) 벤츠코리아가 5개 차종에 중국산 배터리 셀이 탑재됐는데도 판매 안내 지침에 이를 누락해 손해배상 책임이 있다고 밝혔습니다.\n\n그러면서 해당 차종을 구매하고 지난 5월 집단분쟁조정을 신청한 142명에 대해 400만원씩 배상하라고 했습니다.\n\n벤츠코리아는 결정서를 받은 날부터 보름 안에 수락 여부를 밝혀야 합니다.\n\n#전기차 #배터리 #벤츠\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
-          "content:encodedSnippet": "메르세데스-벤츠 코리아가 전기차 배터리 제조사 정보를 소비자들에게 정확히 제공하지 않은 것과 관련해 차주들에 400만원씩 배상해야 한다는 결정이 나왔습니다.\n\n한국소비자원 소비자분쟁조정위원회는 어제(4일) 벤츠코리아가 5개 차종에 중국산 배터리 셀이 탑재됐는데도 판매 안내 지침에 이를 누락해 손해배상 책임이 있다고 밝혔습니다.\n\n그러면서 해당 차종을 구매하고 지난 5월 집단분쟁조정을 신청한 142명에 대해 400만원씩 배상하라고 했습니다.\n\n벤츠코리아는 결정서를 받은 날부터 보름 안에 수락 여부를 밝혀야 합니다.\n\n#전기차 #배터리 #벤츠\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
+          "title": "'1호기 명단' 이어 다른 외교자료도 유출 가능성",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261105055433Zn5",
+          "pubDate": "Thu, 05 Nov 2026 05:54:36 +0900",
+          "content:encoded": "'1호기 명단'에 이어 또 다른 외교 관련 자료도 같은 사이트에 올라와 있다는 보도가 나왔습니다.\n\n외교부는 오늘(5일) 관련 보도에 대해 \"관련 자료 유출 가능성을 엄중하게 인식하고 있으며 관계기관과 철저히 조사 중\"이라고 했습니다.\n\n그러면서 \"사실관계가 확정되는 대로 파악된 내용을 투명하게 설명할 예정\"이라고 덧붙였습니다.\n\n앞서 해외 악성코드 검사 사이트에 1호기 탑승 명단이 유출돼 경찰이 수사에 착수했는데, 같은 사이트에서 다른 외교 관련 파일들의 등록 기록도 확인됐습니다.\n\n#유출 #외교부 #개인정보 #청와대 #1호기 #명단 #외교자료\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
+          "content:encodedSnippet": "'1호기 명단'에 이어 또 다른 외교 관련 자료도 같은 사이트에 올라와 있다는 보도가 나왔습니다.\n\n외교부는 오늘(5일) 관련 보도에 대해 \"관련 자료 유출 가능성을 엄중하게 인식하고 있으며 관계기관과 철저히 조사 중\"이라고 했습니다.\n\n그러면서 \"사실관계가 확정되는 대로 파악된 내용을 투명하게 설명할 예정\"이라고 덧붙였습니다.\n\n앞서 해외 악성코드 검사 사이트에 1호기 탑승 명단이 유출돼 경찰이 수사에 착수했는데, 같은 사이트에서 다른 외교 관련 파일들의 등록 기록도 확인됐습니다.\n\n#유출 #외교부 #개인정보 #청와대 #1호기 #명단 #외교자료\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261104/MYH20261105004026KJA.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261104/MYH20261105055433Zn5.jpg",
             "type": "image/jpeg"
           },
           "dc:creator": "최지원",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261105004026KJA#comments",
-          "content": "메르세데스-벤츠 코리아가 전기차 배터리 제조사 정보를 소비자들에게 정확히 제공하지 않은 것과 관련해 차주들에 400만원씩 배상해야 한다는 결정이 나왔습니다. 한국소비자원 소비자분쟁조정위원회는 어제(4일) 벤츠코리아가 5개 차종에 중국산 배터리 셀이 탑재됐는데도 판매 안내 지침에 이를 누락해 손해배상 책임이 있다고 밝혔습니다. 그러면서 해당 차종을 구매하고 지난 5월 집단분쟁조정을 신청한 142명에 대해 400만원씩 배상하라고 했습니다. 벤...",
-          "contentSnippet": "메르세데스-벤츠 코리아가 전기차 배터리 제조사 정보를 소비자들에게 정확히 제공하지 않은 것과 관련해 차주들에 400만원씩 배상해야 한다는 결정이 나왔습니다. 한국소비자원 소비자분쟁조정위원회는 어제(4일) 벤츠코리아가 5개 차종에 중국산 배터리 셀이 탑재됐는데도 판매 안내 지침에 이를 누락해 손해배상 책임이 있다고 밝혔습니다. 그러면서 해당 차종을 구매하고 지난 5월 집단분쟁조정을 신청한 142명에 대해 400만원씩 배상하라고 했습니다. 벤...",
-          "guid": "MYH20261105004026KJA",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261105055433Zn5#comments",
+          "content": "'1호기 명단'에 이어 또 다른 외교 관련 자료도 같은 사이트에 올라와 있다는 보도가 나왔습니다. 외교부는 오늘(5일) 관련 보도에 대해 \"관련 자료 유출 가능성을 엄중하게 인식하고 있으며 관계기관과 철저히 조사 중\"이라고 했습니다. 그러면서 \"사실관계가 확정되는 대로 파악된 내용을 투명하게 설명할 예정\"이라고 덧붙였습니다. 앞서 해외 악성코드 검사 사이트에 1호기 탑승 명단이 유출돼 경찰이 수사에 착수했는데, 같은 사이트에서 다른 외교 ...",
+          "contentSnippet": "'1호기 명단'에 이어 또 다른 외교 관련 자료도 같은 사이트에 올라와 있다는 보도가 나왔습니다. 외교부는 오늘(5일) 관련 보도에 대해 \"관련 자료 유출 가능성을 엄중하게 인식하고 있으며 관계기관과 철저히 조사 중\"이라고 했습니다. 그러면서 \"사실관계가 확정되는 대로 파악된 내용을 투명하게 설명할 예정\"이라고 덧붙였습니다. 앞서 해외 악성코드 검사 사이트에 1호기 탑승 명단이 유출돼 경찰이 수사에 착수했는데, 같은 사이트에서 다른 외교 ...",
+          "guid": "MYH20261105055433Zn5",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-04T15:40:28.000Z"
-        },
-        {
-          "creator": "최지원",
-          "title": "'안 깨지는 자동차 창문' 접합유리…\"안내 필요\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261105003936tOB",
-          "pubDate": "Thu, 05 Nov 2026 00:39:37 +0900",
-          "content:encoded": "자동차 측면 창유리를 충격 흡수력이 강한 접합유리로 쓰는 경우가 많아지면서 침수나 사고 등 비상상황에서는 오히려 탈출이 어려워질 수 있단 조사 결과가 나왔습니다.\n\n한국소비자원은 어제(4일) 국내 완성차 6개 브랜드의 판매차종 47종을 조사한 결과 76%가 측면 창유리에 접합유리를 적용했다고 밝혔습니다.\n\n접합유리는 두 장의 유리 사이 고분자 필름을 넣어 압착한 것으로 강화유리보다 충격에 강합니다.\n\n소비자 1천명을 대상으로 한 설문에서 76% 가량이 이를 모르고 있다고 답해 제대로 된 안내가 필요하단 지적이 나옵니다.\n\n#자동차 #소비자원 #접합유리\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
-          "content:encodedSnippet": "자동차 측면 창유리를 충격 흡수력이 강한 접합유리로 쓰는 경우가 많아지면서 침수나 사고 등 비상상황에서는 오히려 탈출이 어려워질 수 있단 조사 결과가 나왔습니다.\n\n한국소비자원은 어제(4일) 국내 완성차 6개 브랜드의 판매차종 47종을 조사한 결과 76%가 측면 창유리에 접합유리를 적용했다고 밝혔습니다.\n\n접합유리는 두 장의 유리 사이 고분자 필름을 넣어 압착한 것으로 강화유리보다 충격에 강합니다.\n\n소비자 1천명을 대상으로 한 설문에서 76% 가량이 이를 모르고 있다고 답해 제대로 된 안내가 필요하단 지적이 나옵니다.\n\n#자동차 #소비자원 #접합유리\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261104/MYH20261105003936tOB.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "최지원",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261105003936tOB#comments",
-          "content": "자동차 측면 창유리를 충격 흡수력이 강한 접합유리로 쓰는 경우가 많아지면서 침수나 사고 등 비상상황에서는 오히려 탈출이 어려워질 수 있단 조사 결과가 나왔습니다. 한국소비자원은 어제(4일) 국내 완성차 6개 브랜드의 판매차종 47종을 조사한 결과 76%가 측면 창유리에 접합유리를 적용했다고 밝혔습니다. 접합유리는 두 장의 유리 사이 고분자 필름을 넣어 압착한 것으로 강화유리보다 충격에 강합니다. 소비자 1천명을 대상으로 한 설문에서 76%...",
-          "contentSnippet": "자동차 측면 창유리를 충격 흡수력이 강한 접합유리로 쓰는 경우가 많아지면서 침수나 사고 등 비상상황에서는 오히려 탈출이 어려워질 수 있단 조사 결과가 나왔습니다. 한국소비자원은 어제(4일) 국내 완성차 6개 브랜드의 판매차종 47종을 조사한 결과 76%가 측면 창유리에 접합유리를 적용했다고 밝혔습니다. 접합유리는 두 장의 유리 사이 고분자 필름을 넣어 압착한 것으로 강화유리보다 충격에 강합니다. 소비자 1천명을 대상으로 한 설문에서 76%...",
-          "guid": "MYH20261105003936tOB",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-04T15:39:37.000Z"
-        },
-        {
-          "creator": "김종성",
-          "title": "중앙일보, 다우·CJ컨소시엄에 인수…오늘 5,200억 신주인수 계약",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261105003847fFp",
-          "pubDate": "Thu, 05 Nov 2026 00:38:48 +0900",
-          "content:encoded": "워크아웃을 신청한 중앙일보가 다우·CJ컨소시엄에 인수됩니다.\n\n중앙일보는 오늘(5일) 다우기술과 CJ, 신세계, 사람인이 참여한 컨소시엄과 5,200억 원 규모의 신주인수계약을 체결한다고 밝혔습니다.\n\n컨소시엄이 3자 배정 유상증자에 참여해 최대주주에 오르는 방식입니다.\n\n투입 자금은 중앙일보의 채무 리스크 해소와 재무 건전성 회복에 전액 활용됩니다.\n\n컨소시엄은 근로자 고용 보장과 편집권 독립 준수를 약속했으며, 중앙일보는 연내 워크아웃 졸업을 목표로 경영 정상화에 속도를 낼 방침입니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김종성(goldbell@yna.co.kr)",
-          "content:encodedSnippet": "워크아웃을 신청한 중앙일보가 다우·CJ컨소시엄에 인수됩니다.\n\n중앙일보는 오늘(5일) 다우기술과 CJ, 신세계, 사람인이 참여한 컨소시엄과 5,200억 원 규모의 신주인수계약을 체결한다고 밝혔습니다.\n\n컨소시엄이 3자 배정 유상증자에 참여해 최대주주에 오르는 방식입니다.\n\n투입 자금은 중앙일보의 채무 리스크 해소와 재무 건전성 회복에 전액 활용됩니다.\n\n컨소시엄은 근로자 고용 보장과 편집권 독립 준수를 약속했으며, 중앙일보는 연내 워크아웃 졸업을 목표로 경영 정상화에 속도를 낼 방침입니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김종성(goldbell@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261104/MYH20261105003847fFp.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "김종성",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261105003847fFp#comments",
-          "content": "워크아웃을 신청한 중앙일보가 다우·CJ컨소시엄에 인수됩니다. 중앙일보는 오늘(5일) 다우기술과 CJ, 신세계, 사람인이 참여한 컨소시엄과 5,200억 원 규모의 신주인수계약을 체결한다고 밝혔습니다. 컨소시엄이 3자 배정 유상증자에 참여해 최대주주에 오르는 방식입니다. 투입 자금은 중앙일보의 채무 리스크 해소와 재무 건전성 회복에 전액 활용됩니다. 컨소시엄은 근로자 고용 보장과 편집권 독립 준수를 약속했으며, 중앙일보는 연내 워크아웃 졸업을...",
-          "contentSnippet": "워크아웃을 신청한 중앙일보가 다우·CJ컨소시엄에 인수됩니다. 중앙일보는 오늘(5일) 다우기술과 CJ, 신세계, 사람인이 참여한 컨소시엄과 5,200억 원 규모의 신주인수계약을 체결한다고 밝혔습니다. 컨소시엄이 3자 배정 유상증자에 참여해 최대주주에 오르는 방식입니다. 투입 자금은 중앙일보의 채무 리스크 해소와 재무 건전성 회복에 전액 활용됩니다. 컨소시엄은 근로자 고용 보장과 편집권 독립 준수를 약속했으며, 중앙일보는 연내 워크아웃 졸업을...",
-          "guid": "MYH20261105003847fFp",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-04T15:38:48.000Z"
-        },
-        {
-          "creator": "최진경",
-          "title": "이란 최고지도자 \"美 선거로 변화 기대? 착각\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261105003736s4K",
-          "pubDate": "Thu, 05 Nov 2026 00:37:39 +0900",
-          "content:encoded": "미국 중간선거에서 집권 여당인 공화당이 참패한 가운데, 이란 최고지도자는 미국의 당파적 변화로 대이란 정책이 바뀔 것이라는 기대는 크나큰 착각이라고 일축했습니다.\n\n모즈타바 하메네이 최고지도자는 현지시간 4일 서면 성명을 통해 이같이 언급하면서, 미국이 이란에 대한 공격을 재개하면 중동 전쟁이 훨씬 커질 것이라고 경고했습니다.\n\n이어 \"앞서 호르무즈 해협 등에서 보여준 이란의 조치는 단지 초기 단계일 뿐\"이라고 강조했습니다.\n\n또 미국을 '거대한 사탄'으로 지칭하며 \"미국이 진정으로 원하는 건 이란 국민의 무조건적인 항복\"이라고도 말했습니다.\n\n#미국 #이란 #최고지도자 #모즈타바\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최진경(highjean@yna.co.kr)",
-          "content:encodedSnippet": "미국 중간선거에서 집권 여당인 공화당이 참패한 가운데, 이란 최고지도자는 미국의 당파적 변화로 대이란 정책이 바뀔 것이라는 기대는 크나큰 착각이라고 일축했습니다.\n\n모즈타바 하메네이 최고지도자는 현지시간 4일 서면 성명을 통해 이같이 언급하면서, 미국이 이란에 대한 공격을 재개하면 중동 전쟁이 훨씬 커질 것이라고 경고했습니다.\n\n이어 \"앞서 호르무즈 해협 등에서 보여준 이란의 조치는 단지 초기 단계일 뿐\"이라고 강조했습니다.\n\n또 미국을 '거대한 사탄'으로 지칭하며 \"미국이 진정으로 원하는 건 이란 국민의 무조건적인 항복\"이라고도 말했습니다.\n\n#미국 #이란 #최고지도자 #모즈타바\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최진경(highjean@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261104/MYH20261105003736s4K.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "최진경",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261105003736s4K#comments",
-          "content": "미국 중간선거에서 집권 여당인 공화당이 참패한 가운데, 이란 최고지도자는 미국의 당파적 변화로 대이란 정책이 바뀔 것이라는 기대는 크나큰 착각이라고 일축했습니다. 모즈타바 하메네이 최고지도자는 현지시간 4일 서면 성명을 통해 이같이 언급하면서, 미국이 이란에 대한 공격을 재개하면 중동 전쟁이 훨씬 커질 것이라고 경고했습니다. 이어 \"앞서 호르무즈 해협 등에서 보여준 이란의 조치는 단지 초기 단계일 뿐\"이라고 강조했습니다. 또 미국을 '거대...",
-          "contentSnippet": "미국 중간선거에서 집권 여당인 공화당이 참패한 가운데, 이란 최고지도자는 미국의 당파적 변화로 대이란 정책이 바뀔 것이라는 기대는 크나큰 착각이라고 일축했습니다. 모즈타바 하메네이 최고지도자는 현지시간 4일 서면 성명을 통해 이같이 언급하면서, 미국이 이란에 대한 공격을 재개하면 중동 전쟁이 훨씬 커질 것이라고 경고했습니다. 이어 \"앞서 호르무즈 해협 등에서 보여준 이란의 조치는 단지 초기 단계일 뿐\"이라고 강조했습니다. 또 미국을 '거대...",
-          "guid": "MYH20261105003736s4K",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-04T15:37:39.000Z"
+          "isoDate": "2026-11-04T20:54:36.000Z"
         },
         {
           "creator": "노수미",
-          "title": "[날씨] 전국 추위 부르는 비…금요일부터 기온 '뚝'",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261104233513iXA",
-          "pubDate": "Wed, 04 Nov 2026 23:35:15 +0900",
-          "content:encoded": "추위를 부르는 비가 내리겠습니다.\n\n오전에 전국 대부분 지역으로 비구름이 확대되겠고요.\n\n오후까지 이어지겠습니다.\n\n특히, 제주도를 중심으로 비바람이 몰아치겠습니다.\n\n순간 초속 20m 안팎의 강풍이 불겠는데요.\n\n남해안과 제주도에는 돌풍과 함께 벼락이 칠 때도 있겠습니다.\n\n시설물 관리와 안전사고에 유의하셔야겠습니다.\n\n비구름이 물러난 자리에는 찬 공기가 남하하겠습니다.\n\n금요일부터 기온이 빠르게 내려가겠는데요.\n\n입동인 토요일 아침에는 서울이 영하 1도까지 곤두박질하겠습니다.\n\n올가을 들어 가장 추울 것으로 예상되는데요.\n\n바람도 강하게 불면서 체감 기온은 실제보다 더 낮겠습니다.\n\n목요일까지는 포근함이 감돌겠습니다.\n\n아침에 서울이 10도로 시작하겠고, 한낮에는 서울이 17도, 청주와 대전이 15도, 강릉은 16도를 가리키겠습니다.\n\n남부지방은 대구가 10도로 출발해서, 낮 기온은 대구가 15도, 부산이 19도를 보이겠습니다.\n\n이번 추위는 다음 주에도 계속되겠습니다.\n\n급격한 기온 변화에 감기 걸리지 않도록 조심하시기를 바랍니다.\n\n지금까지 날씨였습니다.\n\n(권진영 기상캐스터)\n\n#날씨 #전국비 #기온변화 #가을추위 #돌풍벼락\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
-          "content:encodedSnippet": "추위를 부르는 비가 내리겠습니다.\n\n오전에 전국 대부분 지역으로 비구름이 확대되겠고요.\n\n오후까지 이어지겠습니다.\n\n특히, 제주도를 중심으로 비바람이 몰아치겠습니다.\n\n순간 초속 20m 안팎의 강풍이 불겠는데요.\n\n남해안과 제주도에는 돌풍과 함께 벼락이 칠 때도 있겠습니다.\n\n시설물 관리와 안전사고에 유의하셔야겠습니다.\n\n비구름이 물러난 자리에는 찬 공기가 남하하겠습니다.\n\n금요일부터 기온이 빠르게 내려가겠는데요.\n\n입동인 토요일 아침에는 서울이 영하 1도까지 곤두박질하겠습니다.\n\n올가을 들어 가장 추울 것으로 예상되는데요.\n\n바람도 강하게 불면서 체감 기온은 실제보다 더 낮겠습니다.\n\n목요일까지는 포근함이 감돌겠습니다.\n\n아침에 서울이 10도로 시작하겠고, 한낮에는 서울이 17도, 청주와 대전이 15도, 강릉은 16도를 가리키겠습니다.\n\n남부지방은 대구가 10도로 출발해서, 낮 기온은 대구가 15도, 부산이 19도를 보이겠습니다.\n\n이번 추위는 다음 주에도 계속되겠습니다.\n\n급격한 기온 변화에 감기 걸리지 않도록 조심하시기를 바랍니다.\n\n지금까지 날씨였습니다.\n\n(권진영 기상캐스터)\n\n#날씨 #전국비 #기온변화 #가을추위 #돌풍벼락\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
+          "title": "[날씨] 전국 추위 부르는 비…주말 서울 올가을 '첫 영하권 추위'",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261105054031lP9",
+          "pubDate": "Thu, 05 Nov 2026 05:40:32 +0900",
+          "content:encoded": "오늘 출근길에는 우산을 챙기셔야겠습니다.\n\n어젯밤 제주와 호남에서 시작된 비가 점차 북쪽으로 올라오고 있는데요.\n\n오전에는 전국 대부분 지역으로 확대되겠습니다.\n\n이번 비는 오후부터 차차 그치겠지만, 제주는 저녁까지 이어지겠습니다.\n\n강수량은 수도권과 강원에 5mm 안팎으로 양이 많진 않겠고요.\n\n제주와 영남에 최대 40mm, 충청 이남으로 5에서 많게는 30mm까지 내리겠습니다.\n\n비가 그치면 이제 추위에 대비하셔야겠습니다.\n\n내일부터 찬바람이 강해지면서 기온이 크게 떨어지겠는데요.\n\n특히 겨울의 시작을 알리는 절기, 입동인 토요일에는 서울도 영하권으로 뚝 떨어지겠습니다.\n\n겨울 외투를 미리 꺼내두셔야겠습니다.\n\n자세한 기온도 보시면, 현재 서울은 11.9도, 대구와 청주 9.8도를 보이고 있고요.\n\n한낮에는 서울과 광주 17도, 부산은 19도까지 오르겠습니다.\n\n서해상과 제주, 남해상을 중심으로 물결이 최고 3.5m까지 높게 일겠고요.\n\n돌풍과 벼락이 동반되는 곳도 있어서 해상 안전사고에 유의하셔야겠습니다.\n\n이번 비가 지나고 나면 계절이 더 겨울에 가까워지겠습니다.\n\n요즘 날씨가 포근했다가 갑자기 추워지기를 반복하는 만큼, 건강 관리 잘해주셔야겠습니다.\n\n지금까지 날씨였습니다.\n\n(이소연 기상캐스터)\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
+          "content:encodedSnippet": "오늘 출근길에는 우산을 챙기셔야겠습니다.\n\n어젯밤 제주와 호남에서 시작된 비가 점차 북쪽으로 올라오고 있는데요.\n\n오전에는 전국 대부분 지역으로 확대되겠습니다.\n\n이번 비는 오후부터 차차 그치겠지만, 제주는 저녁까지 이어지겠습니다.\n\n강수량은 수도권과 강원에 5mm 안팎으로 양이 많진 않겠고요.\n\n제주와 영남에 최대 40mm, 충청 이남으로 5에서 많게는 30mm까지 내리겠습니다.\n\n비가 그치면 이제 추위에 대비하셔야겠습니다.\n\n내일부터 찬바람이 강해지면서 기온이 크게 떨어지겠는데요.\n\n특히 겨울의 시작을 알리는 절기, 입동인 토요일에는 서울도 영하권으로 뚝 떨어지겠습니다.\n\n겨울 외투를 미리 꺼내두셔야겠습니다.\n\n자세한 기온도 보시면, 현재 서울은 11.9도, 대구와 청주 9.8도를 보이고 있고요.\n\n한낮에는 서울과 광주 17도, 부산은 19도까지 오르겠습니다.\n\n서해상과 제주, 남해상을 중심으로 물결이 최고 3.5m까지 높게 일겠고요.\n\n돌풍과 벼락이 동반되는 곳도 있어서 해상 안전사고에 유의하셔야겠습니다.\n\n이번 비가 지나고 나면 계절이 더 겨울에 가까워지겠습니다.\n\n요즘 날씨가 포근했다가 갑자기 추워지기를 반복하는 만큼, 건강 관리 잘해주셔야겠습니다.\n\n지금까지 날씨였습니다.\n\n(이소연 기상캐스터)\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261104/MYH20261104233513iXA.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261104/MYH20261105054031lP9.jpg",
             "type": "image/jpeg"
           },
           "dc:creator": "노수미",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261104233513iXA#comments",
-          "content": "추위를 부르는 비가 내리겠습니다. 오전에 전국 대부분 지역으로 비구름이 확대되겠고요. 오후까지 이어지겠습니다. 특히, 제주도를 중심으로 비바람이 몰아치겠습니다. 순간 초속 20m 안팎의 강풍이 불겠는데요. 남해안과 제주도에는 돌풍과 함께 벼락이 칠 때도 있겠습니다. 시설물 관리와 안전사고에 유의하셔야겠습니다. 비구름이 물러난 자리에는 찬 공기가 남하하겠습니다. 금요일부터 기온이 빠르게 내려가겠는데요. 입동인 토요일 아침에는 서울이 영하 1...",
-          "contentSnippet": "추위를 부르는 비가 내리겠습니다. 오전에 전국 대부분 지역으로 비구름이 확대되겠고요. 오후까지 이어지겠습니다. 특히, 제주도를 중심으로 비바람이 몰아치겠습니다. 순간 초속 20m 안팎의 강풍이 불겠는데요. 남해안과 제주도에는 돌풍과 함께 벼락이 칠 때도 있겠습니다. 시설물 관리와 안전사고에 유의하셔야겠습니다. 비구름이 물러난 자리에는 찬 공기가 남하하겠습니다. 금요일부터 기온이 빠르게 내려가겠는데요. 입동인 토요일 아침에는 서울이 영하 1...",
-          "guid": "MYH20261104233513iXA",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261105054031lP9#comments",
+          "content": "오늘 출근길에는 우산을 챙기셔야겠습니다. 어젯밤 제주와 호남에서 시작된 비가 점차 북쪽으로 올라오고 있는데요. 오전에는 전국 대부분 지역으로 확대되겠습니다. 이번 비는 오후부터 차차 그치겠지만, 제주는 저녁까지 이어지겠습니다. 강수량은 수도권과 강원에 5mm 안팎으로 양이 많진 않겠고요. 제주와 영남에 최대 40mm, 충청 이남으로 5에서 많게는 30mm까지 내리겠습니다. 비가 그치면 이제 추위에 대비하셔야겠습니다. 내일부터 찬바람이 강해...",
+          "contentSnippet": "오늘 출근길에는 우산을 챙기셔야겠습니다. 어젯밤 제주와 호남에서 시작된 비가 점차 북쪽으로 올라오고 있는데요. 오전에는 전국 대부분 지역으로 확대되겠습니다. 이번 비는 오후부터 차차 그치겠지만, 제주는 저녁까지 이어지겠습니다. 강수량은 수도권과 강원에 5mm 안팎으로 양이 많진 않겠고요. 제주와 영남에 최대 40mm, 충청 이남으로 5에서 많게는 30mm까지 내리겠습니다. 비가 그치면 이제 추위에 대비하셔야겠습니다. 내일부터 찬바람이 강해...",
+          "guid": "MYH20261105054031lP9",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-04T14:35:15.000Z"
+          "isoDate": "2026-11-04T20:40:32.000Z"
         },
         {
-          "creator": "김종성",
-          "title": "[오늘의영상] 경기 도중 상의 벗은 조코비치…파리 마스터스 최고령 신기록",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261104233423gjT",
-          "pubDate": "Wed, 04 Nov 2026 23:34:24 +0900",
-          "content:encoded": "남자 테니스의 살아있는 전설, 노바크 조코비치가 경기 도중 상의를 벗어 관중들을 놀라게 했습니다.\n\n어깨에 불편함을 느껴 잠시 치료를 받은 건데요.\n\n치열한 승부 끝에 상대 선수를 누르고 파리 마스터스 최고령 승리 기록을 새로 썼습니다.\n\n오늘의 영상에서 확인해보시죠.\n\n지금까지 스포츠와이드였습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김종성(goldbell@yna.co.kr)",
-          "content:encodedSnippet": "남자 테니스의 살아있는 전설, 노바크 조코비치가 경기 도중 상의를 벗어 관중들을 놀라게 했습니다.\n\n어깨에 불편함을 느껴 잠시 치료를 받은 건데요.\n\n치열한 승부 끝에 상대 선수를 누르고 파리 마스터스 최고령 승리 기록을 새로 썼습니다.\n\n오늘의 영상에서 확인해보시죠.\n\n지금까지 스포츠와이드였습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김종성(goldbell@yna.co.kr)",
+          "creator": "천재상",
+          "title": "음성군·캄보디아 대사관, '안전 플랫폼' 확산협약",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261105054002cvT",
+          "pubDate": "Thu, 05 Nov 2026 05:40:02 +0900",
+          "content:encoded": "충북 음성군이 캄보디아 대사관, 한국소방산업기술원과 '외국인 주민 안전 플랫폼' 활성화를 위한 업무협약을 맺었습니다.\n\n협약에 따라 음성군은 앞서 개발한 AI기반 다국어 화재·생활 안전 플랫폼의 전국 확산을 추진하기로 했습니다.\n\n주한 캄보디아 대사관은 공식 창구로 안전 플랫폼을 홍보하고, 소방산업기술원은 플랫폼 안전 콘텐츠 고도화에 힘쓰기로 했습니다.\n\n음성군은 이번 협약을 계기로 타 국가 대사관과의 외교적 연계를 확대할 계획입니다.\n\n#충북 #안전 #캄보디아 #음성군 #조병옥\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n천재상(genius@yna.co.kr)",
+          "content:encodedSnippet": "충북 음성군이 캄보디아 대사관, 한국소방산업기술원과 '외국인 주민 안전 플랫폼' 활성화를 위한 업무협약을 맺었습니다.\n\n협약에 따라 음성군은 앞서 개발한 AI기반 다국어 화재·생활 안전 플랫폼의 전국 확산을 추진하기로 했습니다.\n\n주한 캄보디아 대사관은 공식 창구로 안전 플랫폼을 홍보하고, 소방산업기술원은 플랫폼 안전 콘텐츠 고도화에 힘쓰기로 했습니다.\n\n음성군은 이번 협약을 계기로 타 국가 대사관과의 외교적 연계를 확대할 계획입니다.\n\n#충북 #안전 #캄보디아 #음성군 #조병옥\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n천재상(genius@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261104/MYH20261104233423gjT.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261104/MYH20261105054002cvT.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "김종성",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261104233423gjT#comments",
-          "content": "남자 테니스의 살아있는 전설, 노바크 조코비치가 경기 도중 상의를 벗어 관중들을 놀라게 했습니다. 어깨에 불편함을 느껴 잠시 치료를 받은 건데요. 치열한 승부 끝에 상대 선수를 누르고 파리 마스터스 최고령 승리 기록을 새로 썼습니다. 오늘의 영상에서 확인해보시죠. 지금까지 스포츠와이드였습니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 김종성(goldbell@yna.co.kr)",
-          "contentSnippet": "남자 테니스의 살아있는 전설, 노바크 조코비치가 경기 도중 상의를 벗어 관중들을 놀라게 했습니다. 어깨에 불편함을 느껴 잠시 치료를 받은 건데요. 치열한 승부 끝에 상대 선수를 누르고 파리 마스터스 최고령 승리 기록을 새로 썼습니다. 오늘의 영상에서 확인해보시죠. 지금까지 스포츠와이드였습니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 김종성(goldbell@yna.co.kr)",
-          "guid": "MYH20261104233423gjT",
+          "dc:creator": "천재상",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261105054002cvT#comments",
+          "content": "충북 음성군이 캄보디아 대사관, 한국소방산업기술원과 '외국인 주민 안전 플랫폼' 활성화를 위한 업무협약을 맺었습니다. 협약에 따라 음성군은 앞서 개발한 AI기반 다국어 화재·생활 안전 플랫폼의 전국 확산을 추진하기로 했습니다. 주한 캄보디아 대사관은 공식 창구로 안전 플랫폼을 홍보하고, 소방산업기술원은 플랫폼 안전 콘텐츠 고도화에 힘쓰기로 했습니다. 음성군은 이번 협약을 계기로 타 국가 대사관과의 외교적 연계를 확대할 계획입니다. #충북 ...",
+          "contentSnippet": "충북 음성군이 캄보디아 대사관, 한국소방산업기술원과 '외국인 주민 안전 플랫폼' 활성화를 위한 업무협약을 맺었습니다. 협약에 따라 음성군은 앞서 개발한 AI기반 다국어 화재·생활 안전 플랫폼의 전국 확산을 추진하기로 했습니다. 주한 캄보디아 대사관은 공식 창구로 안전 플랫폼을 홍보하고, 소방산업기술원은 플랫폼 안전 콘텐츠 고도화에 힘쓰기로 했습니다. 음성군은 이번 협약을 계기로 타 국가 대사관과의 외교적 연계를 확대할 계획입니다. #충북 ...",
+          "guid": "MYH20261105054002cvT",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-04T14:34:24.000Z"
+          "isoDate": "2026-11-04T20:40:02.000Z"
+        },
+        {
+          "creator": "안채린",
+          "title": "서울 장위동 건물 화재로 1명 사망…방화 가능성도",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH202611050539135oF",
+          "pubDate": "Thu, 05 Nov 2026 05:39:14 +0900",
+          "content:encoded": "지난 3일 밤 서울 장위동의 한 건물에서 화재가 발생해 50대 남명 1명이 숨진 가운데, 방화 가능성을 두고 경찰이 수사에 착수했습니다.\n\n성북소방서는 지난 3일 밤 10시 40분 쯤 장위동 3층 건물 2층 공장에서 불이나 50대 남성 1명이 심정지 상태로 병원에 이송됐으나 숨졌다고 밝혔습니다.\n\n불은 발생 약 한 시간 만인 오후 11시 40분 쯤 완전히 꺼졌습니다.\n\n경찰은 방화 등 여러 가능성을 열어두고 정확한 화재 원인을 확인하고 있습니다.\n\n[화면제공 성북소방서]\n\n#화재 #방화 #장위동\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n안채린(chaerin163@yna.co.kr)",
+          "content:encodedSnippet": "지난 3일 밤 서울 장위동의 한 건물에서 화재가 발생해 50대 남명 1명이 숨진 가운데, 방화 가능성을 두고 경찰이 수사에 착수했습니다.\n\n성북소방서는 지난 3일 밤 10시 40분 쯤 장위동 3층 건물 2층 공장에서 불이나 50대 남성 1명이 심정지 상태로 병원에 이송됐으나 숨졌다고 밝혔습니다.\n\n불은 발생 약 한 시간 만인 오후 11시 40분 쯤 완전히 꺼졌습니다.\n\n경찰은 방화 등 여러 가능성을 열어두고 정확한 화재 원인을 확인하고 있습니다.\n\n[화면제공 성북소방서]\n\n#화재 #방화 #장위동\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n안채린(chaerin163@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261104/MYH202611050539135oF.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "안채린",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH202611050539135oF#comments",
+          "content": "지난 3일 밤 서울 장위동의 한 건물에서 화재가 발생해 50대 남명 1명이 숨진 가운데, 방화 가능성을 두고 경찰이 수사에 착수했습니다. 성북소방서는 지난 3일 밤 10시 40분 쯤 장위동 3층 건물 2층 공장에서 불이나 50대 남성 1명이 심정지 상태로 병원에 이송됐으나 숨졌다고 밝혔습니다. 불은 발생 약 한 시간 만인 오후 11시 40분 쯤 완전히 꺼졌습니다. 경찰은 방화 등 여러 가능성을 열어두고 정확한 화재 원인을 확인하고 있습니다...",
+          "contentSnippet": "지난 3일 밤 서울 장위동의 한 건물에서 화재가 발생해 50대 남명 1명이 숨진 가운데, 방화 가능성을 두고 경찰이 수사에 착수했습니다. 성북소방서는 지난 3일 밤 10시 40분 쯤 장위동 3층 건물 2층 공장에서 불이나 50대 남성 1명이 심정지 상태로 병원에 이송됐으나 숨졌다고 밝혔습니다. 불은 발생 약 한 시간 만인 오후 11시 40분 쯤 완전히 꺼졌습니다. 경찰은 방화 등 여러 가능성을 열어두고 정확한 화재 원인을 확인하고 있습니다...",
+          "guid": "MYH202611050539135oF",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-04T20:39:14.000Z"
+        },
+        {
+          "creator": "장한별",
+          "title": "김준형 \"청해부대 작전 지역 확대, 파병 꼼수\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261105053824gDB",
+          "pubDate": "Thu, 05 Nov 2026 05:38:25 +0900",
+          "content:encoded": "김준형 조국혁신당 원내대표는 정부가 청해부대 작전 지역 확대를 검토하는 것에 대해 \"사실상 파병\"이라며 반대 입장을 밝혔습니다.\n\n김 원내대표는 어제(4일) 기자회견을 열고 \"정부가 작전 범위를 확장하고, 해상초계기와 폭발물 처리반 등의 추가 파견 방안까지 준비 중인 것으로 보인다\"고 말했습니다.\n\n그러면서 \"전쟁이 끝나지도 않았는데 왜 우리 군함의 작전 지역을 전쟁해역 가까이 넓히려는 것이냐\"고 반발했습니다.\n\n김 원내대표는 \"트럼프 대통령이 한국이 전 세계 최초로 파병했다고 자랑한다면 그 순간 우리는 중동 전쟁의 제1호 참전국이 된다\"며, '전쟁 불개입 원칙'을 정해부대 임무 확대로 우회해선 안 된다고 목소리를 높였습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n장한별(good_star@yna.co.kr)",
+          "content:encodedSnippet": "김준형 조국혁신당 원내대표는 정부가 청해부대 작전 지역 확대를 검토하는 것에 대해 \"사실상 파병\"이라며 반대 입장을 밝혔습니다.\n\n김 원내대표는 어제(4일) 기자회견을 열고 \"정부가 작전 범위를 확장하고, 해상초계기와 폭발물 처리반 등의 추가 파견 방안까지 준비 중인 것으로 보인다\"고 말했습니다.\n\n그러면서 \"전쟁이 끝나지도 않았는데 왜 우리 군함의 작전 지역을 전쟁해역 가까이 넓히려는 것이냐\"고 반발했습니다.\n\n김 원내대표는 \"트럼프 대통령이 한국이 전 세계 최초로 파병했다고 자랑한다면 그 순간 우리는 중동 전쟁의 제1호 참전국이 된다\"며, '전쟁 불개입 원칙'을 정해부대 임무 확대로 우회해선 안 된다고 목소리를 높였습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n장한별(good_star@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261104/MYH20261105053824gDB.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "장한별",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261105053824gDB#comments",
+          "content": "김준형 조국혁신당 원내대표는 정부가 청해부대 작전 지역 확대를 검토하는 것에 대해 \"사실상 파병\"이라며 반대 입장을 밝혔습니다. 김 원내대표는 어제(4일) 기자회견을 열고 \"정부가 작전 범위를 확장하고, 해상초계기와 폭발물 처리반 등의 추가 파견 방안까지 준비 중인 것으로 보인다\"고 말했습니다. 그러면서 \"전쟁이 끝나지도 않았는데 왜 우리 군함의 작전 지역을 전쟁해역 가까이 넓히려는 것이냐\"고 반발했습니다. 김 원내대표는 \"트럼프 대통령이...",
+          "contentSnippet": "김준형 조국혁신당 원내대표는 정부가 청해부대 작전 지역 확대를 검토하는 것에 대해 \"사실상 파병\"이라며 반대 입장을 밝혔습니다. 김 원내대표는 어제(4일) 기자회견을 열고 \"정부가 작전 범위를 확장하고, 해상초계기와 폭발물 처리반 등의 추가 파견 방안까지 준비 중인 것으로 보인다\"고 말했습니다. 그러면서 \"전쟁이 끝나지도 않았는데 왜 우리 군함의 작전 지역을 전쟁해역 가까이 넓히려는 것이냐\"고 반발했습니다. 김 원내대표는 \"트럼프 대통령이...",
+          "guid": "MYH20261105053824gDB",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-04T20:38:25.000Z"
+        },
+        {
+          "creator": "임민형",
+          "title": "[이 시각 핫뉴스] 칠순 손영권 삼성전자 고문, 25살 연하와 결혼 外",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261105053649xT8",
+          "pubDate": "Thu, 05 Nov 2026 05:36:52 +0900",
+          "content:encoded": "목요일 아침 이시각 핫뉴스입니다.\n\n연합뉴스TV 기사 중 온라인에서 누리꾼들이 가장 많이 본 상위권 뉴스는 어떤 것들이 있을까요?\n\n▶ 칠순 손영권 삼성전자 고문, 25살 연하와 결혼\n\n먼저 20위 중 1위를 차지한 기사입니다.\n\n삼성전자의 하만 인수를 주도했던 손영권 삼성전자 고문이 슈퍼모델 출신 김자연 씨와 결혼해 화제입니다.\n\n자세한 내용, 기사로 확인해 보시죠.\n\n25살의 나이 차를 극복한 두 사람은 2년 전 미국 MIT 대학원 동문으로 만나 올해 초 연인으로 발전했는데요.\n\n김 씨는 최근 사회관계망서비스에 “마흔을 훌쩍 넘어 돌고 돌아 한 사람을 만났다”는 글과 결혼사진을 공개했습니다.\n\n2003년 SBS 슈퍼모델 선발대회에서 1위를 차지한 김 씨는 의류업계에서 일한 뒤 현재 홍보 전략가로 활동하고 있습니다.\n\n손 고문은 삼성전자 고문과 하만 인터내셔널 이사회 의장을 맡고 있습니다.\n\n▶ 인공지능 아니냐고?…1,000만 홀린 낙엽 물범\n\n다음 소식으로 넘어가보겠습니다.\n\n20위 중 3위를 차지한 기사인데요.\n\n낙엽 위를 데굴데굴 구르며 가을을 즐기는 듯한 물범의 영상이 온라인상에서 큰 인기를 얻고 있습니다.\n\n기사로 확인해 보시죠.\n\n낙엽이 깔린 잔디밭에서 몸을 구르는 회색물범 다비드의 모습인데요.\n\n폴란드 보리세프 동물원이 공식 사회관계망서비스에 공개한 이 영상은 현지시간 2일 기준 조회수 1천만 회를 넘겼습니다.\n\n다비드는 배를 튕기듯 움직이며 잔디밭 위를 통통 튀기도 하는데요.\n\n전문가들은 이런 행동이 회색물범의 자연스러운 습성이라며, 번식기에 수컷들이 서열을 정하고 암컷의 관심을 얻기 위해 서로 힘겨루기하는 행동과 관련이 있다고 설명했습니다.\n\n누리꾼들은 \"좋은 기운을 주는 영상이다\", \"돌돌이 같다\" 등의 반응을 보이고 있습니다.\n\n▶ 60년 전 '배트맨 카드'…3억 원 육박 낙찰\n\n이제 마지막 기사도 확인해 보시죠.\n\n11위를 차지한 기사입니다.\n\n60년 전 발행된 배트맨 수집용 카드가 미국 경매에서 한화 약 3억 원에 육박하는 가격에 낙찰됐습니다.\n\n기사로 확인해 보겠습니다.\n\n1966년에 제작된 이 카드의 낙찰가는 무려 3억 원에 달했는데요.\n\n카드 제작사 톱스가 선보인 배트맨 수집용 카드 묶음의 첫 번째 카드인 '더 배트맨'입니다.\n\n당시 미국에서 실사 드라마 '배트맨'이 큰 인기를 끌자 이를 기념해 관련 카드가 제작됐는데요.\n\n이 카드는 미국 카드 감정기관 PSA로부터 10점 만점에 9점이라는 높은 등급을 받기도 했습니다.\n\n지금까지 이 시각 핫뉴스였습니다.\n\n[화면출처 네이버]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n임민형(nhm3115@yna.co.kr)",
+          "content:encodedSnippet": "목요일 아침 이시각 핫뉴스입니다.\n\n연합뉴스TV 기사 중 온라인에서 누리꾼들이 가장 많이 본 상위권 뉴스는 어떤 것들이 있을까요?\n\n▶ 칠순 손영권 삼성전자 고문, 25살 연하와 결혼\n\n먼저 20위 중 1위를 차지한 기사입니다.\n\n삼성전자의 하만 인수를 주도했던 손영권 삼성전자 고문이 슈퍼모델 출신 김자연 씨와 결혼해 화제입니다.\n\n자세한 내용, 기사로 확인해 보시죠.\n\n25살의 나이 차를 극복한 두 사람은 2년 전 미국 MIT 대학원 동문으로 만나 올해 초 연인으로 발전했는데요.\n\n김 씨는 최근 사회관계망서비스에 “마흔을 훌쩍 넘어 돌고 돌아 한 사람을 만났다”는 글과 결혼사진을 공개했습니다.\n\n2003년 SBS 슈퍼모델 선발대회에서 1위를 차지한 김 씨는 의류업계에서 일한 뒤 현재 홍보 전략가로 활동하고 있습니다.\n\n손 고문은 삼성전자 고문과 하만 인터내셔널 이사회 의장을 맡고 있습니다.\n\n▶ 인공지능 아니냐고?…1,000만 홀린 낙엽 물범\n\n다음 소식으로 넘어가보겠습니다.\n\n20위 중 3위를 차지한 기사인데요.\n\n낙엽 위를 데굴데굴 구르며 가을을 즐기는 듯한 물범의 영상이 온라인상에서 큰 인기를 얻고 있습니다.\n\n기사로 확인해 보시죠.\n\n낙엽이 깔린 잔디밭에서 몸을 구르는 회색물범 다비드의 모습인데요.\n\n폴란드 보리세프 동물원이 공식 사회관계망서비스에 공개한 이 영상은 현지시간 2일 기준 조회수 1천만 회를 넘겼습니다.\n\n다비드는 배를 튕기듯 움직이며 잔디밭 위를 통통 튀기도 하는데요.\n\n전문가들은 이런 행동이 회색물범의 자연스러운 습성이라며, 번식기에 수컷들이 서열을 정하고 암컷의 관심을 얻기 위해 서로 힘겨루기하는 행동과 관련이 있다고 설명했습니다.\n\n누리꾼들은 \"좋은 기운을 주는 영상이다\", \"돌돌이 같다\" 등의 반응을 보이고 있습니다.\n\n▶ 60년 전 '배트맨 카드'…3억 원 육박 낙찰\n\n이제 마지막 기사도 확인해 보시죠.\n\n11위를 차지한 기사입니다.\n\n60년 전 발행된 배트맨 수집용 카드가 미국 경매에서 한화 약 3억 원에 육박하는 가격에 낙찰됐습니다.\n\n기사로 확인해 보겠습니다.\n\n1966년에 제작된 이 카드의 낙찰가는 무려 3억 원에 달했는데요.\n\n카드 제작사 톱스가 선보인 배트맨 수집용 카드 묶음의 첫 번째 카드인 '더 배트맨'입니다.\n\n당시 미국에서 실사 드라마 '배트맨'이 큰 인기를 끌자 이를 기념해 관련 카드가 제작됐는데요.\n\n이 카드는 미국 카드 감정기관 PSA로부터 10점 만점에 9점이라는 높은 등급을 받기도 했습니다.\n\n지금까지 이 시각 핫뉴스였습니다.\n\n[화면출처 네이버]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n임민형(nhm3115@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261104/MYH20261105053649xT8.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "임민형",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261105053649xT8#comments",
+          "content": "목요일 아침 이시각 핫뉴스입니다. 연합뉴스TV 기사 중 온라인에서 누리꾼들이 가장 많이 본 상위권 뉴스는 어떤 것들이 있을까요? ▶ 칠순 손영권 삼성전자 고문, 25살 연하와 결혼 먼저 20위 중 1위를 차지한 기사입니다. 삼성전자의 하만 인수를 주도했던 손영권 삼성전자 고문이 슈퍼모델 출신 김자연 씨와 결혼해 화제입니다. 자세한 내용, 기사로 확인해 보시죠. 25살의 나이 차를 극복한 두 사람은 2년 전 미국 MIT 대학원 동문으로 만나...",
+          "contentSnippet": "목요일 아침 이시각 핫뉴스입니다. 연합뉴스TV 기사 중 온라인에서 누리꾼들이 가장 많이 본 상위권 뉴스는 어떤 것들이 있을까요? ▶ 칠순 손영권 삼성전자 고문, 25살 연하와 결혼 먼저 20위 중 1위를 차지한 기사입니다. 삼성전자의 하만 인수를 주도했던 손영권 삼성전자 고문이 슈퍼모델 출신 김자연 씨와 결혼해 화제입니다. 자세한 내용, 기사로 확인해 보시죠. 25살의 나이 차를 극복한 두 사람은 2년 전 미국 MIT 대학원 동문으로 만나...",
+          "guid": "MYH20261105053649xT8",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-04T20:36:52.000Z"
+        },
+        {
+          "creator": "하준",
+          "title": "진주 국제농식품박람회 개막…농업 체험·특산물 판매",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH202611050533580ML",
+          "pubDate": "Thu, 05 Nov 2026 05:34:00 +0900",
+          "content:encoded": "2026 진주 국제농식품박람회가 어제(4일) 진주 종합경기장 일원에서 개막했습니다.\n\n오는 8일까지 열리는 박람회에는 17개국·270여개 업체가 참여해 농특산물과 스마트 농기계 등 다양한 농업·농식품 콘텐츠를 선보입니다.\n\n또 고구마, 콩, 참깨 등 진주지역 토종 종자 전시와 우수 농식품 판매 행사도 진행합니다.\n\n이 밖에도 화분 만들기, 건식 족욕 등 체험 프로그램도 다양하게 마련됐습니다.\n\n[화면제공 진주시]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n하준(hajun@yna.co.kr)",
+          "content:encodedSnippet": "2026 진주 국제농식품박람회가 어제(4일) 진주 종합경기장 일원에서 개막했습니다.\n\n오는 8일까지 열리는 박람회에는 17개국·270여개 업체가 참여해 농특산물과 스마트 농기계 등 다양한 농업·농식품 콘텐츠를 선보입니다.\n\n또 고구마, 콩, 참깨 등 진주지역 토종 종자 전시와 우수 농식품 판매 행사도 진행합니다.\n\n이 밖에도 화분 만들기, 건식 족욕 등 체험 프로그램도 다양하게 마련됐습니다.\n\n[화면제공 진주시]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n하준(hajun@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261104/MYH202611050533580ML.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "하준",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH202611050533580ML#comments",
+          "content": "2026 진주 국제농식품박람회가 어제(4일) 진주 종합경기장 일원에서 개막했습니다. 오는 8일까지 열리는 박람회에는 17개국·270여개 업체가 참여해 농특산물과 스마트 농기계 등 다양한 농업·농식품 콘텐츠를 선보입니다. 또 고구마, 콩, 참깨 등 진주지역 토종 종자 전시와 우수 농식품 판매 행사도 진행합니다. 이 밖에도 화분 만들기, 건식 족욕 등 체험 프로그램도 다양하게 마련됐습니다. [화면제공 진주시] 연합뉴스TV 기사문의 및 제보 :...",
+          "contentSnippet": "2026 진주 국제농식품박람회가 어제(4일) 진주 종합경기장 일원에서 개막했습니다. 오는 8일까지 열리는 박람회에는 17개국·270여개 업체가 참여해 농특산물과 스마트 농기계 등 다양한 농업·농식품 콘텐츠를 선보입니다. 또 고구마, 콩, 참깨 등 진주지역 토종 종자 전시와 우수 농식품 판매 행사도 진행합니다. 이 밖에도 화분 만들기, 건식 족욕 등 체험 프로그램도 다양하게 마련됐습니다. [화면제공 진주시] 연합뉴스TV 기사문의 및 제보 :...",
+          "guid": "MYH202611050533580ML",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-04T20:34:00.000Z"
         },
         {
           "creator": "이초원",
-          "title": "한국 찾은 안세영…'시즌 51연승' 기분 좋은 첫발",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261104233355xu3",
-          "pubDate": "Wed, 04 Nov 2026 23:33:57 +0900",
-          "content:encoded": "[앵커]\n\n배드민턴 여제 안세영 선수가 1년 2개월 만에 한국에서 경기를 치렀습니다.\n\n경기장이 떠나갈 듯한 국내 팬들의 응원을 등에 업고 시즌 11번째 우승을 향한 기분 좋은 첫발을 뗐습니다.\n\n이초원 기자입니다.\n\n[기자]\n\n아시안게임 후 유럽 2연전까지.\n\n체력 부담이 커졌지만, 안세영은 전남 여수에서 열린 코리아오픈에 참가했습니다.\n\n약 1년 2개월 만에 국내에서 펼쳐진 대회에 경기장은 팬들의 응원 목소리로 가득했습니다.\n\n\"안세영 파이팅! 대한민국 파이팅!\"\n\n열렬한 홈 응원을 등에 업고 안세영이 32강에서 만난 상대는 세계랭킹 38위의 불가리아 선수, 카로야나 날반토바.\n\n1세트 초반, 날반토바는 넘치는 힘을 주체하지 못해 연속해서 셔틀콕을 라인 밖으로 내리꽂았습니다.\n\n크게 힘들이지 않고 4-0까지 앞서 나간 안세영은 반대 코트 깊숙이 셔틀콕을 넣는 등 상대에게 단 한 점도 내주지 않고 6-0까지 달아났습니다.\n\n안세영은 필살기로 상대를 쉽게 요리했습니다.\n\n짧고 깊게 찌르는 드롭과 클리어 공격을 섞어 상대를 앞뒤로 움직이게 만든 덕분에 네트를 넘기지 못하는 범실을 연달아 끌어냈습니다.\n\n안세영의 2세트는 좌우 공격이 빛났습니다.\n\n오른쪽 코트에 때린 스매싱을 상대가 슬라이딩으로 막아내자 곧바로 정반대 방향에 셔틀콕을 내리꽂으며 추격 의지를 완전히 꺾었습니다.\n\n이날 승리로 안세영은 51연승 질주에 성공했고, 올 시즌 국제대회 성적 67승 1패, 승률 무려 98.53%를 달성했습니다.\n\n이번 대회에서 우승하면 안세영은 단일 시즌 최다 우승 타이 기록인 시즌 11번째 우승은 물론, 인도네시아 전설 수지 수산티의 59연승 기록에도 한 걸음 더 다가가게 됩니다.\n\n연합뉴스TV 이초원입니다.\n\n[영상편집 김 찬]\n\n[그래픽 문수진]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이초원(grass@yna.co.kr)",
-          "content:encodedSnippet": "[앵커]\n\n배드민턴 여제 안세영 선수가 1년 2개월 만에 한국에서 경기를 치렀습니다.\n\n경기장이 떠나갈 듯한 국내 팬들의 응원을 등에 업고 시즌 11번째 우승을 향한 기분 좋은 첫발을 뗐습니다.\n\n이초원 기자입니다.\n\n[기자]\n\n아시안게임 후 유럽 2연전까지.\n\n체력 부담이 커졌지만, 안세영은 전남 여수에서 열린 코리아오픈에 참가했습니다.\n\n약 1년 2개월 만에 국내에서 펼쳐진 대회에 경기장은 팬들의 응원 목소리로 가득했습니다.\n\n\"안세영 파이팅! 대한민국 파이팅!\"\n\n열렬한 홈 응원을 등에 업고 안세영이 32강에서 만난 상대는 세계랭킹 38위의 불가리아 선수, 카로야나 날반토바.\n\n1세트 초반, 날반토바는 넘치는 힘을 주체하지 못해 연속해서 셔틀콕을 라인 밖으로 내리꽂았습니다.\n\n크게 힘들이지 않고 4-0까지 앞서 나간 안세영은 반대 코트 깊숙이 셔틀콕을 넣는 등 상대에게 단 한 점도 내주지 않고 6-0까지 달아났습니다.\n\n안세영은 필살기로 상대를 쉽게 요리했습니다.\n\n짧고 깊게 찌르는 드롭과 클리어 공격을 섞어 상대를 앞뒤로 움직이게 만든 덕분에 네트를 넘기지 못하는 범실을 연달아 끌어냈습니다.\n\n안세영의 2세트는 좌우 공격이 빛났습니다.\n\n오른쪽 코트에 때린 스매싱을 상대가 슬라이딩으로 막아내자 곧바로 정반대 방향에 셔틀콕을 내리꽂으며 추격 의지를 완전히 꺾었습니다.\n\n이날 승리로 안세영은 51연승 질주에 성공했고, 올 시즌 국제대회 성적 67승 1패, 승률 무려 98.53%를 달성했습니다.\n\n이번 대회에서 우승하면 안세영은 단일 시즌 최다 우승 타이 기록인 시즌 11번째 우승은 물론, 인도네시아 전설 수지 수산티의 59연승 기록에도 한 걸음 더 다가가게 됩니다.\n\n연합뉴스TV 이초원입니다.\n\n[영상편집 김 찬]\n\n[그래픽 문수진]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이초원(grass@yna.co.kr)",
+          "title": "故 최동원, 2026 대한민국 스포츠영웅 선정",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261105053311fRB",
+          "pubDate": "Thu, 05 Nov 2026 05:33:12 +0900",
+          "content:encoded": "2026 대한민국 스포츠영웅에 야구선수 고 최동원이 선정됐습니다.\n\n대한체육회는 \"롯데 자이언츠 구단 첫 우승을 이끌고, 1977년 대륙간컵과 1982년 세계야구선수권대회 우승에 이바지하는 등 한국 야구 발전과 국위선양에 공헌한 고 최동원을 영웅으로 선정했다\"고 밝혔습니다.\n\n대한민국 스포츠영웅은 뛰어난 업적을 통해 국위선양과 한국 스포츠 발전에 이바지한 체육인을 선정하는 제도입니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이초원(grass@yna.co.kr)",
+          "content:encodedSnippet": "2026 대한민국 스포츠영웅에 야구선수 고 최동원이 선정됐습니다.\n\n대한체육회는 \"롯데 자이언츠 구단 첫 우승을 이끌고, 1977년 대륙간컵과 1982년 세계야구선수권대회 우승에 이바지하는 등 한국 야구 발전과 국위선양에 공헌한 고 최동원을 영웅으로 선정했다\"고 밝혔습니다.\n\n대한민국 스포츠영웅은 뛰어난 업적을 통해 국위선양과 한국 스포츠 발전에 이바지한 체육인을 선정하는 제도입니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이초원(grass@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261104/MYH20261104233355xu3.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261104/MYH20261105053311fRB.jpg",
             "type": "image/jpeg"
           },
           "dc:creator": "이초원",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261104233355xu3#comments",
-          "content": "[앵커] 배드민턴 여제 안세영 선수가 1년 2개월 만에 한국에서 경기를 치렀습니다. 경기장이 떠나갈 듯한 국내 팬들의 응원을 등에 업고 시즌 11번째 우승을 향한 기분 좋은 첫발을 뗐습니다. 이초원 기자입니다. [기자] 아시안게임 후 유럽 2연전까지. 체력 부담이 커졌지만, 안세영은 전남 여수에서 열린 코리아오픈에 참가했습니다. 약 1년 2개월 만에 국내에서 펼쳐진 대회에 경기장은 팬들의 응원 목소리로 가득했습니다. \"안세영 파이팅! 대한...",
-          "contentSnippet": "[앵커] 배드민턴 여제 안세영 선수가 1년 2개월 만에 한국에서 경기를 치렀습니다. 경기장이 떠나갈 듯한 국내 팬들의 응원을 등에 업고 시즌 11번째 우승을 향한 기분 좋은 첫발을 뗐습니다. 이초원 기자입니다. [기자] 아시안게임 후 유럽 2연전까지. 체력 부담이 커졌지만, 안세영은 전남 여수에서 열린 코리아오픈에 참가했습니다. 약 1년 2개월 만에 국내에서 펼쳐진 대회에 경기장은 팬들의 응원 목소리로 가득했습니다. \"안세영 파이팅! 대한...",
-          "guid": "MYH20261104233355xu3",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261105053311fRB#comments",
+          "content": "2026 대한민국 스포츠영웅에 야구선수 고 최동원이 선정됐습니다. 대한체육회는 \"롯데 자이언츠 구단 첫 우승을 이끌고, 1977년 대륙간컵과 1982년 세계야구선수권대회 우승에 이바지하는 등 한국 야구 발전과 국위선양에 공헌한 고 최동원을 영웅으로 선정했다\"고 밝혔습니다. 대한민국 스포츠영웅은 뛰어난 업적을 통해 국위선양과 한국 스포츠 발전에 이바지한 체육인을 선정하는 제도입니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 ...",
+          "contentSnippet": "2026 대한민국 스포츠영웅에 야구선수 고 최동원이 선정됐습니다. 대한체육회는 \"롯데 자이언츠 구단 첫 우승을 이끌고, 1977년 대륙간컵과 1982년 세계야구선수권대회 우승에 이바지하는 등 한국 야구 발전과 국위선양에 공헌한 고 최동원을 영웅으로 선정했다\"고 밝혔습니다. 대한민국 스포츠영웅은 뛰어난 업적을 통해 국위선양과 한국 스포츠 발전에 이바지한 체육인을 선정하는 제도입니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 ...",
+          "guid": "MYH20261105053311fRB",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-04T14:33:57.000Z"
+          "isoDate": "2026-11-04T20:33:12.000Z"
         },
         {
-          "creator": "조한대",
-          "title": "OK저축은행, 블로킹 16개…KB손보 꺾고 승리",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261104233242cBM",
-          "pubDate": "Wed, 04 Nov 2026 23:32:45 +0900",
-          "content:encoded": "남자배구 OK저축은행이 V리그 첫 경기에서 블로킹으로만 16점을 뽑으며 KB손해보험을 연패의 늪에 빠뜨렸습니다.\n\nOK저축은행은 KB손해보험과의 방문 경기에서 세트 점수 3-1로 이겼습니다.\n\n이란 출신 미들 블로커 페이즈는 9개의 블로킹 득점을 올리며 역대 외국인 선수 한 경기 최다 가로막기 득점 신기록을 세웠습니다.\n\n한편, 여자배구 흥국생명은 정관장을 3-0으로 잡고 2연승을 질주했습니다.\n\n흥국생명 킨델란은 22점을 올리며 팀 승리를 이끌었습니다.\n\n정관장 종휘는 양 팀 선수 중 최다인 24점을 냈지만, 팀 패배를 막지 못했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n조한대(onepunch@yna.co.kr)",
-          "content:encodedSnippet": "남자배구 OK저축은행이 V리그 첫 경기에서 블로킹으로만 16점을 뽑으며 KB손해보험을 연패의 늪에 빠뜨렸습니다.\n\nOK저축은행은 KB손해보험과의 방문 경기에서 세트 점수 3-1로 이겼습니다.\n\n이란 출신 미들 블로커 페이즈는 9개의 블로킹 득점을 올리며 역대 외국인 선수 한 경기 최다 가로막기 득점 신기록을 세웠습니다.\n\n한편, 여자배구 흥국생명은 정관장을 3-0으로 잡고 2연승을 질주했습니다.\n\n흥국생명 킨델란은 22점을 올리며 팀 승리를 이끌었습니다.\n\n정관장 종휘는 양 팀 선수 중 최다인 24점을 냈지만, 팀 패배를 막지 못했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n조한대(onepunch@yna.co.kr)",
+          "creator": "박지운",
+          "title": "전국법관대표회의, 정기회의 조기 소집 검토",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261105053201coU",
+          "pubDate": "Thu, 05 Nov 2026 05:32:03 +0900",
+          "content:encoded": "여당이 조희대 대법원장에 대한 국정조사를 추진하는 가운데 각급 법원 대표 판사들의 회의기구인 전국법관대표회의가 이번 달 중 임시회의를 소집하거나, 정기회의를 앞당기는 방안을 검토하고 있습니다.\n\n법조계에 따르면, 최근 법원 내부망에 법관 임시회의 개최를 촉구하는 게시글이 올라온 가운데, 강동원 전국법관대표회의 의장이 댓글로 \"긴급한 필요시에는 임시회의를 소집하거나 12월 7일 예정된 정기회의를 11월로 앞당겨서 진행하는 것도 검토하고 있다\"고 적었습니다.\n\n전국법관대표회의는 각급 법원에서 선출된 대표 판사들이 모인 회의체로 사법행정과 법관 독립에 관한 의견을 표명하거나 건의해왔습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박지운(zwoonie@yna.co.kr)",
+          "content:encodedSnippet": "여당이 조희대 대법원장에 대한 국정조사를 추진하는 가운데 각급 법원 대표 판사들의 회의기구인 전국법관대표회의가 이번 달 중 임시회의를 소집하거나, 정기회의를 앞당기는 방안을 검토하고 있습니다.\n\n법조계에 따르면, 최근 법원 내부망에 법관 임시회의 개최를 촉구하는 게시글이 올라온 가운데, 강동원 전국법관대표회의 의장이 댓글로 \"긴급한 필요시에는 임시회의를 소집하거나 12월 7일 예정된 정기회의를 11월로 앞당겨서 진행하는 것도 검토하고 있다\"고 적었습니다.\n\n전국법관대표회의는 각급 법원에서 선출된 대표 판사들이 모인 회의체로 사법행정과 법관 독립에 관한 의견을 표명하거나 건의해왔습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박지운(zwoonie@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261104/MYH20261104233242cBM.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261104/MYH20261105053201coU.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "조한대",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261104233242cBM#comments",
-          "content": "남자배구 OK저축은행이 V리그 첫 경기에서 블로킹으로만 16점을 뽑으며 KB손해보험을 연패의 늪에 빠뜨렸습니다. OK저축은행은 KB손해보험과의 방문 경기에서 세트 점수 3-1로 이겼습니다. 이란 출신 미들 블로커 페이즈는 9개의 블로킹 득점을 올리며 역대 외국인 선수 한 경기 최다 가로막기 득점 신기록을 세웠습니다. 한편, 여자배구 흥국생명은 정관장을 3-0으로 잡고 2연승을 질주했습니다. 흥국생명 킨델란은 22점을 올리며 팀 승리를 이끌...",
-          "contentSnippet": "남자배구 OK저축은행이 V리그 첫 경기에서 블로킹으로만 16점을 뽑으며 KB손해보험을 연패의 늪에 빠뜨렸습니다. OK저축은행은 KB손해보험과의 방문 경기에서 세트 점수 3-1로 이겼습니다. 이란 출신 미들 블로커 페이즈는 9개의 블로킹 득점을 올리며 역대 외국인 선수 한 경기 최다 가로막기 득점 신기록을 세웠습니다. 한편, 여자배구 흥국생명은 정관장을 3-0으로 잡고 2연승을 질주했습니다. 흥국생명 킨델란은 22점을 올리며 팀 승리를 이끌...",
-          "guid": "MYH20261104233242cBM",
+          "dc:creator": "박지운",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261105053201coU#comments",
+          "content": "여당이 조희대 대법원장에 대한 국정조사를 추진하는 가운데 각급 법원 대표 판사들의 회의기구인 전국법관대표회의가 이번 달 중 임시회의를 소집하거나, 정기회의를 앞당기는 방안을 검토하고 있습니다. 법조계에 따르면, 최근 법원 내부망에 법관 임시회의 개최를 촉구하는 게시글이 올라온 가운데, 강동원 전국법관대표회의 의장이 댓글로 \"긴급한 필요시에는 임시회의를 소집하거나 12월 7일 예정된 정기회의를 11월로 앞당겨서 진행하는 것도 검토하고 있다\"...",
+          "contentSnippet": "여당이 조희대 대법원장에 대한 국정조사를 추진하는 가운데 각급 법원 대표 판사들의 회의기구인 전국법관대표회의가 이번 달 중 임시회의를 소집하거나, 정기회의를 앞당기는 방안을 검토하고 있습니다. 법조계에 따르면, 최근 법원 내부망에 법관 임시회의 개최를 촉구하는 게시글이 올라온 가운데, 강동원 전국법관대표회의 의장이 댓글로 \"긴급한 필요시에는 임시회의를 소집하거나 12월 7일 예정된 정기회의를 11월로 앞당겨서 진행하는 것도 검토하고 있다\"...",
+          "guid": "MYH20261105053201coU",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-04T14:32:45.000Z"
+          "isoDate": "2026-11-04T20:32:03.000Z"
         }
       ]
     }
