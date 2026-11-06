@@ -7,6 +7,136 @@
       "priority": 1,
       "data": [
         {
+          "title": "Ask HN: Ubuntu는 도대체 왜 이렇게 오래 걸리는 건가요?",
+          "link": "https://news.hada.io/topic?id=36722&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-06T20:37:23.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>Ubuntu가 <strong><a href=\"https://ubuntu.com/security/CVE-2026-98432\">CVE-2026-98432</a></strong> 의 심각도를 <strong>9.8</strong>로 표시했지만, 거의 일주일째 수정 업데이트 없이 “work in progress” 상태이며 이제는 완화 조치가 안내되어 있음</li><li>완화 조치를 적용한 지 일주일이 됐지만, 대응 지연으로 <strong>Ubuntu에 대한 신뢰</strong>가 흔들리고 있음. 지원하는 커널이 너무 많은지, 빌드/테스트 파이프라인의 자동화가 부족한지, 엔지니어들이 과부하 상태인지 등 지연 이유를 알고 싶어 함</li><li>오랫동안 <strong>OS 업데이트 유지</strong>가 공격자를 막는 중요한 수단이었지만 상황이 달라지고 있다고 느낌. 보안 문제가 훨씬 더 많아질 것으로 예상하며, 지금도 대응을 따라가지 못한다면 앞으로 6개월 뒤에는 어떻게 될지 우려함</li></ul></div>…",
+          "contentSnippet": "Ubuntu가 CVE-2026-98432 의 심각도를 9.8로 표시했지만, 거의 일주일째 수정 업데이트 없이 “work in progress” 상태이며 이제는 완화 조치가 안내되어 있음\n완화 조치를 적용한 지 일주일이 됐지만, 대응 지연으로 Ubuntu에 대한 신뢰가 흔들리고 있음. 지원하는 커널이 너무 많은지, 빌드/테스트 파이프라인의 자동화가 부족한지, 엔지니어들이 과부하 상태인지 등 지연 이유를 알고 싶어 함\n오랫동안 OS 업데이트 유지가 공격자를 막는 중요한 수단이었지만 상황이 달라지고 있다고 느낌. 보안 문제가 훨씬 더 많아질 것으로 예상하며, 지금도 대응을 따라가지 못한다면 앞으로 6개월 뒤에는 어떻게 될지 우려함\n\n…",
+          "id": "https://news.hada.io/topic?id=36722",
+          "isoDate": "2026-11-06T20:37:23.000Z"
+        },
+        {
+          "title": "미국 FAA, 2028년까지 항공교통관제에서 플로피 디스크 단계적 퇴출 계획",
+          "link": "https://news.hada.io/topic?id=36721&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-06T20:34:22.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>미국 연방항공청(FAA)이 전국 <strong>400곳 이상의 항공교통관제 시설</strong>에서 기상 등 핵심 정보 처리에 사용하는 플로피 디스크를 <strong>2028년 말까지 교체</strong>할 계획임</li><li><strong>Enterprise Information Display System</strong>이 1980년대부터 사용한 시스템 4개를 대체하고, 관제사가 운항 정보를 한곳에서 확인하며 중요 경보를 즉시 공유할 수 있도록 할 예정임</li><li>노후 관제 시스템 개선을 위해 의회가 <strong>125억 달러</strong>를 승인했으며, Sean Duffy 교통부 장관은 추가 개선에 <strong>300억 달러</strong>를 더 원하고 있음</li><li>최근 <strong>광케이블 절단과 통신 장애</strong>로 항공편 지연과 결항이 발생했으며, </li></ul></div>…",
+          "contentSnippet": "미국 연방항공청(FAA)이 전국 400곳 이상의 항공교통관제 시설에서 기상 등 핵심 정보 처리에 사용하는 플로피 디스크를 2028년 말까지 교체할 계획임\nEnterprise Information Display System이 1980년대부터 사용한 시스템 4개를 대체하고, 관제사가 운항 정보를 한곳에서 확인하며 중요 경보를 즉시 공유할 수 있도록 할 예정임\n노후 관제 시스템 개선을 위해 의회가 125억 달러를 승인했으며, Sean Duffy 교통부 장관은 추가 개선에 300억 달러를 더 원하고 있음\n최근 광케이블 절단과 통신 장애로 항공편 지연과 결항이 발생했으며, \n\n…",
+          "id": "https://news.hada.io/topic?id=36721",
+          "isoDate": "2026-11-06T20:34:22.000Z"
+        },
+        {
+          "title": "이제 모든 것이 AI 사기다",
+          "link": "https://news.hada.io/topic?id=36720&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-06T19:36:38.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>YouTube 광고</strong>에서 비현실적인 효능을 내세운 제품을 잇달아 접한 개인적 경험을 바탕으로, 플랫폼의 허술한 광고 검증을 비판함</li><li>사기 광고는 대부분의 사람이 가짜임을 알아채더라도 <strong>아주 적은 비율의 사람만 속이면</strong> 비용을 회수할 수 있음</li><li><strong>개인화된 스팸 메일</strong>은 창작자의 작품 소개 문구를 재활용해, 실제로 작품을 읽고 관심을 가진 듯한 영업 제안을 만들어냄</li><li>무료 PDF로 배포하는 시집에 마케팅과 평점 이야기를 꺼낸 메일 사례처럼, 작품에 대한 이해로 보이는 문구가 <strong>정보나 돈을 노리는 미끼</strong>일 수 있음</li><li><strong>광고 제품의 실재 여부 확인</strong></li></ul></div>…",
+          "contentSnippet": "YouTube 광고에서 비현실적인 효능을 내세운 제품을 잇달아 접한 개인적 경험을 바탕으로, 플랫폼의 허술한 광고 검증을 비판함\n사기 광고는 대부분의 사람이 가짜임을 알아채더라도 아주 적은 비율의 사람만 속이면 비용을 회수할 수 있음\n개인화된 스팸 메일은 창작자의 작품 소개 문구를 재활용해, 실제로 작품을 읽고 관심을 가진 듯한 영업 제안을 만들어냄\n무료 PDF로 배포하는 시집에 마케팅과 평점 이야기를 꺼낸 메일 사례처럼, 작품에 대한 이해로 보이는 문구가 정보나 돈을 노리는 미끼일 수 있음\n광고 제품의 실재 여부 확인\n\n…",
+          "id": "https://news.hada.io/topic?id=36720",
+          "isoDate": "2026-11-06T19:36:38.000Z"
+        },
+        {
+          "title": "OpenStreetMap의 실제 건물을 부수는 멀티플레이어 탱크 게임",
+          "link": "https://news.hada.io/topic?id=36719&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-06T19:33:38.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>World Strike</strong>는 OpenStreetMap 기반의 실제 도시 지도를 장난감 탱크로 돌아다니는 샌드박스 게임임</li><li>블록 형태의 건물을 무너뜨릴 수 있으며, <strong>파괴된 상태가 모든 플레이어에게 공유</strong>됨</li><li>다른 탱크와 <strong>대결</strong>하거나 건물 잔해에 이모지로 자신의 흔적을 남길 수 있음</li><li><strong>도시 검색이나 지도 선택</strong>으로 배치할 장소를 정하고, 키보드와 마우스 또는 터치로 탱크를 조작함</li><li>탱크가 파괴되면 <strong>5분의 복귀 대기 시간</strong>이 적용되며, 게임을 떠나도 타이머는 계속 진행됨</li></ul><hr><h2>실제 도시를 공유하는 샌드박스</h2><ul><li><strong><a href=\"https://worldstrike.fun/\">World Strike</a></strong> 는 <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a>의 도로와 건물을 바탕</li></ul></div>…",
+          "contentSnippet": "World Strike는 OpenStreetMap 기반의 실제 도시 지도를 장난감 탱크로 돌아다니는 샌드박스 게임임\n블록 형태의 건물을 무너뜨릴 수 있으며, 파괴된 상태가 모든 플레이어에게 공유됨\n다른 탱크와 대결하거나 건물 잔해에 이모지로 자신의 흔적을 남길 수 있음\n도시 검색이나 지도 선택으로 배치할 장소를 정하고, 키보드와 마우스 또는 터치로 탱크를 조작함\n탱크가 파괴되면 5분의 복귀 대기 시간이 적용되며, 게임을 떠나도 타이머는 계속 진행됨\n\n실제 도시를 공유하는 샌드박스\n\nWorld Strike 는 OpenStreetMap의 도로와 건물을 바탕\n\n…",
+          "id": "https://news.hada.io/topic?id=36719",
+          "isoDate": "2026-11-06T19:33:38.000Z"
+        },
+        {
+          "title": "미국 주식시장에서 2조 5,000억 달러가 증발함",
+          "link": "https://news.hada.io/topic?id=36718&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-06T18:38:37.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>목요일 급락장에서 <strong>AI 인프라 공급업체</strong>의 낙폭이 대형 클라우드 기업보다 컸으며, 나스닥 시가총액은 약 <strong>2조 5,000억 달러</strong> 줄어듦</li><li>대형 클라우드 기업은 기존 사업의 막대한 매출을 바탕으로 지출을 조정할 여지가 있지만, 칩과 메모리, 서버, 전력 장비 공급업체는 <strong>데이터센터 건설 둔화</strong>가 성장 기대에 더 빠르게 영향을 줌</li><li>데이터센터 승인 속도를 늦추거나 일시 중단하겠다는 일부 중간선거 당선인의 공약과 <strong>전력망 연결 지연</strong>은 자금과 고객을 확보한 프로젝트에도 제약이 될 수 있음</li><li>스마트폰 시장에서는 출하량 감소와 <strong>메모리 비용 </strong></li></ul></div>…",
+          "contentSnippet": "목요일 급락장에서 AI 인프라 공급업체의 낙폭이 대형 클라우드 기업보다 컸으며, 나스닥 시가총액은 약 2조 5,000억 달러 줄어듦\n대형 클라우드 기업은 기존 사업의 막대한 매출을 바탕으로 지출을 조정할 여지가 있지만, 칩과 메모리, 서버, 전력 장비 공급업체는 데이터센터 건설 둔화가 성장 기대에 더 빠르게 영향을 줌\n데이터센터 승인 속도를 늦추거나 일시 중단하겠다는 일부 중간선거 당선인의 공약과 전력망 연결 지연은 자금과 고객을 확보한 프로젝트에도 제약이 될 수 있음\n스마트폰 시장에서는 출하량 감소와 메모리 비용 \n\n…",
+          "id": "https://news.hada.io/topic?id=36718",
+          "isoDate": "2026-11-06T18:38:37.000Z"
+        },
+        {
+          "title": "AI 연구개발이 그렇게 독창적이라는 말을 믿기 어렵다",
+          "link": "https://news.hada.io/topic?id=36717&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-06T18:35:37.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>세 가지 사이드 프로젝트를 지켜본 경험에서는 AI가 연구를 자율적으로 수행할 때 <strong>기본적인 판단력</strong>에 약점을 보였음</li><li>중요한 문헌을 가려내지 못하거나, 비교하려는 아키텍처의 차이를 판별하기에 학습 데이터가 너무 적은 <strong>정보 가치 없는 실험</strong>을 진행함</li><li>철학 연구에서는 사소하고 가치가 낮은 방향을 반복해서 탐색했고, 게임 봇 개발에서는 유용한 아이디어가 담긴 자료를 찾고도 <strong>중요성을 알아보지 못함</strong></li><li><strong>빠른 피드백이 가능한 점진적 최적화</strong>는 예외일 수 있음. Astra로 Scrabble의 합법적 수 나열 성능을 10배로 높였지만, 큰 도약 두 </li></ul></div>…",
+          "contentSnippet": "세 가지 사이드 프로젝트를 지켜본 경험에서는 AI가 연구를 자율적으로 수행할 때 기본적인 판단력에 약점을 보였음\n중요한 문헌을 가려내지 못하거나, 비교하려는 아키텍처의 차이를 판별하기에 학습 데이터가 너무 적은 정보 가치 없는 실험을 진행함\n철학 연구에서는 사소하고 가치가 낮은 방향을 반복해서 탐색했고, 게임 봇 개발에서는 유용한 아이디어가 담긴 자료를 찾고도 중요성을 알아보지 못함\n빠른 피드백이 가능한 점진적 최적화는 예외일 수 있음. Astra로 Scrabble의 합법적 수 나열 성능을 10배로 높였지만, 큰 도약 두 \n\n…",
+          "id": "https://news.hada.io/topic?id=36717",
+          "isoDate": "2026-11-06T18:35:37.000Z"
+        },
+        {
+          "title": "Firenook - Rust로 만든 Firebase 에뮬레이터, 쓰기 40배 빠르고 RAM 사용량은 10분의 1",
+          "link": "https://news.hada.io/topic?id=36716&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-06T17:48:19.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>Firenook</strong>은 기존 <code>firebase.json</code>, SDK, 포트와 실행 옵션을 유지하면서 Firebase Local Emulator Suite를 대체하는 도구로, Java 설치 없이 사용 가능함</li><li>실제 운영 앱의 트래픽을 각각 2시간 실행한 <strong>자체 벤치마크</strong>에서 쓰기 중앙값은 공식 에뮬레이터의 208.2ms 대비 <strong>5.1ms</strong>, 최대 메모리는 22.57GiB 대비 2.11GiB였음</li><li><strong>Firestore, Authentication 등 8개 서비스</strong>를 지원하지만 Realtime Database, Hosting, App Hosting, Data Connect는 에뮬레이션하지 않음</li><li><strong><code>--keep-data</code></strong> 로 Firestore, Auth, Storage 데이터를 재시작 후에도 유지하며, 매번</li></ul></div>…",
+          "contentSnippet": "Firenook은 기존 firebase.json, SDK, 포트와 실행 옵션을 유지하면서 Firebase Local Emulator Suite를 대체하는 도구로, Java 설치 없이 사용 가능함\n실제 운영 앱의 트래픽을 각각 2시간 실행한 자체 벤치마크에서 쓰기 중앙값은 공식 에뮬레이터의 208.2ms 대비 5.1ms, 최대 메모리는 22.57GiB 대비 2.11GiB였음\nFirestore, Authentication 등 8개 서비스를 지원하지만 Realtime Database, Hosting, App Hosting, Data Connect는 에뮬레이션하지 않음\n--keep-data 로 Firestore, Auth, Storage 데이터를 재시작 후에도 유지하며, 매번\n\n…",
+          "id": "https://news.hada.io/topic?id=36716",
+          "isoDate": "2026-11-06T17:48:19.000Z"
+        },
+        {
+          "title": "Deus Ex - 자유로운 문제 해결을 구현한 이머시브 심과 ‘미래 예언’이라는 평가",
+          "link": "https://news.hada.io/topic?id=36715&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-06T17:45:19.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>2000년 출시된 <strong>Deus Ex</strong>는 정해진 정답 대신 다양한 해결 수단을 제공하는 이머시브 심 설계를 대중적 성공으로 연결한 게임임</li><li>설계 원칙은 “<strong>퍼즐이 아니라 문제</strong>”로, 전투와 잠입, 해킹 등을 조합해 개발자조차 예상하지 못한 방법으로 임무를 해결할 수 있음</li><li>개별 임무의 자유도와 달리 <strong>전체 서사는 선형적</strong>이며, 같은 주요 사건을 거쳐 마지막에 미리 만들어진 세 가지 결말 중 하나를 선택함</li><li>미래를 예언했다는 명성과 달리, 이야기는 <strong>1990년대 음모론 문화와 SF의 혼합물</strong>에 가까우며 현대 사회와의 유사점뿐 아니라 당시의 정치적 편</li></ul></div>…",
+          "contentSnippet": "2000년 출시된 Deus Ex는 정해진 정답 대신 다양한 해결 수단을 제공하는 이머시브 심 설계를 대중적 성공으로 연결한 게임임\n설계 원칙은 “퍼즐이 아니라 문제”로, 전투와 잠입, 해킹 등을 조합해 개발자조차 예상하지 못한 방법으로 임무를 해결할 수 있음\n개별 임무의 자유도와 달리 전체 서사는 선형적이며, 같은 주요 사건을 거쳐 마지막에 미리 만들어진 세 가지 결말 중 하나를 선택함\n미래를 예언했다는 명성과 달리, 이야기는 1990년대 음모론 문화와 SF의 혼합물에 가까우며 현대 사회와의 유사점뿐 아니라 당시의 정치적 편\n\n…",
+          "id": "https://news.hada.io/topic?id=36715",
+          "isoDate": "2026-11-06T17:45:19.000Z"
+        },
+        {
+          "title": "Cybertruck, 안녕",
+          "link": "https://news.hada.io/topic?id=36714&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-06T17:42:19.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>Elon Musk가 <strong>Cybercab 증산</strong>을 위해 2027년 중반 무렵 Gigafactory Texas의 Cybertruck 생산을 단계적으로 종료하겠다고 밝힘</li><li>Cybertruck은 현재 <strong>텍사스 공장에서만 생산</strong>되지만, Tesla는 완전한 생산 종료 여부를 묻는 확인 요청에 답하지 않음</li><li>Musk가 주장한 <strong>100만 건 이상의 예약</strong>과 달리 2025년 3월까지 누적 판매는 5만 대 미만이었으며, 2026년 미국 판매도 감소함</li><li>출시 전부터 기본 설계 문제가 드러났고, 출시 후에는 <strong>가속 페달 결함과 외장 패널/바퀴 이탈 위험</strong> 등으로 리콜이 이어짐</li><li>Musk는 생산 종료 이유로 신뢰성이나 판매 부진</li></ul></div>…",
+          "contentSnippet": "Elon Musk가 Cybercab 증산을 위해 2027년 중반 무렵 Gigafactory Texas의 Cybertruck 생산을 단계적으로 종료하겠다고 밝힘\nCybertruck은 현재 텍사스 공장에서만 생산되지만, Tesla는 완전한 생산 종료 여부를 묻는 확인 요청에 답하지 않음\nMusk가 주장한 100만 건 이상의 예약과 달리 2025년 3월까지 누적 판매는 5만 대 미만이었으며, 2026년 미국 판매도 감소함\n출시 전부터 기본 설계 문제가 드러났고, 출시 후에는 가속 페달 결함과 외장 패널/바퀴 이탈 위험 등으로 리콜이 이어짐\nMusk는 생산 종료 이유로 신뢰성이나 판매 부진\n\n…",
+          "id": "https://news.hada.io/topic?id=36714",
+          "isoDate": "2026-11-06T17:42:19.000Z"
+        },
+        {
+          "title": "선거 후 투자자들이 AI 투자에서 발을 빼며 Nasdaq 5% 급락",
+          "link": "https://news.hada.io/topic?id=36713&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-06T16:39:54.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>중간선거 이후 투자자들이 <strong>데이터센터 구축 둔화</strong>에 대비하면서 반도체와 데이터센터 공급업체 주식을 중심으로 광범위한 매도세가 나타남</li><li>본문 기준 <strong>Nasdaq 종합지수는 5.4% 하락</strong>해 조정 국면에 진입했으며, 시가총액은 하루 기준 역대 최대인 <strong>2조 5,000억 달러</strong> 감소함</li><li>한때 시가총액 세계 1위였던 <strong>Nvidia는 9.3% 하락</strong>하며 연초 대비 수익률도 마이너스로 전환됨</li><li><strong>Dow는 1,833포인트, S&amp;P 500은 4.4% 하락</strong>했으며, S&amp;P의 11개 업종 모두 약세를 보임</li><li>주식 매도세와 함께 <strong>안전자산 수요가 미 국채로 몰리며</strong>, 10년물 국채 수익률은 9월 9일 이</li></ul></div>…",
+          "contentSnippet": "중간선거 이후 투자자들이 데이터센터 구축 둔화에 대비하면서 반도체와 데이터센터 공급업체 주식을 중심으로 광범위한 매도세가 나타남\n본문 기준 Nasdaq 종합지수는 5.4% 하락해 조정 국면에 진입했으며, 시가총액은 하루 기준 역대 최대인 2조 5,000억 달러 감소함\n한때 시가총액 세계 1위였던 Nvidia는 9.3% 하락하며 연초 대비 수익률도 마이너스로 전환됨\nDow는 1,833포인트, S&P 500은 4.4% 하락했으며, S&P의 11개 업종 모두 약세를 보임\n주식 매도세와 함께 안전자산 수요가 미 국채로 몰리며, 10년물 국채 수익률은 9월 9일 이\n\n…",
+          "id": "https://news.hada.io/topic?id=36713",
+          "isoDate": "2026-11-06T16:39:54.000Z"
+        },
+        {
+          "title": "Gemini Omni 1.2 Flash - 최대 15초 영상 생성과 대화형 편집, 가격 30% 인하",
+          "link": "https://news.hada.io/topic?id=36712&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-06T16:36:54.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>Gemini Omni 1.2 Flash</strong>가 Gemini API와 Gemini for business에서 정식 제공되며, 영상 생성과 편집 길이를 기존 최대 10초에서 <strong>15초</strong>로 늘림</li><li>720p 영상 가격을 Omni 1.1 대비 <strong>30% 인하한 초당 0.07달러</strong>로 책정했으며, 선택한 결과를 1080p나 4K로 업스케일할 수 있음</li><li>이미지, 짧은 동작 영상, 오디오를 조합한 <strong>참조 입력을 더 충실히 반영</strong>하고, 카메라 이동과 장면 전환 중 인물, 제품, 배경의 일관성을 강화함</li><li><strong>다중 턴 대화형 편집</strong>으로 15초 영상의 제품, 배경, 조명 등을 차례로 수정해 처음부터 다시 생성하지 않고 광고 변형본 등을 제</li></ul></div>…",
+          "contentSnippet": "Gemini Omni 1.2 Flash가 Gemini API와 Gemini for business에서 정식 제공되며, 영상 생성과 편집 길이를 기존 최대 10초에서 15초로 늘림\n720p 영상 가격을 Omni 1.1 대비 30% 인하한 초당 0.07달러로 책정했으며, 선택한 결과를 1080p나 4K로 업스케일할 수 있음\n이미지, 짧은 동작 영상, 오디오를 조합한 참조 입력을 더 충실히 반영하고, 카메라 이동과 장면 전환 중 인물, 제품, 배경의 일관성을 강화함\n다중 턴 대화형 편집으로 15초 영상의 제품, 배경, 조명 등을 차례로 수정해 처음부터 다시 생성하지 않고 광고 변형본 등을 제\n\n…",
+          "id": "https://news.hada.io/topic?id=36712",
+          "isoDate": "2026-11-06T16:36:54.000Z"
+        },
+        {
+          "title": "Kugelblitz - Mac 네이티브 Google Earth 대안",
+          "link": "https://news.hada.io/topic?id=36711&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-06T15:37:01.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>Kugelblitz</strong>는 지구와 주변 천체를 3D 지구본과 평면 지도책으로 탐색하는 Mac 앱으로, 실제 지형 위에 영상, 도로 지도, 지형도를 표시함</li><li><strong>공개 지리 데이터</strong>를 제공처에서 직접 불러오며 계정이 필요 없음. Library에서 전 세계 지도 서비스를 검색하고 지구본에 표시하거나 저장할 수 있음</li><li><strong>OpenStreetMap</strong>은 자체 타일 서버에서 현재 보이는 영역과 관찰 거리에 필요한 수준만 불러오므로, 지역별 대용량 다운로드가 필요 없음</li><li><strong>M1 Mac mini, 메모리 16GB</strong> 환경에서 개발하고 성능을 측정했으며, 항공 영상, 지형, 건물, 도로, 지명을 함께 </li></ul></div>…",
+          "contentSnippet": "Kugelblitz는 지구와 주변 천체를 3D 지구본과 평면 지도책으로 탐색하는 Mac 앱으로, 실제 지형 위에 영상, 도로 지도, 지형도를 표시함\n공개 지리 데이터를 제공처에서 직접 불러오며 계정이 필요 없음. Library에서 전 세계 지도 서비스를 검색하고 지구본에 표시하거나 저장할 수 있음\nOpenStreetMap은 자체 타일 서버에서 현재 보이는 영역과 관찰 거리에 필요한 수준만 불러오므로, 지역별 대용량 다운로드가 필요 없음\nM1 Mac mini, 메모리 16GB 환경에서 개발하고 성능을 측정했으며, 항공 영상, 지형, 건물, 도로, 지명을 함께 \n\n…",
+          "id": "https://news.hada.io/topic?id=36711",
+          "isoDate": "2026-11-06T15:37:01.000Z"
+        },
+        {
+          "title": "Tesla, 소수 시장에서 수년간 판매 부진을 겪은 Cybertruck 생산을 단계적으로 축소",
+          "link": "https://news.hada.io/topic?id=36710&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-06T15:34:00.000Z",
+          "author": "neo",
+          "content": "Tesla, 소수 시장에서 수년간 판매 부진을 겪은 Cybertruck 생산을 단계적으로 축소",
+          "contentSnippet": "Tesla, 소수 시장에서 수년간 판매 부진을 겪은 Cybertruck 생산을 단계적으로 축소",
+          "id": "https://news.hada.io/topic?id=36710",
+          "isoDate": "2026-11-06T15:34:00.000Z"
+        },
+        {
           "title": "Linux에서 Wikipedia까지, 자원봉사자들은 어떻게 인터넷을 만드는가",
           "link": "https://news.hada.io/topic?id=36708&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
           "pubDate": "2026-11-06T14:34:20.000Z",
@@ -75,136 +205,6 @@
           "contentSnippet": "양측 인공와우 사용자인 나의 정신물리학",
           "id": "https://news.hada.io/topic?id=36702",
           "isoDate": "2026-11-06T11:42:59.000Z"
-        },
-        {
-          "title": "Blender의 UI와 런타임: GPUI보다 훨씬 빠름",
-          "link": "https://news.hada.io/topic?id=36701&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-06T11:39:59.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>BUI</strong>는 Blender의 위젯 그리기와 상호작용을 분리한 독립 UI 라이브러리로, Python, Rust, JavaScript, C/C++, Dear ImGui에서 같은 <strong>C 런타임</strong>을 사용함</li><li>프로젝트의 Windows 노트북 벤치마크에서 동일한 gpui 문법의 설정 창은 <strong>첫 화면을 약 5배 빨리 표시</strong>했으며, CPU 렌더러 사용 시 메모리는 약 절반이었음. 일부 최신 기능 추가 전 측정값이며 환경별 성능 보장은 아님</li><li><strong>변경 영역만 다시 그리는 렌더링</strong>과 유휴 시 대기를 기본으로 하며, CPU 렌더러 외에 Windows의 Direct3D 11과 Linux의 OpenGL 3.3 GPU 렌더러를 선택할 수 있음</li><li>기존 </li></ul></div>…",
-          "contentSnippet": "BUI는 Blender의 위젯 그리기와 상호작용을 분리한 독립 UI 라이브러리로, Python, Rust, JavaScript, C/C++, Dear ImGui에서 같은 C 런타임을 사용함\n프로젝트의 Windows 노트북 벤치마크에서 동일한 gpui 문법의 설정 창은 첫 화면을 약 5배 빨리 표시했으며, CPU 렌더러 사용 시 메모리는 약 절반이었음. 일부 최신 기능 추가 전 측정값이며 환경별 성능 보장은 아님\n변경 영역만 다시 그리는 렌더링과 유휴 시 대기를 기본으로 하며, CPU 렌더러 외에 Windows의 Direct3D 11과 Linux의 OpenGL 3.3 GPU 렌더러를 선택할 수 있음\n기존 \n\n…",
-          "id": "https://news.hada.io/topic?id=36701",
-          "isoDate": "2026-11-06T11:39:59.000Z"
-        },
-        {
-          "title": "영국, 채용 공고 내 급여 공개 의무화 추진",
-          "link": "https://news.hada.io/topic?id=36700&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-06T10:41:05.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>영국 정부가 <strong>채용 공고에 급여를 공개하도록 의무화하는 법안</strong>을 의회에 제출할 예정이며, 구체적인 일정은 밝히지 않음</li><li>이번 조치는 취업, 교육, 훈련에 참여하지 않는 <strong>청년 인구를 줄이기 위한 노력</strong>의 일부로, 첫 일자리에 지원하는 청년을 돕는 데 목적이 있음</li><li>영국 정부는 <strong>급여 투명성</strong>을 높이면 여성에게 불리하게 작용할 수 있는 임금 격차 해소에도 도움이 될 것으로 기대함</li><li>영국 인사관리협회 추정에 따르면 급여 범위를 항상 공개하는 고용주는 <strong>5곳 중 2곳을 조금 넘으며</strong>, 구체적인 급여를 항상 공개하는 비율은 5곳 중 1곳 미만임</li></ul></div>…",
-          "contentSnippet": "영국 정부가 채용 공고에 급여를 공개하도록 의무화하는 법안을 의회에 제출할 예정이며, 구체적인 일정은 밝히지 않음\n이번 조치는 취업, 교육, 훈련에 참여하지 않는 청년 인구를 줄이기 위한 노력의 일부로, 첫 일자리에 지원하는 청년을 돕는 데 목적이 있음\n영국 정부는 급여 투명성을 높이면 여성에게 불리하게 작용할 수 있는 임금 격차 해소에도 도움이 될 것으로 기대함\n영국 인사관리협회 추정에 따르면 급여 범위를 항상 공개하는 고용주는 5곳 중 2곳을 조금 넘으며, 구체적인 급여를 항상 공개하는 비율은 5곳 중 1곳 미만임\n\n…",
-          "id": "https://news.hada.io/topic?id=36700",
-          "isoDate": "2026-11-06T10:41:05.000Z"
-        },
-        {
-          "title": "Inkling 2 Small - 장시간 자율 코딩과 연구를 강화한 MoE 모델",
-          "link": "https://news.hada.io/topic?id=36699&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-06T10:38:05.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>Thinking Machines Lab이 <strong>코딩, 시각 이해, 지식 업무와 추론 성능을 높인 2세대 모델</strong>을 공개함. 총 5,940억 파라미터 중 170억을 활성화하는 MoE 구조이며, 작업에 따라 추론 노력 수준을 조절할 수 있음</li><li><strong>만든 화면을 직접 확인하며 웹사이트, 게임, 3D 디자인을 반복 개선</strong>함. 지시 준수와 변경 사항 검토 능력을 높이고, 별도 요청 없이 작업 결과를 검증하도록 학습함</li><li><strong>다른 모델의 학습과 실험도 자율 수행</strong>함. 내부 시계열 예측 과제에서 데이터 분석, 평가기 작성, 미세조정과 강화학습을 진행해 4.5시간, Tinker 사용료 426달러로 Qwen3.5-4B의 예측 점수를 두 배 이상 높임</li></ul></div>…",
-          "contentSnippet": "Thinking Machines Lab이 코딩, 시각 이해, 지식 업무와 추론 성능을 높인 2세대 모델을 공개함. 총 5,940억 파라미터 중 170억을 활성화하는 MoE 구조이며, 작업에 따라 추론 노력 수준을 조절할 수 있음\n만든 화면을 직접 확인하며 웹사이트, 게임, 3D 디자인을 반복 개선함. 지시 준수와 변경 사항 검토 능력을 높이고, 별도 요청 없이 작업 결과를 검증하도록 학습함\n다른 모델의 학습과 실험도 자율 수행함. 내부 시계열 예측 과제에서 데이터 분석, 평가기 작성, 미세조정과 강화학습을 진행해 4.5시간, Tinker 사용료 426달러로 Qwen3.5-4B의 예측 점수를 두 배 이상 높임\n\n…",
-          "id": "https://news.hada.io/topic?id=36699",
-          "isoDate": "2026-11-06T10:38:05.000Z"
-        },
-        {
-          "title": "Server Challenge 시리즈 - 1코어 서버에서 31만 명, 4코어에서 143만 동시 사용자 처리",
-          "link": "https://news.hada.io/topic?id=36697&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-06T08:11:51.000Z",
-          "author": "click",
-          "content": "<div><p>개발 유튜버 arjaythedev이 진행하는 오픈소스 웹서버 성능 챌린지 시리즈</p><ul><li>다양한 프로그래밍 언어와 프레임워크로 동일한 API를 구현하고 동시 사용자 처리 성능을 비교</li><li>실제 DB 조회·쓰기와 JWT 인증 등을 포함한 웹 애플리케이션을 대상으로 측정</li><li>누구나 GitHub PR로 구현체를 제출할 수 있으며, 동일한 하드웨어에서 검증 후 리더보드에 결과 공개</li></ul><h5>1. <a href=\"https://github.com/arjaythedev/twelve-dollar-server-challenge\">$12 Server Challenge</a></h5><ul><li>1 vCPU, RAM 2GB 서버에서 최대 몇 명의 동시 사용자를 처리할 수 있는지 측정</li><li>SQLite 기반 소셜 피드 API 5개 구현</li><li>5만 사용자, 50만 게시물, 200만 좋아요로</li></ul></div>…",
-          "contentSnippet": "개발 유튜버 arjaythedev이 진행하는 오픈소스 웹서버 성능 챌린지 시리즈\n\n다양한 프로그래밍 언어와 프레임워크로 동일한 API를 구현하고 동시 사용자 처리 성능을 비교\n실제 DB 조회·쓰기와 JWT 인증 등을 포함한 웹 애플리케이션을 대상으로 측정\n누구나 GitHub PR로 구현체를 제출할 수 있으며, 동일한 하드웨어에서 검증 후 리더보드에 결과 공개\n\n1. $12 Server Challenge\n\n1 vCPU, RAM 2GB 서버에서 최대 몇 명의 동시 사용자를 처리할 수 있는지 측정\nSQLite 기반 소셜 피드 API 5개 구현\n5만 사용자, 50만 게시물, 200만 좋아요로\n\n…",
-          "id": "https://news.hada.io/topic?id=36697",
-          "isoDate": "2026-11-06T08:11:51.000Z"
-        },
-        {
-          "title": "Show GN: Cloudflare Tunnel 해외 우회로 300ms 이상 지연을 겪고 만든 Go 터널, Meerkat",
-          "link": "https://news.hada.io/topic?id=36696&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-06T06:55:46.000Z",
-          "author": "papership",
-          "content": "<div><p>** 서비스 호스팅 시 최소지연으로 국내 서버에 직접 띄워 쓸 수 있는 오픈소스 Cloudflare Tunnel 대안입니다. SSL 인증서 자동발급, 각종 보안 기능, SSO·접근 제어·감사 기능도 지원합니다.</p><p>GitHub: <a href=\"https://github.com/lawnect/meerkat\">https://github.com/lawnect/meerkat</a></p><p>Cloudflare Tunnel을 쓰면서 국내 서버 호스팅 -&gt; 국내 서버 접속인데도 LA나 홍콩을 경유해 지연이 300ms 이상 추가되는 경우를 겪었습니다.</p><p>이 문제를 해결하기 위해 공개 진입점을 국내 서버에 직접 두고 사용할 수 있도록 만들었습니다. 사설 서버의 Connector가 rathole을 통해 공개 서버의 O</p></div>…",
-          "contentSnippet": "** 서비스 호스팅 시 최소지연으로 국내 서버에 직접 띄워 쓸 수 있는 오픈소스 Cloudflare Tunnel 대안입니다. SSL 인증서 자동발급, 각종 보안 기능, SSO·접근 제어·감사 기능도 지원합니다.\nGitHub: https://github.com/lawnect/meerkat\nCloudflare Tunnel을 쓰면서 국내 서버 호스팅 -> 국내 서버 접속인데도 LA나 홍콩을 경유해 지연이 300ms 이상 추가되는 경우를 겪었습니다.\n이 문제를 해결하기 위해 공개 진입점을 국내 서버에 직접 두고 사용할 수 있도록 만들었습니다. 사설 서버의 Connector가 rathole을 통해 공개 서버의 O\n…",
-          "id": "https://news.hada.io/topic?id=36696",
-          "isoDate": "2026-11-06T06:55:46.000Z"
-        },
-        {
-          "title": "약 2만 달러로 학습한 이미지 생성 모델 P-JiT, 코드와 가중치 공개",
-          "link": "https://news.hada.io/topic?id=36694&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-06T05:33:17.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>Linum이 <strong>GPU 비용 21,038달러로 학습한 이미지 생성 모델 P-JiT</strong>를 실험적으로 공개함. 더 저렴한 영상 생성 모델을 만들기 위한 개념 검증임</li><li><strong>코드와 가중치를 Apache 2.0으로 공개</strong>함. 이미지 생성부는 약 22억 파라미터이며, 별도로 사전학습된 40억 파라미터 텍스트 인코더를 사용함</li><li>이미지를 압축하는 별도 VAE 없이 압축과 생성을 함께 학습함. 기존 Linum v2보다 이미지 토큰 수를 4분의 1로 줄여 연산 부담을 낮춤</li><li>초기 실험에서는 기존 모델보다 <strong>11배 적은 샘플로 수렴</strong>했으며, 이번에는 누적 약 6억 6,000만 샘플까지 학습을 확대함</li></ul></div>…",
-          "contentSnippet": "Linum이 GPU 비용 21,038달러로 학습한 이미지 생성 모델 P-JiT를 실험적으로 공개함. 더 저렴한 영상 생성 모델을 만들기 위한 개념 검증임\n코드와 가중치를 Apache 2.0으로 공개함. 이미지 생성부는 약 22억 파라미터이며, 별도로 사전학습된 40억 파라미터 텍스트 인코더를 사용함\n이미지를 압축하는 별도 VAE 없이 압축과 생성을 함께 학습함. 기존 Linum v2보다 이미지 토큰 수를 4분의 1로 줄여 연산 부담을 낮춤\n초기 실험에서는 기존 모델보다 11배 적은 샘플로 수렴했으며, 이번에는 누적 약 6억 6,000만 샘플까지 학습을 확대함\n\n…",
-          "id": "https://news.hada.io/topic?id=36694",
-          "isoDate": "2026-11-06T05:33:17.000Z"
-        },
-        {
-          "title": "Show GN: ESLint Markdown - ESLint로 마크다운 파일들을 린팅하세요",
-          "link": "https://news.hada.io/topic?id=36693&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-06T05:21:50.000Z",
-          "author": "beenzinozino",
-          "content": "<div><p><code>eslint-markdown</code> 패키지를 통해 ESLint로 Markdown 파일을 린팅할 수 있습니다.</p><p><a href=\"https://eslint.org/blog/2024/10/eslint-json-markdown-support/\">2024년 10월 3일 ESLint가 Markdown 지원을 공식 발표</a>한 이후, ESLint의 공식 API와 개발 방향에 맞춰 설계한 플러그인입니다.</p><p>기존 <code>markdownlint</code>, <code>remark-lint</code>, <code>textlint</code> 등 JavaScript 생태계의 마크다운 린팅 도구에서 제공하는 규칙들을 대체하거나 보완할 수 있도록 50여 개의 규칙을 제공합니다.</p><p>CommonMark, GitHub Flavored Markdown(GFM), Front Matter, Math 문법 등을 지원하며, <code>recommended</code>, <code>stylistic</code>, <code>base</code> 등의 공유 설정도 제공합니다.</p><p>이미</p></div>…",
-          "contentSnippet": "eslint-markdown 패키지를 통해 ESLint로 Markdown 파일을 린팅할 수 있습니다.\n2024년 10월 3일 ESLint가 Markdown 지원을 공식 발표한 이후, ESLint의 공식 API와 개발 방향에 맞춰 설계한 플러그인입니다.\n기존 markdownlint, remark-lint, textlint 등 JavaScript 생태계의 마크다운 린팅 도구에서 제공하는 규칙들을 대체하거나 보완할 수 있도록 50여 개의 규칙을 제공합니다.\nCommonMark, GitHub Flavored Markdown(GFM), Front Matter, Math 문법 등을 지원하며, recommended, stylistic, base 등의 공유 설정도 제공합니다.\n이미\n…",
-          "id": "https://news.hada.io/topic?id=36693",
-          "isoDate": "2026-11-06T05:21:50.000Z"
-        },
-        {
-          "title": "Mark Cuban “Facebook, AI 딥페이크 사기 광고인 줄 알고도 게재”, 내부 문서상 사기 관련 매출 추정 16...",
-          "link": "https://news.hada.io/topic?id=36691&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-06T04:33:29.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>Mark Cuban</strong>은 자신을 사칭한 AI 광고의 가짜 당뇨병 치료제에 대해 매주 문의를 받는다며, Facebook이 피해를 알면서도 광고를 게재한다고 비판함</li><li>Reuters가 확보한 <strong>Meta 내부 문서</strong>에는 사기 및 금지 제품 광고에서 발생할 매출이 2024년 전체 매출의 약 10%인 <strong>160억 달러</strong>에 이를 것이라는 추정이 담김</li><li>내부 문서상 광고주 차단에는 자동화 시스템이 판단한 <strong>사기 가능성 95% 이상</strong>이 필요하며, 그보다 낮은 의심 광고주는 더 높은 광고비를 내고 광고를 계속 게재할 수 있음</li><li><strong>Meta는 문서가 자사의 대응을 왜곡한다며 반박</strong>했고, 10% 추정치</li></ul></div>…",
-          "contentSnippet": "Mark Cuban은 자신을 사칭한 AI 광고의 가짜 당뇨병 치료제에 대해 매주 문의를 받는다며, Facebook이 피해를 알면서도 광고를 게재한다고 비판함\nReuters가 확보한 Meta 내부 문서에는 사기 및 금지 제품 광고에서 발생할 매출이 2024년 전체 매출의 약 10%인 160억 달러에 이를 것이라는 추정이 담김\n내부 문서상 광고주 차단에는 자동화 시스템이 판단한 사기 가능성 95% 이상이 필요하며, 그보다 낮은 의심 광고주는 더 높은 광고비를 내고 광고를 계속 게재할 수 있음\nMeta는 문서가 자사의 대응을 왜곡한다며 반박했고, 10% 추정치\n\n…",
-          "id": "https://news.hada.io/topic?id=36691",
-          "isoDate": "2026-11-06T04:33:29.000Z"
-        },
-        {
-          "title": "로컬 LLM, 권장된 샘플링 대신 temp 0으로 실행해도 되나? ( 한국어 문서 RAG 320문항 재측정)",
-          "link": "https://news.hada.io/topic?id=36690&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-06T04:22:21.000Z",
-          "author": "shoo99",
-          "content": "<div><p>한국어 문서 RAG 시험(정답 있는 299문항 + 답 없는 질문 20개)을 temp 0으로 실행했더니, Hugging Face 토론에서 \"qwen3.8은 카드 권장값으로 재야 공정하다\"는 지적을 받았습니다. 그래서 RTX 3090로 qwen3.8 27B와 Nanbeige4.3 33B를 권장 설정값으로 320문항씩 다시 실행해봤습니다.</p><ul><li>qwen3.8 27B: 생각 켬 77.3% → 77.9%, 생각 끔 71.2% → 72.2%. 같은 문항 짝비교로 차이 없음(p 0.75, 0.68)</li><li>Nanbeige4.3 33B 생각 켬: 66.2% → 70.6%로 올랐지만, 예전 한도(8,192토큰)에 안 걸린 270문항만 보면 194개 대 196개로 같음. 오른 몫은 출력 한도를 20,480으로 늘린 덕</li></ul></div>…",
-          "contentSnippet": "한국어 문서 RAG 시험(정답 있는 299문항 + 답 없는 질문 20개)을 temp 0으로 실행했더니, Hugging Face 토론에서 \"qwen3.8은 카드 권장값으로 재야 공정하다\"는 지적을 받았습니다. 그래서 RTX 3090로 qwen3.8 27B와 Nanbeige4.3 33B를 권장 설정값으로 320문항씩 다시 실행해봤습니다.\n\nqwen3.8 27B: 생각 켬 77.3% → 77.9%, 생각 끔 71.2% → 72.2%. 같은 문항 짝비교로 차이 없음(p 0.75, 0.68)\nNanbeige4.3 33B 생각 켬: 66.2% → 70.6%로 올랐지만, 예전 한도(8,192토큰)에 안 걸린 270문항만 보면 194개 대 196개로 같음. 오른 몫은 출력 한도를 20,480으로 늘린 덕\n\n…",
-          "id": "https://news.hada.io/topic?id=36690",
-          "isoDate": "2026-11-06T04:22:21.000Z"
-        },
-        {
-          "title": "헝가리, 공산주의 시대 문서 공개로 전직 정보원 최대 6만 명 신원 드러나",
-          "link": "https://news.hada.io/topic?id=36689&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-06T03:32:21.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>헝가리가 공산주의 시대 <strong>비밀경찰 기록을 일반에 공개</strong>하면서 당시 정보원 약 5만~6만 명의 이름이 드러남</li><li>공개 자료에는 <strong>정보원 등록표, 모집 기록, 개인정보와 암호명 데이터베이스</strong>가 포함되며, 누구나 온라인에서 무료로 검색할 수 있음</li><li>1990년 민주화 이후 거듭 무산됐던 공개가 <strong>Peter Magyar 총리의 법안</strong>을 계기로 이뤄짐. 이전에는 감시 피해자가 자신을 보고한 사람을 확인하는 수준의 접근만 허용됐음</li><li>명단에는 <strong>정치인, 성직자, 방송인</strong>뿐 아니라 전국적인 공적 활동으로 이름을 알리지 않은 사람도 상당수 포함됨</li><li>기록은 <strong>매우 불완</strong></li></ul></div>…",
-          "contentSnippet": "헝가리가 공산주의 시대 비밀경찰 기록을 일반에 공개하면서 당시 정보원 약 5만~6만 명의 이름이 드러남\n공개 자료에는 정보원 등록표, 모집 기록, 개인정보와 암호명 데이터베이스가 포함되며, 누구나 온라인에서 무료로 검색할 수 있음\n1990년 민주화 이후 거듭 무산됐던 공개가 Peter Magyar 총리의 법안을 계기로 이뤄짐. 이전에는 감시 피해자가 자신을 보고한 사람을 확인하는 수준의 접근만 허용됐음\n명단에는 정치인, 성직자, 방송인뿐 아니라 전국적인 공적 활동으로 이름을 알리지 않은 사람도 상당수 포함됨\n기록은 매우 불완\n\n…",
-          "id": "https://news.hada.io/topic?id=36689",
-          "isoDate": "2026-11-06T03:32:21.000Z"
-        },
-        {
-          "title": "GitHub Copilot 런타임 코드베이스 전체를 Rust로 이식한 이유와 방법 [영상]",
-          "link": "https://news.hada.io/topic?id=36687&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-06T02:20:02.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>GitHub Copilot 런타임의 <strong>TypeScript 운영 코드 약 40만~45만 줄</strong>을 Rust로 이식함. 목적은 Rust 도입 자체가 아니라 Node.js와 V8 의존성을 벗어나 여러 제품에 내장할 수 있는 <strong>공통 에이전트 하네스</strong>를 만드는 것이었음</li><li><strong>Rust와 Native AOT 기반 C#</strong> 이 성능과 내장 가능성에서 최종 후보였으며, GitHub 내부의 기존 프로젝트와 개발자 경험을 고려해 Rust를 선택함</li><li>개발과 배포를 멈추지 않고 <strong>약 14.5주 동안 점진적으로 교체</strong>했으며, 이식 과정에서 약 130회 출시함. 작은 변경 단위로 배포해 회귀 문제의 원인을 빠르게 좁힐 수 있었음</li><li>정</li></ul></div>…",
-          "contentSnippet": "GitHub Copilot 런타임의 TypeScript 운영 코드 약 40만~45만 줄을 Rust로 이식함. 목적은 Rust 도입 자체가 아니라 Node.js와 V8 의존성을 벗어나 여러 제품에 내장할 수 있는 공통 에이전트 하네스를 만드는 것이었음\nRust와 Native AOT 기반 C# 이 성능과 내장 가능성에서 최종 후보였으며, GitHub 내부의 기존 프로젝트와 개발자 경험을 고려해 Rust를 선택함\n개발과 배포를 멈추지 않고 약 14.5주 동안 점진적으로 교체했으며, 이식 과정에서 약 130회 출시함. 작은 변경 단위로 배포해 회귀 문제의 원인을 빠르게 좁힐 수 있었음\n정\n\n…",
-          "id": "https://news.hada.io/topic?id=36687",
-          "isoDate": "2026-11-06T02:20:02.000Z"
-        },
-        {
-          "title": "Show GN: 해축이모 - 프리미어리그 이적설의 출처와 진행 단계를 모아보는 서비스",
-          "link": "https://news.hada.io/topic?id=36686&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-06T01:20:46.000Z",
-          "author": "kimdowan1004",
-          "content": "<div><p>안녕하세요. 해축이모를 만든 개발자 김도완입니다.</p><p>이적설을 읽을 때 궁금한 건 보통 두 가지입니다. “누가 보도했지?” 그리고 “구단이 관심을 보인 건가, 실제로 협상이 시작된 건가?” 해축이모에서는 이 두 가지를 소식마다 함께 볼 수 있습니다.</p><p>프리미어리그 빅6를 다루는 해외 축구 기자들의 X 게시물을 한국어로 번역·요약하고, 보도 출처와 원문 링크를 붙였습니다. 이적설은 관심·접촉, 협상 중, 합의, 공식 발표의 네 단계로 구분합니다. 가령 기자가 “두 구단이 이적료에 합의했다”고 보도해도, 구단이나 선수가 직접 발표하기 전까지는 ‘합의’로 표시합니다.</p></div>…",
-          "contentSnippet": "안녕하세요. 해축이모를 만든 개발자 김도완입니다.\n이적설을 읽을 때 궁금한 건 보통 두 가지입니다. “누가 보도했지?” 그리고 “구단이 관심을 보인 건가, 실제로 협상이 시작된 건가?” 해축이모에서는 이 두 가지를 소식마다 함께 볼 수 있습니다.\n프리미어리그 빅6를 다루는 해외 축구 기자들의 X 게시물을 한국어로 번역·요약하고, 보도 출처와 원문 링크를 붙였습니다. 이적설은 관심·접촉, 협상 중, 합의, 공식 발표의 네 단계로 구분합니다. 가령 기자가 “두 구단이 이적료에 합의했다”고 보도해도, 구단이나 선수가 직접 발표하기 전까지는 ‘합의’로 표시합니다.\n…",
-          "id": "https://news.hada.io/topic?id=36686",
-          "isoDate": "2026-11-06T01:20:46.000Z"
-        },
-        {
-          "title": "소프트웨어 엔지니어링은 어떻게 달라지고 있나: 두 시대의 이야기",
-          "link": "https://news.hada.io/topic?id=36685&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-06T01:16:28.000Z",
-          "author": "xguru",
-          "content": "<div><ul><li>한 엔지니어의 <strong>월간 PR 수가 AI 도입 이전 약 19개에서 207개로 11배 늘어남</strong>. AI 코딩 에이전트뿐 아니라 담당자의 자율성, 선택적 사람 리뷰, 제품 의사결정 방식이 함께 바뀐 결과임</li><li>코드 작성이 빨라지면서 <strong>협업과 승인 대기</strong>가 새로운 병목이 됨. Tano에서는 한 사람이 기능 전체를 맡고, 코드베이스에 익숙해진 뒤에는 대부분의 PR을 자동 리뷰만 거쳐 병합함</li><li>빠른 변경에는 <strong>장애를 감수하고 신속히 수정하는 절충</strong>이 따름. 통화 계산 오류, 쓰기를 막는 데이터베이스 마이그레이션, 중복 지급이 실제로 발생했으며, 발견한 실패 유형은 리뷰 에이전트의 검사 항목에 추가함</li></ul></div>…",
-          "contentSnippet": "한 엔지니어의 월간 PR 수가 AI 도입 이전 약 19개에서 207개로 11배 늘어남. AI 코딩 에이전트뿐 아니라 담당자의 자율성, 선택적 사람 리뷰, 제품 의사결정 방식이 함께 바뀐 결과임\n코드 작성이 빨라지면서 협업과 승인 대기가 새로운 병목이 됨. Tano에서는 한 사람이 기능 전체를 맡고, 코드베이스에 익숙해진 뒤에는 대부분의 PR을 자동 리뷰만 거쳐 병합함\n빠른 변경에는 장애를 감수하고 신속히 수정하는 절충이 따름. 통화 계산 오류, 쓰기를 막는 데이터베이스 마이그레이션, 중복 지급이 실제로 발생했으며, 발견한 실패 유형은 리뷰 에이전트의 검사 항목에 추가함\n\n…",
-          "id": "https://news.hada.io/topic?id=36685",
-          "isoDate": "2026-11-06T01:16:28.000Z"
         }
       ]
     },
@@ -381,235 +381,235 @@
       "category": "news",
       "data": [
         {
-          "creator": "조한대",
-          "title": "후라도 7이닝 1실점 역투…KS 2승 신고한 삼성",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261107004953L4v",
-          "pubDate": "Sat, 07 Nov 2026 00:49:56 +0900",
-          "content:encoded": "[앵커]\n\n한국시리즈 3차전에서 삼성이 KT를 5-1로 꺾었습니다.\n\n삼성 선발 후라도 선수는 7이닝 1실점 역투를 펼치며 KT 타선을 꽁꽁 묶었는데요.\n\n이로써 삼성은 2승 1패로 시리즈 주도권을 잡았습니다.\n\n조한대 기자입니다.\n\n[기자]\n\n'국민타자' 이승엽 전 감독의 시구로 시작된 3차전.\n\n포스트시즌 연속 매진 기록을 49경기로 늘린 뜨거운 열기에 삼성 선발 후라도는 위력투로 화답했습니다.\n\n1회초 KT 힐리어드에 선제점을 내주면서 흔들리는 듯했지만 1회말 최형우의 동점 적시타로 힘을 얻었습니다.\n\n2회말 삼성 타선은 제구력 난조를 보인 KT 소형준을 상대로 볼넷 3개를 골라내더니, 김성윤의 내야 땅볼에 이어 구자욱이 2타점 적시타를 신고, 4-1로 앞서갔습니다.\n\n타선의 화력에 힘을 받은 후라도는 7이닝 6피안타 1실점 역투로 KT 타선을 꽁꽁 묶으며 팀 승리를 이끌었습니다.\n\n&lt;후라도 / 삼성 라이온즈&gt; \"가장 원했던 건 팀 승리를 돕는 것이었습니다. 팀을 위해 제 역할을 다하는 것이 중요하고, 지금도 그렇게 하려고 노력하고 있습니다.\"\n\n8회말 박승규의 솔로포까지 터진 삼성은 KT를 5-1로 꺾으며 2연승을 질주, 시리즈 전적 2승1패를 만들었습니다.\n\n&lt;박진만 / 삼성 라이온즈 감독&gt; \"라팍에서는 시즌 중에도 KT한테 좋은 결과를 계속 냈기 때문에 하여튼 대구에서 끝낼 수 있도록 준비 잘하겠습니다.\"\n\n1승 후 2연패를 당한 KT는 승부를 원점으로 돌려놓겠단 각오입니다.\n\n&lt;이강철 / KT 위즈 감독&gt; \"(4차전이) 되게 아주 중요한 경기가 될 것 같습니다. 선수들이 더 집중해서 잘할 수 있도록 잘하겠습니다.\"\n\n한국시리즈 3연승을 노리는 삼성과 적진에서 반전을 꾀하는 KT는 오는 4차전 각각 장찬희 선수와 로건 선수를 선발 등판시킵니다.\n\n연합뉴스TV 조한대입니다.\n\n[영상취재 문주형]\n\n[영상편집 윤현정]\n\n[그래픽 서영채]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n조한대(onepunch@yna.co.kr)",
-          "content:encodedSnippet": "[앵커]\n\n한국시리즈 3차전에서 삼성이 KT를 5-1로 꺾었습니다.\n\n삼성 선발 후라도 선수는 7이닝 1실점 역투를 펼치며 KT 타선을 꽁꽁 묶었는데요.\n\n이로써 삼성은 2승 1패로 시리즈 주도권을 잡았습니다.\n\n조한대 기자입니다.\n\n[기자]\n\n'국민타자' 이승엽 전 감독의 시구로 시작된 3차전.\n\n포스트시즌 연속 매진 기록을 49경기로 늘린 뜨거운 열기에 삼성 선발 후라도는 위력투로 화답했습니다.\n\n1회초 KT 힐리어드에 선제점을 내주면서 흔들리는 듯했지만 1회말 최형우의 동점 적시타로 힘을 얻었습니다.\n\n2회말 삼성 타선은 제구력 난조를 보인 KT 소형준을 상대로 볼넷 3개를 골라내더니, 김성윤의 내야 땅볼에 이어 구자욱이 2타점 적시타를 신고, 4-1로 앞서갔습니다.\n\n타선의 화력에 힘을 받은 후라도는 7이닝 6피안타 1실점 역투로 KT 타선을 꽁꽁 묶으며 팀 승리를 이끌었습니다.\n\n<후라도 / 삼성 라이온즈> \"가장 원했던 건 팀 승리를 돕는 것이었습니다. 팀을 위해 제 역할을 다하는 것이 중요하고, 지금도 그렇게 하려고 노력하고 있습니다.\"\n\n8회말 박승규의 솔로포까지 터진 삼성은 KT를 5-1로 꺾으며 2연승을 질주, 시리즈 전적 2승1패를 만들었습니다.\n\n<박진만 / 삼성 라이온즈 감독> \"라팍에서는 시즌 중에도 KT한테 좋은 결과를 계속 냈기 때문에 하여튼 대구에서 끝낼 수 있도록 준비 잘하겠습니다.\"\n\n1승 후 2연패를 당한 KT는 승부를 원점으로 돌려놓겠단 각오입니다.\n\n<이강철 / KT 위즈 감독> \"(4차전이) 되게 아주 중요한 경기가 될 것 같습니다. 선수들이 더 집중해서 잘할 수 있도록 잘하겠습니다.\"\n\n한국시리즈 3연승을 노리는 삼성과 적진에서 반전을 꾀하는 KT는 오는 4차전 각각 장찬희 선수와 로건 선수를 선발 등판시킵니다.\n\n연합뉴스TV 조한대입니다.\n\n[영상취재 문주형]\n\n[영상편집 윤현정]\n\n[그래픽 서영채]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n조한대(onepunch@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261106/MYH20261107004953L4v.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "조한대",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261107004953L4v#comments",
-          "content": "[앵커] 한국시리즈 3차전에서 삼성이 KT를 5-1로 꺾었습니다. 삼성 선발 후라도 선수는 7이닝 1실점 역투를 펼치며 KT 타선을 꽁꽁 묶었는데요. 이로써 삼성은 2승 1패로 시리즈 주도권을 잡았습니다. 조한대 기자입니다. [기자] '국민타자' 이승엽 전 감독의 시구로 시작된 3차전. 포스트시즌 연속 매진 기록을 49경기로 늘린 뜨거운 열기에 삼성 선발 후라도는 위력투로 화답했습니다. 1회초 KT 힐리어드에 선제점을 내주면서 흔들리는 듯...",
-          "contentSnippet": "[앵커] 한국시리즈 3차전에서 삼성이 KT를 5-1로 꺾었습니다. 삼성 선발 후라도 선수는 7이닝 1실점 역투를 펼치며 KT 타선을 꽁꽁 묶었는데요. 이로써 삼성은 2승 1패로 시리즈 주도권을 잡았습니다. 조한대 기자입니다. [기자] '국민타자' 이승엽 전 감독의 시구로 시작된 3차전. 포스트시즌 연속 매진 기록을 49경기로 늘린 뜨거운 열기에 삼성 선발 후라도는 위력투로 화답했습니다. 1회초 KT 힐리어드에 선제점을 내주면서 흔들리는 듯...",
-          "guid": "MYH20261107004953L4v",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-06T15:49:56.000Z"
-        },
-        {
-          "creator": "김동혁",
-          "title": "오늘 '입동' 서울 첫 영하권…내륙 한파특보",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261107004339KZJ",
-          "pubDate": "Sat, 07 Nov 2026 00:43:40 +0900",
-          "content:encoded": "[앵커]\n\n매서운 찬 바람이 불면서 날씨가 크게 추워졌습니다.\n\n절기상 '입동'인 오늘(7일)은 서울에서 영하권 추위가 기승을 부리겠습니다.\n\n내륙 곳곳으로는 한파주의보도 내려졌습니다.\n\n김동혁 기자입니다.\n\n[기자]\n\n한반도 북쪽에서 몰려온 한기가 전국을 감싸고 있습니다.\n\n찬 바람이 남부지방까지 내려가며 주말은 전국적으로 추위가 기승을 부리겠습니다.\n\n절기 '입동'인 토요일 서울의 아침 기온은 올가을 처음으로 영하권으로 떨어집니다.\n\n아침에 실제 체감하는 추위는 영하 5도 안팎을 보일 만큼, 초겨울 추위가 나타나겠습니다.\n\n경북 상주와 경남 거창 등 일부 남부 내륙도 수은주가 0도를 밑돌겠습니다.\n\n경기와 강원, 충북과 전남, 영남 곳곳으로는 한파주의보가 발령됐습니다.\n\n&lt;변가영 / 기상청 예보분석관&gt; \"북서쪽에서 남하한 찬 공기로 기온이 낮아져 동쪽지역과 전남을 중심으로 한파특보가 발표된 가운데, 아침 기온이 영하권을 보이면서 얼음이 얼거나 서리가 내리는 곳도 있겠습니다.\"\n\n한반도 동쪽과 서쪽의 기압 차이가 커지면서 그 사잇길로 북풍이 강하게 밀려 내려오고 있습니다.\n\n북쪽에서 내려오는 바람이 차가운 공기를 실어 나르며 우리나라 기온이 크게 떨어지는 겁니다.\n\n일요일도 평년보다 추운 날씨가 이어지는 가운데, 중부지방에선 비구름이 한차례 지나겠습니다.\n\n강수량은 많지 않지만, 강원 산간에선 비가 눈으로 바뀌어 내릴 수 있겠습니다.\n\n한기를 품은 강풍이 부는 곳이 많아, 주말 야외 활동 시 안전사고가 없도록 조심해야 합니다.\n\n기상청은 다음 주초까지 이번 추위가 이어질 것으로 전망합니다.\n\n연합뉴스TV 김동혁입니다.\n\n[영상취재 김태현 전천호]\n\n[영상편집 진화인]\n\n[그래픽 박혜령]\n\n#날씨 #한파 #추위 #비 #겨울 #기상청 #주말 #토요일 #가을\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김동혁(dhkim1004@yna.co.kr)",
-          "content:encodedSnippet": "[앵커]\n\n매서운 찬 바람이 불면서 날씨가 크게 추워졌습니다.\n\n절기상 '입동'인 오늘(7일)은 서울에서 영하권 추위가 기승을 부리겠습니다.\n\n내륙 곳곳으로는 한파주의보도 내려졌습니다.\n\n김동혁 기자입니다.\n\n[기자]\n\n한반도 북쪽에서 몰려온 한기가 전국을 감싸고 있습니다.\n\n찬 바람이 남부지방까지 내려가며 주말은 전국적으로 추위가 기승을 부리겠습니다.\n\n절기 '입동'인 토요일 서울의 아침 기온은 올가을 처음으로 영하권으로 떨어집니다.\n\n아침에 실제 체감하는 추위는 영하 5도 안팎을 보일 만큼, 초겨울 추위가 나타나겠습니다.\n\n경북 상주와 경남 거창 등 일부 남부 내륙도 수은주가 0도를 밑돌겠습니다.\n\n경기와 강원, 충북과 전남, 영남 곳곳으로는 한파주의보가 발령됐습니다.\n\n<변가영 / 기상청 예보분석관> \"북서쪽에서 남하한 찬 공기로 기온이 낮아져 동쪽지역과 전남을 중심으로 한파특보가 발표된 가운데, 아침 기온이 영하권을 보이면서 얼음이 얼거나 서리가 내리는 곳도 있겠습니다.\"\n\n한반도 동쪽과 서쪽의 기압 차이가 커지면서 그 사잇길로 북풍이 강하게 밀려 내려오고 있습니다.\n\n북쪽에서 내려오는 바람이 차가운 공기를 실어 나르며 우리나라 기온이 크게 떨어지는 겁니다.\n\n일요일도 평년보다 추운 날씨가 이어지는 가운데, 중부지방에선 비구름이 한차례 지나겠습니다.\n\n강수량은 많지 않지만, 강원 산간에선 비가 눈으로 바뀌어 내릴 수 있겠습니다.\n\n한기를 품은 강풍이 부는 곳이 많아, 주말 야외 활동 시 안전사고가 없도록 조심해야 합니다.\n\n기상청은 다음 주초까지 이번 추위가 이어질 것으로 전망합니다.\n\n연합뉴스TV 김동혁입니다.\n\n[영상취재 김태현 전천호]\n\n[영상편집 진화인]\n\n[그래픽 박혜령]\n\n#날씨 #한파 #추위 #비 #겨울 #기상청 #주말 #토요일 #가을\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김동혁(dhkim1004@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261106/MYH20261107004339KZJ.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "김동혁",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261107004339KZJ#comments",
-          "content": "[앵커] 매서운 찬 바람이 불면서 날씨가 크게 추워졌습니다. 절기상 '입동'인 오늘(7일)은 서울에서 영하권 추위가 기승을 부리겠습니다. 내륙 곳곳으로는 한파주의보도 내려졌습니다. 김동혁 기자입니다. [기자] 한반도 북쪽에서 몰려온 한기가 전국을 감싸고 있습니다. 찬 바람이 남부지방까지 내려가며 주말은 전국적으로 추위가 기승을 부리겠습니다. 절기 '입동'인 토요일 서울의 아침 기온은 올가을 처음으로 영하권으로 떨어집니다. 아침에 실제 체감...",
-          "contentSnippet": "[앵커] 매서운 찬 바람이 불면서 날씨가 크게 추워졌습니다. 절기상 '입동'인 오늘(7일)은 서울에서 영하권 추위가 기승을 부리겠습니다. 내륙 곳곳으로는 한파주의보도 내려졌습니다. 김동혁 기자입니다. [기자] 한반도 북쪽에서 몰려온 한기가 전국을 감싸고 있습니다. 찬 바람이 남부지방까지 내려가며 주말은 전국적으로 추위가 기승을 부리겠습니다. 절기 '입동'인 토요일 서울의 아침 기온은 올가을 처음으로 영하권으로 떨어집니다. 아침에 실제 체감...",
-          "guid": "MYH20261107004339KZJ",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-06T15:43:40.000Z"
-        },
-        {
-          "creator": "문형민",
-          "title": "민주당, 애플·메타·머스크 겨냥…트럼프 밀착 기업 정조준 채비",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261107003350dTK",
-          "pubDate": "Sat, 07 Nov 2026 00:33:52 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261106/AKR20261107003350dTK_01_i.jpg\" alt=\"\"><span class=\"yna_title\">트럼프 대통령과 팀 쿡 애플 CEO</span><span class=\"yna_caption\">[EPA=연합뉴스 자료사진. 재판매 및 DB 금지]</span><span class=\"yna_description\">[EPA=연합뉴스 자료사진. 재판매 및 DB 금지]</span></div>\n\n미국 중간선거에서 상·하원을 모두 장악한 민주당이 도널드 트럼프 대통령과 긴밀한 관계를 맺어온 주요 대기업을 대상으로 대대적인 의회 조사를 준비하고 있습니다.\n\n조사 대상으로는 애플과 메타를 비롯해 일론 머스크 테슬라 최고경영자(CEO)가 이끄는 기업들이 우선 거론되고 있습니다.\n\n워싱턴포스트(WP)는 현지시간 6일 소식통들을 인용해 민주당이 트럼프 2기 행정부 집권 2년간 기업들의 사업 활동과 트럼프 행정부와의 관계를 집중적으로 들여다볼 예정이라고 보도했습니다.\n\n민주당의 의회 조사는 기업들이 트럼프 대통령과 어떻게 관계를 구축했으며, 이를 활용해 어떤 이익을 얻었는지에 초점이 맞춰질 것으로 예상됩니다.\n\n구체적으로 하원은 트럼프 대통령이 니콜라스 마두로 전 베네수엘라 대통령 체포를 위한 군사작전을 계획하는 과정에서 머스크의 인공지능(AI) 챗봇 '그록'(Grok)을 활용했다는 의혹을 조사할 준비를 하고 있습니다.\n\n앞서 타임지 보도에 따르면 트럼프 대통령은 지난해 12월 백악관을 방문한 머스크와 함께 '그록'에 마두로 대통령 체포 시 현지 주민들의 반응 등을 질문했으며, 그록은 '마두로가 인기 없는 독재자인 만큼 주민들이 그의 몰락을 축하할 것'이라는 취지로 답한 것으로 전해졌습니다.\n\n민주당은 애플에 대해서는 트럼프 행정부의 요구에 따라 이민세관단속국(ICE) 요원들의 위치를 공유하는 애플리케이션을 앱스토어에서 삭제한 경위를 조사할 방침입니다.\n\n메타에 대해서는 대규모 데이터센터 건설 과정에서 전력·물 사용량과 세금 감면 등 사업 관련 정보가 공개되지 않도록 지방정부에 비밀유지협약(NDA) 체결을 요구한 문제를 들여다볼 것으로 예상됩니다.\n\n#트럼프 #민주당 #대기업 #애플 #메타 #머스크\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n문형민(moonbro@yna.co.kr)",
-          "content:encodedSnippet": "트럼프 대통령과 팀 쿡 애플 CEO[EPA=연합뉴스 자료사진. 재판매 및 DB 금지][EPA=연합뉴스 자료사진. 재판매 및 DB 금지]\n\n미국 중간선거에서 상·하원을 모두 장악한 민주당이 도널드 트럼프 대통령과 긴밀한 관계를 맺어온 주요 대기업을 대상으로 대대적인 의회 조사를 준비하고 있습니다.\n\n조사 대상으로는 애플과 메타를 비롯해 일론 머스크 테슬라 최고경영자(CEO)가 이끄는 기업들이 우선 거론되고 있습니다.\n\n워싱턴포스트(WP)는 현지시간 6일 소식통들을 인용해 민주당이 트럼프 2기 행정부 집권 2년간 기업들의 사업 활동과 트럼프 행정부와의 관계를 집중적으로 들여다볼 예정이라고 보도했습니다.\n\n민주당의 의회 조사는 기업들이 트럼프 대통령과 어떻게 관계를 구축했으며, 이를 활용해 어떤 이익을 얻었는지에 초점이 맞춰질 것으로 예상됩니다.\n\n구체적으로 하원은 트럼프 대통령이 니콜라스 마두로 전 베네수엘라 대통령 체포를 위한 군사작전을 계획하는 과정에서 머스크의 인공지능(AI) 챗봇 '그록'(Grok)을 활용했다는 의혹을 조사할 준비를 하고 있습니다.\n\n앞서 타임지 보도에 따르면 트럼프 대통령은 지난해 12월 백악관을 방문한 머스크와 함께 '그록'에 마두로 대통령 체포 시 현지 주민들의 반응 등을 질문했으며, 그록은 '마두로가 인기 없는 독재자인 만큼 주민들이 그의 몰락을 축하할 것'이라는 취지로 답한 것으로 전해졌습니다.\n\n민주당은 애플에 대해서는 트럼프 행정부의 요구에 따라 이민세관단속국(ICE) 요원들의 위치를 공유하는 애플리케이션을 앱스토어에서 삭제한 경위를 조사할 방침입니다.\n\n메타에 대해서는 대규모 데이터센터 건설 과정에서 전력·물 사용량과 세금 감면 등 사업 관련 정보가 공개되지 않도록 지방정부에 비밀유지협약(NDA) 체결을 요구한 문제를 들여다볼 것으로 예상됩니다.\n\n#트럼프 #민주당 #대기업 #애플 #메타 #머스크\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n문형민(moonbro@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261106/AKR20261107003350dTK_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "문형민",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261107003350dTK#comments",
-          "content": "트럼프 대통령과 팀 쿡 애플 CEO[EPA=연합뉴스 자료사진. 재판매 및 DB 금지][EPA=연합뉴스 자료사진. 재판매 및 DB 금지] 미국 중간선거에서 상·하원을 모두 장악한 민주당이 도널드 트럼프 대통령과 긴밀한 관계를 맺어온 주요 대기업을 대상으로 대대적인 의회 조사를 준비하고 있습니다. 조사 대상으로는 애플과 메타를 비롯해 일론 머스크 테슬라 최고경영자(CEO)가 이끄는 기업들이 우선 거론되고 있습니다. 워싱턴포스트(WP)는 현지시...",
-          "contentSnippet": "트럼프 대통령과 팀 쿡 애플 CEO[EPA=연합뉴스 자료사진. 재판매 및 DB 금지][EPA=연합뉴스 자료사진. 재판매 및 DB 금지] 미국 중간선거에서 상·하원을 모두 장악한 민주당이 도널드 트럼프 대통령과 긴밀한 관계를 맺어온 주요 대기업을 대상으로 대대적인 의회 조사를 준비하고 있습니다. 조사 대상으로는 애플과 메타를 비롯해 일론 머스크 테슬라 최고경영자(CEO)가 이끄는 기업들이 우선 거론되고 있습니다. 워싱턴포스트(WP)는 현지시...",
-          "guid": "AKR20261107003350dTK",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-06T15:33:52.000Z"
-        },
-        {
-          "creator": "문형민",
-          "title": "\"9일 이란 공격 유리\"…트럼프, 안보팀과 백악관 회의",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261107001749uDE",
-          "pubDate": "Sat, 07 Nov 2026 00:17:51 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261106/AKR20261107001749uDE_01_i.jpg\" alt=\"\"><span class=\"yna_title\">트럼프 대통령</span><span class=\"yna_caption\">[AP=연합뉴스. 재판매 및 DB 금지]</span><span class=\"yna_description\">[AP=연합뉴스. 재판매 및 DB 금지]</span></div>\n\n도널드 트럼프 미국 대통령이 현지시간 5일 국가안보팀과 이란공격 재개 여부를 논의했다고 폭스뉴스가 6일 보도했습니다.\n\n폭스뉴스는 복수의 미 고위 당국자를 인용, 트럼프 대통령이 중간선거 이틀 뒤인 5일 안보팀과 대이란 대응을 놓고 회의를 했다고 전했습니다.\n\n이 당국자들은 백악관 회의가 4일과 5일에 있었다고 전했습니다. 4일 회의에도 트럼프 대통령이 참석했는지는 불분명합니다.\n\n이 당국자들은 중동 지역에 9일 초승달이 떠 달빛이 거의 없을 예정이라 군사작전에 유리하다는 발언도 했다고 폭스뉴스는 전했습니다.\n\n9일을 기해 전격 대이란 공습재개에 나서는 방안이 트럼프 대통령과 안보팀의 회의에서 논의됐을 가능성이 있습니다.\n\n미 온라인매체 악시오스도 트럼프 대통령이 중간선거 이후 처음으로 전날 최고위 안보참모들과 회의를 했다고 전했습니다.\n\n트럼프 대통령은 전날 백악관에서 취재진에게 이란 공격을 재개할지 합의를 할지 결정해야 한다면서\"가능하면 이란의 나머지를 파괴하고 싶지 않지만 아마 그렇게 해야 할 수도 있다. 곧 알게 될 것\"이라고 말했습니다.\n\n#트럼프 #이란\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n문형민(moonbro@yna.co.kr)",
-          "content:encodedSnippet": "트럼프 대통령[AP=연합뉴스. 재판매 및 DB 금지][AP=연합뉴스. 재판매 및 DB 금지]\n\n도널드 트럼프 미국 대통령이 현지시간 5일 국가안보팀과 이란공격 재개 여부를 논의했다고 폭스뉴스가 6일 보도했습니다.\n\n폭스뉴스는 복수의 미 고위 당국자를 인용, 트럼프 대통령이 중간선거 이틀 뒤인 5일 안보팀과 대이란 대응을 놓고 회의를 했다고 전했습니다.\n\n이 당국자들은 백악관 회의가 4일과 5일에 있었다고 전했습니다. 4일 회의에도 트럼프 대통령이 참석했는지는 불분명합니다.\n\n이 당국자들은 중동 지역에 9일 초승달이 떠 달빛이 거의 없을 예정이라 군사작전에 유리하다는 발언도 했다고 폭스뉴스는 전했습니다.\n\n9일을 기해 전격 대이란 공습재개에 나서는 방안이 트럼프 대통령과 안보팀의 회의에서 논의됐을 가능성이 있습니다.\n\n미 온라인매체 악시오스도 트럼프 대통령이 중간선거 이후 처음으로 전날 최고위 안보참모들과 회의를 했다고 전했습니다.\n\n트럼프 대통령은 전날 백악관에서 취재진에게 이란 공격을 재개할지 합의를 할지 결정해야 한다면서\"가능하면 이란의 나머지를 파괴하고 싶지 않지만 아마 그렇게 해야 할 수도 있다. 곧 알게 될 것\"이라고 말했습니다.\n\n#트럼프 #이란\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n문형민(moonbro@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261106/AKR20261107001749uDE_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "문형민",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261107001749uDE#comments",
-          "content": "트럼프 대통령[AP=연합뉴스. 재판매 및 DB 금지][AP=연합뉴스. 재판매 및 DB 금지] 도널드 트럼프 미국 대통령이 현지시간 5일 국가안보팀과 이란공격 재개 여부를 논의했다고 폭스뉴스가 6일 보도했습니다. 폭스뉴스는 복수의 미 고위 당국자를 인용, 트럼프 대통령이 중간선거 이틀 뒤인 5일 안보팀과 대이란 대응을 놓고 회의를 했다고 전했습니다. 이 당국자들은 백악관 회의가 4일과 5일에 있었다고 전했습니다. 4일 회의에도 트럼프 대통령...",
-          "contentSnippet": "트럼프 대통령[AP=연합뉴스. 재판매 및 DB 금지][AP=연합뉴스. 재판매 및 DB 금지] 도널드 트럼프 미국 대통령이 현지시간 5일 국가안보팀과 이란공격 재개 여부를 논의했다고 폭스뉴스가 6일 보도했습니다. 폭스뉴스는 복수의 미 고위 당국자를 인용, 트럼프 대통령이 중간선거 이틀 뒤인 5일 안보팀과 대이란 대응을 놓고 회의를 했다고 전했습니다. 이 당국자들은 백악관 회의가 4일과 5일에 있었다고 전했습니다. 4일 회의에도 트럼프 대통령...",
-          "guid": "AKR20261107001749uDE",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-06T15:17:51.000Z"
-        },
-        {
-          "creator": "최진경",
-          "title": "\"트럼프, 오는 9일 대이란 군사작전 재개 검토\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH202611070004377ad",
-          "pubDate": "Sat, 07 Nov 2026 00:04:38 +0900",
-          "content:encoded": "도널드 트럼프 미국 대통령이 오는 9일 이란에 대한 군사작전을 재개할지 여부를 검토하고 있는 것으로 알려졌습니다.\n\n미국 폭스뉴스는 현지시간 6일 미 고위 당국자들을 인용해 트럼프 대통령이 이같은 내용을 국가안보팀과 논의했다고 보도했습니다.\n\n미 당국자들은 오는 9일은 중동 지역의 '신월' 시기로, 해당 달빛이 거의 사라져 '군사작전 수행에 유리한 조건'이라고 설명했습니다.\n\n앞서 트럼프 대통령은 지난 5일 전쟁 재개 가능성을 묻는 취재진에 미국이 \"결정을 내릴 것\"이라고 말했습니다.\n\n#트럼프 #미국 #이란 #공습\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최진경(highjean@yna.co.kr)",
-          "content:encodedSnippet": "도널드 트럼프 미국 대통령이 오는 9일 이란에 대한 군사작전을 재개할지 여부를 검토하고 있는 것으로 알려졌습니다.\n\n미국 폭스뉴스는 현지시간 6일 미 고위 당국자들을 인용해 트럼프 대통령이 이같은 내용을 국가안보팀과 논의했다고 보도했습니다.\n\n미 당국자들은 오는 9일은 중동 지역의 '신월' 시기로, 해당 달빛이 거의 사라져 '군사작전 수행에 유리한 조건'이라고 설명했습니다.\n\n앞서 트럼프 대통령은 지난 5일 전쟁 재개 가능성을 묻는 취재진에 미국이 \"결정을 내릴 것\"이라고 말했습니다.\n\n#트럼프 #미국 #이란 #공습\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최진경(highjean@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261106/MYH202611070004377ad.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "최진경",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH202611070004377ad#comments",
-          "content": "도널드 트럼프 미국 대통령이 오는 9일 이란에 대한 군사작전을 재개할지 여부를 검토하고 있는 것으로 알려졌습니다. 미국 폭스뉴스는 현지시간 6일 미 고위 당국자들을 인용해 트럼프 대통령이 이같은 내용을 국가안보팀과 논의했다고 보도했습니다. 미 당국자들은 오는 9일은 중동 지역의 '신월' 시기로, 해당 달빛이 거의 사라져 '군사작전 수행에 유리한 조건'이라고 설명했습니다. 앞서 트럼프 대통령은 지난 5일 전쟁 재개 가능성을 묻는 취재진에 미...",
-          "contentSnippet": "도널드 트럼프 미국 대통령이 오는 9일 이란에 대한 군사작전을 재개할지 여부를 검토하고 있는 것으로 알려졌습니다. 미국 폭스뉴스는 현지시간 6일 미 고위 당국자들을 인용해 트럼프 대통령이 이같은 내용을 국가안보팀과 논의했다고 보도했습니다. 미 당국자들은 오는 9일은 중동 지역의 '신월' 시기로, 해당 달빛이 거의 사라져 '군사작전 수행에 유리한 조건'이라고 설명했습니다. 앞서 트럼프 대통령은 지난 5일 전쟁 재개 가능성을 묻는 취재진에 미...",
-          "guid": "MYH202611070004377ad",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-06T15:04:38.000Z"
-        },
-        {
           "creator": "김수빈",
-          "title": "트럼프 \"슈퍼지능, SI 100% 지지”…민주당 AI 규제 정조준",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261106234521vBJ",
-          "pubDate": "Fri, 06 Nov 2026 23:45:22 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261106/AKR20261106234521vBJ_01_i.jpg\" alt=\"\"><span class=\"yna_title\">트럼프 대통령</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n도널드 트럼프 미국 대통령이 인공지능, AI 산업에 대한 강한 지지 입장을 재확인하며 민주당의 규제 기조를 정면으로 겨냥했습니다.\n\n트럼프 대통령은 현지시간 6일 자신의 소셜미디어 트루스소셜에 “대통령으로서 나는 슈퍼지능, SI를 100% 지지한다”며 “SI를 도입해 부유해지기를 원하는 여러 주와 협력할 것”이라고 밝혔습니다.\n\n트럼프 대통령은 AI를 ‘슈퍼지능’으로 부르고 있으며, 앞서 미국 정부 문서에서도 AI 대신 SI라는 표현을 쓰겠다는 입장을 밝힌 바 있습니다.\n\n이어 “SI는 황금 같은 기회”라며 이를 거부하는 것은 “어리석은 지도부”뿐이라고 주장했습니다.\n\n이번 발언은 데이터센터 건설과 AI 산업 규제를 강화하려는 민주당의 움직임을 겨냥한 것으로 풀이됩니다.\n\n트럼프 대통령은 중국과의 AI 경쟁을 이유로 개발 속도를 늦추거나 규제를 강화하는 데 반대해왔습니다.\n\n지난 9월에도 “누가 AI에서 이기느냐가 승부”라며 미국이 중국에 우위를 내줘서는 안 된다는 입장을 강조했습니다.\n\n다만 미국 내에서는 대규모 데이터센터 건설에 따른 전력 수요와 전기요금 상승, 지역 주민 부담 등을 둘러싼 반발도 이어지고 있습니다.\n\n트럼프 대통령은 이 같은 반대 여론에도 데이터센터 확대와 AI 산업 육성 기조를 유지해왔습니다.\n\n전날 뉴욕증시 급락과 관련해서도 트럼프 대통령은 민주당의 AI 규제 우려를 원인으로 지목하며 공화당이 아닌 민주당의 책임이라고 주장했습니다.\n\n중간선거 이후에도 트럼프 대통령이 AI와 데이터센터 확대 정책을 고수하겠다는 뜻을 분명히 하면서, 향후 민주당과의 AI 규제 공방도 더욱 거세질 전망입니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김수빈(soup@yna.co.kr)",
-          "content:encodedSnippet": "트럼프 대통령[연합뉴스 제공][연합뉴스 제공]\n도널드 트럼프 미국 대통령이 인공지능, AI 산업에 대한 강한 지지 입장을 재확인하며 민주당의 규제 기조를 정면으로 겨냥했습니다.\n\n트럼프 대통령은 현지시간 6일 자신의 소셜미디어 트루스소셜에 “대통령으로서 나는 슈퍼지능, SI를 100% 지지한다”며 “SI를 도입해 부유해지기를 원하는 여러 주와 협력할 것”이라고 밝혔습니다.\n\n트럼프 대통령은 AI를 ‘슈퍼지능’으로 부르고 있으며, 앞서 미국 정부 문서에서도 AI 대신 SI라는 표현을 쓰겠다는 입장을 밝힌 바 있습니다.\n\n이어 “SI는 황금 같은 기회”라며 이를 거부하는 것은 “어리석은 지도부”뿐이라고 주장했습니다.\n\n이번 발언은 데이터센터 건설과 AI 산업 규제를 강화하려는 민주당의 움직임을 겨냥한 것으로 풀이됩니다.\n\n트럼프 대통령은 중국과의 AI 경쟁을 이유로 개발 속도를 늦추거나 규제를 강화하는 데 반대해왔습니다.\n\n지난 9월에도 “누가 AI에서 이기느냐가 승부”라며 미국이 중국에 우위를 내줘서는 안 된다는 입장을 강조했습니다.\n\n다만 미국 내에서는 대규모 데이터센터 건설에 따른 전력 수요와 전기요금 상승, 지역 주민 부담 등을 둘러싼 반발도 이어지고 있습니다.\n\n트럼프 대통령은 이 같은 반대 여론에도 데이터센터 확대와 AI 산업 육성 기조를 유지해왔습니다.\n\n전날 뉴욕증시 급락과 관련해서도 트럼프 대통령은 민주당의 AI 규제 우려를 원인으로 지목하며 공화당이 아닌 민주당의 책임이라고 주장했습니다.\n\n중간선거 이후에도 트럼프 대통령이 AI와 데이터센터 확대 정책을 고수하겠다는 뜻을 분명히 하면서, 향후 민주당과의 AI 규제 공방도 더욱 거세질 전망입니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김수빈(soup@yna.co.kr)",
+          "title": "국민의힘, 한 달 만에 장외로…‘조작기소특검법’ 규탄",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261107053919WLg",
+          "pubDate": "Sat, 07 Nov 2026 05:39:20 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261106/AKR20261107053919WLg_01_i.jpg\" alt=\"\"><span class=\"yna_title\">국민의힘, 국회에서 '조작기소 특검' 규탄대회</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n국민의힘이 더불어민주당 주도로 국회를 통과한 이른바 ‘조작기소특검법’을 규탄하기 위해 서울 도심에서 대규모 장외 집회를 엽니다.\n\n국민의힘은 오늘(7일) 오후 서울 종로구 경복궁역 인근에서 ‘이재명 재판취소 악법 강행 처리 국민 규탄대회’를 개최합니다.\n\n집회에는 당 소속 국회의원과 당협위원장, 당원 등이 참석할 예정입니다.\n\n국민의힘이 장외 집회에 나서는 것은 지난달 3일 개천절 도심 집회 이후 한 달여 만입니다.\n\n국민의힘은 전날 민주당 주도로 국회 본회의를 통과한 조작기소특검법을 ‘이재명 대통령 재판 취소를 위한 악법’이라고 주장하며 반발하고 있습니다.\n\n법안에 반대하는 여론을 모으기 위해 다음 주 초까지 장외 투쟁도 이어갈 계획입니다.\n\n오는 9일에는 청와대 앞에서 현장 최고위원회의를 열고, 10일에는 같은 장소에서 현장 의원총회를 진행합니다.\n\n이와 함께 당 소속 의원들도 각지에서 1인 시위에 나설 예정입니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김수빈(soup@yna.co.kr)",
+          "content:encodedSnippet": "국민의힘, 국회에서 '조작기소 특검' 규탄대회[연합뉴스 제공][연합뉴스 제공]\n국민의힘이 더불어민주당 주도로 국회를 통과한 이른바 ‘조작기소특검법’을 규탄하기 위해 서울 도심에서 대규모 장외 집회를 엽니다.\n\n국민의힘은 오늘(7일) 오후 서울 종로구 경복궁역 인근에서 ‘이재명 재판취소 악법 강행 처리 국민 규탄대회’를 개최합니다.\n\n집회에는 당 소속 국회의원과 당협위원장, 당원 등이 참석할 예정입니다.\n\n국민의힘이 장외 집회에 나서는 것은 지난달 3일 개천절 도심 집회 이후 한 달여 만입니다.\n\n국민의힘은 전날 민주당 주도로 국회 본회의를 통과한 조작기소특검법을 ‘이재명 대통령 재판 취소를 위한 악법’이라고 주장하며 반발하고 있습니다.\n\n법안에 반대하는 여론을 모으기 위해 다음 주 초까지 장외 투쟁도 이어갈 계획입니다.\n\n오는 9일에는 청와대 앞에서 현장 최고위원회의를 열고, 10일에는 같은 장소에서 현장 의원총회를 진행합니다.\n\n이와 함께 당 소속 의원들도 각지에서 1인 시위에 나설 예정입니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김수빈(soup@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261106/AKR20261106234521vBJ_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261106/AKR20261107053919WLg_01_i.jpg",
             "type": "image/jpeg"
           },
           "dc:creator": "김수빈",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261106234521vBJ#comments",
-          "content": "트럼프 대통령[연합뉴스 제공][연합뉴스 제공] 도널드 트럼프 미국 대통령이 인공지능, AI 산업에 대한 강한 지지 입장을 재확인하며 민주당의 규제 기조를 정면으로 겨냥했습니다. 트럼프 대통령은 현지시간 6일 자신의 소셜미디어 트루스소셜에 “대통령으로서 나는 슈퍼지능, SI를 100% 지지한다”며 “SI를 도입해 부유해지기를 원하는 여러 주와 협력할 것”이라고 밝혔습니다. 트럼프 대통령은 AI를 ‘슈퍼지능’으로 부르고 있으며, 앞서 미국 정...",
-          "contentSnippet": "트럼프 대통령[연합뉴스 제공][연합뉴스 제공] 도널드 트럼프 미국 대통령이 인공지능, AI 산업에 대한 강한 지지 입장을 재확인하며 민주당의 규제 기조를 정면으로 겨냥했습니다. 트럼프 대통령은 현지시간 6일 자신의 소셜미디어 트루스소셜에 “대통령으로서 나는 슈퍼지능, SI를 100% 지지한다”며 “SI를 도입해 부유해지기를 원하는 여러 주와 협력할 것”이라고 밝혔습니다. 트럼프 대통령은 AI를 ‘슈퍼지능’으로 부르고 있으며, 앞서 미국 정...",
-          "guid": "AKR20261106234521vBJ",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261107053919WLg#comments",
+          "content": "국민의힘, 국회에서 '조작기소 특검' 규탄대회[연합뉴스 제공][연합뉴스 제공] 국민의힘이 더불어민주당 주도로 국회를 통과한 이른바 ‘조작기소특검법’을 규탄하기 위해 서울 도심에서 대규모 장외 집회를 엽니다. 국민의힘은 오늘(7일) 오후 서울 종로구 경복궁역 인근에서 ‘이재명 재판취소 악법 강행 처리 국민 규탄대회’를 개최합니다. 집회에는 당 소속 국회의원과 당협위원장, 당원 등이 참석할 예정입니다. 국민의힘이 장외 집회에 나서는 것은 지난...",
+          "contentSnippet": "국민의힘, 국회에서 '조작기소 특검' 규탄대회[연합뉴스 제공][연합뉴스 제공] 국민의힘이 더불어민주당 주도로 국회를 통과한 이른바 ‘조작기소특검법’을 규탄하기 위해 서울 도심에서 대규모 장외 집회를 엽니다. 국민의힘은 오늘(7일) 오후 서울 종로구 경복궁역 인근에서 ‘이재명 재판취소 악법 강행 처리 국민 규탄대회’를 개최합니다. 집회에는 당 소속 국회의원과 당협위원장, 당원 등이 참석할 예정입니다. 국민의힘이 장외 집회에 나서는 것은 지난...",
+          "guid": "AKR20261107053919WLg",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-06T14:45:22.000Z"
+          "isoDate": "2026-11-06T20:39:20.000Z"
         },
         {
-          "creator": "노수미",
-          "title": "[날씨]  절기 '입동' 서울 첫 영하권…동쪽 중심 한파특보",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261106234138Gg1",
-          "pubDate": "Fri, 06 Nov 2026 23:41:39 +0900",
-          "content:encoded": "입동에 추우면 그해 겨울은 몹시 춥다는 말이 있습니다.\n\n이번 겨울의 혹독한 한파를 예고하는 걸까요?\n\n절기 '입동'인 토요일은 올가을 들어 가장 춥겠습니다.\n\n특히 동쪽 지역과 전남 곳곳은 하루 사이 기온이 10도 이상 떨어지면서 한파특보도 발효됐습니다.\n\n지도에 보라색으로 표시된 지역은 영하권 추위가 나타나겠습니다.\n\n서울도 아침에 영하 1도까지 내려가겠고요.\n\n찬 바람에 체감 기온은 영하 4도로 더 낮겠습니다.\n\n지역별 기온 보시면 아침에 서울이 영하 1도로 시작하겠고요.\n\n낮에는 서울이 9도, 청주와 대전이 11도에 그치겠습니다.\n\n남부 지방의 아침 기온은 대구가 1도로 출발해서, 낮 기온은 대구가 12도, 부산이 14도로 평년 기온을 5도가량 밑돌겠습니다.\n\n전국적으로 강한 바람이 불겠습니다.\n\n대부분 지역에 순간 초속 15m 안팎의 강풍이 예상되는데요.\n\n수도권과 강원 영동은 대기가 건조합니다.\n\n거센 바람에 작은 불씨가 큰 불로 번지지 않도록 조심하셔야겠습니다.\n\n휴일에는 메마름을 달래줄 비가 내리겠습니다.\n\n중부지방을 중심으로 비구름이 지나겠는데요.\n\n기온이 낮은 강원 산간에는 눈이 내리겠습니다.\n\n이번 추위는 다음 주 중반쯤 누그러들 전망입니다.\n\n급격한 기온 변화에 건강 관리 잘해주시기를 바랍니다.\n\n지금까지 날씨였습니다.\n\n(권진영 기상캐스터)\n\n#날씨 #한파특보 #비 #찬바람 #초겨울추위 #입동\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
-          "content:encodedSnippet": "입동에 추우면 그해 겨울은 몹시 춥다는 말이 있습니다.\n\n이번 겨울의 혹독한 한파를 예고하는 걸까요?\n\n절기 '입동'인 토요일은 올가을 들어 가장 춥겠습니다.\n\n특히 동쪽 지역과 전남 곳곳은 하루 사이 기온이 10도 이상 떨어지면서 한파특보도 발효됐습니다.\n\n지도에 보라색으로 표시된 지역은 영하권 추위가 나타나겠습니다.\n\n서울도 아침에 영하 1도까지 내려가겠고요.\n\n찬 바람에 체감 기온은 영하 4도로 더 낮겠습니다.\n\n지역별 기온 보시면 아침에 서울이 영하 1도로 시작하겠고요.\n\n낮에는 서울이 9도, 청주와 대전이 11도에 그치겠습니다.\n\n남부 지방의 아침 기온은 대구가 1도로 출발해서, 낮 기온은 대구가 12도, 부산이 14도로 평년 기온을 5도가량 밑돌겠습니다.\n\n전국적으로 강한 바람이 불겠습니다.\n\n대부분 지역에 순간 초속 15m 안팎의 강풍이 예상되는데요.\n\n수도권과 강원 영동은 대기가 건조합니다.\n\n거센 바람에 작은 불씨가 큰 불로 번지지 않도록 조심하셔야겠습니다.\n\n휴일에는 메마름을 달래줄 비가 내리겠습니다.\n\n중부지방을 중심으로 비구름이 지나겠는데요.\n\n기온이 낮은 강원 산간에는 눈이 내리겠습니다.\n\n이번 추위는 다음 주 중반쯤 누그러들 전망입니다.\n\n급격한 기온 변화에 건강 관리 잘해주시기를 바랍니다.\n\n지금까지 날씨였습니다.\n\n(권진영 기상캐스터)\n\n#날씨 #한파특보 #비 #찬바람 #초겨울추위 #입동\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
+          "creator": "문승욱",
+          "title": "\"여기가 바다야, 도로야\"…폭우 쏟아진 도로에 '미국판 부캉이' 출몰?",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261106162409AAQ",
+          "pubDate": "Sat, 07 Nov 2026 05:02:04 +0900",
+          "content:encoded": "\n\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261106/AKR20261106162409AAQ_01_i.jpg\" alt=\"\"><span class=\"yna_title\">상어로 추정된 물고기가 교차로를 헤엄치며 물보라를 일으키고 있는 모습.</span><span class=\"yna_caption\">[사진=프란샤라 나폴레옹 / 스토리풀·폭스 웨더]</span><span class=\"yna_description\">[사진=프란샤라 나폴레옹 / 스토리풀·폭스 웨더]</span></div>\n미국 플로리다주에서 기록적인 폭우로 도로와 공원이 물에 잠긴 가운데, 침수된 도로에서 상어로 추정되는 물고기가 헤엄치는 모습이 포착됐습니다.\n\n현지시간 5일 폭스웨더에 따르면, 지난 2일부터 4일까지 플로리다주 동부 해안에 많은 비가 내리면서 곳곳에서 침수 피해가 발생했습니다.\n\n특히 포트피어스에서는 사흘 동안 약 10인치(약 254㎜)의 비가 내렸고, 인디언하버비치에서는 16인치(약 406㎜)가 넘는 강수량이 기록됐습니다.\n\n이 과정에서 바닷물과 연결된 침수 지역으로 해양 생물들이 유입되면서 도심 한복판에서 물고기가 헤엄치는 모습이 잇따라 목격됐습니다.\n\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261106/AKR20261106162409AAQ_02_i.jpg\" alt=\"\"><span class=\"yna_title\">상어로 추정되는 물고기가 교차로에서 헤엄치는 모습이 포착된 모습.</span><span class=\"yna_caption\">[사진=프란샤라 나폴레옹 / 스토리풀·폭스 웨더]</span><span class=\"yna_description\">[사진=프란샤라 나폴레옹 / 스토리풀·폭스 웨더]</span></div>\n지난 3일 포트피어스의 한 도로 교차로에서는 상어로 추정되는 물고기 한 마리가 물에 잠긴 도로를 헤엄치는 모습이 영상에 담겼습니다.\n\n영상을 촬영한 프란샤라 나폴레옹은 현지 매체에 \"폭풍이 더 심해지기 전에 딸을 데리러 학교에 가던 중 침수된 도로에서 무언가 움직이는 것을 발견했다\"며 \"촬영을 시작하고 나서야 상어라는 사실을 알아챘다. 믿기지 않았다\"고 말했습니다.\n\n영상에는 물고기의 지느러미가 수면 위로 드러난 채 차량들이 지나다니는 도로를 헤엄치는 모습이 담겼습니다.\n\n#상어 #플로리다 #미국 #폭우 #도로침수\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n문승욱(winnerwook@yna.co.kr)",
+          "content:encodedSnippet": "상어로 추정된 물고기가 교차로를 헤엄치며 물보라를 일으키고 있는 모습.[사진=프란샤라 나폴레옹 / 스토리풀·폭스 웨더][사진=프란샤라 나폴레옹 / 스토리풀·폭스 웨더]\n상어로 추정되는 물고기가 교차로에서 헤엄치는 모습이 포착된 모습.[사진=프란샤라 나폴레옹 / 스토리풀·폭스 웨더][사진=프란샤라 나폴레옹 / 스토리풀·폭스 웨더]\n지난 3일 포트피어스의 한 도로 교차로에서는 상어로 추정되는 물고기 한 마리가 물에 잠긴 도로를 헤엄치는 모습이 영상에 담겼습니다.\n\n영상을 촬영한 프란샤라 나폴레옹은 현지 매체에 \"폭풍이 더 심해지기 전에 딸을 데리러 학교에 가던 중 침수된 도로에서 무언가 움직이는 것을 발견했다\"며 \"촬영을 시작하고 나서야 상어라는 사실을 알아챘다. 믿기지 않았다\"고 말했습니다.\n\n영상에는 물고기의 지느러미가 수면 위로 드러난 채 차량들이 지나다니는 도로를 헤엄치는 모습이 담겼습니다.\n\n#상어 #플로리다 #미국 #폭우 #도로침수\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n문승욱(winnerwook@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261106/MYH20261106234138Gg1.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261106/AKR20261106162409AAQ_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "노수미",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261106234138Gg1#comments",
-          "content": "입동에 추우면 그해 겨울은 몹시 춥다는 말이 있습니다. 이번 겨울의 혹독한 한파를 예고하는 걸까요? 절기 '입동'인 토요일은 올가을 들어 가장 춥겠습니다. 특히 동쪽 지역과 전남 곳곳은 하루 사이 기온이 10도 이상 떨어지면서 한파특보도 발효됐습니다. 지도에 보라색으로 표시된 지역은 영하권 추위가 나타나겠습니다. 서울도 아침에 영하 1도까지 내려가겠고요. 찬 바람에 체감 기온은 영하 4도로 더 낮겠습니다. 지역별 기온 보시면 아침에 서울이...",
-          "contentSnippet": "입동에 추우면 그해 겨울은 몹시 춥다는 말이 있습니다. 이번 겨울의 혹독한 한파를 예고하는 걸까요? 절기 '입동'인 토요일은 올가을 들어 가장 춥겠습니다. 특히 동쪽 지역과 전남 곳곳은 하루 사이 기온이 10도 이상 떨어지면서 한파특보도 발효됐습니다. 지도에 보라색으로 표시된 지역은 영하권 추위가 나타나겠습니다. 서울도 아침에 영하 1도까지 내려가겠고요. 찬 바람에 체감 기온은 영하 4도로 더 낮겠습니다. 지역별 기온 보시면 아침에 서울이...",
-          "guid": "MYH20261106234138Gg1",
+          "dc:creator": "문승욱",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261106162409AAQ#comments",
+          "content": "상어로 추정된 물고기가 교차로를 헤엄치며 물보라를 일으키고 있는 모습.[사진=프란샤라 나폴레옹 / 스토리풀·폭스 웨더][사진=프란샤라 나폴레옹 / 스토리풀·폭스 웨더] 미국 플로리다주에서 기록적인 폭우로 도로와 공원이 물에 잠긴 가운데, 침수된 도로에서 상어로 추정되는 물고기가 헤엄치는 모습이 포착됐습니다. 현지시간 5일 폭스웨더에 따르면, 지난 2일부터 4일까지 플로리다주 동부 해안에 많은 비가 내리면서 곳곳에서 침수 피해가 발생했습니다...",
+          "contentSnippet": "상어로 추정된 물고기가 교차로를 헤엄치며 물보라를 일으키고 있는 모습.[사진=프란샤라 나폴레옹 / 스토리풀·폭스 웨더][사진=프란샤라 나폴레옹 / 스토리풀·폭스 웨더] 미국 플로리다주에서 기록적인 폭우로 도로와 공원이 물에 잠긴 가운데, 침수된 도로에서 상어로 추정되는 물고기가 헤엄치는 모습이 포착됐습니다. 현지시간 5일 폭스웨더에 따르면, 지난 2일부터 4일까지 플로리다주 동부 해안에 많은 비가 내리면서 곳곳에서 침수 피해가 발생했습니다...",
+          "guid": "AKR20261106162409AAQ",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-06T14:41:39.000Z"
+          "isoDate": "2026-11-06T20:02:04.000Z"
         },
         {
-          "creator": "신현정",
-          "title": "[오늘의영상] '딱 걸렸다'…클럽으로 잔디 눌렀다가 벌타",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261106232901dSp",
-          "pubDate": "Fri, 06 Nov 2026 23:29:01 +0900",
-          "content:encoded": "잔디 위에 떨어진 공을 치기 전, 클럽으로 잔디를 슬쩍 눌러 다지는 모습이 포착됩니다.\n\n남자 골프 세계랭킹 2위, 맥길로이가 명성이 무색하게 규정 위반으로 결국 벌타를 받았습니다.\n\n승부가 급하더라도 경쟁은 공정해야겠죠.\n\n지금까지 스포츠와이드였습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신현정(hyunspirit@yna.co.kr)",
-          "content:encodedSnippet": "잔디 위에 떨어진 공을 치기 전, 클럽으로 잔디를 슬쩍 눌러 다지는 모습이 포착됩니다.\n\n남자 골프 세계랭킹 2위, 맥길로이가 명성이 무색하게 규정 위반으로 결국 벌타를 받았습니다.\n\n승부가 급하더라도 경쟁은 공정해야겠죠.\n\n지금까지 스포츠와이드였습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신현정(hyunspirit@yna.co.kr)",
+          "creator": "박지연",
+          "title": "'맨손으로 악어 제압' 보안관…테이프로 주둥이 '칭칭' 무슨 일",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261105140433OTw",
+          "pubDate": "Sat, 07 Nov 2026 05:01:02 +0900",
+          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261106/AKR20261105140433OTw_01_i.jpg\" alt=\"\"><span class=\"yna_title\">보안관의 손에 붙잡힌 악어(왼쪽)와 악어를 순찰차에 싣는 모습(오른쪽)</span><span class=\"yna_caption\">[오세올라 카운티 보안관실 공식 페이스북]</span><span class=\"yna_description\">[오세올라 카운티 보안관실 공식 페이스북]</span></div>\n\n미국 플로리다주에서 한 보안관이 맨손과 덕트 테이프만으로 악어를 제압하는 모습이 카메라에 포착됐습니다.\n\n현지시간 4일 미국 폭스뉴스에 따르면, 지난달 31일 플로리다주 키시미의 한 유명 상업시설에 악어가 나타났다는 신고가 접수됐습니다.\n\n오세올라 카운티 보안관실이 공개한 영상에는 현장에 출동한 보안관이 울타리 아래에 있던 악어를 붙잡는 모습이 담겼습니다.\n\n당시 악어는 인근 연못에서 이동해 온 것으로 추정됩니다.\n\n보안관은 악어의 꼬리와 뒷다리를 붙잡아 끌어낸 뒤 양손으로 머리를 제압했습니다.\n\n이어 한 손으로 주둥이를 다물게 한 채 다른 손으로 덕트 테이프를 감아 고정했습니다.\n\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261106/AKR20261105140433OTw_02_i.jpg\" alt=\"\"><span class=\"yna_title\">보안관이 악어의 주둥이에 덕트 테이프를 감는 모습</span><span class=\"yna_caption\">[오세올라 카운티 보안관실 공식 페이스북]</span><span class=\"yna_description\">[오세올라 카운티 보안관실 공식 페이스북]</span></div>\n이후 악어를 들어 올려 관광객들이 사진을 찍을 수 있도록 하는 여유도 보였습니다.\n\n악어를 순찰차에 태우려는 순간 악어가 거세게 몸부림 치기도 했지만, 보안관은 놓치지 않고 뒷좌석에 실었습니다.\n\n악어는 이후 다시 물속으로 돌려보내졌습니다.\n\n보안관실은 영상을 공개하며 \"관광객들은 관광 명소를 보러 왔지만, 플로리다에서 경험할 수 있는 모든 것을 경험하고 갔다\"고 전했습니다.\n\n이어 악어가 \"구금되지 않고 다시 물로 돌아갔다\"고 농담을 덧붙였습니다.\n\n그러면서 \"악어에게 접근하거나 먹이를 주거나 직접 다뤄서는 안 된다\"며 영상에 등장한 보안관은 악어를 다뤄본 경험이 있다고도 설명했습니다.\n\n#동물 #악어 #구조 #포획 #야생동물 #미국 #플로리다 #보안관 #경찰\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박지연(park45@yna.co.kr)",
+          "content:encodedSnippet": "보안관의 손에 붙잡힌 악어(왼쪽)와 악어를 순찰차에 싣는 모습(오른쪽)[오세올라 카운티 보안관실 공식 페이스북][오세올라 카운티 보안관실 공식 페이스북]\n보안관이 악어의 주둥이에 덕트 테이프를 감는 모습[오세올라 카운티 보안관실 공식 페이스북][오세올라 카운티 보안관실 공식 페이스북]\n이후 악어를 들어 올려 관광객들이 사진을 찍을 수 있도록 하는 여유도 보였습니다.\n\n악어를 순찰차에 태우려는 순간 악어가 거세게 몸부림 치기도 했지만, 보안관은 놓치지 않고 뒷좌석에 실었습니다.\n\n악어는 이후 다시 물속으로 돌려보내졌습니다.\n\n보안관실은 영상을 공개하며 \"관광객들은 관광 명소를 보러 왔지만, 플로리다에서 경험할 수 있는 모든 것을 경험하고 갔다\"고 전했습니다.\n\n이어 악어가 \"구금되지 않고 다시 물로 돌아갔다\"고 농담을 덧붙였습니다.\n\n그러면서 \"악어에게 접근하거나 먹이를 주거나 직접 다뤄서는 안 된다\"며 영상에 등장한 보안관은 악어를 다뤄본 경험이 있다고도 설명했습니다.\n\n#동물 #악어 #구조 #포획 #야생동물 #미국 #플로리다 #보안관 #경찰\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박지연(park45@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261106/MYH20261106232901dSp.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261106/AKR20261105140433OTw_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "신현정",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261106232901dSp#comments",
-          "content": "잔디 위에 떨어진 공을 치기 전, 클럽으로 잔디를 슬쩍 눌러 다지는 모습이 포착됩니다. 남자 골프 세계랭킹 2위, 맥길로이가 명성이 무색하게 규정 위반으로 결국 벌타를 받았습니다. 승부가 급하더라도 경쟁은 공정해야겠죠. 지금까지 스포츠와이드였습니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 신현정(hyunspirit@yna.co.kr)",
-          "contentSnippet": "잔디 위에 떨어진 공을 치기 전, 클럽으로 잔디를 슬쩍 눌러 다지는 모습이 포착됩니다. 남자 골프 세계랭킹 2위, 맥길로이가 명성이 무색하게 규정 위반으로 결국 벌타를 받았습니다. 승부가 급하더라도 경쟁은 공정해야겠죠. 지금까지 스포츠와이드였습니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 신현정(hyunspirit@yna.co.kr)",
-          "guid": "MYH20261106232901dSp",
+          "dc:creator": "박지연",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261105140433OTw#comments",
+          "content": "보안관의 손에 붙잡힌 악어(왼쪽)와 악어를 순찰차에 싣는 모습(오른쪽)[오세올라 카운티 보안관실 공식 페이스북][오세올라 카운티 보안관실 공식 페이스북] 미국 플로리다주에서 한 보안관이 맨손과 덕트 테이프만으로 악어를 제압하는 모습이 카메라에 포착됐습니다. 현지시간 4일 미국 폭스뉴스에 따르면, 지난달 31일 플로리다주 키시미의 한 유명 상업시설에 악어가 나타났다는 신고가 접수됐습니다. 오세올라 카운티 보안관실이 공개한 영상에는 현장에 출...",
+          "contentSnippet": "보안관의 손에 붙잡힌 악어(왼쪽)와 악어를 순찰차에 싣는 모습(오른쪽)[오세올라 카운티 보안관실 공식 페이스북][오세올라 카운티 보안관실 공식 페이스북] 미국 플로리다주에서 한 보안관이 맨손과 덕트 테이프만으로 악어를 제압하는 모습이 카메라에 포착됐습니다. 현지시간 4일 미국 폭스뉴스에 따르면, 지난달 31일 플로리다주 키시미의 한 유명 상업시설에 악어가 나타났다는 신고가 접수됐습니다. 오세올라 카운티 보안관실이 공개한 영상에는 현장에 출...",
+          "guid": "AKR20261105140433OTw",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-06T14:29:01.000Z"
+          "isoDate": "2026-11-06T20:01:02.000Z"
         },
         {
-          "creator": "이초원",
-          "title": "배드민턴 안세영, 코리아오픈 4강행…시즌 11번째 우승 보인다",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261106232825r0O",
-          "pubDate": "Fri, 06 Nov 2026 23:28:27 +0900",
-          "content:encoded": "배드민턴 여자 단식 세계 1위 안세영이 코리아오픈 4강에 올랐습니다.\n\n안세영은 전남 여수에서 열린 세계배드민턴연맹 슈퍼500 코리아오픈 8강에서 일본의 군지 리코를 37분 만에 2-0으로 꺾었습니다.\n\n아시안게임부터 유럽 2연전까지 쉬지 않고 달려왔지만, 안세영은 경기 초반부터 우위를 점하며 국내 팬들 앞에서 건재함을 과시했습니다.\n\n이날 승리로 53연승에 성공한 안세영은 변수가 없다면 오는 8일 결승에서 시즌 11번째 우승 트로피에 도전합니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이초원(grass@yna.co.kr)",
-          "content:encodedSnippet": "배드민턴 여자 단식 세계 1위 안세영이 코리아오픈 4강에 올랐습니다.\n\n안세영은 전남 여수에서 열린 세계배드민턴연맹 슈퍼500 코리아오픈 8강에서 일본의 군지 리코를 37분 만에 2-0으로 꺾었습니다.\n\n아시안게임부터 유럽 2연전까지 쉬지 않고 달려왔지만, 안세영은 경기 초반부터 우위를 점하며 국내 팬들 앞에서 건재함을 과시했습니다.\n\n이날 승리로 53연승에 성공한 안세영은 변수가 없다면 오는 8일 결승에서 시즌 11번째 우승 트로피에 도전합니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이초원(grass@yna.co.kr)",
+          "creator": "김수빈",
+          "title": "표차 2천표 미만…美미시시피 상원선거 ‘서약투표’ 공방",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261107043626I2F",
+          "pubDate": "Sat, 07 Nov 2026 04:36:27 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261106/AKR20261107043626I2F_01_i.jpg\" alt=\"\"><span class=\"yna_title\">미시시피주 개표 현장</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n미국 미시시피주 상원의원 선거가 개표 나흘째에도 승자를 가리기 어려운 초접전 양상을 보이는 가운데, 양당 후보가 ‘서약 투표지’ 처리를 두고 충돌하고 있습니다.\n\n현지시간 6일 로이터통신 등에 따르면 민주당 스콧 콜롬 후보는 49.0%를 얻어 공화당 현역 신디 하이드-스미스 상원의원의 48.8%를 0.2%포인트 앞서고 있습니다.\n\n개표율은 96%로 두 후보 간 표 차이는 2천표가 채 되지 않는 것으로 전해졌습니다.\n\n쟁점은 아직 개표되지 않은 ‘서약 투표지’입니다.\n\n서약 투표지는 신분증이 없거나 유권자 등록 기록이 일치하지 않아 투표소에서 자격을 즉시 확인하기 어려운 유권자가 서약서와 함께 제출하는 투표지입니다.\n\n하이드-스미스 의원 측은 미시시피주 82개 카운티 선거 당국에 서한을 보내 서약 투표지를 일반·부재자 투표지와 분리해 보관해달라고 요구했습니다.\n\n반면 콜롬 후보 측은 이런 조치가 특정 투표지를 차별적으로 다루는 불법 행위가 될 수 있다며 반발했습니다.\n\n아직 개표되지 않은 서약 투표지는 약 1만2천~2만장으로 추산됩니다.\n\n올해 미시시피에서는 유권자 명부 정리 과정에서 정보 불일치 사례가 늘면서 서약 투표가 증가했을 가능성도 제기되고 있습니다.\n\n미시시피주는 미국 50개 주 가운데 유일하게 자동 재개표 관련 조항이 없는 만큼, 개표 결과를 둘러싼 이견이 커질 경우 법정 다툼으로 이어질 가능성도 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김수빈(soup@yna.co.kr)",
+          "content:encodedSnippet": "미시시피주 개표 현장[연합뉴스 제공][연합뉴스 제공]\n미국 미시시피주 상원의원 선거가 개표 나흘째에도 승자를 가리기 어려운 초접전 양상을 보이는 가운데, 양당 후보가 ‘서약 투표지’ 처리를 두고 충돌하고 있습니다.\n\n현지시간 6일 로이터통신 등에 따르면 민주당 스콧 콜롬 후보는 49.0%를 얻어 공화당 현역 신디 하이드-스미스 상원의원의 48.8%를 0.2%포인트 앞서고 있습니다.\n\n개표율은 96%로 두 후보 간 표 차이는 2천표가 채 되지 않는 것으로 전해졌습니다.\n\n쟁점은 아직 개표되지 않은 ‘서약 투표지’입니다.\n\n서약 투표지는 신분증이 없거나 유권자 등록 기록이 일치하지 않아 투표소에서 자격을 즉시 확인하기 어려운 유권자가 서약서와 함께 제출하는 투표지입니다.\n\n하이드-스미스 의원 측은 미시시피주 82개 카운티 선거 당국에 서한을 보내 서약 투표지를 일반·부재자 투표지와 분리해 보관해달라고 요구했습니다.\n\n반면 콜롬 후보 측은 이런 조치가 특정 투표지를 차별적으로 다루는 불법 행위가 될 수 있다며 반발했습니다.\n\n아직 개표되지 않은 서약 투표지는 약 1만2천~2만장으로 추산됩니다.\n\n올해 미시시피에서는 유권자 명부 정리 과정에서 정보 불일치 사례가 늘면서 서약 투표가 증가했을 가능성도 제기되고 있습니다.\n\n미시시피주는 미국 50개 주 가운데 유일하게 자동 재개표 관련 조항이 없는 만큼, 개표 결과를 둘러싼 이견이 커질 경우 법정 다툼으로 이어질 가능성도 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김수빈(soup@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261106/MYH20261106232825r0O.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261106/AKR20261107043626I2F_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "이초원",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261106232825r0O#comments",
-          "content": "배드민턴 여자 단식 세계 1위 안세영이 코리아오픈 4강에 올랐습니다. 안세영은 전남 여수에서 열린 세계배드민턴연맹 슈퍼500 코리아오픈 8강에서 일본의 군지 리코를 37분 만에 2-0으로 꺾었습니다. 아시안게임부터 유럽 2연전까지 쉬지 않고 달려왔지만, 안세영은 경기 초반부터 우위를 점하며 국내 팬들 앞에서 건재함을 과시했습니다. 이날 승리로 53연승에 성공한 안세영은 변수가 없다면 오는 8일 결승에서 시즌 11번째 우승 트로피에 도전합니...",
-          "contentSnippet": "배드민턴 여자 단식 세계 1위 안세영이 코리아오픈 4강에 올랐습니다. 안세영은 전남 여수에서 열린 세계배드민턴연맹 슈퍼500 코리아오픈 8강에서 일본의 군지 리코를 37분 만에 2-0으로 꺾었습니다. 아시안게임부터 유럽 2연전까지 쉬지 않고 달려왔지만, 안세영은 경기 초반부터 우위를 점하며 국내 팬들 앞에서 건재함을 과시했습니다. 이날 승리로 53연승에 성공한 안세영은 변수가 없다면 오는 8일 결승에서 시즌 11번째 우승 트로피에 도전합니...",
-          "guid": "MYH20261106232825r0O",
+          "dc:creator": "김수빈",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261107043626I2F#comments",
+          "content": "미시시피주 개표 현장[연합뉴스 제공][연합뉴스 제공] 미국 미시시피주 상원의원 선거가 개표 나흘째에도 승자를 가리기 어려운 초접전 양상을 보이는 가운데, 양당 후보가 ‘서약 투표지’ 처리를 두고 충돌하고 있습니다. 현지시간 6일 로이터통신 등에 따르면 민주당 스콧 콜롬 후보는 49.0%를 얻어 공화당 현역 신디 하이드-스미스 상원의원의 48.8%를 0.2%포인트 앞서고 있습니다. 개표율은 96%로 두 후보 간 표 차이는 2천표가 채 되지 ...",
+          "contentSnippet": "미시시피주 개표 현장[연합뉴스 제공][연합뉴스 제공] 미국 미시시피주 상원의원 선거가 개표 나흘째에도 승자를 가리기 어려운 초접전 양상을 보이는 가운데, 양당 후보가 ‘서약 투표지’ 처리를 두고 충돌하고 있습니다. 현지시간 6일 로이터통신 등에 따르면 민주당 스콧 콜롬 후보는 49.0%를 얻어 공화당 현역 신디 하이드-스미스 상원의원의 48.8%를 0.2%포인트 앞서고 있습니다. 개표율은 96%로 두 후보 간 표 차이는 2천표가 채 되지 ...",
+          "guid": "AKR20261107043626I2F",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-06T14:28:27.000Z"
+          "isoDate": "2026-11-06T19:36:27.000Z"
         },
         {
-          "creator": "신현정",
-          "title": "'16억' 김민솔 상금왕 지킬까…림솔대전 점입가경",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261106232749e8J",
-          "pubDate": "Fri, 06 Nov 2026 23:27:50 +0900",
-          "content:encoded": "[앵커]\n\n올 시즌 국내 여자 골프에서 진기록이 탄생했습니다.\n\n2006년생 신인왕 김민솔이 역대 최초 상금 16억 원 고지에 올랐는데요.\n\n동갑내기이자 다승 선두 서교림과의 타이틀 경쟁도 막판까지 뜨겁습니다.\n\n신현정 기자가 두 선수를 만났습니다.\n\n[기자]\n\n힘차게 날린 티샷이 거센 바람을 가르며 페어웨이에 떨어집니다.\n\n시즌 마지막 대회인 만큼, 매 샷 신중을 더합니다.\n\n올해 성공적인 데뷔 시즌을 맞이하고 있는 20세 특급 루키 김민솔입니다.\n\n시즌 3승을 거두고 출전한 모든 대회에서 상금을 쌓은 김민솔은 투어 사상 최초로 상금 16억 원을 돌파했습니다.\n\n신인상 포인트에서도 압도적 우위를 점하며 신인왕을 확정했습니다.\n\n&lt;김민솔 / 프로골퍼&gt; \"힘들어도 연습량을 많이 가지고 가려고 했던 것 같아요. 딱히 제가 사고 싶은 물건은 없었고, 시즌이 끝나면 휴대폰이 요새 많이 비싸더라고요. 휴대폰을 과감하게 한번 바꾸고 싶습니다.\"\n\n동갑내기 서교림과의 타이틀 경쟁은 올 시즌 최대 관전 포인트.\n\n김민솔이 신인왕과 상금왕을 예약한 가운데, 시즌 4승의 서교림은 다승왕을 확정하고 대상 포인트에서도 선두를 지키고 있습니다.\n\n평소 장난을 주고받을 사이지만, 마지막 타이틀 경쟁을 앞둔 두 골퍼의 표정은 진지합니다.\n\n&lt;서교림 / 프로골퍼&gt; \"견제가 안 될 수는 없지만, 최대한 제 플레이만 하려고 했어요. 대상 포인트가 1등이어서 대상만큼은 꼭 지키고 싶어요.\"\n\n&lt;김민솔 / 프로골퍼&gt; \"서로 조심스러웠던 것 같기는 해요. 지금 우승을 하지 않으면 제가 (다승왕을) 할 수 없는 상황이 됐기 때문에 상금왕을 최대한 지키려고 노력할 것 같고… \"\n\n올 시즌 KLPGA를 뜨겁게 달군 타이틀 경쟁의 승자는 8일 최종 라운드에서 가려집니다.\n\n연합뉴스TV 신현정입니다.\n\n[영상취재 양재준]\n\n[영상편집 김동현]\n\n[그래픽 이예지 용수지]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신현정(hyunspirit@yna.co.kr)",
-          "content:encodedSnippet": "[앵커]\n\n올 시즌 국내 여자 골프에서 진기록이 탄생했습니다.\n\n2006년생 신인왕 김민솔이 역대 최초 상금 16억 원 고지에 올랐는데요.\n\n동갑내기이자 다승 선두 서교림과의 타이틀 경쟁도 막판까지 뜨겁습니다.\n\n신현정 기자가 두 선수를 만났습니다.\n\n[기자]\n\n힘차게 날린 티샷이 거센 바람을 가르며 페어웨이에 떨어집니다.\n\n시즌 마지막 대회인 만큼, 매 샷 신중을 더합니다.\n\n올해 성공적인 데뷔 시즌을 맞이하고 있는 20세 특급 루키 김민솔입니다.\n\n시즌 3승을 거두고 출전한 모든 대회에서 상금을 쌓은 김민솔은 투어 사상 최초로 상금 16억 원을 돌파했습니다.\n\n신인상 포인트에서도 압도적 우위를 점하며 신인왕을 확정했습니다.\n\n<김민솔 / 프로골퍼> \"힘들어도 연습량을 많이 가지고 가려고 했던 것 같아요. 딱히 제가 사고 싶은 물건은 없었고, 시즌이 끝나면 휴대폰이 요새 많이 비싸더라고요. 휴대폰을 과감하게 한번 바꾸고 싶습니다.\"\n\n동갑내기 서교림과의 타이틀 경쟁은 올 시즌 최대 관전 포인트.\n\n김민솔이 신인왕과 상금왕을 예약한 가운데, 시즌 4승의 서교림은 다승왕을 확정하고 대상 포인트에서도 선두를 지키고 있습니다.\n\n평소 장난을 주고받을 사이지만, 마지막 타이틀 경쟁을 앞둔 두 골퍼의 표정은 진지합니다.\n\n<서교림 / 프로골퍼> \"견제가 안 될 수는 없지만, 최대한 제 플레이만 하려고 했어요. 대상 포인트가 1등이어서 대상만큼은 꼭 지키고 싶어요.\"\n\n<김민솔 / 프로골퍼> \"서로 조심스러웠던 것 같기는 해요. 지금 우승을 하지 않으면 제가 (다승왕을) 할 수 없는 상황이 됐기 때문에 상금왕을 최대한 지키려고 노력할 것 같고… \"\n\n올 시즌 KLPGA를 뜨겁게 달군 타이틀 경쟁의 승자는 8일 최종 라운드에서 가려집니다.\n\n연합뉴스TV 신현정입니다.\n\n[영상취재 양재준]\n\n[영상편집 김동현]\n\n[그래픽 이예지 용수지]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신현정(hyunspirit@yna.co.kr)",
+          "creator": "김수빈",
+          "title": "프랑스 긴축 예산안 하원서 참패…찬성 0·반대 458",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR202611070429368dW",
+          "pubDate": "Sat, 07 Nov 2026 04:29:38 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261106/AKR202611070429368dW_01_i.jpg\" alt=\"\"><span class=\"yna_title\">예산안 부결</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n프랑스 정부의 긴축 예산안이 하원에서 찬성표를 단 한 표도 얻지 못한 채 부결됐습니다.\n\n현지시간 5일 폴리티코 유럽판과 RFI 등에 따르면 프랑스 정부가 제출한 내년도 예산안의 세입 부분은 하원 1차 독회에서 찬성 0명, 반대 458명, 기권 2명으로 부결됐습니다.\n\n야권뿐 아니라 에마뉘엘 마크롱 대통령의 집권당까지 반대표를 던지면서 지출 부문에 대한 토론도 이뤄지지 못했습니다.\n\n세바스티앵 르코르뉘 총리는 약 540억유로, 우리 돈 약 86조원 규모의 재정 절감안을 통해 내년 국내총생산 대비 재정적자 비율을 5% 수준까지 낮추겠다는 목표를 제시했습니다.\n\n하지만 사회복지 지출 축소 등에 대한 반발이 거센 데다 과반 세력이 없는 의회에서 예산안이 대폭 수정되면서 어느 진영의 지지도 얻지 못했습니다.\n\n최근 프랑스에서는 공공서비스 악화와 복지 지출 삭감 등에 반대하는 노조와 학생·시민단체의 대규모 시위도 이어지고 있습니다.\n\n부결된 예산안은 원안대로 상원으로 넘어가 오는 20일부터 논의될 예정입니다.\n\n정부는 상원 심사 이후 12월 하원에서 다시 논의해 연내 처리를 추진한다는 방침입니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김수빈(soup@yna.co.kr)",
+          "content:encodedSnippet": "예산안 부결[연합뉴스 제공][연합뉴스 제공]\n프랑스 정부의 긴축 예산안이 하원에서 찬성표를 단 한 표도 얻지 못한 채 부결됐습니다.\n\n현지시간 5일 폴리티코 유럽판과 RFI 등에 따르면 프랑스 정부가 제출한 내년도 예산안의 세입 부분은 하원 1차 독회에서 찬성 0명, 반대 458명, 기권 2명으로 부결됐습니다.\n\n야권뿐 아니라 에마뉘엘 마크롱 대통령의 집권당까지 반대표를 던지면서 지출 부문에 대한 토론도 이뤄지지 못했습니다.\n\n세바스티앵 르코르뉘 총리는 약 540억유로, 우리 돈 약 86조원 규모의 재정 절감안을 통해 내년 국내총생산 대비 재정적자 비율을 5% 수준까지 낮추겠다는 목표를 제시했습니다.\n\n하지만 사회복지 지출 축소 등에 대한 반발이 거센 데다 과반 세력이 없는 의회에서 예산안이 대폭 수정되면서 어느 진영의 지지도 얻지 못했습니다.\n\n최근 프랑스에서는 공공서비스 악화와 복지 지출 삭감 등에 반대하는 노조와 학생·시민단체의 대규모 시위도 이어지고 있습니다.\n\n부결된 예산안은 원안대로 상원으로 넘어가 오는 20일부터 논의될 예정입니다.\n\n정부는 상원 심사 이후 12월 하원에서 다시 논의해 연내 처리를 추진한다는 방침입니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김수빈(soup@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261106/MYH20261106232749e8J.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261106/AKR202611070429368dW_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "신현정",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261106232749e8J#comments",
-          "content": "[앵커] 올 시즌 국내 여자 골프에서 진기록이 탄생했습니다. 2006년생 신인왕 김민솔이 역대 최초 상금 16억 원 고지에 올랐는데요. 동갑내기이자 다승 선두 서교림과의 타이틀 경쟁도 막판까지 뜨겁습니다. 신현정 기자가 두 선수를 만났습니다. [기자] 힘차게 날린 티샷이 거센 바람을 가르며 페어웨이에 떨어집니다. 시즌 마지막 대회인 만큼, 매 샷 신중을 더합니다. 올해 성공적인 데뷔 시즌을 맞이하고 있는 20세 특급 루키 김민솔입니다. 시...",
-          "contentSnippet": "[앵커] 올 시즌 국내 여자 골프에서 진기록이 탄생했습니다. 2006년생 신인왕 김민솔이 역대 최초 상금 16억 원 고지에 올랐는데요. 동갑내기이자 다승 선두 서교림과의 타이틀 경쟁도 막판까지 뜨겁습니다. 신현정 기자가 두 선수를 만났습니다. [기자] 힘차게 날린 티샷이 거센 바람을 가르며 페어웨이에 떨어집니다. 시즌 마지막 대회인 만큼, 매 샷 신중을 더합니다. 올해 성공적인 데뷔 시즌을 맞이하고 있는 20세 특급 루키 김민솔입니다. 시...",
-          "guid": "MYH20261106232749e8J",
+          "dc:creator": "김수빈",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR202611070429368dW#comments",
+          "content": "예산안 부결[연합뉴스 제공][연합뉴스 제공] 프랑스 정부의 긴축 예산안이 하원에서 찬성표를 단 한 표도 얻지 못한 채 부결됐습니다. 현지시간 5일 폴리티코 유럽판과 RFI 등에 따르면 프랑스 정부가 제출한 내년도 예산안의 세입 부분은 하원 1차 독회에서 찬성 0명, 반대 458명, 기권 2명으로 부결됐습니다. 야권뿐 아니라 에마뉘엘 마크롱 대통령의 집권당까지 반대표를 던지면서 지출 부문에 대한 토론도 이뤄지지 못했습니다. 세바스티앵 르코르...",
+          "contentSnippet": "예산안 부결[연합뉴스 제공][연합뉴스 제공] 프랑스 정부의 긴축 예산안이 하원에서 찬성표를 단 한 표도 얻지 못한 채 부결됐습니다. 현지시간 5일 폴리티코 유럽판과 RFI 등에 따르면 프랑스 정부가 제출한 내년도 예산안의 세입 부분은 하원 1차 독회에서 찬성 0명, 반대 458명, 기권 2명으로 부결됐습니다. 야권뿐 아니라 에마뉘엘 마크롱 대통령의 집권당까지 반대표를 던지면서 지출 부문에 대한 토론도 이뤄지지 못했습니다. 세바스티앵 르코르...",
+          "guid": "AKR202611070429368dW",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-06T14:27:50.000Z"
+          "isoDate": "2026-11-06T19:29:38.000Z"
         },
         {
-          "creator": "이초원",
-          "title": "농구 월드컵 최종 12인 확정…이현중 빠지고 허훈 투입",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261106232555Uw2",
-          "pubDate": "Fri, 06 Nov 2026 23:25:57 +0900",
-          "content:encoded": "남자 농구 국가대표팀에 이현중과 여준석이 빠지고, 허훈, 안영준이 합류합니다.\n\n대한민국농구협회는 2027 FIBA 농구 월드컵 아시아예선 윈도우5에 출전할 최종 12인 명단을 확정했습니다.\n\n최종 명단에는 지난 아시안게임 금메달 주역인 이정현과 이승현, 이우석 등을 비롯해 허훈과 안영준, 양홍석, 하윤기가 새로 이름을 올렸습니다.\n\n이현중과 여준석은 미국에서 소속팀 일정을 소화하고 있어 이번 대표팀 명단에서 제외됐습니다.\n\n한편, 대표팀은 오는 27일 카타르와, 29일 사우디아라비아와 월드컵 예선을 치릅니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이초원(grass@yna.co.kr)",
-          "content:encodedSnippet": "남자 농구 국가대표팀에 이현중과 여준석이 빠지고, 허훈, 안영준이 합류합니다.\n\n대한민국농구협회는 2027 FIBA 농구 월드컵 아시아예선 윈도우5에 출전할 최종 12인 명단을 확정했습니다.\n\n최종 명단에는 지난 아시안게임 금메달 주역인 이정현과 이승현, 이우석 등을 비롯해 허훈과 안영준, 양홍석, 하윤기가 새로 이름을 올렸습니다.\n\n이현중과 여준석은 미국에서 소속팀 일정을 소화하고 있어 이번 대표팀 명단에서 제외됐습니다.\n\n한편, 대표팀은 오는 27일 카타르와, 29일 사우디아라비아와 월드컵 예선을 치릅니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이초원(grass@yna.co.kr)",
+          "creator": "김수빈",
+          "title": "트럼프, 수지 와일스 백악관 비서실장 교체…후임 스티븐 밀러",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR202611070400558pv",
+          "pubDate": "Sat, 07 Nov 2026 04:00:57 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261106/AKR202611070400558pv_01_i.jpg\" alt=\"\"><span class=\"yna_title\">신임 백악관 비서실장으로 임명된 스티븐 밀러(왼쪽)</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n도널드 트럼프 미국 대통령이 백악관 비서실장을 수지 와일스에서 최측근인 스티븐 밀러 현 부비서실장으로 교체합니다.\n\n트럼프 대통령은 현지시간 6일 자신의 소셜미디어 트루스소셜을 통해 오는 9일부터 밀러 부비서실장이 백악관 비서실장을 맡는다고 밝혔습니다.\n\n트럼프 대통령은 밀러 신임 비서실장을 두고 “내가 가장 신뢰하는 참모 중 하나”라고 평가했습니다.\n\n집권 2기 백악관 운영을 총괄해온 와일스 비서실장은 ‘트럼프 정치조직’으로 자리를 옮깁니다.\n\n다만 해당 조직의 구체적인 성격이나 와일스가 맡을 역할은 공개되지 않았습니다.\n\n이번 인사는 지난 3일 중간선거에서 공화당이 연방 상·하원 다수당 지위를 모두 민주당에 내준 지 사흘 만에 발표됐습니다.\n\n앞서 미국 언론들은 트럼프 대통령이 중간선거 패배 이후 백악관과 내각 개편에 나설 가능성이 있다고 보도한 바 있습니다.\n\n특히 첫 인사로 백악관 비서실장을 교체하고 최측근인 밀러를 전면에 내세운 만큼, 향후 추가적인 백악관·내각 개편으로 이어질지 주목됩니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김수빈(soup@yna.co.kr)",
+          "content:encodedSnippet": "신임 백악관 비서실장으로 임명된 스티븐 밀러(왼쪽)[연합뉴스 제공][연합뉴스 제공]\n도널드 트럼프 미국 대통령이 백악관 비서실장을 수지 와일스에서 최측근인 스티븐 밀러 현 부비서실장으로 교체합니다.\n\n트럼프 대통령은 현지시간 6일 자신의 소셜미디어 트루스소셜을 통해 오는 9일부터 밀러 부비서실장이 백악관 비서실장을 맡는다고 밝혔습니다.\n\n트럼프 대통령은 밀러 신임 비서실장을 두고 “내가 가장 신뢰하는 참모 중 하나”라고 평가했습니다.\n\n집권 2기 백악관 운영을 총괄해온 와일스 비서실장은 ‘트럼프 정치조직’으로 자리를 옮깁니다.\n\n다만 해당 조직의 구체적인 성격이나 와일스가 맡을 역할은 공개되지 않았습니다.\n\n이번 인사는 지난 3일 중간선거에서 공화당이 연방 상·하원 다수당 지위를 모두 민주당에 내준 지 사흘 만에 발표됐습니다.\n\n앞서 미국 언론들은 트럼프 대통령이 중간선거 패배 이후 백악관과 내각 개편에 나설 가능성이 있다고 보도한 바 있습니다.\n\n특히 첫 인사로 백악관 비서실장을 교체하고 최측근인 밀러를 전면에 내세운 만큼, 향후 추가적인 백악관·내각 개편으로 이어질지 주목됩니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김수빈(soup@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261106/MYH20261106232555Uw2.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261106/AKR202611070400558pv_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "이초원",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261106232555Uw2#comments",
-          "content": "남자 농구 국가대표팀에 이현중과 여준석이 빠지고, 허훈, 안영준이 합류합니다. 대한민국농구협회는 2027 FIBA 농구 월드컵 아시아예선 윈도우5에 출전할 최종 12인 명단을 확정했습니다. 최종 명단에는 지난 아시안게임 금메달 주역인 이정현과 이승현, 이우석 등을 비롯해 허훈과 안영준, 양홍석, 하윤기가 새로 이름을 올렸습니다. 이현중과 여준석은 미국에서 소속팀 일정을 소화하고 있어 이번 대표팀 명단에서 제외됐습니다. 한편, 대표팀은 오는...",
-          "contentSnippet": "남자 농구 국가대표팀에 이현중과 여준석이 빠지고, 허훈, 안영준이 합류합니다. 대한민국농구협회는 2027 FIBA 농구 월드컵 아시아예선 윈도우5에 출전할 최종 12인 명단을 확정했습니다. 최종 명단에는 지난 아시안게임 금메달 주역인 이정현과 이승현, 이우석 등을 비롯해 허훈과 안영준, 양홍석, 하윤기가 새로 이름을 올렸습니다. 이현중과 여준석은 미국에서 소속팀 일정을 소화하고 있어 이번 대표팀 명단에서 제외됐습니다. 한편, 대표팀은 오는...",
-          "guid": "MYH20261106232555Uw2",
+          "dc:creator": "김수빈",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR202611070400558pv#comments",
+          "content": "신임 백악관 비서실장으로 임명된 스티븐 밀러(왼쪽)[연합뉴스 제공][연합뉴스 제공] 도널드 트럼프 미국 대통령이 백악관 비서실장을 수지 와일스에서 최측근인 스티븐 밀러 현 부비서실장으로 교체합니다. 트럼프 대통령은 현지시간 6일 자신의 소셜미디어 트루스소셜을 통해 오는 9일부터 밀러 부비서실장이 백악관 비서실장을 맡는다고 밝혔습니다. 트럼프 대통령은 밀러 신임 비서실장을 두고 “내가 가장 신뢰하는 참모 중 하나”라고 평가했습니다. 집권 2...",
+          "contentSnippet": "신임 백악관 비서실장으로 임명된 스티븐 밀러(왼쪽)[연합뉴스 제공][연합뉴스 제공] 도널드 트럼프 미국 대통령이 백악관 비서실장을 수지 와일스에서 최측근인 스티븐 밀러 현 부비서실장으로 교체합니다. 트럼프 대통령은 현지시간 6일 자신의 소셜미디어 트루스소셜을 통해 오는 9일부터 밀러 부비서실장이 백악관 비서실장을 맡는다고 밝혔습니다. 트럼프 대통령은 밀러 신임 비서실장을 두고 “내가 가장 신뢰하는 참모 중 하나”라고 평가했습니다. 집권 2...",
+          "guid": "AKR202611070400558pv",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-06T14:25:57.000Z"
+          "isoDate": "2026-11-06T19:00:57.000Z"
+        },
+        {
+          "creator": "김수빈",
+          "title": "APEC 앞두고 희토류 신경전…美 “부산합의 이행하라”",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261107035929EoM",
+          "pubDate": "Sat, 07 Nov 2026 03:59:30 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261106/AKR20261107035929EoM_01_i.jpg\" alt=\"\"><span class=\"yna_title\">스콧 베선트 미국 재무장관(왼)과 허리펑 중국 국무원 부총리</span><span class=\"yna_caption\">[베선트 장관 과거 엑스 게시물]</span><span class=\"yna_description\">[베선트 장관 과거 엑스 게시물]</span></div>\n미국이 중국에 지난해 부산 미중 정상회담에서 도출한 무역 합의를 즉각 이행하라고 압박했습니다.\n\n스콧 베선트 미국 재무장관은 현지시간 6일 제이미슨 그리어 미 무역대표부 대표와 함께 허리펑 중국 국무원 부총리와 통화하고, 부산 합의 이행 상황과 양국 경제 관계를 논의했습니다.\n\n미 재무부에 따르면 베선트 장관은 중국이 부산에서 한 약속을 완전하고 즉각적으로 이행하는 것이 중요하다며 최근 중국의 행보에 우려를 표했습니다.\n\n또 미국은 중국의 합의 이행 상황을 면밀히 평가할 것이라며 “진전은 구체적인 성과에 달려 있다”고 강조했습니다.\n\n이번 통화는 오는 18일 중국 선전에서 열리는 아시아태평양경제협력체, APEC 정상회의를 계기로 미중 정상회담이 예상되는 가운데 이뤄졌습니다.\n\n미국 측의 불만은 희토류 공급 문제에 집중된 것으로 전해졌습니다.\n\n파이낸셜타임스는 미국 당국자들을 인용해 중국이 부산 합의에 따라 약속한 희토류 공급 확대를 충분히 이행하지 않고 있다고 보도했습니다.\n\n미국 당국자들은 지난 9월에도 중국이 희토류 관련 합의의 약 3분의 2만 이행하고 있다고 밝힌 바 있습니다.\n\n다만 중국은 관련 약속을 지키지 않고 있다는 미국 측 주장을 부인하고 있습니다.\n\n농산물 구매도 쟁점입니다.\n\n미국은 중국이 미국산 대두 구매 약속은 이행하고 있지만 다른 농산물 구매는 기대에 미치지 못한다고 판단하는 것으로 전해졌습니다.\n\n또 중국이 일본에 대한 이트륨 수출을 제한하는 데 대해서도 미국은 우려를 나타내고 있습니다.\n\n이트륨은 항공기 엔진과 미사일 등에 사용되는 핵심 희토류 소재입니다.\n\n미중 정상은 지난해 10월 부산 회담에서 고율 관세 부과를 유예하고, 중국은 희토류 수출 통제를 늦추는 한편 미국산 농산물 구매를 재개하기로 합의했습니다.\n\n양국은 이후 무역 휴전 시한을 재차 연장한 상태로, APEC과 다음 달 주요 20개국 정상회의를 계기로 희토류와 농산물 등 후속 협상이 이어질 전망입니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김수빈(soup@yna.co.kr)",
+          "content:encodedSnippet": "스콧 베선트 미국 재무장관(왼)과 허리펑 중국 국무원 부총리[베선트 장관 과거 엑스 게시물][베선트 장관 과거 엑스 게시물]\n미국이 중국에 지난해 부산 미중 정상회담에서 도출한 무역 합의를 즉각 이행하라고 압박했습니다.\n\n스콧 베선트 미국 재무장관은 현지시간 6일 제이미슨 그리어 미 무역대표부 대표와 함께 허리펑 중국 국무원 부총리와 통화하고, 부산 합의 이행 상황과 양국 경제 관계를 논의했습니다.\n\n미 재무부에 따르면 베선트 장관은 중국이 부산에서 한 약속을 완전하고 즉각적으로 이행하는 것이 중요하다며 최근 중국의 행보에 우려를 표했습니다.\n\n또 미국은 중국의 합의 이행 상황을 면밀히 평가할 것이라며 “진전은 구체적인 성과에 달려 있다”고 강조했습니다.\n\n이번 통화는 오는 18일 중국 선전에서 열리는 아시아태평양경제협력체, APEC 정상회의를 계기로 미중 정상회담이 예상되는 가운데 이뤄졌습니다.\n\n미국 측의 불만은 희토류 공급 문제에 집중된 것으로 전해졌습니다.\n\n파이낸셜타임스는 미국 당국자들을 인용해 중국이 부산 합의에 따라 약속한 희토류 공급 확대를 충분히 이행하지 않고 있다고 보도했습니다.\n\n미국 당국자들은 지난 9월에도 중국이 희토류 관련 합의의 약 3분의 2만 이행하고 있다고 밝힌 바 있습니다.\n\n다만 중국은 관련 약속을 지키지 않고 있다는 미국 측 주장을 부인하고 있습니다.\n\n농산물 구매도 쟁점입니다.\n\n미국은 중국이 미국산 대두 구매 약속은 이행하고 있지만 다른 농산물 구매는 기대에 미치지 못한다고 판단하는 것으로 전해졌습니다.\n\n또 중국이 일본에 대한 이트륨 수출을 제한하는 데 대해서도 미국은 우려를 나타내고 있습니다.\n\n이트륨은 항공기 엔진과 미사일 등에 사용되는 핵심 희토류 소재입니다.\n\n미중 정상은 지난해 10월 부산 회담에서 고율 관세 부과를 유예하고, 중국은 희토류 수출 통제를 늦추는 한편 미국산 농산물 구매를 재개하기로 합의했습니다.\n\n양국은 이후 무역 휴전 시한을 재차 연장한 상태로, APEC과 다음 달 주요 20개국 정상회의를 계기로 희토류와 농산물 등 후속 협상이 이어질 전망입니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김수빈(soup@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261106/AKR20261107035929EoM_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "김수빈",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261107035929EoM#comments",
+          "content": "스콧 베선트 미국 재무장관(왼)과 허리펑 중국 국무원 부총리[베선트 장관 과거 엑스 게시물][베선트 장관 과거 엑스 게시물] 미국이 중국에 지난해 부산 미중 정상회담에서 도출한 무역 합의를 즉각 이행하라고 압박했습니다. 스콧 베선트 미국 재무장관은 현지시간 6일 제이미슨 그리어 미 무역대표부 대표와 함께 허리펑 중국 국무원 부총리와 통화하고, 부산 합의 이행 상황과 양국 경제 관계를 논의했습니다. 미 재무부에 따르면 베선트 장관은 중국이 ...",
+          "contentSnippet": "스콧 베선트 미국 재무장관(왼)과 허리펑 중국 국무원 부총리[베선트 장관 과거 엑스 게시물][베선트 장관 과거 엑스 게시물] 미국이 중국에 지난해 부산 미중 정상회담에서 도출한 무역 합의를 즉각 이행하라고 압박했습니다. 스콧 베선트 미국 재무장관은 현지시간 6일 제이미슨 그리어 미 무역대표부 대표와 함께 허리펑 중국 국무원 부총리와 통화하고, 부산 합의 이행 상황과 양국 경제 관계를 논의했습니다. 미 재무부에 따르면 베선트 장관은 중국이 ...",
+          "guid": "AKR20261107035929EoM",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-06T18:59:30.000Z"
+        },
+        {
+          "creator": "김수빈",
+          "title": "메타, ‘뉴스 무단수집’ 논란 AI 약관 무기한 보류",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR202611070354144Dz",
+          "pubDate": "Sat, 07 Nov 2026 03:54:15 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261106/AKR202611070354144Dz_01_i.jpg\" alt=\"\"><span class=\"yna_title\">메타</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n메타가 뉴스 사이트 등 외부 웹사이트의 콘텐츠를 인공지능, AI 학습에 활용할 수 있도록 한 약관 개정안 적용을 무기한 보류했습니다.\n\n메타는 현지시간 6일 ‘상업 약관’과 ‘제품 카탈로그 약관’, ‘셀프서비스 광고 약관’, ‘광고 크리에이티브 생성형 AI 약관’ 등 4건의 개정 절차를 중단하기로 했다고 밝혔습니다.\n\n당초 개정 약관은 지난달 30일 시행될 예정이었지만 언론과 정치권 등의 반발로 이달 20일로 한 차례 미뤄진 데 이어 결국 전면 보류됐습니다.\n\n논란의 핵심은 메타가 페이스북과 인스타그램 등 자사 플랫폼의 기업 계정과 연결된 웹사이트 콘텐츠를 수집해 AI 학습에 활용할 수 있도록 한 조항입니다.\n\n기업과 언론사 상당수가 페이스북과 인스타그램 계정을 운영하는 만큼, 사실상 광범위한 공개 콘텐츠를 별도 동의 없이 AI 학습에 활용할 수 있다는 비판이 제기됐습니다.\n\n지식재산권 전문가들은 독점 저작물과 콘텐츠를 약관 변경만으로 확보하려는 조항이라고 지적했고, 기업 계정을 이용하려면 개정 약관에 동의할 수밖에 없는 구조를 두고 시장지배적 지위 남용 논란도 불거졌습니다.\n\n브라질과 노르웨이 등에서는 언론사들의 신청을 받아들여 개정 약관의 효력을 정지했고, 미국에서도 여야 상원의원들이 마크 저커버그 메타 최고경영자에게 약관 철회를 요구했습니다.\n\n영국 경쟁 당국 역시 메타가 시장지배적 지위를 남용했는지 조사에 착수했습니다.\n\n최근 미국 중간선거에서 AI 규제 강화를 주장해온 인사들이 다수 당선된 점도 메타에 부담으로 작용했을 것으로 보입니다.\n\n메타 측은 “이해관계자들과 계속 소통하고 이 일을 바로잡기 위해 충분한 시간을 갖고자 변경을 중단한다”고 밝혔습니다.\n\n#메타\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김수빈(soup@yna.co.kr)",
+          "content:encodedSnippet": "메타[연합뉴스 제공][연합뉴스 제공]\n메타가 뉴스 사이트 등 외부 웹사이트의 콘텐츠를 인공지능, AI 학습에 활용할 수 있도록 한 약관 개정안 적용을 무기한 보류했습니다.\n\n메타는 현지시간 6일 ‘상업 약관’과 ‘제품 카탈로그 약관’, ‘셀프서비스 광고 약관’, ‘광고 크리에이티브 생성형 AI 약관’ 등 4건의 개정 절차를 중단하기로 했다고 밝혔습니다.\n\n당초 개정 약관은 지난달 30일 시행될 예정이었지만 언론과 정치권 등의 반발로 이달 20일로 한 차례 미뤄진 데 이어 결국 전면 보류됐습니다.\n\n논란의 핵심은 메타가 페이스북과 인스타그램 등 자사 플랫폼의 기업 계정과 연결된 웹사이트 콘텐츠를 수집해 AI 학습에 활용할 수 있도록 한 조항입니다.\n\n기업과 언론사 상당수가 페이스북과 인스타그램 계정을 운영하는 만큼, 사실상 광범위한 공개 콘텐츠를 별도 동의 없이 AI 학습에 활용할 수 있다는 비판이 제기됐습니다.\n\n지식재산권 전문가들은 독점 저작물과 콘텐츠를 약관 변경만으로 확보하려는 조항이라고 지적했고, 기업 계정을 이용하려면 개정 약관에 동의할 수밖에 없는 구조를 두고 시장지배적 지위 남용 논란도 불거졌습니다.\n\n브라질과 노르웨이 등에서는 언론사들의 신청을 받아들여 개정 약관의 효력을 정지했고, 미국에서도 여야 상원의원들이 마크 저커버그 메타 최고경영자에게 약관 철회를 요구했습니다.\n\n영국 경쟁 당국 역시 메타가 시장지배적 지위를 남용했는지 조사에 착수했습니다.\n\n최근 미국 중간선거에서 AI 규제 강화를 주장해온 인사들이 다수 당선된 점도 메타에 부담으로 작용했을 것으로 보입니다.\n\n메타 측은 “이해관계자들과 계속 소통하고 이 일을 바로잡기 위해 충분한 시간을 갖고자 변경을 중단한다”고 밝혔습니다.\n\n#메타\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김수빈(soup@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261106/AKR202611070354144Dz_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "김수빈",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR202611070354144Dz#comments",
+          "content": "메타[연합뉴스 제공][연합뉴스 제공] 메타가 뉴스 사이트 등 외부 웹사이트의 콘텐츠를 인공지능, AI 학습에 활용할 수 있도록 한 약관 개정안 적용을 무기한 보류했습니다. 메타는 현지시간 6일 ‘상업 약관’과 ‘제품 카탈로그 약관’, ‘셀프서비스 광고 약관’, ‘광고 크리에이티브 생성형 AI 약관’ 등 4건의 개정 절차를 중단하기로 했다고 밝혔습니다. 당초 개정 약관은 지난달 30일 시행될 예정이었지만 언론과 정치권 등의 반발로 이달 20...",
+          "contentSnippet": "메타[연합뉴스 제공][연합뉴스 제공] 메타가 뉴스 사이트 등 외부 웹사이트의 콘텐츠를 인공지능, AI 학습에 활용할 수 있도록 한 약관 개정안 적용을 무기한 보류했습니다. 메타는 현지시간 6일 ‘상업 약관’과 ‘제품 카탈로그 약관’, ‘셀프서비스 광고 약관’, ‘광고 크리에이티브 생성형 AI 약관’ 등 4건의 개정 절차를 중단하기로 했다고 밝혔습니다. 당초 개정 약관은 지난달 30일 시행될 예정이었지만 언론과 정치권 등의 반발로 이달 20...",
+          "guid": "AKR202611070354144Dz",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-06T18:54:15.000Z"
+        },
+        {
+          "creator": "김수빈",
+          "title": "예멘 시장서 30명 숨져…사우디·후티 책임 공방",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261107034026BkG",
+          "pubDate": "Sat, 07 Nov 2026 03:40:27 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261106/AKR20261107034026BkG_01_i.jpg\" alt=\"\"><span class=\"yna_title\">예멘의 후티 반군</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n예멘의 한 시장에서 30명이 숨진 가운데, 사우디아라비아와 후티 반군이 공격 책임을 두고 엇갈린 주장을 내놓고 있습니다.\n\n현지시간 6일 후티 반군 측은 자신들이 통제하는 예멘 남서부 타이즈주 알와지야 지역의 시장이 사우디 전투기의 공습을 받아 30명이 숨지고 8명이 다쳤다고 주장했습니다.\n\n후티 측은 사우디 하미스 무샤이트 공군기지에서 이륙한 전투기가 해당 시장을 여러 차례 공습했다고 밝혔습니다.\n\n반면 사우디와 연합해 후티에 맞서고 있는 예멘 정부군은 공습 주장을 부인했습니다.\n\n예멘 정부군은 오히려 후티 반군이 시장을 향해 탄도미사일을 발사했다며 이를 ‘전쟁범죄’라고 비판했습니다.\n\n타이즈주 정부도 성명을 내고 사우디 공습은 없었다며 후티의 미사일 공격으로 인명 피해가 발생했다고 주장했습니다.\n\n현재 타이즈주는 주도 타이즈시에는 예멘 정부군이 주둔하고 있지만, 주변 지역 상당수는 후티가 장악하고 있습니다.\n\n한편 이날 사우디 주도 연합군은 이슬람 성지인 메카 지역에서 드론 한 대를 요격했다고 밝혔습니다.\n\n연합군은 전날에도 메디나 인근에서 후티 반군의 미사일을 요격했다고 발표했지만, 후티는 이를 부인했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김수빈(soup@yna.co.kr)",
+          "content:encodedSnippet": "예멘의 후티 반군[연합뉴스 제공][연합뉴스 제공]\n예멘의 한 시장에서 30명이 숨진 가운데, 사우디아라비아와 후티 반군이 공격 책임을 두고 엇갈린 주장을 내놓고 있습니다.\n\n현지시간 6일 후티 반군 측은 자신들이 통제하는 예멘 남서부 타이즈주 알와지야 지역의 시장이 사우디 전투기의 공습을 받아 30명이 숨지고 8명이 다쳤다고 주장했습니다.\n\n후티 측은 사우디 하미스 무샤이트 공군기지에서 이륙한 전투기가 해당 시장을 여러 차례 공습했다고 밝혔습니다.\n\n반면 사우디와 연합해 후티에 맞서고 있는 예멘 정부군은 공습 주장을 부인했습니다.\n\n예멘 정부군은 오히려 후티 반군이 시장을 향해 탄도미사일을 발사했다며 이를 ‘전쟁범죄’라고 비판했습니다.\n\n타이즈주 정부도 성명을 내고 사우디 공습은 없었다며 후티의 미사일 공격으로 인명 피해가 발생했다고 주장했습니다.\n\n현재 타이즈주는 주도 타이즈시에는 예멘 정부군이 주둔하고 있지만, 주변 지역 상당수는 후티가 장악하고 있습니다.\n\n한편 이날 사우디 주도 연합군은 이슬람 성지인 메카 지역에서 드론 한 대를 요격했다고 밝혔습니다.\n\n연합군은 전날에도 메디나 인근에서 후티 반군의 미사일을 요격했다고 발표했지만, 후티는 이를 부인했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김수빈(soup@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261106/AKR20261107034026BkG_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "김수빈",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261107034026BkG#comments",
+          "content": "예멘의 후티 반군[연합뉴스 제공][연합뉴스 제공] 예멘의 한 시장에서 30명이 숨진 가운데, 사우디아라비아와 후티 반군이 공격 책임을 두고 엇갈린 주장을 내놓고 있습니다. 현지시간 6일 후티 반군 측은 자신들이 통제하는 예멘 남서부 타이즈주 알와지야 지역의 시장이 사우디 전투기의 공습을 받아 30명이 숨지고 8명이 다쳤다고 주장했습니다. 후티 측은 사우디 하미스 무샤이트 공군기지에서 이륙한 전투기가 해당 시장을 여러 차례 공습했다고 밝혔습...",
+          "contentSnippet": "예멘의 후티 반군[연합뉴스 제공][연합뉴스 제공] 예멘의 한 시장에서 30명이 숨진 가운데, 사우디아라비아와 후티 반군이 공격 책임을 두고 엇갈린 주장을 내놓고 있습니다. 현지시간 6일 후티 반군 측은 자신들이 통제하는 예멘 남서부 타이즈주 알와지야 지역의 시장이 사우디 전투기의 공습을 받아 30명이 숨지고 8명이 다쳤다고 주장했습니다. 후티 측은 사우디 하미스 무샤이트 공군기지에서 이륙한 전투기가 해당 시장을 여러 차례 공습했다고 밝혔습...",
+          "guid": "AKR20261107034026BkG",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-06T18:40:27.000Z"
+        },
+        {
+          "creator": "문형민",
+          "title": "테슬라, 사이버트럭 결국 단종 수순…머스크 \"한 시대의 끝\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261107031340AFC",
+          "pubDate": "Sat, 07 Nov 2026 03:13:40 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261106/AKR20261107031340AFC_01_i.jpg\" alt=\"\"><span class=\"yna_title\">테슬라 사이버트럭</span><span class=\"yna_caption\">[AFP=연합뉴스. 재판매 및 DB 금지]</span><span class=\"yna_description\">[AFP=연합뉴스. 재판매 및 DB 금지]</span></div>\n\n테슬라가 픽업트럭 시장에 야심 차게 진출하며 선보인 전기차 모델 사이버트럭이 저조한 판매량을 보인 끝에 단종되게 됐습니다.\n\n로이터통신에 따르면 현지시간 6일 일론 머스크 테슬라 최고경영자(CEO)가 엑스(X·옛 트위터)를 통해 \"내년 중순께 텍사스 기가팩토리에서 사이버트럭 생산을 단계적으로 줄여나갈 예정\"이라며 \"사이버캡 생산을 위한 공간을 확보하기 위한 결정\"이라고 설명했습니다.\n\n텍사스 오스틴 기가팩토리는 사이버트럭 특수 부품을 제조할 수 있는 유일한 시설인 만큼, 사실상 사이버트럭의 단종을 의미하는 것으로 보입니다.\n\n머스크도 엑스 이용자의 질문에 \"(사이버트럭은) 테슬라가 지금까지 만든 최고의 차량\"이라며 이번 결정을 두고 \"한 시대의 끝\"이라고 아쉬움을 내비쳤습니다.\n\n사이버트럭은 2019년 처음 공개됐으며, 2023년 공식 출시됐습니다.\n\n당시 머스크는 사이버트럭이 미국에서 꾸준히 인기를 얻던 제너럴모터스(GM)와 포드의 픽업트럭과 경쟁할 것이라고 기대했으며, 연간 판매량을 50만대로 예상하기도 했습니다.\n\n하지만, 호불호가 갈리는 각진 디자인과 반복되는 리콜 문제, 비싼 가격 등으로 인해 판매량은 저조했습니다.\n\n자동차 데이터 플랫폼 켈리 블루북에 따르면 지난해 사이버트럭 판매량은 2만237대에 그쳤습니다.\n\n그마저도 머스크가 이끄는 또 다른 회사인 스페이스X가 주로 사들인 것으로 나타났습니다.\n\n테슬라는 전기 자동차 판매에서 벗어나 점점 인공지능(AI) 자율주행 기능을 갖춘 로보택시와 휴머노이드 로봇 개발 및 생산에 집중하고 있습니다.\n\n캘리포니아 공장에서도 프리미엄 라인이었던 모델S와 모델X의 생산을 중단하고 휴머노이드 로봇 옵티머스 생산 공간을 확보한 바 있습니다.\n\n#테슬라 #사이버트럭\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n문형민(moonbro@yna.co.kr)",
+          "content:encodedSnippet": "테슬라 사이버트럭[AFP=연합뉴스. 재판매 및 DB 금지][AFP=연합뉴스. 재판매 및 DB 금지]\n\n테슬라가 픽업트럭 시장에 야심 차게 진출하며 선보인 전기차 모델 사이버트럭이 저조한 판매량을 보인 끝에 단종되게 됐습니다.\n\n로이터통신에 따르면 현지시간 6일 일론 머스크 테슬라 최고경영자(CEO)가 엑스(X·옛 트위터)를 통해 \"내년 중순께 텍사스 기가팩토리에서 사이버트럭 생산을 단계적으로 줄여나갈 예정\"이라며 \"사이버캡 생산을 위한 공간을 확보하기 위한 결정\"이라고 설명했습니다.\n\n텍사스 오스틴 기가팩토리는 사이버트럭 특수 부품을 제조할 수 있는 유일한 시설인 만큼, 사실상 사이버트럭의 단종을 의미하는 것으로 보입니다.\n\n머스크도 엑스 이용자의 질문에 \"(사이버트럭은) 테슬라가 지금까지 만든 최고의 차량\"이라며 이번 결정을 두고 \"한 시대의 끝\"이라고 아쉬움을 내비쳤습니다.\n\n사이버트럭은 2019년 처음 공개됐으며, 2023년 공식 출시됐습니다.\n\n당시 머스크는 사이버트럭이 미국에서 꾸준히 인기를 얻던 제너럴모터스(GM)와 포드의 픽업트럭과 경쟁할 것이라고 기대했으며, 연간 판매량을 50만대로 예상하기도 했습니다.\n\n하지만, 호불호가 갈리는 각진 디자인과 반복되는 리콜 문제, 비싼 가격 등으로 인해 판매량은 저조했습니다.\n\n자동차 데이터 플랫폼 켈리 블루북에 따르면 지난해 사이버트럭 판매량은 2만237대에 그쳤습니다.\n\n그마저도 머스크가 이끄는 또 다른 회사인 스페이스X가 주로 사들인 것으로 나타났습니다.\n\n테슬라는 전기 자동차 판매에서 벗어나 점점 인공지능(AI) 자율주행 기능을 갖춘 로보택시와 휴머노이드 로봇 개발 및 생산에 집중하고 있습니다.\n\n캘리포니아 공장에서도 프리미엄 라인이었던 모델S와 모델X의 생산을 중단하고 휴머노이드 로봇 옵티머스 생산 공간을 확보한 바 있습니다.\n\n#테슬라 #사이버트럭\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n문형민(moonbro@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261106/AKR20261107031340AFC_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "문형민",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261107031340AFC#comments",
+          "content": "테슬라 사이버트럭[AFP=연합뉴스. 재판매 및 DB 금지][AFP=연합뉴스. 재판매 및 DB 금지] 테슬라가 픽업트럭 시장에 야심 차게 진출하며 선보인 전기차 모델 사이버트럭이 저조한 판매량을 보인 끝에 단종되게 됐습니다. 로이터통신에 따르면 현지시간 6일 일론 머스크 테슬라 최고경영자(CEO)가 엑스(X·옛 트위터)를 통해 \"내년 중순께 텍사스 기가팩토리에서 사이버트럭 생산을 단계적으로 줄여나갈 예정\"이라며 \"사이버캡 생산을 위한 공간을...",
+          "contentSnippet": "테슬라 사이버트럭[AFP=연합뉴스. 재판매 및 DB 금지][AFP=연합뉴스. 재판매 및 DB 금지] 테슬라가 픽업트럭 시장에 야심 차게 진출하며 선보인 전기차 모델 사이버트럭이 저조한 판매량을 보인 끝에 단종되게 됐습니다. 로이터통신에 따르면 현지시간 6일 일론 머스크 테슬라 최고경영자(CEO)가 엑스(X·옛 트위터)를 통해 \"내년 중순께 텍사스 기가팩토리에서 사이버트럭 생산을 단계적으로 줄여나갈 예정\"이라며 \"사이버캡 생산을 위한 공간을...",
+          "guid": "AKR20261107031340AFC",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-06T18:13:40.000Z"
+        },
+        {
+          "creator": "문형민",
+          "title": "서울 마곡동 온수관 파열로 약 9천 세대 난방·온수 멈춰",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261107025535iPN",
+          "pubDate": "Sat, 07 Nov 2026 02:55:37 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261106/AKR20261107025535iPN_01_i.jpg\" alt=\"\"><span class=\"yna_title\">온수관 (사고와 직접 관련 없음)</span><span class=\"yna_caption\">[연합뉴스TV 자료사진]</span><span class=\"yna_description\">[연합뉴스TV 자료사진]</span></div>\n\n어제(6일) 저녁 8시 30분쯤, 서울 강서구 마곡동의 한 아파트 단지 앞에서 온수관이 파열되는 사고가 발생했습니다.\n\n누수 영향으로 지반이 약해지면서 신호등이 쓰러졌고, 인근 아파트 단지 9천여 세대에 열 공급이 멈춰 난방과 온수가 끊겼습니다.\n\n또, 사고 현장을 수습하던 서울에너지공사 공사 소속 점검원 1명이 작업 과정에서 실수로 뜨거운 물을 밟아 병원 치료를 받기도 했습니다.\n\n공사 측은 배관 파손 지점과 원인을 파악하고 복구 작업에 나서고 있습니다.\n\n#서울 #마곡동 #온수관 #파열\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n문형민(moonbro@yna.co.kr)",
+          "content:encodedSnippet": "온수관 (사고와 직접 관련 없음)[연합뉴스TV 자료사진][연합뉴스TV 자료사진]\n\n어제(6일) 저녁 8시 30분쯤, 서울 강서구 마곡동의 한 아파트 단지 앞에서 온수관이 파열되는 사고가 발생했습니다.\n\n누수 영향으로 지반이 약해지면서 신호등이 쓰러졌고, 인근 아파트 단지 9천여 세대에 열 공급이 멈춰 난방과 온수가 끊겼습니다.\n\n또, 사고 현장을 수습하던 서울에너지공사 공사 소속 점검원 1명이 작업 과정에서 실수로 뜨거운 물을 밟아 병원 치료를 받기도 했습니다.\n\n공사 측은 배관 파손 지점과 원인을 파악하고 복구 작업에 나서고 있습니다.\n\n#서울 #마곡동 #온수관 #파열\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n문형민(moonbro@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261106/AKR20261107025535iPN_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "문형민",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261107025535iPN#comments",
+          "content": "온수관 (사고와 직접 관련 없음)[연합뉴스TV 자료사진][연합뉴스TV 자료사진] 어제(6일) 저녁 8시 30분쯤, 서울 강서구 마곡동의 한 아파트 단지 앞에서 온수관이 파열되는 사고가 발생했습니다. 누수 영향으로 지반이 약해지면서 신호등이 쓰러졌고, 인근 아파트 단지 9천여 세대에 열 공급이 멈춰 난방과 온수가 끊겼습니다. 또, 사고 현장을 수습하던 서울에너지공사 공사 소속 점검원 1명이 작업 과정에서 실수로 뜨거운 물을 밟아 병원 치료를...",
+          "contentSnippet": "온수관 (사고와 직접 관련 없음)[연합뉴스TV 자료사진][연합뉴스TV 자료사진] 어제(6일) 저녁 8시 30분쯤, 서울 강서구 마곡동의 한 아파트 단지 앞에서 온수관이 파열되는 사고가 발생했습니다. 누수 영향으로 지반이 약해지면서 신호등이 쓰러졌고, 인근 아파트 단지 9천여 세대에 열 공급이 멈춰 난방과 온수가 끊겼습니다. 또, 사고 현장을 수습하던 서울에너지공사 공사 소속 점검원 1명이 작업 과정에서 실수로 뜨거운 물을 밟아 병원 치료를...",
+          "guid": "AKR20261107025535iPN",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-06T17:55:37.000Z"
         }
       ]
     }
