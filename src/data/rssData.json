@@ -7,22 +7,142 @@
       "priority": 1,
       "data": [
         {
-          "title": "Pangram Image 1.0 - AI 생성 이미지와 영상 탐지 모델 출시",
+          "title": "8달러짜리 Linux 컴퓨터(2022)",
+          "link": "https://news.hada.io/topic?id=36770&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-07T18:38:53.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>Ox64</strong>는 서로 다른 RISC-V 코어 3개를 갖춘 8달러 컴퓨터로, MMU 없는 축소형 커널에 한정되지 않는 Linux 실행을 지원함</li><li>당시 <strong>이더넷, Wi-Fi, SD 카드가 작동하지 않았으며</strong>, 초기 구동에도 여러 장애물이 있었음</li><li>펌웨어는 USB로 직접 기록할 수 없어 <strong>UART TX/RX 연결</strong>이 필요했고, 실험에 사용한 CH340G 동글에서는 핸드셰이크가 계속 실패함</li><li><strong>RP2040 기반 시리얼 브리지</strong>와 수정한 <strong>bflb-mcu-tool</strong>을 조합해 M0 펌웨어 기록에 성공함</li><li>이번 단계에서 확인한 결과는 <strong>PC로 초기화 로그 수신</strong>까지이며, Linux 실행 성공은 아직 확인하지 못함</li></ul><hr><h2>Ox64</h2></div>…",
+          "contentSnippet": "Ox64는 서로 다른 RISC-V 코어 3개를 갖춘 8달러 컴퓨터로, MMU 없는 축소형 커널에 한정되지 않는 Linux 실행을 지원함\n당시 이더넷, Wi-Fi, SD 카드가 작동하지 않았으며, 초기 구동에도 여러 장애물이 있었음\n펌웨어는 USB로 직접 기록할 수 없어 UART TX/RX 연결이 필요했고, 실험에 사용한 CH340G 동글에서는 핸드셰이크가 계속 실패함\nRP2040 기반 시리얼 브리지와 수정한 bflb-mcu-tool을 조합해 M0 펌웨어 기록에 성공함\n이번 단계에서 확인한 결과는 PC로 초기화 로그 수신까지이며, Linux 실행 성공은 아직 확인하지 못함\n\nOx64\n…",
+          "id": "https://news.hada.io/topic?id=36770",
+          "isoDate": "2026-11-07T18:38:53.000Z"
+        },
+        {
+          "title": "자유 소프트웨어로 법률사무소 운영하기",
+          "link": "https://news.hada.io/topic?id=36769&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-07T18:35:52.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>영국의 소규모 법률사무소 <strong>decoded.legal</strong>은 약 5년째 클라이언트와 서버 양쪽에서 자유 소프트웨어를 사용하며, 문서 작성부터 청구, 사건 관리까지 처리함</li><li>업무용 PC는 <strong>Debian과 GNOME</strong>을 유지하며, 다른 변호사와 교환할 문서는 LibreOffice Writer로, 일부 문서와 발표 자료는 Markdown 기반 도구로 작성함</li><li>최근 주요 변경은 Nextcloud를 <strong>Syncthing과 radicale</strong>로 대체한 것으로, 파일 동기화와 일정/연락처 관리를 분리한 조합에 만족하고 있음</li><li>서버 측 주요 서비스는 <strong>Signal을 제외하고 자체 호스팅</strong>하지만, 사용량이 적었던 Jitsi와 C</li></ul></div>…",
+          "contentSnippet": "영국의 소규모 법률사무소 decoded.legal은 약 5년째 클라이언트와 서버 양쪽에서 자유 소프트웨어를 사용하며, 문서 작성부터 청구, 사건 관리까지 처리함\n업무용 PC는 Debian과 GNOME을 유지하며, 다른 변호사와 교환할 문서는 LibreOffice Writer로, 일부 문서와 발표 자료는 Markdown 기반 도구로 작성함\n최근 주요 변경은 Nextcloud를 Syncthing과 radicale로 대체한 것으로, 파일 동기화와 일정/연락처 관리를 분리한 조합에 만족하고 있음\n서버 측 주요 서비스는 Signal을 제외하고 자체 호스팅하지만, 사용량이 적었던 Jitsi와 C\n\n…",
+          "id": "https://news.hada.io/topic?id=36769",
+          "isoDate": "2026-11-07T18:35:52.000Z"
+        },
+        {
+          "title": "Unitree 공장을 둘러본 뒤, 서구의 전망을 더 낙관하게 됐다",
+          "link": "https://news.hada.io/topic?id=36768&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-07T17:49:45.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>Unitree의 로봇 생산은 여전히 수작업 중심</strong>이며, 2025년 제조원가에서 인건비 비중은 8%에 불과함. 중국에서는 저렴한 노동력이 합리적이지만, 로봇을 만드는 기계 시장은 아직 서구에도 기회가 남아 있음</li><li><strong>잦은 제품 변경과 재프로그래밍 비용</strong>이 자동화를 어렵게 함. Unitree도 로봇 전체보다 여러 제품이 공유하고 설계가 상대적으로 안정적인 관절 모듈부터 자동화하고 있음</li><li>미국의 공장 노동비는 중국의 약 <strong>7.5배</strong>여서 같은 자동화 설비의 절감 가치가 훨씬 큼. 중국산 로봇과 부품에 대한 규제까지 더해지면서 저렴한 해외 노동력에 의존하는 선택지가 줄어듦</li></ul></div>…",
+          "contentSnippet": "Unitree의 로봇 생산은 여전히 수작업 중심이며, 2025년 제조원가에서 인건비 비중은 8%에 불과함. 중국에서는 저렴한 노동력이 합리적이지만, 로봇을 만드는 기계 시장은 아직 서구에도 기회가 남아 있음\n잦은 제품 변경과 재프로그래밍 비용이 자동화를 어렵게 함. Unitree도 로봇 전체보다 여러 제품이 공유하고 설계가 상대적으로 안정적인 관절 모듈부터 자동화하고 있음\n미국의 공장 노동비는 중국의 약 7.5배여서 같은 자동화 설비의 절감 가치가 훨씬 큼. 중국산 로봇과 부품에 대한 규제까지 더해지면서 저렴한 해외 노동력에 의존하는 선택지가 줄어듦\n\n…",
+          "id": "https://news.hada.io/topic?id=36768",
+          "isoDate": "2026-11-07T17:49:45.000Z"
+        },
+        {
+          "title": "Chomsky와 통계적 학습의 두 문화(2011)",
+          "link": "https://news.hada.io/topic?id=36767&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-07T17:46:45.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>통계적 언어 모델의 예측 성능과 과학적 이해</strong>는 대립할 필요가 없음. 공학적 성공이 과학적 타당성을 입증하지는 않지만, 모델의 성공과 실패, 데이터에 따른 학습 양상은 언어를 이해하는 근거가 될 수 있음</li><li><strong>통계적 모델, 확률 모델, 학습된 모델</strong>은 서로 다른 개념임. 단순한 단어 Markov 모델의 한계를 모든 확률 모델의 한계로 확대하면, 구문 트리와 의미, 담화를 다루는 모델까지 잘못 배제하게 됨</li><li><strong>2011년 당시 통계적 방법</strong>은 언어 처리의 지배적인 접근법이었음. 검색, 음성 인식, 기계 번역뿐 아니라 품사 태깅과 구문 분석에서도 널리 쓰였으며, 규칙 기반 또는 혼합형 시스템의 성공 사례도 존재함</li></ul></div>…",
+          "contentSnippet": "통계적 언어 모델의 예측 성능과 과학적 이해는 대립할 필요가 없음. 공학적 성공이 과학적 타당성을 입증하지는 않지만, 모델의 성공과 실패, 데이터에 따른 학습 양상은 언어를 이해하는 근거가 될 수 있음\n통계적 모델, 확률 모델, 학습된 모델은 서로 다른 개념임. 단순한 단어 Markov 모델의 한계를 모든 확률 모델의 한계로 확대하면, 구문 트리와 의미, 담화를 다루는 모델까지 잘못 배제하게 됨\n2011년 당시 통계적 방법은 언어 처리의 지배적인 접근법이었음. 검색, 음성 인식, 기계 번역뿐 아니라 품사 태깅과 구문 분석에서도 널리 쓰였으며, 규칙 기반 또는 혼합형 시스템의 성공 사례도 존재함\n\n…",
+          "id": "https://news.hada.io/topic?id=36767",
+          "isoDate": "2026-11-07T17:46:45.000Z"
+        },
+        {
+          "title": "민주당, SpaceXAI와 META, Apple에 대한 의회 조사 착수",
+          "link": "https://news.hada.io/topic?id=36766&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-07T16:37:56.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>미국 민주당</strong>이 미국 최대 기업 일부를 대상으로 일련의 조사를 준비하고 있음</li><li>조사 범위는 <strong>지난 2년간의 기업 활동</strong>임</li><li>조사 초점은 기업들의 <strong>민감하고 논란이 큰 행위</strong>에 맞춰질 예정임</li><li>실리콘밸리와 월스트리트에서 <strong>Trump 행정부와 관계를 다져온 경영진</strong>이 조사 압박에 직면하고 있음</li><li>해당 경영진은 다가올 <strong>집중 조사에 대비</strong>하고 있음</li></ul><hr><h2>대기업 조사 준비와 경영진의 대응</h2><ul><li><strong>민주당</strong>은 미국 최대 기업 일부를 대상으로 지난 2년간 가장 민감하고 논란이 큰 행위를 조사할 준비를 하고 있음</li><li>실리콘밸리와 월스트리트에서 <strong>Trump 행정부와 관계를 </strong></li></ul></div>…",
+          "contentSnippet": "미국 민주당이 미국 최대 기업 일부를 대상으로 일련의 조사를 준비하고 있음\n조사 범위는 지난 2년간의 기업 활동임\n조사 초점은 기업들의 민감하고 논란이 큰 행위에 맞춰질 예정임\n실리콘밸리와 월스트리트에서 Trump 행정부와 관계를 다져온 경영진이 조사 압박에 직면하고 있음\n해당 경영진은 다가올 집중 조사에 대비하고 있음\n\n대기업 조사 준비와 경영진의 대응\n\n민주당은 미국 최대 기업 일부를 대상으로 지난 2년간 가장 민감하고 논란이 큰 행위를 조사할 준비를 하고 있음\n실리콘밸리와 월스트리트에서 Trump 행정부와 관계를 \n\n…",
+          "id": "https://news.hada.io/topic?id=36766",
+          "isoDate": "2026-11-07T16:37:56.000Z"
+        },
+        {
+          "title": "RealPage 임대료 책정 소송, 세입자에게 약 3억 6,000만 달러 지급하는 합의로 마무리",
+          "link": "https://news.hada.io/topic?id=36765&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-07T16:34:56.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>미국 연방법원이 <strong>RealPage 소프트웨어를 통한 임대료 담합 의혹</strong> 집단소송의 합의를 승인함. 합의에 참여한 임대인들이 세입자에게 지급할 금액은 약 <strong>3억 6,000만 달러</strong>임</li><li>합의 기업들은 잘못이나 법적 책임을 인정하지 않았지만, 가격 추천을 위한 <strong>비공개 데이터 제공과 경쟁사 비공개 데이터 활용</strong>을 중단하기로 함</li><li>합의 대상은 <strong>2018년 10월 18일부터 2025년 11월 21일까지</strong> 지정된 RealPage 제품을 사용한 미국 공동주택에서 소유주나 운영사에 임대료를 낸 세입자임</li><li>워싱턴 D.C.와 4개 주 법무장관은 합의가 <strong>별도 소송을 부당하게 제한할</strong></li></ul></div>…",
+          "contentSnippet": "미국 연방법원이 RealPage 소프트웨어를 통한 임대료 담합 의혹 집단소송의 합의를 승인함. 합의에 참여한 임대인들이 세입자에게 지급할 금액은 약 3억 6,000만 달러임\n합의 기업들은 잘못이나 법적 책임을 인정하지 않았지만, 가격 추천을 위한 비공개 데이터 제공과 경쟁사 비공개 데이터 활용을 중단하기로 함\n합의 대상은 2018년 10월 18일부터 2025년 11월 21일까지 지정된 RealPage 제품을 사용한 미국 공동주택에서 소유주나 운영사에 임대료를 낸 세입자임\n워싱턴 D.C.와 4개 주 법무장관은 합의가 별도 소송을 부당하게 제한할\n\n…",
+          "id": "https://news.hada.io/topic?id=36765",
+          "isoDate": "2026-11-07T16:34:56.000Z"
+        },
+        {
+          "title": "음식점 배달 주문 사이트를 사칭한 결제정보 탈취 캠페인",
+          "link": "https://news.hada.io/topic?id=36763&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-07T15:38:14.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>InfoHawk 조사에서 <strong>35개 음식점 브랜드를 사칭한 도메인 820개</strong>가 발견됨. 실제 주문 사이트를 복제해 결제정보를 빼내는 하나 이상의 연계된 공격 활동으로 보임</li><li>공격 사이트는 <strong>리버스 프록시</strong>로 실제 메뉴, 가격, 장바구니를 실시간 제공하고 결제 단계만 악성 양식으로 교체함. 이를 위해 정상 음식점 사이트를 해킹할 필요는 없음</li><li>가짜 결제 양식은 카드정보뿐 아니라 <strong>은행 SMS 인증 코드</strong>나 은행 앱 승인까지 요구함. 연구진은 운영자가 실시간으로 화면을 제어하면서 다른 거래의 3-D Secure 인증을 통과시키는 것으로 추정함</li><li>최초 조</li></ul></div>…",
+          "contentSnippet": "InfoHawk 조사에서 35개 음식점 브랜드를 사칭한 도메인 820개가 발견됨. 실제 주문 사이트를 복제해 결제정보를 빼내는 하나 이상의 연계된 공격 활동으로 보임\n공격 사이트는 리버스 프록시로 실제 메뉴, 가격, 장바구니를 실시간 제공하고 결제 단계만 악성 양식으로 교체함. 이를 위해 정상 음식점 사이트를 해킹할 필요는 없음\n가짜 결제 양식은 카드정보뿐 아니라 은행 SMS 인증 코드나 은행 앱 승인까지 요구함. 연구진은 운영자가 실시간으로 화면을 제어하면서 다른 거래의 3-D Secure 인증을 통과시키는 것으로 추정함\n최초 조\n\n…",
+          "id": "https://news.hada.io/topic?id=36763",
+          "isoDate": "2026-11-07T15:38:14.000Z"
+        },
+        {
+          "title": "고대 DNA로 밝혀진 야만족 부족의 신화적 기원 이야기, 사실이었다",
+          "link": "https://news.hada.io/topic?id=36762&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-07T15:35:14.000Z",
+          "author": "neo",
+          "content": "고대 DNA로 밝혀진 야만족 부족의 신화적 기원 이야기, 사실이었다",
+          "contentSnippet": "고대 DNA로 밝혀진 야만족 부족의 신화적 기원 이야기, 사실이었다",
+          "id": "https://news.hada.io/topic?id=36762",
+          "isoDate": "2026-11-07T15:35:14.000Z"
+        },
+        {
+          "title": "Zed의 Delta 공개 베타 - 자체 저장소에서 PR을 끄고 작업 스레드에서 리뷰",
+          "link": "https://news.hada.io/topic?id=36761&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-07T15:01:17.000Z",
+          "author": "xguru",
+          "content": "<div><ul><li>Zed가 <strong>Delta 공개 베타</strong>를 출시함. 에이전트와의 대화 스레드에 동료를 초대해 코딩과 리뷰를 함께 진행하며, 협업을 위해 먼저 코드를 커밋하고 푸시할 필요가 없음</li><li><strong>리뷰 하위 스레드</strong>는 원래 에이전트의 맥락과 격리된 작업 트리를 제공함. 리뷰어는 기존 작업을 방해하지 않고 코드를 탐색하거나 수정하고, 수정 결과를 부모 스레드에 반영할 수 있음</li><li>기반 기술인 <strong>DeltaDB</strong>는 커밋 사이의 편집과 사람 및 에이전트의 메시지를 함께 기록함. Git과 호환되므로 팀 전체가 도입하지 않아도 기존 GitHub 워크플로와 병행할 수 있음</li><li>Delta 개발</li></ul></div>…",
+          "contentSnippet": "Zed가 Delta 공개 베타를 출시함. 에이전트와의 대화 스레드에 동료를 초대해 코딩과 리뷰를 함께 진행하며, 협업을 위해 먼저 코드를 커밋하고 푸시할 필요가 없음\n리뷰 하위 스레드는 원래 에이전트의 맥락과 격리된 작업 트리를 제공함. 리뷰어는 기존 작업을 방해하지 않고 코드를 탐색하거나 수정하고, 수정 결과를 부모 스레드에 반영할 수 있음\n기반 기술인 DeltaDB는 커밋 사이의 편집과 사람 및 에이전트의 메시지를 함께 기록함. Git과 호환되므로 팀 전체가 도입하지 않아도 기존 GitHub 워크플로와 병행할 수 있음\nDelta 개발\n\n…",
+          "id": "https://news.hada.io/topic?id=36761",
+          "isoDate": "2026-11-07T15:01:17.000Z"
+        },
+        {
+          "title": "Entire, 에이전트 시대를 위한 분산 Git 네트워크 공개",
+          "link": "https://news.hada.io/topic?id=36760&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-07T15:00:02.000Z",
+          "author": "xguru",
+          "content": "<div><ul><li><strong>Entire</strong>가 기존 GitHub 저장소를 지역별 미러로 복제하는 <strong>분산 Git 네트워크 프리뷰</strong>를 공개함. 코드는 기존 위치에 두고 에이전트의 clone/pull 트래픽을 미러로 분산함</li><li>현재 <strong>미국, EU, 호주</strong> 리전에서 대기자 명단을 통해 이용할 수 있으며, 향후 공개/비공개 저장소의 네이티브 호스팅과 네트워크 완전 탈중앙화를 추진함</li><li>대규모 동시 에이전트 작업에 맞춰 Git 백엔드를 재구축했으며, <strong>자체 초기 테스트</strong>에서 Cursor Origin 등 경쟁 서비스 대비 <strong>최대 25배 성능</strong>을 기록함</li><li>벤치마크에서는 단일 저장소 기준 시간당 약 <strong>57만 회 clone</strong>, 네이</li></ul></div>…",
+          "contentSnippet": "Entire가 기존 GitHub 저장소를 지역별 미러로 복제하는 분산 Git 네트워크 프리뷰를 공개함. 코드는 기존 위치에 두고 에이전트의 clone/pull 트래픽을 미러로 분산함\n현재 미국, EU, 호주 리전에서 대기자 명단을 통해 이용할 수 있으며, 향후 공개/비공개 저장소의 네이티브 호스팅과 네트워크 완전 탈중앙화를 추진함\n대규모 동시 에이전트 작업에 맞춰 Git 백엔드를 재구축했으며, 자체 초기 테스트에서 Cursor Origin 등 경쟁 서비스 대비 최대 25배 성능을 기록함\n벤치마크에서는 단일 저장소 기준 시간당 약 57만 회 clone, 네이\n\n…",
+          "id": "https://news.hada.io/topic?id=36760",
+          "isoDate": "2026-11-07T15:00:02.000Z"
+        },
+        {
+          "title": "코딩 에이전트를 위한 버전 관리 벤치마크",
+          "link": "https://news.hada.io/topic?id=36759&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-07T14:58:53.000Z",
+          "author": "xguru",
+          "content": "<div><ul><li>GitButler 팀이 운영하는 <strong>vc-bench</strong>에서 Claude Code와 Codex에 같은 버전 관리 작업을 맡기고 Git, Jujutsu, GitButler를 비교함</li><li>전체 360회 중 <strong>359회 성공</strong>. 기본 Git과 GitButler는 각각 120회 모두 통과했고, Jujutsu에서 한 번 실패함</li><li>GitButler는 이 실험에서 Git보다 작업 시간이 약 <strong>65% 짧고</strong>, 실행한 명령은 약 <strong>78% 적었음</strong></li><li>어떤 명령을 썼는지가 아니라 <strong>최종 Git 이력과 작업 트리가 요구사항에 맞는지</strong>로 성공 여부를 판정함</li><li>미리 준비된 저장소에서 버전 관리 작업만 측정했으며, 코드 작성이나 작업 환경 준비, 여러 에이전트의 </li></ul></div>…",
+          "contentSnippet": "GitButler 팀이 운영하는 vc-bench에서 Claude Code와 Codex에 같은 버전 관리 작업을 맡기고 Git, Jujutsu, GitButler를 비교함\n전체 360회 중 359회 성공. 기본 Git과 GitButler는 각각 120회 모두 통과했고, Jujutsu에서 한 번 실패함\nGitButler는 이 실험에서 Git보다 작업 시간이 약 65% 짧고, 실행한 명령은 약 78% 적었음\n어떤 명령을 썼는지가 아니라 최종 Git 이력과 작업 트리가 요구사항에 맞는지로 성공 여부를 판정함\n미리 준비된 저장소에서 버전 관리 작업만 측정했으며, 코드 작성이나 작업 환경 준비, 여러 에이전트의 \n\n…",
+          "id": "https://news.hada.io/topic?id=36759",
+          "isoDate": "2026-11-07T14:58:53.000Z"
+        },
+        {
+          "title": "GitLab, Git 호환성을 유지한 에이전트용 소스 관리 시스템 개발",
+          "link": "https://news.hada.io/topic?id=36758&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-07T14:56:46.000Z",
+          "author": "xguru",
+          "content": "<div><ul><li>GitLab이 대규모 저장소에서 <strong>수천 개 에이전트의 동시 작업</strong>을 지원하는 차세대 소스 코드 관리(SCM)를 개발 중이며, 현재 비공개 베타에서 고객 저장소와 워크로드로 성능을 검증하고 있음</li><li><strong>Git 프로토콜 호환성</strong>을 유지하면서 공유 객체 스토리지와 수평 확장 가능한 무상태 컴퓨팅을 결합하고, 에이전트가 전체 저장소를 반복 복제하지 않고 필요한 파일과 이력만 요청하도록 설계함</li><li>초기 내부 테스트에서 <strong>작업 완료 속도 최대 50배</strong>, 토큰 사용량 최대 절반, 네트워크 트래픽 최대 1,000분의 1을 기록함. 특정 조건의 최고 개선치이며 지속적인 동시 부하 검증은 진행 중임</li></ul></div>…",
+          "contentSnippet": "GitLab이 대규모 저장소에서 수천 개 에이전트의 동시 작업을 지원하는 차세대 소스 코드 관리(SCM)를 개발 중이며, 현재 비공개 베타에서 고객 저장소와 워크로드로 성능을 검증하고 있음\nGit 프로토콜 호환성을 유지하면서 공유 객체 스토리지와 수평 확장 가능한 무상태 컴퓨팅을 결합하고, 에이전트가 전체 저장소를 반복 복제하지 않고 필요한 파일과 이력만 요청하도록 설계함\n초기 내부 테스트에서 작업 완료 속도 최대 50배, 토큰 사용량 최대 절반, 네트워크 트래픽 최대 1,000분의 1을 기록함. 특정 조건의 최고 개선치이며 지속적인 동시 부하 검증은 진행 중임\n\n…",
+          "id": "https://news.hada.io/topic?id=36758",
+          "isoDate": "2026-11-07T14:56:46.000Z"
+        },
+        {
+          "title": "Pangram Image 1.0 공개 - 사진과 영상에서 AI로 만든 부분을 탐지",
           "link": "https://news.hada.io/topic?id=36757&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
           "pubDate": "2026-11-07T14:49:20.000Z",
           "author": "neo",
-          "content": "<div><ul><li>Pangram이 이미지 탐지용 <strong>Pangram Image 1.0</strong>과 더 작고 빠른 영상 탐지 특화 모델 <strong>Pangram Image Flash 1.0</strong>을 출시함</li><li>Image 1.0은 이미지 내 AI 콘텐츠의 위치를 <strong>히트맵</strong>으로 표시하며, 실제 사진 안에 포함된 AI 이미지도 찾아낼 수 있음</li><li>실제 사진 100장을 바탕으로 최신 이미지 생성 모델 12개가 합성 이미지 1,200장을 만든 <strong>자체 평가</strong>에서 Image 1.0이 <strong>정확도 99.96%</strong> 를 기록함</li><li>압축, 축소, 흐림, 노이즈 등에 대응하도록 학습했으며, 최소 입력 크기를 <strong>256×256</strong>으로 낮춤. 512 미만 해상도의 결과에는 <strong>신뢰도 저하 안내</strong>가 붙음</li><li>Flash </li></ul></div>…",
-          "contentSnippet": "Pangram이 이미지 탐지용 Pangram Image 1.0과 더 작고 빠른 영상 탐지 특화 모델 Pangram Image Flash 1.0을 출시함\nImage 1.0은 이미지 내 AI 콘텐츠의 위치를 히트맵으로 표시하며, 실제 사진 안에 포함된 AI 이미지도 찾아낼 수 있음\n실제 사진 100장을 바탕으로 최신 이미지 생성 모델 12개가 합성 이미지 1,200장을 만든 자체 평가에서 Image 1.0이 정확도 99.96% 를 기록함\n압축, 축소, 흐림, 노이즈 등에 대응하도록 학습했으며, 최소 입력 크기를 256×256으로 낮춤. 512 미만 해상도의 결과에는 신뢰도 저하 안내가 붙음\nFlash \n\n…",
+          "content": "<div><ul><li>Pangram이 AI 이미지 탐지 모델 <strong>Image 1.0</strong>과 영상 탐지에 특화된 경량 모델 <strong>Image Flash 1.0</strong>을 공개함</li><li>Image 1.0은 <strong>실제로 찍은 사진 안에 AI 생성 이미지가 섞여 있어도</strong> 해당 영역을 히트맵으로 표시함</li><li>압축, 축소, 흐림 등에 대응하도록 학습했으며, 최소 입력 크기를 512×512에서 256×256으로 낮춤</li><li>실제 사진 100장과 12개 생성 모델로 만든 대응 이미지 1,200장을 사용한 <strong>Pangram 자체 평가</strong>에서 Image 1.0은 정확도 <strong>99.96%</strong> 를 기록</li><li>Flash 1.0은 <strong>한 사람이 말하는 실제 영상과 AI 생성 영상을 구별하는 DF26</strong>에서 Pangram 측 평가 기준</li></ul></div>…",
+          "contentSnippet": "Pangram이 AI 이미지 탐지 모델 Image 1.0과 영상 탐지에 특화된 경량 모델 Image Flash 1.0을 공개함\nImage 1.0은 실제로 찍은 사진 안에 AI 생성 이미지가 섞여 있어도 해당 영역을 히트맵으로 표시함\n압축, 축소, 흐림 등에 대응하도록 학습했으며, 최소 입력 크기를 512×512에서 256×256으로 낮춤\n실제 사진 100장과 12개 생성 모델로 만든 대응 이미지 1,200장을 사용한 Pangram 자체 평가에서 Image 1.0은 정확도 99.96% 를 기록\nFlash 1.0은 한 사람이 말하는 실제 영상과 AI 생성 영상을 구별하는 DF26에서 Pangram 측 평가 기준\n\n…",
           "id": "https://news.hada.io/topic?id=36757",
           "isoDate": "2026-11-07T14:49:20.000Z"
         },
         {
-          "title": "11년간 오픈소스 기능 플래그 서버를 만들어 왔습니다",
+          "title": "Unleash - 재배포 없이 새 기능을 켜고 끄는 오픈소스 기능 플래그 서버",
           "link": "https://news.hada.io/topic?id=36756&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
           "pubDate": "2026-11-07T14:46:20.000Z",
           "author": "neo",
-          "content": "<div><ul><li><strong>Unleash</strong>는 새 기능을 최종 사용자에게 언제, 어떻게 공개할지 제어하는 오픈소스 기능 관리 솔루션으로, 프로덕션 코드를 작고 관리하기 쉬운 단위로 배포할 수 있게 함</li><li><strong>기능 플래그</strong>로 실제 프로덕션 데이터를 사용해 코드를 테스트하고, 별도 기능 브랜치 없이 여러 기능을 동시에 개발할 수 있음</li><li><strong>대상별 활성화 전략</strong>을 통해 애플리케이션 재배포 없이 특정 사용자나 세그먼트의 기능을 켜고 끄며, 점진적 출시와 킬 스위치, A/B 테스트를 지원함</li><li><strong>개인정보 보호 중심 설계</strong>에 따라 최종 사용자 데이터가 애플리케이션 밖으로 나가지 않으</li></ul></div>…",
-          "contentSnippet": "Unleash는 새 기능을 최종 사용자에게 언제, 어떻게 공개할지 제어하는 오픈소스 기능 관리 솔루션으로, 프로덕션 코드를 작고 관리하기 쉬운 단위로 배포할 수 있게 함\n기능 플래그로 실제 프로덕션 데이터를 사용해 코드를 테스트하고, 별도 기능 브랜치 없이 여러 기능을 동시에 개발할 수 있음\n대상별 활성화 전략을 통해 애플리케이션 재배포 없이 특정 사용자나 세그먼트의 기능을 켜고 끄며, 점진적 출시와 킬 스위치, A/B 테스트를 지원함\n개인정보 보호 중심 설계에 따라 최종 사용자 데이터가 애플리케이션 밖으로 나가지 않으\n\n…",
+          "content": "<div><ul><li>새 기능을 최종 사용자에게 언제, 어떻게 공개할지 제어하는 오픈소스 기능 관리 솔루션으로, 프로덕션 코드를 작고 관리하기 쉬운 단위로 배포할 수 있게 함</li><li><strong>내부 사용자에게 먼저 공개한 뒤 전체 사용자의 10%, 50%처럼 대상을 넓힐 수 있음</strong><ul><li>사용자 ID를 기준으로 배정하면 같은 사용자에게 일관된 경험을 제공하며, 문제가 생기면 재배포 없이 플래그를 끌 수 있음</li></ul></li><li><strong>A/B 테스트</strong>에서는 버전별로 트래픽 비율을 정하고, 어떤 버전이 노출됐는지 분석 도구에 보내 전환율 같은 지표를 비교 가능</li><li>여러 앱과 환경의 플래그를 한곳에서 관리.</li></ul></div>…",
+          "contentSnippet": "새 기능을 최종 사용자에게 언제, 어떻게 공개할지 제어하는 오픈소스 기능 관리 솔루션으로, 프로덕션 코드를 작고 관리하기 쉬운 단위로 배포할 수 있게 함\n내부 사용자에게 먼저 공개한 뒤 전체 사용자의 10%, 50%처럼 대상을 넓힐 수 있음\n사용자 ID를 기준으로 배정하면 같은 사용자에게 일관된 경험을 제공하며, 문제가 생기면 재배포 없이 플래그를 끌 수 있음\n\nA/B 테스트에서는 버전별로 트래픽 비율을 정하고, 어떤 버전이 노출됐는지 분석 도구에 보내 전환율 같은 지표를 비교 가능\n여러 앱과 환경의 플래그를 한곳에서 관리.\n\n…",
           "id": "https://news.hada.io/topic?id=36756",
           "isoDate": "2026-11-07T14:46:20.000Z"
         },
@@ -85,126 +205,6 @@
           "contentSnippet": "UploadYourRam.org는 컴퓨터에서 놀고 있는 RAM을 업로드해 더 나은 목적에 기부할 수 있다는 사이트임\nSam Altman이 개인 컴퓨터에 RAM을 두는 것은 비효율적이라고 설득한다는 전제에서, 이미 구매한 RAM을 되돌릴 수 없는 소비자의 죄책감을 소재로 삼음\n“혁신적인 RAM 업로드 기술”을 내세우지만, 제공된 본문에는 실제 구현 방식에 관한 설명이 없음\n기부 선택지는 2GB, 4GB, 16GB이며, 4GB를 가장 인기 있는 옵션이자 “LLM 하나를 구하기에 충분한” 양으로 소개함\n16GB는 영웅 등급으로, Sam Altman이 직접 감사할 것이라는 문\n\n…",
           "id": "https://news.hada.io/topic?id=36750",
           "isoDate": "2026-11-07T13:37:23.000Z"
-        },
-        {
-          "title": "Mac은 누구를 가족으로 추정할까 - macOS의 개인 지식 그래프",
-          "link": "https://news.hada.io/topic?id=36748&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-07T12:34:52.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>2022년 이후 모든 macOS에 탑재된 두 데몬 들이 <strong>연락처, 사진 속 얼굴, 일정과 통신 기록</strong>을 연결해 사용자와 주변 사람의 관계를 기기 안에 기록함</li><li>macOS 26.6.2에서 확인한 <strong>XGBoost 분류기 2개</strong>는 같은 성이나 주소, 연락하는 요일과 시간대, 사진에 함께 등장하는 빈도 등 144개 특징으로 가족 및 친구 관계를 추정함</li><li>데이터는 <strong>전체 디스크 접근 권한으로 보호되는 평문 SQLite 파일</strong>에 저장됨. 통신 기록에는 상대, 시각, 앱, 송수신 방향이 담기며 메시지 본문은 포함되지 않음</li><li><strong>원본 정보를 지워도 추론 결과가 남을 수 있음</strong>. 일정 초대</li></ul></div>…",
-          "contentSnippet": "2022년 이후 모든 macOS에 탑재된 두 데몬 들이 연락처, 사진 속 얼굴, 일정과 통신 기록을 연결해 사용자와 주변 사람의 관계를 기기 안에 기록함\nmacOS 26.6.2에서 확인한 XGBoost 분류기 2개는 같은 성이나 주소, 연락하는 요일과 시간대, 사진에 함께 등장하는 빈도 등 144개 특징으로 가족 및 친구 관계를 추정함\n데이터는 전체 디스크 접근 권한으로 보호되는 평문 SQLite 파일에 저장됨. 통신 기록에는 상대, 시각, 앱, 송수신 방향이 담기며 메시지 본문은 포함되지 않음\n원본 정보를 지워도 추론 결과가 남을 수 있음. 일정 초대\n\n…",
-          "id": "https://news.hada.io/topic?id=36748",
-          "isoDate": "2026-11-07T12:34:52.000Z"
-        },
-        {
-          "title": "Show GN: Y-Term - Your terminal, augmented (확장형 터미널 에뮬레이터)",
-          "link": "https://news.hada.io/topic?id=36747&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-07T12:11:32.000Z",
-          "author": "andrewchaa",
-          "content": "<div><p>제 맘대로(?) 만들어 쓰고 있는 터미널 에뮬레이터 입니다. 요즘 좋은 터미널들이 많죠. tmux, cmux, herdr 등등. 한동안 이것 저것 쓰다가, 내가 좋아하는 기능들만 넣어서 직접 만들어 써볼까 하는 생각이 들었습니다. 첫 버전을 만든다음 매일 매일 쓰면서 필요한 기능들, 아쉬운 기능들을 계속 추가하면서 다듬고 있고요.</p><p>제가 생각하고 있는 개발 방향은 Augmented (증강, 확장) 터미널입니다. 제가 터미널을 하루 종일 쓰기는 하지만, VIM이나 Emacs 쓰는 분들처럼 정말 열심히 터미널을 쓰는 건 아니거든요. 풀 스택으로 일하면서 VS Code와 intelliJ를 자주 쓰는데, intelliJ는 너무 무거운 느낌이고, VS Code 정도가 제게는 딱 맞는 느낌입니다. 단축키를 좋아하지만 마우스 쓰는 것도 싫어하지 않고요. 그래서 터미널을 마치 VS Code 처럼 키보드와 마우스를 함께 적절하게 사용함으로 좀 더 편하게 써보자가 개발 방향입니다.</p><p>그래서 터미널이지만, 마우스를 이용한 편의 기능들도 지속적으로 추가하려고 합니다. 터미널에 있는 웹 링크를 클릭하면 브라우저가 뜨고, 파일 링크를 클릭하면 등록된 디폴드 앱을 이용해서 파일을 열어줍니다. Git branch 명령으로 branch 리스트가 뜨면 그 옆에 복사 / 삭제 아이콘이 뜨면서 branch를 마우스 클릭으로 삭제할 수도 있고요. git diff 명령으로 파일 리스트가 뜰 때는 그 파일을 클릭하면 diff 내용을 VS Code 위에서 보여줍니다.</p></div>…",
-          "contentSnippet": "제 맘대로(?) 만들어 쓰고 있는 터미널 에뮬레이터 입니다. 요즘 좋은 터미널들이 많죠. tmux, cmux, herdr 등등. 한동안 이것 저것 쓰다가, 내가 좋아하는 기능들만 넣어서 직접 만들어 써볼까 하는 생각이 들었습니다. 첫 버전을 만든다음 매일 매일 쓰면서 필요한 기능들, 아쉬운 기능들을 계속 추가하면서 다듬고 있고요.\n제가 생각하고 있는 개발 방향은 Augmented (증강, 확장) 터미널입니다. 제가 터미널을 하루 종일 쓰기는 하지만, VIM이나 Emacs 쓰는 분들처럼 정말 열심히 터미널을 쓰는 건 아니거든요. 풀 스택으로 일하면서 VS Code와 intelliJ를 자주 쓰는데, intelliJ는 너무 무거운 느낌이고, VS Code 정도가 제게는 딱 맞는 느낌입니다. 단축키를 좋아하지만 마우스 쓰는 것도 싫어하지 않고요. 그래서 터미널을 마치 VS Code 처럼 키보드와 마우스를 함께 적절하게 사용함으로 좀 더 편하게 써보자가 개발 방향입니다.\n그래서 터미널이지만, 마우스를 이용한 편의 기능들도 지속적으로 추가하려고 합니다. 터미널에 있는 웹 링크를 클릭하면 브라우저가 뜨고, 파일 링크를 클릭하면 등록된 디폴드 앱을 이용해서 파일을 열어줍니다. Git branch 명령으로 branch 리스트가 뜨면 그 옆에 복사 / 삭제 아이콘이 뜨면서 branch를 마우스 클릭으로 삭제할 수도 있고요. git diff 명령으로 파일 리스트가 뜰 때는 그 파일을 클릭하면 diff 내용을 VS Code 위에서 보여줍니다.\n…",
-          "id": "https://news.hada.io/topic?id=36747",
-          "isoDate": "2026-11-07T12:11:32.000Z"
-        },
-        {
-          "title": "Devvm.dev: 프로젝트마다 하나의 VM",
-          "link": "https://news.hada.io/topic?id=36746&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-07T11:32:47.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>devvm</strong>은 프로젝트별로 도구 체인을 갖춘 격리 VM을 만들어, 개발자나 코딩 에이전트가 바로 작업할 수 있게 하는 무료 오픈소스 도구임</li><li>프로젝트 파일을 바탕으로 <strong>도구 체인을 자동 선택</strong>하며, Claude Code, Codex, opencode를 호스트에 설치하지 않고 VM 안에서 실행할 수 있음</li><li>기본적으로 <strong>허용 목록 기반 네트워크</strong>를 사용하고 홈 디렉터리 접근을 제한하며, <code>--clone</code>을 쓰면 호스트 작업 트리 대신 VM 전용 저장소 복제본에서 작업함</li><li>에이전트의 <strong>인증 정보는 호스트에 유지</strong>하고 VM에는 대체 값을 전달하며, 외부 요청이 나갈 때 호스트의</li></ul></div>…",
-          "contentSnippet": "devvm은 프로젝트별로 도구 체인을 갖춘 격리 VM을 만들어, 개발자나 코딩 에이전트가 바로 작업할 수 있게 하는 무료 오픈소스 도구임\n프로젝트 파일을 바탕으로 도구 체인을 자동 선택하며, Claude Code, Codex, opencode를 호스트에 설치하지 않고 VM 안에서 실행할 수 있음\n기본적으로 허용 목록 기반 네트워크를 사용하고 홈 디렉터리 접근을 제한하며, --clone을 쓰면 호스트 작업 트리 대신 VM 전용 저장소 복제본에서 작업함\n에이전트의 인증 정보는 호스트에 유지하고 VM에는 대체 값을 전달하며, 외부 요청이 나갈 때 호스트의\n\n…",
-          "id": "https://news.hada.io/topic?id=36746",
-          "isoDate": "2026-11-07T11:32:47.000Z"
-        },
-        {
-          "title": "Asahi Linux 개발 현황: Linux 7.3",
-          "link": "https://news.hada.io/topic?id=36744&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-07T10:34:24.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>M3 지원이 정식 공개</strong>되어 설치 시 EXPERT 플래그가 필요 없어짐. DCP 활성화로 성능과 배터리 사용 시간이 개선되고, 절전과 MacBook 노치 주변 화면 활용도 가능해짐</li><li><strong>업스트림 기여</strong>가 확대되어 macaudio와 AVD 드라이버가 검토 단계에 진입함. M4 Pro/Max와 M5의 초기 Devicetree도 제출됐지만, 현재는 TTY로 부팅할 수 있는 최소 수준임</li><li><strong>Thunderbolt 초기 지원</strong>이 사용자에게 배포되기 시작함. USB3, XDomain, Thunderbolt Networking만 지원하며, 대부분의 Thunderbolt 독에 필요한 PCIe와 DisplayPort 터널링은 아직 지원하지 않음</li><li>An</li></ul></div>…",
-          "contentSnippet": "M3 지원이 정식 공개되어 설치 시 EXPERT 플래그가 필요 없어짐. DCP 활성화로 성능과 배터리 사용 시간이 개선되고, 절전과 MacBook 노치 주변 화면 활용도 가능해짐\n업스트림 기여가 확대되어 macaudio와 AVD 드라이버가 검토 단계에 진입함. M4 Pro/Max와 M5의 초기 Devicetree도 제출됐지만, 현재는 TTY로 부팅할 수 있는 최소 수준임\nThunderbolt 초기 지원이 사용자에게 배포되기 시작함. USB3, XDomain, Thunderbolt Networking만 지원하며, 대부분의 Thunderbolt 독에 필요한 PCIe와 DisplayPort 터널링은 아직 지원하지 않음\nAn\n\n…",
-          "id": "https://news.hada.io/topic?id=36744",
-          "isoDate": "2026-11-07T10:34:24.000Z"
-        },
-        {
-          "title": "Bong: 주소창 단축키로 원하는 사이트를 바로 검색하는 셀프호스팅 가능한 리다이렉터",
-          "link": "https://news.hada.io/topic?id=36743&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-07T10:21:17.000Z",
-          "author": "guesswhat",
-          "content": "<div><ul><li>주소창에 <code>.yt 검색어</code>, <code>.gh 검색어</code>처럼 짧은 접두사를 붙여 유튜브·깃허브 등 원하는 사이트의 검색 결과로 바로 이동시켜 주는 도구</li><li>DuckDuckGo의 <code>!bang</code> 기능을 셀프호스팅으로 구현</li><li><strong>OpenSearch</strong>를 지원해 브라우저 기본 검색엔진 등록 및 자동완성(Suggest)이 가능하고, <strong>한글 초성 매칭</strong>·부분 입력·오타 보정을 지원</li><li>Go로 작성되어 가볍고, 별도 DB 없이 YAML 파일 하나로 나만의 검색 단축키를 손쉽게 정의 가능</li></ul></div>",
-          "contentSnippet": "주소창에 .yt 검색어, .gh 검색어처럼 짧은 접두사를 붙여 유튜브·깃허브 등 원하는 사이트의 검색 결과로 바로 이동시켜 주는 도구\nDuckDuckGo의 !bang 기능을 셀프호스팅으로 구현\nOpenSearch를 지원해 브라우저 기본 검색엔진 등록 및 자동완성(Suggest)이 가능하고, 한글 초성 매칭·부분 입력·오타 보정을 지원\nGo로 작성되어 가볍고, 별도 DB 없이 YAML 파일 하나로 나만의 검색 단축키를 손쉽게 정의 가능",
-          "id": "https://news.hada.io/topic?id=36743",
-          "isoDate": "2026-11-07T10:21:17.000Z"
-        },
-        {
-          "title": "Software Line Specialist - AI가 못 고친 코드를 고치는 사람을 구합니다",
-          "link": "https://news.hada.io/topic?id=36742&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-07T09:01:20.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>2028년의 개발자 채용 공고를 흉내 낸 풍자</strong></li><li>기술 스택이 ‘영어’인 스타트업에서 <strong>AI가 해결하지 못한 마지막 0.5%</strong> 를 맡을 TypeScript 개발자를 구함</li><li>코드, 로그, DB를 직접 살펴보고 수정부터 테스트, 리뷰, 배포까지 맡음</li><li><strong>2022년 이전 TypeScript 경력 5년 이상</strong>을 요구하며, 종이 시험과 AI 없는 실시간 디버깅을 치름</li><li>병렬 개발이 기본인 회사에서 이 직무만큼은 <strong>한 번에 한 문제</strong>에 집중할 수 있음</li></ul><hr><h2>AI가 막히면 IDE를 열어 주세요</h2><ul><li>가상의 스타트업 ACME Inc.는 소상공인의 재무 현황을 모니터링하는 서비스를 만들며, 최근 1,500만 달</li></ul></div>…",
-          "contentSnippet": "2028년의 개발자 채용 공고를 흉내 낸 풍자\n기술 스택이 ‘영어’인 스타트업에서 AI가 해결하지 못한 마지막 0.5% 를 맡을 TypeScript 개발자를 구함\n코드, 로그, DB를 직접 살펴보고 수정부터 테스트, 리뷰, 배포까지 맡음\n2022년 이전 TypeScript 경력 5년 이상을 요구하며, 종이 시험과 AI 없는 실시간 디버깅을 치름\n병렬 개발이 기본인 회사에서 이 직무만큼은 한 번에 한 문제에 집중할 수 있음\n\nAI가 막히면 IDE를 열어 주세요\n\n가상의 스타트업 ACME Inc.는 소상공인의 재무 현황을 모니터링하는 서비스를 만들며, 최근 1,500만 달\n\n…",
-          "id": "https://news.hada.io/topic?id=36742",
-          "isoDate": "2026-11-07T09:01:20.000Z"
-        },
-        {
-          "title": "Show GN: 그레이아이 - 검수를 거쳐야 발행이 열리는 네이버·티스토리용 AI 블로그 초안 도구",
-          "link": "https://news.hada.io/topic?id=36741&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-07T08:10:27.000Z",
-          "author": "proovit",
-          "content": "<div><p>블로그 글 한 편을 쓰는 흐름(키워드 조사 → 초안 → 검수 → 발행)을 한 화면에 모은 웹 서비스입니다. 1인 개발이고 지금 베타입니다.</p><p>만든 이유<br> 블로그 AI 도구는 대부분 \"대량 자동 발행\"을 팝니다. 그런데 구글의 대량 콘텐츠 남용 정책이나 네이버 제재 사례를 보면 그 방향은 결국 사용자 계정이 위험을 떠안는 구조라고 봤습니다. 그래서 반대로, 사람이 확인하지 않으면 발행 단계가 열리지 않는 도구를 만들었습니다.</p><p>하는 것</p><ul><li>키워드 분석: 네이버 검색광고 키워드도구 API로 월간 검색량·광고 경쟁도를 보여주고, 검색량 대</li></ul></div>…",
-          "contentSnippet": "블로그 글 한 편을 쓰는 흐름(키워드 조사 → 초안 → 검수 → 발행)을 한 화면에 모은 웹 서비스입니다. 1인 개발이고 지금 베타입니다.\n만든 이유\n 블로그 AI 도구는 대부분 \"대량 자동 발행\"을 팝니다. 그런데 구글의 대량 콘텐츠 남용 정책이나 네이버 제재 사례를 보면 그 방향은 결국 사용자 계정이 위험을 떠안는 구조라고 봤습니다. 그래서 반대로, 사람이 확인하지 않으면 발행 단계가 열리지 않는 도구를 만들었습니다.\n하는 것\n\n키워드 분석: 네이버 검색광고 키워드도구 API로 월간 검색량·광고 경쟁도를 보여주고, 검색량 대\n\n…",
-          "id": "https://news.hada.io/topic?id=36741",
-          "isoDate": "2026-11-07T08:10:27.000Z"
-        },
-        {
-          "title": "나트륨이온 배터리, LFP와 비용 동등 수준에 근접",
-          "link": "https://news.hada.io/topic?id=36740&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-07T06:32:41.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>나트륨이온 배터리</strong>가 상업 생산 단계에 진입했으며, Wood Mackenzie 분석에 따르면 전 세계 공급 계약 규모가 <strong>70GWh를 넘어섬</strong></li><li>선도 제조업체들은 <strong>2026년 말까지 셀 수준</strong>에서 리튬인산철(LFP) 배터리와 비용이 같아질 전망이지만, 모듈과 시스템 수준에서는 <strong>2030년 이후</strong>에야 가능할 것으로 예상됨</li><li>초기 비용은 LFP보다 높지만, 용량 증설 주기가 필요 없고 운영비가 낮아 <strong>20년간 총소유비용이 21% 낮아질 가능성</strong>이 있음</li><li><strong>원자재 공급 안정성, 수명, 넓은 작동 온도 범위</strong>가 기술적 강점이며, 특히 리튬이온 배터리에 추가 열관리 시스템이 필</li></ul></div>…",
-          "contentSnippet": "나트륨이온 배터리가 상업 생산 단계에 진입했으며, Wood Mackenzie 분석에 따르면 전 세계 공급 계약 규모가 70GWh를 넘어섬\n선도 제조업체들은 2026년 말까지 셀 수준에서 리튬인산철(LFP) 배터리와 비용이 같아질 전망이지만, 모듈과 시스템 수준에서는 2030년 이후에야 가능할 것으로 예상됨\n초기 비용은 LFP보다 높지만, 용량 증설 주기가 필요 없고 운영비가 낮아 20년간 총소유비용이 21% 낮아질 가능성이 있음\n원자재 공급 안정성, 수명, 넓은 작동 온도 범위가 기술적 강점이며, 특히 리튬이온 배터리에 추가 열관리 시스템이 필\n\n…",
-          "id": "https://news.hada.io/topic?id=36740",
-          "isoDate": "2026-11-07T06:32:41.000Z"
-        },
-        {
-          "title": "Show GN: 돌싱벗 - 30~50대 돌싱을 위한 소개팅 앱",
-          "link": "https://news.hada.io/topic?id=36739&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-07T04:18:46.000Z",
-          "author": "eltacrew",
-          "content": "<div><p>안녕하세요. 안드로이드 앱을 혼자 만들고 있습니다.</p><p>30대, 40대, 50대 돌싱과 새 인연을 찾는 분들을 위한 소개팅 앱을 구글 플레이에 올렸습니다.</p><ul><li>앱은 Kotlin, Jetpack Compose / 서버는 FastAPI, PostgreSQL</li><li>지인 막기: 연락처 번호를 해시로 바꿔 비교하고, 이름은 보내지 않음</li><li>프로필과 사진은 운영자가 직접 확인한 뒤 공개, 사진을 바꾸면 다시 확인</li><li>수락해야 대화가 열리고, 대화로 전화번호와 외부 링크는 보낼 수 없음</li><li>30일 넘게 접속하지 않은 회원은 목록에서 제외</li></ul><p>지금은 오픈 기념으로 모든 기능이 무료이고, 여성 회원은</p></div>…",
-          "contentSnippet": "안녕하세요. 안드로이드 앱을 혼자 만들고 있습니다.\n30대, 40대, 50대 돌싱과 새 인연을 찾는 분들을 위한 소개팅 앱을 구글 플레이에 올렸습니다.\n\n앱은 Kotlin, Jetpack Compose / 서버는 FastAPI, PostgreSQL\n지인 막기: 연락처 번호를 해시로 바꿔 비교하고, 이름은 보내지 않음\n프로필과 사진은 운영자가 직접 확인한 뒤 공개, 사진을 바꾸면 다시 확인\n수락해야 대화가 열리고, 대화로 전화번호와 외부 링크는 보낼 수 없음\n30일 넘게 접속하지 않은 회원은 목록에서 제외\n\n지금은 오픈 기념으로 모든 기능이 무료이고, 여성 회원은\n…",
-          "id": "https://news.hada.io/topic?id=36739",
-          "isoDate": "2026-11-07T04:18:46.000Z"
-        },
-        {
-          "title": "Show GN: RepUnlock – 카메라로 스쿼트를 세어 SNS 잠금을 푸는 안드로이드 앱",
-          "link": "https://news.hada.io/topic?id=36738&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-07T02:52:06.000Z",
-          "author": "heesanglee",
-          "content": "<div><p>HS솔루션에서 만든 앱입니다. 인스타그램이나 유튜브를 열기 전에 몸을 한 번 움직이게 하는 방법이 없을까 하다가 만들었습니다. 의지로는 잘 안 되니, 앱 쪽에서 잠가 두고 운동을 해야 열리게 했습니다.</p><p>무엇을 하나</p><ul><li>잠글 앱을 고르면, 그 앱을 열 때 잠금 화면이 뜹니다.</li><li>휴대폰 카메라 앞에서 운동하면 횟수를 세고, 목표를 채우면 이용 시간이 적립됩니다. 스쿼트 15회 = 10분, 푸시업 10회 = 10분, 플랭크 30초 = 5분입니다. 목표에 못 미치면 비례해서 줍니다(최소 1분).</li><li>적립된 시간 동안만 잠근 앱을 쓸 수 있고, 시간이 다 되</li></ul></div>…",
-          "contentSnippet": "HS솔루션에서 만든 앱입니다. 인스타그램이나 유튜브를 열기 전에 몸을 한 번 움직이게 하는 방법이 없을까 하다가 만들었습니다. 의지로는 잘 안 되니, 앱 쪽에서 잠가 두고 운동을 해야 열리게 했습니다.\n무엇을 하나\n\n잠글 앱을 고르면, 그 앱을 열 때 잠금 화면이 뜹니다.\n휴대폰 카메라 앞에서 운동하면 횟수를 세고, 목표를 채우면 이용 시간이 적립됩니다. 스쿼트 15회 = 10분, 푸시업 10회 = 10분, 플랭크 30초 = 5분입니다. 목표에 못 미치면 비례해서 줍니다(최소 1분).\n적립된 시간 동안만 잠근 앱을 쓸 수 있고, 시간이 다 되\n\n…",
-          "id": "https://news.hada.io/topic?id=36738",
-          "isoDate": "2026-11-07T02:52:06.000Z"
-        },
-        {
-          "title": "Show GN: Heirmos – Claude Code와 Codex가 같은 기억을 쓰게 하는 플러그인",
-          "link": "https://news.hada.io/topic?id=36737&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-07T02:40:03.000Z",
-          "author": "pneumora",
-          "content": "<div><p>코딩 에이전트를 쓰다 보면 어제 정한 걸 오늘 세션에서 다시 설명하게 됩니다.<br> \"테스트는 pytest로\", \"이 레포는 마이그레이션 손으로 작성\", \"그 방식은 지난주에<br> 해 봤는데 안 됐음\" 같은 것들이요. 에이전트를 바꾸면(Claude Code → Codex)<br> 처음부터 다시입니다.</p><p>Heirmos는 이걸 자동으로 이어 주는 기억 레이어입니다.</p><p>■ 하는 일</p><ul><li>세션이 끝나거나 컨텍스트가 압축될 때 대화에서 결정·선호·규칙만 뽑아 저장</li><li>다음 세션 시작 시 \"이 레포에서 전에 정한 것\"을 에이전트 컨텍스트에 자동 주입</li><li>작업 중엔 에이전트가 MCP로 지난 결</li></ul></div>…",
-          "contentSnippet": "코딩 에이전트를 쓰다 보면 어제 정한 걸 오늘 세션에서 다시 설명하게 됩니다.\n \"테스트는 pytest로\", \"이 레포는 마이그레이션 손으로 작성\", \"그 방식은 지난주에\n 해 봤는데 안 됐음\" 같은 것들이요. 에이전트를 바꾸면(Claude Code → Codex)\n 처음부터 다시입니다.\nHeirmos는 이걸 자동으로 이어 주는 기억 레이어입니다.\n■ 하는 일\n\n세션이 끝나거나 컨텍스트가 압축될 때 대화에서 결정·선호·규칙만 뽑아 저장\n다음 세션 시작 시 \"이 레포에서 전에 정한 것\"을 에이전트 컨텍스트에 자동 주입\n작업 중엔 에이전트가 MCP로 지난 결\n\n…",
-          "id": "https://news.hada.io/topic?id=36737",
-          "isoDate": "2026-11-07T02:40:03.000Z"
-        },
-        {
-          "title": "libghostty 1.0 공개 - Ghostty의 터미널 엔진을 안정적인 C 라이브러리로",
-          "link": "https://news.hada.io/topic?id=36736&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-07T02:33:31.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>Ghostty의 터미널 엔진을 분리한 <strong><code>libghostty-vt</code>가 1.0에 도달</strong>함. 다른 앱도 이 라이브러리를 연결해 자체 터미널을 구현할 수 있음</li><li><strong>C ABI가 안정화</strong>돼 배포판이 라이브러리를 별도 패키지로 제공하고, 앱은 이를 동적으로 연결할 수 있음. Ghostty 앱과 별도로 릴리스하며, 오프라인 빌드에 필요한 소스와 의존성도 제공함</li><li><strong>JetBrains IDE의 내장 터미널에 이미 적용</strong>됐으며, Turborepo의 작업 출력 렌더링과 TUI 프로그램 테스트에도 쓰임</li><li><strong>Neovim도 <code>libvterm</code>을 교체하는 PR을 승인</strong>함. 병합 대기 중인 이 변경에는 창 크기를 바꿀 때 이전 터</li></ul></div>…",
-          "contentSnippet": "Ghostty의 터미널 엔진을 분리한 libghostty-vt가 1.0에 도달함. 다른 앱도 이 라이브러리를 연결해 자체 터미널을 구현할 수 있음\nC ABI가 안정화돼 배포판이 라이브러리를 별도 패키지로 제공하고, 앱은 이를 동적으로 연결할 수 있음. Ghostty 앱과 별도로 릴리스하며, 오프라인 빌드에 필요한 소스와 의존성도 제공함\nJetBrains IDE의 내장 터미널에 이미 적용됐으며, Turborepo의 작업 출력 렌더링과 TUI 프로그램 테스트에도 쓰임\nNeovim도 libvterm을 교체하는 PR을 승인함. 병합 대기 중인 이 변경에는 창 크기를 바꿀 때 이전 터\n\n…",
-          "id": "https://news.hada.io/topic?id=36736",
-          "isoDate": "2026-11-07T02:33:31.000Z"
         }
       ]
     },
@@ -382,6 +382,90 @@
       "data": [
         {
           "creator": "박준혁",
+          "title": "프랑스 극좌 대권 주자 \"은퇴 나이 60세 복원·나토 탈퇴\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261108020228X6q",
+          "pubDate": "Sun, 08 Nov 2026 02:02:29 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261107/AKR20261108020228X6q_01_i.jpg\" alt=\"\"><span class=\"yna_title\">장뤼크 멜랑숑 굴복하지않는프랑스(LFI) 대표</span><span class=\"yna_caption\">[AFP=연합뉴스. 재배포 및 DB 금지]</span><span class=\"yna_description\">[AFP=연합뉴스. 재배포 및 DB 금지]</span></div>\n프랑스의 유력 대선 후보인 장뤼크 멜랑숑(75) 굴복하지않는프랑스(LFI) 대표가 최저임금 인상, 은퇴 나이 하향, 북대서양조약기구(NATO·나토) 탈퇴 등을 골자로 하는 대선 공약을 발표합니다.\n\n로이터통신은 멜랑숑 대표가 내년 프랑스 대선을 앞두고 7일(현지시간) 이같은 약속을 담은 '공동의 미래'(L'Avenir en commun)라는 제목이 붙은 공약집을 공개한다고 보도했습니다.\n\n좌파 진영에서 가장 경쟁력 있는 후보로 평가되는 극좌 LFI의 멜랑숑 대표는 에마뉘엘 마크롱 대통령의 후임을 뽑는 내년 대선에서 극우 진영의 마린 르펜 국민연합(RN) 후보와 결선투표에서 맞붙을 것으로 예상되는 인물입니다.\n\n최근 여론조사에 따르면, 그는 결선투표에서는 르펜 후보에게 패할 것으로 예상됩니다.\n\n로이터에 따르면, 멜랑숑 대표는 LFI의 다섯 번째 정책 강령이기도 한 이번 공약집에서 프랑스의 법정 최저 정년 기준을 기존 62세에서 64세로 단계적으로 상향하기로 한 마크롱 대통령의 연금 개혁을 폐지하고, 정년을 기존 60세로 되돌리는 방안을 대표 공약으로 내세웠습니다.\n\n또한, 현재 약 1천480유로(약 225만원) 수준인 세후 최저임금을 1천700유로(약 258만원)로 약 15% 인상하겠다는 약속도 담겼습니다.\n\n외교 정책에서는 북대서양조약기구(NATO·나토)에 대한 기존의 비판적 입장을 유지하면서, 나토 통합군사령부 탈퇴를 시작으로 나토의 점진적 탈퇴를 추진한다는 내용이 포함됐습니다.\n\n이밖에 유럽연합(EU) 경제정책에 대한 독일의 영향력을 비판하고, 해외로 이전했던 생산 시설의 프랑스 이전 장려 정책 등 국내 산업에 대한 보호 정책을 강화할 것을 천명했다고 로이터는 전했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박준혁(baktoyou@yna.co.kr)",
+          "content:encodedSnippet": "장뤼크 멜랑숑 굴복하지않는프랑스(LFI) 대표[AFP=연합뉴스. 재배포 및 DB 금지][AFP=연합뉴스. 재배포 및 DB 금지]\n프랑스의 유력 대선 후보인 장뤼크 멜랑숑(75) 굴복하지않는프랑스(LFI) 대표가 최저임금 인상, 은퇴 나이 하향, 북대서양조약기구(NATO·나토) 탈퇴 등을 골자로 하는 대선 공약을 발표합니다.\n\n로이터통신은 멜랑숑 대표가 내년 프랑스 대선을 앞두고 7일(현지시간) 이같은 약속을 담은 '공동의 미래'(L'Avenir en commun)라는 제목이 붙은 공약집을 공개한다고 보도했습니다.\n\n좌파 진영에서 가장 경쟁력 있는 후보로 평가되는 극좌 LFI의 멜랑숑 대표는 에마뉘엘 마크롱 대통령의 후임을 뽑는 내년 대선에서 극우 진영의 마린 르펜 국민연합(RN) 후보와 결선투표에서 맞붙을 것으로 예상되는 인물입니다.\n\n최근 여론조사에 따르면, 그는 결선투표에서는 르펜 후보에게 패할 것으로 예상됩니다.\n\n로이터에 따르면, 멜랑숑 대표는 LFI의 다섯 번째 정책 강령이기도 한 이번 공약집에서 프랑스의 법정 최저 정년 기준을 기존 62세에서 64세로 단계적으로 상향하기로 한 마크롱 대통령의 연금 개혁을 폐지하고, 정년을 기존 60세로 되돌리는 방안을 대표 공약으로 내세웠습니다.\n\n또한, 현재 약 1천480유로(약 225만원) 수준인 세후 최저임금을 1천700유로(약 258만원)로 약 15% 인상하겠다는 약속도 담겼습니다.\n\n외교 정책에서는 북대서양조약기구(NATO·나토)에 대한 기존의 비판적 입장을 유지하면서, 나토 통합군사령부 탈퇴를 시작으로 나토의 점진적 탈퇴를 추진한다는 내용이 포함됐습니다.\n\n이밖에 유럽연합(EU) 경제정책에 대한 독일의 영향력을 비판하고, 해외로 이전했던 생산 시설의 프랑스 이전 장려 정책 등 국내 산업에 대한 보호 정책을 강화할 것을 천명했다고 로이터는 전했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박준혁(baktoyou@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261107/AKR20261108020228X6q_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "박준혁",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261108020228X6q#comments",
+          "content": "장뤼크 멜랑숑 굴복하지않는프랑스(LFI) 대표[AFP=연합뉴스. 재배포 및 DB 금지][AFP=연합뉴스. 재배포 및 DB 금지] 프랑스의 유력 대선 후보인 장뤼크 멜랑숑(75) 굴복하지않는프랑스(LFI) 대표가 최저임금 인상, 은퇴 나이 하향, 북대서양조약기구(NATO·나토) 탈퇴 등을 골자로 하는 대선 공약을 발표합니다. 로이터통신은 멜랑숑 대표가 내년 프랑스 대선을 앞두고 7일(현지시간) 이같은 약속을 담은 '공동의 미래'(L'Aven...",
+          "contentSnippet": "장뤼크 멜랑숑 굴복하지않는프랑스(LFI) 대표[AFP=연합뉴스. 재배포 및 DB 금지][AFP=연합뉴스. 재배포 및 DB 금지] 프랑스의 유력 대선 후보인 장뤼크 멜랑숑(75) 굴복하지않는프랑스(LFI) 대표가 최저임금 인상, 은퇴 나이 하향, 북대서양조약기구(NATO·나토) 탈퇴 등을 골자로 하는 대선 공약을 발표합니다. 로이터통신은 멜랑숑 대표가 내년 프랑스 대선을 앞두고 7일(현지시간) 이같은 약속을 담은 '공동의 미래'(L'Aven...",
+          "guid": "AKR20261108020228X6q",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-07T17:02:29.000Z"
+        },
+        {
+          "creator": "박준혁",
+          "title": "폴란드 도심에서 무차별 총기 난사로 5명 사망",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261108015918oNm",
+          "pubDate": "Sun, 08 Nov 2026 01:59:20 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261107/AKR20261108015918oNm_01_i.jpg\" alt=\"\"><span class=\"yna_title\">폴란드 사고 현장</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n폴란드 제2 도시 크라쿠프 도심에서 총격 사건이 발생해 다수의 사상자가 발생했습니다.\n\n현지 경찰에 따르면 현지시간 7일 해당 사건으로 5명이 숨지고 12명이 넘는 사람이 다친 것으로 전해졌습니다.\n\n경찰에 따르면 신원이 확인되지 않은 총격범이 이날 오후 3시 크라쿠프 중심가에 위치한 중앙시장 광장에서 차량에 탄 채 사람들을 향해 총기를\n난사했고, 도주를 시도하던 중 현장에서 체포됐습니다.\n\n군복 스타일의 차림을 한 총격범은 경찰과 대치 도중 피격돼 병원으로 이송됐고, 총격범의 총탄에 경찰관 2명도 다쳤다고 경찰은 덧붙였습니다.\n\n도날트 투스크 폴란드 총리는 엑스에 \"경찰이 이번 사건의 배후와 정황에 대해 조사하고 있다\"고 적었습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박준혁(baktoyou@yna.co.kr)",
+          "content:encodedSnippet": "폴란드 사고 현장[연합뉴스 제공][연합뉴스 제공]\n폴란드 제2 도시 크라쿠프 도심에서 총격 사건이 발생해 다수의 사상자가 발생했습니다.\n\n현지 경찰에 따르면 현지시간 7일 해당 사건으로 5명이 숨지고 12명이 넘는 사람이 다친 것으로 전해졌습니다.\n\n경찰에 따르면 신원이 확인되지 않은 총격범이 이날 오후 3시 크라쿠프 중심가에 위치한 중앙시장 광장에서 차량에 탄 채 사람들을 향해 총기를\n난사했고, 도주를 시도하던 중 현장에서 체포됐습니다.\n\n군복 스타일의 차림을 한 총격범은 경찰과 대치 도중 피격돼 병원으로 이송됐고, 총격범의 총탄에 경찰관 2명도 다쳤다고 경찰은 덧붙였습니다.\n\n도날트 투스크 폴란드 총리는 엑스에 \"경찰이 이번 사건의 배후와 정황에 대해 조사하고 있다\"고 적었습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박준혁(baktoyou@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261107/AKR20261108015918oNm_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "박준혁",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261108015918oNm#comments",
+          "content": "폴란드 사고 현장[연합뉴스 제공][연합뉴스 제공] 폴란드 제2 도시 크라쿠프 도심에서 총격 사건이 발생해 다수의 사상자가 발생했습니다. 현지 경찰에 따르면 현지시간 7일 해당 사건으로 5명이 숨지고 12명이 넘는 사람이 다친 것으로 전해졌습니다. 경찰에 따르면 신원이 확인되지 않은 총격범이 이날 오후 3시 크라쿠프 중심가에 위치한 중앙시장 광장에서 차량에 탄 채 사람들을 향해 총기를 난사했고, 도주를 시도하던 중 현장에서 체포됐습니다. 군...",
+          "contentSnippet": "폴란드 사고 현장[연합뉴스 제공][연합뉴스 제공] 폴란드 제2 도시 크라쿠프 도심에서 총격 사건이 발생해 다수의 사상자가 발생했습니다. 현지 경찰에 따르면 현지시간 7일 해당 사건으로 5명이 숨지고 12명이 넘는 사람이 다친 것으로 전해졌습니다. 경찰에 따르면 신원이 확인되지 않은 총격범이 이날 오후 3시 크라쿠프 중심가에 위치한 중앙시장 광장에서 차량에 탄 채 사람들을 향해 총기를 난사했고, 도주를 시도하던 중 현장에서 체포됐습니다. 군...",
+          "guid": "AKR20261108015918oNm",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-07T16:59:20.000Z"
+        },
+        {
+          "creator": "박준혁",
+          "title": "젤렌스키 \"북한 KN-23 미사일, 우크라 에너지 시설 공격에 사용돼\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR202611080024362c9",
+          "pubDate": "Sun, 08 Nov 2026 00:24:38 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261107/AKR202611080024362c9_01_i.jpg\" alt=\"\"><span class=\"yna_title\">볼로디미르 젤렌스키 우크라이나 대통령</span><span class=\"yna_caption\">[AFP=연합뉴스 자료사진. 재판매 및 DB 금지]</span><span class=\"yna_description\">[AFP=연합뉴스 자료사진. 재판매 및 DB 금지]</span></div>\n볼로디미르 젤렌스키 우크라이나 대통령은 밤사이 자국 에너지 시설 등을 겨냥한 러시아의 공습에 북한 KN-23(화성-11가) 미사일이 사용됐다고 7일(현지시간) 주장했습니다.\n\n젤렌스키 대통령은 이날 엑스(X·옛 트위터)에 \"예비 조사 결과에 따르면, 피해를 본 주요 에너지 시설 가운데 한 곳에 북한이 제조해 공급한 KN-23 미사일이 사용된 것으로 나타났다\"고 적었습니다.\n\n그러면서 \"생명을 파괴하는 데 '서비스'를 제공하는 전 세계 모든 이들에 대한 국제 제재 체제를 대폭 강화해야 한다는 또 하나의 증거\"라고 강조했습니다.\n\n이날 러시아의 공격 이후 상황과 피해 복구 노력에 관한 관계기관 조정 회의를 주재한 젤렌스키 대통령은 밤사이 발사된 러시아 미사일 36발 가운데 4발만 격추됐다며 패트리엇 방공체계용 요격미사일 부족을 거듭 호소했습니다.\n\n그러면서 러시아가 다음 주 우크라이나, 미국과 3자 협상을 앞두고 우크라이나와 그 인프라에 대한 공격을 강화함으로써 우크라이나와 동맹국의 입장에 압력을 가하려 한다고 주장했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박준혁(baktoyou@yna.co.kr)",
+          "content:encodedSnippet": "볼로디미르 젤렌스키 우크라이나 대통령[AFP=연합뉴스 자료사진. 재판매 및 DB 금지][AFP=연합뉴스 자료사진. 재판매 및 DB 금지]\n볼로디미르 젤렌스키 우크라이나 대통령은 밤사이 자국 에너지 시설 등을 겨냥한 러시아의 공습에 북한 KN-23(화성-11가) 미사일이 사용됐다고 7일(현지시간) 주장했습니다.\n\n젤렌스키 대통령은 이날 엑스(X·옛 트위터)에 \"예비 조사 결과에 따르면, 피해를 본 주요 에너지 시설 가운데 한 곳에 북한이 제조해 공급한 KN-23 미사일이 사용된 것으로 나타났다\"고 적었습니다.\n\n그러면서 \"생명을 파괴하는 데 '서비스'를 제공하는 전 세계 모든 이들에 대한 국제 제재 체제를 대폭 강화해야 한다는 또 하나의 증거\"라고 강조했습니다.\n\n이날 러시아의 공격 이후 상황과 피해 복구 노력에 관한 관계기관 조정 회의를 주재한 젤렌스키 대통령은 밤사이 발사된 러시아 미사일 36발 가운데 4발만 격추됐다며 패트리엇 방공체계용 요격미사일 부족을 거듭 호소했습니다.\n\n그러면서 러시아가 다음 주 우크라이나, 미국과 3자 협상을 앞두고 우크라이나와 그 인프라에 대한 공격을 강화함으로써 우크라이나와 동맹국의 입장에 압력을 가하려 한다고 주장했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박준혁(baktoyou@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261107/AKR202611080024362c9_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "박준혁",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR202611080024362c9#comments",
+          "content": "볼로디미르 젤렌스키 우크라이나 대통령[AFP=연합뉴스 자료사진. 재판매 및 DB 금지][AFP=연합뉴스 자료사진. 재판매 및 DB 금지] 볼로디미르 젤렌스키 우크라이나 대통령은 밤사이 자국 에너지 시설 등을 겨냥한 러시아의 공습에 북한 KN-23(화성-11가) 미사일이 사용됐다고 7일(현지시간) 주장했습니다. 젤렌스키 대통령은 이날 엑스(X·옛 트위터)에 \"예비 조사 결과에 따르면, 피해를 본 주요 에너지 시설 가운데 한 곳에 북한이 제조...",
+          "contentSnippet": "볼로디미르 젤렌스키 우크라이나 대통령[AFP=연합뉴스 자료사진. 재판매 및 DB 금지][AFP=연합뉴스 자료사진. 재판매 및 DB 금지] 볼로디미르 젤렌스키 우크라이나 대통령은 밤사이 자국 에너지 시설 등을 겨냥한 러시아의 공습에 북한 KN-23(화성-11가) 미사일이 사용됐다고 7일(현지시간) 주장했습니다. 젤렌스키 대통령은 이날 엑스(X·옛 트위터)에 \"예비 조사 결과에 따르면, 피해를 본 주요 에너지 시설 가운데 한 곳에 북한이 제조...",
+          "guid": "AKR202611080024362c9",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-07T15:24:38.000Z"
+        },
+        {
+          "creator": "박준혁",
+          "title": "추가 인적 개편 가능성 선 그은 트럼프 \"우리 내각 훌륭\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261108001848RGh",
+          "pubDate": "Sun, 08 Nov 2026 00:18:49 +0900",
+          "content:encoded": "<b>밀러 발탁 배경에 \"중간선거 때문 아냐…내 선거 아니었다\"</b>\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261107/AKR20261108001848RGh_01_i.jpg\" alt=\"\"><span class=\"yna_title\">공항에서 취재진 질문에 답변하는 트럼프 대통령</span><span class=\"yna_caption\">[AFP/게티이미지=연합뉴스 자료사진. 재판매 및 DB 금지]</span><span class=\"yna_description\">[AFP/게티이미지=연합뉴스 자료사진. 재판매 및 DB 금지]</span></div>\n중간선거 패배 책임론에 휩싸인 도널드 트럼프 미국 대통령이 백악관 비서실장 교체에 이어 행정부의 추가 인적 개편에 나설 가능성에 대해 \"거의 없을 것(very little)\"이라고 선을 그었습니다.\n\n트럼프 대통령은 현지시간 6일 플로리다 팜비치 공항에서 기자들과 만나 '향후 몇 달간 추가로 물러나는 인사들이 더 있을 것으로 예상하느냐'는 질문에 이같이 답하며 \"우리는 훌륭한 내각을 갖고 있다\"고 말했습니다.\n\n트럼프 대통령은 수지 와일스 백악관 비서실장을 스티븐 밀러 부비서실장으로 교체한 것이 중간선거 결과 때문이냐는 질문에는 \"선거 때문이 아니다. 때로는 변화를 주는 것\"이라고 답했습니다.\n\n이어 \"그 선거는 내 선거가 아니었다\"며 \"나는 투표용지에 이름이 없었다\"고 강조했습니다.\n\n트럼프 대통령은 또 민주당이 주도하는 새 의회의 협력 가능성에 대해선 이민, 세금, 경제 개발 분야를 거론하며 \"우리가 함께 많은 일을 할 수 있다고 생각한다\"고 말했습니다.\n\n이어 일부 당선인들이 자신과 만나서 논의하고 싶어 한다며 \"그에 대해 매우 열려 있는 입장\"이라고 설명했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박준혁(baktoyou@yna.co.kr)",
+          "content:encodedSnippet": "밀러 발탁 배경에 \"중간선거 때문 아냐…내 선거 아니었다\"\n공항에서 취재진 질문에 답변하는 트럼프 대통령[AFP/게티이미지=연합뉴스 자료사진. 재판매 및 DB 금지][AFP/게티이미지=연합뉴스 자료사진. 재판매 및 DB 금지]\n중간선거 패배 책임론에 휩싸인 도널드 트럼프 미국 대통령이 백악관 비서실장 교체에 이어 행정부의 추가 인적 개편에 나설 가능성에 대해 \"거의 없을 것(very little)\"이라고 선을 그었습니다.\n\n트럼프 대통령은 현지시간 6일 플로리다 팜비치 공항에서 기자들과 만나 '향후 몇 달간 추가로 물러나는 인사들이 더 있을 것으로 예상하느냐'는 질문에 이같이 답하며 \"우리는 훌륭한 내각을 갖고 있다\"고 말했습니다.\n\n트럼프 대통령은 수지 와일스 백악관 비서실장을 스티븐 밀러 부비서실장으로 교체한 것이 중간선거 결과 때문이냐는 질문에는 \"선거 때문이 아니다. 때로는 변화를 주는 것\"이라고 답했습니다.\n\n이어 \"그 선거는 내 선거가 아니었다\"며 \"나는 투표용지에 이름이 없었다\"고 강조했습니다.\n\n트럼프 대통령은 또 민주당이 주도하는 새 의회의 협력 가능성에 대해선 이민, 세금, 경제 개발 분야를 거론하며 \"우리가 함께 많은 일을 할 수 있다고 생각한다\"고 말했습니다.\n\n이어 일부 당선인들이 자신과 만나서 논의하고 싶어 한다며 \"그에 대해 매우 열려 있는 입장\"이라고 설명했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박준혁(baktoyou@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261107/AKR20261108001848RGh_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "박준혁",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261108001848RGh#comments",
+          "content": "밀러 발탁 배경에 \"중간선거 때문 아냐…내 선거 아니었다\" 공항에서 취재진 질문에 답변하는 트럼프 대통령[AFP/게티이미지=연합뉴스 자료사진. 재판매 및 DB 금지][AFP/게티이미지=연합뉴스 자료사진. 재판매 및 DB 금지] 중간선거 패배 책임론에 휩싸인 도널드 트럼프 미국 대통령이 백악관 비서실장 교체에 이어 행정부의 추가 인적 개편에 나설 가능성에 대해 \"거의 없을 것(very little)\"이라고 선을 그었습니다. 트럼프 대통령은 ...",
+          "contentSnippet": "밀러 발탁 배경에 \"중간선거 때문 아냐…내 선거 아니었다\" 공항에서 취재진 질문에 답변하는 트럼프 대통령[AFP/게티이미지=연합뉴스 자료사진. 재판매 및 DB 금지][AFP/게티이미지=연합뉴스 자료사진. 재판매 및 DB 금지] 중간선거 패배 책임론에 휩싸인 도널드 트럼프 미국 대통령이 백악관 비서실장 교체에 이어 행정부의 추가 인적 개편에 나설 가능성에 대해 \"거의 없을 것(very little)\"이라고 선을 그었습니다. 트럼프 대통령은 ...",
+          "guid": "AKR20261108001848RGh",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-07T15:18:49.000Z"
+        },
+        {
+          "creator": "박준혁",
           "title": "\"주인 없는 새 고양이가…\" 익산 한 원룸에서 불",
           "link": "https://www.yonhapnewstv.co.kr/news/AKR202611072355035ct",
           "pubDate": "Sat, 07 Nov 2026 23:55:03 +0900",
@@ -526,90 +610,6 @@
             "최신"
           ],
           "isoDate": "2026-11-07T13:52:36.000Z"
-        },
-        {
-          "creator": "노수미",
-          "title": "[날씨] 휴일 추위 속 중부 약한 비…강원 산지는 눈",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261107194740vFw",
-          "pubDate": "Sat, 07 Nov 2026 19:47:41 +0900",
-          "content:encoded": "북쪽에서 찬 공기가 내려와 날씨가 부쩍 추워졌습니다.\n\n휴일인 내일도 서울의 아침 기온은 2도에 그치겠고, 제천과 문경 등 내륙 곳곳에서는 영하권 추위가 나타나겠습니다.\n\n외출하실 때는 옷차림을 따뜻하게 해주셔야겠습니다.\n\n내일은 추운 날씨 속 중부 지방에 비 소식이 있습니다.\n\n내일 낮부터 경기 북부와 강원 북부에 비가 내리기 시작해, 늦은 오후에는 그 밖의 중부로 확대되겠습니다.\n\n이 비는 늦은 밤까지 이어지겠습니다.\n\n강수량은 5mm 안팎으로 많지는 않겠습니다.\n\n다만 기온이 낮은 강원 내륙과 산지에서는 비가 눈으로 바뀌어 내릴 수 있겠습니다.\n\n비가 내리기 전까지 수도권과 동쪽 지방을 중심으로 대기가 건조하겠습니다.\n\n특히 동해안에는 건조특보가 내려진 만큼 불씨 관리를 잘해주셔야겠습니다.\n\n내일 아침 기온은 서울과 광주 2도, 대구 1도로 출발하겠고요, 한낮에는 서울 8도, 대전 10도, 전주 11도에 그치며 종일 쌀쌀하겠습니다.\n\n다음 주 초반까지 예년보다 추운 날씨가 이어지겠습니다.\n\n월요일에는 남부 지방에 비가 내릴 전망입니다.\n\n지금까지 날씨 전해드렸습니다.\n\n(김수진 기상캐스터)\n\n#추위 #눈 #건조 #비 #주말날씨 #영하권 #늦가을\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
-          "content:encodedSnippet": "북쪽에서 찬 공기가 내려와 날씨가 부쩍 추워졌습니다.\n\n휴일인 내일도 서울의 아침 기온은 2도에 그치겠고, 제천과 문경 등 내륙 곳곳에서는 영하권 추위가 나타나겠습니다.\n\n외출하실 때는 옷차림을 따뜻하게 해주셔야겠습니다.\n\n내일은 추운 날씨 속 중부 지방에 비 소식이 있습니다.\n\n내일 낮부터 경기 북부와 강원 북부에 비가 내리기 시작해, 늦은 오후에는 그 밖의 중부로 확대되겠습니다.\n\n이 비는 늦은 밤까지 이어지겠습니다.\n\n강수량은 5mm 안팎으로 많지는 않겠습니다.\n\n다만 기온이 낮은 강원 내륙과 산지에서는 비가 눈으로 바뀌어 내릴 수 있겠습니다.\n\n비가 내리기 전까지 수도권과 동쪽 지방을 중심으로 대기가 건조하겠습니다.\n\n특히 동해안에는 건조특보가 내려진 만큼 불씨 관리를 잘해주셔야겠습니다.\n\n내일 아침 기온은 서울과 광주 2도, 대구 1도로 출발하겠고요, 한낮에는 서울 8도, 대전 10도, 전주 11도에 그치며 종일 쌀쌀하겠습니다.\n\n다음 주 초반까지 예년보다 추운 날씨가 이어지겠습니다.\n\n월요일에는 남부 지방에 비가 내릴 전망입니다.\n\n지금까지 날씨 전해드렸습니다.\n\n(김수진 기상캐스터)\n\n#추위 #눈 #건조 #비 #주말날씨 #영하권 #늦가을\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261107/MYH20261107194740vFw.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "노수미",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261107194740vFw#comments",
-          "content": "북쪽에서 찬 공기가 내려와 날씨가 부쩍 추워졌습니다. 휴일인 내일도 서울의 아침 기온은 2도에 그치겠고, 제천과 문경 등 내륙 곳곳에서는 영하권 추위가 나타나겠습니다. 외출하실 때는 옷차림을 따뜻하게 해주셔야겠습니다. 내일은 추운 날씨 속 중부 지방에 비 소식이 있습니다. 내일 낮부터 경기 북부와 강원 북부에 비가 내리기 시작해, 늦은 오후에는 그 밖의 중부로 확대되겠습니다. 이 비는 늦은 밤까지 이어지겠습니다. 강수량은 5mm 안팎으로 ...",
-          "contentSnippet": "북쪽에서 찬 공기가 내려와 날씨가 부쩍 추워졌습니다. 휴일인 내일도 서울의 아침 기온은 2도에 그치겠고, 제천과 문경 등 내륙 곳곳에서는 영하권 추위가 나타나겠습니다. 외출하실 때는 옷차림을 따뜻하게 해주셔야겠습니다. 내일은 추운 날씨 속 중부 지방에 비 소식이 있습니다. 내일 낮부터 경기 북부와 강원 북부에 비가 내리기 시작해, 늦은 오후에는 그 밖의 중부로 확대되겠습니다. 이 비는 늦은 밤까지 이어지겠습니다. 강수량은 5mm 안팎으로 ...",
-          "guid": "MYH20261107194740vFw",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-07T10:47:41.000Z"
-        },
-        {
-          "creator": "신새롬",
-          "title": "\"트럼프 살해 목소리 들려\"…백악관 인근서 무장 남성 체포",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261107193500hXy",
-          "pubDate": "Sat, 07 Nov 2026 19:35:01 +0900",
-          "content:encoded": "미국 백악관 인근에서 총기 3정과 수십 발의 탄약을 소지한 남성이 체포됐습니다.\n\n미 국토안보부와 현지 언론에 따르면 현지시간 5일 밤, 비밀경호국 요원이 백악관 인근에 주차된 차량에서 수상한 행동을 하던 남성을 총기 불법 소지 및 차량 무단 사용 등의 혐의로 체포했습니다.\n\n해당 차량은 도난 신고된 상태였으며, 차 안에서는 소총 1정과 권총 2정, 탄약 수십 발이 발견됐습니다.\n\n용의자는 체포 당시 \"워싱턴DC로 가서 트럼프 대통령을 살해하라고 말하는 목소리가 머릿속에서 들렸다\"고 진술한 것으로 알려졌습니다.\n\n[화면출처 미 국토안보부 홈페이지]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신새롬(romi@yna.co.kr)",
-          "content:encodedSnippet": "미국 백악관 인근에서 총기 3정과 수십 발의 탄약을 소지한 남성이 체포됐습니다.\n\n미 국토안보부와 현지 언론에 따르면 현지시간 5일 밤, 비밀경호국 요원이 백악관 인근에 주차된 차량에서 수상한 행동을 하던 남성을 총기 불법 소지 및 차량 무단 사용 등의 혐의로 체포했습니다.\n\n해당 차량은 도난 신고된 상태였으며, 차 안에서는 소총 1정과 권총 2정, 탄약 수십 발이 발견됐습니다.\n\n용의자는 체포 당시 \"워싱턴DC로 가서 트럼프 대통령을 살해하라고 말하는 목소리가 머릿속에서 들렸다\"고 진술한 것으로 알려졌습니다.\n\n[화면출처 미 국토안보부 홈페이지]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신새롬(romi@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261107/MYH20261107193500hXy.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "신새롬",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261107193500hXy#comments",
-          "content": "미국 백악관 인근에서 총기 3정과 수십 발의 탄약을 소지한 남성이 체포됐습니다. 미 국토안보부와 현지 언론에 따르면 현지시간 5일 밤, 비밀경호국 요원이 백악관 인근에 주차된 차량에서 수상한 행동을 하던 남성을 총기 불법 소지 및 차량 무단 사용 등의 혐의로 체포했습니다. 해당 차량은 도난 신고된 상태였으며, 차 안에서는 소총 1정과 권총 2정, 탄약 수십 발이 발견됐습니다. 용의자는 체포 당시 \"워싱턴DC로 가서 트럼프 대통령을 살해하라...",
-          "contentSnippet": "미국 백악관 인근에서 총기 3정과 수십 발의 탄약을 소지한 남성이 체포됐습니다. 미 국토안보부와 현지 언론에 따르면 현지시간 5일 밤, 비밀경호국 요원이 백악관 인근에 주차된 차량에서 수상한 행동을 하던 남성을 총기 불법 소지 및 차량 무단 사용 등의 혐의로 체포했습니다. 해당 차량은 도난 신고된 상태였으며, 차 안에서는 소총 1정과 권총 2정, 탄약 수십 발이 발견됐습니다. 용의자는 체포 당시 \"워싱턴DC로 가서 트럼프 대통령을 살해하라...",
-          "guid": "MYH20261107193500hXy",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-07T10:35:01.000Z"
-        },
-        {
-          "creator": "김종성",
-          "title": "'세계 1위' 서승재·김원호, 코리아오픈 결승 진출…대회 2연패 정조준",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261107193219jY6",
-          "pubDate": "Sat, 07 Nov 2026 19:32:22 +0900",
-          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261107/AKR20261107193219jY6_01_i.jpg\" alt=\"\"><span class=\"yna_title\">서승재-김원호</span><span class=\"yna_caption\">[연합뉴스]</span><span class=\"yna_description\">[연합뉴스]</span></div>\n\n배드민턴 남자 복식 세계랭킹 1위 서승재-김원호 조가 코리아오픈 결승에 진출하며 안방 우승 기회를 잡았습니다.\n\n서승재-김원호는 7일 전남 여수 진남체육관에서 열린 BWF 월드투어 슈퍼 500 코리아오픈 남자 복식 준결승에서 말레이시아의 만웨이총-티카이운 조를 2-0으로 제압했습니다.\n\n서승재-김원호가 국제대회 결승에 오른 것은 지난 7월 차이나오픈 이후 6개 대회 만입니다.\n\n1게임을 접전 끝에 상대 범실을 유도하며 가져온 서승재-김원호는, 2게임에서도 김원호의 라켓교체 공백을 서승재가 메우는 수비 투혼 속에 분위기를 가져오며 승리를 확정했습니다.\n\n지난해 11개 대회 우승을 합작했던 두 선수는 지난 4월 아시아선수권 이후 이어지던 우승 가뭄을 씻어내고 대회 2연패 달성에 도전합니다.\n\n#서승재 #김원호 #배드민턴 #남자 #복식 #코리아오픈\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김종성(goldbell@yna.co.kr)",
-          "content:encodedSnippet": "서승재-김원호[연합뉴스][연합뉴스]\n\n배드민턴 남자 복식 세계랭킹 1위 서승재-김원호 조가 코리아오픈 결승에 진출하며 안방 우승 기회를 잡았습니다.\n\n서승재-김원호는 7일 전남 여수 진남체육관에서 열린 BWF 월드투어 슈퍼 500 코리아오픈 남자 복식 준결승에서 말레이시아의 만웨이총-티카이운 조를 2-0으로 제압했습니다.\n\n서승재-김원호가 국제대회 결승에 오른 것은 지난 7월 차이나오픈 이후 6개 대회 만입니다.\n\n1게임을 접전 끝에 상대 범실을 유도하며 가져온 서승재-김원호는, 2게임에서도 김원호의 라켓교체 공백을 서승재가 메우는 수비 투혼 속에 분위기를 가져오며 승리를 확정했습니다.\n\n지난해 11개 대회 우승을 합작했던 두 선수는 지난 4월 아시아선수권 이후 이어지던 우승 가뭄을 씻어내고 대회 2연패 달성에 도전합니다.\n\n#서승재 #김원호 #배드민턴 #남자 #복식 #코리아오픈\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김종성(goldbell@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261107/AKR20261107193219jY6_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "김종성",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261107193219jY6#comments",
-          "content": "서승재-김원호[연합뉴스][연합뉴스] 배드민턴 남자 복식 세계랭킹 1위 서승재-김원호 조가 코리아오픈 결승에 진출하며 안방 우승 기회를 잡았습니다. 서승재-김원호는 7일 전남 여수 진남체육관에서 열린 BWF 월드투어 슈퍼 500 코리아오픈 남자 복식 준결승에서 말레이시아의 만웨이총-티카이운 조를 2-0으로 제압했습니다. 서승재-김원호가 국제대회 결승에 오른 것은 지난 7월 차이나오픈 이후 6개 대회 만입니다. 1게임을 접전 끝에 상대 범실을...",
-          "contentSnippet": "서승재-김원호[연합뉴스][연합뉴스] 배드민턴 남자 복식 세계랭킹 1위 서승재-김원호 조가 코리아오픈 결승에 진출하며 안방 우승 기회를 잡았습니다. 서승재-김원호는 7일 전남 여수 진남체육관에서 열린 BWF 월드투어 슈퍼 500 코리아오픈 남자 복식 준결승에서 말레이시아의 만웨이총-티카이운 조를 2-0으로 제압했습니다. 서승재-김원호가 국제대회 결승에 오른 것은 지난 7월 차이나오픈 이후 6개 대회 만입니다. 1게임을 접전 끝에 상대 범실을...",
-          "guid": "AKR20261107193219jY6",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-07T10:32:22.000Z"
-        },
-        {
-          "creator": "윤솔",
-          "title": "주유소 기름값 '찔끔' 하락…\"국제유가 효과 제한적\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261107193005JM9",
-          "pubDate": "Sat, 07 Nov 2026 19:30:07 +0900",
-          "content:encoded": "[앵커]\n\n전국 주유소 기름값이 반년 가까이 하락세지만 넉 달 넘게 리터(L)당 1,800원대를 벗어나지 못하고 있습니다.\n\n국제유가가 떨어져도 당분간 소비자 체감 물가에 직접 영향을 주긴 어려울 거란 분석도 나옵니다.\n\n윤솔 기자입니다.\n\n[기자]\n\n전국 주유소 기름값이 25주 연속 내렸지만, 소비자들은 피부로 느끼기 어려운 상황입니다.\n\n&lt;이광식 / 서울 금천구&gt; \"지방 출장도 많이 다니는데 지방 고속도로 주유소나 휴게소 주유소나 아니면 그냥 일반 동네 주유소를 가더라도 내려가는 건 전혀 체감을 못하고 있어요.\"\n\n한 주 동안 내려간 액수가 1원도 되지 않아 사실상 제자리걸음이기 때문입니다.\n\n이번 달 첫째 주 휘발유 평균 판매 가격은 리터당 1,855.4원으로 한 주 전보다 0.3원 내렸고, 경유는 1,842원으로 0.1원 내리는 데 그쳤습니다.\n\n휘발유는 지난 9월 셋째 주부터, 경유는 지난 8월 넷째 주부터 내림폭이 1원도 안 되고, 두 유종 모두 넉 달 남짓 1,800원대에 머물러 있습니다.\n\n이란 전쟁 종전 기대감에 두바이유가 한 주 새 배럴당 15달러 넘게 내렸지만, 국내 기름값에 당장 미칠 효과는 크지 않을 거란 전망입니다.\n\n국제유가가 우리 기름값에 반영되기까지 통상 2주에서 3주 정도의 시간이 걸리는 데다 정부의 최고가격제 시행으로 국내 기름값 추가 하락 여력이 제한적이라는 겁니다.\n\n&lt;석병훈 / 이화여대 경제학과 교수&gt; \"국제유가가 하락을 했다 할지라도 여전히 석유제품 가격보다는 정부가 설정한 석유 가격 상한이 낮을 가능성이 있어요. (최고가격제가) 지금처럼 하락하는 시기에는 오히려 하방경직성을 키우는 가능성이 있다…\"\n\n이달 말 종료 예정인 정부의 유류세 인하 조치가 연장될지도 변수입니다.\n\n&lt;양준석 / 가톨릭대 경제학과 교수&gt; \"이미 우리가 코로나 전에 비교해서는 낮은 상태예요. 정부 차원에서는 유류세를 더 낮추고 싶을까…\"\n\n기름값이 물가 상승을 견인해 온 가운데, 추가 상승 압력이 남아 있는 한 소비자들이 체감하는 부담도 당장 줄어들긴 어려울 전망입니다.\n\n연합뉴스TV 윤솔입니다.\n\n[영상취재 문원철]\n\n[영상편집 고종필]\n\n[그래픽 문수진]\n\n[뉴스리뷰]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤솔(solemio@yna.co.kr)",
-          "content:encodedSnippet": "[앵커]\n\n전국 주유소 기름값이 반년 가까이 하락세지만 넉 달 넘게 리터(L)당 1,800원대를 벗어나지 못하고 있습니다.\n\n국제유가가 떨어져도 당분간 소비자 체감 물가에 직접 영향을 주긴 어려울 거란 분석도 나옵니다.\n\n윤솔 기자입니다.\n\n[기자]\n\n전국 주유소 기름값이 25주 연속 내렸지만, 소비자들은 피부로 느끼기 어려운 상황입니다.\n\n<이광식 / 서울 금천구> \"지방 출장도 많이 다니는데 지방 고속도로 주유소나 휴게소 주유소나 아니면 그냥 일반 동네 주유소를 가더라도 내려가는 건 전혀 체감을 못하고 있어요.\"\n\n한 주 동안 내려간 액수가 1원도 되지 않아 사실상 제자리걸음이기 때문입니다.\n\n이번 달 첫째 주 휘발유 평균 판매 가격은 리터당 1,855.4원으로 한 주 전보다 0.3원 내렸고, 경유는 1,842원으로 0.1원 내리는 데 그쳤습니다.\n\n휘발유는 지난 9월 셋째 주부터, 경유는 지난 8월 넷째 주부터 내림폭이 1원도 안 되고, 두 유종 모두 넉 달 남짓 1,800원대에 머물러 있습니다.\n\n이란 전쟁 종전 기대감에 두바이유가 한 주 새 배럴당 15달러 넘게 내렸지만, 국내 기름값에 당장 미칠 효과는 크지 않을 거란 전망입니다.\n\n국제유가가 우리 기름값에 반영되기까지 통상 2주에서 3주 정도의 시간이 걸리는 데다 정부의 최고가격제 시행으로 국내 기름값 추가 하락 여력이 제한적이라는 겁니다.\n\n<석병훈 / 이화여대 경제학과 교수> \"국제유가가 하락을 했다 할지라도 여전히 석유제품 가격보다는 정부가 설정한 석유 가격 상한이 낮을 가능성이 있어요. (최고가격제가) 지금처럼 하락하는 시기에는 오히려 하방경직성을 키우는 가능성이 있다…\"\n\n이달 말 종료 예정인 정부의 유류세 인하 조치가 연장될지도 변수입니다.\n\n<양준석 / 가톨릭대 경제학과 교수> \"이미 우리가 코로나 전에 비교해서는 낮은 상태예요. 정부 차원에서는 유류세를 더 낮추고 싶을까…\"\n\n기름값이 물가 상승을 견인해 온 가운데, 추가 상승 압력이 남아 있는 한 소비자들이 체감하는 부담도 당장 줄어들긴 어려울 전망입니다.\n\n연합뉴스TV 윤솔입니다.\n\n[영상취재 문원철]\n\n[영상편집 고종필]\n\n[그래픽 문수진]\n\n[뉴스리뷰]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤솔(solemio@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261107/MYH20261107193005JM9.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "윤솔",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261107193005JM9#comments",
-          "content": "[앵커] 전국 주유소 기름값이 반년 가까이 하락세지만 넉 달 넘게 리터(L)당 1,800원대를 벗어나지 못하고 있습니다. 국제유가가 떨어져도 당분간 소비자 체감 물가에 직접 영향을 주긴 어려울 거란 분석도 나옵니다. 윤솔 기자입니다. [기자] 전국 주유소 기름값이 25주 연속 내렸지만, 소비자들은 피부로 느끼기 어려운 상황입니다. &lt;이광식 / 서울 금천구&gt; \"지방 출장도 많이 다니는데 지방 고속도로 주유소나 휴게소 주유소나 아니...",
-          "contentSnippet": "[앵커] 전국 주유소 기름값이 반년 가까이 하락세지만 넉 달 넘게 리터(L)당 1,800원대를 벗어나지 못하고 있습니다. 국제유가가 떨어져도 당분간 소비자 체감 물가에 직접 영향을 주긴 어려울 거란 분석도 나옵니다. 윤솔 기자입니다. [기자] 전국 주유소 기름값이 25주 연속 내렸지만, 소비자들은 피부로 느끼기 어려운 상황입니다. <이광식 / 서울 금천구> \"지방 출장도 많이 다니는데 지방 고속도로 주유소나 휴게소 주유소나 아니...",
-          "guid": "MYH20261107193005JM9",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-07T10:30:07.000Z"
         }
       ]
     }
