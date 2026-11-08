@@ -7,6 +7,116 @@
       "priority": 1,
       "data": [
         {
+          "title": "AI 매도세, 잘 알려진 과거 증시 폭락과 비교하기",
+          "link": "https://news.hada.io/topic?id=36826&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-08T18:36:34.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>2026년 11월 6일 종가 기준 <strong>S&amp;P 500은 사상 최고치 대비 5.7% 하락</strong>해, 과거 주요 증시 폭락과 비교하면 완만한 조정 수준임</li><li>같은 시점 <strong>Nasdaq은 10.9%, 미국 반도체주는 35.8% 하락</strong>했으며, 반도체주 낙폭은 코로나19 당시의 35.0%에 맞먹음</li><li>1928년 이후 S&amp;P 500이 최고치에서 6% 이상 하락한 56차례 중 <strong>약 80%는 낙폭이 20%에 이르지 않았음</strong></li><li>고점 회복 기간은 지수와 위기에 따라 크게 달랐으며, <strong>닷컴 붕괴 이후 S&amp;P 500은 7.2년, 반도체주는 17.7년</strong>이 걸렸음</li><li>비교는 <strong>배당을 제외한 종가 기준</strong>이며, 회복 기간은 최고점에서 매수한 경우에</li></ul></div>…",
+          "contentSnippet": "2026년 11월 6일 종가 기준 S&P 500은 사상 최고치 대비 5.7% 하락해, 과거 주요 증시 폭락과 비교하면 완만한 조정 수준임\n같은 시점 Nasdaq은 10.9%, 미국 반도체주는 35.8% 하락했으며, 반도체주 낙폭은 코로나19 당시의 35.0%에 맞먹음\n1928년 이후 S&P 500이 최고치에서 6% 이상 하락한 56차례 중 약 80%는 낙폭이 20%에 이르지 않았음\n고점 회복 기간은 지수와 위기에 따라 크게 달랐으며, 닷컴 붕괴 이후 S&P 500은 7.2년, 반도체주는 17.7년이 걸렸음\n비교는 배당을 제외한 종가 기준이며, 회복 기간은 최고점에서 매수한 경우에\n\n…",
+          "id": "https://news.hada.io/topic?id=36826",
+          "isoDate": "2026-11-08T18:36:34.000Z"
+        },
+        {
+          "title": "ISponsorBlockTV: 모든 YouTube TV 클라이언트를 위한 SponsorBlock 클라이언트",
+          "link": "https://news.hada.io/topic?id=36825&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-08T18:33:34.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>iSponsorBlockTV</strong>는 TV용 YouTube 앱에 연결해 SponsorBlock API로 영상의 스폰서 구간과 인트로 등을 자동으로 건너뛰는 셀프 호스팅 애플리케이션임</li><li>YouTube 광고를 <strong>자동으로 음소거</strong>하고, <strong>“Skip Ad” 버튼</strong>이 활성화되는 즉시 누를 수 있음</li><li><strong>Apple TV, 스마트 TV, 스트리밍 기기, 게임 콘솔</strong>의 TV용 YouTube 앱에서 동작하며, Android TV, Chromecast, Roku, PlayStation 4/5 등도 지원함</li><li>실행 컴퓨터는 <strong>youtube.com에 접속</strong>할 수 있으면 되며, TV 기기와 같은 네트워크에 있을 필요는 없음</li><li><strong>Shorts는 완전히 지원하지 않으며</strong>, Apple TV에서</li></ul></div>…",
+          "contentSnippet": "iSponsorBlockTV는 TV용 YouTube 앱에 연결해 SponsorBlock API로 영상의 스폰서 구간과 인트로 등을 자동으로 건너뛰는 셀프 호스팅 애플리케이션임\nYouTube 광고를 자동으로 음소거하고, “Skip Ad” 버튼이 활성화되는 즉시 누를 수 있음\nApple TV, 스마트 TV, 스트리밍 기기, 게임 콘솔의 TV용 YouTube 앱에서 동작하며, Android TV, Chromecast, Roku, PlayStation 4/5 등도 지원함\n실행 컴퓨터는 youtube.com에 접속할 수 있으면 되며, TV 기기와 같은 네트워크에 있을 필요는 없음\nShorts는 완전히 지원하지 않으며, Apple TV에서\n\n…",
+          "id": "https://news.hada.io/topic?id=36825",
+          "isoDate": "2026-11-08T18:33:34.000Z"
+        },
+        {
+          "title": "Deno의 보안 모델이 마음에 들지 않는 이유 (2024)",
+          "link": "https://news.hada.io/topic?id=36824&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-08T18:02:22.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>Deno의 <strong>권한 시스템</strong>은 표준 라이브러리 접근을 제한하지만 프로세스 자체를 샌드박스화하지 않아, 신뢰할 수 없는 코드를 안전하게 실행한다는 잘못된 안도감을 줄 수 있음</li><li><strong>런타임 권한 프롬프트</strong>가 공격자 코드도 제어할 수 있는 터미널을 사용하므로, 화면을 조작하거나 승인 입력을 유도하는 공격에 노출됨</li><li><strong><code>--allow-run=명령어</code></strong> 는 실행 파일의 정체성과 실행 환경까지 제한하지 못하며, <code>PATH</code>나 프로그램 설정용 환경 변수를 통해 의도하지 않은 코드를 실행할 수 있음</li><li>특정 환경 변수를 차단하는 개별 패치만으로는 충분하지 않으며, 외</li></ul></div>…",
+          "contentSnippet": "Deno의 권한 시스템은 표준 라이브러리 접근을 제한하지만 프로세스 자체를 샌드박스화하지 않아, 신뢰할 수 없는 코드를 안전하게 실행한다는 잘못된 안도감을 줄 수 있음\n런타임 권한 프롬프트가 공격자 코드도 제어할 수 있는 터미널을 사용하므로, 화면을 조작하거나 승인 입력을 유도하는 공격에 노출됨\n--allow-run=명령어 는 실행 파일의 정체성과 실행 환경까지 제한하지 못하며, PATH나 프로그램 설정용 환경 변수를 통해 의도하지 않은 코드를 실행할 수 있음\n특정 환경 변수를 차단하는 개별 패치만으로는 충분하지 않으며, 외\n\n…",
+          "id": "https://news.hada.io/topic?id=36824",
+          "isoDate": "2026-11-08T18:02:22.000Z"
+        },
+        {
+          "title": "사고 도구로서의 글쓰기",
+          "link": "https://news.hada.io/topic?id=36823&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-08T17:44:55.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>글쓰기는 정보를 저장하는 데 그치지 않고, <strong>생각을 외부화해 처리하는 도구</strong>임. 머릿속 내용을 종이에 펼치면서 더 큰 생각을 다루고 이해의 빈틈을 발견할 수 있음</li><li>논문 리뷰와 <strong>자유 글쓰기</strong>는 이미 안다고 생각한 내용을 다시 이해하고 새로운 연결을 찾는 과정임. Paxos와 Nakamoto 합의의 유사성을 탐색한 블로그 글이 연구 논문의 씨앗이 된 경험도 있음</li><li><strong>LLM이 만든 문서</strong>는 사람이 직접 생각했다는 증거가 되지 못함. 모델과 대화를 곧바로 시작하면 자신의 미완성 직관을 글로 탐색할 기회를 잃을 수 있음</li><li>초안에서는 <strong>판단을 유보하고</strong></li></ul></div>…",
+          "contentSnippet": "글쓰기는 정보를 저장하는 데 그치지 않고, 생각을 외부화해 처리하는 도구임. 머릿속 내용을 종이에 펼치면서 더 큰 생각을 다루고 이해의 빈틈을 발견할 수 있음\n논문 리뷰와 자유 글쓰기는 이미 안다고 생각한 내용을 다시 이해하고 새로운 연결을 찾는 과정임. Paxos와 Nakamoto 합의의 유사성을 탐색한 블로그 글이 연구 논문의 씨앗이 된 경험도 있음\nLLM이 만든 문서는 사람이 직접 생각했다는 증거가 되지 못함. 모델과 대화를 곧바로 시작하면 자신의 미완성 직관을 글로 탐색할 기회를 잃을 수 있음\n초안에서는 판단을 유보하고\n\n…",
+          "id": "https://news.hada.io/topic?id=36823",
+          "isoDate": "2026-11-08T17:44:55.000Z"
+        },
+        {
+          "title": "OpenAI, 기업가치 약 1,625조원으로 약 14조 3,000억원 조달",
+          "link": "https://news.hada.io/topic?id=36822&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-08T17:41:55.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>OpenAI가 <strong>투자 전 기업가치 1조 2,500억 달러($1.25t)</strong> 로 투자 라운드의 첫 <strong>약 110억 달러($11b)</strong> 를 확보함. 조달 규모와 평가액 모두 당초 보도된 목표보다 낮음</li><li>추가 투자까지 성사되면 총 조달액은 <strong>최대 200억 달러</strong>에 이를 수 있으나, 후속 최대 90억 달러는 아직 확정되지 않음</li><li>CFO Sarah Friar에 따르면 3분기 사업은 <strong>전 분기 대비 70% 성장</strong>하고 기업 대상 사업은 두 배가 됐지만, 매출액 자체는 공개하지 않음</li><li><strong>Microsoft</strong>는 OpenAI 지분 평가이익을 통해 영향을 받는 반면, <strong>NVIDIA</strong>는 AI 연구기업들이 컴퓨팅 투자를 위한 자금을 얼마</li></ul></div>…",
+          "contentSnippet": "OpenAI가 투자 전 기업가치 1조 2,500억 달러($1.25t) 로 투자 라운드의 첫 약 110억 달러($11b) 를 확보함. 조달 규모와 평가액 모두 당초 보도된 목표보다 낮음\n추가 투자까지 성사되면 총 조달액은 최대 200억 달러에 이를 수 있으나, 후속 최대 90억 달러는 아직 확정되지 않음\nCFO Sarah Friar에 따르면 3분기 사업은 전 분기 대비 70% 성장하고 기업 대상 사업은 두 배가 됐지만, 매출액 자체는 공개하지 않음\nMicrosoft는 OpenAI 지분 평가이익을 통해 영향을 받는 반면, NVIDIA는 AI 연구기업들이 컴퓨팅 투자를 위한 자금을 얼마\n\n…",
+          "id": "https://news.hada.io/topic?id=36822",
+          "isoDate": "2026-11-08T17:41:55.000Z"
+        },
+        {
+          "title": "Tesla, JB Straubel 퇴임 이후 성공적인 신제품 출시 없어",
+          "link": "https://news.hada.io/topic?id=36821&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-08T17:38:55.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>Tesla는 <strong>JB Straubel이 CTO에서 물러난 2019년 7월 이후</strong>, Model 3와 Model Y의 뒤를 이을 중대한 신제품 성공을 내놓지 못함</li><li><strong>Cybertruck</strong>은 대규모 예약과 판매 목표에 못 미쳤고, 실제 가격은 당초 예고의 약 2배, 주행거리는 약 절반에 그쳐 기대했던 제품과 크게 달라짐</li><li><strong>Model Y와 Megapack</strong>은 Straubel 퇴임 직전 또는 같은 달에 공개되거나 출시됐으며, 이후 점진적 개선은 이어졌지만 신제품 개발 리더십은 예전 같지 않아 보임</li><li>Straubel이 Musk의 과도한 구상을 현실적으로 조율했을 가능성은 있지만, <strong>실제 영향력과 퇴임 이유</strong>는 충</li></ul></div>…",
+          "contentSnippet": "Tesla는 JB Straubel이 CTO에서 물러난 2019년 7월 이후, Model 3와 Model Y의 뒤를 이을 중대한 신제품 성공을 내놓지 못함\nCybertruck은 대규모 예약과 판매 목표에 못 미쳤고, 실제 가격은 당초 예고의 약 2배, 주행거리는 약 절반에 그쳐 기대했던 제품과 크게 달라짐\nModel Y와 Megapack은 Straubel 퇴임 직전 또는 같은 달에 공개되거나 출시됐으며, 이후 점진적 개선은 이어졌지만 신제품 개발 리더십은 예전 같지 않아 보임\nStraubel이 Musk의 과도한 구상을 현실적으로 조율했을 가능성은 있지만, 실제 영향력과 퇴임 이유는 충\n\n…",
+          "id": "https://news.hada.io/topic?id=36821",
+          "isoDate": "2026-11-08T17:38:55.000Z"
+        },
+        {
+          "title": "Ask GN: 앱 프로모션 코드나 라이선스 키, 어떻게 관리하고 배포하시나요?",
+          "link": "https://news.hada.io/topic?id=36820&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-08T17:12:52.000Z",
+          "author": "chen2he",
+          "content": "<div><p>앱을 운영하면서 App Store 프로모션 코드, 파트너에게 줄 라이선스 키, 할인 코드 같은 것들을 나눠 줄 일이 꽤 많은데, 다른 분들은 어떻게 하고 계신지 궁금합니다.<br> 특히 궁금한 부분은 다음과 같습니다.<br> 1 코드를 어디에 보관하시나요? (스프레드시트, 노션, 직접 만든 DB, 외부 서비스 등)<br> 2 누가 받았는지, 몇 개 남았는지 어떻게 추적하시나요?<br> 3 이벤트나 커뮤니티에 배포할 때 한 사람이 여러 개 가져가는 걸 어떻게 막으시나요?<br> 4 유료 판매(라이선스 키 등)라면 결제와 코드 발급을 어떻게 연결하셨나요? 환불 시 코드 회</p></div>…",
+          "contentSnippet": "앱을 운영하면서 App Store 프로모션 코드, 파트너에게 줄 라이선스 키, 할인 코드 같은 것들을 나눠 줄 일이 꽤 많은데, 다른 분들은 어떻게 하고 계신지 궁금합니다.\n 특히 궁금한 부분은 다음과 같습니다.\n 1 코드를 어디에 보관하시나요? (스프레드시트, 노션, 직접 만든 DB, 외부 서비스 등)\n 2 누가 받았는지, 몇 개 남았는지 어떻게 추적하시나요?\n 3 이벤트나 커뮤니티에 배포할 때 한 사람이 여러 개 가져가는 걸 어떻게 막으시나요?\n 4 유료 판매(라이선스 키 등)라면 결제와 코드 발급을 어떻게 연결하셨나요? 환불 시 코드 회\n…",
+          "id": "https://news.hada.io/topic?id=36820",
+          "isoDate": "2026-11-08T17:12:52.000Z"
+        },
+        {
+          "title": "소비자용 뇌파 헤드셋, 개인정보 보호를 위협하다",
+          "link": "https://news.hada.io/topic?id=36819&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-08T16:46:38.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>소비자용 신경기술 기업들이 축적한 <strong>수천만 시간의 뇌파 데이터</strong>가 AI 뇌 모델 개발에 쓰이고 있으며, 일부 기업은 이를 개인정보 처리방침에 명시하지 않은 채 학습을 진행함</li><li>Muse 개발사 <strong>Interaxon</strong>은 사용자 EEG 데이터 약 5만 시간으로 모델을 학습했지만, AI 학습 용도를 명시적으로 알리지 않았고 취재 이후 처리방침을 수정함</li><li><strong>뇌 파운데이션 모델</strong>은 신경 활동의 패턴을 학습해 수면 분석이나 질환 탐지 등에 활용하는 기술이지만, 소비자 기기의 데이터 품질과 범용 모델의 실현 가능성에는 한계와 의문이 있음</li><li>EEG 데이터를 수집하</li></ul></div>…",
+          "contentSnippet": "소비자용 신경기술 기업들이 축적한 수천만 시간의 뇌파 데이터가 AI 뇌 모델 개발에 쓰이고 있으며, 일부 기업은 이를 개인정보 처리방침에 명시하지 않은 채 학습을 진행함\nMuse 개발사 Interaxon은 사용자 EEG 데이터 약 5만 시간으로 모델을 학습했지만, AI 학습 용도를 명시적으로 알리지 않았고 취재 이후 처리방침을 수정함\n뇌 파운데이션 모델은 신경 활동의 패턴을 학습해 수면 분석이나 질환 탐지 등에 활용하는 기술이지만, 소비자 기기의 데이터 품질과 범용 모델의 실현 가능성에는 한계와 의문이 있음\nEEG 데이터를 수집하\n\n…",
+          "id": "https://news.hada.io/topic?id=36819",
+          "isoDate": "2026-11-08T16:46:38.000Z"
+        },
+        {
+          "title": "Petered - 역량의 한계에 도달한 리더와 실제로 자격을 가장하는 사람들",
+          "link": "https://news.hada.io/topic?id=36818&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-08T16:43:38.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>피터의 법칙</strong>에 따라 역량의 한계까지 승진한 사람은 그 자리에 머무르기만 하는 것이 아니라, 경력을 잃을 압박 속에서 더 위험한 선택을 할 수 있음</li><li><strong>경력 압박</strong>을 받는 사람은 조직의 더러운 일을 충성스럽게 수행해 가치를 다시 인정받거나, 상사를 방해해 자리를 비우게 하는 방식으로 더 높이 올라갈 수 있음</li><li>실제 책임을 수행하지 못하면서 유능해 보여야 하는 리더에게 <strong>불투명성</strong>은 중요한 도구이며, 모호한 말과 분주함으로 자신이 무엇을 얼마나 잘하는지 알기 어렵게 만듦</li><li><strong>가면 현상(imposter phenomena)</strong> 을 가면 증후군으로 바꿔</li></ul></div>…",
+          "contentSnippet": "피터의 법칙에 따라 역량의 한계까지 승진한 사람은 그 자리에 머무르기만 하는 것이 아니라, 경력을 잃을 압박 속에서 더 위험한 선택을 할 수 있음\n경력 압박을 받는 사람은 조직의 더러운 일을 충성스럽게 수행해 가치를 다시 인정받거나, 상사를 방해해 자리를 비우게 하는 방식으로 더 높이 올라갈 수 있음\n실제 책임을 수행하지 못하면서 유능해 보여야 하는 리더에게 불투명성은 중요한 도구이며, 모호한 말과 분주함으로 자신이 무엇을 얼마나 잘하는지 알기 어렵게 만듦\n가면 현상(imposter phenomena) 을 가면 증후군으로 바꿔\n\n…",
+          "id": "https://news.hada.io/topic?id=36818",
+          "isoDate": "2026-11-08T16:43:38.000Z"
+        },
+        {
+          "title": "에이전트 메모리에도 OpenTelemetry 같은 전환점이 필요함",
+          "link": "https://news.hada.io/topic?id=36817&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-08T16:40:38.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>코딩 에이전트마다 메모리 형식이 달라 한 도구가 학습한 내용을 다른 도구가 읽지 못하며, 필요한 것은 새 도구보다 <strong>공통 형식에 대한 합의</strong>임</li><li><strong>OpenTelemetry</strong>가 데이터 모델, 의미 규약, 프로토콜을 공동 표준으로 만들고 저장과 분석은 경쟁 영역으로 남겼듯, 에이전트 메모리도 공유할 기반과 차별화할 기능을 나눌 수 있음</li><li>기존 이식성 제안은 주로 업체 간 <strong>내보내기</strong>를 해결하지만, 같은 저장소에서 동시에 일하는 CI 에이전트와 편집기, 리뷰 봇이 동일한 메모리를 읽고 쓰는 <strong>실시간 주소 지정</strong>도 필요함</li><li>공통 레코드는 메모리의 적용</li></ul></div>…",
+          "contentSnippet": "코딩 에이전트마다 메모리 형식이 달라 한 도구가 학습한 내용을 다른 도구가 읽지 못하며, 필요한 것은 새 도구보다 공통 형식에 대한 합의임\nOpenTelemetry가 데이터 모델, 의미 규약, 프로토콜을 공동 표준으로 만들고 저장과 분석은 경쟁 영역으로 남겼듯, 에이전트 메모리도 공유할 기반과 차별화할 기능을 나눌 수 있음\n기존 이식성 제안은 주로 업체 간 내보내기를 해결하지만, 같은 저장소에서 동시에 일하는 CI 에이전트와 편집기, 리뷰 봇이 동일한 메모리를 읽고 쓰는 실시간 주소 지정도 필요함\n공통 레코드는 메모리의 적용\n\n…",
+          "id": "https://news.hada.io/topic?id=36817",
+          "isoDate": "2026-11-08T16:40:38.000Z"
+        },
+        {
+          "title": "Llama-modchip: GPU 없이 64GB RAM에서 284B DeepSeek 실행",
+          "link": "https://news.hada.io/topic?id=36816&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-08T15:32:37.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>llama-modchip</strong>은 모델 압축과 CPU 커널 최적화를 결합해 DeepSeek-V4-Flash 284B를 64GB RAM에서 실행함. 프로젝트 측 측정에서 256K 컨텍스트의 메모리 사용량은 <strong>57.61~58.9GiB</strong>이며, NVMe 스왑을 사용하지 않음</li><li><strong>SwiGLU-H2 압축과 Fractal-64 변환</strong>으로 모델 파일을 76.87GiB에서 56.56GiB로 줄이고, 레지스터와 L1/L2/L3 캐시에 걸친 타일링으로 연산을 최적화함</li><li>Ryzen 9 9955HX에서 DeepSeek 284B의 <strong>프리필은 최대 44.36토큰/초</strong>, 기본 Top-6 디코딩은 9.06~9.95토큰/초를 기록함. Stockfish-PVS를 적용하면 11.5~14.7토큰/초로 높아짐</li><li><strong>N</strong></li></ul></div>…",
+          "contentSnippet": "llama-modchip은 모델 압축과 CPU 커널 최적화를 결합해 DeepSeek-V4-Flash 284B를 64GB RAM에서 실행함. 프로젝트 측 측정에서 256K 컨텍스트의 메모리 사용량은 57.61~58.9GiB이며, NVMe 스왑을 사용하지 않음\nSwiGLU-H2 압축과 Fractal-64 변환으로 모델 파일을 76.87GiB에서 56.56GiB로 줄이고, 레지스터와 L1/L2/L3 캐시에 걸친 타일링으로 연산을 최적화함\nRyzen 9 9955HX에서 DeepSeek 284B의 프리필은 최대 44.36토큰/초, 기본 Top-6 디코딩은 9.06~9.95토큰/초를 기록함. Stockfish-PVS를 적용하면 11.5~14.7토큰/초로 높아짐\nN\n\n…",
+          "id": "https://news.hada.io/topic?id=36816",
+          "isoDate": "2026-11-08T15:32:37.000Z"
+        },
+        {
           "title": "Ozempic 계열 약물, 심부전과 중독 넘어 노화까지 임상시험 중",
           "link": "https://news.hada.io/topic?id=36814&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
           "pubDate": "2026-11-08T14:33:27.000Z",
@@ -95,116 +205,6 @@
           "contentSnippet": "Bloomberg News에 따르면 Microsoft는 수십억 달러 규모의 클라우드 제휴 재검토의 일환으로 Oracle 계약을 갱신하지 않고 최근 수개월간 임대한 AI 컴퓨팅 용량의 사용을 중단해 왔음\n임대한 인프라는 이전 세대 Nvidia 칩을 사용하며, Microsoft의 변화하는 요구를 충족하지 못해 시간이 흐를수록 활용 가치가 낮아진 것으로 전해짐\nOracle은 이전 세대 GPU를 포함한 OCI AI 인프라 수요가 여전히 강하다고 밝혔으며, Microsoft는 Reuters의 논평 요청에 즉각 응답하지 않음\nIREN은 Microsoft의 네트워크 설계 변경 요청으로 일부 인프\n\n…",
           "id": "https://news.hada.io/topic?id=36802",
           "isoDate": "2026-11-08T10:31:49.000Z"
-        },
-        {
-          "title": "Kalshi, 주 도박법 집행을 막으려는 요청이 잇따라 기각되며 법정 패배 누적",
-          "link": "https://news.hada.io/topic?id=36801&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-08T09:44:16.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>연방 항소법원 두 곳이 <strong>Kalshi의 도박법 집행 저지 시도</strong>를 코네티컷, 뉴욕, 네바다 사건에서 받아들이지 않았으며, 아칸소 법무장관도 별도 소송을 제기함</li><li>핵심 쟁점은 예측시장 거래가 연방 규제기관 <strong>CFTC만 관할하는 스왑</strong>인지, 주 정부가 도박법으로 규제할 수 있는 베팅인지에 있음</li><li>아칸소는 Kalshi가 면허, 감독, 세금 등 도박 사업자 의무를 따르지 않고 <strong>18세 이용자에게도 베팅을 허용</strong>했다며 주법 위반을 주장함</li><li>트럼프 행정부는 Kalshi 편에서 <strong>연방의 독점 규제 권한</strong>을 주장하며, 예측시장에 도박법을 집행하려는 10개 주를 상대로</li></ul></div>…",
-          "contentSnippet": "연방 항소법원 두 곳이 Kalshi의 도박법 집행 저지 시도를 코네티컷, 뉴욕, 네바다 사건에서 받아들이지 않았으며, 아칸소 법무장관도 별도 소송을 제기함\n핵심 쟁점은 예측시장 거래가 연방 규제기관 CFTC만 관할하는 스왑인지, 주 정부가 도박법으로 규제할 수 있는 베팅인지에 있음\n아칸소는 Kalshi가 면허, 감독, 세금 등 도박 사업자 의무를 따르지 않고 18세 이용자에게도 베팅을 허용했다며 주법 위반을 주장함\n트럼프 행정부는 Kalshi 편에서 연방의 독점 규제 권한을 주장하며, 예측시장에 도박법을 집행하려는 10개 주를 상대로\n\n…",
-          "id": "https://news.hada.io/topic?id=36801",
-          "isoDate": "2026-11-08T09:44:16.000Z"
-        },
-        {
-          "title": "기억에 남는 프로그래밍 책 다섯 권 (2008)",
-          "link": "https://news.hada.io/topic?id=36800&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-08T09:41:16.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>널리 알려진 고전 대신, 프로그래밍에 대한 사고에 영향을 준 <strong>비주류 책 다섯 권</strong>을 골라 최적화, 실제 문제 해결, 창의성, 코드 구조화를 살펴봄</li><li><strong>Zen of Assembly Language</strong>는 독학으로 익힌 어셈블리 기법을 해부하고 확장한 책으로, 주로 8088/8086 최적화를 다루지만 80486이 고급 데스크톱에 등장할 무렵 출간됨</li><li><strong>Scientific Forth</strong>와 <strong>Fractals, Visualization, and J</strong>는 언어 설명을 위한 장난감 예제 대신, 각 분야 전문가가 실제 문제를 해결하는 본격적인 프로그램으로 언어의 쓰임을 보여줌</li><li><strong>Programmers At Work</strong>는 유명하거나 개성 </li></ul></div>…",
-          "contentSnippet": "널리 알려진 고전 대신, 프로그래밍에 대한 사고에 영향을 준 비주류 책 다섯 권을 골라 최적화, 실제 문제 해결, 창의성, 코드 구조화를 살펴봄\nZen of Assembly Language는 독학으로 익힌 어셈블리 기법을 해부하고 확장한 책으로, 주로 8088/8086 최적화를 다루지만 80486이 고급 데스크톱에 등장할 무렵 출간됨\nScientific Forth와 Fractals, Visualization, and J는 언어 설명을 위한 장난감 예제 대신, 각 분야 전문가가 실제 문제를 해결하는 본격적인 프로그램으로 언어의 쓰임을 보여줌\nProgrammers At Work는 유명하거나 개성 \n\n…",
-          "id": "https://news.hada.io/topic?id=36800",
-          "isoDate": "2026-11-08T09:41:16.000Z"
-        },
-        {
-          "title": "촬영 후 무료로 공개된 모든 프로세서 다이 사진",
-          "link": "https://news.hada.io/topic?id=36799&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-08T09:38:16.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>1972~2024년 프로세서 356개</strong>의 다이 사진을 모아, 칩 내부의 실리콘을 살펴볼 수 있는 시각화임</li><li>다이를 촬영하려면 프로세서 <strong>패키지를 갈아내거나 용해</strong>한 뒤, 남은 실리콘을 현미경으로 찍어야 함</li><li>칩을 클릭하면 사진을 크게 볼 수 있으며, <strong>True scale</strong>은 크기가 알려진 114개 다이를 동일한 축척으로 표시함</li><li>Intel 8008부터 AMD Zen 5 CCD까지, PC와 서버 프로세서뿐 아니라 <strong>게임기 CPU, SoC, I/O 다이</strong>도 포함함</li><li><strong>소수의 촬영자가 누구나 사용할 수 있도록 공개한 사진</strong>을 바탕으로 하며, Pauli Rautakorpi, ZeptoBars, John McMaster, Fri</li></ul></div>…",
-          "contentSnippet": "1972~2024년 프로세서 356개의 다이 사진을 모아, 칩 내부의 실리콘을 살펴볼 수 있는 시각화임\n다이를 촬영하려면 프로세서 패키지를 갈아내거나 용해한 뒤, 남은 실리콘을 현미경으로 찍어야 함\n칩을 클릭하면 사진을 크게 볼 수 있으며, True scale은 크기가 알려진 114개 다이를 동일한 축척으로 표시함\nIntel 8008부터 AMD Zen 5 CCD까지, PC와 서버 프로세서뿐 아니라 게임기 CPU, SoC, I/O 다이도 포함함\n소수의 촬영자가 누구나 사용할 수 있도록 공개한 사진을 바탕으로 하며, Pauli Rautakorpi, ZeptoBars, John McMaster, Fri\n\n…",
-          "id": "https://news.hada.io/topic?id=36799",
-          "isoDate": "2026-11-08T09:38:16.000Z"
-        },
-        {
-          "title": "숫자 2 네 개로 모든 정수 만들기 (2025)",
-          "link": "https://news.hada.io/topic?id=36797&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-08T08:31:43.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>숫자 <strong>2를 정확히 네 번</strong> 쓰고 다른 숫자 없이 수학 연산만으로 주어진 자연수를 만드는 퍼즐은, 허용하는 연산에 따라 다양한 수준에서 풀 수 있음</li><li>사칙연산에서 <strong>거듭제곱, 팩토리얼</strong>로 범위를 넓히거나 2를 이어 붙여 22나 222로 사용하면 더 많은 수를 만들 수 있음</li><li>만들기 까다로운 <strong>7</strong>도 감마 함수를 허용하면 (\\Gamma(2)+2+2+2)로 표현할 수 있으며, 복소수를 활용하는 풀이도 있음</li><li><strong>Paul Dirac의 일반해</strong>는 2에 제곱근을 (n)번 적용한 뒤 밑이 2인 로그를 두 번 취하고 부호를 바꿔 목표 자연수 (n)을 얻음</li><li>일반해에 쓰인 2는 세 개지만,</li></ul></div>…",
-          "contentSnippet": "숫자 2를 정확히 네 번 쓰고 다른 숫자 없이 수학 연산만으로 주어진 자연수를 만드는 퍼즐은, 허용하는 연산에 따라 다양한 수준에서 풀 수 있음\n사칙연산에서 거듭제곱, 팩토리얼로 범위를 넓히거나 2를 이어 붙여 22나 222로 사용하면 더 많은 수를 만들 수 있음\n만들기 까다로운 7도 감마 함수를 허용하면 (\\Gamma(2)+2+2+2)로 표현할 수 있으며, 복소수를 활용하는 풀이도 있음\nPaul Dirac의 일반해는 2에 제곱근을 (n)번 적용한 뒤 밑이 2인 로그를 두 번 취하고 부호를 바꿔 목표 자연수 (n)을 얻음\n일반해에 쓰인 2는 세 개지만,\n\n…",
-          "id": "https://news.hada.io/topic?id=36797",
-          "isoDate": "2026-11-08T08:31:43.000Z"
-        },
-        {
-          "title": "GitHub, 새로운 풀 리퀘스트 개요 페이지 공개 프리뷰 시작",
-          "link": "https://news.hada.io/topic?id=36796&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-08T07:32:08.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>GitHub이 선택적으로 활성화할 수 있는 <strong>개요(Overview) 페이지</strong>를 공개 프리뷰로 제공함. 병합 상태와 다음에 가능한 작업을 페이지 상단에 모아 진행을 막는 요인을 확인하기 쉽게 함</li><li><strong>병합 상자</strong>를 재설계해 기존과 같은 정보를 절반 미만의 공간에 표시하며, 검사 결과와 승인 상태 확인부터 브랜치 업데이트와 병합까지 이어갈 수 있음</li><li><strong>대화 필터</strong>로 미해결 대화나 자신이 작성한 댓글을 추리고, 최신순 댓글 정렬로 필요한 논의와 후속 작업을 찾을 수 있음</li><li>오른쪽 상단의 <strong>활동 요약</strong>에서 리뷰 댓글과 리뷰 요청 등을 확인하고, 권한에 따</li></ul></div>…",
-          "contentSnippet": "GitHub이 선택적으로 활성화할 수 있는 개요(Overview) 페이지를 공개 프리뷰로 제공함. 병합 상태와 다음에 가능한 작업을 페이지 상단에 모아 진행을 막는 요인을 확인하기 쉽게 함\n병합 상자를 재설계해 기존과 같은 정보를 절반 미만의 공간에 표시하며, 검사 결과와 승인 상태 확인부터 브랜치 업데이트와 병합까지 이어갈 수 있음\n대화 필터로 미해결 대화나 자신이 작성한 댓글을 추리고, 최신순 댓글 정렬로 필요한 논의와 후속 작업을 찾을 수 있음\n오른쪽 상단의 활동 요약에서 리뷰 댓글과 리뷰 요청 등을 확인하고, 권한에 따\n\n…",
-          "id": "https://news.hada.io/topic?id=36796",
-          "isoDate": "2026-11-08T07:32:08.000Z"
-        },
-        {
-          "title": "Claude와 작별하고 Pi로",
-          "link": "https://news.hada.io/topic?id=36795&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-08T06:32:38.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>Claude Pro 구독에 포함된 이후 1년 넘게 Claude Code를 사용해 온 개발자가, 누적된 불편 때문에 주력 <strong>코딩 하네스</strong>를 <strong>Pi</strong>로 전환함</li><li><code>CLAUDE.md</code>와 <code>AGENTS.md</code> 사이의 <strong>복사/심볼릭 링크 관리</strong>, VSCode에서 <strong>한 세션만 IDE에 연결</strong>할 수 있는 제약이 기존 작업 흐름을 방해함</li><li>공식 <strong>VSCode GUI 확장</strong>은 여러 탭에서 선택한 코드를 받을 수 있지만, 일부 슬래시 명령 미지원과 사용자 지정 상태 표시줄 부재, 뒤섞이는 서브에이전트 출력 등의 불편이 있음</li><li>작성 시점 기준 올해 <strong>244회 릴리스</strong> 중 4분의 3 이상에서 시스템 프롬프트나 도구 설명이 바뀌</li></ul></div>…",
-          "contentSnippet": "Claude Pro 구독에 포함된 이후 1년 넘게 Claude Code를 사용해 온 개발자가, 누적된 불편 때문에 주력 코딩 하네스를 Pi로 전환함\nCLAUDE.md와 AGENTS.md 사이의 복사/심볼릭 링크 관리, VSCode에서 한 세션만 IDE에 연결할 수 있는 제약이 기존 작업 흐름을 방해함\n공식 VSCode GUI 확장은 여러 탭에서 선택한 코드를 받을 수 있지만, 일부 슬래시 명령 미지원과 사용자 지정 상태 표시줄 부재, 뒤섞이는 서브에이전트 출력 등의 불편이 있음\n작성 시점 기준 올해 244회 릴리스 중 4분의 3 이상에서 시스템 프롬프트나 도구 설명이 바뀌\n\n…",
-          "id": "https://news.hada.io/topic?id=36795",
-          "isoDate": "2026-11-08T06:32:38.000Z"
-        },
-        {
-          "title": "Show GN: DailyFit - 그날의 몸 상태로 운동을 짜고, 음성으로 티칭해주는 홈트레이닝 코치",
-          "link": "https://news.hada.io/topic?id=36794&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-08T06:30:32.000Z",
-          "author": "smalllife0909",
-          "content": "<div><p>직접 만든 서비스입니다. 가입·설치 없이 브라우저에서 바로 써볼 수 있습니다.</p><p>출근 전엔 시간이, 퇴근 후엔 기운이 없어 헬스장을 꾸준히 못 갔습니다. 집에서라도 짧게 이어가고 싶었는데, 집에선 뭘 해야 할지 몰랐고 운동 코치처럼 도와주는 사람이 없으니 실천이 잘 안됐습니다.<br> 그래서 나에게 맞는 운동을 처방해주고 음성으로 티칭해주는 서비스를 만들었습니다.</p><p>[기능]</p><ul><li>1분 정도 질문에 답합니다: 목적, 시간(10~30분), 가진 장비와 무게, 경력, 층간소음 모드, 오늘 불편한 부위와 아픈 동작</li><li>그날의 운동(구성, 세트·횟수·템</li></ul></div>…",
-          "contentSnippet": "직접 만든 서비스입니다. 가입·설치 없이 브라우저에서 바로 써볼 수 있습니다.\n출근 전엔 시간이, 퇴근 후엔 기운이 없어 헬스장을 꾸준히 못 갔습니다. 집에서라도 짧게 이어가고 싶었는데, 집에선 뭘 해야 할지 몰랐고 운동 코치처럼 도와주는 사람이 없으니 실천이 잘 안됐습니다.\n 그래서 나에게 맞는 운동을 처방해주고 음성으로 티칭해주는 서비스를 만들었습니다.\n[기능]\n\n1분 정도 질문에 답합니다: 목적, 시간(10~30분), 가진 장비와 무게, 경력, 층간소음 모드, 오늘 불편한 부위와 아픈 동작\n그날의 운동(구성, 세트·횟수·템\n\n…",
-          "id": "https://news.hada.io/topic?id=36794",
-          "isoDate": "2026-11-08T06:30:32.000Z"
-        },
-        {
-          "title": "*sshole, 우리는 대체 언제 C를 없앨 것인가?",
-          "link": "https://news.hada.io/topic?id=36792&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-08T06:03:00.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>잠긴 계정과 해시 오류가 같은 <code>\"*\"</code> 값을 사용하는 충돌</strong>로, PAM 없는 musl 시스템에서 인증되지 않은 사용자가 셸을 얻을 수 있는 취약점이 발생함</li><li>이번 문제는 <strong>메모리 안전성 취약점이 아님</strong>. Rust에서도 같은 코드를 작성할 수 있지만, 타입 시스템이 형성하는 개발 관행은 이런 오류 처리를 용인하지 않음</li><li>musl은 일부 바이너리가 <code>crypt</code>의 <strong>NULL 반환을 확인하지 않자</strong>, 오류 시 NULL을 반환하도록 한 POSIX 명세 대신 <code>\"*\"</code> 센티널 값을 반환하도록 변경했음</li><li>Rust 의존성에는 <strong>컴파일 시간과 이식성 비용</strong>이 실제로 존재하지만, 도입을 반대하</li></ul></div>…",
-          "contentSnippet": "잠긴 계정과 해시 오류가 같은 \"*\" 값을 사용하는 충돌로, PAM 없는 musl 시스템에서 인증되지 않은 사용자가 셸을 얻을 수 있는 취약점이 발생함\n이번 문제는 메모리 안전성 취약점이 아님. Rust에서도 같은 코드를 작성할 수 있지만, 타입 시스템이 형성하는 개발 관행은 이런 오류 처리를 용인하지 않음\nmusl은 일부 바이너리가 crypt의 NULL 반환을 확인하지 않자, 오류 시 NULL을 반환하도록 한 POSIX 명세 대신 \"*\" 센티널 값을 반환하도록 변경했음\nRust 의존성에는 컴파일 시간과 이식성 비용이 실제로 존재하지만, 도입을 반대하\n\n…",
-          "id": "https://news.hada.io/topic?id=36792",
-          "isoDate": "2026-11-08T06:03:00.000Z"
-        },
-        {
-          "title": "Memorilla: LLM을 위한 잠재 의미 메모리",
-          "link": "https://news.hada.io/topic?id=36791&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-08T05:38:55.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>MEMORILLA</strong>는 전체 문서 모음의 임베딩에서 질의에 필요한 정보를 읽어, 가중치가 고정된 LLM에 <strong>16개 메모리 토큰</strong>으로 전달하는 시스템임</li><li>문서는 한 번 인코딩해 재사용하고, 학습 가능한 메모리 모듈이 <strong>질의에 따라 모든 문서 임베딩에 어텐션</strong>을 적용함</li><li>개인화, 장문 이해, 지식 집약적 질의응답 벤치마크에서 Mem0와 MemoRAG 등을 포함한 비교군 중 <strong>평균 성능이 가장 높았음</strong></li><li>단일 H100에서 문서 512개를 처리한 실험에서는 <strong>전체 응답 생성 시간</strong>이 전체 문맥 방식의 19.9초에서 <strong>0.74초</strong>로 줄어, 약 27분의 1 수준이 됨</li><li>TextWorld에서는 매</li></ul></div>…",
-          "contentSnippet": "MEMORILLA는 전체 문서 모음의 임베딩에서 질의에 필요한 정보를 읽어, 가중치가 고정된 LLM에 16개 메모리 토큰으로 전달하는 시스템임\n문서는 한 번 인코딩해 재사용하고, 학습 가능한 메모리 모듈이 질의에 따라 모든 문서 임베딩에 어텐션을 적용함\n개인화, 장문 이해, 지식 집약적 질의응답 벤치마크에서 Mem0와 MemoRAG 등을 포함한 비교군 중 평균 성능이 가장 높았음\n단일 H100에서 문서 512개를 처리한 실험에서는 전체 응답 생성 시간이 전체 문맥 방식의 19.9초에서 0.74초로 줄어, 약 27분의 1 수준이 됨\nTextWorld에서는 매\n\n…",
-          "id": "https://news.hada.io/topic?id=36791",
-          "isoDate": "2026-11-08T05:38:55.000Z"
-        },
-        {
-          "title": "Terry Pratchett의 서재 - 1:12 축척으로 만든 미니어처",
-          "link": "https://news.hada.io/topic?id=36790&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-08T05:35:55.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>Terry Pratchett가 편안하게 느꼈을 법한 서재 일부를 <strong>1:12 축척 미니어처</strong>로 제작함. 모든 각도의 사진과 정확한 치수가 없어 실제 서재를 그대로 복제한 작품은 아님</li><li>책장 속 책은 <strong>실제 표지를 맞춰 한 권씩 제작</strong>했으며, 첫 DiscWorld 소설인 《The Colour of Magic》 원고도 페이지별로 축소 인쇄해 순서대로 정리함</li><li>가죽 재킷과 모자, 담요까지 직접 만들었으며, <strong>축척에 맞는 재료 두께와 섬유 크기</strong>가 제작의 주요 난점이었음</li><li>책상 위 여섯 화면에는 <strong>《The Shepherd’s Crown》</strong>, Doom, 철광석 가공과 조기 발병 알츠하이머병 관련 페이</li></ul></div>…",
-          "contentSnippet": "Terry Pratchett가 편안하게 느꼈을 법한 서재 일부를 1:12 축척 미니어처로 제작함. 모든 각도의 사진과 정확한 치수가 없어 실제 서재를 그대로 복제한 작품은 아님\n책장 속 책은 실제 표지를 맞춰 한 권씩 제작했으며, 첫 DiscWorld 소설인 《The Colour of Magic》 원고도 페이지별로 축소 인쇄해 순서대로 정리함\n가죽 재킷과 모자, 담요까지 직접 만들었으며, 축척에 맞는 재료 두께와 섬유 크기가 제작의 주요 난점이었음\n책상 위 여섯 화면에는 《The Shepherd’s Crown》, Doom, 철광석 가공과 조기 발병 알츠하이머병 관련 페이\n\n…",
-          "id": "https://news.hada.io/topic?id=36790",
-          "isoDate": "2026-11-08T05:35:55.000Z"
-        },
-        {
-          "title": "생명은 얼마나 오래 기다릴 수 있을까?",
-          "link": "https://news.hada.io/topic?id=36789&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-08T04:35:09.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>미생물이 활동을 거의 멈춘 채 <strong>생존 능력을 유지하는 기간</strong>은 탐사선 오염 관리, 행성 간 생명 이동, 화성의 고대 생명 발견 가능성을 좌우함</li><li>우주에서 미생물을 죽이는 주된 요인은 <strong>자외선</strong>이지만, 얇은 먼지나 다른 미생물의 잔해만으로도 차단할 수 있어 우주 환경 자체에 탐사선 살균을 맡기기 어려움</li><li>운석 내부가 심하게 가열되지 않고 화성에서 지구까지 이동할 수 있다는 증거와 미생물의 장기 생존 능력은 <strong>암석을 통한 생명 전파 가설</strong>을 뒷받침하지만, 우주 방사선이 이동 시간을 제한할 가능성이 큼</li><li>암염 속 미생물은 <strong>약 10만 년간</strong></li></ul></div>…",
-          "contentSnippet": "미생물이 활동을 거의 멈춘 채 생존 능력을 유지하는 기간은 탐사선 오염 관리, 행성 간 생명 이동, 화성의 고대 생명 발견 가능성을 좌우함\n우주에서 미생물을 죽이는 주된 요인은 자외선이지만, 얇은 먼지나 다른 미생물의 잔해만으로도 차단할 수 있어 우주 환경 자체에 탐사선 살균을 맡기기 어려움\n운석 내부가 심하게 가열되지 않고 화성에서 지구까지 이동할 수 있다는 증거와 미생물의 장기 생존 능력은 암석을 통한 생명 전파 가설을 뒷받침하지만, 우주 방사선이 이동 시간을 제한할 가능성이 큼\n암염 속 미생물은 약 10만 년간\n\n…",
-          "id": "https://news.hada.io/topic?id=36789",
-          "isoDate": "2026-11-08T04:35:09.000Z"
         }
       ]
     },
@@ -382,6 +382,69 @@
       "data": [
         {
           "creator": "최영범",
+          "title": "파라과이 전 대통령 '은행비리' 구금…\"최대 징역 10년\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261109032155tLR",
+          "pubDate": "Mon, 09 Nov 2026 03:21:55 +0900",
+          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261108/AKR20261109032155tLR_01_i.jpg\" alt=\"\"><span class=\"yna_title\">구금된 산티아고 페냐 파라과이 전 대통령</span><span class=\"yna_caption\">[AFP=연합뉴스]</span><span class=\"yna_description\">[AFP=연합뉴스]</span></div>\n은행 비리 의혹으로 파면된 산티아고 페냐 전 파라과이 대통령이 구금됐습니다.\n\n현지 언론 ABC 콜로르와 인포바 등에 따르면 페냐 전 대통령은 검찰의 긴급체포 명령에 따라 수도 아순시온에 위치한 대통령 경호연대의 일반 숙소에 구금돼 있습니다.\n\n검찰은 페냐 전 대통령이 연금 기관 등의 자금을 우에노 은행에 유치한 과정에 개입한 것으로 보고, 배임과 사익 추구 혐의로 기소했습니다.\n\n크리스티안 베니테스 검사는 최대 10년의 징역형을 받을 수 있다고 밝혔습니다.\n\n법원은 도주와 증거인멸 우려를 이유로 구속영장을 발부했고, 현지시간 6일 페냐 전 대통령은 상원 탄핵 표결에서 파면됐습니다.\n\n\n\n#파라과이 #산티아고페냐 #대통령 #배임 #사익추구 #아순시온 #파면\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최영범(ybchoi@yna.co.kr)",
+          "content:encodedSnippet": "구금된 산티아고 페냐 파라과이 전 대통령[AFP=연합뉴스][AFP=연합뉴스]\n은행 비리 의혹으로 파면된 산티아고 페냐 전 파라과이 대통령이 구금됐습니다.\n\n현지 언론 ABC 콜로르와 인포바 등에 따르면 페냐 전 대통령은 검찰의 긴급체포 명령에 따라 수도 아순시온에 위치한 대통령 경호연대의 일반 숙소에 구금돼 있습니다.\n\n검찰은 페냐 전 대통령이 연금 기관 등의 자금을 우에노 은행에 유치한 과정에 개입한 것으로 보고, 배임과 사익 추구 혐의로 기소했습니다.\n\n크리스티안 베니테스 검사는 최대 10년의 징역형을 받을 수 있다고 밝혔습니다.\n\n법원은 도주와 증거인멸 우려를 이유로 구속영장을 발부했고, 현지시간 6일 페냐 전 대통령은 상원 탄핵 표결에서 파면됐습니다.\n\n\n\n#파라과이 #산티아고페냐 #대통령 #배임 #사익추구 #아순시온 #파면\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최영범(ybchoi@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261108/AKR20261109032155tLR_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "최영범",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261109032155tLR#comments",
+          "content": "구금된 산티아고 페냐 파라과이 전 대통령[AFP=연합뉴스][AFP=연합뉴스] 은행 비리 의혹으로 파면된 산티아고 페냐 전 파라과이 대통령이 구금됐습니다. 현지 언론 ABC 콜로르와 인포바 등에 따르면 페냐 전 대통령은 검찰의 긴급체포 명령에 따라 수도 아순시온에 위치한 대통령 경호연대의 일반 숙소에 구금돼 있습니다. 검찰은 페냐 전 대통령이 연금 기관 등의 자금을 우에노 은행에 유치한 과정에 개입한 것으로 보고, 배임과 사익 추구 혐의로 ...",
+          "contentSnippet": "구금된 산티아고 페냐 파라과이 전 대통령[AFP=연합뉴스][AFP=연합뉴스] 은행 비리 의혹으로 파면된 산티아고 페냐 전 파라과이 대통령이 구금됐습니다. 현지 언론 ABC 콜로르와 인포바 등에 따르면 페냐 전 대통령은 검찰의 긴급체포 명령에 따라 수도 아순시온에 위치한 대통령 경호연대의 일반 숙소에 구금돼 있습니다. 검찰은 페냐 전 대통령이 연금 기관 등의 자금을 우에노 은행에 유치한 과정에 개입한 것으로 보고, 배임과 사익 추구 혐의로 ...",
+          "guid": "AKR20261109032155tLR",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-08T18:21:55.000Z"
+        },
+        {
+          "creator": "최영범",
+          "title": "아이티 갱단 두목 사살…엘살바도르군 투입 압박",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261109032146ePc",
+          "pubDate": "Mon, 09 Nov 2026 03:21:46 +0900",
+          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261108/AKR20261109032146ePc_01_i.jpg\" alt=\"\"><span class=\"yna_title\">아이티 수도에서 순찰 중인 엘살바도르군</span><span class=\"yna_caption\">[로이터=연합뉴스]</span><span class=\"yna_description\">[로이터=연합뉴스]</span></div>\n수천 명의 엘살바도르 군과 유엔이 지원하는 갱단진압부대 GSF가 투입된 아이티에서 갱단들이 궁지에 몰리고 있습니다.\n\n현지시간 7일 도미니카공화국 매체 엘수소스와 AP통신에 따르면, 아이티 경찰은 합동작전을 벌여 수도 포르토프랭스의 갱단 거점 빈민가인 시테솔레이 일대에서 갱단 '보스턴' 두목 마티아스를 전날인 6일 사살했습니다.\n\n알릭스 디디에 필스 아이메 아이티 임시 총리는 SNS에서 \"갱단 두목 한 명이 줄었다\"며 \"갱단들은 편히 잘 수 없을 것\"이라고 경고했습니다.\n\n앞서 나이브 부켈레 엘살바도르 대통령은 GSF에 파견된 자국 군인 4명이 갱단 공격으로 실종되자, 2천여 명의 군인을 보내겠다며 '사악한 범죄집단을 짓밟겠다'고 강조한 바 있습니다.\n\n이런 압박 속에 강력한 갱단 중 하나인 '400 마워조'는 최근 무장 갱단 해산을 담당하는 정부 기관에 \"평화적인 안정을 위한 대화에 나서겠다\"고 밝히기도 했습니다.\n\n아이티는 2021년 조브넬 모이즈 대통령 암살 이후, 갱단이 수도 대부분과 인근 지역을 장악하고 있습니다.\n\n\n#엘살바도르 #GSF #아이티 #갱단 #알릭스디디에필스아이메\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최영범(ybchoi@yna.co.kr)",
+          "content:encodedSnippet": "아이티 수도에서 순찰 중인 엘살바도르군[로이터=연합뉴스][로이터=연합뉴스]\n수천 명의 엘살바도르 군과 유엔이 지원하는 갱단진압부대 GSF가 투입된 아이티에서 갱단들이 궁지에 몰리고 있습니다.\n\n현지시간 7일 도미니카공화국 매체 엘수소스와 AP통신에 따르면, 아이티 경찰은 합동작전을 벌여 수도 포르토프랭스의 갱단 거점 빈민가인 시테솔레이 일대에서 갱단 '보스턴' 두목 마티아스를 전날인 6일 사살했습니다.\n\n알릭스 디디에 필스 아이메 아이티 임시 총리는 SNS에서 \"갱단 두목 한 명이 줄었다\"며 \"갱단들은 편히 잘 수 없을 것\"이라고 경고했습니다.\n\n앞서 나이브 부켈레 엘살바도르 대통령은 GSF에 파견된 자국 군인 4명이 갱단 공격으로 실종되자, 2천여 명의 군인을 보내겠다며 '사악한 범죄집단을 짓밟겠다'고 강조한 바 있습니다.\n\n이런 압박 속에 강력한 갱단 중 하나인 '400 마워조'는 최근 무장 갱단 해산을 담당하는 정부 기관에 \"평화적인 안정을 위한 대화에 나서겠다\"고 밝히기도 했습니다.\n\n아이티는 2021년 조브넬 모이즈 대통령 암살 이후, 갱단이 수도 대부분과 인근 지역을 장악하고 있습니다.\n\n\n#엘살바도르 #GSF #아이티 #갱단 #알릭스디디에필스아이메\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최영범(ybchoi@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261108/AKR20261109032146ePc_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "최영범",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261109032146ePc#comments",
+          "content": "아이티 수도에서 순찰 중인 엘살바도르군[로이터=연합뉴스][로이터=연합뉴스] 수천 명의 엘살바도르 군과 유엔이 지원하는 갱단진압부대 GSF가 투입된 아이티에서 갱단들이 궁지에 몰리고 있습니다. 현지시간 7일 도미니카공화국 매체 엘수소스와 AP통신에 따르면, 아이티 경찰은 합동작전을 벌여 수도 포르토프랭스의 갱단 거점 빈민가인 시테솔레이 일대에서 갱단 '보스턴' 두목 마티아스를 전날인 6일 사살했습니다. 알릭스 디디에 필스 아이메 아이티 임시...",
+          "contentSnippet": "아이티 수도에서 순찰 중인 엘살바도르군[로이터=연합뉴스][로이터=연합뉴스] 수천 명의 엘살바도르 군과 유엔이 지원하는 갱단진압부대 GSF가 투입된 아이티에서 갱단들이 궁지에 몰리고 있습니다. 현지시간 7일 도미니카공화국 매체 엘수소스와 AP통신에 따르면, 아이티 경찰은 합동작전을 벌여 수도 포르토프랭스의 갱단 거점 빈민가인 시테솔레이 일대에서 갱단 '보스턴' 두목 마티아스를 전날인 6일 사살했습니다. 알릭스 디디에 필스 아이메 아이티 임시...",
+          "guid": "AKR20261109032146ePc",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-08T18:21:46.000Z"
+        },
+        {
+          "creator": "최영범",
+          "title": "아이젠코트 \"비상 정부 구성\"…이스라엘 야권 연정 착수",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261109032135MDj",
+          "pubDate": "Mon, 09 Nov 2026 03:21:36 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261108/AKR20261109032135MDj_01_i.jpg\" alt=\"\"><span class=\"yna_title\">이스라엘 야권 지도자 가디 아이젠코트</span><span class=\"yna_caption\">[로이터=연합뉴스 자료사진. 재판매 및 DB 금지]</span><span class=\"yna_description\">[로이터=연합뉴스 자료사진. 재판매 및 DB 금지]</span></div>\n이스라엘 야권을 이끄는 가디 아이젠코트 야사르당 대표가 연립 정부 구성 권한을 부여받았습니다.\n\n군 참모총장 출신인 아이젠코트 대표는 현지시간 8일 예루살렘 대통령 관저에서 이츠하크 헤르조그 대통령에게 공식 정부 권한을 부여받은 뒤 지금을 비상시국으로 규정하고 '국가 비상 정부'를 꾸리겠다고 밝혔습니다.\n\n아이젠코트 대표는 이 자리에서 \"전쟁터는 여전히 열려 있고 치명적인 외교 위기의 한가운데에 있다\"며 \"창의적이고 비상한 정치적 행보가 필요하다\"고 말했습니다.\n\n이어 \"이스라엘에는 더는 시간을 낭비하거나 끝없는 선거전을 반복할 여유가 없다\"고 덧붙였습니다.\n\n지난달 27일 총선에서 아이젠코트 대표의 야권 연대는 크네세트 의석 전체 120석 가운데 48석을 얻었습니다.\n\n과반에는 13석이 모자라지만, 19석의 아랍계 정당 지지를 받아 베냐민 네타냐후 총리의 우파 연대보다 먼저 정부를 구성할 권한을 얻었습니다.\n\n아이젠코트 대표에게 주어진 협상 기간은 28일이고, 14일 더 연장할 수 있습니다.\n\n아이젠코트 대표가 이 기간 안에 연정 구성에 실패하면 대통령은 다른 후보에게 권한을 넘기거나, 의회를 해산하고 재선거를 치르게 할 수 있습니다.\n\n#이스라엘 #아이젠코트 #네타냐후 #국가비상정부 #야사르당\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최영범(ybchoi@yna.co.kr)",
+          "content:encodedSnippet": "이스라엘 야권 지도자 가디 아이젠코트[로이터=연합뉴스 자료사진. 재판매 및 DB 금지][로이터=연합뉴스 자료사진. 재판매 및 DB 금지]\n이스라엘 야권을 이끄는 가디 아이젠코트 야사르당 대표가 연립 정부 구성 권한을 부여받았습니다.\n\n군 참모총장 출신인 아이젠코트 대표는 현지시간 8일 예루살렘 대통령 관저에서 이츠하크 헤르조그 대통령에게 공식 정부 권한을 부여받은 뒤 지금을 비상시국으로 규정하고 '국가 비상 정부'를 꾸리겠다고 밝혔습니다.\n\n아이젠코트 대표는 이 자리에서 \"전쟁터는 여전히 열려 있고 치명적인 외교 위기의 한가운데에 있다\"며 \"창의적이고 비상한 정치적 행보가 필요하다\"고 말했습니다.\n\n이어 \"이스라엘에는 더는 시간을 낭비하거나 끝없는 선거전을 반복할 여유가 없다\"고 덧붙였습니다.\n\n지난달 27일 총선에서 아이젠코트 대표의 야권 연대는 크네세트 의석 전체 120석 가운데 48석을 얻었습니다.\n\n과반에는 13석이 모자라지만, 19석의 아랍계 정당 지지를 받아 베냐민 네타냐후 총리의 우파 연대보다 먼저 정부를 구성할 권한을 얻었습니다.\n\n아이젠코트 대표에게 주어진 협상 기간은 28일이고, 14일 더 연장할 수 있습니다.\n\n아이젠코트 대표가 이 기간 안에 연정 구성에 실패하면 대통령은 다른 후보에게 권한을 넘기거나, 의회를 해산하고 재선거를 치르게 할 수 있습니다.\n\n#이스라엘 #아이젠코트 #네타냐후 #국가비상정부 #야사르당\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최영범(ybchoi@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261108/AKR20261109032135MDj_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "최영범",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261109032135MDj#comments",
+          "content": "이스라엘 야권 지도자 가디 아이젠코트[로이터=연합뉴스 자료사진. 재판매 및 DB 금지][로이터=연합뉴스 자료사진. 재판매 및 DB 금지] 이스라엘 야권을 이끄는 가디 아이젠코트 야사르당 대표가 연립 정부 구성 권한을 부여받았습니다. 군 참모총장 출신인 아이젠코트 대표는 현지시간 8일 예루살렘 대통령 관저에서 이츠하크 헤르조그 대통령에게 공식 정부 권한을 부여받은 뒤 지금을 비상시국으로 규정하고 '국가 비상 정부'를 꾸리겠다고 밝혔습니다. ...",
+          "contentSnippet": "이스라엘 야권 지도자 가디 아이젠코트[로이터=연합뉴스 자료사진. 재판매 및 DB 금지][로이터=연합뉴스 자료사진. 재판매 및 DB 금지] 이스라엘 야권을 이끄는 가디 아이젠코트 야사르당 대표가 연립 정부 구성 권한을 부여받았습니다. 군 참모총장 출신인 아이젠코트 대표는 현지시간 8일 예루살렘 대통령 관저에서 이츠하크 헤르조그 대통령에게 공식 정부 권한을 부여받은 뒤 지금을 비상시국으로 규정하고 '국가 비상 정부'를 꾸리겠다고 밝혔습니다. ...",
+          "guid": "AKR20261109032135MDj",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-08T18:21:36.000Z"
+        },
+        {
+          "creator": "최영범",
           "title": "트럼프, 중간선거 결과에 \"거대한 후퇴\" 주장",
           "link": "https://www.yonhapnewstv.co.kr/news/AKR20261108235711fCe",
           "pubDate": "Sun, 08 Nov 2026 23:57:12 +0900",
@@ -547,69 +610,6 @@
             "최신"
           ],
           "isoDate": "2026-11-08T10:40:40.000Z"
-        },
-        {
-          "creator": "소재형",
-          "title": "美해군·해병대 고위급 관계자 韓조선소 역량 직접 점검",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261108193105GOM",
-          "pubDate": "Sun, 08 Nov 2026 19:31:06 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261108/AKR20261108193105GOM_01_i.jpg\" alt=\"\"><span class=\"yna_title\">울산 HD현대중공업 방문한 미 해군·해병대 고위급 관계자들</span><span class=\"yna_caption\">(서울=연합뉴스) 브렌던 로저스 미 해군부 에너지·시설·환경 담당 차관보와 앤드루 니벨 미 해병대 시설·군수 참모부장(중장), 밸러리 잭슨 주한 미 해병대 사령관(소장)이 지난 4일 울산 HD현대중공업 조선소에서 기념촬영을 하고 있다. 2026.11.8 [미 국방부 국방영상정보배포서비스(DVIDS) 제공. 재판매 및 DB 금지]</span><span class=\"yna_description\">(서울=연합뉴스) 브렌던 로저스 미 해군부 에너지·시설·환경 담당 차관보와 앤드루 니벨 미 해병대 시설·군수 참모부장(중장), 밸러리 잭슨 주한 미 해병대 사령관(소장)이 지난 4일 울산 HD현대중공업 조선소에서 기념촬영을 하고 있다. 2026.11.8 [미 국방부 국방영상정보배포서비스(DVIDS) 제공. 재판매 및 DB 금지]</span></div>\n지난주 미 해군·해병대 고위 관계자들이 한국 조선소를 직접 찾아 함정 건조 능력을 현장에서 둘러보고 평가한 사실이 알려졌습니다.\n\n미국 국방부의 '국방영상정보배포서비스'에 따르면 지난 4일 브렌던 로저스 미 해군부 에너지·시설·환경 담당 차관보와 앤드루 니벨 미 해병대 시설·군수 참모부장(중장), 밸러리 잭슨 주한 미 해병대 사령관(소장) 등이 울산 HD현대중공업 조선소를 방문했습니다.\n\n이들은 조선소 시설을 직접 살펴보고 HD현대중공업 측으로부터 회사 현황과 기술에 대한 브리핑도 함께 들었습니다.\n\n미 국방부는 이들이 이번 방문을 통해 한국 전역의 해군 함정 건조 역량, 군 기반시설, 군수 지원 등을 평가했다고 밝혔습니다.\n\n방문단은 또한 군 지휘부·시설 관련 담당자·방산업계 관계자 등과 교류하면서 해양 지속지원 능력과 작전 준비태세를 향상하고 한미동맹을 공고히 할 방안을 검토했다고 미 국방부는 덧붙였습니다.\n\n한미가 조선 협력 프로젝트 '마스가'를 추진하는 가운데 미 해군·해병대에서 관련 분야를 총괄하는 고위급 관계자들이 한국 조선소를 찾으면서 이 프로젝트에 더욱 힘이 실릴 계기가 될 지 주목됩니다.\n\n\n\n#한국 #조선 #미국 #해군 #해병대 #마스가\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n소재형(sojay@yna.co.kr)",
-          "content:encodedSnippet": "울산 HD현대중공업 방문한 미 해군·해병대 고위급 관계자들(서울=연합뉴스) 브렌던 로저스 미 해군부 에너지·시설·환경 담당 차관보와 앤드루 니벨 미 해병대 시설·군수 참모부장(중장), 밸러리 잭슨 주한 미 해병대 사령관(소장)이 지난 4일 울산 HD현대중공업 조선소에서 기념촬영을 하고 있다. 2026.11.8 [미 국방부 국방영상정보배포서비스(DVIDS) 제공. 재판매 및 DB 금지](서울=연합뉴스) 브렌던 로저스 미 해군부 에너지·시설·환경 담당 차관보와 앤드루 니벨 미 해병대 시설·군수 참모부장(중장), 밸러리 잭슨 주한 미 해병대 사령관(소장)이 지난 4일 울산 HD현대중공업 조선소에서 기념촬영을 하고 있다. 2026.11.8 [미 국방부 국방영상정보배포서비스(DVIDS) 제공. 재판매 및 DB 금지]\n지난주 미 해군·해병대 고위 관계자들이 한국 조선소를 직접 찾아 함정 건조 능력을 현장에서 둘러보고 평가한 사실이 알려졌습니다.\n\n미국 국방부의 '국방영상정보배포서비스'에 따르면 지난 4일 브렌던 로저스 미 해군부 에너지·시설·환경 담당 차관보와 앤드루 니벨 미 해병대 시설·군수 참모부장(중장), 밸러리 잭슨 주한 미 해병대 사령관(소장) 등이 울산 HD현대중공업 조선소를 방문했습니다.\n\n이들은 조선소 시설을 직접 살펴보고 HD현대중공업 측으로부터 회사 현황과 기술에 대한 브리핑도 함께 들었습니다.\n\n미 국방부는 이들이 이번 방문을 통해 한국 전역의 해군 함정 건조 역량, 군 기반시설, 군수 지원 등을 평가했다고 밝혔습니다.\n\n방문단은 또한 군 지휘부·시설 관련 담당자·방산업계 관계자 등과 교류하면서 해양 지속지원 능력과 작전 준비태세를 향상하고 한미동맹을 공고히 할 방안을 검토했다고 미 국방부는 덧붙였습니다.\n\n한미가 조선 협력 프로젝트 '마스가'를 추진하는 가운데 미 해군·해병대에서 관련 분야를 총괄하는 고위급 관계자들이 한국 조선소를 찾으면서 이 프로젝트에 더욱 힘이 실릴 계기가 될 지 주목됩니다.\n\n\n\n#한국 #조선 #미국 #해군 #해병대 #마스가\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n소재형(sojay@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261108/AKR20261108193105GOM_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "소재형",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261108193105GOM#comments",
-          "content": "울산 HD현대중공업 방문한 미 해군·해병대 고위급 관계자들(서울=연합뉴스) 브렌던 로저스 미 해군부 에너지·시설·환경 담당 차관보와 앤드루 니벨 미 해병대 시설·군수 참모부장(중장), 밸러리 잭슨 주한 미 해병대 사령관(소장)이 지난 4일 울산 HD현대중공업 조선소에서 기념촬영을 하고 있다. 2026.11.8 [미 국방부 국방영상정보배포서비스(DVIDS) 제공. 재판매 및 DB 금지](서울=연합뉴스) 브렌던 로저스 미 해군부 에너지·시설·...",
-          "contentSnippet": "울산 HD현대중공업 방문한 미 해군·해병대 고위급 관계자들(서울=연합뉴스) 브렌던 로저스 미 해군부 에너지·시설·환경 담당 차관보와 앤드루 니벨 미 해병대 시설·군수 참모부장(중장), 밸러리 잭슨 주한 미 해병대 사령관(소장)이 지난 4일 울산 HD현대중공업 조선소에서 기념촬영을 하고 있다. 2026.11.8 [미 국방부 국방영상정보배포서비스(DVIDS) 제공. 재판매 및 DB 금지](서울=연합뉴스) 브렌던 로저스 미 해군부 에너지·시설·...",
-          "guid": "AKR20261108193105GOM",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-08T10:31:06.000Z"
-        },
-        {
-          "creator": "노수미",
-          "title": "[날씨] 초겨울 추위 속 서울 첫눈…내일 남부 중심 비",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261108193001Apf",
-          "pubDate": "Sun, 08 Nov 2026 19:30:03 +0900",
-          "content:encoded": "갑자기 찾아온 때이른 추위에, 오늘 서울에서도 이른 첫눈이 관측됐습니다.\n\n작년보다 26일이나 빠른 기록인데요.\n\n밤까지 중부 곳곳에 산발적인 비가 내리겠고, 강원 산지에는 눈으로 바뀌어 내리면서 최대 5cm의 적설이 예상됩니다.\n\n내일은 남부를 중심으로 비구름이 지나겠는데요.\n\n비는 내일 저녁이면 대부분 그치겠습니다.\n\n양은 제주에 최대 30mm, 그 밖의 지역에 5~10mm로 많지 않겠습니다.\n\n한편, 연일 예년보다 쌀쌀한 날씨가 이어지고 있는데요.\n\n내일도 옷차림 잘 챙겨주셔야겠습니다.\n\n서울 아침 기온 4도로 오늘만큼 춥겠고, 낮 기온 13도로 평년을 조금 밑돌겠습니다.\n\n이 추위는 수요일부터 차차 풀리겠습니다.\n\n내일 하늘빛은 대체로 흐리겠고, 중부지방은 오후부터 맑아지겠습니다.\n\n내일 기온도 보시면, 아침에 서울 4도로 출발하겠고, 낮에는 서울과 청주 13도 예상됩니다.\n\n남부지방은 아침 기온 대구 6도, 한낮에는 광주 12도, 창원 13도 예상됩니다.\n\n바다의 물결은 남해상에서 최고 4.5m까지 매우 높게 일겠습니다.\n\n화요일부터는 대체로 맑은 날씨가 이어지겠고요.\n\n토요일 전국에 또 한차례 비가 내릴 전망입니다.\n\n날씨 전해드렸습니다.\n\n(전세영 기상캐스터)\n\n#날씨 #풍랑 #추위 #한파특보 #눈 #강풍 #비 #주말날씨 #태풍 #가을\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
-          "content:encodedSnippet": "갑자기 찾아온 때이른 추위에, 오늘 서울에서도 이른 첫눈이 관측됐습니다.\n\n작년보다 26일이나 빠른 기록인데요.\n\n밤까지 중부 곳곳에 산발적인 비가 내리겠고, 강원 산지에는 눈으로 바뀌어 내리면서 최대 5cm의 적설이 예상됩니다.\n\n내일은 남부를 중심으로 비구름이 지나겠는데요.\n\n비는 내일 저녁이면 대부분 그치겠습니다.\n\n양은 제주에 최대 30mm, 그 밖의 지역에 5~10mm로 많지 않겠습니다.\n\n한편, 연일 예년보다 쌀쌀한 날씨가 이어지고 있는데요.\n\n내일도 옷차림 잘 챙겨주셔야겠습니다.\n\n서울 아침 기온 4도로 오늘만큼 춥겠고, 낮 기온 13도로 평년을 조금 밑돌겠습니다.\n\n이 추위는 수요일부터 차차 풀리겠습니다.\n\n내일 하늘빛은 대체로 흐리겠고, 중부지방은 오후부터 맑아지겠습니다.\n\n내일 기온도 보시면, 아침에 서울 4도로 출발하겠고, 낮에는 서울과 청주 13도 예상됩니다.\n\n남부지방은 아침 기온 대구 6도, 한낮에는 광주 12도, 창원 13도 예상됩니다.\n\n바다의 물결은 남해상에서 최고 4.5m까지 매우 높게 일겠습니다.\n\n화요일부터는 대체로 맑은 날씨가 이어지겠고요.\n\n토요일 전국에 또 한차례 비가 내릴 전망입니다.\n\n날씨 전해드렸습니다.\n\n(전세영 기상캐스터)\n\n#날씨 #풍랑 #추위 #한파특보 #눈 #강풍 #비 #주말날씨 #태풍 #가을\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261108/MYH20261108193001Apf.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "노수미",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261108193001Apf#comments",
-          "content": "갑자기 찾아온 때이른 추위에, 오늘 서울에서도 이른 첫눈이 관측됐습니다. 작년보다 26일이나 빠른 기록인데요. 밤까지 중부 곳곳에 산발적인 비가 내리겠고, 강원 산지에는 눈으로 바뀌어 내리면서 최대 5cm의 적설이 예상됩니다. 내일은 남부를 중심으로 비구름이 지나겠는데요. 비는 내일 저녁이면 대부분 그치겠습니다. 양은 제주에 최대 30mm, 그 밖의 지역에 5~10mm로 많지 않겠습니다. 한편, 연일 예년보다 쌀쌀한 날씨가 이어지고 있는데...",
-          "contentSnippet": "갑자기 찾아온 때이른 추위에, 오늘 서울에서도 이른 첫눈이 관측됐습니다. 작년보다 26일이나 빠른 기록인데요. 밤까지 중부 곳곳에 산발적인 비가 내리겠고, 강원 산지에는 눈으로 바뀌어 내리면서 최대 5cm의 적설이 예상됩니다. 내일은 남부를 중심으로 비구름이 지나겠는데요. 비는 내일 저녁이면 대부분 그치겠습니다. 양은 제주에 최대 30mm, 그 밖의 지역에 5~10mm로 많지 않겠습니다. 한편, 연일 예년보다 쌀쌀한 날씨가 이어지고 있는데...",
-          "guid": "MYH20261108193001Apf",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-08T10:30:03.000Z"
-        },
-        {
-          "creator": "최진경",
-          "title": "이란 강경파 \"美선거, 우리 승리\"…종전협상 요구 높여",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261108192928HLQ",
-          "pubDate": "Sun, 08 Nov 2026 19:29:30 +0900",
-          "content:encoded": "이란 강경파가 도널드 트럼프 미국 대통령의 중간선거 패배를 자국의 승리로 받아들이면서, 종전 협상에서 미국에 더 많은 양보를 요구하고 나선 것으로 전해졌습니다.\n\n미국 CNN 방송은 이란 내 강경 보수 세력이 이번 주 이같은 취지의 주장을 내놨다고 현지시간 7일 보도했습니다.\n\n이란 강경 보수 매체 라자뉴스도 최근 칼럼에서 미국이 이란 공격의 대가를 치르기 전에는 \"탈출구\"를 제공해선 안 된다면서, 트럼프 대통령이 \"서둘러 체결한 합의로 빠져나가는 것\"을 허용해서도 안 된다고 주장했습니다.\n\n이란이 단순한 전쟁 종식을 넘어 미국의 중동 영향력을 약화하고, 자국에 유리한 새로운 지역 안보 질서를 구축하려 한다는 관측이 나옵니다.\n\n#트럼프 #미국 #이란 #중간선거 #강경파\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최진경(highjean@yna.co.kr)",
-          "content:encodedSnippet": "이란 강경파가 도널드 트럼프 미국 대통령의 중간선거 패배를 자국의 승리로 받아들이면서, 종전 협상에서 미국에 더 많은 양보를 요구하고 나선 것으로 전해졌습니다.\n\n미국 CNN 방송은 이란 내 강경 보수 세력이 이번 주 이같은 취지의 주장을 내놨다고 현지시간 7일 보도했습니다.\n\n이란 강경 보수 매체 라자뉴스도 최근 칼럼에서 미국이 이란 공격의 대가를 치르기 전에는 \"탈출구\"를 제공해선 안 된다면서, 트럼프 대통령이 \"서둘러 체결한 합의로 빠져나가는 것\"을 허용해서도 안 된다고 주장했습니다.\n\n이란이 단순한 전쟁 종식을 넘어 미국의 중동 영향력을 약화하고, 자국에 유리한 새로운 지역 안보 질서를 구축하려 한다는 관측이 나옵니다.\n\n#트럼프 #미국 #이란 #중간선거 #강경파\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최진경(highjean@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261108/MYH20261108192928HLQ.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "최진경",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261108192928HLQ#comments",
-          "content": "이란 강경파가 도널드 트럼프 미국 대통령의 중간선거 패배를 자국의 승리로 받아들이면서, 종전 협상에서 미국에 더 많은 양보를 요구하고 나선 것으로 전해졌습니다. 미국 CNN 방송은 이란 내 강경 보수 세력이 이번 주 이같은 취지의 주장을 내놨다고 현지시간 7일 보도했습니다. 이란 강경 보수 매체 라자뉴스도 최근 칼럼에서 미국이 이란 공격의 대가를 치르기 전에는 \"탈출구\"를 제공해선 안 된다면서, 트럼프 대통령이 \"서둘러 체결한 합의로 빠져...",
-          "contentSnippet": "이란 강경파가 도널드 트럼프 미국 대통령의 중간선거 패배를 자국의 승리로 받아들이면서, 종전 협상에서 미국에 더 많은 양보를 요구하고 나선 것으로 전해졌습니다. 미국 CNN 방송은 이란 내 강경 보수 세력이 이번 주 이같은 취지의 주장을 내놨다고 현지시간 7일 보도했습니다. 이란 강경 보수 매체 라자뉴스도 최근 칼럼에서 미국이 이란 공격의 대가를 치르기 전에는 \"탈출구\"를 제공해선 안 된다면서, 트럼프 대통령이 \"서둘러 체결한 합의로 빠져...",
-          "guid": "MYH20261108192928HLQ",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-08T10:29:30.000Z"
         }
       ]
     }
