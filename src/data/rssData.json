@@ -7,204 +7,204 @@
       "priority": 1,
       "data": [
         {
-          "title": "Apple, 엔지니어의 하루 AI 예산을 200달러로 제한",
-          "link": "https://news.hada.io/topic?id=36891&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-09T17:45:41.000Z",
+          "title": "Fable 5.2가 조카가 꿈꾸던 게임을 한 번의 요청으로 구현함",
+          "link": "https://news.hada.io/topic?id=36929&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-10T02:35:11.000Z",
           "author": "neo",
-          "content": "<div><ul><li>Apple이 일부 엔지니어의 하루 AI 지출 한도를 <strong>300달러에서 200달러로 낮춘 것으로 알려짐</strong></li><li>기업 규모의 AI 운영에서는 <strong>자동화된 비용 통제</strong>가 중요하며, 캐싱과 소형 모델 라우팅, 프롬프트 최적화로 비용 압박에 대응할 수 있음</li><li><strong>University of Michigan</strong> 연구진에 따르면, 비영어 프롬프트는 같은 영어 프롬프트보다 에너지를 <strong>최대 179배</strong> 소비하며 정확도도 더 낮은 경우가 있음</li><li><strong>Palo Alto Networks</strong>는 AI 에이전트의 접근 권한 통제를 강화하기 위해 Clutch 인수를 논의 중인 것으로 알려졌으며, OpenAI는 승인된 보안 테스터용 <strong>GPT-6 Cyb</strong></li></ul></div>…",
-          "contentSnippet": "Apple이 일부 엔지니어의 하루 AI 지출 한도를 300달러에서 200달러로 낮춘 것으로 알려짐\n기업 규모의 AI 운영에서는 자동화된 비용 통제가 중요하며, 캐싱과 소형 모델 라우팅, 프롬프트 최적화로 비용 압박에 대응할 수 있음\nUniversity of Michigan 연구진에 따르면, 비영어 프롬프트는 같은 영어 프롬프트보다 에너지를 최대 179배 소비하며 정확도도 더 낮은 경우가 있음\nPalo Alto Networks는 AI 에이전트의 접근 권한 통제를 강화하기 위해 Clutch 인수를 논의 중인 것으로 알려졌으며, OpenAI는 승인된 보안 테스터용 GPT-6 Cyb\n\n…",
-          "id": "https://news.hada.io/topic?id=36891",
-          "isoDate": "2026-11-09T17:45:41.000Z"
+          "content": "<div><ul><li><strong>Fable 5.2</strong>가 조카의 그림과 기존 게임을 바탕으로, 한 번의 요청을 받아 밤사이 플레이 가능한 12스테이지 벨트스크롤 액션 게임을 완성함</li><li>기존 코드 대부분을 다시 작성하고 <strong>이미지 약 175개와 오디오 클립 140개</strong>를 생성했으며, 요청하지 않은 컷신, 부술 수 있는 상자, 엔딩까지 추가함</li><li>게임을 플레이하는 <strong>봇</strong>을 만들어 헤드리스 브라우저에서 12개 스테이지를 모두 실행하고, 스크린샷으로 문제를 확인함</li><li>가족과의 플레이테스트 후 기술과 캐릭터를 추가하면서, 최종적으로 <strong>18개 캐릭터와 4인 플레이</strong>를 지원하는 게임으로 확장됨</li><li>최초 </li></ul></div>…",
+          "contentSnippet": "Fable 5.2가 조카의 그림과 기존 게임을 바탕으로, 한 번의 요청을 받아 밤사이 플레이 가능한 12스테이지 벨트스크롤 액션 게임을 완성함\n기존 코드 대부분을 다시 작성하고 이미지 약 175개와 오디오 클립 140개를 생성했으며, 요청하지 않은 컷신, 부술 수 있는 상자, 엔딩까지 추가함\n게임을 플레이하는 봇을 만들어 헤드리스 브라우저에서 12개 스테이지를 모두 실행하고, 스크린샷으로 문제를 확인함\n가족과의 플레이테스트 후 기술과 캐릭터를 추가하면서, 최종적으로 18개 캐릭터와 4인 플레이를 지원하는 게임으로 확장됨\n최초 \n\n…",
+          "id": "https://news.hada.io/topic?id=36929",
+          "isoDate": "2026-11-10T02:35:11.000Z"
         },
         {
-          "title": "Payments Canada, 캐나다 실시간 결제 시스템 Real-Time Rail(RTR) 출시 발표",
-          "link": "https://news.hada.io/topic?id=36890&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-09T17:42:41.000Z",
+          "title": "Show GN: Daizy - 단어 암기에 특화된 예쁜 Anki/Quizlet Alternative",
+          "link": "https://news.hada.io/topic?id=36928&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-10T02:15:00.000Z",
+          "author": "lowintboy",
+          "content": "<div><p>UI가 예쁜 Anki Alternative를 만들어보고자 시작된 단어암기 앱입니다.</p><p>주요기능</p><ul><li>안드로이드, iOS, 웹 버전 지원</li><li>FSRS 알고리즘 기반 데일리 퀴즈</li><li>Anki 덱 Import / Export</li><li>Streak, Stats, Reminder(Notification)</li></ul><p>장점</p><ul><li>저렴한 비용(월 플랜 2,200원)</li><li>잡다하지 않은 기능, 심플한 UI</li></ul><p>향후 추가될 기능</p><ul><li>사용자의 단어 DB에 기반한 새 단어 추천</li><li>AI를 이용한 예문/이미지 생성</li><li>언어별 특화 기능(한자 획 쓰기, 히라가나-가타카나 변환 등)</li><li>태블릿 앱</li></ul><p>매일 눈팅만 하다가 직접 글을 남겨보는건 처음이네요. 항상 긱뉴스에서 좋은 글들 보고</p></div>…",
+          "contentSnippet": "UI가 예쁜 Anki Alternative를 만들어보고자 시작된 단어암기 앱입니다.\n주요기능\n\n안드로이드, iOS, 웹 버전 지원\nFSRS 알고리즘 기반 데일리 퀴즈\nAnki 덱 Import / Export\nStreak, Stats, Reminder(Notification)\n\n장점\n\n저렴한 비용(월 플랜 2,200원)\n잡다하지 않은 기능, 심플한 UI\n\n향후 추가될 기능\n\n사용자의 단어 DB에 기반한 새 단어 추천\nAI를 이용한 예문/이미지 생성\n언어별 특화 기능(한자 획 쓰기, 히라가나-가타카나 변환 등)\n태블릿 앱\n\n매일 눈팅만 하다가 직접 글을 남겨보는건 처음이네요. 항상 긱뉴스에서 좋은 글들 보고\n…",
+          "id": "https://news.hada.io/topic?id=36928",
+          "isoDate": "2026-11-10T02:15:00.000Z"
+        },
+        {
+          "title": "Show GN: Tacie – 지난 결정, 회의 중에 바로 찾아 주는 Mac용 AI 어시스턴트",
+          "link": "https://news.hada.io/topic?id=36925&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-10T01:56:02.000Z",
+          "author": "bearjb",
+          "content": "<div><p>회의에서 나온 질문은 “확인해 보고 공유드릴게요“로 넘어가고, 회의가 끝나면 뭘 정했는지 다시 묻는 일이 반복돼서 만들었습니다.</p><p>회의에서 찾아볼 질문이 나오면 GitHub, Linear, 노션에서 답과 근거를 찾아 바로 띄우고,<br> 회의가 끝나면 결정과 할 일은 알아서 정리, 여러 회의의 할 일은 기한별로 한곳에 정리됩니다.</p><p>사용 예시<br> 기획 회의: 무료 체험을 30일로 늘리자는 말이 나오면 3월 가격 회의록과 Linear 실험 결과(결제 전환율 14일 12.4%, 30일 9.1%)를 띄움. 같은 실험을 다시 하지 않고 그 자리에서 결정<br> 고객 미팅: 고</p></div>…",
+          "contentSnippet": "회의에서 나온 질문은 “확인해 보고 공유드릴게요“로 넘어가고, 회의가 끝나면 뭘 정했는지 다시 묻는 일이 반복돼서 만들었습니다.\n회의에서 찾아볼 질문이 나오면 GitHub, Linear, 노션에서 답과 근거를 찾아 바로 띄우고,\n 회의가 끝나면 결정과 할 일은 알아서 정리, 여러 회의의 할 일은 기한별로 한곳에 정리됩니다.\n사용 예시\n 기획 회의: 무료 체험을 30일로 늘리자는 말이 나오면 3월 가격 회의록과 Linear 실험 결과(결제 전환율 14일 12.4%, 30일 9.1%)를 띄움. 같은 실험을 다시 하지 않고 그 자리에서 결정\n 고객 미팅: 고\n…",
+          "id": "https://news.hada.io/topic?id=36925",
+          "isoDate": "2026-11-10T01:56:02.000Z"
+        },
+        {
+          "title": "1.58비트 터너리 양자화로 30B LLM을 맥북에서 돌리기: 0점에서 89.4%까지 복원한 기록",
+          "link": "https://news.hada.io/topic?id=36924&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-10T01:53:46.000Z",
+          "author": "jaehoonlee",
+          "content": "<div><ul><li>NVIDIA Nemotron 3.5 Lightning 30B(A3B)의 가중치를 -1, 0, +1 세 값으로만 표현하는 1.58비트 터너리 양자화로 <strong>약 60GB → 약 10GB</strong>까지 줄이고, 24GB 이상 맥북에서 돌릴 수 있게 한 기록 <ul><li>사전학습을 다시 하지 않는 PTQ 방식. 결과 모델은 Hugging Face에 MLX 프리뷰 체크포인트로 공개</li></ul></li><li>30B 모델은 4비트로 줄여도 가중치만 16GB 안팎이라, 런타임 메모리와 KV 캐시까지 더하면 16GB 기기에는 올라가지 않고 24GB 맥북에서도 빠듯함</li><li>BF16 모델을 그대로 터너리로 바꾸면 <strong>GSM8K·HumanEval 0.00점</strong>, IFEval-ko 10.36점</li><li>on/off-policy di</li></ul></div>…",
+          "contentSnippet": "NVIDIA Nemotron 3.5 Lightning 30B(A3B)의 가중치를 -1, 0, +1 세 값으로만 표현하는 1.58비트 터너리 양자화로 약 60GB → 약 10GB까지 줄이고, 24GB 이상 맥북에서 돌릴 수 있게 한 기록 \n사전학습을 다시 하지 않는 PTQ 방식. 결과 모델은 Hugging Face에 MLX 프리뷰 체크포인트로 공개\n\n30B 모델은 4비트로 줄여도 가중치만 16GB 안팎이라, 런타임 메모리와 KV 캐시까지 더하면 16GB 기기에는 올라가지 않고 24GB 맥북에서도 빠듯함\nBF16 모델을 그대로 터너리로 바꾸면 GSM8K·HumanEval 0.00점, IFEval-ko 10.36점\non/off-policy di\n\n…",
+          "id": "https://news.hada.io/topic?id=36924",
+          "isoDate": "2026-11-10T01:53:46.000Z"
+        },
+        {
+          "title": "ElevenLabs는 어떻게 영화 더빙에서 음성 AI 플랫폼으로 확장했나 [영상]",
+          "link": "https://news.hada.io/topic?id=36923&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-10T01:50:02.000Z",
           "author": "neo",
-          "content": "<div><ul><li><strong>Real-Time Rail(RTR)</strong> 은 참여 금융기관, 신용협동조합, 결제 서비스 제공업체가 고객의 결제를 연중무휴 24시간 실시간으로 교환, 청산, 결제할 수 있는 캐나다의 새 국가 결제 시스템임</li><li>기존 은행 및 결제 채널을 통해 즉시 결제와 <strong>실시간 현금 흐름 가시성</strong>을 제공하며, <strong>ISO 20022</strong> 기반의 풍부한 결제 데이터를 지원함</li><li>캐나다는 G7 국가 중 최초로 출시 시점부터 <strong>중앙집중형 사기 방지 서비스 사용을 의무화</strong>한 실시간 결제 시스템을 도입함</li><li>Wealthsimple, Questbank 등 <strong>8개 초기 참여사</strong>로 출발하며, 단계적 확대를 통해 출시 후 첫해 안</li></ul></div>…",
-          "contentSnippet": "Real-Time Rail(RTR) 은 참여 금융기관, 신용협동조합, 결제 서비스 제공업체가 고객의 결제를 연중무휴 24시간 실시간으로 교환, 청산, 결제할 수 있는 캐나다의 새 국가 결제 시스템임\n기존 은행 및 결제 채널을 통해 즉시 결제와 실시간 현금 흐름 가시성을 제공하며, ISO 20022 기반의 풍부한 결제 데이터를 지원함\n캐나다는 G7 국가 중 최초로 출시 시점부터 중앙집중형 사기 방지 서비스 사용을 의무화한 실시간 결제 시스템을 도입함\nWealthsimple, Questbank 등 8개 초기 참여사로 출발하며, 단계적 확대를 통해 출시 후 첫해 안\n\n…",
-          "id": "https://news.hada.io/topic?id=36890",
-          "isoDate": "2026-11-09T17:42:41.000Z"
+          "content": "<div><ul><li>ElevenLabs는 <strong>오디오 모델을 직접 연구하고, 그 기술을 고객의 실제 업무에 적용</strong>해 성장함. 영화 더빙에서 출발해 콘텐츠 제작과 콜센터 음성 에이전트로 확장함</li><li>출발점은 감정과 원래 목소리를 보존하는 더빙이었지만, 기술적 한계와 창작자에게 당장 필요한 작업을 확인한 뒤 <strong>고품질 음성 생성</strong>부터 해결함</li><li>연구는 오디오에 집중하고, 제품에는 외부 LLM과 지식, 시스템 연동을 결합함. 장기적으로 연구 격차가 줄어들 가능성에 대비해 <strong>제품과 음성 마켓플레이스</strong>도 구축함</li><li>소규모 자율 팀과 <strong>제품팀 소속 현장 엔지니어(FDE)</strong> 가 고객과 함</li></ul></div>…",
+          "contentSnippet": "ElevenLabs는 오디오 모델을 직접 연구하고, 그 기술을 고객의 실제 업무에 적용해 성장함. 영화 더빙에서 출발해 콘텐츠 제작과 콜센터 음성 에이전트로 확장함\n출발점은 감정과 원래 목소리를 보존하는 더빙이었지만, 기술적 한계와 창작자에게 당장 필요한 작업을 확인한 뒤 고품질 음성 생성부터 해결함\n연구는 오디오에 집중하고, 제품에는 외부 LLM과 지식, 시스템 연동을 결합함. 장기적으로 연구 격차가 줄어들 가능성에 대비해 제품과 음성 마켓플레이스도 구축함\n소규모 자율 팀과 제품팀 소속 현장 엔지니어(FDE) 가 고객과 함\n\n…",
+          "id": "https://news.hada.io/topic?id=36923",
+          "isoDate": "2026-11-10T01:50:02.000Z"
         },
         {
-          "title": "malloc은 대체 무슨 일을 할까?",
-          "link": "https://news.hada.io/topic?id=36889&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-09T17:39:41.000Z",
+          "title": "왜 이 모든 OT 시스템이 네트워크에 연결돼 있는지 이야기해 보자",
+          "link": "https://news.hada.io/topic?id=36922&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-10T01:04:26.000Z",
           "author": "neo",
-          "content": "<div><ul><li><code>malloc</code>은 커널에서 큰 메모리 영역을 확보한 뒤 <strong>사용자 공간에서 나눠 할당</strong>해 시스템 호출 비용을 줄임. <code>glibc</code>에서 <code>malloc(16)</code>을 1,000번 호출한 실험은 첫 호출에서만 <code>brk</code>를 두 번 실행함</li><li>각 할당에는 크기를 기록하는 <strong>청크 헤더</strong>가 있으며, 해제한 공간은 재사용함. 빈 청크를 분할하거나 인접한 청크끼리 병합해 요청을 처리함</li><li><strong>가상 메모리 확보와 실제 RAM 사용은 다름</strong>. 실험에서는 페이지에 처음 쓸 때 물리 메모리가 붙었으며, 사용한 메모리를 <code>free</code>해도 할당자가 커널에 반환하지 않으면 RAM에 남음</li><li>힙 끝을 낮추는 방식은 <strong>힙 최상</strong></li></ul></div>…",
-          "contentSnippet": "malloc은 커널에서 큰 메모리 영역을 확보한 뒤 사용자 공간에서 나눠 할당해 시스템 호출 비용을 줄임. glibc에서 malloc(16)을 1,000번 호출한 실험은 첫 호출에서만 brk를 두 번 실행함\n각 할당에는 크기를 기록하는 청크 헤더가 있으며, 해제한 공간은 재사용함. 빈 청크를 분할하거나 인접한 청크끼리 병합해 요청을 처리함\n가상 메모리 확보와 실제 RAM 사용은 다름. 실험에서는 페이지에 처음 쓸 때 물리 메모리가 붙었으며, 사용한 메모리를 free해도 할당자가 커널에 반환하지 않으면 RAM에 남음\n힙 끝을 낮추는 방식은 힙 최상\n\n…",
-          "id": "https://news.hada.io/topic?id=36889",
-          "isoDate": "2026-11-09T17:39:41.000Z"
+          "content": "<div><ul><li><strong>OT의 네트워크 연결</strong>은 운영 효율을 높이고 원격 제어를 도입하며 유지보수 비용을 줄이는 결정이 누적된 결과로, 이제 전력과 수도, 식품 보관에 깊이 얽혀 있어 단순히 끊기 어려움</li><li><strong>IT/OT 융합과 공급업체의 구축 방식 표준화</strong>로 산업 시스템의 비용은 줄었지만, 공격자가 익숙한 기술과 반복 가능한 구조가 확산돼 공격의 규모 확대와 자동화도 쉬워짐</li><li><strong>원격 지원</strong>은 산업 운영과 공급업체 계약의 일부가 됐으며, 공식 DMZ 외에도 현장 직원과 여러 업체가 설치한 접속 경로가 존재할 수 있음</li><li><strong>분산 설비와 예산 부족, 긴 수명주기</strong>가 겹치는</li></ul></div>…",
+          "contentSnippet": "OT의 네트워크 연결은 운영 효율을 높이고 원격 제어를 도입하며 유지보수 비용을 줄이는 결정이 누적된 결과로, 이제 전력과 수도, 식품 보관에 깊이 얽혀 있어 단순히 끊기 어려움\nIT/OT 융합과 공급업체의 구축 방식 표준화로 산업 시스템의 비용은 줄었지만, 공격자가 익숙한 기술과 반복 가능한 구조가 확산돼 공격의 규모 확대와 자동화도 쉬워짐\n원격 지원은 산업 운영과 공급업체 계약의 일부가 됐으며, 공식 DMZ 외에도 현장 직원과 여러 업체가 설치한 접속 경로가 존재할 수 있음\n분산 설비와 예산 부족, 긴 수명주기가 겹치는\n\n…",
+          "id": "https://news.hada.io/topic?id=36922",
+          "isoDate": "2026-11-10T01:04:26.000Z"
         },
         {
-          "title": "HN에서 쓰신 댓글을 봤습니다",
-          "link": "https://news.hada.io/topic?id=36888&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-09T16:32:49.000Z",
+          "title": "DeepX, 2세대 AI 칩 DX-M2 테이프아웃 완료 - 5W 미만에서 최대 1,000억 파라미터 모델 추론 목표",
+          "link": "https://news.hada.io/topic?id=36920&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-10T00:44:04.000Z",
           "author": "neo",
-          "content": "<div><ul><li>Josh Strange가 블로그와 HN 댓글을 통해 받는 이메일은 최근 2년 사이 유익한 교류에서 <strong>영업 제안 위주</strong>로 바뀜</li><li><strong>LLM</strong>은 실제 HN 댓글에 맞춘 그럴듯한 이메일 작성을 쉽게 만들었으며, 연락 목적을 밝히지 않고 관심 있는 질문처럼 접근하는 사례가 있음</li><li>짧은 개방형 질문에 여러 문단으로 답하면 뒤늦게 제품이나 서비스를 권하는 방식은, 받는 사람의 시간과 노력을 소모시키는 <strong>증폭 공격</strong>과 같음</li><li>문제는 콜드 이메일 자체보다 <strong>영업 목적을 숨기는 기만</strong>에 있으며, Strange는 이런 방식으로 홍보하는 제품은 사용하지 않기로 함</li><li>이제는 <strong>짧</strong></li></ul></div>…",
-          "contentSnippet": "Josh Strange가 블로그와 HN 댓글을 통해 받는 이메일은 최근 2년 사이 유익한 교류에서 영업 제안 위주로 바뀜\nLLM은 실제 HN 댓글에 맞춘 그럴듯한 이메일 작성을 쉽게 만들었으며, 연락 목적을 밝히지 않고 관심 있는 질문처럼 접근하는 사례가 있음\n짧은 개방형 질문에 여러 문단으로 답하면 뒤늦게 제품이나 서비스를 권하는 방식은, 받는 사람의 시간과 노력을 소모시키는 증폭 공격과 같음\n문제는 콜드 이메일 자체보다 영업 목적을 숨기는 기만에 있으며, Strange는 이런 방식으로 홍보하는 제품은 사용하지 않기로 함\n이제는 짧\n\n…",
-          "id": "https://news.hada.io/topic?id=36888",
-          "isoDate": "2026-11-09T16:32:49.000Z"
+          "content": "<div><ul><li>한국 엣지 AI 반도체 스타트업 딥엑스가 <strong>2세대 가속기 DX-M2의 테이프아웃을 완료</strong>함. 로봇과 드론처럼 전력과 발열 제약이 큰 기기에서 생성형 AI를 직접 실행하도록 설계함</li><li><strong>5W 미만에서 전체 200억~1,000억 파라미터 규모의 모델을 초당 10~30토큰으로 실행</strong>하는 것이 목표. 활성 파라미터는 약 <strong>30억~200억 개</strong>이며, 메모리 대역폭은 전작의 3배인 <strong>150GB/s</strong>로 높임</li><li>Samsung의 <strong>LPDDR5x-PIM</strong>으로 GEMV 연산을 넘기면 Llama3.1-8B 처리량이 DX-M2 단독 대비 <strong>6.7배</strong>가 될 것으로 시뮬레이션에서 예측함. 다만 전체 소비전력도 2.7배로 늘어나며, 동일 전력에서는 약 2배의 성능 향상을 예상함</li></ul></div>…",
+          "contentSnippet": "한국 엣지 AI 반도체 스타트업 딥엑스가 2세대 가속기 DX-M2의 테이프아웃을 완료함. 로봇과 드론처럼 전력과 발열 제약이 큰 기기에서 생성형 AI를 직접 실행하도록 설계함\n5W 미만에서 전체 200억~1,000억 파라미터 규모의 모델을 초당 10~30토큰으로 실행하는 것이 목표. 활성 파라미터는 약 30억~200억 개이며, 메모리 대역폭은 전작의 3배인 150GB/s로 높임\nSamsung의 LPDDR5x-PIM으로 GEMV 연산을 넘기면 Llama3.1-8B 처리량이 DX-M2 단독 대비 6.7배가 될 것으로 시뮬레이션에서 예측함. 다만 전체 소비전력도 2.7배로 늘어나며, 동일 전력에서는 약 2배의 성능 향상을 예상함\n\n…",
+          "id": "https://news.hada.io/topic?id=36920",
+          "isoDate": "2026-11-10T00:44:04.000Z"
         },
         {
-          "title": "ChatGPT Desktop이 사용자의 SSH 에이전트를 원격 머신으로 전달함",
-          "link": "https://news.hada.io/topic?id=36887&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-09T15:32:25.000Z",
+          "title": "CUI - C용 네이티브 UI 컴포넌트",
+          "link": "https://news.hada.io/topic?id=36919&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-10T00:41:04.000Z",
           "author": "neo",
-          "content": "<div><ul><li>ChatGPT Desktop은 <strong>SSH 에이전트를 원격 머신으로 전달</strong>함</li><li>원격 머신에서 실행되는 에이전트가 <strong>사용자의 로컬 SSH 자격 증명</strong>으로 인증할 수 있음</li><li>이를 통해 에이전트가 <strong>GitHub 비공개 저장소에 푸시</strong>하는 것도 가능함</li><li>이 동작의 근거는 OpenAI의 <strong>Codex PR #28131에 달린 토론 댓글</strong>임</li><li>근거가 되는 대상은 PR 전체가 아니라 <strong>특정 댓글 <code>discussion_r3410013180</code></strong> 임</li></ul><hr><h2>SSH 에이전트 전달과 원격 인증</h2><ul><li>ChatGPT Desktop이 사용자의 SSH 에이전트를 원격 머신으로 전달하면, 원격에서 실행되는 에이전트가 <strong>로컬 SSH 자격 증명으로 인증</strong>할 수 있음</li><li>이를</li></ul></div>…",
-          "contentSnippet": "ChatGPT Desktop은 SSH 에이전트를 원격 머신으로 전달함\n원격 머신에서 실행되는 에이전트가 사용자의 로컬 SSH 자격 증명으로 인증할 수 있음\n이를 통해 에이전트가 GitHub 비공개 저장소에 푸시하는 것도 가능함\n이 동작의 근거는 OpenAI의 Codex PR #28131에 달린 토론 댓글임\n근거가 되는 대상은 PR 전체가 아니라 특정 댓글 discussion_r3410013180 임\n\nSSH 에이전트 전달과 원격 인증\n\nChatGPT Desktop이 사용자의 SSH 에이전트를 원격 머신으로 전달하면, 원격에서 실행되는 에이전트가 로컬 SSH 자격 증명으로 인증할 수 있음\n이를\n\n…",
-          "id": "https://news.hada.io/topic?id=36887",
-          "isoDate": "2026-11-09T15:32:25.000Z"
+          "content": "<div><ul><li><strong>CUI</strong>는 하나의 C99 코드베이스로 Windows, Mac, Linux에서 사용하는 약 <strong>160개 UI 컴포넌트</strong>를 제공하며, 스프링 모션과 전체 키보드 지원을 갖춤</li><li><strong>즉시 모드(immediate mode)</strong> 방식으로 컴포넌트 함수가 자신을 그리고 발생한 동작을 반환함. 개발자의 변수를 상태로 사용하고 매 프레임 화면 전체를 다시 기술해 별도 상태 동기화가 필요 없음</li><li>데이터 그리드, 명령 팔레트, 노드 편집기 등 <strong>완성형 컴포넌트</strong>를 제공하며, 별도 스타일링 없이도 완성된 외관을 갖추도록 함께 설계함</li><li><strong>의존성 없이</strong> 완성된 앱 크기가 약 250KB이며, 프로젝트가 제</li></ul></div>…",
+          "contentSnippet": "CUI는 하나의 C99 코드베이스로 Windows, Mac, Linux에서 사용하는 약 160개 UI 컴포넌트를 제공하며, 스프링 모션과 전체 키보드 지원을 갖춤\n즉시 모드(immediate mode) 방식으로 컴포넌트 함수가 자신을 그리고 발생한 동작을 반환함. 개발자의 변수를 상태로 사용하고 매 프레임 화면 전체를 다시 기술해 별도 상태 동기화가 필요 없음\n데이터 그리드, 명령 팔레트, 노드 편집기 등 완성형 컴포넌트를 제공하며, 별도 스타일링 없이도 완성된 외관을 갖추도록 함께 설계함\n의존성 없이 완성된 앱 크기가 약 250KB이며, 프로젝트가 제\n\n…",
+          "id": "https://news.hada.io/topic?id=36919",
+          "isoDate": "2026-11-10T00:41:04.000Z"
         },
         {
-          "title": "인류는 다시는 Wikipedia 같은 프로젝트를 만들지 못할 것이다",
-          "link": "https://news.hada.io/topic?id=36885&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-09T14:32:23.000Z",
+          "title": "Google, 8세대 TPU에 기밀 추론용 8tx와 긴 컨텍스트용 8i Max 추가",
+          "link": "https://news.hada.io/topic?id=36918&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-10T00:38:04.000Z",
           "author": "neo",
-          "content": "<div><ul><li>협업형 온라인 백과사전 <strong>Wikipedia</strong>는 출범 6년 만에 약 600년간 유지됐던 영락대전의 세계 최대 참고문헌 기록을 넘어섬</li><li>플로리다의 어수선한 사무실에서 운영하던 <strong>스타트업</strong>으로 출발함</li><li>현재 <strong>300개 이상 언어</strong>로 작성된 콘텐츠가 총 <strong>300억 단어</strong>에 달함</li><li><strong>라틴어판</strong>만으로도 Encyclopaedia Britannica보다 많은 항목을 보유함</li><li><strong>25주년</strong>을 맞아 중대한 새로운 위협에 직면했지만, 제공된 본문에서는 위협의 구체적인 내용이나 제목의 전망을 뒷받침하는 근거를 확인할 수 없음</li></ul><hr><h2>영락대전의 기록을 넘어선 Wikipedia</h2><ul><li><strong>영락대전</strong>은 15세기 명나라 황제</li></ul></div>…",
-          "contentSnippet": "협업형 온라인 백과사전 Wikipedia는 출범 6년 만에 약 600년간 유지됐던 영락대전의 세계 최대 참고문헌 기록을 넘어섬\n플로리다의 어수선한 사무실에서 운영하던 스타트업으로 출발함\n현재 300개 이상 언어로 작성된 콘텐츠가 총 300억 단어에 달함\n라틴어판만으로도 Encyclopaedia Britannica보다 많은 항목을 보유함\n25주년을 맞아 중대한 새로운 위협에 직면했지만, 제공된 본문에서는 위협의 구체적인 내용이나 제목의 전망을 뒷받침하는 근거를 확인할 수 없음\n\n영락대전의 기록을 넘어선 Wikipedia\n\n영락대전은 15세기 명나라 황제\n\n…",
-          "id": "https://news.hada.io/topic?id=36885",
-          "isoDate": "2026-11-09T14:32:23.000Z"
+          "content": "<div><ul><li>Google이 8세대 TPU에 <strong>TPU 8tx</strong>와 <strong>TPU 8i Max</strong>를 추가해, 대규모 학습부터 저지연 추론, 기밀 컴퓨팅, 대규모 컨텍스트까지 담당하는 네 가지 시스템을 구성함</li><li>기존 TPU 칩을 바탕으로 <strong>패키징, 메모리, 네트워크, 보안 구성을 바꿔</strong> 용도별 시스템을 만듦. Google은 이 방식으로 특화 시스템을 수년 대신 수개월 안에 내놓을 수 있다고 봄</li><li><strong>TPU 8tx</strong>는 사용 중인 민감 데이터와 모델 가중치까지 하드웨어 수준에서 보호하며, TPU 8t 대비 지연 시간을 최대 절반으로 줄이고 같은 시스템에서 비공개 미세 조정과 에이전트 실행을 지원함</li><li><strong>TPU 8i</strong></li></ul></div>…",
+          "contentSnippet": "Google이 8세대 TPU에 TPU 8tx와 TPU 8i Max를 추가해, 대규모 학습부터 저지연 추론, 기밀 컴퓨팅, 대규모 컨텍스트까지 담당하는 네 가지 시스템을 구성함\n기존 TPU 칩을 바탕으로 패키징, 메모리, 네트워크, 보안 구성을 바꿔 용도별 시스템을 만듦. Google은 이 방식으로 특화 시스템을 수년 대신 수개월 안에 내놓을 수 있다고 봄\nTPU 8tx는 사용 중인 민감 데이터와 모델 가중치까지 하드웨어 수준에서 보호하며, TPU 8t 대비 지연 시간을 최대 절반으로 줄이고 같은 시스템에서 비공개 미세 조정과 에이전트 실행을 지원함\nTPU 8i\n\n…",
+          "id": "https://news.hada.io/topic?id=36918",
+          "isoDate": "2026-11-10T00:38:04.000Z"
         },
         {
-          "title": "멋진 종이비행기 접기",
-          "link": "https://news.hada.io/topic?id=36884&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-09T13:31:57.000Z",
+          "title": "raea - AI가 코드로 만든 영상/3D/게임을 GPU에서 렌더링하는 엔진",
+          "link": "https://news.hada.io/topic?id=36917&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-10T00:30:02.000Z",
+          "author": "xguru",
+          "content": "<div><ul><li>만들고 싶은 것을 말하면 <strong>AI 에이전트가 React/TypeScript 코드로 작성</strong>하고 GPU로 렌더링</li><li><strong>영상 및 모션 그래픽</strong>은 텍스트, SVG, 애니메이션을 합성해 MP4로 작성</li><li><strong>3D/게임</strong>은 Bevy로 렌더링하며, 입력/물리/사운드를 넣어 실시간으로 실행하거나 독립 실행 프로그램으로 제작</li><li>에이전트가 <strong>특정 프레임을 이미지로 뽑아 확인하고 코드를 고치는 작업</strong>까지 할 수 있음</li><li>잘린 텍스트, 낮은 대비, 화면 멈춤, 음량 문제를 검사하는 명령도 제공</li><li>Claude Code용 플러그인과 에이전트 스킬 제공</li><li><strong>Rust/Bevy 기반</strong>이며 macOS/Linux/Windows 빌드 제공</li><li><a href=\"https://raea.io/\">제작</a></li></ul></div>…",
+          "contentSnippet": "만들고 싶은 것을 말하면 AI 에이전트가 React/TypeScript 코드로 작성하고 GPU로 렌더링\n영상 및 모션 그래픽은 텍스트, SVG, 애니메이션을 합성해 MP4로 작성\n3D/게임은 Bevy로 렌더링하며, 입력/물리/사운드를 넣어 실시간으로 실행하거나 독립 실행 프로그램으로 제작\n에이전트가 특정 프레임을 이미지로 뽑아 확인하고 코드를 고치는 작업까지 할 수 있음\n잘린 텍스트, 낮은 대비, 화면 멈춤, 음량 문제를 검사하는 명령도 제공\nClaude Code용 플러그인과 에이전트 스킬 제공\nRust/Bevy 기반이며 macOS/Linux/Windows 빌드 제공\n제작\n\n…",
+          "id": "https://news.hada.io/topic?id=36917",
+          "isoDate": "2026-11-10T00:30:02.000Z"
+        },
+        {
+          "title": "Show GN: Woodada - CPU와 메모리 사용률에 따라 작업표시줄 위를 달리는 고양이",
+          "link": "https://news.hada.io/topic?id=36916&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-10T00:22:18.000Z",
+          "author": "jht0717",
+          "content": "<div><p>CPU와 메모리 사용률에 따라 고양이가 작업표시줄(맥은 독) 위를 우다다 뛰어다니는 데스크톱 앱을 직접 만들었습니다.<br> Windows 10/11과 macOS 12 이상에서 쓸 수 있고, 가입 없이 다운로드해서 바로 실행하면 됩니다.</p><p>만든 계기<br> 맥에서 RunCat을 매일 켜 두고 쓰면서 메뉴 막대 아이콘 안에서 열심히 달리는 고양이를 보다가, 실제로 화면 위를 뛰어다니면 어떨까 싶어서 만들기 시작했습니다.<br> 고양이를 작업표시줄 위로 꺼내 놓으니 CPU와 메모리 사용량이 한눈에 보였습니다. 여기에 달린 만큼 생선이 쌓이는 시스템을 붙여서, 생선</p></div>…",
+          "contentSnippet": "CPU와 메모리 사용률에 따라 고양이가 작업표시줄(맥은 독) 위를 우다다 뛰어다니는 데스크톱 앱을 직접 만들었습니다.\n Windows 10/11과 macOS 12 이상에서 쓸 수 있고, 가입 없이 다운로드해서 바로 실행하면 됩니다.\n만든 계기\n 맥에서 RunCat을 매일 켜 두고 쓰면서 메뉴 막대 아이콘 안에서 열심히 달리는 고양이를 보다가, 실제로 화면 위를 뛰어다니면 어떨까 싶어서 만들기 시작했습니다.\n 고양이를 작업표시줄 위로 꺼내 놓으니 CPU와 메모리 사용량이 한눈에 보였습니다. 여기에 달린 만큼 생선이 쌓이는 시스템을 붙여서, 생선\n…",
+          "id": "https://news.hada.io/topic?id=36916",
+          "isoDate": "2026-11-10T00:22:18.000Z"
+        },
+        {
+          "title": "Terminal2Shell: 모든 주요 OS에서 즉시 셸 접근을 허용하는 치명적 결함",
+          "link": "https://news.hada.io/topic?id=36915&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-10T00:05:45.000Z",
           "author": "neo",
-          "content": "<div><ul><li><strong>Foldable Flight</strong>는 다양한 종이비행기 디자인을 둘러보고, 각 기체를 선택해 접는 방법을 확인할 수 있는 사이트임</li><li>기체마다 <strong>접기 난이도</strong>와 속도, 활공, 정확도 점수를 제공하며, 매우 쉬운 모델부터 전문가 수준의 모델까지 갖춤</li><li><strong>Unite</strong>는 체공 시간 31.2초의 세계 기록 보유 기체이며, Firefly 5는 300피트 이상 날 수 있는 세계 기록용 시제품임</li><li>장거리 비행과 활공뿐 아니라 <strong>부메랑 비행</strong>, 날갯짓, 나선형 비행 등 서로 다른 비행 특성을 가진 디자인을 제공함</li><li><strong>비대칭 기체</strong>, 입체 형태를 고정하는 구조, 실제 전투기를 본뜬 디자인과 P</li></ul></div>…",
-          "contentSnippet": "Foldable Flight는 다양한 종이비행기 디자인을 둘러보고, 각 기체를 선택해 접는 방법을 확인할 수 있는 사이트임\n기체마다 접기 난이도와 속도, 활공, 정확도 점수를 제공하며, 매우 쉬운 모델부터 전문가 수준의 모델까지 갖춤\nUnite는 체공 시간 31.2초의 세계 기록 보유 기체이며, Firefly 5는 300피트 이상 날 수 있는 세계 기록용 시제품임\n장거리 비행과 활공뿐 아니라 부메랑 비행, 날갯짓, 나선형 비행 등 서로 다른 비행 특성을 가진 디자인을 제공함\n비대칭 기체, 입체 형태를 고정하는 구조, 실제 전투기를 본뜬 디자인과 P\n\n…",
-          "id": "https://news.hada.io/topic?id=36884",
-          "isoDate": "2026-11-09T13:31:57.000Z"
+          "content": "<div><ul><li><strong>터미널을 열면 셸이 실행되는 정상 동작</strong>을 설계 수준의 취약점으로 포장한 보안 풍자 페이지임</li><li>공격은 터미널을 여는 것으로 끝나며, 필요한 조건은 <strong>로컬 접근, 작동하는 키보드, 터미널 앱을 찾는 능력</strong>임</li><li>macOS, Linux, Windows부터 BSD, 라우터, VS Code까지 영향 대상으로 나열하고, <strong>Microsoft Paint는 영향 없음</strong>으로 구분함</li><li>터미널을 열지 않기, 느리게 타이핑하기, 키보드 제거하기 등을 완화책으로 내놓으며 <strong>셸 사용 자체를 공격으로 취급</strong>하는 농담을 이어감</li><li>공개 일정과 FAQ는 정상 기능에 취약점 이름, 로고, 도메인을 붙이고 공</li></ul></div>…",
+          "contentSnippet": "터미널을 열면 셸이 실행되는 정상 동작을 설계 수준의 취약점으로 포장한 보안 풍자 페이지임\n공격은 터미널을 여는 것으로 끝나며, 필요한 조건은 로컬 접근, 작동하는 키보드, 터미널 앱을 찾는 능력임\nmacOS, Linux, Windows부터 BSD, 라우터, VS Code까지 영향 대상으로 나열하고, Microsoft Paint는 영향 없음으로 구분함\n터미널을 열지 않기, 느리게 타이핑하기, 키보드 제거하기 등을 완화책으로 내놓으며 셸 사용 자체를 공격으로 취급하는 농담을 이어감\n공개 일정과 FAQ는 정상 기능에 취약점 이름, 로고, 도메인을 붙이고 공\n\n…",
+          "id": "https://news.hada.io/topic?id=36915",
+          "isoDate": "2026-11-10T00:05:45.000Z"
         },
         {
-          "title": "Show GN: 걸으면 손그림 동물이 열리는 iOS 걷기 게임, CanGoGo",
-          "link": "https://news.hada.io/topic?id=36882&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-09T12:47:56.000Z",
-          "author": "vtch99",
-          "content": "<div><p>안녕하세요, 귀여운 동물 수집 만보기 게임 <strong>CanGoGo(캔고고)</strong> 를 만든 1인 개발자입니다.</p><p><a href=\"https://cangogo.canstudio.top/images/og-image.png\" rel=\"noopener noreferrer\">[IMG] CanGoGo Banner</a></p><p>하루 목표 걸음 수를 채우면 알에서 귀여운 동물이 부화하고, 걸으면서 획득한 사료로 동물들을 키우며 60여 종 이상의 동물 도감을 채워나가는 힐링 걷기 앱입니다.</p><h4>💡 왜 만들게 되었나요?</h4><p>기존 만보기 앱들은 대부분 숫자로만 채워진 헬스케어 대시보드이거나, 배너 광고와 금융 상품 포인트 마케팅으로 가득 차 있었습니다.<br> 저는 \"오늘도 만 보를 채워야 한다\"는 압박감 대신, <strong>\"오늘 퇴근길에 15분만 더 걸어서 새 동물을</strong></p></div>…",
-          "contentSnippet": "안녕하세요, 귀여운 동물 수집 만보기 게임 CanGoGo(캔고고) 를 만든 1인 개발자입니다.\n[IMG] CanGoGo Banner\n하루 목표 걸음 수를 채우면 알에서 귀여운 동물이 부화하고, 걸으면서 획득한 사료로 동물들을 키우며 60여 종 이상의 동물 도감을 채워나가는 힐링 걷기 앱입니다.\n💡 왜 만들게 되었나요?\n기존 만보기 앱들은 대부분 숫자로만 채워진 헬스케어 대시보드이거나, 배너 광고와 금융 상품 포인트 마케팅으로 가득 차 있었습니다.\n 저는 \"오늘도 만 보를 채워야 한다\"는 압박감 대신, \"오늘 퇴근길에 15분만 더 걸어서 새 동물을\n…",
-          "id": "https://news.hada.io/topic?id=36882",
-          "isoDate": "2026-11-09T12:47:56.000Z"
-        },
-        {
-          "title": "Next-Concept Modeling: 거친 표현부터 세밀하게 다듬는 빠른 병렬 텍스트 생성",
-          "link": "https://news.hada.io/topic?id=36880&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-09T11:42:08.000Z",
+          "title": "배포판 패키지를 빌드하는 데 에너지가 얼마나 들까",
+          "link": "https://news.hada.io/topic?id=36914&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-10T00:02:45.000Z",
           "author": "neo",
-          "content": "<div><ul><li><strong>Next-Concept Modeling(NCM)</strong> 은 텍스트를 여러 해상도의 이산 코드로 압축한 뒤, 단계별 코드를 병렬 생성하는 2단계 프레임워크임</li><li><strong>확산 언어 모델(DLM)</strong> 이 매 단계 전체 시퀀스를 처리하는 것과 달리, 초기 단계에서는 짧은 코드 시퀀스만 처리해 생성 단계 수와 단계당 연산량을 함께 줄임</li><li>비슷한 파라미터 규모에서 가장 강력한 DLM 기준 모델과 비교해, LM1B에서는 더 나은 생성 퍼플렉시티로 <strong>21배</strong>, XSum에서는 동등한 ROUGE-L로 <strong>31배</strong> 빠르게 생성함</li><li>무조건부 생성에서 데이터에 가까운 표본 엔트로피를 유지하면서 <strong>함수 평가 횟수를</strong></li></ul></div>…",
-          "contentSnippet": "Next-Concept Modeling(NCM) 은 텍스트를 여러 해상도의 이산 코드로 압축한 뒤, 단계별 코드를 병렬 생성하는 2단계 프레임워크임\n확산 언어 모델(DLM) 이 매 단계 전체 시퀀스를 처리하는 것과 달리, 초기 단계에서는 짧은 코드 시퀀스만 처리해 생성 단계 수와 단계당 연산량을 함께 줄임\n비슷한 파라미터 규모에서 가장 강력한 DLM 기준 모델과 비교해, LM1B에서는 더 나은 생성 퍼플렉시티로 21배, XSum에서는 동등한 ROUGE-L로 31배 빠르게 생성함\n무조건부 생성에서 데이터에 가까운 표본 엔트로피를 유지하면서 함수 평가 횟수를\n\n…",
-          "id": "https://news.hada.io/topic?id=36880",
-          "isoDate": "2026-11-09T11:42:08.000Z"
+          "content": "<div><ul><li><strong>Casuarina Linux</strong> 빌드 서버는 7개월 조금 넘는 기간 동안 패키지 약 5,000건을 빌드하며 <strong>98.4kWh</strong>를 사용함</li><li>전력 단가 AU$0.33/kWh를 적용한 비용은 <strong>AU$32.47</strong>로, 일일 기본요금과 태양광 발전, 사전 빌드용 워크스테이션을 제외하면 월 AU$5 미만임</li><li>패키지를 갱신하는 사람이 한 명뿐이어서 빌드할 때만 서버를 켰으며, <strong>유휴 소비전력 약 55W</strong>를 피할 수 있었음</li><li>모든 패키지를 데스크톱에서 먼저 빌드했으므로 <strong>실제 총사용량은 측정치의 두 배 이상일 가능성</strong>이 있음</li><li>가장 오래 걸린 <strong>Chromium</strong> 빌드는 약 4시간이 소요됐으며, 서버의 최대 부</li></ul></div>…",
+          "contentSnippet": "Casuarina Linux 빌드 서버는 7개월 조금 넘는 기간 동안 패키지 약 5,000건을 빌드하며 98.4kWh를 사용함\n전력 단가 AU$0.33/kWh를 적용한 비용은 AU$32.47로, 일일 기본요금과 태양광 발전, 사전 빌드용 워크스테이션을 제외하면 월 AU$5 미만임\n패키지를 갱신하는 사람이 한 명뿐이어서 빌드할 때만 서버를 켰으며, 유휴 소비전력 약 55W를 피할 수 있었음\n모든 패키지를 데스크톱에서 먼저 빌드했으므로 실제 총사용량은 측정치의 두 배 이상일 가능성이 있음\n가장 오래 걸린 Chromium 빌드는 약 4시간이 소요됐으며, 서버의 최대 부\n\n…",
+          "id": "https://news.hada.io/topic?id=36914",
+          "isoDate": "2026-11-10T00:02:45.000Z"
         },
         {
-          "title": "GPUI 비판",
-          "link": "https://news.hada.io/topic?id=36879&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-09T11:39:08.000Z",
+          "title": "Show GN: Visitown - 방문자가 픽셀 마을을 걸어 다니는 실시간 방문자 분석",
+          "link": "https://news.hada.io/topic?id=36911&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-09T23:16:56.000Z",
+          "author": "dlghals77",
+          "content": "<div><p>웹사이트 방문자를 픽셀 캐릭터로, 페이지를 마을 건물로 보여 주는 실시간 방문자 분석 도구를 만들었어요.</p><ol><li>방문자가 페이지를 옮기면 캐릭터가 건물 사이를 실제로 걸어가요. 봇은 회색 로봇, 재방문자는 모자, 검색 유입은 돋보기를 들고 나타나요.</li><li>설치는 스크립트 한 줄이고 SDK는 gzip 약 7KB예요.</li><li>쿠키를 쓰지 않고 IP도 저장하지 않아요(나라 코드만 남겨요). 원본 기록은 7일 뒤 지워져요.</li><li>테마가 10종 있어요(한옥 장터·사이버펑크·우주 정거장·캔디 마을 등). \"두 나라에서 방문\", \"새벽 0~5시 방문자\"처럼 목표를 채우면 하나</li></ol></div>…",
+          "contentSnippet": "웹사이트 방문자를 픽셀 캐릭터로, 페이지를 마을 건물로 보여 주는 실시간 방문자 분석 도구를 만들었어요.\n\n방문자가 페이지를 옮기면 캐릭터가 건물 사이를 실제로 걸어가요. 봇은 회색 로봇, 재방문자는 모자, 검색 유입은 돋보기를 들고 나타나요.\n설치는 스크립트 한 줄이고 SDK는 gzip 약 7KB예요.\n쿠키를 쓰지 않고 IP도 저장하지 않아요(나라 코드만 남겨요). 원본 기록은 7일 뒤 지워져요.\n테마가 10종 있어요(한옥 장터·사이버펑크·우주 정거장·캔디 마을 등). \"두 나라에서 방문\", \"새벽 0~5시 방문자\"처럼 목표를 채우면 하나\n\n…",
+          "id": "https://news.hada.io/topic?id=36911",
+          "isoDate": "2026-11-09T23:16:56.000Z"
+        },
+        {
+          "title": "Claude Fable 5.2, Artificial Analysis 지능 지수에서 역대 최고인 65점 기록",
+          "link": "https://news.hada.io/topic?id=36910&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-09T22:41:15.000Z",
           "author": "neo",
-          "content": "<div><ul><li><strong>GPUI, egui, Elm 계열의 상태 모델</strong>은 작은 UI에서는 단순하지만, 복잡한 데스크톱 앱에서 정밀한 갱신을 구현하려면 그 단순성을 잃을 수 있음</li><li>GPUI의 <strong><code>notify</code>는 엔티티만 식별</strong>하고 변경된 필드를 알리지 못함. 자체 벤치마크에서는 행마다 캐시된 뷰를 둔 3,000행 UI의 라벨 하나를 바꾸는 데 8.4ms가 걸렸으며, 비용이 변경량보다 트리 크기를 따라 증가함</li><li>뷰를 보존하는 <strong>gpui-fast</strong>도 최소 재사용 단위가 뷰라는 제약이 있음. 라벨 단위 갱신에 필요한 엔티티와 구독 등을 직접 관리하면 사실상 무거운 부품으로 시그널 그래프를 수작업 구성하게 됨</li></ul></div>…",
-          "contentSnippet": "GPUI, egui, Elm 계열의 상태 모델은 작은 UI에서는 단순하지만, 복잡한 데스크톱 앱에서 정밀한 갱신을 구현하려면 그 단순성을 잃을 수 있음\nGPUI의 notify는 엔티티만 식별하고 변경된 필드를 알리지 못함. 자체 벤치마크에서는 행마다 캐시된 뷰를 둔 3,000행 UI의 라벨 하나를 바꾸는 데 8.4ms가 걸렸으며, 비용이 변경량보다 트리 크기를 따라 증가함\n뷰를 보존하는 gpui-fast도 최소 재사용 단위가 뷰라는 제약이 있음. 라벨 단위 갱신에 필요한 엔티티와 구독 등을 직접 관리하면 사실상 무거운 부품으로 시그널 그래프를 수작업 구성하게 됨\n\n…",
-          "id": "https://news.hada.io/topic?id=36879",
-          "isoDate": "2026-11-09T11:39:08.000Z"
+          "content": "<div><ul><li><strong>Claude Fable 5.2 (Max, Default Fallback)</strong> 가 Artificial Analysis Intelligence Index에서 65점을 기록해, 비슷한 가격대 모델의 중앙값인 40점을 크게 웃돎</li><li>높은 지능 점수와 달리 <strong>작업당 처리 시간은 44.1분</strong>으로, 비교 모델 중앙값 12.9분의 약 3.4배였음. Artificial Analysis는 출력 토큰 수와 생성 속도를 바탕으로 이 시간을 산출</li><li>Anthropic API 기준 100만 토큰당 <strong>입력 8달러, 출력 40달러</strong>이며, Intelligence Index 평가의 작업당 평균 비용은 26.54달러임</li><li>Intelligence Index 평가에서 <strong>출력 토큰 2억 7,500만 개</strong>를 생성해, 비교</li></ul></div>…",
+          "contentSnippet": "Claude Fable 5.2 (Max, Default Fallback) 가 Artificial Analysis Intelligence Index에서 65점을 기록해, 비슷한 가격대 모델의 중앙값인 40점을 크게 웃돎\n높은 지능 점수와 달리 작업당 처리 시간은 44.1분으로, 비교 모델 중앙값 12.9분의 약 3.4배였음. Artificial Analysis는 출력 토큰 수와 생성 속도를 바탕으로 이 시간을 산출\nAnthropic API 기준 100만 토큰당 입력 8달러, 출력 40달러이며, Intelligence Index 평가의 작업당 평균 비용은 26.54달러임\nIntelligence Index 평가에서 출력 토큰 2억 7,500만 개를 생성해, 비교\n\n…",
+          "id": "https://news.hada.io/topic?id=36910",
+          "isoDate": "2026-11-09T22:41:15.000Z"
         },
         {
-          "title": "Opus 5.5 성능이 낮아졌나? 11월 3일 사고 패턴이 바뀜",
-          "link": "https://news.hada.io/topic?id=36878&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-09T10:32:30.000Z",
+          "title": "Show HN: 이번 주 어느 장소든 그 상공을 지나간 모든 위성과 위성 사진",
+          "link": "https://news.hada.io/topic?id=36909&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-09T22:38:14.000Z",
           "author": "neo",
-          "content": "<div><ul><li>Shane Melaugh가 <strong>Gemini 4 Argon</strong>으로 Claude Code 세션 1,400개를 분석함</li><li>해당 분석에서 <strong>11월 3일</strong>을 기점으로 추론 방식이 급격히 달라졌다는 결과가 나옴</li><li>추론 방식의 변화에도 <strong>모델 이름은 바뀌지 않았음</strong></li><li>이 결과를 바탕으로 Shane Melaugh가 <strong>Opus 5.5의 성능이 낮아졌는지</strong> 의문을 던짐</li><li>공개된 본문에는 구체적인 추론 패턴, 성능 비교 수치, 분석 방법이 없어 <strong>성능 저하 여부는 확인되지 않음</strong></li></ul><hr><h2>Claude Code 세션 분석 결과</h2><ul><li>Shane Melaugh는 <strong>Gemini 4 Argon</strong>을 사용해 Claude Code 세션 <strong>1,400개</strong>를 분석함</li><li>분석 결과, 모델 이름은 그대로였</li></ul></div>…",
-          "contentSnippet": "Shane Melaugh가 Gemini 4 Argon으로 Claude Code 세션 1,400개를 분석함\n해당 분석에서 11월 3일을 기점으로 추론 방식이 급격히 달라졌다는 결과가 나옴\n추론 방식의 변화에도 모델 이름은 바뀌지 않았음\n이 결과를 바탕으로 Shane Melaugh가 Opus 5.5의 성능이 낮아졌는지 의문을 던짐\n공개된 본문에는 구체적인 추론 패턴, 성능 비교 수치, 분석 방법이 없어 성능 저하 여부는 확인되지 않음\n\nClaude Code 세션 분석 결과\n\nShane Melaugh는 Gemini 4 Argon을 사용해 Claude Code 세션 1,400개를 분석함\n분석 결과, 모델 이름은 그대로였\n\n…",
-          "id": "https://news.hada.io/topic?id=36878",
-          "isoDate": "2026-11-09T10:32:30.000Z"
+          "content": "Show HN: 이번 주 어느 장소든 그 상공을 지나간 모든 위성과 위성 사진",
+          "contentSnippet": "Show HN: 이번 주 어느 장소든 그 상공을 지나간 모든 위성과 위성 사진",
+          "id": "https://news.hada.io/topic?id=36909",
+          "isoDate": "2026-11-09T22:38:14.000Z"
         },
         {
-          "title": "이메일에 관한 몇 가지 이야기",
-          "link": "https://news.hada.io/topic?id=36877&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-09T10:04:36.000Z",
+          "title": "Google Gemini, 개인 Drive 파일과 이메일을 사람 검토자에게 전달",
+          "link": "https://news.hada.io/topic?id=36908&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-09T22:35:14.000Z",
           "author": "neo",
-          "content": "<div><ul><li>이메일은 <strong>저장 후 전달</strong> 구조로 동작하며, 수신 서버가 응답하지 않으면 발신 서버가 메시지를 보관하고 재전송함</li><li><strong>SMTP 봉투 주소</strong>와 사용자가 보는 메시지의 <code>From</code>/<code>To</code> 헤더는 서로 다를 수 있으며, 전달과 메일링 리스트는 이 구분을 활용함</li><li><strong>SPF와 DKIM</strong>은 발신자 인증을 돕지만 스팸 자체를 막지는 못하며, 대형 사업자의 추가 DNS 요건은 일반 가정용 회선에서 직접 메일을 보내기 어렵게 함</li><li>HTML 본문과 첨부 파일은 <strong>MIME</strong>으로 구성되며, 바이너리 첨부에 쓰는 Base64 인코딩은 데이터 크기를 약 33% 늘림</li><li><strong>TLS는 종단 간 암호화가 아니며</strong>,</li></ul></div>…",
-          "contentSnippet": "이메일은 저장 후 전달 구조로 동작하며, 수신 서버가 응답하지 않으면 발신 서버가 메시지를 보관하고 재전송함\nSMTP 봉투 주소와 사용자가 보는 메시지의 From/To 헤더는 서로 다를 수 있으며, 전달과 메일링 리스트는 이 구분을 활용함\nSPF와 DKIM은 발신자 인증을 돕지만 스팸 자체를 막지는 못하며, 대형 사업자의 추가 DNS 요건은 일반 가정용 회선에서 직접 메일을 보내기 어렵게 함\nHTML 본문과 첨부 파일은 MIME으로 구성되며, 바이너리 첨부에 쓰는 Base64 인코딩은 데이터 크기를 약 33% 늘림\nTLS는 종단 간 암호화가 아니며,\n\n…",
-          "id": "https://news.hada.io/topic?id=36877",
-          "isoDate": "2026-11-09T10:04:36.000Z"
+          "content": "<div><ul><li>Google은 2023년 Gmail, Docs, Drive의 개인 콘텐츠를 사람이 검토하지 않는다고 약속했으나, <strong>변경된 안내</strong>에서는 연결된 이메일과 파일이 사람의 검토 대상이 될 수 있음을 명시함</li><li>저장소에 공개된 테스트에서는 <strong>Connected Apps</strong>가 활성화된 소비자용 Gemini가 명시적인 <code>@Drive</code>나 <code>@Gmail</code> 태그 없이도 일상적인 대화 중 Workspace 데이터를 조회함</li><li>조회 결과는 <strong>비결정적</strong>으로 달라졌으며, 검색하지 않는 경우부터 메타데이터 요약, 개인정보가 포함된 발췌, 가림 처리하지 않은 파일 전체를 세션 문맥에 넣는 경우까지 관찰됨</li><li>Google의 새 안</li></ul></div>…",
+          "contentSnippet": "Google은 2023년 Gmail, Docs, Drive의 개인 콘텐츠를 사람이 검토하지 않는다고 약속했으나, 변경된 안내에서는 연결된 이메일과 파일이 사람의 검토 대상이 될 수 있음을 명시함\n저장소에 공개된 테스트에서는 Connected Apps가 활성화된 소비자용 Gemini가 명시적인 @Drive나 @Gmail 태그 없이도 일상적인 대화 중 Workspace 데이터를 조회함\n조회 결과는 비결정적으로 달라졌으며, 검색하지 않는 경우부터 메타데이터 요약, 개인정보가 포함된 발췌, 가림 처리하지 않은 파일 전체를 세션 문맥에 넣는 경우까지 관찰됨\nGoogle의 새 안\n\n…",
+          "id": "https://news.hada.io/topic?id=36908",
+          "isoDate": "2026-11-09T22:35:14.000Z"
         },
         {
-          "title": "언어 창시자와 운영 주체가 강하게 대립할 때 [pdf]",
-          "link": "https://news.hada.io/topic?id=36875&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-09T06:35:53.000Z",
+          "title": "e-means - 같은 테스트 오차에 약 10배 빠른 k-means",
+          "link": "https://news.hada.io/topic?id=36907&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-09T21:37:33.000Z",
           "author": "neo",
-          "content": "<div><ul><li>C++26 국제표준안(DIS) 부결은 <strong>WG21의 강한 합의와 창시자 Bjarne Stroustrup의 반대가 충돌한 사건</strong>임. 기술적 이견과 절차 논란은 과거에도 있었지만, 창시자가 합의된 DIS 승인에 반대한 것은 WG21 역사상 36년 만에 처음임</li><li>WG21은 <strong>contracts를 C++26에 포함하는 데 약 90%의 지지</strong>를 확보했지만, Bjarne은 안전성, 구현 정의 동작, 위반 처리 제약 등 설계 결함이 심각해 수용할 수 없다고 판단함</li><li>국가표준기관(NB)들은 이번 투표에서 <strong>창시자의 반대에 위원회 합의보다 큰 무게</strong>를 부여함. 다만 그 반대가 부결의 결정적 원인이었다는 인과관계는 Herb Sutter가 가용 증거를 바탕으로 내린 분석임</li></ul></div>…",
-          "contentSnippet": "C++26 국제표준안(DIS) 부결은 WG21의 강한 합의와 창시자 Bjarne Stroustrup의 반대가 충돌한 사건임. 기술적 이견과 절차 논란은 과거에도 있었지만, 창시자가 합의된 DIS 승인에 반대한 것은 WG21 역사상 36년 만에 처음임\nWG21은 contracts를 C++26에 포함하는 데 약 90%의 지지를 확보했지만, Bjarne은 안전성, 구현 정의 동작, 위반 처리 제약 등 설계 결함이 심각해 수용할 수 없다고 판단함\n국가표준기관(NB)들은 이번 투표에서 창시자의 반대에 위원회 합의보다 큰 무게를 부여함. 다만 그 반대가 부결의 결정적 원인이었다는 인과관계는 Herb Sutter가 가용 증거를 바탕으로 내린 분석임\n\n…",
-          "id": "https://news.hada.io/topic?id=36875",
-          "isoDate": "2026-11-09T06:35:53.000Z"
+          "content": "<div><ul><li><strong>e-means</strong>는 미니배치와 지수이동평균을 결합한 k-means 알고리듬. 여러 데이터셋과 규모에서 <strong>Lloyd 알고리즘이 25에포크에 기록한 테스트 오차</strong>를 <strong>1.2~3에포크</strong> 만에 밑돌았음</li><li>같은 테스트 오차에 도달하기까지 걸린 <strong>전체 실행 시간</strong>은 GPU에서 <strong>Flash-KMeans 대비 10~45배</strong>, CPU에서 <strong>Faiss 대비 8~15배</strong> 짧았음</li><li>클러스터별 합계와 개수를 <strong>지수이동평균(EMA)</strong> 으로 갱신해 오래된 할당의 영향을 줄이고, 최근 할당을 중심점에 반영함</li><li>데이터 수, 클러스터 수, 학습 에포크 수에 따른 <strong>스케일링 법칙</strong>으로 배치 크기와 스텝 크기를 자동 설정하므로 </li></ul></div>…",
+          "contentSnippet": "e-means는 미니배치와 지수이동평균을 결합한 k-means 알고리듬. 여러 데이터셋과 규모에서 Lloyd 알고리즘이 25에포크에 기록한 테스트 오차를 1.2~3에포크 만에 밑돌았음\n같은 테스트 오차에 도달하기까지 걸린 전체 실행 시간은 GPU에서 Flash-KMeans 대비 10~45배, CPU에서 Faiss 대비 8~15배 짧았음\n클러스터별 합계와 개수를 지수이동평균(EMA) 으로 갱신해 오래된 할당의 영향을 줄이고, 최근 할당을 중심점에 반영함\n데이터 수, 클러스터 수, 학습 에포크 수에 따른 스케일링 법칙으로 배치 크기와 스텝 크기를 자동 설정하므로 \n\n…",
+          "id": "https://news.hada.io/topic?id=36907",
+          "isoDate": "2026-11-09T21:37:33.000Z"
         },
         {
-          "title": "AI 버블이 존재한다고 확신하지 못하는 이유",
-          "link": "https://news.hada.io/topic?id=36874&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-09T05:34:55.000Z",
+          "title": "USPS, 공식 우편번호 경계 폴리곤 제공 시작",
+          "link": "https://news.hada.io/topic?id=36906&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-09T21:34:33.000Z",
           "author": "neo",
-          "content": "<div><ul><li>AI 산업의 막대한 지출만으로 <strong>버블과 붕괴를 기정사실화하기는 어려움</strong>. 초기 인프라 구축비, 매출 성장, 추가 자금조달 여력을 고려하면 최근 기업가치 상승이 정당화될 가능성도 있음</li><li>데이터센터 투자를 <strong>일회성 구축비</strong>로 보면 현재의 지출 수준이 계속 유지될 필요는 없음. 다만 복잡한 금융 구조로 실제 부채와 지출 규모를 파악하기 어렵다는 점은 중요한 위험임</li><li>Anthropic의 급격한 매출 증가와 아직 적용되지 않은 업무 영역은 <strong>추가 수요 확대</strong> 가능성을 뒷받침함. 대규모 도입 시점은 불확실하지만, 현재 수준의 AI만으로도 활용이 크게 늘어날 수 있음</li></ul></div>…",
-          "contentSnippet": "AI 산업의 막대한 지출만으로 버블과 붕괴를 기정사실화하기는 어려움. 초기 인프라 구축비, 매출 성장, 추가 자금조달 여력을 고려하면 최근 기업가치 상승이 정당화될 가능성도 있음\n데이터센터 투자를 일회성 구축비로 보면 현재의 지출 수준이 계속 유지될 필요는 없음. 다만 복잡한 금융 구조로 실제 부채와 지출 규모를 파악하기 어렵다는 점은 중요한 위험임\nAnthropic의 급격한 매출 증가와 아직 적용되지 않은 업무 영역은 추가 수요 확대 가능성을 뒷받침함. 대규모 도입 시점은 불확실하지만, 현재 수준의 AI만으로도 활용이 크게 늘어날 수 있음\n\n…",
-          "id": "https://news.hada.io/topic?id=36874",
-          "isoDate": "2026-11-09T05:34:55.000Z"
+          "content": "<div><ul><li><strong>USPS ZIP Code Boundaries</strong>는 USPS의 배달 주소와 위치 정보를 활용해 정확한 경계를 구성하는 미국 전역 우편번호 지도임</li><li><strong>경계는 배달 분포 변화에 따라 달라지며</strong>, 신규 또는 변경된 배달 위치를 반영함</li><li>공식 경계 폴리곤을 <strong>지리 데이터 결합</strong>에 활용하거나, 변경 사항에 맞춰 기존 우편번호 데이터를 수정할 수 있음</li><li>우편번호는 <strong>인구통계 데이터 정리와 시각화</strong>를 지원하며, 경로 최적화를 위한 배달 위치 그룹의 대용 지표로도 활용 가능함</li><li><strong>Internal, Enterprise, Publication</strong> 세 가지 유형 모두 연 4회 분기별 업데이트를 제공하며, Ent</li></ul></div>…",
+          "contentSnippet": "USPS ZIP Code Boundaries는 USPS의 배달 주소와 위치 정보를 활용해 정확한 경계를 구성하는 미국 전역 우편번호 지도임\n경계는 배달 분포 변화에 따라 달라지며, 신규 또는 변경된 배달 위치를 반영함\n공식 경계 폴리곤을 지리 데이터 결합에 활용하거나, 변경 사항에 맞춰 기존 우편번호 데이터를 수정할 수 있음\n우편번호는 인구통계 데이터 정리와 시각화를 지원하며, 경로 최적화를 위한 배달 위치 그룹의 대용 지표로도 활용 가능함\nInternal, Enterprise, Publication 세 가지 유형 모두 연 4회 분기별 업데이트를 제공하며, Ent\n\n…",
+          "id": "https://news.hada.io/topic?id=36906",
+          "isoDate": "2026-11-09T21:34:33.000Z"
         },
         {
-          "title": "[AI 코딩] 클로드 코드 테스트 게이트 exit 1 대 2, 통과한 쪽과 막은 쪽은 무엇이 달랐을까",
-          "link": "https://news.hada.io/topic?id=36873&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-09T05:16:02.000Z",
-          "author": "growuplove7",
-          "content": "<div><p>Claude Code 훅 검사기가 \"막음\" 을 찍고 exit 1 로 끝나면 막힐까요? 아니었습니다, PreToolUse(Write) 훅이 exit 1 일 때 모델은 완료했다고 답했고 파일도 그대로 만들어졌습니다.</p><p>$ claude -p --model haiku --setting-sources project --allowedTools \"Write\" \"hello.txt 파일을 만들고 hi 한 줄을 써. 막히면 막힌 이유를 한 줄로 적고 다른 방법은 쓰지 마.\"<br> == 훅이 exit 1 로 끝날 때<br> 완료했습니다. hello.txt 파일이 생성되었고 \"hi\"가 한 줄 들어있습니다.<br> hello.txt: 생김(hi)</p><p>같은 스크립트의 마지막 숫자만 2 로 바꾸자</p></div>…",
-          "contentSnippet": "Claude Code 훅 검사기가 \"막음\" 을 찍고 exit 1 로 끝나면 막힐까요? 아니었습니다, PreToolUse(Write) 훅이 exit 1 일 때 모델은 완료했다고 답했고 파일도 그대로 만들어졌습니다.\n$ claude -p --model haiku --setting-sources project --allowedTools \"Write\" \"hello.txt 파일을 만들고 hi 한 줄을 써. 막히면 막힌 이유를 한 줄로 적고 다른 방법은 쓰지 마.\"\n == 훅이 exit 1 로 끝날 때\n 완료했습니다. hello.txt 파일이 생성되었고 \"hi\"가 한 줄 들어있습니다.\n hello.txt: 생김(hi)\n같은 스크립트의 마지막 숫자만 2 로 바꾸자\n…",
-          "id": "https://news.hada.io/topic?id=36873",
-          "isoDate": "2026-11-09T05:16:02.000Z"
-        },
-        {
-          "title": "Show GN: TXT를 EPUB으로 - 휴대폰 브라우저에서 변환, 파일 업로드 없음",
-          "link": "https://news.hada.io/topic?id=36872&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-09T04:52:50.000Z",
-          "author": "microhan",
-          "content": "<div><p>전자책을 만드는 과정에서 초안을 작성하여 테스트 하거나, 간단하게 작성된 TXT 파일을 간단학게 EPUB 만들어 사용하면 편리 하겠다는 생각이 들어 직접 만든 웹 도구입니다. TXT 파일 하나를 브라우저 안에서 EPUB 으로 묶습니다. 가입과 설치가 없고 파일은 서버로 가지 않습니다.</p><p>대상: 내가 쓴 글이나 저작권이 끝난 글을 PC 없이 전자책으로 보고 싶은 사람</p><ul><li>글자 방식 판별: UTF-8, UTF-8 BOM, EUC-KR, UTF-16. 틀리면 화면에서 바꾸면 미리보기와 장 목록을 다시 만듭니다.</li><li>장 찾기: 「제1장」 「12화」 「Chapter 7」 「第3章」 </li></ul></div>…",
-          "contentSnippet": "전자책을 만드는 과정에서 초안을 작성하여 테스트 하거나, 간단하게 작성된 TXT 파일을 간단학게 EPUB 만들어 사용하면 편리 하겠다는 생각이 들어 직접 만든 웹 도구입니다. TXT 파일 하나를 브라우저 안에서 EPUB 으로 묶습니다. 가입과 설치가 없고 파일은 서버로 가지 않습니다.\n대상: 내가 쓴 글이나 저작권이 끝난 글을 PC 없이 전자책으로 보고 싶은 사람\n\n글자 방식 판별: UTF-8, UTF-8 BOM, EUC-KR, UTF-16. 틀리면 화면에서 바꾸면 미리보기와 장 목록을 다시 만듭니다.\n장 찾기: 「제1장」 「12화」 「Chapter 7」 「第3章」 \n\n…",
-          "id": "https://news.hada.io/topic?id=36872",
-          "isoDate": "2026-11-09T04:52:50.000Z"
-        },
-        {
-          "title": "웹이면 충분하고도 남는다, Paul Ford",
-          "link": "https://news.hada.io/topic?id=36870&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-09T04:38:18.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>브라우저의 강력한 앱 개발 기능을 활용하는 비용</strong>이 갈수록 낮아지는 듯하며, 과거 대규모 팀의 작업이던 풍부한 웹 앱 개발을 개인도 훨씬 쉽게 할 수 있게 됨</li><li>URL에 데이터를 저장하는 <strong>TinyLittleOffice</strong>는 긴 뉴스레터 한 편을 쓰는 데 드는 노력의 약 두 배로 개발됐으며, 수십만 명이 방문한 뒤에도 CloudFlare 호스팅 비용은 <strong>0달러</strong>였음</li><li><strong>Web Crypto, WebAssembly, WebGL, Web Audio</strong> 등은 오래전부터 존재했지만 각각 방대해 개인이 모두 익히기 어려웠고, 주로 대기업의 대규모 서비스 개발을 위해 설계됐음</li><li>웹 서버에서 몇 주 만에 </li></ul></div>…",
-          "contentSnippet": "브라우저의 강력한 앱 개발 기능을 활용하는 비용이 갈수록 낮아지는 듯하며, 과거 대규모 팀의 작업이던 풍부한 웹 앱 개발을 개인도 훨씬 쉽게 할 수 있게 됨\nURL에 데이터를 저장하는 TinyLittleOffice는 긴 뉴스레터 한 편을 쓰는 데 드는 노력의 약 두 배로 개발됐으며, 수십만 명이 방문한 뒤에도 CloudFlare 호스팅 비용은 0달러였음\nWeb Crypto, WebAssembly, WebGL, Web Audio 등은 오래전부터 존재했지만 각각 방대해 개인이 모두 익히기 어려웠고, 주로 대기업의 대규모 서비스 개발을 위해 설계됐음\n웹 서버에서 몇 주 만에 \n\n…",
-          "id": "https://news.hada.io/topic?id=36870",
-          "isoDate": "2026-11-09T04:38:18.000Z"
-        },
-        {
-          "title": "Harvest에 작별을, 시간 추적과 청구 서비스의 요금 개편에 실망하다",
-          "link": "https://news.hada.io/topic?id=36869&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-09T04:35:18.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>약 10년간 독립 계약자로 일해 온 이용자가 <strong>Harvest</strong>의 요금 개편과 고객 지원 변화에 실망해 다른 청구 서비스를 찾고 있음</li><li>Harvest는 작업 시간 기록부터 청구서 발송, 결제 확인까지 지원하며, 이 이용자에게 <strong>단순하고 신뢰할 수 있는 인터페이스</strong>와 합리적인 월 요금이 장점이었음</li><li>2025년 <strong>Bending Spoons</strong>에 인수된 뒤, 전체 이용자를 새 기업용 요금제와 무제한 사용 과금 모델로 옮기면서 이 이용자의 월 요금이 <strong>13.32달러에서 133.98달러로 인상</strong>됨</li><li>월 12.65달러인 <strong>flex 요금제</strong>도 있지만, 기존 약 3%의 카드 거래 수수료에 <strong>2%를 추가로</strong></li></ul></div>…",
-          "contentSnippet": "약 10년간 독립 계약자로 일해 온 이용자가 Harvest의 요금 개편과 고객 지원 변화에 실망해 다른 청구 서비스를 찾고 있음\nHarvest는 작업 시간 기록부터 청구서 발송, 결제 확인까지 지원하며, 이 이용자에게 단순하고 신뢰할 수 있는 인터페이스와 합리적인 월 요금이 장점이었음\n2025년 Bending Spoons에 인수된 뒤, 전체 이용자를 새 기업용 요금제와 무제한 사용 과금 모델로 옮기면서 이 이용자의 월 요금이 13.32달러에서 133.98달러로 인상됨\n월 12.65달러인 flex 요금제도 있지만, 기존 약 3%의 카드 거래 수수료에 2%를 추가로\n\n…",
-          "id": "https://news.hada.io/topic?id=36869",
-          "isoDate": "2026-11-09T04:35:18.000Z"
-        },
-        {
-          "title": "Show GN: LubanAI - 상품 사진 한 장으로 쇼핑몰용 이미지를 만드는 AI 도구",
-          "link": "https://news.hada.io/topic?id=36868&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-09T03:43:20.000Z",
-          "author": "lubanai",
-          "content": "<div><p>LubanAI는 온라인 셀러와 콘텐츠 크리에이터를 위한 AI 도구 플랫폼입니다. 상품 사진 한 장을 업로드하면 흰 배경 사진, 연출 사진, 모델 착용 사진, 손에 든 제품 사진 등 상품 등록에 바로 쓸 수 있는 이미지를 생성합니다.</p><p>주요 기능</p><ul><li>AI 제품 사진: 사진 한 장으로 흰 배경, 연출 컷, 모델 착용 컷, 손에 든 컷 생성</li><li>여러 이미지 생성 모델 지원: GPT Image 2, Nano Banana, Seedream, 최대 4K 출력</li><li>이미지 편집: 배경 제거, 화질 개선, 물체 제거, 워터마크 제거, 이미지 확장</li><li>영상·음성: 영상 배경 제거, AI 영상 더빙, AI 목소리 </li></ul></div>…",
-          "contentSnippet": "LubanAI는 온라인 셀러와 콘텐츠 크리에이터를 위한 AI 도구 플랫폼입니다. 상품 사진 한 장을 업로드하면 흰 배경 사진, 연출 사진, 모델 착용 사진, 손에 든 제품 사진 등 상품 등록에 바로 쓸 수 있는 이미지를 생성합니다.\n주요 기능\n\nAI 제품 사진: 사진 한 장으로 흰 배경, 연출 컷, 모델 착용 컷, 손에 든 컷 생성\n여러 이미지 생성 모델 지원: GPT Image 2, Nano Banana, Seedream, 최대 4K 출력\n이미지 편집: 배경 제거, 화질 개선, 물체 제거, 워터마크 제거, 이미지 확장\n영상·음성: 영상 배경 제거, AI 영상 더빙, AI 목소리 \n\n…",
-          "id": "https://news.hada.io/topic?id=36868",
-          "isoDate": "2026-11-09T03:43:20.000Z"
-        },
-        {
-          "title": "전 세계 대부분 지역에서 X 브랜드의 어떤 차량이든 잠금 해제하기",
-          "link": "https://news.hada.io/topic?id=36867&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-09T03:32:34.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>익명 처리된 자동차 제조사의 <strong>커넥티드카 시스템 취약점</strong>을 연결해, 호주에서 차량 번호판만으로 두 브랜드 차량에 원격 명령을 보낼 수 있었음</li><li>공개된 관리 도구의 JavaScript에 담긴 <strong>하드코딩된 API 키와 관리자 자격 증명</strong>으로 차량 소유자 정보와 중앙 신원 관리 시스템에 접근할 수 있었음</li><li><strong>WAF 우회와 계정 비밀번호 변경</strong>을 결합했으며, 호주 환경의 인증 설정 오류로 다중 인증도 건너뛰고 모바일 앱용 토큰을 발급받을 수 있었음</li><li>실제 차량의 <strong>문 잠금 해제에 성공</strong>했으며, 검증은 연구진이 소유하거나 명시적으로 접근 허가를 받은 차</li></ul></div>…",
-          "contentSnippet": "익명 처리된 자동차 제조사의 커넥티드카 시스템 취약점을 연결해, 호주에서 차량 번호판만으로 두 브랜드 차량에 원격 명령을 보낼 수 있었음\n공개된 관리 도구의 JavaScript에 담긴 하드코딩된 API 키와 관리자 자격 증명으로 차량 소유자 정보와 중앙 신원 관리 시스템에 접근할 수 있었음\nWAF 우회와 계정 비밀번호 변경을 결합했으며, 호주 환경의 인증 설정 오류로 다중 인증도 건너뛰고 모바일 앱용 토큰을 발급받을 수 있었음\n실제 차량의 문 잠금 해제에 성공했으며, 검증은 연구진이 소유하거나 명시적으로 접근 허가를 받은 차\n\n…",
-          "id": "https://news.hada.io/topic?id=36867",
-          "isoDate": "2026-11-09T03:32:34.000Z"
+          "title": "스타트업은 팀 규모에 따라 어떻게 채용해야 할까?",
+          "link": "https://news.hada.io/topic?id=36905&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-09T21:33:25.000Z",
+          "author": "xguru",
+          "content": "<div><ul><li><strong>추가 채용의 효용은 선형적이지 않음</strong>. 직무, 채용한 사람의 역량, 팀 규모의 임계점에 따라 큰 도움이 되기도 하고, 역할 중복으로 오히려 가치를 떨어뜨리기도 함</li><li><strong>0명에서 1명</strong>으로 늘릴 때는 전문가 한 명이 조직 전체에 없던 역량을 제공할 수 있지만, 첫 채용의 실패가 제품이나 데이터 기반에 장기적인 문제를 남길 수 있음</li><li><strong>1명에서 2명</strong>으로 늘리는 효과는 직무마다 다름. 초기 기업의 디자이너나 제품 관리자는 역할 충돌과 소통 부담을 늘릴 수 있지만, 영업과 고객 지원에서는 서로의 성과를 비교할 기준이 생김</li><li>관리자의 직속 인</li></ul></div>…",
+          "contentSnippet": "추가 채용의 효용은 선형적이지 않음. 직무, 채용한 사람의 역량, 팀 규모의 임계점에 따라 큰 도움이 되기도 하고, 역할 중복으로 오히려 가치를 떨어뜨리기도 함\n0명에서 1명으로 늘릴 때는 전문가 한 명이 조직 전체에 없던 역량을 제공할 수 있지만, 첫 채용의 실패가 제품이나 데이터 기반에 장기적인 문제를 남길 수 있음\n1명에서 2명으로 늘리는 효과는 직무마다 다름. 초기 기업의 디자이너나 제품 관리자는 역할 충돌과 소통 부담을 늘릴 수 있지만, 영업과 고객 지원에서는 서로의 성과를 비교할 기준이 생김\n관리자의 직속 인\n\n…",
+          "id": "https://news.hada.io/topic?id=36905",
+          "isoDate": "2026-11-09T21:33:25.000Z"
         }
       ]
     },
@@ -381,235 +381,235 @@
       "category": "news",
       "data": [
         {
-          "creator": "이재경",
-          "title": "사우디 주도 연합군 \"후티 탄도미사일 부품·연료 공장 파괴\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261110040450LFc",
-          "pubDate": "Tue, 10 Nov 2026 04:04:50 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261109/AKR20261110040450LFc_01_i.jpg\" alt=\"\"><span class=\"yna_title\">예멘 북서부에 주둔중인 사우디 주도 연합군 소속 전투원들</span><span class=\"yna_caption\">[AFP=연합뉴스 자료사진. 재판매 및 DB 금지]</span><span class=\"yna_description\">[AFP=연합뉴스 자료사진. 재판매 및 DB 금지]</span></div>\n예멘의 친이란 반군 후티의 공격을 받아온 사우디아라비아가 후티의 탄도미사일 생산 시설을 집중적으로 타격해 파괴했다고 밝혔습니다.\n\n투르키 알말키 연합군 대변인은 현지시간 9일 소셜미디어 엑스에 올린 성명에서 후티의 탄도미사일 부품을 조립 및 생산 공장과 고체 연료 등 탄도미사일 연료 혼합과 생산을 위한 화학 공장을 폭격해 파괴했다고 언급했습니다.\n\n아울러 탄도미사일용 전자 시스템을 조립하는 전자 작업장도 주요 파괴 대상에 포함됐습니다.\n\n연합군은 \"테러 집단인 후티 반군의 탄도미사일 네트워크를 지속해서 약화하고 해체해 나가고 있다\"고 강조했습니다.\n\n앞서 후티 반군은 다수의 탄도 및 순항 미사일 등을 동원해 사우디 수도 리야드의 국제공항과 아람코 원유 저장 탱크 및 금융센터, 아브카이크에 있는 아람코 시설, 알자우프주와 하르지주에 있는 사우디군 집결지 등을 공격했다고 주장했습니다.\n\n#사우디연합군 #예멘 #친이란반군 #후티\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이재경(jack0@yna.co.kr)",
-          "content:encodedSnippet": "예멘 북서부에 주둔중인 사우디 주도 연합군 소속 전투원들[AFP=연합뉴스 자료사진. 재판매 및 DB 금지][AFP=연합뉴스 자료사진. 재판매 및 DB 금지]\n예멘의 친이란 반군 후티의 공격을 받아온 사우디아라비아가 후티의 탄도미사일 생산 시설을 집중적으로 타격해 파괴했다고 밝혔습니다.\n\n투르키 알말키 연합군 대변인은 현지시간 9일 소셜미디어 엑스에 올린 성명에서 후티의 탄도미사일 부품을 조립 및 생산 공장과 고체 연료 등 탄도미사일 연료 혼합과 생산을 위한 화학 공장을 폭격해 파괴했다고 언급했습니다.\n\n아울러 탄도미사일용 전자 시스템을 조립하는 전자 작업장도 주요 파괴 대상에 포함됐습니다.\n\n연합군은 \"테러 집단인 후티 반군의 탄도미사일 네트워크를 지속해서 약화하고 해체해 나가고 있다\"고 강조했습니다.\n\n앞서 후티 반군은 다수의 탄도 및 순항 미사일 등을 동원해 사우디 수도 리야드의 국제공항과 아람코 원유 저장 탱크 및 금융센터, 아브카이크에 있는 아람코 시설, 알자우프주와 하르지주에 있는 사우디군 집결지 등을 공격했다고 주장했습니다.\n\n#사우디연합군 #예멘 #친이란반군 #후티\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이재경(jack0@yna.co.kr)",
+          "creator": "김채영",
+          "title": "국내 상장사 소액주주 24% 증가…삼성전자 797만명 '최다'",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261110115425ngz",
+          "pubDate": "Tue, 10 Nov 2026 11:54:26 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261110115425ngz_01_i.jpg\" alt=\"\"><span class=\"yna_title\">주식 거래</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n국내 상장사의 소액주주 수가 1년 6개월 사이 24% 넘게 증가한 것으로 나타났습니다.\n\n기업분석연구소 리더스인덱스가 국내 상장사 1천992곳의 소액주주 현황을 분석한 결과, 올해 상반기 말 소액주주 수는 8,136만여 명으로 2024년 말보다 24.2% 늘었습니다.\n\n다만 소액주주 수가 증가한 기업은 601곳으로, 감소한 기업 1,384곳보다 적었습니다.\n\n소액주주가 가장 많은 기업은 삼성전자로, 797만여 명을 기록했습니다.\n\n2024년 말보다 54.5% 늘어난 규모입니다.\n\nSK하이닉스는 같은 기간 소액주주가 4.4배로 증가한 346만여 명으로 집계됐습니다.\n\n이어 두산에너빌리티와 카카오, 네이버, LG전자 순으로 소액주주가 많았습니다.\n\n증가율로는 LS일렉트릭이 720.3%로 가장 높았고, SK하이닉스와 두산에너빌리티가 뒤를 이었습니다.\n\n다만 소액주주들의 보유주식 수는 10.3% 감소했고, 전체 발행주식에서 차지하는 비중도 49.5%에서 47.6%로 낮아졌습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김채영(chaechae@yna.co.kr)",
+          "content:encodedSnippet": "주식 거래[연합뉴스 제공][연합뉴스 제공]\n국내 상장사의 소액주주 수가 1년 6개월 사이 24% 넘게 증가한 것으로 나타났습니다.\n\n기업분석연구소 리더스인덱스가 국내 상장사 1천992곳의 소액주주 현황을 분석한 결과, 올해 상반기 말 소액주주 수는 8,136만여 명으로 2024년 말보다 24.2% 늘었습니다.\n\n다만 소액주주 수가 증가한 기업은 601곳으로, 감소한 기업 1,384곳보다 적었습니다.\n\n소액주주가 가장 많은 기업은 삼성전자로, 797만여 명을 기록했습니다.\n\n2024년 말보다 54.5% 늘어난 규모입니다.\n\nSK하이닉스는 같은 기간 소액주주가 4.4배로 증가한 346만여 명으로 집계됐습니다.\n\n이어 두산에너빌리티와 카카오, 네이버, LG전자 순으로 소액주주가 많았습니다.\n\n증가율로는 LS일렉트릭이 720.3%로 가장 높았고, SK하이닉스와 두산에너빌리티가 뒤를 이었습니다.\n\n다만 소액주주들의 보유주식 수는 10.3% 감소했고, 전체 발행주식에서 차지하는 비중도 49.5%에서 47.6%로 낮아졌습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김채영(chaechae@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261109/AKR20261110040450LFc_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261110115425ngz_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "이재경",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261110040450LFc#comments",
-          "content": "예멘 북서부에 주둔중인 사우디 주도 연합군 소속 전투원들[AFP=연합뉴스 자료사진. 재판매 및 DB 금지][AFP=연합뉴스 자료사진. 재판매 및 DB 금지] 예멘의 친이란 반군 후티의 공격을 받아온 사우디아라비아가 후티의 탄도미사일 생산 시설을 집중적으로 타격해 파괴했다고 밝혔습니다. 투르키 알말키 연합군 대변인은 현지시간 9일 소셜미디어 엑스에 올린 성명에서 후티의 탄도미사일 부품을 조립 및 생산 공장과 고체 연료 등 탄도미사일 연료 혼...",
-          "contentSnippet": "예멘 북서부에 주둔중인 사우디 주도 연합군 소속 전투원들[AFP=연합뉴스 자료사진. 재판매 및 DB 금지][AFP=연합뉴스 자료사진. 재판매 및 DB 금지] 예멘의 친이란 반군 후티의 공격을 받아온 사우디아라비아가 후티의 탄도미사일 생산 시설을 집중적으로 타격해 파괴했다고 밝혔습니다. 투르키 알말키 연합군 대변인은 현지시간 9일 소셜미디어 엑스에 올린 성명에서 후티의 탄도미사일 부품을 조립 및 생산 공장과 고체 연료 등 탄도미사일 연료 혼...",
-          "guid": "AKR20261110040450LFc",
+          "dc:creator": "김채영",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261110115425ngz#comments",
+          "content": "주식 거래[연합뉴스 제공][연합뉴스 제공] 국내 상장사의 소액주주 수가 1년 6개월 사이 24% 넘게 증가한 것으로 나타났습니다. 기업분석연구소 리더스인덱스가 국내 상장사 1천992곳의 소액주주 현황을 분석한 결과, 올해 상반기 말 소액주주 수는 8,136만여 명으로 2024년 말보다 24.2% 늘었습니다. 다만 소액주주 수가 증가한 기업은 601곳으로, 감소한 기업 1,384곳보다 적었습니다. 소액주주가 가장 많은 기업은 삼성전자로, 7...",
+          "contentSnippet": "주식 거래[연합뉴스 제공][연합뉴스 제공] 국내 상장사의 소액주주 수가 1년 6개월 사이 24% 넘게 증가한 것으로 나타났습니다. 기업분석연구소 리더스인덱스가 국내 상장사 1천992곳의 소액주주 현황을 분석한 결과, 올해 상반기 말 소액주주 수는 8,136만여 명으로 2024년 말보다 24.2% 늘었습니다. 다만 소액주주 수가 증가한 기업은 601곳으로, 감소한 기업 1,384곳보다 적었습니다. 소액주주가 가장 많은 기업은 삼성전자로, 7...",
+          "guid": "AKR20261110115425ngz",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-09T19:04:50.000Z"
+          "isoDate": "2026-11-10T02:54:26.000Z"
         },
         {
-          "creator": "이재경",
-          "title": "트럼프, 차기 대권주자 밴스 지지 유보적…\"루비오가 훌륭\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261110033346Cyd",
-          "pubDate": "Tue, 10 Nov 2026 03:33:48 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261109/AKR20261110033346Cyd_01_i.jpg\" alt=\"\"><span class=\"yna_title\">트럼프와 밴스</span><span class=\"yna_caption\">[AFP=연합뉴스. 재판매 및 DB 금지]</span><span class=\"yna_description\">[AFP=연합뉴스. 재판매 및 DB 금지]</span></div>\n도널드 트럼프 미국 대통령이 공화당의 차기 대권주자로 떠오른 JD 밴스 부통령에 대해 유보적 태도를 보였습니다.\n\n트럼프 대통령은 CBS 방송 시사프로 '60분' 인터뷰에서 공화당 대선 후보에 대한 지지를 선언할 것이냐는 질문에 \"아마도. 반드시는 아니다\"라고 답했습니다.\n\n이어 \"우리에겐 엄청난 인재들이 있다\"며 \"나와 아주 좋은 관계를 맺고 있는 사람이 정말 많다\"고 덧붙였습니다.\n\n트럼프 대통령이 밴스 부통령에 대한 지지를 뚜렷하게 표명하지 않은 것은 밴스 부통령의 최근 행보와 무관치 않다는 분석이 나옵니다.\n\n밴스 부통령은 공화당의 중간선거 참패 직후인 지난 4일 소셜미디어에서 이란 전쟁이 최대 패인이었다고 지목하며 \"만약 그것이 감수할 만한 가치가 있었다고 주장하고 싶다면, 즉 앞으로 6년 동안 상원을 잃는 것이 감수할 만한 대가였다고 주장하고 싶다면 그렇게 하라\"고 언급했습니다.\n\n트럼프 대통령은 기자들과 만나 밴스 부통령이 SNS에 올린 '중간선거 징비록'에 대한 불편한 심기를 드러내기도 했습니다.\n\n그는 \"많은 이가 그의 언급을 좋아하지 않는다\"고 지적한 뒤 \"한 가지만 빼고 그는 옳다. 그는 한 가지를 더 언급했어야 했다\"며 \"(이란에 대한 군사 공격을) 다시 할 기회가 있다면 다시 하겠느냐는 질문에 '예'라고 하는 것\"이라고 말했습니다.\n\n트럼프 대통령은 밴스 부통령 외에 누가 후보 명단에 포함될 수 있느냐는 질문에 \"나는 마코(국무장관)가 훌륭하다고 생각한다\"며 \"그는 분명히 그 일을 좋아하고 있고 아주 잘하고 있다\"고 답했습니다.\n\n#트럼프 #밴스 #공화당 #대통령후보 #루비오\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이재경(jack0@yna.co.kr)",
-          "content:encodedSnippet": "트럼프와 밴스[AFP=연합뉴스. 재판매 및 DB 금지][AFP=연합뉴스. 재판매 및 DB 금지]\n도널드 트럼프 미국 대통령이 공화당의 차기 대권주자로 떠오른 JD 밴스 부통령에 대해 유보적 태도를 보였습니다.\n\n트럼프 대통령은 CBS 방송 시사프로 '60분' 인터뷰에서 공화당 대선 후보에 대한 지지를 선언할 것이냐는 질문에 \"아마도. 반드시는 아니다\"라고 답했습니다.\n\n이어 \"우리에겐 엄청난 인재들이 있다\"며 \"나와 아주 좋은 관계를 맺고 있는 사람이 정말 많다\"고 덧붙였습니다.\n\n트럼프 대통령이 밴스 부통령에 대한 지지를 뚜렷하게 표명하지 않은 것은 밴스 부통령의 최근 행보와 무관치 않다는 분석이 나옵니다.\n\n밴스 부통령은 공화당의 중간선거 참패 직후인 지난 4일 소셜미디어에서 이란 전쟁이 최대 패인이었다고 지목하며 \"만약 그것이 감수할 만한 가치가 있었다고 주장하고 싶다면, 즉 앞으로 6년 동안 상원을 잃는 것이 감수할 만한 대가였다고 주장하고 싶다면 그렇게 하라\"고 언급했습니다.\n\n트럼프 대통령은 기자들과 만나 밴스 부통령이 SNS에 올린 '중간선거 징비록'에 대한 불편한 심기를 드러내기도 했습니다.\n\n그는 \"많은 이가 그의 언급을 좋아하지 않는다\"고 지적한 뒤 \"한 가지만 빼고 그는 옳다. 그는 한 가지를 더 언급했어야 했다\"며 \"(이란에 대한 군사 공격을) 다시 할 기회가 있다면 다시 하겠느냐는 질문에 '예'라고 하는 것\"이라고 말했습니다.\n\n트럼프 대통령은 밴스 부통령 외에 누가 후보 명단에 포함될 수 있느냐는 질문에 \"나는 마코(국무장관)가 훌륭하다고 생각한다\"며 \"그는 분명히 그 일을 좋아하고 있고 아주 잘하고 있다\"고 답했습니다.\n\n#트럼프 #밴스 #공화당 #대통령후보 #루비오\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이재경(jack0@yna.co.kr)",
+          "creator": "지성림",
+          "title": "軍 무인기, 훈련 중 김포 공원에 추락…사고 원인 조사",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261110114725XRS",
+          "pubDate": "Tue, 10 Nov 2026 11:47:26 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261110114725XRS_01_i.jpg\" alt=\"\"><span class=\"yna_title\">소형 무인기 침투대비 훈련</span><span class=\"yna_caption\">[연합뉴스 자료사진] *기사와 관련이 없는 사진입니다.</span><span class=\"yna_description\">[연합뉴스 자료사진] *기사와 관련이 없는 사진입니다.</span></div>\n오늘(10일) 오전 경기도 김포시 운양동의 한 공원에 훈련 중이던 군 무인기가 추락해 군 당국이 조사 중입니다.\n\n육군은 \"김포 소재 육군 모 부대의 소형 무인항공기(UAV)가 교육훈련 비행 중 훈련장 인근 공원에 원인 미상으로 추락해 회수했다\"고 밝혔습니다.\n\n이어 \"장비 파손 외 인적·민간 피해는 없었다\"며 \"자세한 경위와 원인을 조사 중\"이라고 전했습니다.\n\n추락한 무인기는 대대급 소형 무인기로, 비행 도중 갑자기 통신이 두절돼 추락한 것으로 알려졌습니다.\n\n이번 사고는 우리 군의 자체 교육훈련 중 발생한 것으로, 북한과의 관련성은 높지 않다고 군은 판단하고 있습니다.\n\n#육군 #무인기_추락 #대대급_무인항공기 #교육훈련\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n지성림(yoonik@yna.co.kr)",
+          "content:encodedSnippet": "소형 무인기 침투대비 훈련[연합뉴스 자료사진] *기사와 관련이 없는 사진입니다.[연합뉴스 자료사진] *기사와 관련이 없는 사진입니다.\n오늘(10일) 오전 경기도 김포시 운양동의 한 공원에 훈련 중이던 군 무인기가 추락해 군 당국이 조사 중입니다.\n\n육군은 \"김포 소재 육군 모 부대의 소형 무인항공기(UAV)가 교육훈련 비행 중 훈련장 인근 공원에 원인 미상으로 추락해 회수했다\"고 밝혔습니다.\n\n이어 \"장비 파손 외 인적·민간 피해는 없었다\"며 \"자세한 경위와 원인을 조사 중\"이라고 전했습니다.\n\n추락한 무인기는 대대급 소형 무인기로, 비행 도중 갑자기 통신이 두절돼 추락한 것으로 알려졌습니다.\n\n이번 사고는 우리 군의 자체 교육훈련 중 발생한 것으로, 북한과의 관련성은 높지 않다고 군은 판단하고 있습니다.\n\n#육군 #무인기_추락 #대대급_무인항공기 #교육훈련\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n지성림(yoonik@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261109/AKR20261110033346Cyd_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261110114725XRS_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "이재경",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261110033346Cyd#comments",
-          "content": "트럼프와 밴스[AFP=연합뉴스. 재판매 및 DB 금지][AFP=연합뉴스. 재판매 및 DB 금지] 도널드 트럼프 미국 대통령이 공화당의 차기 대권주자로 떠오른 JD 밴스 부통령에 대해 유보적 태도를 보였습니다. 트럼프 대통령은 CBS 방송 시사프로 '60분' 인터뷰에서 공화당 대선 후보에 대한 지지를 선언할 것이냐는 질문에 \"아마도. 반드시는 아니다\"라고 답했습니다. 이어 \"우리에겐 엄청난 인재들이 있다\"며 \"나와 아주 좋은 관계를 맺고 있...",
-          "contentSnippet": "트럼프와 밴스[AFP=연합뉴스. 재판매 및 DB 금지][AFP=연합뉴스. 재판매 및 DB 금지] 도널드 트럼프 미국 대통령이 공화당의 차기 대권주자로 떠오른 JD 밴스 부통령에 대해 유보적 태도를 보였습니다. 트럼프 대통령은 CBS 방송 시사프로 '60분' 인터뷰에서 공화당 대선 후보에 대한 지지를 선언할 것이냐는 질문에 \"아마도. 반드시는 아니다\"라고 답했습니다. 이어 \"우리에겐 엄청난 인재들이 있다\"며 \"나와 아주 좋은 관계를 맺고 있...",
-          "guid": "AKR20261110033346Cyd",
+          "dc:creator": "지성림",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261110114725XRS#comments",
+          "content": "소형 무인기 침투대비 훈련[연합뉴스 자료사진] *기사와 관련이 없는 사진입니다.[연합뉴스 자료사진] *기사와 관련이 없는 사진입니다. 오늘(10일) 오전 경기도 김포시 운양동의 한 공원에 훈련 중이던 군 무인기가 추락해 군 당국이 조사 중입니다. 육군은 \"김포 소재 육군 모 부대의 소형 무인항공기(UAV)가 교육훈련 비행 중 훈련장 인근 공원에 원인 미상으로 추락해 회수했다\"고 밝혔습니다. 이어 \"장비 파손 외 인적·민간 피해는 없었다\"며...",
+          "contentSnippet": "소형 무인기 침투대비 훈련[연합뉴스 자료사진] *기사와 관련이 없는 사진입니다.[연합뉴스 자료사진] *기사와 관련이 없는 사진입니다. 오늘(10일) 오전 경기도 김포시 운양동의 한 공원에 훈련 중이던 군 무인기가 추락해 군 당국이 조사 중입니다. 육군은 \"김포 소재 육군 모 부대의 소형 무인항공기(UAV)가 교육훈련 비행 중 훈련장 인근 공원에 원인 미상으로 추락해 회수했다\"고 밝혔습니다. 이어 \"장비 파손 외 인적·민간 피해는 없었다\"며...",
+          "guid": "AKR20261110114725XRS",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-09T18:33:48.000Z"
+          "isoDate": "2026-11-10T02:47:26.000Z"
         },
         {
-          "creator": "이재경",
-          "title": "아일릿 미니앨범 '브레이크 이븐', 빌보드 메인 앨범 차트 6위 진입",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261110032032DGw",
-          "pubDate": "Tue, 10 Nov 2026 03:20:33 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261109/AKR20261110032032DGw_01_i.jpg\" alt=\"\"><span class=\"yna_title\">걸그룹 아일릿</span><span class=\"yna_caption\">[빌리프랩 제공. 재판매 및 DB 금지]</span><span class=\"yna_description\">[빌리프랩 제공. 재판매 및 DB 금지]</span></div>\n걸그룹 아일릿이 미국 빌보드 메인 앨범 순위인 '빌보드 200'에서 처음으로 상위 10위 안에 이름을 올렸습니다.\n\n빌보드는 현지시간 9일 차트 예고 기사를 통해 아일릿의 새 미니앨범 '브레이크 이븐'이 빌보드 200 차트(10월 30일~11월 5일 기준) 6위로 진입했다고 밝혔습니다.\n\n아일릿 앨범이 빌보드 200 차트에 오른 것은 이번이 5번째이며, 톱10에 든 것은 처음입니다.\n\n빌보드 200은 실물 음반과 디지털 앨범 등 앨범 판매량, 스트리밍 횟수를 앨범 판매량으로 환산한 수치, 디지털 음원 다운로드 횟수를 앨범 판매량으로 환산한 수치를 합산한 앨범 유닛으로 순위를 매깁니다.\n\n'브레이크 이븐'의 실물 앨범 판매량은 3만 2,500장이고 스트리밍 환산 수치는 약 487만 회인 4,500유닛을 기록했습니다.\n\n특히 무작위로 포토 카드와 스티커 등이 들은 24종 CD 패키지가 나와 앨범 판매량을 끌어올렸다고 빌보드는 설명했습니다.\n\n#아일릿 #빌보드 #브레이크이븐 #빌보드200\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이재경(jack0@yna.co.kr)",
-          "content:encodedSnippet": "걸그룹 아일릿[빌리프랩 제공. 재판매 및 DB 금지][빌리프랩 제공. 재판매 및 DB 금지]\n걸그룹 아일릿이 미국 빌보드 메인 앨범 순위인 '빌보드 200'에서 처음으로 상위 10위 안에 이름을 올렸습니다.\n\n빌보드는 현지시간 9일 차트 예고 기사를 통해 아일릿의 새 미니앨범 '브레이크 이븐'이 빌보드 200 차트(10월 30일~11월 5일 기준) 6위로 진입했다고 밝혔습니다.\n\n아일릿 앨범이 빌보드 200 차트에 오른 것은 이번이 5번째이며, 톱10에 든 것은 처음입니다.\n\n빌보드 200은 실물 음반과 디지털 앨범 등 앨범 판매량, 스트리밍 횟수를 앨범 판매량으로 환산한 수치, 디지털 음원 다운로드 횟수를 앨범 판매량으로 환산한 수치를 합산한 앨범 유닛으로 순위를 매깁니다.\n\n'브레이크 이븐'의 실물 앨범 판매량은 3만 2,500장이고 스트리밍 환산 수치는 약 487만 회인 4,500유닛을 기록했습니다.\n\n특히 무작위로 포토 카드와 스티커 등이 들은 24종 CD 패키지가 나와 앨범 판매량을 끌어올렸다고 빌보드는 설명했습니다.\n\n#아일릿 #빌보드 #브레이크이븐 #빌보드200\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이재경(jack0@yna.co.kr)",
+          "creator": "박수주",
+          "title": "정부, '반정부시위' 알바니아 '여행자제' 발령",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261110114723Iz2",
+          "pubDate": "Tue, 10 Nov 2026 11:47:23 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261110114723Iz2_01_i.jpg\" alt=\"\"><span class=\"yna_title\">알바니아 여행경보 조정 전후</span><span class=\"yna_caption\">[외교부 제공. 재판매 및 DB 금지]</span><span class=\"yna_description\">[외교부 제공. 재판매 및 DB 금지]</span></div>\n외교부가 내년 5월 지방선거를 앞두고 반정부 시위가 폭력 사태로 격화하는 알바니아에 대한 여행경보를 오늘(10일)부로 기존 1단계 '여행유의'에서 2단계 '여행자제'로 상향 조정했습니다.\n\n외교부는 알바니아를 여행할 예정인 국민은 필요성을 신중히 검토해 불필요한 여행은 자제하고, 알바니아에 체류 중인 국민은 신변 안전에 특별히 유의하도록 당부했습니다.\n\n최근 알바니아에서는 교육 환경 개선과 총리 퇴진 등을 요구하는 시위가 벌어지고 있습니다.\n\n#알바니아 #여행경보\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박수주(sooju@yna.co.kr)",
+          "content:encodedSnippet": "알바니아 여행경보 조정 전후[외교부 제공. 재판매 및 DB 금지][외교부 제공. 재판매 및 DB 금지]\n외교부가 내년 5월 지방선거를 앞두고 반정부 시위가 폭력 사태로 격화하는 알바니아에 대한 여행경보를 오늘(10일)부로 기존 1단계 '여행유의'에서 2단계 '여행자제'로 상향 조정했습니다.\n\n외교부는 알바니아를 여행할 예정인 국민은 필요성을 신중히 검토해 불필요한 여행은 자제하고, 알바니아에 체류 중인 국민은 신변 안전에 특별히 유의하도록 당부했습니다.\n\n최근 알바니아에서는 교육 환경 개선과 총리 퇴진 등을 요구하는 시위가 벌어지고 있습니다.\n\n#알바니아 #여행경보\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박수주(sooju@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261109/AKR20261110032032DGw_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261110114723Iz2_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "이재경",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261110032032DGw#comments",
-          "content": "걸그룹 아일릿[빌리프랩 제공. 재판매 및 DB 금지][빌리프랩 제공. 재판매 및 DB 금지] 걸그룹 아일릿이 미국 빌보드 메인 앨범 순위인 '빌보드 200'에서 처음으로 상위 10위 안에 이름을 올렸습니다. 빌보드는 현지시간 9일 차트 예고 기사를 통해 아일릿의 새 미니앨범 '브레이크 이븐'이 빌보드 200 차트(10월 30일~11월 5일 기준) 6위로 진입했다고 밝혔습니다. 아일릿 앨범이 빌보드 200 차트에 오른 것은 이번이 5번째이며...",
-          "contentSnippet": "걸그룹 아일릿[빌리프랩 제공. 재판매 및 DB 금지][빌리프랩 제공. 재판매 및 DB 금지] 걸그룹 아일릿이 미국 빌보드 메인 앨범 순위인 '빌보드 200'에서 처음으로 상위 10위 안에 이름을 올렸습니다. 빌보드는 현지시간 9일 차트 예고 기사를 통해 아일릿의 새 미니앨범 '브레이크 이븐'이 빌보드 200 차트(10월 30일~11월 5일 기준) 6위로 진입했다고 밝혔습니다. 아일릿 앨범이 빌보드 200 차트에 오른 것은 이번이 5번째이며...",
-          "guid": "AKR20261110032032DGw",
+          "dc:creator": "박수주",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261110114723Iz2#comments",
+          "content": "알바니아 여행경보 조정 전후[외교부 제공. 재판매 및 DB 금지][외교부 제공. 재판매 및 DB 금지] 외교부가 내년 5월 지방선거를 앞두고 반정부 시위가 폭력 사태로 격화하는 알바니아에 대한 여행경보를 오늘(10일)부로 기존 1단계 '여행유의'에서 2단계 '여행자제'로 상향 조정했습니다. 외교부는 알바니아를 여행할 예정인 국민은 필요성을 신중히 검토해 불필요한 여행은 자제하고, 알바니아에 체류 중인 국민은 신변 안전에 특별히 유의하도록 ...",
+          "contentSnippet": "알바니아 여행경보 조정 전후[외교부 제공. 재판매 및 DB 금지][외교부 제공. 재판매 및 DB 금지] 외교부가 내년 5월 지방선거를 앞두고 반정부 시위가 폭력 사태로 격화하는 알바니아에 대한 여행경보를 오늘(10일)부로 기존 1단계 '여행유의'에서 2단계 '여행자제'로 상향 조정했습니다. 외교부는 알바니아를 여행할 예정인 국민은 필요성을 신중히 검토해 불필요한 여행은 자제하고, 알바니아에 체류 중인 국민은 신변 안전에 특별히 유의하도록 ...",
+          "guid": "AKR20261110114723Iz2",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-09T18:20:33.000Z"
+          "isoDate": "2026-11-10T02:47:23.000Z"
         },
         {
-          "creator": "이재경",
-          "title": "프랑스, 냉장고 사이버 공격 배후로 이란 혁명수비대 지목",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261110031904U2b",
-          "pubDate": "Tue, 10 Nov 2026 03:19:05 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261109/AKR20261110031904U2b_01_i.jpg\" alt=\"\"><span class=\"yna_title\">지난달 중순 발생한 프랑스 슈퍼 냉장고 해킹</span><span class=\"yna_caption\">[AFP=연합뉴스 자료사진. 재판매 및 DB 금지]</span><span class=\"yna_description\">[AFP=연합뉴스 자료사진. 재판매 및 DB 금지]</span></div>\n프랑스가 지난달 전국 슈퍼마켓 수백개 매장의 냉장고 온도를 높인 사이버 공격의 배후로 이란 이슬람혁명수비대를 지목했습니다.\n\n로이터와 AFP 통신에 따르면 장노엘 바로 프랑스 외무장관은 현지시간 9일 \"이란 이슬람혁명수비대가 이번 공격을 수행했다고 확인할 수 있다\"고 밝혔습니다.\n\n지난달 중순 프랑스 전역 여러 업체의 슈퍼마켓 700개 점포가 냉장고 온도가 50도 이상으로 올라가는 사이버 공격을 당한 바 있습니다.\n\n바로 장관은 \"이 공격은 전례없는 규모와 수준\"이라며 \"우리 국토에 대한 사보타주를 노린 사상 첫 대규모 사이버 공격이며 국익과 프랑스 국민의 안보에 대한 공격\"이라고 비판했습니다.\n\n이어 \"우리는 유럽 차원에서 이 공격에 책임이 있는 모든 이들에 대한 제재를 시행할 것\"이라며 \"이 사건에 대응하고 이를 반복하려는 이를 저지하기 위해 필요하고 비례적인 어떤 조처든 할 것\"이라고 덧붙였습니다.\n\n파리검찰청은 혁명수비대에 대한 수사에 착수했다고 밝혔습니다.\n\n로르 베퀴오 파리검찰청장은 \"이슬람혁명수비대 전자사이버센터와 연계된 사이버 공격 부대인 샤히드 카베의 수장, 그의 두 수하, 기타 신원 파악이 가능할 수 있는 인물들에 대한 수사에 착수했다\"고 말했습니다.\n\n유엔 주재 이란 대표부는 질의에 답변하지 않았으며, 이란은 통상 이러한 악의적인 사이버 작전에 대해 부인하는 입장이라고 로이터 통신이 전했습니다.\n\n#냉장고사이버공격 #프랑스 #냉장고해킹 #이란 #이슬람혁명수비대\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이재경(jack0@yna.co.kr)",
-          "content:encodedSnippet": "지난달 중순 발생한 프랑스 슈퍼 냉장고 해킹[AFP=연합뉴스 자료사진. 재판매 및 DB 금지][AFP=연합뉴스 자료사진. 재판매 및 DB 금지]\n프랑스가 지난달 전국 슈퍼마켓 수백개 매장의 냉장고 온도를 높인 사이버 공격의 배후로 이란 이슬람혁명수비대를 지목했습니다.\n\n로이터와 AFP 통신에 따르면 장노엘 바로 프랑스 외무장관은 현지시간 9일 \"이란 이슬람혁명수비대가 이번 공격을 수행했다고 확인할 수 있다\"고 밝혔습니다.\n\n지난달 중순 프랑스 전역 여러 업체의 슈퍼마켓 700개 점포가 냉장고 온도가 50도 이상으로 올라가는 사이버 공격을 당한 바 있습니다.\n\n바로 장관은 \"이 공격은 전례없는 규모와 수준\"이라며 \"우리 국토에 대한 사보타주를 노린 사상 첫 대규모 사이버 공격이며 국익과 프랑스 국민의 안보에 대한 공격\"이라고 비판했습니다.\n\n이어 \"우리는 유럽 차원에서 이 공격에 책임이 있는 모든 이들에 대한 제재를 시행할 것\"이라며 \"이 사건에 대응하고 이를 반복하려는 이를 저지하기 위해 필요하고 비례적인 어떤 조처든 할 것\"이라고 덧붙였습니다.\n\n파리검찰청은 혁명수비대에 대한 수사에 착수했다고 밝혔습니다.\n\n로르 베퀴오 파리검찰청장은 \"이슬람혁명수비대 전자사이버센터와 연계된 사이버 공격 부대인 샤히드 카베의 수장, 그의 두 수하, 기타 신원 파악이 가능할 수 있는 인물들에 대한 수사에 착수했다\"고 말했습니다.\n\n유엔 주재 이란 대표부는 질의에 답변하지 않았으며, 이란은 통상 이러한 악의적인 사이버 작전에 대해 부인하는 입장이라고 로이터 통신이 전했습니다.\n\n#냉장고사이버공격 #프랑스 #냉장고해킹 #이란 #이슬람혁명수비대\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이재경(jack0@yna.co.kr)",
+          "creator": "팽재용",
+          "title": "스틸美대사 \"한국진출 美기업, 공정한 환경서 경쟁할 수 있어야\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261110114104TcW",
+          "pubDate": "Tue, 10 Nov 2026 11:41:04 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261110114104TcW_02_i.jpg\" alt=\"\"><span class=\"yna_title\">한미외교포럼 참석한 국회의장과 주한미국대사</span><span class=\"yna_caption\">(서울=연합뉴스) 이진욱 기자 = 10일 서울 여의도 글래드호텔에서 열린 제2회 한미외교포럼에 조정식 국회의장(오른쪽)과 미셸 박 스틸 주한미국대사가 참석해 있다. 2026.11.10 cityboy@yna.co.kr</span><span class=\"yna_description\">(서울=연합뉴스) 이진욱 기자 = 10일 서울 여의도 글래드호텔에서 열린 제2회 한미외교포럼에 조정식 국회의장(오른쪽)과 미셸 박 스틸 주한미국대사가 참석해 있다. 2026.11.10 cityboy@yna.co.kr</span></div>\n미셸 스틸 주한미국대사는 한미 경제 협력과 관련해 \"약속한 대로 한국에 진출한 미국 기업이 공정한 환경에서 경쟁할 수 있어야 한다\"고 말했습니다.\n\n스틸 대사는 오늘(10일) 국회 한미의원연맹이 주최하고 동아시아재단이 주관한 제2회 한미외교포럼에서 \"'한강의 기적'은 부인할 수 없는 하나의 진리, 안보와 번영은 결코 떼놓을 수 없다는 사실에 바탕을 뒀다. 안보 없이 번영을 누릴 수 없으며 번영 없이 실질적으로 안보를 가용할 수 없다\"면서 이같이 밝혔습니다.\n\n스틸 대사의 '공정 경쟁' 발언은 쿠팡 사태 등을 염두에 둔 것으로 풀이됩니다.\n\n그는 또 지난해 한미정상회담과 관련, \"트럼프 대통령과 이재명 대통령께선 한 세대의 한 번 있을 만한 수준으로 양국 동맹을 획기적으로 격상시켰다\"면서 \"3천500억달러의 미국 전략산업에 대한 한국의 투자가 포함됐고 국회가 특별법을 통과시켜 약속은 현재 추진 중인 사업들로 구체화했다\"고 말했습니다.\n\n이어 \"협상을 통해 협정을 도출하는 건 정부이지만 그걸 지속하는 건 의회\"라면서 의회 차원의 협력을 촉구했습니다.\n\n\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261110114104TcW_01_i.jpg\" alt=\"\"><span class=\"yna_title\">축사하는 조정식 국회의장</span><span class=\"yna_caption\">축사하는 조정식 국회의장\n(서울=연합뉴스) 이진욱 기자 = 10일 서울 여의도 글래드호텔에서 열린 제2회 한미외교포럼에서 조정식 국회의장이 축사하고 있다. 2026.11.10\ncityboy@yna.co.kr\n(끝)\n\n\n<저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지></span><span class=\"yna_description\">축사하는 조정식 국회의장\n(서울=연합뉴스) 이진욱 기자 = 10일 서울 여의도 글래드호텔에서 열린 제2회 한미외교포럼에서 조정식 국회의장이 축사하고 있다. 2026.11.10\ncityboy@yna.co.kr\n(끝)\n\n\n<저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지></span></div>\n\n\n한미의원연맹의 여당 측 공동회장을 맡기도 했던 조정식 국회의장은 이날 축사에서 \"한미정상회담에서 합의된 '조인트팩트시트'(공동설명자료)도 실질적 성과로 이어가게 함께 노력해야 할 것\"이라고 말했습니다.\n\n조 의장은 \"양국 사이에 서로 다른 입장을 조율해야 할 때도 있었지만 그때마다 대화로 길을 찾으며 더욱더 단단해졌다\"며 \"양국이 다져온 경제통상과 안보 협약 등의 과제를 굳건한 의회 간 협력으로 다져야 할 것\"이라고 강조했습니다.\n\n한편 한미의원연맹은 이날 이사회와 총회를 열어 조 의장의 후임으로 대통령 평화외교특별보좌관인 6선의 송영길 의원으로 선출하려 했으나, 정족수 미달로 일단 불발됐습니다.\n\n\n\n\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n팽재용(paengman@yna.co.kr)",
+          "content:encodedSnippet": "한미외교포럼 참석한 국회의장과 주한미국대사(서울=연합뉴스) 이진욱 기자 = 10일 서울 여의도 글래드호텔에서 열린 제2회 한미외교포럼에 조정식 국회의장(오른쪽)과 미셸 박 스틸 주한미국대사가 참석해 있다. 2026.11.10 cityboy@yna.co.kr(서울=연합뉴스) 이진욱 기자 = 10일 서울 여의도 글래드호텔에서 열린 제2회 한미외교포럼에 조정식 국회의장(오른쪽)과 미셸 박 스틸 주한미국대사가 참석해 있다. 2026.11.10 cityboy@yna.co.kr\n축사하는 조정식 국회의장축사하는 조정식 국회의장\n(서울=연합뉴스) 이진욱 기자 = 10일 서울 여의도 글래드호텔에서 열린 제2회 한미외교포럼에서 조정식 국회의장이 축사하고 있다. 2026.11.10\ncityboy@yna.co.kr\n(끝)\n\n\n축사하는 조정식 국회의장\n(서울=연합뉴스) 이진욱 기자 = 10일 서울 여의도 글래드호텔에서 열린 제2회 한미외교포럼에서 조정식 국회의장이 축사하고 있다. 2026.11.10\ncityboy@yna.co.kr\n(끝)\n\n\n\n\n\n한미의원연맹의 여당 측 공동회장을 맡기도 했던 조정식 국회의장은 이날 축사에서 \"한미정상회담에서 합의된 '조인트팩트시트'(공동설명자료)도 실질적 성과로 이어가게 함께 노력해야 할 것\"이라고 말했습니다.\n\n조 의장은 \"양국 사이에 서로 다른 입장을 조율해야 할 때도 있었지만 그때마다 대화로 길을 찾으며 더욱더 단단해졌다\"며 \"양국이 다져온 경제통상과 안보 협약 등의 과제를 굳건한 의회 간 협력으로 다져야 할 것\"이라고 강조했습니다.\n\n한편 한미의원연맹은 이날 이사회와 총회를 열어 조 의장의 후임으로 대통령 평화외교특별보좌관인 6선의 송영길 의원으로 선출하려 했으나, 정족수 미달로 일단 불발됐습니다.\n\n\n\n\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n팽재용(paengman@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261109/AKR20261110031904U2b_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261110114104TcW_02_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "이재경",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261110031904U2b#comments",
-          "content": "지난달 중순 발생한 프랑스 슈퍼 냉장고 해킹[AFP=연합뉴스 자료사진. 재판매 및 DB 금지][AFP=연합뉴스 자료사진. 재판매 및 DB 금지] 프랑스가 지난달 전국 슈퍼마켓 수백개 매장의 냉장고 온도를 높인 사이버 공격의 배후로 이란 이슬람혁명수비대를 지목했습니다. 로이터와 AFP 통신에 따르면 장노엘 바로 프랑스 외무장관은 현지시간 9일 \"이란 이슬람혁명수비대가 이번 공격을 수행했다고 확인할 수 있다\"고 밝혔습니다. 지난달 중순 프랑스...",
-          "contentSnippet": "지난달 중순 발생한 프랑스 슈퍼 냉장고 해킹[AFP=연합뉴스 자료사진. 재판매 및 DB 금지][AFP=연합뉴스 자료사진. 재판매 및 DB 금지] 프랑스가 지난달 전국 슈퍼마켓 수백개 매장의 냉장고 온도를 높인 사이버 공격의 배후로 이란 이슬람혁명수비대를 지목했습니다. 로이터와 AFP 통신에 따르면 장노엘 바로 프랑스 외무장관은 현지시간 9일 \"이란 이슬람혁명수비대가 이번 공격을 수행했다고 확인할 수 있다\"고 밝혔습니다. 지난달 중순 프랑스...",
-          "guid": "AKR20261110031904U2b",
+          "dc:creator": "팽재용",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261110114104TcW#comments",
+          "content": "한미외교포럼 참석한 국회의장과 주한미국대사(서울=연합뉴스) 이진욱 기자 = 10일 서울 여의도 글래드호텔에서 열린 제2회 한미외교포럼에 조정식 국회의장(오른쪽)과 미셸 박 스틸 주한미국대사가 참석해 있다. 2026.11.10 cityboy@yna.co.kr(서울=연합뉴스) 이진욱 기자 = 10일 서울 여의도 글래드호텔에서 열린 제2회 한미외교포럼에 조정식 국회의장(오른쪽)과 미셸 박 스틸 주한미국대사가 참석해 있다. 2026.11.10 c...",
+          "contentSnippet": "한미외교포럼 참석한 국회의장과 주한미국대사(서울=연합뉴스) 이진욱 기자 = 10일 서울 여의도 글래드호텔에서 열린 제2회 한미외교포럼에 조정식 국회의장(오른쪽)과 미셸 박 스틸 주한미국대사가 참석해 있다. 2026.11.10 cityboy@yna.co.kr(서울=연합뉴스) 이진욱 기자 = 10일 서울 여의도 글래드호텔에서 열린 제2회 한미외교포럼에 조정식 국회의장(오른쪽)과 미셸 박 스틸 주한미국대사가 참석해 있다. 2026.11.10 c...",
+          "guid": "AKR20261110114104TcW",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-09T18:19:05.000Z"
+          "isoDate": "2026-11-10T02:41:04.000Z"
         },
         {
-          "creator": "이재경",
-          "title": "시리아, 사우디 파병설 부인 \"파병 계획 없어\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261110012042O9a",
-          "pubDate": "Tue, 10 Nov 2026 01:20:45 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261109/AKR20261110012042O9a_01_i.jpg\" alt=\"\"><span class=\"yna_title\">아사드 알샤이바니 시리아 외무장관</span><span class=\"yna_caption\">[AFP=연합뉴스 자료사진. DB 및 재판매 금지]</span><span class=\"yna_description\">[AFP=연합뉴스 자료사진. DB 및 재판매 금지]</span></div>\n시리아 정부가 예멘 후티 반군과 교전 중인 사우디아라비아에 대한 파병설을 전면 부인했습니다.\n\n아사드 알샤이바니 시리아 외무장관은 현지시각 9일 기자회견을 열고 자국 병력이 사우디에 배치되어 있다는 외신 보도를 전면 부인했습니다.\n\n그러면서 \"예멘에 병력을 배치한 바 없으며, 가까운 미래에 파병할 계획 또한 없다\"고 강조했습니다.\n\n앞서 AP와 AFP 통신을 비롯한 외신은 시리아 당국자를 인용해 시리아 특수부대원 약 600명으로 구성된 선발대가 다음 주 사우디에 파견돼 예멘 접경 지역에 배치될 예정이라고 보도했습니다.\n\n#시리아 #예멘 #사우디아라비아 #파병\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이재경(jack0@yna.co.kr)",
-          "content:encodedSnippet": "아사드 알샤이바니 시리아 외무장관[AFP=연합뉴스 자료사진. DB 및 재판매 금지][AFP=연합뉴스 자료사진. DB 및 재판매 금지]\n시리아 정부가 예멘 후티 반군과 교전 중인 사우디아라비아에 대한 파병설을 전면 부인했습니다.\n\n아사드 알샤이바니 시리아 외무장관은 현지시각 9일 기자회견을 열고 자국 병력이 사우디에 배치되어 있다는 외신 보도를 전면 부인했습니다.\n\n그러면서 \"예멘에 병력을 배치한 바 없으며, 가까운 미래에 파병할 계획 또한 없다\"고 강조했습니다.\n\n앞서 AP와 AFP 통신을 비롯한 외신은 시리아 당국자를 인용해 시리아 특수부대원 약 600명으로 구성된 선발대가 다음 주 사우디에 파견돼 예멘 접경 지역에 배치될 예정이라고 보도했습니다.\n\n#시리아 #예멘 #사우디아라비아 #파병\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이재경(jack0@yna.co.kr)",
+          "creator": "이채연",
+          "title": "국힘 \"부동산 세제 당·청 갈등 가관…정책 기조부터 재검토\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261110114031rOf",
+          "pubDate": "Tue, 10 Nov 2026 11:40:31 +0900",
+          "content:encoded": "\n\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261110114031rOf_01_i.jpg\" alt=\"\"><span class=\"yna_title\">국민의힘 박충권 의원</span><span class=\"yna_caption\">사진출처: 연합뉴스</span><span class=\"yna_description\">사진출처: 연합뉴스</span></div>\n더불어민주당 서울 지역 의원들을 중심으로 부동산 세제 개편안 추가 수정 요구 목소리가 높아지는 데 대해, 국민의힘이 '당청 엇박자'를 부각했습니다.\n\n국민의힘 박충권 수석대변인은 오늘(10일) 논평을 내고 \"민주당 수도권 의원들이 부동산 세제 개편안 추가 수정을 공개 요구하고, 청와대는 기존 입장에 변화 없다 자당 의원들을 향해 선을 긋고 있다\"며, 부동산 세제를 둘러싼 당청 갈등이 가관이라고 지적했습니다.\n\n이어 \"집값은 못 잡고 세금만 잡으려던 정부 부동산 정책이 결국 여당 안에서부터 흔들리고 있다\"며 \"당청 간 정책 하나 조율하지 못하며 국정의 키를 쥐고 있겠단 것 자체가 국민에 대한 무책임\"이라고 비판했습니다.\n\n또 \"서울, 경기 민주당 의원들은 총선 위기감에 뒤늦게 목소리를 높이고 있다며, 정작 국민 고통에는 침묵하다 국회의원 제 자리가 걱정되자 집단행동에 나선 것\"이라고도 했습니다.\n\n정희용 사무총장도 페이스북에서 \"기가 막힌 건 민주당의 뒤늦은 변심\"이라며 \"국민 세 부담이 걱정돼서가 아닌 '2028년 총선과 직결된다', '서울 37석이 반토막 날 수 있다'는 이유로 종부세 공제 확대를 요구하고 나섰다\" 직격했습니다.\n\n또 \"실거주 여부로 국민 세 부담을 차등화하려는 정책 기조부터 재검토하고, 종부세와 양도세를 포함한 부동산 세제 전반을 근본적으로 바로잡기 바란다\" 촉구했습니다.\n\n국회 재경위 야당 간사인 배준영 의원은 페이스북에서 \"민주당은 먼저 원칙을 세우라\"며 \"잘못된 세제 개편은 국회에서 같이 막아야 한다는 것이 국민의 요구\"라고 강조했습니다.\n\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이채연(touche@yna.co.kr)",
+          "content:encodedSnippet": "국민의힘 박충권 의원사진출처: 연합뉴스사진출처: 연합뉴스\n더불어민주당 서울 지역 의원들을 중심으로 부동산 세제 개편안 추가 수정 요구 목소리가 높아지는 데 대해, 국민의힘이 '당청 엇박자'를 부각했습니다.\n\n국민의힘 박충권 수석대변인은 오늘(10일) 논평을 내고 \"민주당 수도권 의원들이 부동산 세제 개편안 추가 수정을 공개 요구하고, 청와대는 기존 입장에 변화 없다 자당 의원들을 향해 선을 긋고 있다\"며, 부동산 세제를 둘러싼 당청 갈등이 가관이라고 지적했습니다.\n\n이어 \"집값은 못 잡고 세금만 잡으려던 정부 부동산 정책이 결국 여당 안에서부터 흔들리고 있다\"며 \"당청 간 정책 하나 조율하지 못하며 국정의 키를 쥐고 있겠단 것 자체가 국민에 대한 무책임\"이라고 비판했습니다.\n\n또 \"서울, 경기 민주당 의원들은 총선 위기감에 뒤늦게 목소리를 높이고 있다며, 정작 국민 고통에는 침묵하다 국회의원 제 자리가 걱정되자 집단행동에 나선 것\"이라고도 했습니다.\n\n정희용 사무총장도 페이스북에서 \"기가 막힌 건 민주당의 뒤늦은 변심\"이라며 \"국민 세 부담이 걱정돼서가 아닌 '2028년 총선과 직결된다', '서울 37석이 반토막 날 수 있다'는 이유로 종부세 공제 확대를 요구하고 나섰다\" 직격했습니다.\n\n또 \"실거주 여부로 국민 세 부담을 차등화하려는 정책 기조부터 재검토하고, 종부세와 양도세를 포함한 부동산 세제 전반을 근본적으로 바로잡기 바란다\" 촉구했습니다.\n\n국회 재경위 야당 간사인 배준영 의원은 페이스북에서 \"민주당은 먼저 원칙을 세우라\"며 \"잘못된 세제 개편은 국회에서 같이 막아야 한다는 것이 국민의 요구\"라고 강조했습니다.\n\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이채연(touche@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261109/AKR20261110012042O9a_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261110114031rOf_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "이재경",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261110012042O9a#comments",
-          "content": "아사드 알샤이바니 시리아 외무장관[AFP=연합뉴스 자료사진. DB 및 재판매 금지][AFP=연합뉴스 자료사진. DB 및 재판매 금지] 시리아 정부가 예멘 후티 반군과 교전 중인 사우디아라비아에 대한 파병설을 전면 부인했습니다. 아사드 알샤이바니 시리아 외무장관은 현지시각 9일 기자회견을 열고 자국 병력이 사우디에 배치되어 있다는 외신 보도를 전면 부인했습니다. 그러면서 \"예멘에 병력을 배치한 바 없으며, 가까운 미래에 파병할 계획 또한 없...",
-          "contentSnippet": "아사드 알샤이바니 시리아 외무장관[AFP=연합뉴스 자료사진. DB 및 재판매 금지][AFP=연합뉴스 자료사진. DB 및 재판매 금지] 시리아 정부가 예멘 후티 반군과 교전 중인 사우디아라비아에 대한 파병설을 전면 부인했습니다. 아사드 알샤이바니 시리아 외무장관은 현지시각 9일 기자회견을 열고 자국 병력이 사우디에 배치되어 있다는 외신 보도를 전면 부인했습니다. 그러면서 \"예멘에 병력을 배치한 바 없으며, 가까운 미래에 파병할 계획 또한 없...",
-          "guid": "AKR20261110012042O9a",
+          "dc:creator": "이채연",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261110114031rOf#comments",
+          "content": "국민의힘 박충권 의원사진출처: 연합뉴스사진출처: 연합뉴스 더불어민주당 서울 지역 의원들을 중심으로 부동산 세제 개편안 추가 수정 요구 목소리가 높아지는 데 대해, 국민의힘이 '당청 엇박자'를 부각했습니다. 국민의힘 박충권 수석대변인은 오늘(10일) 논평을 내고 \"민주당 수도권 의원들이 부동산 세제 개편안 추가 수정을 공개 요구하고, 청와대는 기존 입장에 변화 없다 자당 의원들을 향해 선을 긋고 있다\"며, 부동산 세제를 둘러싼 당청 갈등이 ...",
+          "contentSnippet": "국민의힘 박충권 의원사진출처: 연합뉴스사진출처: 연합뉴스 더불어민주당 서울 지역 의원들을 중심으로 부동산 세제 개편안 추가 수정 요구 목소리가 높아지는 데 대해, 국민의힘이 '당청 엇박자'를 부각했습니다. 국민의힘 박충권 수석대변인은 오늘(10일) 논평을 내고 \"민주당 수도권 의원들이 부동산 세제 개편안 추가 수정을 공개 요구하고, 청와대는 기존 입장에 변화 없다 자당 의원들을 향해 선을 긋고 있다\"며, 부동산 세제를 둘러싼 당청 갈등이 ...",
+          "guid": "AKR20261110114031rOf",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-09T16:20:45.000Z"
+          "isoDate": "2026-11-10T02:40:31.000Z"
         },
         {
-          "creator": "이재경",
-          "title": "트럼프, 중간선거 부정선거 의혹 제기…\"이번 선거 정직했다 믿나\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR2026111000491516T",
-          "pubDate": "Tue, 10 Nov 2026 00:49:17 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261109/AKR2026111000491516T_01_i.jpg\" alt=\"\"><span class=\"yna_title\">도널드 트럼프 미국 대통령</span><span class=\"yna_caption\">[AP=연합뉴스. 재판매 및 DB 금지]</span><span class=\"yna_description\">[AP=연합뉴스. 재판매 및 DB 금지]</span></div>\n도널드 트럼프 미국 대통령이 중간선거 결과에 대한 부정선거 의혹을 제기했습니다.\n\n트럼프 대통령은 현지시간 9일 트루스소셜에 올린 글에서 \"이번 '선거'가 정직하게 치러졌다고 정말 믿는 사람이 있을까\"라며 \"어떻게 여론조사가 그렇게 틀릴 수 있냐\"고 말했습니다.\n\n그러면서 \"일부 사전투표 표가 한꺼번에 쏟아져 나온 규모가 너무 커서, 아무리 많은 사람이 투표하러 나갔더라도 승리하는 것이 불가능했다\"고 덧붙였습니다.\n\n이어서 \"모든 것은 투표기계에 달려 있다\"며 \"투표기계가 유권자보다 훨씬 더 중요하다\"고 주장했습니다.\n\n#트럼프 #중간선거 #부정선거\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이재경(jack0@yna.co.kr)",
-          "content:encodedSnippet": "도널드 트럼프 미국 대통령[AP=연합뉴스. 재판매 및 DB 금지][AP=연합뉴스. 재판매 및 DB 금지]\n도널드 트럼프 미국 대통령이 중간선거 결과에 대한 부정선거 의혹을 제기했습니다.\n\n트럼프 대통령은 현지시간 9일 트루스소셜에 올린 글에서 \"이번 '선거'가 정직하게 치러졌다고 정말 믿는 사람이 있을까\"라며 \"어떻게 여론조사가 그렇게 틀릴 수 있냐\"고 말했습니다.\n\n그러면서 \"일부 사전투표 표가 한꺼번에 쏟아져 나온 규모가 너무 커서, 아무리 많은 사람이 투표하러 나갔더라도 승리하는 것이 불가능했다\"고 덧붙였습니다.\n\n이어서 \"모든 것은 투표기계에 달려 있다\"며 \"투표기계가 유권자보다 훨씬 더 중요하다\"고 주장했습니다.\n\n#트럼프 #중간선거 #부정선거\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이재경(jack0@yna.co.kr)",
+          "creator": "소재형",
+          "title": "이 대통령 \"법 어기며 이익 보는 집단 있어\"…전수 조사 지시",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261110113921q0C",
+          "pubDate": "Tue, 10 Nov 2026 11:39:22 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261110113921q0C_01_i.jpg\" alt=\"\"><span class=\"yna_title\">국무회의에서 발언하는 이재명 대통령</span><span class=\"yna_caption\">(서울=연합뉴스) 신준희 기자 = 이재명 대통령이 10일 청와대에서 열린 국무회의에서 발언하고 있다. 2026.11.10 hama@yna.co.kr</span><span class=\"yna_description\">(서울=연합뉴스) 신준희 기자 = 이재명 대통령이 10일 청와대에서 열린 국무회의에서 발언하고 있다. 2026.11.10 hama@yna.co.kr</span></div>\n이재명 대통령이 \"법을 어기면서 이익을 보는 집단이 있다\"며 합법적 법질서를 부정하는 행태에 대한 전수조사를 지시했습니다.\n\n이 대통령은 오늘(10일) 국무회의 모두 발언에서 \"법률에 의한 처분이나 집행을 무력으로 저항하는 경우들이 있다\"며 \"재개발 명도 집행을 하는데 물리력을 동원해서 수년간 버티기를 해서 엄청난 피해를 주다 결국은 나중에 보니까 통한다\"고 지적했습니다.\n\n이어 \"우리 국민들이 직접 눈으로 보면 '법도 다 가진 사람이 힘 센 사람 편이구나' 이렇게 생각하게 되지 않겠나?\"고 반문하며 \"전국에 이런 불법을 지속적으로 강행하는 사례나 합법적인 법질서를 부정하는 행위의 실태를 전부 체크해 보고하라\"고 지시했습니다.\n\n앞서 이 대통령은 지난주 서울 성북구 장위10구역 재개발 현장을 방문한 자리에서 사랑제일교회가 재개발 구역에서 제외됐다는 설명에 \"강제집행을 못해서 변경해서 빼준것이냐? 말이 안 된다\"며 \"법을 어겨도 버티면 된다는 건 세상에 없다\"고 지적한 바 있습니다.\n\n#이재명 #대통령 #사랑제일교회 #법질서 #이익 #전광훈\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n소재형(sojay@yna.co.kr)",
+          "content:encodedSnippet": "국무회의에서 발언하는 이재명 대통령(서울=연합뉴스) 신준희 기자 = 이재명 대통령이 10일 청와대에서 열린 국무회의에서 발언하고 있다. 2026.11.10 hama@yna.co.kr(서울=연합뉴스) 신준희 기자 = 이재명 대통령이 10일 청와대에서 열린 국무회의에서 발언하고 있다. 2026.11.10 hama@yna.co.kr\n이재명 대통령이 \"법을 어기면서 이익을 보는 집단이 있다\"며 합법적 법질서를 부정하는 행태에 대한 전수조사를 지시했습니다.\n\n이 대통령은 오늘(10일) 국무회의 모두 발언에서 \"법률에 의한 처분이나 집행을 무력으로 저항하는 경우들이 있다\"며 \"재개발 명도 집행을 하는데 물리력을 동원해서 수년간 버티기를 해서 엄청난 피해를 주다 결국은 나중에 보니까 통한다\"고 지적했습니다.\n\n이어 \"우리 국민들이 직접 눈으로 보면 '법도 다 가진 사람이 힘 센 사람 편이구나' 이렇게 생각하게 되지 않겠나?\"고 반문하며 \"전국에 이런 불법을 지속적으로 강행하는 사례나 합법적인 법질서를 부정하는 행위의 실태를 전부 체크해 보고하라\"고 지시했습니다.\n\n앞서 이 대통령은 지난주 서울 성북구 장위10구역 재개발 현장을 방문한 자리에서 사랑제일교회가 재개발 구역에서 제외됐다는 설명에 \"강제집행을 못해서 변경해서 빼준것이냐? 말이 안 된다\"며 \"법을 어겨도 버티면 된다는 건 세상에 없다\"고 지적한 바 있습니다.\n\n#이재명 #대통령 #사랑제일교회 #법질서 #이익 #전광훈\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n소재형(sojay@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261109/AKR2026111000491516T_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261110113921q0C_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "이재경",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR2026111000491516T#comments",
-          "content": "도널드 트럼프 미국 대통령[AP=연합뉴스. 재판매 및 DB 금지][AP=연합뉴스. 재판매 및 DB 금지] 도널드 트럼프 미국 대통령이 중간선거 결과에 대한 부정선거 의혹을 제기했습니다. 트럼프 대통령은 현지시간 9일 트루스소셜에 올린 글에서 \"이번 '선거'가 정직하게 치러졌다고 정말 믿는 사람이 있을까\"라며 \"어떻게 여론조사가 그렇게 틀릴 수 있냐\"고 말했습니다. 그러면서 \"일부 사전투표 표가 한꺼번에 쏟아져 나온 규모가 너무 커서, 아무...",
-          "contentSnippet": "도널드 트럼프 미국 대통령[AP=연합뉴스. 재판매 및 DB 금지][AP=연합뉴스. 재판매 및 DB 금지] 도널드 트럼프 미국 대통령이 중간선거 결과에 대한 부정선거 의혹을 제기했습니다. 트럼프 대통령은 현지시간 9일 트루스소셜에 올린 글에서 \"이번 '선거'가 정직하게 치러졌다고 정말 믿는 사람이 있을까\"라며 \"어떻게 여론조사가 그렇게 틀릴 수 있냐\"고 말했습니다. 그러면서 \"일부 사전투표 표가 한꺼번에 쏟아져 나온 규모가 너무 커서, 아무...",
-          "guid": "AKR2026111000491516T",
+          "dc:creator": "소재형",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261110113921q0C#comments",
+          "content": "국무회의에서 발언하는 이재명 대통령(서울=연합뉴스) 신준희 기자 = 이재명 대통령이 10일 청와대에서 열린 국무회의에서 발언하고 있다. 2026.11.10 hama@yna.co.kr(서울=연합뉴스) 신준희 기자 = 이재명 대통령이 10일 청와대에서 열린 국무회의에서 발언하고 있다. 2026.11.10 hama@yna.co.kr 이재명 대통령이 \"법을 어기면서 이익을 보는 집단이 있다\"며 합법적 법질서를 부정하는 행태에 대한 전수조사를 지시...",
+          "contentSnippet": "국무회의에서 발언하는 이재명 대통령(서울=연합뉴스) 신준희 기자 = 이재명 대통령이 10일 청와대에서 열린 국무회의에서 발언하고 있다. 2026.11.10 hama@yna.co.kr(서울=연합뉴스) 신준희 기자 = 이재명 대통령이 10일 청와대에서 열린 국무회의에서 발언하고 있다. 2026.11.10 hama@yna.co.kr 이재명 대통령이 \"법을 어기면서 이익을 보는 집단이 있다\"며 합법적 법질서를 부정하는 행태에 대한 전수조사를 지시...",
+          "guid": "AKR20261110113921q0C",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-09T15:49:17.000Z"
+          "isoDate": "2026-11-10T02:39:22.000Z"
         },
         {
-          "creator": "이재경",
-          "title": "이란 대통령 \"최고지도자, 전쟁도 평화도 아닌 상황 종식 지시\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261110004733QDE",
-          "pubDate": "Tue, 10 Nov 2026 00:47:35 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261109/AKR20261110004733QDE_01_i.jpg\" alt=\"\"><span class=\"yna_title\">마수드 페제시키안 이란 대통령</span><span class=\"yna_caption\">[UPI 연합뉴스. 재판매 및 DB 금지]</span><span class=\"yna_description\">[UPI 연합뉴스. 재판매 및 DB 금지]</span></div>\n마수드 페제시키안 이란 대통령은 모즈타바 하메네이 이란 최고지도자가 '전쟁도 평화도 아닌' 상태를 끝낼 것을 국가 지도부에 지시했다고 밝혔습니다.\n\n페제시키안 대통령은 현지시간 9일 이란 낙농업 공사 창립 72주년 기념식에 참석해 \"최고지도자가 우리에게 이 '전쟁도 평화도 아닌' 상황을 종식할 것을 명했다\"며 \"우리는 품위를 지키며 회담에 임할 수 있고, 위엄 있게 마무리 지을 수 있다\"고 말했습니다.\n\n이어 이란 국민이 미국의 제재와 봉쇄 조치로 고통받고 있다는 점을 깊이 이해한다고 덧붙였습니다.\n\n그러면서 \"오늘 이 자리에 있는 나는 국가와 국민에게 봉사할 책임이 있다\"며 \"우리나라에서 그 누구라도 굶주린 채 잠자리에 드는 것을 절대 용납할 수 없다\"고 강조했습니다.\n\n#미국이란전쟁 #중동전쟁 #마수드페제시키안대통령 #이란대통령 #모즈타바하메네이\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이재경(jack0@yna.co.kr)",
-          "content:encodedSnippet": "마수드 페제시키안 이란 대통령[UPI 연합뉴스. 재판매 및 DB 금지][UPI 연합뉴스. 재판매 및 DB 금지]\n마수드 페제시키안 이란 대통령은 모즈타바 하메네이 이란 최고지도자가 '전쟁도 평화도 아닌' 상태를 끝낼 것을 국가 지도부에 지시했다고 밝혔습니다.\n\n페제시키안 대통령은 현지시간 9일 이란 낙농업 공사 창립 72주년 기념식에 참석해 \"최고지도자가 우리에게 이 '전쟁도 평화도 아닌' 상황을 종식할 것을 명했다\"며 \"우리는 품위를 지키며 회담에 임할 수 있고, 위엄 있게 마무리 지을 수 있다\"고 말했습니다.\n\n이어 이란 국민이 미국의 제재와 봉쇄 조치로 고통받고 있다는 점을 깊이 이해한다고 덧붙였습니다.\n\n그러면서 \"오늘 이 자리에 있는 나는 국가와 국민에게 봉사할 책임이 있다\"며 \"우리나라에서 그 누구라도 굶주린 채 잠자리에 드는 것을 절대 용납할 수 없다\"고 강조했습니다.\n\n#미국이란전쟁 #중동전쟁 #마수드페제시키안대통령 #이란대통령 #모즈타바하메네이\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이재경(jack0@yna.co.kr)",
+          "creator": "최지숙",
+          "title": "취준생 77% \"취업에 AI 역량 중요\"…정작 기업에선 20%만 공식 평가",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261110113630xwm",
+          "pubDate": "Tue, 10 Nov 2026 11:36:30 +0900",
+          "content:encoded": "\n\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261110113630xwm_01_i.jpg\" alt=\"\"><span class=\"yna_title\">한국경제인협회</span><span class=\"yna_caption\">[연합뉴스 자료사진]</span><span class=\"yna_description\">[연합뉴스 자료사진]</span></div>\n\n취업준비생 대다수는 취업에 인공지능(AI) 활용 역량이 중요하다고 여기지만, 실제 신입 채용에서 이를 공식 평가하는 기업은 많지 않다는 조사 결과가 나왔습니다.\n\n한국경제인협회(한경협)는 국내 4년제 대학 3학년 이상 취업준비생 500명과 국내 매출액 상위 1천대 기업 중 200곳을 대상으로 실시한 'AI 시대 신입인재 역량에 대한 기업-취준생 인식조사' 결과를 발표했습니다.\n\n조사 결과 취준생의 77.0%는 취업에서 AI 활용 역량이 중요하다고 답했습니다.\n\n'보통이다'는 15.2％, '중요하지 않다'는 7.8％였습니다.\n\n반면 신입 채용 시 AI 활용 역량을 중요하게 고려한다는 기업은 39.0%였고 '보통이다'가 39.0％, '중요하지 않다'는 22.0％였습니다.\n\n채용 평가에서 AI 활용 역량을 공식 항목으로 반영하는 기업은 20.0%에 그쳤습니다.\n\n공식 항목은 아니지만 지원자가 자발적으로 기재하거나 언급하면 참고한다는 기업이 43.0%였고, 평가에 반영하지 않는다는 기업은 37.0%였습니다.\n\n공식 평가하는 기업 중에서도 일부 직무에서만 반영하는 곳이 16.0%로 대부분이었고, 대부분의 직무에서 반영하는 곳은 3.0%, 모든 직무에서 필수 항목으로 반영하는 곳은 1% 수준으로 나타났습니다.\n\n\n#한경협 #AI\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지숙(js173@yna.co.kr)",
+          "content:encodedSnippet": "한국경제인협회[연합뉴스 자료사진][연합뉴스 자료사진]\n\n취업준비생 대다수는 취업에 인공지능(AI) 활용 역량이 중요하다고 여기지만, 실제 신입 채용에서 이를 공식 평가하는 기업은 많지 않다는 조사 결과가 나왔습니다.\n\n한국경제인협회(한경협)는 국내 4년제 대학 3학년 이상 취업준비생 500명과 국내 매출액 상위 1천대 기업 중 200곳을 대상으로 실시한 'AI 시대 신입인재 역량에 대한 기업-취준생 인식조사' 결과를 발표했습니다.\n\n조사 결과 취준생의 77.0%는 취업에서 AI 활용 역량이 중요하다고 답했습니다.\n\n'보통이다'는 15.2％, '중요하지 않다'는 7.8％였습니다.\n\n반면 신입 채용 시 AI 활용 역량을 중요하게 고려한다는 기업은 39.0%였고 '보통이다'가 39.0％, '중요하지 않다'는 22.0％였습니다.\n\n채용 평가에서 AI 활용 역량을 공식 항목으로 반영하는 기업은 20.0%에 그쳤습니다.\n\n공식 항목은 아니지만 지원자가 자발적으로 기재하거나 언급하면 참고한다는 기업이 43.0%였고, 평가에 반영하지 않는다는 기업은 37.0%였습니다.\n\n공식 평가하는 기업 중에서도 일부 직무에서만 반영하는 곳이 16.0%로 대부분이었고, 대부분의 직무에서 반영하는 곳은 3.0%, 모든 직무에서 필수 항목으로 반영하는 곳은 1% 수준으로 나타났습니다.\n\n\n#한경협 #AI\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지숙(js173@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261109/AKR20261110004733QDE_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261110113630xwm_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "이재경",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261110004733QDE#comments",
-          "content": "마수드 페제시키안 이란 대통령[UPI 연합뉴스. 재판매 및 DB 금지][UPI 연합뉴스. 재판매 및 DB 금지] 마수드 페제시키안 이란 대통령은 모즈타바 하메네이 이란 최고지도자가 '전쟁도 평화도 아닌' 상태를 끝낼 것을 국가 지도부에 지시했다고 밝혔습니다. 페제시키안 대통령은 현지시간 9일 이란 낙농업 공사 창립 72주년 기념식에 참석해 \"최고지도자가 우리에게 이 '전쟁도 평화도 아닌' 상황을 종식할 것을 명했다\"며 \"우리는 품위를 지키...",
-          "contentSnippet": "마수드 페제시키안 이란 대통령[UPI 연합뉴스. 재판매 및 DB 금지][UPI 연합뉴스. 재판매 및 DB 금지] 마수드 페제시키안 이란 대통령은 모즈타바 하메네이 이란 최고지도자가 '전쟁도 평화도 아닌' 상태를 끝낼 것을 국가 지도부에 지시했다고 밝혔습니다. 페제시키안 대통령은 현지시간 9일 이란 낙농업 공사 창립 72주년 기념식에 참석해 \"최고지도자가 우리에게 이 '전쟁도 평화도 아닌' 상황을 종식할 것을 명했다\"며 \"우리는 품위를 지키...",
-          "guid": "AKR20261110004733QDE",
+          "dc:creator": "최지숙",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261110113630xwm#comments",
+          "content": "한국경제인협회[연합뉴스 자료사진][연합뉴스 자료사진] 취업준비생 대다수는 취업에 인공지능(AI) 활용 역량이 중요하다고 여기지만, 실제 신입 채용에서 이를 공식 평가하는 기업은 많지 않다는 조사 결과가 나왔습니다. 한국경제인협회(한경협)는 국내 4년제 대학 3학년 이상 취업준비생 500명과 국내 매출액 상위 1천대 기업 중 200곳을 대상으로 실시한 'AI 시대 신입인재 역량에 대한 기업-취준생 인식조사' 결과를 발표했습니다. 조사 결과 ...",
+          "contentSnippet": "한국경제인협회[연합뉴스 자료사진][연합뉴스 자료사진] 취업준비생 대다수는 취업에 인공지능(AI) 활용 역량이 중요하다고 여기지만, 실제 신입 채용에서 이를 공식 평가하는 기업은 많지 않다는 조사 결과가 나왔습니다. 한국경제인협회(한경협)는 국내 4년제 대학 3학년 이상 취업준비생 500명과 국내 매출액 상위 1천대 기업 중 200곳을 대상으로 실시한 'AI 시대 신입인재 역량에 대한 기업-취준생 인식조사' 결과를 발표했습니다. 조사 결과 ...",
+          "guid": "AKR20261110113630xwm",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-09T15:47:35.000Z"
+          "isoDate": "2026-11-10T02:36:30.000Z"
         },
         {
-          "creator": "이재경",
-          "title": "청와대, '조작기소 특검법' 다음 주 국무회의 상정 예정",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH202611100014585fz",
-          "pubDate": "Tue, 10 Nov 2026 00:15:00 +0900",
-          "content:encoded": "청와대가 최근 국회 본회의를 통과한 '조작기소 특검법'을 다음 주 국무회의에 상정할 예정입니다.\n\n청와대 관계자는 특검법 공포안은 오늘(10일) 국무회의 개최 계획이 이미 결정된 이후 국회에서 정부로 이송됐다며 이같이 밝혔습니다.\n\n이 관계자는 통상적으로 국회 본회의 통과 후 정부로 이송되는 법률 공포안은 이송 시점과 긴급성 등을 고려해, 국무회의 상정 시기를 결정한다며 직후 국무회의 상정이 의무 사항은 아니라고 설명했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이재경(jack0@yna.co.kr)",
-          "content:encodedSnippet": "청와대가 최근 국회 본회의를 통과한 '조작기소 특검법'을 다음 주 국무회의에 상정할 예정입니다.\n\n청와대 관계자는 특검법 공포안은 오늘(10일) 국무회의 개최 계획이 이미 결정된 이후 국회에서 정부로 이송됐다며 이같이 밝혔습니다.\n\n이 관계자는 통상적으로 국회 본회의 통과 후 정부로 이송되는 법률 공포안은 이송 시점과 긴급성 등을 고려해, 국무회의 상정 시기를 결정한다며 직후 국무회의 상정이 의무 사항은 아니라고 설명했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이재경(jack0@yna.co.kr)",
+          "creator": "최지숙",
+          "title": "산업장관, '52시간 예외' 초광역특구법 관련 \"우리는 충분히 절박한가\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261110113514ZDn",
+          "pubDate": "Tue, 10 Nov 2026 11:35:15 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261110113514ZDn_01_i.jpg\" alt=\"\"><span class=\"yna_title\">답변하는 김정관 산업통상부 장관</span><span class=\"yna_caption\">연합뉴스 제공</span><span class=\"yna_description\">연합뉴스 제공</span></div>\n\n첨단산업 연구개발(R&amp;D) 인력의 주 52시간제 예외 등을 담은 초광역특구법의 연내 처리가 불투명해진 가운데 김정관 산업통상부 장관이 중국 출장 직후 위기감을 토로했습니다.\n\n오늘(10일) 관계부처에 따르면 지난주 중국을 다녀온 김 장관은 '우리는 충분히 절박한가? 우리는 그러고 있습니까?'라는 제목의 페이스북 글을 최근 올렸습니다.\n\n김 장관은 \"중국 기업들의 기술력과 경쟁력은 생각 이상으로 빠르게 높아지고 있었다\"며 \"우리가 앞섰던 분야에서도 이제는 오히려 중국을 추격해야 하는 상황이 벌어지고 있다\"고 썼습니다.\n\n그러면서 \"정부가 기업보다 더 절박해야 한다\"며 \"기업이 규제 하나를 풀기 위해 몇 년씩 기다려야 한다면 그 사이 경쟁국 기업들은 얼마나 멀리 앞서가겠는가. 적어도 정부 때문에 기업이 기회를 놓치거나 속앓이를 하는 일은 없어야 한다\"고 했습니다.\n\n김 장관의 이번 메시지는 3대 메가프로젝트 속도전을 뒷받침할 초광역특구법의 주 52시간 예외 조항 도입이 노동계 반발과 여당 내 이견으로 난항을 겪자 정부와 정치권의 적극적인 대응을 촉구한 것으로 풀이됩니다.\n\n산업계와 산업부는 글로벌 경쟁력 확보를 위해 연구개발 인력의 근로시간 유연화가 필수적이라는 입장이지만 노동계는 장시간 노동과 건강권 침해를 이유로 반대하고 있습니다.\n\n\n#산업부 #김정관 #초광역특구법\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지숙(js173@yna.co.kr)",
+          "content:encodedSnippet": "답변하는 김정관 산업통상부 장관연합뉴스 제공연합뉴스 제공\n\n첨단산업 연구개발(R&D) 인력의 주 52시간제 예외 등을 담은 초광역특구법의 연내 처리가 불투명해진 가운데 김정관 산업통상부 장관이 중국 출장 직후 위기감을 토로했습니다.\n\n오늘(10일) 관계부처에 따르면 지난주 중국을 다녀온 김 장관은 '우리는 충분히 절박한가? 우리는 그러고 있습니까?'라는 제목의 페이스북 글을 최근 올렸습니다.\n\n김 장관은 \"중국 기업들의 기술력과 경쟁력은 생각 이상으로 빠르게 높아지고 있었다\"며 \"우리가 앞섰던 분야에서도 이제는 오히려 중국을 추격해야 하는 상황이 벌어지고 있다\"고 썼습니다.\n\n그러면서 \"정부가 기업보다 더 절박해야 한다\"며 \"기업이 규제 하나를 풀기 위해 몇 년씩 기다려야 한다면 그 사이 경쟁국 기업들은 얼마나 멀리 앞서가겠는가. 적어도 정부 때문에 기업이 기회를 놓치거나 속앓이를 하는 일은 없어야 한다\"고 했습니다.\n\n김 장관의 이번 메시지는 3대 메가프로젝트 속도전을 뒷받침할 초광역특구법의 주 52시간 예외 조항 도입이 노동계 반발과 여당 내 이견으로 난항을 겪자 정부와 정치권의 적극적인 대응을 촉구한 것으로 풀이됩니다.\n\n산업계와 산업부는 글로벌 경쟁력 확보를 위해 연구개발 인력의 근로시간 유연화가 필수적이라는 입장이지만 노동계는 장시간 노동과 건강권 침해를 이유로 반대하고 있습니다.\n\n\n#산업부 #김정관 #초광역특구법\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지숙(js173@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261109/MYH202611100014585fz.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261110113514ZDn_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "이재경",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH202611100014585fz#comments",
-          "content": "청와대가 최근 국회 본회의를 통과한 '조작기소 특검법'을 다음 주 국무회의에 상정할 예정입니다. 청와대 관계자는 특검법 공포안은 오늘(10일) 국무회의 개최 계획이 이미 결정된 이후 국회에서 정부로 이송됐다며 이같이 밝혔습니다. 이 관계자는 통상적으로 국회 본회의 통과 후 정부로 이송되는 법률 공포안은 이송 시점과 긴급성 등을 고려해, 국무회의 상정 시기를 결정한다며 직후 국무회의 상정이 의무 사항은 아니라고 설명했습니다. 연합뉴스TV 기...",
-          "contentSnippet": "청와대가 최근 국회 본회의를 통과한 '조작기소 특검법'을 다음 주 국무회의에 상정할 예정입니다. 청와대 관계자는 특검법 공포안은 오늘(10일) 국무회의 개최 계획이 이미 결정된 이후 국회에서 정부로 이송됐다며 이같이 밝혔습니다. 이 관계자는 통상적으로 국회 본회의 통과 후 정부로 이송되는 법률 공포안은 이송 시점과 긴급성 등을 고려해, 국무회의 상정 시기를 결정한다며 직후 국무회의 상정이 의무 사항은 아니라고 설명했습니다. 연합뉴스TV 기...",
-          "guid": "MYH202611100014585fz",
+          "dc:creator": "최지숙",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261110113514ZDn#comments",
+          "content": "답변하는 김정관 산업통상부 장관연합뉴스 제공연합뉴스 제공 첨단산업 연구개발(R&amp;D) 인력의 주 52시간제 예외 등을 담은 초광역특구법의 연내 처리가 불투명해진 가운데 김정관 산업통상부 장관이 중국 출장 직후 위기감을 토로했습니다. 오늘(10일) 관계부처에 따르면 지난주 중국을 다녀온 김 장관은 '우리는 충분히 절박한가? 우리는 그러고 있습니까?'라는 제목의 페이스북 글을 최근 올렸습니다. 김 장관은 \"중국 기업들의 기술력과 경쟁력은...",
+          "contentSnippet": "답변하는 김정관 산업통상부 장관연합뉴스 제공연합뉴스 제공 첨단산업 연구개발(R&D) 인력의 주 52시간제 예외 등을 담은 초광역특구법의 연내 처리가 불투명해진 가운데 김정관 산업통상부 장관이 중국 출장 직후 위기감을 토로했습니다. 오늘(10일) 관계부처에 따르면 지난주 중국을 다녀온 김 장관은 '우리는 충분히 절박한가? 우리는 그러고 있습니까?'라는 제목의 페이스북 글을 최근 올렸습니다. 김 장관은 \"중국 기업들의 기술력과 경쟁력은...",
+          "guid": "AKR20261110113514ZDn",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-09T15:15:00.000Z"
+          "isoDate": "2026-11-10T02:35:15.000Z"
         },
         {
-          "creator": "방준혁",
-          "title": "프랑스, 고물가 시위에 최저임금 1.6% 인상…노조 \"턱없이 부족\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261110001413Rby",
-          "pubDate": "Tue, 10 Nov 2026 00:14:15 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261109/AKR20261110001413Rby_01_i.jpg\" alt=\"\"><span class=\"yna_title\">회의 후 기자회견 하는 르코르뉘 총리</span><span class=\"yna_caption\">[로이터=연합뉴스. 재판매 및 DB 금지]</span><span class=\"yna_description\">[로이터=연합뉴스. 재판매 및 DB 금지]</span></div>\n프랑스에서 고물가 항의 시위가 이어지는 가운데 프랑스 정부가 최저임금을 한 달 앞당겨 올리기로 했다고 현지 언론이 보도했습니다.\n\n장피에르 파랑두 노동장관은 현지시간 9일 물가상승률을 반영해 내년 1월 인상이 예정돼 있던 최저임금을 한 달 빠른 다음달부터 1.6% 인상하기로 했다고 밝혔습니다.\n\n이에 따라 프랑스 최저임금은 주 35시간 기준 세후 월 1,478유로에서 1,502유로로 24유로, 우리 돈으로 약 3만 6천 원 인상됩니다.\n\n프랑스 최저임금은 통상 연초와 연 중반에 물가상승률을 반영해 자동으로 인상돼 왔는데, 현재 최저임금은 올해 6월에 35유로 인상된 것입니다.\n\n이번 발표는 세바스티앵 르코르뉘 총리 주재 회의 이후 나왔는데, 르코르뉘 총리는 \"상징적인 인상이 아니라 지난 20년간 두 번째로 큰 폭의 인상이 될 것\"이라고 말했습니다.\n\n그러나 노조 측은 정부 대책이 턱없이 부족하다고 반발하며 오는 17일 추가 파업 동참을 촉구했습니다.\n\n프랑스에서는 공공투자 부족과 생활비 상승에 항의하는 학생·노조·시민단체 시위가 한 달 넘게 벌어지고 있으며 지난 5일에는 하루 동안 노조가 총파업에 들어가기도 했습니다.\n\n#프랑스_고물가_시위 #최저임금 #총파업\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n방준혁(bang@yna.co.kr)",
-          "content:encodedSnippet": "회의 후 기자회견 하는 르코르뉘 총리[로이터=연합뉴스. 재판매 및 DB 금지][로이터=연합뉴스. 재판매 및 DB 금지]\n프랑스에서 고물가 항의 시위가 이어지는 가운데 프랑스 정부가 최저임금을 한 달 앞당겨 올리기로 했다고 현지 언론이 보도했습니다.\n\n장피에르 파랑두 노동장관은 현지시간 9일 물가상승률을 반영해 내년 1월 인상이 예정돼 있던 최저임금을 한 달 빠른 다음달부터 1.6% 인상하기로 했다고 밝혔습니다.\n\n이에 따라 프랑스 최저임금은 주 35시간 기준 세후 월 1,478유로에서 1,502유로로 24유로, 우리 돈으로 약 3만 6천 원 인상됩니다.\n\n프랑스 최저임금은 통상 연초와 연 중반에 물가상승률을 반영해 자동으로 인상돼 왔는데, 현재 최저임금은 올해 6월에 35유로 인상된 것입니다.\n\n이번 발표는 세바스티앵 르코르뉘 총리 주재 회의 이후 나왔는데, 르코르뉘 총리는 \"상징적인 인상이 아니라 지난 20년간 두 번째로 큰 폭의 인상이 될 것\"이라고 말했습니다.\n\n그러나 노조 측은 정부 대책이 턱없이 부족하다고 반발하며 오는 17일 추가 파업 동참을 촉구했습니다.\n\n프랑스에서는 공공투자 부족과 생활비 상승에 항의하는 학생·노조·시민단체 시위가 한 달 넘게 벌어지고 있으며 지난 5일에는 하루 동안 노조가 총파업에 들어가기도 했습니다.\n\n#프랑스_고물가_시위 #최저임금 #총파업\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n방준혁(bang@yna.co.kr)",
+          "creator": "구하림",
+          "title": "철도차량 고위험 부품 검사 강화…중복검사는 축소",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261110113442mSE",
+          "pubDate": "Tue, 10 Nov 2026 11:34:42 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261110113442mSE_01_i.jpg\" alt=\"\"><span class=\"yna_title\">철도차량 고위험 부품 검사 강화…중복검사 축소</span><span class=\"yna_caption\">[연합뉴스 자료사진]</span><span class=\"yna_description\">[연합뉴스 자료사진]</span></div>\n정부는 사고 위험이 높은 철도차량 부품에 대한 검사를 강화하는 대신, 불필요한 중복검사는 줄여 제작사의 부담을 완화하기로 했습니다.\n\n국토교통부는 이같은 내용이 담긴 '철도차량 형식승인제도 개선방안'을 마련했습니다.\n\n우선 주요 안전 부품을 사고 위험도에 따라 4단계로 분류해 고위험 부품은 검사를 강화하고, 저위험 부품은 제작사 시험 결과 등을 활용해 검사 부담을 줄이기로 했습니다.\n\n주요 부품을 교체하거나 설계를 변경할 경우 차량 전체에 미치는 영향을 검증하고, 폭염·한파에 취약한 부품의 안전성 검사도 강화합니다.\n\n또 형식승인 과정에서 안전성이 확인된 부품은 완성검사에서 동일한 검사를 반복하지 않도록 하기로 했습니다.\n\n중복검사를 줄이는 셈입니다.\n\n내년부터 검사 진행 상황을 실시간 확인할 수 있는 디지털 승인체계를 전면 도입하고, 다음 달부터 신규 제작·수입업체 등에 검사 절차와 소요 시간을 안내하고 내년 상반기부터는 검사 기간 가이드라인을 제공할 계획입니다.\n\n김태병 국토부 철도국장은 고위험 부품의 안전성 검증을 강화하는 동시에 중복검사는 줄여 산업 경쟁력을 높이겠다고 강조했습니다.\n\n\n#철도차량 #철도안전점검 #국토교통부 #KTX\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n구하림(halimkoo@yna.co.kr)",
+          "content:encodedSnippet": "철도차량 고위험 부품 검사 강화…중복검사 축소[연합뉴스 자료사진][연합뉴스 자료사진]\n정부는 사고 위험이 높은 철도차량 부품에 대한 검사를 강화하는 대신, 불필요한 중복검사는 줄여 제작사의 부담을 완화하기로 했습니다.\n\n국토교통부는 이같은 내용이 담긴 '철도차량 형식승인제도 개선방안'을 마련했습니다.\n\n우선 주요 안전 부품을 사고 위험도에 따라 4단계로 분류해 고위험 부품은 검사를 강화하고, 저위험 부품은 제작사 시험 결과 등을 활용해 검사 부담을 줄이기로 했습니다.\n\n주요 부품을 교체하거나 설계를 변경할 경우 차량 전체에 미치는 영향을 검증하고, 폭염·한파에 취약한 부품의 안전성 검사도 강화합니다.\n\n또 형식승인 과정에서 안전성이 확인된 부품은 완성검사에서 동일한 검사를 반복하지 않도록 하기로 했습니다.\n\n중복검사를 줄이는 셈입니다.\n\n내년부터 검사 진행 상황을 실시간 확인할 수 있는 디지털 승인체계를 전면 도입하고, 다음 달부터 신규 제작·수입업체 등에 검사 절차와 소요 시간을 안내하고 내년 상반기부터는 검사 기간 가이드라인을 제공할 계획입니다.\n\n김태병 국토부 철도국장은 고위험 부품의 안전성 검증을 강화하는 동시에 중복검사는 줄여 산업 경쟁력을 높이겠다고 강조했습니다.\n\n\n#철도차량 #철도안전점검 #국토교통부 #KTX\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n구하림(halimkoo@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261109/AKR20261110001413Rby_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261110113442mSE_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "방준혁",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261110001413Rby#comments",
-          "content": "회의 후 기자회견 하는 르코르뉘 총리[로이터=연합뉴스. 재판매 및 DB 금지][로이터=연합뉴스. 재판매 및 DB 금지] 프랑스에서 고물가 항의 시위가 이어지는 가운데 프랑스 정부가 최저임금을 한 달 앞당겨 올리기로 했다고 현지 언론이 보도했습니다. 장피에르 파랑두 노동장관은 현지시간 9일 물가상승률을 반영해 내년 1월 인상이 예정돼 있던 최저임금을 한 달 빠른 다음달부터 1.6% 인상하기로 했다고 밝혔습니다. 이에 따라 프랑스 최저임금은 ...",
-          "contentSnippet": "회의 후 기자회견 하는 르코르뉘 총리[로이터=연합뉴스. 재판매 및 DB 금지][로이터=연합뉴스. 재판매 및 DB 금지] 프랑스에서 고물가 항의 시위가 이어지는 가운데 프랑스 정부가 최저임금을 한 달 앞당겨 올리기로 했다고 현지 언론이 보도했습니다. 장피에르 파랑두 노동장관은 현지시간 9일 물가상승률을 반영해 내년 1월 인상이 예정돼 있던 최저임금을 한 달 빠른 다음달부터 1.6% 인상하기로 했다고 밝혔습니다. 이에 따라 프랑스 최저임금은 ...",
-          "guid": "AKR20261110001413Rby",
+          "dc:creator": "구하림",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261110113442mSE#comments",
+          "content": "철도차량 고위험 부품 검사 강화…중복검사 축소[연합뉴스 자료사진][연합뉴스 자료사진] 정부는 사고 위험이 높은 철도차량 부품에 대한 검사를 강화하는 대신, 불필요한 중복검사는 줄여 제작사의 부담을 완화하기로 했습니다. 국토교통부는 이같은 내용이 담긴 '철도차량 형식승인제도 개선방안'을 마련했습니다. 우선 주요 안전 부품을 사고 위험도에 따라 4단계로 분류해 고위험 부품은 검사를 강화하고, 저위험 부품은 제작사 시험 결과 등을 활용해 검사 ...",
+          "contentSnippet": "철도차량 고위험 부품 검사 강화…중복검사 축소[연합뉴스 자료사진][연합뉴스 자료사진] 정부는 사고 위험이 높은 철도차량 부품에 대한 검사를 강화하는 대신, 불필요한 중복검사는 줄여 제작사의 부담을 완화하기로 했습니다. 국토교통부는 이같은 내용이 담긴 '철도차량 형식승인제도 개선방안'을 마련했습니다. 우선 주요 안전 부품을 사고 위험도에 따라 4단계로 분류해 고위험 부품은 검사를 강화하고, 저위험 부품은 제작사 시험 결과 등을 활용해 검사 ...",
+          "guid": "AKR20261110113442mSE",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-09T15:14:15.000Z"
+          "isoDate": "2026-11-10T02:34:42.000Z"
         },
         {
-          "creator": "이재경",
-          "title": "엔비디아 주가, 젠슨 황 '中스파이 불륜' 의혹에 장중 한때 8%대 급락",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261110001349wyp",
-          "pubDate": "Tue, 10 Nov 2026 00:13:51 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261109/AKR20261110001349wyp_01_i.jpg\" alt=\"\"><span class=\"yna_title\">젠슨 황 엔비디아 CEO</span><span class=\"yna_caption\">[AFP=연합뉴스 자료사진]</span><span class=\"yna_description\">[AFP=연합뉴스 자료사진]</span></div>\n젠슨 황 엔비디아 최고경영자가 중국 정보기관과 연계된 스파이로 의심되는 여성 기업인과의 불륜을 인정한 가운데 엔비디아 주가가 뉴욕증시에서 급락세를 보였습니다.\n\n미 동부시간으로 현지시간 9일 오전 9시 40분 기준, 엔비디아 주가는 전 거래일 대비 6.17% 하락한 175.12달러에 거래됐습니다.\n\n이날 엔비디아 주가는 장중 한때 8.79% 하락한 170.24달러까지 내렸습니다.\n\n젠슨 황이 주말 사이 사내 메모를 통해 불륜 사실을 인정하고 직원들에게 사과한 데 이어 엔비디아 이사회가 관련 의혹에 대한 조사에 착수하면서 경영 불확실성이 주가에 부담으로 작용하는 것으로 보입니다.\n\n젠슨 황의 불륜 상대는 싱가포르 데이터센터 기업 메가스피드 인터내셔널 임원 출신의 앨리스 황으로, 황 CEO에 접근해 첨단 인공지능 반도체 기밀과 미 행정부 동향을 수집하려 했다는 의혹으로 미 정보당국의 감시를 받아왔습니다.\n\n엔비디아 이사회는 전날 입장을 내고 \"창업자이자 CEO인 젠슨 황이 외국 정보기관의 표적이 됐다는 최근 보도와 관련해 독립 조사에 착수했다\"고 밝혔습니다.\n\n다만, 엔비디아 이사회는 현재까지 미국의 국가안보나 회사 기밀이 침해됐다고 믿을 만한 이유는 없다면서 황 CEO에 대한 신뢰를 표명했습니다.\n\n그러나 투자자들 사이에서는 이번 조사 결과에 따라 황 CEO의 거취가 불투명해지고, 엔비디아가 경영 공백에 직면할 수 있다는 우려가 제기되고 있습니다.\n\n황 CEO는 엔비디아를 30년 넘게 이끌며 세계 최대 AI 반도체 기업으로 성장시킨 핵심 인물로, 뚜렷한 후계자가 없다는 점에서 그의 퇴진 가능성은 엔비디아의 경영 안정성에 상당한 불확실성을 초래할 수 있다는 평가입니다.\n\n#엔비디아 #젠슨황 #불륜의혹 #중국스파이여성\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이재경(jack0@yna.co.kr)",
-          "content:encodedSnippet": "젠슨 황 엔비디아 CEO[AFP=연합뉴스 자료사진][AFP=연합뉴스 자료사진]\n젠슨 황 엔비디아 최고경영자가 중국 정보기관과 연계된 스파이로 의심되는 여성 기업인과의 불륜을 인정한 가운데 엔비디아 주가가 뉴욕증시에서 급락세를 보였습니다.\n\n미 동부시간으로 현지시간 9일 오전 9시 40분 기준, 엔비디아 주가는 전 거래일 대비 6.17% 하락한 175.12달러에 거래됐습니다.\n\n이날 엔비디아 주가는 장중 한때 8.79% 하락한 170.24달러까지 내렸습니다.\n\n젠슨 황이 주말 사이 사내 메모를 통해 불륜 사실을 인정하고 직원들에게 사과한 데 이어 엔비디아 이사회가 관련 의혹에 대한 조사에 착수하면서 경영 불확실성이 주가에 부담으로 작용하는 것으로 보입니다.\n\n젠슨 황의 불륜 상대는 싱가포르 데이터센터 기업 메가스피드 인터내셔널 임원 출신의 앨리스 황으로, 황 CEO에 접근해 첨단 인공지능 반도체 기밀과 미 행정부 동향을 수집하려 했다는 의혹으로 미 정보당국의 감시를 받아왔습니다.\n\n엔비디아 이사회는 전날 입장을 내고 \"창업자이자 CEO인 젠슨 황이 외국 정보기관의 표적이 됐다는 최근 보도와 관련해 독립 조사에 착수했다\"고 밝혔습니다.\n\n다만, 엔비디아 이사회는 현재까지 미국의 국가안보나 회사 기밀이 침해됐다고 믿을 만한 이유는 없다면서 황 CEO에 대한 신뢰를 표명했습니다.\n\n그러나 투자자들 사이에서는 이번 조사 결과에 따라 황 CEO의 거취가 불투명해지고, 엔비디아가 경영 공백에 직면할 수 있다는 우려가 제기되고 있습니다.\n\n황 CEO는 엔비디아를 30년 넘게 이끌며 세계 최대 AI 반도체 기업으로 성장시킨 핵심 인물로, 뚜렷한 후계자가 없다는 점에서 그의 퇴진 가능성은 엔비디아의 경영 안정성에 상당한 불확실성을 초래할 수 있다는 평가입니다.\n\n#엔비디아 #젠슨황 #불륜의혹 #중국스파이여성\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이재경(jack0@yna.co.kr)",
+          "creator": "이성섭",
+          "title": "프랑스 유도 영웅 리네르 대선 출마 선언…\"싸움은 언제나 나의 일부\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261110113419qNT",
+          "pubDate": "Tue, 10 Nov 2026 11:34:21 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261110113419qNT_01_i.jpg\" alt=\"\"><span class=\"yna_title\">2024년 파리 올림픽 유도 남자 100kg 이상급 결승전에서 한국의 김민종에게 이긴 뒤 손을 들어주는 테디 리네르</span><span class=\"yna_caption\">[AP 연합뉴스]</span><span class=\"yna_description\">[AP 연합뉴스]</span></div>\n프랑스의 '유도 영웅' 테디 리네르(37)가 내년 프랑스 대선 출마를 선언했습니다.\n\n현지시간 9일 AFP 통신에 따르면 리네르는 이날 소셜미디어를 통해 공개한 영상에서 \"여러분에게 직접 말씀드린다. 저는 2027년 대통령 선거 후보\"라고 말했습니다.\n\n카리브해에 있는 프랑스 해외 영토 과들루프 출신인 리네르는 최근 '극우 세력의 부상'과 관련해 공개적인 우려를 나타내 왔습니다.\n\n리네르는 \"오늘날 우리는 서로 나란히 살아가고 있다. 내일은 우리가 서로 대립하며 살아가게 될까 봐 두렵다\"며 극좌·극우를 경계하는 유권자들을 위한 '대안 후보'를 자처했습니다.\n\n그는 \"부채의 무게에 짓눌려 무너지는 프랑스\"의 현실을 지적하면서 \"쇼핑 카트에 물건을 담으며 이를 악무는 아버지나 어머니를 보는 것이 괴롭다\"고 말했습니다.\n\n최근 프랑스에서 이어지는 시위를 겨냥해서는 '폭력배들' 앞에서 \"국가의 권위가 사라졌다\"고 주장했습니다.\n\n리네르는 \"싸움은 언제나 나라는 사람의 일부였다\"며 \"나는 분투한다는 것, 쓰러진다는 것, 그리고 언제나 다시 일어선다는 것이 무엇을 의미하는지 알고 있다\"고 강조했습니다.\n\n에마뉘엘 마크롱 프랑스 대통령은 \"위대한 챔피언이 대선을 둘러싼 토론에 참여해 자신의 신념과 생각, 재능을 보태기로 한 것은 국가에 이익이 될 수밖에 없다\"고 반응했습니다.\n\n리네르는 2012년 런던·2016년 리우데자네이루·2024년 파리 올림픽에서 유도 남자 최중량급 금메달을 획득했으며, 2020년 도쿄와 2024년 파리 올림픽에서는 혼성 단체전 금메달을 차지했습니다.\n\n그는 대통령에 당선되더라도 \"대통령직이 허락하고 프랑스 국민이 허락한다면 2028년 로스앤젤레스(LA) 올림픽에 출전할 계획\"이라고 말했습니다.\n\n#프랑스 #유도영웅 #대선 #출마\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이성섭(leess@yna.co.kr)",
+          "content:encodedSnippet": "2024년 파리 올림픽 유도 남자 100kg 이상급 결승전에서 한국의 김민종에게 이긴 뒤 손을 들어주는 테디 리네르[AP 연합뉴스][AP 연합뉴스]\n프랑스의 '유도 영웅' 테디 리네르(37)가 내년 프랑스 대선 출마를 선언했습니다.\n\n현지시간 9일 AFP 통신에 따르면 리네르는 이날 소셜미디어를 통해 공개한 영상에서 \"여러분에게 직접 말씀드린다. 저는 2027년 대통령 선거 후보\"라고 말했습니다.\n\n카리브해에 있는 프랑스 해외 영토 과들루프 출신인 리네르는 최근 '극우 세력의 부상'과 관련해 공개적인 우려를 나타내 왔습니다.\n\n리네르는 \"오늘날 우리는 서로 나란히 살아가고 있다. 내일은 우리가 서로 대립하며 살아가게 될까 봐 두렵다\"며 극좌·극우를 경계하는 유권자들을 위한 '대안 후보'를 자처했습니다.\n\n그는 \"부채의 무게에 짓눌려 무너지는 프랑스\"의 현실을 지적하면서 \"쇼핑 카트에 물건을 담으며 이를 악무는 아버지나 어머니를 보는 것이 괴롭다\"고 말했습니다.\n\n최근 프랑스에서 이어지는 시위를 겨냥해서는 '폭력배들' 앞에서 \"국가의 권위가 사라졌다\"고 주장했습니다.\n\n리네르는 \"싸움은 언제나 나라는 사람의 일부였다\"며 \"나는 분투한다는 것, 쓰러진다는 것, 그리고 언제나 다시 일어선다는 것이 무엇을 의미하는지 알고 있다\"고 강조했습니다.\n\n에마뉘엘 마크롱 프랑스 대통령은 \"위대한 챔피언이 대선을 둘러싼 토론에 참여해 자신의 신념과 생각, 재능을 보태기로 한 것은 국가에 이익이 될 수밖에 없다\"고 반응했습니다.\n\n리네르는 2012년 런던·2016년 리우데자네이루·2024년 파리 올림픽에서 유도 남자 최중량급 금메달을 획득했으며, 2020년 도쿄와 2024년 파리 올림픽에서는 혼성 단체전 금메달을 차지했습니다.\n\n그는 대통령에 당선되더라도 \"대통령직이 허락하고 프랑스 국민이 허락한다면 2028년 로스앤젤레스(LA) 올림픽에 출전할 계획\"이라고 말했습니다.\n\n#프랑스 #유도영웅 #대선 #출마\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이성섭(leess@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261109/AKR20261110001349wyp_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261110113419qNT_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "이재경",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261110001349wyp#comments",
-          "content": "젠슨 황 엔비디아 CEO[AFP=연합뉴스 자료사진][AFP=연합뉴스 자료사진] 젠슨 황 엔비디아 최고경영자가 중국 정보기관과 연계된 스파이로 의심되는 여성 기업인과의 불륜을 인정한 가운데 엔비디아 주가가 뉴욕증시에서 급락세를 보였습니다. 미 동부시간으로 현지시간 9일 오전 9시 40분 기준, 엔비디아 주가는 전 거래일 대비 6.17% 하락한 175.12달러에 거래됐습니다. 이날 엔비디아 주가는 장중 한때 8.79% 하락한 170.24달러까...",
-          "contentSnippet": "젠슨 황 엔비디아 CEO[AFP=연합뉴스 자료사진][AFP=연합뉴스 자료사진] 젠슨 황 엔비디아 최고경영자가 중국 정보기관과 연계된 스파이로 의심되는 여성 기업인과의 불륜을 인정한 가운데 엔비디아 주가가 뉴욕증시에서 급락세를 보였습니다. 미 동부시간으로 현지시간 9일 오전 9시 40분 기준, 엔비디아 주가는 전 거래일 대비 6.17% 하락한 175.12달러에 거래됐습니다. 이날 엔비디아 주가는 장중 한때 8.79% 하락한 170.24달러까...",
-          "guid": "AKR20261110001349wyp",
+          "dc:creator": "이성섭",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261110113419qNT#comments",
+          "content": "2024년 파리 올림픽 유도 남자 100kg 이상급 결승전에서 한국의 김민종에게 이긴 뒤 손을 들어주는 테디 리네르[AP 연합뉴스][AP 연합뉴스] 프랑스의 '유도 영웅' 테디 리네르(37)가 내년 프랑스 대선 출마를 선언했습니다. 현지시간 9일 AFP 통신에 따르면 리네르는 이날 소셜미디어를 통해 공개한 영상에서 \"여러분에게 직접 말씀드린다. 저는 2027년 대통령 선거 후보\"라고 말했습니다. 카리브해에 있는 프랑스 해외 영토 과들루프 ...",
+          "contentSnippet": "2024년 파리 올림픽 유도 남자 100kg 이상급 결승전에서 한국의 김민종에게 이긴 뒤 손을 들어주는 테디 리네르[AP 연합뉴스][AP 연합뉴스] 프랑스의 '유도 영웅' 테디 리네르(37)가 내년 프랑스 대선 출마를 선언했습니다. 현지시간 9일 AFP 통신에 따르면 리네르는 이날 소셜미디어를 통해 공개한 영상에서 \"여러분에게 직접 말씀드린다. 저는 2027년 대통령 선거 후보\"라고 말했습니다. 카리브해에 있는 프랑스 해외 영토 과들루프 ...",
+          "guid": "AKR20261110113419qNT",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-09T15:13:51.000Z"
+          "isoDate": "2026-11-10T02:34:21.000Z"
         },
         {
-          "creator": "방준혁",
-          "title": "'6명 사망' 폴란드 총기 난사 용의자, 병원서 치료 중 사망",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261109234301NYN",
-          "pubDate": "Mon, 09 Nov 2026 23:43:02 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261109/AKR20261109234301NYN_01_i.jpg\" alt=\"\"><span class=\"yna_title\">7일 총기 난사 사건이 발생한 폴란드 크라쿠프 도심</span><span class=\"yna_caption\">[AP 연합뉴스. 재판매 및 DB 금지]</span><span class=\"yna_description\">[AP 연합뉴스. 재판매 및 DB 금지]</span></div>\n폴란드 크라쿠프에서 총기를 난사해 6명을 살해한 용의자가 범행 이틀 만에 병원에서 치료 중 사망했다고 현지 매체 TVP 등이 보도했습니다.\n\n총기 난사 용의자인 24살 미하우 옥신스키는 지난 7일 오후 3시쯤 크라쿠프 중앙광장에서 차를 몰고 행인들을 향해 총을 쏜 뒤 경찰과 총격전을 벌이다가 중상을 입고 입원했고, 최소 세 차례 수술을 받았으나 현지시간 9일 새벽 4시 반쯤 숨졌다고 현지 당국이 전했습니다.\n\n1989년 폴란드 민주화 이후 최악의 총기 난사로 기록된 이번 사건으로 폴란드인 4명과 외국인 2명 등 6명이 숨졌고, 부상자 15명 중에는 용의자를 제압하는 과정에서 총격전을 벌인 경찰관 2명이 포함됐습니다.\n\n크라쿠프에서 북동쪽으로 약 150㎞ 떨어진 오스트로비에츠에 있는 용의자 집에서는 부모와 여동생 등 가족 3명이 총상을 입고 숨진 채 발견됐는데, 당국은 용의자가 가족을 살해한 뒤 크라쿠프로 가서 범행한 것으로 보고 있습니다.\n\n극우 정치 테러 가능성 등을 놓고 정치 공방이 일었는데, 현지 검찰은 용의자 사망에도 범행 동기와 공범 여부를 계속 수사하겠다고 밝혔습니다.\n\n#총기난사 #크라쿠프_총기난사\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n방준혁(bang@yna.co.kr)",
-          "content:encodedSnippet": "7일 총기 난사 사건이 발생한 폴란드 크라쿠프 도심[AP 연합뉴스. 재판매 및 DB 금지][AP 연합뉴스. 재판매 및 DB 금지]\n폴란드 크라쿠프에서 총기를 난사해 6명을 살해한 용의자가 범행 이틀 만에 병원에서 치료 중 사망했다고 현지 매체 TVP 등이 보도했습니다.\n\n총기 난사 용의자인 24살 미하우 옥신스키는 지난 7일 오후 3시쯤 크라쿠프 중앙광장에서 차를 몰고 행인들을 향해 총을 쏜 뒤 경찰과 총격전을 벌이다가 중상을 입고 입원했고, 최소 세 차례 수술을 받았으나 현지시간 9일 새벽 4시 반쯤 숨졌다고 현지 당국이 전했습니다.\n\n1989년 폴란드 민주화 이후 최악의 총기 난사로 기록된 이번 사건으로 폴란드인 4명과 외국인 2명 등 6명이 숨졌고, 부상자 15명 중에는 용의자를 제압하는 과정에서 총격전을 벌인 경찰관 2명이 포함됐습니다.\n\n크라쿠프에서 북동쪽으로 약 150㎞ 떨어진 오스트로비에츠에 있는 용의자 집에서는 부모와 여동생 등 가족 3명이 총상을 입고 숨진 채 발견됐는데, 당국은 용의자가 가족을 살해한 뒤 크라쿠프로 가서 범행한 것으로 보고 있습니다.\n\n극우 정치 테러 가능성 등을 놓고 정치 공방이 일었는데, 현지 검찰은 용의자 사망에도 범행 동기와 공범 여부를 계속 수사하겠다고 밝혔습니다.\n\n#총기난사 #크라쿠프_총기난사\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n방준혁(bang@yna.co.kr)",
+          "creator": "노수미",
+          "title": "[날씨] 찬 바람에 아침 반짝 추위…큰 일교차 유의",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH202611101122076ve",
+          "pubDate": "Tue, 10 Nov 2026 11:22:08 +0900",
+          "content:encoded": "다시 찬 바람이 강해지면서 반짝 추위가 찾아왔습니다.\n\n지도에 파란색으로 표시된 지역은 영하권으로 떨어진 곳인데요.\n\n경기 파주가 영하 4.2도까지 곤두박질했고, 태백 영하 2도, 철원 영하 1.2도를 기록했습니다.\n\n서울도 찬 바람에 체감온도가 영하권으로 내려가며 출근길 추위가 매서웠습니다.\n\n낮부터는 기온이 빠르게 올라 기온 차가 15도 이상 크게 벌어지겠습니다.\n\n서울과 대전 13도, 광주와 대구 15도 예상되고요.\n\n그 밖의 지역은 포항과 제주 서귀포 18도까지 오르겠습니다.\n\n안개는 차츰 옅어지고, 맑은 하늘이 드러나겠습니다.\n\n다만, 강풍특보가 발효 중인 제주는 초속 20m 이상의 돌풍이, 남해안에도 초속 15m 안팎의 강풍이 불겠고요.\n\n전 해상에 물결도 최고 5m까지 매우 높게 일겠습니다.\n\n또 제주 동부 해안과 동해안으로 강한 너울성 파도가 밀려들겠습니다.\n\n다행히 이번 추위 길게 가지는 않겠습니다.\n\n내일 낮부터 예년 이맘때와 비슷하겠고요.\n\n다가오는 금요일에는 서울의 낮 기온 18도까지 올라 포근함이 더해지겠습니다.\n\n다만, 큰 일교차에 유의하셔야겠습니다.\n\n이번 주 대체로 맑은 하늘이 이어지다가, 토요일 오후부터 일요일 오전 사이 전국에 비가 내릴 전망입니다.\n\n지금까지 날씨 전해드렸습니다.\n\n(조민주 기상캐스터)\n\n#기상 #강풍 #반짝추위 #너울 #일교차 #날씨예보 #초겨울\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
+          "content:encodedSnippet": "다시 찬 바람이 강해지면서 반짝 추위가 찾아왔습니다.\n\n지도에 파란색으로 표시된 지역은 영하권으로 떨어진 곳인데요.\n\n경기 파주가 영하 4.2도까지 곤두박질했고, 태백 영하 2도, 철원 영하 1.2도를 기록했습니다.\n\n서울도 찬 바람에 체감온도가 영하권으로 내려가며 출근길 추위가 매서웠습니다.\n\n낮부터는 기온이 빠르게 올라 기온 차가 15도 이상 크게 벌어지겠습니다.\n\n서울과 대전 13도, 광주와 대구 15도 예상되고요.\n\n그 밖의 지역은 포항과 제주 서귀포 18도까지 오르겠습니다.\n\n안개는 차츰 옅어지고, 맑은 하늘이 드러나겠습니다.\n\n다만, 강풍특보가 발효 중인 제주는 초속 20m 이상의 돌풍이, 남해안에도 초속 15m 안팎의 강풍이 불겠고요.\n\n전 해상에 물결도 최고 5m까지 매우 높게 일겠습니다.\n\n또 제주 동부 해안과 동해안으로 강한 너울성 파도가 밀려들겠습니다.\n\n다행히 이번 추위 길게 가지는 않겠습니다.\n\n내일 낮부터 예년 이맘때와 비슷하겠고요.\n\n다가오는 금요일에는 서울의 낮 기온 18도까지 올라 포근함이 더해지겠습니다.\n\n다만, 큰 일교차에 유의하셔야겠습니다.\n\n이번 주 대체로 맑은 하늘이 이어지다가, 토요일 오후부터 일요일 오전 사이 전국에 비가 내릴 전망입니다.\n\n지금까지 날씨 전해드렸습니다.\n\n(조민주 기상캐스터)\n\n#기상 #강풍 #반짝추위 #너울 #일교차 #날씨예보 #초겨울\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261109/AKR20261109234301NYN_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261110/MYH202611101122076ve.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "방준혁",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261109234301NYN#comments",
-          "content": "7일 총기 난사 사건이 발생한 폴란드 크라쿠프 도심[AP 연합뉴스. 재판매 및 DB 금지][AP 연합뉴스. 재판매 및 DB 금지] 폴란드 크라쿠프에서 총기를 난사해 6명을 살해한 용의자가 범행 이틀 만에 병원에서 치료 중 사망했다고 현지 매체 TVP 등이 보도했습니다. 총기 난사 용의자인 24살 미하우 옥신스키는 지난 7일 오후 3시쯤 크라쿠프 중앙광장에서 차를 몰고 행인들을 향해 총을 쏜 뒤 경찰과 총격전을 벌이다가 중상을 입고 입원했고...",
-          "contentSnippet": "7일 총기 난사 사건이 발생한 폴란드 크라쿠프 도심[AP 연합뉴스. 재판매 및 DB 금지][AP 연합뉴스. 재판매 및 DB 금지] 폴란드 크라쿠프에서 총기를 난사해 6명을 살해한 용의자가 범행 이틀 만에 병원에서 치료 중 사망했다고 현지 매체 TVP 등이 보도했습니다. 총기 난사 용의자인 24살 미하우 옥신스키는 지난 7일 오후 3시쯤 크라쿠프 중앙광장에서 차를 몰고 행인들을 향해 총을 쏜 뒤 경찰과 총격전을 벌이다가 중상을 입고 입원했고...",
-          "guid": "AKR20261109234301NYN",
+          "dc:creator": "노수미",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH202611101122076ve#comments",
+          "content": "다시 찬 바람이 강해지면서 반짝 추위가 찾아왔습니다. 지도에 파란색으로 표시된 지역은 영하권으로 떨어진 곳인데요. 경기 파주가 영하 4.2도까지 곤두박질했고, 태백 영하 2도, 철원 영하 1.2도를 기록했습니다. 서울도 찬 바람에 체감온도가 영하권으로 내려가며 출근길 추위가 매서웠습니다. 낮부터는 기온이 빠르게 올라 기온 차가 15도 이상 크게 벌어지겠습니다. 서울과 대전 13도, 광주와 대구 15도 예상되고요. 그 밖의 지역은 포항과 제...",
+          "contentSnippet": "다시 찬 바람이 강해지면서 반짝 추위가 찾아왔습니다. 지도에 파란색으로 표시된 지역은 영하권으로 떨어진 곳인데요. 경기 파주가 영하 4.2도까지 곤두박질했고, 태백 영하 2도, 철원 영하 1.2도를 기록했습니다. 서울도 찬 바람에 체감온도가 영하권으로 내려가며 출근길 추위가 매서웠습니다. 낮부터는 기온이 빠르게 올라 기온 차가 15도 이상 크게 벌어지겠습니다. 서울과 대전 13도, 광주와 대구 15도 예상되고요. 그 밖의 지역은 포항과 제...",
+          "guid": "MYH202611101122076ve",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-09T14:43:02.000Z"
+          "isoDate": "2026-11-10T02:22:08.000Z"
         }
       ]
     }
