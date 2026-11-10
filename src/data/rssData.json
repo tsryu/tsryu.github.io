@@ -7,6 +7,106 @@
       "priority": 1,
       "data": [
         {
+          "title": "내 SSH 키를 모두 삭제했다",
+          "link": "https://news.hada.io/topic?id=36960&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-10T20:41:36.000Z",
+          "author": "xguru",
+          "content": "<div><ul><li><strong>YubiKey, TPM, Apple Secure Enclave</strong>를 조합해 모든 개인 환경에서 기존 디스크 저장형 SSH 키를 대체하고, 보호되지 않은 키 재료가 디스크에 남지 않도록 전환한 사례임</li><li><strong>하드웨어 기반 키</strong>를 사용하려면 해당 하드웨어가 필요함. YubiKey와 Secure Enclave는 키를 내부에 보관하고, TPM 방식은 디스크에 암호화한 키를 저장한다는 차이가 있음</li><li><strong>YubiKey 5 이상</strong>은 OpenSSH만으로 <code>ed25519-sk</code> 키를 사용할 수 있으며, <strong>macOS Sequoia</strong>부터는 운영체제의 Smart Card Auth 기능으로 Secure Enclave 기반 SSH 키를 만들 수 있음</li><li><strong>무인 인증</strong>도 가능</li></ul></div>…",
+          "contentSnippet": "YubiKey, TPM, Apple Secure Enclave를 조합해 모든 개인 환경에서 기존 디스크 저장형 SSH 키를 대체하고, 보호되지 않은 키 재료가 디스크에 남지 않도록 전환한 사례임\n하드웨어 기반 키를 사용하려면 해당 하드웨어가 필요함. YubiKey와 Secure Enclave는 키를 내부에 보관하고, TPM 방식은 디스크에 암호화한 키를 저장한다는 차이가 있음\nYubiKey 5 이상은 OpenSSH만으로 ed25519-sk 키를 사용할 수 있으며, macOS Sequoia부터는 운영체제의 Smart Card Auth 기능으로 Secure Enclave 기반 SSH 키를 만들 수 있음\n무인 인증도 가능\n\n…",
+          "id": "https://news.hada.io/topic?id=36960",
+          "isoDate": "2026-11-10T20:41:36.000Z"
+        },
+        {
+          "title": "Queens Public Library, 랜섬웨어 공격으로 네트워크 장애 발생",
+          "link": "https://news.hada.io/topic?id=36959&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-10T20:39:05.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>Queens Public Library(QPL)</strong> 가 랜섬웨어 공격을 받아 모든 지점에 영향을 미치는 대규모 네트워크 장애를 겪고 있음</li><li><strong>웹사이트와 QPL Mobile App</strong>, 디지털 미디어 서비스 및 운영 중인 대부분 지점의 공용 컴퓨터가 영향을 받음</li><li>운영 중인 모든 지점의 <strong>무료 Wi-Fi와 대출/반납 기기</strong>는 복구됐으며, 7개 지점에서는 공용 컴퓨터도 다시 이용할 수 있음</li><li>모든 지점은 예정대로 운영하며 자료 대출과 반납도 가능하지만, 장애 기간에는 <strong>대출 기간 연장이 불가능함</strong></li><li>일부 온라인/대면 프로그램은 영향을 받을 수 있으며, <strong>네트워크와 시스템 복구에</strong></li></ul></div>…",
+          "contentSnippet": "Queens Public Library(QPL) 가 랜섬웨어 공격을 받아 모든 지점에 영향을 미치는 대규모 네트워크 장애를 겪고 있음\n웹사이트와 QPL Mobile App, 디지털 미디어 서비스 및 운영 중인 대부분 지점의 공용 컴퓨터가 영향을 받음\n운영 중인 모든 지점의 무료 Wi-Fi와 대출/반납 기기는 복구됐으며, 7개 지점에서는 공용 컴퓨터도 다시 이용할 수 있음\n모든 지점은 예정대로 운영하며 자료 대출과 반납도 가능하지만, 장애 기간에는 대출 기간 연장이 불가능함\n일부 온라인/대면 프로그램은 영향을 받을 수 있으며, 네트워크와 시스템 복구에\n\n…",
+          "id": "https://news.hada.io/topic?id=36959",
+          "isoDate": "2026-11-10T20:39:05.000Z"
+        },
+        {
+          "title": "Claude Whiteboards, Claude Sheets, Claude Data - 팀 협업 보드, 스프레드시트, 데이터 분석 도구",
+          "link": "https://news.hada.io/topic?id=36958&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-10T20:38:41.000Z",
+          "author": "xguru",
+          "content": "<div><ul><li>Anthropic이 <strong>Claude Whiteboards와 Sheets를 베타 출시</strong>하고, 기존 Claude Dashboards를 <strong>Claude Data로 정식 출시</strong>함. 모두 유료 플랜에서 이용할 수 있음</li><li><strong>Whiteboards</strong>는 Claude와 팀원이 실시간으로 아이디어를 정리하는 공유 보드로, 계획을 담당자와 날짜가 있는 타임라인으로 만들거나 회의 메모에서 실행 항목을 도출할 수 있음</li><li><strong>Sheets</strong>는 프롬프트로 스프레드시트를 만들고 함께 편집하는 도구임. 현재는 기본적인 기능을 지원하며, 더 고급 기능이 필요하면 Excel 등으로 작업을 이어갈 수 있음</li><li><strong>Claude Data</strong>는 대시보드를 넘어 데이터</li></ul></div>…",
+          "contentSnippet": "Anthropic이 Claude Whiteboards와 Sheets를 베타 출시하고, 기존 Claude Dashboards를 Claude Data로 정식 출시함. 모두 유료 플랜에서 이용할 수 있음\nWhiteboards는 Claude와 팀원이 실시간으로 아이디어를 정리하는 공유 보드로, 계획을 담당자와 날짜가 있는 타임라인으로 만들거나 회의 메모에서 실행 항목을 도출할 수 있음\nSheets는 프롬프트로 스프레드시트를 만들고 함께 편집하는 도구임. 현재는 기본적인 기능을 지원하며, 더 고급 기능이 필요하면 Excel 등으로 작업을 이어갈 수 있음\nClaude Data는 대시보드를 넘어 데이터\n\n…",
+          "id": "https://news.hada.io/topic?id=36958",
+          "isoDate": "2026-11-10T20:38:41.000Z"
+        },
+        {
+          "title": ".NET 11 런타임의 새로운 기능",
+          "link": "https://news.hada.io/topic?id=36957&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-10T20:36:05.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>Runtime Async V2</strong>가 미리보기로 도입돼 컴파일러 생성 상태 머신 대신 런타임이 비동기 실행의 중단과 재개를 관리함. 실행 중 스택 추적과 디버깅을 개선하고 비동기 처리 오버헤드를 줄임</li><li><strong>최소 CPU 요구사항</strong>이 높아짐. x86/x64는 <code>x86-64-v2</code>, Windows Arm64는 <code>LSE</code>가 필요하며, 새 기준을 충족하지 못하는 구형 하드웨어에서는 실행되지 않음</li><li><strong>JIT와 SIMD 최적화</strong>로 불필요한 경계 검사와 가상 호출을 줄이고, 지원 CPU에서 <code>Half</code> 연산에 하드웨어 FP16 명령을 활용함</li><li><strong>ReadyToRun과 NativeAOT</strong>의 비교자 및 인터페이스 호출 성능이 개선됨. R</li></ul></div>…",
+          "contentSnippet": "Runtime Async V2가 미리보기로 도입돼 컴파일러 생성 상태 머신 대신 런타임이 비동기 실행의 중단과 재개를 관리함. 실행 중 스택 추적과 디버깅을 개선하고 비동기 처리 오버헤드를 줄임\n최소 CPU 요구사항이 높아짐. x86/x64는 x86-64-v2, Windows Arm64는 LSE가 필요하며, 새 기준을 충족하지 못하는 구형 하드웨어에서는 실행되지 않음\nJIT와 SIMD 최적화로 불필요한 경계 검사와 가상 호출을 줄이고, 지원 CPU에서 Half 연산에 하드웨어 FP16 명령을 활용함\nReadyToRun과 NativeAOT의 비교자 및 인터페이스 호출 성능이 개선됨. R\n\n…",
+          "id": "https://news.hada.io/topic?id=36957",
+          "isoDate": "2026-11-10T20:36:05.000Z"
+        },
+        {
+          "title": "AI 사용은 취약한 코드베이스를 만든다",
+          "link": "https://news.hada.io/topic?id=36955&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-10T19:33:28.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>AI는 <strong>당장 주어진 코딩 문제를 잘 풀어도</strong>, 그 변경이 코드베이스 전체의 유지보수에 어떤 영향을 줄지 놓치기 쉬움</li><li>AI가 만든 테스트는 <strong>이미 다루는 동작을 반복해서 확인</strong>하고 실제 사용에서 중요한 경우를 놓칠 수 있음. 중복을 줄이려다 추상화를 늘려 <strong>코드를 이해하고 디버깅하기 어렵게</strong> 만들기도 함</li><li>AI 의존도가 높아질수록 개발자의 <strong>코드베이스 이해도</strong>가 낮아지고, 빠르게 쏟아지는 PR은 검토 시간을 줄여 테스트 공백과 작은 품질 문제가 기술 부채로 쌓이게 함</li><li>취약해진 코드베이스에서는 <strong>장애 증가와 복구 지연</strong>, 실제 사용자에게</li></ul></div>…",
+          "contentSnippet": "AI는 당장 주어진 코딩 문제를 잘 풀어도, 그 변경이 코드베이스 전체의 유지보수에 어떤 영향을 줄지 놓치기 쉬움\nAI가 만든 테스트는 이미 다루는 동작을 반복해서 확인하고 실제 사용에서 중요한 경우를 놓칠 수 있음. 중복을 줄이려다 추상화를 늘려 코드를 이해하고 디버깅하기 어렵게 만들기도 함\nAI 의존도가 높아질수록 개발자의 코드베이스 이해도가 낮아지고, 빠르게 쏟아지는 PR은 검토 시간을 줄여 테스트 공백과 작은 품질 문제가 기술 부채로 쌓이게 함\n취약해진 코드베이스에서는 장애 증가와 복구 지연, 실제 사용자에게\n\n…",
+          "id": "https://news.hada.io/topic?id=36955",
+          "isoDate": "2026-11-10T19:33:28.000Z"
+        },
+        {
+          "title": "Ableton Live 13 - 스텝 시퀀서와 ARA 2 지원을 추가한 차기 주요 버전",
+          "link": "https://news.hada.io/topic?id=36954&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-10T18:44:52.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>Live 13</strong>은 2027년 초 출시 예정으로, 오디오/MIDI 작업 흐름과 사운드 디자인, 믹싱 도구를 확장하며 Live 12에서 가능했던 작업을 그대로 지원함</li><li>내장 <strong>Step Sequencer</strong>로 비트, 멜로디, 폴리리듬을 만들고, <strong>Capture Automation</strong>으로 탐색 중 조작한 컨트롤 움직임을 자동화로 전환할 수 있음</li><li><strong>ARA 2</strong> 호환 플러그인으로 고급 오디오 편집을 지원하며, Melodyne을 포함한 대부분의 ARA 2 플러그인이 작동하지만 일부에는 알려진 호환성 문제가 있음</li><li>20개 이상의 드럼 엔진을 갖춘 <strong>Drum Synth</strong>와 최대 32개 매크로를 지원하는 <strong>Rack</strong> 등으로 음색</li></ul></div>…",
+          "contentSnippet": "Live 13은 2027년 초 출시 예정으로, 오디오/MIDI 작업 흐름과 사운드 디자인, 믹싱 도구를 확장하며 Live 12에서 가능했던 작업을 그대로 지원함\n내장 Step Sequencer로 비트, 멜로디, 폴리리듬을 만들고, Capture Automation으로 탐색 중 조작한 컨트롤 움직임을 자동화로 전환할 수 있음\nARA 2 호환 플러그인으로 고급 오디오 편집을 지원하며, Melodyne을 포함한 대부분의 ARA 2 플러그인이 작동하지만 일부에는 알려진 호환성 문제가 있음\n20개 이상의 드럼 엔진을 갖춘 Drum Synth와 최대 32개 매크로를 지원하는 Rack 등으로 음색\n\n…",
+          "id": "https://news.hada.io/topic?id=36954",
+          "isoDate": "2026-11-10T18:44:52.000Z"
+        },
+        {
+          "title": "스마트 홈 기기는 인터넷 없이도 작동해야 한다",
+          "link": "https://news.hada.io/topic?id=36953&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-10T18:41:52.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>핵심 기능은 제조사 서버에 의존하지 않아야 한다</strong>는 원칙으로, ESP 보드의 Tasmota, MQTT, Raspberry Pi의 Node-RED를 중심으로 집을 자동화함</li><li>자동화를 추가하더라도 <strong>기존 조작 방식</strong>은 유지해야 함. Alexa가 중단되거나 인터넷이 끊겨도 벽 스위치와 벽면 대시보드로 조작할 수 있어야 함</li><li><strong>MQTT 발행/구독</strong>으로 기기를 분리하고, Node-RED로 동작을 연결하며, Grafana로 상태를 확인함. 같은 기기를 제어하는 자동화 간 충돌도 주기적으로 점검함</li><li>거주자가 늘면서 <strong>다중 사용자 환경</strong>에 맞춰 규칙을 확장함. 설정을 한곳에서 관리하고, 다양</li></ul></div>…",
+          "contentSnippet": "핵심 기능은 제조사 서버에 의존하지 않아야 한다는 원칙으로, ESP 보드의 Tasmota, MQTT, Raspberry Pi의 Node-RED를 중심으로 집을 자동화함\n자동화를 추가하더라도 기존 조작 방식은 유지해야 함. Alexa가 중단되거나 인터넷이 끊겨도 벽 스위치와 벽면 대시보드로 조작할 수 있어야 함\nMQTT 발행/구독으로 기기를 분리하고, Node-RED로 동작을 연결하며, Grafana로 상태를 확인함. 같은 기기를 제어하는 자동화 간 충돌도 주기적으로 점검함\n거주자가 늘면서 다중 사용자 환경에 맞춰 규칙을 확장함. 설정을 한곳에서 관리하고, 다양\n\n…",
+          "id": "https://news.hada.io/topic?id=36953",
+          "isoDate": "2026-11-10T18:41:52.000Z"
+        },
+        {
+          "title": ".name 기존 도메인과 이메일 리디렉션 유지 확정",
+          "link": "https://news.hada.io/topic?id=36952&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-10T18:38:51.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>Verisign</strong>이 도메인 이름과 이메일 리디렉션 2만 2,000개를 종료하려던 계획을 철회함</li><li><strong>3단계.name 도메인</strong>의 신규 등록은 중단할 예정임</li><li>기존 도메인과 이메일 리디렉션은 <strong>기한 없이 유지</strong>되며, Neil Fraser의 웹사이트도 포함됨</li><li>철회에 이르기까지 <strong>많은 시간과 비용이 든 대응</strong>이 이어졌으며, 참여자들이 ICANN에 직접 입장을 전달하고 공식 재심 요청을 제출함</li><li><strong>법률 대응과 지지 서한</strong>도 힘을 보탰으며, ICANN 내부에서도 관료주의에 맞선 사람들이 있었음</li></ul><hr><h2>종료 계획 철회와 적용 범위</h2><ul><li><a href=\"https://itp.cdn.icann.org/en/files/consensus-policies/kane-to-fessenden-05-11-2026-en.pdf\">Verisign의 철회 서한</a>에 따라 <strong>2만 2,000개 도메인 이름</strong></li></ul></div>…",
+          "contentSnippet": "Verisign이 도메인 이름과 이메일 리디렉션 2만 2,000개를 종료하려던 계획을 철회함\n3단계.name 도메인의 신규 등록은 중단할 예정임\n기존 도메인과 이메일 리디렉션은 기한 없이 유지되며, Neil Fraser의 웹사이트도 포함됨\n철회에 이르기까지 많은 시간과 비용이 든 대응이 이어졌으며, 참여자들이 ICANN에 직접 입장을 전달하고 공식 재심 요청을 제출함\n법률 대응과 지지 서한도 힘을 보탰으며, ICANN 내부에서도 관료주의에 맞선 사람들이 있었음\n\n종료 계획 철회와 적용 범위\n\nVerisign의 철회 서한에 따라 2만 2,000개 도메인 이름\n\n…",
+          "id": "https://news.hada.io/topic?id=36952",
+          "isoDate": "2026-11-10T18:38:51.000Z"
+        },
+        {
+          "title": "Blender 5.3 출시, Gaussian Splat 지원 추가",
+          "link": "https://news.hada.io/topic?id=36951&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-10T17:42:02.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>3D Gaussian Splats를 기본 지원</strong>해 PLY, SPZ, glTF 파일을 포인트 클라우드로 가져오고 Geometry Nodes로 가공한 뒤 EEVEE, Cycles, Workbench의 솔리드 모드에서 렌더링할 수 있음</li><li>Cycles에 <strong>DLSS 4.5 Ray Reconstruction</strong> 노이즈 제거와 유리의 빛 분산 효과가 추가됨. DLSS 사용에는 NVIDIA 드라이버 620 이상이 필요함</li><li>EEVEE의 <strong>Material Lighting 노드</strong>로 개별 조명에 대한 재질 반응을 제어할 수 있으며, 파노라마 카메라 렌더링도 지원함</li><li><strong>프로젝트 단위 설정과 리소스 관리</strong>를 도입하고, 에셋 라이브러리를 확장 기능으로 배포하거나 B</li></ul></div>…",
+          "contentSnippet": "3D Gaussian Splats를 기본 지원해 PLY, SPZ, glTF 파일을 포인트 클라우드로 가져오고 Geometry Nodes로 가공한 뒤 EEVEE, Cycles, Workbench의 솔리드 모드에서 렌더링할 수 있음\nCycles에 DLSS 4.5 Ray Reconstruction 노이즈 제거와 유리의 빛 분산 효과가 추가됨. DLSS 사용에는 NVIDIA 드라이버 620 이상이 필요함\nEEVEE의 Material Lighting 노드로 개별 조명에 대한 재질 반응을 제어할 수 있으며, 파노라마 카메라 렌더링도 지원함\n프로젝트 단위 설정과 리소스 관리를 도입하고, 에셋 라이브러리를 확장 기능으로 배포하거나 B\n\n…",
+          "id": "https://news.hada.io/topic?id=36951",
+          "isoDate": "2026-11-10T17:42:02.000Z"
+        },
+        {
+          "title": "Google, 복잡한 코딩과 연구를 위한 Gemini 4 Carbon 일반 공개",
+          "link": "https://news.hada.io/topic?id=36950&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-10T17:39:01.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>Google이 <strong>Gemini 4 Carbon</strong>을 개발자, 기업, 과학자, 일반 사용자에게 공개함. 복잡한 다단계 코딩과 디버깅, 개방형 과학 연구처럼 깊은 추론과 장시간 검증이 필요한 작업을 겨냥함</li><li><strong>Gemini 4 Carbon의 출시 초기 API 가격은 Argon과 동일</strong>함. 100만 토큰당 입력 2달러, 출력 10달러이며, Carbon은 더 많은 토큰을 써서 여러 해법을 탐색하고 결과를 검증함</li><li>실제 업무를 평가하는 <strong>CursorBench 4.0, WANDR, AutomationBench에서 1위</strong>를 기록했으며, 각 평가에서 차순위 외부 모델 대비 작업당 비용은 절반 미만이었음</li><li>Google Antigravity의 </li></ul></div>…",
+          "contentSnippet": "Google이 Gemini 4 Carbon을 개발자, 기업, 과학자, 일반 사용자에게 공개함. 복잡한 다단계 코딩과 디버깅, 개방형 과학 연구처럼 깊은 추론과 장시간 검증이 필요한 작업을 겨냥함\nGemini 4 Carbon의 출시 초기 API 가격은 Argon과 동일함. 100만 토큰당 입력 2달러, 출력 10달러이며, Carbon은 더 많은 토큰을 써서 여러 해법을 탐색하고 결과를 검증함\n실제 업무를 평가하는 CursorBench 4.0, WANDR, AutomationBench에서 1위를 기록했으며, 각 평가에서 차순위 외부 모델 대비 작업당 비용은 절반 미만이었음\nGoogle Antigravity의 \n\n…",
+          "id": "https://news.hada.io/topic?id=36950",
+          "isoDate": "2026-11-10T17:39:01.000Z"
+        },
+        {
           "title": "Show GN: [프로젝트] 중학생이 하루 만에 빌드한 AI 연동형 픽셀아트 스튜디오 (Electron, Mac, Windows)",
           "link": "https://news.hada.io/topic?id=36948&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
           "pubDate": "2026-11-10T16:08:28.000Z",
@@ -105,106 +205,6 @@
           "contentSnippet": "Microsoft 운영 메일 시스템이 SPF와 DKIM이 유효해도 DMARC 레코드가 없는 메일을 거부하는 현상이 확인됐으며, hotmail.com과 outlook.com도 영향을 받음\n영향을 받은 일부 도메인에 p=none DMARC 레코드를 추가하자 메일이 다시 수신됨\n기존 DMARC 의무는 하루 5,000통 초과 발송 도메인을 대상으로 사전 공지됐지만, 이번 변경은 사전 공지 없이 발생한 것으로 보임\n후속 업데이트에 따르면 이번 변경은 의도하지 않은 것으로 보이며, Microsoft는 아직 되돌릴 방법을 찾지 못한 상태임\n영향을 받는 Microsoft 사용자는 다른 제공업체\n\n…",
           "id": "https://news.hada.io/topic?id=36939",
           "isoDate": "2026-11-10T09:07:21.000Z"
-        },
-        {
-          "title": "끔찍한 공개키 꼼수",
-          "link": "https://news.hada.io/topic?id=36938&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-10T09:04:20.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>RSA 공개키에 읽을 수 있는 문구를 심어</strong>, 실제로 작동하고 인증기관의 신뢰도 받는 TLS 인증서를 만듦</li><li>공개 지수는 표준값으로 유지하고, <strong>모듈러스의 상위 절반</strong>을 조정해 인증서의 Base64 텍스트에 메시지가 드러나도록 함</li><li>수정한 모듈러스를 기존 소수로 나눈 뒤 가까운 소수를 찾아 키를 재구성하면, <strong>메시지를 유지하면서 유효한 RSA 키</strong>를 만들 수 있음</li><li>Base64 기준으로 <strong>RSA-2048은 약 150자, RSA-4096은 약 320자</strong>를 넣을 수 있으며, 인증서 발급 후에도 같은 CSR로 갱신할 수 있음</li><li>이 방식은 <strong>개인키 엔트로피를 줄이며</strong>, 제공 스크립트</li></ul></div>…",
-          "contentSnippet": "RSA 공개키에 읽을 수 있는 문구를 심어, 실제로 작동하고 인증기관의 신뢰도 받는 TLS 인증서를 만듦\n공개 지수는 표준값으로 유지하고, 모듈러스의 상위 절반을 조정해 인증서의 Base64 텍스트에 메시지가 드러나도록 함\n수정한 모듈러스를 기존 소수로 나눈 뒤 가까운 소수를 찾아 키를 재구성하면, 메시지를 유지하면서 유효한 RSA 키를 만들 수 있음\nBase64 기준으로 RSA-2048은 약 150자, RSA-4096은 약 320자를 넣을 수 있으며, 인증서 발급 후에도 같은 CSR로 갱신할 수 있음\n이 방식은 개인키 엔트로피를 줄이며, 제공 스크립트\n\n…",
-          "id": "https://news.hada.io/topic?id=36938",
-          "isoDate": "2026-11-10T09:04:20.000Z"
-        },
-        {
-          "title": "정체불명의 삐 소리가 나는 위치 찾기",
-          "link": "https://news.hada.io/topic?id=36936&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-10T08:40:53.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>여러 기기의 마이크로 소리를 수집하고 발원지를 삼각측량하는 <strong>Beep Locator</strong>를 Claude Code로 제작해, 상자가 가득한 방에서 간헐적으로 울리는 경고음의 위치를 찾음</li><li>기기끼리 소리를 내 위치를 추정하지만 자동 측정이 잘되지 않아, 지도에 대략적인 위치를 지정한 뒤 소리로 보정하는 <strong>Rough mode</strong>를 추가함</li><li>경고음이 감지되면 기기 하나가 <strong>짧은 기준음</strong>을 냄. 서버는 기준음에 맞춰 녹음을 정렬하고, <strong>경고음이 각 마이크에 도착한 시간 차이</strong>로 발원지 위치를 추정함</li><li>실제 사용에서 소리의 위치를 <strong>약 40cm 이내</strong>로 좁혔으며, 해당 상자 더</li></ul></div>…",
-          "contentSnippet": "여러 기기의 마이크로 소리를 수집하고 발원지를 삼각측량하는 Beep Locator를 Claude Code로 제작해, 상자가 가득한 방에서 간헐적으로 울리는 경고음의 위치를 찾음\n기기끼리 소리를 내 위치를 추정하지만 자동 측정이 잘되지 않아, 지도에 대략적인 위치를 지정한 뒤 소리로 보정하는 Rough mode를 추가함\n경고음이 감지되면 기기 하나가 짧은 기준음을 냄. 서버는 기준음에 맞춰 녹음을 정렬하고, 경고음이 각 마이크에 도착한 시간 차이로 발원지 위치를 추정함\n실제 사용에서 소리의 위치를 약 40cm 이내로 좁혔으며, 해당 상자 더\n\n…",
-          "id": "https://news.hada.io/topic?id=36936",
-          "isoDate": "2026-11-10T08:40:53.000Z"
-        },
-        {
-          "title": "Amazon, Sonnet 4.6을 Strands Decider로 대체해 수백만 달러 절감",
-          "link": "https://news.hada.io/topic?id=36935&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-10T08:37:54.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>아마존이 대규모 내부 티켓 분류에 쓰던 클로드 Sonnet 4.6을 <strong>Strands Decider E4B</strong>로 교체. 티켓 100만 건당 약 22,200달러에서 500달러로 98% 줄어, 연간 수백만 달러를 절감 예상</li><li><strong>의사결정 모델</strong>은 텍스트를 생성하는 대신 주어진 선택지별 확률과 신뢰도를 반환하므로, 정해진 20개 범주에서 티켓 라벨을 고르는 작업에 적합했음</li><li>별도 티켓 평가에서 E4B가 운영 중인 Sonnet보다 좋은 결과를 보였고, 실제 비교에서 <strong>평균 호출 시간은 78%</strong>, 티켓당 총 토큰 수는 70% 감소함</li><li>실제 트래픽에서 두 모델을 병렬 실행하되 Sonnet 결과만 적용</li></ul></div>…",
-          "contentSnippet": "아마존이 대규모 내부 티켓 분류에 쓰던 클로드 Sonnet 4.6을 Strands Decider E4B로 교체. 티켓 100만 건당 약 22,200달러에서 500달러로 98% 줄어, 연간 수백만 달러를 절감 예상\n의사결정 모델은 텍스트를 생성하는 대신 주어진 선택지별 확률과 신뢰도를 반환하므로, 정해진 20개 범주에서 티켓 라벨을 고르는 작업에 적합했음\n별도 티켓 평가에서 E4B가 운영 중인 Sonnet보다 좋은 결과를 보였고, 실제 비교에서 평균 호출 시간은 78%, 티켓당 총 토큰 수는 70% 감소함\n실제 트래픽에서 두 모델을 병렬 실행하되 Sonnet 결과만 적용\n\n…",
-          "id": "https://news.hada.io/topic?id=36935",
-          "isoDate": "2026-11-10T08:37:54.000Z"
-        },
-        {
-          "title": "Show GN: 귀여운 고양이가 봐주는 내 사주팔자~",
-          "link": "https://news.hada.io/topic?id=36934&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-10T08:06:41.000Z",
-          "author": "colagom",
-          "content": "<div><p>반년전에 조금 쪼물딱거리다가 방치한 사주사이트를 주말내내 업그레이드해서 다시 배포했습니다!!</p><p>귀여운 고양이에게 생년월일시를 알려주면 사용자님의 운명을 알려주는 방식입니다~</p><p>고양이가 사주를 다 봐준 후에는 고양이의 스승님인 만신님께서 한층 심화된 내용으로 사주를 다시 봐주게됩니다!</p><p>사주를 다 본 이후에는 ai 만신과의 대화를 통해 개인적인 궁금증도 풀어볼 수 있구요!</p><p>틈틈히 기능을 더 넣을 예정이라 피드백 적극 환영합니다 많이 이용해주세요~~~~~</p></div>",
-          "contentSnippet": "반년전에 조금 쪼물딱거리다가 방치한 사주사이트를 주말내내 업그레이드해서 다시 배포했습니다!!\n귀여운 고양이에게 생년월일시를 알려주면 사용자님의 운명을 알려주는 방식입니다~\n고양이가 사주를 다 봐준 후에는 고양이의 스승님인 만신님께서 한층 심화된 내용으로 사주를 다시 봐주게됩니다!\n사주를 다 본 이후에는 ai 만신과의 대화를 통해 개인적인 궁금증도 풀어볼 수 있구요!\n틈틈히 기능을 더 넣을 예정이라 피드백 적극 환영합니다 많이 이용해주세요~~~~~",
-          "id": "https://news.hada.io/topic?id=36934",
-          "isoDate": "2026-11-10T08:06:41.000Z"
-        },
-        {
-          "title": "유료 SDK 없이, 공개 데이터와 MapLibre로 아파트 3D 지도를 만든 11일",
-          "link": "https://news.hada.io/topic?id=36933&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-10T05:53:29.000Z",
-          "author": "seogi1004",
-          "content": "<div><p>직접 개발 중인 아파트 인사이트의 주변 3D 지도를 만들면서 겪은 문제와 설계 선택을 정리했습니다.</p><p>브이월드의 건물 외곽선, 건축물대장의 높이, OpenStreetMap의 시설·도로 데이터를 결합하고 MapLibre GL JS로 그렸습니다. 유료 지도 SDK와 외부 3D 모델 파일은 사용하지 않았습니다.</p><p>글에서는 다음 내용을 다룹니다.</p><ul><li>건물 9,481동이 포함된 지도가 도보 경로 데이터 때문에 두 번 생성되던 문제를 찾아 수정한 과정</li><li>애니메이션과 공간 탐색 비용을 줄인 방법, 측정 환경과 성능 개선 전후 수치</li><li>층수로 추정한 건물 높이를 화면에는 </li></ul></div>…",
-          "contentSnippet": "직접 개발 중인 아파트 인사이트의 주변 3D 지도를 만들면서 겪은 문제와 설계 선택을 정리했습니다.\n브이월드의 건물 외곽선, 건축물대장의 높이, OpenStreetMap의 시설·도로 데이터를 결합하고 MapLibre GL JS로 그렸습니다. 유료 지도 SDK와 외부 3D 모델 파일은 사용하지 않았습니다.\n글에서는 다음 내용을 다룹니다.\n\n건물 9,481동이 포함된 지도가 도보 경로 데이터 때문에 두 번 생성되던 문제를 찾아 수정한 과정\n애니메이션과 공간 탐색 비용을 줄인 방법, 측정 환경과 성능 개선 전후 수치\n층수로 추정한 건물 높이를 화면에는 \n\n…",
-          "id": "https://news.hada.io/topic?id=36933",
-          "isoDate": "2026-11-10T05:53:29.000Z"
-        },
-        {
-          "title": "Ask GN: AI 코딩 에이전트에게 셸 명령 권한을 어디까지 주시나요?",
-          "link": "https://news.hada.io/topic?id=36930&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-10T03:15:29.000Z",
-          "author": "qlcla123",
-          "content": "<div><p>Claude Code·Codex·Cursor 같은 에이전트에게 셸 명령을 맡길 때 다들 어떻게 쓰시는지 궁금합니다.</p><p>공개된 사고 보고서를 모아 보면 홈 폴더나 저장소, 데이터베이스가 날아간 경우가 꽤 있습니다. 그런데 명령 자체가 위험해 보이지 않는 경우가 많았습니다. rm은 스크립트나 테스트 파일 안에 있고, 에이전트는 그 스크립트를 실행했을 뿐이었습니다. prisma migrate reset이나 git stash drop처럼 rm이 없는데 작업을 날리는 명령도 있었습니다.</p><p>궁금한 건 세 가지입니다.</p><ol><li>권한은 어떻게 두시나요? 매번 확인, 일부 명령만 자동 허용</li></ol></div>…",
-          "contentSnippet": "Claude Code·Codex·Cursor 같은 에이전트에게 셸 명령을 맡길 때 다들 어떻게 쓰시는지 궁금합니다.\n공개된 사고 보고서를 모아 보면 홈 폴더나 저장소, 데이터베이스가 날아간 경우가 꽤 있습니다. 그런데 명령 자체가 위험해 보이지 않는 경우가 많았습니다. rm은 스크립트나 테스트 파일 안에 있고, 에이전트는 그 스크립트를 실행했을 뿐이었습니다. prisma migrate reset이나 git stash drop처럼 rm이 없는데 작업을 날리는 명령도 있었습니다.\n궁금한 건 세 가지입니다.\n\n권한은 어떻게 두시나요? 매번 확인, 일부 명령만 자동 허용\n\n…",
-          "id": "https://news.hada.io/topic?id=36930",
-          "isoDate": "2026-11-10T03:15:29.000Z"
-        },
-        {
-          "title": "Fable 5.2, 조카가 꿈꾸던 게임을 한 번의 요청으로 구현",
-          "link": "https://news.hada.io/topic?id=36929&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-10T02:35:11.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>Fable 5.2</strong>가 조카의 직접 그린 캐릭터와 기존 프로토타입을 바탕으로, 한 번의 요청을 받아 밤사이 <strong>플레이 가능한 12스테이지 횡스크롤 액션 게임</strong>을 완성함</li><li>기존 코드 대부분을 다시 작성하고 <strong>이미지 약 175개와 오디오 클립 140개</strong>를 생성했으며, 요청하지 않은 컷신, 부술 수 있는 상자, 엔딩까지 추가함</li><li>게임을 플레이하는 <strong>봇</strong>을 만들어 헤드리스 브라우저에서 12개 스테이지를 모두 실행하고, 스크린샷으로 문제를 확인함</li><li>가족과의 플레이테스트 후 기술과 캐릭터를 추가하면서, 최종적으로 <strong>18개 캐릭터와 4인 플레이</strong>를 지원하는 게임으</li></ul></div>…",
-          "contentSnippet": "Fable 5.2가 조카의 직접 그린 캐릭터와 기존 프로토타입을 바탕으로, 한 번의 요청을 받아 밤사이 플레이 가능한 12스테이지 횡스크롤 액션 게임을 완성함\n기존 코드 대부분을 다시 작성하고 이미지 약 175개와 오디오 클립 140개를 생성했으며, 요청하지 않은 컷신, 부술 수 있는 상자, 엔딩까지 추가함\n게임을 플레이하는 봇을 만들어 헤드리스 브라우저에서 12개 스테이지를 모두 실행하고, 스크린샷으로 문제를 확인함\n가족과의 플레이테스트 후 기술과 캐릭터를 추가하면서, 최종적으로 18개 캐릭터와 4인 플레이를 지원하는 게임으\n\n…",
-          "id": "https://news.hada.io/topic?id=36929",
-          "isoDate": "2026-11-10T02:35:11.000Z"
-        },
-        {
-          "title": "Show GN: Daizy - 단어 암기에 특화된 예쁜 Anki/Quizlet Alternative",
-          "link": "https://news.hada.io/topic?id=36928&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-10T02:15:00.000Z",
-          "author": "lowintboy",
-          "content": "<div><p>UI가 예쁜 Anki Alternative를 만들어보고자 시작된 단어암기 앱입니다.</p><p>주요기능</p><ul><li>안드로이드, iOS, 웹 버전 지원</li><li>FSRS 알고리즘 기반 데일리 퀴즈</li><li>Anki 덱 Import / Export</li><li>Streak, Stats, Reminder(Notification)</li></ul><p>장점</p><ul><li>저렴한 비용(월 플랜 2,200원)</li><li>잡다하지 않은 기능, 심플한 UI</li></ul><p>향후 추가될 기능</p><ul><li>사용자의 단어 DB에 기반한 새 단어 추천</li><li>AI를 이용한 예문/이미지 생성</li><li>언어별 특화 기능(한자 획 쓰기, 히라가나-가타카나 변환 등)</li><li>태블릿 앱</li></ul><p>매일 눈팅만 하다가 직접 글을 남겨보는건 처음이네요. 항상 긱뉴스에서 좋은 글들 보고</p></div>…",
-          "contentSnippet": "UI가 예쁜 Anki Alternative를 만들어보고자 시작된 단어암기 앱입니다.\n주요기능\n\n안드로이드, iOS, 웹 버전 지원\nFSRS 알고리즘 기반 데일리 퀴즈\nAnki 덱 Import / Export\nStreak, Stats, Reminder(Notification)\n\n장점\n\n저렴한 비용(월 플랜 2,200원)\n잡다하지 않은 기능, 심플한 UI\n\n향후 추가될 기능\n\n사용자의 단어 DB에 기반한 새 단어 추천\nAI를 이용한 예문/이미지 생성\n언어별 특화 기능(한자 획 쓰기, 히라가나-가타카나 변환 등)\n태블릿 앱\n\n매일 눈팅만 하다가 직접 글을 남겨보는건 처음이네요. 항상 긱뉴스에서 좋은 글들 보고\n…",
-          "id": "https://news.hada.io/topic?id=36928",
-          "isoDate": "2026-11-10T02:15:00.000Z"
-        },
-        {
-          "title": "Show GN: Tacie – 지난 결정, 회의 중에 바로 찾아 주는 Mac용 AI 어시스턴트",
-          "link": "https://news.hada.io/topic?id=36925&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-10T01:56:02.000Z",
-          "author": "bearjb",
-          "content": "<div><p>회의에서 나온 질문은 “확인해 보고 공유드릴게요“로 넘어가고, 회의가 끝나면 뭘 정했는지 다시 묻는 일이 반복돼서 만들었습니다.</p><p>회의에서 찾아볼 질문이 나오면 GitHub, Linear, 노션에서 답과 근거를 찾아 바로 띄우고,<br> 회의가 끝나면 결정과 할 일은 알아서 정리, 여러 회의의 할 일은 기한별로 한곳에 정리됩니다.</p><p>사용 예시<br> 기획 회의: 무료 체험을 30일로 늘리자는 말이 나오면 3월 가격 회의록과 Linear 실험 결과(결제 전환율 14일 12.4%, 30일 9.1%)를 띄움. 같은 실험을 다시 하지 않고 그 자리에서 결정<br> 고객 미팅: 고</p></div>…",
-          "contentSnippet": "회의에서 나온 질문은 “확인해 보고 공유드릴게요“로 넘어가고, 회의가 끝나면 뭘 정했는지 다시 묻는 일이 반복돼서 만들었습니다.\n회의에서 찾아볼 질문이 나오면 GitHub, Linear, 노션에서 답과 근거를 찾아 바로 띄우고,\n 회의가 끝나면 결정과 할 일은 알아서 정리, 여러 회의의 할 일은 기한별로 한곳에 정리됩니다.\n사용 예시\n 기획 회의: 무료 체험을 30일로 늘리자는 말이 나오면 3월 가격 회의록과 Linear 실험 결과(결제 전환율 14일 12.4%, 30일 9.1%)를 띄움. 같은 실험을 다시 하지 않고 그 자리에서 결정\n 고객 미팅: 고\n…",
-          "id": "https://news.hada.io/topic?id=36925",
-          "isoDate": "2026-11-10T01:56:02.000Z"
-        },
-        {
-          "title": "1.58비트 터너리 양자화로 30B LLM을 맥북에서 돌리기: 0점에서 89.4%까지 복원한 기록",
-          "link": "https://news.hada.io/topic?id=36924&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-10T01:53:46.000Z",
-          "author": "jaehoonlee",
-          "content": "<div><ul><li>NVIDIA Nemotron 3.5 Lightning 30B(A3B)의 가중치를 -1, 0, +1 세 값으로만 표현하는 1.58비트 터너리 양자화로 <strong>약 60GB → 약 10GB</strong>까지 줄이고, 24GB 이상 맥북에서 돌릴 수 있게 한 기록 <ul><li>사전학습을 다시 하지 않는 PTQ 방식. 결과 모델은 Hugging Face에 MLX 프리뷰 체크포인트로 공개</li></ul></li><li>30B 모델은 4비트로 줄여도 가중치만 16GB 안팎이라, 런타임 메모리와 KV 캐시까지 더하면 16GB 기기에는 올라가지 않고 24GB 맥북에서도 빠듯함</li><li>BF16 모델을 그대로 터너리로 바꾸면 <strong>GSM8K·HumanEval 0.00점</strong>, IFEval-ko 10.36점</li><li>on/off-policy di</li></ul></div>…",
-          "contentSnippet": "NVIDIA Nemotron 3.5 Lightning 30B(A3B)의 가중치를 -1, 0, +1 세 값으로만 표현하는 1.58비트 터너리 양자화로 약 60GB → 약 10GB까지 줄이고, 24GB 이상 맥북에서 돌릴 수 있게 한 기록 \n사전학습을 다시 하지 않는 PTQ 방식. 결과 모델은 Hugging Face에 MLX 프리뷰 체크포인트로 공개\n\n30B 모델은 4비트로 줄여도 가중치만 16GB 안팎이라, 런타임 메모리와 KV 캐시까지 더하면 16GB 기기에는 올라가지 않고 24GB 맥북에서도 빠듯함\nBF16 모델을 그대로 터너리로 바꾸면 GSM8K·HumanEval 0.00점, IFEval-ko 10.36점\non/off-policy di\n\n…",
-          "id": "https://news.hada.io/topic?id=36924",
-          "isoDate": "2026-11-10T01:53:46.000Z"
         }
       ]
     },
@@ -381,235 +381,235 @@
       "category": "news",
       "data": [
         {
-          "creator": "신현정",
-          "title": "IBK기업은행, 3연승 질주…첫 승 놓친 수퍼스",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH2026111101071546S",
-          "pubDate": "Wed, 11 Nov 2026 01:07:17 +0900",
-          "content:encoded": "[앵커]\n\n프로배구 여자부 IBK기업은행이 개막 3연승을 달리며 선두를 질주했습니다.\n\n첫 승리가 절실했던 SOOP 수퍼스는 또 홈팬들 앞에서 고개를 숙였습니다.\n\n신현정 기자입니다.\n\n[기자]\n\n창단 후 첫 승을 고대하는 홈팬들 앞에서 치러진 경기.\n\n첫 세트를 내준 수퍼스는 홈팬들의 응원에 힘입어 2세트를 따내며 팽팽한 승부를 이어갔습니다.\n\n3세트에서는 6연속 득점에 성공하며 역전까지 바라봤습니다.\n\n하지만 기업은행은 주포 빅토리아가 주춤한 사이, 이주아와 최정민, 미와의 공격으로 추격에 불을 붙였습니다.\n\n결국 세 차례 듀스까지 이어진 접전 끝에 기업은행이 3세트를 따내며 승기를 잡았습니다.\n\n4세트 들어 김세진 감독이 선수들을 다독이며 분위기 반전을 주문했지만.\n\n&lt;김세진 / SOOP 수퍼스 감독&gt; \"할 수 있는 거 해야지, 경기 끝난 것도 아니고. 내가 항상 이야기 하잖아, 우리 할 것 하면서 가야 된다고. 가자, 가자, 가자!\"\n\n수퍼스는 끝내 흐름을 되찾지 못했고, 기업은행이 큰 점수 차로 승부의 마침표를 찍으며 3연승을 완성했습니다.\n\n&lt;이주아 / IBK기업은행 미들블로커&gt; \"후반으로 갈수록 잘 풀렸다고 생각했어요. 연습을 워낙 많이 하고 있거든요. 시즌 시작한 순간부터 선수들끼리 더 잘 맞는 모습이 보여서 앞으로 외국인 선수들도 다 기대가 됩니다.\"\n\n3연패에 빠진 수퍼스는 고예림과 오드리아나가 나란히 18득점으로 분전한 데 만족해야 했습니다.\n\n남자부에서는 한국전력이 삼성화재에 짜릿한 역전승을 거뒀습니다.\n\n1세트를 먼저 내준 한국전력은 홀로 33점을 책임진 우스만과 신영석 등 베테랑들의 활약을 앞세워 반격에 나섰습니다.\n\n4세트에서 9차례 듀스가 이어진 혈투 끝에 서재덕이 마지막 공격을 성공시키며 승부의 마침표를 찍었습니다.\n\n연합뉴스TV 신현정입니다.\n\n[영상편집 박진희]\n\n[그래픽 강성훈]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신현정(hyunspirit@yna.co.kr)",
-          "content:encodedSnippet": "[앵커]\n\n프로배구 여자부 IBK기업은행이 개막 3연승을 달리며 선두를 질주했습니다.\n\n첫 승리가 절실했던 SOOP 수퍼스는 또 홈팬들 앞에서 고개를 숙였습니다.\n\n신현정 기자입니다.\n\n[기자]\n\n창단 후 첫 승을 고대하는 홈팬들 앞에서 치러진 경기.\n\n첫 세트를 내준 수퍼스는 홈팬들의 응원에 힘입어 2세트를 따내며 팽팽한 승부를 이어갔습니다.\n\n3세트에서는 6연속 득점에 성공하며 역전까지 바라봤습니다.\n\n하지만 기업은행은 주포 빅토리아가 주춤한 사이, 이주아와 최정민, 미와의 공격으로 추격에 불을 붙였습니다.\n\n결국 세 차례 듀스까지 이어진 접전 끝에 기업은행이 3세트를 따내며 승기를 잡았습니다.\n\n4세트 들어 김세진 감독이 선수들을 다독이며 분위기 반전을 주문했지만.\n\n<김세진 / SOOP 수퍼스 감독> \"할 수 있는 거 해야지, 경기 끝난 것도 아니고. 내가 항상 이야기 하잖아, 우리 할 것 하면서 가야 된다고. 가자, 가자, 가자!\"\n\n수퍼스는 끝내 흐름을 되찾지 못했고, 기업은행이 큰 점수 차로 승부의 마침표를 찍으며 3연승을 완성했습니다.\n\n<이주아 / IBK기업은행 미들블로커> \"후반으로 갈수록 잘 풀렸다고 생각했어요. 연습을 워낙 많이 하고 있거든요. 시즌 시작한 순간부터 선수들끼리 더 잘 맞는 모습이 보여서 앞으로 외국인 선수들도 다 기대가 됩니다.\"\n\n3연패에 빠진 수퍼스는 고예림과 오드리아나가 나란히 18득점으로 분전한 데 만족해야 했습니다.\n\n남자부에서는 한국전력이 삼성화재에 짜릿한 역전승을 거뒀습니다.\n\n1세트를 먼저 내준 한국전력은 홀로 33점을 책임진 우스만과 신영석 등 베테랑들의 활약을 앞세워 반격에 나섰습니다.\n\n4세트에서 9차례 듀스가 이어진 혈투 끝에 서재덕이 마지막 공격을 성공시키며 승부의 마침표를 찍었습니다.\n\n연합뉴스TV 신현정입니다.\n\n[영상편집 박진희]\n\n[그래픽 강성훈]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신현정(hyunspirit@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261110/MYH2026111101071546S.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "신현정",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH2026111101071546S#comments",
-          "content": "[앵커] 프로배구 여자부 IBK기업은행이 개막 3연승을 달리며 선두를 질주했습니다. 첫 승리가 절실했던 SOOP 수퍼스는 또 홈팬들 앞에서 고개를 숙였습니다. 신현정 기자입니다. [기자] 창단 후 첫 승을 고대하는 홈팬들 앞에서 치러진 경기. 첫 세트를 내준 수퍼스는 홈팬들의 응원에 힘입어 2세트를 따내며 팽팽한 승부를 이어갔습니다. 3세트에서는 6연속 득점에 성공하며 역전까지 바라봤습니다. 하지만 기업은행은 주포 빅토리아가 주춤한 사이,...",
-          "contentSnippet": "[앵커] 프로배구 여자부 IBK기업은행이 개막 3연승을 달리며 선두를 질주했습니다. 첫 승리가 절실했던 SOOP 수퍼스는 또 홈팬들 앞에서 고개를 숙였습니다. 신현정 기자입니다. [기자] 창단 후 첫 승을 고대하는 홈팬들 앞에서 치러진 경기. 첫 세트를 내준 수퍼스는 홈팬들의 응원에 힘입어 2세트를 따내며 팽팽한 승부를 이어갔습니다. 3세트에서는 6연속 득점에 성공하며 역전까지 바라봤습니다. 하지만 기업은행은 주포 빅토리아가 주춤한 사이,...",
-          "guid": "MYH2026111101071546S",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-10T16:07:17.000Z"
-        },
-        {
-          "creator": "장효인",
-          "title": "\"美·이란, 우라늄 농축 제한 등 합의 근접\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261111010611kZ6",
-          "pubDate": "Wed, 11 Nov 2026 01:06:14 +0900",
-          "content:encoded": "미국과 이란이 우라늄 농축 제한과 동결 자금 해제 등을 골자로 한 예비 합의에 근접한 것으로 전해졌습니다.\n\n현지시간 9일 사우디아라비아 국영 방송 알 아라비아에 따르면, 미국은 이란이 자국 내에서 우라늄을 3.67%까지만 농축하는 것을 허용하는 방안을 제시했고, 이란도 이에 동의했습니다.\n\n미국은 이란이 이미 60%까지 농축한 우라늄을 희석해 농도를 다시 낮출 것을 요구했으며, 핵 활동 감시를 위한 국제원자력기구 IAEA 사찰단의 이란 복귀 문제도 논의되는 것으로 알려졌습니다.\n\n소식통은 양국이 최종 합의에 도달하면 미국이 60억~90억 달러 규모의 이란 동결 자금을 해제할 것이라고 밝혔습니다.\n\n#미국 #이란 #핵협상 #우라늄농축\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n장효인(hijang@yna.co.kr)",
-          "content:encodedSnippet": "미국과 이란이 우라늄 농축 제한과 동결 자금 해제 등을 골자로 한 예비 합의에 근접한 것으로 전해졌습니다.\n\n현지시간 9일 사우디아라비아 국영 방송 알 아라비아에 따르면, 미국은 이란이 자국 내에서 우라늄을 3.67%까지만 농축하는 것을 허용하는 방안을 제시했고, 이란도 이에 동의했습니다.\n\n미국은 이란이 이미 60%까지 농축한 우라늄을 희석해 농도를 다시 낮출 것을 요구했으며, 핵 활동 감시를 위한 국제원자력기구 IAEA 사찰단의 이란 복귀 문제도 논의되는 것으로 알려졌습니다.\n\n소식통은 양국이 최종 합의에 도달하면 미국이 60억~90억 달러 규모의 이란 동결 자금을 해제할 것이라고 밝혔습니다.\n\n#미국 #이란 #핵협상 #우라늄농축\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n장효인(hijang@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261110/MYH20261111010611kZ6.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "장효인",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261111010611kZ6#comments",
-          "content": "미국과 이란이 우라늄 농축 제한과 동결 자금 해제 등을 골자로 한 예비 합의에 근접한 것으로 전해졌습니다. 현지시간 9일 사우디아라비아 국영 방송 알 아라비아에 따르면, 미국은 이란이 자국 내에서 우라늄을 3.67%까지만 농축하는 것을 허용하는 방안을 제시했고, 이란도 이에 동의했습니다. 미국은 이란이 이미 60%까지 농축한 우라늄을 희석해 농도를 다시 낮출 것을 요구했으며, 핵 활동 감시를 위한 국제원자력기구 IAEA 사찰단의 이란 복귀...",
-          "contentSnippet": "미국과 이란이 우라늄 농축 제한과 동결 자금 해제 등을 골자로 한 예비 합의에 근접한 것으로 전해졌습니다. 현지시간 9일 사우디아라비아 국영 방송 알 아라비아에 따르면, 미국은 이란이 자국 내에서 우라늄을 3.67%까지만 농축하는 것을 허용하는 방안을 제시했고, 이란도 이에 동의했습니다. 미국은 이란이 이미 60%까지 농축한 우라늄을 희석해 농도를 다시 낮출 것을 요구했으며, 핵 활동 감시를 위한 국제원자력기구 IAEA 사찰단의 이란 복귀...",
-          "guid": "MYH20261111010611kZ6",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-10T16:06:14.000Z"
-        },
-        {
           "creator": "양현주",
-          "title": "'노태우 비자금 은닉 의혹' 노재헌 피의자 입건",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261111002622VjX",
-          "pubDate": "Wed, 11 Nov 2026 00:26:24 +0900",
-          "content:encoded": "노태우 전 대통령의 아들인 노재헌 주중한국대사가 비자금 은닉 의혹과 관련해 피의자 신분으로 입건됐습니다.\n\n어제(10일) 법조계에 따르면 서울중앙지방공소청은 최근 노 대사를 범죄수익은닉규제법 위반 등 혐의로 입건하고, 조만간 소환 조사할 방침인 것으로 알려졌습니다.\n\n이번 의혹은 최태원 SK그룹 회장과 노소영 관장의 이혼 소송 과정에서 노 전 대통령의 부인 김옥숙 여사가 작성한 904억 원 규모의 자금 메모가 공개되며 불거졌습니다.\n\n공소청은 이 가운데 일부 비자금이 노 대사가 운영에 관여한 재단 등으로 흘러들어갔을 가능성을 조사하고 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n양현주(yang@yna.co.kr)",
-          "content:encodedSnippet": "노태우 전 대통령의 아들인 노재헌 주중한국대사가 비자금 은닉 의혹과 관련해 피의자 신분으로 입건됐습니다.\n\n어제(10일) 법조계에 따르면 서울중앙지방공소청은 최근 노 대사를 범죄수익은닉규제법 위반 등 혐의로 입건하고, 조만간 소환 조사할 방침인 것으로 알려졌습니다.\n\n이번 의혹은 최태원 SK그룹 회장과 노소영 관장의 이혼 소송 과정에서 노 전 대통령의 부인 김옥숙 여사가 작성한 904억 원 규모의 자금 메모가 공개되며 불거졌습니다.\n\n공소청은 이 가운데 일부 비자금이 노 대사가 운영에 관여한 재단 등으로 흘러들어갔을 가능성을 조사하고 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n양현주(yang@yna.co.kr)",
+          "title": "헤그세스 \"전쟁 이겼다고 탄핵하나\" 반발",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261111060224Ssr",
+          "pubDate": "Wed, 11 Nov 2026 06:02:25 +0900",
+          "content:encoded": "피트 헤그세스 미국 국방장관이 자신에 대한 탄핵 추진을 \"정치적 쇼\"라며 강하게 반발했습니다.\n\n헤그세스 장관은 현지시간 10일 기자회견에서 \"전쟁에서 져서가 아니라 이겼다는 이유로 공격받는 건 미국 역사상 처음\"이라고 주장했습니다.\n\n앞서 공화당의 토머스 매시 하원의원은 의회 승인 없이 이란 전쟁을 이어간 점 등을 문제 삼아 탄핵소추안을 다시 발의했습니다.\n\n미 하원은 이르면 이날 저녁 탄핵안을 다룰 예정으로, 민주당이 모두 찬성할 경우 공화당에서 3명만 이탈해도 가결될 수 있습니다.\n\n다만 공화당 지도부는 탄핵안 본표결에 앞서 보류 동의를 표결에 부쳐 탄핵 추진을 무산시킬 것이란 전망도 나옵니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n양현주(yang@yna.co.kr)",
+          "content:encodedSnippet": "피트 헤그세스 미국 국방장관이 자신에 대한 탄핵 추진을 \"정치적 쇼\"라며 강하게 반발했습니다.\n\n헤그세스 장관은 현지시간 10일 기자회견에서 \"전쟁에서 져서가 아니라 이겼다는 이유로 공격받는 건 미국 역사상 처음\"이라고 주장했습니다.\n\n앞서 공화당의 토머스 매시 하원의원은 의회 승인 없이 이란 전쟁을 이어간 점 등을 문제 삼아 탄핵소추안을 다시 발의했습니다.\n\n미 하원은 이르면 이날 저녁 탄핵안을 다룰 예정으로, 민주당이 모두 찬성할 경우 공화당에서 3명만 이탈해도 가결될 수 있습니다.\n\n다만 공화당 지도부는 탄핵안 본표결에 앞서 보류 동의를 표결에 부쳐 탄핵 추진을 무산시킬 것이란 전망도 나옵니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n양현주(yang@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261110/MYH20261111002622VjX.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261110/MYH20261111060224Ssr.jpg",
             "type": "image/jpeg"
           },
           "dc:creator": "양현주",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261111002622VjX#comments",
-          "content": "노태우 전 대통령의 아들인 노재헌 주중한국대사가 비자금 은닉 의혹과 관련해 피의자 신분으로 입건됐습니다. 어제(10일) 법조계에 따르면 서울중앙지방공소청은 최근 노 대사를 범죄수익은닉규제법 위반 등 혐의로 입건하고, 조만간 소환 조사할 방침인 것으로 알려졌습니다. 이번 의혹은 최태원 SK그룹 회장과 노소영 관장의 이혼 소송 과정에서 노 전 대통령의 부인 김옥숙 여사가 작성한 904억 원 규모의 자금 메모가 공개되며 불거졌습니다. 공소청은 ...",
-          "contentSnippet": "노태우 전 대통령의 아들인 노재헌 주중한국대사가 비자금 은닉 의혹과 관련해 피의자 신분으로 입건됐습니다. 어제(10일) 법조계에 따르면 서울중앙지방공소청은 최근 노 대사를 범죄수익은닉규제법 위반 등 혐의로 입건하고, 조만간 소환 조사할 방침인 것으로 알려졌습니다. 이번 의혹은 최태원 SK그룹 회장과 노소영 관장의 이혼 소송 과정에서 노 전 대통령의 부인 김옥숙 여사가 작성한 904억 원 규모의 자금 메모가 공개되며 불거졌습니다. 공소청은 ...",
-          "guid": "MYH20261111002622VjX",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261111060224Ssr#comments",
+          "content": "피트 헤그세스 미국 국방장관이 자신에 대한 탄핵 추진을 \"정치적 쇼\"라며 강하게 반발했습니다. 헤그세스 장관은 현지시간 10일 기자회견에서 \"전쟁에서 져서가 아니라 이겼다는 이유로 공격받는 건 미국 역사상 처음\"이라고 주장했습니다. 앞서 공화당의 토머스 매시 하원의원은 의회 승인 없이 이란 전쟁을 이어간 점 등을 문제 삼아 탄핵소추안을 다시 발의했습니다. 미 하원은 이르면 이날 저녁 탄핵안을 다룰 예정으로, 민주당이 모두 찬성할 경우 공화...",
+          "contentSnippet": "피트 헤그세스 미국 국방장관이 자신에 대한 탄핵 추진을 \"정치적 쇼\"라며 강하게 반발했습니다. 헤그세스 장관은 현지시간 10일 기자회견에서 \"전쟁에서 져서가 아니라 이겼다는 이유로 공격받는 건 미국 역사상 처음\"이라고 주장했습니다. 앞서 공화당의 토머스 매시 하원의원은 의회 승인 없이 이란 전쟁을 이어간 점 등을 문제 삼아 탄핵소추안을 다시 발의했습니다. 미 하원은 이르면 이날 저녁 탄핵안을 다룰 예정으로, 민주당이 모두 찬성할 경우 공화...",
+          "guid": "MYH20261111060224Ssr",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-10T15:26:24.000Z"
+          "isoDate": "2026-11-10T21:02:25.000Z"
         },
         {
-          "creator": "강은나래",
-          "title": "민주 권리당원, 김민석 징계 청원…\"당 분열시켜\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261111002503vaC",
-          "pubDate": "Wed, 11 Nov 2026 00:25:06 +0900",
-          "content:encoded": "더불어민주당의 한 권리당원이 당대표 경선 과정에서 이른바 '신천지 의혹'을 제기한 김민석 대표에 대해 중앙당 윤리심판원에 징계를 청원했습니다.\n\n김 대표는 지난 7월 당대표 경선에서 '반명·분열주의·신천지 3자 비밀연합' 의혹을 제기했지만, 당선 후 꾸린 당내 TF 조사에서 증거가 없었다며 이달 3일과 6일 잇따라 사과했습니다.\n\n그러나 청원인은 김 대표가 \"상대 후보와 당원들의 명예를 훼손하고 당을 분열시켰다\"며 \"당원의 선택과 경선의 공정성을 훼손한 책임\"을 물어 엄정 징계해야 한다고 주장했습니다.\n\n당 윤리심판원은 조만간 김 대표에 대한 징계 심사 개시 여부를 결정할 것으로 보입니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n강은나래(rae@yna.co.kr)",
-          "content:encodedSnippet": "더불어민주당의 한 권리당원이 당대표 경선 과정에서 이른바 '신천지 의혹'을 제기한 김민석 대표에 대해 중앙당 윤리심판원에 징계를 청원했습니다.\n\n김 대표는 지난 7월 당대표 경선에서 '반명·분열주의·신천지 3자 비밀연합' 의혹을 제기했지만, 당선 후 꾸린 당내 TF 조사에서 증거가 없었다며 이달 3일과 6일 잇따라 사과했습니다.\n\n그러나 청원인은 김 대표가 \"상대 후보와 당원들의 명예를 훼손하고 당을 분열시켰다\"며 \"당원의 선택과 경선의 공정성을 훼손한 책임\"을 물어 엄정 징계해야 한다고 주장했습니다.\n\n당 윤리심판원은 조만간 김 대표에 대한 징계 심사 개시 여부를 결정할 것으로 보입니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n강은나래(rae@yna.co.kr)",
+          "creator": "강서연",
+          "title": "어느덧 빼빼로 데이…어른들은 모르는 '빼난지원금' 무슨 뜻?",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261110173936oEF",
+          "pubDate": "Wed, 11 Nov 2026 06:01:04 +0900",
+          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261110173936oEF_01_i.jpg\" alt=\"\"><span class=\"yna_title\">서울의 한 대형마트에 진열된 빼빼로.</span><span class=\"yna_caption\">[연합뉴스 자료사진. 재판매 및 DB 금지]</span><span class=\"yna_description\">[연합뉴스 자료사진. 재판매 및 DB 금지]</span></div>\n'11월 11일' 빼빼로 데이를 맞아 신조어 '빼난지원금'이 온라인상에서 화제를 모으고 있습니다.\n\n최근 방송인 유병재의 유튜브 채널에서 걸그룹 아일릿과 초등학생 팬이 대화하던 중 '빼난지원금'이란 신조어가 소개되면서 입소문을 탄 겁니다.\n\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261110173936oEF_02_i.jpg\" alt=\"\"><span class=\"yna_title\">신조어의 뜻을 듣고 놀란 걸그룹 아일릿 멤버 윤아(왼쪽)와 원희.</span><span class=\"yna_caption\">[사진=유병재 유튜브 채널 캡처]</span><span class=\"yna_description\">[사진=유병재 유튜브 채널 캡처]</span></div>\n이 초등학생은 빼난지원금에 대해 \"뻬뻬로 데이 때 빼빼로를 못 받은 사람에게 주는 빼빼로\"라고 설명해 웃음을 자아냈습니다.\n\n이를 접한 누리꾼들은 \"이 지원금은 어떻게 신청하면 되는 것이냐?\", \"지금은 나도 필요하다\" 등의 반응을 보이며 빼빼로를 받지 못한 이들의 아쉬움을 재치 있게 표현한 신조어에 공감했습니다.\n\n오늘(11일)은 우리나라 전통 떡인 가래떡을 나누는 '가래떡 데이'이기도 합니다.\n\n2006년부터 시작된 가래떡 데이는 매년 11월 11일 농업인의 날을 맞아 소중한 사람에게 가래떡을 선물하며 우리 쌀 소비에 관한 관심을 높이자는 취지로 마련됐습니다.\n\n#빼빼로 #빼빼로데이 #가래떡데이 #빼난지원금 #농업인의날\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n강서연(yeon03@yna.co.kr)",
+          "content:encodedSnippet": "서울의 한 대형마트에 진열된 빼빼로.[연합뉴스 자료사진. 재판매 및 DB 금지][연합뉴스 자료사진. 재판매 및 DB 금지]\n신조어의 뜻을 듣고 놀란 걸그룹 아일릿 멤버 윤아(왼쪽)와 원희.[사진=유병재 유튜브 채널 캡처][사진=유병재 유튜브 채널 캡처]\n이 초등학생은 빼난지원금에 대해 \"뻬뻬로 데이 때 빼빼로를 못 받은 사람에게 주는 빼빼로\"라고 설명해 웃음을 자아냈습니다.\n\n이를 접한 누리꾼들은 \"이 지원금은 어떻게 신청하면 되는 것이냐?\", \"지금은 나도 필요하다\" 등의 반응을 보이며 빼빼로를 받지 못한 이들의 아쉬움을 재치 있게 표현한 신조어에 공감했습니다.\n\n오늘(11일)은 우리나라 전통 떡인 가래떡을 나누는 '가래떡 데이'이기도 합니다.\n\n2006년부터 시작된 가래떡 데이는 매년 11월 11일 농업인의 날을 맞아 소중한 사람에게 가래떡을 선물하며 우리 쌀 소비에 관한 관심을 높이자는 취지로 마련됐습니다.\n\n#빼빼로 #빼빼로데이 #가래떡데이 #빼난지원금 #농업인의날\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n강서연(yeon03@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261110/MYH20261111002503vaC.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261110173936oEF_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "강은나래",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261111002503vaC#comments",
-          "content": "더불어민주당의 한 권리당원이 당대표 경선 과정에서 이른바 '신천지 의혹'을 제기한 김민석 대표에 대해 중앙당 윤리심판원에 징계를 청원했습니다. 김 대표는 지난 7월 당대표 경선에서 '반명·분열주의·신천지 3자 비밀연합' 의혹을 제기했지만, 당선 후 꾸린 당내 TF 조사에서 증거가 없었다며 이달 3일과 6일 잇따라 사과했습니다. 그러나 청원인은 김 대표가 \"상대 후보와 당원들의 명예를 훼손하고 당을 분열시켰다\"며 \"당원의 선택과 경선의 공정...",
-          "contentSnippet": "더불어민주당의 한 권리당원이 당대표 경선 과정에서 이른바 '신천지 의혹'을 제기한 김민석 대표에 대해 중앙당 윤리심판원에 징계를 청원했습니다. 김 대표는 지난 7월 당대표 경선에서 '반명·분열주의·신천지 3자 비밀연합' 의혹을 제기했지만, 당선 후 꾸린 당내 TF 조사에서 증거가 없었다며 이달 3일과 6일 잇따라 사과했습니다. 그러나 청원인은 김 대표가 \"상대 후보와 당원들의 명예를 훼손하고 당을 분열시켰다\"며 \"당원의 선택과 경선의 공정...",
-          "guid": "MYH20261111002503vaC",
+          "dc:creator": "강서연",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261110173936oEF#comments",
+          "content": "서울의 한 대형마트에 진열된 빼빼로.[연합뉴스 자료사진. 재판매 및 DB 금지][연합뉴스 자료사진. 재판매 및 DB 금지] '11월 11일' 빼빼로 데이를 맞아 신조어 '빼난지원금'이 온라인상에서 화제를 모으고 있습니다. 최근 방송인 유병재의 유튜브 채널에서 걸그룹 아일릿과 초등학생 팬이 대화하던 중 '빼난지원금'이란 신조어가 소개되면서 입소문을 탄 겁니다. 신조어의 뜻을 듣고 놀란 걸그룹 아일릿 멤버 윤아(왼쪽)와 원희.[사진=유병재 유...",
+          "contentSnippet": "서울의 한 대형마트에 진열된 빼빼로.[연합뉴스 자료사진. 재판매 및 DB 금지][연합뉴스 자료사진. 재판매 및 DB 금지] '11월 11일' 빼빼로 데이를 맞아 신조어 '빼난지원금'이 온라인상에서 화제를 모으고 있습니다. 최근 방송인 유병재의 유튜브 채널에서 걸그룹 아일릿과 초등학생 팬이 대화하던 중 '빼난지원금'이란 신조어가 소개되면서 입소문을 탄 겁니다. 신조어의 뜻을 듣고 놀란 걸그룹 아일릿 멤버 윤아(왼쪽)와 원희.[사진=유병재 유...",
+          "guid": "AKR20261110173936oEF",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-10T15:25:06.000Z"
-        },
-        {
-          "creator": "양현주",
-          "title": "한성숙 총리 \"관계성범죄 예방·보호체계 전면 점검\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261111001415Xm2",
-          "pubDate": "Wed, 11 Nov 2026 00:14:17 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261111001415Xm2_01_i.jpg\" alt=\"\"><span class=\"yna_title\">한성숙 국무총리 엑스 캡처</span><span class=\"yna_caption\"></span><span class=\"yna_description\"></span></div>\n\n한성숙 국무총리는 10일 \"폭력을 피해 일상을 포기해야 하는 사람이 더는 나오지 않도록 국가의 보호 체계를 전반적으로 돌아봐야 한다\"고 말했습니다.\n\n한 총리는 이날 자신의 엑스(X·옛 트위터)에 게재한 글에서 이같이 언급했습니다.\n\n그는 \"최근 잇따른 관계성범죄 사건에 무거운 책임감을 느낀다\"며 \"여러 차례 도움을 요청했음에도 피해자를 지키지 못했다\"고 말했습니다.\n\n이어 \"지난달 이재명 대통령께서는 '초안전사회 범정부 대응회의'를 주재하며 사후 대응에서 사전 예방으로의 전환을 강조했다\"며 \"정부는 위험 징후 조기 포착부터 가해자 관리와 제재, 피해자 보호와 재발 방지까지 아우르는 종합대책을 준비하고 있다\"고 소개했습니다.\n\n그러면서 \"긴급보호시설과 쉼터의 안전은 물론 생활환경까지 세심하게 살펴야 한다\"며 \"피해자가 위험에서 벗어난 뒤에도 안심하고 머물 수 있어야 한다\"고 강조했습니다.\n\n그는 \"오늘은 오랫동안 피해자 곁을 지켜온 지원단체 관계자들과 전문가들을 만나 현장의 어려움을 들었다\"며 \"도움을 청하는 순간부터 일상을 되찾을 때까지 국가의 보호가 이어지도록 끝까지 챙기겠다\"고 약속했습니다.\n\n#한성숙 #국무총리 #관계성범죄\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n양현주(yang@yna.co.kr)",
-          "content:encodedSnippet": "한성숙 국무총리 엑스 캡처\n\n한성숙 국무총리는 10일 \"폭력을 피해 일상을 포기해야 하는 사람이 더는 나오지 않도록 국가의 보호 체계를 전반적으로 돌아봐야 한다\"고 말했습니다.\n\n한 총리는 이날 자신의 엑스(X·옛 트위터)에 게재한 글에서 이같이 언급했습니다.\n\n그는 \"최근 잇따른 관계성범죄 사건에 무거운 책임감을 느낀다\"며 \"여러 차례 도움을 요청했음에도 피해자를 지키지 못했다\"고 말했습니다.\n\n이어 \"지난달 이재명 대통령께서는 '초안전사회 범정부 대응회의'를 주재하며 사후 대응에서 사전 예방으로의 전환을 강조했다\"며 \"정부는 위험 징후 조기 포착부터 가해자 관리와 제재, 피해자 보호와 재발 방지까지 아우르는 종합대책을 준비하고 있다\"고 소개했습니다.\n\n그러면서 \"긴급보호시설과 쉼터의 안전은 물론 생활환경까지 세심하게 살펴야 한다\"며 \"피해자가 위험에서 벗어난 뒤에도 안심하고 머물 수 있어야 한다\"고 강조했습니다.\n\n그는 \"오늘은 오랫동안 피해자 곁을 지켜온 지원단체 관계자들과 전문가들을 만나 현장의 어려움을 들었다\"며 \"도움을 청하는 순간부터 일상을 되찾을 때까지 국가의 보호가 이어지도록 끝까지 챙기겠다\"고 약속했습니다.\n\n#한성숙 #국무총리 #관계성범죄\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n양현주(yang@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261111001415Xm2_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "양현주",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261111001415Xm2#comments",
-          "content": "한성숙 국무총리 엑스 캡처 한성숙 국무총리는 10일 \"폭력을 피해 일상을 포기해야 하는 사람이 더는 나오지 않도록 국가의 보호 체계를 전반적으로 돌아봐야 한다\"고 말했습니다. 한 총리는 이날 자신의 엑스(X·옛 트위터)에 게재한 글에서 이같이 언급했습니다. 그는 \"최근 잇따른 관계성범죄 사건에 무거운 책임감을 느낀다\"며 \"여러 차례 도움을 요청했음에도 피해자를 지키지 못했다\"고 말했습니다. 이어 \"지난달 이재명 대통령께서는 '초안전사회 범...",
-          "contentSnippet": "한성숙 국무총리 엑스 캡처 한성숙 국무총리는 10일 \"폭력을 피해 일상을 포기해야 하는 사람이 더는 나오지 않도록 국가의 보호 체계를 전반적으로 돌아봐야 한다\"고 말했습니다. 한 총리는 이날 자신의 엑스(X·옛 트위터)에 게재한 글에서 이같이 언급했습니다. 그는 \"최근 잇따른 관계성범죄 사건에 무거운 책임감을 느낀다\"며 \"여러 차례 도움을 요청했음에도 피해자를 지키지 못했다\"고 말했습니다. 이어 \"지난달 이재명 대통령께서는 '초안전사회 범...",
-          "guid": "AKR20261111001415Xm2",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-10T15:14:17.000Z"
-        },
-        {
-          "creator": "양현주",
-          "title": "美 국방장관, 탄핵 추진에 \"정치적 쇼\" 반발",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261111000639C6N",
-          "pubDate": "Wed, 11 Nov 2026 00:06:40 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261111000639C6N_01_i.jpg\" alt=\"\"><span class=\"yna_title\">피트 헤그세스 국방장관</span><span class=\"yna_caption\"></span><span class=\"yna_description\"></span></div>\n\n피트 헤그세스 미국 국방부 장관이 자신에 대한 연방의회의 탄핵소추 표결을 두고 \"정치적 쇼\"라고 비판했습니다.\n\n헤그세스 장관은 현지시간 10일 기자회견에서 \"불만을 품고 패배한 한 하원의원이 시도하고 있는 것은 의회 감독도 아니고, 책임을 묻는 것도 아니다\"라며 이같이 밝혔습니다.\n\n앞서 공화당 내 반트럼프 인사인 토머스 매시 하원의원은 이란 전쟁의 절차적 위법성과 베네수엘라 군사작전 당시 마두로 전 대통령의 불법 납치 의혹 등을 이유로 탄핵소추안을 재발의했습니다.\n\n이에 헤그세스 장관은 \"미국의 250년 역사에서 합법적인 군사작전을 수행했다는 이유로 탄핵소추된 전쟁부 장관이나 국방부 장관은 단 한 명도 없었다\"며 단순한 정책적 이견일 뿐이라고 강조했습니다.\n\n헤그세스 장관에 대한 탄핵소추안은 하원 전체회의에서 이틀 내 표결을 강제하는 '우선 처리' 형태로 발의됐습니다.\n\n늦어도 11일에는 탄핵소추안 표결이 이뤄진다는 의미입니다.\n\n하원은 단순 과반 찬성표가 가결 요건이어서 이번 탄핵소추안은 통과될 가능성이 큰 상황입니다.\n\n#미국방장관 #피트헤그세스 #탄핵\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n양현주(yang@yna.co.kr)",
-          "content:encodedSnippet": "피트 헤그세스 국방장관\n\n피트 헤그세스 미국 국방부 장관이 자신에 대한 연방의회의 탄핵소추 표결을 두고 \"정치적 쇼\"라고 비판했습니다.\n\n헤그세스 장관은 현지시간 10일 기자회견에서 \"불만을 품고 패배한 한 하원의원이 시도하고 있는 것은 의회 감독도 아니고, 책임을 묻는 것도 아니다\"라며 이같이 밝혔습니다.\n\n앞서 공화당 내 반트럼프 인사인 토머스 매시 하원의원은 이란 전쟁의 절차적 위법성과 베네수엘라 군사작전 당시 마두로 전 대통령의 불법 납치 의혹 등을 이유로 탄핵소추안을 재발의했습니다.\n\n이에 헤그세스 장관은 \"미국의 250년 역사에서 합법적인 군사작전을 수행했다는 이유로 탄핵소추된 전쟁부 장관이나 국방부 장관은 단 한 명도 없었다\"며 단순한 정책적 이견일 뿐이라고 강조했습니다.\n\n헤그세스 장관에 대한 탄핵소추안은 하원 전체회의에서 이틀 내 표결을 강제하는 '우선 처리' 형태로 발의됐습니다.\n\n늦어도 11일에는 탄핵소추안 표결이 이뤄진다는 의미입니다.\n\n하원은 단순 과반 찬성표가 가결 요건이어서 이번 탄핵소추안은 통과될 가능성이 큰 상황입니다.\n\n#미국방장관 #피트헤그세스 #탄핵\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n양현주(yang@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261111000639C6N_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "양현주",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261111000639C6N#comments",
-          "content": "피트 헤그세스 국방장관 피트 헤그세스 미국 국방부 장관이 자신에 대한 연방의회의 탄핵소추 표결을 두고 \"정치적 쇼\"라고 비판했습니다. 헤그세스 장관은 현지시간 10일 기자회견에서 \"불만을 품고 패배한 한 하원의원이 시도하고 있는 것은 의회 감독도 아니고, 책임을 묻는 것도 아니다\"라며 이같이 밝혔습니다. 앞서 공화당 내 반트럼프 인사인 토머스 매시 하원의원은 이란 전쟁의 절차적 위법성과 베네수엘라 군사작전 당시 마두로 전 대통령의 불법 납...",
-          "contentSnippet": "피트 헤그세스 국방장관 피트 헤그세스 미국 국방부 장관이 자신에 대한 연방의회의 탄핵소추 표결을 두고 \"정치적 쇼\"라고 비판했습니다. 헤그세스 장관은 현지시간 10일 기자회견에서 \"불만을 품고 패배한 한 하원의원이 시도하고 있는 것은 의회 감독도 아니고, 책임을 묻는 것도 아니다\"라며 이같이 밝혔습니다. 앞서 공화당 내 반트럼프 인사인 토머스 매시 하원의원은 이란 전쟁의 절차적 위법성과 베네수엘라 군사작전 당시 마두로 전 대통령의 불법 납...",
-          "guid": "AKR20261111000639C6N",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-10T15:06:40.000Z"
-        },
-        {
-          "creator": "장보경",
-          "title": "조현, 루비오와 G7서 별도 환담…정상 간 합의 이행 협력",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261111000156LlJ",
-          "pubDate": "Wed, 11 Nov 2026 00:01:58 +0900",
-          "content:encoded": "조현 외교부 장관이 프랑스 파리에서 열린 주요 7개국(G7) 외교장관회의 계기에 마코 루비오 미국 국무장관과 환담을 가졌습니다.\n\n외교부에 따르면, 현지시간 10일 이뤄진 환담에서 양측은 한미관계 전반과 고위급 교류, 북한 문제 등에 대해 의견을 교환했습니다.\n\n아울러 정상 간 합의 사항의 진전을 포함해 양국 관계의 지속적인 발전을 위해 긴밀히 협력하기로 했습니다.\n\n이번 환담은 미국 중간선거 이후 첫 대면으로, 두 장관은 지난달 30일 미국 애틀랜타에서 열린 주요 20개국 외교장관회의에서도 약식 환담을 한 바 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n장보경(jangbo@yna.co.kr)",
-          "content:encodedSnippet": "조현 외교부 장관이 프랑스 파리에서 열린 주요 7개국(G7) 외교장관회의 계기에 마코 루비오 미국 국무장관과 환담을 가졌습니다.\n\n외교부에 따르면, 현지시간 10일 이뤄진 환담에서 양측은 한미관계 전반과 고위급 교류, 북한 문제 등에 대해 의견을 교환했습니다.\n\n아울러 정상 간 합의 사항의 진전을 포함해 양국 관계의 지속적인 발전을 위해 긴밀히 협력하기로 했습니다.\n\n이번 환담은 미국 중간선거 이후 첫 대면으로, 두 장관은 지난달 30일 미국 애틀랜타에서 열린 주요 20개국 외교장관회의에서도 약식 환담을 한 바 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n장보경(jangbo@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261110/MYH20261111000156LlJ.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "장보경",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261111000156LlJ#comments",
-          "content": "조현 외교부 장관이 프랑스 파리에서 열린 주요 7개국(G7) 외교장관회의 계기에 마코 루비오 미국 국무장관과 환담을 가졌습니다. 외교부에 따르면, 현지시간 10일 이뤄진 환담에서 양측은 한미관계 전반과 고위급 교류, 북한 문제 등에 대해 의견을 교환했습니다. 아울러 정상 간 합의 사항의 진전을 포함해 양국 관계의 지속적인 발전을 위해 긴밀히 협력하기로 했습니다. 이번 환담은 미국 중간선거 이후 첫 대면으로, 두 장관은 지난달 30일 미국 ...",
-          "contentSnippet": "조현 외교부 장관이 프랑스 파리에서 열린 주요 7개국(G7) 외교장관회의 계기에 마코 루비오 미국 국무장관과 환담을 가졌습니다. 외교부에 따르면, 현지시간 10일 이뤄진 환담에서 양측은 한미관계 전반과 고위급 교류, 북한 문제 등에 대해 의견을 교환했습니다. 아울러 정상 간 합의 사항의 진전을 포함해 양국 관계의 지속적인 발전을 위해 긴밀히 협력하기로 했습니다. 이번 환담은 미국 중간선거 이후 첫 대면으로, 두 장관은 지난달 30일 미국 ...",
-          "guid": "MYH20261111000156LlJ",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-10T15:01:58.000Z"
-        },
-        {
-          "creator": "양현주",
-          "title": "美 10월 CPI 0.4%↑…'빅스텝' 가능성 부상",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261110235827rIM",
-          "pubDate": "Tue, 10 Nov 2026 23:58:28 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261110235827rIM_01_i.jpg\" alt=\"\"><span class=\"yna_title\">미국 로스앤젤레스의 한 식료품점에서 장을 보는 시민.</span><span class=\"yna_caption\">[EPA=연합뉴스 자료사진. 재판매 및 DB 금지]</span><span class=\"yna_description\">[EPA=연합뉴스 자료사진. 재판매 및 DB 금지]</span></div>\n\n미국의 소비자물가지수(CPI) 상승률이 시장 예상치를 웃돌면서 연방준비제도의 추가 긴축 가능성이 커지고 있습니다.\n\n미 노동부는 현지시간 10일, 10월 소비자물가지수가 전달보다 0.4% 상승했다고 밝혔습니다.\n\n시장 전망치인 0.3%를 웃돌았지만, 9월 상승률인 0.6%보다는 둔화한 수치입니다.\n\n변동성이 큰 식품과 에너지를 제외한 근원 소비자물가도 0.3% 올라 예상치인 0.2%를 웃돌았습니다.\n\n특히 주거비가 0.3%, 식품 가격이 0.5% 오르며 물가 상승을 주도했습니다.\n\n예상보다 강한 물가 압력에 시장에서는 연준이 다음 달 기준금리를 0.5%포인트 올리는 이른바 '빅스텝' 가능성까지 거론되고 있습니다.\n\n이날 시카고상품거래소(CME) 페드워치에 따르면 금리 선물시장은 12월 연준의 기준금리 인상 가능성을 100%로 반영했고, 이 가운데 0.5%포인트 인상 확률은 14.7%로 나타났습니다.\n\n\n#소비자물가지수 #시장전망치 #추가긴축 #빅스텝\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n양현주(yang@yna.co.kr)",
-          "content:encodedSnippet": "미국 로스앤젤레스의 한 식료품점에서 장을 보는 시민.[EPA=연합뉴스 자료사진. 재판매 및 DB 금지][EPA=연합뉴스 자료사진. 재판매 및 DB 금지]\n\n미국의 소비자물가지수(CPI) 상승률이 시장 예상치를 웃돌면서 연방준비제도의 추가 긴축 가능성이 커지고 있습니다.\n\n미 노동부는 현지시간 10일, 10월 소비자물가지수가 전달보다 0.4% 상승했다고 밝혔습니다.\n\n시장 전망치인 0.3%를 웃돌았지만, 9월 상승률인 0.6%보다는 둔화한 수치입니다.\n\n변동성이 큰 식품과 에너지를 제외한 근원 소비자물가도 0.3% 올라 예상치인 0.2%를 웃돌았습니다.\n\n특히 주거비가 0.3%, 식품 가격이 0.5% 오르며 물가 상승을 주도했습니다.\n\n예상보다 강한 물가 압력에 시장에서는 연준이 다음 달 기준금리를 0.5%포인트 올리는 이른바 '빅스텝' 가능성까지 거론되고 있습니다.\n\n이날 시카고상품거래소(CME) 페드워치에 따르면 금리 선물시장은 12월 연준의 기준금리 인상 가능성을 100%로 반영했고, 이 가운데 0.5%포인트 인상 확률은 14.7%로 나타났습니다.\n\n\n#소비자물가지수 #시장전망치 #추가긴축 #빅스텝\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n양현주(yang@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261110235827rIM_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "양현주",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261110235827rIM#comments",
-          "content": "미국 로스앤젤레스의 한 식료품점에서 장을 보는 시민.[EPA=연합뉴스 자료사진. 재판매 및 DB 금지][EPA=연합뉴스 자료사진. 재판매 및 DB 금지] 미국의 소비자물가지수(CPI) 상승률이 시장 예상치를 웃돌면서 연방준비제도의 추가 긴축 가능성이 커지고 있습니다. 미 노동부는 현지시간 10일, 10월 소비자물가지수가 전달보다 0.4% 상승했다고 밝혔습니다. 시장 전망치인 0.3%를 웃돌았지만, 9월 상승률인 0.6%보다는 둔화한 수치입...",
-          "contentSnippet": "미국 로스앤젤레스의 한 식료품점에서 장을 보는 시민.[EPA=연합뉴스 자료사진. 재판매 및 DB 금지][EPA=연합뉴스 자료사진. 재판매 및 DB 금지] 미국의 소비자물가지수(CPI) 상승률이 시장 예상치를 웃돌면서 연방준비제도의 추가 긴축 가능성이 커지고 있습니다. 미 노동부는 현지시간 10일, 10월 소비자물가지수가 전달보다 0.4% 상승했다고 밝혔습니다. 시장 전망치인 0.3%를 웃돌았지만, 9월 상승률인 0.6%보다는 둔화한 수치입...",
-          "guid": "AKR20261110235827rIM",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-10T14:58:28.000Z"
-        },
-        {
-          "creator": "장보경",
-          "title": "제주 해상 우주발사체 바지선서 작업하던 다이버 숨져",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261110233327G3l",
-          "pubDate": "Tue, 10 Nov 2026 23:33:30 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261110233327G3l_01_i.jpeg\" alt=\"\"><span class=\"yna_title\">서귀포해양경찰서</span><span class=\"yna_caption\">[서귀포해양경찰서 제공. 재판매 및 DB 금지]</span><span class=\"yna_description\">[서귀포해양경찰서 제공. 재판매 및 DB 금지]</span></div>\n\n제주 서귀포시 마라도 인근 해상의 우주발사체 바지선에서 수중작업을 하던 50대 남성 스쿠버다이버가 심정지 상태에 빠져 병원에 이송됐지만 숨졌습니다.\n\n오늘(10일) 제주소방안전본부와 서귀포해경 등에 따르면 이날 오후 4시 32분께 마라도 서쪽 약 5㎞ 해상서 바지선 수중작업을 하던 50대 남성 A씨가 심정지 상태에 빠졌다는 신고가 접수됐습니다.\n\nA씨는 우주발사체 바지선에서 체인을 끌어올리는 수중 작업 중 사고를 당한 것으로 전해졌습니다.\n\n소방당국과 해경은 사고 경위를 조사하고 있습니다.\n\n국방부는 \"사고를 매우 엄중하게 받아들이고 있다\"며 \"해경 및 관계당국이 정확한 사고 원인을 조사 중이며 한치의 소홀함이 없도록 적극 협조할 것\"이라고 밝혔습니다.\n\n아울러 \"해상에서 이뤄지는 관련 작업 전반에 대해 안전 실태를 면밀히 점검하고, 앞으로 유사 사고가 재발하지 않도록 안전 대책 강화에 최선을 다하겠다\"며 \"고인의 명복을 빌며 유가족에게 깊은 애도와 위로의 말씀을 드린다\"고 밝혔습니다.\n\n#국방부\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n장보경(jangbo@yna.co.kr)",
-          "content:encodedSnippet": "서귀포해양경찰서[서귀포해양경찰서 제공. 재판매 및 DB 금지][서귀포해양경찰서 제공. 재판매 및 DB 금지]\n\n제주 서귀포시 마라도 인근 해상의 우주발사체 바지선에서 수중작업을 하던 50대 남성 스쿠버다이버가 심정지 상태에 빠져 병원에 이송됐지만 숨졌습니다.\n\n오늘(10일) 제주소방안전본부와 서귀포해경 등에 따르면 이날 오후 4시 32분께 마라도 서쪽 약 5㎞ 해상서 바지선 수중작업을 하던 50대 남성 A씨가 심정지 상태에 빠졌다는 신고가 접수됐습니다.\n\nA씨는 우주발사체 바지선에서 체인을 끌어올리는 수중 작업 중 사고를 당한 것으로 전해졌습니다.\n\n소방당국과 해경은 사고 경위를 조사하고 있습니다.\n\n국방부는 \"사고를 매우 엄중하게 받아들이고 있다\"며 \"해경 및 관계당국이 정확한 사고 원인을 조사 중이며 한치의 소홀함이 없도록 적극 협조할 것\"이라고 밝혔습니다.\n\n아울러 \"해상에서 이뤄지는 관련 작업 전반에 대해 안전 실태를 면밀히 점검하고, 앞으로 유사 사고가 재발하지 않도록 안전 대책 강화에 최선을 다하겠다\"며 \"고인의 명복을 빌며 유가족에게 깊은 애도와 위로의 말씀을 드린다\"고 밝혔습니다.\n\n#국방부\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n장보경(jangbo@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261110233327G3l_01_i.jpeg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "장보경",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261110233327G3l#comments",
-          "content": "서귀포해양경찰서[서귀포해양경찰서 제공. 재판매 및 DB 금지][서귀포해양경찰서 제공. 재판매 및 DB 금지] 제주 서귀포시 마라도 인근 해상의 우주발사체 바지선에서 수중작업을 하던 50대 남성 스쿠버다이버가 심정지 상태에 빠져 병원에 이송됐지만 숨졌습니다. 오늘(10일) 제주소방안전본부와 서귀포해경 등에 따르면 이날 오후 4시 32분께 마라도 서쪽 약 5㎞ 해상서 바지선 수중작업을 하던 50대 남성 A씨가 심정지 상태에 빠졌다는 신고가 접...",
-          "contentSnippet": "서귀포해양경찰서[서귀포해양경찰서 제공. 재판매 및 DB 금지][서귀포해양경찰서 제공. 재판매 및 DB 금지] 제주 서귀포시 마라도 인근 해상의 우주발사체 바지선에서 수중작업을 하던 50대 남성 스쿠버다이버가 심정지 상태에 빠져 병원에 이송됐지만 숨졌습니다. 오늘(10일) 제주소방안전본부와 서귀포해경 등에 따르면 이날 오후 4시 32분께 마라도 서쪽 약 5㎞ 해상서 바지선 수중작업을 하던 50대 남성 A씨가 심정지 상태에 빠졌다는 신고가 접...",
-          "guid": "AKR20261110233327G3l",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-10T14:33:30.000Z"
+          "isoDate": "2026-11-10T21:01:04.000Z"
         },
         {
           "creator": "노수미",
-          "title": "[날씨] 아침 쌀쌀·한낮 온화…15도 안팎 큰 일교차",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261110233240HOq",
-          "pubDate": "Tue, 10 Nov 2026 23:32:41 +0900",
-          "content:encoded": "출근길에는 옷차림 따뜻하게 하셔야겠습니다.\n\n아침까지는 서울이 5도로 평년 기온을 밑돌겠고요.\n\n일부 지역은 영하권 추위가 이어지겠는데요.\n\n낮부터 점차 기온이 오르면서 추위가 물러나겠습니다.\n\n그만큼 크게 벌어지는 일교차는 염두에 두셔야겠습니다.\n\n지역별 기온 보시면 아침에 서울이 5도, 청주 3도, 대구도 3도로 출발하겠고요.\n\n내륙 곳곳은 서리가 내리거나, 얼음이 얼겠습니다.\n\n낮 기온은 서울과 대전이 16도, 전주와 대구가 17도까지 오겠습니다.\n\n오전까지 중부와 영남 내륙을 중심으로 가시거리 200m 미만의 짙은 안개가 끼겠습니다.\n\n기온이 낮은 일부 지역은 지면에 안개가 얼어붙어 도로 살얼음이 생길 수 있는데요.\n\n출근길 안전 운전하셔야겠습니다.\n\n안개가 걷히고 전국 하늘이 대체로 맑게 드러나겠는데요.\n\n중서부 지역은 국외 미세먼지가 유입되면서 밤 한때 미세먼지 농도가 짙겠습니다.\n\n바다의 물결은 제주 해상에서 최고 3m까지 높게 일겠습니다.\n\n경남 동해안과 제주 동부 해안에는 강한 너울이 밀려들겠습니다.\n\n해안가 안전사고에 유의하시기를 바랍니다.\n\n금요일에는 서울의 낮 기온이 20도에 다가서면서 포근하겠는데요.\n\n주말에 전국적으로 비구름이 지나간 뒤 다시 찬 바람이 불어들 전망입니다.\n\n지금까지 날씨였습니다.\n\n(권진영 기상캐스터)\n\n#날씨 #일교차 #아침쌀쌀 #짙은안개 #한낮온화 #중서부미세먼지\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
-          "content:encodedSnippet": "출근길에는 옷차림 따뜻하게 하셔야겠습니다.\n\n아침까지는 서울이 5도로 평년 기온을 밑돌겠고요.\n\n일부 지역은 영하권 추위가 이어지겠는데요.\n\n낮부터 점차 기온이 오르면서 추위가 물러나겠습니다.\n\n그만큼 크게 벌어지는 일교차는 염두에 두셔야겠습니다.\n\n지역별 기온 보시면 아침에 서울이 5도, 청주 3도, 대구도 3도로 출발하겠고요.\n\n내륙 곳곳은 서리가 내리거나, 얼음이 얼겠습니다.\n\n낮 기온은 서울과 대전이 16도, 전주와 대구가 17도까지 오겠습니다.\n\n오전까지 중부와 영남 내륙을 중심으로 가시거리 200m 미만의 짙은 안개가 끼겠습니다.\n\n기온이 낮은 일부 지역은 지면에 안개가 얼어붙어 도로 살얼음이 생길 수 있는데요.\n\n출근길 안전 운전하셔야겠습니다.\n\n안개가 걷히고 전국 하늘이 대체로 맑게 드러나겠는데요.\n\n중서부 지역은 국외 미세먼지가 유입되면서 밤 한때 미세먼지 농도가 짙겠습니다.\n\n바다의 물결은 제주 해상에서 최고 3m까지 높게 일겠습니다.\n\n경남 동해안과 제주 동부 해안에는 강한 너울이 밀려들겠습니다.\n\n해안가 안전사고에 유의하시기를 바랍니다.\n\n금요일에는 서울의 낮 기온이 20도에 다가서면서 포근하겠는데요.\n\n주말에 전국적으로 비구름이 지나간 뒤 다시 찬 바람이 불어들 전망입니다.\n\n지금까지 날씨였습니다.\n\n(권진영 기상캐스터)\n\n#날씨 #일교차 #아침쌀쌀 #짙은안개 #한낮온화 #중서부미세먼지\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
+          "title": "[날씨] 아침 쌀쌀·한낮 온화 큰 일교차…출근길 안개 유의",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261111055329UWZ",
+          "pubDate": "Wed, 11 Nov 2026 05:53:30 +0900",
+          "content:encoded": "요 며칠 초겨울처럼 추우셨죠.\n\n오늘 아침까지는 쌀쌀하겠지만, 낮부터는 추위가 한결 풀리겠습니다.\n\n서울과 대구, 광주의 아침 기온 5도 안팎으로 출발하겠고, 낮에는 따뜻한 서풍이 불어들면서 기온이 10도 이상 껑충 오르겠는데요.\n\n일교차가 큰 만큼 옷차림에 신경 써주셔야겠습니다.\n\n출근길에는 안개도 조심하셔야겠습니다.\n\n아침까지 전국 내륙에는 가시거리 1km 미만의 안개가 짙게 끼겠는데요.\n\n여기에 곳곳에 서리가 내리고 얼음이 어는 곳도 있겠습니다.\n\n안개가 걷히면 대체로 맑은 하늘이 드러나겠습니다.\n\n다만 밤에는 중서부 지역을 중심으로 미세먼지가 유입되면서 한때 공기가 탁해지겠는데요.\n\n자세한 기온도 보시면, 현재 서울은 4.8도, 춘천 영하 1.9도를 보이고 있고요.\n\n한낮에는 전주와 대구, 부산과 울산 18도까지 오르겠습니다.\n\n제주 해상에서는 물결이 최고 3m까지 높게 일겠고요.\n\n경남 동해안과 제주 동부 해안에는 너울이 강하게 밀려들겠습니다.\n\n금요일에는 서울의 낮 기온이 20도 가까이 올라 더 포근해지겠습니다.\n\n다만 주말에는 전국에 비가 내리겠고요.\n\n비가 그친 뒤에는 다시 찬 공기가 내려오며 부쩍 쌀쌀해질 전망입니다.\n\n지금까지 날씨였습니다.\n\n(이소연 기상캐스터)\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
+          "content:encodedSnippet": "요 며칠 초겨울처럼 추우셨죠.\n\n오늘 아침까지는 쌀쌀하겠지만, 낮부터는 추위가 한결 풀리겠습니다.\n\n서울과 대구, 광주의 아침 기온 5도 안팎으로 출발하겠고, 낮에는 따뜻한 서풍이 불어들면서 기온이 10도 이상 껑충 오르겠는데요.\n\n일교차가 큰 만큼 옷차림에 신경 써주셔야겠습니다.\n\n출근길에는 안개도 조심하셔야겠습니다.\n\n아침까지 전국 내륙에는 가시거리 1km 미만의 안개가 짙게 끼겠는데요.\n\n여기에 곳곳에 서리가 내리고 얼음이 어는 곳도 있겠습니다.\n\n안개가 걷히면 대체로 맑은 하늘이 드러나겠습니다.\n\n다만 밤에는 중서부 지역을 중심으로 미세먼지가 유입되면서 한때 공기가 탁해지겠는데요.\n\n자세한 기온도 보시면, 현재 서울은 4.8도, 춘천 영하 1.9도를 보이고 있고요.\n\n한낮에는 전주와 대구, 부산과 울산 18도까지 오르겠습니다.\n\n제주 해상에서는 물결이 최고 3m까지 높게 일겠고요.\n\n경남 동해안과 제주 동부 해안에는 너울이 강하게 밀려들겠습니다.\n\n금요일에는 서울의 낮 기온이 20도 가까이 올라 더 포근해지겠습니다.\n\n다만 주말에는 전국에 비가 내리겠고요.\n\n비가 그친 뒤에는 다시 찬 공기가 내려오며 부쩍 쌀쌀해질 전망입니다.\n\n지금까지 날씨였습니다.\n\n(이소연 기상캐스터)\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261110/MYH20261110233240HOq.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261110/MYH20261111055329UWZ.jpg",
             "type": "image/jpeg"
           },
           "dc:creator": "노수미",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261110233240HOq#comments",
-          "content": "출근길에는 옷차림 따뜻하게 하셔야겠습니다. 아침까지는 서울이 5도로 평년 기온을 밑돌겠고요. 일부 지역은 영하권 추위가 이어지겠는데요. 낮부터 점차 기온이 오르면서 추위가 물러나겠습니다. 그만큼 크게 벌어지는 일교차는 염두에 두셔야겠습니다. 지역별 기온 보시면 아침에 서울이 5도, 청주 3도, 대구도 3도로 출발하겠고요. 내륙 곳곳은 서리가 내리거나, 얼음이 얼겠습니다. 낮 기온은 서울과 대전이 16도, 전주와 대구가 17도까지 오겠습니다...",
-          "contentSnippet": "출근길에는 옷차림 따뜻하게 하셔야겠습니다. 아침까지는 서울이 5도로 평년 기온을 밑돌겠고요. 일부 지역은 영하권 추위가 이어지겠는데요. 낮부터 점차 기온이 오르면서 추위가 물러나겠습니다. 그만큼 크게 벌어지는 일교차는 염두에 두셔야겠습니다. 지역별 기온 보시면 아침에 서울이 5도, 청주 3도, 대구도 3도로 출발하겠고요. 내륙 곳곳은 서리가 내리거나, 얼음이 얼겠습니다. 낮 기온은 서울과 대전이 16도, 전주와 대구가 17도까지 오겠습니다...",
-          "guid": "MYH20261110233240HOq",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261111055329UWZ#comments",
+          "content": "요 며칠 초겨울처럼 추우셨죠. 오늘 아침까지는 쌀쌀하겠지만, 낮부터는 추위가 한결 풀리겠습니다. 서울과 대구, 광주의 아침 기온 5도 안팎으로 출발하겠고, 낮에는 따뜻한 서풍이 불어들면서 기온이 10도 이상 껑충 오르겠는데요. 일교차가 큰 만큼 옷차림에 신경 써주셔야겠습니다. 출근길에는 안개도 조심하셔야겠습니다. 아침까지 전국 내륙에는 가시거리 1km 미만의 안개가 짙게 끼겠는데요. 여기에 곳곳에 서리가 내리고 얼음이 어는 곳도 있겠습니다...",
+          "contentSnippet": "요 며칠 초겨울처럼 추우셨죠. 오늘 아침까지는 쌀쌀하겠지만, 낮부터는 추위가 한결 풀리겠습니다. 서울과 대구, 광주의 아침 기온 5도 안팎으로 출발하겠고, 낮에는 따뜻한 서풍이 불어들면서 기온이 10도 이상 껑충 오르겠는데요. 일교차가 큰 만큼 옷차림에 신경 써주셔야겠습니다. 출근길에는 안개도 조심하셔야겠습니다. 아침까지 전국 내륙에는 가시거리 1km 미만의 안개가 짙게 끼겠는데요. 여기에 곳곳에 서리가 내리고 얼음이 어는 곳도 있겠습니다...",
+          "guid": "MYH20261111055329UWZ",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-10T14:32:41.000Z"
+          "isoDate": "2026-11-10T20:53:30.000Z"
         },
         {
-          "creator": "이초원",
-          "title": "[오늘의영상] 스페인 축구 대표팀, '경기 중 사망' 데 미겔 추모",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261110233200w6r",
-          "pubDate": "Tue, 10 Nov 2026 23:32:02 +0900",
-          "content:encoded": "경기 도중 상대 골키퍼와 부딪혀 끝내 숨진 헤수스 데 미겔의 이름이 스페인 국가대표 유니폼에 새겨졌습니다.\n\n스페인 대표팀이 A매치 첫 훈련 전, 데 미겔을 추모하는 마음으로 준비한 건데요.\n\n오늘의 영상에서 확인하시죠.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이초원(grass@yna.co.kr)",
-          "content:encodedSnippet": "경기 도중 상대 골키퍼와 부딪혀 끝내 숨진 헤수스 데 미겔의 이름이 스페인 국가대표 유니폼에 새겨졌습니다.\n\n스페인 대표팀이 A매치 첫 훈련 전, 데 미겔을 추모하는 마음으로 준비한 건데요.\n\n오늘의 영상에서 확인하시죠.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이초원(grass@yna.co.kr)",
+          "creator": "손성훈",
+          "title": "[이 시각 핫뉴스] 황우석 \"韓 국적 회복 신청…법무부 심사 기다려\" 外",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH2026111105530728E",
+          "pubDate": "Wed, 11 Nov 2026 05:53:08 +0900",
+          "content:encoded": "수요일 아침 이시각 핫뉴스입니다.\n\n연합뉴스TV 기사 중 온라인에서 누리꾼들이 가장 많이 본 상위권 뉴스들 지금 바로 알아보겠습니다.\n\n▶ 황우석 \"韓 국적 회복 신청…법무부 심사 기다려\n\n먼저 20위 중 5위를 차지한 기사인데요.\n\n줄기세포 논문 조작 사건으로 논란을 빚은 황우석 전 서울대 교수가 아랍에미리트 국적을 갑작스럽게 취득한 뒤 한국 국적 회복을 신청해 결과를 기다리고 있다고 밝혔습니다.\n\n자세한 내용, 기사로 확인해 보시죠.\n\n현재 UAE 바이오테크 연구소의 최고경영자로 활동하는 황 전 교수는 어제 인터뷰에서 “한국 국적 회복을 신청했고, 법무부 심사 결과를 기다리고 있다”고 말했는데요.\n\nUAE 국적을 부여받은 당일 UAE 한국 대사관에 이를 알려 국적 상실 신고를 했고, 이후 대사관 측의 안내에 따라 한국 국적 회복 신청을 했다고 밝혔습니다.\n\n앞서 황 전 교수는 2005년 세계 최초로 인간 배아줄기세포 추출과 배양에 성공했다는 연구 논문을 발표하며 전세계의 주목을 받았지만, 이 논문이 조작된 것으로 알려지며 큰 파장을 불러온 바 있습니다.\n\n▶ 대체 무슨 꿈?…부부, 길몽에 10억 복권 당첨\n\n이제 다음 소식으로 넘어가 보겠습니다.\n\n20위 중 7위를 차지한 기사인데요.\n\n복권 1등에 당첨되는 꿈을 꾼 뒤 즉석복권을 산 부부가 나란히 10억 원씩, 총 20억원에 당첨된 사연이 전해졌습니다.\n\n기사 열어서 확인해 보시죠.\n\n부부가 당첨된 복권 실물 사진인데요. ‘스피또2000 70회차’ 1등 당첨자 A씨는 “꿈에서 로또와 스피또 1등에 당첨됐다”며 “배우자에게 다음날 꿈 이야기를 들려주고 함께 복권을 구매했다고 설명했습니다.\n\nA씨는 총 2만원 어치를 구매했는데, 먼저 긁은 복권에서 1등 당첨금 10억원이 나왔고, 배우자가 가진 다른 한 장에서도 또 1등 당첨이 나온 건데요.\n\nA씨는 “더욱 착실하게 살겠다”며 “꿈에서 일어났던 일이 현실이 된 게 아직도 믿기지 않는다”고 소감을 밝혔습니다.\n\n▶ 삼성 우승에 때아닌 '우승 신문' 구매 경쟁\n\n마지막 기사로 넘어가 보시죠.\n\n10위를 차지한 기사입니다.\n\n지난 8일 프로야구 삼성 라이온즈가 12년 만에 한국시리즈 정상에 오른 가운데, 우승 소식이 실린 종이신문을 구하려는 팬들이 편의점과 가판대를 돌고 있습니다.\n\n기사로 확인해보겠습니다.\n\n삼성의 우승 이후 각종 온라인 커뮤니티에는 신문을 손에 넣었다는 인증 글이 잇따라 올라오고 있습니다.\n\n중고거래 플랫폼에는 수만 원짜리 매물까지 등장했는데요.\n\n한 팬은 “편의점 총 67곳을 돌아서 7부 구했다”며 신문을 구하는 과정 자체가 온라인상에서 하나의 놀이처럼 공유되고 있습니다.\n\n지금까지 이시각 핫뉴스였습니다.\n\n[화면출처 네이버]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n손성훈(sunghun906@yna.co.kr)",
+          "content:encodedSnippet": "수요일 아침 이시각 핫뉴스입니다.\n\n연합뉴스TV 기사 중 온라인에서 누리꾼들이 가장 많이 본 상위권 뉴스들 지금 바로 알아보겠습니다.\n\n▶ 황우석 \"韓 국적 회복 신청…법무부 심사 기다려\n\n먼저 20위 중 5위를 차지한 기사인데요.\n\n줄기세포 논문 조작 사건으로 논란을 빚은 황우석 전 서울대 교수가 아랍에미리트 국적을 갑작스럽게 취득한 뒤 한국 국적 회복을 신청해 결과를 기다리고 있다고 밝혔습니다.\n\n자세한 내용, 기사로 확인해 보시죠.\n\n현재 UAE 바이오테크 연구소의 최고경영자로 활동하는 황 전 교수는 어제 인터뷰에서 “한국 국적 회복을 신청했고, 법무부 심사 결과를 기다리고 있다”고 말했는데요.\n\nUAE 국적을 부여받은 당일 UAE 한국 대사관에 이를 알려 국적 상실 신고를 했고, 이후 대사관 측의 안내에 따라 한국 국적 회복 신청을 했다고 밝혔습니다.\n\n앞서 황 전 교수는 2005년 세계 최초로 인간 배아줄기세포 추출과 배양에 성공했다는 연구 논문을 발표하며 전세계의 주목을 받았지만, 이 논문이 조작된 것으로 알려지며 큰 파장을 불러온 바 있습니다.\n\n▶ 대체 무슨 꿈?…부부, 길몽에 10억 복권 당첨\n\n이제 다음 소식으로 넘어가 보겠습니다.\n\n20위 중 7위를 차지한 기사인데요.\n\n복권 1등에 당첨되는 꿈을 꾼 뒤 즉석복권을 산 부부가 나란히 10억 원씩, 총 20억원에 당첨된 사연이 전해졌습니다.\n\n기사 열어서 확인해 보시죠.\n\n부부가 당첨된 복권 실물 사진인데요. ‘스피또2000 70회차’ 1등 당첨자 A씨는 “꿈에서 로또와 스피또 1등에 당첨됐다”며 “배우자에게 다음날 꿈 이야기를 들려주고 함께 복권을 구매했다고 설명했습니다.\n\nA씨는 총 2만원 어치를 구매했는데, 먼저 긁은 복권에서 1등 당첨금 10억원이 나왔고, 배우자가 가진 다른 한 장에서도 또 1등 당첨이 나온 건데요.\n\nA씨는 “더욱 착실하게 살겠다”며 “꿈에서 일어났던 일이 현실이 된 게 아직도 믿기지 않는다”고 소감을 밝혔습니다.\n\n▶ 삼성 우승에 때아닌 '우승 신문' 구매 경쟁\n\n마지막 기사로 넘어가 보시죠.\n\n10위를 차지한 기사입니다.\n\n지난 8일 프로야구 삼성 라이온즈가 12년 만에 한국시리즈 정상에 오른 가운데, 우승 소식이 실린 종이신문을 구하려는 팬들이 편의점과 가판대를 돌고 있습니다.\n\n기사로 확인해보겠습니다.\n\n삼성의 우승 이후 각종 온라인 커뮤니티에는 신문을 손에 넣었다는 인증 글이 잇따라 올라오고 있습니다.\n\n중고거래 플랫폼에는 수만 원짜리 매물까지 등장했는데요.\n\n한 팬은 “편의점 총 67곳을 돌아서 7부 구했다”며 신문을 구하는 과정 자체가 온라인상에서 하나의 놀이처럼 공유되고 있습니다.\n\n지금까지 이시각 핫뉴스였습니다.\n\n[화면출처 네이버]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n손성훈(sunghun906@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261110/MYH20261110233200w6r.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261110/MYH2026111105530728E.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "이초원",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261110233200w6r#comments",
-          "content": "경기 도중 상대 골키퍼와 부딪혀 끝내 숨진 헤수스 데 미겔의 이름이 스페인 국가대표 유니폼에 새겨졌습니다. 스페인 대표팀이 A매치 첫 훈련 전, 데 미겔을 추모하는 마음으로 준비한 건데요. 오늘의 영상에서 확인하시죠. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 이초원(grass@yna.co.kr)",
-          "contentSnippet": "경기 도중 상대 골키퍼와 부딪혀 끝내 숨진 헤수스 데 미겔의 이름이 스페인 국가대표 유니폼에 새겨졌습니다. 스페인 대표팀이 A매치 첫 훈련 전, 데 미겔을 추모하는 마음으로 준비한 건데요. 오늘의 영상에서 확인하시죠. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 이초원(grass@yna.co.kr)",
-          "guid": "MYH20261110233200w6r",
+          "dc:creator": "손성훈",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH2026111105530728E#comments",
+          "content": "수요일 아침 이시각 핫뉴스입니다. 연합뉴스TV 기사 중 온라인에서 누리꾼들이 가장 많이 본 상위권 뉴스들 지금 바로 알아보겠습니다. ▶ 황우석 \"韓 국적 회복 신청…법무부 심사 기다려 먼저 20위 중 5위를 차지한 기사인데요. 줄기세포 논문 조작 사건으로 논란을 빚은 황우석 전 서울대 교수가 아랍에미리트 국적을 갑작스럽게 취득한 뒤 한국 국적 회복을 신청해 결과를 기다리고 있다고 밝혔습니다. 자세한 내용, 기사로 확인해 보시죠. 현재 UA...",
+          "contentSnippet": "수요일 아침 이시각 핫뉴스입니다. 연합뉴스TV 기사 중 온라인에서 누리꾼들이 가장 많이 본 상위권 뉴스들 지금 바로 알아보겠습니다. ▶ 황우석 \"韓 국적 회복 신청…법무부 심사 기다려 먼저 20위 중 5위를 차지한 기사인데요. 줄기세포 논문 조작 사건으로 논란을 빚은 황우석 전 서울대 교수가 아랍에미리트 국적을 갑작스럽게 취득한 뒤 한국 국적 회복을 신청해 결과를 기다리고 있다고 밝혔습니다. 자세한 내용, 기사로 확인해 보시죠. 현재 UA...",
+          "guid": "MYH2026111105530728E",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-10T14:32:02.000Z"
+          "isoDate": "2026-11-10T20:53:08.000Z"
+        },
+        {
+          "creator": "김보나",
+          "title": "프랑스 \"슈퍼마켓 냉장고 공격은 이란 소행\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261111055229zJi",
+          "pubDate": "Wed, 11 Nov 2026 05:52:30 +0900",
+          "content:encoded": "[앵커]\n\n프랑스 전역의 슈퍼마켓을 마비시킨 냉장고 해킹 공격이 이란 군부의 소행이라고 프랑스 정부가 밝혔습니다.\n\n유럽 차원의 대응을 경고하면서 강력한 제재에 착수할 것임을 예고했습니다.\n\n김보나 PD입니다.\n\n[앵커]\n\n진열대 안이 텅 비고, 냉동식품들이 쓰레기통에 버려집니다.\n\n지난달 중순, 프랑스 전국의 슈퍼마켓 냉장고 온도가 50도 이상으로 치솟는 사이버 공격이 벌어졌습니다.\n\n피해를 본 점포만 700여 곳.\n\n당초 러시아 공격 가능성도 제기됐지만, 확실한 증거는 나오지 않았습니다.\n\n프랑스 당국은 한 달간의 조사 끝에, 냉장고 해킹 공격의 배후가 이란 이슬람혁명수비대라고 지목했습니다.\n\n&lt;장노엘 바로 / 프랑스 외무장관&gt; \"이번 공격은 전례 없는 규모와 공격성을 띠고 있습니다. 프랑스 영토 파괴 공작을 목적으로 벌어진 최초의 대규모 사이버 공격입니다.\"\n\n그러면서 유럽 차원의 강경 대응을 예고했습니다.\n\n&lt;장노엘 바로 / 프랑스 외무장관&gt; \"이번 공격의 모든 책임자를 대상으로 유럽 차원의 제재를 취할 것이며, 공개적이든 비공개적이든 필요한 모든 조치를 취할 것입니다.\"\n\n프랑스 외무부는 이란 대사를 불러 강력 항의했습니다.\n\n파리검찰청은 공격 주체를 혁명수비대와 연계된 사이버 공격 부대인 '샤히드 카베'로 특정하고, 수장과 그의 수하 2명에 대한 수사에 착수했습니다.\n\n연합뉴스TV 김보나입니다.\n\n[영상편집 박수경]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김보나(bonamana@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n프랑스 전역의 슈퍼마켓을 마비시킨 냉장고 해킹 공격이 이란 군부의 소행이라고 프랑스 정부가 밝혔습니다.\n\n유럽 차원의 대응을 경고하면서 강력한 제재에 착수할 것임을 예고했습니다.\n\n김보나 PD입니다.\n\n[앵커]\n\n진열대 안이 텅 비고, 냉동식품들이 쓰레기통에 버려집니다.\n\n지난달 중순, 프랑스 전국의 슈퍼마켓 냉장고 온도가 50도 이상으로 치솟는 사이버 공격이 벌어졌습니다.\n\n피해를 본 점포만 700여 곳.\n\n당초 러시아 공격 가능성도 제기됐지만, 확실한 증거는 나오지 않았습니다.\n\n프랑스 당국은 한 달간의 조사 끝에, 냉장고 해킹 공격의 배후가 이란 이슬람혁명수비대라고 지목했습니다.\n\n<장노엘 바로 / 프랑스 외무장관> \"이번 공격은 전례 없는 규모와 공격성을 띠고 있습니다. 프랑스 영토 파괴 공작을 목적으로 벌어진 최초의 대규모 사이버 공격입니다.\"\n\n그러면서 유럽 차원의 강경 대응을 예고했습니다.\n\n<장노엘 바로 / 프랑스 외무장관> \"이번 공격의 모든 책임자를 대상으로 유럽 차원의 제재를 취할 것이며, 공개적이든 비공개적이든 필요한 모든 조치를 취할 것입니다.\"\n\n프랑스 외무부는 이란 대사를 불러 강력 항의했습니다.\n\n파리검찰청은 공격 주체를 혁명수비대와 연계된 사이버 공격 부대인 '샤히드 카베'로 특정하고, 수장과 그의 수하 2명에 대한 수사에 착수했습니다.\n\n연합뉴스TV 김보나입니다.\n\n[영상편집 박수경]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김보나(bonamana@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261110/MYH20261111055229zJi.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "김보나",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261111055229zJi#comments",
+          "content": "[앵커] 프랑스 전역의 슈퍼마켓을 마비시킨 냉장고 해킹 공격이 이란 군부의 소행이라고 프랑스 정부가 밝혔습니다. 유럽 차원의 대응을 경고하면서 강력한 제재에 착수할 것임을 예고했습니다. 김보나 PD입니다. [앵커] 진열대 안이 텅 비고, 냉동식품들이 쓰레기통에 버려집니다. 지난달 중순, 프랑스 전국의 슈퍼마켓 냉장고 온도가 50도 이상으로 치솟는 사이버 공격이 벌어졌습니다. 피해를 본 점포만 700여 곳. 당초 러시아 공격 가능성도 제기됐...",
+          "contentSnippet": "[앵커] 프랑스 전역의 슈퍼마켓을 마비시킨 냉장고 해킹 공격이 이란 군부의 소행이라고 프랑스 정부가 밝혔습니다. 유럽 차원의 대응을 경고하면서 강력한 제재에 착수할 것임을 예고했습니다. 김보나 PD입니다. [앵커] 진열대 안이 텅 비고, 냉동식품들이 쓰레기통에 버려집니다. 지난달 중순, 프랑스 전국의 슈퍼마켓 냉장고 온도가 50도 이상으로 치솟는 사이버 공격이 벌어졌습니다. 피해를 본 점포만 700여 곳. 당초 러시아 공격 가능성도 제기됐...",
+          "guid": "MYH20261111055229zJi",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-10T20:52:30.000Z"
+        },
+        {
+          "creator": "김예린",
+          "title": "레바논 주둔 유엔평화유지군 \"순찰 대원 총격 받아\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261111055022Dks",
+          "pubDate": "Wed, 11 Nov 2026 05:50:23 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261111055022Dks_01_i.jpg\" alt=\"\"><span class=\"yna_title\">레바논 남부 지역을 순찰하는 유엔 평화유지군 차량</span><span class=\"yna_caption\">[AFP=연합뉴스 제공]</span><span class=\"yna_description\">[AFP=연합뉴스 제공]</span></div>\n레바논 남부에 주둔하는 유엔평화유지군(UNIFIL)이 일상적인 순찰 임무를 수행하던 중 총격을 받았다고 밝혔습니다.\n\nUNIFIL에 따르면 현지 시간 10일 이스라엘군의 완충 지대 외곽이자 남부 도시 티르 동쪽에 위치한 와디 질루 인근을 순찰하던 병력을 향해 약 10발의 총탄이 날아들었습니다.\n\nUNIFIL은 \"총구가 번쩍이는 것을 식별한 후 순찰대가 즉각 응사했다\"며, 이후 신원 미상의 총격범이 사격을 멈췄다고 설명했습니다.\n\n이번 교전으로 부상한 평화유지군 대원은 없는 것으로 확인됐습니다.\n\nUNIFIL은 레바논 정부를 향해 \"신속히 조사에 착수해 가해자의 신원을 파악하고 책임을 물어야 한다\"고 촉구했습니다.\n\n수십 년간 레바논 남부에 주둔하며 평화유지 임무를 수행해 온 유엔 평화유지군 병력은 올 연말 철수를 앞두고 있습니다.\n\n\n#레바논 #유엔평화유지군 #총격\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김예린(yey@yna.co.kr)",
+          "content:encodedSnippet": "레바논 남부 지역을 순찰하는 유엔 평화유지군 차량[AFP=연합뉴스 제공][AFP=연합뉴스 제공]\n레바논 남부에 주둔하는 유엔평화유지군(UNIFIL)이 일상적인 순찰 임무를 수행하던 중 총격을 받았다고 밝혔습니다.\n\nUNIFIL에 따르면 현지 시간 10일 이스라엘군의 완충 지대 외곽이자 남부 도시 티르 동쪽에 위치한 와디 질루 인근을 순찰하던 병력을 향해 약 10발의 총탄이 날아들었습니다.\n\nUNIFIL은 \"총구가 번쩍이는 것을 식별한 후 순찰대가 즉각 응사했다\"며, 이후 신원 미상의 총격범이 사격을 멈췄다고 설명했습니다.\n\n이번 교전으로 부상한 평화유지군 대원은 없는 것으로 확인됐습니다.\n\nUNIFIL은 레바논 정부를 향해 \"신속히 조사에 착수해 가해자의 신원을 파악하고 책임을 물어야 한다\"고 촉구했습니다.\n\n수십 년간 레바논 남부에 주둔하며 평화유지 임무를 수행해 온 유엔 평화유지군 병력은 올 연말 철수를 앞두고 있습니다.\n\n\n#레바논 #유엔평화유지군 #총격\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김예린(yey@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261110/AKR20261111055022Dks_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "김예린",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261111055022Dks#comments",
+          "content": "레바논 남부 지역을 순찰하는 유엔 평화유지군 차량[AFP=연합뉴스 제공][AFP=연합뉴스 제공] 레바논 남부에 주둔하는 유엔평화유지군(UNIFIL)이 일상적인 순찰 임무를 수행하던 중 총격을 받았다고 밝혔습니다. UNIFIL에 따르면 현지 시간 10일 이스라엘군의 완충 지대 외곽이자 남부 도시 티르 동쪽에 위치한 와디 질루 인근을 순찰하던 병력을 향해 약 10발의 총탄이 날아들었습니다. UNIFIL은 \"총구가 번쩍이는 것을 식별한 후 순찰...",
+          "contentSnippet": "레바논 남부 지역을 순찰하는 유엔 평화유지군 차량[AFP=연합뉴스 제공][AFP=연합뉴스 제공] 레바논 남부에 주둔하는 유엔평화유지군(UNIFIL)이 일상적인 순찰 임무를 수행하던 중 총격을 받았다고 밝혔습니다. UNIFIL에 따르면 현지 시간 10일 이스라엘군의 완충 지대 외곽이자 남부 도시 티르 동쪽에 위치한 와디 질루 인근을 순찰하던 병력을 향해 약 10발의 총탄이 날아들었습니다. UNIFIL은 \"총구가 번쩍이는 것을 식별한 후 순찰...",
+          "guid": "AKR20261111055022Dks",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-10T20:50:23.000Z"
+        },
+        {
+          "creator": "장보경",
+          "title": "젤렌스키, 3자 종전협상에 \"건설적·실질적\" 평가",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261111055011YAl",
+          "pubDate": "Wed, 11 Nov 2026 05:50:12 +0900",
+          "content:encoded": "미국의 중재로 9개월 만에 재개된 러시아·우크라이나 간 종전협상에서 포로 석방, 우크라이나 안전 보장 방안 등이 논의된 것으로 전해졌습니다.\n\n로이터 등 외신에 따르면 현지시간 10일 오전 시작된 종전협상은 한차례 휴식 시간을 포함해 4시간여 진행된 뒤 종료됐습니다.\n\n볼로디미르 젤렌스키 우크라이나 대통령은 \"논의가 건설적이었고 상당히 실질적이었다\"고 평가했습니다.\n\n양측은 포로 석방을 포함한 인도주의 조치로 논의를 시작했으며 우크라이나 안전 보장 방안과 긴장 완화 조치의 필요성도 의제로 올랐다고 젤렌스키 대통령은 전했습니다.\n\n러시아 측은 이날 협상과 관련된 평가를 내놓지 않았습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n장보경(jangbo@yna.co.kr)",
+          "content:encodedSnippet": "미국의 중재로 9개월 만에 재개된 러시아·우크라이나 간 종전협상에서 포로 석방, 우크라이나 안전 보장 방안 등이 논의된 것으로 전해졌습니다.\n\n로이터 등 외신에 따르면 현지시간 10일 오전 시작된 종전협상은 한차례 휴식 시간을 포함해 4시간여 진행된 뒤 종료됐습니다.\n\n볼로디미르 젤렌스키 우크라이나 대통령은 \"논의가 건설적이었고 상당히 실질적이었다\"고 평가했습니다.\n\n양측은 포로 석방을 포함한 인도주의 조치로 논의를 시작했으며 우크라이나 안전 보장 방안과 긴장 완화 조치의 필요성도 의제로 올랐다고 젤렌스키 대통령은 전했습니다.\n\n러시아 측은 이날 협상과 관련된 평가를 내놓지 않았습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n장보경(jangbo@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261110/MYH20261111055011YAl.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "장보경",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261111055011YAl#comments",
+          "content": "미국의 중재로 9개월 만에 재개된 러시아·우크라이나 간 종전협상에서 포로 석방, 우크라이나 안전 보장 방안 등이 논의된 것으로 전해졌습니다. 로이터 등 외신에 따르면 현지시간 10일 오전 시작된 종전협상은 한차례 휴식 시간을 포함해 4시간여 진행된 뒤 종료됐습니다. 볼로디미르 젤렌스키 우크라이나 대통령은 \"논의가 건설적이었고 상당히 실질적이었다\"고 평가했습니다. 양측은 포로 석방을 포함한 인도주의 조치로 논의를 시작했으며 우크라이나 안전 ...",
+          "contentSnippet": "미국의 중재로 9개월 만에 재개된 러시아·우크라이나 간 종전협상에서 포로 석방, 우크라이나 안전 보장 방안 등이 논의된 것으로 전해졌습니다. 로이터 등 외신에 따르면 현지시간 10일 오전 시작된 종전협상은 한차례 휴식 시간을 포함해 4시간여 진행된 뒤 종료됐습니다. 볼로디미르 젤렌스키 우크라이나 대통령은 \"논의가 건설적이었고 상당히 실질적이었다\"고 평가했습니다. 양측은 포로 석방을 포함한 인도주의 조치로 논의를 시작했으며 우크라이나 안전 ...",
+          "guid": "MYH20261111055011YAl",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-10T20:50:12.000Z"
+        },
+        {
+          "creator": "양현주",
+          "title": "美민주, 트럼프 유착 의혹 대기업 조사 착수",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261111054940vOQ",
+          "pubDate": "Wed, 11 Nov 2026 05:49:41 +0900",
+          "content:encoded": "미국 중간선거에서 상·하원을 모두 장악한 민주당이 트럼프 대통령과 유착 의혹이 제기된 대기업들을 상대로 대대적인 조사에 착수했습니다.\n\n월스트리트저널에 따르면 현지시간 9일 민주당 리처드 블루먼솔 상원의원은 주요 기업들에 내년 1월 4일까지 관련 자료를 제출하라는 서한을 발송했습니다.\n\n조사 대상에는 트럼프 대통령의 백악관 연회장 건립 사업에 기부한 아마존과 애플, 구글, 마이크로소프트, 블랙록 등이 포함됐습니다.\n\n민주당은 이들 기업이 트럼프 대통령의 사업에 자금을 지원하거나 행정부로부터 특혜를 받았는지 집중적으로 들여다볼 방침입니다.\n\n조사 대상에 오른 기업들은 대형 로펌을 선임하고 관련 문서를 수집하는 등 대응에 나섰습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n양현주(yang@yna.co.kr)",
+          "content:encodedSnippet": "미국 중간선거에서 상·하원을 모두 장악한 민주당이 트럼프 대통령과 유착 의혹이 제기된 대기업들을 상대로 대대적인 조사에 착수했습니다.\n\n월스트리트저널에 따르면 현지시간 9일 민주당 리처드 블루먼솔 상원의원은 주요 기업들에 내년 1월 4일까지 관련 자료를 제출하라는 서한을 발송했습니다.\n\n조사 대상에는 트럼프 대통령의 백악관 연회장 건립 사업에 기부한 아마존과 애플, 구글, 마이크로소프트, 블랙록 등이 포함됐습니다.\n\n민주당은 이들 기업이 트럼프 대통령의 사업에 자금을 지원하거나 행정부로부터 특혜를 받았는지 집중적으로 들여다볼 방침입니다.\n\n조사 대상에 오른 기업들은 대형 로펌을 선임하고 관련 문서를 수집하는 등 대응에 나섰습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n양현주(yang@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261110/MYH20261111054940vOQ.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "양현주",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261111054940vOQ#comments",
+          "content": "미국 중간선거에서 상·하원을 모두 장악한 민주당이 트럼프 대통령과 유착 의혹이 제기된 대기업들을 상대로 대대적인 조사에 착수했습니다. 월스트리트저널에 따르면 현지시간 9일 민주당 리처드 블루먼솔 상원의원은 주요 기업들에 내년 1월 4일까지 관련 자료를 제출하라는 서한을 발송했습니다. 조사 대상에는 트럼프 대통령의 백악관 연회장 건립 사업에 기부한 아마존과 애플, 구글, 마이크로소프트, 블랙록 등이 포함됐습니다. 민주당은 이들 기업이 트럼프...",
+          "contentSnippet": "미국 중간선거에서 상·하원을 모두 장악한 민주당이 트럼프 대통령과 유착 의혹이 제기된 대기업들을 상대로 대대적인 조사에 착수했습니다. 월스트리트저널에 따르면 현지시간 9일 민주당 리처드 블루먼솔 상원의원은 주요 기업들에 내년 1월 4일까지 관련 자료를 제출하라는 서한을 발송했습니다. 조사 대상에는 트럼프 대통령의 백악관 연회장 건립 사업에 기부한 아마존과 애플, 구글, 마이크로소프트, 블랙록 등이 포함됐습니다. 민주당은 이들 기업이 트럼프...",
+          "guid": "MYH20261111054940vOQ",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-10T20:49:41.000Z"
+        },
+        {
+          "creator": "정지훈",
+          "title": "법무사까지 낀 대포 계좌 유통 조직 68명 검거",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261111054820amO",
+          "pubDate": "Wed, 11 Nov 2026 05:48:22 +0900",
+          "content:encoded": "유령법인 명의로 대포계좌를 만들어 범죄조직에 공급한 조직이 검거됐습니다.\n\n대구경찰청은 40대 조직폭력배 총책 A 씨 등 64명을 전자금융거래법 위반 혐의로 검거하고 이 중 26명을 구속했습니다.\n\n또 법인설립을 도운 법무사와 직원 등 4명을 검거했습니다.\n\nA 씨 등은 2021년 10월부터 올해 1월까지 유령법인 76개를 세워 계좌 1,021개를 개설한 뒤, 피싱·도박 조직 등에 넘기고 계좌당 월 300만 원 상당을 받은 혐의를 받습니다.\n\n이들 계좌에서 유통된 자금은 24조 원에 이른 것으로 확인됐습니다.\n\n경찰은 유통 자금 추적과 계좌를 이용한 범죄조직으로 수사를 확대할 방침입니다.\n\n[화면제공 대구경찰청]\n\n#대포통장_유통 #대구경찰 #전자금융거래법_위반\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정지훈(daegurain@yna.co.kr)",
+          "content:encodedSnippet": "유령법인 명의로 대포계좌를 만들어 범죄조직에 공급한 조직이 검거됐습니다.\n\n대구경찰청은 40대 조직폭력배 총책 A 씨 등 64명을 전자금융거래법 위반 혐의로 검거하고 이 중 26명을 구속했습니다.\n\n또 법인설립을 도운 법무사와 직원 등 4명을 검거했습니다.\n\nA 씨 등은 2021년 10월부터 올해 1월까지 유령법인 76개를 세워 계좌 1,021개를 개설한 뒤, 피싱·도박 조직 등에 넘기고 계좌당 월 300만 원 상당을 받은 혐의를 받습니다.\n\n이들 계좌에서 유통된 자금은 24조 원에 이른 것으로 확인됐습니다.\n\n경찰은 유통 자금 추적과 계좌를 이용한 범죄조직으로 수사를 확대할 방침입니다.\n\n[화면제공 대구경찰청]\n\n#대포통장_유통 #대구경찰 #전자금융거래법_위반\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정지훈(daegurain@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261110/MYH20261111054820amO.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "정지훈",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261111054820amO#comments",
+          "content": "유령법인 명의로 대포계좌를 만들어 범죄조직에 공급한 조직이 검거됐습니다. 대구경찰청은 40대 조직폭력배 총책 A 씨 등 64명을 전자금융거래법 위반 혐의로 검거하고 이 중 26명을 구속했습니다. 또 법인설립을 도운 법무사와 직원 등 4명을 검거했습니다. A 씨 등은 2021년 10월부터 올해 1월까지 유령법인 76개를 세워 계좌 1,021개를 개설한 뒤, 피싱·도박 조직 등에 넘기고 계좌당 월 300만 원 상당을 받은 혐의를 받습니다. 이...",
+          "contentSnippet": "유령법인 명의로 대포계좌를 만들어 범죄조직에 공급한 조직이 검거됐습니다. 대구경찰청은 40대 조직폭력배 총책 A 씨 등 64명을 전자금융거래법 위반 혐의로 검거하고 이 중 26명을 구속했습니다. 또 법인설립을 도운 법무사와 직원 등 4명을 검거했습니다. A 씨 등은 2021년 10월부터 올해 1월까지 유령법인 76개를 세워 계좌 1,021개를 개설한 뒤, 피싱·도박 조직 등에 넘기고 계좌당 월 300만 원 상당을 받은 혐의를 받습니다. 이...",
+          "guid": "MYH20261111054820amO",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-10T20:48:22.000Z"
+        },
+        {
+          "creator": "장보경",
+          "title": "이소라, 前소속사와 분쟁…45곡 저작인접권 압류",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261111054759PKF",
+          "pubDate": "Wed, 11 Nov 2026 05:48:01 +0900",
+          "content:encoded": "가수 이소라가 전 소속사 대표를 상대로 저작인접권 등을 두고 법적 대응에 나섰습니다.\n\n이소라의 소속사 마레힘은 \"지난 2월 전 소속사 대표를 상대로 '바람이 분다' 등 45곡의 저작인접권에 대한 압류명령을 신청했으며, 법원이 이를 인용했다\"고 어제(10일) 밝혔습니다.\n\n소속사는 \"여러 상황을 종합적으로 고려한 결과 신뢰 관계를 유지하기 어렵다고 판단했다\"면서 \"전 소속사와의 관계를 정리하고 아티스트의 정당한 권리와 음악적 자산을 보호하기 위해 필요한 법적 절차를 진행하고 있다\"고 밝혔습니다.\n\n압류명령은 해당 권리의 임의 처분을 제한하는 조치입니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n장보경(jangbo@yna.co.kr)",
+          "content:encodedSnippet": "가수 이소라가 전 소속사 대표를 상대로 저작인접권 등을 두고 법적 대응에 나섰습니다.\n\n이소라의 소속사 마레힘은 \"지난 2월 전 소속사 대표를 상대로 '바람이 분다' 등 45곡의 저작인접권에 대한 압류명령을 신청했으며, 법원이 이를 인용했다\"고 어제(10일) 밝혔습니다.\n\n소속사는 \"여러 상황을 종합적으로 고려한 결과 신뢰 관계를 유지하기 어렵다고 판단했다\"면서 \"전 소속사와의 관계를 정리하고 아티스트의 정당한 권리와 음악적 자산을 보호하기 위해 필요한 법적 절차를 진행하고 있다\"고 밝혔습니다.\n\n압류명령은 해당 권리의 임의 처분을 제한하는 조치입니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n장보경(jangbo@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261110/MYH20261111054759PKF.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "장보경",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261111054759PKF#comments",
+          "content": "가수 이소라가 전 소속사 대표를 상대로 저작인접권 등을 두고 법적 대응에 나섰습니다. 이소라의 소속사 마레힘은 \"지난 2월 전 소속사 대표를 상대로 '바람이 분다' 등 45곡의 저작인접권에 대한 압류명령을 신청했으며, 법원이 이를 인용했다\"고 어제(10일) 밝혔습니다. 소속사는 \"여러 상황을 종합적으로 고려한 결과 신뢰 관계를 유지하기 어렵다고 판단했다\"면서 \"전 소속사와의 관계를 정리하고 아티스트의 정당한 권리와 음악적 자산을 보호하기 ...",
+          "contentSnippet": "가수 이소라가 전 소속사 대표를 상대로 저작인접권 등을 두고 법적 대응에 나섰습니다. 이소라의 소속사 마레힘은 \"지난 2월 전 소속사 대표를 상대로 '바람이 분다' 등 45곡의 저작인접권에 대한 압류명령을 신청했으며, 법원이 이를 인용했다\"고 어제(10일) 밝혔습니다. 소속사는 \"여러 상황을 종합적으로 고려한 결과 신뢰 관계를 유지하기 어렵다고 판단했다\"면서 \"전 소속사와의 관계를 정리하고 아티스트의 정당한 권리와 음악적 자산을 보호하기 ...",
+          "guid": "MYH20261111054759PKF",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-10T20:48:01.000Z"
+        },
+        {
+          "creator": "김태욱",
+          "title": "리센느 '펄스' 발매 첫 주 하프 밀리언셀러 기록",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261111054738JYe",
+          "pubDate": "Wed, 11 Nov 2026 05:47:40 +0900",
+          "content:encoded": "그룹 리센느의 미니 4집 'PULSE(펄스)'가 발매 첫주 판매량 60만 장을 넘어서는 등 하프 밀리언셀러를 기록했습니다.\n\n소속사 더뮤즈엔터테인먼트는 '펄스'가 한터차트 집계 기준 60만 2,688장이 판매돼 자체 최고 기록이자 데뷔 후 처음으로 하프 밀리언셀러를 달성했다고 밝혔습니다.\n\n지난 3일 발매된 '펄스'는 심장 박동을 주제로 한 앨범으로 타이틀곡 '위드'가 발매 2시간 만에 멜론 차트 1위에 오르는 등 뜨거운 호응을 이어가고 있습니다.\n\n[화면출처 RESCENE 유튜브]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김태욱(tw@yna.co.kr)",
+          "content:encodedSnippet": "그룹 리센느의 미니 4집 'PULSE(펄스)'가 발매 첫주 판매량 60만 장을 넘어서는 등 하프 밀리언셀러를 기록했습니다.\n\n소속사 더뮤즈엔터테인먼트는 '펄스'가 한터차트 집계 기준 60만 2,688장이 판매돼 자체 최고 기록이자 데뷔 후 처음으로 하프 밀리언셀러를 달성했다고 밝혔습니다.\n\n지난 3일 발매된 '펄스'는 심장 박동을 주제로 한 앨범으로 타이틀곡 '위드'가 발매 2시간 만에 멜론 차트 1위에 오르는 등 뜨거운 호응을 이어가고 있습니다.\n\n[화면출처 RESCENE 유튜브]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김태욱(tw@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261110/MYH20261111054738JYe.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "김태욱",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261111054738JYe#comments",
+          "content": "그룹 리센느의 미니 4집 'PULSE(펄스)'가 발매 첫주 판매량 60만 장을 넘어서는 등 하프 밀리언셀러를 기록했습니다. 소속사 더뮤즈엔터테인먼트는 '펄스'가 한터차트 집계 기준 60만 2,688장이 판매돼 자체 최고 기록이자 데뷔 후 처음으로 하프 밀리언셀러를 달성했다고 밝혔습니다. 지난 3일 발매된 '펄스'는 심장 박동을 주제로 한 앨범으로 타이틀곡 '위드'가 발매 2시간 만에 멜론 차트 1위에 오르는 등 뜨거운 호응을 이어가고 있습...",
+          "contentSnippet": "그룹 리센느의 미니 4집 'PULSE(펄스)'가 발매 첫주 판매량 60만 장을 넘어서는 등 하프 밀리언셀러를 기록했습니다. 소속사 더뮤즈엔터테인먼트는 '펄스'가 한터차트 집계 기준 60만 2,688장이 판매돼 자체 최고 기록이자 데뷔 후 처음으로 하프 밀리언셀러를 달성했다고 밝혔습니다. 지난 3일 발매된 '펄스'는 심장 박동을 주제로 한 앨범으로 타이틀곡 '위드'가 발매 2시간 만에 멜론 차트 1위에 오르는 등 뜨거운 호응을 이어가고 있습...",
+          "guid": "MYH20261111054738JYe",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-10T20:47:40.000Z"
         }
       ]
     }
