@@ -7,6 +7,126 @@
       "priority": 1,
       "data": [
         {
+          "title": "Apache HTTP Server의 치명적인 원격 코드 실행 취약점",
+          "link": "https://news.hada.io/topic?id=37046&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-12T09:37:06.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>Apache HTTP Server의 HTTP/2 모듈에서 <strong>CVE-2026-119618</strong> 취약점이 발견됨. 인증되지 않은 원격 공격자가 악용에 성공하면 힙 메모리를 손상시켜 웹 서버 프로세스 권한으로 임의 코드를 실행할 수 있음</li><li>원인은 <strong><code>assign_headers()</code> 함수의 경쟁 상태</strong>로, 공유 자원을 사용하는 스레드의 동시 실행 과정에서 동기화가 제대로 이뤄지지 않음</li><li>영향 대상은 <strong>HTTP/2를 사용하는 Apache HTTP Server 2.4.55~2.4.70</strong> 배포이며, 2.4.71 이상으로 업데이트해야 함</li><li>Wiz 데이터상 클라우드 환경의 <strong>64%에 취약한 자원</strong>이 있고 51%에는 공개 노출된 인스턴스가</li></ul></div>…",
+          "contentSnippet": "Apache HTTP Server의 HTTP/2 모듈에서 CVE-2026-119618 취약점이 발견됨. 인증되지 않은 원격 공격자가 악용에 성공하면 힙 메모리를 손상시켜 웹 서버 프로세스 권한으로 임의 코드를 실행할 수 있음\n원인은 assign_headers() 함수의 경쟁 상태로, 공유 자원을 사용하는 스레드의 동시 실행 과정에서 동기화가 제대로 이뤄지지 않음\n영향 대상은 HTTP/2를 사용하는 Apache HTTP Server 2.4.55~2.4.70 배포이며, 2.4.71 이상으로 업데이트해야 함\nWiz 데이터상 클라우드 환경의 64%에 취약한 자원이 있고 51%에는 공개 노출된 인스턴스가\n\n…",
+          "id": "https://news.hada.io/topic?id=37046",
+          "isoDate": "2026-11-12T09:37:06.000Z"
+        },
+        {
+          "title": "Humble Bundle이 바이브 코딩으로 보안 대부분을 무너뜨림",
+          "link": "https://news.hada.io/topic?id=37045&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-12T09:34:06.000Z",
+          "author": "neo",
+          "content": "Humble Bundle이 바이브 코딩으로 보안 대부분을 무너뜨림",
+          "contentSnippet": "Humble Bundle이 바이브 코딩으로 보안 대부분을 무너뜨림",
+          "id": "https://news.hada.io/topic?id=37045",
+          "isoDate": "2026-11-12T09:34:06.000Z"
+        },
+        {
+          "title": "Show GN: Line - 기분선과 암호화 일기",
+          "link": "https://news.hada.io/topic?id=37040&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-12T06:30:10.000Z",
+          "author": "maxhwang24",
+          "content": "<div><p>하루의 사건과 기분을 선으로 돌아보는 한국어 일기 베타 Line을 만들었습니다. 가입 없이 공개 연혁 예시를 먼저 볼 수 있고, 개인 일기는 기기 내 암호화 저장과 수동 백업·복원으로 관리합니다.</p><p>개인 일기에서는 ‘암호화 저장’을 눌러 수정 내용을 보관해야 합니다. 비밀번호 분실 복구와 자동 동기화는 없습니다. 백업을 따로 보관해 주세요. 공개 파일로 내보내면 본문은 빠져도 제목·날짜·기분은 남습니다.</p><p>독립 보안감사는 받지 않았으며, 침해된 기기·브라우저나 메모리의 완전한 보호를 보장하지 않습니다. Claude와 Codex를 활용해 개발했습니다. 기분선 읽기와 백업 과정에서 막히는 부분에 대한 피드백을 받고 싶습니다.</p></div>…",
+          "contentSnippet": "하루의 사건과 기분을 선으로 돌아보는 한국어 일기 베타 Line을 만들었습니다. 가입 없이 공개 연혁 예시를 먼저 볼 수 있고, 개인 일기는 기기 내 암호화 저장과 수동 백업·복원으로 관리합니다.\n개인 일기에서는 ‘암호화 저장’을 눌러 수정 내용을 보관해야 합니다. 비밀번호 분실 복구와 자동 동기화는 없습니다. 백업을 따로 보관해 주세요. 공개 파일로 내보내면 본문은 빠져도 제목·날짜·기분은 남습니다.\n독립 보안감사는 받지 않았으며, 침해된 기기·브라우저나 메모리의 완전한 보호를 보장하지 않습니다. Claude와 Codex를 활용해 개발했습니다. 기분선 읽기와 백업 과정에서 막히는 부분에 대한 피드백을 받고 싶습니다.\n…",
+          "id": "https://news.hada.io/topic?id=37040",
+          "isoDate": "2026-11-12T06:30:10.000Z"
+        },
+        {
+          "title": "마법의 시대에 Emacs는 어디로 가는가",
+          "link": "https://news.hada.io/topic?id=37038&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-12T05:34:18.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>AI에 원하는 작업을 말하는 방식이 자리 잡으면서, Emacs 사용자가 내세우던 <strong>편집 속도, 맞춤화, LISP의 표현력</strong>이 예전 같은 경쟁 우위를 갖기 어려워짐</li><li><strong>excali-mode.el</strong>은 Emacs의 새 캔버스 기능을 활용하려고 Excalidraw의 애플리케이션 스택을 재구현한 사례로, 과거라면 엄두 내기 어려웠을 작업을 토큰 비용으로 시도함</li><li><strong>cooked.el</strong>은 일반 텍스트 버퍼처럼 사용할 수 있는 터미널 모드를 만들면서 Rust 기반 터미널 에뮬레이터까지 자체 구현함</li><li>AI로 개인 취향에 맞는 일회성 소프트웨어를 만드는 흐름은 <strong>소프트웨어의 Emacs화</strong>로 이어</li></ul></div>…",
+          "contentSnippet": "AI에 원하는 작업을 말하는 방식이 자리 잡으면서, Emacs 사용자가 내세우던 편집 속도, 맞춤화, LISP의 표현력이 예전 같은 경쟁 우위를 갖기 어려워짐\nexcali-mode.el은 Emacs의 새 캔버스 기능을 활용하려고 Excalidraw의 애플리케이션 스택을 재구현한 사례로, 과거라면 엄두 내기 어려웠을 작업을 토큰 비용으로 시도함\ncooked.el은 일반 텍스트 버퍼처럼 사용할 수 있는 터미널 모드를 만들면서 Rust 기반 터미널 에뮬레이터까지 자체 구현함\nAI로 개인 취향에 맞는 일회성 소프트웨어를 만드는 흐름은 소프트웨어의 Emacs화로 이어\n\n…",
+          "id": "https://news.hada.io/topic?id=37038",
+          "isoDate": "2026-11-12T05:34:18.000Z"
+        },
+        {
+          "title": "GitHub Actions를 잠금 파일로 고정하기",
+          "link": "https://news.hada.io/topic?id=37037&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-12T04:32:02.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>GitHub Actions가 <strong>워크플로 잠금 파일</strong>을 지원하면서, 워크플로에는 버전 태그를 쓰고 별도 파일에 커밋 정보를 고정할 수 있게 됨</li><li>Git에서 가져오는 액션의 <strong>태그는 변경 가능</strong>하므로, 공격자가 안전했던 태그를 악성 코드로 돌리는 공급망 공격을 막기 위해 기존에는 전체 SHA 고정이 권장됐음</li><li><strong><code>gh actions-lock</code></strong> 을 실행하면 워크플로를 버전 태그 형식으로 바꾸고 <code>.github/workflows/actions.lock</code>을 생성하며, 수정된 워크플로와 잠금 파일을 함께 커밋해야 함</li><li><strong>Renovate와 Dependabot</strong>은 이미 잠금 파일을 지원해 정기 의존성 업데이트 때 </li></ul></div>…",
+          "contentSnippet": "GitHub Actions가 워크플로 잠금 파일을 지원하면서, 워크플로에는 버전 태그를 쓰고 별도 파일에 커밋 정보를 고정할 수 있게 됨\nGit에서 가져오는 액션의 태그는 변경 가능하므로, 공격자가 안전했던 태그를 악성 코드로 돌리는 공급망 공격을 막기 위해 기존에는 전체 SHA 고정이 권장됐음\ngh actions-lock 을 실행하면 워크플로를 버전 태그 형식으로 바꾸고 .github/workflows/actions.lock을 생성하며, 수정된 워크플로와 잠금 파일을 함께 커밋해야 함\nRenovate와 Dependabot은 이미 잠금 파일을 지원해 정기 의존성 업데이트 때 \n\n…",
+          "id": "https://news.hada.io/topic?id=37037",
+          "isoDate": "2026-11-12T04:32:02.000Z"
+        },
+        {
+          "title": "AI 시대, git push 앞뒤에서 바뀌는 것들",
+          "link": "https://news.hada.io/article/git-push-in-the-agent-era?utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-12T04:19:24.000Z",
+          "author": "GeekNews",
+          "content": "<div><p>2026년 10월, <a href=\"https://news.hada.io/topic?id=35309\">Anthropic은 사내 모노레포에서 Git을 자체 버전 관리 시스템인 Scion으로 교체했다</a>고 밝혔습니다.<br> 11월에는 <a href=\"https://news.hada.io/topic?id=36517\">OpenAI도 병렬 에이전트 개발을 위해 Pando라는 새 Git 백엔드를 만들었다</a>고 공개했습니다.</p><p>두 회사 모두 여러 에이전트가 동시에 작업하면서 저장소에 걸리는 부하가 커졌지만, 바꾼 범위는 달랐습니다.<br> Anthropic은 버전 관리 시스템 자체를 바꿨고, OpenAI는 서버 쪽을 바꿨습니다. OpenAI 개발자들은 그래서 Pando에서도 예전처럼 <code>git clone</code>으로 코드를 받고 <code>git push</code>로 변경을 올립니다.</p><p>앞선 아티클 <a href=\"https://news.hada.io/article/github-is-not-just-git\">GitHu</a></p></div>…",
+          "contentSnippet": "2026년 10월, Anthropic은 사내 모노레포에서 Git을 자체 버전 관리 시스템인 Scion으로 교체했다고 밝혔습니다.\n 11월에는 OpenAI도 병렬 에이전트 개발을 위해 Pando라는 새 Git 백엔드를 만들었다고 공개했습니다.\n두 회사 모두 여러 에이전트가 동시에 작업하면서 저장소에 걸리는 부하가 커졌지만, 바꾼 범위는 달랐습니다.\n Anthropic은 버전 관리 시스템 자체를 바꿨고, OpenAI는 서버 쪽을 바꿨습니다. OpenAI 개발자들은 그래서 Pando에서도 예전처럼 git clone으로 코드를 받고 git push로 변경을 올립니다.\n앞선 아티클 GitHu\n…",
+          "id": "https://news.hada.io/article/git-push-in-the-agent-era",
+          "isoDate": "2026-11-12T04:19:24.000Z"
+        },
+        {
+          "title": "Show GN: 딸깍 - 국어사전 명사 2만 7천 개로 컴퓨터와 하는 끝말잇기, 성냥개비 문제 정답 찾기",
+          "link": "https://news.hada.io/topic?id=37033&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-12T04:18:23.000Z",
+          "author": "hyun7219",
+          "content": "<div><p>8월에 매일 자정 10문제가 열리는 퍼즐 사이트로 한 번 소개드렸던 딸깍입니다.<br> 석 달 동안 \"매일 문제\" 말고 직접 갖고 놀 수 있는 것을 몇 개 붙여서 다시 올립니다.</p><p>끝말잇기 (/kkeut)<br> 국립국어원 한국어기초사전의 두 글자 이상 명사 27,831개만 받습니다. 두음법칙은 인정합니다.<br> 컴퓨터는 새싹부터 고수까지 5단계인데, 고수는 \"다음 사람이 이을 말이 없는 끝 글자\"로 끝나는 말을 노리고 칩니다.<br> 매일 퍼즐도 하나 열립니다. \"N수 안에 컴퓨터를 막아라\" 식인데, 내보내기 전에 정답 길이 실제로 있는지 탐색으로 확인합니다</p></div>…",
+          "contentSnippet": "8월에 매일 자정 10문제가 열리는 퍼즐 사이트로 한 번 소개드렸던 딸깍입니다.\n 석 달 동안 \"매일 문제\" 말고 직접 갖고 놀 수 있는 것을 몇 개 붙여서 다시 올립니다.\n끝말잇기 (/kkeut)\n 국립국어원 한국어기초사전의 두 글자 이상 명사 27,831개만 받습니다. 두음법칙은 인정합니다.\n 컴퓨터는 새싹부터 고수까지 5단계인데, 고수는 \"다음 사람이 이을 말이 없는 끝 글자\"로 끝나는 말을 노리고 칩니다.\n 매일 퍼즐도 하나 열립니다. \"N수 안에 컴퓨터를 막아라\" 식인데, 내보내기 전에 정답 길이 실제로 있는지 탐색으로 확인합니다\n…",
+          "id": "https://news.hada.io/topic?id=37033",
+          "isoDate": "2026-11-12T04:18:23.000Z"
+        },
+        {
+          "title": "더 나은, 더 효율적인 RAG를 위한 빠른 검색",
+          "link": "https://news.hada.io/topic?id=37031&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-12T03:33:08.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>Apple 연구진이 고정된 벡터 데이터베이스와 실제 질의 분포를 바탕으로 작은 신경망을 미리 학습해 <strong>최대 내적 검색(MIPS)</strong> 의 추론 속도와 정확도를 높이는 방법을 개발함</li><li>기존 중심점 기반 검색은 클러스터 내부의 최적 키를 놓칠 수 있음. <strong>SupportNet</strong>은 클러스터별 최상의 일치 점수를 예측해 질의를 더 적합한 클러스터로 보냄</li><li><strong>KeyNet</strong>은 질의를 최적 키에 가까운 벡터로 변환해 기존 IVF 인덱스에 전달함. Natural Questions 실험에서 대형 모델은 질의 변환 시간을 포함해 99% 재현율에 도달하는 시간을 최대 약 <strong>8배 단축</strong>함</li><li>이 접근은</li></ul></div>…",
+          "contentSnippet": "Apple 연구진이 고정된 벡터 데이터베이스와 실제 질의 분포를 바탕으로 작은 신경망을 미리 학습해 최대 내적 검색(MIPS) 의 추론 속도와 정확도를 높이는 방법을 개발함\n기존 중심점 기반 검색은 클러스터 내부의 최적 키를 놓칠 수 있음. SupportNet은 클러스터별 최상의 일치 점수를 예측해 질의를 더 적합한 클러스터로 보냄\nKeyNet은 질의를 최적 키에 가까운 벡터로 변환해 기존 IVF 인덱스에 전달함. Natural Questions 실험에서 대형 모델은 질의 변환 시간을 포함해 99% 재현율에 도달하는 시간을 최대 약 8배 단축함\n이 접근은\n\n…",
+          "id": "https://news.hada.io/topic?id=37031",
+          "isoDate": "2026-11-12T03:33:08.000Z"
+        },
+        {
+          "title": "AI와 일할 때 가장 자주 던지는 질문: 지금 관성에 끌려가고 있는가?",
+          "link": "https://news.hada.io/topic?id=37030&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-12T03:05:46.000Z",
+          "author": "ibare",
+          "content": "<div><p>AI 에이전트와 1년 넘게 개발하며, 할루시네이션보다 자주 마주한 문제는 각 단계가 합리적으로 보이는데도 처음의 전제를 의심하지 않은 채 계속 나아가는 것이었습니다. 저는 이것을 관성이라고 부릅니다.</p><p>글에서는 세 가지 경험을 다뤘습니다.</p><ul><li>5개월 동안 알아채지 못한 설계: 스킬을 정의하는 기준이 문제를 만들었는데, 기준을 다시 보기보다 그 빈자리를 메울 새 시스템을 설계했습니다.</li></ul><ul><li>하루 만에 멈춘 실험: 설계 문서를 그래프로 변환하는 실험에서 일치율을 더 높일 수는 있어 보였지만, 튜닝을 계속하는 것이 원래 문제를 푸는</li></ul></div>…",
+          "contentSnippet": "AI 에이전트와 1년 넘게 개발하며, 할루시네이션보다 자주 마주한 문제는 각 단계가 합리적으로 보이는데도 처음의 전제를 의심하지 않은 채 계속 나아가는 것이었습니다. 저는 이것을 관성이라고 부릅니다.\n글에서는 세 가지 경험을 다뤘습니다.\n\n5개월 동안 알아채지 못한 설계: 스킬을 정의하는 기준이 문제를 만들었는데, 기준을 다시 보기보다 그 빈자리를 메울 새 시스템을 설계했습니다.\n\n하루 만에 멈춘 실험: 설계 문서를 그래프로 변환하는 실험에서 일치율을 더 높일 수는 있어 보였지만, 튜닝을 계속하는 것이 원래 문제를 푸는\n\n…",
+          "id": "https://news.hada.io/topic?id=37030",
+          "isoDate": "2026-11-12T03:05:46.000Z"
+        },
+        {
+          "title": "페인트 얼룩의 93%는 유효한 Perl 프로그램이다 (2019)",
+          "link": "https://news.hada.io/topic?id=37029&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-12T02:31:52.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>페인트 얼룩을 OCR로 인식한 결과 <strong>93%가 유효한 Perl 프로그램으로 파싱</strong>됐으며, 유효한 Perl 코드를 만들지 않고 벽에 페인트를 묻히는 것도 가능했음</li><li>연구의 주요 데이터셋은 <strong>페인트 얼룩 이미지 100개</strong>이며, 유효한 Perl 프로그램이 아닌 사례 7개도 확인함</li><li>공개 갤러리에서 <strong>얼룩 이미지와 대응하는 Perl 코드</strong>를 함께 볼 수 있으며, 파싱되지 않은 이미지는 빨간색으로 구분함</li><li>OCR 설정에 따라 여러 유효한 프로그램이 인식되면, 갤러리에는 <strong>개인적인 미적 기준으로 가장 흥미로운 코드</strong>를 골라 실었음</li><li>제출 마감 뒤 추가로 주목한 사례에</li></ul></div>…",
+          "contentSnippet": "페인트 얼룩을 OCR로 인식한 결과 93%가 유효한 Perl 프로그램으로 파싱됐으며, 유효한 Perl 코드를 만들지 않고 벽에 페인트를 묻히는 것도 가능했음\n연구의 주요 데이터셋은 페인트 얼룩 이미지 100개이며, 유효한 Perl 프로그램이 아닌 사례 7개도 확인함\n공개 갤러리에서 얼룩 이미지와 대응하는 Perl 코드를 함께 볼 수 있으며, 파싱되지 않은 이미지는 빨간색으로 구분함\nOCR 설정에 따라 여러 유효한 프로그램이 인식되면, 갤러리에는 개인적인 미적 기준으로 가장 흥미로운 코드를 골라 실었음\n제출 마감 뒤 추가로 주목한 사례에\n\n…",
+          "id": "https://news.hada.io/topic?id=37029",
+          "isoDate": "2026-11-12T02:31:52.000Z"
+        },
+        {
+          "title": "Show HN: 투자할 YC 스타트업을 결정하는 게임으로 Papers, Please를 재현함",
+          "link": "https://news.hada.io/topic?id=37027&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-12T01:40:18.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>Term Sheet, Please</strong>는 Papers, Please를 재현해 어느 YC 스타트업에 투자할지 결정하는 게임임</li><li>“<strong>CALL THE NEXT FOUNDER</strong>”로 다음 창업자를 호출함</li><li>투자 판단 선택지는 <strong>PASS / FUND / HOLD</strong>임</li><li>결정 서류를 책상 위에 놓으라는 안내와 함께, 서류에 적힌 사실을 클릭하는 <strong>INSPECT</strong> 기능이 표시됨</li><li>게임 화면의 시점은 <strong>데모데이 다음 날</strong>, ACT 01임</li></ul></div>",
+          "contentSnippet": "Term Sheet, Please는 Papers, Please를 재현해 어느 YC 스타트업에 투자할지 결정하는 게임임\n“CALL THE NEXT FOUNDER”로 다음 창업자를 호출함\n투자 판단 선택지는 PASS / FUND / HOLD임\n결정 서류를 책상 위에 놓으라는 안내와 함께, 서류에 적힌 사실을 클릭하는 INSPECT 기능이 표시됨\n게임 화면의 시점은 데모데이 다음 날, ACT 01임",
+          "id": "https://news.hada.io/topic?id=37027",
+          "isoDate": "2026-11-12T01:40:18.000Z"
+        },
+        {
+          "title": "Show HN: Yogurt - 무료이며 프라이버시를 보호하는 오픈소스 Granola 대안",
+          "link": "https://news.hada.io/topic?id=37025&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-12T01:37:18.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>Yogurt</strong>는 비공개 AI 회의 노트를 위한 무료 오픈소스 앱임</li><li>회의에 <strong>봇을 추가하지 않고</strong> 통화를 녹음함</li><li>회의 요약 화면에서 <strong>계획과 담당자별 다음 단계</strong>, 개인 알림을 확인할 수 있음</li><li><strong>Mac, Windows, Linux</strong>용 다운로드를 제공함</li><li><strong>MIT 라이선스</strong>로 공개되며, 로컬 빌드와 실행을 위한 문서를 제공함</li></ul><hr><h2>봇 없이 녹음하는 AI 회의 노트</h2><ul><li><a href=\"https://yogurt.so?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=yogurt\"><strong>Yogurt</strong></a>는 프라이버시를 내세우는 무료 오픈소스 AI 회의 노트 앱임</li><li>통화를 녹음할 때 <strong>회의 봇을 추가하지 않음</strong></li><li>공개된 회의 요약 화면에는 출시 계획 회의의 <strong>계획, 담당자별 다음 단계</strong>, 개인 알림이 표시됨</li></ul><h2>지원 환</h2></div>…",
+          "contentSnippet": "Yogurt는 비공개 AI 회의 노트를 위한 무료 오픈소스 앱임\n회의에 봇을 추가하지 않고 통화를 녹음함\n회의 요약 화면에서 계획과 담당자별 다음 단계, 개인 알림을 확인할 수 있음\nMac, Windows, Linux용 다운로드를 제공함\nMIT 라이선스로 공개되며, 로컬 빌드와 실행을 위한 문서를 제공함\n\n봇 없이 녹음하는 AI 회의 노트\n\nYogurt는 프라이버시를 내세우는 무료 오픈소스 AI 회의 노트 앱임\n통화를 녹음할 때 회의 봇을 추가하지 않음\n공개된 회의 요약 화면에는 출시 계획 회의의 계획, 담당자별 다음 단계, 개인 알림이 표시됨\n\n지원 환\n…",
+          "id": "https://news.hada.io/topic?id=37025",
+          "isoDate": "2026-11-12T01:37:18.000Z"
+        },
+        {
           "title": "젠슨 황, 직속 보고 임원과도 혼외 관계를 맺었다는 증언 나와",
           "link": "https://news.hada.io/topic?id=37024&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
           "pubDate": "2026-11-12T01:34:18.000Z",
@@ -25,16 +145,6 @@
           "contentSnippet": "Computer Use가 PC 화면을 보고 마우스와 키보드를 조작하듯, 안드로이드 폰 화면을 보고 직접 조작하는 AI 에이전트입니다.\n할 일을 말하면 AI가 화면을 읽고 탭, 입력, 스크롤하며 여러 앱을 오가면서 처리합니다.\n 기존 폰 에이전트는 대부분 PC에 연결해 ADB로 조작해야 해서, 폰 안에서 단독으로 동작하도록 만들었습니다.\n주요 특징\n\nPC, ADB, 루트, Shizuku 없이 접근성 서비스만으로 동작 (Android 11+)\n접근성 트리 + 스크린샷을 함께 인식해 아이콘 버튼, 지도 화면도 처리\nChatGPT 계정 로그인 또는 OpenAI / Claude / Gemini \n\n…",
           "id": "https://news.hada.io/topic?id=37020",
           "isoDate": "2026-11-12T00:51:56.000Z"
-        },
-        {
-          "title": "WSJ 보도에 따르면 Nvidia가 CEO Jensen Huang 해임을 준비 중",
-          "link": "https://news.hada.io/topic?id=37018&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-12T00:31:46.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>Watcher.Guru 게시물에 따르면 <strong>Nvidia</strong>가 CEO <strong>Jensen Huang</strong>의 해임을 준비 중임</li><li>게시물은 해당 소식의 출처로 <strong>WSJ</strong>를 명시함</li><li>해임 완료가 아니라 <strong>해임 준비</strong> 소식을 전함</li><li><strong>해임 사유와 일정</strong>은 게시물에 없음</li><li>Nvidia의 공식 입장이나 <strong>WSJ 원문 링크</strong>는 제공되지 않음</li></ul><hr><h2>게시물 내용</h2><ul><li><a href=\"https://twitter.com/watcherguru/status/2120645607866188008\">Watcher.Guru 게시물</a>은 <strong>WSJ 보도</strong>를 인용해 Nvidia($NVDA)가 CEO Jensen Huang 해임을 준비 중이라고 전함</li><li>제공된 본문은 한 문장으로, <strong>해임 사유, 일정, 공식 확인 여부</strong>에 관한 추가 정보는 없음</li></ul></div>",
-          "contentSnippet": "Watcher.Guru 게시물에 따르면 Nvidia가 CEO Jensen Huang의 해임을 준비 중임\n게시물은 해당 소식의 출처로 WSJ를 명시함\n해임 완료가 아니라 해임 준비 소식을 전함\n해임 사유와 일정은 게시물에 없음\nNvidia의 공식 입장이나 WSJ 원문 링크는 제공되지 않음\n\n게시물 내용\n\nWatcher.Guru 게시물은 WSJ 보도를 인용해 Nvidia($NVDA)가 CEO Jensen Huang 해임을 준비 중이라고 전함\n제공된 본문은 한 문장으로, 해임 사유, 일정, 공식 확인 여부에 관한 추가 정보는 없음",
-          "id": "https://news.hada.io/topic?id=37018",
-          "isoDate": "2026-11-12T00:31:46.000Z"
         },
         {
           "title": "OpenMAIC - 주제나 문서를 AI 교사와 토론하는 수업으로 만드는 오픈소스 플랫폼",
@@ -95,116 +205,6 @@
           "contentSnippet": "Claude Code와 Codex에서 나온 토큰 사용량으로 픽셀 식물을 키우는 메뉴바 앱입니다.\n로컬 세션 로그(~/.claude/projects, ~/.codex/sessions)를 30초마다 읽습니다.\n 서버도 계정도 없고 밖으로 나가는 데이터도 없습니다. 따로 누를 건 없고,\n 일하다 메뉴바 보면 자라 있습니다. 다 자라면 정원으로 옮겨심고 새 씨앗이 심깁니다.\n차별점이라면 가격을 토큰 개수가 아니라 날짜로 쟀다는 점입니다.\n \"한 그루 = 30억 토큰\" 식으로 박아두면 하루 1억 쓰는 사람은 한 달이지만\n 500만 쓰는 사람은 1년 반이 걸립니다. 그래서 목표를 2\n…",
           "id": "https://news.hada.io/topic?id=37012",
           "isoDate": "2026-11-11T23:30:11.000Z"
-        },
-        {
-          "title": "Gemini Decisions API - 입력 하나에 최대 1,000개 질문을 평가하는 멀티모달 API",
-          "link": "https://news.hada.io/topic?id=37011&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-11T22:33:12.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>Google이 <strong>Gemini Decision 1</strong> 기반의 판단 API를 공개함. 텍스트, 이미지, 오디오, 영상, PDF를 하나의 입력으로 묶고, 그 입력에 대해 <strong>예/아니요, 객관식, 기준별 채점 질문을 최대 1,000개</strong>까지 한 요청으로 보낼 수 있음</li><li>답변을 토큰별로 생성하지 않고 <strong>한 번의 순전파</strong>로 후보 선택지를 채점해 확률과 신뢰도를 반환함. 최대 16K 토큰 문맥의 측정에서 종단 간 지연시간은 <strong>150~250ms</strong>이며, 질문이 1개에서 100개로 늘어도 거의 일정하게 유지됨</li><li><strong>예/아니요, 객관식, 순서형 평가 기준 점수</strong>를 한 요청에 섞어 사용할 수 있음. 모든 답변에 0~1의 신뢰도가 포함돼 모호한 사례를 대체 처리 경로나 사람 검토자에게 보낼 수 있음</li></ul></div>…",
-          "contentSnippet": "Google이 Gemini Decision 1 기반의 판단 API를 공개함. 텍스트, 이미지, 오디오, 영상, PDF를 하나의 입력으로 묶고, 그 입력에 대해 예/아니요, 객관식, 기준별 채점 질문을 최대 1,000개까지 한 요청으로 보낼 수 있음\n답변을 토큰별로 생성하지 않고 한 번의 순전파로 후보 선택지를 채점해 확률과 신뢰도를 반환함. 최대 16K 토큰 문맥의 측정에서 종단 간 지연시간은 150~250ms이며, 질문이 1개에서 100개로 늘어도 거의 일정하게 유지됨\n예/아니요, 객관식, 순서형 평가 기준 점수를 한 요청에 섞어 사용할 수 있음. 모든 답변에 0~1의 신뢰도가 포함돼 모호한 사례를 대체 처리 경로나 사람 검토자에게 보낼 수 있음\n\n…",
-          "id": "https://news.hada.io/topic?id=37011",
-          "isoDate": "2026-11-11T22:33:12.000Z"
-        },
-        {
-          "title": "공개 연구로 강화하는 개인정보 보호: Firefox 사용자의 핑거프린팅을 더 어렵게 만들기",
-          "link": "https://news.hada.io/topic?id=37010&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-11T21:47:21.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>Firefox는 웹사이트에 노출하는 브라우저와 기기의 구별 가능한 정보를 줄여, 쿠키 없이 사용자를 식별하는 <strong>핑거프린팅 추적 방어</strong>를 강화함</li><li>약 <strong>2,500만 명의 Firefox 사용자</strong> 측정값을 분석한 결과, 소수의 브라우저 기능만 보호해도 널리 쓰이는 핑거프린팅 기법을 상당히 약화할 수 있었음</li><li><strong>화면 해상도 API</strong>에서 작업 표시줄이나 독의 크기와 위치를 숨기고, 정확한 프로세서 수 대신 4 또는 8을 보고하는 방식으로 사용자 간 차이를 줄임</li><li><strong>Firefox 145의 최신 변경을 포함한 보호 기능</strong>은 고유한 핑거프린트를 가진 사용자 수를 줄이고 같</li></ul></div>…",
-          "contentSnippet": "Firefox는 웹사이트에 노출하는 브라우저와 기기의 구별 가능한 정보를 줄여, 쿠키 없이 사용자를 식별하는 핑거프린팅 추적 방어를 강화함\n약 2,500만 명의 Firefox 사용자 측정값을 분석한 결과, 소수의 브라우저 기능만 보호해도 널리 쓰이는 핑거프린팅 기법을 상당히 약화할 수 있었음\n화면 해상도 API에서 작업 표시줄이나 독의 크기와 위치를 숨기고, 정확한 프로세서 수 대신 4 또는 8을 보고하는 방식으로 사용자 간 차이를 줄임\nFirefox 145의 최신 변경을 포함한 보호 기능은 고유한 핑거프린트를 가진 사용자 수를 줄이고 같\n\n…",
-          "id": "https://news.hada.io/topic?id=37010",
-          "isoDate": "2026-11-11T21:47:21.000Z"
-        },
-        {
-          "title": "Atuin Threads: 모든 머신의 에이전트 세션을 한곳에",
-          "link": "https://news.hada.io/topic?id=37009&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-11T21:44:21.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>Atuin 18.24부터 제공되는 Threads</strong>는 여러 도구와 머신에 흩어진 코딩 에이전트 세션을 검색하고 재개할 수 있게 함</li><li><strong>에이전트 하네스와 기기를 바꿔도</strong> 작업 맥락을 유지할 수 있어, 개발 서버의 Claude Code에서 시작한 작업을 노트북의 Codex에서 이어갈 수 있음</li><li>세션 수집은 <strong>선택 사항</strong>이며, 동기화 시 <strong>종단 간 암호화</strong>를 적용함</li><li><strong>MCP</strong>를 통해 에이전트가 이전 세션을 직접 검색하고 참조할 수 있어, 과거의 시도와 의사결정 이유, 조사 결과를 후속 작업에 활용할 수 있음</li><li>현재 <strong>Claude Code, Codex, Pi, Omp, OpenCode</strong>를 지원하며, 팀원이</li></ul></div>…",
-          "contentSnippet": "Atuin 18.24부터 제공되는 Threads는 여러 도구와 머신에 흩어진 코딩 에이전트 세션을 검색하고 재개할 수 있게 함\n에이전트 하네스와 기기를 바꿔도 작업 맥락을 유지할 수 있어, 개발 서버의 Claude Code에서 시작한 작업을 노트북의 Codex에서 이어갈 수 있음\n세션 수집은 선택 사항이며, 동기화 시 종단 간 암호화를 적용함\nMCP를 통해 에이전트가 이전 세션을 직접 검색하고 참조할 수 있어, 과거의 시도와 의사결정 이유, 조사 결과를 후속 작업에 활용할 수 있음\n현재 Claude Code, Codex, Pi, Omp, OpenCode를 지원하며, 팀원이\n\n…",
-          "id": "https://news.hada.io/topic?id=37009",
-          "isoDate": "2026-11-11T21:44:21.000Z"
-        },
-        {
-          "title": "우리는 왜 아직도 이렇게 열심히 일하는가?",
-          "link": "https://news.hada.io/topic?id=37008&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-11T21:41:21.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>미국의 시간당 생산량은 1973년의 <strong>2.5배</strong>가 됐지만, 일반 노동자의 시간당 임금 구매력은 19% 늘어나는 데 그쳤고 인구 1인당 노동시간은 오히려 증가함</li><li>핵심 문제는 임금이 노동의 <strong>가격</strong>이면서 생산물을 배분받는 <strong>생활의 입장권</strong>이라는 데 있음. 자동화는 노동의 희소가치를 낮추지만, 임금에 생계가 달린 사람은 일을 거절하기 어려움</li><li>미국에서 <strong>1973년에 40시간 걸려 만들던 양을 이제 16시간이면 생산</strong>할 수 있음. 하지만 당시 40시간치 임금으로 살 수 있던 물건을 사려면, 오늘날 일반 노동자도 <strong>약 34시간치 임금</strong>이 필요함</li><li>저자의 경제 </li></ul></div>…",
-          "contentSnippet": "미국의 시간당 생산량은 1973년의 2.5배가 됐지만, 일반 노동자의 시간당 임금 구매력은 19% 늘어나는 데 그쳤고 인구 1인당 노동시간은 오히려 증가함\n핵심 문제는 임금이 노동의 가격이면서 생산물을 배분받는 생활의 입장권이라는 데 있음. 자동화는 노동의 희소가치를 낮추지만, 임금에 생계가 달린 사람은 일을 거절하기 어려움\n미국에서 1973년에 40시간 걸려 만들던 양을 이제 16시간이면 생산할 수 있음. 하지만 당시 40시간치 임금으로 살 수 있던 물건을 사려면, 오늘날 일반 노동자도 약 34시간치 임금이 필요함\n저자의 경제 \n\n…",
-          "id": "https://news.hada.io/topic?id=37008",
-          "isoDate": "2026-11-11T21:41:21.000Z"
-        },
-        {
-          "title": "우리에게는 더 많은 염소 희생 제사가 필요하다",
-          "link": "https://news.hada.io/topic?id=37007&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-11T20:46:45.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>사회정책이나 자선사업을 시작하기 전 필요한 것은 성공에 대한 확신보다 <strong>자신의 무지를 인정하는 절차적 겸손</strong>임. 선의로 설계한 개입도 기대한 효과를 내지 못하는 경우가 많음</li><li>정책의 의도가 곧 결과를 보장한다고 느끼는 <strong>통제의 환상</strong>은 효과 검증 자체를 생략하게 만들 수 있음. 교육사업부터 정부의 마약 단속까지 목표나 실험적 평가가 빠진 사례가 있음</li><li><strong>단일 연구의 긍정적 결과</strong>만으로 개입의 효과를 신뢰하기 어려움. 더 엄격한 평가나 다른 지역에서의 실행에서는 효과가 사라지거나 줄어들기도 함</li><li>실패를 마주했을 때 <strong>상식적인 </strong></li></ul></div>…",
-          "contentSnippet": "사회정책이나 자선사업을 시작하기 전 필요한 것은 성공에 대한 확신보다 자신의 무지를 인정하는 절차적 겸손임. 선의로 설계한 개입도 기대한 효과를 내지 못하는 경우가 많음\n정책의 의도가 곧 결과를 보장한다고 느끼는 통제의 환상은 효과 검증 자체를 생략하게 만들 수 있음. 교육사업부터 정부의 마약 단속까지 목표나 실험적 평가가 빠진 사례가 있음\n단일 연구의 긍정적 결과만으로 개입의 효과를 신뢰하기 어려움. 더 엄격한 평가나 다른 지역에서의 실행에서는 효과가 사라지거나 줄어들기도 함\n실패를 마주했을 때 상식적인 \n\n…",
-          "id": "https://news.hada.io/topic?id=37007",
-          "isoDate": "2026-11-11T20:46:45.000Z"
-        },
-        {
-          "title": "100% AI 사용 의무화 1년 후, 아무도 이해하지 못하는 우리의 코드",
-          "link": "https://news.hada.io/topic?id=37006&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-11T20:43:45.000Z",
-          "author": "neo",
-          "content": "100% AI 사용 의무화 1년 후, 아무도 이해하지 못하는 우리의 코드",
-          "contentSnippet": "100% AI 사용 의무화 1년 후, 아무도 이해하지 못하는 우리의 코드",
-          "id": "https://news.hada.io/topic?id=37006",
-          "isoDate": "2026-11-11T20:43:45.000Z"
-        },
-        {
-          "title": "Fireworks AI 보안 침해, Notion과 고객에게 영향",
-          "link": "https://news.hada.io/topic?id=37005&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-11T20:40:44.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>Notion의 공급업체 <strong>Fireworks AI에서 보안 사고</strong>가 발생해 전체 Notion 워크스페이스의 <strong>1% 미만</strong>이 영향을 받음</li><li>Notion은 확인된 피해 고객에게 연락했으며 <strong>조사는 진행 중</strong>임. 사용자와 워크스페이스 소유자 모두 연락을 받지 않았다면 현재까지 영향 대상으로 확인되지 않았으며, 당장 필요한 조치는 없음</li><li>영향을 받은 고객은 워크스페이스에서 <strong>해당 데이터를 확인</strong>할 수 있으며, 해당 기간 Notion AI에 입력한 비밀번호나 API 키 등 인증 정보는 <strong>즉시 교체</strong>하도록 권고함</li><li>Fireworks는 계약상 <strong>데이터 무보관(ZDR)</strong> 을 약속했지만, 조사 결과 </li></ul></div>…",
-          "contentSnippet": "Notion의 공급업체 Fireworks AI에서 보안 사고가 발생해 전체 Notion 워크스페이스의 1% 미만이 영향을 받음\nNotion은 확인된 피해 고객에게 연락했으며 조사는 진행 중임. 사용자와 워크스페이스 소유자 모두 연락을 받지 않았다면 현재까지 영향 대상으로 확인되지 않았으며, 당장 필요한 조치는 없음\n영향을 받은 고객은 워크스페이스에서 해당 데이터를 확인할 수 있으며, 해당 기간 Notion AI에 입력한 비밀번호나 API 키 등 인증 정보는 즉시 교체하도록 권고함\nFireworks는 계약상 데이터 무보관(ZDR) 을 약속했지만, 조사 결과 \n\n…",
-          "id": "https://news.hada.io/topic?id=37005",
-          "isoDate": "2026-11-11T20:40:44.000Z"
-        },
-        {
-          "title": "M John Harrison, SF 작가 최초로 부커상 수상",
-          "link": "https://news.hada.io/topic?id=37004&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-11T19:47:36.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>81세 <strong>M John Harrison</strong>이 근미래 재난 이후를 그린 소설 <strong>The End of Everything</strong>으로 2026년 부커상을 수상하며 역대 최고령 수상자가 됨</li><li>부커상 재단은 이전에도 SF를 집필한 수상자는 있었지만, <strong>본격적인 SF 문단 출신 작가의 수상은 처음</strong>이라고 구분함</li><li>소설은 원인을 이해할 수 없는 재난 이후 영국 Kent 해안에서 살아가는 두 인물과, 정체와 의도를 알 수 없는 거대 변신 존재 <strong>iGhetti</strong>를 다룸</li><li>심사위원단은 하루 동안 논의한 끝에 <strong>만장일치</strong>로 수상작을 선정함</li><li>동료 작가들의 존경에도 문학소설의 주변부에 머물렀던 Harrison이 <strong>주류 문</strong></li></ul></div>…",
-          "contentSnippet": "81세 M John Harrison이 근미래 재난 이후를 그린 소설 The End of Everything으로 2026년 부커상을 수상하며 역대 최고령 수상자가 됨\n부커상 재단은 이전에도 SF를 집필한 수상자는 있었지만, 본격적인 SF 문단 출신 작가의 수상은 처음이라고 구분함\n소설은 원인을 이해할 수 없는 재난 이후 영국 Kent 해안에서 살아가는 두 인물과, 정체와 의도를 알 수 없는 거대 변신 존재 iGhetti를 다룸\n심사위원단은 하루 동안 논의한 끝에 만장일치로 수상작을 선정함\n동료 작가들의 존경에도 문학소설의 주변부에 머물렀던 Harrison이 주류 문\n\n…",
-          "id": "https://news.hada.io/topic?id=37004",
-          "isoDate": "2026-11-11T19:47:36.000Z"
-        },
-        {
-          "title": "선형계획법으로 가중치 공간 프로그래밍을 할 수 있을까?",
-          "link": "https://news.hada.io/topic?id=37003&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-11T19:44:36.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>Qwen3.5-0.8B의 반복 사고를 줄이는 가중치 수정</strong>을 선형계획법(LP)으로 구해, GPT-6 Astra의 약 8시간 탐색을 약 1분씩 걸리는 몇 차례 최적화로 대체함</li><li>반복을 유발하는 잔차 스트림 방향을 고정하면, 반복 토큰은 반대 방향으로 밀고 정상적인 추론 토큰은 거의 건드리지 않는 조건을 <strong>선형 부등식</strong>으로 만들 수 있음</li><li>Astra와 같은 방향을 사용한 LP 수정은 <strong>8분의 1 수준의 가중치만 변경</strong>하면서 GSM8K, MATH-500, IFEval에서 잡음 범위 내의 유사한 성능을 얻음</li><li>가중치를 바꾸지 않고 모든 토큰에 일정한 <strong>조향 벡터(steering vector)</strong> 를 </li></ul></div>…",
-          "contentSnippet": "Qwen3.5-0.8B의 반복 사고를 줄이는 가중치 수정을 선형계획법(LP)으로 구해, GPT-6 Astra의 약 8시간 탐색을 약 1분씩 걸리는 몇 차례 최적화로 대체함\n반복을 유발하는 잔차 스트림 방향을 고정하면, 반복 토큰은 반대 방향으로 밀고 정상적인 추론 토큰은 거의 건드리지 않는 조건을 선형 부등식으로 만들 수 있음\nAstra와 같은 방향을 사용한 LP 수정은 8분의 1 수준의 가중치만 변경하면서 GSM8K, MATH-500, IFEval에서 잡음 범위 내의 유사한 성능을 얻음\n가중치를 바꾸지 않고 모든 토큰에 일정한 조향 벡터(steering vector) 를 \n\n…",
-          "id": "https://news.hada.io/topic?id=37003",
-          "isoDate": "2026-11-11T19:44:36.000Z"
-        },
-        {
-          "title": "WebGL2로 구현한 극사실적인 모래 시뮬레이터",
-          "link": "https://news.hada.io/topic?id=37002&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-11T19:41:36.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>Sand</strong>는 브라우저에서 모래 알갱이를 움직이며 놀 수 있는 시뮬레이터임</li><li><strong>WebGL2와 JavaScript</strong>로 구현됨</li><li>손가락으로 <strong>모래 알갱이를 밀거나</strong>, 드래그로 그림을 그릴 수 있음</li><li>휴대전화를 <strong>기울이면</strong> 모래가 미끄러지고, <strong>흔들면</strong> 알갱이가 흩어짐</li><li><strong>휴대전화, 태블릿, 데스크톱</strong>의 브라우저에서 실행할 수 있음</li></ul><hr><h2>모래 조작 방식</h2><ul><li>손가락으로 <strong>모래 알갱이를 밀거나</strong> 드래그해 그림을 그릴 수 있음</li><li>휴대전화를 기울이면 모래가 미끄러지고, 흔들면 알갱이가 흩어짐</li></ul><h2>구현과 실행 환경</h2><ul><li><strong>WebGL2와 JavaScript</strong>로 구현한 브라우저 기반 모래 시뮬레이터임</li><li>휴대전</li></ul></div>…",
-          "contentSnippet": "Sand는 브라우저에서 모래 알갱이를 움직이며 놀 수 있는 시뮬레이터임\nWebGL2와 JavaScript로 구현됨\n손가락으로 모래 알갱이를 밀거나, 드래그로 그림을 그릴 수 있음\n휴대전화를 기울이면 모래가 미끄러지고, 흔들면 알갱이가 흩어짐\n휴대전화, 태블릿, 데스크톱의 브라우저에서 실행할 수 있음\n\n모래 조작 방식\n\n손가락으로 모래 알갱이를 밀거나 드래그해 그림을 그릴 수 있음\n휴대전화를 기울이면 모래가 미끄러지고, 흔들면 알갱이가 흩어짐\n\n구현과 실행 환경\n\nWebGL2와 JavaScript로 구현한 브라우저 기반 모래 시뮬레이터임\n휴대전\n\n…",
-          "id": "https://news.hada.io/topic?id=37002",
-          "isoDate": "2026-11-11T19:41:36.000Z"
-        },
-        {
-          "title": "AWS가 마침내 자체 AWS 에뮬레이터를 만들었다",
-          "link": "https://news.hada.io/topic?id=37001&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-11T19:38:36.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>AWS Emulator</strong>는 실제 AWS를 호출하지 않고 로컬 머신, 개발 서버, CI에서 AWS API를 사용하는 소프트웨어를 테스트하는 도구로, AWS 계정 없이 사용 가능함</li><li><strong>서버 모드</strong>에서는 AWS CLI나 SDK가 에뮬레이터 엔드포인트를 향하도록 설정하며, <strong>Rust 임베디드 모드</strong>에서는 테스트마다 격리된 인스턴스를 프로세스 내부에서 실행함</li><li><strong>개발과 테스트 전용</strong>으로, 프로덕션 워크로드나 보안 테스트에는 사용하면 안 되며 실제 AWS와의 동작 일치도는 릴리스별로 확인해야 함</li><li><strong>Linux는 RPM이나 Debian 패키지로 설치</strong>할 수 있고, <strong>macOS와 Windows는 AWS가 </strong></li></ul></div>…",
-          "contentSnippet": "AWS Emulator는 실제 AWS를 호출하지 않고 로컬 머신, 개발 서버, CI에서 AWS API를 사용하는 소프트웨어를 테스트하는 도구로, AWS 계정 없이 사용 가능함\n서버 모드에서는 AWS CLI나 SDK가 에뮬레이터 엔드포인트를 향하도록 설정하며, Rust 임베디드 모드에서는 테스트마다 격리된 인스턴스를 프로세스 내부에서 실행함\n개발과 테스트 전용으로, 프로덕션 워크로드나 보안 테스트에는 사용하면 안 되며 실제 AWS와의 동작 일치도는 릴리스별로 확인해야 함\nLinux는 RPM이나 Debian 패키지로 설치할 수 있고, macOS와 Windows는 AWS가 \n\n…",
-          "id": "https://news.hada.io/topic?id=37001",
-          "isoDate": "2026-11-11T19:38:36.000Z"
         }
       ]
     },
@@ -381,235 +381,235 @@
       "category": "news",
       "data": [
         {
-          "creator": "이상현",
-          "title": "\"세계 바이오 석학 춘천 집결\"…K-BioX 글로벌 바이오 이노베이션 서밋",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261112105049Wlf",
-          "pubDate": "Thu, 12 Nov 2026 10:50:50 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112105049Wlf_01_i.jpg\" alt=\"\"><span class=\"yna_title\">K-BioX GLOBAL BIO INNOVATION SUMMIT 행사 포스터</span><span class=\"yna_caption\">[춘천시 제공]</span><span class=\"yna_description\">[춘천시 제공]</span></div>\n국내외 바이오 분야 연구자와 기업인들이 춘천에 모여 최신 연구 성과를 공유하고 글로벌 협력 방안을 모색합니다.\n\n춘천시는 오는 14일 강원대학교 산학연혁신허브에서 'K-BioX 글로벌 바이오 이노베이션 서밋'을 개최한다고 밝혔습니다.\n\n춘천시가 주최하고 강원대학교와 글로벌한인생명과학협회 K-BioX가 주관하는 이번 행사는 해외 바이오 전문가와 지역 대학·기업을 연결하는 국제 학술교류의 장으로 펼쳐집니다\n\n미국 존스홉킨스대와 럿거스대, 홍콩대 등 국내외 전문가들이 참여해 우주환경을 활용한 신약개발과 뇌과학, 암·면역, 바이오기업의 해외 진출 등을 주제로 강연과 토론을 진행합니다.\n\n국내외 바이오기업 10개사가 참여하는 전시와 연구성과 50건을 소개하는 포스터 발표, 기업과 전문가들의 교류 프로그램도 마련됩니다.\n\n이번 행사는 춘천시가 2024년부터 K-BioX와 이어온 국제 협력의 결실이라는 점에서도 의미가 큽니다.\n\n양측은 지난해 미국 보스턴에서 국제 심포지엄을 공동 개최하고 AI 기반 건강관리와 오가노이드 연구, 지역 바이오기업의 해외 진출 등을 위한 협력을 이어왔습니다.\n\n중·고등학생과 대학생을 대상으로 오가노이드와 재생의학, AI 생명정보학 등을 체험하는 미래 과학자 프로그램도 함께 운영됩니다.\n\n육동한 춘천시장은  \"이번 서밋이 춘천의 연구역량을 세계와 연결하고 미래 인재들이 더 큰 꿈을 키우는 계기가 되기를 바란다\"고 말했습니다.\n\n#춘천시 #강원대학교 #글로벌한인생명과학협회 #KbioX #글로벌 #바이오 #이노베이션 #서밋 #학술교류\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이상현(idealtype@yna.co.kr)",
-          "content:encodedSnippet": "K-BioX GLOBAL BIO INNOVATION SUMMIT 행사 포스터[춘천시 제공][춘천시 제공]\n국내외 바이오 분야 연구자와 기업인들이 춘천에 모여 최신 연구 성과를 공유하고 글로벌 협력 방안을 모색합니다.\n\n춘천시는 오는 14일 강원대학교 산학연혁신허브에서 'K-BioX 글로벌 바이오 이노베이션 서밋'을 개최한다고 밝혔습니다.\n\n춘천시가 주최하고 강원대학교와 글로벌한인생명과학협회 K-BioX가 주관하는 이번 행사는 해외 바이오 전문가와 지역 대학·기업을 연결하는 국제 학술교류의 장으로 펼쳐집니다\n\n미국 존스홉킨스대와 럿거스대, 홍콩대 등 국내외 전문가들이 참여해 우주환경을 활용한 신약개발과 뇌과학, 암·면역, 바이오기업의 해외 진출 등을 주제로 강연과 토론을 진행합니다.\n\n국내외 바이오기업 10개사가 참여하는 전시와 연구성과 50건을 소개하는 포스터 발표, 기업과 전문가들의 교류 프로그램도 마련됩니다.\n\n이번 행사는 춘천시가 2024년부터 K-BioX와 이어온 국제 협력의 결실이라는 점에서도 의미가 큽니다.\n\n양측은 지난해 미국 보스턴에서 국제 심포지엄을 공동 개최하고 AI 기반 건강관리와 오가노이드 연구, 지역 바이오기업의 해외 진출 등을 위한 협력을 이어왔습니다.\n\n중·고등학생과 대학생을 대상으로 오가노이드와 재생의학, AI 생명정보학 등을 체험하는 미래 과학자 프로그램도 함께 운영됩니다.\n\n육동한 춘천시장은  \"이번 서밋이 춘천의 연구역량을 세계와 연결하고 미래 인재들이 더 큰 꿈을 키우는 계기가 되기를 바란다\"고 말했습니다.\n\n#춘천시 #강원대학교 #글로벌한인생명과학협회 #KbioX #글로벌 #바이오 #이노베이션 #서밋 #학술교류\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이상현(idealtype@yna.co.kr)",
+          "creator": "장윤희",
+          "title": "동국대 불자교수회, 첫 수계법회 봉행…\"불교 정신과 학문의 만남\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261112193143qvS",
+          "pubDate": "Thu, 12 Nov 2026 19:31:45 +0900",
+          "content:encoded": "\n전계사 돈관 이사장 스님, 자비·정직·성찰 강조\n불자교수회 \"학문과 국제교류로 불교 정신 실천\"\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112193143qvS_01_i.jpg\" alt=\"\"><span class=\"yna_title\">학교법인 동국대학교 이사장 돈관 스님을 전계사로 모시고 불자교수회가 첫 수계법회를 봉행한 모습.</span><span class=\"yna_caption\">[사진 동국대학교 제공]</span><span class=\"yna_description\">[사진 동국대학교 제공]</span></div>\n\n불자 교수들이 교육자이자 연구자로서 불교의 가르침을 일상과 학문 현장에서 실천하겠다고 다짐하는 뜻깊은 법석이 펼쳐졌습니다.\n\n동국대학교는 불자교수회가 11일 오후 4시 40분 서울캠퍼스 정각원에서 첫 수계법회를 봉행했다고 밝혔습니다.\n\n이번 법회는 교원을 대상으로 마련된 첫 대규모 수계법회입니다. 학교법인 동국대학교 이사장 돈관 스님을 계법을 전하는 전계사로 모셨고, 200여 명의 교원들이 참여했습니다.\n\n돈관 스님은 법문에서 수계를 '부처님과 다시 한번 약속하는 일'이라고 설명하고, 계율을 자신을 지키는 '방패'에 비유했습니다.\n\n돈관 스님은 또 \"오계는 쉽지 않지만 아주 어려운 것도 아니\"라며 각 계율의 뜻을 이해하고 지혜롭게 실천할 것을 당부했습니다.\n\n오계(五戒)는 불자가 지켜야 할 다섯 가지 계율로 ▲생명을 해치지 않고 자비심을 기르는 일 ▲남의 것을 탐하거나 훔치지 않고 이웃과 나누는 일 ▲몸과 마음을 청정하게 하고 타인을 존중하는 일 ▲거짓말을 멀리하고 진실하게 말하며 약속을 지키는 일 ▲중독성 물질을 멀리하고 맑은 지혜를 기르는 일을 뜻합니다.\n\n돈관 스님은 특히 \"거짓말을 하지 말고 진실을 말하라\"는 계율을 풀어 설명하며, 진실한 말과 정직한 행동이 신뢰의 바탕이 된다고 설명했습니다.\n\n이어 사찰에서 스스로의 언행을 돌아보는 포살(布薩)의 의미를 짚으며 \"교수들도 자신의 언행을 돌아보고 학생들에게 더 나은 길잡이가 되어야 한다\"고 강조했습니다.\n\n\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112193143qvS_02_i.jpg\" alt=\"\"><span class=\"yna_title\">돈관 스님의 법문을 듣는 불자교수회.</span><span class=\"yna_caption\">[사진 동국대학교 제공]</span><span class=\"yna_description\">[사진 동국대학교 제공]</span></div>\n\n\n이번 법회를 통해 인문·사회·자연·공학·의학 등 다양한 전공과 이력을 지닌 교수들은 각자의 학문적 전문성과 자율성을 존중하면서도, 불교를 고리로 하는 학제 간 연구의 가능성을 확인했습니다.\n\n윤재웅 총장은 \"불교의 좋은 교육적 가치를 대학 현장 속으로 어떻게 잘 디자인할 수 있을지 고민이 필요하다\"며 \"불교와 관련해 융합 연구를 활성화하는 분위기와 문화가 정착될 수 있도록 정책적 지원을 아끼지 않겠다\"고 말했습니다.\n\n교수들은 강의실에서의 배려, 연구실에서의 정직과 윤리, 국제교류 현장에서의 상호존중, 사회를 향한 책임으로 이어지는 불교의 가르침이 전공의 벽을 넘어서는 보편적 가치라는 데 공감했습니다.\n\n예를 들어 법학 분야에서는 혐오 표현과 차별 문제에 관한 연구를 불교의 정어(正語)와 자비 정신에 연결해 볼 수 있습니다. 외국인 학생들이 언어적 어려움으로 학습에서 소외되지 않도록 별도의 학습자료를 제공하는 노력 역시 교육 현장에서 자비를 실천하는 사례로 꼽힙니다.\n\n\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112193143qvS_03_i.jpg\" alt=\"\"><span class=\"yna_title\">'지혜로, 도반으로, 함께 걷는 불자교수회' 주제 속에 펼쳐진 수계법회.</span><span class=\"yna_caption\">[사진 동국대학교 제공]</span><span class=\"yna_description\">[사진 동국대학교 제공]</span></div>\n\n불자교수회장 박명호 정치외교학과 교수는 \"불교의 가르침을 학문적 결론에 일방적으로 적용하려는 것이 아니라, 각 학문의 자율성과 전문성을 존중하면서 연구자의 윤리적 태도와 교육자의 책임을 성찰하는 데 의미가 있다\"고 설명했습니다.\n\n박 교수는 이어 \"돈관 스님께서 법문에서 강조한 자비와 성찰, 진실한 언행이 교수들의 일상과 학문 활동 속에서 이어질 때 불교 정신과 학문의 만남은 더욱 구체적인 의미를 갖게 될 것\"이라고 덧붙였습니다.\n\n미디어커뮤니케이션학과장 정용국 교수는 \"거짓말을 멀리하고 진실하게 말하라는 오계의 가르침은 오늘날 미디어 윤리의 핵심과 다르지 않다\"며 \"이번 법회는 불교와 미디어의 공통 가치를 교육·연구 현장에서 되새기는 계기가 됐다\"고 말했습니다.\n\n불자교수회는 앞으로 '지혜로, 도반으로, 함께 걷는 불자교수회'를 기치로 수행과 토론, 윤리교육, 사회공헌 활동을 이어갈 계획입니다.\n\n#수계법회 #불자교수회 #동국대학교 #오계 #돈관스님\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n장윤희(ego@yna.co.kr)",
+          "content:encodedSnippet": "전계사 돈관 이사장 스님, 자비·정직·성찰 강조\n불자교수회 \"학문과 국제교류로 불교 정신 실천\"\n학교법인 동국대학교 이사장 돈관 스님을 전계사로 모시고 불자교수회가 첫 수계법회를 봉행한 모습.[사진 동국대학교 제공][사진 동국대학교 제공]\n돈관 스님의 법문을 듣는 불자교수회.[사진 동국대학교 제공][사진 동국대학교 제공]\n'지혜로, 도반으로, 함께 걷는 불자교수회' 주제 속에 펼쳐진 수계법회.[사진 동국대학교 제공][사진 동국대학교 제공]\n\n불자교수회장 박명호 정치외교학과 교수는 \"불교의 가르침을 학문적 결론에 일방적으로 적용하려는 것이 아니라, 각 학문의 자율성과 전문성을 존중하면서 연구자의 윤리적 태도와 교육자의 책임을 성찰하는 데 의미가 있다\"고 설명했습니다.\n\n박 교수는 이어 \"돈관 스님께서 법문에서 강조한 자비와 성찰, 진실한 언행이 교수들의 일상과 학문 활동 속에서 이어질 때 불교 정신과 학문의 만남은 더욱 구체적인 의미를 갖게 될 것\"이라고 덧붙였습니다.\n\n미디어커뮤니케이션학과장 정용국 교수는 \"거짓말을 멀리하고 진실하게 말하라는 오계의 가르침은 오늘날 미디어 윤리의 핵심과 다르지 않다\"며 \"이번 법회는 불교와 미디어의 공통 가치를 교육·연구 현장에서 되새기는 계기가 됐다\"고 말했습니다.\n\n불자교수회는 앞으로 '지혜로, 도반으로, 함께 걷는 불자교수회'를 기치로 수행과 토론, 윤리교육, 사회공헌 활동을 이어갈 계획입니다.\n\n#수계법회 #불자교수회 #동국대학교 #오계 #돈관스님\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n장윤희(ego@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112105049Wlf_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112193143qvS_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "이상현",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261112105049Wlf#comments",
-          "content": "K-BioX GLOBAL BIO INNOVATION SUMMIT 행사 포스터[춘천시 제공][춘천시 제공] 국내외 바이오 분야 연구자와 기업인들이 춘천에 모여 최신 연구 성과를 공유하고 글로벌 협력 방안을 모색합니다. 춘천시는 오는 14일 강원대학교 산학연혁신허브에서 'K-BioX 글로벌 바이오 이노베이션 서밋'을 개최한다고 밝혔습니다. 춘천시가 주최하고 강원대학교와 글로벌한인생명과학협회 K-BioX가 주관하는 이번 행사는 해외 바이오 전문...",
-          "contentSnippet": "K-BioX GLOBAL BIO INNOVATION SUMMIT 행사 포스터[춘천시 제공][춘천시 제공] 국내외 바이오 분야 연구자와 기업인들이 춘천에 모여 최신 연구 성과를 공유하고 글로벌 협력 방안을 모색합니다. 춘천시는 오는 14일 강원대학교 산학연혁신허브에서 'K-BioX 글로벌 바이오 이노베이션 서밋'을 개최한다고 밝혔습니다. 춘천시가 주최하고 강원대학교와 글로벌한인생명과학협회 K-BioX가 주관하는 이번 행사는 해외 바이오 전문...",
-          "guid": "AKR20261112105049Wlf",
+          "dc:creator": "장윤희",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261112193143qvS#comments",
+          "content": "전계사 돈관 이사장 스님, 자비·정직·성찰 강조 불자교수회 \"학문과 국제교류로 불교 정신 실천\" 학교법인 동국대학교 이사장 돈관 스님을 전계사로 모시고 불자교수회가 첫 수계법회를 봉행한 모습.[사진 동국대학교 제공][사진 동국대학교 제공] 불자 교수들이 교육자이자 연구자로서 불교의 가르침을 일상과 학문 현장에서 실천하겠다고 다짐하는 뜻깊은 법석이 펼쳐졌습니다. 동국대학교는 불자교수회가 11일 오후 4시 40분 서울캠퍼스 정각원에서 첫 수계...",
+          "contentSnippet": "전계사 돈관 이사장 스님, 자비·정직·성찰 강조 불자교수회 \"학문과 국제교류로 불교 정신 실천\" 학교법인 동국대학교 이사장 돈관 스님을 전계사로 모시고 불자교수회가 첫 수계법회를 봉행한 모습.[사진 동국대학교 제공][사진 동국대학교 제공] 불자 교수들이 교육자이자 연구자로서 불교의 가르침을 일상과 학문 현장에서 실천하겠다고 다짐하는 뜻깊은 법석이 펼쳐졌습니다. 동국대학교는 불자교수회가 11일 오후 4시 40분 서울캠퍼스 정각원에서 첫 수계...",
+          "guid": "AKR20261112193143qvS",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-12T01:50:50.000Z"
+          "isoDate": "2026-11-12T10:31:45.000Z"
         },
         {
-          "creator": "이은파",
-          "title": "서산어리굴젓·보령천북굴…충남 서해안서 제철 맞은 굴축제 잇따라",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261112105024yw3",
-          "pubDate": "Thu, 12 Nov 2026 10:50:25 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112105024yw3_01_i.jpg\" alt=\"\"><span class=\"yna_title\">제7회 서산어리굴젓축제 포스터</span><span class=\"yna_caption\">[서산시 제공. 재판매 및 DB 금지]</span><span class=\"yna_description\">[서산시 제공. 재판매 및 DB 금지]</span></div>\n\n충남 서해안에서 제철 맞은 굴 축제가 잇따라 개최됩니다.\n\n서산시는 오는  14일부터 15일까지 부석면 간월도항 일원에서 '제7회 서산어리굴젓 축제'가 개최된다고 오늘(12일) 밝혔습니다.\n\n간월도의 맛과 멋을 알리기 위해 마련된 이번 축제에서는  어리굴젓·굴김치 담그기 체험과 전문 셰프의 굴 요리 강좌 등이 마련됩니다.\n\n지역 농특산물을 저렴하게 구매할 수 있는 깜짝 경매가 열리며, 따뜻한 밥 위에 얹은 어리굴젓을 맛볼 수 있는 시식회도 진행됩니다.\n\n\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112105024yw3_02_i.jpg\" alt=\"\"><span class=\"yna_title\">제21회 보령시 천북굴축제 포스터</span><span class=\"yna_caption\">[보령시 제공. 재판매 및 DB 금지]</span><span class=\"yna_description\">[보령시 제공. 재판매 및 DB 금지]</span></div>\n\n보령시 천북면 굴 단지에서는 14~15일 '제21회 보령시 천북굴축제'가 펼쳐집니다.\n\n주요 프로그램은 굴 까기 체험, 굴 무게 맞추기 대회, 노래자랑, 모바일 사진전, 거리공연 등입니다.\n\n살이 통통하게 오른 굴구이를 비롯해 굴국밥, 굴밥, 굴칼국수, 굴찜, 굴무침 등 다양한 굴 요리를 한자리에서 즐길 수 있습니다.\n\n시 관계자는 \"굴 요리는 찬바람이 불어야 제맛을 느낄 수 있다\"며 \"굴도 맛보고 지역 곳곳을 여행하며 가족, 연인, 친구와 따뜻한 추억을 만들기길 바란다\"고 말했습니다.\n\n#서산시 #보령시 #서산어리굴젓축제 #보령시천북굴축제 #제철 #굴\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이은파(sw21@yna.co.kr)",
-          "content:encodedSnippet": "제7회 서산어리굴젓축제 포스터[서산시 제공. 재판매 및 DB 금지][서산시 제공. 재판매 및 DB 금지]\n제21회 보령시 천북굴축제 포스터[보령시 제공. 재판매 및 DB 금지][보령시 제공. 재판매 및 DB 금지]\n\n보령시 천북면 굴 단지에서는 14~15일 '제21회 보령시 천북굴축제'가 펼쳐집니다.\n\n주요 프로그램은 굴 까기 체험, 굴 무게 맞추기 대회, 노래자랑, 모바일 사진전, 거리공연 등입니다.\n\n살이 통통하게 오른 굴구이를 비롯해 굴국밥, 굴밥, 굴칼국수, 굴찜, 굴무침 등 다양한 굴 요리를 한자리에서 즐길 수 있습니다.\n\n시 관계자는 \"굴 요리는 찬바람이 불어야 제맛을 느낄 수 있다\"며 \"굴도 맛보고 지역 곳곳을 여행하며 가족, 연인, 친구와 따뜻한 추억을 만들기길 바란다\"고 말했습니다.\n\n#서산시 #보령시 #서산어리굴젓축제 #보령시천북굴축제 #제철 #굴\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이은파(sw21@yna.co.kr)",
+          "creator": "차상경",
+          "title": "中 \"엔비디아 스파이 의혹, 기술 봉쇄 구실 삼지 말라\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261112192446Ckf",
+          "pubDate": "Thu, 12 Nov 2026 19:24:47 +0900",
+          "content:encoded": "중국 정부가 젠슨 황 엔비디아 CEO의 스파이 의혹을 빌미로 대중국 기술 봉쇄를 강화하지 말라고 미국에 경고했습니다.\n\n마오닝 중국 외교부 대변인은 오늘(12일) 정례 브리핑에서 \"미국은 이른바 스파이 이야기를 지어내 기술 봉쇄의 구실로 삼는 행위를 중단해야 한다\"고 촉구했습니다.\n\n마오 대변인은 스파이 의혹의 핵심 인물인 앨리스 황, 중국명 황러가 베이징에 거주한다는 블룸버그 보도에 대해서는 \"알지 못한다\"고 답했습니다.\n\n중국은 다음 주 미중 정상회담을 앞두고 양국 정상의 기존 합의를 이행하고, 상호 존중과 공정성에 기초한 관계를 구축하겠다는 입장도 내놨습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n차상경(sanggyoung@yna.co.kr)",
+          "content:encodedSnippet": "중국 정부가 젠슨 황 엔비디아 CEO의 스파이 의혹을 빌미로 대중국 기술 봉쇄를 강화하지 말라고 미국에 경고했습니다.\n\n마오닝 중국 외교부 대변인은 오늘(12일) 정례 브리핑에서 \"미국은 이른바 스파이 이야기를 지어내 기술 봉쇄의 구실로 삼는 행위를 중단해야 한다\"고 촉구했습니다.\n\n마오 대변인은 스파이 의혹의 핵심 인물인 앨리스 황, 중국명 황러가 베이징에 거주한다는 블룸버그 보도에 대해서는 \"알지 못한다\"고 답했습니다.\n\n중국은 다음 주 미중 정상회담을 앞두고 양국 정상의 기존 합의를 이행하고, 상호 존중과 공정성에 기초한 관계를 구축하겠다는 입장도 내놨습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n차상경(sanggyoung@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112105024yw3_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261112/MYH20261112192446Ckf.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "이은파",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261112105024yw3#comments",
-          "content": "제7회 서산어리굴젓축제 포스터[서산시 제공. 재판매 및 DB 금지][서산시 제공. 재판매 및 DB 금지] 충남 서해안에서 제철 맞은 굴 축제가 잇따라 개최됩니다. 서산시는 오는 14일부터 15일까지 부석면 간월도항 일원에서 '제7회 서산어리굴젓 축제'가 개최된다고 오늘(12일) 밝혔습니다. 간월도의 맛과 멋을 알리기 위해 마련된 이번 축제에서는 어리굴젓·굴김치 담그기 체험과 전문 셰프의 굴 요리 강좌 등이 마련됩니다. 지역 농특산물을 저렴...",
-          "contentSnippet": "제7회 서산어리굴젓축제 포스터[서산시 제공. 재판매 및 DB 금지][서산시 제공. 재판매 및 DB 금지] 충남 서해안에서 제철 맞은 굴 축제가 잇따라 개최됩니다. 서산시는 오는 14일부터 15일까지 부석면 간월도항 일원에서 '제7회 서산어리굴젓 축제'가 개최된다고 오늘(12일) 밝혔습니다. 간월도의 맛과 멋을 알리기 위해 마련된 이번 축제에서는 어리굴젓·굴김치 담그기 체험과 전문 셰프의 굴 요리 강좌 등이 마련됩니다. 지역 농특산물을 저렴...",
-          "guid": "AKR20261112105024yw3",
+          "dc:creator": "차상경",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261112192446Ckf#comments",
+          "content": "중국 정부가 젠슨 황 엔비디아 CEO의 스파이 의혹을 빌미로 대중국 기술 봉쇄를 강화하지 말라고 미국에 경고했습니다. 마오닝 중국 외교부 대변인은 오늘(12일) 정례 브리핑에서 \"미국은 이른바 스파이 이야기를 지어내 기술 봉쇄의 구실로 삼는 행위를 중단해야 한다\"고 촉구했습니다. 마오 대변인은 스파이 의혹의 핵심 인물인 앨리스 황, 중국명 황러가 베이징에 거주한다는 블룸버그 보도에 대해서는 \"알지 못한다\"고 답했습니다. 중국은 다음 주 미...",
+          "contentSnippet": "중국 정부가 젠슨 황 엔비디아 CEO의 스파이 의혹을 빌미로 대중국 기술 봉쇄를 강화하지 말라고 미국에 경고했습니다. 마오닝 중국 외교부 대변인은 오늘(12일) 정례 브리핑에서 \"미국은 이른바 스파이 이야기를 지어내 기술 봉쇄의 구실로 삼는 행위를 중단해야 한다\"고 촉구했습니다. 마오 대변인은 스파이 의혹의 핵심 인물인 앨리스 황, 중국명 황러가 베이징에 거주한다는 블룸버그 보도에 대해서는 \"알지 못한다\"고 답했습니다. 중국은 다음 주 미...",
+          "guid": "MYH20261112192446Ckf",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-12T01:50:25.000Z"
+          "isoDate": "2026-11-12T10:24:47.000Z"
         },
         {
-          "creator": "이초원",
-          "title": "프로야구 LG, 오스틴과 1년 더…KBO 외인 타자 중 '최고 금액'",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR202611121048062DD",
-          "pubDate": "Thu, 12 Nov 2026 10:48:06 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR202611121048062DD_01_i.jpg\" alt=\"\"><span class=\"yna_title\">투런 홈런 치는 LG 오스틴</span><span class=\"yna_caption\">[연합뉴스 자료사진]</span><span class=\"yna_description\">[연합뉴스 자료사진]</span></div>\n프로야구 LG트윈스가 내년에도 외국인 선수 오스틴 딘과 동행을 이어갑니다.\n\n구단은 \"오스틴과 계약기간 1년에 2백만 달러, 우리 돈 약 26억 원에 재계약을 맺기로 했다\"고 밝혔습니다. 이는 KBO리그 역대 외국인 타자 중 최고 연봉입니다.\n\n오스틴은 \"올해 시즌을 아쉽게 마무리했음에도 끝까지 응원해 주신 팬들의 목소리가 아직 생생하다. 내년 새로운 야구장에서 치를 시즌도 기대된다”며 \"내년에도 팬들의 사랑과 기대에 보답할 수 있도록 더 발전하는 외국인 타자가 되겠다\"고 소감을 밝혔습니다.\n\n2023년 LG에 합류한 오스틴은 4시즌 동안 539경기에서 타율 0.320, 644안타, 127홈런, 449타점을 기록했습니다.\n\n특히, 올 시즌에는 홈런 41개로 구단 단일시즌 역대 최다 홈런까지 달성하며 LG 대표 외국인 타자로 자리 잡았습니다.\n\n#LG트윈스 #오스틴\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이초원(grass@yna.co.kr)",
-          "content:encodedSnippet": "투런 홈런 치는 LG 오스틴[연합뉴스 자료사진][연합뉴스 자료사진]\n프로야구 LG트윈스가 내년에도 외국인 선수 오스틴 딘과 동행을 이어갑니다.\n\n구단은 \"오스틴과 계약기간 1년에 2백만 달러, 우리 돈 약 26억 원에 재계약을 맺기로 했다\"고 밝혔습니다. 이는 KBO리그 역대 외국인 타자 중 최고 연봉입니다.\n\n오스틴은 \"올해 시즌을 아쉽게 마무리했음에도 끝까지 응원해 주신 팬들의 목소리가 아직 생생하다. 내년 새로운 야구장에서 치를 시즌도 기대된다”며 \"내년에도 팬들의 사랑과 기대에 보답할 수 있도록 더 발전하는 외국인 타자가 되겠다\"고 소감을 밝혔습니다.\n\n2023년 LG에 합류한 오스틴은 4시즌 동안 539경기에서 타율 0.320, 644안타, 127홈런, 449타점을 기록했습니다.\n\n특히, 올 시즌에는 홈런 41개로 구단 단일시즌 역대 최다 홈런까지 달성하며 LG 대표 외국인 타자로 자리 잡았습니다.\n\n#LG트윈스 #오스틴\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이초원(grass@yna.co.kr)",
+          "creator": "장효인",
+          "title": "젤렌스키 \"스타실드 심각 장애…러 드론 요격 어려워\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261112190629MlE",
+          "pubDate": "Thu, 12 Nov 2026 19:06:32 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112190629MlE_01_i.jpg\" alt=\"\"><span class=\"yna_title\">아일랜드 방문한 볼로디미르 젤렌스키 우크라이나 대통령</span><span class=\"yna_caption\">[로이터=연합뉴스 제공]</span><span class=\"yna_description\">[로이터=연합뉴스 제공]</span></div>\n우크라이나 드론 운용의 핵심 통신 기술인 스타실드 운영이 또 차질을 빚는 것으로 전해졌습니다.\n\n볼로디미르 젤렌스키 우크라이나 대통령은 현지시간 12일 소셜미디어를 통해 \"며칠 전부터 우크라이나 영토 전역에서 스타실드 운영에 심각한 장애가 발생하고 있다\"고 밝혔습니다.\n\n젤렌스키 대통령은 \"구체적으로 스타실드에 시속 161㎞의 속도 제한이 걸렸다\"며 \"이는 우발적인 오류가 아니라 체계적으로 적용되는 속도 제한\"이라고 주장했습니다.\n\n스타실드는 스타링크망을 기반으로 한 군사용 위성통신 시스템입니다.\n\n스타링크는 일론 머스크의 우주기업 스페이스X의 위성 인터넷 서비스로, 일반 전파 신호보다 안정성이 더 높은 것으로 알려졌습니다.\n\n스타링크는 우크라이나군의 핵심 전력인 중거리 드론 운용과 러시아 고속 드론 요격에 필수적인 기술입니다.\n\n스타링크는 지난달 중순 우크라이나가 도널드 트럼프 미국 대통령이 제안한 '에너지 휴전'과 '미·러 경유딜'을 놓고 미국과 갈등한 뒤로 속도 제한이 걸려 논란이 됐습니다.\n\n젤렌스키 대통령은 \"미국 측과 함께 이러한 상황이 발생한 모든 경위를 규명하기 위해 노력하고 있다\"고 말했습니다.\n\n#스타링크 #스타실드 #젤렌스키 #러우전쟁 #우크라전\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n장효인(hijang@yna.co.kr)",
+          "content:encodedSnippet": "아일랜드 방문한 볼로디미르 젤렌스키 우크라이나 대통령[로이터=연합뉴스 제공][로이터=연합뉴스 제공]\n우크라이나 드론 운용의 핵심 통신 기술인 스타실드 운영이 또 차질을 빚는 것으로 전해졌습니다.\n\n볼로디미르 젤렌스키 우크라이나 대통령은 현지시간 12일 소셜미디어를 통해 \"며칠 전부터 우크라이나 영토 전역에서 스타실드 운영에 심각한 장애가 발생하고 있다\"고 밝혔습니다.\n\n젤렌스키 대통령은 \"구체적으로 스타실드에 시속 161㎞의 속도 제한이 걸렸다\"며 \"이는 우발적인 오류가 아니라 체계적으로 적용되는 속도 제한\"이라고 주장했습니다.\n\n스타실드는 스타링크망을 기반으로 한 군사용 위성통신 시스템입니다.\n\n스타링크는 일론 머스크의 우주기업 스페이스X의 위성 인터넷 서비스로, 일반 전파 신호보다 안정성이 더 높은 것으로 알려졌습니다.\n\n스타링크는 우크라이나군의 핵심 전력인 중거리 드론 운용과 러시아 고속 드론 요격에 필수적인 기술입니다.\n\n스타링크는 지난달 중순 우크라이나가 도널드 트럼프 미국 대통령이 제안한 '에너지 휴전'과 '미·러 경유딜'을 놓고 미국과 갈등한 뒤로 속도 제한이 걸려 논란이 됐습니다.\n\n젤렌스키 대통령은 \"미국 측과 함께 이러한 상황이 발생한 모든 경위를 규명하기 위해 노력하고 있다\"고 말했습니다.\n\n#스타링크 #스타실드 #젤렌스키 #러우전쟁 #우크라전\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n장효인(hijang@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR202611121048062DD_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112190629MlE_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "이초원",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR202611121048062DD#comments",
-          "content": "투런 홈런 치는 LG 오스틴[연합뉴스 자료사진][연합뉴스 자료사진] 프로야구 LG트윈스가 내년에도 외국인 선수 오스틴 딘과 동행을 이어갑니다. 구단은 \"오스틴과 계약기간 1년에 2백만 달러, 우리 돈 약 26억 원에 재계약을 맺기로 했다\"고 밝혔습니다. 이는 KBO리그 역대 외국인 타자 중 최고 연봉입니다. 오스틴은 \"올해 시즌을 아쉽게 마무리했음에도 끝까지 응원해 주신 팬들의 목소리가 아직 생생하다. 내년 새로운 야구장에서 치를 시즌도 ...",
-          "contentSnippet": "투런 홈런 치는 LG 오스틴[연합뉴스 자료사진][연합뉴스 자료사진] 프로야구 LG트윈스가 내년에도 외국인 선수 오스틴 딘과 동행을 이어갑니다. 구단은 \"오스틴과 계약기간 1년에 2백만 달러, 우리 돈 약 26억 원에 재계약을 맺기로 했다\"고 밝혔습니다. 이는 KBO리그 역대 외국인 타자 중 최고 연봉입니다. 오스틴은 \"올해 시즌을 아쉽게 마무리했음에도 끝까지 응원해 주신 팬들의 목소리가 아직 생생하다. 내년 새로운 야구장에서 치를 시즌도 ...",
-          "guid": "AKR202611121048062DD",
+          "dc:creator": "장효인",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261112190629MlE#comments",
+          "content": "아일랜드 방문한 볼로디미르 젤렌스키 우크라이나 대통령[로이터=연합뉴스 제공][로이터=연합뉴스 제공] 우크라이나 드론 운용의 핵심 통신 기술인 스타실드 운영이 또 차질을 빚는 것으로 전해졌습니다. 볼로디미르 젤렌스키 우크라이나 대통령은 현지시간 12일 소셜미디어를 통해 \"며칠 전부터 우크라이나 영토 전역에서 스타실드 운영에 심각한 장애가 발생하고 있다\"고 밝혔습니다. 젤렌스키 대통령은 \"구체적으로 스타실드에 시속 161㎞의 속도 제한이 걸렸...",
+          "contentSnippet": "아일랜드 방문한 볼로디미르 젤렌스키 우크라이나 대통령[로이터=연합뉴스 제공][로이터=연합뉴스 제공] 우크라이나 드론 운용의 핵심 통신 기술인 스타실드 운영이 또 차질을 빚는 것으로 전해졌습니다. 볼로디미르 젤렌스키 우크라이나 대통령은 현지시간 12일 소셜미디어를 통해 \"며칠 전부터 우크라이나 영토 전역에서 스타실드 운영에 심각한 장애가 발생하고 있다\"고 밝혔습니다. 젤렌스키 대통령은 \"구체적으로 스타실드에 시속 161㎞의 속도 제한이 걸렸...",
+          "guid": "AKR20261112190629MlE",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-12T01:48:06.000Z"
+          "isoDate": "2026-11-12T10:06:32.000Z"
         },
         {
-          "creator": "강지수",
-          "title": "LIV 골프서 뛰었던 안병훈, 내년 DP월드투어 출전권 확보",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261112104608Cn3",
-          "pubDate": "Thu, 12 Nov 2026 10:46:08 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112104608Cn3_01_i.jpg\" alt=\"\"><span class=\"yna_title\">티샷하는 안병훈</span><span class=\"yna_caption\">(부산=연합뉴스) 김성민 기자 = 31일 부산 기장군 아시아드 컨트리클럽에서 열린 LIV 골프 코리아 대회 4라운드에서 안병훈이 티샷을 하고 있다. 2026.5.31 ksm7976@yna.co.kr</span><span class=\"yna_description\">(부산=연합뉴스) 김성민 기자 = 31일 부산 기장군 아시아드 컨트리클럽에서 열린 LIV 골프 코리아 대회 4라운드에서 안병훈이 티샷을 하고 있다. 2026.5.31 ksm7976@yna.co.kr</span></div>\n\n\nLIV 골프에서 뛰었던 안병훈이 DP월드투어 퀄리파잉 스쿨(Q스쿨)을 통과하며 2027시즌 출전권을 확보했습니다.\n\n안병훈은 12일(한국시간) 스페인 타라고나의 인피니툼 골프 레이크스 코스(파71)에서 열린 DP월드투어 Q스쿨 최종전에서 최종 합계 28언더파 400타를 기록해 공동 8위에 올랐습니다.\n\n투어 정규 대회 출전 자격을 얻기 위한 선발전인 Q스쿨 최종전은 엿새 동안 6라운드로 진행됐습니다.\n\n안병훈은 마지막 날 버디 6개와 보기 1개를 묶어 5타를 줄이면서 공동 순위 포함 15위까지 주어지는 출전권을 여유 있게 따냈습니다.\n\n2015년 DP월드투어 BMW PGA 챔피언십에서 우승한 안병훈은 이듬해 미국프로골프 PGA 투어에 진출했고, 올해는 LIV 골프로 무대를 옮겨 활동했습니다.\n\n하지만 LIV 골프가 파산하면서 새로운 투어 무대를 모색해 온 안병훈은 이번 Q스쿨을 통해 DP월드투어 출전권을 확보하며 내년 시즌 유럽 무대에 복귀하게 됐습니다.\n\n#미국프로골프 #LIV #DP월드투어Q스쿨 #골프 #안병훈 #유럽프로골프투어\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n강지수(jisurimasuri@yna.co.kr)",
-          "content:encodedSnippet": "티샷하는 안병훈(부산=연합뉴스) 김성민 기자 = 31일 부산 기장군 아시아드 컨트리클럽에서 열린 LIV 골프 코리아 대회 4라운드에서 안병훈이 티샷을 하고 있다. 2026.5.31 ksm7976@yna.co.kr(부산=연합뉴스) 김성민 기자 = 31일 부산 기장군 아시아드 컨트리클럽에서 열린 LIV 골프 코리아 대회 4라운드에서 안병훈이 티샷을 하고 있다. 2026.5.31 ksm7976@yna.co.kr\n\n\nLIV 골프에서 뛰었던 안병훈이 DP월드투어 퀄리파잉 스쿨(Q스쿨)을 통과하며 2027시즌 출전권을 확보했습니다.\n\n안병훈은 12일(한국시간) 스페인 타라고나의 인피니툼 골프 레이크스 코스(파71)에서 열린 DP월드투어 Q스쿨 최종전에서 최종 합계 28언더파 400타를 기록해 공동 8위에 올랐습니다.\n\n투어 정규 대회 출전 자격을 얻기 위한 선발전인 Q스쿨 최종전은 엿새 동안 6라운드로 진행됐습니다.\n\n안병훈은 마지막 날 버디 6개와 보기 1개를 묶어 5타를 줄이면서 공동 순위 포함 15위까지 주어지는 출전권을 여유 있게 따냈습니다.\n\n2015년 DP월드투어 BMW PGA 챔피언십에서 우승한 안병훈은 이듬해 미국프로골프 PGA 투어에 진출했고, 올해는 LIV 골프로 무대를 옮겨 활동했습니다.\n\n하지만 LIV 골프가 파산하면서 새로운 투어 무대를 모색해 온 안병훈은 이번 Q스쿨을 통해 DP월드투어 출전권을 확보하며 내년 시즌 유럽 무대에 복귀하게 됐습니다.\n\n#미국프로골프 #LIV #DP월드투어Q스쿨 #골프 #안병훈 #유럽프로골프투어\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n강지수(jisurimasuri@yna.co.kr)",
+          "creator": "박수주",
+          "title": "北최선희, G7 '비핵화' 촉구 비난 담화…\"핵보유 부정은 진리 부정\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261112185741RUr",
+          "pubDate": "Thu, 12 Nov 2026 18:57:43 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112185741RUr_01_i.jpg\" alt=\"\"><span class=\"yna_title\">왕이 중국 외교부장과 회담하는 최선희 외무상</span><span class=\"yna_caption\">(서울=연합뉴스) 최선희 북한 외무상이 지난 9일 금수산영빈관에서 왕이 중국 외교부장과 회담했다고 조선중앙TV가 10일 보도했다. [조선중앙TV 화면] 2026.4.10\n[국내에서만 사용가능. 재배포 금지. For Use Only in the Republic of Korea. No Redistribution] nkphoto@yna.co.kr</span><span class=\"yna_description\">(서울=연합뉴스) 최선희 북한 외무상이 지난 9일 금수산영빈관에서 왕이 중국 외교부장과 회담했다고 조선중앙TV가 10일 보도했다. [조선중앙TV 화면] 2026.4.10\n[국내에서만 사용가능. 재배포 금지. For Use Only in the Republic of Korea. No Redistribution] nkphoto@yna.co.kr</span></div>\n북한 최선희 외무상이 '북한의 완전한 비핵화'를 촉구한 주요 7개국(G7) 외교장관회의를 비난하며 핵보유의 정당성을 거듭 주장하는 담화를 발표했습니다.\n\n최 외무상은 오늘(12일) 조선중앙통신을 통해 담화를 내고 \"조선민주주의인민공화국(북한) 외무상으로서 나는 우리 국가의 헌법적 권리에 대한 G7의 악의적인 비난행태를 강력히 규탄배격\"한다고 밝혔습니다.\n\n그러면서 \"그 무엇에도 흔들리지 않을 조선민주주의인민공화국의 확고부동한 핵보유 의지를 다시 한번 가장 명백히 재천명한다\"고 강조했습니다.\n\n최 외무상은 \"조선반도 문제 특히 조선민주주의인민공화국의 핵보유국 지위는 서방의 논의 대상이 절대로 될 수 없다\"며 \"전패국이 활개치는 G7은 그 누구의 핵문제에 대해 거론하거나 평가를 달 자격이 없다\"고 주장했습니다.\n\n이어 \"조선민주주의인민공화국의 핵보유는 유엔헌장에 명시되여 있는 자위권에 전적으로 부합되는 합법적이며 정당한 주권행사로서 그에 대한 부정은 곧 진리에 대한 부정이며 조선민주주의인민공화국과의 대결을 목적한 적대적 의사의 숨김없는 노출\"이라고도 했습니다.\n\n또 \"핵보유가 국권 보장의 최상의 담보라는 우리의 평가와 입장은 절대불변하다\"고 밝혔습니다.\n\n최 외무상은 \"조선반도 지역의 평화와 안정을 보장할 수 있는 유일한 방도는 이론적으로나 실천적으로 실현시킬 수 없는 '비핵화' 문제를 제창하는 데 있는 것이 아니라 조선민주주의인민공화국의 헌법적 지위를 존중하는 데 있다\"고 강조했습니다.\n\n그러면서 \"서방 세계의 수사학적 부정과는 무관하게 엄존하는 조선민주주의인민공화국의 핵보유국 지위는 현재는 물론 앞으로도 G7의 전략적 실패를 입증하는 대표적 사례로 기록될 것\"라고 주장했습니다.\n\n최 외무상의 담화는 다음 주 중국 선전에서 열리는 아시아태평양경제협력체(APEC) 정상회의를 앞두고 나왔습니다.\n\n이번 APEC 정상회의에서 미중러 3국 정상회담 개최 가능성이 거론되는데, '핵 군축 회담'이 될 수 있다는 관측이 제기된 바 있습니다.\n\n#북한 #최선희 #비핵화 #핵보유 #미중러 #APEC\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박수주(sooju@yna.co.kr)",
+          "content:encodedSnippet": "왕이 중국 외교부장과 회담하는 최선희 외무상(서울=연합뉴스) 최선희 북한 외무상이 지난 9일 금수산영빈관에서 왕이 중국 외교부장과 회담했다고 조선중앙TV가 10일 보도했다. [조선중앙TV 화면] 2026.4.10\n[국내에서만 사용가능. 재배포 금지. For Use Only in the Republic of Korea. No Redistribution] nkphoto@yna.co.kr(서울=연합뉴스) 최선희 북한 외무상이 지난 9일 금수산영빈관에서 왕이 중국 외교부장과 회담했다고 조선중앙TV가 10일 보도했다. [조선중앙TV 화면] 2026.4.10\n[국내에서만 사용가능. 재배포 금지. For Use Only in the Republic of Korea. No Redistribution] nkphoto@yna.co.kr\n북한 최선희 외무상이 '북한의 완전한 비핵화'를 촉구한 주요 7개국(G7) 외교장관회의를 비난하며 핵보유의 정당성을 거듭 주장하는 담화를 발표했습니다.\n\n최 외무상은 오늘(12일) 조선중앙통신을 통해 담화를 내고 \"조선민주주의인민공화국(북한) 외무상으로서 나는 우리 국가의 헌법적 권리에 대한 G7의 악의적인 비난행태를 강력히 규탄배격\"한다고 밝혔습니다.\n\n그러면서 \"그 무엇에도 흔들리지 않을 조선민주주의인민공화국의 확고부동한 핵보유 의지를 다시 한번 가장 명백히 재천명한다\"고 강조했습니다.\n\n최 외무상은 \"조선반도 문제 특히 조선민주주의인민공화국의 핵보유국 지위는 서방의 논의 대상이 절대로 될 수 없다\"며 \"전패국이 활개치는 G7은 그 누구의 핵문제에 대해 거론하거나 평가를 달 자격이 없다\"고 주장했습니다.\n\n이어 \"조선민주주의인민공화국의 핵보유는 유엔헌장에 명시되여 있는 자위권에 전적으로 부합되는 합법적이며 정당한 주권행사로서 그에 대한 부정은 곧 진리에 대한 부정이며 조선민주주의인민공화국과의 대결을 목적한 적대적 의사의 숨김없는 노출\"이라고도 했습니다.\n\n또 \"핵보유가 국권 보장의 최상의 담보라는 우리의 평가와 입장은 절대불변하다\"고 밝혔습니다.\n\n최 외무상은 \"조선반도 지역의 평화와 안정을 보장할 수 있는 유일한 방도는 이론적으로나 실천적으로 실현시킬 수 없는 '비핵화' 문제를 제창하는 데 있는 것이 아니라 조선민주주의인민공화국의 헌법적 지위를 존중하는 데 있다\"고 강조했습니다.\n\n그러면서 \"서방 세계의 수사학적 부정과는 무관하게 엄존하는 조선민주주의인민공화국의 핵보유국 지위는 현재는 물론 앞으로도 G7의 전략적 실패를 입증하는 대표적 사례로 기록될 것\"라고 주장했습니다.\n\n최 외무상의 담화는 다음 주 중국 선전에서 열리는 아시아태평양경제협력체(APEC) 정상회의를 앞두고 나왔습니다.\n\n이번 APEC 정상회의에서 미중러 3국 정상회담 개최 가능성이 거론되는데, '핵 군축 회담'이 될 수 있다는 관측이 제기된 바 있습니다.\n\n#북한 #최선희 #비핵화 #핵보유 #미중러 #APEC\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박수주(sooju@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112104608Cn3_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112185741RUr_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "강지수",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261112104608Cn3#comments",
-          "content": "티샷하는 안병훈(부산=연합뉴스) 김성민 기자 = 31일 부산 기장군 아시아드 컨트리클럽에서 열린 LIV 골프 코리아 대회 4라운드에서 안병훈이 티샷을 하고 있다. 2026.5.31 ksm7976@yna.co.kr(부산=연합뉴스) 김성민 기자 = 31일 부산 기장군 아시아드 컨트리클럽에서 열린 LIV 골프 코리아 대회 4라운드에서 안병훈이 티샷을 하고 있다. 2026.5.31 ksm7976@yna.co.kr LIV 골프에서 뛰었던 안병훈이 ...",
-          "contentSnippet": "티샷하는 안병훈(부산=연합뉴스) 김성민 기자 = 31일 부산 기장군 아시아드 컨트리클럽에서 열린 LIV 골프 코리아 대회 4라운드에서 안병훈이 티샷을 하고 있다. 2026.5.31 ksm7976@yna.co.kr(부산=연합뉴스) 김성민 기자 = 31일 부산 기장군 아시아드 컨트리클럽에서 열린 LIV 골프 코리아 대회 4라운드에서 안병훈이 티샷을 하고 있다. 2026.5.31 ksm7976@yna.co.kr LIV 골프에서 뛰었던 안병훈이 ...",
-          "guid": "AKR20261112104608Cn3",
+          "dc:creator": "박수주",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261112185741RUr#comments",
+          "content": "왕이 중국 외교부장과 회담하는 최선희 외무상(서울=연합뉴스) 최선희 북한 외무상이 지난 9일 금수산영빈관에서 왕이 중국 외교부장과 회담했다고 조선중앙TV가 10일 보도했다. [조선중앙TV 화면] 2026.4.10 [국내에서만 사용가능. 재배포 금지. For Use Only in the Republic of Korea. No Redistribution] nkphoto@yna.co.kr(서울=연합뉴스) 최선희 북한 외무상이 지난 9일 금수산영...",
+          "contentSnippet": "왕이 중국 외교부장과 회담하는 최선희 외무상(서울=연합뉴스) 최선희 북한 외무상이 지난 9일 금수산영빈관에서 왕이 중국 외교부장과 회담했다고 조선중앙TV가 10일 보도했다. [조선중앙TV 화면] 2026.4.10 [국내에서만 사용가능. 재배포 금지. For Use Only in the Republic of Korea. No Redistribution] nkphoto@yna.co.kr(서울=연합뉴스) 최선희 북한 외무상이 지난 9일 금수산영...",
+          "guid": "AKR20261112185741RUr",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-12T01:46:08.000Z"
+          "isoDate": "2026-11-12T09:57:43.000Z"
         },
         {
-          "creator": "이상현",
-          "title": "동해 무릉계곡 숲길 새단장…\"안전·경관 모두 잡았다\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261112104328EvN",
-          "pubDate": "Thu, 12 Nov 2026 10:43:29 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112104328EvN_01_i.jpg\" alt=\"\"><span class=\"yna_title\">새롭게 단장한 동해 무릉계곡 숲길</span><span class=\"yna_caption\">[동해시 제공]</span><span class=\"yna_description\">[동해시 제공]</span></div>\n강원 동해시가 무릉계곡 일대 주요 숲길의 정비를 마치고 탐방객 맞이에 나섰습니다.\n\n동해시는 무릉계곡 피마름골과 베틀바위에서 두타산성으로 이어지는 숲길 정비사업을 완료했다고 12일 밝혔습니다.\n\n이번 정비는 산림청과의 공동산림사업 협약에 따라 추진됐습니다.\n\n피마름골 숲길에는 무릉계곡의 자연경관을 조망할 수 있는 전망형 쉼터를 새로 마련했습니다.\n\n탐방객들이 산행 중 잠시 쉬면서 계곡과 주변 산세를 한눈에 감상할 수 있도록 했습니다.\n\n베틀바위~두타산성 구간 가운데 산성12폭포 주변에는 데크다리를 설치했습니다.\n\n집중호우 때 계곡물이 불어나면서 통행이 어려워지고 안전사고 우려가 있었던 구간으로 보행로를 정비해 탐방객들의 이동 편의와 안전성을 높였습니다.\n\n이와 함께 안전 로프와 이정표를 보강하고 산돌쌓기 등 시설 정비도 함께 진행했습니다.\n\n동해시는 무릉계곡의 자연환경 훼손을 최소화하면서도 탐방객들이 안전하게 숲길을 이용할 수 있도록 지속적인 관리에 나설 계획입니다.\n\n정인화 동해시 녹지과장은 \"무릉계곡의 뛰어난 자연환경을 보전하면서 탐방객들이 아름다운 경관을 안전하게 즐길 수 있도록 숲길을 꾸준히 정비하고 관리하겠다\"고 말했습니다.\n\n#강원도 #동해시 #무릉계곡 #숲길 #베틀바위 #피마름골 #두타산성\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이상현(idealtype@yna.co.kr)",
-          "content:encodedSnippet": "새롭게 단장한 동해 무릉계곡 숲길[동해시 제공][동해시 제공]\n강원 동해시가 무릉계곡 일대 주요 숲길의 정비를 마치고 탐방객 맞이에 나섰습니다.\n\n동해시는 무릉계곡 피마름골과 베틀바위에서 두타산성으로 이어지는 숲길 정비사업을 완료했다고 12일 밝혔습니다.\n\n이번 정비는 산림청과의 공동산림사업 협약에 따라 추진됐습니다.\n\n피마름골 숲길에는 무릉계곡의 자연경관을 조망할 수 있는 전망형 쉼터를 새로 마련했습니다.\n\n탐방객들이 산행 중 잠시 쉬면서 계곡과 주변 산세를 한눈에 감상할 수 있도록 했습니다.\n\n베틀바위~두타산성 구간 가운데 산성12폭포 주변에는 데크다리를 설치했습니다.\n\n집중호우 때 계곡물이 불어나면서 통행이 어려워지고 안전사고 우려가 있었던 구간으로 보행로를 정비해 탐방객들의 이동 편의와 안전성을 높였습니다.\n\n이와 함께 안전 로프와 이정표를 보강하고 산돌쌓기 등 시설 정비도 함께 진행했습니다.\n\n동해시는 무릉계곡의 자연환경 훼손을 최소화하면서도 탐방객들이 안전하게 숲길을 이용할 수 있도록 지속적인 관리에 나설 계획입니다.\n\n정인화 동해시 녹지과장은 \"무릉계곡의 뛰어난 자연환경을 보전하면서 탐방객들이 아름다운 경관을 안전하게 즐길 수 있도록 숲길을 꾸준히 정비하고 관리하겠다\"고 말했습니다.\n\n#강원도 #동해시 #무릉계곡 #숲길 #베틀바위 #피마름골 #두타산성\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이상현(idealtype@yna.co.kr)",
+          "creator": "노수미",
+          "title": "[날씨] 내일 늦은 오후부터 남부 비…토요일 전국으로 확대",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261112185137yfW",
+          "pubDate": "Thu, 12 Nov 2026 18:51:39 +0900",
+          "content:encoded": "오늘도 날은 포근했지만, 중서부 지역은 공기질이 탁했습니다.\n\n현재는 세종 지역만 미세먼지 농도 '나쁨' 단계를 보이고 있는데요.\n\n밤부터는 충북 지역도 다시 농도가 짙어지겠고, 내일 오전까지 영향을 받겠습니다.\n\n내일은 곳곳에 비 소식이 있는데요.\n\n늦은 오후에 전남해안과 제주에 비가 시작돼, 밤에는 충청 이남에, 토요일 새벽부터 전국으로 확대되겠습니다.\n\n비는 토요일 밤까지 내릴 텐데요.\n\n양은 제주에 최대 60mm, 남부지방에 최대 40mm, 중부지방에는 최대 30mm 정도 예상됩니다.\n\n비는 내리지만, 이번 주말까지는 추위 걱정은 없겠습니다.\n\n내일도 서울 낮 기온이 17도까지 오르겠고요, 아침 기온도 10도 안팎으로 크게 춥지 않겠습니다.\n\n내일 오전까지 중부 내륙에는 가시거리 200m 미만의 짙은 안개가 끼겠고, 곳곳에 빗방울이 떨어지는 곳도 있겠습니다.\n\n내일 기온도 보시면, 아침에 서울 8도로 출발하겠고, 한낮에는 세종과 대전 17도 예상됩니다.\n\n날씨 전해드렸습니다.\n\n(전세영 기상캐스터)\n\n#날씨 #풍랑 #추위 #한파특보 #눈 #강풍 #비 #주말날씨 #태풍 #가을\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
+          "content:encodedSnippet": "오늘도 날은 포근했지만, 중서부 지역은 공기질이 탁했습니다.\n\n현재는 세종 지역만 미세먼지 농도 '나쁨' 단계를 보이고 있는데요.\n\n밤부터는 충북 지역도 다시 농도가 짙어지겠고, 내일 오전까지 영향을 받겠습니다.\n\n내일은 곳곳에 비 소식이 있는데요.\n\n늦은 오후에 전남해안과 제주에 비가 시작돼, 밤에는 충청 이남에, 토요일 새벽부터 전국으로 확대되겠습니다.\n\n비는 토요일 밤까지 내릴 텐데요.\n\n양은 제주에 최대 60mm, 남부지방에 최대 40mm, 중부지방에는 최대 30mm 정도 예상됩니다.\n\n비는 내리지만, 이번 주말까지는 추위 걱정은 없겠습니다.\n\n내일도 서울 낮 기온이 17도까지 오르겠고요, 아침 기온도 10도 안팎으로 크게 춥지 않겠습니다.\n\n내일 오전까지 중부 내륙에는 가시거리 200m 미만의 짙은 안개가 끼겠고, 곳곳에 빗방울이 떨어지는 곳도 있겠습니다.\n\n내일 기온도 보시면, 아침에 서울 8도로 출발하겠고, 한낮에는 세종과 대전 17도 예상됩니다.\n\n날씨 전해드렸습니다.\n\n(전세영 기상캐스터)\n\n#날씨 #풍랑 #추위 #한파특보 #눈 #강풍 #비 #주말날씨 #태풍 #가을\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112104328EvN_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261112/MYH20261112185137yfW.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "이상현",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261112104328EvN#comments",
-          "content": "새롭게 단장한 동해 무릉계곡 숲길[동해시 제공][동해시 제공] 강원 동해시가 무릉계곡 일대 주요 숲길의 정비를 마치고 탐방객 맞이에 나섰습니다. 동해시는 무릉계곡 피마름골과 베틀바위에서 두타산성으로 이어지는 숲길 정비사업을 완료했다고 12일 밝혔습니다. 이번 정비는 산림청과의 공동산림사업 협약에 따라 추진됐습니다. 피마름골 숲길에는 무릉계곡의 자연경관을 조망할 수 있는 전망형 쉼터를 새로 마련했습니다. 탐방객들이 산행 중 잠시 쉬면서 계곡...",
-          "contentSnippet": "새롭게 단장한 동해 무릉계곡 숲길[동해시 제공][동해시 제공] 강원 동해시가 무릉계곡 일대 주요 숲길의 정비를 마치고 탐방객 맞이에 나섰습니다. 동해시는 무릉계곡 피마름골과 베틀바위에서 두타산성으로 이어지는 숲길 정비사업을 완료했다고 12일 밝혔습니다. 이번 정비는 산림청과의 공동산림사업 협약에 따라 추진됐습니다. 피마름골 숲길에는 무릉계곡의 자연경관을 조망할 수 있는 전망형 쉼터를 새로 마련했습니다. 탐방객들이 산행 중 잠시 쉬면서 계곡...",
-          "guid": "AKR20261112104328EvN",
+          "dc:creator": "노수미",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261112185137yfW#comments",
+          "content": "오늘도 날은 포근했지만, 중서부 지역은 공기질이 탁했습니다. 현재는 세종 지역만 미세먼지 농도 '나쁨' 단계를 보이고 있는데요. 밤부터는 충북 지역도 다시 농도가 짙어지겠고, 내일 오전까지 영향을 받겠습니다. 내일은 곳곳에 비 소식이 있는데요. 늦은 오후에 전남해안과 제주에 비가 시작돼, 밤에는 충청 이남에, 토요일 새벽부터 전국으로 확대되겠습니다. 비는 토요일 밤까지 내릴 텐데요. 양은 제주에 최대 60mm, 남부지방에 최대 40mm, ...",
+          "contentSnippet": "오늘도 날은 포근했지만, 중서부 지역은 공기질이 탁했습니다. 현재는 세종 지역만 미세먼지 농도 '나쁨' 단계를 보이고 있는데요. 밤부터는 충북 지역도 다시 농도가 짙어지겠고, 내일 오전까지 영향을 받겠습니다. 내일은 곳곳에 비 소식이 있는데요. 늦은 오후에 전남해안과 제주에 비가 시작돼, 밤에는 충청 이남에, 토요일 새벽부터 전국으로 확대되겠습니다. 비는 토요일 밤까지 내릴 텐데요. 양은 제주에 최대 60mm, 남부지방에 최대 40mm, ...",
+          "guid": "MYH20261112185137yfW",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-12T01:43:29.000Z"
+          "isoDate": "2026-11-12T09:51:39.000Z"
         },
         {
-          "creator": "소재형",
-          "title": "이 대통령, 16∼19일 아세안·APEC 정상회의 참석",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261112104243zzP",
-          "pubDate": "Thu, 12 Nov 2026 10:42:43 +0900",
-          "content:encoded": "\n<b>\"남북·북미대화 재개 및 한반도 평화 노력 설명하고 지지 당부\"</b>\n\n<b>\"주요국과 실질협력 강화…에너지공급망·초국가범죄 해법 논의\"</b>\n\n\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112104243zzP_01_i.jpg\" alt=\"\"><span class=\"yna_title\">이재명 대통령, 메가프로젝트 3차 회의 발언</span><span class=\"yna_caption\">(서울=연합뉴스) 김도훈 = 이재명 대통령이 29일 청와대에서 열린 메가프로젝트 제3차 민관합동 점검회의에서 발언하고 있다. 2026.9.29 superdoo82@yna.co.kr</span><span class=\"yna_description\">(서울=연합뉴스) 김도훈 = 이재명 대통령이 29일 청와대에서 열린 메가프로젝트 제3차 민관합동 점검회의에서 발언하고 있다. 2026.9.29 superdoo82@yna.co.kr</span></div>\n이재명 대통령이 오는 16일부터 19일까지 아세안 정상회의와 APEC 정상회의 참석을 위해 순방길에 오릅니다.\n\n위성락 국가안보실장은 오늘(12일) 청와대에서 브리핑을 갖고 이 같은 정상외교 일정을 발표했습니다.\n\n이 대통령은 먼저 16일에는 필리핀 마닐라에서 열리는 한-아세안 정상회의에 참석해 지난해 제시한 '한-아세안 포괄적 전략동반자 관계 비전'의 이행성과를 공유하고 협력 강화 방안을 논의합니다.\n\n이어 한-메콩 정상회의에 참석해 메콩 국가들과 핵심광물 협력, 초국가 범죄 공동 대응 방안을 논의하고, 아세안+3(한·중·일) 정상회의와 동아시아정상회의에도 참여해 한반도 문제 등 의제들을 논의할 예정입니다.\n\n18일에는 중국 선전으로 이동해 'CEO 서밋' 일정과 시진핑 중국 국가주석 내외가 주최하는 환영 만찬 등의 일정을 소화합니다.\n\n이어 APEC 본회의에 참석해 '함께 번영하는 아시아태평양 공동체 구축 - 개방, 혁신, 협력'을 주제로 정상들과 논의할 예정입니다.\n\n위 실장은 \"이번 순방에서 한반도 평화공존 및 공동 성장 정책에 대한 아세안과 APEC 회원국들의 변함없는 지지를 확인하고, 한반도의 평화와 안정을 위한 긍정적 메시지를 발신하고자 한다\"고 밝혔습니다.\n\n특히 \"남북·북미 대화 재개와 한반도의 항구적 평화를 정착시키기 위한 우리 정부의 노력에 대해 역내 국가들의 지속적인 지지와 건설적 기여를 당부할 예정\"이라고 설명했습니다.\n\n#이재명 #대통령 #APEC #ASEAN\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n소재형(sojay@yna.co.kr)",
-          "content:encodedSnippet": "\"남북·북미대화 재개 및 한반도 평화 노력 설명하고 지지 당부\"\n\n\"주요국과 실질협력 강화…에너지공급망·초국가범죄 해법 논의\"\n\n\n이재명 대통령, 메가프로젝트 3차 회의 발언(서울=연합뉴스) 김도훈 = 이재명 대통령이 29일 청와대에서 열린 메가프로젝트 제3차 민관합동 점검회의에서 발언하고 있다. 2026.9.29 superdoo82@yna.co.kr(서울=연합뉴스) 김도훈 = 이재명 대통령이 29일 청와대에서 열린 메가프로젝트 제3차 민관합동 점검회의에서 발언하고 있다. 2026.9.29 superdoo82@yna.co.kr\n이재명 대통령이 오는 16일부터 19일까지 아세안 정상회의와 APEC 정상회의 참석을 위해 순방길에 오릅니다.\n\n위성락 국가안보실장은 오늘(12일) 청와대에서 브리핑을 갖고 이 같은 정상외교 일정을 발표했습니다.\n\n이 대통령은 먼저 16일에는 필리핀 마닐라에서 열리는 한-아세안 정상회의에 참석해 지난해 제시한 '한-아세안 포괄적 전략동반자 관계 비전'의 이행성과를 공유하고 협력 강화 방안을 논의합니다.\n\n이어 한-메콩 정상회의에 참석해 메콩 국가들과 핵심광물 협력, 초국가 범죄 공동 대응 방안을 논의하고, 아세안+3(한·중·일) 정상회의와 동아시아정상회의에도 참여해 한반도 문제 등 의제들을 논의할 예정입니다.\n\n18일에는 중국 선전으로 이동해 'CEO 서밋' 일정과 시진핑 중국 국가주석 내외가 주최하는 환영 만찬 등의 일정을 소화합니다.\n\n이어 APEC 본회의에 참석해 '함께 번영하는 아시아태평양 공동체 구축 - 개방, 혁신, 협력'을 주제로 정상들과 논의할 예정입니다.\n\n위 실장은 \"이번 순방에서 한반도 평화공존 및 공동 성장 정책에 대한 아세안과 APEC 회원국들의 변함없는 지지를 확인하고, 한반도의 평화와 안정을 위한 긍정적 메시지를 발신하고자 한다\"고 밝혔습니다.\n\n특히 \"남북·북미 대화 재개와 한반도의 항구적 평화를 정착시키기 위한 우리 정부의 노력에 대해 역내 국가들의 지속적인 지지와 건설적 기여를 당부할 예정\"이라고 설명했습니다.\n\n#이재명 #대통령 #APEC #ASEAN\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n소재형(sojay@yna.co.kr)",
+          "creator": "진기훈",
+          "title": "[DM왔어요] 젠슨 황에 손 내민 머스크?…\"영입된다면 영광일 것\" 外",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261112185013v21",
+          "pubDate": "Thu, 12 Nov 2026 18:50:15 +0900",
+          "content:encoded": "오늘도 DM이 왔습니다.\n\n첫 번째 DM부터 열어보겠습니다.\n\n▶ 젠슨 황에 손 내민 머스크?…\"영입된다면 영광일 것\"\n\n젠슨 황 엔비디아 CEO의 불륜 논란의 파장이 걷잡을 수 없이 번지고 있습니다.\n\n파장의 끝이 어딜지 보이지도 않는 상황 속에 뜻밖의 인물이 주목받고 있습니다.\n\n테슬라와 스페이스X를 이끄는 일론 머스크인데요.\n\n그 이유, 젠슨 황이 엔비디아에서 해임되면 자신이 영입할 수도 있다고 말했기 때문이라는 내용입니다.\n\n발단은 SNS에 올라온 짧은 글 한 줄이었습니다.\n\n한 누리꾼이 일론 머스크를 향해 “젠슨 황을 고용해달라”고 요청한 건데요.\n\n그러자 머스크는 “그럴 수 있다면 영광일 것”이라고 답했습니다.\n\n짧은 한마디지만 예사롭게 들리지 않죠.\n\n실제 엔비디아 이사회가 젠슨 황의 해임을 추진하는 상황에서, 머스크가 공개 러브콜을 보낸 셈인 겁니다.\n\n젠슨 황을 향한 머스크의 공개 지지는 이번이 처음이 아닙니다.\n\n이전에도 공개적으로 젠슨 황을 ‘대체 불가능한 인물’이라고 평한 바가 있는데요.\n\n또 두 사람은 사업적으로도 인연이 깊죠.\n\n머스크가 이끄는 스페이스X는 AI 인프라에 엔비디아 칩을 활용하고 있고, 엔비디아도 스페이스X 지분을 보유하고 있는 것으로 알려졌습니다.\n\n정말 젠슨 황이 엔비디아를 떠나 머스크와 손을 잡는 일이 생길까요?\n\n아직 예단은 일러 보입니다.\n\n외신들 역시 불확실하다는 평가를 내놓고 있는데요.\n\n엔비디아의 상징이자 엔비디아 그 자체라고 평가받는 젠슨 황!\n\n젠슨 황의 입지가 거세게 흔들리는 상황에서 나온 머스크의 의미심장한 한 마디가 단순한 지지 표현에 그칠지, 아니면 두 거물의 새로운 동행으로 이어질지 관심을 모으고 있습니다.\n\n▶ \"6개월 전 불륜 경고\"…재평가된 공매도 보고서\n\n오늘의 두 번째 DM, 이번에도 불륜 논란의 주인공 젠슨 황 소식입니다.\n\n젠슨 황이 돌연 불륜을 인정하며 전 세계가 충격을 받았죠.\n\n그런데 젠슨 황의 불륜을 6개월 전부터 경고하고 공매도에 나선 사람이 있었다는 내용입니다.\n\n남다른 선견지명이 있었던 이 사람, 과연 누구일까요?\n\n화제의 주인공은 올해 31살의 한 청년 투자자입니다.\n\n공매도 전문 헤지펀드를 설립한 인물인데요.\n\n지난해 젠슨 황과 한 여성의 교류를 다룬 보도를 접한 뒤, 두 사람의 관계에 의문을 품기 시작했다고 합니다.\n\n이후 직접 탐정에 버금가는 조사를 벌였고, 6개월 전엔 두 사람이 지나치게 가깝다며 우려를 제기했습니다.\n\n주목할 건, 단순히 두 사람의 사생활을 문제 삼은 게 아니었다는 겁니다.\n\n이런 관계가 엔비디아의 중국 사업에 심각한 위험 요인이 될 수 있다는, 매우 구체적인 경고를 내놓은 건데요.\n\n이 남성은 엔비디아의 미래를 우려한 내용의 공매도 보고서까지 발표했습니다.\n\n공매도는 주가 하락을 예상하고, 시세차익을 노리는 투자 전략이죠.\n\n전 세계 AI기술의 패권을 거머쥔 기업의 최고경영자의 사적 관계가 이 세계적 기업의 주가 하락부터 기업의 중국 사업의 위험으로도 이어질 수 있다는 지적이었던 겁니다.\n\n결코 가볍게 볼 문제가 아니었던 거죠.\n\n그런데 당시 시장의 반응은 미지근했습니다.\n\n오히려 근거 없는 의혹을 제기한다며 조롱과 비난이 이어지기도 했는데요.\n\n그리고 반년이 흐른 지금, 상황은 뒤집혔습니다.\n\n젠슨 황을 둘러싼 논란이 불거지면서 당시 그가 작성한 공매도 보고서까지 다시 주목받기 시작했고요.\n\n월가에서는 ‘전설적인 선견지명’이라는 평가까지 나오고 있습니다.\n\n▶ '심폐소생술 강아지' 등장…\"내가 살려드릴'개'\"\n\n마지막 DM도 열어보겠습니다.\n\n사람이 갑자기 쓰러진 위급한 상황에서 가장 중요한 응급처치 중 하나가 바로 심폐소생술이죠.\n\n알고 있지만, 막상 응급 상황이 되면 놀라서 몸이 얼어붙기도 하는데요.\n\n그런데 이렇게 사람도 어려운 심폐소생술 동작을 척척 선보이는 강아지가 등장해 화제라는 내용입니다.\n\n화제의 주인공, 강아지 ‘신디’입니다.\n\n위급상황을 알리자 쓰러진 사람에게 달려가더니, 몸 위로 올라가 조그마한 두 앞발로 가슴을 꾹꾹 누르기 시작합니다.\n\n하나, 둘! 하나, 둘!\n\n제법 규칙적으로 가슴을 압박하는데요.\n\n작은 몸으로 열심히 앞발을 움직이는 모습이 귀엽기도 하고, 기특하기도 합니다.\n\n알고 보니 신디는 경기도소방재난본부 신동균 소방위의 7살 된 반려견으로, 소방의 날 기념식에서 특별한 안전교육 시범을 선보인 겁니다.\n\n누리꾼들은 “나도 신디처럼 잘해볼게. 고마워 똑똑한 강아지야”라며 뜨거운 반응을 보였는데요.\n\n물론 신디의 동작이 실제 심폐소생술을 대신할 수는 없습니다.\n\n영상은 심정지 환자를 발견한 상황을 연출해서 가슴압박 시범과 심정지 대처 요령을 강아지 신디를 통해 알기 쉽게 설명한 건데요.\n\n경기소방재난본부는 앞으로 화재와 지진 대피 요령 등 교육 영상에도 신디를 활용할 예정이라고 합니다.\n\n신디의 활약을 통해 더 많은 시민들이 안전 수칙과 응급처치 방법을 잘 배우게 되길 바라보겠습니다.\n\n오늘의 DM, 이렇게 답장 드리겠습니다.\n\n엔비디아를 향한 31살 청년 투자자의 6개월 전 경고, 당시에는 무시와 조롱을 받았던 이 경고가 지금은 전설적인 선견지명의 사례가 됐죠.\n\n이렇게 때로는 모두가 주목하는 이야기보다, 아무도 귀 기울이지 않는 경고 속에 중요한 것들이 숨어 있을 수 있다는 것을 보여줬네요.\n\n지금까지 DM 전해드렸습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n진기훈(jinkh@yna.co.kr)",
+          "content:encodedSnippet": "오늘도 DM이 왔습니다.\n\n첫 번째 DM부터 열어보겠습니다.\n\n▶ 젠슨 황에 손 내민 머스크?…\"영입된다면 영광일 것\"\n\n젠슨 황 엔비디아 CEO의 불륜 논란의 파장이 걷잡을 수 없이 번지고 있습니다.\n\n파장의 끝이 어딜지 보이지도 않는 상황 속에 뜻밖의 인물이 주목받고 있습니다.\n\n테슬라와 스페이스X를 이끄는 일론 머스크인데요.\n\n그 이유, 젠슨 황이 엔비디아에서 해임되면 자신이 영입할 수도 있다고 말했기 때문이라는 내용입니다.\n\n발단은 SNS에 올라온 짧은 글 한 줄이었습니다.\n\n한 누리꾼이 일론 머스크를 향해 “젠슨 황을 고용해달라”고 요청한 건데요.\n\n그러자 머스크는 “그럴 수 있다면 영광일 것”이라고 답했습니다.\n\n짧은 한마디지만 예사롭게 들리지 않죠.\n\n실제 엔비디아 이사회가 젠슨 황의 해임을 추진하는 상황에서, 머스크가 공개 러브콜을 보낸 셈인 겁니다.\n\n젠슨 황을 향한 머스크의 공개 지지는 이번이 처음이 아닙니다.\n\n이전에도 공개적으로 젠슨 황을 ‘대체 불가능한 인물’이라고 평한 바가 있는데요.\n\n또 두 사람은 사업적으로도 인연이 깊죠.\n\n머스크가 이끄는 스페이스X는 AI 인프라에 엔비디아 칩을 활용하고 있고, 엔비디아도 스페이스X 지분을 보유하고 있는 것으로 알려졌습니다.\n\n정말 젠슨 황이 엔비디아를 떠나 머스크와 손을 잡는 일이 생길까요?\n\n아직 예단은 일러 보입니다.\n\n외신들 역시 불확실하다는 평가를 내놓고 있는데요.\n\n엔비디아의 상징이자 엔비디아 그 자체라고 평가받는 젠슨 황!\n\n젠슨 황의 입지가 거세게 흔들리는 상황에서 나온 머스크의 의미심장한 한 마디가 단순한 지지 표현에 그칠지, 아니면 두 거물의 새로운 동행으로 이어질지 관심을 모으고 있습니다.\n\n▶ \"6개월 전 불륜 경고\"…재평가된 공매도 보고서\n\n오늘의 두 번째 DM, 이번에도 불륜 논란의 주인공 젠슨 황 소식입니다.\n\n젠슨 황이 돌연 불륜을 인정하며 전 세계가 충격을 받았죠.\n\n그런데 젠슨 황의 불륜을 6개월 전부터 경고하고 공매도에 나선 사람이 있었다는 내용입니다.\n\n남다른 선견지명이 있었던 이 사람, 과연 누구일까요?\n\n화제의 주인공은 올해 31살의 한 청년 투자자입니다.\n\n공매도 전문 헤지펀드를 설립한 인물인데요.\n\n지난해 젠슨 황과 한 여성의 교류를 다룬 보도를 접한 뒤, 두 사람의 관계에 의문을 품기 시작했다고 합니다.\n\n이후 직접 탐정에 버금가는 조사를 벌였고, 6개월 전엔 두 사람이 지나치게 가깝다며 우려를 제기했습니다.\n\n주목할 건, 단순히 두 사람의 사생활을 문제 삼은 게 아니었다는 겁니다.\n\n이런 관계가 엔비디아의 중국 사업에 심각한 위험 요인이 될 수 있다는, 매우 구체적인 경고를 내놓은 건데요.\n\n이 남성은 엔비디아의 미래를 우려한 내용의 공매도 보고서까지 발표했습니다.\n\n공매도는 주가 하락을 예상하고, 시세차익을 노리는 투자 전략이죠.\n\n전 세계 AI기술의 패권을 거머쥔 기업의 최고경영자의 사적 관계가 이 세계적 기업의 주가 하락부터 기업의 중국 사업의 위험으로도 이어질 수 있다는 지적이었던 겁니다.\n\n결코 가볍게 볼 문제가 아니었던 거죠.\n\n그런데 당시 시장의 반응은 미지근했습니다.\n\n오히려 근거 없는 의혹을 제기한다며 조롱과 비난이 이어지기도 했는데요.\n\n그리고 반년이 흐른 지금, 상황은 뒤집혔습니다.\n\n젠슨 황을 둘러싼 논란이 불거지면서 당시 그가 작성한 공매도 보고서까지 다시 주목받기 시작했고요.\n\n월가에서는 ‘전설적인 선견지명’이라는 평가까지 나오고 있습니다.\n\n▶ '심폐소생술 강아지' 등장…\"내가 살려드릴'개'\"\n\n마지막 DM도 열어보겠습니다.\n\n사람이 갑자기 쓰러진 위급한 상황에서 가장 중요한 응급처치 중 하나가 바로 심폐소생술이죠.\n\n알고 있지만, 막상 응급 상황이 되면 놀라서 몸이 얼어붙기도 하는데요.\n\n그런데 이렇게 사람도 어려운 심폐소생술 동작을 척척 선보이는 강아지가 등장해 화제라는 내용입니다.\n\n화제의 주인공, 강아지 ‘신디’입니다.\n\n위급상황을 알리자 쓰러진 사람에게 달려가더니, 몸 위로 올라가 조그마한 두 앞발로 가슴을 꾹꾹 누르기 시작합니다.\n\n하나, 둘! 하나, 둘!\n\n제법 규칙적으로 가슴을 압박하는데요.\n\n작은 몸으로 열심히 앞발을 움직이는 모습이 귀엽기도 하고, 기특하기도 합니다.\n\n알고 보니 신디는 경기도소방재난본부 신동균 소방위의 7살 된 반려견으로, 소방의 날 기념식에서 특별한 안전교육 시범을 선보인 겁니다.\n\n누리꾼들은 “나도 신디처럼 잘해볼게. 고마워 똑똑한 강아지야”라며 뜨거운 반응을 보였는데요.\n\n물론 신디의 동작이 실제 심폐소생술을 대신할 수는 없습니다.\n\n영상은 심정지 환자를 발견한 상황을 연출해서 가슴압박 시범과 심정지 대처 요령을 강아지 신디를 통해 알기 쉽게 설명한 건데요.\n\n경기소방재난본부는 앞으로 화재와 지진 대피 요령 등 교육 영상에도 신디를 활용할 예정이라고 합니다.\n\n신디의 활약을 통해 더 많은 시민들이 안전 수칙과 응급처치 방법을 잘 배우게 되길 바라보겠습니다.\n\n오늘의 DM, 이렇게 답장 드리겠습니다.\n\n엔비디아를 향한 31살 청년 투자자의 6개월 전 경고, 당시에는 무시와 조롱을 받았던 이 경고가 지금은 전설적인 선견지명의 사례가 됐죠.\n\n이렇게 때로는 모두가 주목하는 이야기보다, 아무도 귀 기울이지 않는 경고 속에 중요한 것들이 숨어 있을 수 있다는 것을 보여줬네요.\n\n지금까지 DM 전해드렸습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n진기훈(jinkh@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112104243zzP_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261112/MYH20261112185013v21.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "소재형",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261112104243zzP#comments",
-          "content": "\"남북·북미대화 재개 및 한반도 평화 노력 설명하고 지지 당부\" \"주요국과 실질협력 강화…에너지공급망·초국가범죄 해법 논의\" 이재명 대통령, 메가프로젝트 3차 회의 발언(서울=연합뉴스) 김도훈 = 이재명 대통령이 29일 청와대에서 열린 메가프로젝트 제3차 민관합동 점검회의에서 발언하고 있다. 2026.9.29 superdoo82@yna.co.kr(서울=연합뉴스) 김도훈 = 이재명 대통령이 29일 청와대에서 열린 메가프로젝트 제3차 민관합동...",
-          "contentSnippet": "\"남북·북미대화 재개 및 한반도 평화 노력 설명하고 지지 당부\" \"주요국과 실질협력 강화…에너지공급망·초국가범죄 해법 논의\" 이재명 대통령, 메가프로젝트 3차 회의 발언(서울=연합뉴스) 김도훈 = 이재명 대통령이 29일 청와대에서 열린 메가프로젝트 제3차 민관합동 점검회의에서 발언하고 있다. 2026.9.29 superdoo82@yna.co.kr(서울=연합뉴스) 김도훈 = 이재명 대통령이 29일 청와대에서 열린 메가프로젝트 제3차 민관합동...",
-          "guid": "AKR20261112104243zzP",
+          "dc:creator": "진기훈",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261112185013v21#comments",
+          "content": "오늘도 DM이 왔습니다. 첫 번째 DM부터 열어보겠습니다. ▶ 젠슨 황에 손 내민 머스크?…\"영입된다면 영광일 것\" 젠슨 황 엔비디아 CEO의 불륜 논란의 파장이 걷잡을 수 없이 번지고 있습니다. 파장의 끝이 어딜지 보이지도 않는 상황 속에 뜻밖의 인물이 주목받고 있습니다. 테슬라와 스페이스X를 이끄는 일론 머스크인데요. 그 이유, 젠슨 황이 엔비디아에서 해임되면 자신이 영입할 수도 있다고 말했기 때문이라는 내용입니다. 발단은 SNS에 올...",
+          "contentSnippet": "오늘도 DM이 왔습니다. 첫 번째 DM부터 열어보겠습니다. ▶ 젠슨 황에 손 내민 머스크?…\"영입된다면 영광일 것\" 젠슨 황 엔비디아 CEO의 불륜 논란의 파장이 걷잡을 수 없이 번지고 있습니다. 파장의 끝이 어딜지 보이지도 않는 상황 속에 뜻밖의 인물이 주목받고 있습니다. 테슬라와 스페이스X를 이끄는 일론 머스크인데요. 그 이유, 젠슨 황이 엔비디아에서 해임되면 자신이 영입할 수도 있다고 말했기 때문이라는 내용입니다. 발단은 SNS에 올...",
+          "guid": "MYH20261112185013v21",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-12T01:42:43.000Z"
+          "isoDate": "2026-11-12T09:50:15.000Z"
         },
         {
-          "creator": "이성섭",
-          "title": "'젠슨 황 불륜 의심' 공매도 보고서…조롱 받았지만 반년 뒤 반전",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261112104134sXU",
-          "pubDate": "Thu, 12 Nov 2026 10:41:37 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112104134sXU_01_i.jpg\" alt=\"\"><span class=\"yna_title\">지난해 타이베이 한 식당에서 만찬 참석 중인 젠슨 황과 앨리스 황</span><span class=\"yna_caption\">[AFP 연합뉴스]</span><span class=\"yna_description\">[AFP 연합뉴스]</span></div>\n젠슨 황 엔비디아 최고경영자(CEO)와 중국 스파이 의혹을 받는 여성의 관계를 반년 전 경고했다가 조롱까지 받았던 31세 공매도 투자자가 뒤늦게 주목받습니다.\n\n현지시간 11일 뉴욕타임스와 월스트리트저널에 따르면 뉴욕의 공매도 투자업체 컬퍼 리서치 창업자 크리스천 라마르코(31)는 지난 5월 13일 엔비디아의 중국 사업에 의혹을 제기하는 40쪽 분량의 보고서를 발표했습니다.\n\n보고서에는 황 CEO와 주요 고객사인 싱가포르 데이터센터 기업 메가스피드의 임원이던 앨리스 황 사이 \"불편할 정도로 가까운 관계\"를 지적하는 내용도 담겼습니다.\n\n라마르코는 지난해 뉴욕타임스와 블룸버그통신이 두 사람이 아시아에서 다른 기술기업 경영진들과 어울린 사실을 보도한 것을 계기로 조사에 나섰다고 밝혔습니다.\n\n라마르코는 세계 최대 기업 엔비디아에서 다른 투자자들이 발견하지 못한 문제를 찾아내기 어렵다고 판단해 한동안 조사를 중단했다가 지난 3월 재개했습니다.\n\n미국 서버 제조업체 슈퍼마이크로컴퓨터 관계자들이 수출 통제를 위반해 엔비디아 반도체를 중국으로 밀반입한 혐의로 기소됐기 때문입니다.\n\n그는 엔비디아와 메가스피드의 전·현직 직원들을 접촉하고 싱가포르와 말레이시아 기업 공시자료와 대만에서 찍힌 영상 등을 분석한 끝에 보고서를 냈습니다.\n\n그러나 당시 시장은 보고서에 별다른 관심을 보이지 않았습니다.\n\n발표 당일 엔비디아 주가는 오히려 올랐고, 이튿날에는 사상 최고치를 기록했습니다.\n\n라마르코에게는 그를 비하하거나 \"조심하라\"고 경고하는 메시지까지 날아들었습니다.\n\n하지만 최근 황 CEO가 중국 정보 기관과 연계된 것으로 의심받는 앨리스 황과의 불륜을 인정하면서 상황이 반전됐습니다.\n\n보고서는 온라인에서 급속도로 퍼졌고, 라마르코의 관련 게시물은 수백만 건의 조회수를 기록했습니다.\n\n라마르코는 뉴욕타임스에 \"모두가 우리를 조롱했지만, 이제는 모두가 우리를 칭찬하고 있다\"고 말했습니다.\n\n#젠슨황 #보고서 #조롱\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이성섭(leess@yna.co.kr)",
-          "content:encodedSnippet": "지난해 타이베이 한 식당에서 만찬 참석 중인 젠슨 황과 앨리스 황[AFP 연합뉴스][AFP 연합뉴스]\n젠슨 황 엔비디아 최고경영자(CEO)와 중국 스파이 의혹을 받는 여성의 관계를 반년 전 경고했다가 조롱까지 받았던 31세 공매도 투자자가 뒤늦게 주목받습니다.\n\n현지시간 11일 뉴욕타임스와 월스트리트저널에 따르면 뉴욕의 공매도 투자업체 컬퍼 리서치 창업자 크리스천 라마르코(31)는 지난 5월 13일 엔비디아의 중국 사업에 의혹을 제기하는 40쪽 분량의 보고서를 발표했습니다.\n\n보고서에는 황 CEO와 주요 고객사인 싱가포르 데이터센터 기업 메가스피드의 임원이던 앨리스 황 사이 \"불편할 정도로 가까운 관계\"를 지적하는 내용도 담겼습니다.\n\n라마르코는 지난해 뉴욕타임스와 블룸버그통신이 두 사람이 아시아에서 다른 기술기업 경영진들과 어울린 사실을 보도한 것을 계기로 조사에 나섰다고 밝혔습니다.\n\n라마르코는 세계 최대 기업 엔비디아에서 다른 투자자들이 발견하지 못한 문제를 찾아내기 어렵다고 판단해 한동안 조사를 중단했다가 지난 3월 재개했습니다.\n\n미국 서버 제조업체 슈퍼마이크로컴퓨터 관계자들이 수출 통제를 위반해 엔비디아 반도체를 중국으로 밀반입한 혐의로 기소됐기 때문입니다.\n\n그는 엔비디아와 메가스피드의 전·현직 직원들을 접촉하고 싱가포르와 말레이시아 기업 공시자료와 대만에서 찍힌 영상 등을 분석한 끝에 보고서를 냈습니다.\n\n그러나 당시 시장은 보고서에 별다른 관심을 보이지 않았습니다.\n\n발표 당일 엔비디아 주가는 오히려 올랐고, 이튿날에는 사상 최고치를 기록했습니다.\n\n라마르코에게는 그를 비하하거나 \"조심하라\"고 경고하는 메시지까지 날아들었습니다.\n\n하지만 최근 황 CEO가 중국 정보 기관과 연계된 것으로 의심받는 앨리스 황과의 불륜을 인정하면서 상황이 반전됐습니다.\n\n보고서는 온라인에서 급속도로 퍼졌고, 라마르코의 관련 게시물은 수백만 건의 조회수를 기록했습니다.\n\n라마르코는 뉴욕타임스에 \"모두가 우리를 조롱했지만, 이제는 모두가 우리를 칭찬하고 있다\"고 말했습니다.\n\n#젠슨황 #보고서 #조롱\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이성섭(leess@yna.co.kr)",
+          "creator": "박현우",
+          "title": "장동혁 \"吳 발언, 갈등 씨앗\"…韓 겨냥 \"패륜 정치\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261112184922IyT",
+          "pubDate": "Thu, 12 Nov 2026 18:49:23 +0900",
+          "content:encoded": "[앵커]\n\n국민의힘이 오세훈 서울시장의 '비대위' 발언과 무소속 한동훈 의원에 대한 '조작 징계' 의혹으로 또 다시 내홍 수렁에 빠져드는 모습입니다.\n\n장동혁 대표는 오 시장과 한 의원을 향해 연일 날선 발언을 쏟아냈습니다.\n\n박현우 기자입니다.\n\n[기자]\n\n장동혁 대표는 '비대위'를 언급한 오세훈 시장의 언론 인터뷰가 당 내 '갈등의 씨앗'이 됐다며 연일 불쾌감을 내비쳤습니다.\n\n특히, '조작 기소 특검법' 저지를 위해 총력 투쟁에 나서고 있는 시점에 나온 \"장동혁 체제로 총선을 치르기는 어렵다\"는 등 발언은 당에도 총선에도 전혀 도움이 되지 않는다고 날을 세웠습니다.\n\n&lt;장동혁 / 국민의힘 대표 (중앙일보 유튜브)&gt; \"그것(비대위)에 대해서 적극 긍정하는 답변을 낸 것은 적절치 않았다… 지도부 흔들기가 아니라 이재명 정권과 싸울 수 있는 그런 국민의힘이 됐으면 좋겠습니다\"\n\n장 대표는 다만 부동산 등 문제 해결을 위해 오 시장과 협력해 나가겠다고 했는데, 시장의 역할은 '시민 삶을 돌보는 것'이라는 '뼈있는 말'도 빼놓지 않았습니다.\n\n무소속 한동훈 의원을 겨냥해서는 훨씬 더 가시돋힌 말을 쏟아냈습니다.\n\n한 의원이 연루된 '당원 게시판' 사건을 '패륜·분열 정치'로 규정지은 장 대표는, 한 의원을 복당시키자는 분들은 \"패륜·조작 정치를 받아들이자는 것\"이냐며 거듭 복당에 선을 그었습니다.\n\n'친한계'는 한 의원을 엄호하며 연일 '장 대표 때리기'를 이어갔습니다.\n\n자신과 한 의원에 대한 징계가 조작됐다고 주장하며 장 대표의 사과와 사퇴를 촉구한 진종오 의원은 윤리위 결정에 지도부가 관여한 정황과 '조작 징계' 의혹에 대해 명확한 입장을 밝히라고 장 대표를 압박했습니다.\n\n한 의원 복당과 관련해서는 중진들 사이에서도 \"복당의 강에 빠져 죽자는 것이냐\", \"복당의 강보다 더 두려운 것은 분열의 늪\" 등 공개 찬·반 목소리가 나오는 등 또 다시 '내홍' 조짐이 감지되는 상황.\n\n이런 가운데 장 대표는 '조작 징계' 주장을 한 황경성 윤리위원에게 그 증거를 제시하라며 최고위 출석을 통보했습니다.\n\n황 위원은 이번주까지 장 대표가 스스로 징계를 바로잡을 기회를 주겠다며 불출석 의사를 밝혔습니다.\n\n황 위원은 장 대표와 식사 자리에서 함께 찍은 사진을 공개하며, 징계 당사자와 형량이 외부에서 결정됐고, 윤리위는 거수기 역할만 했다면서 재차 '조작 징계'를 주장했습니다.\n\n연합뉴스TV 박현우입니다.\n\n[영상취재 김성수 박태범 김상훈 홍수호]\n\n[영상편집 윤현정]\n\n[그래픽 이예지]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박현우(hwp@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n국민의힘이 오세훈 서울시장의 '비대위' 발언과 무소속 한동훈 의원에 대한 '조작 징계' 의혹으로 또 다시 내홍 수렁에 빠져드는 모습입니다.\n\n장동혁 대표는 오 시장과 한 의원을 향해 연일 날선 발언을 쏟아냈습니다.\n\n박현우 기자입니다.\n\n[기자]\n\n장동혁 대표는 '비대위'를 언급한 오세훈 시장의 언론 인터뷰가 당 내 '갈등의 씨앗'이 됐다며 연일 불쾌감을 내비쳤습니다.\n\n특히, '조작 기소 특검법' 저지를 위해 총력 투쟁에 나서고 있는 시점에 나온 \"장동혁 체제로 총선을 치르기는 어렵다\"는 등 발언은 당에도 총선에도 전혀 도움이 되지 않는다고 날을 세웠습니다.\n\n<장동혁 / 국민의힘 대표 (중앙일보 유튜브)> \"그것(비대위)에 대해서 적극 긍정하는 답변을 낸 것은 적절치 않았다… 지도부 흔들기가 아니라 이재명 정권과 싸울 수 있는 그런 국민의힘이 됐으면 좋겠습니다\"\n\n장 대표는 다만 부동산 등 문제 해결을 위해 오 시장과 협력해 나가겠다고 했는데, 시장의 역할은 '시민 삶을 돌보는 것'이라는 '뼈있는 말'도 빼놓지 않았습니다.\n\n무소속 한동훈 의원을 겨냥해서는 훨씬 더 가시돋힌 말을 쏟아냈습니다.\n\n한 의원이 연루된 '당원 게시판' 사건을 '패륜·분열 정치'로 규정지은 장 대표는, 한 의원을 복당시키자는 분들은 \"패륜·조작 정치를 받아들이자는 것\"이냐며 거듭 복당에 선을 그었습니다.\n\n'친한계'는 한 의원을 엄호하며 연일 '장 대표 때리기'를 이어갔습니다.\n\n자신과 한 의원에 대한 징계가 조작됐다고 주장하며 장 대표의 사과와 사퇴를 촉구한 진종오 의원은 윤리위 결정에 지도부가 관여한 정황과 '조작 징계' 의혹에 대해 명확한 입장을 밝히라고 장 대표를 압박했습니다.\n\n한 의원 복당과 관련해서는 중진들 사이에서도 \"복당의 강에 빠져 죽자는 것이냐\", \"복당의 강보다 더 두려운 것은 분열의 늪\" 등 공개 찬·반 목소리가 나오는 등 또 다시 '내홍' 조짐이 감지되는 상황.\n\n이런 가운데 장 대표는 '조작 징계' 주장을 한 황경성 윤리위원에게 그 증거를 제시하라며 최고위 출석을 통보했습니다.\n\n황 위원은 이번주까지 장 대표가 스스로 징계를 바로잡을 기회를 주겠다며 불출석 의사를 밝혔습니다.\n\n황 위원은 장 대표와 식사 자리에서 함께 찍은 사진을 공개하며, 징계 당사자와 형량이 외부에서 결정됐고, 윤리위는 거수기 역할만 했다면서 재차 '조작 징계'를 주장했습니다.\n\n연합뉴스TV 박현우입니다.\n\n[영상취재 김성수 박태범 김상훈 홍수호]\n\n[영상편집 윤현정]\n\n[그래픽 이예지]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박현우(hwp@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112104134sXU_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261112/MYH20261112184922IyT.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "이성섭",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261112104134sXU#comments",
-          "content": "지난해 타이베이 한 식당에서 만찬 참석 중인 젠슨 황과 앨리스 황[AFP 연합뉴스][AFP 연합뉴스] 젠슨 황 엔비디아 최고경영자(CEO)와 중국 스파이 의혹을 받는 여성의 관계를 반년 전 경고했다가 조롱까지 받았던 31세 공매도 투자자가 뒤늦게 주목받습니다. 현지시간 11일 뉴욕타임스와 월스트리트저널에 따르면 뉴욕의 공매도 투자업체 컬퍼 리서치 창업자 크리스천 라마르코(31)는 지난 5월 13일 엔비디아의 중국 사업에 의혹을 제기하는 4...",
-          "contentSnippet": "지난해 타이베이 한 식당에서 만찬 참석 중인 젠슨 황과 앨리스 황[AFP 연합뉴스][AFP 연합뉴스] 젠슨 황 엔비디아 최고경영자(CEO)와 중국 스파이 의혹을 받는 여성의 관계를 반년 전 경고했다가 조롱까지 받았던 31세 공매도 투자자가 뒤늦게 주목받습니다. 현지시간 11일 뉴욕타임스와 월스트리트저널에 따르면 뉴욕의 공매도 투자업체 컬퍼 리서치 창업자 크리스천 라마르코(31)는 지난 5월 13일 엔비디아의 중국 사업에 의혹을 제기하는 4...",
-          "guid": "AKR20261112104134sXU",
+          "dc:creator": "박현우",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261112184922IyT#comments",
+          "content": "[앵커] 국민의힘이 오세훈 서울시장의 '비대위' 발언과 무소속 한동훈 의원에 대한 '조작 징계' 의혹으로 또 다시 내홍 수렁에 빠져드는 모습입니다. 장동혁 대표는 오 시장과 한 의원을 향해 연일 날선 발언을 쏟아냈습니다. 박현우 기자입니다. [기자] 장동혁 대표는 '비대위'를 언급한 오세훈 시장의 언론 인터뷰가 당 내 '갈등의 씨앗'이 됐다며 연일 불쾌감을 내비쳤습니다. 특히, '조작 기소 특검법' 저지를 위해 총력 투쟁에 나서고 있는 시...",
+          "contentSnippet": "[앵커] 국민의힘이 오세훈 서울시장의 '비대위' 발언과 무소속 한동훈 의원에 대한 '조작 징계' 의혹으로 또 다시 내홍 수렁에 빠져드는 모습입니다. 장동혁 대표는 오 시장과 한 의원을 향해 연일 날선 발언을 쏟아냈습니다. 박현우 기자입니다. [기자] 장동혁 대표는 '비대위'를 언급한 오세훈 시장의 언론 인터뷰가 당 내 '갈등의 씨앗'이 됐다며 연일 불쾌감을 내비쳤습니다. 특히, '조작 기소 특검법' 저지를 위해 총력 투쟁에 나서고 있는 시...",
+          "guid": "MYH20261112184922IyT",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-12T01:41:37.000Z"
-        },
-        {
-          "creator": "배윤주",
-          "title": "한병도 \"당청 엇박자 없어…더 나은 민생 위해 긴밀 협력\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261112104118Jia",
-          "pubDate": "Thu, 12 Nov 2026 10:41:18 +0900",
-          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112104118Jia_01_i.jpg\" alt=\"\"><span class=\"yna_title\">더불어민주당 한병도 원내대표가 12일 국회에서 열린 당 정책조정회의에서 발언하고 있다. 2026.11.12</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n더불어민주당 한병도 원내대표는 국민의힘이 부동산 세제 개편안을 놓고 나타난 '당청 이견'을 소재로 공세를 펴는 데 대해 \"분명히 당청 간 엇박자는 없다\"고 밝혔습니다.\n\n한 원내대표는 오늘(12일) 국회에서 열린 최고위원회의에서 \"어제 민주당 지도부는 대통령 초청 만찬에 함께 했다\"며 이같이 강조했습니다.\n\n이어 \"국민의힘은 안으로는 필리버스터, 밖으로는 장외 투쟁에 몰두하며 본회의도 예산 심사도 가로막고 있다\"며 \"상임위원회 보이콧, 예산 소위원회 연기도 모자라 당청 갈라치기에도 열을 올리고 있다\"고 지적했습니다.\n\n그러면서 \"민생에 도움이 안 되는 일은 죄다 하고 싶은 셈\"이라며 \"더 나은 민생을 위해 당과 정부가 긴밀히 협력하고 있다는 말씀을 확실히 드린다\"고 덧붙였습니다.\n\n한 원내대표는 어제 이재명 대통령과의 만찬에서 당이 양극화 극복·소비 진작 대책을 정부에 요청했다며 \"대통령님께서도 공감하시면서 한마음 한뜻으로 당청이 움직여야 한다는 점을 강조하셨다\"고 말했습니다.\n\n그러면서 \"국민의힘이 정쟁에 매달릴 때 민주당과 이재명 정부는 민생에 매달리겠다\"며 \"국정 과제와 민생 입법에 속도를 내고 내년도 예산안도 법정 시한 안에 책임지고 처리하겠다\"고 약속했습니다.\n\n#더불어민주당 #한병도\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배윤주(boat@yna.co.kr)",
-          "content:encodedSnippet": "더불어민주당 한병도 원내대표가 12일 국회에서 열린 당 정책조정회의에서 발언하고 있다. 2026.11.12[연합뉴스 제공][연합뉴스 제공]\n더불어민주당 한병도 원내대표는 국민의힘이 부동산 세제 개편안을 놓고 나타난 '당청 이견'을 소재로 공세를 펴는 데 대해 \"분명히 당청 간 엇박자는 없다\"고 밝혔습니다.\n\n한 원내대표는 오늘(12일) 국회에서 열린 최고위원회의에서 \"어제 민주당 지도부는 대통령 초청 만찬에 함께 했다\"며 이같이 강조했습니다.\n\n이어 \"국민의힘은 안으로는 필리버스터, 밖으로는 장외 투쟁에 몰두하며 본회의도 예산 심사도 가로막고 있다\"며 \"상임위원회 보이콧, 예산 소위원회 연기도 모자라 당청 갈라치기에도 열을 올리고 있다\"고 지적했습니다.\n\n그러면서 \"민생에 도움이 안 되는 일은 죄다 하고 싶은 셈\"이라며 \"더 나은 민생을 위해 당과 정부가 긴밀히 협력하고 있다는 말씀을 확실히 드린다\"고 덧붙였습니다.\n\n한 원내대표는 어제 이재명 대통령과의 만찬에서 당이 양극화 극복·소비 진작 대책을 정부에 요청했다며 \"대통령님께서도 공감하시면서 한마음 한뜻으로 당청이 움직여야 한다는 점을 강조하셨다\"고 말했습니다.\n\n그러면서 \"국민의힘이 정쟁에 매달릴 때 민주당과 이재명 정부는 민생에 매달리겠다\"며 \"국정 과제와 민생 입법에 속도를 내고 내년도 예산안도 법정 시한 안에 책임지고 처리하겠다\"고 약속했습니다.\n\n#더불어민주당 #한병도\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배윤주(boat@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112104118Jia_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "배윤주",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261112104118Jia#comments",
-          "content": "더불어민주당 한병도 원내대표가 12일 국회에서 열린 당 정책조정회의에서 발언하고 있다. 2026.11.12[연합뉴스 제공][연합뉴스 제공] 더불어민주당 한병도 원내대표는 국민의힘이 부동산 세제 개편안을 놓고 나타난 '당청 이견'을 소재로 공세를 펴는 데 대해 \"분명히 당청 간 엇박자는 없다\"고 밝혔습니다. 한 원내대표는 오늘(12일) 국회에서 열린 최고위원회의에서 \"어제 민주당 지도부는 대통령 초청 만찬에 함께 했다\"며 이같이 강조했습니다...",
-          "contentSnippet": "더불어민주당 한병도 원내대표가 12일 국회에서 열린 당 정책조정회의에서 발언하고 있다. 2026.11.12[연합뉴스 제공][연합뉴스 제공] 더불어민주당 한병도 원내대표는 국민의힘이 부동산 세제 개편안을 놓고 나타난 '당청 이견'을 소재로 공세를 펴는 데 대해 \"분명히 당청 간 엇박자는 없다\"고 밝혔습니다. 한 원내대표는 오늘(12일) 국회에서 열린 최고위원회의에서 \"어제 민주당 지도부는 대통령 초청 만찬에 함께 했다\"며 이같이 강조했습니다...",
-          "guid": "AKR20261112104118Jia",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-12T01:41:18.000Z"
+          "isoDate": "2026-11-12T09:49:23.000Z"
         },
         {
           "creator": "배윤주",
-          "title": "개혁신당 \"국힘에 '조작기소 특검 저지' 연대투쟁 제안\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261112104036u1y",
-          "pubDate": "Thu, 12 Nov 2026 10:40:39 +0900",
-          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112104036u1y_01_i.jpg\" alt=\"\"><span class=\"yna_title\">개혁신당 비상대책위원회 회의</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n개혁신당은 국민의힘에 '조작기소 특검' 저지를 위한 연대 투쟁에 나서자고 제안했습니다.\n\n이기인 비상대책위원장은 오늘(12일) 비상대책위원회의 종료 이후 '개혁신당 차원의 조작기소 특검 대응 계획이 있냐'는 취재진의 질문에 \"국민의힘 측에 함께 연대해 투쟁하자는 제안을 드린 바 있다\"며 \"비대위원들도 투쟁 방식을 논의 중\"이라고 말했습니다.\n\n또한 어제(11일) 국민의힘 조정훈 의원과 개혁신당 이준석 의원이 공동 대표를 맡아 함께 주최한 '수도권주거혁신포럼'과 관련해, \"국민의힘과 개혁신당이 모처럼 손잡고 포럼을 발족한 만큼 여기에서도 허심탄회하게 이야기했으면 좋겠다\"고 언급했습니다.\n\n이 위원장은 아울러 \"작년 7월 고(故) 김문기 처장의 아내가 문자를 보냈다. 대학에 간 딸은 친구들이 정치 얘기를 하면 혼자 화장실에 가서 울기도 했다더라\"며 \"이재명 대통령은 다음 국무회의에서 총리와 국무위원들에게 책임을 떠넘기지 말고 직접 거부권을 행사하라\"고 촉구했습니다.\n\n\n#개혁신당 #조작기소특검\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배윤주(boat@yna.co.kr)",
-          "content:encodedSnippet": "개혁신당 비상대책위원회 회의[연합뉴스 제공][연합뉴스 제공]\n개혁신당은 국민의힘에 '조작기소 특검' 저지를 위한 연대 투쟁에 나서자고 제안했습니다.\n\n이기인 비상대책위원장은 오늘(12일) 비상대책위원회의 종료 이후 '개혁신당 차원의 조작기소 특검 대응 계획이 있냐'는 취재진의 질문에 \"국민의힘 측에 함께 연대해 투쟁하자는 제안을 드린 바 있다\"며 \"비대위원들도 투쟁 방식을 논의 중\"이라고 말했습니다.\n\n또한 어제(11일) 국민의힘 조정훈 의원과 개혁신당 이준석 의원이 공동 대표를 맡아 함께 주최한 '수도권주거혁신포럼'과 관련해, \"국민의힘과 개혁신당이 모처럼 손잡고 포럼을 발족한 만큼 여기에서도 허심탄회하게 이야기했으면 좋겠다\"고 언급했습니다.\n\n이 위원장은 아울러 \"작년 7월 고(故) 김문기 처장의 아내가 문자를 보냈다. 대학에 간 딸은 친구들이 정치 얘기를 하면 혼자 화장실에 가서 울기도 했다더라\"며 \"이재명 대통령은 다음 국무회의에서 총리와 국무위원들에게 책임을 떠넘기지 말고 직접 거부권을 행사하라\"고 촉구했습니다.\n\n\n#개혁신당 #조작기소특검\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배윤주(boat@yna.co.kr)",
+          "title": "민주 박희승 \"후진국에서 하는 짓\"…'曺탄핵 요구' 지지자와 설전",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261112184851cK5",
+          "pubDate": "Thu, 12 Nov 2026 18:48:51 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112184851cK5_01_i.jpg\" alt=\"\"><span class=\"yna_title\">국감서 질의하는 박희승 의원</span><span class=\"yna_caption\">(대구=연합뉴스) 윤관식 기자 = 더불어민주당 박희승 의원이 19일 대구 동구 한국가스공사에서 열린 국회 산업통상자원중소벤처기업원회의 한국가스공사, 한국석유공사, 강원랜드, 대한석탄공사, 한국가스기술공사, 한국가스안전공사, 한국석유관리원, 한국광해광업공단에 대한 국정감사에서 질의하고 있다. 2026.10.19\npsik@yna.co.kr\n(끝)\n\n\n<저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지></span><span class=\"yna_description\">(대구=연합뉴스) 윤관식 기자 = 더불어민주당 박희승 의원이 19일 대구 동구 한국가스공사에서 열린 국회 산업통상자원중소벤처기업원회의 한국가스공사, 한국석유공사, 강원랜드, 대한석탄공사, 한국가스기술공사, 한국가스안전공사, 한국석유관리원, 한국광해광업공단에 대한 국정감사에서 질의하고 있다. 2026.10.19\npsik@yna.co.kr\n(끝)\n\n\n<저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지></span></div>\n판사 출신인 더불어민주당 박희승 의원이 조희대 대법원장의 탄핵을 촉구한 시민과 언쟁을 벌이며 \"법관 탄핵은 후진국에서 하는 짓\"이라고 말했습니다.\n\n박 의원은 오늘(12) 서울 여의도 민주당사 앞에서 \"민주당은 조희대 탄핵에 나서라\"는 한 시민의 말을 듣고 \"미쳤나 진짜\"라고 말한 뒤 \"후진국에서나 하는 거죠\"라고 반박했습니다.\n\n당사 앞에 모여있던 지지자들이 곧바로 \"그게 민주당의 입장인가\"라고 묻자 박 의원은 재차 \"법관을 탄핵하는 것은 있을 수 없는 일\"이라고 답변했습니다.\n\n이 장면은 해당 시민이 촬영 중이던 유튜브 방송을 통해 중계됐습니다.\n\n조국혁신당은 즉각 논평을 내고 \"박 의원이야 말로 제정신이냐\"며 \"시민의 목소리를 귀담아듣기는커녕 미친 사람 취급하고, 대한민국을 후진국으로 만들어 버렸다\"고 비판했습니다.\n\n그러면서 \"내란 공범들이 줄줄이 석방되고 난 후과를 어떻게 책임지시는지 지켜보겠다\"며 \"한때 판사였던 사람으로서 양심이 있다면 문제의 발언에 대해 사죄하고, 조희대 탄핵에 나서라\"고 촉구했습니다.\n\n\n\n\n#더불어민주당 #박희승\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배윤주(boat@yna.co.kr)",
+          "content:encodedSnippet": "국감서 질의하는 박희승 의원(대구=연합뉴스) 윤관식 기자 = 더불어민주당 박희승 의원이 19일 대구 동구 한국가스공사에서 열린 국회 산업통상자원중소벤처기업원회의 한국가스공사, 한국석유공사, 강원랜드, 대한석탄공사, 한국가스기술공사, 한국가스안전공사, 한국석유관리원, 한국광해광업공단에 대한 국정감사에서 질의하고 있다. 2026.10.19\npsik@yna.co.kr\n(끝)\n\n\n(대구=연합뉴스) 윤관식 기자 = 더불어민주당 박희승 의원이 19일 대구 동구 한국가스공사에서 열린 국회 산업통상자원중소벤처기업원회의 한국가스공사, 한국석유공사, 강원랜드, 대한석탄공사, 한국가스기술공사, 한국가스안전공사, 한국석유관리원, 한국광해광업공단에 대한 국정감사에서 질의하고 있다. 2026.10.19\npsik@yna.co.kr\n(끝)\n\n\n\n판사 출신인 더불어민주당 박희승 의원이 조희대 대법원장의 탄핵을 촉구한 시민과 언쟁을 벌이며 \"법관 탄핵은 후진국에서 하는 짓\"이라고 말했습니다.\n\n박 의원은 오늘(12) 서울 여의도 민주당사 앞에서 \"민주당은 조희대 탄핵에 나서라\"는 한 시민의 말을 듣고 \"미쳤나 진짜\"라고 말한 뒤 \"후진국에서나 하는 거죠\"라고 반박했습니다.\n\n당사 앞에 모여있던 지지자들이 곧바로 \"그게 민주당의 입장인가\"라고 묻자 박 의원은 재차 \"법관을 탄핵하는 것은 있을 수 없는 일\"이라고 답변했습니다.\n\n이 장면은 해당 시민이 촬영 중이던 유튜브 방송을 통해 중계됐습니다.\n\n조국혁신당은 즉각 논평을 내고 \"박 의원이야 말로 제정신이냐\"며 \"시민의 목소리를 귀담아듣기는커녕 미친 사람 취급하고, 대한민국을 후진국으로 만들어 버렸다\"고 비판했습니다.\n\n그러면서 \"내란 공범들이 줄줄이 석방되고 난 후과를 어떻게 책임지시는지 지켜보겠다\"며 \"한때 판사였던 사람으로서 양심이 있다면 문제의 발언에 대해 사죄하고, 조희대 탄핵에 나서라\"고 촉구했습니다.\n\n\n\n\n#더불어민주당 #박희승\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배윤주(boat@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112104036u1y_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112184851cK5_01_i.jpg",
             "type": "image/jpeg"
           },
           "dc:creator": "배윤주",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261112104036u1y#comments",
-          "content": "개혁신당 비상대책위원회 회의[연합뉴스 제공][연합뉴스 제공] 개혁신당은 국민의힘에 '조작기소 특검' 저지를 위한 연대 투쟁에 나서자고 제안했습니다. 이기인 비상대책위원장은 오늘(12일) 비상대책위원회의 종료 이후 '개혁신당 차원의 조작기소 특검 대응 계획이 있냐'는 취재진의 질문에 \"국민의힘 측에 함께 연대해 투쟁하자는 제안을 드린 바 있다\"며 \"비대위원들도 투쟁 방식을 논의 중\"이라고 말했습니다. 또한 어제(11일) 국민의힘 조정훈 의원...",
-          "contentSnippet": "개혁신당 비상대책위원회 회의[연합뉴스 제공][연합뉴스 제공] 개혁신당은 국민의힘에 '조작기소 특검' 저지를 위한 연대 투쟁에 나서자고 제안했습니다. 이기인 비상대책위원장은 오늘(12일) 비상대책위원회의 종료 이후 '개혁신당 차원의 조작기소 특검 대응 계획이 있냐'는 취재진의 질문에 \"국민의힘 측에 함께 연대해 투쟁하자는 제안을 드린 바 있다\"며 \"비대위원들도 투쟁 방식을 논의 중\"이라고 말했습니다. 또한 어제(11일) 국민의힘 조정훈 의원...",
-          "guid": "AKR20261112104036u1y",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261112184851cK5#comments",
+          "content": "국감서 질의하는 박희승 의원(대구=연합뉴스) 윤관식 기자 = 더불어민주당 박희승 의원이 19일 대구 동구 한국가스공사에서 열린 국회 산업통상자원중소벤처기업원회의 한국가스공사, 한국석유공사, 강원랜드, 대한석탄공사, 한국가스기술공사, 한국가스안전공사, 한국석유관리원, 한국광해광업공단에 대한 국정감사에서 질의하고 있다. 2026.10.19 psik@yna.co.kr (끝) (대구=연합뉴스) 윤관식 기자 = 더불어민주당 박희승 의원이 19일 대...",
+          "contentSnippet": "국감서 질의하는 박희승 의원(대구=연합뉴스) 윤관식 기자 = 더불어민주당 박희승 의원이 19일 대구 동구 한국가스공사에서 열린 국회 산업통상자원중소벤처기업원회의 한국가스공사, 한국석유공사, 강원랜드, 대한석탄공사, 한국가스기술공사, 한국가스안전공사, 한국석유관리원, 한국광해광업공단에 대한 국정감사에서 질의하고 있다. 2026.10.19 psik@yna.co.kr (끝) (대구=연합뉴스) 윤관식 기자 = 더불어민주당 박희승 의원이 19일 대...",
+          "guid": "AKR20261112184851cK5",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-12T01:40:39.000Z"
+          "isoDate": "2026-11-12T09:48:51.000Z"
         },
         {
-          "creator": "배윤주",
-          "title": "민주 최민희, 기자들 '하이에나 떼' 표현…명예훼손 고발돼",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261112103932VI9",
-          "pubDate": "Thu, 12 Nov 2026 10:39:33 +0900",
-          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112103932VI9_01_i.jpg\" alt=\"\"><span class=\"yna_title\">더불어민주당 최민희 최고위원이 11일 기자들에 대한 표현 관련 사과를 위해 국회 소통관에 입장하고 있다. 최 최고위원은 지난 5일 지역구 단체 대화방에 국회 사진·영상 기자들이 취재 중인 사진을 올리며 \"하이에나 떼들\", \"어떻게든 이간 영상 찍으려 저러고 있다\"고 적었다. 2026.11.11</span><span class=\"yna_caption\">[국회사진기자단=연합뉴스 제공]</span><span class=\"yna_description\">[국회사진기자단=연합뉴스 제공]</span></div>\n더불어민주당 최민희 최고위원이 국회에서 취재 중인 기자들을 '하이에나 떼들'이라고 표현한 것과 관련해 명예훼손 혐의로 경찰에 고발됐습니다.\n\n이종배 국민의힘 전 서울시의원은 오늘(12일) 오전 국민신문고를 통해 서울경찰청에 최 위원을 정보통신망법상 허위사실 적시 명예훼손 혐의로 고발했다고 밝혔습니다.\n\n이 전 시의원은 \"최 최고위원은 지난 5일 지역구 당원 등 400여 명이 참여한 카카오톡 대화방에 국회에서 더불어민주당 의원총회를 취재 중인 사진·영상 기자들을 찍은 사진을 올리며 '하이에나 떼들', '어떻게든 이간(離間) 영상 찍으려 저러고 있다'고 적었다\"고 주장했습니다.\n\n이어 \"당시 기자들이 단지 의원총회를 취재했다는 이유로 '이간 영상을 찍으려 한다'는 주장은 아무런 근거가 없는 허위사실\"이라며 \"'하이에나 떼들'이라는 표현은 기자들을 비방할 목적이 드러난 것\"이라고 지적했습니다.\n\n그러면서 \"기자들에게 '하이에나 떼들'이라고 표현한 것은 평소 언론에 대한 인식 수준을 보여주는 비열한 작태로, 입으로는 민주주의를 말하지만 자신들에게 불편한 언론에 재갈을 물리려 하고 경멸과 조롱을 퍼붓는 그 위선과 이중성에 경악을 금할 수 없다\"고 비판했습니다.\n\n이종배 전 의원은 특히 \"최 최고위원이 과거에도 자신에게 불리한 보도를 문제 삼아 언론사 관계자를 퇴장시키거나 취재 과정에서 기자들과 충돌한 사례가 있다\"고 지적했습니다.\n\n그러면서 수사기관의 처벌을 비롯해 국회 차원의 징계와 민주당의 재발 방지 대책을 요구했습니다.\n\n#최민희 #더불어민주당 #명예훼손\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배윤주(boat@yna.co.kr)",
-          "content:encodedSnippet": "더불어민주당 최민희 최고위원이 11일 기자들에 대한 표현 관련 사과를 위해 국회 소통관에 입장하고 있다. 최 최고위원은 지난 5일 지역구 단체 대화방에 국회 사진·영상 기자들이 취재 중인 사진을 올리며 \"하이에나 떼들\", \"어떻게든 이간 영상 찍으려 저러고 있다\"고 적었다. 2026.11.11[국회사진기자단=연합뉴스 제공][국회사진기자단=연합뉴스 제공]\n더불어민주당 최민희 최고위원이 국회에서 취재 중인 기자들을 '하이에나 떼들'이라고 표현한 것과 관련해 명예훼손 혐의로 경찰에 고발됐습니다.\n\n이종배 국민의힘 전 서울시의원은 오늘(12일) 오전 국민신문고를 통해 서울경찰청에 최 위원을 정보통신망법상 허위사실 적시 명예훼손 혐의로 고발했다고 밝혔습니다.\n\n이 전 시의원은 \"최 최고위원은 지난 5일 지역구 당원 등 400여 명이 참여한 카카오톡 대화방에 국회에서 더불어민주당 의원총회를 취재 중인 사진·영상 기자들을 찍은 사진을 올리며 '하이에나 떼들', '어떻게든 이간(離間) 영상 찍으려 저러고 있다'고 적었다\"고 주장했습니다.\n\n이어 \"당시 기자들이 단지 의원총회를 취재했다는 이유로 '이간 영상을 찍으려 한다'는 주장은 아무런 근거가 없는 허위사실\"이라며 \"'하이에나 떼들'이라는 표현은 기자들을 비방할 목적이 드러난 것\"이라고 지적했습니다.\n\n그러면서 \"기자들에게 '하이에나 떼들'이라고 표현한 것은 평소 언론에 대한 인식 수준을 보여주는 비열한 작태로, 입으로는 민주주의를 말하지만 자신들에게 불편한 언론에 재갈을 물리려 하고 경멸과 조롱을 퍼붓는 그 위선과 이중성에 경악을 금할 수 없다\"고 비판했습니다.\n\n이종배 전 의원은 특히 \"최 최고위원이 과거에도 자신에게 불리한 보도를 문제 삼아 언론사 관계자를 퇴장시키거나 취재 과정에서 기자들과 충돌한 사례가 있다\"고 지적했습니다.\n\n그러면서 수사기관의 처벌을 비롯해 국회 차원의 징계와 민주당의 재발 방지 대책을 요구했습니다.\n\n#최민희 #더불어민주당 #명예훼손\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배윤주(boat@yna.co.kr)",
+          "creator": "김나영",
+          "title": "돌고래 '안목이' 안녕…제주 바다서 새 출발",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261112184748oEA",
+          "pubDate": "Thu, 12 Nov 2026 18:47:48 +0900",
+          "content:encoded": "[앵커]\n\n강릉 앞바다에서 선박을 졸졸 따라다니며 인기몰이를 했던 남방큰돌고래 안목이를 기억하십니까?\n\n잇따른 부상으로 구조됐던 안목이가 넉 달간의 치료와 재활을 마치고 제주 바다에서 새 출발을 했습니다.\n\n김나영 기자가 취재했습니다.\n\n[기자]\n\n넉 달 만에 다시 만난 드넓은 바다, 남방큰돌고래 한 마리가 힘차게 물살을 가르며 헤엄쳐 나갑니다.\n\n지난 7월 강릉 앞바다에서 구조된 안목이입니다.\n\n선박을 졸졸 따라다니며 유명인사가 됐지만 선박 프로펠러에 다친 것으로 추정되는 상처가 잇따라 발견됐습니다.\n\n특히 허리 부위 피부가 20cm가량 찢어지는 등 부상이 심각해 결국 구조됐습니다.\n\n이후 울산의 해양동물 전문 치료시설에서 넉 달간 치료와 재활을 거쳐 상처가 아물고 먹이 사냥 능력도 회복했습니다.\n\n안목이가 방류된 곳은 제주 서귀포시 화순항에서 약 1km 떨어진 해상.\n\n남방큰돌고래 무리가 서식하는 제주 바다가 새로운 삶의 터전이 된 겁니다.\n\n&lt;김현성 / 해양수산부 해양생태과장&gt; \"상처 부위가 다 완치되고 무엇보다 4개월 정도 지났는데 조금이라도 더 야생성을 잃기 전에 자연으로 다시 돌아가는 것이 적절하다는 판단하에….\"\n\n안목이의 몸에는 위치추적장치도 부착됐습니다.\n\n앞으로 최대 3개월간 이동 경로를 추적하며 야생 적응 여부를 살필 계획입니다.\n\n강릉에서 구조된 뒤 넉 달 만에 다시 바다로 돌아간 안목이.\n\n이제 관심은 제주 바다에서 야생에 성공적으로 적응할 수 있을지에 쏠리고 있습니다.\n\n연합뉴스TV 김나영입니다.\n\n[영상취재 이병권]\n\n[영상편집 김건영]\n\n#제주 #남방큰돌고래 #안목이\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김나영(na0@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n강릉 앞바다에서 선박을 졸졸 따라다니며 인기몰이를 했던 남방큰돌고래 안목이를 기억하십니까?\n\n잇따른 부상으로 구조됐던 안목이가 넉 달간의 치료와 재활을 마치고 제주 바다에서 새 출발을 했습니다.\n\n김나영 기자가 취재했습니다.\n\n[기자]\n\n넉 달 만에 다시 만난 드넓은 바다, 남방큰돌고래 한 마리가 힘차게 물살을 가르며 헤엄쳐 나갑니다.\n\n지난 7월 강릉 앞바다에서 구조된 안목이입니다.\n\n선박을 졸졸 따라다니며 유명인사가 됐지만 선박 프로펠러에 다친 것으로 추정되는 상처가 잇따라 발견됐습니다.\n\n특히 허리 부위 피부가 20cm가량 찢어지는 등 부상이 심각해 결국 구조됐습니다.\n\n이후 울산의 해양동물 전문 치료시설에서 넉 달간 치료와 재활을 거쳐 상처가 아물고 먹이 사냥 능력도 회복했습니다.\n\n안목이가 방류된 곳은 제주 서귀포시 화순항에서 약 1km 떨어진 해상.\n\n남방큰돌고래 무리가 서식하는 제주 바다가 새로운 삶의 터전이 된 겁니다.\n\n<김현성 / 해양수산부 해양생태과장> \"상처 부위가 다 완치되고 무엇보다 4개월 정도 지났는데 조금이라도 더 야생성을 잃기 전에 자연으로 다시 돌아가는 것이 적절하다는 판단하에….\"\n\n안목이의 몸에는 위치추적장치도 부착됐습니다.\n\n앞으로 최대 3개월간 이동 경로를 추적하며 야생 적응 여부를 살필 계획입니다.\n\n강릉에서 구조된 뒤 넉 달 만에 다시 바다로 돌아간 안목이.\n\n이제 관심은 제주 바다에서 야생에 성공적으로 적응할 수 있을지에 쏠리고 있습니다.\n\n연합뉴스TV 김나영입니다.\n\n[영상취재 이병권]\n\n[영상편집 김건영]\n\n#제주 #남방큰돌고래 #안목이\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김나영(na0@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112103932VI9_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261112/MYH20261112184748oEA.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "배윤주",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261112103932VI9#comments",
-          "content": "더불어민주당 최민희 최고위원이 11일 기자들에 대한 표현 관련 사과를 위해 국회 소통관에 입장하고 있다. 최 최고위원은 지난 5일 지역구 단체 대화방에 국회 사진·영상 기자들이 취재 중인 사진을 올리며 \"하이에나 떼들\", \"어떻게든 이간 영상 찍으려 저러고 있다\"고 적었다. 2026.11.11[국회사진기자단=연합뉴스 제공][국회사진기자단=연합뉴스 제공] 더불어민주당 최민희 최고위원이 국회에서 취재 중인 기자들을 '하이에나 떼들'이라고 표현...",
-          "contentSnippet": "더불어민주당 최민희 최고위원이 11일 기자들에 대한 표현 관련 사과를 위해 국회 소통관에 입장하고 있다. 최 최고위원은 지난 5일 지역구 단체 대화방에 국회 사진·영상 기자들이 취재 중인 사진을 올리며 \"하이에나 떼들\", \"어떻게든 이간 영상 찍으려 저러고 있다\"고 적었다. 2026.11.11[국회사진기자단=연합뉴스 제공][국회사진기자단=연합뉴스 제공] 더불어민주당 최민희 최고위원이 국회에서 취재 중인 기자들을 '하이에나 떼들'이라고 표현...",
-          "guid": "AKR20261112103932VI9",
+          "dc:creator": "김나영",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261112184748oEA#comments",
+          "content": "[앵커] 강릉 앞바다에서 선박을 졸졸 따라다니며 인기몰이를 했던 남방큰돌고래 안목이를 기억하십니까? 잇따른 부상으로 구조됐던 안목이가 넉 달간의 치료와 재활을 마치고 제주 바다에서 새 출발을 했습니다. 김나영 기자가 취재했습니다. [기자] 넉 달 만에 다시 만난 드넓은 바다, 남방큰돌고래 한 마리가 힘차게 물살을 가르며 헤엄쳐 나갑니다. 지난 7월 강릉 앞바다에서 구조된 안목이입니다. 선박을 졸졸 따라다니며 유명인사가 됐지만 선박 프로펠러...",
+          "contentSnippet": "[앵커] 강릉 앞바다에서 선박을 졸졸 따라다니며 인기몰이를 했던 남방큰돌고래 안목이를 기억하십니까? 잇따른 부상으로 구조됐던 안목이가 넉 달간의 치료와 재활을 마치고 제주 바다에서 새 출발을 했습니다. 김나영 기자가 취재했습니다. [기자] 넉 달 만에 다시 만난 드넓은 바다, 남방큰돌고래 한 마리가 힘차게 물살을 가르며 헤엄쳐 나갑니다. 지난 7월 강릉 앞바다에서 구조된 안목이입니다. 선박을 졸졸 따라다니며 유명인사가 됐지만 선박 프로펠러...",
+          "guid": "MYH20261112184748oEA",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-12T01:39:33.000Z"
+          "isoDate": "2026-11-12T09:47:48.000Z"
         },
         {
-          "creator": "최지원",
-          "title": "HD건설기계, 에티오피아에 6·25 참전 전사자 '추모의 벽' 건립",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261112103859jsX",
-          "pubDate": "Thu, 12 Nov 2026 10:38:59 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112103859jsX_01_i.jpg\" alt=\"\"><span class=\"yna_title\">에티오피아 추모의 벽</span><span class=\"yna_caption\">HD건설기계와 국가보훈부가 6·25 참전 전사자를 기리기 위해 에티오피아 아디스아바바에 건립한 ‘에티오피아 추모의 벽’ [출처 = HD건설기계]</span><span class=\"yna_description\">HD건설기계와 국가보훈부가 6·25 참전 전사자를 기리기 위해 에티오피아 아디스아바바에 건립한 ‘에티오피아 추모의 벽’ [출처 = HD건설기계]</span></div>\nHD건설기계는 국가보훈부와 함께 에티오피아의 6·25 전쟁 참전용사들을 기리는 추모의 벽을 세웠습니다.\n\nHD건설기계와 국가보훈부는 현지시간 11일 에티오피아 아디스아바바 성 트리니티 대성당에서 6·25 전쟁 전사자 122명을 기리는 ‘에티오피아 추모의 벽’ 제막식을 개최했다고 오늘(12일) 밝혔습니다.\n\n이는 HD건설기계와 국가보훈부가 지난 5월 체결한 '유엔참전용사 기념시설 건립을 위한 업무협약'에 따른 것입니다.\n\n에티오피아는 6·25 전쟁 당시 아프리카에서 유일하게 지상군을 파병한 국가입니다. 황실 근위병으로 구성된 강뉴부대는 3,500명이 참전했고 그 가운데 장병 122명이 전사했습니다.\n\n새로 조성된 추모의 벽에는 전사자 122명의 이름이 새겨진 개별 명패가 붙었으며, 한글과 영문, 에티오피아 공용어인 암하라어로 감사와 추모의 메시지를 적었습니다. 에티오피아 상징인 사자와 함께 진군하는 강뉴부대원들의 모습을 동판에 새겨 참전의 역사를 기리기도 했습니다.\n\nHD건설기계는 참전용사 후손을 비롯한 현지 청년들에게 건설장비 운용 및 정비 교육 기회를 제공하고, 전문인력 확보와 일자리 창출에도 기여한다는 계획입니다.\n\n권오을 국가보훈부 장관은 축사를 통해 \"대한민국의 자유와 평화를 위해 투혼을 발휘하다 장렬히 전사하신 에티오피아 영웅들의 이름을 현지에 영원히 새기게 되어 매우 뜻깊게 생각한다\"고 했습니다.\n\nHD건설기계 문재영 사장은 \"추모의 벽이 대한민국을 위해 헌신한 에티오피아 참전용사들의 숭고한 희생을 기억하고, 그 정신을 미래 세대에도 전하는 공간이 되기를 바란다\"고 했습니다.\n\n#에티오피아 #추모의벽 #전사자 #625전쟁 #국가보훈부 #HD건설기계\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
-          "content:encodedSnippet": "에티오피아 추모의 벽HD건설기계와 국가보훈부가 6·25 참전 전사자를 기리기 위해 에티오피아 아디스아바바에 건립한 ‘에티오피아 추모의 벽’ [출처 = HD건설기계]HD건설기계와 국가보훈부가 6·25 참전 전사자를 기리기 위해 에티오피아 아디스아바바에 건립한 ‘에티오피아 추모의 벽’ [출처 = HD건설기계]\nHD건설기계는 국가보훈부와 함께 에티오피아의 6·25 전쟁 참전용사들을 기리는 추모의 벽을 세웠습니다.\n\nHD건설기계와 국가보훈부는 현지시간 11일 에티오피아 아디스아바바 성 트리니티 대성당에서 6·25 전쟁 전사자 122명을 기리는 ‘에티오피아 추모의 벽’ 제막식을 개최했다고 오늘(12일) 밝혔습니다.\n\n이는 HD건설기계와 국가보훈부가 지난 5월 체결한 '유엔참전용사 기념시설 건립을 위한 업무협약'에 따른 것입니다.\n\n에티오피아는 6·25 전쟁 당시 아프리카에서 유일하게 지상군을 파병한 국가입니다. 황실 근위병으로 구성된 강뉴부대는 3,500명이 참전했고 그 가운데 장병 122명이 전사했습니다.\n\n새로 조성된 추모의 벽에는 전사자 122명의 이름이 새겨진 개별 명패가 붙었으며, 한글과 영문, 에티오피아 공용어인 암하라어로 감사와 추모의 메시지를 적었습니다. 에티오피아 상징인 사자와 함께 진군하는 강뉴부대원들의 모습을 동판에 새겨 참전의 역사를 기리기도 했습니다.\n\nHD건설기계는 참전용사 후손을 비롯한 현지 청년들에게 건설장비 운용 및 정비 교육 기회를 제공하고, 전문인력 확보와 일자리 창출에도 기여한다는 계획입니다.\n\n권오을 국가보훈부 장관은 축사를 통해 \"대한민국의 자유와 평화를 위해 투혼을 발휘하다 장렬히 전사하신 에티오피아 영웅들의 이름을 현지에 영원히 새기게 되어 매우 뜻깊게 생각한다\"고 했습니다.\n\nHD건설기계 문재영 사장은 \"추모의 벽이 대한민국을 위해 헌신한 에티오피아 참전용사들의 숭고한 희생을 기억하고, 그 정신을 미래 세대에도 전하는 공간이 되기를 바란다\"고 했습니다.\n\n#에티오피아 #추모의벽 #전사자 #625전쟁 #국가보훈부 #HD건설기계\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
+          "creator": "김선홍",
+          "title": "\"인수위 연락없어\" 양평고속도로 의혹 진술 뒤집혀…윗선 개입 규명 난항",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH202611121845408mO",
+          "pubDate": "Thu, 12 Nov 2026 18:45:41 +0900",
+          "content:encoded": "양평고속도로 노선변경 의혹 관련 재판에서 핵심 피고인이 \"대통령인수위원회로부터 종점 변경 연락을 받은 적이 없다\"며 기존 진술을 뒤집었습니다.\n\n어제(11일) 서울중앙지법에서 열린 직권남용 권리행사방해 혐의 사건 공판에서 국토부 김 모 서기관은 \"증거를 정리해보니 잘못 진술한 것 같다\"며 기존 입장을 바꿨습니다.\n\n앞서 김 서기관은 지난해 특검 조사에서 \"인수위에 파견된 국토부 과장으로부터 종점 변경관련 연락을 여러차례 받았다\"는 취지로 진술한 바 있습니다.\n\n핵심 진술이 재판정에서 뒤집히면서 김건희 씨 일가에게 유리하게 고속도로 노선이 변경됐다는 특혜 의혹 윗선 규명에 난항이 예상됩니다.\n\n#김건희 #서울중앙지법 #양평고속도로\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김선홍(redsun@yna.co.kr)",
+          "content:encodedSnippet": "양평고속도로 노선변경 의혹 관련 재판에서 핵심 피고인이 \"대통령인수위원회로부터 종점 변경 연락을 받은 적이 없다\"며 기존 진술을 뒤집었습니다.\n\n어제(11일) 서울중앙지법에서 열린 직권남용 권리행사방해 혐의 사건 공판에서 국토부 김 모 서기관은 \"증거를 정리해보니 잘못 진술한 것 같다\"며 기존 입장을 바꿨습니다.\n\n앞서 김 서기관은 지난해 특검 조사에서 \"인수위에 파견된 국토부 과장으로부터 종점 변경관련 연락을 여러차례 받았다\"는 취지로 진술한 바 있습니다.\n\n핵심 진술이 재판정에서 뒤집히면서 김건희 씨 일가에게 유리하게 고속도로 노선이 변경됐다는 특혜 의혹 윗선 규명에 난항이 예상됩니다.\n\n#김건희 #서울중앙지법 #양평고속도로\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김선홍(redsun@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261112/AKR20261112103859jsX_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261112/MYH202611121845408mO.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "최지원",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261112103859jsX#comments",
-          "content": "에티오피아 추모의 벽HD건설기계와 국가보훈부가 6·25 참전 전사자를 기리기 위해 에티오피아 아디스아바바에 건립한 ‘에티오피아 추모의 벽’ [출처 = HD건설기계]HD건설기계와 국가보훈부가 6·25 참전 전사자를 기리기 위해 에티오피아 아디스아바바에 건립한 ‘에티오피아 추모의 벽’ [출처 = HD건설기계] HD건설기계는 국가보훈부와 함께 에티오피아의 6·25 전쟁 참전용사들을 기리는 추모의 벽을 세웠습니다. HD건설기계와 국가보훈부는 현지...",
-          "contentSnippet": "에티오피아 추모의 벽HD건설기계와 국가보훈부가 6·25 참전 전사자를 기리기 위해 에티오피아 아디스아바바에 건립한 ‘에티오피아 추모의 벽’ [출처 = HD건설기계]HD건설기계와 국가보훈부가 6·25 참전 전사자를 기리기 위해 에티오피아 아디스아바바에 건립한 ‘에티오피아 추모의 벽’ [출처 = HD건설기계] HD건설기계는 국가보훈부와 함께 에티오피아의 6·25 전쟁 참전용사들을 기리는 추모의 벽을 세웠습니다. HD건설기계와 국가보훈부는 현지...",
-          "guid": "AKR20261112103859jsX",
+          "dc:creator": "김선홍",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH202611121845408mO#comments",
+          "content": "양평고속도로 노선변경 의혹 관련 재판에서 핵심 피고인이 \"대통령인수위원회로부터 종점 변경 연락을 받은 적이 없다\"며 기존 진술을 뒤집었습니다. 어제(11일) 서울중앙지법에서 열린 직권남용 권리행사방해 혐의 사건 공판에서 국토부 김 모 서기관은 \"증거를 정리해보니 잘못 진술한 것 같다\"며 기존 입장을 바꿨습니다. 앞서 김 서기관은 지난해 특검 조사에서 \"인수위에 파견된 국토부 과장으로부터 종점 변경관련 연락을 여러차례 받았다\"는 취지로 진술...",
+          "contentSnippet": "양평고속도로 노선변경 의혹 관련 재판에서 핵심 피고인이 \"대통령인수위원회로부터 종점 변경 연락을 받은 적이 없다\"며 기존 진술을 뒤집었습니다. 어제(11일) 서울중앙지법에서 열린 직권남용 권리행사방해 혐의 사건 공판에서 국토부 김 모 서기관은 \"증거를 정리해보니 잘못 진술한 것 같다\"며 기존 입장을 바꿨습니다. 앞서 김 서기관은 지난해 특검 조사에서 \"인수위에 파견된 국토부 과장으로부터 종점 변경관련 연락을 여러차례 받았다\"는 취지로 진술...",
+          "guid": "MYH202611121845408mO",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-12T01:38:59.000Z"
+          "isoDate": "2026-11-12T09:45:41.000Z"
+        },
+        {
+          "creator": "박지운",
+          "title": "'서강대교 회군' 조성현 재판…위헌 인식 시점 쟁점",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261112184409Gi3",
+          "pubDate": "Thu, 12 Nov 2026 18:44:11 +0900",
+          "content:encoded": "[앵커]\n\n이른바 '서강대교 회군'으로 알려진 조성현 대령의 내란가담 사건 1심 첫 공판이 오늘(12일) 열렸습니다.\n\n내란특검에 입건조차 되지 않았다가 2차 종합특검이 재판에 넘겨 논란이 일었는데요.\n\n재판에선 조 대령이 명령의 위헌위법성을 언제 인식했는지가 주요 쟁점으로 떠올랐습니다.\n\n박지운 기자입니다.\n\n[기자]\n\n이른바 '서강대교 회군'으로 보국훈장까지 받았지만 뒤늦게 내란 가담 혐의로 기소된 조성현 대령의 정식 재판이 시작됐습니다.\n\n&lt;조성현 / 전 수도방위사령부 제1경비단장&gt; \"재판에 성실하게 임하겠습니다. 고맙습니다.\"\n\n조 대령은 비상계엄 당시 이진우 전 수도방위사령관에게 \"국회에 출동해 의원들을 끌어내라\"는 지시를 받고 이를 하달한 혐의로 재판에 넘겨졌습니다.\n\n내란특검은 후속 병력에 '서강대교 회군'을 지시한 점 등을 토대로 조 대령을 입건하지 않았지만 2차 종합특검은 \"국회 계엄 해제요구안 결의 후에야 명령을 거부했다\"며 판단을 뒤집었습니다.\n\n첫 공판에서 조 대령 측은 \"내란집단 가담 의사와 국헌문란 목적 인식이 있었다는 공소사실을 전면 부인한다\"고 밝혔습니다.\n\n또 \"일차적으로 혐의없음 처분이 나왔는데도 2차 종합특검에서 무리하게 기소했다\"며 공소기각을 주장했습니다.\n\n법원은 '국헌 문란 목적을 인지한 시점'을 사건의 핵심 쟁점으로 꼽았습니다.\n\n재판부는 조 대령 측에 \"국회 통제를 지시받을 때 인식하지 못했다면, 왜 시민들이 국회 문을 막고 병력을 저지한다고 생각했느냐\"고 직접 물었습니다.\n\n조 대령 측이 \"당시 국회가 혼란스러워 지시에 위법 요소가 있는지 판단하기 어려웠다\"고 답하자, 재판부는 \"현장에서 대테러 상황이 아니라는 걸 확인하지 않았나\"며 \"위헌성 인식 시점을 정리해 달라\"고 요청했습니다.\n\n한편 특검은 수사 보고서를 의견서로 냈는데, 재판부는 피고인 측이 부동의한 진술조서 내용까지 포함됐다며 \"부동의 취지를 무색하게 만들 수 있다\", \"이렇게 하면 안 된다\"고 지적했습니다.\n\n조 대령의 1심 재판은 올해 말 절차가 마무리되고, 내년 초 선고가 내려질 전망입니다.\n\n연합뉴스TV 박지운입니다.\n\n[영상취재 이재호]\n\n[영상편집 김 찬]\n\n[그래픽 임혜빈]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박지운(zwoonie@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n이른바 '서강대교 회군'으로 알려진 조성현 대령의 내란가담 사건 1심 첫 공판이 오늘(12일) 열렸습니다.\n\n내란특검에 입건조차 되지 않았다가 2차 종합특검이 재판에 넘겨 논란이 일었는데요.\n\n재판에선 조 대령이 명령의 위헌위법성을 언제 인식했는지가 주요 쟁점으로 떠올랐습니다.\n\n박지운 기자입니다.\n\n[기자]\n\n이른바 '서강대교 회군'으로 보국훈장까지 받았지만 뒤늦게 내란 가담 혐의로 기소된 조성현 대령의 정식 재판이 시작됐습니다.\n\n<조성현 / 전 수도방위사령부 제1경비단장> \"재판에 성실하게 임하겠습니다. 고맙습니다.\"\n\n조 대령은 비상계엄 당시 이진우 전 수도방위사령관에게 \"국회에 출동해 의원들을 끌어내라\"는 지시를 받고 이를 하달한 혐의로 재판에 넘겨졌습니다.\n\n내란특검은 후속 병력에 '서강대교 회군'을 지시한 점 등을 토대로 조 대령을 입건하지 않았지만 2차 종합특검은 \"국회 계엄 해제요구안 결의 후에야 명령을 거부했다\"며 판단을 뒤집었습니다.\n\n첫 공판에서 조 대령 측은 \"내란집단 가담 의사와 국헌문란 목적 인식이 있었다는 공소사실을 전면 부인한다\"고 밝혔습니다.\n\n또 \"일차적으로 혐의없음 처분이 나왔는데도 2차 종합특검에서 무리하게 기소했다\"며 공소기각을 주장했습니다.\n\n법원은 '국헌 문란 목적을 인지한 시점'을 사건의 핵심 쟁점으로 꼽았습니다.\n\n재판부는 조 대령 측에 \"국회 통제를 지시받을 때 인식하지 못했다면, 왜 시민들이 국회 문을 막고 병력을 저지한다고 생각했느냐\"고 직접 물었습니다.\n\n조 대령 측이 \"당시 국회가 혼란스러워 지시에 위법 요소가 있는지 판단하기 어려웠다\"고 답하자, 재판부는 \"현장에서 대테러 상황이 아니라는 걸 확인하지 않았나\"며 \"위헌성 인식 시점을 정리해 달라\"고 요청했습니다.\n\n한편 특검은 수사 보고서를 의견서로 냈는데, 재판부는 피고인 측이 부동의한 진술조서 내용까지 포함됐다며 \"부동의 취지를 무색하게 만들 수 있다\", \"이렇게 하면 안 된다\"고 지적했습니다.\n\n조 대령의 1심 재판은 올해 말 절차가 마무리되고, 내년 초 선고가 내려질 전망입니다.\n\n연합뉴스TV 박지운입니다.\n\n[영상취재 이재호]\n\n[영상편집 김 찬]\n\n[그래픽 임혜빈]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박지운(zwoonie@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261112/MYH20261112184409Gi3.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "박지운",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261112184409Gi3#comments",
+          "content": "[앵커] 이른바 '서강대교 회군'으로 알려진 조성현 대령의 내란가담 사건 1심 첫 공판이 오늘(12일) 열렸습니다. 내란특검에 입건조차 되지 않았다가 2차 종합특검이 재판에 넘겨 논란이 일었는데요. 재판에선 조 대령이 명령의 위헌위법성을 언제 인식했는지가 주요 쟁점으로 떠올랐습니다. 박지운 기자입니다. [기자] 이른바 '서강대교 회군'으로 보국훈장까지 받았지만 뒤늦게 내란 가담 혐의로 기소된 조성현 대령의 정식 재판이 시작됐습니다. &lt...",
+          "contentSnippet": "[앵커] 이른바 '서강대교 회군'으로 알려진 조성현 대령의 내란가담 사건 1심 첫 공판이 오늘(12일) 열렸습니다. 내란특검에 입건조차 되지 않았다가 2차 종합특검이 재판에 넘겨 논란이 일었는데요. 재판에선 조 대령이 명령의 위헌위법성을 언제 인식했는지가 주요 쟁점으로 떠올랐습니다. 박지운 기자입니다. [기자] 이른바 '서강대교 회군'으로 보국훈장까지 받았지만 뒤늦게 내란 가담 혐의로 기소된 조성현 대령의 정식 재판이 시작됐습니다. <...",
+          "guid": "MYH20261112184409Gi3",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-12T09:44:11.000Z"
         }
       ]
     }
