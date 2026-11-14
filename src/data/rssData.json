@@ -7,6 +7,126 @@
       "priority": 1,
       "data": [
         {
+          "title": "최소한 제3의 선택지가 필요한 이유",
+          "link": "https://news.hada.io/topic?id=37136&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-14T00:18:41.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>Android와 iOS를 벗어나는 실용적인 대안</strong>이 필요함. Google 의존성을 제거한 ROM과 대체 앱 스토어만으로 충분하다는 기대와 달리, 사용자와 개발자가 기기와 앱을 통제할 여지가 줄고 있음</li><li>iOS는 원래 폐쇄적이었고, 개방형 대안이었던 <strong>Android도 통제를 강화</strong>하고 있음. 개발자 검증과 복잡한 앱 설치 절차뿐 아니라 대체 ROM을 차단하는 앱도 문제임</li><li>일상생활이 모바일 앱에 의존하면서 <strong>시민으로서의 활동과 디지털 주권</strong>도 두 기업의 생태계에 종속될 위험이 있음</li><li>대안의 정확한 모습은 확실하지 않지만, <strong>오픈소스 기반과 상호운용성</strong>, </li></ul></div>…",
+          "contentSnippet": "Android와 iOS를 벗어나는 실용적인 대안이 필요함. Google 의존성을 제거한 ROM과 대체 앱 스토어만으로 충분하다는 기대와 달리, 사용자와 개발자가 기기와 앱을 통제할 여지가 줄고 있음\niOS는 원래 폐쇄적이었고, 개방형 대안이었던 Android도 통제를 강화하고 있음. 개발자 검증과 복잡한 앱 설치 절차뿐 아니라 대체 ROM을 차단하는 앱도 문제임\n일상생활이 모바일 앱에 의존하면서 시민으로서의 활동과 디지털 주권도 두 기업의 생태계에 종속될 위험이 있음\n대안의 정확한 모습은 확실하지 않지만, 오픈소스 기반과 상호운용성, \n\n…",
+          "id": "https://news.hada.io/topic?id=37136",
+          "isoDate": "2026-11-14T00:18:41.000Z"
+        },
+        {
+          "title": "셀을 차지하지 않는 터미널 테두리",
+          "link": "https://news.hada.io/topic?id=37135&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-14T00:15:41.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>문자 대신 <strong>셀 가장자리의 선</strong>으로 테두리를 그리는 터미널 프로토콜을 개발해 Ghostty 패치와 Ratatui 데모로 구현함</li><li><strong>행과 열을 추가로 소비하지 않아</strong> 패널 경계에 탭을 배치하고, 한 줄 높이의 둥근 버튼이나 텍스트 바로 아래의 입력란 밑줄을 그릴 수 있음</li><li>테두리를 <strong>셀 속성</strong>으로 저장해 텍스트와 함께 스크롤, 삭제, 삽입, 재배치되며, 선마다 색상과 너비 등을 지정할 수 있음</li><li><strong>기능 지원 조회와 박스 문자 대체 처리</strong>를 제공하지만, tmux 같은 멀티플렉서는 테두리 속성을 직접 지원하거나 관련 명령을 차단해야 함</li><li>명세의 <strong>버전 1은 안</strong></li></ul></div>…",
+          "contentSnippet": "문자 대신 셀 가장자리의 선으로 테두리를 그리는 터미널 프로토콜을 개발해 Ghostty 패치와 Ratatui 데모로 구현함\n행과 열을 추가로 소비하지 않아 패널 경계에 탭을 배치하고, 한 줄 높이의 둥근 버튼이나 텍스트 바로 아래의 입력란 밑줄을 그릴 수 있음\n테두리를 셀 속성으로 저장해 텍스트와 함께 스크롤, 삭제, 삽입, 재배치되며, 선마다 색상과 너비 등을 지정할 수 있음\n기능 지원 조회와 박스 문자 대체 처리를 제공하지만, tmux 같은 멀티플렉서는 테두리 속성을 직접 지원하거나 관련 명령을 차단해야 함\n명세의 버전 1은 안\n\n…",
+          "id": "https://news.hada.io/topic?id=37135",
+          "isoDate": "2026-11-14T00:15:41.000Z"
+        },
+        {
+          "title": "“글루 워크는 해롭다”에 대한 반론",
+          "link": "https://news.hada.io/topic?id=37134&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-14T00:12:41.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>빅테크가 <strong>글루 워크(glue work)</strong> 보다 기능 출시를 보상하는 현실과, 직원이 그 인센티브를 그대로 내면화해야 한다는 것은 별개임</li><li>조직 운영에 필요한 글루 워크를 외면하면서 경영진의 임무를 수행하라는 요구에는 <strong>모순</strong>이 있으며, 그 가치를 제대로 포착하지 못하는 조직은 개선 기회를 놓침</li><li>글루 워크는 일시적으로 마찰을 대신 감당하는 일에 그치지 않고 <strong>마찰을 영구적으로 제거</strong>할 수 있음</li><li>실제 마감에 대비해 여력을 남기는 것과 동료의 업무를 개선하지 않는 것은 다름. 자신이 가장 적합한 사람이라면 <strong>자신이 책임지는 프로젝트 밖</strong></li></ul></div>…",
+          "contentSnippet": "빅테크가 글루 워크(glue work) 보다 기능 출시를 보상하는 현실과, 직원이 그 인센티브를 그대로 내면화해야 한다는 것은 별개임\n조직 운영에 필요한 글루 워크를 외면하면서 경영진의 임무를 수행하라는 요구에는 모순이 있으며, 그 가치를 제대로 포착하지 못하는 조직은 개선 기회를 놓침\n글루 워크는 일시적으로 마찰을 대신 감당하는 일에 그치지 않고 마찰을 영구적으로 제거할 수 있음\n실제 마감에 대비해 여력을 남기는 것과 동료의 업무를 개선하지 않는 것은 다름. 자신이 가장 적합한 사람이라면 자신이 책임지는 프로젝트 밖\n\n…",
+          "id": "https://news.hada.io/topic?id=37134",
+          "isoDate": "2026-11-14T00:12:41.000Z"
+        },
+        {
+          "title": "음악 플레이어를 이렇게 만들지는 말자",
+          "link": "https://news.hada.io/topic?id=37133&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-14T00:09:41.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>인터넷 차단을 겪으며 오프라인 음악 재생의 필요성을 느낀 개발자가 <strong>Zig 기반 음악 플레이어 AMP</strong>를 직접 만들기 시작함</li><li>기존 플레이어의 가사 표시가 불편해, 최소한의 기능과 C++ 의존성 배제, 네이티브 앱처럼 느껴지는 <strong>시스템 통합</strong>을 목표로 삼음</li><li>인터넷 복구 뒤 <strong>Claude Max 20x</strong>로 며칠간 쉬지 않고 프롬프트를 입력하며 상당 부분을 바이브 코딩했지만, 나중에 수만 줄의 코드를 검토하는 일이 감당하기 어려워짐</li><li>Anthropic의 계정 차단과 Codeberg의 AI 금지 정책 이후 직접 재작성한 결과, <strong>4개월 뒤 코드베이스가 거의 절반으로 줄</strong></li></ul></div>…",
+          "contentSnippet": "인터넷 차단을 겪으며 오프라인 음악 재생의 필요성을 느낀 개발자가 Zig 기반 음악 플레이어 AMP를 직접 만들기 시작함\n기존 플레이어의 가사 표시가 불편해, 최소한의 기능과 C++ 의존성 배제, 네이티브 앱처럼 느껴지는 시스템 통합을 목표로 삼음\n인터넷 복구 뒤 Claude Max 20x로 며칠간 쉬지 않고 프롬프트를 입력하며 상당 부분을 바이브 코딩했지만, 나중에 수만 줄의 코드를 검토하는 일이 감당하기 어려워짐\nAnthropic의 계정 차단과 Codeberg의 AI 금지 정책 이후 직접 재작성한 결과, 4개월 뒤 코드베이스가 거의 절반으로 줄\n\n…",
+          "id": "https://news.hada.io/topic?id=37133",
+          "isoDate": "2026-11-14T00:09:41.000Z"
+        },
+        {
+          "title": "Haskell 생태계를 위한 기술 비전",
+          "link": "https://news.hada.io/topic?id=37132&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-13T23:38:14.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>Haskell Foundation 기술 리더십 위원회(TLC)</strong> 가 정식 활동을 시작해 개발 도구, 보안, 장기 호환성 개선 과제를 발굴하고 재단의 자금 지원 대상을 정함</li><li>AI가 코드를 생성할 때 <strong>타입과 도메인 전용 언어(eDSL)로 지켜야 할 규칙을 코드에 담아</strong>, 개발자가 변경 사항을 검토하고 통제하기 쉽게 만드는 방향을 제시함</li><li><strong>빠른 개발 반복 주기와 디버깅 개선</strong>을 추진하며, GHC 자체 CI 소요 시간을 6시간에서 2시간으로 줄이는 것을 목표로 함</li><li><strong>온보딩을 개발자 경험의 기준</strong>으로 삼고, 빠른 설치, 접근하기 쉬운 문서, 직관적이며 서로 조합하고 </li></ul></div>…",
+          "contentSnippet": "Haskell Foundation 기술 리더십 위원회(TLC) 가 정식 활동을 시작해 개발 도구, 보안, 장기 호환성 개선 과제를 발굴하고 재단의 자금 지원 대상을 정함\nAI가 코드를 생성할 때 타입과 도메인 전용 언어(eDSL)로 지켜야 할 규칙을 코드에 담아, 개발자가 변경 사항을 검토하고 통제하기 쉽게 만드는 방향을 제시함\n빠른 개발 반복 주기와 디버깅 개선을 추진하며, GHC 자체 CI 소요 시간을 6시간에서 2시간으로 줄이는 것을 목표로 함\n온보딩을 개발자 경험의 기준으로 삼고, 빠른 설치, 접근하기 쉬운 문서, 직관적이며 서로 조합하고 \n\n…",
+          "id": "https://news.hada.io/topic?id=37132",
+          "isoDate": "2026-11-13T23:38:14.000Z"
+        },
+        {
+          "title": "빅테크는 우리를 실망시킨다",
+          "link": "https://news.hada.io/topic?id=37131&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-13T23:35:14.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>Microsoft Outlook, Teams, Copilot 장애</strong>로 업무가 중단되고, 일부 중소기업은 정상적인 고객 지원 대신 소셜미디어로 연락을 받음</li><li>장애 영향은 기업을 넘어 <strong>학교, 대학, 법원</strong>까지 이어졌으며, 서로 다른 이틀에 걸쳐 문제가 발생함</li><li>엔지니어를 포함한 <strong>수만 명 규모의 감원</strong>이 장애 가능성을 높이고 신속한 복구를 어렵게 한다는 비판이 나옴</li><li><strong>Microsoft 시스템에 대한 높은 의존도</strong> 때문에 서비스 장애가 여러 조직의 운영 중단으로 번지며, 특히 필수 업무를 수행하는 조직에는 큰 피해를 줄 수 있음</li><li>여러 <strong>유럽 국가기관이 오픈소스 대안으</strong></li></ul></div>…",
+          "contentSnippet": "Microsoft Outlook, Teams, Copilot 장애로 업무가 중단되고, 일부 중소기업은 정상적인 고객 지원 대신 소셜미디어로 연락을 받음\n장애 영향은 기업을 넘어 학교, 대학, 법원까지 이어졌으며, 서로 다른 이틀에 걸쳐 문제가 발생함\n엔지니어를 포함한 수만 명 규모의 감원이 장애 가능성을 높이고 신속한 복구를 어렵게 한다는 비판이 나옴\nMicrosoft 시스템에 대한 높은 의존도 때문에 서비스 장애가 여러 조직의 운영 중단으로 번지며, 특히 필수 업무를 수행하는 조직에는 큰 피해를 줄 수 있음\n여러 유럽 국가기관이 오픈소스 대안으\n\n…",
+          "id": "https://news.hada.io/topic?id=37131",
+          "isoDate": "2026-11-13T23:35:14.000Z"
+        },
+        {
+          "title": "600번의 실험으로 알아낸 JEPA 월드 모델의 특성",
+          "link": "https://news.hada.io/topic?id=37130&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-13T22:37:56.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>LeWM</strong>의 Push-T 실험에서는 예측 모델 개선보다 <strong>계획 방식 변경</strong>이 더 큰 효과를 냄. 학습 데이터와 유사한 경로에서 적절한 하위 목표를 제공하면, 학습된 예측기로도 시뮬레이터의 정확한 물리와 비슷한 성공률을 얻음</li><li>장기 과제를 <strong>25스텝 단위 하위 목표</strong>로 나누고, 시연을 연결한 <strong>메모리 그래프</strong>에서 경로를 찾는 방식으로 재학습 없이 성공률을 22%에서 85%로 높임</li><li>표준 Push-T 평가는 목표가 기존 시연 경로에 놓이는 경우가 많음. 서로 다른 시연에서 시작점과 목표를 가져오고 마지막 10스텝 동안 목표를 유지하도록 요구하자, 메모리 그래프 계획기의 성공률이 <strong>75%에서 45%</strong> 로 낮아짐</li></ul></div>…",
+          "contentSnippet": "LeWM의 Push-T 실험에서는 예측 모델 개선보다 계획 방식 변경이 더 큰 효과를 냄. 학습 데이터와 유사한 경로에서 적절한 하위 목표를 제공하면, 학습된 예측기로도 시뮬레이터의 정확한 물리와 비슷한 성공률을 얻음\n장기 과제를 25스텝 단위 하위 목표로 나누고, 시연을 연결한 메모리 그래프에서 경로를 찾는 방식으로 재학습 없이 성공률을 22%에서 85%로 높임\n표준 Push-T 평가는 목표가 기존 시연 경로에 놓이는 경우가 많음. 서로 다른 시연에서 시작점과 목표를 가져오고 마지막 10스텝 동안 목표를 유지하도록 요구하자, 메모리 그래프 계획기의 성공률이 75%에서 45% 로 낮아짐\n\n…",
+          "id": "https://news.hada.io/topic?id=37130",
+          "isoDate": "2026-11-13T22:37:56.000Z"
+        },
+        {
+          "title": "1,140만 달러 규모 NVIDIA 하드웨어, 캘리포니아에서 텍사스로 운송 중 사라져",
+          "link": "https://news.hada.io/topic?id=37129&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-13T22:34:56.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>캘리포니아 오클랜드에서 텍사스 포트워스로 운송하던 <strong>NVIDIA 컴퓨터 하드웨어 6팔레트</strong>가 사라짐. 보도된 화물 가치는 <strong>1,140만 달러</strong>이나 경찰은 금액과 구체적인 품목을 확인하지 않음</li><li>화물을 인수한 트럭은 남쪽으로 이동하며 여러 차례 장시간 정차했고, 수사관들은 <strong>남부 캘리포니아 샌버너디노 카운티</strong>에서 차량의 행적을 놓친 것으로 알려짐</li><li><strong>오클랜드 경찰</strong>은 2026년 9월 13일 접수된 신고에 따라 중절도 사건을 수사 중임. 신고일이 실제 도난 발생일을 뜻하지는 않으며, 체포나 화물 회수 여부도 발표하지 않음</li><li>북부 캘리포니아에서는</li></ul></div>…",
+          "contentSnippet": "캘리포니아 오클랜드에서 텍사스 포트워스로 운송하던 NVIDIA 컴퓨터 하드웨어 6팔레트가 사라짐. 보도된 화물 가치는 1,140만 달러이나 경찰은 금액과 구체적인 품목을 확인하지 않음\n화물을 인수한 트럭은 남쪽으로 이동하며 여러 차례 장시간 정차했고, 수사관들은 남부 캘리포니아 샌버너디노 카운티에서 차량의 행적을 놓친 것으로 알려짐\n오클랜드 경찰은 2026년 9월 13일 접수된 신고에 따라 중절도 사건을 수사 중임. 신고일이 실제 도난 발생일을 뜻하지는 않으며, 체포나 화물 회수 여부도 발표하지 않음\n북부 캘리포니아에서는\n\n…",
+          "id": "https://news.hada.io/topic?id=37129",
+          "isoDate": "2026-11-13T22:34:56.000Z"
+        },
+        {
+          "title": "No AI Slop 선언문",
+          "link": "https://news.hada.io/topic?id=37128&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-13T22:09:42.000Z",
+          "author": "daleseo",
+          "content": "<div><ul><li>AIE Code Summit 2026의 발표자와 참가자들이 함께 작성한 선언문</li><li>2001년 17명의 엔지니어가 문서 중심의 무거운 개발 프로세스에 맞서 애자일 선언문을 만들었듯이, AI 시대의 과제인 슬롭(slop)에 대응하는 가치와 원칙을 정리함</li><li>AI 사용 자체를 반대하지 않음. 슬롭을 받아본 적도, 보내본 적도 있는 사람들이 AI를 더 잘 쓰기 위해 사람이 맡아야 할 역할을 정리한 것임</li></ul><h4>우리가 가치 있게 여기는 것</h4><ul><li>산출물보다 실질적인 가치를 (Outcomes over output)</li><li>속도보다 이해 (Understanding over speed)</li><li>모델의 첫 초안보다 우리 자신의 생</li></ul></div>…",
+          "contentSnippet": "AIE Code Summit 2026의 발표자와 참가자들이 함께 작성한 선언문\n2001년 17명의 엔지니어가 문서 중심의 무거운 개발 프로세스에 맞서 애자일 선언문을 만들었듯이, AI 시대의 과제인 슬롭(slop)에 대응하는 가치와 원칙을 정리함\nAI 사용 자체를 반대하지 않음. 슬롭을 받아본 적도, 보내본 적도 있는 사람들이 AI를 더 잘 쓰기 위해 사람이 맡아야 할 역할을 정리한 것임\n\n우리가 가치 있게 여기는 것\n\n산출물보다 실질적인 가치를 (Outcomes over output)\n속도보다 이해 (Understanding over speed)\n모델의 첫 초안보다 우리 자신의 생\n\n…",
+          "id": "https://news.hada.io/topic?id=37128",
+          "isoDate": "2026-11-13T22:09:42.000Z"
+        },
+        {
+          "title": "FAA, 전국 항공기 이륙 중지 조치 발령",
+          "link": "https://news.hada.io/topic?id=37127&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-13T21:42:51.000Z",
+          "author": "neo",
+          "content": "FAA, 전국 항공기 이륙 중지 조치 발령",
+          "contentSnippet": "FAA, 전국 항공기 이륙 중지 조치 발령",
+          "id": "https://news.hada.io/topic?id=37127",
+          "isoDate": "2026-11-13T21:42:51.000Z"
+        },
+        {
+          "title": "학생이 iPad에서 PowerPoint를 여는 데 필요한 16번의 클릭",
+          "link": "https://news.hada.io/topic?id=37126&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-13T21:39:51.000Z",
+          "author": "neo",
+          "content": "학생이 iPad에서 PowerPoint를 여는 데 필요한 16번의 클릭",
+          "contentSnippet": "학생이 iPad에서 PowerPoint를 여는 데 필요한 16번의 클릭",
+          "id": "https://news.hada.io/topic?id=37126",
+          "isoDate": "2026-11-13T21:39:51.000Z"
+        },
+        {
+          "title": "Relax: Rust 빌드 시간을 줄이기 위한 JIT 컴파일러",
+          "link": "https://news.hada.io/topic?id=37125&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-13T21:36:51.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>Relax</strong>는 Cargo 패키지를 소스에서 바로 실행하는 Rust 기반 라이브 컴파일러이자 JIT 런타임으로, 함수를 처음 호출할 때 컴파일하고 자주 실행되는 함수는 백그라운드에서 최적화함</li><li><strong>함수 단위 핫 패치</strong>로 실행 상태를 유지하면서 코드 변경을 반영하고, 저장 시 변경된 함수를 실행했던 테스트만 다시 수행함</li><li>프로젝트 측정에서 대형 3D 게임의 첫 프레임까지 M4 MacBook 기준 초기 실행은 <strong>11초</strong>, 캐시가 있는 두 번째 실행은 <strong>1.15초</strong>가 걸렸으며, Cargo와 rustc의 빌드 시간은 약 3분이었음</li><li>rustc, LLVM, 링커를 실행 경로에서 대체하지만</li></ul></div>…",
+          "contentSnippet": "Relax는 Cargo 패키지를 소스에서 바로 실행하는 Rust 기반 라이브 컴파일러이자 JIT 런타임으로, 함수를 처음 호출할 때 컴파일하고 자주 실행되는 함수는 백그라운드에서 최적화함\n함수 단위 핫 패치로 실행 상태를 유지하면서 코드 변경을 반영하고, 저장 시 변경된 함수를 실행했던 테스트만 다시 수행함\n프로젝트 측정에서 대형 3D 게임의 첫 프레임까지 M4 MacBook 기준 초기 실행은 11초, 캐시가 있는 두 번째 실행은 1.15초가 걸렸으며, Cargo와 rustc의 빌드 시간은 약 3분이었음\nrustc, LLVM, 링커를 실행 경로에서 대체하지만\n\n…",
+          "id": "https://news.hada.io/topic?id=37125",
+          "isoDate": "2026-11-13T21:36:51.000Z"
+        },
+        {
           "title": "AI로 해독한 Gödel의 노트, 증명된 정리 수백 개 담겼다는 연구 결과",
           "link": "https://news.hada.io/topic?id=37124&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
           "pubDate": "2026-11-13T20:32:20.000Z",
@@ -21,8 +141,8 @@
           "link": "https://news.hada.io/topic?id=37123&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
           "pubDate": "2026-11-13T19:33:22.000Z",
           "author": "neo",
-          "content": "<div><ul><li><strong>Zig</strong>는 C처럼 가비지 컬렉터 없이 하드웨어에 가까운 코드를 작성하면서도, 자원 정리와 오류 처리 등 C에서 시간이 드는 작업을 언어 기능으로 지원함</li><li><strong><code>errdefer</code></strong> 는 할당 바로 아래에 오류 발생 시 정리 코드를 두고 역순으로 실행하며, 테스트용 할당기로 각 할당 실패 경로의 메모리 누수도 확인할 수 있음</li><li>길이를 포함하는 <strong>슬라이스</strong>와 정수 오버플로 검사는 <code>debug</code>와 <code>safe</code> 모드에서 잘못된 접근이나 연산을 중단함</li><li><strong>오류를 반환 타입에 포함</strong>해 처리를 강제하고, <strong><code>comptime</code></strong> 으로 전처리기 대신 일반 Zig 코드에서 컴파일 시간 분기와 제네릭</li></ul></div>…",
-          "contentSnippet": "Zig는 C처럼 가비지 컬렉터 없이 하드웨어에 가까운 코드를 작성하면서도, 자원 정리와 오류 처리 등 C에서 시간이 드는 작업을 언어 기능으로 지원함\nerrdefer 는 할당 바로 아래에 오류 발생 시 정리 코드를 두고 역순으로 실행하며, 테스트용 할당기로 각 할당 실패 경로의 메모리 누수도 확인할 수 있음\n길이를 포함하는 슬라이스와 정수 오버플로 검사는 debug와 safe 모드에서 잘못된 접근이나 연산을 중단함\n오류를 반환 타입에 포함해 처리를 강제하고, comptime 으로 전처리기 대신 일반 Zig 코드에서 컴파일 시간 분기와 제네릭\n\n…",
+          "content": "<div><ul><li><strong>Zig</strong>는 C처럼 가비지 컬렉터 없이 하드웨어에 가까운 코드를 작성하면서도, 자원 정리와 오류 처리 등 C에서 시간이 드는 작업을 언어 기능으로 지원함</li><li><strong><code>errdefer</code></strong> 는 할당 바로 아래에 오류 발생 시 정리 코드를 두고 역순으로 실행하며, 테스트용 할당기로 각 할당 실패 경로의 메모리 누수도 확인할 수 있음</li><li>배열 끝을 한 칸 넘겨 읽는 예제에서 <strong>C 코드는 경고 없이 잘못된 합계를 출력</strong>했지만, Zig는 길이를 가진 슬라이스의 범위를 검사해 <code>Debug</code>와 <code>ReleaseSafe</code>에서 실행을 중단함</li><li><strong>오류를 반환 타입에 포함</strong>해 처리를 강제하고, <strong><code>comptime</code></strong> </li></ul></div>…",
+          "contentSnippet": "Zig는 C처럼 가비지 컬렉터 없이 하드웨어에 가까운 코드를 작성하면서도, 자원 정리와 오류 처리 등 C에서 시간이 드는 작업을 언어 기능으로 지원함\nerrdefer 는 할당 바로 아래에 오류 발생 시 정리 코드를 두고 역순으로 실행하며, 테스트용 할당기로 각 할당 실패 경로의 메모리 누수도 확인할 수 있음\n배열 끝을 한 칸 넘겨 읽는 예제에서 C 코드는 경고 없이 잘못된 합계를 출력했지만, Zig는 길이를 가진 슬라이스의 범위를 검사해 Debug와 ReleaseSafe에서 실행을 중단함\n오류를 반환 타입에 포함해 처리를 강제하고, comptime \n\n…",
           "id": "https://news.hada.io/topic?id=37123",
           "isoDate": "2026-11-13T19:33:22.000Z"
         },
@@ -57,12 +177,12 @@
           "isoDate": "2026-11-13T17:32:28.000Z"
         },
         {
-          "title": "클라우드 의존을 없애기 위해 Coway 공기청정기를 역공학하기",
+          "title": "클라우드 없이 쓰려고 코웨이 공기청정기를 역공학한 이야기",
           "link": "https://news.hada.io/topic?id=37119&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
           "pubDate": "2026-11-13T16:34:03.000Z",
           "author": "neo",
-          "content": "<div><ul><li><strong>Coway Airmega IconS</strong>의 통신과 Bluetooth 초기 설정 절차를 역공학해, Coway 클라우드 없이 Home Assistant에서 로컬로 제어하는 통합을 구현함</li><li>기존 통합은 <strong>클라우드 API</strong>에 의존해 앱 개편, HTML 변경, 서버 장애와 계정 차단 때마다 원격 제어가 중단되는 문제가 있었음</li><li>기기가 <strong>루트 CA 인증서를 평문 HTTP로 다운로드</strong>하는 동작을 이용해 HTTPS 통신을 가로챘으며, 실제 제어 명령은 TLS로 암호화된 MQTT로 전달됐음</li><li>Bluetooth 설정 데이터에 <strong>인증서와 서버 주소</strong>가 포함돼 있어, 이를 직접 지정하면 중간자 환경 없이 자체 서버에 연결</li></ul></div>…",
-          "contentSnippet": "Coway Airmega IconS의 통신과 Bluetooth 초기 설정 절차를 역공학해, Coway 클라우드 없이 Home Assistant에서 로컬로 제어하는 통합을 구현함\n기존 통합은 클라우드 API에 의존해 앱 개편, HTML 변경, 서버 장애와 계정 차단 때마다 원격 제어가 중단되는 문제가 있었음\n기기가 루트 CA 인증서를 평문 HTTP로 다운로드하는 동작을 이용해 HTTPS 통신을 가로챘으며, 실제 제어 명령은 TLS로 암호화된 MQTT로 전달됐음\nBluetooth 설정 데이터에 인증서와 서버 주소가 포함돼 있어, 이를 직접 지정하면 중간자 환경 없이 자체 서버에 연결\n\n…",
+          "content": "<div><ul><li><strong>Coway Airmega IconS</strong>의 통신과 Bluetooth 초기 설정 절차를 역공학해, Coway 클라우드 없이 Home Assistant에서 로컬로 제어하는 통합을 구현함</li><li>기존 통합은 <strong>클라우드 API</strong>에 의존해 앱 개편, HTML 변경, 서버 장애와 계정 차단 때마다 원격 제어가 중단되는 문제가 있었음</li><li>기기가 <strong>루트 CA 인증서를 평문 HTTP로 다운로드</strong>하는 동작을 이용해 HTTPS 통신을 가로챘으며, 실제 제어 명령은 TLS로 암호화된 MQTT로 전달됐음</li><li>Bluetooth 초기 설정에서 <strong>루트 인증서를 받을 주소와 MQTT 설정 서버 주소</strong>를 지정할 수 있다는 점을 발견해, 공기청정</li></ul></div>…",
+          "contentSnippet": "Coway Airmega IconS의 통신과 Bluetooth 초기 설정 절차를 역공학해, Coway 클라우드 없이 Home Assistant에서 로컬로 제어하는 통합을 구현함\n기존 통합은 클라우드 API에 의존해 앱 개편, HTML 변경, 서버 장애와 계정 차단 때마다 원격 제어가 중단되는 문제가 있었음\n기기가 루트 CA 인증서를 평문 HTTP로 다운로드하는 동작을 이용해 HTTPS 통신을 가로챘으며, 실제 제어 명령은 TLS로 암호화된 MQTT로 전달됐음\nBluetooth 초기 설정에서 루트 인증서를 받을 주소와 MQTT 설정 서버 주소를 지정할 수 있다는 점을 발견해, 공기청정\n\n…",
           "id": "https://news.hada.io/topic?id=37119",
           "isoDate": "2026-11-13T16:34:03.000Z"
         },
@@ -77,134 +197,14 @@
           "isoDate": "2026-11-13T15:50:51.000Z"
         },
         {
-          "title": "AI가 Apple 앱 심사를 신시사이저 개발자들의 악몽으로 바꾸고 있음",
+          "title": "애플 앱스토어 심사에 몇 주씩 걸리는 iOS 음악 앱들",
           "link": "https://news.hada.io/topic?id=37117&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
           "pubDate": "2026-11-13T15:47:51.000Z",
           "author": "neo",
-          "content": "<div><ul><li><strong>AI로 만든 iOS 앱의 급증</strong> 속에서 음악 앱 개발자들이 수주 단위 심사 지연과 반복적인 거절을 겪으며 출시 일정에 차질을 빚고 있음</li><li>Apple은 제출물의 90%를 48시간 이내에 심사한다고 안내하지만, <strong>AudioThing, Igor Vasiliev, Sugar Bytes</strong> 등은 새 앱이 별다른 진행 안내 없이 몇 주씩 심사에 묶여 있다고 전함</li><li><strong>Unfiltered Audio</strong>는 존재하지 않는 기술 라이선스와 필수 전용 하드웨어를 요구받는 등 네 차례 거절을 겪었으며, 개발자는 Apple이 AI로 심사를 자동화하고 있는 것으로 의심함</li><li><strong>CRUX Synth</strong>는 앱 생성 템플릿으로 만든 중복 앱</li></ul></div>…",
-          "contentSnippet": "AI로 만든 iOS 앱의 급증 속에서 음악 앱 개발자들이 수주 단위 심사 지연과 반복적인 거절을 겪으며 출시 일정에 차질을 빚고 있음\nApple은 제출물의 90%를 48시간 이내에 심사한다고 안내하지만, AudioThing, Igor Vasiliev, Sugar Bytes 등은 새 앱이 별다른 진행 안내 없이 몇 주씩 심사에 묶여 있다고 전함\nUnfiltered Audio는 존재하지 않는 기술 라이선스와 필수 전용 하드웨어를 요구받는 등 네 차례 거절을 겪었으며, 개발자는 Apple이 AI로 심사를 자동화하고 있는 것으로 의심함\nCRUX Synth는 앱 생성 템플릿으로 만든 중복 앱\n\n…",
+          "content": "<div><ul><li><strong>AI로 만든 iOS 앱의 급증</strong> 속에서 음악 앱 개발자들이 수주 단위 심사 지연과 반복적인 거절을 겪으며 출시 일정에 차질을 빚고 있음</li><li>Apple은 제출물의 <strong>90%를 48시간 안에 심사하는 것을 목표</strong>로 하지만, AudioThing의 <strong>Materia는 승인까지 25일</strong>이 걸렸고 <strong>Seconds의 iOS 버전은 기사 작성 당시 29일째 심사 중</strong>이었음</li><li><strong>Unfiltered Audio</strong>는 존재하지 않는 기술 라이선스와 필수 전용 하드웨어를 요구받는 등 네 차례 거절을 겪었으며, 개발자는 Apple이 AI로 심사를 자동화하고 있는 것으로 의심함</li><li><strong>CRUX Synth</strong>는 앱 생성 템플릿으로 만든 중복 </li></ul></div>…",
+          "contentSnippet": "AI로 만든 iOS 앱의 급증 속에서 음악 앱 개발자들이 수주 단위 심사 지연과 반복적인 거절을 겪으며 출시 일정에 차질을 빚고 있음\nApple은 제출물의 90%를 48시간 안에 심사하는 것을 목표로 하지만, AudioThing의 Materia는 승인까지 25일이 걸렸고 Seconds의 iOS 버전은 기사 작성 당시 29일째 심사 중이었음\nUnfiltered Audio는 존재하지 않는 기술 라이선스와 필수 전용 하드웨어를 요구받는 등 네 차례 거절을 겪었으며, 개발자는 Apple이 AI로 심사를 자동화하고 있는 것으로 의심함\nCRUX Synth는 앱 생성 템플릿으로 만든 중복 \n\n…",
           "id": "https://news.hada.io/topic?id=37117",
           "isoDate": "2026-11-13T15:47:51.000Z"
-        },
-        {
-          "title": "Brave Search API, x402 프로토콜을 통한 에이전트 결제 지원",
-          "link": "https://news.hada.io/topic?id=37116&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-13T15:44:51.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>Brave Search API</strong>가 개방형 <strong>x402</strong> 결제 프로토콜을 도입해, 개발자와 자율 AI 에이전트가 계정 생성이나 API 키 관리 없이 검색 요청마다 실시간으로 결제할 수 있음</li><li>Brave가 자체 결제 중개 서비스를 운영하며, 현재 <strong>Base 블록체인의 USDC</strong>를 받고 다른 네트워크와 스테이블코인도 곧 지원할 예정임</li><li>결제 없는 요청에는 <strong>HTTP 402 Payment Required</strong>로 가격과 결제 정보를 반환하며, 에이전트가 서명한 결제를 첨부해 재요청하면 검증 후 검색 결과와 거래 영수증을 받음</li><li>에이전트용 <strong>LLM Context</strong> 요금은 요청당 <strong>0.005달러</strong>, 1,000건당 5달러이</li></ul></div>…",
-          "contentSnippet": "Brave Search API가 개방형 x402 결제 프로토콜을 도입해, 개발자와 자율 AI 에이전트가 계정 생성이나 API 키 관리 없이 검색 요청마다 실시간으로 결제할 수 있음\nBrave가 자체 결제 중개 서비스를 운영하며, 현재 Base 블록체인의 USDC를 받고 다른 네트워크와 스테이블코인도 곧 지원할 예정임\n결제 없는 요청에는 HTTP 402 Payment Required로 가격과 결제 정보를 반환하며, 에이전트가 서명한 결제를 첨부해 재요청하면 검증 후 검색 결과와 거래 영수증을 받음\n에이전트용 LLM Context 요금은 요청당 0.005달러, 1,000건당 5달러이\n\n…",
-          "id": "https://news.hada.io/topic?id=37116",
-          "isoDate": "2026-11-13T15:44:51.000Z"
-        },
-        {
-          "title": "Eli Lilly CEO, Dario Amodei의 의료 관련 주장에 반박",
-          "link": "https://news.hada.io/topic?id=37115&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-13T15:41:51.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>Anthropic CEO <strong>Dario Amodei</strong>가 암, 알츠하이머병, 심장병, 정신질환이 10년 안에 과거의 유물이 될 것이라고 예측하자 의료계 인사들이 실현 가능성에 반박함</li><li>Eli Lilly 회장 겸 CEO <strong>Dave Ricks</strong>는 생물학의 미지 영역과 인체시험에 걸리는 시간을 고려하면 AI의 기여는 <strong>꾸준하고 점진적</strong>일 가능성이 높다고 봄</li><li>반론의 핵심은 <strong>생물학 데이터 부족</strong>과 <strong>임상시험 기간</strong>으로, 신약 개발에는 동물실험, 제조, 규제기관과의 협의 등 건너뛸 수 없는 단계가 있음</li><li>AI의 의료 기여를 낙관하는 <strong>Eric Topol</strong>도 이 질병들을 모두 10년 안에 치료한다는 목표</li></ul></div>…",
-          "contentSnippet": "Anthropic CEO Dario Amodei가 암, 알츠하이머병, 심장병, 정신질환이 10년 안에 과거의 유물이 될 것이라고 예측하자 의료계 인사들이 실현 가능성에 반박함\nEli Lilly 회장 겸 CEO Dave Ricks는 생물학의 미지 영역과 인체시험에 걸리는 시간을 고려하면 AI의 기여는 꾸준하고 점진적일 가능성이 높다고 봄\n반론의 핵심은 생물학 데이터 부족과 임상시험 기간으로, 신약 개발에는 동물실험, 제조, 규제기관과의 협의 등 건너뛸 수 없는 단계가 있음\nAI의 의료 기여를 낙관하는 Eric Topol도 이 질병들을 모두 10년 안에 치료한다는 목표\n\n…",
-          "id": "https://news.hada.io/topic?id=37115",
-          "isoDate": "2026-11-13T15:41:51.000Z"
-        },
-        {
-          "title": "최후의 날: 서기 2026년 11월 13일 금요일 (1960)",
-          "link": "https://news.hada.io/topic?id=37114&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-13T14:32:08.000Z",
-          "author": "neo",
-          "content": "최후의 날: 서기 2026년 11월 13일 금요일 (1960)",
-          "contentSnippet": "최후의 날: 서기 2026년 11월 13일 금요일 (1960)",
-          "id": "https://news.hada.io/topic?id=37114",
-          "isoDate": "2026-11-13T14:32:08.000Z"
-        },
-        {
-          "title": "Microsoft 전 세계 서비스 장애",
-          "link": "https://news.hada.io/topic?id=37113&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-13T13:34:26.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>Outlook, Exchange Online을 중심으로 발생한 Microsoft 장애</strong>가 이틀째 이어지며 전 세계 수백만 명의 업무에 영향을 줌</li><li>Microsoft는 <strong>메일함 접근과 지연 이메일 처리에서 복구 진전</strong>을 확인했지만, 일부 사용자는 여전히 간헐적 문제를 겪고 있음</li><li><strong>Teams의 일정 연동과 Copilot</strong>도 영향을 받았지만, Teams의 단순 통화 참여와 메시지 교환, Word/Excel/PowerPoint의 기본 기능은 작동함</li><li>정부와 은행뿐 아니라 <strong>경찰 신고, 처방약 조제, 철도 고객 안내</strong>까지 차질이 확산됨</li><li>Microsoft는 현재 <strong>악의적 활동이나 사이버 공격의 징후가 없다</strong>고 밝힘</li></ul></div>…",
-          "contentSnippet": "Outlook, Exchange Online을 중심으로 발생한 Microsoft 장애가 이틀째 이어지며 전 세계 수백만 명의 업무에 영향을 줌\nMicrosoft는 메일함 접근과 지연 이메일 처리에서 복구 진전을 확인했지만, 일부 사용자는 여전히 간헐적 문제를 겪고 있음\nTeams의 일정 연동과 Copilot도 영향을 받았지만, Teams의 단순 통화 참여와 메시지 교환, Word/Excel/PowerPoint의 기본 기능은 작동함\n정부와 은행뿐 아니라 경찰 신고, 처방약 조제, 철도 고객 안내까지 차질이 확산됨\nMicrosoft는 현재 악의적 활동이나 사이버 공격의 징후가 없다고 밝힘\n\n…",
-          "id": "https://news.hada.io/topic?id=37113",
-          "isoDate": "2026-11-13T13:34:26.000Z"
-        },
-        {
-          "title": "claude.ai, Claude Code, platform.claude.com에서 오류 증가",
-          "link": "https://news.hada.io/topic?id=37111&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-13T12:31:20.000Z",
-          "author": "neo",
-          "content": "claude.ai, Claude Code, platform.claude.com에서 오류 증가",
-          "contentSnippet": "claude.ai, Claude Code, platform.claude.com에서 오류 증가",
-          "id": "https://news.hada.io/topic?id=37111",
-          "isoDate": "2026-11-13T12:31:20.000Z"
-        },
-        {
-          "title": "IceWM - 속도와 단순함을 지향하는 X Window System 창 관리자",
-          "link": "https://news.hada.io/topic?id=37110&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-13T11:32:32.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>IceWM</strong>은 빠르고 단순하며 사용자 작업을 방해하지 않는 것을 목표로 하는 X Window System용 창 관리자임</li><li><strong>키보드만으로도 사용 가능</strong>하며, 전역/창별 단축키, Alt+Tab 전환, 창 목록으로 애플리케이션 창을 관리함</li><li><strong>다중 작업 공간</strong>과 RandR/Xinerama 기반 다중 모니터를 지원하고, GNOME 및 KDE 환경에서도 사용할 수 있음</li><li><strong>테마와 설정</strong>으로 외형과 동작을 바꿀 수 있으며, 설정 변경 시 메뉴를 다시 생성하는 동적 메뉴 시스템을 갖춤</li><li>주요 Linux 배포판과 대부분의 BSD에서 사용할 수 있으며, 홈페이지 기준 최신 릴리스는 <strong>4.1.0</strong>임</li></ul><hr><h2>창 관리</h2></div>…",
-          "contentSnippet": "IceWM은 빠르고 단순하며 사용자 작업을 방해하지 않는 것을 목표로 하는 X Window System용 창 관리자임\n키보드만으로도 사용 가능하며, 전역/창별 단축키, Alt+Tab 전환, 창 목록으로 애플리케이션 창을 관리함\n다중 작업 공간과 RandR/Xinerama 기반 다중 모니터를 지원하고, GNOME 및 KDE 환경에서도 사용할 수 있음\n테마와 설정으로 외형과 동작을 바꿀 수 있으며, 설정 변경 시 메뉴를 다시 생성하는 동적 메뉴 시스템을 갖춤\n주요 Linux 배포판과 대부분의 BSD에서 사용할 수 있으며, 홈페이지 기준 최신 릴리스는 4.1.0임\n\n창 관리\n…",
-          "id": "https://news.hada.io/topic?id=37110",
-          "isoDate": "2026-11-13T11:32:32.000Z"
-        },
-        {
-          "title": "Show GN: 여기서맛나 - 함께 만날 장소를 쉽게 정할 수 있게 도와주는 투표 툴",
-          "link": "https://news.hada.io/topic?id=37109&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-13T11:14:36.000Z",
-          "author": "keunwoo",
-          "content": "<div><p>약속을 잡을 때 여러 장소들 중 어디서 만나는게 좋을지 정하는 과정이 불편하지는 않으셨나요?<br> 카톡이랑 네이버/다음 지도를 왔다 갔다 하며 여러 음식점들을 확인하는게 귀찮지는 않으셨나요?</p><p>이 과정을 더 편하게 만들고자 '여기서맛나'라는 웹앱을 만들었습니다.<br> 이용 순서는 다음과 같습니다.</p><ol><li>모임을 만듭니다.</li><li>음식점이나 카페의 링크들을 추가 합니다. 네이버지도, 다음지도, 캐치테이블, 구글맵을 지원 합니다.</li><li>모임의 링크를 만나는 사람들에게 전달합니다.</li><li>링크를 받은 사람은 투표를 합니다.</li></ol><p>'여기서맛나'의 특징들 입니다.</p></div>…",
-          "contentSnippet": "약속을 잡을 때 여러 장소들 중 어디서 만나는게 좋을지 정하는 과정이 불편하지는 않으셨나요?\n 카톡이랑 네이버/다음 지도를 왔다 갔다 하며 여러 음식점들을 확인하는게 귀찮지는 않으셨나요?\n이 과정을 더 편하게 만들고자 '여기서맛나'라는 웹앱을 만들었습니다.\n 이용 순서는 다음과 같습니다.\n\n모임을 만듭니다.\n음식점이나 카페의 링크들을 추가 합니다. 네이버지도, 다음지도, 캐치테이블, 구글맵을 지원 합니다.\n모임의 링크를 만나는 사람들에게 전달합니다.\n링크를 받은 사람은 투표를 합니다.\n\n'여기서맛나'의 특징들 입니다.\n…",
-          "id": "https://news.hada.io/topic?id=37109",
-          "isoDate": "2026-11-13T11:14:36.000Z"
-        },
-        {
-          "title": "Show GN: Quiet Scanner - IP 충돌 장비를 MAC별로 확인하고 한 대씩 접속하는 스캐너",
-          "link": "https://news.hada.io/topic?id=37108&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-13T10:13:18.000Z",
-          "author": "guk0731",
-          "content": "<div><p>CCTV·AV·네트워크 설치 현장에서 쓰려고 만든 오픈소스 데스크톱 도구입니다.</p><p>같은 IP를 사용하는 장비가 여러 대인데 기존 스캐너에는 한 대만 보이거나, 어느 장비인지 확인하려고 케이블을 하나씩 뽑아야 하는 일이 있어 만들었습니다.</p><ul><li>ARP 응답을 반복 수집해 같은 IP에 응답하는 서로 다른 MAC을 모아 보여 줍니다.</li><li>충돌 목록에서 장비 하나를 선택하면, 이 PC의 해당 IP 연결 대상을 선택한 MAC으로 임시 고정합니다. 관리 페이지에서 IP 변경 등의 작업을 한 뒤 해제하는 흐름입니다. 장비 자체의 IP를 바꾸거나 다른 PC의 통신을</li></ul></div>…",
-          "contentSnippet": "CCTV·AV·네트워크 설치 현장에서 쓰려고 만든 오픈소스 데스크톱 도구입니다.\n같은 IP를 사용하는 장비가 여러 대인데 기존 스캐너에는 한 대만 보이거나, 어느 장비인지 확인하려고 케이블을 하나씩 뽑아야 하는 일이 있어 만들었습니다.\n\nARP 응답을 반복 수집해 같은 IP에 응답하는 서로 다른 MAC을 모아 보여 줍니다.\n충돌 목록에서 장비 하나를 선택하면, 이 PC의 해당 IP 연결 대상을 선택한 MAC으로 임시 고정합니다. 관리 페이지에서 IP 변경 등의 작업을 한 뒤 해제하는 흐름입니다. 장비 자체의 IP를 바꾸거나 다른 PC의 통신을\n\n…",
-          "id": "https://news.hada.io/topic?id=37108",
-          "isoDate": "2026-11-13T10:13:18.000Z"
-        },
-        {
-          "title": "Microsoft Outlook/365, 12시간이 지나도 장애 지속",
-          "link": "https://news.hada.io/topic?id=37106&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-13T09:32:39.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>Microsoft Outlook/365 장애</strong>가 12시간이 지난 뒤에도 이어지고 있음</li><li>Microsoft는 <strong>서비스 개선을 위해 적용한 변경 사항</strong>을 모니터링했으나, 기대한 효과를 내지 못한 것을 확인함</li><li><strong>트래픽 관리 불균형</strong>이 지속되는 상황에서 용량을 늘릴 대안을 찾고 있음</li><li>추가 장애 정보는 <strong>Microsoft 365 관리 센터</strong>의 EX1550543 및 MO1550821에서 확인할 수 있음</li><li>관리 센터에 접근할 수 없는 사용자를 위해 <strong>별도 안내 링크</strong>도 제공함</li></ul><hr><h2>장애 지속과 대응 상황</h2><ul><li><strong>Outlook/365 장애</strong>가 12시간 이상 이어지고 있으며, 서비스 개선을 위해 적용한 변경 사항도 기대한 </li></ul></div>…",
-          "contentSnippet": "Microsoft Outlook/365 장애가 12시간이 지난 뒤에도 이어지고 있음\nMicrosoft는 서비스 개선을 위해 적용한 변경 사항을 모니터링했으나, 기대한 효과를 내지 못한 것을 확인함\n트래픽 관리 불균형이 지속되는 상황에서 용량을 늘릴 대안을 찾고 있음\n추가 장애 정보는 Microsoft 365 관리 센터의 EX1550543 및 MO1550821에서 확인할 수 있음\n관리 센터에 접근할 수 없는 사용자를 위해 별도 안내 링크도 제공함\n\n장애 지속과 대응 상황\n\nOutlook/365 장애가 12시간 이상 이어지고 있으며, 서비스 개선을 위해 적용한 변경 사항도 기대한 \n\n…",
-          "id": "https://news.hada.io/topic?id=37106",
-          "isoDate": "2026-11-13T09:32:39.000Z"
-        },
-        {
-          "title": "비개발자가 AI에게 일을 맡기며 여기서 물어본 세 가지, 받은 답을 정리했습니다",
-          "link": "https://news.hada.io/topic?id=37105&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-13T09:09:40.000Z",
-          "author": "dkkim1110",
-          "content": "<div><p>영업 일을 하는 비개발자입니다. 그동안 Ask에 몇 번 질문을 올렸는데, 답이 너무 좋아서 세 개를 골라 제 말로 정리해 봤습니다.</p><ul><li>AI가 쓴 메일이 딱 봐도 AI 같을 때</li><li>AI가 확인했다고 해 놓고 실제로는 안 봤을 때</li><li>맡긴 일의 기록을 어디에 남길지</li></ul><p>정리하고 보니 방법은 다 달랐는데, 다들 마지막엔 직접 읽고 다시 열어 보고 계셨어요. 기록 다섯 칸 중 \"아직 확인하지 못한 것\" 칸은 바로 따라 해 보고 있습니다.</p><p>답해 주신 분들께 감사드립니다. 닉네임은 빼고 적었습니다.</p></div>",
-          "contentSnippet": "영업 일을 하는 비개발자입니다. 그동안 Ask에 몇 번 질문을 올렸는데, 답이 너무 좋아서 세 개를 골라 제 말로 정리해 봤습니다.\n\nAI가 쓴 메일이 딱 봐도 AI 같을 때\nAI가 확인했다고 해 놓고 실제로는 안 봤을 때\n맡긴 일의 기록을 어디에 남길지\n\n정리하고 보니 방법은 다 달랐는데, 다들 마지막엔 직접 읽고 다시 열어 보고 계셨어요. 기록 다섯 칸 중 \"아직 확인하지 못한 것\" 칸은 바로 따라 해 보고 있습니다.\n답해 주신 분들께 감사드립니다. 닉네임은 빼고 적었습니다.",
-          "id": "https://news.hada.io/topic?id=37105",
-          "isoDate": "2026-11-13T09:09:40.000Z"
-        },
-        {
-          "title": "22년 된 PostgreSQL 타입 혼동 기법을 원격 코드 실행으로 발전시키기",
-          "link": "https://news.hada.io/topic?id=37104&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-13T08:34:27.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>복합 타입의 필드 타입을 바꿔도 준비된 쿼리에 남는 이전 값</strong>을 이용해, 다른 타입의 네이티브 함수가 해당 데이터를 처리하도록 만들고 원격 코드 실행으로 연결함</li><li>PostgreSQL의 <strong><code>Datum</code>은 자체 타입 정보를 갖지 않음</strong>. 외부 타입 메타데이터와 실제 값이 어긋나면 정수, 포인터, 내부 객체를 잘못 해석할 수 있음</li><li><strong><code>uuid</code> 필드를 <code>bytea</code>로 변경</strong>해 제어 가능한 UUID 바이트를 내부 확장 객체 참조로 해석시켰으며, 최소 권한 로그인 역할로 최초 충돌을 재현함</li><li>같은 타입 혼동을 <strong>배열과 <code>unnest()</code>에 적용해 메모리 주소를 유출</strong>하고, 위조한 확장</li></ul></div>…",
-          "contentSnippet": "복합 타입의 필드 타입을 바꿔도 준비된 쿼리에 남는 이전 값을 이용해, 다른 타입의 네이티브 함수가 해당 데이터를 처리하도록 만들고 원격 코드 실행으로 연결함\nPostgreSQL의 Datum은 자체 타입 정보를 갖지 않음. 외부 타입 메타데이터와 실제 값이 어긋나면 정수, 포인터, 내부 객체를 잘못 해석할 수 있음\nuuid 필드를 bytea로 변경해 제어 가능한 UUID 바이트를 내부 확장 객체 참조로 해석시켰으며, 최소 권한 로그인 역할로 최초 충돌을 재현함\n같은 타입 혼동을 배열과 unnest()에 적용해 메모리 주소를 유출하고, 위조한 확장\n\n…",
-          "id": "https://news.hada.io/topic?id=37104",
-          "isoDate": "2026-11-13T08:34:27.000Z"
-        },
-        {
-          "title": "Gemini 네트워크의 반마케팅적 특성",
-          "link": "https://news.hada.io/topic?id=37102&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-13T07:01:52.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>Gemini</strong>는 Google 챗봇보다 먼저 존재한 네트워크로, 개인 공간인 ‘캡슐’ 수가 서서히 늘고 있지만 Hacker News 첫 화면 노출과 월별 신규 캡슐 수 사이에는 상관관계가 관찰되지 않음</li><li>Ploum은 이를 <strong>방문자 수와 클릭 수</strong>가 실제 가치를 보여주지 못하는 사례로 보고, 대중과 비슷해지기보다 차별성을 유지하며 자신만의 틈새를 가꾸는 데 가치를 둠</li><li><strong>2013년 블로그 통계를 제거</strong>한 개인적 경험에서도, 오랫동안 독자의 메일을 이끌어낸 글은 통계가 저조한 반면 크게 화제가 된 글은 빨리 잊혔음</li><li>소셜 계정을 닫고 Gemini를 이용하면서 <strong>반</strong></li></ul></div>…",
-          "contentSnippet": "Gemini는 Google 챗봇보다 먼저 존재한 네트워크로, 개인 공간인 ‘캡슐’ 수가 서서히 늘고 있지만 Hacker News 첫 화면 노출과 월별 신규 캡슐 수 사이에는 상관관계가 관찰되지 않음\nPloum은 이를 방문자 수와 클릭 수가 실제 가치를 보여주지 못하는 사례로 보고, 대중과 비슷해지기보다 차별성을 유지하며 자신만의 틈새를 가꾸는 데 가치를 둠\n2013년 블로그 통계를 제거한 개인적 경험에서도, 오랫동안 독자의 메일을 이끌어낸 글은 통계가 저조한 반면 크게 화제가 된 글은 빨리 잊혔음\n소셜 계정을 닫고 Gemini를 이용하면서 반\n\n…",
-          "id": "https://news.hada.io/topic?id=37102",
-          "isoDate": "2026-11-13T07:01:52.000Z"
         }
       ]
     },
@@ -381,235 +381,235 @@
       "category": "news",
       "data": [
         {
-          "creator": "권정상",
-          "title": "\"건강 득 없고 거리 오염만\"…유럽 주요 도시, 담배 필터 금지 촉구",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261113160151K0A",
-          "pubDate": "Sat, 14 Nov 2026 06:02:05 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261113/AKR20261113160151K0A_01_i.jpg\" alt=\"\"><span class=\"yna_title\">담배꽁초 쓰레기</span><span class=\"yna_caption\">[AP=연합뉴스 자료사진]</span><span class=\"yna_description\">[AP=연합뉴스 자료사진]</span></div>\n유럽의 여러 도시가 유럽연합(EU)에 담배 필터를 전면 금지하라고 촉구하고 나섰습니다.\n\n담배 필터가 흡연자의 건강에 도움이 되지 않을 뿐더러 거리를 더럽히는 주범이라는 것입니다.\n\n현지시간 12일 폴리티코 유럽판에 따르면 네덜란드 헤이그시가 주도하고 있는 '노 (플라스틱) 필터' 캠페인에 브뤼셀, 뮌헨, 더블린, 제노바 등 벨기에, 독일, 이탈리아, 아일랜드, 체코, 헝가리, 리투아니아 등의 주요 도시가 가세했습니다.\n\n네덜란드 정부가 지원하는 이 캠페인에는 유럽의 수자원 관리기관, 환경단체 등도 참여하고 있습니다.\n\n이들 도시는 담배회사에 청소 비용을 부담하도록 하는 EU의 '생산자 책임 확대' 제도가 담배 필터로 인한 오염을 억제하지 못했다며 전면적인 금지가 필요하다고 주장합니다.\n\n브뤼셀의 공공 청결 담당 시정위원인 아나스 벤 압델무멘은 \"브뤼셀에서 담배꽁초가 전체 길거리 쓰레기의 무려 30%를 차지한다\"면서 \"이 쓰레기는 도시 경관을 해칠 뿐 아니라, 이를 치우는 일이 환경미화원들에게 엄청난 부담을 준다\"고 지적했습니다.\n\nEU에서는 요즘 담배 제품 지침과 일회용 플라스틱 지침의 개정이 논의되고 있는데, 캠페인 주체들은 이 기회를 이용해 필터 금지를 관철해야 한다고 벼르는 상황입니다.\n\n특히 담배 필터 금지가 이뤄지지 않더라도 필터 속 플라스틱 사용을 차단하겠다는 입장입니다.\n\n대부분의 담배 필터는 식물성 원료로 만든 플라스틱의 일종이며, 쉽게 분해되지는 않는 셀룰로스 아세테이트로 제조됩니다.\n\n세계보건기구(WHO) 역시 담배 필터가 건강상 이점을 제공하지 않는다며 필터의 금지 또는 단계적 퇴출을 지지하고 있습니다.\n\n다만 담배회사들은 필터가 흡연에 따른 일부 건강 위험을 완화할 수 있음을 시사하는 연구를 들면서 필터가 건강상 이점이 전혀 없는 것은 아니라고 주장합니다.\n\n이사벨 브루더르스 헤이그 부시장에 따르면 헤이그에서 담배꽁초를 치우는 데 드는 연간 비용은 약 200만 유로(약 30억 원)에 달합니다.\n\n그는 \"우리가 보기에 담배 제품 지침 평가는 (담배 필터를 금지할) 중요한 기회\"라며 \"우리는 사용된 소재와 관계없이 모든 담배 필터를 금지해야 한다고 주장한다\"고 말했습니다.\n\n\n#담배필터 #헤이그 #캠페인 #노필터\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n권정상(jusang@yna.co.kr)",
-          "content:encodedSnippet": "담배꽁초 쓰레기[AP=연합뉴스 자료사진][AP=연합뉴스 자료사진]\n유럽의 여러 도시가 유럽연합(EU)에 담배 필터를 전면 금지하라고 촉구하고 나섰습니다.\n\n담배 필터가 흡연자의 건강에 도움이 되지 않을 뿐더러 거리를 더럽히는 주범이라는 것입니다.\n\n현지시간 12일 폴리티코 유럽판에 따르면 네덜란드 헤이그시가 주도하고 있는 '노 (플라스틱) 필터' 캠페인에 브뤼셀, 뮌헨, 더블린, 제노바 등 벨기에, 독일, 이탈리아, 아일랜드, 체코, 헝가리, 리투아니아 등의 주요 도시가 가세했습니다.\n\n네덜란드 정부가 지원하는 이 캠페인에는 유럽의 수자원 관리기관, 환경단체 등도 참여하고 있습니다.\n\n이들 도시는 담배회사에 청소 비용을 부담하도록 하는 EU의 '생산자 책임 확대' 제도가 담배 필터로 인한 오염을 억제하지 못했다며 전면적인 금지가 필요하다고 주장합니다.\n\n브뤼셀의 공공 청결 담당 시정위원인 아나스 벤 압델무멘은 \"브뤼셀에서 담배꽁초가 전체 길거리 쓰레기의 무려 30%를 차지한다\"면서 \"이 쓰레기는 도시 경관을 해칠 뿐 아니라, 이를 치우는 일이 환경미화원들에게 엄청난 부담을 준다\"고 지적했습니다.\n\nEU에서는 요즘 담배 제품 지침과 일회용 플라스틱 지침의 개정이 논의되고 있는데, 캠페인 주체들은 이 기회를 이용해 필터 금지를 관철해야 한다고 벼르는 상황입니다.\n\n특히 담배 필터 금지가 이뤄지지 않더라도 필터 속 플라스틱 사용을 차단하겠다는 입장입니다.\n\n대부분의 담배 필터는 식물성 원료로 만든 플라스틱의 일종이며, 쉽게 분해되지는 않는 셀룰로스 아세테이트로 제조됩니다.\n\n세계보건기구(WHO) 역시 담배 필터가 건강상 이점을 제공하지 않는다며 필터의 금지 또는 단계적 퇴출을 지지하고 있습니다.\n\n다만 담배회사들은 필터가 흡연에 따른 일부 건강 위험을 완화할 수 있음을 시사하는 연구를 들면서 필터가 건강상 이점이 전혀 없는 것은 아니라고 주장합니다.\n\n이사벨 브루더르스 헤이그 부시장에 따르면 헤이그에서 담배꽁초를 치우는 데 드는 연간 비용은 약 200만 유로(약 30억 원)에 달합니다.\n\n그는 \"우리가 보기에 담배 제품 지침 평가는 (담배 필터를 금지할) 중요한 기회\"라며 \"우리는 사용된 소재와 관계없이 모든 담배 필터를 금지해야 한다고 주장한다\"고 말했습니다.\n\n\n#담배필터 #헤이그 #캠페인 #노필터\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n권정상(jusang@yna.co.kr)",
+          "creator": "박혜준",
+          "title": "[현장의재구성] 앨리스 황에서 시작된 젠슨 황의 끝 모를 추락…직장 잃고 돈도 잃고 조강지처도 잃을 위기｜‘세기의 재산분할’ 될까?",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261113142622WLh",
+          "pubDate": "Sat, 14 Nov 2026 10:00:03 +0900",
+          "content:encoded": "#젠슨황 #엔비디아CEO #젠슨황불륜 #앨리스황 #젠슨황스캔들 #엔비디아 #주가 #시가총액 #중국스파이 #그래픽카드 #재산분할 #제프베이조스 #빌게이츠 #도널드트럼프 #미국경제 #반도체 #글로벌이슈 #해외뉴스 #국제뉴스 #현장의재구성 #속보 #특보 #생중계 #연합뉴스TV #JensenHuang #NVIDIA #AliceHuang #NVIDIACEO #ChinaSpy #AffairScandal #TechNews #StockMarket\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박혜준(hjun1589@yna.co.kr)",
+          "content:encodedSnippet": "#젠슨황 #엔비디아CEO #젠슨황불륜 #앨리스황 #젠슨황스캔들 #엔비디아 #주가 #시가총액 #중국스파이 #그래픽카드 #재산분할 #제프베이조스 #빌게이츠 #도널드트럼프 #미국경제 #반도체 #글로벌이슈 #해외뉴스 #국제뉴스 #현장의재구성 #속보 #특보 #생중계 #연합뉴스TV #JensenHuang #NVIDIA #AliceHuang #NVIDIACEO #ChinaSpy #AffairScandal #TechNews #StockMarket\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박혜준(hjun1589@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261113/AKR20261113160151K0A_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261114/MYH20261113142622WLh.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "권정상",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261113160151K0A#comments",
-          "content": "담배꽁초 쓰레기[AP=연합뉴스 자료사진][AP=연합뉴스 자료사진] 유럽의 여러 도시가 유럽연합(EU)에 담배 필터를 전면 금지하라고 촉구하고 나섰습니다. 담배 필터가 흡연자의 건강에 도움이 되지 않을 뿐더러 거리를 더럽히는 주범이라는 것입니다. 현지시간 12일 폴리티코 유럽판에 따르면 네덜란드 헤이그시가 주도하고 있는 '노 (플라스틱) 필터' 캠페인에 브뤼셀, 뮌헨, 더블린, 제노바 등 벨기에, 독일, 이탈리아, 아일랜드, 체코, 헝가리,...",
-          "contentSnippet": "담배꽁초 쓰레기[AP=연합뉴스 자료사진][AP=연합뉴스 자료사진] 유럽의 여러 도시가 유럽연합(EU)에 담배 필터를 전면 금지하라고 촉구하고 나섰습니다. 담배 필터가 흡연자의 건강에 도움이 되지 않을 뿐더러 거리를 더럽히는 주범이라는 것입니다. 현지시간 12일 폴리티코 유럽판에 따르면 네덜란드 헤이그시가 주도하고 있는 '노 (플라스틱) 필터' 캠페인에 브뤼셀, 뮌헨, 더블린, 제노바 등 벨기에, 독일, 이탈리아, 아일랜드, 체코, 헝가리,...",
-          "guid": "AKR20261113160151K0A",
+          "dc:creator": "박혜준",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261113142622WLh#comments",
+          "content": "#젠슨황 #엔비디아CEO #젠슨황불륜 #앨리스황 #젠슨황스캔들 #엔비디아 #주가 #시가총액 #중국스파이 #그래픽카드 #재산분할 #제프베이조스 #빌게이츠 #도널드트럼프 #미국경제 #반도체 #글로벌이슈 #해외뉴스 #국제뉴스 #현장의재구성 #속보 #특보 #생중계 #연합뉴스TV #JensenHuang #NVIDIA #AliceHuang #NVIDIACEO #ChinaSpy #AffairScandal #TechNews #StockMarket 연합뉴...",
+          "contentSnippet": "#젠슨황 #엔비디아CEO #젠슨황불륜 #앨리스황 #젠슨황스캔들 #엔비디아 #주가 #시가총액 #중국스파이 #그래픽카드 #재산분할 #제프베이조스 #빌게이츠 #도널드트럼프 #미국경제 #반도체 #글로벌이슈 #해외뉴스 #국제뉴스 #현장의재구성 #속보 #특보 #생중계 #연합뉴스TV #JensenHuang #NVIDIA #AliceHuang #NVIDIACEO #ChinaSpy #AffairScandal #TechNews #StockMarket 연합뉴...",
+          "guid": "MYH20261113142622WLh",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-13T21:02:05.000Z"
+          "isoDate": "2026-11-14T01:00:03.000Z"
         },
         {
-          "creator": "문승욱",
-          "title": "푸껫 해변에 '죽은 불가사리 떼' 출현…바다에 무슨 일이",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261112165227VAs",
-          "pubDate": "Sat, 14 Nov 2026 06:01:02 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261113/AKR20261112165227VAs_01_i.jpg\" alt=\"\"><span class=\"yna_title\">태국 푸껫 카론 해변에 짙은색과 옅은색 무늬가 특징인 불가사리 떼가 밀려와 모래사장에 흩어져 있는 모습.</span><span class=\"yna_caption\">(사진=태국 매체 파타야메일 보도)</span><span class=\"yna_description\">(사진=태국 매체 파타야메일 보도)</span></div>\n태국의 유명 관광지 푸껫 해변에 대규모 불가사리 떼가 밀려와 해변을 뒤덮는 일이 발생해 현지 주민들과 누리꾼들의 관심이 쏠리고 있습니다.\n\n태국 매체 파타야메일은 현지시간 12일 푸껫 카론 해변에 지난 11일 오전 수많은 불가사리가 떠밀려와 죽은 상태로 발견됐다고 보도했습니다.\n\n해변 모래사장 곳곳에는 몸통과 여러 개의 팔에 짙은색과 옅은색 무늬가 있는 불가사리들이 흩어져 있었습니다.\n\n현장에서 촬영된 사진이 SNS를 통해 확산하면서 누리꾼들의 관심도 이어졌습니다.\n\n일부 누리꾼들은 바닷속에서 이상 현상이 발생한 것 아니냐는 의문을 제기했고, 강한 파도가 불가사리들을 해안으로 밀어냈을 가능성을 언급하기도 했습니다.\n\n이날 정오 무렵 밀물이 들어오고 파도가 해안까지 밀려오면서 모래사장에 갇혀 있던 불가사리들은 다시 바다로 쓸려 내려갔습니다.\n\n다만 불가사리들이 대규모로 해변에 밀려온 정확한 원인과 실제 폐사 여부 등에 대해서는 아직 공식적인 설명이 나오지 않았습니다.\n\n#태국 #푸껫 #관광지 #불가사리\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n문승욱(winnerwook@yna.co.kr)",
-          "content:encodedSnippet": "태국 푸껫 카론 해변에 짙은색과 옅은색 무늬가 특징인 불가사리 떼가 밀려와 모래사장에 흩어져 있는 모습.(사진=태국 매체 파타야메일 보도)(사진=태국 매체 파타야메일 보도)\n태국의 유명 관광지 푸껫 해변에 대규모 불가사리 떼가 밀려와 해변을 뒤덮는 일이 발생해 현지 주민들과 누리꾼들의 관심이 쏠리고 있습니다.\n\n태국 매체 파타야메일은 현지시간 12일 푸껫 카론 해변에 지난 11일 오전 수많은 불가사리가 떠밀려와 죽은 상태로 발견됐다고 보도했습니다.\n\n해변 모래사장 곳곳에는 몸통과 여러 개의 팔에 짙은색과 옅은색 무늬가 있는 불가사리들이 흩어져 있었습니다.\n\n현장에서 촬영된 사진이 SNS를 통해 확산하면서 누리꾼들의 관심도 이어졌습니다.\n\n일부 누리꾼들은 바닷속에서 이상 현상이 발생한 것 아니냐는 의문을 제기했고, 강한 파도가 불가사리들을 해안으로 밀어냈을 가능성을 언급하기도 했습니다.\n\n이날 정오 무렵 밀물이 들어오고 파도가 해안까지 밀려오면서 모래사장에 갇혀 있던 불가사리들은 다시 바다로 쓸려 내려갔습니다.\n\n다만 불가사리들이 대규모로 해변에 밀려온 정확한 원인과 실제 폐사 여부 등에 대해서는 아직 공식적인 설명이 나오지 않았습니다.\n\n#태국 #푸껫 #관광지 #불가사리\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n문승욱(winnerwook@yna.co.kr)",
+          "creator": "안채린",
+          "title": "[단독] 배우 고경표 음주사고…면허취소 수준 만취상태",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261114095103dZW",
+          "pubDate": "Sat, 14 Nov 2026 09:51:03 +0900",
+          "content:encoded": "배우 고경표씨가 만취 상태로 음주사고를 내 경찰이 조사 중입니다.\n\n경찰 등에 따르면 씨는 오늘(14일) 오전 3시 반 쯤 서울 마포구 동교동에서 자신의 승용차를 운전하던 중 청소차를 들이받는 사고를 냈습니다.\n\n음주측정 결과 고씨의 혈중알코올농도는 면허 취소 수치가 나왔습니다.\n\n경찰은 자세한 사건 경위를 조사 중입니다.\n\n#경찰 #음주운전 #음주사고 #고경표\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n안채린(chaerin163@yna.co.kr)",
+          "content:encodedSnippet": "배우 고경표씨가 만취 상태로 음주사고를 내 경찰이 조사 중입니다.\n\n경찰 등에 따르면 씨는 오늘(14일) 오전 3시 반 쯤 서울 마포구 동교동에서 자신의 승용차를 운전하던 중 청소차를 들이받는 사고를 냈습니다.\n\n음주측정 결과 고씨의 혈중알코올농도는 면허 취소 수치가 나왔습니다.\n\n경찰은 자세한 사건 경위를 조사 중입니다.\n\n#경찰 #음주운전 #음주사고 #고경표\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n안채린(chaerin163@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261113/AKR20261112165227VAs_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261114/MYH20261114095103dZW.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "문승욱",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261112165227VAs#comments",
-          "content": "태국 푸껫 카론 해변에 짙은색과 옅은색 무늬가 특징인 불가사리 떼가 밀려와 모래사장에 흩어져 있는 모습.(사진=태국 매체 파타야메일 보도)(사진=태국 매체 파타야메일 보도) 태국의 유명 관광지 푸껫 해변에 대규모 불가사리 떼가 밀려와 해변을 뒤덮는 일이 발생해 현지 주민들과 누리꾼들의 관심이 쏠리고 있습니다. 태국 매체 파타야메일은 현지시간 12일 푸껫 카론 해변에 지난 11일 오전 수많은 불가사리가 떠밀려와 죽은 상태로 발견됐다고 보도했...",
-          "contentSnippet": "태국 푸껫 카론 해변에 짙은색과 옅은색 무늬가 특징인 불가사리 떼가 밀려와 모래사장에 흩어져 있는 모습.(사진=태국 매체 파타야메일 보도)(사진=태국 매체 파타야메일 보도) 태국의 유명 관광지 푸껫 해변에 대규모 불가사리 떼가 밀려와 해변을 뒤덮는 일이 발생해 현지 주민들과 누리꾼들의 관심이 쏠리고 있습니다. 태국 매체 파타야메일은 현지시간 12일 푸껫 카론 해변에 지난 11일 오전 수많은 불가사리가 떠밀려와 죽은 상태로 발견됐다고 보도했...",
-          "guid": "AKR20261112165227VAs",
+          "dc:creator": "안채린",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261114095103dZW#comments",
+          "content": "배우 고경표씨가 만취 상태로 음주사고를 내 경찰이 조사 중입니다. 경찰 등에 따르면 씨는 오늘(14일) 오전 3시 반 쯤 서울 마포구 동교동에서 자신의 승용차를 운전하던 중 청소차를 들이받는 사고를 냈습니다. 음주측정 결과 고씨의 혈중알코올농도는 면허 취소 수치가 나왔습니다. 경찰은 자세한 사건 경위를 조사 중입니다. #경찰 #음주운전 #음주사고 #고경표 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 안채린(chaerin163@...",
+          "contentSnippet": "배우 고경표씨가 만취 상태로 음주사고를 내 경찰이 조사 중입니다. 경찰 등에 따르면 씨는 오늘(14일) 오전 3시 반 쯤 서울 마포구 동교동에서 자신의 승용차를 운전하던 중 청소차를 들이받는 사고를 냈습니다. 음주측정 결과 고씨의 혈중알코올농도는 면허 취소 수치가 나왔습니다. 경찰은 자세한 사건 경위를 조사 중입니다. #경찰 #음주운전 #음주사고 #고경표 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 안채린(chaerin163@...",
+          "guid": "MYH20261114095103dZW",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-13T21:01:02.000Z"
+          "isoDate": "2026-11-14T00:51:03.000Z"
         },
         {
-          "creator": "강서연",
-          "title": "AI 안경 강제 세척? 시험지에 QR?…국가 시험 관리 '비상'",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261113155700Hoc",
-          "pubDate": "Sat, 14 Nov 2026 05:01:03 +0900",
-          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261113/AKR20261113155700Hoc_01_i.jpg\" alt=\"\"><span class=\"yna_title\">지난 11일 서울특별시교육청에서 진행된 수능 스마트안경 전담 본부요원 연수에서 업체 관계자가 스마트안경을 착용하고 문제풀이를 시연하는 모습.</span><span class=\"yna_caption\">[연합뉴스 자료사진]</span><span class=\"yna_description\">[연합뉴스 자료사진]</span></div>\n오는 19일 2027학년도 수능을 앞두고 인공지능(AI) 스마트안경을 이용한 부정행위 우려가 커지면서 온라인에서는 모든 수험생의 안경을 초음파 세척기에 넣어 검사해야 한다는 주장까지 나오는 등 다양한 대책이 제시되고 있습니다.\n\n평균을 훨씬 웃도는 세무사 시험 수석 합격자에 이어 법학적성시험(LEET·리트) 최초 만점자 사례까지 나오자 국회는 부정행위를 막기 위해 전자기기 도입과 전담인력 배치에 필요한 예산 증액 검토에 나섰습니다.\n\n오늘(14일) 각종 온라인 커뮤니티와 SNS에는 AI 스마트 안경을 활용한 부정행위를 막는 아이디어들이 잇따라 올라왔습니다.\n\n한 게시글 작성자는 \"시험장에 초음파 세척기를 준비해서 안경을 한 번씩 담그면 되는 것 아니냐\"며 \"초음파 세척기에 들어가면 전자기기가 망가진다\"고 주장했습니다.\n\n또 다른 게시글에서는 \"사람 눈으로는 식별하지 못하는 투명한 QR 코드를 시험지에 숨겨놓자\"며 \"AI 안경이 코드를 인식하고 링크에 들어가면 부정행위가 적발되도록 하면 어떻겠느냐\"는 제안이 나왔습니다.\n\n하지만 이 같은 방안이 실제 부정행위를 막는 데 효과적일지 의문이라는 반응도 이어졌습니다.\n\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261113/AKR20261113155700Hoc_02_i.jpg\" alt=\"\"><span class=\"yna_title\">지난 11일 서울특별시교육청에서 진행된 수능 스마트안경 전담 본부요원 연수 중 스마트안경이 문제지 위에 놓여있는 모습.</span><span class=\"yna_caption\">[연합뉴스 자료사진]</span><span class=\"yna_description\">[연합뉴스 자료사진]</span></div>\n한 누리꾼은 올해 연세대학교 논술고사에서 안경을 두 개 준비해 바꿔 착용하는 사례도 있었다며 초음파 세척기만으로는 부정행위를 막기 어렵다고 지적했습니다.\n\n일부 AI 스마트 안경은 방수 기능을 갖추고 있고, QR 코드 역시 기기의 인식 기능을 차단하는 방식 등으로 우회할 수 있어 실효성이 떨어진다는 의견들이 나왔습니다.\n\n이에 AI 스마트 안경과 연동되는 스마트폰을 별도 장소에 보관하거나 수험생의 비정상적인 행동을 감지할 수 있는 폐쇄회로(CC)TV 설치가 필요하다는 대책들이 제시됐습니다.\n\n첨단기기를 활용한 부정행위에 대한 대응 필요성이 커지자 국회에서는 국가 시험에서의 전파탐지기 도입과 전담인력 배치에 필요한 예산 65억여원을 증액하는 방안을 추진합니다.\n\n국회와 고용노동부 등에 따르면 국회 기후에너지환경노동위원회 소속 국민의힘 김위상 의원실은 내년도 예산안 심사를 앞두고 한국산업인력공단 소관 자격검정사업에 전파탐지기 도입 및 전문인력 배치 예산 65억7,300만원 증액안을 마련했습니다.\n\n이는 앞서 치러진 국정감사에서 국가자격시험 내 첨단기기 부정행위 문제가 도마 위에 오르자, 의원실의 요구에 따라 공단이 필요 예산을 추계해 보고한 데 따른 것입니다.\n\n공단은 증액 사유로 \"연간 약 440만명이 응시하는 자격검정사업에서 최근 AI 기반 스마트 안경 등 첨단기기를 활용한 부정행위가 발생하고 있다\"며 \"시험의 공정성 확보 및 부정행위 예방을 위한 인력·장비 투입 예산\"이라고 설명했습니다.\n\n한편 한성숙 국무총리는 수능을 앞둔 메시지에서 \"국가시험 관리체계 전반을 점검해 스마트기기를 악용한 부정행위가 완전히 근절될 수 있도록 범정부 대책을 조속히 마련하겠다\"며 부정행위에 엄정 대응하겠다고 경고했습니다.\n\n#스마트안경 #인공지능 #부정행위 #수능 #초음파세척기 #예산\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n강서연(yeon03@yna.co.kr)",
-          "content:encodedSnippet": "지난 11일 서울특별시교육청에서 진행된 수능 스마트안경 전담 본부요원 연수에서 업체 관계자가 스마트안경을 착용하고 문제풀이를 시연하는 모습.[연합뉴스 자료사진][연합뉴스 자료사진]\n지난 11일 서울특별시교육청에서 진행된 수능 스마트안경 전담 본부요원 연수 중 스마트안경이 문제지 위에 놓여있는 모습.[연합뉴스 자료사진][연합뉴스 자료사진]\n한 누리꾼은 올해 연세대학교 논술고사에서 안경을 두 개 준비해 바꿔 착용하는 사례도 있었다며 초음파 세척기만으로는 부정행위를 막기 어렵다고 지적했습니다.\n\n일부 AI 스마트 안경은 방수 기능을 갖추고 있고, QR 코드 역시 기기의 인식 기능을 차단하는 방식 등으로 우회할 수 있어 실효성이 떨어진다는 의견들이 나왔습니다.\n\n이에 AI 스마트 안경과 연동되는 스마트폰을 별도 장소에 보관하거나 수험생의 비정상적인 행동을 감지할 수 있는 폐쇄회로(CC)TV 설치가 필요하다는 대책들이 제시됐습니다.\n\n첨단기기를 활용한 부정행위에 대한 대응 필요성이 커지자 국회에서는 국가 시험에서의 전파탐지기 도입과 전담인력 배치에 필요한 예산 65억여원을 증액하는 방안을 추진합니다.\n\n국회와 고용노동부 등에 따르면 국회 기후에너지환경노동위원회 소속 국민의힘 김위상 의원실은 내년도 예산안 심사를 앞두고 한국산업인력공단 소관 자격검정사업에 전파탐지기 도입 및 전문인력 배치 예산 65억7,300만원 증액안을 마련했습니다.\n\n이는 앞서 치러진 국정감사에서 국가자격시험 내 첨단기기 부정행위 문제가 도마 위에 오르자, 의원실의 요구에 따라 공단이 필요 예산을 추계해 보고한 데 따른 것입니다.\n\n공단은 증액 사유로 \"연간 약 440만명이 응시하는 자격검정사업에서 최근 AI 기반 스마트 안경 등 첨단기기를 활용한 부정행위가 발생하고 있다\"며 \"시험의 공정성 확보 및 부정행위 예방을 위한 인력·장비 투입 예산\"이라고 설명했습니다.\n\n한편 한성숙 국무총리는 수능을 앞둔 메시지에서 \"국가시험 관리체계 전반을 점검해 스마트기기를 악용한 부정행위가 완전히 근절될 수 있도록 범정부 대책을 조속히 마련하겠다\"며 부정행위에 엄정 대응하겠다고 경고했습니다.\n\n#스마트안경 #인공지능 #부정행위 #수능 #초음파세척기 #예산\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n강서연(yeon03@yna.co.kr)",
+          "creator": "이상현",
+          "title": "발달장애 아들 학대치사 혐의…40대 모친 영장심사",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261114094903J2k",
+          "pubDate": "Sat, 14 Nov 2026 09:49:06 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261114/AKR20261114094903J2k_01_i.jpg\" alt=\"\"><span class=\"yna_title\">발달장애 10대 숨진 천안 아파트</span><span class=\"yna_caption\">[연합뉴스 자료사진]</span><span class=\"yna_description\">[연합뉴스 자료사진]</span></div>\n중증 발달장애가 있는 10대 아들을 학대해 숨지게 한 혐의를 받는 40대 어머니에 대한 구속영장 실질심사가 14일 열립니다.\n\n대전지법 천안지원은 이날 오후 3시 아동학대치사 혐의를 받는 A씨에 대한 구속 전 피의자 심문을 진행합니다.\n\nA씨는 지난 12일 오전 천안시 서북구 두정동의 한 아파트에서 \"아들이 숨을 쉬지 않는다\"며 119에 신고했습니다.\n\n심정지 상태로 병원에 옮겨진 A씨의 아들 B군은 결국 숨졌습니다.\n\n출동한 구급대원들은 B군의 손발에서 결박 흔적을 발견해 경찰에 공동 대응을 요청했고, 경찰은 같은 날 A씨를 긴급체포했습니다.\n\nA씨는 평소 아들의 과격한 행동을 막기 위해 손발 등을 묶어뒀다는 취지로 진술한 것으로 알려졌습니다.\n\n경찰은 국립과학수사연구원에 B군의 부검을 의뢰하고 다른 가족을 상대로 학대 여부와 정확한 사건 경위를 조사하고 있습니다.\n\nA씨의 구속 여부는 이르면 이날 밤 결정될 전망입니다.\n\n#충청남도 #천안시 #아동학대치사 #발달장애 #아들 #모친 #영장실질심사 #구속전피의자심문 #천안지원\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이상현(idealtype@yna.co.kr)",
+          "content:encodedSnippet": "발달장애 10대 숨진 천안 아파트[연합뉴스 자료사진][연합뉴스 자료사진]\n중증 발달장애가 있는 10대 아들을 학대해 숨지게 한 혐의를 받는 40대 어머니에 대한 구속영장 실질심사가 14일 열립니다.\n\n대전지법 천안지원은 이날 오후 3시 아동학대치사 혐의를 받는 A씨에 대한 구속 전 피의자 심문을 진행합니다.\n\nA씨는 지난 12일 오전 천안시 서북구 두정동의 한 아파트에서 \"아들이 숨을 쉬지 않는다\"며 119에 신고했습니다.\n\n심정지 상태로 병원에 옮겨진 A씨의 아들 B군은 결국 숨졌습니다.\n\n출동한 구급대원들은 B군의 손발에서 결박 흔적을 발견해 경찰에 공동 대응을 요청했고, 경찰은 같은 날 A씨를 긴급체포했습니다.\n\nA씨는 평소 아들의 과격한 행동을 막기 위해 손발 등을 묶어뒀다는 취지로 진술한 것으로 알려졌습니다.\n\n경찰은 국립과학수사연구원에 B군의 부검을 의뢰하고 다른 가족을 상대로 학대 여부와 정확한 사건 경위를 조사하고 있습니다.\n\nA씨의 구속 여부는 이르면 이날 밤 결정될 전망입니다.\n\n#충청남도 #천안시 #아동학대치사 #발달장애 #아들 #모친 #영장실질심사 #구속전피의자심문 #천안지원\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이상현(idealtype@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261113/AKR20261113155700Hoc_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261114/AKR20261114094903J2k_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "강서연",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261113155700Hoc#comments",
-          "content": "지난 11일 서울특별시교육청에서 진행된 수능 스마트안경 전담 본부요원 연수에서 업체 관계자가 스마트안경을 착용하고 문제풀이를 시연하는 모습.[연합뉴스 자료사진][연합뉴스 자료사진] 오는 19일 2027학년도 수능을 앞두고 인공지능(AI) 스마트안경을 이용한 부정행위 우려가 커지면서 온라인에서는 모든 수험생의 안경을 초음파 세척기에 넣어 검사해야 한다는 주장까지 나오는 등 다양한 대책이 제시되고 있습니다. 평균을 훨씬 웃도는 세무사 시험 수...",
-          "contentSnippet": "지난 11일 서울특별시교육청에서 진행된 수능 스마트안경 전담 본부요원 연수에서 업체 관계자가 스마트안경을 착용하고 문제풀이를 시연하는 모습.[연합뉴스 자료사진][연합뉴스 자료사진] 오는 19일 2027학년도 수능을 앞두고 인공지능(AI) 스마트안경을 이용한 부정행위 우려가 커지면서 온라인에서는 모든 수험생의 안경을 초음파 세척기에 넣어 검사해야 한다는 주장까지 나오는 등 다양한 대책이 제시되고 있습니다. 평균을 훨씬 웃도는 세무사 시험 수...",
-          "guid": "AKR20261113155700Hoc",
+          "dc:creator": "이상현",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261114094903J2k#comments",
+          "content": "발달장애 10대 숨진 천안 아파트[연합뉴스 자료사진][연합뉴스 자료사진] 중증 발달장애가 있는 10대 아들을 학대해 숨지게 한 혐의를 받는 40대 어머니에 대한 구속영장 실질심사가 14일 열립니다. 대전지법 천안지원은 이날 오후 3시 아동학대치사 혐의를 받는 A씨에 대한 구속 전 피의자 심문을 진행합니다. A씨는 지난 12일 오전 천안시 서북구 두정동의 한 아파트에서 \"아들이 숨을 쉬지 않는다\"며 119에 신고했습니다. 심정지 상태로 병원...",
+          "contentSnippet": "발달장애 10대 숨진 천안 아파트[연합뉴스 자료사진][연합뉴스 자료사진] 중증 발달장애가 있는 10대 아들을 학대해 숨지게 한 혐의를 받는 40대 어머니에 대한 구속영장 실질심사가 14일 열립니다. 대전지법 천안지원은 이날 오후 3시 아동학대치사 혐의를 받는 A씨에 대한 구속 전 피의자 심문을 진행합니다. A씨는 지난 12일 오전 천안시 서북구 두정동의 한 아파트에서 \"아들이 숨을 쉬지 않는다\"며 119에 신고했습니다. 심정지 상태로 병원...",
+          "guid": "AKR20261114094903J2k",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-13T20:01:03.000Z"
-        },
-        {
-          "creator": "석승현",
-          "title": "말 두마리 데리고 시내버스 탑승…\"영상 찍으려고\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261112161932PbQ",
-          "pubDate": "Sat, 14 Nov 2026 05:01:03 +0900",
-          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261113/AKR20261112161932PbQ_01_i.jpg\" alt=\"\"><span class=\"yna_title\">말이 버스에서 내리는 모습.</span><span class=\"yna_caption\">[페이스북 Ellessia Drew 갈무리]</span><span class=\"yna_description\">[페이스북 Ellessia Drew 갈무리]</span></div>\n미국에서 말을 데리고 시내버스에 탑승한 사람들의 모습이 포착된 가운데 현지 교통당국은 규정에 어긋나는 행위라며 조사에 나섰습니다.\n\n현지시간 10일 CBS 뉴스 디트로이트 등에 따르면, 지난 7일 미국 디트로이트의 한 도로에서 남성 두 명이 말 두 마리를 끌고 시내버스에 오르는 모습이 촬영됐습니다.\n\n해당 영상을 촬영한 엘레시아 드류는 도로를 지나다 버스에 타려는 사람들의 모습이 이상해 다가갔고, 이들이 말 두 마리를 끌고 있다는 사실을 알게 됐다고 전했습니다.\n\n드류는 \"처음에는 말이 타려 하지 않았다\"며 \"억지로 버스에 태우자 흥분한 듯했고, 차체가 조금씩 흔들리는 모습도 보였다\"고 당시 상황을 설명했습니다.\n\n말의 주인은 도심 승마 문화와 흑인 카우보이의 존재를 알리기 위해 결성된 단체 '어번 시티 카우보이스' 소속 조던 윌리엄스로 확인됐습니다.\n\n윌리엄스는 당시 모금 자선 행사에서 아이들에게 말 타기 체험을 제공하고 돌아가던 중이었으며, 정차 중인 버스를 보고 기사의 양해를 구한 뒤 잠시 올라타 짧은 영상을 촬영한 것이라고 해명했습니다.\n\n영상 촬영의 목적에 대해서는 \"우리처럼 생긴 카우보이도 있다는 것을 알리려는 것이었다\"고 설명했습니다.\n\n현지 교통당국은 성명을 통해 말 두 마리가 정류장에 정차 중이던 버스에 올라 탄 사건을 인지하고 있다고 밝혔습니다. 이어 \"이는 교통국 정책에 어긋나며, 승객들에게 위험과 불편을 초래할 수 있는 행동\"이라며 적절한 조치를 취하고 있는 중이라고 덧붙였습니다.\n\n이에 대해 윌리엄스는 당시 버스에 승객 2~3명이 타고 있었지만 다친 사람은 없었다며 \"교통당국도 다른 사람들처럼 이번 사건을 장난으로 받아들여 주면 좋겠다\"고 말했습니다.\n\n#미국 #말 #버스 #흑인 #카우보이 #논란 #해외화제 #이슈\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n석승현(stone@yna.co.kr)",
-          "content:encodedSnippet": "말이 버스에서 내리는 모습.[페이스북 Ellessia Drew 갈무리][페이스북 Ellessia Drew 갈무리]\n미국에서 말을 데리고 시내버스에 탑승한 사람들의 모습이 포착된 가운데 현지 교통당국은 규정에 어긋나는 행위라며 조사에 나섰습니다.\n\n현지시간 10일 CBS 뉴스 디트로이트 등에 따르면, 지난 7일 미국 디트로이트의 한 도로에서 남성 두 명이 말 두 마리를 끌고 시내버스에 오르는 모습이 촬영됐습니다.\n\n해당 영상을 촬영한 엘레시아 드류는 도로를 지나다 버스에 타려는 사람들의 모습이 이상해 다가갔고, 이들이 말 두 마리를 끌고 있다는 사실을 알게 됐다고 전했습니다.\n\n드류는 \"처음에는 말이 타려 하지 않았다\"며 \"억지로 버스에 태우자 흥분한 듯했고, 차체가 조금씩 흔들리는 모습도 보였다\"고 당시 상황을 설명했습니다.\n\n말의 주인은 도심 승마 문화와 흑인 카우보이의 존재를 알리기 위해 결성된 단체 '어번 시티 카우보이스' 소속 조던 윌리엄스로 확인됐습니다.\n\n윌리엄스는 당시 모금 자선 행사에서 아이들에게 말 타기 체험을 제공하고 돌아가던 중이었으며, 정차 중인 버스를 보고 기사의 양해를 구한 뒤 잠시 올라타 짧은 영상을 촬영한 것이라고 해명했습니다.\n\n영상 촬영의 목적에 대해서는 \"우리처럼 생긴 카우보이도 있다는 것을 알리려는 것이었다\"고 설명했습니다.\n\n현지 교통당국은 성명을 통해 말 두 마리가 정류장에 정차 중이던 버스에 올라 탄 사건을 인지하고 있다고 밝혔습니다. 이어 \"이는 교통국 정책에 어긋나며, 승객들에게 위험과 불편을 초래할 수 있는 행동\"이라며 적절한 조치를 취하고 있는 중이라고 덧붙였습니다.\n\n이에 대해 윌리엄스는 당시 버스에 승객 2~3명이 타고 있었지만 다친 사람은 없었다며 \"교통당국도 다른 사람들처럼 이번 사건을 장난으로 받아들여 주면 좋겠다\"고 말했습니다.\n\n#미국 #말 #버스 #흑인 #카우보이 #논란 #해외화제 #이슈\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n석승현(stone@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261113/AKR20261112161932PbQ_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "석승현",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261112161932PbQ#comments",
-          "content": "말이 버스에서 내리는 모습.[페이스북 Ellessia Drew 갈무리][페이스북 Ellessia Drew 갈무리] 미국에서 말을 데리고 시내버스에 탑승한 사람들의 모습이 포착된 가운데 현지 교통당국은 규정에 어긋나는 행위라며 조사에 나섰습니다. 현지시간 10일 CBS 뉴스 디트로이트 등에 따르면, 지난 7일 미국 디트로이트의 한 도로에서 남성 두 명이 말 두 마리를 끌고 시내버스에 오르는 모습이 촬영됐습니다. 해당 영상을 촬영한 엘레시아 ...",
-          "contentSnippet": "말이 버스에서 내리는 모습.[페이스북 Ellessia Drew 갈무리][페이스북 Ellessia Drew 갈무리] 미국에서 말을 데리고 시내버스에 탑승한 사람들의 모습이 포착된 가운데 현지 교통당국은 규정에 어긋나는 행위라며 조사에 나섰습니다. 현지시간 10일 CBS 뉴스 디트로이트 등에 따르면, 지난 7일 미국 디트로이트의 한 도로에서 남성 두 명이 말 두 마리를 끌고 시내버스에 오르는 모습이 촬영됐습니다. 해당 영상을 촬영한 엘레시아 ...",
-          "guid": "AKR20261112161932PbQ",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-13T20:01:03.000Z"
+          "isoDate": "2026-11-14T00:49:06.000Z"
         },
         {
           "creator": "이다현",
-          "title": "\"중간선거 책임론 직면한 밴스 美부통령…2028년 대선 출마 포기 검토\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261114034734LvQ",
-          "pubDate": "Sat, 14 Nov 2026 03:47:36 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261113/AKR20261114034734LvQ_01_i.jpg\" alt=\"\"><span class=\"yna_title\">밴스 부통령</span><span class=\"yna_caption\">[로이터=연합뉴스. 재판매 및 DB 금지]</span><span class=\"yna_description\">[로이터=연합뉴스. 재판매 및 DB 금지]</span></div>\nJD 밴스 미국 부통령이 2028년 대선에 출마하지 않는 방안을 진지하게 검토하고 있다고 미 CNN방송이 현지시간 13일 보도했습니다.\n\nCNN방송은 밴스 부통령의 측근 등 10여명을 접촉, 밴스 부통령이 아직 결정을 내린 것은 아니라며 이같이 전했습니다.\n\n밴스 부통령은 공화당의 유력한 차기 대선 후보로 꼽혀왔지만 최근 중간선거에서 집권당이 참패하며 트럼프 대통령과 함께 패배 책임론에 직면했습니다.\n\n선거 참패로 세력 약화가 여실히 드러난 트럼프 대통령의 핵심 지지층 '마가'(MAGA·미국을 다시 위대하게) 진영을 재건하고 대선 출마의 동력으로 삼는 것 역시 여의치 않은 상황입니다.\n\n선거 참패 규모로 볼 때 고물가에 질려 트럼프 대통령에게 대거 등을 돌린 지지자들을 돌려세우는 것도 만만치 않은 작업입니다.\n\n밴스 부통령은 중간선거 다음날 '패배는 이란전쟁 탓'이라고 공개 주장하며 참패의 수렁에서 거리를 두려고 하다 트럼프 대통령의 분노를 사기도 했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이다현(ok@yna.co.kr)",
-          "content:encodedSnippet": "밴스 부통령[로이터=연합뉴스. 재판매 및 DB 금지][로이터=연합뉴스. 재판매 및 DB 금지]\nJD 밴스 미국 부통령이 2028년 대선에 출마하지 않는 방안을 진지하게 검토하고 있다고 미 CNN방송이 현지시간 13일 보도했습니다.\n\nCNN방송은 밴스 부통령의 측근 등 10여명을 접촉, 밴스 부통령이 아직 결정을 내린 것은 아니라며 이같이 전했습니다.\n\n밴스 부통령은 공화당의 유력한 차기 대선 후보로 꼽혀왔지만 최근 중간선거에서 집권당이 참패하며 트럼프 대통령과 함께 패배 책임론에 직면했습니다.\n\n선거 참패로 세력 약화가 여실히 드러난 트럼프 대통령의 핵심 지지층 '마가'(MAGA·미국을 다시 위대하게) 진영을 재건하고 대선 출마의 동력으로 삼는 것 역시 여의치 않은 상황입니다.\n\n선거 참패 규모로 볼 때 고물가에 질려 트럼프 대통령에게 대거 등을 돌린 지지자들을 돌려세우는 것도 만만치 않은 작업입니다.\n\n밴스 부통령은 중간선거 다음날 '패배는 이란전쟁 탓'이라고 공개 주장하며 참패의 수렁에서 거리를 두려고 하다 트럼프 대통령의 분노를 사기도 했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이다현(ok@yna.co.kr)",
+          "title": "조현, 중국에 '한반도 문제' 건설적 역할 당부…왕이 \"정책 변함없어\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261114094828VMk",
+          "pubDate": "Sat, 14 Nov 2026 09:48:29 +0900",
+          "content:encoded": "왕이 중국 외교부장을 만난 조현 외교부 장관이 한반도 문제와 관련해 중국의 건설적 역할을 당부했습니다.\n\n외교부는 두 장관이 어제(13일) 오후 중국 베이징 댜오위타이 국빈관에서 3시간에 걸쳐 외교장관회담과 만찬을 갖고 의견을 교환했다고 밝혔습니다.\n\n조 장관의 당부에 왕이 외교부장은 중국의 한반도 정책에는 변함이 없다면서, 한반도 평화·안정을 위한 건설적 역할을 지속해 나갈 것이라고 말했습니다.\n\n왕 부장은 답하면서 '비핵화' 표현을 명시적으로 쓰지 않는 최근의 태도를 이어갔지만, 비핵화가 포함되는 기존의 중국 대한반도 정책에 변함이 없다는 입장을 반복했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이다현(ok@yna.co.kr)",
+          "content:encodedSnippet": "왕이 중국 외교부장을 만난 조현 외교부 장관이 한반도 문제와 관련해 중국의 건설적 역할을 당부했습니다.\n\n외교부는 두 장관이 어제(13일) 오후 중국 베이징 댜오위타이 국빈관에서 3시간에 걸쳐 외교장관회담과 만찬을 갖고 의견을 교환했다고 밝혔습니다.\n\n조 장관의 당부에 왕이 외교부장은 중국의 한반도 정책에는 변함이 없다면서, 한반도 평화·안정을 위한 건설적 역할을 지속해 나갈 것이라고 말했습니다.\n\n왕 부장은 답하면서 '비핵화' 표현을 명시적으로 쓰지 않는 최근의 태도를 이어갔지만, 비핵화가 포함되는 기존의 중국 대한반도 정책에 변함이 없다는 입장을 반복했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이다현(ok@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261113/AKR20261114034734LvQ_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261114/MYH20261114094828VMk.jpg",
             "type": "image/jpeg"
           },
           "dc:creator": "이다현",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261114034734LvQ#comments",
-          "content": "밴스 부통령[로이터=연합뉴스. 재판매 및 DB 금지][로이터=연합뉴스. 재판매 및 DB 금지] JD 밴스 미국 부통령이 2028년 대선에 출마하지 않는 방안을 진지하게 검토하고 있다고 미 CNN방송이 현지시간 13일 보도했습니다. CNN방송은 밴스 부통령의 측근 등 10여명을 접촉, 밴스 부통령이 아직 결정을 내린 것은 아니라며 이같이 전했습니다. 밴스 부통령은 공화당의 유력한 차기 대선 후보로 꼽혀왔지만 최근 중간선거에서 집권당이 참패하...",
-          "contentSnippet": "밴스 부통령[로이터=연합뉴스. 재판매 및 DB 금지][로이터=연합뉴스. 재판매 및 DB 금지] JD 밴스 미국 부통령이 2028년 대선에 출마하지 않는 방안을 진지하게 검토하고 있다고 미 CNN방송이 현지시간 13일 보도했습니다. CNN방송은 밴스 부통령의 측근 등 10여명을 접촉, 밴스 부통령이 아직 결정을 내린 것은 아니라며 이같이 전했습니다. 밴스 부통령은 공화당의 유력한 차기 대선 후보로 꼽혀왔지만 최근 중간선거에서 집권당이 참패하...",
-          "guid": "AKR20261114034734LvQ",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261114094828VMk#comments",
+          "content": "왕이 중국 외교부장을 만난 조현 외교부 장관이 한반도 문제와 관련해 중국의 건설적 역할을 당부했습니다. 외교부는 두 장관이 어제(13일) 오후 중국 베이징 댜오위타이 국빈관에서 3시간에 걸쳐 외교장관회담과 만찬을 갖고 의견을 교환했다고 밝혔습니다. 조 장관의 당부에 왕이 외교부장은 중국의 한반도 정책에는 변함이 없다면서, 한반도 평화·안정을 위한 건설적 역할을 지속해 나갈 것이라고 말했습니다. 왕 부장은 답하면서 '비핵화' 표현을 명시적으...",
+          "contentSnippet": "왕이 중국 외교부장을 만난 조현 외교부 장관이 한반도 문제와 관련해 중국의 건설적 역할을 당부했습니다. 외교부는 두 장관이 어제(13일) 오후 중국 베이징 댜오위타이 국빈관에서 3시간에 걸쳐 외교장관회담과 만찬을 갖고 의견을 교환했다고 밝혔습니다. 조 장관의 당부에 왕이 외교부장은 중국의 한반도 정책에는 변함이 없다면서, 한반도 평화·안정을 위한 건설적 역할을 지속해 나갈 것이라고 말했습니다. 왕 부장은 답하면서 '비핵화' 표현을 명시적으...",
+          "guid": "MYH20261114094828VMk",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-13T18:47:36.000Z"
+          "isoDate": "2026-11-14T00:48:29.000Z"
         },
         {
-          "creator": "이다현",
-          "title": "산업장관, 체코 측에 \"두코바니 원전 사업, 차질 없는 이행\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR202611140111459Uw",
-          "pubDate": "Sat, 14 Nov 2026 01:11:46 +0900",
-          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261113/AKR202611140111459Uw_01_i.jpg\" alt=\"\"><span class=\"yna_title\">김정관 장관, 팀코리아 체코 원전사업 추진현황 점검회의 참석</span><span class=\"yna_caption\">(서울=연합뉴스) 김정관 산업통상부 장관이 12일 서울 종로구 정부서울청사에서 열린 '팀코리아 체코 원전사업 추진현황 점검회의'를 주재하고 있다. 2026.11.12 [산업통상부 제공. 재판매 및 DB 금지] photo@yna.co.kr</span><span class=\"yna_description\">(서울=연합뉴스) 김정관 산업통상부 장관이 12일 서울 종로구 정부서울청사에서 열린 '팀코리아 체코 원전사업 추진현황 점검회의'를 주재하고 있다. 2026.11.12 [산업통상부 제공. 재판매 및 DB 금지] photo@yna.co.kr</span></div>\n김정관 산업통상부 장관이 13일 카렐 하블리첵 체코 산업통상부 장관과 화상 면담을 하고 체코 두코바니 원전 사업의 차질 없는 이행을 약속했습니다.\n\n산업부에 따르면, 김 장관은 하블리첵 장관에게 한국수력원자력과 시공사 간의 시공 계약 협상 종료에 대응해 '팀코리아'가 정상적인 사업 추진을 위한 계획을 수립하고 이행 중이라고 밝혔습니다.\n\n두코바니 원전 건설 사업 주계약자인 한수원은 대우건설·두산에너빌리티 컨소시엄과 시공계약 협상을 진행해 왔지만 양측이 합의에 이르지 못했다며 지난달 말 협상 종료를 발표한 바 있습니다.\n\n김 장관은 자신이 주재하는 '팀코리아 체코 원전사업 추진현황 점검회의'와 산업차관이 주재하는 '한수원 추진계획 점검회의'를 격주로 열어 사업 추진 현황을 점검하고, 팀코리아의 활동이 사업의 주요 계획을 달성하기에 부족함이 없는지 평가하고 있다고 설명했습니다.\n\n두코바니 원전 사업은 내년 4월 건설허가 신청과 2029년 11월 착공 등을 목표로 하고 있습니다.\n\n김 장관은 또 시공계약 협약 종료에도 관련 업무의 연속성을 확보하기 위한 계획을 수립했으며, 신규 시공사 선정 추진계획을 신속하면서도 공정·투명하게 진행하겠다고 강조했습니다.\n\n양국 장관은 지난 5일 이후 한·체코 산업부 국장급 회의를 매주 열어 소통을 원활히 하기로 한 점을 긍정적으로 평가하고 연내 제4차 장관급 두코바니 이행점검 협의체를 개최해 사업 현안을 심도 있게 논의하기로 했습니다.\n\n김 장관은 \"체코와의 약속을 지키는 것을 최우선으로, 체코 측과 협의가 필요한 현안은 장관급 등 각종 협의채널을 통해 정부가 직접 나서겠다\"며 \"체코 원전사업 완수를 과정이 아닌 결과로 책임지겠다\"고 말했습니다.\n\n하블리첵 장관은 \"장관 간에도 월 1회 회의를 개최하여 협력방안을 적극적으로 논의하자\"고 화답했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이다현(ok@yna.co.kr)",
-          "content:encodedSnippet": "김정관 장관, 팀코리아 체코 원전사업 추진현황 점검회의 참석(서울=연합뉴스) 김정관 산업통상부 장관이 12일 서울 종로구 정부서울청사에서 열린 '팀코리아 체코 원전사업 추진현황 점검회의'를 주재하고 있다. 2026.11.12 [산업통상부 제공. 재판매 및 DB 금지] photo@yna.co.kr(서울=연합뉴스) 김정관 산업통상부 장관이 12일 서울 종로구 정부서울청사에서 열린 '팀코리아 체코 원전사업 추진현황 점검회의'를 주재하고 있다. 2026.11.12 [산업통상부 제공. 재판매 및 DB 금지] photo@yna.co.kr\n김정관 산업통상부 장관이 13일 카렐 하블리첵 체코 산업통상부 장관과 화상 면담을 하고 체코 두코바니 원전 사업의 차질 없는 이행을 약속했습니다.\n\n산업부에 따르면, 김 장관은 하블리첵 장관에게 한국수력원자력과 시공사 간의 시공 계약 협상 종료에 대응해 '팀코리아'가 정상적인 사업 추진을 위한 계획을 수립하고 이행 중이라고 밝혔습니다.\n\n두코바니 원전 건설 사업 주계약자인 한수원은 대우건설·두산에너빌리티 컨소시엄과 시공계약 협상을 진행해 왔지만 양측이 합의에 이르지 못했다며 지난달 말 협상 종료를 발표한 바 있습니다.\n\n김 장관은 자신이 주재하는 '팀코리아 체코 원전사업 추진현황 점검회의'와 산업차관이 주재하는 '한수원 추진계획 점검회의'를 격주로 열어 사업 추진 현황을 점검하고, 팀코리아의 활동이 사업의 주요 계획을 달성하기에 부족함이 없는지 평가하고 있다고 설명했습니다.\n\n두코바니 원전 사업은 내년 4월 건설허가 신청과 2029년 11월 착공 등을 목표로 하고 있습니다.\n\n김 장관은 또 시공계약 협약 종료에도 관련 업무의 연속성을 확보하기 위한 계획을 수립했으며, 신규 시공사 선정 추진계획을 신속하면서도 공정·투명하게 진행하겠다고 강조했습니다.\n\n양국 장관은 지난 5일 이후 한·체코 산업부 국장급 회의를 매주 열어 소통을 원활히 하기로 한 점을 긍정적으로 평가하고 연내 제4차 장관급 두코바니 이행점검 협의체를 개최해 사업 현안을 심도 있게 논의하기로 했습니다.\n\n김 장관은 \"체코와의 약속을 지키는 것을 최우선으로, 체코 측과 협의가 필요한 현안은 장관급 등 각종 협의채널을 통해 정부가 직접 나서겠다\"며 \"체코 원전사업 완수를 과정이 아닌 결과로 책임지겠다\"고 말했습니다.\n\n하블리첵 장관은 \"장관 간에도 월 1회 회의를 개최하여 협력방안을 적극적으로 논의하자\"고 화답했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이다현(ok@yna.co.kr)",
+          "creator": "김보나",
+          "title": "[영상구성] \"어둠을 이기는 빛\"…인도 '디왈리' 축제",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH202611140936453Ko",
+          "pubDate": "Sat, 14 Nov 2026 09:36:45 +0900",
+          "content:encoded": "\"빛이 어둠을 이긴다\"\n\n인도 최대 힌두교 축제\n\n빛의 축제 '디왈리'\n\n'더 많은 빛을 밝히면\n\n더 큰 행운이 찾아온다'\n\n인도 전역에\n\n수백만 개 등불 밝혀\n\n그러나\n\n축제 밝힌 폭죽이 뿜어낸\n\n먼지와 연기\n\n\"델리 대기오염 세계 최악\"\n\n'빛'의 축제 뒤엔 '그늘'이\n\n#인도 #힌두교 #디왈리\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김보나(bonamana@yna.co.kr)",
+          "content:encodedSnippet": "\"빛이 어둠을 이긴다\"\n\n인도 최대 힌두교 축제\n\n빛의 축제 '디왈리'\n\n'더 많은 빛을 밝히면\n\n더 큰 행운이 찾아온다'\n\n인도 전역에\n\n수백만 개 등불 밝혀\n\n그러나\n\n축제 밝힌 폭죽이 뿜어낸\n\n먼지와 연기\n\n\"델리 대기오염 세계 최악\"\n\n'빛'의 축제 뒤엔 '그늘'이\n\n#인도 #힌두교 #디왈리\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김보나(bonamana@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261113/AKR202611140111459Uw_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261114/MYH202611140936453Ko.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "이다현",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR202611140111459Uw#comments",
-          "content": "김정관 장관, 팀코리아 체코 원전사업 추진현황 점검회의 참석(서울=연합뉴스) 김정관 산업통상부 장관이 12일 서울 종로구 정부서울청사에서 열린 '팀코리아 체코 원전사업 추진현황 점검회의'를 주재하고 있다. 2026.11.12 [산업통상부 제공. 재판매 및 DB 금지] photo@yna.co.kr(서울=연합뉴스) 김정관 산업통상부 장관이 12일 서울 종로구 정부서울청사에서 열린 '팀코리아 체코 원전사업 추진현황 점검회의'를 주재하고 있다. ...",
-          "contentSnippet": "김정관 장관, 팀코리아 체코 원전사업 추진현황 점검회의 참석(서울=연합뉴스) 김정관 산업통상부 장관이 12일 서울 종로구 정부서울청사에서 열린 '팀코리아 체코 원전사업 추진현황 점검회의'를 주재하고 있다. 2026.11.12 [산업통상부 제공. 재판매 및 DB 금지] photo@yna.co.kr(서울=연합뉴스) 김정관 산업통상부 장관이 12일 서울 종로구 정부서울청사에서 열린 '팀코리아 체코 원전사업 추진현황 점검회의'를 주재하고 있다. ...",
-          "guid": "AKR202611140111459Uw",
+          "dc:creator": "김보나",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH202611140936453Ko#comments",
+          "content": "\"빛이 어둠을 이긴다\" 인도 최대 힌두교 축제 빛의 축제 '디왈리' '더 많은 빛을 밝히면 더 큰 행운이 찾아온다' 인도 전역에 수백만 개 등불 밝혀 그러나 축제 밝힌 폭죽이 뿜어낸 먼지와 연기 \"델리 대기오염 세계 최악\" '빛'의 축제 뒤엔 '그늘'이 #인도 #힌두교 #디왈리 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 김보나(bonamana@yna.co.kr)",
+          "contentSnippet": "\"빛이 어둠을 이긴다\" 인도 최대 힌두교 축제 빛의 축제 '디왈리' '더 많은 빛을 밝히면 더 큰 행운이 찾아온다' 인도 전역에 수백만 개 등불 밝혀 그러나 축제 밝힌 폭죽이 뿜어낸 먼지와 연기 \"델리 대기오염 세계 최악\" '빛'의 축제 뒤엔 '그늘'이 #인도 #힌두교 #디왈리 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 김보나(bonamana@yna.co.kr)",
+          "guid": "MYH202611140936453Ko",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-13T16:11:46.000Z"
+          "isoDate": "2026-11-14T00:36:45.000Z"
         },
         {
-          "creator": "김선홍",
-          "title": "미 10월 도매물가 전년 대비 6.5% 상승…4년만에 최고",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261114010123xN3",
-          "pubDate": "Sat, 14 Nov 2026 01:01:25 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261113/AKR20261114010123xN3_01_i.jpg\" alt=\"\"><span class=\"yna_title\">미국 버지니아주 알링턴의 한 마트서 남성이 장을 보고 있는 모습</span><span class=\"yna_caption\">[신화=연합뉴스. 재판매 및 DB 금지]</span><span class=\"yna_description\">[신화=연합뉴스. 재판매 및 DB 금지]</span></div>\n지난 10월 미국의 도매물가가 전년 대비 약 4년만에 가장 큰 폭으로 올랐습니다.\n\n미 노동부 노동통게국은 현지시간 13일, 미국의 10월 생산자물가지수가 전년 대비 6.5% 상승했다고 밝혔는데, 이는 지난 2022년 11월(7.4%) 이후 가장 높은 상승률입니다.\n\n전월 대비 상승률은 0.3%로, 다우존스가 집계한 전문가 전망치(0.4%)를 밑돌았다. 9월에 전월 대비 1.4% 급등한 것에 비하면 크게 둔화한 수치입니다.\n\n변동성이 큰 에너지와 식품 가격을 제외한 생산자물가지수는 전월 대비 0.3%, 전년 대비 5.0% 올랐습니다.\n\n상품 부문이 0.5% 오르며 전체 지수 상승을 주도했고, 특히 식품 가격이 전월 대비 1.3% 오르면서 지난 2월 이후 최대 상승폭을 기록했습니다.\n\n9월에 10.0% 급등했던 에너지 가격은 10월에 0.1% 하락했습니다.\n\n휘발유는 0.5% 상승한 반면 천연가스액은 21.4% 급등하는 등 하위 품목 간 격차가 컸습니다.\n\n전자 컴퓨터 및 장비는 보합(0.0%)을 기록했습니다.\n\n서비스 부문은 0.2% 상승하며 5개월 연속 상승세를 이어갔습니다.\n\n미 노동부는 10월 상승분의 4분의 3이 운송·창고 서비스 가격(2.0% 상승)에서 비롯됐다고 설명했습니다.\n\n반면 유통 서비스 마진은 0.2% 하락했습니다.\n\n도매 물가로도 불리는 생산자물가는 일정 시차를 두고 최종 소비재 가격에 반영된다는 점에서 소비자물가의 선행지표로 받아들여집니다.\n\n시장에서는 이번 생산자물가 지표의 전월 대비 상승률이 전망을 밑돌면서 연방준비제도(Fed·연준)의 공격적인 긴축에 대한 우려를 일부 덜었다는 평가가 나옵니다.\n\n연준이 선호하는 물가 지표인 개인소비지출(PCE) 산출에 반영되는 병원 외래 진료비 등 일부 서비스 항목이 안정세를 보이고, 요양원·법률 서비스 등 가격이 하락한 점도 시장의 부담을 누그러뜨렸습니다.\n\n\n#미국 #물가 #도매물가 #생산자물가지수\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김선홍(redsun@yna.co.kr)",
-          "content:encodedSnippet": "미국 버지니아주 알링턴의 한 마트서 남성이 장을 보고 있는 모습[신화=연합뉴스. 재판매 및 DB 금지][신화=연합뉴스. 재판매 및 DB 금지]\n지난 10월 미국의 도매물가가 전년 대비 약 4년만에 가장 큰 폭으로 올랐습니다.\n\n미 노동부 노동통게국은 현지시간 13일, 미국의 10월 생산자물가지수가 전년 대비 6.5% 상승했다고 밝혔는데, 이는 지난 2022년 11월(7.4%) 이후 가장 높은 상승률입니다.\n\n전월 대비 상승률은 0.3%로, 다우존스가 집계한 전문가 전망치(0.4%)를 밑돌았다. 9월에 전월 대비 1.4% 급등한 것에 비하면 크게 둔화한 수치입니다.\n\n변동성이 큰 에너지와 식품 가격을 제외한 생산자물가지수는 전월 대비 0.3%, 전년 대비 5.0% 올랐습니다.\n\n상품 부문이 0.5% 오르며 전체 지수 상승을 주도했고, 특히 식품 가격이 전월 대비 1.3% 오르면서 지난 2월 이후 최대 상승폭을 기록했습니다.\n\n9월에 10.0% 급등했던 에너지 가격은 10월에 0.1% 하락했습니다.\n\n휘발유는 0.5% 상승한 반면 천연가스액은 21.4% 급등하는 등 하위 품목 간 격차가 컸습니다.\n\n전자 컴퓨터 및 장비는 보합(0.0%)을 기록했습니다.\n\n서비스 부문은 0.2% 상승하며 5개월 연속 상승세를 이어갔습니다.\n\n미 노동부는 10월 상승분의 4분의 3이 운송·창고 서비스 가격(2.0% 상승)에서 비롯됐다고 설명했습니다.\n\n반면 유통 서비스 마진은 0.2% 하락했습니다.\n\n도매 물가로도 불리는 생산자물가는 일정 시차를 두고 최종 소비재 가격에 반영된다는 점에서 소비자물가의 선행지표로 받아들여집니다.\n\n시장에서는 이번 생산자물가 지표의 전월 대비 상승률이 전망을 밑돌면서 연방준비제도(Fed·연준)의 공격적인 긴축에 대한 우려를 일부 덜었다는 평가가 나옵니다.\n\n연준이 선호하는 물가 지표인 개인소비지출(PCE) 산출에 반영되는 병원 외래 진료비 등 일부 서비스 항목이 안정세를 보이고, 요양원·법률 서비스 등 가격이 하락한 점도 시장의 부담을 누그러뜨렸습니다.\n\n\n#미국 #물가 #도매물가 #생산자물가지수\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김선홍(redsun@yna.co.kr)",
+          "creator": "박수주",
+          "title": "외교2차관, 내일 방미…한미 경제안보 협력 논의",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261114093626tPB",
+          "pubDate": "Sat, 14 Nov 2026 09:36:27 +0900",
+          "content:encoded": "김진아 외교부 2차관이 내일(15일)부터 나흘간 미국을 방문해 미 국무부 차관과 한미 경제안보 협력 방안을 논의합니다.\n\n외교부는 김 차관이 오는 16일 미 국무부 제이컵 헬버그 경제성장·에너지·환경 담당 차관과 양자회담을 가질 예정이라고 밝혔습니다.\n\n외교부는 회담에서 공급망 강화 등 경제안보 협력과 상호 호혜적인 무역·투자 증진 등을 위한 양국 간 협력 방안을 논의할 것이라고 설명했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박수주(sooju@yna.co.kr)",
+          "content:encodedSnippet": "김진아 외교부 2차관이 내일(15일)부터 나흘간 미국을 방문해 미 국무부 차관과 한미 경제안보 협력 방안을 논의합니다.\n\n외교부는 김 차관이 오는 16일 미 국무부 제이컵 헬버그 경제성장·에너지·환경 담당 차관과 양자회담을 가질 예정이라고 밝혔습니다.\n\n외교부는 회담에서 공급망 강화 등 경제안보 협력과 상호 호혜적인 무역·투자 증진 등을 위한 양국 간 협력 방안을 논의할 것이라고 설명했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박수주(sooju@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261113/AKR20261114010123xN3_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261114/MYH20261114093626tPB.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "김선홍",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261114010123xN3#comments",
-          "content": "미국 버지니아주 알링턴의 한 마트서 남성이 장을 보고 있는 모습[신화=연합뉴스. 재판매 및 DB 금지][신화=연합뉴스. 재판매 및 DB 금지] 지난 10월 미국의 도매물가가 전년 대비 약 4년만에 가장 큰 폭으로 올랐습니다. 미 노동부 노동통게국은 현지시간 13일, 미국의 10월 생산자물가지수가 전년 대비 6.5% 상승했다고 밝혔는데, 이는 지난 2022년 11월(7.4%) 이후 가장 높은 상승률입니다. 전월 대비 상승률은 0.3%로, 다...",
-          "contentSnippet": "미국 버지니아주 알링턴의 한 마트서 남성이 장을 보고 있는 모습[신화=연합뉴스. 재판매 및 DB 금지][신화=연합뉴스. 재판매 및 DB 금지] 지난 10월 미국의 도매물가가 전년 대비 약 4년만에 가장 큰 폭으로 올랐습니다. 미 노동부 노동통게국은 현지시간 13일, 미국의 10월 생산자물가지수가 전년 대비 6.5% 상승했다고 밝혔는데, 이는 지난 2022년 11월(7.4%) 이후 가장 높은 상승률입니다. 전월 대비 상승률은 0.3%로, 다...",
-          "guid": "AKR20261114010123xN3",
+          "dc:creator": "박수주",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261114093626tPB#comments",
+          "content": "김진아 외교부 2차관이 내일(15일)부터 나흘간 미국을 방문해 미 국무부 차관과 한미 경제안보 협력 방안을 논의합니다. 외교부는 김 차관이 오는 16일 미 국무부 제이컵 헬버그 경제성장·에너지·환경 담당 차관과 양자회담을 가질 예정이라고 밝혔습니다. 외교부는 회담에서 공급망 강화 등 경제안보 협력과 상호 호혜적인 무역·투자 증진 등을 위한 양국 간 협력 방안을 논의할 것이라고 설명했습니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 je...",
+          "contentSnippet": "김진아 외교부 2차관이 내일(15일)부터 나흘간 미국을 방문해 미 국무부 차관과 한미 경제안보 협력 방안을 논의합니다. 외교부는 김 차관이 오는 16일 미 국무부 제이컵 헬버그 경제성장·에너지·환경 담당 차관과 양자회담을 가질 예정이라고 밝혔습니다. 외교부는 회담에서 공급망 강화 등 경제안보 협력과 상호 호혜적인 무역·투자 증진 등을 위한 양국 간 협력 방안을 논의할 것이라고 설명했습니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 je...",
+          "guid": "MYH20261114093626tPB",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-13T16:01:25.000Z"
+          "isoDate": "2026-11-14T00:36:27.000Z"
         },
         {
-          "creator": "강지수",
-          "title": "빛바랜 김휘집 스리런…불펜 난조에 한일전 패배",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261114004944PFk",
-          "pubDate": "Sat, 14 Nov 2026 00:49:45 +0900",
-          "content:encoded": "[앵커]\n\n아시아프로야구챔피언십에 나선 우리 대표팀이 일본에 5-9로 졌습니다.\n\n김휘집·한동희가 홈런포를 가동했지만 불펜이 흔들리며 점수를 대거 내줬습니다.\n\n2연패에 빠진 대표팀은 대만전 결과에 결승 진출의 희망을 걸게 됐습니다.\n\n강지수 기자입니다.\n\n[기자]\n\n호주전 패배 이후 부담을 안고 숙적 일본을 만난 대표팀.\n\n0-0이던 3회초, 2사 주자 없는 상황에서 주장 한동희가 일본 선발 다케마루를 상대로 선제포를 터뜨립니다.\n\n하지만 리드는 오래가지 못했습니다. 3회말, 선발 김진욱이 일본 쇼지에게 3루타를 맞고 마사키에게 투런포를 내주며 역전을 허용했습니다.\n\n4탈삼진 2실점으로 5이닝을 막은 김진욱이 내려간 후 대표팀 마운드는 급격히 흔들렸습니다.\n\n6회말, 전준표가 코지마에게 솔로포를 허용했고, 7회말 박시원은 무네야마에게 투런포까지 맞았습니다.\n\n수세에 몰렸던 대표팀. 8회초, 한동희의 적시타로 추격의 불씨를 살리더니 김휘집이 스리런포로 승부를 원점으로 돌리며 기세를 올렸습니다.\n\n기쁨도 잠시. 경기 후반 맹타를 휘두른 일본 타선을 막아내지 못했습니다.\n\n무네야마의 3점 홈런와 야마구치의 적시타로 8회말에만 일본에 넉 점을 허용해 5-9 패배를 기록했습니다.\n\n대표팀은 프로 선수끼리 맞붙는 대회에서 일본전 12연패에 빠지며 절대 열세에서 이번에도 빠져나오지 못했습니다.\n\n이번 2연패로 벼랑 끝에 몰린 대표팀이 결승에 오르기 위해서는 일본과 호주의 경기를 지켜본 후 대만전에서 반드시 승리해야 하는 상황에 놓이게 됐습니다.\n\n연합뉴스TV 강지수입니다.\n\n[영상편집 노일환]\n\n[그래픽 이정태]\n\n#KBO #야구 #APBC #최원호 #2026아시아프로야구챔피언십\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n강지수(jisurimasuri@yna.co.kr)",
-          "content:encodedSnippet": "[앵커]\n\n아시아프로야구챔피언십에 나선 우리 대표팀이 일본에 5-9로 졌습니다.\n\n김휘집·한동희가 홈런포를 가동했지만 불펜이 흔들리며 점수를 대거 내줬습니다.\n\n2연패에 빠진 대표팀은 대만전 결과에 결승 진출의 희망을 걸게 됐습니다.\n\n강지수 기자입니다.\n\n[기자]\n\n호주전 패배 이후 부담을 안고 숙적 일본을 만난 대표팀.\n\n0-0이던 3회초, 2사 주자 없는 상황에서 주장 한동희가 일본 선발 다케마루를 상대로 선제포를 터뜨립니다.\n\n하지만 리드는 오래가지 못했습니다. 3회말, 선발 김진욱이 일본 쇼지에게 3루타를 맞고 마사키에게 투런포를 내주며 역전을 허용했습니다.\n\n4탈삼진 2실점으로 5이닝을 막은 김진욱이 내려간 후 대표팀 마운드는 급격히 흔들렸습니다.\n\n6회말, 전준표가 코지마에게 솔로포를 허용했고, 7회말 박시원은 무네야마에게 투런포까지 맞았습니다.\n\n수세에 몰렸던 대표팀. 8회초, 한동희의 적시타로 추격의 불씨를 살리더니 김휘집이 스리런포로 승부를 원점으로 돌리며 기세를 올렸습니다.\n\n기쁨도 잠시. 경기 후반 맹타를 휘두른 일본 타선을 막아내지 못했습니다.\n\n무네야마의 3점 홈런와 야마구치의 적시타로 8회말에만 일본에 넉 점을 허용해 5-9 패배를 기록했습니다.\n\n대표팀은 프로 선수끼리 맞붙는 대회에서 일본전 12연패에 빠지며 절대 열세에서 이번에도 빠져나오지 못했습니다.\n\n이번 2연패로 벼랑 끝에 몰린 대표팀이 결승에 오르기 위해서는 일본과 호주의 경기를 지켜본 후 대만전에서 반드시 승리해야 하는 상황에 놓이게 됐습니다.\n\n연합뉴스TV 강지수입니다.\n\n[영상편집 노일환]\n\n[그래픽 이정태]\n\n#KBO #야구 #APBC #최원호 #2026아시아프로야구챔피언십\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n강지수(jisurimasuri@yna.co.kr)",
+          "creator": "신현정",
+          "title": "불화설 수습했더니 경기력이 문제…사우디에 충격패",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261114093601L7O",
+          "pubDate": "Sat, 14 Nov 2026 09:36:02 +0900",
+          "content:encoded": "[앵커]\n\n로베르트 모레노 임시 감독이 이끄는 축구 대표팀이 FIFA 랭킹에서 23계단이나 낮은 사우디아라비아를 상대로 졸전을 펼치며 패했습니다.\n\n팀 내 불화설은 꺼뜨렸지만, 이번엔 경기력이 도마 위에 올랐습니다.\n\n신현정 기자입니다.\n\n[기자]\n\n대표팀 내 불화설을 가까스로 수습하고 달라진 호흡을 기대하며 나선 사우디아라비아전.\n\n하지만 사우디는 킥오프 직후부터 한국의 불안한 수비를 집요하게 파고들었습니다.\n\n전반 내내 골문을 위협한 사우디는 추가시간 1분, 수비 뒷공간으로 침투한 패스를 알 사하피가 오른발 슈팅으로 마무리하며 선제골을 터뜨렸습니다.\n\n일대일로 맞선 김승규는 미끄러지며 실점을 막지 못했습니다.\n\n후반 들어 반격에 나선 한국은 설영우의 크로스를 오현규가 논스톱 오른발 슈팅으로 연결해 승부를 원점으로 돌렸습니다.\n\n하지만 앞선 A매치 4경기처럼 후반 반격에 대한 기대가 커질 무렵, 한국 수비는 사우디의 세트피스에 무너졌습니다.\n\n후반 11분 칸노의 슈팅이 골대를 맞고 들어가며 다시 리드를 내줬고, 불과 3분 뒤에는 코너킥 상황에서 알 암리에게 헤더 추가골을 내줬습니다.\n\n다급해진 한국은 교체 투입된 이재성이 만회골을 올리는 데 그쳤습니다.\n\n손흥민과 이강인이 막판 공세에 나섰지만 결국 2-3으로 패했습니다.\n\n2006년 독일 월드컵 예선 이후 21년 만에 사우디에 패한 한국.\n\n42년 만에 3실점 패배까지 당하며 체면을 구긴 모레노 감독에게 남은 기회는 오는 17일 카타르전뿐입니다.\n\n연합뉴스TV 신현정입니다.\n\n[화면출처 쿠팡플레이]\n\n[영상편집 노일환]\n\n[그래픽 이정태]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신현정(hyunspirit@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n로베르트 모레노 임시 감독이 이끄는 축구 대표팀이 FIFA 랭킹에서 23계단이나 낮은 사우디아라비아를 상대로 졸전을 펼치며 패했습니다.\n\n팀 내 불화설은 꺼뜨렸지만, 이번엔 경기력이 도마 위에 올랐습니다.\n\n신현정 기자입니다.\n\n[기자]\n\n대표팀 내 불화설을 가까스로 수습하고 달라진 호흡을 기대하며 나선 사우디아라비아전.\n\n하지만 사우디는 킥오프 직후부터 한국의 불안한 수비를 집요하게 파고들었습니다.\n\n전반 내내 골문을 위협한 사우디는 추가시간 1분, 수비 뒷공간으로 침투한 패스를 알 사하피가 오른발 슈팅으로 마무리하며 선제골을 터뜨렸습니다.\n\n일대일로 맞선 김승규는 미끄러지며 실점을 막지 못했습니다.\n\n후반 들어 반격에 나선 한국은 설영우의 크로스를 오현규가 논스톱 오른발 슈팅으로 연결해 승부를 원점으로 돌렸습니다.\n\n하지만 앞선 A매치 4경기처럼 후반 반격에 대한 기대가 커질 무렵, 한국 수비는 사우디의 세트피스에 무너졌습니다.\n\n후반 11분 칸노의 슈팅이 골대를 맞고 들어가며 다시 리드를 내줬고, 불과 3분 뒤에는 코너킥 상황에서 알 암리에게 헤더 추가골을 내줬습니다.\n\n다급해진 한국은 교체 투입된 이재성이 만회골을 올리는 데 그쳤습니다.\n\n손흥민과 이강인이 막판 공세에 나섰지만 결국 2-3으로 패했습니다.\n\n2006년 독일 월드컵 예선 이후 21년 만에 사우디에 패한 한국.\n\n42년 만에 3실점 패배까지 당하며 체면을 구긴 모레노 감독에게 남은 기회는 오는 17일 카타르전뿐입니다.\n\n연합뉴스TV 신현정입니다.\n\n[화면출처 쿠팡플레이]\n\n[영상편집 노일환]\n\n[그래픽 이정태]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신현정(hyunspirit@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261113/MYH20261114004944PFk.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261114/MYH20261114093601L7O.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "강지수",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261114004944PFk#comments",
-          "content": "[앵커] 아시아프로야구챔피언십에 나선 우리 대표팀이 일본에 5-9로 졌습니다. 김휘집·한동희가 홈런포를 가동했지만 불펜이 흔들리며 점수를 대거 내줬습니다. 2연패에 빠진 대표팀은 대만전 결과에 결승 진출의 희망을 걸게 됐습니다. 강지수 기자입니다. [기자] 호주전 패배 이후 부담을 안고 숙적 일본을 만난 대표팀. 0-0이던 3회초, 2사 주자 없는 상황에서 주장 한동희가 일본 선발 다케마루를 상대로 선제포를 터뜨립니다. 하지만 리드는 오래...",
-          "contentSnippet": "[앵커] 아시아프로야구챔피언십에 나선 우리 대표팀이 일본에 5-9로 졌습니다. 김휘집·한동희가 홈런포를 가동했지만 불펜이 흔들리며 점수를 대거 내줬습니다. 2연패에 빠진 대표팀은 대만전 결과에 결승 진출의 희망을 걸게 됐습니다. 강지수 기자입니다. [기자] 호주전 패배 이후 부담을 안고 숙적 일본을 만난 대표팀. 0-0이던 3회초, 2사 주자 없는 상황에서 주장 한동희가 일본 선발 다케마루를 상대로 선제포를 터뜨립니다. 하지만 리드는 오래...",
-          "guid": "MYH20261114004944PFk",
+          "dc:creator": "신현정",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261114093601L7O#comments",
+          "content": "[앵커] 로베르트 모레노 임시 감독이 이끄는 축구 대표팀이 FIFA 랭킹에서 23계단이나 낮은 사우디아라비아를 상대로 졸전을 펼치며 패했습니다. 팀 내 불화설은 꺼뜨렸지만, 이번엔 경기력이 도마 위에 올랐습니다. 신현정 기자입니다. [기자] 대표팀 내 불화설을 가까스로 수습하고 달라진 호흡을 기대하며 나선 사우디아라비아전. 하지만 사우디는 킥오프 직후부터 한국의 불안한 수비를 집요하게 파고들었습니다. 전반 내내 골문을 위협한 사우디는 추가...",
+          "contentSnippet": "[앵커] 로베르트 모레노 임시 감독이 이끄는 축구 대표팀이 FIFA 랭킹에서 23계단이나 낮은 사우디아라비아를 상대로 졸전을 펼치며 패했습니다. 팀 내 불화설은 꺼뜨렸지만, 이번엔 경기력이 도마 위에 올랐습니다. 신현정 기자입니다. [기자] 대표팀 내 불화설을 가까스로 수습하고 달라진 호흡을 기대하며 나선 사우디아라비아전. 하지만 사우디는 킥오프 직후부터 한국의 불안한 수비를 집요하게 파고들었습니다. 전반 내내 골문을 위협한 사우디는 추가...",
+          "guid": "MYH20261114093601L7O",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-13T15:49:45.000Z"
+          "isoDate": "2026-11-14T00:36:02.000Z"
         },
         {
-          "creator": "이다현",
-          "title": "조현, 중국에 '한반도 문제' 역할 당부…왕이 \"정책 변함없어\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261114002114az8",
-          "pubDate": "Sat, 14 Nov 2026 00:21:17 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261113/AKR20261114002114az8_01_i.jpg\" alt=\"\"><span class=\"yna_title\">조현 외교장관과 왕이 중국 외교부장</span><span class=\"yna_caption\">[베이징특파원 공동취재단]</span><span class=\"yna_description\">[베이징특파원 공동취재단]</span></div>\n조현 외교부 장관이 오늘(13일) 한반도 문제와 관련한 중국의 건설적 역할을 당부했습니다.\n\n왕이 중국 외교부장은 중국의 한반도 정책에는 변함이 없다면서 한반도 평화·안정을 위한 건설적 역할을 지속해 나갈 것임을 재확인했습니다.\n\n외교부는 두 장관이 이날 오후 중국 베이징 댜오위타이(釣魚臺) 국빈관에서 3시간에 걸쳐 외교장관회담과 만찬을 갖고 이같은 의견을 교환했습니다.\n\n두 장관은 특히 한반도 문제를 비롯한 지역 정세에 대해 폭넓게 의견을 교환했습니다.\n\n조 장관은 한반도의 평화·안정이 한중 양국의 공동 이익임을 강조했고 한반도 비핵화와 평화 실현을 위한 정부의 노력을 설명했으며 북한의 대화 복귀 등 한반도 문제에서 중국의 역할을 당부했습니다.\n\n왕 부장은 이에 대해 답하면서 '비핵화' 표현을 명시적으로 쓰지 않는 최근의 태도를 이어갔지만, 비핵화가 포함되는 기존의 중국 대한반도 정책에 변함이 없다는 입장을 반복했습니다.\n\n왕 부장은 지난 8월 서울에서 조 장관과 외교장관회담을 벌였을 때도 '한반도 문제에 대한 중국의 입장은 연속적이고 안정적'이라는 취지로 언급한 바 있습니다.\n\n회담에서 조 장관은 선전 APEC 정상회의의 성공적 개최를 기원한다고 전하며, 선전에서 양국 정상 간 교류가 한중 전략적 협력 동반자 관계를 더욱 성숙하게 발전시키는 중요한 계기가 될 수 있도록 잘 준비해 나가자고 했습니다.\n\n왕 부장은 한중 관계의 긍정적 흐름이 작년 경주에서 선전으로 이어지고 있음을 평가하면서 이재명 대통령의 선전 APEC 계기 방중을 환영하며 충분한 예우를 갖춰 이번 방문이 성공적으로 이루어질 수 있도록 하겠다고 화답했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이다현(ok@yna.co.kr)",
-          "content:encodedSnippet": "조현 외교장관과 왕이 중국 외교부장[베이징특파원 공동취재단][베이징특파원 공동취재단]\n조현 외교부 장관이 오늘(13일) 한반도 문제와 관련한 중국의 건설적 역할을 당부했습니다.\n\n왕이 중국 외교부장은 중국의 한반도 정책에는 변함이 없다면서 한반도 평화·안정을 위한 건설적 역할을 지속해 나갈 것임을 재확인했습니다.\n\n외교부는 두 장관이 이날 오후 중국 베이징 댜오위타이(釣魚臺) 국빈관에서 3시간에 걸쳐 외교장관회담과 만찬을 갖고 이같은 의견을 교환했습니다.\n\n두 장관은 특히 한반도 문제를 비롯한 지역 정세에 대해 폭넓게 의견을 교환했습니다.\n\n조 장관은 한반도의 평화·안정이 한중 양국의 공동 이익임을 강조했고 한반도 비핵화와 평화 실현을 위한 정부의 노력을 설명했으며 북한의 대화 복귀 등 한반도 문제에서 중국의 역할을 당부했습니다.\n\n왕 부장은 이에 대해 답하면서 '비핵화' 표현을 명시적으로 쓰지 않는 최근의 태도를 이어갔지만, 비핵화가 포함되는 기존의 중국 대한반도 정책에 변함이 없다는 입장을 반복했습니다.\n\n왕 부장은 지난 8월 서울에서 조 장관과 외교장관회담을 벌였을 때도 '한반도 문제에 대한 중국의 입장은 연속적이고 안정적'이라는 취지로 언급한 바 있습니다.\n\n회담에서 조 장관은 선전 APEC 정상회의의 성공적 개최를 기원한다고 전하며, 선전에서 양국 정상 간 교류가 한중 전략적 협력 동반자 관계를 더욱 성숙하게 발전시키는 중요한 계기가 될 수 있도록 잘 준비해 나가자고 했습니다.\n\n왕 부장은 한중 관계의 긍정적 흐름이 작년 경주에서 선전으로 이어지고 있음을 평가하면서 이재명 대통령의 선전 APEC 계기 방중을 환영하며 충분한 예우를 갖춰 이번 방문이 성공적으로 이루어질 수 있도록 하겠다고 화답했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이다현(ok@yna.co.kr)",
+          "creator": "장보경",
+          "title": "국방부, 육해공 사관생도 대상 국군사관학교 설문 착수",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261114093518Td6",
+          "pubDate": "Sat, 14 Nov 2026 09:35:20 +0900",
+          "content:encoded": "국방부가 '국군사관학교 창설 기본계획' 보완을 위해 사관생도의 의견을 직접 듣는 설문조사에 착수했습니다.\n\n국방부는 어제(13일)부터 17일까지, 육해공군 사관학교 1~4학년 약 2,350명을 대상으로 온라인에서 관련 설문을 진행합니다.\n\n설문은 사관학교 교육 역량 강화를 위한 개선사항과, 각 군의 전문성을 유지하기 위한 필수 요소, 국군사관학교 창설에 고려할 사항 등 4개 문항을 주관식으로 묻는 형태로 구성됐습니다.\n\n익명성 보장을 위해 결과를 한국국방연구원이 취합하며, 국방부는 개인 식별 정보를 삭제한 결과만 넘겨받을 방침입니다.\n\n설문의 종합 분석 결과는 대외에 공개된다고 국방부 관계자는 밝혔습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n장보경(jangbo@yna.co.kr)",
+          "content:encodedSnippet": "국방부가 '국군사관학교 창설 기본계획' 보완을 위해 사관생도의 의견을 직접 듣는 설문조사에 착수했습니다.\n\n국방부는 어제(13일)부터 17일까지, 육해공군 사관학교 1~4학년 약 2,350명을 대상으로 온라인에서 관련 설문을 진행합니다.\n\n설문은 사관학교 교육 역량 강화를 위한 개선사항과, 각 군의 전문성을 유지하기 위한 필수 요소, 국군사관학교 창설에 고려할 사항 등 4개 문항을 주관식으로 묻는 형태로 구성됐습니다.\n\n익명성 보장을 위해 결과를 한국국방연구원이 취합하며, 국방부는 개인 식별 정보를 삭제한 결과만 넘겨받을 방침입니다.\n\n설문의 종합 분석 결과는 대외에 공개된다고 국방부 관계자는 밝혔습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n장보경(jangbo@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261113/AKR20261114002114az8_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261114/MYH20261114093518Td6.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "이다현",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261114002114az8#comments",
-          "content": "조현 외교장관과 왕이 중국 외교부장[베이징특파원 공동취재단][베이징특파원 공동취재단] 조현 외교부 장관이 오늘(13일) 한반도 문제와 관련한 중국의 건설적 역할을 당부했습니다. 왕이 중국 외교부장은 중국의 한반도 정책에는 변함이 없다면서 한반도 평화·안정을 위한 건설적 역할을 지속해 나갈 것임을 재확인했습니다. 외교부는 두 장관이 이날 오후 중국 베이징 댜오위타이(釣魚臺) 국빈관에서 3시간에 걸쳐 외교장관회담과 만찬을 갖고 이같은 의견을 ...",
-          "contentSnippet": "조현 외교장관과 왕이 중국 외교부장[베이징특파원 공동취재단][베이징특파원 공동취재단] 조현 외교부 장관이 오늘(13일) 한반도 문제와 관련한 중국의 건설적 역할을 당부했습니다. 왕이 중국 외교부장은 중국의 한반도 정책에는 변함이 없다면서 한반도 평화·안정을 위한 건설적 역할을 지속해 나갈 것임을 재확인했습니다. 외교부는 두 장관이 이날 오후 중국 베이징 댜오위타이(釣魚臺) 국빈관에서 3시간에 걸쳐 외교장관회담과 만찬을 갖고 이같은 의견을 ...",
-          "guid": "AKR20261114002114az8",
+          "dc:creator": "장보경",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261114093518Td6#comments",
+          "content": "국방부가 '국군사관학교 창설 기본계획' 보완을 위해 사관생도의 의견을 직접 듣는 설문조사에 착수했습니다. 국방부는 어제(13일)부터 17일까지, 육해공군 사관학교 1~4학년 약 2,350명을 대상으로 온라인에서 관련 설문을 진행합니다. 설문은 사관학교 교육 역량 강화를 위한 개선사항과, 각 군의 전문성을 유지하기 위한 필수 요소, 국군사관학교 창설에 고려할 사항 등 4개 문항을 주관식으로 묻는 형태로 구성됐습니다. 익명성 보장을 위해 결과...",
+          "contentSnippet": "국방부가 '국군사관학교 창설 기본계획' 보완을 위해 사관생도의 의견을 직접 듣는 설문조사에 착수했습니다. 국방부는 어제(13일)부터 17일까지, 육해공군 사관학교 1~4학년 약 2,350명을 대상으로 온라인에서 관련 설문을 진행합니다. 설문은 사관학교 교육 역량 강화를 위한 개선사항과, 각 군의 전문성을 유지하기 위한 필수 요소, 국군사관학교 창설에 고려할 사항 등 4개 문항을 주관식으로 묻는 형태로 구성됐습니다. 익명성 보장을 위해 결과...",
+          "guid": "MYH20261114093518Td6",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-13T15:21:17.000Z"
+          "isoDate": "2026-11-14T00:35:20.000Z"
         },
         {
-          "creator": "안채원",
-          "title": "대법 \"석방 단정 말라\"…한덕수 선고 내주 나오나",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261114001706G0C",
-          "pubDate": "Sat, 14 Nov 2026 00:17:08 +0900",
-          "content:encoded": "[앵커]\n\n한덕수 전 국무총리의 구속기간은 오는 20일 종료되는데요.\n\n만료 전날 대법원 심리 기일이 잡혀 '석방이 불가피하다'는 보도가 이어지자 대법은 \"단정적 보도를 자제해달라\"고 공지했습니다.\n\n이를 두고 대법이 석방 전에 선고를 내리겠다는 의지를 드러낸 게 아니냔 해석이 나옵니다.\n\n안채원 기자의 보도입니다.\n\n[기자]\n\n대법원 전원합의체는 한덕수 전 국무총리의 내란중요임무종사 혐의 사건 두 번째 심리 기일을 오는 19일로 지정했습니다.\n\n구속기간 만료일 하루 전 심리 기일이 잡히면서 한 전 총리의 20일 석방 가능성이 제기됐습니다.\n\n법상 구속만료 당일 0시에 피고인을 석방해야 하는데, 대법이 잡아둔 심리 기일 이전이나 당일에 선고를 내리긴 어렵지 않겠냐는 관측 때문입니다.\n\n하지만 대법은 속단하지 말아달란 취지의 입장문을 냈습니다.\n\n대법은 \"한 전 총리 사건과 관련해 20일 이전 대법 판결 선고가 불가능하고 곧바로 석방된다는 취지의 다수 보도가 있다\"며 \"이와 같은 단정적인 보도는 오해를 가져올 수 있으니 자제해 달라\"고 밝혔습니다.\n\n이를 두고 법원 안팎에서는 대법이 선고에 대한 의지를 드러낸 게 아니냐는 해석이 나옵니다.\n\n법조계에서도 전합 사건의 경우 지정된 심리 기일과 상관없이 대법관들이 합의만 마치면 선고 기일을 곧바로 지정할 수 있다는 목소리가 나옵니다.\n\n한 현직 부장판사는 \"1, 2심의 심리 기일과 대법의 심리 기일에는 큰 차이가 있다\"며 \"합의만 이뤄진다면 심리 기일과 상관없이 그 이전이나 당일 언제든 선고할 수 있다\"고 말했습니다.\n\n한 전 총리에 대한 선고기일이 지정된다면 지정 여부는 이르면 다음주 초 쯤 나올 걸로 보이는데, 이는 12.3 비상계엄 관련 내란 혐의에 대한 첫 확정판결이 됩니다.\n\n내란특검은 선고가 미뤄진다면 한 전 총리에게 사건 관계인 접촉 금지 등 조건을 달아 보석석방해야 한다고 의견을 내기도 했는데, 대법이 막판 합의에 속도를 내 석방 전 선고를 할 수 있을지 주목됩니다.\n\n연합뉴스TV 안채원입니다.\n\n[영상편집 김세나]\n\n[그래픽 이예지]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n안채원(chae1@yna.co.kr)",
-          "content:encodedSnippet": "[앵커]\n\n한덕수 전 국무총리의 구속기간은 오는 20일 종료되는데요.\n\n만료 전날 대법원 심리 기일이 잡혀 '석방이 불가피하다'는 보도가 이어지자 대법은 \"단정적 보도를 자제해달라\"고 공지했습니다.\n\n이를 두고 대법이 석방 전에 선고를 내리겠다는 의지를 드러낸 게 아니냔 해석이 나옵니다.\n\n안채원 기자의 보도입니다.\n\n[기자]\n\n대법원 전원합의체는 한덕수 전 국무총리의 내란중요임무종사 혐의 사건 두 번째 심리 기일을 오는 19일로 지정했습니다.\n\n구속기간 만료일 하루 전 심리 기일이 잡히면서 한 전 총리의 20일 석방 가능성이 제기됐습니다.\n\n법상 구속만료 당일 0시에 피고인을 석방해야 하는데, 대법이 잡아둔 심리 기일 이전이나 당일에 선고를 내리긴 어렵지 않겠냐는 관측 때문입니다.\n\n하지만 대법은 속단하지 말아달란 취지의 입장문을 냈습니다.\n\n대법은 \"한 전 총리 사건과 관련해 20일 이전 대법 판결 선고가 불가능하고 곧바로 석방된다는 취지의 다수 보도가 있다\"며 \"이와 같은 단정적인 보도는 오해를 가져올 수 있으니 자제해 달라\"고 밝혔습니다.\n\n이를 두고 법원 안팎에서는 대법이 선고에 대한 의지를 드러낸 게 아니냐는 해석이 나옵니다.\n\n법조계에서도 전합 사건의 경우 지정된 심리 기일과 상관없이 대법관들이 합의만 마치면 선고 기일을 곧바로 지정할 수 있다는 목소리가 나옵니다.\n\n한 현직 부장판사는 \"1, 2심의 심리 기일과 대법의 심리 기일에는 큰 차이가 있다\"며 \"합의만 이뤄진다면 심리 기일과 상관없이 그 이전이나 당일 언제든 선고할 수 있다\"고 말했습니다.\n\n한 전 총리에 대한 선고기일이 지정된다면 지정 여부는 이르면 다음주 초 쯤 나올 걸로 보이는데, 이는 12.3 비상계엄 관련 내란 혐의에 대한 첫 확정판결이 됩니다.\n\n내란특검은 선고가 미뤄진다면 한 전 총리에게 사건 관계인 접촉 금지 등 조건을 달아 보석석방해야 한다고 의견을 내기도 했는데, 대법이 막판 합의에 속도를 내 석방 전 선고를 할 수 있을지 주목됩니다.\n\n연합뉴스TV 안채원입니다.\n\n[영상편집 김세나]\n\n[그래픽 이예지]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n안채원(chae1@yna.co.kr)",
+          "creator": "양현주",
+          "title": "증권사 돈잔치 끝났다…실적 부진에 배당도 '빨간불'",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261114093444hdn",
+          "pubDate": "Sat, 14 Nov 2026 09:34:47 +0900",
+          "content:encoded": "[앵커]\n\n상반기 역대급 호황을 누렸던 대형 증권사들의 실적이 불과 석 달 만에 4분의 1 수준으로 쪼그라들었습니다.\n\n증시 부진에 금리 상승, 과징금 부담까지 겹친 가운데, 실적 악화가 배당 축소로 이어질 수 있다는 우려도 나옵니다.\n\n양현주 기자입니다.\n\n[기자]\n\n상반기까지만 해도 말 그대로 돈을 쓸어 담았던 증권사들.\n\n하지만 증시가 얼어붙자, 실적 잔치도 막을 내렸습니다.\n\n국내 5대 증권사의 3분기 합산 순이익은 8,512억원으로, 전 분기보다 81%가량 급감했습니다.\n\n가장 큰 타격을 입은 곳은 미래에셋증권입니다.\n\n2분기 1조 9,052억원의 순이익을 냈지만, 3분기에는 4,056억원 적자로 돌아섰습니다.\n\n스페이스X 주가 하락에 원·달러 환율 하락까지 겹치면서 해외 투자자산의 평가손실이 크게 불어난 겁니다.\n\n한국투자증권과 키움증권의 순이익도 각각 70%, 65%가량 줄었고, 삼성증권과 NH투자증권도 20%대 감소율을 기록했습니다.\n\n증시 거래대금이 한 분기 만에 36% 넘게 줄면서 수수료 수익이 감소했고, 금리 상승에 따른 운용 부담까지 겹친 결과입니다.\n\n국고채 담합 과징금까지 더해지면서 증권업계의 부담은 한층 커질 전망입니다.\n\n실적 악화가 길어지면서 배당 등 주주환원에 영향을 미칠 수 있다는 우려도 나옵니다.\n\n&lt;김준영 / iM증권 연구원&gt; \"거래대금이 실시간으로 하락하고 있고 예탁금이나 선행적인 지표들도 다 망가지고 있으니까 당장 실적은 계속 하향하지 않을까. 기업이 잘 벌어야 주주환원도 그만큼 되는 건데 매출 단에서 타격이 나버리면 똑같이 줄어들 수밖에 없는 운명이다라고 생각을 하고 있고요.\"\n\n이제는 증권사들이 실적 회복과 주주가치 제고라는 두 과제를 동시에 떠안게 됐습니다.\n\n연합뉴스TV 양현주입니다.\n\n[영상편집 최윤정]\n\n[그래픽 이승찬]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n양현주(yang@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n상반기 역대급 호황을 누렸던 대형 증권사들의 실적이 불과 석 달 만에 4분의 1 수준으로 쪼그라들었습니다.\n\n증시 부진에 금리 상승, 과징금 부담까지 겹친 가운데, 실적 악화가 배당 축소로 이어질 수 있다는 우려도 나옵니다.\n\n양현주 기자입니다.\n\n[기자]\n\n상반기까지만 해도 말 그대로 돈을 쓸어 담았던 증권사들.\n\n하지만 증시가 얼어붙자, 실적 잔치도 막을 내렸습니다.\n\n국내 5대 증권사의 3분기 합산 순이익은 8,512억원으로, 전 분기보다 81%가량 급감했습니다.\n\n가장 큰 타격을 입은 곳은 미래에셋증권입니다.\n\n2분기 1조 9,052억원의 순이익을 냈지만, 3분기에는 4,056억원 적자로 돌아섰습니다.\n\n스페이스X 주가 하락에 원·달러 환율 하락까지 겹치면서 해외 투자자산의 평가손실이 크게 불어난 겁니다.\n\n한국투자증권과 키움증권의 순이익도 각각 70%, 65%가량 줄었고, 삼성증권과 NH투자증권도 20%대 감소율을 기록했습니다.\n\n증시 거래대금이 한 분기 만에 36% 넘게 줄면서 수수료 수익이 감소했고, 금리 상승에 따른 운용 부담까지 겹친 결과입니다.\n\n국고채 담합 과징금까지 더해지면서 증권업계의 부담은 한층 커질 전망입니다.\n\n실적 악화가 길어지면서 배당 등 주주환원에 영향을 미칠 수 있다는 우려도 나옵니다.\n\n<김준영 / iM증권 연구원> \"거래대금이 실시간으로 하락하고 있고 예탁금이나 선행적인 지표들도 다 망가지고 있으니까 당장 실적은 계속 하향하지 않을까. 기업이 잘 벌어야 주주환원도 그만큼 되는 건데 매출 단에서 타격이 나버리면 똑같이 줄어들 수밖에 없는 운명이다라고 생각을 하고 있고요.\"\n\n이제는 증권사들이 실적 회복과 주주가치 제고라는 두 과제를 동시에 떠안게 됐습니다.\n\n연합뉴스TV 양현주입니다.\n\n[영상편집 최윤정]\n\n[그래픽 이승찬]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n양현주(yang@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261113/MYH20261114001706G0C.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261114/MYH20261114093444hdn.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "안채원",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261114001706G0C#comments",
-          "content": "[앵커] 한덕수 전 국무총리의 구속기간은 오는 20일 종료되는데요. 만료 전날 대법원 심리 기일이 잡혀 '석방이 불가피하다'는 보도가 이어지자 대법은 \"단정적 보도를 자제해달라\"고 공지했습니다. 이를 두고 대법이 석방 전에 선고를 내리겠다는 의지를 드러낸 게 아니냔 해석이 나옵니다. 안채원 기자의 보도입니다. [기자] 대법원 전원합의체는 한덕수 전 국무총리의 내란중요임무종사 혐의 사건 두 번째 심리 기일을 오는 19일로 지정했습니다. 구속...",
-          "contentSnippet": "[앵커] 한덕수 전 국무총리의 구속기간은 오는 20일 종료되는데요. 만료 전날 대법원 심리 기일이 잡혀 '석방이 불가피하다'는 보도가 이어지자 대법은 \"단정적 보도를 자제해달라\"고 공지했습니다. 이를 두고 대법이 석방 전에 선고를 내리겠다는 의지를 드러낸 게 아니냔 해석이 나옵니다. 안채원 기자의 보도입니다. [기자] 대법원 전원합의체는 한덕수 전 국무총리의 내란중요임무종사 혐의 사건 두 번째 심리 기일을 오는 19일로 지정했습니다. 구속...",
-          "guid": "MYH20261114001706G0C",
+          "dc:creator": "양현주",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261114093444hdn#comments",
+          "content": "[앵커] 상반기 역대급 호황을 누렸던 대형 증권사들의 실적이 불과 석 달 만에 4분의 1 수준으로 쪼그라들었습니다. 증시 부진에 금리 상승, 과징금 부담까지 겹친 가운데, 실적 악화가 배당 축소로 이어질 수 있다는 우려도 나옵니다. 양현주 기자입니다. [기자] 상반기까지만 해도 말 그대로 돈을 쓸어 담았던 증권사들. 하지만 증시가 얼어붙자, 실적 잔치도 막을 내렸습니다. 국내 5대 증권사의 3분기 합산 순이익은 8,512억원으로, 전 분기...",
+          "contentSnippet": "[앵커] 상반기 역대급 호황을 누렸던 대형 증권사들의 실적이 불과 석 달 만에 4분의 1 수준으로 쪼그라들었습니다. 증시 부진에 금리 상승, 과징금 부담까지 겹친 가운데, 실적 악화가 배당 축소로 이어질 수 있다는 우려도 나옵니다. 양현주 기자입니다. [기자] 상반기까지만 해도 말 그대로 돈을 쓸어 담았던 증권사들. 하지만 증시가 얼어붙자, 실적 잔치도 막을 내렸습니다. 국내 5대 증권사의 3분기 합산 순이익은 8,512억원으로, 전 분기...",
+          "guid": "MYH20261114093444hdn",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-13T15:17:08.000Z"
+          "isoDate": "2026-11-14T00:34:47.000Z"
         },
         {
-          "creator": "장효인",
-          "title": "조현 \"한반도 평화가 공동이익\"…왕이 \"관계개선 정상궤도\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261114000902Mi6",
-          "pubDate": "Sat, 14 Nov 2026 00:09:04 +0900",
-          "content:encoded": "다음주 중국 선전에서 열리는 APEC 정상회담 사전 준비를 위해 한중 외교 장관이 만났습니다.\n\n조현 외교부 장관은 어제(13일) 오후 중국 베이징에서 열린 한중외교장관회담 모두발언에서 \"한반도의 평화와 안정이 한중 공동 이익\"이라며 \"한반도 정세 진전을 위해 양국 간 전략적 소통을 계속 강화해 나가기를 기대한다\"고 말했습니다.\n\n왕이 중국 외교부장도 \"지난해 말과 올해 초 시진핑 국가주석과 이재명 대통령의 성공적인 상호 방문으로 양국 관계가 개선과 발전의 정상 궤도로 돌아왔다\"며 고위급 교류를 이어가겠다고 밝혔습니다.\n\n#조현 #왕이 #한중관계\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n장효인(hijang@yna.co.kr)",
-          "content:encodedSnippet": "다음주 중국 선전에서 열리는 APEC 정상회담 사전 준비를 위해 한중 외교 장관이 만났습니다.\n\n조현 외교부 장관은 어제(13일) 오후 중국 베이징에서 열린 한중외교장관회담 모두발언에서 \"한반도의 평화와 안정이 한중 공동 이익\"이라며 \"한반도 정세 진전을 위해 양국 간 전략적 소통을 계속 강화해 나가기를 기대한다\"고 말했습니다.\n\n왕이 중국 외교부장도 \"지난해 말과 올해 초 시진핑 국가주석과 이재명 대통령의 성공적인 상호 방문으로 양국 관계가 개선과 발전의 정상 궤도로 돌아왔다\"며 고위급 교류를 이어가겠다고 밝혔습니다.\n\n#조현 #왕이 #한중관계\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n장효인(hijang@yna.co.kr)",
+          "creator": "김태욱",
+          "title": "연극 무대 오른 최수종·하희라 부부…\"새롭네요\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261114093354W4i",
+          "pubDate": "Sat, 14 Nov 2026 09:33:55 +0900",
+          "content:encoded": "[앵커]\n\n연예계 대표 '잉꼬부부' 최수종·하희라 씨가 처음으로 함께 연극 무대에 올라 화제를 모으고 있습니다.\n\n50여 년간 이어진 두 남녀의 이야기를 다룬 이번 연극에서 진짜 부부만이 보여줄 수 있는 완벽한 호흡을 전달할 예정입니다.\n\n김태욱 기자입니다.\n\n[기자]\n\n&lt;연극 '러브레터' 中&gt; \"앤디, 항상 그렇게 부모님이 원하는 대로만 하면 안 돼. 넌 심지어 댄싱 스쿨에서도 항상 바른 행동만 하려고 하잖아.\"\n\n연예계 대표 '잉꼬부부' 최수종·하희라 씨가 처음 남편과 아내가 아닌 상대 배우로 연극 무대 위에서 만났습니다.\n\n장난기 많은 유년 시절부터, 서로의 결혼 소식을 접한 청년기.\n\n그리고 각자 다른 삶의 궤적을 그린 중장년기까지.\n\n편지를 주고 받으며 친구이자 연인, 동반자로 살아온 앤디와 멜리사의 사랑과 그리움 등 50년간의 이야기를 원숙한 연기로 무대 위에 풀어냅니다.\n\n최수종은 올해로 부부가 된 지 34년째를 맞았지만, 이번 연극을 통해 아내가 아닌 상대 배우로서 새로운 점을 발견했다고 말했습니다.\n\n&lt;최수종 / '러브레터' 앤디 역&gt; \"배우로서도 무대에서 실수를 본인 스스로가 용납하지 않고 그냥 열심히 하는 그런 또 배우로서의 입장에서 보면 또 저 또한 배울 것도 많은 것 같고…\"\n\n2022년 초연 이후 세 번째 멜리사 역을 맡은 하희라는 남편 덕분에 이전보다 더 좋은 연기를 펼칠 수 있었다며 고마움을 전했습니다.\n\n&lt;하희라 / '러브레터' 멜리사' 역&gt; \"같이 언제든 대사를 맞출 수 있고, 제가 약간 긴장할 때 저를 이제 되게 편안하게 해주는 게 제가 이번에 되게 도움을 많이 받았어요.”\n\n미국 극작계의 거장 A.R. 거니가 '편지 낭독'이라는 독특한 형태로 극을 구성한 대표작 '러브레터'는 다음 달 27일까지 만날 수 있습니다.\n\n연합뉴스TV 김태욱입니다.\n\n[화면제공 수컴퍼니]\n\n[영상취재 이호진]\n\n[영상편집 이승훈]\n\n[그래픽 문수진]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김태욱(tw@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n연예계 대표 '잉꼬부부' 최수종·하희라 씨가 처음으로 함께 연극 무대에 올라 화제를 모으고 있습니다.\n\n50여 년간 이어진 두 남녀의 이야기를 다룬 이번 연극에서 진짜 부부만이 보여줄 수 있는 완벽한 호흡을 전달할 예정입니다.\n\n김태욱 기자입니다.\n\n[기자]\n\n<연극 '러브레터' 中> \"앤디, 항상 그렇게 부모님이 원하는 대로만 하면 안 돼. 넌 심지어 댄싱 스쿨에서도 항상 바른 행동만 하려고 하잖아.\"\n\n연예계 대표 '잉꼬부부' 최수종·하희라 씨가 처음 남편과 아내가 아닌 상대 배우로 연극 무대 위에서 만났습니다.\n\n장난기 많은 유년 시절부터, 서로의 결혼 소식을 접한 청년기.\n\n그리고 각자 다른 삶의 궤적을 그린 중장년기까지.\n\n편지를 주고 받으며 친구이자 연인, 동반자로 살아온 앤디와 멜리사의 사랑과 그리움 등 50년간의 이야기를 원숙한 연기로 무대 위에 풀어냅니다.\n\n최수종은 올해로 부부가 된 지 34년째를 맞았지만, 이번 연극을 통해 아내가 아닌 상대 배우로서 새로운 점을 발견했다고 말했습니다.\n\n<최수종 / '러브레터' 앤디 역> \"배우로서도 무대에서 실수를 본인 스스로가 용납하지 않고 그냥 열심히 하는 그런 또 배우로서의 입장에서 보면 또 저 또한 배울 것도 많은 것 같고…\"\n\n2022년 초연 이후 세 번째 멜리사 역을 맡은 하희라는 남편 덕분에 이전보다 더 좋은 연기를 펼칠 수 있었다며 고마움을 전했습니다.\n\n<하희라 / '러브레터' 멜리사' 역> \"같이 언제든 대사를 맞출 수 있고, 제가 약간 긴장할 때 저를 이제 되게 편안하게 해주는 게 제가 이번에 되게 도움을 많이 받았어요.”\n\n미국 극작계의 거장 A.R. 거니가 '편지 낭독'이라는 독특한 형태로 극을 구성한 대표작 '러브레터'는 다음 달 27일까지 만날 수 있습니다.\n\n연합뉴스TV 김태욱입니다.\n\n[화면제공 수컴퍼니]\n\n[영상취재 이호진]\n\n[영상편집 이승훈]\n\n[그래픽 문수진]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김태욱(tw@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261113/MYH20261114000902Mi6.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261114/MYH20261114093354W4i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "장효인",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261114000902Mi6#comments",
-          "content": "다음주 중국 선전에서 열리는 APEC 정상회담 사전 준비를 위해 한중 외교 장관이 만났습니다. 조현 외교부 장관은 어제(13일) 오후 중국 베이징에서 열린 한중외교장관회담 모두발언에서 \"한반도의 평화와 안정이 한중 공동 이익\"이라며 \"한반도 정세 진전을 위해 양국 간 전략적 소통을 계속 강화해 나가기를 기대한다\"고 말했습니다. 왕이 중국 외교부장도 \"지난해 말과 올해 초 시진핑 국가주석과 이재명 대통령의 성공적인 상호 방문으로 양국 관계가...",
-          "contentSnippet": "다음주 중국 선전에서 열리는 APEC 정상회담 사전 준비를 위해 한중 외교 장관이 만났습니다. 조현 외교부 장관은 어제(13일) 오후 중국 베이징에서 열린 한중외교장관회담 모두발언에서 \"한반도의 평화와 안정이 한중 공동 이익\"이라며 \"한반도 정세 진전을 위해 양국 간 전략적 소통을 계속 강화해 나가기를 기대한다\"고 말했습니다. 왕이 중국 외교부장도 \"지난해 말과 올해 초 시진핑 국가주석과 이재명 대통령의 성공적인 상호 방문으로 양국 관계가...",
-          "guid": "MYH20261114000902Mi6",
+          "dc:creator": "김태욱",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261114093354W4i#comments",
+          "content": "[앵커] 연예계 대표 '잉꼬부부' 최수종·하희라 씨가 처음으로 함께 연극 무대에 올라 화제를 모으고 있습니다. 50여 년간 이어진 두 남녀의 이야기를 다룬 이번 연극에서 진짜 부부만이 보여줄 수 있는 완벽한 호흡을 전달할 예정입니다. 김태욱 기자입니다. [기자] &lt;연극 '러브레터' 中&gt; \"앤디, 항상 그렇게 부모님이 원하는 대로만 하면 안 돼. 넌 심지어 댄싱 스쿨에서도 항상 바른 행동만 하려고 하잖아.\" 연예계 대표 '잉꼬부부...",
+          "contentSnippet": "[앵커] 연예계 대표 '잉꼬부부' 최수종·하희라 씨가 처음으로 함께 연극 무대에 올라 화제를 모으고 있습니다. 50여 년간 이어진 두 남녀의 이야기를 다룬 이번 연극에서 진짜 부부만이 보여줄 수 있는 완벽한 호흡을 전달할 예정입니다. 김태욱 기자입니다. [기자] <연극 '러브레터' 中> \"앤디, 항상 그렇게 부모님이 원하는 대로만 하면 안 돼. 넌 심지어 댄싱 스쿨에서도 항상 바른 행동만 하려고 하잖아.\" 연예계 대표 '잉꼬부부...",
+          "guid": "MYH20261114093354W4i",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-13T15:09:04.000Z"
+          "isoDate": "2026-11-14T00:33:55.000Z"
+        },
+        {
+          "creator": "박수주",
+          "title": "코이카 신임 이사장에 오현주 전 안보실 3차장",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261114093243cqT",
+          "pubDate": "Sat, 14 Nov 2026 09:32:46 +0900",
+          "content:encoded": "외교부는 산하기관인 한국국제협력단, 코이카 신임 이사장에 오현주 전 국가안보실 제3차장을 임명한다고 밝혔습니다.\n\n외교관 출신의 오 신임 이사장은 외교부 개발협력국장, 주유엔차석대사 등을 역임했고 지난해 6월부터 1년간 안보실 3차장을 지냈습니다.\n\n코이카 이사장 임기는 3년으로, 임기 만료 후에는 1년 단위로 연임할 수 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박수주(sooju@yna.co.kr)",
+          "content:encodedSnippet": "외교부는 산하기관인 한국국제협력단, 코이카 신임 이사장에 오현주 전 국가안보실 제3차장을 임명한다고 밝혔습니다.\n\n외교관 출신의 오 신임 이사장은 외교부 개발협력국장, 주유엔차석대사 등을 역임했고 지난해 6월부터 1년간 안보실 3차장을 지냈습니다.\n\n코이카 이사장 임기는 3년으로, 임기 만료 후에는 1년 단위로 연임할 수 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박수주(sooju@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261114/MYH20261114093243cqT.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "박수주",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261114093243cqT#comments",
+          "content": "외교부는 산하기관인 한국국제협력단, 코이카 신임 이사장에 오현주 전 국가안보실 제3차장을 임명한다고 밝혔습니다. 외교관 출신의 오 신임 이사장은 외교부 개발협력국장, 주유엔차석대사 등을 역임했고 지난해 6월부터 1년간 안보실 3차장을 지냈습니다. 코이카 이사장 임기는 3년으로, 임기 만료 후에는 1년 단위로 연임할 수 있습니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 박수주(sooju@yna.co.kr)",
+          "contentSnippet": "외교부는 산하기관인 한국국제협력단, 코이카 신임 이사장에 오현주 전 국가안보실 제3차장을 임명한다고 밝혔습니다. 외교관 출신의 오 신임 이사장은 외교부 개발협력국장, 주유엔차석대사 등을 역임했고 지난해 6월부터 1년간 안보실 3차장을 지냈습니다. 코이카 이사장 임기는 3년으로, 임기 만료 후에는 1년 단위로 연임할 수 있습니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 박수주(sooju@yna.co.kr)",
+          "guid": "MYH20261114093243cqT",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-14T00:32:46.000Z"
         }
       ]
     }
