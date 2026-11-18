@@ -7,12 +7,142 @@
       "priority": 1,
       "data": [
         {
+          "title": "Redict 공식 지원 종료",
+          "link": "https://news.hada.io/topic?id=37430&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-18T22:01:00.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>Redict가 공식적으로 지원 종료</strong>되며, <strong>7.3.6이 마지막 릴리스</strong>임</li><li>Redis에서 이탈한 커뮤니티를 <strong>카피레프트 프로젝트</strong>로 모으려 했지만, valkey의 성공과 Redis의 카피레프트 라이선스 복귀 속에서 지속 가능한 커뮤니티를 구축하지 못함</li><li>기존 사용자에게는 <strong>valkey로 전환</strong>할 것을 권장하며, 허용적 라이선스를 사용하지만 장기 전망이 더 낫다고 봄</li><li><strong>Redis로의 복귀는 권장하지 않음</strong>. 다시 오픈 소스이자 카피레프트가 됐지만, 기여자 라이선스 계약이 향후 또다시 일방적인 라이선스 변경을 쉽게 만들 수 있다는 우려 때문임</li><li><strong>valkey 전환 절차</strong></li></ul></div>…",
+          "contentSnippet": "Redict가 공식적으로 지원 종료되며, 7.3.6이 마지막 릴리스임\nRedis에서 이탈한 커뮤니티를 카피레프트 프로젝트로 모으려 했지만, valkey의 성공과 Redis의 카피레프트 라이선스 복귀 속에서 지속 가능한 커뮤니티를 구축하지 못함\n기존 사용자에게는 valkey로 전환할 것을 권장하며, 허용적 라이선스를 사용하지만 장기 전망이 더 낫다고 봄\nRedis로의 복귀는 권장하지 않음. 다시 오픈 소스이자 카피레프트가 됐지만, 기여자 라이선스 계약이 향후 또다시 일방적인 라이선스 변경을 쉽게 만들 수 있다는 우려 때문임\nvalkey 전환 절차\n\n…",
+          "id": "https://news.hada.io/topic?id=37430",
+          "isoDate": "2026-11-18T22:01:00.000Z"
+        },
+        {
+          "title": "AI 에이전트, 감사 실험에서 KPMG 회계사보다 더 나은 질문 던져",
+          "link": "https://news.hada.io/topic?id=37429&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-18T21:32:41.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>KPMG UK가 <strong>100개 이상의 AI 에이전트</strong>로 영국 상장사의 재무제표를 검토한 실험에서, 에이전트들이 일부 사안을 기존 감사팀보다 깊이 조사하고 사람이 묻지 않았던 질문을 던짐</li><li><strong>Project Exponential</strong>은 단순 행정 보조를 넘어 감사 전반에 에이전트를 투입했으며, 정보 수집부터 분석, 문서화, 결론 초안 작성과 후속 조치 제안까지 수행함</li><li>이번 실험은 <strong>정식 법정감사가 아니며</strong>, 결과도 회사 재무제표의 공식 승인 근거로 사용되지 않음</li><li>KPMG는 최대 <strong>20건의 더 큰 규모 감사</strong>로 실험을 확대할 계획이지만, 수천 건의 감사에 적용할 만큼 기</li></ul></div>…",
+          "contentSnippet": "KPMG UK가 100개 이상의 AI 에이전트로 영국 상장사의 재무제표를 검토한 실험에서, 에이전트들이 일부 사안을 기존 감사팀보다 깊이 조사하고 사람이 묻지 않았던 질문을 던짐\nProject Exponential은 단순 행정 보조를 넘어 감사 전반에 에이전트를 투입했으며, 정보 수집부터 분석, 문서화, 결론 초안 작성과 후속 조치 제안까지 수행함\n이번 실험은 정식 법정감사가 아니며, 결과도 회사 재무제표의 공식 승인 근거로 사용되지 않음\nKPMG는 최대 20건의 더 큰 규모 감사로 실험을 확대할 계획이지만, 수천 건의 감사에 적용할 만큼 기\n\n…",
+          "id": "https://news.hada.io/topic?id=37429",
+          "isoDate": "2026-11-18T21:32:41.000Z"
+        },
+        {
+          "title": "스코틀랜드식 HTTP 상태 코드",
+          "link": "https://news.hada.io/topic?id=37426&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-18T20:36:31.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>HTTP 상태 코드</strong>를 스코틀랜드식 말투와 욕설 섞인 짧은 문구로 바꾼 목록임</li><li><strong>200</strong>은 “NAE BOTHER”, 즉 “문제없어”, <strong>201</strong>은 “THAT'S IT MADE”, 즉 “다 만들었어”에 해당함</li><li><strong>이동을 가리키는 문구</strong>는 “저쪽으로 가”부터 “당분간 저쪽으로 꺼져”, “영원히 저쪽으로 꺼져”까지 구분함</li><li><strong>400번대</strong>에는 “넌 대체 누구야”, “돈 내놔”, “씨발 여기 없다고, 친구” 같은 응답이 들어 있음</li><li><strong>500번대</strong>는 “내가 조졌어”, “저쪽 놈이 고장 났어”, “그 새끼가 대답을 안 해”처럼 문제 상황을 거친 말투로 전달함</li></ul><hr><h2>100번대와 200번대</h2><ul><li><strong>100</strong> </li></ul></div>…",
+          "contentSnippet": "HTTP 상태 코드를 스코틀랜드식 말투와 욕설 섞인 짧은 문구로 바꾼 목록임\n200은 “NAE BOTHER”, 즉 “문제없어”, 201은 “THAT'S IT MADE”, 즉 “다 만들었어”에 해당함\n이동을 가리키는 문구는 “저쪽으로 가”부터 “당분간 저쪽으로 꺼져”, “영원히 저쪽으로 꺼져”까지 구분함\n400번대에는 “넌 대체 누구야”, “돈 내놔”, “씨발 여기 없다고, 친구” 같은 응답이 들어 있음\n500번대는 “내가 조졌어”, “저쪽 놈이 고장 났어”, “그 새끼가 대답을 안 해”처럼 문제 상황을 거친 말투로 전달함\n\n100번대와 200번대\n\n100 \n\n…",
+          "id": "https://news.hada.io/topic?id=37426",
+          "isoDate": "2026-11-18T20:36:31.000Z"
+        },
+        {
+          "title": "캠브리지 사전, ‘human’을 2026년 올해의 단어로 선정",
+          "link": "https://news.hada.io/topic?id=37425&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-18T20:33:31.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>Cambridge Dictionary가 <strong>‘human’을 2026년 올해의 단어로 선정</strong>함. AI가 사람과 기계의 경계를 흐리면서 <strong>인간다운 것은 무엇이며, 무엇을 인간에게 남겨야 하는지</strong>가 중요한 질문으로 떠오름</li><li><strong>Bill Gates</strong>는 돌봄 종사자처럼 기계가 대체해서는 안 되는 ‘인간에게 남겨둘 일자리’를 옹호하며, AI의 성공은 <strong>인간의 삶을 얼마나 개선하는지</strong>로 평가해야 한다고 봄</li><li>배우, 음악가, 작가들은 <strong>인간의 창의성 보호</strong>를 요구하며 AI 복제물과 대규모 언어 모델의 인간 창작물 도용에 반대하고, 인간이 쓴 책을 인증하는 움직임에 참여함</li><li><strong>Matthew McC</strong></li></ul></div>…",
+          "contentSnippet": "Cambridge Dictionary가 ‘human’을 2026년 올해의 단어로 선정함. AI가 사람과 기계의 경계를 흐리면서 인간다운 것은 무엇이며, 무엇을 인간에게 남겨야 하는지가 중요한 질문으로 떠오름\nBill Gates는 돌봄 종사자처럼 기계가 대체해서는 안 되는 ‘인간에게 남겨둘 일자리’를 옹호하며, AI의 성공은 인간의 삶을 얼마나 개선하는지로 평가해야 한다고 봄\n배우, 음악가, 작가들은 인간의 창의성 보호를 요구하며 AI 복제물과 대규모 언어 모델의 인간 창작물 도용에 반대하고, 인간이 쓴 책을 인증하는 움직임에 참여함\nMatthew McC\n\n…",
+          "id": "https://news.hada.io/topic?id=37425",
+          "isoDate": "2026-11-18T20:33:31.000Z"
+        },
+        {
+          "title": "에너지 음료, 심정지 보고 빈도 11배와 연관",
+          "link": "https://news.hada.io/topic?id=37421&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-18T19:32:41.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>FDA 이상사례 보고를 분석한 예비 연구에서 <strong>에너지 음료와 자극제 함유 보충제</strong> 관련 보고는 해당 성분이 없는 제품 관련 보고보다 심정지를 포함하는 빈도가 약 <strong>11배</strong> 높았음</li><li>심근경색 보고 빈도도 약 <strong>4.5배</strong>, 심실성 부정맥이나 두근거림은 약 4배 높았지만, 이는 소비자의 <strong>실제 발병 위험 배수</strong>를 뜻하지 않음</li><li>카페인과 자극제 제품 관련 심혈관 이상사례 보고의 약 <strong>45%가 18~34세</strong>에 해당했으며, 이 연령대에서 보고가 많은 이유는 아직 확인되지 않았음</li><li>일부 에너지 음료는 같은 부피의 커피보다 카페인 농도가 최대 <strong>3배</strong>, 일부 운동 전 보</li></ul></div>…",
+          "contentSnippet": "FDA 이상사례 보고를 분석한 예비 연구에서 에너지 음료와 자극제 함유 보충제 관련 보고는 해당 성분이 없는 제품 관련 보고보다 심정지를 포함하는 빈도가 약 11배 높았음\n심근경색 보고 빈도도 약 4.5배, 심실성 부정맥이나 두근거림은 약 4배 높았지만, 이는 소비자의 실제 발병 위험 배수를 뜻하지 않음\n카페인과 자극제 제품 관련 심혈관 이상사례 보고의 약 45%가 18~34세에 해당했으며, 이 연령대에서 보고가 많은 이유는 아직 확인되지 않았음\n일부 에너지 음료는 같은 부피의 커피보다 카페인 농도가 최대 3배, 일부 운동 전 보\n\n…",
+          "id": "https://news.hada.io/topic?id=37421",
+          "isoDate": "2026-11-18T19:32:41.000Z"
+        },
+        {
+          "title": "폴란드, 칼리닌그라드 접경에서 위장 공작을 저지했다고 밝혀",
+          "link": "https://news.hada.io/topic?id=37420&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-18T18:38:21.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>러시아 정보기관이 폴란드에서 <strong>대규모 인명 피해</strong>를 일으킨 뒤 우크라이나에 책임을 돌리는 파괴 공작을 계획했으며, 폴란드가 이를 저지하기 위한 작전을 벌였다고 현지 신문이 보도함</li><li>계획된 공격 시점은 <strong>10월 말~11월 초</strong>, 장소는 칼리닌그라드 접경의 폴란드 영토였으며, 익명 소식통에 따르면 목적은 <strong>우크라이나 지원 중단</strong>이었음</li><li>폴란드는 <strong>협력국 정보기관의 경고</strong>를 받았고 자체 정보 분석에서도 위협 징후를 포착했으며, 소식통에 따르면 구체적인 공격 대상 장소도 파악하고 있었음</li><li>접경 지역에 <strong>경찰과 국경수비대 등을 증강</strong>하고 특</li></ul></div>…",
+          "contentSnippet": "러시아 정보기관이 폴란드에서 대규모 인명 피해를 일으킨 뒤 우크라이나에 책임을 돌리는 파괴 공작을 계획했으며, 폴란드가 이를 저지하기 위한 작전을 벌였다고 현지 신문이 보도함\n계획된 공격 시점은 10월 말~11월 초, 장소는 칼리닌그라드 접경의 폴란드 영토였으며, 익명 소식통에 따르면 목적은 우크라이나 지원 중단이었음\n폴란드는 협력국 정보기관의 경고를 받았고 자체 정보 분석에서도 위협 징후를 포착했으며, 소식통에 따르면 구체적인 공격 대상 장소도 파악하고 있었음\n접경 지역에 경찰과 국경수비대 등을 증강하고 특\n\n…",
+          "id": "https://news.hada.io/topic?id=37420",
+          "isoDate": "2026-11-18T18:38:21.000Z"
+        },
+        {
+          "title": "Microsoft AI, 가격 대비 성능을 앞세운 새 모델 7종 공개",
+          "link": "https://news.hada.io/topic?id=37419&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-18T18:35:21.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>Microsoft AI가 보안, 코딩, 이미지, 음성, 의사결정 분야의 <strong>새 모델 7종</strong>을 출시함. 실제 엔지니어링 작업을 수행하는 에이전트를 24시간 운영할 수 있는 가격대를 목표로 함</li><li><strong>MAI Code 2</strong>는 Microsoft의 일상적인 기업 코딩 벤치마크 평균에서 GPT-6.1 Sol 성능의 98%를 약 40% 가격에 제공함</li><li><strong>MAI Cyber 2 Flash</strong>는 CyberGym-E2E에서 GPT-6 Astra보다 높은 품질을 작업당 비용 2% 미만으로 제공하며, 상시 보안 모니터링과 방어를 겨냥함</li><li><strong>MAI Image 2.7</strong>은 Artificial Analysis 이미지 편집 평가에서 1위를 기록했으며, 첫 실시간 음성 대 음</li></ul></div>…",
+          "contentSnippet": "Microsoft AI가 보안, 코딩, 이미지, 음성, 의사결정 분야의 새 모델 7종을 출시함. 실제 엔지니어링 작업을 수행하는 에이전트를 24시간 운영할 수 있는 가격대를 목표로 함\nMAI Code 2는 Microsoft의 일상적인 기업 코딩 벤치마크 평균에서 GPT-6.1 Sol 성능의 98%를 약 40% 가격에 제공함\nMAI Cyber 2 Flash는 CyberGym-E2E에서 GPT-6 Astra보다 높은 품질을 작업당 비용 2% 미만으로 제공하며, 상시 보안 모니터링과 방어를 겨냥함\nMAI Image 2.7은 Artificial Analysis 이미지 편집 평가에서 1위를 기록했으며, 첫 실시간 음성 대 음\n\n…",
+          "id": "https://news.hada.io/topic?id=37419",
+          "isoDate": "2026-11-18T18:35:21.000Z"
+        },
+        {
+          "title": "Inside Deutsche Bank - 1,500만 건 이상 유출 파일로 들여다본 도이체방크 내부",
+          "link": "https://news.hada.io/topic?id=37418&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-18T17:39:38.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>1,500만 건 이상 유출 파일</strong>에 기반한 국제 공동 탐사로, 도이체방크의 조직 문화 결함과 구조적 사각지대, 규정 준수보다 이익을 앞세운 행태를 추적함</li><li>자료 범위는 <strong>금융범죄 방지, 제재 감시, 내부 감사</strong>와 고위험 고객의 거래 관계 유지 또는 종료를 결정하는 부서까지 걸쳐 있음</li><li><strong>Jho Low</strong> 관련 최소 24건, 총 1억 7,298만 유로의 거래를 처리한 사례와 러시아 자금의 유럽 유입, 자금세탁 관련 거래를 다룸</li><li><strong>무기 공급 금융</strong> 관련 문서는 팔레스타인 민간인을 상대로 사용되는 무기 공급에 도이체방크가 관여한 역할과 내부 정책에 어긋나</li></ul></div>…",
+          "contentSnippet": "1,500만 건 이상 유출 파일에 기반한 국제 공동 탐사로, 도이체방크의 조직 문화 결함과 구조적 사각지대, 규정 준수보다 이익을 앞세운 행태를 추적함\n자료 범위는 금융범죄 방지, 제재 감시, 내부 감사와 고위험 고객의 거래 관계 유지 또는 종료를 결정하는 부서까지 걸쳐 있음\nJho Low 관련 최소 24건, 총 1억 7,298만 유로의 거래를 처리한 사례와 러시아 자금의 유럽 유입, 자금세탁 관련 거래를 다룸\n무기 공급 금융 관련 문서는 팔레스타인 민간인을 상대로 사용되는 무기 공급에 도이체방크가 관여한 역할과 내부 정책에 어긋나\n\n…",
+          "id": "https://news.hada.io/topic?id=37418",
+          "isoDate": "2026-11-18T17:39:38.000Z"
+        },
+        {
+          "title": "NGINX HTTP/2 처리에서 인증 없이 원격 코드 실행 가능한 취약점 발견",
+          "link": "https://news.hada.io/topic?id=37417&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-18T17:36:38.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>HTTP/2를 활성화한 NGINX에서 인증 없이 원격 코드 실행으로 이어질 수 있는 취약점 2건</strong>이 발견됨. CVE-2026-123633과 CVE-2026-123007이며, <strong>CVSS 4.0 기준 9.2점의 Critical 취약점</strong></li><li><strong>CVE-2026-123633</strong>은 리버스 프록시 처리 중 연결 슬롯이 부족할 때 발생하는 해제 후 사용(use-after-free) 문제임. 요청 처리에 필요한 연결 메모리를 먼저 해제하면서 원격 코드 실행으로 이어질 수 있음</li><li><strong>CVE-2026-123007</strong>은 HTTP/2 흐름 제어 계산 오류가 정수 언더플로와 범위 밖 메모리 복사로 이어지는 문제임. 백엔드나 서드파티 모듈 없이 <strong>일반 정적 파일을 제공하는 서버에서도 코드 실행을 확인</strong>함</li></ul></div>…",
+          "contentSnippet": "HTTP/2를 활성화한 NGINX에서 인증 없이 원격 코드 실행으로 이어질 수 있는 취약점 2건이 발견됨. CVE-2026-123633과 CVE-2026-123007이며, CVSS 4.0 기준 9.2점의 Critical 취약점\nCVE-2026-123633은 리버스 프록시 처리 중 연결 슬롯이 부족할 때 발생하는 해제 후 사용(use-after-free) 문제임. 요청 처리에 필요한 연결 메모리를 먼저 해제하면서 원격 코드 실행으로 이어질 수 있음\nCVE-2026-123007은 HTTP/2 흐름 제어 계산 오류가 정수 언더플로와 범위 밖 메모리 복사로 이어지는 문제임. 백엔드나 서드파티 모듈 없이 일반 정적 파일을 제공하는 서버에서도 코드 실행을 확인함\n\n…",
+          "id": "https://news.hada.io/topic?id=37417",
+          "isoDate": "2026-11-18T17:36:38.000Z"
+        },
+        {
+          "title": "WWDC 2007에서 Steve Jobs가 선보인 Core Animation 데모",
+          "link": "https://news.hada.io/topic?id=37416&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-18T17:01:19.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>WWDC 2007의 Core Animation 데모</strong>는 2007년 하드웨어에서 여러 영상의 동시 재생, 즉각적인 확대와 태그 검색을 매끄럽게 보여줌</li><li>피드에서 이 데모를 접한 뒤 <strong>Sequoia</strong>를 30초 동안 조작해 봤을 때는 패널이 느리게 로딩돼 대조를 이룸</li><li>개인적인 체감으로는 <strong>Tahoe가 더 나쁘며</strong>, 계속 사용 중인 Sequoia도 그보다 겨우 조금 나은 수준임</li><li>다만 이러한 Apple 소프트웨어 평가가 <strong>틀렸기를 바람</strong></li><li>독자들에게 지금도 <strong>2007년 같은 느낌</strong>을 주는 Apple 소프트웨어가 무엇인지 질문함</li></ul></div>",
+          "contentSnippet": "WWDC 2007의 Core Animation 데모는 2007년 하드웨어에서 여러 영상의 동시 재생, 즉각적인 확대와 태그 검색을 매끄럽게 보여줌\n피드에서 이 데모를 접한 뒤 Sequoia를 30초 동안 조작해 봤을 때는 패널이 느리게 로딩돼 대조를 이룸\n개인적인 체감으로는 Tahoe가 더 나쁘며, 계속 사용 중인 Sequoia도 그보다 겨우 조금 나은 수준임\n다만 이러한 Apple 소프트웨어 평가가 틀렸기를 바람\n독자들에게 지금도 2007년 같은 느낌을 주는 Apple 소프트웨어가 무엇인지 질문함",
+          "id": "https://news.hada.io/topic?id=37416",
+          "isoDate": "2026-11-18T17:01:19.000Z"
+        },
+        {
+          "title": "모든 작업에 LLM이 필요한 것은 아니다",
+          "link": "https://news.hada.io/topic?id=37415&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-18T16:33:33.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>PostHog는 <strong>예/아니오나 정해진 선택지와 그 확률을 반환하는 의사결정 모델</strong>을 활용함. 개인정보 탐지, 요청에 맞는 모델 선택, 검색 결과 재정렬처럼 <strong>짧은 판단을 반복하는 작업</strong>에 적용</li><li>고비용 LLM 호출 전에 간단한 판단을 맡기면 불필요한 호출을 줄일 수 있으며, 개인정보 검사에서는 요약의 <strong>98.7%가 LLM 호출을 건너뜀</strong></li><li><strong>SQL 조회 결과에 맞는 차트 추천</strong>에도 활용함. 다만 모델이나 버전이 바뀌면 같은 확률 점수의 의미도 달라질 수 있어, <strong>실제 정답을 붙인 데이터로 임계값을 다시 보정</strong>해야 함</li><li>의사결정 모델은 눈앞의 입력을 한 번에</li></ul></div>…",
+          "contentSnippet": "PostHog는 예/아니오나 정해진 선택지와 그 확률을 반환하는 의사결정 모델을 활용함. 개인정보 탐지, 요청에 맞는 모델 선택, 검색 결과 재정렬처럼 짧은 판단을 반복하는 작업에 적용\n고비용 LLM 호출 전에 간단한 판단을 맡기면 불필요한 호출을 줄일 수 있으며, 개인정보 검사에서는 요약의 98.7%가 LLM 호출을 건너뜀\nSQL 조회 결과에 맞는 차트 추천에도 활용함. 다만 모델이나 버전이 바뀌면 같은 확률 점수의 의미도 달라질 수 있어, 실제 정답을 붙인 데이터로 임계값을 다시 보정해야 함\n의사결정 모델은 눈앞의 입력을 한 번에\n\n…",
+          "id": "https://news.hada.io/topic?id=37415",
+          "isoDate": "2026-11-18T16:33:33.000Z"
+        },
+        {
+          "title": "Energy-Based Reasoners: 추론 효율 385배 향상",
+          "link": "https://news.hada.io/topic?id=37414&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-18T15:40:52.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>Energy-Based Reasoners(EBR)</strong> 는 잠재 추론 상태의 에너지 함수를 학습하고, 그 에너지를 낮추는 경사 하강으로 반복 추론을 수행하는 모델임</li><li><strong>에너지 값</strong>으로 외부 검증기 없이 후보 답을 평가하고, 기울기로 상태 개선 방향과 반복 중단 시점을 결정함</li><li><strong>180만 파라미터</strong>로 Sudoku-Extreme 정확도 99.9%를 달성함. 다만 HN 제목의 385배와 달리, 본문의 추론 연산량 절감 수치는 차순위 모델 대비 <strong>345배</strong>임</li><li><strong>적응형 중단</strong>은 에너지 기울기가 임계값 아래로 내려가면 추론을 종료하며, 고정 깊이 EBR 대비 FLOPs를 10.9배 줄이면서 정확도 99.9%</li></ul></div>…",
+          "contentSnippet": "Energy-Based Reasoners(EBR) 는 잠재 추론 상태의 에너지 함수를 학습하고, 그 에너지를 낮추는 경사 하강으로 반복 추론을 수행하는 모델임\n에너지 값으로 외부 검증기 없이 후보 답을 평가하고, 기울기로 상태 개선 방향과 반복 중단 시점을 결정함\n180만 파라미터로 Sudoku-Extreme 정확도 99.9%를 달성함. 다만 HN 제목의 385배와 달리, 본문의 추론 연산량 절감 수치는 차순위 모델 대비 345배임\n적응형 중단은 에너지 기울기가 임계값 아래로 내려가면 추론을 종료하며, 고정 깊이 EBR 대비 FLOPs를 10.9배 줄이면서 정확도 99.9%\n\n…",
+          "id": "https://news.hada.io/topic?id=37414",
+          "isoDate": "2026-11-18T15:40:52.000Z"
+        },
+        {
+          "title": "Quad9, 프랑스에서 철수: DNS 리졸버가 불법 복제 대응에 적절하지 않은 이유",
+          "link": "https://news.hada.io/topic?id=37413&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-18T15:37:51.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>무료 보안 DNS <strong>Quad9가 2026년 11월 24일부터 프랑스의 DNS 질의에 응답하지 않을 예정</strong>임. 스포츠 불법 스트리밍 도메인 차단을 거부해 제재금을 부과받았으며, 약 20건의 추가 소송에 따른 누적 비용을 감당하기 어려운 상황임</li><li>프랑스의 <strong>동적 차단 명령</strong>은 ISP를 넘어 공개 DNS, VPN, CDN, 검색엔진으로 확대됨. 2026년 법 개정으로 Arcom이 운영하는 자동 실시간 차단 체계까지 추가됨</li><li>Quad9에는 <strong>전 세계 차단, 프랑스만 차단, 소송 지속</strong> 모두 큰 제약이 있음. 각각 해외 사용자에게 프랑스 법을 적용하는 문제, 사용자 위치를 법적으로 확정하기 어려운 문제, 비영리 조직의 자원 소진을 초래함</li></ul></div>…",
+          "contentSnippet": "무료 보안 DNS Quad9가 2026년 11월 24일부터 프랑스의 DNS 질의에 응답하지 않을 예정임. 스포츠 불법 스트리밍 도메인 차단을 거부해 제재금을 부과받았으며, 약 20건의 추가 소송에 따른 누적 비용을 감당하기 어려운 상황임\n프랑스의 동적 차단 명령은 ISP를 넘어 공개 DNS, VPN, CDN, 검색엔진으로 확대됨. 2026년 법 개정으로 Arcom이 운영하는 자동 실시간 차단 체계까지 추가됨\nQuad9에는 전 세계 차단, 프랑스만 차단, 소송 지속 모두 큰 제약이 있음. 각각 해외 사용자에게 프랑스 법을 적용하는 문제, 사용자 위치를 법적으로 확정하기 어려운 문제, 비영리 조직의 자원 소진을 초래함\n\n…",
+          "id": "https://news.hada.io/topic?id=37413",
+          "isoDate": "2026-11-18T15:37:51.000Z"
+        },
+        {
           "title": "Gemini 4 Carbon은 왜 이렇게 오래 걸릴까?",
           "link": "https://news.hada.io/topic?id=37411&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
           "pubDate": "2026-11-18T14:32:28.000Z",
           "author": "neo",
-          "content": "<div><ul><li>Kernel의 <strong>비공개 버그 수정 평가</strong>에서 Gemini 4 Carbon은 Opus와 Astra가 몇 분 만에 끝내는 작업에 거의 한 시간을 사용했으며, 느린 추론 외에도 불필요한 작업과 비효율적인 도구 사용이 시간을 늘렸음</li><li><strong>추론 속도 차이</strong>가 설명하는 추가 소요 시간은 Astra 대비 16~30%, Opus 대비 45~49%였고, 나머지는 더 길어진 작업 과정에서 발생함</li><li>Carbon은 전체 단계의 약 절반을 <strong>요청하지 않은 작업</strong>에 사용함. 원인을 찾은 뒤에도 수정에 필요 없는 코드를 점검하고, 버그 보고서의 조건상 이미 배제된 경우까지 대비함</li><li><strong>단계당 도구 호출 부족과</strong></li></ul></div>…",
-          "contentSnippet": "Kernel의 비공개 버그 수정 평가에서 Gemini 4 Carbon은 Opus와 Astra가 몇 분 만에 끝내는 작업에 거의 한 시간을 사용했으며, 느린 추론 외에도 불필요한 작업과 비효율적인 도구 사용이 시간을 늘렸음\n추론 속도 차이가 설명하는 추가 소요 시간은 Astra 대비 16~30%, Opus 대비 45~49%였고, 나머지는 더 길어진 작업 과정에서 발생함\nCarbon은 전체 단계의 약 절반을 요청하지 않은 작업에 사용함. 원인을 찾은 뒤에도 수정에 필요 없는 코드를 점검하고, 버그 보고서의 조건상 이미 배제된 경우까지 대비함\n단계당 도구 호출 부족과\n\n…",
+          "content": "<div><ul><li>Kernel의 <strong>비공개 버그 수정 평가</strong>에서 Gemini 4 Carbon은 Opus와 Astra가 몇 분 만에 끝내는 작업에 거의 한 시간을 사용했으며, 느린 추론 외에도 불필요한 작업과 비효율적인 도구 사용이 시간을 늘렸음</li><li>같은 버그를 고치는 데 Carbon은 <strong>Astra보다 약 7배 많은 단계와 11배 많은 도구 작업</strong>을 수행함. 길어진 대화를 매번 다시 보내면서 <strong>누적 입력 토큰도 16배 이상</strong> 사용함</li><li>Carbon은 전체 단계의 약 절반을 <strong>요청하지 않은 작업</strong>에 사용함. 원인을 찾은 뒤에도 수정에 필요 없는 코드를 점검하고, 버그 보고서의 조건상 이미 배제된 경우까지 대비함</li></ul></div>…",
+          "contentSnippet": "Kernel의 비공개 버그 수정 평가에서 Gemini 4 Carbon은 Opus와 Astra가 몇 분 만에 끝내는 작업에 거의 한 시간을 사용했으며, 느린 추론 외에도 불필요한 작업과 비효율적인 도구 사용이 시간을 늘렸음\n같은 버그를 고치는 데 Carbon은 Astra보다 약 7배 많은 단계와 11배 많은 도구 작업을 수행함. 길어진 대화를 매번 다시 보내면서 누적 입력 토큰도 16배 이상 사용함\nCarbon은 전체 단계의 약 절반을 요청하지 않은 작업에 사용함. 원인을 찾은 뒤에도 수정에 필요 없는 코드를 점검하고, 버그 보고서의 조건상 이미 배제된 경우까지 대비함\n\n…",
           "id": "https://news.hada.io/topic?id=37411",
           "isoDate": "2026-11-18T14:32:28.000Z"
         },
@@ -75,136 +205,6 @@
           "contentSnippet": "Archive Team이 폐쇄 예정인 Apple의 온라인 지원 포럼 Apple Support Community를 아카이빙하고 있음\n서비스는 2026년 11월 20일 영구 폐쇄될 예정이며, 폐쇄 공지는 11월 10일에 발표됨\n공지 당일부터 새 게시물 작성이 중단됐으며, 사이트는 읽기 전용 상태로 제공됨\nApple Discussions와 Apple Tech Exchange라는 이름으로도 알려진 이 포럼은 고객들이 Apple 제품과 서비스에 관한 질문, 조언, 문제 해결 방법을 나누는 공간임\n언어별 사이트 목록에는 한국어를 포함한 8개 사이트가 있음\n\n폐쇄 일정과 지원 안내\n\nApple Support Comm\n\n…",
           "id": "https://news.hada.io/topic?id=37404",
           "isoDate": "2026-11-18T09:45:07.000Z"
-        },
-        {
-          "title": "AI가 All About Berlin을 죽이고 있다",
-          "link": "https://news.hada.io/topic?id=37403&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-18T08:32:37.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>베를린 생활 안내 사이트 <strong>All About Berlin</strong>은 7년간 성장한 뒤 <strong>트래픽의 75%를 잃었으며</strong>, 운영자는 그 원인을 Google AI Overviews로 지목함</li><li>Google 검색에서 사이트 링크보다 <strong>광고와 AI 생성 답변</strong>이 먼저 나오면서, 콘텐츠를 제공한 사이트로의 방문이 줄어드는 상황임</li><li>독자가 기존의 4분의 1로 줄어 <strong>운영 재원과 생계 유지</strong>가 어려워졌으며, 운영자는 새 가이드 작성 대신 다른 수입원을 준비하는 데 시간을 쓰고 있음</li><li><strong>지방정부와 연방정부도 안내하는 생활 정보</strong>를 8년간 쌓았지만, 콘텐츠가 AI 답변에 섞이면 <strong>독자가 원문을 읽고 운영자</strong></li></ul></div>…",
-          "contentSnippet": "베를린 생활 안내 사이트 All About Berlin은 7년간 성장한 뒤 트래픽의 75%를 잃었으며, 운영자는 그 원인을 Google AI Overviews로 지목함\nGoogle 검색에서 사이트 링크보다 광고와 AI 생성 답변이 먼저 나오면서, 콘텐츠를 제공한 사이트로의 방문이 줄어드는 상황임\n독자가 기존의 4분의 1로 줄어 운영 재원과 생계 유지가 어려워졌으며, 운영자는 새 가이드 작성 대신 다른 수입원을 준비하는 데 시간을 쓰고 있음\n지방정부와 연방정부도 안내하는 생활 정보를 8년간 쌓았지만, 콘텐츠가 AI 답변에 섞이면 독자가 원문을 읽고 운영자\n\n…",
-          "id": "https://news.hada.io/topic?id=37403",
-          "isoDate": "2026-11-18T08:32:37.000Z"
-        },
-        {
-          "title": "YC 스타트업 면접 중 알게 된 내 LinkedIn 무단 사용 사실",
-          "link": "https://news.hada.io/topic?id=37402&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-18T07:31:07.000Z",
-          "author": "neo",
-          "content": "YC 스타트업 면접 중 알게 된 내 LinkedIn 무단 사용 사실",
-          "contentSnippet": "YC 스타트업 면접 중 알게 된 내 LinkedIn 무단 사용 사실",
-          "id": "https://news.hada.io/topic?id=37402",
-          "isoDate": "2026-11-18T07:31:07.000Z"
-        },
-        {
-          "title": "Show GN: 냥이잡기 - 부정행위를 시도하는 냥이들을 잡는 게임",
-          "link": "https://news.hada.io/topic?id=37401&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-18T07:30:12.000Z",
-          "author": "153plane",
-          "content": "<div><p>\"제한 시간 45초. 당신은 냥이를 찾아낼 수 있나요?\"</p><p>요즘 시험 부정행위 관련해 논란이 많습니다.</p><p>심심하던 터라 시험 감독하는 게임 만들어봤습니다.</p><p>생각보다 부정행위를 잡아내는 게 어렵네요.</p><p>가볍게 만들어 보았으니 심심하실 때 한판 즐겨보시면 좋겠습니다!</p></div>",
-          "contentSnippet": "\"제한 시간 45초. 당신은 냥이를 찾아낼 수 있나요?\"\n요즘 시험 부정행위 관련해 논란이 많습니다.\n심심하던 터라 시험 감독하는 게임 만들어봤습니다.\n생각보다 부정행위를 잡아내는 게 어렵네요.\n가볍게 만들어 보았으니 심심하실 때 한판 즐겨보시면 좋겠습니다!",
-          "id": "https://news.hada.io/topic?id=37401",
-          "isoDate": "2026-11-18T07:30:12.000Z"
-        },
-        {
-          "title": "Show GN: Claude Code와 Codex를 한 화면에서 관리하는 macOS 개발 도구를 만들었습니다",
-          "link": "https://news.hada.io/topic?id=37400&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-18T07:00:32.000Z",
-          "author": "dhmkchs",
-          "content": "<div><p>안녕하세요. 개인적으로 개발하면서 불편했던 점을 해결하려고 codeme라는 데스크톱 앱을 만들었습니다.</p><p>Claude Code나 Codex를 여러 개 실행하다 보면 터미널도 많아지고, 어떤 에이전트가 어떤 파일을 수정했는지 확인하기 번거롭더라고요.</p><p>그래서 Git worktree를 기반으로 에이전트마다 독립적인 작업 공간을 만들고, 진행 상황과 코드 변경 사항을 한 화면에서 확인할 수 있도록 구현했습니다.</p><p>주요 기능은 다음과 같습니다.</p><p>Claude Code / Codex 멀티 에이전트 실행</p><p>Git worktree 생성 및 관리</p><p>에이전트가 변경한 코드만 따로 확인</p></div>…",
-          "contentSnippet": "안녕하세요. 개인적으로 개발하면서 불편했던 점을 해결하려고 codeme라는 데스크톱 앱을 만들었습니다.\nClaude Code나 Codex를 여러 개 실행하다 보면 터미널도 많아지고, 어떤 에이전트가 어떤 파일을 수정했는지 확인하기 번거롭더라고요.\n그래서 Git worktree를 기반으로 에이전트마다 독립적인 작업 공간을 만들고, 진행 상황과 코드 변경 사항을 한 화면에서 확인할 수 있도록 구현했습니다.\n주요 기능은 다음과 같습니다.\nClaude Code / Codex 멀티 에이전트 실행\nGit worktree 생성 및 관리\n에이전트가 변경한 코드만 따로 확인\n…",
-          "id": "https://news.hada.io/topic?id=37400",
-          "isoDate": "2026-11-18T07:00:32.000Z"
-        },
-        {
-          "title": "Show GN: 고객이 직접 문자를 보내는(MO) 방식의 휴대폰 번호 인증 API (웹 SDK 출시)",
-          "link": "https://news.hada.io/topic?id=37398&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-18T06:02:33.000Z",
-          "author": "choigeon0501",
-          "content": "<div><p>예전에 \"고객이 직접 문자를 보내는(MO) 방식의 휴대폰 인증 API\"로 소개했던 옥토모입니다. 그사이 <strong>QR 인증</strong>과 <strong>웹 SDK</strong>가 추가되어 다시 공유합니다. 현재 1,000개가 넘는 애플리케이션이 연동해 쓰고 있고, 여러 기업의 서비스에서 실제 회원가입 인증에 사용되고 있습니다.</p><h3>옥토모가 뭔가요</h3><ul><li>기존 SMS 인증(MT): 서비스가 사용자에게 인증 문자를 발송합니다. 건당 9~50원에 월 기본료가 붙고, 계약·심사에 1~2주가 걸리기도 합니다.</li><li>옥토모(MO): 사용자가 자기 휴대폰으로 지정된 번호(1666-3538)에 인증코드를 문자로 보내고, 서비스는</li></ul></div>…",
-          "contentSnippet": "예전에 \"고객이 직접 문자를 보내는(MO) 방식의 휴대폰 인증 API\"로 소개했던 옥토모입니다. 그사이 QR 인증과 웹 SDK가 추가되어 다시 공유합니다. 현재 1,000개가 넘는 애플리케이션이 연동해 쓰고 있고, 여러 기업의 서비스에서 실제 회원가입 인증에 사용되고 있습니다.\n옥토모가 뭔가요\n\n기존 SMS 인증(MT): 서비스가 사용자에게 인증 문자를 발송합니다. 건당 9~50원에 월 기본료가 붙고, 계약·심사에 1~2주가 걸리기도 합니다.\n옥토모(MO): 사용자가 자기 휴대폰으로 지정된 번호(1666-3538)에 인증코드를 문자로 보내고, 서비스는\n\n…",
-          "id": "https://news.hada.io/topic?id=37398",
-          "isoDate": "2026-11-18T06:02:33.000Z"
-        },
-        {
-          "title": "Show GN: Disposable - AI로 만든 작은 도구를 나누고 각자 에이전트로 다시 만드는 곳",
-          "link": "https://news.hada.io/topic?id=37396&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-18T05:46:26.000Z",
-          "author": "hohofafa2022",
-          "content": "<div><p>AI로 만든 작은 도구를 나누는 사이트 Disposable을 만들어 혼자 운영하고 있습니다.</p><p>에이전트 덕분에 내 일에 딱 맞는 도구를 금방 만들 수 있게 됐지만, 그런 도구는 대개 쓰고 나면 버려지고 비슷한 일이 필요한 사람은 처음부터 다시 만듭니다. 그렇다고 오픈소스로 내놓자니 문서와 유지보수가 부담이고요.</p><p>그래서 \"오픈소스처럼 나누고, 관리 부담은 없이. 방법은 남기고, 도구는 내 방식대로 다시.\"를 원칙으로 삼았습니다. 직접 써서 효과를 본 도구를 유지보수 약속 없이 올리고, 받는 사람은 그대로 쓰거나, 함께 올라온 사양으로 자기 에이전트에게 다시 만들게 합니다.</p></div>…",
-          "contentSnippet": "AI로 만든 작은 도구를 나누는 사이트 Disposable을 만들어 혼자 운영하고 있습니다.\n에이전트 덕분에 내 일에 딱 맞는 도구를 금방 만들 수 있게 됐지만, 그런 도구는 대개 쓰고 나면 버려지고 비슷한 일이 필요한 사람은 처음부터 다시 만듭니다. 그렇다고 오픈소스로 내놓자니 문서와 유지보수가 부담이고요.\n그래서 \"오픈소스처럼 나누고, 관리 부담은 없이. 방법은 남기고, 도구는 내 방식대로 다시.\"를 원칙으로 삼았습니다. 직접 써서 효과를 본 도구를 유지보수 약속 없이 올리고, 받는 사람은 그대로 쓰거나, 함께 올라온 사양으로 자기 에이전트에게 다시 만들게 합니다.\n…",
-          "id": "https://news.hada.io/topic?id=37396",
-          "isoDate": "2026-11-18T05:46:26.000Z"
-        },
-        {
-          "title": "USN-9131-1: CRaC JDK 25 vulnerabilities",
-          "link": "https://news.hada.io/topic?id=37395&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-18T05:43:01.000Z",
-          "author": "axis0",
-          "content": "<div><ul><li>Ubuntu Security Notices 의 USN-9131-1 글임.</li><li>게시일은 2026년 11월 17일이라고 함.</li><li>CRaC JDK 25 에서 보안 문제 몇 건이 고쳐졌다고 함.</li><li>보안 수정 외에 버그 수정, 새 기능, 그리고 호환되지 않을 수 있는 변경도 패키지에 들어 있다고 함.</li><li>이 업데이트는 새 업스트림 릴리스를 쓰고, 추가 버그 수정도 들어 있다고 함.</li><li>일반 시스템 업데이트를 한 뒤 실행 중인 Java 애플리케이션을 다시 시작해야 필요한 변경이 모두 적용된다고 함.</li></ul></div>",
-          "contentSnippet": "Ubuntu Security Notices 의 USN-9131-1 글임.\n게시일은 2026년 11월 17일이라고 함.\nCRaC JDK 25 에서 보안 문제 몇 건이 고쳐졌다고 함.\n보안 수정 외에 버그 수정, 새 기능, 그리고 호환되지 않을 수 있는 변경도 패키지에 들어 있다고 함.\n이 업데이트는 새 업스트림 릴리스를 쓰고, 추가 버그 수정도 들어 있다고 함.\n일반 시스템 업데이트를 한 뒤 실행 중인 Java 애플리케이션을 다시 시작해야 필요한 변경이 모두 적용된다고 함.",
-          "id": "https://news.hada.io/topic?id=37395",
-          "isoDate": "2026-11-18T05:43:01.000Z"
-        },
-        {
-          "title": "FOSS for All Conference 2026: 커뮤니티 주도 국내 오픈소스 컨퍼런스",
-          "link": "https://news.hada.io/topic?id=37394&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-18T05:12:46.000Z",
-          "author": "guesswhat",
-          "content": "<div><h2>FOSS for All Conference 2026</h2><ul><li>대한민국 인터넷의 아버지로 불리는 <strong>전길남 박사</strong>(KAIST 명예교수)가 <strong>FOSS for All Conference 2026</strong> 기조연사로 나서 <strong>Portable Software, 1983</strong>을 발표함</li><li>1980년대 초 컴퓨터 국산화(KIET) 시절의 DOS·UNIX 이식 가능 소프트웨어 개발사, 리처드 스톨먼의 80년대 KAIST 방문 일화부터 오늘날 AI와 오픈 소프트웨어까지 다룸</li><li>본 행사는 <a href=\"https://fossforall.org/\">FOSS for All</a>에서 두 번째로 여는 연례 자유·오픈소스 컨퍼런스</li><li>대형 프로젝트뿐 아니라 자체 행사를 열기 어려운 소규모 오픈소스 프로젝트도 한자리에 모이는 것을 지향함</li></ul></div>…",
-          "contentSnippet": "FOSS for All Conference 2026\n\n대한민국 인터넷의 아버지로 불리는 전길남 박사(KAIST 명예교수)가 FOSS for All Conference 2026 기조연사로 나서 Portable Software, 1983을 발표함\n1980년대 초 컴퓨터 국산화(KIET) 시절의 DOS·UNIX 이식 가능 소프트웨어 개발사, 리처드 스톨먼의 80년대 KAIST 방문 일화부터 오늘날 AI와 오픈 소프트웨어까지 다룸\n본 행사는 FOSS for All에서 두 번째로 여는 연례 자유·오픈소스 컨퍼런스\n대형 프로젝트뿐 아니라 자체 행사를 열기 어려운 소규모 오픈소스 프로젝트도 한자리에 모이는 것을 지향함\n\n…",
-          "id": "https://news.hada.io/topic?id=37394",
-          "isoDate": "2026-11-18T05:12:46.000Z"
-        },
-        {
-          "title": "GitHub 저장소 페이지 리디자인 제안 (2019)",
-          "link": "https://news.hada.io/topic?id=37393&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-18T05:02:27.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>GitHub 저장소 페이지의 <strong>정보 구조와 화면 배치 개선안</strong>으로, 중첩 탐색과 불필요한 장식을 줄이고 같은 화면에 더 많은 프로젝트 정보를 담는 데 초점을 맞춤</li><li>두 단계로 나뉜 탭을 <strong>단일 탐색 메뉴</strong>로 합치고 장식적인 아이콘을 제거해, 저장소 어디서든 Releases 같은 항목에 바로 접근하도록 바꿈</li><li><strong>Watch의 현재 상태</strong>를 드롭다운에 명확히 표시하고, 저장소 설명과 주제를 공통 영역으로 옮기는 등 요소의 의미와 위치를 일치시킴</li><li>첫 화면을 Code 대신 <strong>Overview</strong>로 구성해 파일 목록 옆에 최근 커밋을 배치하고, 기여자와 활동량, 언어 통계</li></ul></div>…",
-          "contentSnippet": "GitHub 저장소 페이지의 정보 구조와 화면 배치 개선안으로, 중첩 탐색과 불필요한 장식을 줄이고 같은 화면에 더 많은 프로젝트 정보를 담는 데 초점을 맞춤\n두 단계로 나뉜 탭을 단일 탐색 메뉴로 합치고 장식적인 아이콘을 제거해, 저장소 어디서든 Releases 같은 항목에 바로 접근하도록 바꿈\nWatch의 현재 상태를 드롭다운에 명확히 표시하고, 저장소 설명과 주제를 공통 영역으로 옮기는 등 요소의 의미와 위치를 일치시킴\n첫 화면을 Code 대신 Overview로 구성해 파일 목록 옆에 최근 커밋을 배치하고, 기여자와 활동량, 언어 통계\n\n…",
-          "id": "https://news.hada.io/topic?id=37393",
-          "isoDate": "2026-11-18T05:02:27.000Z"
-        },
-        {
-          "title": "Google의 AI 답변, 검색 유입을 40% 줄임",
-          "link": "https://news.hada.io/topic?id=37392&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-18T04:41:59.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>미국 데스크톱 사용자를 대상으로 한 무작위 실험에서 <strong>구글 검색시 Google AI Overviews가 표시</strong>되면 외부 웹사이트 클릭이 약 <strong>40% 감소</strong>함</li><li><strong>AI Overviews 노출 범위</strong>가 정보 검색뿐 아니라 상품 비교, 사이트 탐색, 구매 목적 검색까지 확대됨. 미국 중심 키워드에서는 노출 비중이 2024년 9월 약 6%에서 2026년 8월 61%로 늘어남</li><li><strong>생성형 엔진 최적화(GEO)</strong> 는 대체로 기존 SEO에 AI가 참고하는 외부 사이트에서의 존재감과 인용하기 쉬운 콘텐츠를 더하는 형태임. 인용과 관련된 연구 대부분은 상관관계이며, 검증된 지름길은 없음</li><li><strong>AI 인용과</strong></li></ul></div>…",
-          "contentSnippet": "미국 데스크톱 사용자를 대상으로 한 무작위 실험에서 구글 검색시 Google AI Overviews가 표시되면 외부 웹사이트 클릭이 약 40% 감소함\nAI Overviews 노출 범위가 정보 검색뿐 아니라 상품 비교, 사이트 탐색, 구매 목적 검색까지 확대됨. 미국 중심 키워드에서는 노출 비중이 2024년 9월 약 6%에서 2026년 8월 61%로 늘어남\n생성형 엔진 최적화(GEO) 는 대체로 기존 SEO에 AI가 참고하는 외부 사이트에서의 존재감과 인용하기 쉬운 콘텐츠를 더하는 형태임. 인용과 관련된 연구 대부분은 상관관계이며, 검증된 지름길은 없음\nAI 인용과\n\n…",
-          "id": "https://news.hada.io/topic?id=37392",
-          "isoDate": "2026-11-18T04:41:59.000Z"
-        },
-        {
-          "title": "IRS 로그인에 요구되는 ID.me 약관 동의",
-          "link": "https://news.hada.io/topic?id=37391&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-18T04:38:59.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>IRS 온라인 서비스에 <strong>ID.me로 로그인하는 납세자</strong>는 민간 업체인 ID.me의 약관을 적용받음. 다만 IRS는 정부가 운영하는 <strong>Login.gov</strong> 로그인도 지원함</li><li>ID.me 약관은 소액사건을 제외한 분쟁을 원칙적으로 <strong>개별 중재</strong>로 처리하며, 배심재판과 집단소송을 포기하도록 함. 최초 동의 후 <strong>30일 이내 적용 제외</strong>를 신청할 수 있음</li><li>개인정보처리방침은 <strong>마케팅 활용과 기업 거래에 따른 정보 이전</strong>을 허용함. 다만 정부 신원확인에 제공한 정보를 ID.me Shop 마케팅에 사용하는 데는 동의나 별도로 열거한 예외 조건이 필요함</li><li>계정을 폐쇄해도 계정 및 </li></ul></div>…",
-          "contentSnippet": "IRS 온라인 서비스에 ID.me로 로그인하는 납세자는 민간 업체인 ID.me의 약관을 적용받음. 다만 IRS는 정부가 운영하는 Login.gov 로그인도 지원함\nID.me 약관은 소액사건을 제외한 분쟁을 원칙적으로 개별 중재로 처리하며, 배심재판과 집단소송을 포기하도록 함. 최초 동의 후 30일 이내 적용 제외를 신청할 수 있음\n개인정보처리방침은 마케팅 활용과 기업 거래에 따른 정보 이전을 허용함. 다만 정부 신원확인에 제공한 정보를 ID.me Shop 마케팅에 사용하는 데는 동의나 별도로 열거한 예외 조건이 필요함\n계정을 폐쇄해도 계정 및 \n\n…",
-          "id": "https://news.hada.io/topic?id=37391",
-          "isoDate": "2026-11-18T04:38:59.000Z"
-        },
-        {
-          "title": "GitHub에서 사라진 마이크로소프트의 ONNX Runtime",
-          "link": "https://news.hada.io/topic?id=37390&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-18T03:30:59.000Z",
-          "author": "neo",
-          "content": "GitHub에서 사라진 마이크로소프트의 ONNX Runtime",
-          "contentSnippet": "GitHub에서 사라진 마이크로소프트의 ONNX Runtime",
-          "id": "https://news.hada.io/topic?id=37390",
-          "isoDate": "2026-11-18T03:30:59.000Z"
-        },
-        {
-          "title": "이스라엘 대 Wikipedia",
-          "link": "https://news.hada.io/topic?id=37388&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-18T02:32:23.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>Tech for Palestine(T4P)</strong> 이 2001년 이후 Wikipedia를 친이스라엘 방향으로 조작하려 한 활동 17건을 정리한 보고서를 공개함. 공개 자료를 토대로 이 가운데 최소 9건이 여전히 진행 중이라고 밝힘</li><li>보고서는 Wikipedia에 대한 압력을 <strong>검색과 AI의 정보에 영향을 미치려는 활동</strong>과 연결함. Wikipedia가 Google 검색과 주요 AI 챗봇의 정보원이 된다는 점을 근거로 삼음</li><li>T4P는 <strong>ADL의 보고서 두 편</strong>에 담긴 주장을 원래 편집 기록과 출처까지 추적했으며, 허위 사실이나 반유대주의 콘텐츠가 Wikipedia에 추가됐다는 증거를 확인하지 못했다고 밝힘</li></ul></div>…",
-          "contentSnippet": "Tech for Palestine(T4P) 이 2001년 이후 Wikipedia를 친이스라엘 방향으로 조작하려 한 활동 17건을 정리한 보고서를 공개함. 공개 자료를 토대로 이 가운데 최소 9건이 여전히 진행 중이라고 밝힘\n보고서는 Wikipedia에 대한 압력을 검색과 AI의 정보에 영향을 미치려는 활동과 연결함. Wikipedia가 Google 검색과 주요 AI 챗봇의 정보원이 된다는 점을 근거로 삼음\nT4P는 ADL의 보고서 두 편에 담긴 주장을 원래 편집 기록과 출처까지 추적했으며, 허위 사실이나 반유대주의 콘텐츠가 Wikipedia에 추가됐다는 증거를 확인하지 못했다고 밝힘\n\n…",
-          "id": "https://news.hada.io/topic?id=37388",
-          "isoDate": "2026-11-18T02:32:23.000Z"
         }
       ]
     },
@@ -381,235 +381,235 @@
       "category": "news",
       "data": [
         {
-          "creator": "최영범",
-          "title": "美연준 월러 '빅스텝' 언급…\"인플레이션 매우 걱정\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261119015041mSw",
-          "pubDate": "Thu, 19 Nov 2026 01:50:43 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261118/AKR20261119015041mSw_01_i.jpg\" alt=\"\"><span class=\"yna_title\">크리스토퍼 월러 미국 연방준비제도(Fed·연준) 이사</span><span class=\"yna_caption\">[로이터=연합뉴스]</span><span class=\"yna_description\">[로이터=연합뉴스]</span></div>\n크리스토퍼 월러 미국 연방준비제도(Fed) 이사가 현지시간 18일 물가 안정을 위해 다음달 기준금리를 50bp(베이시스 포인트, 1bp=0.01%포인트)인상하는 '빅스텝'을 또 다시 언급했습니다.\n\n월러 이사는 CNBC 방송과의 인터뷰에서 \"인플레이션에 대해 매우 걱정하고 있다\"면서 \"(인플레이션이) 잘못된 방향으로 가고 있으며 확산하고 있다\"고 말했습니다.\n\n이어 \"이를 정말로 낮추고 싶다면 더 공격적인 조치를 하기 시작해야 한다\"며, 지난 3개월간의 인플레이션 데이터가 연 환산 기준 3.5% 부근에 머물면서 연준의 목표치인 2%를 크게 웃돌고 있다고 지적했습니다.\n\n또, 두 번에 걸쳐 25bp씩 나눠 금리를 인상하는 방식은 내년 1월에 추가 금리 인상이 있을 거라는 \"신뢰할 만한 신호\"를 금융시장에 줄 때만 효과가 있다고 주장했습니다.\n\n윌러 이사는 \"시장에 이 신호를 매우 명확하게 전달하지 못한다면, 12월에 50bp를 올려서 끝내야 한다\"고 강조했습니다.\n\n\n#연방준비제도 #FED #크리스토퍼윌러 #금리 #인플레이션\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최영범(ybchoi@yna.co.kr)",
-          "content:encodedSnippet": "크리스토퍼 월러 미국 연방준비제도(Fed·연준) 이사[로이터=연합뉴스][로이터=연합뉴스]\n크리스토퍼 월러 미국 연방준비제도(Fed) 이사가 현지시간 18일 물가 안정을 위해 다음달 기준금리를 50bp(베이시스 포인트, 1bp=0.01%포인트)인상하는 '빅스텝'을 또 다시 언급했습니다.\n\n월러 이사는 CNBC 방송과의 인터뷰에서 \"인플레이션에 대해 매우 걱정하고 있다\"면서 \"(인플레이션이) 잘못된 방향으로 가고 있으며 확산하고 있다\"고 말했습니다.\n\n이어 \"이를 정말로 낮추고 싶다면 더 공격적인 조치를 하기 시작해야 한다\"며, 지난 3개월간의 인플레이션 데이터가 연 환산 기준 3.5% 부근에 머물면서 연준의 목표치인 2%를 크게 웃돌고 있다고 지적했습니다.\n\n또, 두 번에 걸쳐 25bp씩 나눠 금리를 인상하는 방식은 내년 1월에 추가 금리 인상이 있을 거라는 \"신뢰할 만한 신호\"를 금융시장에 줄 때만 효과가 있다고 주장했습니다.\n\n윌러 이사는 \"시장에 이 신호를 매우 명확하게 전달하지 못한다면, 12월에 50bp를 올려서 끝내야 한다\"고 강조했습니다.\n\n\n#연방준비제도 #FED #크리스토퍼윌러 #금리 #인플레이션\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최영범(ybchoi@yna.co.kr)",
+          "creator": "김단비",
+          "title": "수험생 입실 시작…이 시각 울산 시험장",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261119072859oFv",
+          "pubDate": "Thu, 19 Nov 2026 07:28:59 +0900",
+          "content:encoded": "[앵커]\n\n울산지역 수능 시험장 분위기도 살펴보겠습니다.\n\n울산은 시험장 28곳에서 1만 1천여 명이 수능을 치르는데요.\n\n시험장에 나가있는 취재기자 연결해 현장 분위기 들어보겠습니다.\n\n김단비 기자.\n\n[기자]\n\n네, 울산 문수고등학교에 마련된 수능 시험장에 나와 있습니다.\n\n제 뒤로 시험장에 들어서는 수험생들의 모습이 보이실 텐데요.\n\n차분한 분위기 속에 오전 6시 30분부터 입실이 시작됐습니다.\n\n6년 만의 수능 한파라는 날씨 예보처럼 어제보다 기온이 많이 떨어져 춥습니다.\n\n울산의 현재 기온은 3~4도 정도로 체감온도는 더 낮은데요.\n\n이곳 시험장에는 부모님과 선생님, 후배들이 모여 수험생을 격려하는 모습도 볼 수 있습니다.\n\n오늘 울산은 시험장 28곳에서 1만 1천2백여 명이 수능에 응시합니다.\n\n울산시교육청은 AI를 활용한 수능 부정행위를 막기 위해 83명의 복도 감독관을 추가로 배치하기로 했는데요.\n\n이들 감독관은 시험장 복도를 돌며 제출하지 않은 휴대전화나 불법 소지품 등을 불시 확인하게 됩니다.\n\n울산은 또, 고사장마다 1명의 스마트 안경 전담 관리 요원을 배치하는데요.\n\n육안으로 확인하기 어려운 초소형 렌즈 등 신종 전자기기를 식별하기 위해 시험장별로 정밀 탐지장비도 1대씩 준비했습니다.\n\n수험생 여러분, 최선을 다해 준비한 만큼 좋은 성적 얻길 응원하겠습니다.\n\n지금까지 울산 문수고등학교에서 연합뉴스TV 김단비입니다.\n\n[현장연결 김민엽]\n\n#수능 #대입 #문수고등학교\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김단비(sweetrain@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n울산지역 수능 시험장 분위기도 살펴보겠습니다.\n\n울산은 시험장 28곳에서 1만 1천여 명이 수능을 치르는데요.\n\n시험장에 나가있는 취재기자 연결해 현장 분위기 들어보겠습니다.\n\n김단비 기자.\n\n[기자]\n\n네, 울산 문수고등학교에 마련된 수능 시험장에 나와 있습니다.\n\n제 뒤로 시험장에 들어서는 수험생들의 모습이 보이실 텐데요.\n\n차분한 분위기 속에 오전 6시 30분부터 입실이 시작됐습니다.\n\n6년 만의 수능 한파라는 날씨 예보처럼 어제보다 기온이 많이 떨어져 춥습니다.\n\n울산의 현재 기온은 3~4도 정도로 체감온도는 더 낮은데요.\n\n이곳 시험장에는 부모님과 선생님, 후배들이 모여 수험생을 격려하는 모습도 볼 수 있습니다.\n\n오늘 울산은 시험장 28곳에서 1만 1천2백여 명이 수능에 응시합니다.\n\n울산시교육청은 AI를 활용한 수능 부정행위를 막기 위해 83명의 복도 감독관을 추가로 배치하기로 했는데요.\n\n이들 감독관은 시험장 복도를 돌며 제출하지 않은 휴대전화나 불법 소지품 등을 불시 확인하게 됩니다.\n\n울산은 또, 고사장마다 1명의 스마트 안경 전담 관리 요원을 배치하는데요.\n\n육안으로 확인하기 어려운 초소형 렌즈 등 신종 전자기기를 식별하기 위해 시험장별로 정밀 탐지장비도 1대씩 준비했습니다.\n\n수험생 여러분, 최선을 다해 준비한 만큼 좋은 성적 얻길 응원하겠습니다.\n\n지금까지 울산 문수고등학교에서 연합뉴스TV 김단비입니다.\n\n[현장연결 김민엽]\n\n#수능 #대입 #문수고등학교\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김단비(sweetrain@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261118/AKR20261119015041mSw_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261118/MYH20261119072859oFv.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "최영범",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261119015041mSw#comments",
-          "content": "크리스토퍼 월러 미국 연방준비제도(Fed·연준) 이사[로이터=연합뉴스][로이터=연합뉴스] 크리스토퍼 월러 미국 연방준비제도(Fed) 이사가 현지시간 18일 물가 안정을 위해 다음달 기준금리를 50bp(베이시스 포인트, 1bp=0.01%포인트)인상하는 '빅스텝'을 또 다시 언급했습니다. 월러 이사는 CNBC 방송과의 인터뷰에서 \"인플레이션에 대해 매우 걱정하고 있다\"면서 \"(인플레이션이) 잘못된 방향으로 가고 있으며 확산하고 있다\"고 말했습...",
-          "contentSnippet": "크리스토퍼 월러 미국 연방준비제도(Fed·연준) 이사[로이터=연합뉴스][로이터=연합뉴스] 크리스토퍼 월러 미국 연방준비제도(Fed) 이사가 현지시간 18일 물가 안정을 위해 다음달 기준금리를 50bp(베이시스 포인트, 1bp=0.01%포인트)인상하는 '빅스텝'을 또 다시 언급했습니다. 월러 이사는 CNBC 방송과의 인터뷰에서 \"인플레이션에 대해 매우 걱정하고 있다\"면서 \"(인플레이션이) 잘못된 방향으로 가고 있으며 확산하고 있다\"고 말했습...",
-          "guid": "AKR20261119015041mSw",
+          "dc:creator": "김단비",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261119072859oFv#comments",
+          "content": "[앵커] 울산지역 수능 시험장 분위기도 살펴보겠습니다. 울산은 시험장 28곳에서 1만 1천여 명이 수능을 치르는데요. 시험장에 나가있는 취재기자 연결해 현장 분위기 들어보겠습니다. 김단비 기자. [기자] 네, 울산 문수고등학교에 마련된 수능 시험장에 나와 있습니다. 제 뒤로 시험장에 들어서는 수험생들의 모습이 보이실 텐데요. 차분한 분위기 속에 오전 6시 30분부터 입실이 시작됐습니다. 6년 만의 수능 한파라는 날씨 예보처럼 어제보다 기온...",
+          "contentSnippet": "[앵커] 울산지역 수능 시험장 분위기도 살펴보겠습니다. 울산은 시험장 28곳에서 1만 1천여 명이 수능을 치르는데요. 시험장에 나가있는 취재기자 연결해 현장 분위기 들어보겠습니다. 김단비 기자. [기자] 네, 울산 문수고등학교에 마련된 수능 시험장에 나와 있습니다. 제 뒤로 시험장에 들어서는 수험생들의 모습이 보이실 텐데요. 차분한 분위기 속에 오전 6시 30분부터 입실이 시작됐습니다. 6년 만의 수능 한파라는 날씨 예보처럼 어제보다 기온...",
+          "guid": "MYH20261119072859oFv",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-18T16:50:43.000Z"
+          "isoDate": "2026-11-18T22:28:59.000Z"
+        },
+        {
+          "creator": "문형민",
+          "title": "'AI 커닝' 논란 속 수능…부정행위 차단 총력",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261119072735C1w",
+          "pubDate": "Thu, 19 Nov 2026 07:27:35 +0900",
+          "content:encoded": "[앵커]\n\n오늘(19일) 2027학년도 대학수학능력시험이 전국 1,300여개 시험장에서 치러집니다.\n\n올해는 55만 1,800여명이 응시했는데요.\n\n조금 전 오전 6시 30분부터 시험장 입실이 허용됐습니다.\n\n시험장에 나가있는 취재기자 연결합니다.\n\n문형민 기자.\n\n[기자]\n\n네, 저는 지금 서울 경기상업고등학교 앞에 나와 있습니다.\n\n이곳 서울을 비롯한 전국 대부분 지역의 아침 기온이 뚝 떨어지면서, 6년 만에 ‘수능 한파’가 찾아왔습니다.\n\n조금 전인 오전 6시 30분부터 시험장 입실이 허용되면서 수험생은 물론이고, 수험생들을 응원하기 위해 나온 후배들과 선생님들이 서서히 모여들고 있습니다.\n\n수험생들의 원활한 입실을 위해 시험장 주변에는 경찰과 교통 통제 인력들도 배치됐습니다.\n\n오늘 대학수학능력시험은 오전 8시 40분부터 전국 1,312개 시험장에서 치러집니다.\n\n올해 응시자는 지난해보다 2,310명 줄어든 55만 1,864명인데요.\n\n재학생은 1만 6,500여명 감소했지만, 졸업생과 검정고시생 등 N수생은 19만 6,473명으로 약 1만 4천명 늘면서 23년 만에 최대를 기록했습니다.\n\n특히 올해가 현행 수능 체제로 치러지는 마지막 해인 데다 지역의사제가 처음 도입되는 만큼, 치열한 경쟁이 예상됩니다.\n\n[앵커]\n\n문형민 기자, 부정행위 논란 속에 이번 수능에선 전자기기 제한 등 주의할 점이 많아졌잖아요.\n\n수험생들이 주의해야 할 사항들 알려주시죠.\n\n[기자]\n\n네, AI 부정행위 파문 속에 치러지는 만큼 휴대물품 검사가 대폭 강화되는데요.\n\n사실상 '전자기기 금지'라고 생각하면 됩니다.\n\n휴대전화와 태블릿 PC 등 모든 전자기기를 시험장에 반입할 수 없고요.\n\n특히, 스마트안경은 쓰지 않고 가지고만 있어도 올해 수능이 무효되고 착용했다면 내년 응시 자격까지 박탈되니 주의가 필요합니다.\n\n만약, 부득이하게 전자기기를 가져왔다면 전원을 끄고 1교시 시작 전에 감독관에게 제출해야 합니다.\n\n미제출 휴대전화 적발 등 부정행위를 막기 위해 오전 8시 반 위급 재난문자를 보내고 불시에 추가 문자도 발송될 예정입니다.\n\n시계는 시침과 분침이 있는 아날로그 시계만 휴대할 수 있다는 점도 꼭 알아두셔야겠습니다.\n\n시험장에 가져갈 수 있는 필기구는 흑색 연필로 제한됩니다.\n\n수정테이프, 샤프심, 지우개 등도 부정행위에 활용될 수 있다는 우려에서 교육청에서 일괄 구매해 시험장에서 배부할 예정입니다.\n\n수험생들은 시험 복장에도 주의를 기울여야 하는데요.\n\n초소형 카메라 등 신종 부정행위 방지를 위해 수험생 옷에 있는 단추마다 스티커를 붙여 가리고, 옷깃과 소매도 확인할 예정입니다.\n\n수험생 여러분, 수험장에 가기 전, 수험표에 기재된 시험장도 다시 한번 확인하시고요.\n\n수험표 분실 시에는 시험장에서 입실 시간 전까지 재교부 받아야 합니다.\n\n신분증도 잊지 말고, 가져오셔야 합니다.\n\n입실 시간은 오전 8시 10분까지인데요.\n\n급한 상황이 발생할 경우 망설이지 말고 경찰 등에 도움을 요청하는 게 좋습니다.\n\n지금까지 경기 상업고등학교 앞에서 연합뉴스TV 문형민입니다.\n\n[현장연결 김세완]\n\n#수능 #스마트안경 #주의사항\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n문형민(moonbro@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n오늘(19일) 2027학년도 대학수학능력시험이 전국 1,300여개 시험장에서 치러집니다.\n\n올해는 55만 1,800여명이 응시했는데요.\n\n조금 전 오전 6시 30분부터 시험장 입실이 허용됐습니다.\n\n시험장에 나가있는 취재기자 연결합니다.\n\n문형민 기자.\n\n[기자]\n\n네, 저는 지금 서울 경기상업고등학교 앞에 나와 있습니다.\n\n이곳 서울을 비롯한 전국 대부분 지역의 아침 기온이 뚝 떨어지면서, 6년 만에 ‘수능 한파’가 찾아왔습니다.\n\n조금 전인 오전 6시 30분부터 시험장 입실이 허용되면서 수험생은 물론이고, 수험생들을 응원하기 위해 나온 후배들과 선생님들이 서서히 모여들고 있습니다.\n\n수험생들의 원활한 입실을 위해 시험장 주변에는 경찰과 교통 통제 인력들도 배치됐습니다.\n\n오늘 대학수학능력시험은 오전 8시 40분부터 전국 1,312개 시험장에서 치러집니다.\n\n올해 응시자는 지난해보다 2,310명 줄어든 55만 1,864명인데요.\n\n재학생은 1만 6,500여명 감소했지만, 졸업생과 검정고시생 등 N수생은 19만 6,473명으로 약 1만 4천명 늘면서 23년 만에 최대를 기록했습니다.\n\n특히 올해가 현행 수능 체제로 치러지는 마지막 해인 데다 지역의사제가 처음 도입되는 만큼, 치열한 경쟁이 예상됩니다.\n\n[앵커]\n\n문형민 기자, 부정행위 논란 속에 이번 수능에선 전자기기 제한 등 주의할 점이 많아졌잖아요.\n\n수험생들이 주의해야 할 사항들 알려주시죠.\n\n[기자]\n\n네, AI 부정행위 파문 속에 치러지는 만큼 휴대물품 검사가 대폭 강화되는데요.\n\n사실상 '전자기기 금지'라고 생각하면 됩니다.\n\n휴대전화와 태블릿 PC 등 모든 전자기기를 시험장에 반입할 수 없고요.\n\n특히, 스마트안경은 쓰지 않고 가지고만 있어도 올해 수능이 무효되고 착용했다면 내년 응시 자격까지 박탈되니 주의가 필요합니다.\n\n만약, 부득이하게 전자기기를 가져왔다면 전원을 끄고 1교시 시작 전에 감독관에게 제출해야 합니다.\n\n미제출 휴대전화 적발 등 부정행위를 막기 위해 오전 8시 반 위급 재난문자를 보내고 불시에 추가 문자도 발송될 예정입니다.\n\n시계는 시침과 분침이 있는 아날로그 시계만 휴대할 수 있다는 점도 꼭 알아두셔야겠습니다.\n\n시험장에 가져갈 수 있는 필기구는 흑색 연필로 제한됩니다.\n\n수정테이프, 샤프심, 지우개 등도 부정행위에 활용될 수 있다는 우려에서 교육청에서 일괄 구매해 시험장에서 배부할 예정입니다.\n\n수험생들은 시험 복장에도 주의를 기울여야 하는데요.\n\n초소형 카메라 등 신종 부정행위 방지를 위해 수험생 옷에 있는 단추마다 스티커를 붙여 가리고, 옷깃과 소매도 확인할 예정입니다.\n\n수험생 여러분, 수험장에 가기 전, 수험표에 기재된 시험장도 다시 한번 확인하시고요.\n\n수험표 분실 시에는 시험장에서 입실 시간 전까지 재교부 받아야 합니다.\n\n신분증도 잊지 말고, 가져오셔야 합니다.\n\n입실 시간은 오전 8시 10분까지인데요.\n\n급한 상황이 발생할 경우 망설이지 말고 경찰 등에 도움을 요청하는 게 좋습니다.\n\n지금까지 경기 상업고등학교 앞에서 연합뉴스TV 문형민입니다.\n\n[현장연결 김세완]\n\n#수능 #스마트안경 #주의사항\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n문형민(moonbro@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261118/MYH20261119072735C1w.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "문형민",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261119072735C1w#comments",
+          "content": "[앵커] 오늘(19일) 2027학년도 대학수학능력시험이 전국 1,300여개 시험장에서 치러집니다. 올해는 55만 1,800여명이 응시했는데요. 조금 전 오전 6시 30분부터 시험장 입실이 허용됐습니다. 시험장에 나가있는 취재기자 연결합니다. 문형민 기자. [기자] 네, 저는 지금 서울 경기상업고등학교 앞에 나와 있습니다. 이곳 서울을 비롯한 전국 대부분 지역의 아침 기온이 뚝 떨어지면서, 6년 만에 ‘수능 한파’가 찾아왔습니다. 조금 전인...",
+          "contentSnippet": "[앵커] 오늘(19일) 2027학년도 대학수학능력시험이 전국 1,300여개 시험장에서 치러집니다. 올해는 55만 1,800여명이 응시했는데요. 조금 전 오전 6시 30분부터 시험장 입실이 허용됐습니다. 시험장에 나가있는 취재기자 연결합니다. 문형민 기자. [기자] 네, 저는 지금 서울 경기상업고등학교 앞에 나와 있습니다. 이곳 서울을 비롯한 전국 대부분 지역의 아침 기온이 뚝 떨어지면서, 6년 만에 ‘수능 한파’가 찾아왔습니다. 조금 전인...",
+          "guid": "MYH20261119072735C1w",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-18T22:27:35.000Z"
         },
         {
           "creator": "최영범",
-          "title": "美민주당 메리 펠돌라 알래스카 승리…상원 56석 확보",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261119011426IMd",
-          "pubDate": "Thu, 19 Nov 2026 01:14:27 +0900",
-          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261118/AKR20261119011426IMd_01_i.jpg\" alt=\"\"><span class=\"yna_title\">메리 펠톨라 민주당 알래스카 상원의원 후보</span><span class=\"yna_caption\">[AFP=연합뉴스. 재판매 및 DB 금지]</span><span class=\"yna_description\">[AFP=연합뉴스. 재판매 및 DB 금지]</span></div>\n미국 알래스카주 연방 상원의원 선거에서 민주당 후보가 승리했습니다.\n\nAP 통신은 현지시간 17일 알래스카주 상원 선거 개표에서 민주당 메리 펠톨라 후보가 공화당 현직 상원의원인 댄 S. 설리번 후보를 꺾었다고 보도했습니다.\n\n펠톨라 후보는 알래스카의 첫 원주민 출신 연방 상원의원으로 기록됐습니다.\n\n앞서 2022년 연방 하원의원 선거에서도 펠톨라 후보가 당선되면서 첫 원주민 출신 연방 의회 입성 기록을 남긴 바 있습니다.\n\n이로써 전체 100명 가운데 35명을 새로 뽑는 이번 중간선거의 상원의원 선거는 민주당의 승리로 마무리됐습니다.\n\n민주당은 내년 1월 출범하는 차기 의회 상원에서 56석을 확보해 다수당의 지위를 차지했고, 공화당 의석은 53석에서 44석으로 줄었습니다.\n\n\n#중간선거 #알래스카 #메리펠돌라 #상원 #민주당 #공화당\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최영범(ybchoi@yna.co.kr)",
-          "content:encodedSnippet": "메리 펠톨라 민주당 알래스카 상원의원 후보[AFP=연합뉴스. 재판매 및 DB 금지][AFP=연합뉴스. 재판매 및 DB 금지]\n미국 알래스카주 연방 상원의원 선거에서 민주당 후보가 승리했습니다.\n\nAP 통신은 현지시간 17일 알래스카주 상원 선거 개표에서 민주당 메리 펠톨라 후보가 공화당 현직 상원의원인 댄 S. 설리번 후보를 꺾었다고 보도했습니다.\n\n펠톨라 후보는 알래스카의 첫 원주민 출신 연방 상원의원으로 기록됐습니다.\n\n앞서 2022년 연방 하원의원 선거에서도 펠톨라 후보가 당선되면서 첫 원주민 출신 연방 의회 입성 기록을 남긴 바 있습니다.\n\n이로써 전체 100명 가운데 35명을 새로 뽑는 이번 중간선거의 상원의원 선거는 민주당의 승리로 마무리됐습니다.\n\n민주당은 내년 1월 출범하는 차기 의회 상원에서 56석을 확보해 다수당의 지위를 차지했고, 공화당 의석은 53석에서 44석으로 줄었습니다.\n\n\n#중간선거 #알래스카 #메리펠돌라 #상원 #민주당 #공화당\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최영범(ybchoi@yna.co.kr)",
+          "title": "[속보] 이 대통령, 中 APEC 계기 푸틴과 첫 회동",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261119072424RGV",
+          "pubDate": "Thu, 19 Nov 2026 07:24:26 +0900",
+          "content:encoded": "APEC 정상회의 참석을 위해 중국 선전을 방문하고 있는 이재명 대통령이 블라디미르 푸틴 러시아 대통령과 취임 후 처음으로 회동했습니다.\n\n청와대 고위관계자는 현지시간 18일 기자들과 만나 \"양 정상이 APEC 정상회의 환영 만찬에서 약 10분간 만났다\"고 설명했습니다.\n\n이 관계자는 \"푸틴 대통령과 대화 과정에서 한반도 문제가 언급이 됐고, 그 맥락에서 북한, 남북, 북한 핵 문제도 일단 다뤄졌다\"고 말했습니다.\n\n북한 김정은 국무위원장의 APEC 참석 여부와 관련해서는 \"아직까지 특별한 동향을 파악하고 있는 것은 없다\"고 전했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최영범(ybchoi@yna.co.kr)",
+          "content:encodedSnippet": "APEC 정상회의 참석을 위해 중국 선전을 방문하고 있는 이재명 대통령이 블라디미르 푸틴 러시아 대통령과 취임 후 처음으로 회동했습니다.\n\n청와대 고위관계자는 현지시간 18일 기자들과 만나 \"양 정상이 APEC 정상회의 환영 만찬에서 약 10분간 만났다\"고 설명했습니다.\n\n이 관계자는 \"푸틴 대통령과 대화 과정에서 한반도 문제가 언급이 됐고, 그 맥락에서 북한, 남북, 북한 핵 문제도 일단 다뤄졌다\"고 말했습니다.\n\n북한 김정은 국무위원장의 APEC 참석 여부와 관련해서는 \"아직까지 특별한 동향을 파악하고 있는 것은 없다\"고 전했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최영범(ybchoi@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261118/AKR20261119011426IMd_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261118/MYH20261119072424RGV.jpg",
             "type": "image/jpeg"
           },
           "dc:creator": "최영범",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261119011426IMd#comments",
-          "content": "메리 펠톨라 민주당 알래스카 상원의원 후보[AFP=연합뉴스. 재판매 및 DB 금지][AFP=연합뉴스. 재판매 및 DB 금지] 미국 알래스카주 연방 상원의원 선거에서 민주당 후보가 승리했습니다. AP 통신은 현지시간 17일 알래스카주 상원 선거 개표에서 민주당 메리 펠톨라 후보가 공화당 현직 상원의원인 댄 S. 설리번 후보를 꺾었다고 보도했습니다. 펠톨라 후보는 알래스카의 첫 원주민 출신 연방 상원의원으로 기록됐습니다. 앞서 2022년 연방...",
-          "contentSnippet": "메리 펠톨라 민주당 알래스카 상원의원 후보[AFP=연합뉴스. 재판매 및 DB 금지][AFP=연합뉴스. 재판매 및 DB 금지] 미국 알래스카주 연방 상원의원 선거에서 민주당 후보가 승리했습니다. AP 통신은 현지시간 17일 알래스카주 상원 선거 개표에서 민주당 메리 펠톨라 후보가 공화당 현직 상원의원인 댄 S. 설리번 후보를 꺾었다고 보도했습니다. 펠톨라 후보는 알래스카의 첫 원주민 출신 연방 상원의원으로 기록됐습니다. 앞서 2022년 연방...",
-          "guid": "AKR20261119011426IMd",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261119072424RGV#comments",
+          "content": "APEC 정상회의 참석을 위해 중국 선전을 방문하고 있는 이재명 대통령이 블라디미르 푸틴 러시아 대통령과 취임 후 처음으로 회동했습니다. 청와대 고위관계자는 현지시간 18일 기자들과 만나 \"양 정상이 APEC 정상회의 환영 만찬에서 약 10분간 만났다\"고 설명했습니다. 이 관계자는 \"푸틴 대통령과 대화 과정에서 한반도 문제가 언급이 됐고, 그 맥락에서 북한, 남북, 북한 핵 문제도 일단 다뤄졌다\"고 말했습니다. 북한 김정은 국무위원장의 A...",
+          "contentSnippet": "APEC 정상회의 참석을 위해 중국 선전을 방문하고 있는 이재명 대통령이 블라디미르 푸틴 러시아 대통령과 취임 후 처음으로 회동했습니다. 청와대 고위관계자는 현지시간 18일 기자들과 만나 \"양 정상이 APEC 정상회의 환영 만찬에서 약 10분간 만났다\"고 설명했습니다. 이 관계자는 \"푸틴 대통령과 대화 과정에서 한반도 문제가 언급이 됐고, 그 맥락에서 북한, 남북, 북한 핵 문제도 일단 다뤄졌다\"고 말했습니다. 북한 김정은 국무위원장의 A...",
+          "guid": "MYH20261119072424RGV",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-18T16:14:27.000Z"
-        },
-        {
-          "creator": "김태욱",
-          "title": "日, 조국 입국 거부에 \"전과가 이유\"…외교부 \"재발방지 요청\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261119004316EXb",
-          "pubDate": "Thu, 19 Nov 2026 00:43:19 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261118/AKR20261119004316EXb_01_i.jpg\" alt=\"\"><span class=\"yna_title\">질문에 답하는 조국 혁신정책연구원장</span><span class=\"yna_caption\">[연합뉴스 자료]</span><span class=\"yna_description\">[연합뉴스 자료]</span></div>\n\n조국 혁신정책연구원 원장이 지난 17일 일본 공항에 도착했다가 출입국 당국에 의해 입국이 거부된 데 대해 일본 정부가 조 원장의 독도 방문 이력이 아닌 전과 보유가 원인이라는 입장을 밝혔습니다.\n\n일본 정부 대변인인 기하라 미노루 관방장관은 18일 오전 기자회견에서 관련 질문에 \"외국인의 우리나라(일본) 상륙 허용 여부에 대해서는 출입국재류관리청에서 '출입국관리및난민인정법'(입관법)에 따라 판단하고 있다\"고 말했습니다.\n\n기하라 장관이 언급한 일본 입관법 제5조 제1항에는 외국인의 상륙 거부 사유로 '일본 또는 기타 국가의 법률이나 규정을 위반한 혐의로 유죄 판결을 받고 1년 이상의 징역 또는 이에 상응하는 형을 선고받은 자'가 포함돼 있습니다.\n\n교도통신에 따르면 기하라 장관 회견 뒤 일본 출입국재류관리청은 조 원장이 입관법 상 입국 거부 사유인 '유죄 판결을 받고 1년 이상의 징역 또는 이에 상응하는 형을 선고받은 자'에 해당했다고 밝혔습니다.\n\n교도는 조 원장이 자녀 입시 비리 등의 혐의로 징역 2년 실형을 확정 받았던 전력이 있다고 부연했습니다.\n\n다만 조 원장 측은 2024년 5월 독도를 방문했을 당시 일본 외무성에서 강하게 항의한 것을 거론하며 \"독도 방문이 입국 거부의 이유라면 이는 영토 주권에 대한 부당한 도전\"이라고 비판했습니다.\n\n이와 관련해 외교부는 \"우리 측은 우리 국민에 대한 입국 제한 조치가 객관적이고 일관된 기준에 따라 공정하고 예측 가능하도록 이루어지는 것이 중요하다는 입장을 일본 측에 전달했다\"고 밝혔습니다.\n\n또 \"특히, 이번 사안과 관련 우리 국내적으로 일본 당국의 해당 규정 적용 기준에 대해 의문이 제기되고 있음을 설명하고, 유사 사례가 재발하지 않도록 해 줄 것을 요청했다\"며 \"한일 외교당국은 이번 사안을 포함한 출입국 문제에 관한 소통을 이어가기로 했다\"고 전했습니다.\n\n#조국 #일본 #입국거부 #외교부\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김태욱(tw@yna.co.kr)",
-          "content:encodedSnippet": "질문에 답하는 조국 혁신정책연구원장[연합뉴스 자료][연합뉴스 자료]\n\n조국 혁신정책연구원 원장이 지난 17일 일본 공항에 도착했다가 출입국 당국에 의해 입국이 거부된 데 대해 일본 정부가 조 원장의 독도 방문 이력이 아닌 전과 보유가 원인이라는 입장을 밝혔습니다.\n\n일본 정부 대변인인 기하라 미노루 관방장관은 18일 오전 기자회견에서 관련 질문에 \"외국인의 우리나라(일본) 상륙 허용 여부에 대해서는 출입국재류관리청에서 '출입국관리및난민인정법'(입관법)에 따라 판단하고 있다\"고 말했습니다.\n\n기하라 장관이 언급한 일본 입관법 제5조 제1항에는 외국인의 상륙 거부 사유로 '일본 또는 기타 국가의 법률이나 규정을 위반한 혐의로 유죄 판결을 받고 1년 이상의 징역 또는 이에 상응하는 형을 선고받은 자'가 포함돼 있습니다.\n\n교도통신에 따르면 기하라 장관 회견 뒤 일본 출입국재류관리청은 조 원장이 입관법 상 입국 거부 사유인 '유죄 판결을 받고 1년 이상의 징역 또는 이에 상응하는 형을 선고받은 자'에 해당했다고 밝혔습니다.\n\n교도는 조 원장이 자녀 입시 비리 등의 혐의로 징역 2년 실형을 확정 받았던 전력이 있다고 부연했습니다.\n\n다만 조 원장 측은 2024년 5월 독도를 방문했을 당시 일본 외무성에서 강하게 항의한 것을 거론하며 \"독도 방문이 입국 거부의 이유라면 이는 영토 주권에 대한 부당한 도전\"이라고 비판했습니다.\n\n이와 관련해 외교부는 \"우리 측은 우리 국민에 대한 입국 제한 조치가 객관적이고 일관된 기준에 따라 공정하고 예측 가능하도록 이루어지는 것이 중요하다는 입장을 일본 측에 전달했다\"고 밝혔습니다.\n\n또 \"특히, 이번 사안과 관련 우리 국내적으로 일본 당국의 해당 규정 적용 기준에 대해 의문이 제기되고 있음을 설명하고, 유사 사례가 재발하지 않도록 해 줄 것을 요청했다\"며 \"한일 외교당국은 이번 사안을 포함한 출입국 문제에 관한 소통을 이어가기로 했다\"고 전했습니다.\n\n#조국 #일본 #입국거부 #외교부\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김태욱(tw@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261118/AKR20261119004316EXb_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "김태욱",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261119004316EXb#comments",
-          "content": "질문에 답하는 조국 혁신정책연구원장[연합뉴스 자료][연합뉴스 자료] 조국 혁신정책연구원 원장이 지난 17일 일본 공항에 도착했다가 출입국 당국에 의해 입국이 거부된 데 대해 일본 정부가 조 원장의 독도 방문 이력이 아닌 전과 보유가 원인이라는 입장을 밝혔습니다. 일본 정부 대변인인 기하라 미노루 관방장관은 18일 오전 기자회견에서 관련 질문에 \"외국인의 우리나라(일본) 상륙 허용 여부에 대해서는 출입국재류관리청에서 '출입국관리및난민인정법'...",
-          "contentSnippet": "질문에 답하는 조국 혁신정책연구원장[연합뉴스 자료][연합뉴스 자료] 조국 혁신정책연구원 원장이 지난 17일 일본 공항에 도착했다가 출입국 당국에 의해 입국이 거부된 데 대해 일본 정부가 조 원장의 독도 방문 이력이 아닌 전과 보유가 원인이라는 입장을 밝혔습니다. 일본 정부 대변인인 기하라 미노루 관방장관은 18일 오전 기자회견에서 관련 질문에 \"외국인의 우리나라(일본) 상륙 허용 여부에 대해서는 출입국재류관리청에서 '출입국관리및난민인정법'...",
-          "guid": "AKR20261119004316EXb",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-18T15:43:19.000Z"
+          "isoDate": "2026-11-18T22:24:26.000Z"
         },
         {
           "creator": "최영범",
-          "title": "미국 사이버보안국도 '자바' 취약점 경고…\"즉각 패치 적용 촉구\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261119004040vaQ",
-          "pubDate": "Thu, 19 Nov 2026 00:40:43 +0900",
-          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261118/AKR20261119004040vaQ_01_i.jpg\" alt=\"\"><span class=\"yna_title\">사이버 보안</span><span class=\"yna_caption\">[로이터=연합뉴스 자료사진. 재판매 및 DB 금지]</span><span class=\"yna_description\">[로이터=연합뉴스 자료사진. 재판매 및 DB 금지]</span></div>\n미국 사이버보안·인프라보안국(CISA)이 공공기관 등이 사용하는 자바(JAVA)에서 원격으로 악성 코드를 실행할 수 있는 취약점이 확인됐다면서 긴급 패치를 권고했습니다.\n\n현지시간 18일 CISA는 전날 홈페이지에 게시한 권고문에서 \"각 기관과 조직에 최근 공개된 오라클 자바(Oracle Java)에 영향을 미치는 심각한 보안 취약점에 대해 즉각적으로 패치를 적용할 것을 촉구한다\"고 밝혔습니다.\n\nCISA는 \"'CVE-2026-114938'로 추적되는 취약점은 메모리의 허용된 범위를 벗어나 데이터를 기록하는 '범위 밖 쓰기'(out-of-bounds write) 문제를 언급하며, 특정 조건에서 서비스 거부 또는 원격 코드 실행으로 이어질 수 있다\"고 경고했습니다.\n\n또한 \"'Java4Shell'로 알려진 심각한 메모리 손상 취약점은 자바 개발 키트(JDK)의 일부인 x86-64 핫스팟 자바가상머신의 Base64 디코더에 영향을 미친다\"고 지적했습니다.\n\nCISA는 \"자바 등의 패치를 즉시 적용하되, 인터넷에 직접 노출된 시스템을 먼저 처리하라\"며 \"즉각적인 패치 적용이 불가능한 경우 애플리케이션 범위에서 Base64 입력을 제한하고 검증하는 조치, 입력 데이터 크기 제한을 강제하는 조치, 인증되지 않은 접근을 제한하는 조치 등 임시적인 보완 통제 조치를 시행하라\"고 밝혔습니다.\n\n\n#CISA #JAVA #OracleJava #사이버보안인프라보안국 #오라클자바 #자바 #패치\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최영범(ybchoi@yna.co.kr)",
-          "content:encodedSnippet": "사이버 보안[로이터=연합뉴스 자료사진. 재판매 및 DB 금지][로이터=연합뉴스 자료사진. 재판매 및 DB 금지]\n미국 사이버보안·인프라보안국(CISA)이 공공기관 등이 사용하는 자바(JAVA)에서 원격으로 악성 코드를 실행할 수 있는 취약점이 확인됐다면서 긴급 패치를 권고했습니다.\n\n현지시간 18일 CISA는 전날 홈페이지에 게시한 권고문에서 \"각 기관과 조직에 최근 공개된 오라클 자바(Oracle Java)에 영향을 미치는 심각한 보안 취약점에 대해 즉각적으로 패치를 적용할 것을 촉구한다\"고 밝혔습니다.\n\nCISA는 \"'CVE-2026-114938'로 추적되는 취약점은 메모리의 허용된 범위를 벗어나 데이터를 기록하는 '범위 밖 쓰기'(out-of-bounds write) 문제를 언급하며, 특정 조건에서 서비스 거부 또는 원격 코드 실행으로 이어질 수 있다\"고 경고했습니다.\n\n또한 \"'Java4Shell'로 알려진 심각한 메모리 손상 취약점은 자바 개발 키트(JDK)의 일부인 x86-64 핫스팟 자바가상머신의 Base64 디코더에 영향을 미친다\"고 지적했습니다.\n\nCISA는 \"자바 등의 패치를 즉시 적용하되, 인터넷에 직접 노출된 시스템을 먼저 처리하라\"며 \"즉각적인 패치 적용이 불가능한 경우 애플리케이션 범위에서 Base64 입력을 제한하고 검증하는 조치, 입력 데이터 크기 제한을 강제하는 조치, 인증되지 않은 접근을 제한하는 조치 등 임시적인 보완 통제 조치를 시행하라\"고 밝혔습니다.\n\n\n#CISA #JAVA #OracleJava #사이버보안인프라보안국 #오라클자바 #자바 #패치\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최영범(ybchoi@yna.co.kr)",
+          "title": "김정은, 북미회담 관심 속 해군대학 등 시찰",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261119071926P3b",
+          "pubDate": "Thu, 19 Nov 2026 07:19:28 +0900",
+          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261118/AKR20261119071926P3b_01_i.jpg\" alt=\"\"><span class=\"yna_title\">북한 김정은 시찰</span><span class=\"yna_caption\">[연합뉴스 자료사진. 국내에서만 사용가능. 재배포 금지. For Use Only in the Republic of Korea. No Redistribution]</span><span class=\"yna_description\">[연합뉴스 자료사진. 국내에서만 사용가능. 재배포 금지. For Use Only in the Republic of Korea. No Redistribution]</span></div>\n중국 선전에서 열리는 아시아태평양경제협력체(APEC) 정상회의를 계기로 북미정상회담 개최 가능성에 관심이 쏠리는 가운데 김정은 국무위원장이 함흥의 해군대학 등 함경남도 일대를 시찰했습니다.\n\n도널드 트럼프 대통령은 중국으로 출발하기 전 김정은 위원장이 중국으로 올 수도 있다고 언급하며 북미 정상 회동 가능성을 시사했지만, 김 위원장은 북중 접경지에서 떨어진 함경남도에서 군사·경제 분야 현지 행보를 이어갔습니다.\n\n조선중앙통신은 김 위원장이 지난 18일 김정숙 해군대학을 방문해 현지지도했다고 19일 보도했습니다.\n\n박정천 노동당 중앙군사위 부위원장이 이날 방문을 수행했습니다.\n\n김 위원장은 \"우리 해군이 고도의 기술군종, 다기능화된 병종전투종합체로 진화되고 있는 오늘 최고의 전문성을 보유한 해군 지휘관들을 키워내는 것을 본업으로 하는 해군대학의 전략적 의의는 비상히 증대되고 있다\"고 말했습니다.\n\n이어 \"해상주권 수호의 중요성이 더욱 부각되고 있고 가장 간악한 적들과 항시적으로 대치하고 있는 현실은 현대전에 능란하게 대응할 수 있는 유능한 해군전투체계 전문가들과 지휘관들을 더 많이 양성할 것을 절박하게 요구하고 있다\"고 강조했습니다.\n\n그러면서 \"변화된 환경과 날로 증강되는 도전은 강력한 해군건설을 제1의 전략적 임무로 내세울 것을 요구\"하고 있다며 해군대학을 \"군사교육중심으로 만들어 모든 학생들을 야전형, 실력가형, 행동형의 지휘성원들로 키우는 것이 관건적인 문제\"라고 지적했습니다.\n\n김 위원장은 해군대학 내 혁명사적관과 군사종합연구실, 종합훈련실 등을 돌아보고 작전연구실과 모의훈련실 훈련 모습을 지켜봤으며 교직원·학생들과 기념사진을 찍었습니다.\n\n김 위원장은 이에 앞서 17∼18일 함경남도 리원군과 락원군의 지방발전정책 대상 건설장을 현지 지도했다고 중앙통신은 전했습니다.\n\n김 위원장은 당 중앙위원회·국방성 주요 지도 간부들과 함께 리원군의 바닷가 양식사업소와 어촌문화 주택지구 등을 둘러봤습니다.\n\n\n\n#김정은 #APEC #북미정상회담 #함경남도 #김정숙해군대학\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최영범(ybchoi@yna.co.kr)",
+          "content:encodedSnippet": "북한 김정은 시찰[연합뉴스 자료사진. 국내에서만 사용가능. 재배포 금지. For Use Only in the Republic of Korea. No Redistribution][연합뉴스 자료사진. 국내에서만 사용가능. 재배포 금지. For Use Only in the Republic of Korea. No Redistribution]\n중국 선전에서 열리는 아시아태평양경제협력체(APEC) 정상회의를 계기로 북미정상회담 개최 가능성에 관심이 쏠리는 가운데 김정은 국무위원장이 함흥의 해군대학 등 함경남도 일대를 시찰했습니다.\n\n도널드 트럼프 대통령은 중국으로 출발하기 전 김정은 위원장이 중국으로 올 수도 있다고 언급하며 북미 정상 회동 가능성을 시사했지만, 김 위원장은 북중 접경지에서 떨어진 함경남도에서 군사·경제 분야 현지 행보를 이어갔습니다.\n\n조선중앙통신은 김 위원장이 지난 18일 김정숙 해군대학을 방문해 현지지도했다고 19일 보도했습니다.\n\n박정천 노동당 중앙군사위 부위원장이 이날 방문을 수행했습니다.\n\n김 위원장은 \"우리 해군이 고도의 기술군종, 다기능화된 병종전투종합체로 진화되고 있는 오늘 최고의 전문성을 보유한 해군 지휘관들을 키워내는 것을 본업으로 하는 해군대학의 전략적 의의는 비상히 증대되고 있다\"고 말했습니다.\n\n이어 \"해상주권 수호의 중요성이 더욱 부각되고 있고 가장 간악한 적들과 항시적으로 대치하고 있는 현실은 현대전에 능란하게 대응할 수 있는 유능한 해군전투체계 전문가들과 지휘관들을 더 많이 양성할 것을 절박하게 요구하고 있다\"고 강조했습니다.\n\n그러면서 \"변화된 환경과 날로 증강되는 도전은 강력한 해군건설을 제1의 전략적 임무로 내세울 것을 요구\"하고 있다며 해군대학을 \"군사교육중심으로 만들어 모든 학생들을 야전형, 실력가형, 행동형의 지휘성원들로 키우는 것이 관건적인 문제\"라고 지적했습니다.\n\n김 위원장은 해군대학 내 혁명사적관과 군사종합연구실, 종합훈련실 등을 돌아보고 작전연구실과 모의훈련실 훈련 모습을 지켜봤으며 교직원·학생들과 기념사진을 찍었습니다.\n\n김 위원장은 이에 앞서 17∼18일 함경남도 리원군과 락원군의 지방발전정책 대상 건설장을 현지 지도했다고 중앙통신은 전했습니다.\n\n김 위원장은 당 중앙위원회·국방성 주요 지도 간부들과 함께 리원군의 바닷가 양식사업소와 어촌문화 주택지구 등을 둘러봤습니다.\n\n\n\n#김정은 #APEC #북미정상회담 #함경남도 #김정숙해군대학\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최영범(ybchoi@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261118/AKR20261119004040vaQ_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261118/AKR20261119071926P3b_01_i.jpg",
             "type": "image/jpeg"
           },
           "dc:creator": "최영범",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261119004040vaQ#comments",
-          "content": "사이버 보안[로이터=연합뉴스 자료사진. 재판매 및 DB 금지][로이터=연합뉴스 자료사진. 재판매 및 DB 금지] 미국 사이버보안·인프라보안국(CISA)이 공공기관 등이 사용하는 자바(JAVA)에서 원격으로 악성 코드를 실행할 수 있는 취약점이 확인됐다면서 긴급 패치를 권고했습니다. 현지시간 18일 CISA는 전날 홈페이지에 게시한 권고문에서 \"각 기관과 조직에 최근 공개된 오라클 자바(Oracle Java)에 영향을 미치는 심각한 보안 취...",
-          "contentSnippet": "사이버 보안[로이터=연합뉴스 자료사진. 재판매 및 DB 금지][로이터=연합뉴스 자료사진. 재판매 및 DB 금지] 미국 사이버보안·인프라보안국(CISA)이 공공기관 등이 사용하는 자바(JAVA)에서 원격으로 악성 코드를 실행할 수 있는 취약점이 확인됐다면서 긴급 패치를 권고했습니다. 현지시간 18일 CISA는 전날 홈페이지에 게시한 권고문에서 \"각 기관과 조직에 최근 공개된 오라클 자바(Oracle Java)에 영향을 미치는 심각한 보안 취...",
-          "guid": "AKR20261119004040vaQ",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261119071926P3b#comments",
+          "content": "북한 김정은 시찰[연합뉴스 자료사진. 국내에서만 사용가능. 재배포 금지. For Use Only in the Republic of Korea. No Redistribution][연합뉴스 자료사진. 국내에서만 사용가능. 재배포 금지. For Use Only in the Republic of Korea. No Redistribution] 중국 선전에서 열리는 아시아태평양경제협력체(APEC) 정상회의를 계기로 북미정상회담 개최 가능성에 관심이 ...",
+          "contentSnippet": "북한 김정은 시찰[연합뉴스 자료사진. 국내에서만 사용가능. 재배포 금지. For Use Only in the Republic of Korea. No Redistribution][연합뉴스 자료사진. 국내에서만 사용가능. 재배포 금지. For Use Only in the Republic of Korea. No Redistribution] 중국 선전에서 열리는 아시아태평양경제협력체(APEC) 정상회의를 계기로 북미정상회담 개최 가능성에 관심이 ...",
+          "guid": "AKR20261119071926P3b",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-18T15:40:43.000Z"
-        },
-        {
-          "creator": "김태욱",
-          "title": "美민주, 트럼프 아들에 사업 관련 기록 보존 요구…사익추구 의혹 정조준",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261119004004FVB",
-          "pubDate": "Thu, 19 Nov 2026 00:40:06 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261118/AKR20261119004004FVB_01_i.jpg\" alt=\"\"><span class=\"yna_title\">차기 미국 연방 하원 감독위원장 맡을 로버트 가르시아 민주당 의원</span><span class=\"yna_caption\">[AP=연합뉴스. 재판매 및 DB 금지]</span><span class=\"yna_description\">[AP=연합뉴스. 재판매 및 DB 금지]</span></div>\n미국 중간선거 결과로 차기 의회 권력을 장악한 민주당이 도널드 트럼프 대통령 가족과 측근의 사익 추구 의혹 등을 정면으로 겨냥하기 시작했습니다.\n\n내년 1월 출범하는 제120대 연방 의회 하원 감독위원장을 맡을 로버트 가르시아(민주·캘리포니아) 의원은 현지시간 18일 도널드 트럼프 주니어와 에릭 트럼프 등 트럼프 대통령 아들 2명에게 서한을 보내 사업 관련 기록을 보존하라고 요구했다고 미국 언론들이 보도했습니다.\n\n가르시아 의원은 서한에서 트럼프 대통령의 두 아들이 설립해 운영 중인 가상화폐 벤처 플랫폼 '월드리버티 파이낸셜'을 조사할 수 있다고 밝혔습니다.\n\n이 회사는 아랍에미리트(UAE) 국가안보보좌관이 지원하는 투자회사에 지분 49%를 5억 달러에 매각하는 등 그간 사업 활동을 놓고 여러 의혹이 제기된 바 있습니다.\n\n가르시아 의원은 트럼프 대통령의 아들들이 \"부친의 대통령직을 통해 막대한 개인적 이익을 얻기 위해 사업을 추진한 것으로 보이며, 부친의 행정부로부터 계약이나 우대 조치를 얻으려는 업체들이 해당 기업과의 관계를 통해 이익을 얻는 것으로 보인다\"고 지적했습니다.\n\n가르시아 의원은 중동 및 우크라이나 전쟁 관련 협상에서 트럼프 대통령 특사로 활동 중인 맏사위 재러드 쿠슈너에게도 서한을 보냈습니다.\n\n그는 서한에서 사모펀드 회사를 운영하는 쿠슈너가 특사 활동을 하면서 전 세계에서 진행한 투자와 관련한 잠재적 이해 상충 문제가 조사 대상이 될 수 있다고 경고했습니다.\n\n가르시아 의원은 JD 밴스 부통령, 스티븐 밀러 백악관 비서실장, 수지 와일스 전 백악관 비서실장, 토드 블랜치 법무장관, 크리스티 놈 전 국토안보장관, 킴벌리 길포인 전 그리스 대사 등 트럼프 대통령 측근들과 행정부 전·현직 핵심 당국자에게도 서한을 발송했습니다.\n\n이들 서한은 불법 이민자 대규모 추방 작전 등 초강경 이민 정책, 2019년 교도소에서 사망한 성범죄자 제프리 엡스틴과 고위 공직자들의 친분 의혹, 행정부의 엡스틴 파일 공개 과정 등과 관련돼 있습니다.\n\n미 정치전문매체 폴리티코는 가르시아 의원의 서한 발송에 대해 \"트럼프 대통령의 남은 임기 동안 민주당이 오랜 법정 공방으로 이어질 수 있는 백악관과의 대립을 피하지 않을 것임을 보여주는 신호\"라고 평가했습니다.\n\n#미국 #사익추구 #의혹 #서한 #민주당 #트럼프\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김태욱(tw@yna.co.kr)",
-          "content:encodedSnippet": "차기 미국 연방 하원 감독위원장 맡을 로버트 가르시아 민주당 의원[AP=연합뉴스. 재판매 및 DB 금지][AP=연합뉴스. 재판매 및 DB 금지]\n미국 중간선거 결과로 차기 의회 권력을 장악한 민주당이 도널드 트럼프 대통령 가족과 측근의 사익 추구 의혹 등을 정면으로 겨냥하기 시작했습니다.\n\n내년 1월 출범하는 제120대 연방 의회 하원 감독위원장을 맡을 로버트 가르시아(민주·캘리포니아) 의원은 현지시간 18일 도널드 트럼프 주니어와 에릭 트럼프 등 트럼프 대통령 아들 2명에게 서한을 보내 사업 관련 기록을 보존하라고 요구했다고 미국 언론들이 보도했습니다.\n\n가르시아 의원은 서한에서 트럼프 대통령의 두 아들이 설립해 운영 중인 가상화폐 벤처 플랫폼 '월드리버티 파이낸셜'을 조사할 수 있다고 밝혔습니다.\n\n이 회사는 아랍에미리트(UAE) 국가안보보좌관이 지원하는 투자회사에 지분 49%를 5억 달러에 매각하는 등 그간 사업 활동을 놓고 여러 의혹이 제기된 바 있습니다.\n\n가르시아 의원은 트럼프 대통령의 아들들이 \"부친의 대통령직을 통해 막대한 개인적 이익을 얻기 위해 사업을 추진한 것으로 보이며, 부친의 행정부로부터 계약이나 우대 조치를 얻으려는 업체들이 해당 기업과의 관계를 통해 이익을 얻는 것으로 보인다\"고 지적했습니다.\n\n가르시아 의원은 중동 및 우크라이나 전쟁 관련 협상에서 트럼프 대통령 특사로 활동 중인 맏사위 재러드 쿠슈너에게도 서한을 보냈습니다.\n\n그는 서한에서 사모펀드 회사를 운영하는 쿠슈너가 특사 활동을 하면서 전 세계에서 진행한 투자와 관련한 잠재적 이해 상충 문제가 조사 대상이 될 수 있다고 경고했습니다.\n\n가르시아 의원은 JD 밴스 부통령, 스티븐 밀러 백악관 비서실장, 수지 와일스 전 백악관 비서실장, 토드 블랜치 법무장관, 크리스티 놈 전 국토안보장관, 킴벌리 길포인 전 그리스 대사 등 트럼프 대통령 측근들과 행정부 전·현직 핵심 당국자에게도 서한을 발송했습니다.\n\n이들 서한은 불법 이민자 대규모 추방 작전 등 초강경 이민 정책, 2019년 교도소에서 사망한 성범죄자 제프리 엡스틴과 고위 공직자들의 친분 의혹, 행정부의 엡스틴 파일 공개 과정 등과 관련돼 있습니다.\n\n미 정치전문매체 폴리티코는 가르시아 의원의 서한 발송에 대해 \"트럼프 대통령의 남은 임기 동안 민주당이 오랜 법정 공방으로 이어질 수 있는 백악관과의 대립을 피하지 않을 것임을 보여주는 신호\"라고 평가했습니다.\n\n#미국 #사익추구 #의혹 #서한 #민주당 #트럼프\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김태욱(tw@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261118/AKR20261119004004FVB_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "김태욱",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261119004004FVB#comments",
-          "content": "차기 미국 연방 하원 감독위원장 맡을 로버트 가르시아 민주당 의원[AP=연합뉴스. 재판매 및 DB 금지][AP=연합뉴스. 재판매 및 DB 금지] 미국 중간선거 결과로 차기 의회 권력을 장악한 민주당이 도널드 트럼프 대통령 가족과 측근의 사익 추구 의혹 등을 정면으로 겨냥하기 시작했습니다. 내년 1월 출범하는 제120대 연방 의회 하원 감독위원장을 맡을 로버트 가르시아(민주·캘리포니아) 의원은 현지시간 18일 도널드 트럼프 주니어와 에릭 트...",
-          "contentSnippet": "차기 미국 연방 하원 감독위원장 맡을 로버트 가르시아 민주당 의원[AP=연합뉴스. 재판매 및 DB 금지][AP=연합뉴스. 재판매 및 DB 금지] 미국 중간선거 결과로 차기 의회 권력을 장악한 민주당이 도널드 트럼프 대통령 가족과 측근의 사익 추구 의혹 등을 정면으로 겨냥하기 시작했습니다. 내년 1월 출범하는 제120대 연방 의회 하원 감독위원장을 맡을 로버트 가르시아(민주·캘리포니아) 의원은 현지시간 18일 도널드 트럼프 주니어와 에릭 트...",
-          "guid": "AKR20261119004004FVB",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-18T15:40:06.000Z"
-        },
-        {
-          "creator": "김예린",
-          "title": "IAEA사무총장 \"北 영변 핵시설 증축공사 완료\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH202611190022333xv",
-          "pubDate": "Thu, 19 Nov 2026 00:22:34 +0900",
-          "content:encoded": "북한 우라늄 농축 시설의 증축 공사가 지난달 외관상 완공된 상태라고 라파엘 그로시 국제원자력기구(IAEA) 사무총장이 밝혔습니다.\n\n그로시 사무총장은 현지 시간 18일 IAEA 이사회 기조연설에서 \"9월 중순부터 영변 농축 시설 증축 공사가 진행됐으며, 지난달 말쯤 건물 외부 공사가 완료됐다\"고 말했습니다.\n\n그러면서 \"북한의 지속적인 우라늄 농축 프로그램 확대는 여전히 심각한 우려 사안\"이라고 덧붙였습니다.\n\n북한은 과거 협상에 따라 영변 우라늄 농축 시설을 폐기하겠다고 주장했지만, 지난 2021년 재가동했습니다.\n\n#북한 #우라늄 #IAEA #영변\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김예린(yey@yna.co.kr)",
-          "content:encodedSnippet": "북한 우라늄 농축 시설의 증축 공사가 지난달 외관상 완공된 상태라고 라파엘 그로시 국제원자력기구(IAEA) 사무총장이 밝혔습니다.\n\n그로시 사무총장은 현지 시간 18일 IAEA 이사회 기조연설에서 \"9월 중순부터 영변 농축 시설 증축 공사가 진행됐으며, 지난달 말쯤 건물 외부 공사가 완료됐다\"고 말했습니다.\n\n그러면서 \"북한의 지속적인 우라늄 농축 프로그램 확대는 여전히 심각한 우려 사안\"이라고 덧붙였습니다.\n\n북한은 과거 협상에 따라 영변 우라늄 농축 시설을 폐기하겠다고 주장했지만, 지난 2021년 재가동했습니다.\n\n#북한 #우라늄 #IAEA #영변\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김예린(yey@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261118/MYH202611190022333xv.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "김예린",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH202611190022333xv#comments",
-          "content": "북한 우라늄 농축 시설의 증축 공사가 지난달 외관상 완공된 상태라고 라파엘 그로시 국제원자력기구(IAEA) 사무총장이 밝혔습니다. 그로시 사무총장은 현지 시간 18일 IAEA 이사회 기조연설에서 \"9월 중순부터 영변 농축 시설 증축 공사가 진행됐으며, 지난달 말쯤 건물 외부 공사가 완료됐다\"고 말했습니다. 그러면서 \"북한의 지속적인 우라늄 농축 프로그램 확대는 여전히 심각한 우려 사안\"이라고 덧붙였습니다. 북한은 과거 협상에 따라 영변 우...",
-          "contentSnippet": "북한 우라늄 농축 시설의 증축 공사가 지난달 외관상 완공된 상태라고 라파엘 그로시 국제원자력기구(IAEA) 사무총장이 밝혔습니다. 그로시 사무총장은 현지 시간 18일 IAEA 이사회 기조연설에서 \"9월 중순부터 영변 농축 시설 증축 공사가 진행됐으며, 지난달 말쯤 건물 외부 공사가 완료됐다\"고 말했습니다. 그러면서 \"북한의 지속적인 우라늄 농축 프로그램 확대는 여전히 심각한 우려 사안\"이라고 덧붙였습니다. 북한은 과거 협상에 따라 영변 우...",
-          "guid": "MYH202611190022333xv",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-18T15:22:34.000Z"
-        },
-        {
-          "creator": "이지현",
-          "title": "경제계 \"한중 FTA 후속협상 환영…투자 기대\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261119001452pRp",
-          "pubDate": "Thu, 19 Nov 2026 00:14:54 +0900",
-          "content:encoded": "경제계가 한중 자유무역협정, FTA 서비스·투자 후속협상 타결에 환영의 뜻을 밝혔습니다.\n\n대한상공회의소와 한국무역협회는 양국 협력이 상품 교역에서 서비스·투자 분야로 확대되면서 국내 기업에 새로운 사업 기회가 열릴 것으로 기대했습니다.\n\n경제계는 기업 또한 민간 협력 확대에 힘을 보태겠다며, 양국 정부에 합의 내용을 충실히 이행해 달라고 요청했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이지현(ji@yna.co.kr)",
-          "content:encodedSnippet": "경제계가 한중 자유무역협정, FTA 서비스·투자 후속협상 타결에 환영의 뜻을 밝혔습니다.\n\n대한상공회의소와 한국무역협회는 양국 협력이 상품 교역에서 서비스·투자 분야로 확대되면서 국내 기업에 새로운 사업 기회가 열릴 것으로 기대했습니다.\n\n경제계는 기업 또한 민간 협력 확대에 힘을 보태겠다며, 양국 정부에 합의 내용을 충실히 이행해 달라고 요청했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이지현(ji@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261118/MYH20261119001452pRp.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "이지현",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261119001452pRp#comments",
-          "content": "경제계가 한중 자유무역협정, FTA 서비스·투자 후속협상 타결에 환영의 뜻을 밝혔습니다. 대한상공회의소와 한국무역협회는 양국 협력이 상품 교역에서 서비스·투자 분야로 확대되면서 국내 기업에 새로운 사업 기회가 열릴 것으로 기대했습니다. 경제계는 기업 또한 민간 협력 확대에 힘을 보태겠다며, 양국 정부에 합의 내용을 충실히 이행해 달라고 요청했습니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 이지현(ji@yna.co.kr)",
-          "contentSnippet": "경제계가 한중 자유무역협정, FTA 서비스·투자 후속협상 타결에 환영의 뜻을 밝혔습니다. 대한상공회의소와 한국무역협회는 양국 협력이 상품 교역에서 서비스·투자 분야로 확대되면서 국내 기업에 새로운 사업 기회가 열릴 것으로 기대했습니다. 경제계는 기업 또한 민간 협력 확대에 힘을 보태겠다며, 양국 정부에 합의 내용을 충실히 이행해 달라고 요청했습니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 이지현(ji@yna.co.kr)",
-          "guid": "MYH20261119001452pRp",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-18T15:14:54.000Z"
-        },
-        {
-          "creator": "김태욱",
-          "title": "민주당, 'AI 부정행위 응시 제한 10년' 법안 발의",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261119000211GW7",
-          "pubDate": "Thu, 19 Nov 2026 00:02:11 +0900",
-          "content:encoded": "더불어민주당이 수능을 하루 앞두고 인공지능 등을 활용한 부정행위 처벌을 강화하는 법안을 잇따라 발의했습니다.\n\n민주당 사무총장인 한정애 의원은 오늘(18일) 수능 부정행위자 응시 자격 정지 기간을 현행 1년에서 최대 10년으로 확대하는 고등교육법 개정안을 대표로 발의했습니다.\n\n법안에는 해당 규정을 올해 수능에도 소급해 적용할 수 있는 내용도 포함됐습니다.\n\n같은 당 김현정 의원도 공적 시험의 부정행위자를 형사처벌할 수 있게 하는 규정을 신설하는 형법 일부개정법률안을 대표 발의했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김태욱(tw@yna.co.kr)",
-          "content:encodedSnippet": "더불어민주당이 수능을 하루 앞두고 인공지능 등을 활용한 부정행위 처벌을 강화하는 법안을 잇따라 발의했습니다.\n\n민주당 사무총장인 한정애 의원은 오늘(18일) 수능 부정행위자 응시 자격 정지 기간을 현행 1년에서 최대 10년으로 확대하는 고등교육법 개정안을 대표로 발의했습니다.\n\n법안에는 해당 규정을 올해 수능에도 소급해 적용할 수 있는 내용도 포함됐습니다.\n\n같은 당 김현정 의원도 공적 시험의 부정행위자를 형사처벌할 수 있게 하는 규정을 신설하는 형법 일부개정법률안을 대표 발의했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김태욱(tw@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261118/MYH20261119000211GW7.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "김태욱",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261119000211GW7#comments",
-          "content": "더불어민주당이 수능을 하루 앞두고 인공지능 등을 활용한 부정행위 처벌을 강화하는 법안을 잇따라 발의했습니다. 민주당 사무총장인 한정애 의원은 오늘(18일) 수능 부정행위자 응시 자격 정지 기간을 현행 1년에서 최대 10년으로 확대하는 고등교육법 개정안을 대표로 발의했습니다. 법안에는 해당 규정을 올해 수능에도 소급해 적용할 수 있는 내용도 포함됐습니다. 같은 당 김현정 의원도 공적 시험의 부정행위자를 형사처벌할 수 있게 하는 규정을 신설하...",
-          "contentSnippet": "더불어민주당이 수능을 하루 앞두고 인공지능 등을 활용한 부정행위 처벌을 강화하는 법안을 잇따라 발의했습니다. 민주당 사무총장인 한정애 의원은 오늘(18일) 수능 부정행위자 응시 자격 정지 기간을 현행 1년에서 최대 10년으로 확대하는 고등교육법 개정안을 대표로 발의했습니다. 법안에는 해당 규정을 올해 수능에도 소급해 적용할 수 있는 내용도 포함됐습니다. 같은 당 김현정 의원도 공적 시험의 부정행위자를 형사처벌할 수 있게 하는 규정을 신설하...",
-          "guid": "MYH20261119000211GW7",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-18T15:02:11.000Z"
-        },
-        {
-          "creator": "김민아",
-          "title": "이번 수능부터 부정행위 신고 시 '1억 포상금' 추진",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261119000127KCm",
-          "pubDate": "Thu, 19 Nov 2026 00:01:29 +0900",
-          "content:encoded": "정부가 이번 수능에서부터 부정 행위 신고 시 포상금을 지급하는 방안을 추진합니다.\n\n총리실은 오늘(18일) 보도자료를 내고 \"부정행위 신고센터 등에 신고·제보한 사안이 부정행위로 확인될 경우 최대 1억원의 포상금 지급을 추진할 계획\"이라고 밝혔습니다.\n\n관련 규정을 신속히 마련해 이번 수능부터 즉시 적용할 방침입니다.\n\n앞서 이재명 대통령은 어제(17일) 수능 비상점검회의를 개최하고, 부정행위 신고 한 건당 1억원을 포상하라고 지시했습니다.\n\n이와 함께 정부는 수능 시험 종료 직후인 20일부터 국무총리를 반장으로 하는 '범정부 수능 부정행위 대응 TF'(태스크포스)도 가동합니다.\n\n#AI #한성숙국무총리 #2027대학수학능력시험 #범정부수능부정행위대응TF\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김민아(goldmina@yna.co.kr)",
-          "content:encodedSnippet": "정부가 이번 수능에서부터 부정 행위 신고 시 포상금을 지급하는 방안을 추진합니다.\n\n총리실은 오늘(18일) 보도자료를 내고 \"부정행위 신고센터 등에 신고·제보한 사안이 부정행위로 확인될 경우 최대 1억원의 포상금 지급을 추진할 계획\"이라고 밝혔습니다.\n\n관련 규정을 신속히 마련해 이번 수능부터 즉시 적용할 방침입니다.\n\n앞서 이재명 대통령은 어제(17일) 수능 비상점검회의를 개최하고, 부정행위 신고 한 건당 1억원을 포상하라고 지시했습니다.\n\n이와 함께 정부는 수능 시험 종료 직후인 20일부터 국무총리를 반장으로 하는 '범정부 수능 부정행위 대응 TF'(태스크포스)도 가동합니다.\n\n#AI #한성숙국무총리 #2027대학수학능력시험 #범정부수능부정행위대응TF\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김민아(goldmina@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261118/MYH20261119000127KCm.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "김민아",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261119000127KCm#comments",
-          "content": "정부가 이번 수능에서부터 부정 행위 신고 시 포상금을 지급하는 방안을 추진합니다. 총리실은 오늘(18일) 보도자료를 내고 \"부정행위 신고센터 등에 신고·제보한 사안이 부정행위로 확인될 경우 최대 1억원의 포상금 지급을 추진할 계획\"이라고 밝혔습니다. 관련 규정을 신속히 마련해 이번 수능부터 즉시 적용할 방침입니다. 앞서 이재명 대통령은 어제(17일) 수능 비상점검회의를 개최하고, 부정행위 신고 한 건당 1억원을 포상하라고 지시했습니다. 이...",
-          "contentSnippet": "정부가 이번 수능에서부터 부정 행위 신고 시 포상금을 지급하는 방안을 추진합니다. 총리실은 오늘(18일) 보도자료를 내고 \"부정행위 신고센터 등에 신고·제보한 사안이 부정행위로 확인될 경우 최대 1억원의 포상금 지급을 추진할 계획\"이라고 밝혔습니다. 관련 규정을 신속히 마련해 이번 수능부터 즉시 적용할 방침입니다. 앞서 이재명 대통령은 어제(17일) 수능 비상점검회의를 개최하고, 부정행위 신고 한 건당 1억원을 포상하라고 지시했습니다. 이...",
-          "guid": "MYH20261119000127KCm",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-18T15:01:29.000Z"
+          "isoDate": "2026-11-18T22:19:28.000Z"
         },
         {
           "creator": "노수미",
-          "title": "[날씨] 6년 만에 '수능 한파'…서쪽 곳곳에 눈·비",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261118232949cAc",
-          "pubDate": "Wed, 18 Nov 2026 23:29:50 +0900",
-          "content:encoded": "6년 만에 수능 한파가 찾아오겠습니다.\n\n날씨도 바짝 긴장한 듯 한데요.\n\n서울의 아침 기온이 영하 1도까지 내려가겠고요, 원주는 영하 3도, 제천이 영하 4도로 중부 대부분에서 영하권 추위가 나타나겠습니다.\n\n안동과 김천 등 남부지방도 0도를 밑도는 곳이 있겠는데요, 찬 바람이 불면서 체감 기온은 더 낮겠습니다.\n\n이렇게 찬 공기가 밀려들면서 강원 산지와 경북 내륙을 중심으로 한파특보도 내려졌습니다.\n\n급격히 추워지는 날씨에 수험생분들은 옷을 여러 겹 입고 나오셔야겠습니다.\n\n자세한 지역별 기온 보시면, 아침에 서울과 대전이 영하 1도로 시작하겠고요.\n\n낮에는 서울이 4도, 청주와 대전은 6도, 강릉이 7도에 그치겠습니다.\n\n남부 지방은 전주와 대구가 1도로 출발하겠고요.\n\n한낮에도 광주와 대구가 7도, 안동과 전주는 6도로 대부분 한 자릿수에 머물겠습니다.\n\n곳에 따라 비나 눈도 내리겠습니다.\n\n새벽부터 오전 사이 일부 경기와 충청에 눈이 오겠는데요.\n\n양이 많진 않겠지만 수험장까지 시간 여유를 두고 출발하셔야겠습니다.\n\n오후부터는 충청 이남에 비구름이 유입되겠는데요.\n\n늦은 밤부터 전북 남부 내륙은 시간당 1~3㎝의 강한 눈이 예보돼 있습니다.\n\n피해 없도록 조심하셔야겠습니다.\n\n수능 한파는 주말에도 이어지겠습니다.\n\n토요일 서울의 아침 기온이 영하 4도까지 곤두박질할 전망입니다.\n\n지금까지 날씨였습니다.\n\n(권진영 기상캐스터)\n\n#날씨 #한파특보 #눈 #비 #찬바람 #수능한파 #체감기온\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
-          "content:encodedSnippet": "6년 만에 수능 한파가 찾아오겠습니다.\n\n날씨도 바짝 긴장한 듯 한데요.\n\n서울의 아침 기온이 영하 1도까지 내려가겠고요, 원주는 영하 3도, 제천이 영하 4도로 중부 대부분에서 영하권 추위가 나타나겠습니다.\n\n안동과 김천 등 남부지방도 0도를 밑도는 곳이 있겠는데요, 찬 바람이 불면서 체감 기온은 더 낮겠습니다.\n\n이렇게 찬 공기가 밀려들면서 강원 산지와 경북 내륙을 중심으로 한파특보도 내려졌습니다.\n\n급격히 추워지는 날씨에 수험생분들은 옷을 여러 겹 입고 나오셔야겠습니다.\n\n자세한 지역별 기온 보시면, 아침에 서울과 대전이 영하 1도로 시작하겠고요.\n\n낮에는 서울이 4도, 청주와 대전은 6도, 강릉이 7도에 그치겠습니다.\n\n남부 지방은 전주와 대구가 1도로 출발하겠고요.\n\n한낮에도 광주와 대구가 7도, 안동과 전주는 6도로 대부분 한 자릿수에 머물겠습니다.\n\n곳에 따라 비나 눈도 내리겠습니다.\n\n새벽부터 오전 사이 일부 경기와 충청에 눈이 오겠는데요.\n\n양이 많진 않겠지만 수험장까지 시간 여유를 두고 출발하셔야겠습니다.\n\n오후부터는 충청 이남에 비구름이 유입되겠는데요.\n\n늦은 밤부터 전북 남부 내륙은 시간당 1~3㎝의 강한 눈이 예보돼 있습니다.\n\n피해 없도록 조심하셔야겠습니다.\n\n수능 한파는 주말에도 이어지겠습니다.\n\n토요일 서울의 아침 기온이 영하 4도까지 곤두박질할 전망입니다.\n\n지금까지 날씨였습니다.\n\n(권진영 기상캐스터)\n\n#날씨 #한파특보 #눈 #비 #찬바람 #수능한파 #체감기온\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
+          "title": "[날씨] 수능일 영하권 추위…충청·호남·제주 눈비",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261119070628aP7",
+          "pubDate": "Thu, 19 Nov 2026 07:06:31 +0900",
+          "content:encoded": "[앵커]\n\n대학수학능력시험일인 오늘, 전국 곳곳이 영하권으로 떨어져 추위의 기세가 매섭습니다.\n\n충청과 호남, 제주를 중심으론 눈과 비도 내릴 텐데요.\n\n자세한 날씨는 기상캐스터 연결해 알아보겠습니다.\n\n양윤진 캐스터.\n\n[캐스터]\n\n네, 저는 지금 서울 경복고등학교 앞에 나와 있습니다.\n\n갑자기 찾아온 매서운 추위 속에, 조금 전 6시 30분부터 수험생의 출입이 시작됐는데요.\n\n수험생 옷차림은 두꺼운 한 벌보다는, 입고 벗기 편한 옷을 여러 벌 껴입는 게 도움이 되겠습니다.\n\n오늘 아침 기온이 서울 등 전국 곳곳에서 6년 만에 영하권으로 떨어져 '수능 한파'가 찾아왔습니다.\n\n특히, 급격한 기온 변화를 겪는 강원 산지와 경북 내륙 중심으로는 한파주의보가 발령 중입니다.\n\n찬 바람이 강하게 불어 체감 온도는 더 낮겠습니다.\n\n현재 이 시각, 서울 영하 0.3도, 대전 1.2도로 출발하고 있고요.\n\n한낮에는 서울 5도, 대구 7도에 머물며 종일 춥겠습니다.\n\n오늘 서해안을 시작으로, 서쪽 곳곳에는 눈비가 내리는 곳도 있겠습니다.\n\n내일까지 전북 남부 내륙과 제주 산지에 최대 8cm, 그 밖의 호남과 충청에 5cm, 경남 서부에 1~3cm의 눈이 내려 쌓일 것으로 예상되고요.\n\n비의 양은 5~10mm로 많지 않겠습니다.\n\n강수 지역 외에는 대체로 맑겠습니다.\n\n날도 무척 추운 데다, 눈비로 인해 도로가 얼어 미끄러운 곳이 많겠습니다.\n\n교통 혼잡이 우려되는 만큼, 수험생분들은 시간적 여유를 갖고 고사장으로 향할 수 있게 움직여주시길 바랍니다.\n\n지금까지 날씨 전해드렸습니다.\n\n(양윤진 기상캐스터)\n\n[현장연결 진교훈]\n\n#날씨 #한파 #강풍 #영하권추위 #수능한파 #수능일 #서쪽눈비\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n대학수학능력시험일인 오늘, 전국 곳곳이 영하권으로 떨어져 추위의 기세가 매섭습니다.\n\n충청과 호남, 제주를 중심으론 눈과 비도 내릴 텐데요.\n\n자세한 날씨는 기상캐스터 연결해 알아보겠습니다.\n\n양윤진 캐스터.\n\n[캐스터]\n\n네, 저는 지금 서울 경복고등학교 앞에 나와 있습니다.\n\n갑자기 찾아온 매서운 추위 속에, 조금 전 6시 30분부터 수험생의 출입이 시작됐는데요.\n\n수험생 옷차림은 두꺼운 한 벌보다는, 입고 벗기 편한 옷을 여러 벌 껴입는 게 도움이 되겠습니다.\n\n오늘 아침 기온이 서울 등 전국 곳곳에서 6년 만에 영하권으로 떨어져 '수능 한파'가 찾아왔습니다.\n\n특히, 급격한 기온 변화를 겪는 강원 산지와 경북 내륙 중심으로는 한파주의보가 발령 중입니다.\n\n찬 바람이 강하게 불어 체감 온도는 더 낮겠습니다.\n\n현재 이 시각, 서울 영하 0.3도, 대전 1.2도로 출발하고 있고요.\n\n한낮에는 서울 5도, 대구 7도에 머물며 종일 춥겠습니다.\n\n오늘 서해안을 시작으로, 서쪽 곳곳에는 눈비가 내리는 곳도 있겠습니다.\n\n내일까지 전북 남부 내륙과 제주 산지에 최대 8cm, 그 밖의 호남과 충청에 5cm, 경남 서부에 1~3cm의 눈이 내려 쌓일 것으로 예상되고요.\n\n비의 양은 5~10mm로 많지 않겠습니다.\n\n강수 지역 외에는 대체로 맑겠습니다.\n\n날도 무척 추운 데다, 눈비로 인해 도로가 얼어 미끄러운 곳이 많겠습니다.\n\n교통 혼잡이 우려되는 만큼, 수험생분들은 시간적 여유를 갖고 고사장으로 향할 수 있게 움직여주시길 바랍니다.\n\n지금까지 날씨 전해드렸습니다.\n\n(양윤진 기상캐스터)\n\n[현장연결 진교훈]\n\n#날씨 #한파 #강풍 #영하권추위 #수능한파 #수능일 #서쪽눈비\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261118/MYH20261118232949cAc.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261118/MYH20261119070628aP7.jpg",
             "type": "image/jpeg"
           },
           "dc:creator": "노수미",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261118232949cAc#comments",
-          "content": "6년 만에 수능 한파가 찾아오겠습니다. 날씨도 바짝 긴장한 듯 한데요. 서울의 아침 기온이 영하 1도까지 내려가겠고요, 원주는 영하 3도, 제천이 영하 4도로 중부 대부분에서 영하권 추위가 나타나겠습니다. 안동과 김천 등 남부지방도 0도를 밑도는 곳이 있겠는데요, 찬 바람이 불면서 체감 기온은 더 낮겠습니다. 이렇게 찬 공기가 밀려들면서 강원 산지와 경북 내륙을 중심으로 한파특보도 내려졌습니다. 급격히 추워지는 날씨에 수험생분들은 옷을 여...",
-          "contentSnippet": "6년 만에 수능 한파가 찾아오겠습니다. 날씨도 바짝 긴장한 듯 한데요. 서울의 아침 기온이 영하 1도까지 내려가겠고요, 원주는 영하 3도, 제천이 영하 4도로 중부 대부분에서 영하권 추위가 나타나겠습니다. 안동과 김천 등 남부지방도 0도를 밑도는 곳이 있겠는데요, 찬 바람이 불면서 체감 기온은 더 낮겠습니다. 이렇게 찬 공기가 밀려들면서 강원 산지와 경북 내륙을 중심으로 한파특보도 내려졌습니다. 급격히 추워지는 날씨에 수험생분들은 옷을 여...",
-          "guid": "MYH20261118232949cAc",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261119070628aP7#comments",
+          "content": "[앵커] 대학수학능력시험일인 오늘, 전국 곳곳이 영하권으로 떨어져 추위의 기세가 매섭습니다. 충청과 호남, 제주를 중심으론 눈과 비도 내릴 텐데요. 자세한 날씨는 기상캐스터 연결해 알아보겠습니다. 양윤진 캐스터. [캐스터] 네, 저는 지금 서울 경복고등학교 앞에 나와 있습니다. 갑자기 찾아온 매서운 추위 속에, 조금 전 6시 30분부터 수험생의 출입이 시작됐는데요. 수험생 옷차림은 두꺼운 한 벌보다는, 입고 벗기 편한 옷을 여러 벌 껴입는...",
+          "contentSnippet": "[앵커] 대학수학능력시험일인 오늘, 전국 곳곳이 영하권으로 떨어져 추위의 기세가 매섭습니다. 충청과 호남, 제주를 중심으론 눈과 비도 내릴 텐데요. 자세한 날씨는 기상캐스터 연결해 알아보겠습니다. 양윤진 캐스터. [캐스터] 네, 저는 지금 서울 경복고등학교 앞에 나와 있습니다. 갑자기 찾아온 매서운 추위 속에, 조금 전 6시 30분부터 수험생의 출입이 시작됐는데요. 수험생 옷차림은 두꺼운 한 벌보다는, 입고 벗기 편한 옷을 여러 벌 껴입는...",
+          "guid": "MYH20261119070628aP7",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-18T14:29:50.000Z"
+          "isoDate": "2026-11-18T22:06:31.000Z"
         },
         {
-          "creator": "김성구",
-          "title": "[포인트뉴스] \"반도체 칩 탐지기 사용하자\"…쏟아지는 커닝 방지 아이디어 外",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261118232911WfI",
-          "pubDate": "Wed, 18 Nov 2026 23:29:13 +0900",
-          "content:encoded": "놓치면 안되는 뉴스, 포인트 뉴스입니다\n\n▶ \"반도체 칩 탐지기 사용하자\"…쏟아지는 커닝 방지 아이디어\n\n내일(19일) 치러지는 수능을 앞두고 정부가 부정행위를 막기 위한 대책을 내놨지만, 보안 전문가들은 앞으로가 더 중요하다고 말합니다.\n\n시험지에 AI를 막는 문구를 넣는가 하면, 반도체만 골라내는 탐지기를 쓰자는 의견까지 나왔습니다.\n\n윤솔 기자입니다.\n\n▶ 중국어 텔레그램서 'AI 커닝' 홍보…사기 우려도\n\n대학수학능력시험과 각종 자격증 시험을 앞두고 인공지능과 초소형 전자기기를 이용한 부정행위 장비를 판매한다는 온라인 광고가 확산하고 있습니다.\n\n수험생들의 불안 심리를 노린 사기나 보이스피싱 등 2차 범죄로 이어질 수 있다는 우려도 제기됩니다.\n\n김동욱 기자가 보도합니다\n\n▶ \"결혼에 긍정적\" 12년 만에 최고…비혼동거·출산도↑\n\n결혼을 해야 한다고 생각하는 국민이 55%로, 12년 만 가장 높은 수준을 기록했습니다.\n\n한편, 결혼하지 않고도 함께 살거나 자녀를 가질 수 있다는 응답 역시 역대 최고치를 나타냈는데요.\n\n결혼과 가족을 바라보는 인식이 달라지고 있습니다.\n\n김주영 기자입니다.\n\n▶ 설치비만 챙긴 도시가스 업체 사기…겨울 나기 한숨\n\n도시가스 난방으로 따뜻한 겨울을 보내려던 주민들이 공사비를 떼일 처지에 놓였습니다.\n\n경북 북부에서 잠정 파악된 피해만 100가구가 넘습니다.\n\n두 해째 난방도 제대로 하지 못하는 고령의 피해 주민들은 이번 겨울도 걱정이 앞섭니다.\n\n정지훈 기자입니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김성구(sunggu37@yna.co.kr)",
-          "content:encodedSnippet": "놓치면 안되는 뉴스, 포인트 뉴스입니다\n\n▶ \"반도체 칩 탐지기 사용하자\"…쏟아지는 커닝 방지 아이디어\n\n내일(19일) 치러지는 수능을 앞두고 정부가 부정행위를 막기 위한 대책을 내놨지만, 보안 전문가들은 앞으로가 더 중요하다고 말합니다.\n\n시험지에 AI를 막는 문구를 넣는가 하면, 반도체만 골라내는 탐지기를 쓰자는 의견까지 나왔습니다.\n\n윤솔 기자입니다.\n\n▶ 중국어 텔레그램서 'AI 커닝' 홍보…사기 우려도\n\n대학수학능력시험과 각종 자격증 시험을 앞두고 인공지능과 초소형 전자기기를 이용한 부정행위 장비를 판매한다는 온라인 광고가 확산하고 있습니다.\n\n수험생들의 불안 심리를 노린 사기나 보이스피싱 등 2차 범죄로 이어질 수 있다는 우려도 제기됩니다.\n\n김동욱 기자가 보도합니다\n\n▶ \"결혼에 긍정적\" 12년 만에 최고…비혼동거·출산도↑\n\n결혼을 해야 한다고 생각하는 국민이 55%로, 12년 만 가장 높은 수준을 기록했습니다.\n\n한편, 결혼하지 않고도 함께 살거나 자녀를 가질 수 있다는 응답 역시 역대 최고치를 나타냈는데요.\n\n결혼과 가족을 바라보는 인식이 달라지고 있습니다.\n\n김주영 기자입니다.\n\n▶ 설치비만 챙긴 도시가스 업체 사기…겨울 나기 한숨\n\n도시가스 난방으로 따뜻한 겨울을 보내려던 주민들이 공사비를 떼일 처지에 놓였습니다.\n\n경북 북부에서 잠정 파악된 피해만 100가구가 넘습니다.\n\n두 해째 난방도 제대로 하지 못하는 고령의 피해 주민들은 이번 겨울도 걱정이 앞섭니다.\n\n정지훈 기자입니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김성구(sunggu37@yna.co.kr)",
+          "creator": "김태욱",
+          "title": "[AM-PM] 오늘 2027학년도 수능…'AI 커닝' 감독 강화 外",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261119065544fxE",
+          "pubDate": "Thu, 19 Nov 2026 06:55:45 +0900",
+          "content:encoded": "오늘(19일) 하루 주요 일정을 살펴보는 보도국 AM-PM입니다.\n\n어떤 일정이 있는지 함께 보시죠.\n\n▶ 오늘 2027학년도 수능…'AI 커닝' 감독 강화 (AM 8:10)\n\n2027학년도 대학수학능력시험이 오늘 전국 1,312개 시험장에서 치러집니다.\n\n올해 수능 응시자는 55만 1천여 명으로, 지난해보다 2,300여 명 줄었습니다.\n\n특히 올해는 인공지능을 활용한 부정행위 차단을 위해 개인 필기구로 '흑색 연필'만 허용하고, 옷 단추마다 스티커를 붙일 예정입니다.\n\n또 1교시 시험 전과 시험 중간에는 위급재난문자가 발송됩니다.\n\n정부는 부정행위 신고가 사실로 적발될 경우 최대 1억 원의 포상금도 지급할 계획입니다.\n\n▶ 미·중·러 정상, 오늘 사상 첫 3자회담 (오후, 중국 선전)\n\n미국과 중국·러시아 정상이 오늘 오후 중국 선전에서 열리는 APEC 정상회의에서 사상 첫 3자 회담을 갖고 주요 현안에 대해 논의합니다.\n\n구체적인 의제는 공개되지 않았지만 핵군축과 함께 우크라이나와 이란 전쟁 등 국제 현안이 논의될 가능성이 거론되고 있습니다.\n\n일각에서는 1945년 미국과 영국·소련 정상이 2차 세계대전 이후 국제질서를 논의한 '얄타회담'에 빗대 이번이 '제2의 얄타회담'이 될 수 있다는 관측도 나오고 있습니다.\n\n▶ 한덕수·김건희 오늘 전원합의체 선고…실시간 생중계 (PM 4:00, 대법원)\n\n대법원 전원합의체가 오늘 오후 4시 한덕수 전 총리의 내란중요임무종사 등 혐의 사건과 김건희 씨의 3대 의혹 사건 선고에 나섭니다.\n\n앞서 한 전 총리는 내란중요임무종사 등 혐의로 2심에서 징역 15년을 선고받았습니다.\n\n김건희 씨는 도이치모터스 주가조작과 통일교 금품 수수, 명태균 여론조사 무상 수수 등 '3대 의혹' 사건으로 2심에서 징역 4년과 벌금 5천만 원을 선고받았습니다.\n\n한 전 총리와 김 씨 사건은 각각 오경미, 박영재 대법관이 주심을 맡았으며 선고는 실시간 생중계 될 예정입니다.\n\n오늘의 주요 일정은 여기까지입니다.\n\n지금까지 보도국 AM-PM이었습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김태욱(tw@yna.co.kr)",
+          "content:encodedSnippet": "오늘(19일) 하루 주요 일정을 살펴보는 보도국 AM-PM입니다.\n\n어떤 일정이 있는지 함께 보시죠.\n\n▶ 오늘 2027학년도 수능…'AI 커닝' 감독 강화 (AM 8:10)\n\n2027학년도 대학수학능력시험이 오늘 전국 1,312개 시험장에서 치러집니다.\n\n올해 수능 응시자는 55만 1천여 명으로, 지난해보다 2,300여 명 줄었습니다.\n\n특히 올해는 인공지능을 활용한 부정행위 차단을 위해 개인 필기구로 '흑색 연필'만 허용하고, 옷 단추마다 스티커를 붙일 예정입니다.\n\n또 1교시 시험 전과 시험 중간에는 위급재난문자가 발송됩니다.\n\n정부는 부정행위 신고가 사실로 적발될 경우 최대 1억 원의 포상금도 지급할 계획입니다.\n\n▶ 미·중·러 정상, 오늘 사상 첫 3자회담 (오후, 중국 선전)\n\n미국과 중국·러시아 정상이 오늘 오후 중국 선전에서 열리는 APEC 정상회의에서 사상 첫 3자 회담을 갖고 주요 현안에 대해 논의합니다.\n\n구체적인 의제는 공개되지 않았지만 핵군축과 함께 우크라이나와 이란 전쟁 등 국제 현안이 논의될 가능성이 거론되고 있습니다.\n\n일각에서는 1945년 미국과 영국·소련 정상이 2차 세계대전 이후 국제질서를 논의한 '얄타회담'에 빗대 이번이 '제2의 얄타회담'이 될 수 있다는 관측도 나오고 있습니다.\n\n▶ 한덕수·김건희 오늘 전원합의체 선고…실시간 생중계 (PM 4:00, 대법원)\n\n대법원 전원합의체가 오늘 오후 4시 한덕수 전 총리의 내란중요임무종사 등 혐의 사건과 김건희 씨의 3대 의혹 사건 선고에 나섭니다.\n\n앞서 한 전 총리는 내란중요임무종사 등 혐의로 2심에서 징역 15년을 선고받았습니다.\n\n김건희 씨는 도이치모터스 주가조작과 통일교 금품 수수, 명태균 여론조사 무상 수수 등 '3대 의혹' 사건으로 2심에서 징역 4년과 벌금 5천만 원을 선고받았습니다.\n\n한 전 총리와 김 씨 사건은 각각 오경미, 박영재 대법관이 주심을 맡았으며 선고는 실시간 생중계 될 예정입니다.\n\n오늘의 주요 일정은 여기까지입니다.\n\n지금까지 보도국 AM-PM이었습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김태욱(tw@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261118/MYH20261118232911WfI.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261118/MYH20261119065544fxE.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "김성구",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261118232911WfI#comments",
-          "content": "놓치면 안되는 뉴스, 포인트 뉴스입니다 ▶ \"반도체 칩 탐지기 사용하자\"…쏟아지는 커닝 방지 아이디어 내일(19일) 치러지는 수능을 앞두고 정부가 부정행위를 막기 위한 대책을 내놨지만, 보안 전문가들은 앞으로가 더 중요하다고 말합니다. 시험지에 AI를 막는 문구를 넣는가 하면, 반도체만 골라내는 탐지기를 쓰자는 의견까지 나왔습니다. 윤솔 기자입니다. ▶ 중국어 텔레그램서 'AI 커닝' 홍보…사기 우려도 대학수학능력시험과 각종 자격증 시험을...",
-          "contentSnippet": "놓치면 안되는 뉴스, 포인트 뉴스입니다 ▶ \"반도체 칩 탐지기 사용하자\"…쏟아지는 커닝 방지 아이디어 내일(19일) 치러지는 수능을 앞두고 정부가 부정행위를 막기 위한 대책을 내놨지만, 보안 전문가들은 앞으로가 더 중요하다고 말합니다. 시험지에 AI를 막는 문구를 넣는가 하면, 반도체만 골라내는 탐지기를 쓰자는 의견까지 나왔습니다. 윤솔 기자입니다. ▶ 중국어 텔레그램서 'AI 커닝' 홍보…사기 우려도 대학수학능력시험과 각종 자격증 시험을...",
-          "guid": "MYH20261118232911WfI",
+          "dc:creator": "김태욱",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261119065544fxE#comments",
+          "content": "오늘(19일) 하루 주요 일정을 살펴보는 보도국 AM-PM입니다. 어떤 일정이 있는지 함께 보시죠. ▶ 오늘 2027학년도 수능…'AI 커닝' 감독 강화 (AM 8:10) 2027학년도 대학수학능력시험이 오늘 전국 1,312개 시험장에서 치러집니다. 올해 수능 응시자는 55만 1천여 명으로, 지난해보다 2,300여 명 줄었습니다. 특히 올해는 인공지능을 활용한 부정행위 차단을 위해 개인 필기구로 '흑색 연필'만 허용하고, 옷 단추마다 스티...",
+          "contentSnippet": "오늘(19일) 하루 주요 일정을 살펴보는 보도국 AM-PM입니다. 어떤 일정이 있는지 함께 보시죠. ▶ 오늘 2027학년도 수능…'AI 커닝' 감독 강화 (AM 8:10) 2027학년도 대학수학능력시험이 오늘 전국 1,312개 시험장에서 치러집니다. 올해 수능 응시자는 55만 1천여 명으로, 지난해보다 2,300여 명 줄었습니다. 특히 올해는 인공지능을 활용한 부정행위 차단을 위해 개인 필기구로 '흑색 연필'만 허용하고, 옷 단추마다 스티...",
+          "guid": "MYH20261119065544fxE",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-18T14:29:13.000Z"
+          "isoDate": "2026-11-18T21:55:45.000Z"
+        },
+        {
+          "creator": "이민경",
+          "title": "[글로벌증시] 美증시, 엔비디아 호실적에도 혼조…코스피 향방은",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261119064939xXI",
+          "pubDate": "Thu, 19 Nov 2026 06:49:41 +0900",
+          "content:encoded": "&lt;전화연결 : 염승환 LS증권 이사&gt;\n\n세계 증시 소식을 빠르게 새벽 배송해 드리는 &lt;글로벌 증시&gt; 시간입니다.\n\n염승환 LS증권 이사와 함께합니다.\n\n&lt;질문 1&gt; 밤사이 뉴욕증시가 혼조세로 마감했습니다. 다우와 S&amp;P500은 하락한 반면 나스닥은 소폭 올랐는데요. 어떻게 보셨습니까?\n\n&lt;질문 2&gt; 엔비디아가 젠슨 황 사임 이후 처음 발표한 실적에서 매출이 1년 만에 두 배 이상 늘어나는 깜짝 실적을 기록했습니다. 그런데 주가는 장 초반 상승분을 반납하고 3% 넘게 하락했는데요. 앤트로픽 상장도 앞둔 상황에서 AI 관련주에 대한 시장 평가가 달라지고 있는 걸까요?\n\n&lt;질문 3&gt; 국내 증시도 짚어보겠습니다. 어제 코스피가 2% 가까이 반등하면서 5천선을 다시 회복했습니다. 다만 밤사이 엔비디아 하락이 국내 반도체주에도 부담이 될 수 있을 것 같습니다. 코스피가 5천선을 지켜낼 수 있을까요?\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이민경(min1030@yna.co.kr)",
+          "content:encodedSnippet": "<전화연결 : 염승환 LS증권 이사>\n\n세계 증시 소식을 빠르게 새벽 배송해 드리는 <글로벌 증시> 시간입니다.\n\n염승환 LS증권 이사와 함께합니다.\n\n<질문 1> 밤사이 뉴욕증시가 혼조세로 마감했습니다. 다우와 S&P500은 하락한 반면 나스닥은 소폭 올랐는데요. 어떻게 보셨습니까?\n\n<질문 2> 엔비디아가 젠슨 황 사임 이후 처음 발표한 실적에서 매출이 1년 만에 두 배 이상 늘어나는 깜짝 실적을 기록했습니다. 그런데 주가는 장 초반 상승분을 반납하고 3% 넘게 하락했는데요. 앤트로픽 상장도 앞둔 상황에서 AI 관련주에 대한 시장 평가가 달라지고 있는 걸까요?\n\n<질문 3> 국내 증시도 짚어보겠습니다. 어제 코스피가 2% 가까이 반등하면서 5천선을 다시 회복했습니다. 다만 밤사이 엔비디아 하락이 국내 반도체주에도 부담이 될 수 있을 것 같습니다. 코스피가 5천선을 지켜낼 수 있을까요?\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이민경(min1030@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261118/MYH20261119064939xXI.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "이민경",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261119064939xXI#comments",
+          "content": "&lt;전화연결 : 염승환 LS증권 이사&gt; 세계 증시 소식을 빠르게 새벽 배송해 드리는 &lt;글로벌 증시&gt; 시간입니다. 염승환 LS증권 이사와 함께합니다. &lt;질문 1&gt; 밤사이 뉴욕증시가 혼조세로 마감했습니다. 다우와 S&amp;P500은 하락한 반면 나스닥은 소폭 올랐는데요. 어떻게 보셨습니까? &lt;질문 2&gt; 엔비디아가 젠슨 황 사임 이후 처음 발표한 실적에서 매출이 1년 만에 두 배 이상 늘어나는 깜짝 실...",
+          "contentSnippet": "<전화연결 : 염승환 LS증권 이사> 세계 증시 소식을 빠르게 새벽 배송해 드리는 <글로벌 증시> 시간입니다. 염승환 LS증권 이사와 함께합니다. <질문 1> 밤사이 뉴욕증시가 혼조세로 마감했습니다. 다우와 S&P500은 하락한 반면 나스닥은 소폭 올랐는데요. 어떻게 보셨습니까? <질문 2> 엔비디아가 젠슨 황 사임 이후 처음 발표한 실적에서 매출이 1년 만에 두 배 이상 늘어나는 깜짝 실...",
+          "guid": "MYH20261119064939xXI",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-18T21:49:41.000Z"
+        },
+        {
+          "creator": "김단비",
+          "title": "수험생 '결전의 날'…울산 1만여 명 응시",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261119063239WEv",
+          "pubDate": "Thu, 19 Nov 2026 06:32:41 +0900",
+          "content:encoded": "[앵커]\n\n울산지역 수능 시험장 분위기도 살펴보겠습니다.\n\n울산은 시험장 28곳에서 1만 1천여 명이 수능을 치르는데요.\n\n시험장에 나가있는 취재기자 연결해 현장 분위기 들어보겠습니다.\n\n김단비 기자.\n\n[기자]\n\n네, 울산 문수고등학교에 마련된 수능 시험장에 나와 있습니다.\n\n6년 만의 수능 한파라는 날씨 예보처럼 어제보다 기온이 많이 떨어져 추운데요.\n\n울산의 현재 기온은 3~4도 정도로 체감온도는 더 낮습니다.\n\n입실은 잠시 후인 오전 6시 30분부터 시작되기 때문에 아직 시험장 앞은 조용한데요.\n\n수험생을 응원하러 나온 선생님과 후배들이 하나 둘 학교로 모이고 있습니다.\n\n오늘 울산은 시험장 28곳에서 1만 1천2백여 명이 수능에 응시합니다.\n\n울산시교육청은 AI를 활용한 수능 부정행위를 막기 위해 83명의 복도 감독관을 추가로 배치하기로 했는데요.\n\n이들 감독관은 시험장 복도를 돌며 제출하지 않은 휴대전화나 불법 소지품 등을 불시 확인하게 됩니다.\n\n울산은 또, 고사장마다 1명의 스마트 안경 전담 관리 요원을 배치하는데요.\n\n육안으로 확인하기 어려운 초소형 렌즈 등 신종 전자기기를 식별하기 위해 시험장별로 정밀 탐지장비도 1대씩 준비했습니다.\n\n입실 마감 시간은 오전 8시 10분입니다.\n\n급한 상황이 생기면 경찰 등에 도움을 요청하고, 수험표와 신분증 잊지 말고 꼭 챙기시길 바랍니다.\n\n또 모든 전자기기는 시험장에 반입할 수 없는데요.\n\n부득이하게 가져왔다면 반드시 1교시 시작 전에 감독관에게 제출해야 합니다.\n\n수험생 여러분, 최선을 다해 준비한 만큼 좋은 성적 얻길 응원하겠습니다.\n\n지금까지 울산 문수고등학교에서 연합뉴스TV 김단비입니다.\n\n[현장연결 김민엽]\n\n#수능 #대입 #문수고등학교\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김단비(sweetrain@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n울산지역 수능 시험장 분위기도 살펴보겠습니다.\n\n울산은 시험장 28곳에서 1만 1천여 명이 수능을 치르는데요.\n\n시험장에 나가있는 취재기자 연결해 현장 분위기 들어보겠습니다.\n\n김단비 기자.\n\n[기자]\n\n네, 울산 문수고등학교에 마련된 수능 시험장에 나와 있습니다.\n\n6년 만의 수능 한파라는 날씨 예보처럼 어제보다 기온이 많이 떨어져 추운데요.\n\n울산의 현재 기온은 3~4도 정도로 체감온도는 더 낮습니다.\n\n입실은 잠시 후인 오전 6시 30분부터 시작되기 때문에 아직 시험장 앞은 조용한데요.\n\n수험생을 응원하러 나온 선생님과 후배들이 하나 둘 학교로 모이고 있습니다.\n\n오늘 울산은 시험장 28곳에서 1만 1천2백여 명이 수능에 응시합니다.\n\n울산시교육청은 AI를 활용한 수능 부정행위를 막기 위해 83명의 복도 감독관을 추가로 배치하기로 했는데요.\n\n이들 감독관은 시험장 복도를 돌며 제출하지 않은 휴대전화나 불법 소지품 등을 불시 확인하게 됩니다.\n\n울산은 또, 고사장마다 1명의 스마트 안경 전담 관리 요원을 배치하는데요.\n\n육안으로 확인하기 어려운 초소형 렌즈 등 신종 전자기기를 식별하기 위해 시험장별로 정밀 탐지장비도 1대씩 준비했습니다.\n\n입실 마감 시간은 오전 8시 10분입니다.\n\n급한 상황이 생기면 경찰 등에 도움을 요청하고, 수험표와 신분증 잊지 말고 꼭 챙기시길 바랍니다.\n\n또 모든 전자기기는 시험장에 반입할 수 없는데요.\n\n부득이하게 가져왔다면 반드시 1교시 시작 전에 감독관에게 제출해야 합니다.\n\n수험생 여러분, 최선을 다해 준비한 만큼 좋은 성적 얻길 응원하겠습니다.\n\n지금까지 울산 문수고등학교에서 연합뉴스TV 김단비입니다.\n\n[현장연결 김민엽]\n\n#수능 #대입 #문수고등학교\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김단비(sweetrain@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261118/MYH20261119063239WEv.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "김단비",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261119063239WEv#comments",
+          "content": "[앵커] 울산지역 수능 시험장 분위기도 살펴보겠습니다. 울산은 시험장 28곳에서 1만 1천여 명이 수능을 치르는데요. 시험장에 나가있는 취재기자 연결해 현장 분위기 들어보겠습니다. 김단비 기자. [기자] 네, 울산 문수고등학교에 마련된 수능 시험장에 나와 있습니다. 6년 만의 수능 한파라는 날씨 예보처럼 어제보다 기온이 많이 떨어져 추운데요. 울산의 현재 기온은 3~4도 정도로 체감온도는 더 낮습니다. 입실은 잠시 후인 오전 6시 30분부...",
+          "contentSnippet": "[앵커] 울산지역 수능 시험장 분위기도 살펴보겠습니다. 울산은 시험장 28곳에서 1만 1천여 명이 수능을 치르는데요. 시험장에 나가있는 취재기자 연결해 현장 분위기 들어보겠습니다. 김단비 기자. [기자] 네, 울산 문수고등학교에 마련된 수능 시험장에 나와 있습니다. 6년 만의 수능 한파라는 날씨 예보처럼 어제보다 기온이 많이 떨어져 추운데요. 울산의 현재 기온은 3~4도 정도로 체감온도는 더 낮습니다. 입실은 잠시 후인 오전 6시 30분부...",
+          "guid": "MYH20261119063239WEv",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-18T21:32:41.000Z"
+        },
+        {
+          "creator": "노수미",
+          "title": "[날씨클릭] 6년 만에 영하권 '수능 한파'…서쪽 중심 눈비",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH202611190631176Ki",
+          "pubDate": "Thu, 19 Nov 2026 06:31:19 +0900",
+          "content:encoded": "[앵커]\n\n수능일인 오늘, 곳곳에서 영하권 추위가 기승을 부리고 있습니다.\n\n서쪽 지역 중심으로는 눈비 소식이 들어있는데요.\n\n자세한 날씨 기상캐스터와 함께 알아보겠습니다.\n\n양윤진 캐스터, 올해는 '수능 한파'가 찾아왔다고요?\n\n[캐스터]\n\n네, 신기하게도 매년 수능일만 되면, 날이 갑자기 추워진다는 말이 있죠.\n\n수능일인 오늘 서울 등 전국 곳곳에서 6년 만에 영하권으로 떨어져 '수능 한파'가 찾아왔습니다.\n\n특히, 급격한 기온 변화를 겪는 강원 산지와 경북 내륙 중심으로는 한파주의보가 발령 중입니다.\n\n체감 온도는 더 낮아서, 따뜻하게 입고 보온에 신경써야겠습니다.\n\n날도 무척 추운 데다, 눈비가 오는 곳이 있어 고사장으로 이동하는 수험생은 안전에 유의해야겠습니다.\n\n서해안을 시작으로, 오늘 서쪽 곳곳으로 눈비가 확대될 텐데요.\n\n내일까지 전북 남부 내륙과 제주 산지에 최대 8cm, 그 밖의 호남과 충청에 5cm, 경남 서부에 1~3cm의 적설이 예상됩니다.\n\n이들 지역 외에는 대체로 맑겠습니다.\n\n전국적으로 찬 바람이 강하게 불고 있는데요.\n\n충남 서해안과 호남 해안, 제주, 강원 산지와 경북 북동 산지에는 초속 20m가 넘는 돌풍이 몰쳐 강풍특보가 내려져 있고요.\n\n거센 바닷바람에 물결도 높게 일며 전 해상에 풍랑특보가 발령 중입니다.\n\n기온 살펴보시면, 서울 영하 0.2도, 춘천 영하 0.1도, 대전 1도로 출발하고 있고요.\n\n한낮에는 서울 5도, 대구 7도에 머물며 종일 춥겠습니다.\n\n오늘부터 주 후반까지 점점 더 추워지겠습니다.\n\n주말에는 서울의 아침 기온 영하 5도까지 뚝 떨어질 전망입니다.\n\n지금까지 날씨클릭이었습니다.\n\n(양윤진 기상캐스터)\n\n#날씨 #풍랑 #강풍 #영하권추위 #수능 #한파주의보 #수능한파 #수능일날씨 #서쪽눈비\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n수능일인 오늘, 곳곳에서 영하권 추위가 기승을 부리고 있습니다.\n\n서쪽 지역 중심으로는 눈비 소식이 들어있는데요.\n\n자세한 날씨 기상캐스터와 함께 알아보겠습니다.\n\n양윤진 캐스터, 올해는 '수능 한파'가 찾아왔다고요?\n\n[캐스터]\n\n네, 신기하게도 매년 수능일만 되면, 날이 갑자기 추워진다는 말이 있죠.\n\n수능일인 오늘 서울 등 전국 곳곳에서 6년 만에 영하권으로 떨어져 '수능 한파'가 찾아왔습니다.\n\n특히, 급격한 기온 변화를 겪는 강원 산지와 경북 내륙 중심으로는 한파주의보가 발령 중입니다.\n\n체감 온도는 더 낮아서, 따뜻하게 입고 보온에 신경써야겠습니다.\n\n날도 무척 추운 데다, 눈비가 오는 곳이 있어 고사장으로 이동하는 수험생은 안전에 유의해야겠습니다.\n\n서해안을 시작으로, 오늘 서쪽 곳곳으로 눈비가 확대될 텐데요.\n\n내일까지 전북 남부 내륙과 제주 산지에 최대 8cm, 그 밖의 호남과 충청에 5cm, 경남 서부에 1~3cm의 적설이 예상됩니다.\n\n이들 지역 외에는 대체로 맑겠습니다.\n\n전국적으로 찬 바람이 강하게 불고 있는데요.\n\n충남 서해안과 호남 해안, 제주, 강원 산지와 경북 북동 산지에는 초속 20m가 넘는 돌풍이 몰쳐 강풍특보가 내려져 있고요.\n\n거센 바닷바람에 물결도 높게 일며 전 해상에 풍랑특보가 발령 중입니다.\n\n기온 살펴보시면, 서울 영하 0.2도, 춘천 영하 0.1도, 대전 1도로 출발하고 있고요.\n\n한낮에는 서울 5도, 대구 7도에 머물며 종일 춥겠습니다.\n\n오늘부터 주 후반까지 점점 더 추워지겠습니다.\n\n주말에는 서울의 아침 기온 영하 5도까지 뚝 떨어질 전망입니다.\n\n지금까지 날씨클릭이었습니다.\n\n(양윤진 기상캐스터)\n\n#날씨 #풍랑 #강풍 #영하권추위 #수능 #한파주의보 #수능한파 #수능일날씨 #서쪽눈비\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261118/MYH202611190631176Ki.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "노수미",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH202611190631176Ki#comments",
+          "content": "[앵커] 수능일인 오늘, 곳곳에서 영하권 추위가 기승을 부리고 있습니다. 서쪽 지역 중심으로는 눈비 소식이 들어있는데요. 자세한 날씨 기상캐스터와 함께 알아보겠습니다. 양윤진 캐스터, 올해는 '수능 한파'가 찾아왔다고요? [캐스터] 네, 신기하게도 매년 수능일만 되면, 날이 갑자기 추워진다는 말이 있죠. 수능일인 오늘 서울 등 전국 곳곳에서 6년 만에 영하권으로 떨어져 '수능 한파'가 찾아왔습니다. 특히, 급격한 기온 변화를 겪는 강원 산...",
+          "contentSnippet": "[앵커] 수능일인 오늘, 곳곳에서 영하권 추위가 기승을 부리고 있습니다. 서쪽 지역 중심으로는 눈비 소식이 들어있는데요. 자세한 날씨 기상캐스터와 함께 알아보겠습니다. 양윤진 캐스터, 올해는 '수능 한파'가 찾아왔다고요? [캐스터] 네, 신기하게도 매년 수능일만 되면, 날이 갑자기 추워진다는 말이 있죠. 수능일인 오늘 서울 등 전국 곳곳에서 6년 만에 영하권으로 떨어져 '수능 한파'가 찾아왔습니다. 특히, 급격한 기온 변화를 겪는 강원 산...",
+          "guid": "MYH202611190631176Ki",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-18T21:31:19.000Z"
+        },
+        {
+          "creator": "이민경",
+          "title": "[속보] 김정은, 해군대학 등 함경남도 지역 시찰",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261119063013dvI",
+          "pubDate": "Thu, 19 Nov 2026 06:30:16 +0900",
+          "content:encoded": "김정은 북한 국무위원장이 해군대학 등 함경남도 지역을 시찰했습니다.\n\n오늘 중국 선전에선 APEC 정상회의를 계기로 미국과 중국, 러시아 정상의 첫 3자 회담이 열리는 가운데 공개된 행보입니다.\n\n앞서 트럼프 대통령은 방중 기간 김 위원장과 만날 가능성을 언급하면서 북미 정상 간 깜짝 회동 여부에도 관심이 쏠리고 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이민경(min1030@yna.co.kr)",
+          "content:encodedSnippet": "김정은 북한 국무위원장이 해군대학 등 함경남도 지역을 시찰했습니다.\n\n오늘 중국 선전에선 APEC 정상회의를 계기로 미국과 중국, 러시아 정상의 첫 3자 회담이 열리는 가운데 공개된 행보입니다.\n\n앞서 트럼프 대통령은 방중 기간 김 위원장과 만날 가능성을 언급하면서 북미 정상 간 깜짝 회동 여부에도 관심이 쏠리고 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이민경(min1030@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261118/MYH20261119063013dvI.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "이민경",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261119063013dvI#comments",
+          "content": "김정은 북한 국무위원장이 해군대학 등 함경남도 지역을 시찰했습니다. 오늘 중국 선전에선 APEC 정상회의를 계기로 미국과 중국, 러시아 정상의 첫 3자 회담이 열리는 가운데 공개된 행보입니다. 앞서 트럼프 대통령은 방중 기간 김 위원장과 만날 가능성을 언급하면서 북미 정상 간 깜짝 회동 여부에도 관심이 쏠리고 있습니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 이민경(min1030@yna.co.kr)",
+          "contentSnippet": "김정은 북한 국무위원장이 해군대학 등 함경남도 지역을 시찰했습니다. 오늘 중국 선전에선 APEC 정상회의를 계기로 미국과 중국, 러시아 정상의 첫 3자 회담이 열리는 가운데 공개된 행보입니다. 앞서 트럼프 대통령은 방중 기간 김 위원장과 만날 가능성을 언급하면서 북미 정상 간 깜짝 회동 여부에도 관심이 쏠리고 있습니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 이민경(min1030@yna.co.kr)",
+          "guid": "MYH20261119063013dvI",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-18T21:30:16.000Z"
+        },
+        {
+          "creator": "최영범",
+          "title": "[속보] 김정은, 북미회담 주목 속 해군대학 등 함경남도 지역 시찰",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261119061541bwM",
+          "pubDate": "Thu, 19 Nov 2026 06:15:42 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261118/AKR20261119061541bwM_01_i.jpg\" alt=\"\"><span class=\"yna_title\">연합뉴스TV 속보(CG)</span><span class=\"yna_caption\"></span><span class=\"yna_description\"></span></div>\n\n\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최영범(ybchoi@yna.co.kr)",
+          "content:encodedSnippet": "연합뉴스TV 속보(CG)\n\n\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최영범(ybchoi@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261118/AKR20261119061541bwM_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "최영범",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261119061541bwM#comments",
+          "content": "연합뉴스TV 속보(CG) 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 최영범(ybchoi@yna.co.kr)",
+          "contentSnippet": "연합뉴스TV 속보(CG) 연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23 최영범(ybchoi@yna.co.kr)",
+          "guid": "AKR20261119061541bwM",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-18T21:15:42.000Z"
         }
       ]
     }
