@@ -7,6 +7,106 @@
       "priority": 1,
       "data": [
         {
+          "title": "뮤텍스 포이즈닝은 모두에게 적합하지 않다",
+          "link": "https://news.hada.io/topic?id=37516&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-20T10:03:25.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>Rust의 <strong>뮤텍스 포이즈닝(poisoning) 기본 적용</strong>은 일부 불변식 보호를 위해 대부분의 사용 사례에 성능과 가독성 비용을 부과한다는 비판을 받음</li><li>포이즈닝은 락을 보유한 상태에서 패닉이 발생했음을 기록하고 이후 락 획득 시 오류를 반환하지만, <strong>가변 상태 전반의 불변식 위반</strong>을 해결하지는 못함</li><li>정수를 읽는 예제에서 <strong>생성 어셈블리</strong>는 <code>lock().unwrap()</code> 사용 시 147줄, 포이즈닝 오류를 무시하면 68줄, 포이즈닝 없는 뮤텍스를 사용하면 34줄이었음</li><li>오류를 무시하는 코드는 길고, 짧은 <strong><code>unwrap()</code></strong> 은 패닉 가능성을 늘리며 오류를 처리하지</li></ul></div>…",
+          "contentSnippet": "Rust의 뮤텍스 포이즈닝(poisoning) 기본 적용은 일부 불변식 보호를 위해 대부분의 사용 사례에 성능과 가독성 비용을 부과한다는 비판을 받음\n포이즈닝은 락을 보유한 상태에서 패닉이 발생했음을 기록하고 이후 락 획득 시 오류를 반환하지만, 가변 상태 전반의 불변식 위반을 해결하지는 못함\n정수를 읽는 예제에서 생성 어셈블리는 lock().unwrap() 사용 시 147줄, 포이즈닝 오류를 무시하면 68줄, 포이즈닝 없는 뮤텍스를 사용하면 34줄이었음\n오류를 무시하는 코드는 길고, 짧은 unwrap() 은 패닉 가능성을 늘리며 오류를 처리하지\n\n…",
+          "id": "https://news.hada.io/topic?id=37516",
+          "isoDate": "2026-11-20T10:03:25.000Z"
+        },
+        {
+          "title": "OpenSSL: EVP_EncodeBlock()의 버퍼 오버플로(CVE-2026-121481, CVSS 9.8)",
+          "link": "https://news.hada.io/topic?id=37513&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-20T08:38:12.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>OpenSSL의 <strong><code>EVP_EncodeBlock()</code> 버퍼 오버플로</strong>를 수정하는 PR이 공개됐으며, Base64 인코딩 결과 길이가 <code>int</code> 범위를 넘는 입력 처리 등이 수정 대상임</li><li>최초에는 잘못된 입력에 <strong><code>-1</code>을 반환</strong>하려 했으나, 기존 호출 코드가 반환값을 검사하지 않고 <code>size_t</code>로 변환할 수 있다는 호환성 우려로 인코딩 함수에 <strong><code>OPENSSL_assert()</code>를 사용하는 방식</strong>으로 변경됨</li><li>제안자는 <code>openssl s_client</code>에 매우 큰 <strong><code>-proxy_pass</code></strong> 를 전달하는 명령줄 악용 경로를 확인했다고 밝혔으며, 명령줄 길이 제한 때문에 비밀번호를 환경변수로 전달해야 함</li><li><strong>빈 입력의 기존 동작</strong></li></ul></div>…",
+          "contentSnippet": "OpenSSL의 EVP_EncodeBlock() 버퍼 오버플로를 수정하는 PR이 공개됐으며, Base64 인코딩 결과 길이가 int 범위를 넘는 입력 처리 등이 수정 대상임\n최초에는 잘못된 입력에 -1을 반환하려 했으나, 기존 호출 코드가 반환값을 검사하지 않고 size_t로 변환할 수 있다는 호환성 우려로 인코딩 함수에 OPENSSL_assert()를 사용하는 방식으로 변경됨\n제안자는 openssl s_client에 매우 큰 -proxy_pass 를 전달하는 명령줄 악용 경로를 확인했다고 밝혔으며, 명령줄 길이 제한 때문에 비밀번호를 환경변수로 전달해야 함\n빈 입력의 기존 동작\n\n…",
+          "id": "https://news.hada.io/topic?id=37513",
+          "isoDate": "2026-11-20T08:38:12.000Z"
+        },
+        {
+          "title": "Google, OEM에 GrapheneOS 지원과 부트로더 잠금 해제를 막도록 압박한다는 의혹",
+          "link": "https://news.hada.io/topic?id=37512&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-20T08:35:11.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>GrapheneOS는 Google이 OEM에 협력 여부를 확인하고 <strong>GMS 라이선스 조건으로 압박</strong>해 GrapheneOS 지원과 부트로더 잠금 해제를 막으려 한다고 밝힘</li><li><strong>Play Integrity API</strong>와 Play Store 앱 보호 기능이 대체 운영체제의 앱 사용을 차단하며, 특히 Play Integrity가 GrapheneOS의 지속 가능성을 가로막는 핵심 문제라고 비판함</li><li>Google 엔지니어들은 <strong>Vanadium의 FIDO2와 패스키 지원</strong> 등에 직접 협력했으며, GrapheneOS는 기술 인력이 아니라 대안을 제거하려는 사업 부문을 문제로 삼음</li><li><strong>미국과 EU의 검찰 및 규제기관 개입</strong>을 요청하고 있으며, 커</li></ul></div>…",
+          "contentSnippet": "GrapheneOS는 Google이 OEM에 협력 여부를 확인하고 GMS 라이선스 조건으로 압박해 GrapheneOS 지원과 부트로더 잠금 해제를 막으려 한다고 밝힘\nPlay Integrity API와 Play Store 앱 보호 기능이 대체 운영체제의 앱 사용을 차단하며, 특히 Play Integrity가 GrapheneOS의 지속 가능성을 가로막는 핵심 문제라고 비판함\nGoogle 엔지니어들은 Vanadium의 FIDO2와 패스키 지원 등에 직접 협력했으며, GrapheneOS는 기술 인력이 아니라 대안을 제거하려는 사업 부문을 문제로 삼음\n미국과 EU의 검찰 및 규제기관 개입을 요청하고 있으며, 커\n\n…",
+          "id": "https://news.hada.io/topic?id=37512",
+          "isoDate": "2026-11-20T08:35:11.000Z"
+        },
+        {
+          "title": "Show GN: 가상 주민 - 서비스 링크를 넣으면 주민 100명이 둘러보고 어디서 왜 나갔는지 알려 주는 도구",
+          "link": "https://news.hada.io/topic?id=37511&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-20T08:22:07.000Z",
+          "author": "modestnature",
+          "content": "<div><p>만들고 있는 서비스 링크를 넣으면, 가상 주민 100명이 첫 페이지를 둘러보고 어디서 망설였고 왜 나갔는지를 별점과 리뷰로 보여 줍니다.</p><ul><li>성격과 관심사가 다른 주민 1000명 가운데 그 서비스에 관심 있을 만한 100명을 골라서 들여보냄</li><li>주민마다 관심사와 성격에 따라 어디까지 읽을지, 버튼을 누를지, 언제 나갈지가 정해짐 (성별·지역·소득으로는 나누지 않음)</li><li>첫 페이지는 컴퓨터·휴대폰 폭으로 찍어서 구역·버튼·입력칸 위치를 읽고, 같은 사이트 안에서 이어지는 페이지는 3개까지 글만 가볍게 읽음</li><li>주민 행동은 확률로 뽑지 않아</li></ul></div>…",
+          "contentSnippet": "만들고 있는 서비스 링크를 넣으면, 가상 주민 100명이 첫 페이지를 둘러보고 어디서 망설였고 왜 나갔는지를 별점과 리뷰로 보여 줍니다.\n\n성격과 관심사가 다른 주민 1000명 가운데 그 서비스에 관심 있을 만한 100명을 골라서 들여보냄\n주민마다 관심사와 성격에 따라 어디까지 읽을지, 버튼을 누를지, 언제 나갈지가 정해짐 (성별·지역·소득으로는 나누지 않음)\n첫 페이지는 컴퓨터·휴대폰 폭으로 찍어서 구역·버튼·입력칸 위치를 읽고, 같은 사이트 안에서 이어지는 페이지는 3개까지 글만 가볍게 읽음\n주민 행동은 확률로 뽑지 않아\n\n…",
+          "id": "https://news.hada.io/topic?id=37511",
+          "isoDate": "2026-11-20T08:22:07.000Z"
+        },
+        {
+          "title": "PostgreSQL 19 Released",
+          "link": "https://news.hada.io/topic?id=37510&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-20T08:18:47.000Z",
+          "author": "axis0",
+          "content": "<div><ul><li>2026년 11월 19일 PostgreSQL Global Development Group 이 postgresql.org 에 출시 발표함</li><li>pg_plan_advice 확장이 계획의 안정과 질의 성능을 더 다루게 한다고 함.</li><li>대기 서버에서 \"read-your-writes\" 일관성을 지원하고, \"get or create\" 동작이 네트워크 왕복을 줄인다고 함.</li></ul></div>…",
+          "contentSnippet": "2026년 11월 19일 PostgreSQL Global Development Group 이 postgresql.org 에 출시 발표함\npg_plan_advice 확장이 계획의 안정과 질의 성능을 더 다루게 한다고 함.\n대기 서버에서 \"read-your-writes\" 일관성을 지원하고, \"get or create\" 동작이 네트워크 왕복을 줄인다고 함.\n\n…",
+          "id": "https://news.hada.io/topic?id=37510",
+          "isoDate": "2026-11-20T08:18:47.000Z"
+        },
+        {
+          "title": "Visa, Mastercard, JPMorgan 고객 데이터, 해커에 의해 유출",
+          "link": "https://news.hada.io/topic?id=37508&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-20T06:32:18.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>랜섬웨어 그룹</strong>이 Visa, Mastercard, JPMorgan Chase 고객 수천 명의 데이터를 목요일에 유출함</li><li>해커들은 <strong>제3자 업체</strong>에 접근해 고객 정보를 노출함</li><li>해당 기업들에 따르면 이번 유출로 인한 <strong>서비스 운영 차질은 없었음</strong></li><li>이번 사건은 지난 일주일 동안 소비자들을 불안하게 한 <strong>일련의 기술 관련 사고</strong>에 뒤이어 발생함</li><li>제공된 본문만으로는 <strong>유출 정보의 구체적 항목</strong>이나 <strong>침해당한 제3자 업체의 이름</strong>을 확인할 수 없음</li></ul><hr><h2>유출 범위와 서비스 영향</h2><ul><li><strong>랜섬웨어 그룹</strong>이 목요일에 <a href=\"https://www.wsj.com/market-data/stock/v?mod=article_chiclet\">Visa</a>, <a href=\"https://www.wsj.com/market-data/stock/ma?mod=article_chiclet\">Mastercard</a>, <a href=\"https://www.wsj.com/market-data/stock/jpm?mod=article_chiclet\">JPMorgan Chase</a> 고객 수천 명의 데이터를 유출함</li><li>해당</li></ul></div>…",
+          "contentSnippet": "랜섬웨어 그룹이 Visa, Mastercard, JPMorgan Chase 고객 수천 명의 데이터를 목요일에 유출함\n해커들은 제3자 업체에 접근해 고객 정보를 노출함\n해당 기업들에 따르면 이번 유출로 인한 서비스 운영 차질은 없었음\n이번 사건은 지난 일주일 동안 소비자들을 불안하게 한 일련의 기술 관련 사고에 뒤이어 발생함\n제공된 본문만으로는 유출 정보의 구체적 항목이나 침해당한 제3자 업체의 이름을 확인할 수 없음\n\n유출 범위와 서비스 영향\n\n랜섬웨어 그룹이 목요일에 Visa, Mastercard, JPMorgan Chase 고객 수천 명의 데이터를 유출함\n해당\n\n…",
+          "id": "https://news.hada.io/topic?id=37508",
+          "isoDate": "2026-11-20T06:32:18.000Z"
+        },
+        {
+          "title": "중력을 이용한 차단 불가능한 통신",
+          "link": "https://news.hada.io/topic?id=37507&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-20T05:33:21.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>엘리베이터 평형추를 움직여 만든 <strong>중력장 변화</strong>로 벽돌벽 너머 약 0.7m 떨어진 수신기에 메시지를 전송했으며, 전송 속도는 <strong>분당 1비트</strong>였음</li><li>전파되는 중력파가 아니라 <strong>준정적 뉴턴 중력장</strong>에 이진 정보를 담는 방식으로, 질량체와 시판 중력계만으로 구현함</li><li>중력장은 알려진 물질로 <strong>수동 차폐</strong>할 수 없지만, 주변 질량을 움직이거나 진동을 일으키는 능동적 방해와 신호 위조는 가능함</li><li>‘Gravity’를 전송한 실험에서 수신 비트열이 원본과 정확히 일치했으며, 평균화 후 비트 오류율은 <strong>가우스 잡음을 가정할 때 약 10⁻⁹</strong>로 추정됨</li><li>질량 이</li></ul></div>…",
+          "contentSnippet": "엘리베이터 평형추를 움직여 만든 중력장 변화로 벽돌벽 너머 약 0.7m 떨어진 수신기에 메시지를 전송했으며, 전송 속도는 분당 1비트였음\n전파되는 중력파가 아니라 준정적 뉴턴 중력장에 이진 정보를 담는 방식으로, 질량체와 시판 중력계만으로 구현함\n중력장은 알려진 물질로 수동 차폐할 수 없지만, 주변 질량을 움직이거나 진동을 일으키는 능동적 방해와 신호 위조는 가능함\n‘Gravity’를 전송한 실험에서 수신 비트열이 원본과 정확히 일치했으며, 평균화 후 비트 오류율은 가우스 잡음을 가정할 때 약 10⁻⁹로 추정됨\n질량 이\n\n…",
+          "id": "https://news.hada.io/topic?id=37507",
+          "isoDate": "2026-11-20T05:33:21.000Z"
+        },
+        {
+          "title": "Show GN: Namoo - 부모님의 이야기를 AI 인터뷰로 기록해 이북과 오디오북으로 만들어 주는 앱",
+          "link": "https://news.hada.io/topic?id=37506&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-20T04:15:52.000Z",
+          "author": "briancheong",
+          "content": "<div><p>부모님의 이야기를 좀 더 체계적으로 기록하기 위해 Namoo를 만들었습니다.</p><p>유명인들은 대필 작가를 고용하거나 엄청난 시간을 할애해서 자신의 과거를 기록해두곤 합니다.</p><p>우리가 직접 부모님과 대화를 나누며 기록을 남기는 것도 가능하겠지만 직접 인터뷰를 진행하는 것도, 질문을 준비하고 정리하는 것도 쉽지 않습니다.</p><p>Namoo는 AI가 인터뷰어 역할을 맡아 한 번에 하나씩 질문합니다. 부모님은 앱에서 음성으로 인터뷰를 진행하면 됩니다. 답변에 따라 다음 질문이 댤라지고, 대화 내용은 챕터 단위로 정리됩니다.</p><p>최종 결과물은 e</p></div>…",
+          "contentSnippet": "부모님의 이야기를 좀 더 체계적으로 기록하기 위해 Namoo를 만들었습니다.\n유명인들은 대필 작가를 고용하거나 엄청난 시간을 할애해서 자신의 과거를 기록해두곤 합니다.\n우리가 직접 부모님과 대화를 나누며 기록을 남기는 것도 가능하겠지만 직접 인터뷰를 진행하는 것도, 질문을 준비하고 정리하는 것도 쉽지 않습니다.\nNamoo는 AI가 인터뷰어 역할을 맡아 한 번에 하나씩 질문합니다. 부모님은 앱에서 음성으로 인터뷰를 진행하면 됩니다. 답변에 따라 다음 질문이 댤라지고, 대화 내용은 챕터 단위로 정리됩니다.\n최종 결과물은 e\n…",
+          "id": "https://news.hada.io/topic?id=37506",
+          "isoDate": "2026-11-20T04:15:52.000Z"
+        },
+        {
+          "title": "Gemini 4 Neon, Models Engineering Index의 새로운 1위에 오름",
+          "link": "https://news.hada.io/topic?id=37505&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-20T03:31:36.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>언어 모델의 <strong>엔지니어링 작업 실전 성능</strong>을 평가하는 Models Engineering Index(Mei)에서 Google의 <strong>Gemini 4 Neon</strong>이 68.0점으로 1위를 기록함</li><li><strong>Anthropic Fable 5.2</strong>가 65.3점으로 2위, <strong>OpenAI 6.2 Astra</strong>가 61.5점으로 3위에 자리함</li><li><strong>Google 4 Carbon</strong>은 61.4점으로 4위, <strong>Anthropic Opus 5.5</strong>는 61.1점으로 5위를 기록함</li><li>공개 순위에는 <strong>20개 모델</strong>이 있으며, Google, Anthropic, OpenAI 외에 Alibaba, Moonshot, Meta, DeepSeek 등의 모델도 포함됨</li><li>제공된 본문에는 <strong>평가 과제와 점수 산출 방법</strong>이 없어 구체적인 평가 조건을 확인할 수 없음</li></ul><hr><h2>엔지</h2></div>…",
+          "contentSnippet": "언어 모델의 엔지니어링 작업 실전 성능을 평가하는 Models Engineering Index(Mei)에서 Google의 Gemini 4 Neon이 68.0점으로 1위를 기록함\nAnthropic Fable 5.2가 65.3점으로 2위, OpenAI 6.2 Astra가 61.5점으로 3위에 자리함\nGoogle 4 Carbon은 61.4점으로 4위, Anthropic Opus 5.5는 61.1점으로 5위를 기록함\n공개 순위에는 20개 모델이 있으며, Google, Anthropic, OpenAI 외에 Alibaba, Moonshot, Meta, DeepSeek 등의 모델도 포함됨\n제공된 본문에는 평가 과제와 점수 산출 방법이 없어 구체적인 평가 조건을 확인할 수 없음\n\n엔지\n…",
+          "id": "https://news.hada.io/topic?id=37505",
+          "isoDate": "2026-11-20T03:31:36.000Z"
+        },
+        {
+          "title": "소프트웨어 기업들은 가정용 컴퓨팅을 없애려 하는가?",
+          "link": "https://news.hada.io/topic?id=37504&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-20T02:35:55.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>한 번 구매한 프로그램을 내 컴퓨터에서 계속 쓰려는 사용자와, 매달 사용료를 받으려는 기업의 이해관계가 충돌함.</strong> 구독과 클라우드 전환이 프로그램과 데이터를 직접 통제하는 개인용 컴퓨팅을 약화시킴</li><li><strong>SaaS와 클라우드 전환</strong>은 사용자가 소프트웨어를 소유하고 실행하는 방식에서, 기업이 소유권을 유지하며 사용료를 받는 방식으로 수익 구조를 바꿈</li><li>가정용 운영체제와 생산성 도구를 장기간 사용하는 경우 <strong>구독료가 구매 비용을 넘어설 수 있으며</strong>, 단기 사용에 적합한 대여 모델과 경제성이 다름</li><li><strong>구독 전환은 클라우드에만 국한되지</strong></li></ul></div>…",
+          "contentSnippet": "한 번 구매한 프로그램을 내 컴퓨터에서 계속 쓰려는 사용자와, 매달 사용료를 받으려는 기업의 이해관계가 충돌함. 구독과 클라우드 전환이 프로그램과 데이터를 직접 통제하는 개인용 컴퓨팅을 약화시킴\nSaaS와 클라우드 전환은 사용자가 소프트웨어를 소유하고 실행하는 방식에서, 기업이 소유권을 유지하며 사용료를 받는 방식으로 수익 구조를 바꿈\n가정용 운영체제와 생산성 도구를 장기간 사용하는 경우 구독료가 구매 비용을 넘어설 수 있으며, 단기 사용에 적합한 대여 모델과 경제성이 다름\n구독 전환은 클라우드에만 국한되지\n\n…",
+          "id": "https://news.hada.io/topic?id=37504",
+          "isoDate": "2026-11-20T02:35:55.000Z"
+        },
+        {
           "title": "Show GN: 법원 경매 예상 낙찰가 - 다음 매각기일 물건을 말로 찾고 지도로 보는 무료 사이트",
           "link": "https://news.hada.io/topic?id=37502&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
           "pubDate": "2026-11-20T01:22:32.000Z",
@@ -87,12 +187,12 @@
           "isoDate": "2026-11-19T22:38:25.000Z"
         },
         {
-          "title": "Pete Warden이 말하는 로컬 AI, 개방형 모델, 음성 인터페이스와 하드웨어의 미래",
+          "title": "AI는 왜 로컬로 향하는가",
           "link": "https://news.hada.io/topic?id=37491&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
           "pubDate": "2026-11-19T22:35:25.000Z",
           "author": "neo",
-          "content": "<div><ul><li>Pete Warden은 로컬 AI의 주요 장벽이 <strong>모델 품질보다 사용성</strong>에 가까워졌다고 봄. 개방형 가중치 모델은 많은 작업에 충분한 수준에 도달했지만, 구독형 클라우드 서비스보다 상업적 유인과 홍보가 부족함</li><li><strong>양자화와 메모리 확장</strong>으로 로컬 실행의 하드웨어 문턱이 낮아지고 있음. 노트북뿐 아니라 기업 온프레미스나 직접 통제하는 클라우드에서도 모델을 운영해 비용, 개인정보, 모델 변경 시점을 통제할 수 있음</li><li>자연스러운 <strong>음성 인터페이스</strong>에는 정확도뿐 아니라 낮은 지연과 실패를 전제로 한 상호작용 설계가 필요함. 사용자가 즉각 반응한다고 느끼려면 약 200밀리초 이하의 응답이 중요함</li></ul></div>…",
-          "contentSnippet": "Pete Warden은 로컬 AI의 주요 장벽이 모델 품질보다 사용성에 가까워졌다고 봄. 개방형 가중치 모델은 많은 작업에 충분한 수준에 도달했지만, 구독형 클라우드 서비스보다 상업적 유인과 홍보가 부족함\n양자화와 메모리 확장으로 로컬 실행의 하드웨어 문턱이 낮아지고 있음. 노트북뿐 아니라 기업 온프레미스나 직접 통제하는 클라우드에서도 모델을 운영해 비용, 개인정보, 모델 변경 시점을 통제할 수 있음\n자연스러운 음성 인터페이스에는 정확도뿐 아니라 낮은 지연과 실패를 전제로 한 상호작용 설계가 필요함. 사용자가 즉각 반응한다고 느끼려면 약 200밀리초 이하의 응답이 중요함\n\n…",
+          "content": "<div><ul><li>문샤인 보이스 개발자 Pete Warden은 로컬 AI의 주요 장벽이 <strong>모델 품질보다 사용성</strong>에 가까워졌다고 봄. 개방형 가중치 모델은 많은 작업에 충분한 수준에 도달했지만, 구독형 클라우드 서비스보다 상업적 유인과 홍보가 부족함</li><li><strong>토큰과 음성 처리마다 내는 API 요금이 없어지면</strong>, 호출 비용 때문에 만들기 어려웠던 앱과 사용 방식이 가능해짐. 자체 운영으로 데이터와 모델 교체 시점도 직접 통제할 수 있음</li><li>자연스러운 <strong>음성 인터페이스</strong>에는 정확도뿐 아니라 낮은 지연과 실패를 전제로 한 상호작용 설계가 필요함. 사용자가 즉각 반응한다고 느끼려면 약 200밀리초 이하의 응답이 중요함</li></ul></div>…",
+          "contentSnippet": "문샤인 보이스 개발자 Pete Warden은 로컬 AI의 주요 장벽이 모델 품질보다 사용성에 가까워졌다고 봄. 개방형 가중치 모델은 많은 작업에 충분한 수준에 도달했지만, 구독형 클라우드 서비스보다 상업적 유인과 홍보가 부족함\n토큰과 음성 처리마다 내는 API 요금이 없어지면, 호출 비용 때문에 만들기 어려웠던 앱과 사용 방식이 가능해짐. 자체 운영으로 데이터와 모델 교체 시점도 직접 통제할 수 있음\n자연스러운 음성 인터페이스에는 정확도뿐 아니라 낮은 지연과 실패를 전제로 한 상호작용 설계가 필요함. 사용자가 즉각 반응한다고 느끼려면 약 200밀리초 이하의 응답이 중요함\n\n…",
           "id": "https://news.hada.io/topic?id=37491",
           "isoDate": "2026-11-19T22:35:25.000Z"
         },
@@ -105,106 +205,6 @@
           "contentSnippet": "fanzines.app은 사진과 텍스트를 각 페이지에 정방향으로 배치하면, 인쇄 후 접을 수 있도록 페이지 순서와 방향을 조정한 300 DPI PDF를 생성함\n편집기를 실제 소책자의 펼침면에 맞게 개편해, 마주 보는 페이지를 읽는 순서대로 확인하고 함께 편집할 수 있음\n사진을 일괄 드래그 앤 드롭하면 읽는 순서대로 배치될 페이지를 미리 표시하며, 자주 쓰는 Fill, Fit, Center 조작을 전면에 배치함\nPDF 다운로드 전 Review 단계에서 펼친 A4 전체를 확인할 수 있고, 가정용 프린터의 가장자리 잘림에 대비한 5 mm 안전 여백을 선택할 수 있\n\n…",
           "id": "https://news.hada.io/topic?id=37490",
           "isoDate": "2026-11-19T21:42:39.000Z"
-        },
-        {
-          "title": "RAM을 사지 말고 압축하자",
-          "link": "https://news.hada.io/topic?id=37489&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-19T21:39:38.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>zram</strong>은 메모리를 압축해 기존 RAM에 더 많은 데이터를 담는 방법으로, 메모리가 비싸거나 증설할 수 없는 환경에서 활용할 수 있음</li><li><strong>메모리 압축</strong>은 Windows, Mac과 많은 Android 스마트폰에서 이미 사용하지만, Linux에서는 배포판에 따라 기본 활성화 여부가 다름</li><li>압축에는 <strong>CPU 사용량과 지연 시간 증가</strong>가 따르지만, 체감하기 어려운 수준일 수 있으며 압축률이 1:4에 이르는 경우도 드물지 않음</li><li>32GB 메모리 시스템에서 Firefox 탭을 대량으로 연 실험에서는 zram이 <strong>5.7GB 데이터를 1.7GB RAM</strong>에 저장해 약 1:3.35의 압축률을 기록함</li><li>활용</li></ul></div>…",
-          "contentSnippet": "zram은 메모리를 압축해 기존 RAM에 더 많은 데이터를 담는 방법으로, 메모리가 비싸거나 증설할 수 없는 환경에서 활용할 수 있음\n메모리 압축은 Windows, Mac과 많은 Android 스마트폰에서 이미 사용하지만, Linux에서는 배포판에 따라 기본 활성화 여부가 다름\n압축에는 CPU 사용량과 지연 시간 증가가 따르지만, 체감하기 어려운 수준일 수 있으며 압축률이 1:4에 이르는 경우도 드물지 않음\n32GB 메모리 시스템에서 Firefox 탭을 대량으로 연 실험에서는 zram이 5.7GB 데이터를 1.7GB RAM에 저장해 약 1:3.35의 압축률을 기록함\n활용\n\n…",
-          "id": "https://news.hada.io/topic?id=37489",
-          "isoDate": "2026-11-19T21:39:38.000Z"
-        },
-        {
-          "title": "바이러스 주사로 환자 3명의 췌장암 진행 멈춰",
-          "link": "https://news.hada.io/topic?id=37488&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-19T21:36:38.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>미국 초기 임상시험에서 <strong>췌장암 환자 3명</strong>에게 바이러스를 종양에 직접 주입한 뒤 종양이 더 커지지 않았으며, 모두 생존하고 임상적으로 안정된 상태를 유지함</li><li>치료에는 암세포에서만 증식하도록 유전자를 조작한 <strong>아데노바이러스</strong>를 사용하며, 감염된 암세포를 터뜨리고 주변 암세포로 퍼지는 방식으로 작동함</li><li>초기 안전성 평가를 위해 목표 용량의 <strong>10분의 1</strong>만 투여했으며, 종양 성장은 멈췄지만 크기가 줄어들지는 않음</li><li>지금까지 <strong>대조군이 없는 3명 규모의 결과</strong>여서 다른 치료나 무치료보다 효과적인지는 알 수 없으며, 더 큰 임상시험에</li></ul></div>…",
-          "contentSnippet": "미국 초기 임상시험에서 췌장암 환자 3명에게 바이러스를 종양에 직접 주입한 뒤 종양이 더 커지지 않았으며, 모두 생존하고 임상적으로 안정된 상태를 유지함\n치료에는 암세포에서만 증식하도록 유전자를 조작한 아데노바이러스를 사용하며, 감염된 암세포를 터뜨리고 주변 암세포로 퍼지는 방식으로 작동함\n초기 안전성 평가를 위해 목표 용량의 10분의 1만 투여했으며, 종양 성장은 멈췄지만 크기가 줄어들지는 않음\n지금까지 대조군이 없는 3명 규모의 결과여서 다른 치료나 무치료보다 효과적인지는 알 수 없으며, 더 큰 임상시험에\n\n…",
-          "id": "https://news.hada.io/topic?id=37488",
-          "isoDate": "2026-11-19T21:36:38.000Z"
-        },
-        {
-          "title": "Claude, 블랙홀 물리학의 미해결 문제 두 가지 해결",
-          "link": "https://news.hada.io/topic?id=37487&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-19T20:33:40.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>Claude Fable 5.2</strong>가 양자중력 연구의 두 문제를 해결함. 20여 년간 미완성이던 블랙홀 형성 관련 상전이 계산을 완수하고, 후보 양자중력 이론을 검증하는 기법의 가장 단순한 형태가 도달할 수 있는 정확한 한계를 증명함</li><li><strong>Hawking-Page 상전이</strong>에 대응하는 급격한 전이가, 시공간의 형태가 뚜렷하지 않은 약한 결합 영역에서도 유지됨을 확인함. 중력으로 계산한 결과와 중력이 없는 양자이론의 거동이 정성적으로 일치함</li><li><strong>모듈러 부트스트랩</strong>에서 블랙홀의 회전을 무시하는 방식으로 가장 가벼운 블랙홀 질량의 상한을 약 <strong>c/9.1266</strong>으로 구하고, 이 방식으로는 더 낮출 수 없음을 증명함</li></ul></div>…",
-          "contentSnippet": "Claude Fable 5.2가 양자중력 연구의 두 문제를 해결함. 20여 년간 미완성이던 블랙홀 형성 관련 상전이 계산을 완수하고, 후보 양자중력 이론을 검증하는 기법의 가장 단순한 형태가 도달할 수 있는 정확한 한계를 증명함\nHawking-Page 상전이에 대응하는 급격한 전이가, 시공간의 형태가 뚜렷하지 않은 약한 결합 영역에서도 유지됨을 확인함. 중력으로 계산한 결과와 중력이 없는 양자이론의 거동이 정성적으로 일치함\n모듈러 부트스트랩에서 블랙홀의 회전을 무시하는 방식으로 가장 가벼운 블랙홀 질량의 상한을 약 c/9.1266으로 구하고, 이 방식으로는 더 낮출 수 없음을 증명함\n\n…",
-          "id": "https://news.hada.io/topic?id=37487",
-          "isoDate": "2026-11-19T20:33:40.000Z"
-        },
-        {
-          "title": "Nintendo, GitHub에서 Picofly 펌웨어 삭제 조치 [영상]",
-          "link": "https://news.hada.io/topic?id=37485&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-19T19:50:32.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>Nintendo가 Switch 모드칩용 <strong>Picofly 펌웨어</strong>에 DMCA 삭제 통지를 보냄. Nintendo 코드 포함이 아니라, 부팅 과정의 보호조치를 우회해 불법 복제 게임을 실행할 수 있다는 점을 근거로 삼음</li><li>Picofly는 메인보드에 납땜한 <strong>Raspberry Pi RP2040</strong> 칩으로 부팅 검사를 우회해, Android와 Linux 또는 Atmosphere 같은 커스텀 소프트웨어를 실행하게 함</li><li>개조한 Switch에서는 <strong>저장 데이터 백업</strong>, 게임 수정, 프레임률 제한 변경, PC 게임 스트리밍 등 불법 복제와 무관한 용도로도 커스텀 소프트웨어를 사용할 수 있음</li><li>Lewis Rossmann은 실제 저작</li></ul></div>…",
-          "contentSnippet": "Nintendo가 Switch 모드칩용 Picofly 펌웨어에 DMCA 삭제 통지를 보냄. Nintendo 코드 포함이 아니라, 부팅 과정의 보호조치를 우회해 불법 복제 게임을 실행할 수 있다는 점을 근거로 삼음\nPicofly는 메인보드에 납땜한 Raspberry Pi RP2040 칩으로 부팅 검사를 우회해, Android와 Linux 또는 Atmosphere 같은 커스텀 소프트웨어를 실행하게 함\n개조한 Switch에서는 저장 데이터 백업, 게임 수정, 프레임률 제한 변경, PC 게임 스트리밍 등 불법 복제와 무관한 용도로도 커스텀 소프트웨어를 사용할 수 있음\nLewis Rossmann은 실제 저작\n\n…",
-          "id": "https://news.hada.io/topic?id=37485",
-          "isoDate": "2026-11-19T19:50:32.000Z"
-        },
-        {
-          "title": "너희 AI 안전장치 따위 엿 먹어라",
-          "link": "https://news.hada.io/topic?id=37484&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-19T19:47:32.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>자신이 관리하는 제품의 보안을 점검하던 시니어 제품 엔지니어가 <strong>Claude Code의 안전장치</strong>에 가로막혀, 한 줄로 고칠 수 있는 취약점 수정 작업을 중단당함</li><li><strong>보안 작업 예외 승인</strong>에는 영업일 기준 수일의 대기, 데이터 보존 예외 포기, 신분증이나 여권 제출이 필요하며, 신청해도 승인받지 못할 수 있음</li><li>자신의 기술 스택에 해당하는 <strong>공개 공격 개념증명 코드</strong>로 자체 서비스를 공격할 수 있는지 확인하는 작업도 차단됐으며, 이전 모델을 사용하라는 안내도 해결책이 되지 못함</li><li>공격자는 안전장치 없는 모델을 사용할 수 있는데 방어자는</li></ul></div>…",
-          "contentSnippet": "자신이 관리하는 제품의 보안을 점검하던 시니어 제품 엔지니어가 Claude Code의 안전장치에 가로막혀, 한 줄로 고칠 수 있는 취약점 수정 작업을 중단당함\n보안 작업 예외 승인에는 영업일 기준 수일의 대기, 데이터 보존 예외 포기, 신분증이나 여권 제출이 필요하며, 신청해도 승인받지 못할 수 있음\n자신의 기술 스택에 해당하는 공개 공격 개념증명 코드로 자체 서비스를 공격할 수 있는지 확인하는 작업도 차단됐으며, 이전 모델을 사용하라는 안내도 해결책이 되지 못함\n공격자는 안전장치 없는 모델을 사용할 수 있는데 방어자는\n\n…",
-          "id": "https://news.hada.io/topic?id=37484",
-          "isoDate": "2026-11-19T19:47:32.000Z"
-        },
-        {
-          "title": "영국 정부, Apple에 비밀 암호화 명령을 내린 사실 인정해야",
-          "link": "https://news.hada.io/topic?id=37483&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-19T19:44:32.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>영국 <strong>수사권한심판소(Investigatory Powers Tribunal)</strong> 가 정부에 Apple 대상 기술역량통지 발부 사실을 인정하도록 판결함. 정부는 그동안 명령의 존재 자체를 확인도 부인도 하지 않았음</li><li>판결은 <strong>명령 존재의 공개</strong>에 관한 것으로, 명령의 적법성이나 암호화 변경 요구의 정당성을 판단하지 않았으며 구체적인 기술 요구사항도 공개하지 않음</li><li>전 세계 iCloud 이용자 데이터에 대한 접근을 요구한 것으로 알려진 최초 명령은 철회됐지만, 이후 <strong>영국 이용자로 범위를 제한한 두 번째 명령</strong>이 발부된 것으로 알려져 Apple의 법적 대응이 이어지고 있음</li></ul></div>…",
-          "contentSnippet": "영국 수사권한심판소(Investigatory Powers Tribunal) 가 정부에 Apple 대상 기술역량통지 발부 사실을 인정하도록 판결함. 정부는 그동안 명령의 존재 자체를 확인도 부인도 하지 않았음\n판결은 명령 존재의 공개에 관한 것으로, 명령의 적법성이나 암호화 변경 요구의 정당성을 판단하지 않았으며 구체적인 기술 요구사항도 공개하지 않음\n전 세계 iCloud 이용자 데이터에 대한 접근을 요구한 것으로 알려진 최초 명령은 철회됐지만, 이후 영국 이용자로 범위를 제한한 두 번째 명령이 발부된 것으로 알려져 Apple의 법적 대응이 이어지고 있음\n\n…",
-          "id": "https://news.hada.io/topic?id=37483",
-          "isoDate": "2026-11-19T19:44:32.000Z"
-        },
-        {
-          "title": "Anthropic, Nasdaq 상장 첫날 시가총액 약 2,600조원 도달",
-          "link": "https://news.hada.io/topic?id=37482&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-19T19:41:32.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>Claude 개발사 <strong>Anthropic</strong>이 역대 최대인 <strong>810억 달러($81b) 규모 IPO</strong>에서 기업가치 1조 5,000억 달러를 인정받으며, AI 산업의 성장 기대와 투자 위험을 시험대에 올림</li><li>기술주 전반의 매도세 속에서도 <strong>공모주 수요</strong>는 강했지만, 막대한 인프라 지출과 늘어나는 부채를 향후 수익이 정당화할 수 있는지에 대한 의구심은 커지고 있음</li><li>최초로 상장하는 <strong>최첨단 AI 기업</strong>으로서 업계의 평가 기준이 될 전망이며, 장기 수익성은 여전히 불확실함</li><li>Amazon과 Google 등을 상대로 한 <strong>컴퓨팅 계약 약정이 약 9,000억 달러</strong>에 달하며, 일부 미래 연산 자원</li></ul></div>…",
-          "contentSnippet": "Claude 개발사 Anthropic이 역대 최대인 810억 달러($81b) 규모 IPO에서 기업가치 1조 5,000억 달러를 인정받으며, AI 산업의 성장 기대와 투자 위험을 시험대에 올림\n기술주 전반의 매도세 속에서도 공모주 수요는 강했지만, 막대한 인프라 지출과 늘어나는 부채를 향후 수익이 정당화할 수 있는지에 대한 의구심은 커지고 있음\n최초로 상장하는 최첨단 AI 기업으로서 업계의 평가 기준이 될 전망이며, 장기 수익성은 여전히 불확실함\nAmazon과 Google 등을 상대로 한 컴퓨팅 계약 약정이 약 9,000억 달러에 달하며, 일부 미래 연산 자원\n\n…",
-          "id": "https://news.hada.io/topic?id=37482",
-          "isoDate": "2026-11-19T19:41:32.000Z"
-        },
-        {
-          "title": "PHP 치명적 취약점 보안 릴리스 예정 안내(2026년 11월 18일)",
-          "link": "https://news.hada.io/topic?id=37481&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-19T19:00:53.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>PHP 보안팀이 <strong>지원 중인 모든 PHP 버전에 영향을 미치는 취약점</strong>을 수정하는 보안 릴리스를 예고함</li><li>릴리스는 <strong>2026년 11월 19일 목요일 14:00~14:30 UTC</strong>에 배포할 예정임</li><li>수정 대상 취약점의 최고 심각도는 <strong>CRITICAL</strong>이며, 이 등급의 문제는 기본값이 아닌 설정 또는 드문 구성에서 발생함</li><li>이번 보안 업데이트는 PHP의 <strong>정규 4주 릴리스 주기</strong>에 따라 진행됨</li><li>배포 즉시 <strong>업그레이드할 수 있도록 준비</strong>할 것을 강력히 권고하며, 기술 세부 사항과 수정 버전 번호는 릴리스와 함께 공개될 예정임</li></ul><hr><h2>배포 일정과 영향 범위</h2><ul><li><a href=\"https://www.php.net/archive/2026.php#2026-11-18-1\">PHP 보안 릴리스 사전 공지</a></li></ul></div>…",
-          "contentSnippet": "PHP 보안팀이 지원 중인 모든 PHP 버전에 영향을 미치는 취약점을 수정하는 보안 릴리스를 예고함\n릴리스는 2026년 11월 19일 목요일 14:00~14:30 UTC에 배포할 예정임\n수정 대상 취약점의 최고 심각도는 CRITICAL이며, 이 등급의 문제는 기본값이 아닌 설정 또는 드문 구성에서 발생함\n이번 보안 업데이트는 PHP의 정규 4주 릴리스 주기에 따라 진행됨\n배포 즉시 업그레이드할 수 있도록 준비할 것을 강력히 권고하며, 기술 세부 사항과 수정 버전 번호는 릴리스와 함께 공개될 예정임\n\n배포 일정과 영향 범위\n\nPHP 보안 릴리스 사전 공지\n\n…",
-          "id": "https://news.hada.io/topic?id=37481",
-          "isoDate": "2026-11-19T19:00:53.000Z"
-        },
-        {
-          "title": "누군가 2026년 9월에 java4shell 버그를 보고함",
-          "link": "https://news.hada.io/topic?id=37480&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-19T18:36:14.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>OpenJDK의 <strong>x86_64 AVX-512 VBMI Base64 디코더</strong>에서 잘못된 입력을 처리할 때 논리적 출력 길이를 넘어 데이터를 저장해 힙을 손상시키는 버그가 보고됨</li><li>남은 입력이 <strong>4바이트 미만</strong>이면 출력 크기가 0으로 계산되고, 패딩 처리에서 음수가 되면서 잘못된 출력 마스크가 만들어짐</li><li>재현 입력인 <strong><code>\"A\".repeat(64)+\"=\"</code></strong> 는 64바이트 처리 루프 이후 1바이트를 남김. PR 설명에 따르면 유효한 입력 길이는 항상 4의 배수이므로 이 버그는 잘못된 입력에서만 발생함</li><li>제안된 수정은 <strong><code>length &lt; 4</code>이면 Java로 조기 반환</strong>해 문제가 있는 벡터 처리 경로를 </li></ul></div>…",
-          "contentSnippet": "OpenJDK의 x86_64 AVX-512 VBMI Base64 디코더에서 잘못된 입력을 처리할 때 논리적 출력 길이를 넘어 데이터를 저장해 힙을 손상시키는 버그가 보고됨\n남은 입력이 4바이트 미만이면 출력 크기가 0으로 계산되고, 패딩 처리에서 음수가 되면서 잘못된 출력 마스크가 만들어짐\n재현 입력인 \"A\".repeat(64)+\"=\" 는 64바이트 처리 루프 이후 1바이트를 남김. PR 설명에 따르면 유효한 입력 길이는 항상 4의 배수이므로 이 버그는 잘못된 입력에서만 발생함\n제안된 수정은 length < 4이면 Java로 조기 반환해 문제가 있는 벡터 처리 경로를 \n\n…",
-          "id": "https://news.hada.io/topic?id=37480",
-          "isoDate": "2026-11-19T18:36:14.000Z"
-        },
-        {
-          "title": "생존과 사회 재건에 필요한 모든 것",
-          "link": "https://news.hada.io/topic?id=37479&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-19T18:33:14.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>Lastbook</strong>은 생존과 사회 재건에 필요한 자료, 지도, 영상, 선택형 로컬 AI를 무료로 제공하며, 초기 설정 후 오프라인에서 사용할 수 있음</li><li><strong>응급처치, 식수, 식량 보존</strong>부터 수리, 전력, 재난 대비까지 다루며, 영상 2,324개와 검색 가능한 장소 25만 8,000곳 이상을 제공함</li><li><strong>Chat</strong>은 선택형 로컬 <strong>Gemma 4 26B A4B</strong> 모델로 라이브러리 관련 질문에 답하고 출처를 연결함</li><li><strong>Mac, Windows, Linux</strong> 컴퓨터용이며 휴대전화와 태블릿은 지원하지 않음</li><li>의료 자료는 Hesperian, 세계보건기구, Red Cross 등의 출판 가이드를 바탕으로 하지만, <strong>Lastbook 자</strong></li></ul></div>…",
-          "contentSnippet": "Lastbook은 생존과 사회 재건에 필요한 자료, 지도, 영상, 선택형 로컬 AI를 무료로 제공하며, 초기 설정 후 오프라인에서 사용할 수 있음\n응급처치, 식수, 식량 보존부터 수리, 전력, 재난 대비까지 다루며, 영상 2,324개와 검색 가능한 장소 25만 8,000곳 이상을 제공함\nChat은 선택형 로컬 Gemma 4 26B A4B 모델로 라이브러리 관련 질문에 답하고 출처를 연결함\nMac, Windows, Linux 컴퓨터용이며 휴대전화와 태블릿은 지원하지 않음\n의료 자료는 Hesperian, 세계보건기구, Red Cross 등의 출판 가이드를 바탕으로 하지만, Lastbook 자\n\n…",
-          "id": "https://news.hada.io/topic?id=37479",
-          "isoDate": "2026-11-19T18:33:14.000Z"
         }
       ]
     },
@@ -381,235 +381,235 @@
       "category": "news",
       "data": [
         {
-          "creator": "김태호",
-          "title": "[속보] 'SM 주가조작' 혐의 카카오 김범수 2심도 무죄",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261120105337H9X",
-          "pubDate": "Fri, 20 Nov 2026 10:53:39 +0900",
-          "content:encoded": "SM엔터테인먼트 시세조종 의혹으로 재판에 넘겨진 김범수 카카오 창업자가 2심에서도 무죄를 선고받았습니다.\n\n서울고법은 오늘 자본시장법 위반 혐의로 기소된 김 씨에게 1심과 같이 무죄를 선고했습니다.\n\n김 씨는 2023년 2월 SM엔터 인수 과정에서 경쟁사 하이브의 공개매수를 방해하기 위해 주가를 공개매수가보다 높게 고정하는 방식으로 시세를 조종한 혐의로 기소돼 1심에서 무죄를 받은 바 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김태호(klaudho@yna.co.kr)",
-          "content:encodedSnippet": "SM엔터테인먼트 시세조종 의혹으로 재판에 넘겨진 김범수 카카오 창업자가 2심에서도 무죄를 선고받았습니다.\n\n서울고법은 오늘 자본시장법 위반 혐의로 기소된 김 씨에게 1심과 같이 무죄를 선고했습니다.\n\n김 씨는 2023년 2월 SM엔터 인수 과정에서 경쟁사 하이브의 공개매수를 방해하기 위해 주가를 공개매수가보다 높게 고정하는 방식으로 시세를 조종한 혐의로 기소돼 1심에서 무죄를 받은 바 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김태호(klaudho@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261120/MYH20261120105337H9X.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "김태호",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261120105337H9X#comments",
-          "content": "SM엔터테인먼트 시세조종 의혹으로 재판에 넘겨진 김범수 카카오 창업자가 2심에서도 무죄를 선고받았습니다. 서울고법은 오늘 자본시장법 위반 혐의로 기소된 김 씨에게 1심과 같이 무죄를 선고했습니다. 김 씨는 2023년 2월 SM엔터 인수 과정에서 경쟁사 하이브의 공개매수를 방해하기 위해 주가를 공개매수가보다 높게 고정하는 방식으로 시세를 조종한 혐의로 기소돼 1심에서 무죄를 받은 바 있습니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 j...",
-          "contentSnippet": "SM엔터테인먼트 시세조종 의혹으로 재판에 넘겨진 김범수 카카오 창업자가 2심에서도 무죄를 선고받았습니다. 서울고법은 오늘 자본시장법 위반 혐의로 기소된 김 씨에게 1심과 같이 무죄를 선고했습니다. 김 씨는 2023년 2월 SM엔터 인수 과정에서 경쟁사 하이브의 공개매수를 방해하기 위해 주가를 공개매수가보다 높게 고정하는 방식으로 시세를 조종한 혐의로 기소돼 1심에서 무죄를 받은 바 있습니다. 연합뉴스TV 기사문의 및 제보 : 카톡/라인 j...",
-          "guid": "MYH20261120105337H9X",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-20T01:53:39.000Z"
-        },
-        {
           "creator": "최다훈",
-          "title": "\"수학 잘 보고싶어\"…천안 수능 스마트안경 사용 수험생 입건",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261120105116cLy",
-          "pubDate": "Fri, 20 Nov 2026 10:51:18 +0900",
-          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR20261120105116cLy_01_i.jpg\" alt=\"\"><span class=\"yna_title\">충남경찰청</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n충남경찰청은 수능 시험장에서 스마트안경을 이용해 부정행위를 한 혐의로 A 씨를 입건해 조사하고 있다고 오늘(20일) 밝혔습니다.\n\n고교 졸업생인 A 씨는 어제 천안의 한 수능 시험장에서 2교시 수학 시험을 보던 중 스마트안경을 사용해 시험 감독 업무를 방해한 혐의를 받고 있습니다.\n\n당시 A 씨는 스마트 안경과 일반 안경을 따로 준비해 감독관의 의심을 피하려 했던 것으로 파악됐지만 감독관이 A 씨의 동의를 받아 주머니와 소매를 확인하는 과정에서 부정행위가 적발된 것으로 전해졌습니다.\n\nA 씨는 취약 과목인 수학을 잘 보고 싶은 마음에 스마트안경을 사용했다고 진술한 것으로 파악됐습니다.\n\n시험장 측 신고를 받은 경찰은 A 씨를 조사한 뒤 귀가 조처했으며 확보한 증거물을 분석해 구체적인 사용 방식과 조력자 유무 등을 확인하고, 구속영장 신청도 검토할 방침입니다.\n\n\n#부정행위 #수능\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최다훈(hoon@yna.co.kr)",
-          "content:encodedSnippet": "충남경찰청[연합뉴스 제공][연합뉴스 제공]\n충남경찰청은 수능 시험장에서 스마트안경을 이용해 부정행위를 한 혐의로 A 씨를 입건해 조사하고 있다고 오늘(20일) 밝혔습니다.\n\n고교 졸업생인 A 씨는 어제 천안의 한 수능 시험장에서 2교시 수학 시험을 보던 중 스마트안경을 사용해 시험 감독 업무를 방해한 혐의를 받고 있습니다.\n\n당시 A 씨는 스마트 안경과 일반 안경을 따로 준비해 감독관의 의심을 피하려 했던 것으로 파악됐지만 감독관이 A 씨의 동의를 받아 주머니와 소매를 확인하는 과정에서 부정행위가 적발된 것으로 전해졌습니다.\n\nA 씨는 취약 과목인 수학을 잘 보고 싶은 마음에 스마트안경을 사용했다고 진술한 것으로 파악됐습니다.\n\n시험장 측 신고를 받은 경찰은 A 씨를 조사한 뒤 귀가 조처했으며 확보한 증거물을 분석해 구체적인 사용 방식과 조력자 유무 등을 확인하고, 구속영장 신청도 검토할 방침입니다.\n\n\n#부정행위 #수능\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최다훈(hoon@yna.co.kr)",
+          "title": "호남 반도체 산업단지에 맞춤형 물 공급 속도",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH202611202001410sv",
+          "pubDate": "Fri, 20 Nov 2026 20:01:42 +0900",
+          "content:encoded": "[앵커]\n\n호남권 반도체 클러스터 조성에 맞춰 물 공급 기반을 마련하는 작업도 속도를 내고 있습니다.\n\n수자원공사는 동복댐 증축과 하수 재이용 등을 통해 공장 가동에 필요한 물을 단계적으로 확보할 계획입니다.\n\n최다훈 기자입니다.\n\n[기자]\n\n산자락 사이로 물이 넓게 펼쳐져 있습니다.\n\n지역 주민들에게 식수를 공급해 온 전남 화순의 동복댐입니다.\n\n앞으로는 호남권 반도체 산업단지의 핵심 용수원 역할도 맡게 됩니다.\n\n산단의 예상 용수 수요는 하루 60만 3천 톤.\n\n향후 추가 수요와 가뭄에 대비해 필요한 양보다 여유 있게 공급 기반을 갖출 계획입니다.\n\n동복댐에서는 증축으로 확보할 물과 기존 여유 물량을 합쳐 하루 30만 톤을 공급합니다.\n\n안전성과 시공 여건을 고려해 기존 댐 하류에 새 댐을 짓는 방식입니다.\n\n용수 공급시설은 산업단지 가동 일정에 맞춰 단계적으로 갖춰집니다.\n\n2028년까지 임시 공급을 시작하고 2032년까지 하루 106만 톤 규모로 확대할 계획입니다.\n\n주암댐 등 다른 댐의 물도 활용하고, 하수처리장에서 나온 물을 다시 처리해 하루 30만 톤을 확보합니다.\n\n한국수자원공사는 주암댐과 동복댐의 운영 현황을 점검하며 기업의 투자 일정에 맞춘 용수 공급을 강조했습니다.\n\n&lt;양승조 / 한국수자원공사 사장&gt; \"물과 전력이 없으면 (반도체 클러스터를) 전혀 가동할 수가 없습니다. 한 마디로 핵심 중의 핵심인 요인이라고 생각할 정도로 이 용수 공급은 정말 중요하고…\"\n\n수자원공사는 동복댐 증축으로 수몰 영향을 받는 주민들과도 소통하며 보상과 이주 등 상생 방안을 협의할 계획입니다.\n\n연합뉴스TV 최다훈입니다.\n\n[영상취재 윤재영]\n\n[영상편집 김건영]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최다훈(hoon@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n호남권 반도체 클러스터 조성에 맞춰 물 공급 기반을 마련하는 작업도 속도를 내고 있습니다.\n\n수자원공사는 동복댐 증축과 하수 재이용 등을 통해 공장 가동에 필요한 물을 단계적으로 확보할 계획입니다.\n\n최다훈 기자입니다.\n\n[기자]\n\n산자락 사이로 물이 넓게 펼쳐져 있습니다.\n\n지역 주민들에게 식수를 공급해 온 전남 화순의 동복댐입니다.\n\n앞으로는 호남권 반도체 산업단지의 핵심 용수원 역할도 맡게 됩니다.\n\n산단의 예상 용수 수요는 하루 60만 3천 톤.\n\n향후 추가 수요와 가뭄에 대비해 필요한 양보다 여유 있게 공급 기반을 갖출 계획입니다.\n\n동복댐에서는 증축으로 확보할 물과 기존 여유 물량을 합쳐 하루 30만 톤을 공급합니다.\n\n안전성과 시공 여건을 고려해 기존 댐 하류에 새 댐을 짓는 방식입니다.\n\n용수 공급시설은 산업단지 가동 일정에 맞춰 단계적으로 갖춰집니다.\n\n2028년까지 임시 공급을 시작하고 2032년까지 하루 106만 톤 규모로 확대할 계획입니다.\n\n주암댐 등 다른 댐의 물도 활용하고, 하수처리장에서 나온 물을 다시 처리해 하루 30만 톤을 확보합니다.\n\n한국수자원공사는 주암댐과 동복댐의 운영 현황을 점검하며 기업의 투자 일정에 맞춘 용수 공급을 강조했습니다.\n\n<양승조 / 한국수자원공사 사장> \"물과 전력이 없으면 (반도체 클러스터를) 전혀 가동할 수가 없습니다. 한 마디로 핵심 중의 핵심인 요인이라고 생각할 정도로 이 용수 공급은 정말 중요하고…\"\n\n수자원공사는 동복댐 증축으로 수몰 영향을 받는 주민들과도 소통하며 보상과 이주 등 상생 방안을 협의할 계획입니다.\n\n연합뉴스TV 최다훈입니다.\n\n[영상취재 윤재영]\n\n[영상편집 김건영]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최다훈(hoon@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR20261120105116cLy_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261120/MYH202611202001410sv.jpg",
             "type": "image/jpeg"
           },
           "dc:creator": "최다훈",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261120105116cLy#comments",
-          "content": "충남경찰청[연합뉴스 제공][연합뉴스 제공] 충남경찰청은 수능 시험장에서 스마트안경을 이용해 부정행위를 한 혐의로 A 씨를 입건해 조사하고 있다고 오늘(20일) 밝혔습니다. 고교 졸업생인 A 씨는 어제 천안의 한 수능 시험장에서 2교시 수학 시험을 보던 중 스마트안경을 사용해 시험 감독 업무를 방해한 혐의를 받고 있습니다. 당시 A 씨는 스마트 안경과 일반 안경을 따로 준비해 감독관의 의심을 피하려 했던 것으로 파악됐지만 감독관이 A 씨의 ...",
-          "contentSnippet": "충남경찰청[연합뉴스 제공][연합뉴스 제공] 충남경찰청은 수능 시험장에서 스마트안경을 이용해 부정행위를 한 혐의로 A 씨를 입건해 조사하고 있다고 오늘(20일) 밝혔습니다. 고교 졸업생인 A 씨는 어제 천안의 한 수능 시험장에서 2교시 수학 시험을 보던 중 스마트안경을 사용해 시험 감독 업무를 방해한 혐의를 받고 있습니다. 당시 A 씨는 스마트 안경과 일반 안경을 따로 준비해 감독관의 의심을 피하려 했던 것으로 파악됐지만 감독관이 A 씨의 ...",
-          "guid": "AKR20261120105116cLy",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH202611202001410sv#comments",
+          "content": "[앵커] 호남권 반도체 클러스터 조성에 맞춰 물 공급 기반을 마련하는 작업도 속도를 내고 있습니다. 수자원공사는 동복댐 증축과 하수 재이용 등을 통해 공장 가동에 필요한 물을 단계적으로 확보할 계획입니다. 최다훈 기자입니다. [기자] 산자락 사이로 물이 넓게 펼쳐져 있습니다. 지역 주민들에게 식수를 공급해 온 전남 화순의 동복댐입니다. 앞으로는 호남권 반도체 산업단지의 핵심 용수원 역할도 맡게 됩니다. 산단의 예상 용수 수요는 하루 60만...",
+          "contentSnippet": "[앵커] 호남권 반도체 클러스터 조성에 맞춰 물 공급 기반을 마련하는 작업도 속도를 내고 있습니다. 수자원공사는 동복댐 증축과 하수 재이용 등을 통해 공장 가동에 필요한 물을 단계적으로 확보할 계획입니다. 최다훈 기자입니다. [기자] 산자락 사이로 물이 넓게 펼쳐져 있습니다. 지역 주민들에게 식수를 공급해 온 전남 화순의 동복댐입니다. 앞으로는 호남권 반도체 산업단지의 핵심 용수원 역할도 맡게 됩니다. 산단의 예상 용수 수요는 하루 60만...",
+          "guid": "MYH202611202001410sv",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-20T01:51:18.000Z"
+          "isoDate": "2026-11-20T11:01:42.000Z"
         },
         {
-          "creator": "최지원",
-          "title": "LA 오토쇼에서 제네시스 G80 하이브리드 첫 공개",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261120105114AsQ",
-          "pubDate": "Fri, 20 Nov 2026 10:51:15 +0900",
-          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR20261120105114AsQ_01_i.jpg\" alt=\"\"><span class=\"yna_title\">제네시스, 'G80 하이브리드' 공개</span><span class=\"yna_caption\">[출처 = 현대자동차그룹]</span><span class=\"yna_description\">[출처 = 현대자동차그룹]</span></div>\n현대자동차그룹의 브랜드 제네시스는 현지시간 19일 미국 로스앤젤레스 컨벤션센터에서 열린 '2026 LA 오토쇼'에서 G80 하이브리드를 전세계 최초 공개했습니다.\n\nG80 하이브리드는 2.5 가솔린 터보 엔진에 시동 모터(P1)와 구동 모터(P2) 병렬형 구조의 차세대 하이브리드 시스템을 더해 향상된 출력과 연비를 확보했습니다.\n\n또한 연비와 출력을 개선해 1회 주유 시 약 1,029km를 주행할 수 있게 했습니다. 배터리 역시 수냉식 하이브리드 배터리 시스템을 적용해 배터리 온도를 효율적으로 제어하며 최대 방전 출력을 높였습니다.\n\n뒷자석 모션 시트와 메모리시스템, 도어 커튼 등 뒷자석 탑승객을 위해 여러 편의사양을 적용했고 비전루프 등 사양도 추가해 상품성을 높였습니다.\n\n제네시스 G80 하이브리드는 현지시간 29일까지 LA 오토쇼에서 전시됩니다.\n\n#현대자동차 #제네시스 #LA오토쇼\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
-          "content:encodedSnippet": "제네시스, 'G80 하이브리드' 공개[출처 = 현대자동차그룹][출처 = 현대자동차그룹]\n현대자동차그룹의 브랜드 제네시스는 현지시간 19일 미국 로스앤젤레스 컨벤션센터에서 열린 '2026 LA 오토쇼'에서 G80 하이브리드를 전세계 최초 공개했습니다.\n\nG80 하이브리드는 2.5 가솔린 터보 엔진에 시동 모터(P1)와 구동 모터(P2) 병렬형 구조의 차세대 하이브리드 시스템을 더해 향상된 출력과 연비를 확보했습니다.\n\n또한 연비와 출력을 개선해 1회 주유 시 약 1,029km를 주행할 수 있게 했습니다. 배터리 역시 수냉식 하이브리드 배터리 시스템을 적용해 배터리 온도를 효율적으로 제어하며 최대 방전 출력을 높였습니다.\n\n뒷자석 모션 시트와 메모리시스템, 도어 커튼 등 뒷자석 탑승객을 위해 여러 편의사양을 적용했고 비전루프 등 사양도 추가해 상품성을 높였습니다.\n\n제네시스 G80 하이브리드는 현지시간 29일까지 LA 오토쇼에서 전시됩니다.\n\n#현대자동차 #제네시스 #LA오토쇼\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)",
+          "creator": "윤솔",
+          "title": "수능 끝 한파 속 독감 확산…수험생 건강관리 '주의보'",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261120195704QEo",
+          "pubDate": "Fri, 20 Nov 2026 19:57:06 +0900",
+          "content:encoded": "[앵커]\n\n수능이 끝나자마자 매서운 추위가 찾아온 가운데 독감 환자가 4주 연속 늘고 있습니다.\n\n입원환자와 사망 신고도 크게 늘었습니다.\n\n수능은 끝났지만 대학별 시험을 앞둔 수험생들은 끝까지 건강관리에 신경써야겠습니다.\n\n윤솔 기자입니다.\n\n[기자]\n\n수능 끝 한파가 이어지는 가운데 독감 확산세는 가팔라지고 있습니다.\n\n지난 8일부터 14일까지 발생한 독감 의심환자는 외래환자 1천 명당 37.0명으로 최근 4주 연속 늘었습니다.\n\n연령별로는 7살에서 12살이 98.9명, 13살에서 18살은 64.5명으로 학령기 아동과 청소년에서 특히 두드러졌습니다.\n\n특히 병원급 입원환자는 926명으로 일주일 새 1.5배가 됐고, 양성 사망 신고도 44건으로 전주의 2배 가까이 늘었습니다.\n\n독감 확산과 심각성이 함께 높아지는 만큼 대학별 논술과 면접을 앞둔 수험생들의 건강 관리가 더욱 중요해진 셈입니다.\n\n&lt;이재갑 / 한림대성심병원 감염내과 교수&gt; \"입시 때문에 이동도 잦아지고요. 또 면접이라든지 이런 것들이 계속 진행이 되잖아요. 인플루엔자 걸리는 것만으로도 본인의 컨디션이 떨어지는 게 가장 큰 문제일 수 있으니까 의심되는 경우에 빨리 진단받고 치료제 써야 되고요.\"\n\n예방을 위해선 무엇보다 백신 접종이 중요합니다.\n\n현재 유행 중인 A형 H1N1 말고도 다른 유형에 걸릴 수 있는 만큼 한번 걸렸다고 해서 방심해서는 안 됩니다.\n\n다수가 모이는 시험장에서는 감염병 확산이 쉬워지는 만큼, 마스크를 착용하고 자주 손을 씻으면 예방에 도움이 됩니다.\n\n또 증상이 있을 땐 외출을 피하는 것도 좋습니다.\n\n또 기침 예절을 지키고 주기적으로 실내를 환기하는 등 생활 수칙 역시 중요합니다.\n\n연합뉴스TV 윤솔입니다.\n\n[영상편집 심지미]\n\n[그래픽 남진희 전해리]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤솔(solemio@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n수능이 끝나자마자 매서운 추위가 찾아온 가운데 독감 환자가 4주 연속 늘고 있습니다.\n\n입원환자와 사망 신고도 크게 늘었습니다.\n\n수능은 끝났지만 대학별 시험을 앞둔 수험생들은 끝까지 건강관리에 신경써야겠습니다.\n\n윤솔 기자입니다.\n\n[기자]\n\n수능 끝 한파가 이어지는 가운데 독감 확산세는 가팔라지고 있습니다.\n\n지난 8일부터 14일까지 발생한 독감 의심환자는 외래환자 1천 명당 37.0명으로 최근 4주 연속 늘었습니다.\n\n연령별로는 7살에서 12살이 98.9명, 13살에서 18살은 64.5명으로 학령기 아동과 청소년에서 특히 두드러졌습니다.\n\n특히 병원급 입원환자는 926명으로 일주일 새 1.5배가 됐고, 양성 사망 신고도 44건으로 전주의 2배 가까이 늘었습니다.\n\n독감 확산과 심각성이 함께 높아지는 만큼 대학별 논술과 면접을 앞둔 수험생들의 건강 관리가 더욱 중요해진 셈입니다.\n\n<이재갑 / 한림대성심병원 감염내과 교수> \"입시 때문에 이동도 잦아지고요. 또 면접이라든지 이런 것들이 계속 진행이 되잖아요. 인플루엔자 걸리는 것만으로도 본인의 컨디션이 떨어지는 게 가장 큰 문제일 수 있으니까 의심되는 경우에 빨리 진단받고 치료제 써야 되고요.\"\n\n예방을 위해선 무엇보다 백신 접종이 중요합니다.\n\n현재 유행 중인 A형 H1N1 말고도 다른 유형에 걸릴 수 있는 만큼 한번 걸렸다고 해서 방심해서는 안 됩니다.\n\n다수가 모이는 시험장에서는 감염병 확산이 쉬워지는 만큼, 마스크를 착용하고 자주 손을 씻으면 예방에 도움이 됩니다.\n\n또 증상이 있을 땐 외출을 피하는 것도 좋습니다.\n\n또 기침 예절을 지키고 주기적으로 실내를 환기하는 등 생활 수칙 역시 중요합니다.\n\n연합뉴스TV 윤솔입니다.\n\n[영상편집 심지미]\n\n[그래픽 남진희 전해리]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤솔(solemio@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR20261120105114AsQ_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261120/MYH20261120195704QEo.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "최지원",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261120105114AsQ#comments",
-          "content": "제네시스, 'G80 하이브리드' 공개[출처 = 현대자동차그룹][출처 = 현대자동차그룹] 현대자동차그룹의 브랜드 제네시스는 현지시간 19일 미국 로스앤젤레스 컨벤션센터에서 열린 '2026 LA 오토쇼'에서 G80 하이브리드를 전세계 최초 공개했습니다. G80 하이브리드는 2.5 가솔린 터보 엔진에 시동 모터(P1)와 구동 모터(P2) 병렬형 구조의 차세대 하이브리드 시스템을 더해 향상된 출력과 연비를 확보했습니다. 또한 연비와 출력을 개선해...",
-          "contentSnippet": "제네시스, 'G80 하이브리드' 공개[출처 = 현대자동차그룹][출처 = 현대자동차그룹] 현대자동차그룹의 브랜드 제네시스는 현지시간 19일 미국 로스앤젤레스 컨벤션센터에서 열린 '2026 LA 오토쇼'에서 G80 하이브리드를 전세계 최초 공개했습니다. G80 하이브리드는 2.5 가솔린 터보 엔진에 시동 모터(P1)와 구동 모터(P2) 병렬형 구조의 차세대 하이브리드 시스템을 더해 향상된 출력과 연비를 확보했습니다. 또한 연비와 출력을 개선해...",
-          "guid": "AKR20261120105114AsQ",
+          "dc:creator": "윤솔",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261120195704QEo#comments",
+          "content": "[앵커] 수능이 끝나자마자 매서운 추위가 찾아온 가운데 독감 환자가 4주 연속 늘고 있습니다. 입원환자와 사망 신고도 크게 늘었습니다. 수능은 끝났지만 대학별 시험을 앞둔 수험생들은 끝까지 건강관리에 신경써야겠습니다. 윤솔 기자입니다. [기자] 수능 끝 한파가 이어지는 가운데 독감 확산세는 가팔라지고 있습니다. 지난 8일부터 14일까지 발생한 독감 의심환자는 외래환자 1천 명당 37.0명으로 최근 4주 연속 늘었습니다. 연령별로는 7살에서...",
+          "contentSnippet": "[앵커] 수능이 끝나자마자 매서운 추위가 찾아온 가운데 독감 환자가 4주 연속 늘고 있습니다. 입원환자와 사망 신고도 크게 늘었습니다. 수능은 끝났지만 대학별 시험을 앞둔 수험생들은 끝까지 건강관리에 신경써야겠습니다. 윤솔 기자입니다. [기자] 수능 끝 한파가 이어지는 가운데 독감 확산세는 가팔라지고 있습니다. 지난 8일부터 14일까지 발생한 독감 의심환자는 외래환자 1천 명당 37.0명으로 최근 4주 연속 늘었습니다. 연령별로는 7살에서...",
+          "guid": "MYH20261120195704QEo",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-20T01:51:15.000Z"
+          "isoDate": "2026-11-20T10:57:06.000Z"
         },
         {
-          "creator": "김민아",
-          "title": "갤럽 \"이 대통령 국정지지도 40%…정당 지지도 민주 36%·국힘 28%\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261120104938CaH",
-          "pubDate": "Fri, 20 Nov 2026 10:49:39 +0900",
-          "content:encoded": "<b>총선 '정부 견제론' 우세…\"與 다수 당선 37%·野 다수 당선 47%\"</b>\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR20261120104938CaH_01_i.jpg\" alt=\"\"><span class=\"yna_title\">이재명 대통령</span><span class=\"yna_caption\">[연합뉴스 자료사진]</span><span class=\"yna_description\">[연합뉴스 자료사진]</span></div>\n이재명 대통령의 국정 지지도가 40%로 소폭 반등한 조사 결과가 오늘(20일) 나왔습니다.\n\n한국갤럽이 지난 17일부터 19일까지 전국 만 18세 이상 1천1명에게 조사한 결과 이 대통령의 직무수행에 대한 긍정 평가는 40%로, 직전 조사 대비 1%포인트(p) 상승했습니다.\n\n부정평가는 49%였고, 응답자의 10%는 의견을 유보했습니다.\n\n해당 조사 기준 이 대통령의 국정 지지도는 8월 2주차(44%) 이후 30% 후반대와 40% 초중반대를 횡보 중입니다.\n\n긍정 평가 사유로는 '외교'가 24%로 가장 높았고,  '경제·민생'(12%), '소통'(9%). '서민 정책·복지'(7%) 순이었습니다.\n\n부정 평가 사유로는 '경제·민생'(18%)이 가장 높게 나타났으며 '도덕성 문제·본인 재판 회피'(13%), '부동산 정책'(12%), '국방·안보·대북'(5%) 등의 이유도 제시됐습니다.\n\n정당별 지지도는 더불어민주당 36%, 국민의힘 28%로 조사됐습니다.\n\n지난 조사 대비 민주당은 3%p 하락했으며, 국민의힘은 2%p 올랐습니다.\n\n양당의 지지율 격차(8%p)는 3주 연속 오차 범위 밖에서 여당이 우세한 것으로 나타났습니다.\n\n조국혁신당은 3%, 개혁신당은 2%, 진보당은 1%, 지지하는 당이 없는 '무당층'은 28%로 집계됐습니다.\n\n오는 2028년 4월에 치러질 제23대 국회의원 선거 관련 어느 쪽 주장에 더 동의하는지 묻는 질문엔 '현 정부를 지원하기 위해 여당 후보가 많이 당선돼야 한다'는 응답이 37%로 나타났습니다.\n\n'현 정부를 견제하기 위해 야당 후보가 많이 당선돼야 한다'는 응답은 47%로 나타났으며, 16%는 의견을 유보했습니다.\n\n이번 조사는 무작위 추출된 무선전화 가상번호에 전화 조사원 인터뷰 방식으로 진행됐습니다.\n\n표본오차는 95% 신뢰수준에 ±3.1%p, 접촉률은 46.8%, 응답률은 10.1%입니다.\n\n자세한 내용은 중앙선거여론조사심의위원회 홈페이지 참조.\n\n\n#이재명대통령 #한국갤럽 #여론조사 #국정지지도 #더불어민주당 #국민의힘\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김민아(goldmina@yna.co.kr)",
-          "content:encodedSnippet": "총선 '정부 견제론' 우세…\"與 다수 당선 37%·野 다수 당선 47%\"\n이재명 대통령[연합뉴스 자료사진][연합뉴스 자료사진]\n이재명 대통령의 국정 지지도가 40%로 소폭 반등한 조사 결과가 오늘(20일) 나왔습니다.\n\n한국갤럽이 지난 17일부터 19일까지 전국 만 18세 이상 1천1명에게 조사한 결과 이 대통령의 직무수행에 대한 긍정 평가는 40%로, 직전 조사 대비 1%포인트(p) 상승했습니다.\n\n부정평가는 49%였고, 응답자의 10%는 의견을 유보했습니다.\n\n해당 조사 기준 이 대통령의 국정 지지도는 8월 2주차(44%) 이후 30% 후반대와 40% 초중반대를 횡보 중입니다.\n\n긍정 평가 사유로는 '외교'가 24%로 가장 높았고,  '경제·민생'(12%), '소통'(9%). '서민 정책·복지'(7%) 순이었습니다.\n\n부정 평가 사유로는 '경제·민생'(18%)이 가장 높게 나타났으며 '도덕성 문제·본인 재판 회피'(13%), '부동산 정책'(12%), '국방·안보·대북'(5%) 등의 이유도 제시됐습니다.\n\n정당별 지지도는 더불어민주당 36%, 국민의힘 28%로 조사됐습니다.\n\n지난 조사 대비 민주당은 3%p 하락했으며, 국민의힘은 2%p 올랐습니다.\n\n양당의 지지율 격차(8%p)는 3주 연속 오차 범위 밖에서 여당이 우세한 것으로 나타났습니다.\n\n조국혁신당은 3%, 개혁신당은 2%, 진보당은 1%, 지지하는 당이 없는 '무당층'은 28%로 집계됐습니다.\n\n오는 2028년 4월에 치러질 제23대 국회의원 선거 관련 어느 쪽 주장에 더 동의하는지 묻는 질문엔 '현 정부를 지원하기 위해 여당 후보가 많이 당선돼야 한다'는 응답이 37%로 나타났습니다.\n\n'현 정부를 견제하기 위해 야당 후보가 많이 당선돼야 한다'는 응답은 47%로 나타났으며, 16%는 의견을 유보했습니다.\n\n이번 조사는 무작위 추출된 무선전화 가상번호에 전화 조사원 인터뷰 방식으로 진행됐습니다.\n\n표본오차는 95% 신뢰수준에 ±3.1%p, 접촉률은 46.8%, 응답률은 10.1%입니다.\n\n자세한 내용은 중앙선거여론조사심의위원회 홈페이지 참조.\n\n\n#이재명대통령 #한국갤럽 #여론조사 #국정지지도 #더불어민주당 #국민의힘\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김민아(goldmina@yna.co.kr)",
+          "creator": "정영민",
+          "title": "[뉴스프라임] 미중러 정상 '평화선언'…북미회담 결국 불발",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261120195354yVm",
+          "pubDate": "Fri, 20 Nov 2026 19:53:57 +0900",
+          "content:encoded": "&lt;출연 : 김열수 한국군사문제연구원 안보전략실장&gt;\n\n사상 첫 미중러 정상회담에서 평화선언은 발표했지만, 구체적인 성과는 부족했다는 평가가 나오는데요.\n\n하지만 트럼프 대통령과 푸틴 대통령은 \"역사를 만들었다\"며 자화자찬했습니다.\n\n김열수 한국군사문제연구원 안보전략실장과 자세히 보겠습니다.\n\n&lt;질문 1&gt; 트럼프 대통령이 중국 선전에서 열린 사상 첫 미중러 정상회담에 대해, “10점 만점에 12점”이라고 평가했습니다. 왕이 중국 외교부장 “역사에 기록될 이정표적 사건”이라고 했고, 푸틴 대통령은 이번 만남이 “외교사에서 중요한 한 페이지”가 될 것이라고 말했는데요. 실장님은 이번 세 정상의 만남, 어떻게 평가하세요?\n\n&lt;질문 2&gt; 3자 정상회담에서의 자리 배치를 두고 갑론을박입니다. 시진핑 주석이 카메라 기준으로 원형 탁자의 정면 중앙에서 앉았고, 양쪽에 트럼프 대통령과 푸틴 대통령이 자리했는데요. 이를 두고 중국이 강대국 간 회의를 주도하는 모습을 보여주기 위해 의도적으로 자리 배치를 했을 수 있다는 분석이 나왔습니다. 반면 단순히 의전 절차에 따른 것이란 얘기도 있는데요?\n\n&lt;질문 3&gt; 3국 정상이 이번 회담을 통해 핵 확산 방지와 에너지 공급 확대, 국제형사재판소 ICC의 기능 축소, 그리고 유엔 개혁 등 4개 항목을 담은 공동성명을 했는데요. 전쟁과 같이 해법이 시급한 현안은 빠져있어서 알맹이는 없다는 평가도 나오는데요?\n\n&lt;질문 4&gt; 공동선언에 \"핵전쟁은 승리할 수 없는 전쟁이며 결코 일어나서는 안 된다\"는 3국 정상의 공동 입장이 담겼습니다. 공동선언에 '한반도'가 언급되지는 않았으나 핵전쟁에 반대한다는 입장을 천명한 만큼 북학의 핵 무력 고도화에 대한 우려가 공유된 걸까요? 아니면 구체적인 내용이 발표되지 않은 건 북한 핵 문제에 관한 세 나라 간 이견 때문일까요?\n\n&lt;질문 4-1&gt; 일단은 북핵을 용인하거나 묵인하는 것으로 해석되는 메시지가 나오지 않았단 점이 긍정적으로 볼 수 있을까요?\n\n&lt;질문 5&gt; 이 대통령이 “대한민국이 80여년 전의 약소국가가 더는 아니”라며 \"한반도를 둘러싼 주요 현안을 직접 당사자인 우리가 주도적으로 풀어갈 수 있도록 국가의 역량을 하나로 모아가야 한다\"고 말했는데요. 어떤 전략이 필요하다고 보세요?\n\n&lt;질문 6&gt; 푸틴 대통령이 세계 양강인 미·중의 지도자와 어울리고, 트럼프 대통령으로부터 “내 친구”라고 불리면서 의기양양해졌다는 평가가 나옵니다. 우크라이나 편에 서서 전쟁 출구를 찾고 있는 유럽으로선 이러한 상황이 걱정될 것 같은데요?\n\n&lt;질문 7&gt; 트럼프 대통령이 다음 달 미국 플로리다에서 개최하는 G20 정상회의에서 세 정상이 다시 만날 가능성도 제기됩니다. 하지만 푸틴 대통령은 참석 여부에 대해 “생각해보고 지켜보겠다”며 러시아 국내 상황을 고려해 참석 여부를 결정하겠다고 밝혔는데요. 다음 달 3국 정상이 다시 한 자리에 모인 모습을 볼 수 있을까요?\n\n&lt;질문 8&gt; 트럼프 대통령의 중국 방문기간 깜짝 북미회담은 결국 불발됐습니다. 트럼프 대통령은 “김 위원장과 관계는 유지되고 있지만 만나지는 못했다\", \"언젠가 만날 것\"이라며 성사 의지를 밝혔습니다. 미국 중간선거 패배로 정치적 입지가 약해진 트럼프 대통령에겐 돌파구가 필요하지만, 김 위원장으로선 현재 트럼프 대통령과 만남 필요성을 느끼지 못할 것이란 분석도 나오는데요?\n\n&lt;질문 8-1&gt; 빅터 차 미국 국제전략문제연구소(CSIS) 한국 석좌는, 김 위원장이 트럼프 대통령과 개별 회담을 하기보다는 미·중·러 정상과 한자리에 앉아 논의하는 구도를 더 선호했을 수 있다고 분석했습니다. 하지만 시진핑 주석이 그런 구상에 동의하지 않았을 것이라고 봤는데요. 이러한 분석은 어떻게 들으셨습니까?\n\n&lt;질문 9&gt; 백악관이 트럼프 대통령의 중국 방문을 마치고 귀국하는 전용기에서 동행 취재진의 휴대전화를 일괄 수거하는 조치를 한 것으로 알려졌습니다. 수거된 휴대전화들은 통신 신호를 완벽히 차단하도록 설계된 이른바 '패러데이 가방'에 보관됐으며, 미국에 착륙한 뒤에야 취재진에게 반환됐습니다. 백악관 측은 이번 조치가 잠재적인 첩보 활동을 막기 위한 사이버보안 예방 차원이라고 설명했는데요. 중국의 사이버 첩보에 대한 미국의 경계심이 높다는 것 아니겠습니까?\n\n&lt;질문 10&gt; 한편, 트럼프 대통령이 젠슨 황의 불륜 스캔들이 불거지기 직전까지도 엔비디아 주식을 ‘사고팔기’를 반복하면서 매매 차익을 노린 것으로 나타났습니다. 트럼프 대통령은 젠슨 황을 두둔하는 듯한 발언으로 비판의 도마 위에 오르기도 했었죠. 백악관 측은 트럼프 대통령의 엔비디아 주식 매매와 관련한 이해충돌 논란을 일축했는데, 이 사안은 어떻게 보세요?\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정영민(kkong@yna.co.kr)",
+          "content:encodedSnippet": "<출연 : 김열수 한국군사문제연구원 안보전략실장>\n\n사상 첫 미중러 정상회담에서 평화선언은 발표했지만, 구체적인 성과는 부족했다는 평가가 나오는데요.\n\n하지만 트럼프 대통령과 푸틴 대통령은 \"역사를 만들었다\"며 자화자찬했습니다.\n\n김열수 한국군사문제연구원 안보전략실장과 자세히 보겠습니다.\n\n<질문 1> 트럼프 대통령이 중국 선전에서 열린 사상 첫 미중러 정상회담에 대해, “10점 만점에 12점”이라고 평가했습니다. 왕이 중국 외교부장 “역사에 기록될 이정표적 사건”이라고 했고, 푸틴 대통령은 이번 만남이 “외교사에서 중요한 한 페이지”가 될 것이라고 말했는데요. 실장님은 이번 세 정상의 만남, 어떻게 평가하세요?\n\n<질문 2> 3자 정상회담에서의 자리 배치를 두고 갑론을박입니다. 시진핑 주석이 카메라 기준으로 원형 탁자의 정면 중앙에서 앉았고, 양쪽에 트럼프 대통령과 푸틴 대통령이 자리했는데요. 이를 두고 중국이 강대국 간 회의를 주도하는 모습을 보여주기 위해 의도적으로 자리 배치를 했을 수 있다는 분석이 나왔습니다. 반면 단순히 의전 절차에 따른 것이란 얘기도 있는데요?\n\n<질문 3> 3국 정상이 이번 회담을 통해 핵 확산 방지와 에너지 공급 확대, 국제형사재판소 ICC의 기능 축소, 그리고 유엔 개혁 등 4개 항목을 담은 공동성명을 했는데요. 전쟁과 같이 해법이 시급한 현안은 빠져있어서 알맹이는 없다는 평가도 나오는데요?\n\n<질문 4> 공동선언에 \"핵전쟁은 승리할 수 없는 전쟁이며 결코 일어나서는 안 된다\"는 3국 정상의 공동 입장이 담겼습니다. 공동선언에 '한반도'가 언급되지는 않았으나 핵전쟁에 반대한다는 입장을 천명한 만큼 북학의 핵 무력 고도화에 대한 우려가 공유된 걸까요? 아니면 구체적인 내용이 발표되지 않은 건 북한 핵 문제에 관한 세 나라 간 이견 때문일까요?\n\n<질문 4-1> 일단은 북핵을 용인하거나 묵인하는 것으로 해석되는 메시지가 나오지 않았단 점이 긍정적으로 볼 수 있을까요?\n\n<질문 5> 이 대통령이 “대한민국이 80여년 전의 약소국가가 더는 아니”라며 \"한반도를 둘러싼 주요 현안을 직접 당사자인 우리가 주도적으로 풀어갈 수 있도록 국가의 역량을 하나로 모아가야 한다\"고 말했는데요. 어떤 전략이 필요하다고 보세요?\n\n<질문 6> 푸틴 대통령이 세계 양강인 미·중의 지도자와 어울리고, 트럼프 대통령으로부터 “내 친구”라고 불리면서 의기양양해졌다는 평가가 나옵니다. 우크라이나 편에 서서 전쟁 출구를 찾고 있는 유럽으로선 이러한 상황이 걱정될 것 같은데요?\n\n<질문 7> 트럼프 대통령이 다음 달 미국 플로리다에서 개최하는 G20 정상회의에서 세 정상이 다시 만날 가능성도 제기됩니다. 하지만 푸틴 대통령은 참석 여부에 대해 “생각해보고 지켜보겠다”며 러시아 국내 상황을 고려해 참석 여부를 결정하겠다고 밝혔는데요. 다음 달 3국 정상이 다시 한 자리에 모인 모습을 볼 수 있을까요?\n\n<질문 8> 트럼프 대통령의 중국 방문기간 깜짝 북미회담은 결국 불발됐습니다. 트럼프 대통령은 “김 위원장과 관계는 유지되고 있지만 만나지는 못했다\", \"언젠가 만날 것\"이라며 성사 의지를 밝혔습니다. 미국 중간선거 패배로 정치적 입지가 약해진 트럼프 대통령에겐 돌파구가 필요하지만, 김 위원장으로선 현재 트럼프 대통령과 만남 필요성을 느끼지 못할 것이란 분석도 나오는데요?\n\n<질문 8-1> 빅터 차 미국 국제전략문제연구소(CSIS) 한국 석좌는, 김 위원장이 트럼프 대통령과 개별 회담을 하기보다는 미·중·러 정상과 한자리에 앉아 논의하는 구도를 더 선호했을 수 있다고 분석했습니다. 하지만 시진핑 주석이 그런 구상에 동의하지 않았을 것이라고 봤는데요. 이러한 분석은 어떻게 들으셨습니까?\n\n<질문 9> 백악관이 트럼프 대통령의 중국 방문을 마치고 귀국하는 전용기에서 동행 취재진의 휴대전화를 일괄 수거하는 조치를 한 것으로 알려졌습니다. 수거된 휴대전화들은 통신 신호를 완벽히 차단하도록 설계된 이른바 '패러데이 가방'에 보관됐으며, 미국에 착륙한 뒤에야 취재진에게 반환됐습니다. 백악관 측은 이번 조치가 잠재적인 첩보 활동을 막기 위한 사이버보안 예방 차원이라고 설명했는데요. 중국의 사이버 첩보에 대한 미국의 경계심이 높다는 것 아니겠습니까?\n\n<질문 10> 한편, 트럼프 대통령이 젠슨 황의 불륜 스캔들이 불거지기 직전까지도 엔비디아 주식을 ‘사고팔기’를 반복하면서 매매 차익을 노린 것으로 나타났습니다. 트럼프 대통령은 젠슨 황을 두둔하는 듯한 발언으로 비판의 도마 위에 오르기도 했었죠. 백악관 측은 트럼프 대통령의 엔비디아 주식 매매와 관련한 이해충돌 논란을 일축했는데, 이 사안은 어떻게 보세요?\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정영민(kkong@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR20261120104938CaH_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261120/MYH20261120195354yVm.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "김민아",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261120104938CaH#comments",
-          "content": "총선 '정부 견제론' 우세…\"與 다수 당선 37%·野 다수 당선 47%\" 이재명 대통령[연합뉴스 자료사진][연합뉴스 자료사진] 이재명 대통령의 국정 지지도가 40%로 소폭 반등한 조사 결과가 오늘(20일) 나왔습니다. 한국갤럽이 지난 17일부터 19일까지 전국 만 18세 이상 1천1명에게 조사한 결과 이 대통령의 직무수행에 대한 긍정 평가는 40%로, 직전 조사 대비 1%포인트(p) 상승했습니다. 부정평가는 49%였고, 응답자의 10%는 ...",
-          "contentSnippet": "총선 '정부 견제론' 우세…\"與 다수 당선 37%·野 다수 당선 47%\" 이재명 대통령[연합뉴스 자료사진][연합뉴스 자료사진] 이재명 대통령의 국정 지지도가 40%로 소폭 반등한 조사 결과가 오늘(20일) 나왔습니다. 한국갤럽이 지난 17일부터 19일까지 전국 만 18세 이상 1천1명에게 조사한 결과 이 대통령의 직무수행에 대한 긍정 평가는 40%로, 직전 조사 대비 1%포인트(p) 상승했습니다. 부정평가는 49%였고, 응답자의 10%는 ...",
-          "guid": "AKR20261120104938CaH",
+          "dc:creator": "정영민",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261120195354yVm#comments",
+          "content": "&lt;출연 : 김열수 한국군사문제연구원 안보전략실장&gt; 사상 첫 미중러 정상회담에서 평화선언은 발표했지만, 구체적인 성과는 부족했다는 평가가 나오는데요. 하지만 트럼프 대통령과 푸틴 대통령은 \"역사를 만들었다\"며 자화자찬했습니다. 김열수 한국군사문제연구원 안보전략실장과 자세히 보겠습니다. &lt;질문 1&gt; 트럼프 대통령이 중국 선전에서 열린 사상 첫 미중러 정상회담에 대해, “10점 만점에 12점”이라고 평가했습니다. 왕이 중국...",
+          "contentSnippet": "<출연 : 김열수 한국군사문제연구원 안보전략실장> 사상 첫 미중러 정상회담에서 평화선언은 발표했지만, 구체적인 성과는 부족했다는 평가가 나오는데요. 하지만 트럼프 대통령과 푸틴 대통령은 \"역사를 만들었다\"며 자화자찬했습니다. 김열수 한국군사문제연구원 안보전략실장과 자세히 보겠습니다. <질문 1> 트럼프 대통령이 중국 선전에서 열린 사상 첫 미중러 정상회담에 대해, “10점 만점에 12점”이라고 평가했습니다. 왕이 중국...",
+          "guid": "MYH20261120195354yVm",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-20T01:49:39.000Z"
+          "isoDate": "2026-11-20T10:53:57.000Z"
         },
         {
-          "creator": "최지숙",
-          "title": "코오롱그룹, 지주사 대표에 한용빈 사장 내정…임원 25명 인사",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261120104018BpX",
-          "pubDate": "Fri, 20 Nov 2026 10:40:20 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR20261120104018BpX_01_i.jpg\" alt=\"\"><span class=\"yna_title\">한용빈 ㈜코오롱 신임 대표이사</span><span class=\"yna_caption\">[코오롱그룹 제공. 재판매 및 DB 금지]</span><span class=\"yna_description\">[코오롱그룹 제공. 재판매 및 DB 금지]</span></div>\n\n코오롱그룹은 ㈜코오롱 대표이사에 한용빈 사장을 내정하는 등 총 25명 규모의 2027년도 정기 임원인사를 단행했다고 오늘(20일) 밝혔습니다.\n\n지주사 대표로 영입된 한 사장은 사업 경쟁력 강화와 계열사 혁신·성장을 지원하는 역할을 맡습니다.\n\n코오롱글로벌 대표이사에는 정항기 사장을 영입해 재무구조 개선과 수익성 중심의 체질 개선을 추진합니다.\n\n기존 ㈜코오롱 대표이사인 안병덕 부회장은 그룹 부회장으로 자리를 옮겨 그룹 경영 현안과 대외 업무를 담당합니다.\n\n조제형 상무보는 상무로 승진해 그린나래 대표이사를 맡습니다.\n\n이번 인사에서는 신규 임원 9명을 선임했으며 이 중 5명이 40대입니다.\n\n여성 임원 승진자는 3명입니다.\n\n코오롱그룹은 \"성과로 혁신의 가능성을 입증한 인재들에게 기회를 열어주는 인사를 단행했다\"고 밝혔습니다.\n\n#코오롱그룹 #인사\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지숙(js173@yna.co.kr)",
-          "content:encodedSnippet": "한용빈 ㈜코오롱 신임 대표이사[코오롱그룹 제공. 재판매 및 DB 금지][코오롱그룹 제공. 재판매 및 DB 금지]\n\n코오롱그룹은 ㈜코오롱 대표이사에 한용빈 사장을 내정하는 등 총 25명 규모의 2027년도 정기 임원인사를 단행했다고 오늘(20일) 밝혔습니다.\n\n지주사 대표로 영입된 한 사장은 사업 경쟁력 강화와 계열사 혁신·성장을 지원하는 역할을 맡습니다.\n\n코오롱글로벌 대표이사에는 정항기 사장을 영입해 재무구조 개선과 수익성 중심의 체질 개선을 추진합니다.\n\n기존 ㈜코오롱 대표이사인 안병덕 부회장은 그룹 부회장으로 자리를 옮겨 그룹 경영 현안과 대외 업무를 담당합니다.\n\n조제형 상무보는 상무로 승진해 그린나래 대표이사를 맡습니다.\n\n이번 인사에서는 신규 임원 9명을 선임했으며 이 중 5명이 40대입니다.\n\n여성 임원 승진자는 3명입니다.\n\n코오롱그룹은 \"성과로 혁신의 가능성을 입증한 인재들에게 기회를 열어주는 인사를 단행했다\"고 밝혔습니다.\n\n#코오롱그룹 #인사\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지숙(js173@yna.co.kr)",
+          "creator": "이화영",
+          "title": "세운4구역 유산 보존 방안 심의 '부결' 결론",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261120195246Jop",
+          "pubDate": "Fri, 20 Nov 2026 19:52:47 +0900",
+          "content:encoded": "서울 종묘 맞은편 세운4구역 재개발 부지 유적 보존 방안이 최종 부결됐습니다.\n\n국가유산청에 따르면 지난 18일 국가유산위 매장유산 분과 회의에서 참석위원 9명 전원이 부결에 동의했습니다.\n\n심의 2년 10개월 만입니다.\n\n위원회는 앞선 심의에서 제시한 보류 의견, 원위치 보존 원칙과 주변 공간의 역사·문화적 정체성 확보 필요성을 반영하지 못했고, 한양도성의 역사적 공간 구조를 반영한 계획도 미흡하다고 지적했습니다.\n\n서울주택도시개발공사가 사업을 재개하려면 보존 조치를 새로 논의해 절차를 다시 밟아야 합니다.\n\n서울시는 유산청이 기준을 뒤집고 적법하게 인가된 사업을 가로막았다며 강력 반발하며 결정 재검토를 요구했습니다.\n\n허민 국가유산청장은 SNS를 통해 부결 원인이 기준 변경이 아니라 보존 조치 계획 미흡에 있다고 밝혔습니다.\n\n#서울시 #국가유산청 #종묘 #세운4구역\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이화영(hwa@yna.co.kr)",
+          "content:encodedSnippet": "서울 종묘 맞은편 세운4구역 재개발 부지 유적 보존 방안이 최종 부결됐습니다.\n\n국가유산청에 따르면 지난 18일 국가유산위 매장유산 분과 회의에서 참석위원 9명 전원이 부결에 동의했습니다.\n\n심의 2년 10개월 만입니다.\n\n위원회는 앞선 심의에서 제시한 보류 의견, 원위치 보존 원칙과 주변 공간의 역사·문화적 정체성 확보 필요성을 반영하지 못했고, 한양도성의 역사적 공간 구조를 반영한 계획도 미흡하다고 지적했습니다.\n\n서울주택도시개발공사가 사업을 재개하려면 보존 조치를 새로 논의해 절차를 다시 밟아야 합니다.\n\n서울시는 유산청이 기준을 뒤집고 적법하게 인가된 사업을 가로막았다며 강력 반발하며 결정 재검토를 요구했습니다.\n\n허민 국가유산청장은 SNS를 통해 부결 원인이 기준 변경이 아니라 보존 조치 계획 미흡에 있다고 밝혔습니다.\n\n#서울시 #국가유산청 #종묘 #세운4구역\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이화영(hwa@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR20261120104018BpX_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261120/MYH20261120195246Jop.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "최지숙",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261120104018BpX#comments",
-          "content": "한용빈 ㈜코오롱 신임 대표이사[코오롱그룹 제공. 재판매 및 DB 금지][코오롱그룹 제공. 재판매 및 DB 금지] 코오롱그룹은 ㈜코오롱 대표이사에 한용빈 사장을 내정하는 등 총 25명 규모의 2027년도 정기 임원인사를 단행했다고 오늘(20일) 밝혔습니다. 지주사 대표로 영입된 한 사장은 사업 경쟁력 강화와 계열사 혁신·성장을 지원하는 역할을 맡습니다. 코오롱글로벌 대표이사에는 정항기 사장을 영입해 재무구조 개선과 수익성 중심의 체질 개선을...",
-          "contentSnippet": "한용빈 ㈜코오롱 신임 대표이사[코오롱그룹 제공. 재판매 및 DB 금지][코오롱그룹 제공. 재판매 및 DB 금지] 코오롱그룹은 ㈜코오롱 대표이사에 한용빈 사장을 내정하는 등 총 25명 규모의 2027년도 정기 임원인사를 단행했다고 오늘(20일) 밝혔습니다. 지주사 대표로 영입된 한 사장은 사업 경쟁력 강화와 계열사 혁신·성장을 지원하는 역할을 맡습니다. 코오롱글로벌 대표이사에는 정항기 사장을 영입해 재무구조 개선과 수익성 중심의 체질 개선을...",
-          "guid": "AKR20261120104018BpX",
+          "dc:creator": "이화영",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261120195246Jop#comments",
+          "content": "서울 종묘 맞은편 세운4구역 재개발 부지 유적 보존 방안이 최종 부결됐습니다. 국가유산청에 따르면 지난 18일 국가유산위 매장유산 분과 회의에서 참석위원 9명 전원이 부결에 동의했습니다. 심의 2년 10개월 만입니다. 위원회는 앞선 심의에서 제시한 보류 의견, 원위치 보존 원칙과 주변 공간의 역사·문화적 정체성 확보 필요성을 반영하지 못했고, 한양도성의 역사적 공간 구조를 반영한 계획도 미흡하다고 지적했습니다. 서울주택도시개발공사가 사업을...",
+          "contentSnippet": "서울 종묘 맞은편 세운4구역 재개발 부지 유적 보존 방안이 최종 부결됐습니다. 국가유산청에 따르면 지난 18일 국가유산위 매장유산 분과 회의에서 참석위원 9명 전원이 부결에 동의했습니다. 심의 2년 10개월 만입니다. 위원회는 앞선 심의에서 제시한 보류 의견, 원위치 보존 원칙과 주변 공간의 역사·문화적 정체성 확보 필요성을 반영하지 못했고, 한양도성의 역사적 공간 구조를 반영한 계획도 미흡하다고 지적했습니다. 서울주택도시개발공사가 사업을...",
+          "guid": "MYH20261120195246Jop",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-20T01:40:20.000Z"
+          "isoDate": "2026-11-20T10:52:47.000Z"
         },
         {
-          "creator": "소재형",
-          "title": "이 대통령,  YS 기리며 \"'개혁이 혁명보다 어렵다' 무게 여실히\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR202611201039208HP",
-          "pubDate": "Fri, 20 Nov 2026 10:39:20 +0900",
-          "content:encoded": "\n<b>\"주가조작 세력 엄단…시장질서 교란 뿌리 뽑을 것\"</b>\n\n\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR202611201039208HP_01_i.jpg\" alt=\"\"><span class=\"yna_title\">이재명 대통령</span><span class=\"yna_caption\">[연합뉴스 자료사진]</span><span class=\"yna_description\">[연합뉴스 자료사진]</span></div>\n이재명 대통령이 김영삼 전 대통령 서거 11주기를 맞아 사회 각 분야에서 개혁을 추진했던 고인의 뜻을 기리며 개혁 완수 의지를 다졌습니다.\n\n이 대통령은 오늘(20일) 최인호 정무수석이 대독한 추모사에서 \"후배 국정 책임자가 되어보니 '개혁이 혁명보다 어렵다'고 하셨던 그 말씀의 무게를 여실히 느끼게 된다\"며 \"그 말씀에는 개혁은 한 번의 선언만으로 이뤄지는 것이 아니라, 최대한의 공감 아래, 모두가 함께 노력해 나가야 비로소 완성될 수 있다는 뜻도 담겨 있을 것\"이라고 밝혔습니다.\n\n이어 \"돌이켜보면 대통령님께서 추진하셨던 개혁 중 어느 하나도 쉬운 것은 없었다\"며 \"기득권의 벽을 정면으로 돌파했던 거산이라는 튼튼한 반석이 있었기에 저를 비롯한 후배들은 국민의 더 나은 삶을 위한 변화를 차곡차곡 쌓아 올릴 수 있었다\"고 김 전 대통령을 기렸습니다.\n\n이 대통령은 \"대통령님께서는 금융실명제를 단행하며 어둠 속 숨은 돈이 불의를 키우던 낡은 시대를 끝내셨다\"며 \"국민주권정부는 대통령님의 뜻을 이어 주가조작과 시세조종 세력을 엄단하고 부당이득을 철저히 환수하며, 시장 질서를 흔드는 행위를 뿌리 뽑겠다\"면서 '비정상의 정상화' 의지를 강조했습니다.\n\n아울러 \"대통령께선 지방자치 시대를 열었다\"며 \"대통령님의 뜻을 따라 주민들의 주권을 강화하는 한편, 전국의 각 지역이 국가 발전의 주역으로 거듭날 수 있도록 지역의 잠재력과 경쟁력을 키워나가겠다\"고도 했습니다.\n\n#이재명 #대통령 #김영삼 #개혁 #지방자치 #비정상\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n소재형(sojay@yna.co.kr)",
-          "content:encodedSnippet": "\"주가조작 세력 엄단…시장질서 교란 뿌리 뽑을 것\"\n\n\n이재명 대통령[연합뉴스 자료사진][연합뉴스 자료사진]\n이재명 대통령이 김영삼 전 대통령 서거 11주기를 맞아 사회 각 분야에서 개혁을 추진했던 고인의 뜻을 기리며 개혁 완수 의지를 다졌습니다.\n\n이 대통령은 오늘(20일) 최인호 정무수석이 대독한 추모사에서 \"후배 국정 책임자가 되어보니 '개혁이 혁명보다 어렵다'고 하셨던 그 말씀의 무게를 여실히 느끼게 된다\"며 \"그 말씀에는 개혁은 한 번의 선언만으로 이뤄지는 것이 아니라, 최대한의 공감 아래, 모두가 함께 노력해 나가야 비로소 완성될 수 있다는 뜻도 담겨 있을 것\"이라고 밝혔습니다.\n\n이어 \"돌이켜보면 대통령님께서 추진하셨던 개혁 중 어느 하나도 쉬운 것은 없었다\"며 \"기득권의 벽을 정면으로 돌파했던 거산이라는 튼튼한 반석이 있었기에 저를 비롯한 후배들은 국민의 더 나은 삶을 위한 변화를 차곡차곡 쌓아 올릴 수 있었다\"고 김 전 대통령을 기렸습니다.\n\n이 대통령은 \"대통령님께서는 금융실명제를 단행하며 어둠 속 숨은 돈이 불의를 키우던 낡은 시대를 끝내셨다\"며 \"국민주권정부는 대통령님의 뜻을 이어 주가조작과 시세조종 세력을 엄단하고 부당이득을 철저히 환수하며, 시장 질서를 흔드는 행위를 뿌리 뽑겠다\"면서 '비정상의 정상화' 의지를 강조했습니다.\n\n아울러 \"대통령께선 지방자치 시대를 열었다\"며 \"대통령님의 뜻을 따라 주민들의 주권을 강화하는 한편, 전국의 각 지역이 국가 발전의 주역으로 거듭날 수 있도록 지역의 잠재력과 경쟁력을 키워나가겠다\"고도 했습니다.\n\n#이재명 #대통령 #김영삼 #개혁 #지방자치 #비정상\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n소재형(sojay@yna.co.kr)",
+          "creator": "구하림",
+          "title": "내년도 공시가격 현실화율 69%…5년 연속 동결",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261120195158oMS",
+          "pubDate": "Fri, 20 Nov 2026 19:52:01 +0900",
+          "content:encoded": "정부가 2027년도 공동주택 공시가격 현실화율을 올해와 같은 69%로 유지하기로 했습니다.\n\n2023년 이후 5년 연속 현실화율을 동결한 셈입니다.\n\n국토교통부는 오늘(20일) 중앙부동산가격공시위원회를 열고, 올해 부동산 시장 상황과 지난 8월 발표된 세제 개편안, 공시가격에 대한 국민의 수용성 등을 종합적으로 고려해 이같이 결정했다고 밝혔습니다.\n\n이에 따라 내년도 목표 시세반영률은 올해와 동일하게 공동주택은 69.0%, 표준단독주택은 53.6%, 표준토지 65.5%를 적용하게 됩니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n구하림(halimkoo@yna.co.kr)",
+          "content:encodedSnippet": "정부가 2027년도 공동주택 공시가격 현실화율을 올해와 같은 69%로 유지하기로 했습니다.\n\n2023년 이후 5년 연속 현실화율을 동결한 셈입니다.\n\n국토교통부는 오늘(20일) 중앙부동산가격공시위원회를 열고, 올해 부동산 시장 상황과 지난 8월 발표된 세제 개편안, 공시가격에 대한 국민의 수용성 등을 종합적으로 고려해 이같이 결정했다고 밝혔습니다.\n\n이에 따라 내년도 목표 시세반영률은 올해와 동일하게 공동주택은 69.0%, 표준단독주택은 53.6%, 표준토지 65.5%를 적용하게 됩니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n구하림(halimkoo@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR202611201039208HP_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261120/MYH20261120195158oMS.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "소재형",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR202611201039208HP#comments",
-          "content": "\"주가조작 세력 엄단…시장질서 교란 뿌리 뽑을 것\" 이재명 대통령[연합뉴스 자료사진][연합뉴스 자료사진] 이재명 대통령이 김영삼 전 대통령 서거 11주기를 맞아 사회 각 분야에서 개혁을 추진했던 고인의 뜻을 기리며 개혁 완수 의지를 다졌습니다. 이 대통령은 오늘(20일) 최인호 정무수석이 대독한 추모사에서 \"후배 국정 책임자가 되어보니 '개혁이 혁명보다 어렵다'고 하셨던 그 말씀의 무게를 여실히 느끼게 된다\"며 \"그 말씀에는 개혁은 한 번...",
-          "contentSnippet": "\"주가조작 세력 엄단…시장질서 교란 뿌리 뽑을 것\" 이재명 대통령[연합뉴스 자료사진][연합뉴스 자료사진] 이재명 대통령이 김영삼 전 대통령 서거 11주기를 맞아 사회 각 분야에서 개혁을 추진했던 고인의 뜻을 기리며 개혁 완수 의지를 다졌습니다. 이 대통령은 오늘(20일) 최인호 정무수석이 대독한 추모사에서 \"후배 국정 책임자가 되어보니 '개혁이 혁명보다 어렵다'고 하셨던 그 말씀의 무게를 여실히 느끼게 된다\"며 \"그 말씀에는 개혁은 한 번...",
-          "guid": "AKR202611201039208HP",
+          "dc:creator": "구하림",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261120195158oMS#comments",
+          "content": "정부가 2027년도 공동주택 공시가격 현실화율을 올해와 같은 69%로 유지하기로 했습니다. 2023년 이후 5년 연속 현실화율을 동결한 셈입니다. 국토교통부는 오늘(20일) 중앙부동산가격공시위원회를 열고, 올해 부동산 시장 상황과 지난 8월 발표된 세제 개편안, 공시가격에 대한 국민의 수용성 등을 종합적으로 고려해 이같이 결정했다고 밝혔습니다. 이에 따라 내년도 목표 시세반영률은 올해와 동일하게 공동주택은 69.0%, 표준단독주택은 53....",
+          "contentSnippet": "정부가 2027년도 공동주택 공시가격 현실화율을 올해와 같은 69%로 유지하기로 했습니다. 2023년 이후 5년 연속 현실화율을 동결한 셈입니다. 국토교통부는 오늘(20일) 중앙부동산가격공시위원회를 열고, 올해 부동산 시장 상황과 지난 8월 발표된 세제 개편안, 공시가격에 대한 국민의 수용성 등을 종합적으로 고려해 이같이 결정했다고 밝혔습니다. 이에 따라 내년도 목표 시세반영률은 올해와 동일하게 공동주택은 69.0%, 표준단독주택은 53....",
+          "guid": "MYH20261120195158oMS",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-20T01:39:20.000Z"
+          "isoDate": "2026-11-20T10:52:01.000Z"
         },
         {
-          "creator": "이경희",
-          "title": "[속보] 'SM 시세조종' 카카오 김범수 항소심도 무죄",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261120103609nrc",
-          "pubDate": "Fri, 20 Nov 2026 10:36:11 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR20261120103609nrc_01_i.jpg\" alt=\"\"><span class=\"yna_title\">항소심 선고 공판 출석하는 김범수 카카오 미래이니셔티브센터장</span><span class=\"yna_caption\">(서울=연합뉴스) 김주형 기자 = SM엔터테인먼트 시세조종 공모 의혹으로 1심에서 무죄를 선고받은 김범수 카카오 미래이니셔티브센터장이 20일 서울 서초구 고등법원에서 열린 항소심 선고 공판에 출석하고 있다. 2026.11.20 kjhpress@yna.co.kr</span><span class=\"yna_description\">(서울=연합뉴스) 김주형 기자 = SM엔터테인먼트 시세조종 공모 의혹으로 1심에서 무죄를 선고받은 김범수 카카오 미래이니셔티브센터장이 20일 서울 서초구 고등법원에서 열린 항소심 선고 공판에 출석하고 있다. 2026.11.20 kjhpress@yna.co.kr</span></div>\n\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이경희(sorimoa@yna.co.kr)",
-          "content:encodedSnippet": "항소심 선고 공판 출석하는 김범수 카카오 미래이니셔티브센터장(서울=연합뉴스) 김주형 기자 = SM엔터테인먼트 시세조종 공모 의혹으로 1심에서 무죄를 선고받은 김범수 카카오 미래이니셔티브센터장이 20일 서울 서초구 고등법원에서 열린 항소심 선고 공판에 출석하고 있다. 2026.11.20 kjhpress@yna.co.kr(서울=연합뉴스) 김주형 기자 = SM엔터테인먼트 시세조종 공모 의혹으로 1심에서 무죄를 선고받은 김범수 카카오 미래이니셔티브센터장이 20일 서울 서초구 고등법원에서 열린 항소심 선고 공판에 출석하고 있다. 2026.11.20 kjhpress@yna.co.kr\n\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이경희(sorimoa@yna.co.kr)",
+          "creator": "이지현",
+          "title": "김세의, 명예훼손·협박 등 혐의 추가 기소…피해자 13명",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261120195036K37",
+          "pubDate": "Fri, 20 Nov 2026 19:50:37 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR20261120195036K37_01_i.jpg\" alt=\"\"><span class=\"yna_title\">가세연 김세의 대표</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n배우 김수현 등에 대한 명예훼손 혐의로 구속기소된 가로세로연구소 김세의 대표가 13명을 상대로 명예훼손과 협박, 모욕 등을 한 혐의로 또 재판에 넘겨졌습니다.\n\n서울중앙지방공소청 여성·아동범죄조사2부는 지난 3일 김 씨를 정보통신망법상 명예훼손과 형법상 협박·모욕 등 혐의로 기소했습니다.\n\n피해자에는 유튜브 채널 '장사의 신' 운영자 은현장 씨와 더불어민주당 박선원 최고위원, 국민의힘 권영세 의원, 전광훈 사랑제일교회 목사, 신혜식 '신의한수' 대표 등이 포함된 것으로 전해졌습니다.\n\n김 씨는 유튜브 등을 통해 은 씨와 박 최고위원에 관한 허위 사실을 유포하고, 권 의원을 상대로 허위 폭로를 예고하며 협박한 혐의를, 전 목사와 신 대표에게는 욕설을 해 모욕한 혐의가 적용됐습니다.\n\n김 씨는 김수현과 관련한 허위 사실을 유포한 혐의로 올해 6월 구속기소됐으며, 유튜버 쯔양과 민주당 고민정 의원 등에 대한 명예훼손 혐의로도 재판을 받고 있습니다.\n\n#가로세로연구소 #김세의 #명예훼손 #서울중앙지방공소청\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이지현(ji@yna.co.kr)",
+          "content:encodedSnippet": "가세연 김세의 대표[연합뉴스 제공][연합뉴스 제공]\n배우 김수현 등에 대한 명예훼손 혐의로 구속기소된 가로세로연구소 김세의 대표가 13명을 상대로 명예훼손과 협박, 모욕 등을 한 혐의로 또 재판에 넘겨졌습니다.\n\n서울중앙지방공소청 여성·아동범죄조사2부는 지난 3일 김 씨를 정보통신망법상 명예훼손과 형법상 협박·모욕 등 혐의로 기소했습니다.\n\n피해자에는 유튜브 채널 '장사의 신' 운영자 은현장 씨와 더불어민주당 박선원 최고위원, 국민의힘 권영세 의원, 전광훈 사랑제일교회 목사, 신혜식 '신의한수' 대표 등이 포함된 것으로 전해졌습니다.\n\n김 씨는 유튜브 등을 통해 은 씨와 박 최고위원에 관한 허위 사실을 유포하고, 권 의원을 상대로 허위 폭로를 예고하며 협박한 혐의를, 전 목사와 신 대표에게는 욕설을 해 모욕한 혐의가 적용됐습니다.\n\n김 씨는 김수현과 관련한 허위 사실을 유포한 혐의로 올해 6월 구속기소됐으며, 유튜버 쯔양과 민주당 고민정 의원 등에 대한 명예훼손 혐의로도 재판을 받고 있습니다.\n\n#가로세로연구소 #김세의 #명예훼손 #서울중앙지방공소청\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이지현(ji@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR20261120103609nrc_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR20261120195036K37_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "이경희",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261120103609nrc#comments",
-          "content": "항소심 선고 공판 출석하는 김범수 카카오 미래이니셔티브센터장(서울=연합뉴스) 김주형 기자 = SM엔터테인먼트 시세조종 공모 의혹으로 1심에서 무죄를 선고받은 김범수 카카오 미래이니셔티브센터장이 20일 서울 서초구 고등법원에서 열린 항소심 선고 공판에 출석하고 있다. 2026.11.20 kjhpress@yna.co.kr(서울=연합뉴스) 김주형 기자 = SM엔터테인먼트 시세조종 공모 의혹으로 1심에서 무죄를 선고받은 김범수 카카오 미래이니셔티...",
-          "contentSnippet": "항소심 선고 공판 출석하는 김범수 카카오 미래이니셔티브센터장(서울=연합뉴스) 김주형 기자 = SM엔터테인먼트 시세조종 공모 의혹으로 1심에서 무죄를 선고받은 김범수 카카오 미래이니셔티브센터장이 20일 서울 서초구 고등법원에서 열린 항소심 선고 공판에 출석하고 있다. 2026.11.20 kjhpress@yna.co.kr(서울=연합뉴스) 김주형 기자 = SM엔터테인먼트 시세조종 공모 의혹으로 1심에서 무죄를 선고받은 김범수 카카오 미래이니셔티...",
-          "guid": "AKR20261120103609nrc",
+          "dc:creator": "이지현",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261120195036K37#comments",
+          "content": "가세연 김세의 대표[연합뉴스 제공][연합뉴스 제공] 배우 김수현 등에 대한 명예훼손 혐의로 구속기소된 가로세로연구소 김세의 대표가 13명을 상대로 명예훼손과 협박, 모욕 등을 한 혐의로 또 재판에 넘겨졌습니다. 서울중앙지방공소청 여성·아동범죄조사2부는 지난 3일 김 씨를 정보통신망법상 명예훼손과 형법상 협박·모욕 등 혐의로 기소했습니다. 피해자에는 유튜브 채널 '장사의 신' 운영자 은현장 씨와 더불어민주당 박선원 최고위원, 국민의힘 권영세...",
+          "contentSnippet": "가세연 김세의 대표[연합뉴스 제공][연합뉴스 제공] 배우 김수현 등에 대한 명예훼손 혐의로 구속기소된 가로세로연구소 김세의 대표가 13명을 상대로 명예훼손과 협박, 모욕 등을 한 혐의로 또 재판에 넘겨졌습니다. 서울중앙지방공소청 여성·아동범죄조사2부는 지난 3일 김 씨를 정보통신망법상 명예훼손과 형법상 협박·모욕 등 혐의로 기소했습니다. 피해자에는 유튜브 채널 '장사의 신' 운영자 은현장 씨와 더불어민주당 박선원 최고위원, 국민의힘 권영세...",
+          "guid": "AKR20261120195036K37",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-20T01:36:11.000Z"
+          "isoDate": "2026-11-20T10:50:37.000Z"
         },
         {
-          "creator": "한지이",
-          "title": "조세심판원 \"전입신고 늦어도 실거주 땐 취득세 감면\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261120103447oGO",
-          "pubDate": "Fri, 20 Nov 2026 10:34:49 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR20261120103447oGO_01_i.jpg\" alt=\"\"><span class=\"yna_title\">조세심판원</span><span class=\"yna_caption\">[조세심판원 홈페이지 캡처]</span><span class=\"yna_description\">[조세심판원 홈페이지 캡처]</span></div>\n\n실제 거주를 시작했다면 실수로 전입신고가 늦어졌더라도 생애 최초 주택 구입에 따른 취득세 감면을 받을 수 있다는 조세심판원 결정이 나왔습니다.\n\n조세심판원은 오늘(20일) 민생과 밀접한 3분기 주요 결정 3건을 공개했습니다.\n\nA씨는 12억원 이하 주택을 처음 취득해 취득세를 감면받았지만, 3개월의 유예기간 안에 전입신고를 마치지 못해 감면받은 세금을 납부했습니다.\n\n심판원은 A씨가 유예기간 안에 실제 거주를 시작했고, 세대주를 잘못 기재해 전입신고가 지연됐을 뿐 관련 의무를 게을리했다고 볼 사정은 없다며 취득세 추징은 부당하다고 판단했습니다.\n\n상속 주택의 재산세가 사망자의 배우자에게 부과됐더라도 종합부동산세 신고 기한 전에 다른 상속인 명의로 등기를 마쳤다면, 배우자에게 종부세까지 부과하는 것은 위법하다고 봤습니다.\n\n공익사업을 위해 한국토지주택공사에 양도한 토지의 양도소득세 감면 여부를 판단할 때는, 증여자의 취득가액을 적용했다면 취득 시점도 증여자의 토지 취득일을 기준으로 삼아야 한다고 결정했습니다.\n\n#조세심판원 #전입신고\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n한지이(hanji@yna.co.kr)",
-          "content:encodedSnippet": "조세심판원[조세심판원 홈페이지 캡처][조세심판원 홈페이지 캡처]\n\n실제 거주를 시작했다면 실수로 전입신고가 늦어졌더라도 생애 최초 주택 구입에 따른 취득세 감면을 받을 수 있다는 조세심판원 결정이 나왔습니다.\n\n조세심판원은 오늘(20일) 민생과 밀접한 3분기 주요 결정 3건을 공개했습니다.\n\nA씨는 12억원 이하 주택을 처음 취득해 취득세를 감면받았지만, 3개월의 유예기간 안에 전입신고를 마치지 못해 감면받은 세금을 납부했습니다.\n\n심판원은 A씨가 유예기간 안에 실제 거주를 시작했고, 세대주를 잘못 기재해 전입신고가 지연됐을 뿐 관련 의무를 게을리했다고 볼 사정은 없다며 취득세 추징은 부당하다고 판단했습니다.\n\n상속 주택의 재산세가 사망자의 배우자에게 부과됐더라도 종합부동산세 신고 기한 전에 다른 상속인 명의로 등기를 마쳤다면, 배우자에게 종부세까지 부과하는 것은 위법하다고 봤습니다.\n\n공익사업을 위해 한국토지주택공사에 양도한 토지의 양도소득세 감면 여부를 판단할 때는, 증여자의 취득가액을 적용했다면 취득 시점도 증여자의 토지 취득일을 기준으로 삼아야 한다고 결정했습니다.\n\n#조세심판원 #전입신고\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n한지이(hanji@yna.co.kr)",
+          "creator": "이지현",
+          "title": "포스코 노사, 임금협상 두 번째 잠정합의안 도출…28일 조합원 투표",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261120194134v3i",
+          "pubDate": "Fri, 20 Nov 2026 19:41:36 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR20261120194134v3i_01_i.jpg\" alt=\"\"><span class=\"yna_title\">포스코 포항제철소</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n포스코 노사가 기본임금 2.6% 인상을 골자로 한 임금 협상안을 도출했습니다.\n\n이는 1차 잠정 합의안이 지난 7일 조합원 투표를 통과하지 못한 지 13일 만입니다.\n\n노사는 오늘(20일) 경북 포항 본사에서 본교섭을 열고 기본임금 인상과 목표 달성 격려금 350만 원, 타결 축하·노사 화합장려금 220만 원, 지역사랑상품권 50만 원 지급 등을 담은 새 합의안을 마련했습니다.\n\n1차 합의안과 비교하면 격려금 20만 원과 특별조정분 60만 원 지급, 의료비 지원 개선 등이 추가로 반영됐습니다.\n\n지난 6월 시작된 교섭에서 노조는 기본급 7.1% 인상 등을 요구했고, 회사는 철강업계 불황과 실적 악화를 이유로 수용하기 어렵다는 입장을 밝혀왔습니다.\n\n한국노총 금속노련 포스코 노동조합은 오는 28일 조합원 찬반투표를 통해 새 잠정 합의안 수용 여부를 결정할 예정입니다.\n\n#포스코 #노동조합 #한국노총 #임금협상\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이지현(ji@yna.co.kr)",
+          "content:encodedSnippet": "포스코 포항제철소[연합뉴스 제공][연합뉴스 제공]\n포스코 노사가 기본임금 2.6% 인상을 골자로 한 임금 협상안을 도출했습니다.\n\n이는 1차 잠정 합의안이 지난 7일 조합원 투표를 통과하지 못한 지 13일 만입니다.\n\n노사는 오늘(20일) 경북 포항 본사에서 본교섭을 열고 기본임금 인상과 목표 달성 격려금 350만 원, 타결 축하·노사 화합장려금 220만 원, 지역사랑상품권 50만 원 지급 등을 담은 새 합의안을 마련했습니다.\n\n1차 합의안과 비교하면 격려금 20만 원과 특별조정분 60만 원 지급, 의료비 지원 개선 등이 추가로 반영됐습니다.\n\n지난 6월 시작된 교섭에서 노조는 기본급 7.1% 인상 등을 요구했고, 회사는 철강업계 불황과 실적 악화를 이유로 수용하기 어렵다는 입장을 밝혀왔습니다.\n\n한국노총 금속노련 포스코 노동조합은 오는 28일 조합원 찬반투표를 통해 새 잠정 합의안 수용 여부를 결정할 예정입니다.\n\n#포스코 #노동조합 #한국노총 #임금협상\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이지현(ji@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR20261120103447oGO_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR20261120194134v3i_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "한지이",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261120103447oGO#comments",
-          "content": "조세심판원[조세심판원 홈페이지 캡처][조세심판원 홈페이지 캡처] 실제 거주를 시작했다면 실수로 전입신고가 늦어졌더라도 생애 최초 주택 구입에 따른 취득세 감면을 받을 수 있다는 조세심판원 결정이 나왔습니다. 조세심판원은 오늘(20일) 민생과 밀접한 3분기 주요 결정 3건을 공개했습니다. A씨는 12억원 이하 주택을 처음 취득해 취득세를 감면받았지만, 3개월의 유예기간 안에 전입신고를 마치지 못해 감면받은 세금을 납부했습니다. 심판원은 A씨...",
-          "contentSnippet": "조세심판원[조세심판원 홈페이지 캡처][조세심판원 홈페이지 캡처] 실제 거주를 시작했다면 실수로 전입신고가 늦어졌더라도 생애 최초 주택 구입에 따른 취득세 감면을 받을 수 있다는 조세심판원 결정이 나왔습니다. 조세심판원은 오늘(20일) 민생과 밀접한 3분기 주요 결정 3건을 공개했습니다. A씨는 12억원 이하 주택을 처음 취득해 취득세를 감면받았지만, 3개월의 유예기간 안에 전입신고를 마치지 못해 감면받은 세금을 납부했습니다. 심판원은 A씨...",
-          "guid": "AKR20261120103447oGO",
+          "dc:creator": "이지현",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261120194134v3i#comments",
+          "content": "포스코 포항제철소[연합뉴스 제공][연합뉴스 제공] 포스코 노사가 기본임금 2.6% 인상을 골자로 한 임금 협상안을 도출했습니다. 이는 1차 잠정 합의안이 지난 7일 조합원 투표를 통과하지 못한 지 13일 만입니다. 노사는 오늘(20일) 경북 포항 본사에서 본교섭을 열고 기본임금 인상과 목표 달성 격려금 350만 원, 타결 축하·노사 화합장려금 220만 원, 지역사랑상품권 50만 원 지급 등을 담은 새 합의안을 마련했습니다. 1차 합의안과 ...",
+          "contentSnippet": "포스코 포항제철소[연합뉴스 제공][연합뉴스 제공] 포스코 노사가 기본임금 2.6% 인상을 골자로 한 임금 협상안을 도출했습니다. 이는 1차 잠정 합의안이 지난 7일 조합원 투표를 통과하지 못한 지 13일 만입니다. 노사는 오늘(20일) 경북 포항 본사에서 본교섭을 열고 기본임금 인상과 목표 달성 격려금 350만 원, 타결 축하·노사 화합장려금 220만 원, 지역사랑상품권 50만 원 지급 등을 담은 새 합의안을 마련했습니다. 1차 합의안과 ...",
+          "guid": "AKR20261120194134v3i",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-20T01:34:49.000Z"
+          "isoDate": "2026-11-20T10:41:36.000Z"
         },
         {
-          "creator": "이다현",
-          "title": "이재근 KB금융 회장 선임안 주총서 의결…23일 취임식",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261120103406uRT",
-          "pubDate": "Fri, 20 Nov 2026 10:34:07 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR20261120103406uRT_01_i.jpg\" alt=\"\"><span class=\"yna_title\">이재근 KB금융 신임 회장</span><span class=\"yna_caption\">[연합뉴스 자료사진]</span><span class=\"yna_description\">[연합뉴스 자료사진]</span></div>\n이재근 KB금융지주 회장이 20일 임시 주주총회를 거쳐 정식 선임됐습니다.\n\n임기는 오는 21일부터 3년 동안입니다.\n\nKB금융은 이날 오전 서울 여의도 본사에서 주총을 하고 이 회장 선임 안건을 의결했습니다.\n\n양종희 현 회장은 주총 인사말에서 \"신뢰는 KB가 성장해온 바탕이자 앞으로도 소중히 지켜야 할 가치\"라며 \"KB의 다음 성장을 준비하겠다\"고 말했습니다.\n\nKB금융은 다음 주 월요일인 23일 오전 이 회장 취임식을 합니다.\n\n앞서 KB금융 회장후보추천위원회(회추위)는 9월 11일 '과감한 변화와 세대교체'에 방점을 찍으며 이 회장을 신임 회장 최종 후보로 추천했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이다현(ok@yna.co.kr)",
-          "content:encodedSnippet": "이재근 KB금융 신임 회장[연합뉴스 자료사진][연합뉴스 자료사진]\n이재근 KB금융지주 회장이 20일 임시 주주총회를 거쳐 정식 선임됐습니다.\n\n임기는 오는 21일부터 3년 동안입니다.\n\nKB금융은 이날 오전 서울 여의도 본사에서 주총을 하고 이 회장 선임 안건을 의결했습니다.\n\n양종희 현 회장은 주총 인사말에서 \"신뢰는 KB가 성장해온 바탕이자 앞으로도 소중히 지켜야 할 가치\"라며 \"KB의 다음 성장을 준비하겠다\"고 말했습니다.\n\nKB금융은 다음 주 월요일인 23일 오전 이 회장 취임식을 합니다.\n\n앞서 KB금융 회장후보추천위원회(회추위)는 9월 11일 '과감한 변화와 세대교체'에 방점을 찍으며 이 회장을 신임 회장 최종 후보로 추천했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이다현(ok@yna.co.kr)",
+          "creator": "김예린",
+          "title": "미중, 상하이서 군사소통채널 가동…\"안보 상황 교류\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261120193834liv",
+          "pubDate": "Fri, 20 Nov 2026 19:38:36 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR20261120193834liv_01_i.jpg\" alt=\"\"><span class=\"yna_title\">도널드 트럼프 미 대통령과 악수하는 시진핑 중국 국가주석</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n미국과 중국이 연례 군사 소통 채널을 가동해 안보 상황을 논의했다고 중국군 해군이 밝혔습니다.\n\n중국인민해방군 해군은 오늘(20일) 소셜미디어를 통해 양국 군부가 18∼20일 중국 상하이에서 2026년 미·중 해상군사안보협의체(MMCA) 제2차 워킹그룹 회의 및 연례 회담을 열었다고 발표했습니다.\n\n중국군 해군은 \"양측은 현재의 해상·공중 안보 상황에 관해 솔직하고 실용적이며 건설적인 교류를 진행했다\"면서 '미중 해상·공중 조우 안전행동준칙'의 연간 집행 상황 평가와 양국 해상 군사 안전 문제 개선 조치에 관한 토론, 내년 워킹그룹 회의 의제 논의 등이 이뤄졌다고 설명했습니다.\n\n이어 \"이번 회담의 목적이 양국 정상의 중요 합의 이행과 양국 군사 관계의 건강하고 안정적이며 지속 가능한 발전을 추진하는 것\"이라고 덧붙였습니다.\n\n미중 MMCA 워킹그룹 회의는 작년에는 4월과 11월 열렸고, 올해는 5월 미국 하와이 회의에 이어 6개월만에 이뤄졌습니다.\n\n양국의 군사 소통 채널인 MMCA 회의는 2021년 12월 이후 중단을 겪기도 했으나 2023년 조 바이든 당시 미국 대통령과 시진핑 중국 국가주석이 정상회담에서 군사 대화 재개에 합의하면서 복원됐습니다.\n\n\n#미국 #중국 #MMCA\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김예린(yey@yna.co.kr)",
+          "content:encodedSnippet": "도널드 트럼프 미 대통령과 악수하는 시진핑 중국 국가주석[연합뉴스 제공][연합뉴스 제공]\n미국과 중국이 연례 군사 소통 채널을 가동해 안보 상황을 논의했다고 중국군 해군이 밝혔습니다.\n\n중국인민해방군 해군은 오늘(20일) 소셜미디어를 통해 양국 군부가 18∼20일 중국 상하이에서 2026년 미·중 해상군사안보협의체(MMCA) 제2차 워킹그룹 회의 및 연례 회담을 열었다고 발표했습니다.\n\n중국군 해군은 \"양측은 현재의 해상·공중 안보 상황에 관해 솔직하고 실용적이며 건설적인 교류를 진행했다\"면서 '미중 해상·공중 조우 안전행동준칙'의 연간 집행 상황 평가와 양국 해상 군사 안전 문제 개선 조치에 관한 토론, 내년 워킹그룹 회의 의제 논의 등이 이뤄졌다고 설명했습니다.\n\n이어 \"이번 회담의 목적이 양국 정상의 중요 합의 이행과 양국 군사 관계의 건강하고 안정적이며 지속 가능한 발전을 추진하는 것\"이라고 덧붙였습니다.\n\n미중 MMCA 워킹그룹 회의는 작년에는 4월과 11월 열렸고, 올해는 5월 미국 하와이 회의에 이어 6개월만에 이뤄졌습니다.\n\n양국의 군사 소통 채널인 MMCA 회의는 2021년 12월 이후 중단을 겪기도 했으나 2023년 조 바이든 당시 미국 대통령과 시진핑 중국 국가주석이 정상회담에서 군사 대화 재개에 합의하면서 복원됐습니다.\n\n\n#미국 #중국 #MMCA\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김예린(yey@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR20261120103406uRT_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR20261120193834liv_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "이다현",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261120103406uRT#comments",
-          "content": "이재근 KB금융 신임 회장[연합뉴스 자료사진][연합뉴스 자료사진] 이재근 KB금융지주 회장이 20일 임시 주주총회를 거쳐 정식 선임됐습니다. 임기는 오는 21일부터 3년 동안입니다. KB금융은 이날 오전 서울 여의도 본사에서 주총을 하고 이 회장 선임 안건을 의결했습니다. 양종희 현 회장은 주총 인사말에서 \"신뢰는 KB가 성장해온 바탕이자 앞으로도 소중히 지켜야 할 가치\"라며 \"KB의 다음 성장을 준비하겠다\"고 말했습니다. KB금융은 다음...",
-          "contentSnippet": "이재근 KB금융 신임 회장[연합뉴스 자료사진][연합뉴스 자료사진] 이재근 KB금융지주 회장이 20일 임시 주주총회를 거쳐 정식 선임됐습니다. 임기는 오는 21일부터 3년 동안입니다. KB금융은 이날 오전 서울 여의도 본사에서 주총을 하고 이 회장 선임 안건을 의결했습니다. 양종희 현 회장은 주총 인사말에서 \"신뢰는 KB가 성장해온 바탕이자 앞으로도 소중히 지켜야 할 가치\"라며 \"KB의 다음 성장을 준비하겠다\"고 말했습니다. KB금융은 다음...",
-          "guid": "AKR20261120103406uRT",
+          "dc:creator": "김예린",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261120193834liv#comments",
+          "content": "도널드 트럼프 미 대통령과 악수하는 시진핑 중국 국가주석[연합뉴스 제공][연합뉴스 제공] 미국과 중국이 연례 군사 소통 채널을 가동해 안보 상황을 논의했다고 중국군 해군이 밝혔습니다. 중국인민해방군 해군은 오늘(20일) 소셜미디어를 통해 양국 군부가 18∼20일 중국 상하이에서 2026년 미·중 해상군사안보협의체(MMCA) 제2차 워킹그룹 회의 및 연례 회담을 열었다고 발표했습니다. 중국군 해군은 \"양측은 현재의 해상·공중 안보 상황에 관...",
+          "contentSnippet": "도널드 트럼프 미 대통령과 악수하는 시진핑 중국 국가주석[연합뉴스 제공][연합뉴스 제공] 미국과 중국이 연례 군사 소통 채널을 가동해 안보 상황을 논의했다고 중국군 해군이 밝혔습니다. 중국인민해방군 해군은 오늘(20일) 소셜미디어를 통해 양국 군부가 18∼20일 중국 상하이에서 2026년 미·중 해상군사안보협의체(MMCA) 제2차 워킹그룹 회의 및 연례 회담을 열었다고 발표했습니다. 중국군 해군은 \"양측은 현재의 해상·공중 안보 상황에 관...",
+          "guid": "AKR20261120193834liv",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-20T01:34:07.000Z"
+          "isoDate": "2026-11-20T10:38:36.000Z"
         },
         {
-          "creator": "엄승현",
-          "title": "서해안고속도로서 눈길에 차량 3대 추돌…인명피해 없어",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261120103352jk0",
-          "pubDate": "Fri, 20 Nov 2026 10:33:55 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR20261120103352jk0_01_i.jpg\" alt=\"\"><span class=\"yna_title\">서해안고속도로서 눈길에 차량 3대 추돌</span><span class=\"yna_caption\">[전북도소방본부 제공]</span><span class=\"yna_description\">[전북도소방본부 제공]</span></div>\n어젯(19일)밤 10시 10분쯤 서해안고속도로 전북자치도 고창 나들목 인근에서 달리던 SUV 차량이 앞서가던 25톤 트럭 등 차량 3대가 잇따라 부딪혔습니다.\n\n당시 차량 3대에는 5명이 나눠 타고 있었으나 다친 사람은 없던 것으로 확인됐습니다.\n\n경찰은 1차로에서 달리던 SUV 차량이 눈길에 미끄러져 중앙분리대를 들이받은 뒤 나오면서 2차로에 주행 중이던 25톤 트럭 등을 추돌한 것으로 보고 정확한 사고 경위를 조사하고 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n엄승현(esh@yna.co.kr)",
-          "content:encodedSnippet": "서해안고속도로서 눈길에 차량 3대 추돌[전북도소방본부 제공][전북도소방본부 제공]\n어젯(19일)밤 10시 10분쯤 서해안고속도로 전북자치도 고창 나들목 인근에서 달리던 SUV 차량이 앞서가던 25톤 트럭 등 차량 3대가 잇따라 부딪혔습니다.\n\n당시 차량 3대에는 5명이 나눠 타고 있었으나 다친 사람은 없던 것으로 확인됐습니다.\n\n경찰은 1차로에서 달리던 SUV 차량이 눈길에 미끄러져 중앙분리대를 들이받은 뒤 나오면서 2차로에 주행 중이던 25톤 트럭 등을 추돌한 것으로 보고 정확한 사고 경위를 조사하고 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n엄승현(esh@yna.co.kr)",
+          "creator": "이지현",
+          "title": "'전 연인 살해' 혐의 권종필 구속기소…피해자, 지난해 스토킹 신고",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR2026112019280194F",
+          "pubDate": "Fri, 20 Nov 2026 19:28:02 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR2026112019280194F_01_i.jpg\" alt=\"\"><span class=\"yna_title\">대전 '스토킹 신고' 전 연인 살해 피의자 43세 권종필</span><span class=\"yna_caption\">[대전경찰청 제공]</span><span class=\"yna_description\">[대전경찰청 제공]</span></div>\n전 연인을 살해한 혐의를 받는 권종필이 구속 상태로 재판에 넘겨졌습니다.\n\n대전지방공소청은 오늘(20일) 43살 권 씨를 살인과 주거침입, 스토킹처벌법 위반 혐의로 구속기소했다고 밝혔습니다.\n\n권 씨는 지난달 24일 대전 중구에 있는 40대 여성의 집에서 피해자를 폭행하고 숨지게 한 뒤 달아난 혐의를 받고 있습니다.\n\n권 씨는 피해자의 동의를 얻어 집에 들어갔다가 다툼 끝에 범행했다고 진술했는데, 조사 결과 범행 전에도 피해자 주거지에 두 차례 침입했던 것으로 확인됐습니다.\n\n숨진 피해자는 지난해 10월 권 씨를 스토킹으로 신고했지만, 이후 처벌을 원치 않는다는 의사를 전달해 불송치됐습니다.\n\n같은 해 12월에도 두 사람이 다투는 과정에서 신고가 접수됐으나 경찰은 범죄 혐의점이 없다고 보고 현장 종결 처리했습니다.\n\n#교제폭력 #스토킹 #권종필 #대전지방공소청\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이지현(ji@yna.co.kr)",
+          "content:encodedSnippet": "대전 '스토킹 신고' 전 연인 살해 피의자 43세 권종필[대전경찰청 제공][대전경찰청 제공]\n전 연인을 살해한 혐의를 받는 권종필이 구속 상태로 재판에 넘겨졌습니다.\n\n대전지방공소청은 오늘(20일) 43살 권 씨를 살인과 주거침입, 스토킹처벌법 위반 혐의로 구속기소했다고 밝혔습니다.\n\n권 씨는 지난달 24일 대전 중구에 있는 40대 여성의 집에서 피해자를 폭행하고 숨지게 한 뒤 달아난 혐의를 받고 있습니다.\n\n권 씨는 피해자의 동의를 얻어 집에 들어갔다가 다툼 끝에 범행했다고 진술했는데, 조사 결과 범행 전에도 피해자 주거지에 두 차례 침입했던 것으로 확인됐습니다.\n\n숨진 피해자는 지난해 10월 권 씨를 스토킹으로 신고했지만, 이후 처벌을 원치 않는다는 의사를 전달해 불송치됐습니다.\n\n같은 해 12월에도 두 사람이 다투는 과정에서 신고가 접수됐으나 경찰은 범죄 혐의점이 없다고 보고 현장 종결 처리했습니다.\n\n#교제폭력 #스토킹 #권종필 #대전지방공소청\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이지현(ji@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR20261120103352jk0_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR2026112019280194F_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "엄승현",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261120103352jk0#comments",
-          "content": "서해안고속도로서 눈길에 차량 3대 추돌[전북도소방본부 제공][전북도소방본부 제공] 어젯(19일)밤 10시 10분쯤 서해안고속도로 전북자치도 고창 나들목 인근에서 달리던 SUV 차량이 앞서가던 25톤 트럭 등 차량 3대가 잇따라 부딪혔습니다. 당시 차량 3대에는 5명이 나눠 타고 있었으나 다친 사람은 없던 것으로 확인됐습니다. 경찰은 1차로에서 달리던 SUV 차량이 눈길에 미끄러져 중앙분리대를 들이받은 뒤 나오면서 2차로에 주행 중이던 25...",
-          "contentSnippet": "서해안고속도로서 눈길에 차량 3대 추돌[전북도소방본부 제공][전북도소방본부 제공] 어젯(19일)밤 10시 10분쯤 서해안고속도로 전북자치도 고창 나들목 인근에서 달리던 SUV 차량이 앞서가던 25톤 트럭 등 차량 3대가 잇따라 부딪혔습니다. 당시 차량 3대에는 5명이 나눠 타고 있었으나 다친 사람은 없던 것으로 확인됐습니다. 경찰은 1차로에서 달리던 SUV 차량이 눈길에 미끄러져 중앙분리대를 들이받은 뒤 나오면서 2차로에 주행 중이던 25...",
-          "guid": "AKR20261120103352jk0",
+          "dc:creator": "이지현",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR2026112019280194F#comments",
+          "content": "대전 '스토킹 신고' 전 연인 살해 피의자 43세 권종필[대전경찰청 제공][대전경찰청 제공] 전 연인을 살해한 혐의를 받는 권종필이 구속 상태로 재판에 넘겨졌습니다. 대전지방공소청은 오늘(20일) 43살 권 씨를 살인과 주거침입, 스토킹처벌법 위반 혐의로 구속기소했다고 밝혔습니다. 권 씨는 지난달 24일 대전 중구에 있는 40대 여성의 집에서 피해자를 폭행하고 숨지게 한 뒤 달아난 혐의를 받고 있습니다. 권 씨는 피해자의 동의를 얻어 집에...",
+          "contentSnippet": "대전 '스토킹 신고' 전 연인 살해 피의자 43세 권종필[대전경찰청 제공][대전경찰청 제공] 전 연인을 살해한 혐의를 받는 권종필이 구속 상태로 재판에 넘겨졌습니다. 대전지방공소청은 오늘(20일) 43살 권 씨를 살인과 주거침입, 스토킹처벌법 위반 혐의로 구속기소했다고 밝혔습니다. 권 씨는 지난달 24일 대전 중구에 있는 40대 여성의 집에서 피해자를 폭행하고 숨지게 한 뒤 달아난 혐의를 받고 있습니다. 권 씨는 피해자의 동의를 얻어 집에...",
+          "guid": "AKR2026112019280194F",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-20T01:33:55.000Z"
+          "isoDate": "2026-11-20T10:28:02.000Z"
         },
         {
-          "creator": "김단비",
-          "title": "울산경찰, 불법사금융 86건 적발…피해신고도 늘어",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261120103329UgS",
-          "pubDate": "Fri, 20 Nov 2026 10:33:30 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR20261120103329UgS_01_i.jpg\" alt=\"\"><span class=\"yna_title\">울산경찰청</span><span class=\"yna_caption\">[연합뉴스 자료사진]</span><span class=\"yna_description\">[연합뉴스 자료사진]</span></div>\n울산경찰청이 지난해 11월 3일부터 올해 10월 31일까지 불법사금융 특별단속을 벌여 86건을 적발하고 67명을 검거했습니다.\n\n혐의별로는 대부업법 위반이 33명으로 가장 많았고, 이자제한법 위반 20명, 채권추심법 위반 14명 순이었습니다.\n\n이 기간 울산에서 접수된 불법사금융 피해 신고는 88건으로 전년 같은 기간(68건)보다 29.4% 늘었으며 피해자 연령대는 30∼40대 비중이 가장 높았습니다.\n\n한편 울산경찰청은 올해 3월 범정부 '불법사금융 원스톱 종합·전담 지원체계'에 참여한 데 이어 7월엔 남부경찰서에 전담 수사관 2명을 배치했습니다.\n\n\n#불법사금융 #울산경찰청 #대부업\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김단비(sweetrain@yna.co.kr)",
-          "content:encodedSnippet": "울산경찰청[연합뉴스 자료사진][연합뉴스 자료사진]\n울산경찰청이 지난해 11월 3일부터 올해 10월 31일까지 불법사금융 특별단속을 벌여 86건을 적발하고 67명을 검거했습니다.\n\n혐의별로는 대부업법 위반이 33명으로 가장 많았고, 이자제한법 위반 20명, 채권추심법 위반 14명 순이었습니다.\n\n이 기간 울산에서 접수된 불법사금융 피해 신고는 88건으로 전년 같은 기간(68건)보다 29.4% 늘었으며 피해자 연령대는 30∼40대 비중이 가장 높았습니다.\n\n한편 울산경찰청은 올해 3월 범정부 '불법사금융 원스톱 종합·전담 지원체계'에 참여한 데 이어 7월엔 남부경찰서에 전담 수사관 2명을 배치했습니다.\n\n\n#불법사금융 #울산경찰청 #대부업\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김단비(sweetrain@yna.co.kr)",
+          "creator": "이지현",
+          "title": "법원 \"김수현 소속사, 쿠쿠에 모델료 8억 원 지급해야\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261120192248GDN",
+          "pubDate": "Fri, 20 Nov 2026 19:22:50 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR20261120192248GDN_01_i.jpg\" alt=\"\"><span class=\"yna_title\">배우 김수현</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n배우 김수현의 사생활 논란으로 불거진 광고 계약 분쟁에서 소속사 골드메달리스트가 쿠쿠 측에 8억 7천여만 원을 지급해야 한다는 1심 판결이 나왔습니다.\n\n서울중앙지법 민사합의25부는 오늘(20일) 쿠쿠전자와 쿠쿠홈시스, 말레이시아 법인 쿠쿠인터내셔널 버하드가 김수현과 소속사를 상대로 낸 20억 원대 손해배상 소송에서 원고 일부 승소로 판결했습니다.\n\n재판부는 소속사가 쿠쿠전자에 2억 6천여만 원, 쿠쿠홈시스에 6억 1천여만 원을 지급하도록 했습니다.\n\n다만 김수현 개인에 대한 청구와 말레이시아 법인이 제기한 청구는 모두 기각했습니다.\n\n재판부는 일부 광고 계약에 대해서는 품위유지 의무 위반을, 다른 계약에 대해서는 당사자 간 신뢰 관계가 무너진 점을 근거로 계약 해지 효력을 인정했습니다.\n\n쿠쿠전자는 작년 초 고(故) 김새론이 미성년자였을 때부터 김수현과 교제했다는 의혹이 제기돼 여론이 악화하자 김수현의 광고를 내리고 민사소송을 제기했습니다.\n\n올해 7월 경찰은 김수현의 미성년자 교제 의혹과 관련해 아동복지법 위반 혐의와 무고 혐의에 대해, 입증 증거가 부족하다고 판단해 불송치 결정을 내렸습니다.\n\n#김수현 #골드메달리스트 #쿠쿠 #손해배상소송\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이지현(ji@yna.co.kr)",
+          "content:encodedSnippet": "배우 김수현[연합뉴스 제공][연합뉴스 제공]\n배우 김수현의 사생활 논란으로 불거진 광고 계약 분쟁에서 소속사 골드메달리스트가 쿠쿠 측에 8억 7천여만 원을 지급해야 한다는 1심 판결이 나왔습니다.\n\n서울중앙지법 민사합의25부는 오늘(20일) 쿠쿠전자와 쿠쿠홈시스, 말레이시아 법인 쿠쿠인터내셔널 버하드가 김수현과 소속사를 상대로 낸 20억 원대 손해배상 소송에서 원고 일부 승소로 판결했습니다.\n\n재판부는 소속사가 쿠쿠전자에 2억 6천여만 원, 쿠쿠홈시스에 6억 1천여만 원을 지급하도록 했습니다.\n\n다만 김수현 개인에 대한 청구와 말레이시아 법인이 제기한 청구는 모두 기각했습니다.\n\n재판부는 일부 광고 계약에 대해서는 품위유지 의무 위반을, 다른 계약에 대해서는 당사자 간 신뢰 관계가 무너진 점을 근거로 계약 해지 효력을 인정했습니다.\n\n쿠쿠전자는 작년 초 고(故) 김새론이 미성년자였을 때부터 김수현과 교제했다는 의혹이 제기돼 여론이 악화하자 김수현의 광고를 내리고 민사소송을 제기했습니다.\n\n올해 7월 경찰은 김수현의 미성년자 교제 의혹과 관련해 아동복지법 위반 혐의와 무고 혐의에 대해, 입증 증거가 부족하다고 판단해 불송치 결정을 내렸습니다.\n\n#김수현 #골드메달리스트 #쿠쿠 #손해배상소송\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이지현(ji@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR20261120103329UgS_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR20261120192248GDN_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "김단비",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261120103329UgS#comments",
-          "content": "울산경찰청[연합뉴스 자료사진][연합뉴스 자료사진] 울산경찰청이 지난해 11월 3일부터 올해 10월 31일까지 불법사금융 특별단속을 벌여 86건을 적발하고 67명을 검거했습니다. 혐의별로는 대부업법 위반이 33명으로 가장 많았고, 이자제한법 위반 20명, 채권추심법 위반 14명 순이었습니다. 이 기간 울산에서 접수된 불법사금융 피해 신고는 88건으로 전년 같은 기간(68건)보다 29.4% 늘었으며 피해자 연령대는 30∼40대 비중이 가장 높...",
-          "contentSnippet": "울산경찰청[연합뉴스 자료사진][연합뉴스 자료사진] 울산경찰청이 지난해 11월 3일부터 올해 10월 31일까지 불법사금융 특별단속을 벌여 86건을 적발하고 67명을 검거했습니다. 혐의별로는 대부업법 위반이 33명으로 가장 많았고, 이자제한법 위반 20명, 채권추심법 위반 14명 순이었습니다. 이 기간 울산에서 접수된 불법사금융 피해 신고는 88건으로 전년 같은 기간(68건)보다 29.4% 늘었으며 피해자 연령대는 30∼40대 비중이 가장 높...",
-          "guid": "AKR20261120103329UgS",
+          "dc:creator": "이지현",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261120192248GDN#comments",
+          "content": "배우 김수현[연합뉴스 제공][연합뉴스 제공] 배우 김수현의 사생활 논란으로 불거진 광고 계약 분쟁에서 소속사 골드메달리스트가 쿠쿠 측에 8억 7천여만 원을 지급해야 한다는 1심 판결이 나왔습니다. 서울중앙지법 민사합의25부는 오늘(20일) 쿠쿠전자와 쿠쿠홈시스, 말레이시아 법인 쿠쿠인터내셔널 버하드가 김수현과 소속사를 상대로 낸 20억 원대 손해배상 소송에서 원고 일부 승소로 판결했습니다. 재판부는 소속사가 쿠쿠전자에 2억 6천여만 원, ...",
+          "contentSnippet": "배우 김수현[연합뉴스 제공][연합뉴스 제공] 배우 김수현의 사생활 논란으로 불거진 광고 계약 분쟁에서 소속사 골드메달리스트가 쿠쿠 측에 8억 7천여만 원을 지급해야 한다는 1심 판결이 나왔습니다. 서울중앙지법 민사합의25부는 오늘(20일) 쿠쿠전자와 쿠쿠홈시스, 말레이시아 법인 쿠쿠인터내셔널 버하드가 김수현과 소속사를 상대로 낸 20억 원대 손해배상 소송에서 원고 일부 승소로 판결했습니다. 재판부는 소속사가 쿠쿠전자에 2억 6천여만 원, ...",
+          "guid": "AKR20261120192248GDN",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-20T01:33:30.000Z"
+          "isoDate": "2026-11-20T10:22:50.000Z"
+        },
+        {
+          "creator": "이지현",
+          "title": "학교 가던 초등생 강제 추행…50대 남성 현행범 체포",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261120192121qgx",
+          "pubDate": "Fri, 20 Nov 2026 19:21:22 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR20261120192121qgx_01_i.jpg\" alt=\"\"><span class=\"yna_title\">서울경찰청</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n등교하던 초등학생을 강제 추행한 혐의로 50대 남성이 체포됐습니다.\n\n서울 은평경찰서는 지난 18일 오전 8시 50분쯤, 은평구의 한 초등학교 앞에서 등교 중인 초등학생을 강제 추행한 혐의로 50대 남성 A씨를 현행범 체포했다고 밝혔습니다.\n\nA씨는 당시 현장에 있던 학교전담경찰관(SPO)에 의해 붙잡힌 것으로 전해졌습니다.\n\n경찰은 A씨를 상대로 구체적인 범행 경위를 조사하고 있습니다.\n\n#초등학생 #성폭력특례법 #서울은평경찰서 #학교전담경찰관\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이지현(ji@yna.co.kr)",
+          "content:encodedSnippet": "서울경찰청[연합뉴스 제공][연합뉴스 제공]\n등교하던 초등학생을 강제 추행한 혐의로 50대 남성이 체포됐습니다.\n\n서울 은평경찰서는 지난 18일 오전 8시 50분쯤, 은평구의 한 초등학교 앞에서 등교 중인 초등학생을 강제 추행한 혐의로 50대 남성 A씨를 현행범 체포했다고 밝혔습니다.\n\nA씨는 당시 현장에 있던 학교전담경찰관(SPO)에 의해 붙잡힌 것으로 전해졌습니다.\n\n경찰은 A씨를 상대로 구체적인 범행 경위를 조사하고 있습니다.\n\n#초등학생 #성폭력특례법 #서울은평경찰서 #학교전담경찰관\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이지현(ji@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261120/AKR20261120192121qgx_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "이지현",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261120192121qgx#comments",
+          "content": "서울경찰청[연합뉴스 제공][연합뉴스 제공] 등교하던 초등학생을 강제 추행한 혐의로 50대 남성이 체포됐습니다. 서울 은평경찰서는 지난 18일 오전 8시 50분쯤, 은평구의 한 초등학교 앞에서 등교 중인 초등학생을 강제 추행한 혐의로 50대 남성 A씨를 현행범 체포했다고 밝혔습니다. A씨는 당시 현장에 있던 학교전담경찰관(SPO)에 의해 붙잡힌 것으로 전해졌습니다. 경찰은 A씨를 상대로 구체적인 범행 경위를 조사하고 있습니다. #초등학생 #...",
+          "contentSnippet": "서울경찰청[연합뉴스 제공][연합뉴스 제공] 등교하던 초등학생을 강제 추행한 혐의로 50대 남성이 체포됐습니다. 서울 은평경찰서는 지난 18일 오전 8시 50분쯤, 은평구의 한 초등학교 앞에서 등교 중인 초등학생을 강제 추행한 혐의로 50대 남성 A씨를 현행범 체포했다고 밝혔습니다. A씨는 당시 현장에 있던 학교전담경찰관(SPO)에 의해 붙잡힌 것으로 전해졌습니다. 경찰은 A씨를 상대로 구체적인 범행 경위를 조사하고 있습니다. #초등학생 #...",
+          "guid": "AKR20261120192121qgx",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-20T10:21:22.000Z"
         }
       ]
     }
