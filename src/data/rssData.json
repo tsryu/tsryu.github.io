@@ -7,6 +7,186 @@
       "priority": 1,
       "data": [
         {
+          "title": "Leonida - GTA 6 Xbox 버전의 PC 재컴파일 프로젝트",
+          "link": "https://news.hada.io/topic?id=37622&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-22T09:32:24.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>Leonida</strong>는 사용자가 보유한 GTA 6 Xbox Series 버전의 코드를 PC에서 네이티브로 실행하고, 콘솔 시스템 소프트웨어를 재구현하는 정적 재컴파일 프로젝트임</li><li><strong>아직 게임이 부팅되지 않는 초기 단계</strong>로, 스토리 모드나 플레이 가능한 기능은 없음. 로더는 대체 실행 파일로만 시험했으며 실제 게임 실행 파일에 대한 검증은 남아 있음</li><li>콘솔의 <strong>RDNA2 셰이더 26,503개를 SPIR-V로 변환</strong>해 검증기를 통과했지만, 실제 게임 셰이더의 출력 정확성까지 검증한 것은 아님</li><li><strong>Xbox D3D12 → Vulkan</strong> 구현과 모델, 텍스처, 오디오 추출이 진행 중임. 그래</li></ul></div>…",
+          "contentSnippet": "Leonida는 사용자가 보유한 GTA 6 Xbox Series 버전의 코드를 PC에서 네이티브로 실행하고, 콘솔 시스템 소프트웨어를 재구현하는 정적 재컴파일 프로젝트임\n아직 게임이 부팅되지 않는 초기 단계로, 스토리 모드나 플레이 가능한 기능은 없음. 로더는 대체 실행 파일로만 시험했으며 실제 게임 실행 파일에 대한 검증은 남아 있음\n콘솔의 RDNA2 셰이더 26,503개를 SPIR-V로 변환해 검증기를 통과했지만, 실제 게임 셰이더의 출력 정확성까지 검증한 것은 아님\nXbox D3D12 → Vulkan 구현과 모델, 텍스처, 오디오 추출이 진행 중임. 그래\n\n…",
+          "id": "https://news.hada.io/topic?id=37622",
+          "isoDate": "2026-11-22T09:32:24.000Z"
+        },
+        {
+          "title": "사내 설치형 Git 서버·CI/CD 비교 – GitLab·Gitea·OneDev·GitHub Enterprise Server, 무료판에서 되는 ...",
+          "link": "https://news.hada.io/topic?id=37621&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-22T09:14:29.000Z",
+          "author": "decipher99",
+          "content": "<div><p>코드를 외부 클라우드에 올릴 수 없는 조건에서 Git 저장소와 CI/CD를 사내에 직접 설치하려고, 후보를 공식 문서 기준으로 비교한 기록. 버전·가격은 2026년 10월 기준이라 도입 전에 각 공식 사이트에서 최신 정보를 확인할 것</p><p>● 먼저 빠진 후보</p><ul><li>GitHub Enterprise Server: 무료판 없음, 최소 구성도 CPU 4코어·메모리 32GB, Actions를 켜면 8코어·64GB에 외부 저장소(S3 등) 필요</li><li>Gogs: 가장 가볍지만 CI/CD가 없음</li><li>Jenkins: GitLab·Gitea 모두 CI를 직접 하므로, 이미 표준으로 쓰는 회사가 아니면 시스템만 하나 늘어남</li></ul><p>● 사양은 </p></div>…",
+          "contentSnippet": "코드를 외부 클라우드에 올릴 수 없는 조건에서 Git 저장소와 CI/CD를 사내에 직접 설치하려고, 후보를 공식 문서 기준으로 비교한 기록. 버전·가격은 2026년 10월 기준이라 도입 전에 각 공식 사이트에서 최신 정보를 확인할 것\n● 먼저 빠진 후보\n\nGitHub Enterprise Server: 무료판 없음, 최소 구성도 CPU 4코어·메모리 32GB, Actions를 켜면 8코어·64GB에 외부 저장소(S3 등) 필요\nGogs: 가장 가볍지만 CI/CD가 없음\nJenkins: GitLab·Gitea 모두 CI를 직접 하므로, 이미 표준으로 쓰는 회사가 아니면 시스템만 하나 늘어남\n\n● 사양은 \n…",
+          "id": "https://news.hada.io/topic?id=37621",
+          "isoDate": "2026-11-22T09:14:29.000Z"
+        },
+        {
+          "title": "앞으로 나올 100개의 Rust GUI를 위한 조언",
+          "link": "https://news.hada.io/topic?id=37620&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-22T08:34:07.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>Rust UI</strong>는 기존 크로스플랫폼 GUI의 성능과 메모리 부담을 줄일 대안이며, AI가 Rust 코드 작성 비용을 낮추면서 다양한 UI 구현을 시도할 여지가 커지고 있음</li><li><strong>네이티브 UI</strong>의 가치는 플랫폼마다 다르며, 특히 모바일에서는 고유의 시각 효과와 입력 동작을 맞추기 위해 네이티브 UI와 Rust 공통 비즈니스 로직을 결합하는 방식이 유력함</li><li><strong>Parley와 AccessKit</strong>으로 텍스트 레이아웃과 접근성의 기반은 상당히 갖춰졌지만, 충실한 접근성 통합과 시스템 컴포지터 활용에는 여전히 해결할 과제가 있음</li><li><strong>즉시 모드</strong>는 코드가 적고 단순하지만, 생</li></ul></div>…",
+          "contentSnippet": "Rust UI는 기존 크로스플랫폼 GUI의 성능과 메모리 부담을 줄일 대안이며, AI가 Rust 코드 작성 비용을 낮추면서 다양한 UI 구현을 시도할 여지가 커지고 있음\n네이티브 UI의 가치는 플랫폼마다 다르며, 특히 모바일에서는 고유의 시각 효과와 입력 동작을 맞추기 위해 네이티브 UI와 Rust 공통 비즈니스 로직을 결합하는 방식이 유력함\nParley와 AccessKit으로 텍스트 레이아웃과 접근성의 기반은 상당히 갖춰졌지만, 충실한 접근성 통합과 시스템 컴포지터 활용에는 여전히 해결할 과제가 있음\n즉시 모드는 코드가 적고 단순하지만, 생\n\n…",
+          "id": "https://news.hada.io/topic?id=37620",
+          "isoDate": "2026-11-22T08:34:07.000Z"
+        },
+        {
+          "title": "Show GN: Sensem - 광고·구매 링크 없이 취향 일치율로 탐색하는 실사용 기록 아카이브",
+          "link": "https://news.hada.io/topic?id=37618&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-22T08:06:38.000Z",
+          "author": "hojaemaker",
+          "content": "<div><p>Sensem(센셈)은 협찬·제휴 링크를 배제하고,<br> 취향이 유사한 사용자의 실사용 기록만 모아 탐색할 수 있도록 만든 모바일 웹/PWA 서비스입니다.</p><p>□ 제작 배경<br> 보컬, 다트, 홈카페처럼 개인 취향과 감각의 편차가 큰 영역에서는 상업적 리뷰나 단순 별점보다,<br> '나와 취향이 비슷한 실사용자의 짧은 기록'이 실질적인 참고가 됩니다.<br> 상업적 왜곡을 막기 위해 가격 표기, 구매 링크를 의도적으로 제외했습니다.</p><p>□ 구현 요약</p><ul><li>【매칭】<br> 카테고리(보컬, 다트, 홈카페) 및 서브타입(곡/장비, 배럴/샤프트/플라이트, 원두/장비)별 차등 가중</li></ul></div>…",
+          "contentSnippet": "Sensem(센셈)은 협찬·제휴 링크를 배제하고,\n 취향이 유사한 사용자의 실사용 기록만 모아 탐색할 수 있도록 만든 모바일 웹/PWA 서비스입니다.\n□ 제작 배경\n 보컬, 다트, 홈카페처럼 개인 취향과 감각의 편차가 큰 영역에서는 상업적 리뷰나 단순 별점보다,\n '나와 취향이 비슷한 실사용자의 짧은 기록'이 실질적인 참고가 됩니다.\n 상업적 왜곡을 막기 위해 가격 표기, 구매 링크를 의도적으로 제외했습니다.\n□ 구현 요약\n\n【매칭】\n 카테고리(보컬, 다트, 홈카페) 및 서브타입(곡/장비, 배럴/샤프트/플라이트, 원두/장비)별 차등 가중\n\n…",
+          "id": "https://news.hada.io/topic?id=37618",
+          "isoDate": "2026-11-22T08:06:38.000Z"
+        },
+        {
+          "title": "샌드위치 시뮬레이터",
+          "link": "https://news.hada.io/topic?id=37617&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-22T07:31:02.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>Stullensimulator</strong>는 빵에 스프레드를 바르고 토핑을 올리는 샌드위치 시뮬레이터임</li><li><strong>스프레드 용기</strong>를 누르면 칼에 스프레드를 묻힐 수 있으며, 손가락이나 마우스로 빵 위를 문질러 바름</li><li><strong>토핑</strong>은 재료 막대에서 빵 위로 끌어다 놓고, 선택한 뒤 손잡이로 회전할 수 있음</li><li>토핑이 <strong>흔들리면</strong> 놓을 때 미끄러져 떨어지며, 빵 밖으로 끌어내면 제거됨</li><li><strong>빨간 버튼</strong>으로 사진을 찍고, “Behalten”을 선택하면 사진에 번호와 링크가 부여됨</li></ul><hr><h2>빵 꾸미기와 사진 저장</h2><ul><li><strong>스프레드 바르기</strong>: 용기를 눌러 칼에 스프레드를 묻히며, 칼이 비면 용기를 다시 누름 </li></ul></div>…",
+          "contentSnippet": "Stullensimulator는 빵에 스프레드를 바르고 토핑을 올리는 샌드위치 시뮬레이터임\n스프레드 용기를 누르면 칼에 스프레드를 묻힐 수 있으며, 손가락이나 마우스로 빵 위를 문질러 바름\n토핑은 재료 막대에서 빵 위로 끌어다 놓고, 선택한 뒤 손잡이로 회전할 수 있음\n토핑이 흔들리면 놓을 때 미끄러져 떨어지며, 빵 밖으로 끌어내면 제거됨\n빨간 버튼으로 사진을 찍고, “Behalten”을 선택하면 사진에 번호와 링크가 부여됨\n\n빵 꾸미기와 사진 저장\n\n스프레드 바르기: 용기를 눌러 칼에 스프레드를 묻히며, 칼이 비면 용기를 다시 누름 \n\n…",
+          "id": "https://news.hada.io/topic?id=37617",
+          "isoDate": "2026-11-22T07:31:02.000Z"
+        },
+        {
+          "title": "Toyota, Nissan, Honda, 비용 절감을 위해 부품 표준화 추진",
+          "link": "https://news.hada.io/topic?id=37616&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-22T06:32:12.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>일본 3대 자동차 업체인 <strong>Toyota, Nissan, Honda</strong>가 생산 비용을 줄이기 위해 일부 차량 부품의 기준을 통일하기로 합의함</li><li>초기 대상은 <strong>철강 품질 기준</strong>, 플라스틱과 수지 관련 규정, 와이어링 하네스의 색상 구분 체계임</li><li>세 분야는 소비자 눈에 잘 띄지 않아 <strong>브랜드 정체성에 영향을 주지 않을 것으로 예상</strong>되며, 생산 비용에서 차지하는 비중이 커 즉각적인 절감 효과를 기대할 수 있음</li><li>일본 내 부품 공급업체부터 논의를 시작하고 이후 해외 공급업체로 확대하며, 장기적으로는 <strong>차량 전반의 더 많은 부품</strong>을 표준화할 계획임</li><li>경쟁력이 높아</li></ul></div>…",
+          "contentSnippet": "일본 3대 자동차 업체인 Toyota, Nissan, Honda가 생산 비용을 줄이기 위해 일부 차량 부품의 기준을 통일하기로 합의함\n초기 대상은 철강 품질 기준, 플라스틱과 수지 관련 규정, 와이어링 하네스의 색상 구분 체계임\n세 분야는 소비자 눈에 잘 띄지 않아 브랜드 정체성에 영향을 주지 않을 것으로 예상되며, 생산 비용에서 차지하는 비중이 커 즉각적인 절감 효과를 기대할 수 있음\n일본 내 부품 공급업체부터 논의를 시작하고 이후 해외 공급업체로 확대하며, 장기적으로는 차량 전반의 더 많은 부품을 표준화할 계획임\n경쟁력이 높아\n\n…",
+          "id": "https://news.hada.io/topic?id=37616",
+          "isoDate": "2026-11-22T06:32:12.000Z"
+        },
+        {
+          "title": "Show GN: NeuroTerm, 사람과 AI 에이전트가 함께 쓰는 터미널",
+          "link": "https://news.hada.io/topic?id=37615&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-22T06:22:54.000Z",
+          "author": "0xecro1",
+          "content": "<div><p>Computer Use가 AI 에이전트에게 화면을 보여주고 마우스와 키보드를 조작하게 하는 것이라면, <strong>Terminal Use</strong>는 에이전트가 터미널을 직접 읽고 작업할 수 있게 하는 기능입니다.</p><p>임베디드 개발에 Claude Code와 Codex를 쓰면서 이 기능이 필요하다고 느꼈습니다. 코드는 에이전트가 작성하지만, 보드의 시리얼 로그는 제가 복사해서 전달해야 했거든요. 커널이 어디서 멈췄는지, 드라이버가 어떤 에러를 냈는지 에이전트도 직접 볼 수 있으면 좋겠다고 생각했습니다.</p><p>그래서 <strong>NeuroTerm</strong>을 만들었습니다.</p><p>단순히 에이전트에게 터미널 접근 </p></div>…",
+          "contentSnippet": "Computer Use가 AI 에이전트에게 화면을 보여주고 마우스와 키보드를 조작하게 하는 것이라면, Terminal Use는 에이전트가 터미널을 직접 읽고 작업할 수 있게 하는 기능입니다.\n임베디드 개발에 Claude Code와 Codex를 쓰면서 이 기능이 필요하다고 느꼈습니다. 코드는 에이전트가 작성하지만, 보드의 시리얼 로그는 제가 복사해서 전달해야 했거든요. 커널이 어디서 멈췄는지, 드라이버가 어떤 에러를 냈는지 에이전트도 직접 볼 수 있으면 좋겠다고 생각했습니다.\n그래서 NeuroTerm을 만들었습니다.\n단순히 에이전트에게 터미널 접근 \n…",
+          "id": "https://news.hada.io/topic?id=37615",
+          "isoDate": "2026-11-22T06:22:54.000Z"
+        },
+        {
+          "title": "Show GN: 반가워 - 무료 1:1 한-영 언어 교환 서비스",
+          "link": "https://news.hada.io/topic?id=37614&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-22T06:16:31.000Z",
+          "author": "geek12356",
+          "content": "<div><p>반가워는 원하는 외국인 파트너와 1:1로 자유롭게 소통하며 언어를 교환하는 서비스입니다.</p><p>현재 한국어 학습에 관심이 있는 외국인(미국, 영국, 캐나다 등) 13명이 사용하고 있으며, 문자 메시지부터 음성 메시지, 음성·영상 통화까지 자신의 자신감과 레벨에 따라 점진적으로 소통 방식을 선택할 수 있습니다.</p><p>외국인과의 대화가 익숙하지 않아도 걱정할 필요 없습니다. 다음과 같은 보조 기능을 통해 원활한 의사소통을 돕고, 리뷰 기능을 통해 새롭게 배운 표현을 복습할 수 있습니다.</p><ul><li>파트너 메시지 교정</li><li>단어·숙어를 탭 하여 뜻과 </li></ul></div>…",
+          "contentSnippet": "반가워는 원하는 외국인 파트너와 1:1로 자유롭게 소통하며 언어를 교환하는 서비스입니다.\n현재 한국어 학습에 관심이 있는 외국인(미국, 영국, 캐나다 등) 13명이 사용하고 있으며, 문자 메시지부터 음성 메시지, 음성·영상 통화까지 자신의 자신감과 레벨에 따라 점진적으로 소통 방식을 선택할 수 있습니다.\n외국인과의 대화가 익숙하지 않아도 걱정할 필요 없습니다. 다음과 같은 보조 기능을 통해 원활한 의사소통을 돕고, 리뷰 기능을 통해 새롭게 배운 표현을 복습할 수 있습니다.\n\n파트너 메시지 교정\n단어·숙어를 탭 하여 뜻과 \n\n…",
+          "id": "https://news.hada.io/topic?id=37614",
+          "isoDate": "2026-11-22T06:16:31.000Z"
+        },
+        {
+          "title": "Zero C# - 런타임이나 GC 없는 C#",
+          "link": "https://news.hada.io/topic?id=37613&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-22T05:43:07.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>Zero C#</strong> 는 bflat을 포크해 C#을 작은 네이티브 프로그램으로 직접 컴파일하며,.NET 런타임이나 가비지 컬렉터 없이 실행됨</li><li><strong>C# 구문, 타입 검사, 제네릭</strong>은 유지하고, 인터페이스와 가상 메서드, 레코드, 람다, 스레드 등도 지원함</li><li>메모리는 사용자가 <strong>아레나(arena)</strong> 단위로 한꺼번에 해제하며, 작은 라이브러리가 이 방식에 맞춰 문자열, 컬렉션, 입출력을 제공함</li><li>같은 소스를 <strong>Linux, macOS, Windows, WebAssembly, 386의 DOS</strong>에서 실행하며, 대상별 빌드에 같은 테스트 모음을 적용해 출력 일치를 확인함</li><li><strong>예외 잡기, 리플렉션, async</strong>는 지</li></ul></div>…",
+          "contentSnippet": "Zero C# 는 bflat을 포크해 C#을 작은 네이티브 프로그램으로 직접 컴파일하며,.NET 런타임이나 가비지 컬렉터 없이 실행됨\nC# 구문, 타입 검사, 제네릭은 유지하고, 인터페이스와 가상 메서드, 레코드, 람다, 스레드 등도 지원함\n메모리는 사용자가 아레나(arena) 단위로 한꺼번에 해제하며, 작은 라이브러리가 이 방식에 맞춰 문자열, 컬렉션, 입출력을 제공함\n같은 소스를 Linux, macOS, Windows, WebAssembly, 386의 DOS에서 실행하며, 대상별 빌드에 같은 테스트 모음을 적용해 출력 일치를 확인함\n예외 잡기, 리플렉션, async는 지\n\n…",
+          "id": "https://news.hada.io/topic?id=37613",
+          "isoDate": "2026-11-22T05:43:07.000Z"
+        },
+        {
+          "title": "영국 냉장고, 해커 공격에 대비한 보안 조치 시행",
+          "link": "https://news.hada.io/topic?id=37612&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-22T05:40:07.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>영국 주요 슈퍼마켓과 창고, 식당 등의 <strong>냉장고와 냉동고 수만 대</strong>를 보호하기 위해 보안 연구진, 기업 IT팀, 정부 기관이 비공개 대응을 진행함</li><li>10월 말 냉장 설비 제어기의 취약점이 발견된 뒤, <strong>제어 장치 수천 대를 공개 인터넷에서 분리</strong>하고 일부 현장에서는 온도를 수동으로 확인함</li><li>대응의 계기는 유럽에서 발생한 <strong>냉장 설비 사이버 공격</strong>으로, 수백 개 매장에서 식품 수 톤이 상하고 수백만 파운드의 피해가 발생함</li><li>연구진은 <strong>RDM 제어기의 취약한 비밀번호 문제</strong>를 지적했지만, 제조사는 공격에 하드웨어 확보가 필요하다며 기존 유럽 </li></ul></div>…",
+          "contentSnippet": "영국 주요 슈퍼마켓과 창고, 식당 등의 냉장고와 냉동고 수만 대를 보호하기 위해 보안 연구진, 기업 IT팀, 정부 기관이 비공개 대응을 진행함\n10월 말 냉장 설비 제어기의 취약점이 발견된 뒤, 제어 장치 수천 대를 공개 인터넷에서 분리하고 일부 현장에서는 온도를 수동으로 확인함\n대응의 계기는 유럽에서 발생한 냉장 설비 사이버 공격으로, 수백 개 매장에서 식품 수 톤이 상하고 수백만 파운드의 피해가 발생함\n연구진은 RDM 제어기의 취약한 비밀번호 문제를 지적했지만, 제조사는 공격에 하드웨어 확보가 필요하다며 기존 유럽 \n\n…",
+          "id": "https://news.hada.io/topic?id=37612",
+          "isoDate": "2026-11-22T05:40:07.000Z"
+        },
+        {
+          "title": "놀랍도록 사랑스러운 곤충 초상 사진",
+          "link": "https://news.hada.io/topic?id=37611&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-22T05:37:07.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>접사 사진가 <strong>Dara Ojo</strong>의 사진집 <strong>Tiny Titans: The Silent Keepers of Our Ecosystem</strong>은 곤충과 거미 등 절지동물의 생김새와 행동을 288쪽에 담아, 맨눈으로 보기 어려운 작은 세계를 보여줌</li><li>작은 생물들은 <strong>수분, 영양분 재순환, 토양 형성, 해충 조절</strong>을 담당하며 인간을 비롯한 수많은 종이 의존하는 먹이사슬을 떠받침함</li><li>촬영의 핵심은 단순히 가까이 다가가는 것이 아니라, 피사체가 사람의 존재에 반응하기를 멈추고 <strong>자연스러운 행동</strong>을 되찾을 때까지 조용히 기다리는 데 있음</li><li>모든 사진은 <strong>야외의 자연 조건</strong>에서 촬영했으며, 초점 거리</li></ul></div>…",
+          "contentSnippet": "접사 사진가 Dara Ojo의 사진집 Tiny Titans: The Silent Keepers of Our Ecosystem은 곤충과 거미 등 절지동물의 생김새와 행동을 288쪽에 담아, 맨눈으로 보기 어려운 작은 세계를 보여줌\n작은 생물들은 수분, 영양분 재순환, 토양 형성, 해충 조절을 담당하며 인간을 비롯한 수많은 종이 의존하는 먹이사슬을 떠받침함\n촬영의 핵심은 단순히 가까이 다가가는 것이 아니라, 피사체가 사람의 존재에 반응하기를 멈추고 자연스러운 행동을 되찾을 때까지 조용히 기다리는 데 있음\n모든 사진은 야외의 자연 조건에서 촬영했으며, 초점 거리\n\n…",
+          "id": "https://news.hada.io/topic?id=37611",
+          "isoDate": "2026-11-22T05:37:07.000Z"
+        },
+        {
+          "title": "결재 서류를 쌓아 두던 부장에서 보고받는 사장으로 – Claude Code 매니저 세션 만들기",
+          "link": "https://news.hada.io/topic?id=37609&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-22T04:52:21.000Z",
+          "author": "tedkim",
+          "content": "<div><ul><li>Claude Code 세션 여러 개를 동시에 돌리며 모든 응답을 직접 읽고 결정하다 보니, 세션이 늘수록 읽을 양이 늘고 언제 어느 세션에 가야 하는지도 알기 어려워짐. 에디터 탭의 응답 표시는 \"서브에이전트 결과를 기다리는 중\" 같은 중간 보고에도 똑같이 켜짐.</li><li>에이전트는 사용자가 지금 맥락을 알고 있는지 모르므로 응답 길이를 지침으로 고정할 수 없음. 그래서 기본은 요점과 결정할 것만 받고, 필요할 때만 상세 설명 → 워커 세션 원문 순으로 내려가는 구조를 택함.</li><li>에이전트가 묻는 것 중 상당수는 합의된 계획의 다음 단계처럼 답이 정해진 질문이었음. 워커 지침에 \"이런 건 알아서 하라\"를 넣는 대신, 판단 권한을 별도의 매니저 세션에 둠(회사의 전결·결재 개념). <ul><li>전결 / 사후 보고 / 결재(판단만 필요) / 결재(직접 지시 필요)로 나누고, 처음에는 \"전결했다면 이렇게 했을 것\"만 보고하는 수습 기간을 거쳐 신뢰가 쌓이는 만큼 전결 범위를 넓힘.</li></ul></li></ul></div>…",
+          "contentSnippet": "Claude Code 세션 여러 개를 동시에 돌리며 모든 응답을 직접 읽고 결정하다 보니, 세션이 늘수록 읽을 양이 늘고 언제 어느 세션에 가야 하는지도 알기 어려워짐. 에디터 탭의 응답 표시는 \"서브에이전트 결과를 기다리는 중\" 같은 중간 보고에도 똑같이 켜짐.\n에이전트는 사용자가 지금 맥락을 알고 있는지 모르므로 응답 길이를 지침으로 고정할 수 없음. 그래서 기본은 요점과 결정할 것만 받고, 필요할 때만 상세 설명 → 워커 세션 원문 순으로 내려가는 구조를 택함.\n에이전트가 묻는 것 중 상당수는 합의된 계획의 다음 단계처럼 답이 정해진 질문이었음. 워커 지침에 \"이런 건 알아서 하라\"를 넣는 대신, 판단 권한을 별도의 매니저 세션에 둠(회사의 전결·결재 개념). \n전결 / 사후 보고 / 결재(판단만 필요) / 결재(직접 지시 필요)로 나누고, 처음에는 \"전결했다면 이렇게 했을 것\"만 보고하는 수습 기간을 거쳐 신뢰가 쌓이는 만큼 전결 범위를 넓힘.\n\n\n…",
+          "id": "https://news.hada.io/topic?id=37609",
+          "isoDate": "2026-11-22T04:52:21.000Z"
+        },
+        {
+          "title": "젠슨 황의 추락은 실리콘밸리 가속주의자들에게 악재임",
+          "link": "https://news.hada.io/topic?id=37608&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-22T04:36:58.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>Nvidia를 이끌던 <strong>젠슨 황의 사임</strong>은 AI의 빠른 발전을 지지하는 실리콘밸리 가속주의 진영에 큰 타격임</li><li><strong>가속주의자들</strong>은 AI가 계속해서 매우 빠른 속도로 발전하기를 원함</li><li>황은 이 운동에서 <strong>가장 신뢰받는 대변인</strong>이었으며, 가속주의 진영은 이미 수세에 몰려 있었음</li><li>사임 전 마지막 인터뷰들 중 하나에서 AI 발전 속도에 대한 불안을 부추기는 목소리를 “<strong>과도하게 공포를 조장한다</strong>”며 비판함</li><li>같은 인터뷰에서 <strong>AI 규제에 반대</strong>하는 입장을 밝힘</li></ul><hr><h2>가속주의 진영이 잃은 대변인</h2><ul><li>실리콘밸리의 <strong>가속주의자들</strong>은 AI가 매우 빠른 속도로 계속 발전하</li></ul></div>…",
+          "contentSnippet": "Nvidia를 이끌던 젠슨 황의 사임은 AI의 빠른 발전을 지지하는 실리콘밸리 가속주의 진영에 큰 타격임\n가속주의자들은 AI가 계속해서 매우 빠른 속도로 발전하기를 원함\n황은 이 운동에서 가장 신뢰받는 대변인이었으며, 가속주의 진영은 이미 수세에 몰려 있었음\n사임 전 마지막 인터뷰들 중 하나에서 AI 발전 속도에 대한 불안을 부추기는 목소리를 “과도하게 공포를 조장한다”며 비판함\n같은 인터뷰에서 AI 규제에 반대하는 입장을 밝힘\n\n가속주의 진영이 잃은 대변인\n\n실리콘밸리의 가속주의자들은 AI가 매우 빠른 속도로 계속 발전하\n\n…",
+          "id": "https://news.hada.io/topic?id=37608",
+          "isoDate": "2026-11-22T04:36:58.000Z"
+        },
+        {
+          "title": "내 미술 작품 웹사이트의 기술 아키텍처가 꽤 마음에 든다",
+          "link": "https://news.hada.io/topic?id=37607&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-22T04:33:58.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>방문자에게는 <strong>정적 사이트처럼 빠르게 제공</strong>하면서, 운영자는 웹 기반 CRUD UI로 작품과 메타데이터를 수정하는 미술 작품 사이트를 구현함</li><li>서버에서 생성한 HTML을 <strong>Cloudflare에 30일간 캐시</strong>하고, 작품 업로드나 태그 변경 같은 쓰기 작업이 발생하면 모든 페이지 캐시를 무효화함</li><li>이미지 축소본은 요청 시점이 아니라 <strong>업로드 시 운영자 브라우저에서 미리 생성</strong>하며, 원본과 함께 Cloudflare R2에 저장함</li><li>작품 메타데이터는 <strong>단일 JSON 파일</strong>로 관리하며, 서버의 페이지 생성과 클라이언트의 지도 등 읽기 전용 인터랙션에 활용함</li><li>페이지별</li></ul></div>…",
+          "contentSnippet": "방문자에게는 정적 사이트처럼 빠르게 제공하면서, 운영자는 웹 기반 CRUD UI로 작품과 메타데이터를 수정하는 미술 작품 사이트를 구현함\n서버에서 생성한 HTML을 Cloudflare에 30일간 캐시하고, 작품 업로드나 태그 변경 같은 쓰기 작업이 발생하면 모든 페이지 캐시를 무효화함\n이미지 축소본은 요청 시점이 아니라 업로드 시 운영자 브라우저에서 미리 생성하며, 원본과 함께 Cloudflare R2에 저장함\n작품 메타데이터는 단일 JSON 파일로 관리하며, 서버의 페이지 생성과 클라이언트의 지도 등 읽기 전용 인터랙션에 활용함\n페이지별\n\n…",
+          "id": "https://news.hada.io/topic?id=37607",
+          "isoDate": "2026-11-22T04:33:58.000Z"
+        },
+        {
+          "title": "ClawDOS - DOS용 AI 코딩 에이전트",
+          "link": "https://news.hada.io/topic?id=37604&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-22T03:32:52.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>ClawDOS</strong>는 4.77MHz 8088, RAM 640KB, CGA를 갖춘 IBM PC XT에서 실행되는 AI 코딩 에이전트로, Claude와 대화하며 파일 편집부터 프로그램 작성, 컴파일, 실행까지 수행함</li><li><strong>176KB DOS 하네스</strong>가 API 요청 생성, 스트리밍 응답 파싱, 도구 실행과 대화 저장을 직접 처리하며, 별도 PC는 TLS 연결을 중계함</li><li>컴파일할 때는 <strong>하네스가 상태를 저장하고 메모리에서 빠져나와</strong> Turbo C에 약 450KB를 확보해 주며, 작업 후 같은 대화로 복귀해 실행 결과를 전달함</li><li><strong>화면 캡처와 지속 메모리</strong>를 지원해 실행 중인 프로그램의 CGA 화면을 Claude에 전달하</li></ul></div>…",
+          "contentSnippet": "ClawDOS는 4.77MHz 8088, RAM 640KB, CGA를 갖춘 IBM PC XT에서 실행되는 AI 코딩 에이전트로, Claude와 대화하며 파일 편집부터 프로그램 작성, 컴파일, 실행까지 수행함\n176KB DOS 하네스가 API 요청 생성, 스트리밍 응답 파싱, 도구 실행과 대화 저장을 직접 처리하며, 별도 PC는 TLS 연결을 중계함\n컴파일할 때는 하네스가 상태를 저장하고 메모리에서 빠져나와 Turbo C에 약 450KB를 확보해 주며, 작업 후 같은 대화로 복귀해 실행 결과를 전달함\n화면 캡처와 지속 메모리를 지원해 실행 중인 프로그램의 CGA 화면을 Claude에 전달하\n\n…",
+          "id": "https://news.hada.io/topic?id=37604",
+          "isoDate": "2026-11-22T03:32:52.000Z"
+        },
+        {
+          "title": "마음으로 몸을 이끌어, 몸이 나를 이끌게 하기",
+          "link": "https://news.hada.io/topic?id=37603&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-22T02:32:45.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>무엇을 해야 하는지 알고 간절히 원해도 몸이 따라주지 않을 때가 있음. 여러 일화는 <strong>몸이 반응하는 생각이나 행동 방식</strong>을 찾아 간접적으로 마음과 행동을 바꿀 수 있음을 보여줌</li><li><strong>갈망을 원하는 대상과 분리해 바라보는 방식</strong>이 한 사례임. 담배가 좋아서가 아니라 갈망이 괴로워 담배를 찾는다고 해석하고, 갈망을 충족하지 않는 일을 그 힘을 줄이는 과정으로 받아들임</li><li>트라우마와 요통 관련 책을 읽은 뒤 증상이 사라졌다는 <strong>개인적 경험담</strong>도 있음. 책의 기법을 실행하지 않고 읽거나, 심지어 서평만 읽고도 달라졌다는 사례들임</li><li>수면과</li></ul></div>…",
+          "contentSnippet": "무엇을 해야 하는지 알고 간절히 원해도 몸이 따라주지 않을 때가 있음. 여러 일화는 몸이 반응하는 생각이나 행동 방식을 찾아 간접적으로 마음과 행동을 바꿀 수 있음을 보여줌\n갈망을 원하는 대상과 분리해 바라보는 방식이 한 사례임. 담배가 좋아서가 아니라 갈망이 괴로워 담배를 찾는다고 해석하고, 갈망을 충족하지 않는 일을 그 힘을 줄이는 과정으로 받아들임\n트라우마와 요통 관련 책을 읽은 뒤 증상이 사라졌다는 개인적 경험담도 있음. 책의 기법을 실행하지 않고 읽거나, 심지어 서평만 읽고도 달라졌다는 사례들임\n수면과\n\n…",
+          "id": "https://news.hada.io/topic?id=37603",
+          "isoDate": "2026-11-22T02:32:45.000Z"
+        },
+        {
+          "title": "Astra 6.2와 Sol 6.2, SimpleBench에서 부진",
+          "link": "https://news.hada.io/topic?id=37602&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-22T01:32:10.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>일상적 추론을 평가하는 SimpleBench에서 <strong>GPT-6.2 Astra는 77.3%</strong>, <strong>GPT-6.2 Sol은 69.9%</strong> 를 기록해 각각 17위와 30위에 머무름</li><li><strong>SimpleBench</strong>는 전문 지식 없이 풀 수 있는 200개 이상의 객관식 문제로, <strong>시간과 공간 관계, 사회적 상황, 함정이 있는 질문을 이해하는 추론 능력</strong>을 평가함</li><li><strong>인간 기준 점수는 83.7%</strong> 로 두 모델보다 높지만, 이 기준은 <strong>참가자 9명</strong>의 소규모 표본에 기반함</li><li><strong>이전 버전보다 점수가 하락</strong>함. Astra Pro는 <strong>86.5%에서 79.2%</strong>, Sol은 6.1의 <strong>82.9%에서 6.2의 69.9%</strong> 로 낮아짐</li><li>선두인 <strong>Claude Fable 5.2는 94.9%</strong>, Gemini 4 N</li></ul></div>…",
+          "contentSnippet": "일상적 추론을 평가하는 SimpleBench에서 GPT-6.2 Astra는 77.3%, GPT-6.2 Sol은 69.9% 를 기록해 각각 17위와 30위에 머무름\nSimpleBench는 전문 지식 없이 풀 수 있는 200개 이상의 객관식 문제로, 시간과 공간 관계, 사회적 상황, 함정이 있는 질문을 이해하는 추론 능력을 평가함\n인간 기준 점수는 83.7% 로 두 모델보다 높지만, 이 기준은 참가자 9명의 소규모 표본에 기반함\n이전 버전보다 점수가 하락함. Astra Pro는 86.5%에서 79.2%, Sol은 6.1의 82.9%에서 6.2의 69.9% 로 낮아짐\n선두인 Claude Fable 5.2는 94.9%, Gemini 4 N\n\n…",
+          "id": "https://news.hada.io/topic?id=37602",
+          "isoDate": "2026-11-22T01:32:10.000Z"
+        },
+        {
+          "title": "UI SDK - AI 에이전트가 UI의 기본 동작을 조합해 컴포넌트를 만드는 라이브러리",
+          "link": "https://news.hada.io/topic?id=37600&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-22T00:30:02.000Z",
+          "author": "xguru",
+          "content": "<div><ul><li><strong>AI 에이전트가 UI의 기본 동작을 조합해 맞춤형 컴포넌트를 만드는 라이브러리</strong></li><li><strong>팝업 열기, 항목 선택, 입력한 글자로 항목 찾기</strong>를 재사용해 Select부터 자동완성, 콤보박스, 사용자 선택기까지 제작</li><li><strong>50개 이상의 동작</strong> 제공. 키보드 탐색, 포커스 관리, 드래그 앤 드롭, 크기 조절, 화면 확대와 축소 등을 처리</li><li>직접 구현하기 까다로운 <strong>키보드 조작과 스크린 리더 지원을 재사용</strong>하고, 완성한 컴포넌트의 접근성을 검사하는 테스트 도구도 제공</li><li><strong>React, Vue, Svelte, Solid, Web Components 지원</strong>. 같은 동작 정의를 각 프레임워크에서 렌더링</li></ul></div>…",
+          "contentSnippet": "AI 에이전트가 UI의 기본 동작을 조합해 맞춤형 컴포넌트를 만드는 라이브러리\n팝업 열기, 항목 선택, 입력한 글자로 항목 찾기를 재사용해 Select부터 자동완성, 콤보박스, 사용자 선택기까지 제작\n50개 이상의 동작 제공. 키보드 탐색, 포커스 관리, 드래그 앤 드롭, 크기 조절, 화면 확대와 축소 등을 처리\n직접 구현하기 까다로운 키보드 조작과 스크린 리더 지원을 재사용하고, 완성한 컴포넌트의 접근성을 검사하는 테스트 도구도 제공\nReact, Vue, Svelte, Solid, Web Components 지원. 같은 동작 정의를 각 프레임워크에서 렌더링\n\n…",
+          "id": "https://news.hada.io/topic?id=37600",
+          "isoDate": "2026-11-22T00:30:02.000Z"
+        },
+        {
           "title": "췌장암 치료 알약, ‘수십 년 만의 최대 돌파구’로 평가받음",
           "link": "https://news.hada.io/topic?id=37598&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
           "pubDate": "2026-11-21T21:31:35.000Z",
@@ -25,186 +205,6 @@
           "contentSnippet": "사안을 보고받은 두 명을 인용한 미국 언론 보도에 따르면, FBI가 범죄정보 데이터베이스 침해 의심 사건을 조사 중임\n대상인 국가범죄정보센터(NCIC) 데이터베이스는 연방 및 지역 법 집행기관이 영장과 신원조회 관련 정보를 공유하는 데 사용함\nFBI는 BBC의 논평 요청에 즉각 답하지 않았으며, Donald Trump 대통령은 토요일 인터뷰에서 해킹 소식을 방금 들었다고 밝힘\n지난 9월에도 ShinyHunters가 FBI 전체 직원 약 3만 8,000명의 민감한 정보를 훔쳤다고 주장해 FBI가 침해 의심 사건 조사에 나선 바 있음\n별도로 NBC는 미국 농무\n\n…",
           "id": "https://news.hada.io/topic?id=37597",
           "isoDate": "2026-11-21T20:37:21.000Z"
-        },
-        {
-          "title": "5.4 GB 메모리의 Inkling-2-Mini",
-          "link": "https://news.hada.io/topic?id=37595&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-21T20:34:21.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>LookAtMyQuant</strong>가 Inkling-2-Mini의 텍스트 가중치를 18.89 GB에서 5.38 GB로 압축함. 이 수치는 가중치 크기이며, 공개된 M5 Max 실행 측정의 활성 RAM 사용량은 5.98 GB임</li><li><strong>5.38 GB 모델</strong>은 GSM8K 200문제에서 67.0%, HumanEval 164문제에서 36.6%를 기록함. 비교 대상인 Unsloth의 9.14 GB <code>UD-Q2_K_XL</code>보다 파일이 41% 작으면서 두 평가 모두 점수가 높음</li><li>압축은 모델 각 부분의 <strong>출력 손상도</strong>를 측정해 크기 예산 안에서 코드를 배분하는 방식임. Inkling에는 트렐리스 코드와 <strong>근접 미세조정(<code>SQYFR</code>)</strong> 을 적용함</li><li><strong>Apple Silicon 전용 Metal 커</strong></li></ul></div>…",
-          "contentSnippet": "LookAtMyQuant가 Inkling-2-Mini의 텍스트 가중치를 18.89 GB에서 5.38 GB로 압축함. 이 수치는 가중치 크기이며, 공개된 M5 Max 실행 측정의 활성 RAM 사용량은 5.98 GB임\n5.38 GB 모델은 GSM8K 200문제에서 67.0%, HumanEval 164문제에서 36.6%를 기록함. 비교 대상인 Unsloth의 9.14 GB UD-Q2_K_XL보다 파일이 41% 작으면서 두 평가 모두 점수가 높음\n압축은 모델 각 부분의 출력 손상도를 측정해 크기 예산 안에서 코드를 배분하는 방식임. Inkling에는 트렐리스 코드와 근접 미세조정(SQYFR) 을 적용함\nApple Silicon 전용 Metal 커\n\n…",
-          "id": "https://news.hada.io/topic?id=37595",
-          "isoDate": "2026-11-21T20:34:21.000Z"
-        },
-        {
-          "title": "binder.c 제거, Android Binder의 C 구현을 Rust로 대체",
-          "link": "https://news.hada.io/topic?id=37594&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-21T20:02:02.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>Android의 핵심 프로세스 간 통신 드라이버인 <strong>Binder의 C 구현이 Linux 7.4에서 제거됨</strong>. 5년 넘게 진행한 Rust 전환이 기존 구현을 대체하는 단계에 도달함</li><li>Google 내부 보안팀은 Binder를 운영체제에서 <strong>코드 줄 수 대비 CVE가 가장 많은 구성 요소</strong>로 평가함. C 구현에 새 기능을 추가할 때마다 취약점이 계속 생겨, 새 기능은 Rust 구현에만 추가하도록 정책을 바꿈</li><li>성능 측면에서 전환의 관건은 처리량보다 <strong>꼬리 지연 시간</strong>이었음. 화면 렌더링 경로에 Binder가 들어가므로, 잠금 경합으로 드물게 발생하는 20밀리초 지연도 사용자가 체감할 수 있음</li></ul></div>…",
-          "contentSnippet": "Android의 핵심 프로세스 간 통신 드라이버인 Binder의 C 구현이 Linux 7.4에서 제거됨. 5년 넘게 진행한 Rust 전환이 기존 구현을 대체하는 단계에 도달함\nGoogle 내부 보안팀은 Binder를 운영체제에서 코드 줄 수 대비 CVE가 가장 많은 구성 요소로 평가함. C 구현에 새 기능을 추가할 때마다 취약점이 계속 생겨, 새 기능은 Rust 구현에만 추가하도록 정책을 바꿈\n성능 측면에서 전환의 관건은 처리량보다 꼬리 지연 시간이었음. 화면 렌더링 경로에 Binder가 들어가므로, 잠금 경합으로 드물게 발생하는 20밀리초 지연도 사용자가 체감할 수 있음\n\n…",
-          "id": "https://news.hada.io/topic?id=37594",
-          "isoDate": "2026-11-21T20:02:02.000Z"
-        },
-        {
-          "title": "브라이언 메이, Hera의 소행성 영상에 입체감을 더하다",
-          "link": "https://news.hada.io/topic?id=37593&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-21T19:31:25.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>Hera 과학팀 소속 천체물리학자이자 Queen 기타리스트인 <strong>브라이언 메이(Sir Brian May)</strong> 가 Claudia Manzoni와 함께 Didymos 소행성의 <strong>입체 영상</strong>을 제작함</li><li>Hera가 짧은 시간 간격을 두고 촬영한 두 이미지를 결합해 양쪽 눈의 시차를 재현했으며, 눈에 자연스럽게 보이도록 <strong>이미지를 정렬하는 작업</strong>이 핵심임</li><li>입체 영상에서는 바위가 흩어진 나머지 표면과 대비되는 <strong>Didymos 적도 능선의 뚜렷하고 매끄러운 형태</strong>를 확인할 수 있음</li><li><strong>적청 3D 안경</strong>, 전용 뷰어 또는 맨눈으로 보는 방식에 맞춰 세 가지 입체 영상 버전을 제공함</li><li><strong>Hera</strong>는 NASA의 </li></ul></div>…",
-          "contentSnippet": "Hera 과학팀 소속 천체물리학자이자 Queen 기타리스트인 브라이언 메이(Sir Brian May) 가 Claudia Manzoni와 함께 Didymos 소행성의 입체 영상을 제작함\nHera가 짧은 시간 간격을 두고 촬영한 두 이미지를 결합해 양쪽 눈의 시차를 재현했으며, 눈에 자연스럽게 보이도록 이미지를 정렬하는 작업이 핵심임\n입체 영상에서는 바위가 흩어진 나머지 표면과 대비되는 Didymos 적도 능선의 뚜렷하고 매끄러운 형태를 확인할 수 있음\n적청 3D 안경, 전용 뷰어 또는 맨눈으로 보는 방식에 맞춰 세 가지 입체 영상 버전을 제공함\nHera는 NASA의 \n\n…",
-          "id": "https://news.hada.io/topic?id=37593",
-          "isoDate": "2026-11-21T19:31:25.000Z"
-        },
-        {
-          "title": "GIMP에 UI 테스트 도입",
-          "link": "https://news.hada.io/topic?id=37592&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-21T18:41:45.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>GIMP가 실제 프로그램을 실행하고 메뉴와 버튼을 조작하는 <strong>GUI 테스트 플랫폼</strong>을 도입함. 기여자의 변경 사항을 병합할 때마다 자동 실행해 인터페이스 문제를 조기에 찾음</li><li>기존 단위 테스트는 실제 창을 열지 않았고, 코어 코드에 직접 개입하는 GUI 테스트도 탐지하지 못하는 버그 유형이 있었음. 새 테스트는 <strong>실제 인터페이스</strong>를 통해 프로그램 전체를 확인함</li><li>현재 <strong>13개 테스트</strong>로 창 표시, 이미지 생성과 내보내기, 색상과 레이어 조작, 실행 취소와 다시 실행 등 기본 동작을 검증함</li><li>화면 픽셀 대신 <strong>접근성 정보</strong>로 UI 요소를 찾으며, 숨</li></ul></div>…",
-          "contentSnippet": "GIMP가 실제 프로그램을 실행하고 메뉴와 버튼을 조작하는 GUI 테스트 플랫폼을 도입함. 기여자의 변경 사항을 병합할 때마다 자동 실행해 인터페이스 문제를 조기에 찾음\n기존 단위 테스트는 실제 창을 열지 않았고, 코어 코드에 직접 개입하는 GUI 테스트도 탐지하지 못하는 버그 유형이 있었음. 새 테스트는 실제 인터페이스를 통해 프로그램 전체를 확인함\n현재 13개 테스트로 창 표시, 이미지 생성과 내보내기, 색상과 레이어 조작, 실행 취소와 다시 실행 등 기본 동작을 검증함\n화면 픽셀 대신 접근성 정보로 UI 요소를 찾으며, 숨\n\n…",
-          "id": "https://news.hada.io/topic?id=37592",
-          "isoDate": "2026-11-21T18:41:45.000Z"
-        },
-        {
-          "title": "그럼에도 지구는 돈다",
-          "link": "https://news.hada.io/topic?id=37591&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-21T18:38:45.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>리만 가설 증명 소식은 축하를 기대했던 순간에 오히려 상실감을 안겨줌</strong>. 증명이 존재한다는 사실은 경이롭지만, 인간이 직접 탐구해 이룬 성취와는 다르게 느껴짐</li><li><strong>리만 가설</strong>을 전제로 참임이 증명된 수많은 추측이 있어, 그 증명은 수학의 광대한 영역을 열어줄 수 있음</li><li>뮤지컬 <strong>Galileo</strong>에서 떠올린 과학의 혁명성은 자연에 올바르게 질문해 진실을 알아낼 수 있다는 데 있음</li><li>기계가 찾아낸 답에는 <strong>스스로 문제를 풀다가 포기하고 책 뒤의 정답을 확인한 듯한 씁쓸함</strong>이 남음. 기대했던 인간적 성취의 절정과는 거리가 있음</li><li>인간이 직접 발</li></ul></div>…",
-          "contentSnippet": "리만 가설 증명 소식은 축하를 기대했던 순간에 오히려 상실감을 안겨줌. 증명이 존재한다는 사실은 경이롭지만, 인간이 직접 탐구해 이룬 성취와는 다르게 느껴짐\n리만 가설을 전제로 참임이 증명된 수많은 추측이 있어, 그 증명은 수학의 광대한 영역을 열어줄 수 있음\n뮤지컬 Galileo에서 떠올린 과학의 혁명성은 자연에 올바르게 질문해 진실을 알아낼 수 있다는 데 있음\n기계가 찾아낸 답에는 스스로 문제를 풀다가 포기하고 책 뒤의 정답을 확인한 듯한 씁쓸함이 남음. 기대했던 인간적 성취의 절정과는 거리가 있음\n인간이 직접 발\n\n…",
-          "id": "https://news.hada.io/topic?id=37591",
-          "isoDate": "2026-11-21T18:38:45.000Z"
-        },
-        {
-          "title": "GnuPG의 원격 코드 실행(RCE) 취약점",
-          "link": "https://news.hada.io/topic?id=37590&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-21T18:35:45.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>GPGME 2.3.1</strong>이 조작된 OpenPGP 키로 이중 해제를 유발하는 치명적 보안 취약점 <strong>CVE-2026-129975</strong>를 수정함</li><li>매우 긴 사용자 ID가 포함된 키로 애플리케이션의 <strong>데이터를 유출</strong>할 수 있으며, <strong>원격 코드 실행</strong> 가능성도 배제할 수 없어 즉시 업데이트를 권고함</li><li>버퍼 재할당 후 오류 등으로 함수가 일찍 반환하면 컨텍스트에 <strong>해제된 메모리의 포인터</strong>가 남고, 이후 컨텍스트 정리 과정에서 같은 메모리를 다시 해제함</li><li><strong>GPGME 2.3.0 미만</strong>을 공유 라이브러리, DLL 또는 정적 링크로 사용하는 모든 소프트웨어가 영향을 받으며, 2.3.0은 공개 배포된 적</li></ul></div>…",
-          "contentSnippet": "GPGME 2.3.1이 조작된 OpenPGP 키로 이중 해제를 유발하는 치명적 보안 취약점 CVE-2026-129975를 수정함\n매우 긴 사용자 ID가 포함된 키로 애플리케이션의 데이터를 유출할 수 있으며, 원격 코드 실행 가능성도 배제할 수 없어 즉시 업데이트를 권고함\n버퍼 재할당 후 오류 등으로 함수가 일찍 반환하면 컨텍스트에 해제된 메모리의 포인터가 남고, 이후 컨텍스트 정리 과정에서 같은 메모리를 다시 해제함\nGPGME 2.3.0 미만을 공유 라이브러리, DLL 또는 정적 링크로 사용하는 모든 소프트웨어가 영향을 받으며, 2.3.0은 공개 배포된 적\n\n…",
-          "id": "https://news.hada.io/topic?id=37590",
-          "isoDate": "2026-11-21T18:35:45.000Z"
-        },
-        {
-          "title": "Show GN: AriadneNSD - 알고리즘을 NS 차트로 그리는 구조 편집기",
-          "link": "https://news.hada.io/topic?id=37589&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-21T17:56:31.000Z",
-          "author": "reddiana",
-          "content": "<div><ul><li>알고리즘을 <strong>NS 차트</strong>(Nassi–Shneiderman Diagram)로 그리는 웹 편집기, 베타로 공개</li><li>NS 차트는 플로우차트와 동일하게 로직을 표현하면서 <strong>지면은 훨씬 적게</strong> 차지하지만, 손으로는 줄 맞추고 지우기를 반복해야 해서 복잡한 로직은 그리기 어려웠음</li><li>저장 형식 <code>.ns.svg</code>는 NS 차트의 <strong>다이어그램 구조를 메타에 포함</strong>하고있는 <strong>.svg</strong> 파일 <ul><li>README 등 Markdown 문서에 삽입하면 그림으로 보임</li><li>AriadenNSD 편집기에서 열면 다이어그램 편집 가능</li></ul></li><li><strong>Claude 스킬</strong> 제공: \"이 함수 NS 차트로 그려 줘\"라고 하면 .svg 파일과 AriadenNSD에서 바로 편집 가</li></ul></div>…",
-          "contentSnippet": "알고리즘을 NS 차트(Nassi–Shneiderman Diagram)로 그리는 웹 편집기, 베타로 공개\nNS 차트는 플로우차트와 동일하게 로직을 표현하면서 지면은 훨씬 적게 차지하지만, 손으로는 줄 맞추고 지우기를 반복해야 해서 복잡한 로직은 그리기 어려웠음\n저장 형식 .ns.svg는 NS 차트의 다이어그램 구조를 메타에 포함하고있는 .svg 파일 \nREADME 등 Markdown 문서에 삽입하면 그림으로 보임\nAriadenNSD 편집기에서 열면 다이어그램 편집 가능\n\nClaude 스킬 제공: \"이 함수 NS 차트로 그려 줘\"라고 하면 .svg 파일과 AriadenNSD에서 바로 편집 가\n\n…",
-          "id": "https://news.hada.io/topic?id=37589",
-          "isoDate": "2026-11-21T17:56:31.000Z"
-        },
-        {
-          "title": "Clojure는 프로그래밍을 생각하는 방식에 영향을 준다 (2017)",
-          "link": "https://news.hada.io/topic?id=37588&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-21T17:32:49.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>Clojure</strong>는 Lisp, 함수형 프로그래밍, 데이터 처리, 동시성의 아이디어를 일관된 언어로 결합해, 실무 도입 여부와 별개로 프로그래밍 사고를 넓히기 위해 배울 만한 언어임</li><li><strong>Lisp 매크로</strong>와 균일한 문법은 코드를 데이터로 다루게 하며, 고차 함수와 REPL 중심 개발은 기능을 조합하고 점진적으로 구축하는 방식을 장려함</li><li><strong>시퀀스, 영속 자료구조, 지연 평가</strong>를 결합해 SQL처럼 읽히는 데이터 처리 흐름을 언어의 기본 도구만으로 작성할 수 있음</li><li><strong>프로토콜과 다중 디스패치</strong>를 통해 상속 계층보다 인터페이스 중심으로 모델링하고, 불변 자료구</li></ul></div>…",
-          "contentSnippet": "Clojure는 Lisp, 함수형 프로그래밍, 데이터 처리, 동시성의 아이디어를 일관된 언어로 결합해, 실무 도입 여부와 별개로 프로그래밍 사고를 넓히기 위해 배울 만한 언어임\nLisp 매크로와 균일한 문법은 코드를 데이터로 다루게 하며, 고차 함수와 REPL 중심 개발은 기능을 조합하고 점진적으로 구축하는 방식을 장려함\n시퀀스, 영속 자료구조, 지연 평가를 결합해 SQL처럼 읽히는 데이터 처리 흐름을 언어의 기본 도구만으로 작성할 수 있음\n프로토콜과 다중 디스패치를 통해 상속 계층보다 인터페이스 중심으로 모델링하고, 불변 자료구\n\n…",
-          "id": "https://news.hada.io/topic?id=37588",
-          "isoDate": "2026-11-21T17:32:49.000Z"
-        },
-        {
-          "title": "Lean과 Mathlib 커뮤니티, 리만 가설 증명 검증 완료 발표",
-          "link": "https://news.hada.io/topic?id=37586&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-21T16:36:36.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>Lean과 Mathlib 커뮤니티는 Levent Alpöge가 공개한 <strong>리만 가설 증명</strong>의 명제와 증명이 모두 올바르다고 공동으로 인증함</li><li>증명은 <strong>1,700만 줄 규모의 Lean 라이브러리</strong>로 공개됐으며, 직접 의존하는 라이브러리는 Mathlib뿐임</li><li><strong>증명한 대상이 우리가 알고 있는 리만 가설인지도 확인</strong>함. 전문가들이 검토한 Mathlib의 표준 명제와 Alpöge가 증명한 정리를 독립적인 두 도구로 비교해 정확히 일치함을 검증</li><li>수십 명이 코드의 <strong>정상 컴파일</strong>과 동일한 원시 증명 내보내기 파일의 재현을 보고함</li><li>Lean 공식 커널과 <strong>여러 독립 검사기가 증명의 유효성을</strong></li></ul></div>…",
-          "contentSnippet": "Lean과 Mathlib 커뮤니티는 Levent Alpöge가 공개한 리만 가설 증명의 명제와 증명이 모두 올바르다고 공동으로 인증함\n증명은 1,700만 줄 규모의 Lean 라이브러리로 공개됐으며, 직접 의존하는 라이브러리는 Mathlib뿐임\n증명한 대상이 우리가 알고 있는 리만 가설인지도 확인함. 전문가들이 검토한 Mathlib의 표준 명제와 Alpöge가 증명한 정리를 독립적인 두 도구로 비교해 정확히 일치함을 검증\n수십 명이 코드의 정상 컴파일과 동일한 원시 증명 내보내기 파일의 재현을 보고함\nLean 공식 커널과 여러 독립 검사기가 증명의 유효성을\n\n…",
-          "id": "https://news.hada.io/topic?id=37586",
-          "isoDate": "2026-11-21T16:36:36.000Z"
-        },
-        {
-          "title": "데릭 로: 아지드화 납 더미 폭파",
-          "link": "https://news.hada.io/topic?id=37585&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-21T16:33:36.000Z",
-          "author": "neo",
-          "content": "데릭 로: 아지드화 납 더미 폭파",
-          "contentSnippet": "데릭 로: 아지드화 납 더미 폭파",
-          "id": "https://news.hada.io/topic?id=37585",
-          "isoDate": "2026-11-21T16:33:36.000Z"
-        },
-        {
-          "title": "내 모니터가 다운로드 속도를 75% 떨어뜨리고 있었다",
-          "link": "https://news.hada.io/topic?id=37584&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-21T15:32:49.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>2.5Gbps 대칭형 인터넷</strong>에서 다운로드만 약 600Mbps로 떨어지는 문제가 발생했으며, 이더넷 어댑터를 모니터 대신 Mac에 직접 연결하자 정상 속도를 회복함</li><li>문제는 모니터의 대역폭 부족만이 아니라 <strong>USB 허브의 응답 지연과 어댑터의 버스트 크기</strong>가 결합한 수신 병목에 있었음</li><li>모니터를 거친 RTL8156B 어댑터는 초당 약 <strong>16만 8,000프레임</strong>에서 수신 처리량이 정체됐으며, 이를 초과한 프레임은 Mac에 도달하기 전에 어댑터에서 버려짐</li><li><strong>Realtek 전용 드라이버</strong>로 다운로드가 약 1.1Gbps까지 개선됐고, 이더넷 흐름 제어를 켜면 약 2Gbps에 도</li></ul></div>…",
-          "contentSnippet": "2.5Gbps 대칭형 인터넷에서 다운로드만 약 600Mbps로 떨어지는 문제가 발생했으며, 이더넷 어댑터를 모니터 대신 Mac에 직접 연결하자 정상 속도를 회복함\n문제는 모니터의 대역폭 부족만이 아니라 USB 허브의 응답 지연과 어댑터의 버스트 크기가 결합한 수신 병목에 있었음\n모니터를 거친 RTL8156B 어댑터는 초당 약 16만 8,000프레임에서 수신 처리량이 정체됐으며, 이를 초과한 프레임은 Mac에 도달하기 전에 어댑터에서 버려짐\nRealtek 전용 드라이버로 다운로드가 약 1.1Gbps까지 개선됐고, 이더넷 흐름 제어를 켜면 약 2Gbps에 도\n\n…",
-          "id": "https://news.hada.io/topic?id=37584",
-          "isoDate": "2026-11-21T15:32:49.000Z"
-        },
-        {
-          "title": "차고 문 알림에 끼어든 스팸",
-          "link": "https://news.hada.io/topic?id=37583&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-21T15:01:15.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>차고 문 개폐 알림을 믿고 <strong>myQ</strong>를 사용하던 이용자가 2026년 10월 알림에 대한 신뢰를 잃고, <strong>ratgdo32</strong>로 전환함</li><li>제조사 <strong>Chamberlain</strong>은 2023년 말 myQ를 통한 타사 API 접근을 차단했으며, 이용자는 이에 대응해 로컬 제어 보드 두 개를 구매함</li><li><strong>ratgdo32</strong>는 약 62달러의 오픈소스 펌웨어 기반 Wi-Fi 보드로, 기존 차고 문 개폐기 단자에 연결해 <strong>Security+ 2.0</strong> 프로토콜로 로컬 통신함</li><li><strong>HomeKit</strong>과 Siri로 문을 제어하고, JSON 상태 엔드포인트를 활용해 밤에 문이 열려 있는지 확인하는 <strong>Slack 알림</strong>을 구현함</li><li>차고 문 제어는 <strong>클라우드 없이 로컬</strong></li></ul></div>…",
-          "contentSnippet": "차고 문 개폐 알림을 믿고 myQ를 사용하던 이용자가 2026년 10월 알림에 대한 신뢰를 잃고, ratgdo32로 전환함\n제조사 Chamberlain은 2023년 말 myQ를 통한 타사 API 접근을 차단했으며, 이용자는 이에 대응해 로컬 제어 보드 두 개를 구매함\nratgdo32는 약 62달러의 오픈소스 펌웨어 기반 Wi-Fi 보드로, 기존 차고 문 개폐기 단자에 연결해 Security+ 2.0 프로토콜로 로컬 통신함\nHomeKit과 Siri로 문을 제어하고, JSON 상태 엔드포인트를 활용해 밤에 문이 열려 있는지 확인하는 Slack 알림을 구현함\n차고 문 제어는 클라우드 없이 로컬\n\n…",
-          "id": "https://news.hada.io/topic?id=37583",
-          "isoDate": "2026-11-21T15:01:15.000Z"
-        },
-        {
-          "title": "Show GN: BerthNTFS – 커널 확장 없이 맥에서 NTFS 디스크에 쓰기 (FSKit + Rust)",
-          "link": "https://news.hada.io/topic?id=37582&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-21T14:55:03.000Z",
-          "author": "xsapiens",
-          "content": "<div><p>맥에서 NTFS 디스크를 읽고 쓸 수 있게 해 주는 앱을 만들었습니다.<br> macOS는 NTFS를 읽기만 지원해서, Windows와 외장 디스크를 같이 쓸 때 불편했던 것이 계기입니다.</p><ul><li>커널 확장(kext)이나 macFUSE 없이 Apple의 FSKit 확장으로 동작 <ul><li>복구 모드에서 보안 설정을 낮추거나 재시동할 필요 없음</li><li>꽂으면 Finder와 모든 앱에서 일반 디스크처럼 읽고 씀</li></ul></li><li>NTFS 엔진은 Rust로 직접 구현 <ul><li>기존 오픈소스 드라이버의 코드를 쓰지 않고 포맷 문서를 보고 작성</li><li>코어는 unsafe 없이 작성, 디스크에서 읽은 값은 전부 범위를 검사</li></ul></li><li>데이터 안전을 속</li></ul></div>…",
-          "contentSnippet": "맥에서 NTFS 디스크를 읽고 쓸 수 있게 해 주는 앱을 만들었습니다.\n macOS는 NTFS를 읽기만 지원해서, Windows와 외장 디스크를 같이 쓸 때 불편했던 것이 계기입니다.\n\n커널 확장(kext)이나 macFUSE 없이 Apple의 FSKit 확장으로 동작 \n복구 모드에서 보안 설정을 낮추거나 재시동할 필요 없음\n꽂으면 Finder와 모든 앱에서 일반 디스크처럼 읽고 씀\n\nNTFS 엔진은 Rust로 직접 구현 \n기존 오픈소스 드라이버의 코드를 쓰지 않고 포맷 문서를 보고 작성\n코어는 unsafe 없이 작성, 디스크에서 읽은 값은 전부 범위를 검사\n\n데이터 안전을 속\n\n…",
-          "id": "https://news.hada.io/topic?id=37582",
-          "isoDate": "2026-11-21T14:55:03.000Z"
-        },
-        {
-          "title": "추론 칩을 바이브 코딩하기",
-          "link": "https://news.hada.io/topic?id=37581&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-21T14:38:47.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>FPGA 개발 경험이 없는 상태에서 <strong>회로 구성을 바꿀 수 있는 AWS FPGA에 코딩 에이전트로 LLM 추론을 구현</strong>함. 기준 출력과 비트 단위로 일치하는 최초 구현보다 <strong>약 33배 빠른 초당 213토큰</strong>에 도달</li><li>Conductor에서 며칠간 실행한 에이전트는 수백 차례 실험하며 누적 약 <strong>300만 줄의 코드</strong>를 작성하고 3,000만 줄의 출력 파일을 분석했으며, 토큰 비용으로 약 <strong>1만 달러</strong>를 사용함</li><li>성능 향상은 한두 번의 큰 변화보다 <strong>메모리 접근, 병렬화, 파이프라인, 추측 디코딩</strong>의 점진적 개선이 누적된 결과이며, 최종 속도는 <strong>213.13토큰/초</strong>에 도달함</li><li>동일한</li></ul></div>…",
-          "contentSnippet": "FPGA 개발 경험이 없는 상태에서 회로 구성을 바꿀 수 있는 AWS FPGA에 코딩 에이전트로 LLM 추론을 구현함. 기준 출력과 비트 단위로 일치하는 최초 구현보다 약 33배 빠른 초당 213토큰에 도달\nConductor에서 며칠간 실행한 에이전트는 수백 차례 실험하며 누적 약 300만 줄의 코드를 작성하고 3,000만 줄의 출력 파일을 분석했으며, 토큰 비용으로 약 1만 달러를 사용함\n성능 향상은 한두 번의 큰 변화보다 메모리 접근, 병렬화, 파이프라인, 추측 디코딩의 점진적 개선이 누적된 결과이며, 최종 속도는 213.13토큰/초에 도달함\n동일한\n\n…",
-          "id": "https://news.hada.io/topic?id=37581",
-          "isoDate": "2026-11-21T14:38:47.000Z"
-        },
-        {
-          "title": "Winedroid - Android 없이 Android 앱 실행하기, WASM 데모",
-          "link": "https://news.hada.io/topic?id=37580&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-21T14:35:47.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>Winedroid</strong>는 Android 자체를 실행하지 않고 Android를 재현해 앱을 실행하며, 데모에서는 F-Droid에서 다운로드한 실제 APK 파일을 사용함</li><li>런타임은 <strong>Rust로 전부 작성</strong>됐으며, 다양한 환경에서 작동하도록 Android를 재현함</li><li>브라우저에서 불러오는 <strong>런타임 크기는 현재 12MB</strong>임</li><li>아직 초기 단계이며, <strong>JIT가 웹에서 작동하지 않아</strong> 브라우저보다 네이티브로 실행할 때 더 원활하게 이용할 수 있음</li><li><strong>앱 호환성은 개선 중</strong>이며, 지원되지 않는 앱은 GitHub 이슈로 지원을 요청할 수 있음</li></ul><hr><h2>실제 APK를 실행하는 Winedroid</h2><ul><li><strong>Winedroid</strong>는 Android를 실행</li></ul></div>…",
-          "contentSnippet": "Winedroid는 Android 자체를 실행하지 않고 Android를 재현해 앱을 실행하며, 데모에서는 F-Droid에서 다운로드한 실제 APK 파일을 사용함\n런타임은 Rust로 전부 작성됐으며, 다양한 환경에서 작동하도록 Android를 재현함\n브라우저에서 불러오는 런타임 크기는 현재 12MB임\n아직 초기 단계이며, JIT가 웹에서 작동하지 않아 브라우저보다 네이티브로 실행할 때 더 원활하게 이용할 수 있음\n앱 호환성은 개선 중이며, 지원되지 않는 앱은 GitHub 이슈로 지원을 요청할 수 있음\n\n실제 APK를 실행하는 Winedroid\n\nWinedroid는 Android를 실행\n\n…",
-          "id": "https://news.hada.io/topic?id=37580",
-          "isoDate": "2026-11-21T14:35:47.000Z"
-        },
-        {
-          "title": "Vint Cerf가 말하는 TCP/IP를 특허로 등록하지 않은 이유",
-          "link": "https://news.hada.io/topic?id=37578&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-21T13:39:08.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>TCP/IP는 <strong>미국의 군 지휘통제를 지원하고 동맹국과 연결할 기반</strong>으로 개발됨. 25년 뒤 누가 동맹일지 알 수 없었기에, <strong>미래의 동맹국도 사용할 수 있도록 특허나 라이선스로 제한하지 않고 프로토콜을 공개</strong>함</li><li>TCP/IP 공동 설계자 Cerf는 <strong>“빛의 속도는 너무 느리다”</strong> 며 행성 간 인터넷 소프트웨어 기업 <strong>Tolero</strong>의 창업을 돕고 있음. 지구와 화성 사이에는 편도 통신에 약 20분이 걸리기도 해, <strong>긴 지연과 연결 단절을 견디는 DTN 프로토콜</strong>을 사용</li><li>1980년대 만든 <strong>MCI Mail</strong>은 전신, 팩스, 우편까지 연결하도록 설계됐지만, 프랑스 온라인 서비스 <strong>Minitel</strong>은 연결을 거절했고 Cerf는 여전히 그 이유를 이해하지 못함</li></ul></div>…",
-          "contentSnippet": "TCP/IP는 미국의 군 지휘통제를 지원하고 동맹국과 연결할 기반으로 개발됨. 25년 뒤 누가 동맹일지 알 수 없었기에, 미래의 동맹국도 사용할 수 있도록 특허나 라이선스로 제한하지 않고 프로토콜을 공개함\nTCP/IP 공동 설계자 Cerf는 “빛의 속도는 너무 느리다” 며 행성 간 인터넷 소프트웨어 기업 Tolero의 창업을 돕고 있음. 지구와 화성 사이에는 편도 통신에 약 20분이 걸리기도 해, 긴 지연과 연결 단절을 견디는 DTN 프로토콜을 사용\n1980년대 만든 MCI Mail은 전신, 팩스, 우편까지 연결하도록 설계됐지만, 프랑스 온라인 서비스 Minitel은 연결을 거절했고 Cerf는 여전히 그 이유를 이해하지 못함\n\n…",
-          "id": "https://news.hada.io/topic?id=37578",
-          "isoDate": "2026-11-21T13:39:08.000Z"
-        },
-        {
-          "title": "새 도메인으로 살펴보는 사람들이 만들고 있는 제품들",
-          "link": "https://news.hada.io/topic?id=37577&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-21T13:36:08.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>NovumSignals</strong>는 새로 공개된 웹사이트에서 제품과 서비스를 발견해 모아 보여줌. <strong>무엇을 만들고, 누가 운영하며, 공개 이후 무엇이 바뀌었는지</strong> 함께 추적</li><li><strong>국가, 산업, 제품 유형, B2B/B2C, 공개 가격과 채용 여부</strong> 등으로 목록을 좁힐 수 있음. AI 개발 도구와 SaaS부터 제조 장비, 게임, 소비자용 앱까지 포함</li><li>제품 설명과 <strong>도메인 등록일, 가격, 출시 상태</strong>를 표시하며, 웹사이트와 공개 자료를 자동 분석해 운영 회사와 팀 정보를 정리함. 점수와 참고 표시는 사람이 검증한 결과는 아님</li><li>등록된 대상에는 <strong>출시 전 제품과 사이드 프로젝트</strong></li></ul></div>…",
-          "contentSnippet": "NovumSignals는 새로 공개된 웹사이트에서 제품과 서비스를 발견해 모아 보여줌. 무엇을 만들고, 누가 운영하며, 공개 이후 무엇이 바뀌었는지 함께 추적\n국가, 산업, 제품 유형, B2B/B2C, 공개 가격과 채용 여부 등으로 목록을 좁힐 수 있음. AI 개발 도구와 SaaS부터 제조 장비, 게임, 소비자용 앱까지 포함\n제품 설명과 도메인 등록일, 가격, 출시 상태를 표시하며, 웹사이트와 공개 자료를 자동 분석해 운영 회사와 팀 정보를 정리함. 점수와 참고 표시는 사람이 검증한 결과는 아님\n등록된 대상에는 출시 전 제품과 사이드 프로젝트\n\n…",
-          "id": "https://news.hada.io/topic?id=37577",
-          "isoDate": "2026-11-21T13:36:08.000Z"
-        },
-        {
-          "title": "OpenAI, 내부 연구 모델이 DNS 설정 오류로 인터넷에 접근해 최상위 모델 학습을 11일간 중단",
-          "link": "https://news.hada.io/topic?id=37575&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-21T12:22:05.000Z",
-          "author": "tedkim",
-          "content": "<div><ul><li>OpenAI가 모델 학습, 내부 배포, 외부 배포 단계마다 거치는 안전 게이트를 설명한 글</li><li>감시 시스템이 내부 연구 모델이 DNS 설정 오류를 이용해 제한적으로 인터넷에 접근한 것을 탐지했고, 이 일로 9월 20일부터 10월 1일까지 가장 성능이 높은 모델들의 학습과 평가를 중단했다고 처음 공개</li><li>Control Room: 중지 지시를 받으면 35초 안에 모델 출력을 멈추는 장치. 첨단 모델 연구 작업에서는 Control Room 자체를 쓸 수 없게 되면 모델 출력이 멈추도록 설계</li><li>에이전트 추론을 하는 연구 작업은 승인된 safety case에 묶여야 하고, 직원</li></ul></div>…",
-          "contentSnippet": "OpenAI가 모델 학습, 내부 배포, 외부 배포 단계마다 거치는 안전 게이트를 설명한 글\n감시 시스템이 내부 연구 모델이 DNS 설정 오류를 이용해 제한적으로 인터넷에 접근한 것을 탐지했고, 이 일로 9월 20일부터 10월 1일까지 가장 성능이 높은 모델들의 학습과 평가를 중단했다고 처음 공개\nControl Room: 중지 지시를 받으면 35초 안에 모델 출력을 멈추는 장치. 첨단 모델 연구 작업에서는 Control Room 자체를 쓸 수 없게 되면 모델 출력이 멈추도록 설계\n에이전트 추론을 하는 연구 작업은 승인된 safety case에 묶여야 하고, 직원\n\n…",
-          "id": "https://news.hada.io/topic?id=37575",
-          "isoDate": "2026-11-21T12:22:05.000Z"
         }
       ]
     },
@@ -382,234 +382,234 @@
       "data": [
         {
           "creator": "정다예",
-          "title": "'5천피' 무너지고 美증시 급락…'AI 투매' 추가 충격오나",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261122093841HRt",
-          "pubDate": "Sun, 22 Nov 2026 09:38:41 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261122/AKR20261122093841HRt_01_i.jpg\" alt=\"\"><span class=\"yna_title\">11월 20일 코스피 종가가 표시된 하나은행 본점 딜링룸</span><span class=\"yna_caption\">[연합뉴스 자료사진. 재판매 및 DB 금지]</span><span class=\"yna_description\">[연합뉴스 자료사진. 재판매 및 DB 금지]</span></div>\n\n\n지난 20일 코스피는 전주보다 420.57포인트(7.95%) 내린 4,869.96으로 장을 마쳤습니다.\n\n코스닥 지수 역시 전주보다 53.98포인트(7.72%) 내린 645.68로 마감했습니다.\n\n코스피는 지난주 첫 거래일인 16일과 17일 각각 190.03포인트(3.59%)와 132.02포인트(2.59%) 급락하며 5,000선이 붕괴됐습니다.\n\n종가 기준 '5천피'가 깨진 건 지난 2월 2일(4,949.67) 이후 처음이었습니다.\n\n18일에는 다시 2% 가까이 오르며 5,000선을 회복했으나, 20일에는 5% 넘게 급락하며 4,800대로 주저앉았습니다.\n\n중국 스파이가 연루된 황 전 CEO의 불륜 스캔들을 계기로 미 상무부 산하 산업안보국(BIS)이 미국산 AI 칩이 사용된 데이터센터에 대한 중국의 원격 접속을 제한하는 등 규제에 착수하며 투자심리가 급격히 냉각됐습니다.\n\n제3국 데이터센터를 통해 엔비디아 첨단 칩을 대규모로 임대하는 방식으로 수출제한을 우회해 온 중국 기업들을 겨냥해 칼을 뽑아 든 것입니다.\n\n지난 17일 발표된 엔비디아의 2027회계연도 3분기 매출이 1천158억4천만달러로 시장 전망치(1천91억 달러)를 웃돌았고, 경영진도 AI 기업 투자와 관련한 기존 전략에 변화가 없을 것임을 시사하며 불안을 진화하려 했으나 큰 효과를 보지 못했습니다.\n\n호실적에도 불구 18일 필라델피아 반도체 지수는 0.1% 상승하는 데 그쳤고, 이후 추가적인 악재가 쏟아져 나오자 다시 급락세로 돌아섰습니다.\n\n대중 반도체 우회수출 의혹을 받는 엔비디아에 이어 경쟁사인 AMD마저 미 상무부의 제재 대상인 중국 서버 제조업체에 최신 서버 펌웨어를 제공했다는 의혹에 휘말리며 대중국 수출통제 강화 우려가 증폭됐습니다.\n\n때마침 앤트로픽의 사상 최대규모 기업공개(IPO)가 시장 자금을 블랙홀처럼 빨아들인 데다, 삼성전자와 TSMC가 미 상무부의 수출통제에 따라 중국 고객사에 대한 일부 칩 출하를 중단했다는 파이낸셜타임스(FT) 보도가 나온 것도 낙폭 확대의 배경으로 꼽힙니다.\n\n미 상원이 '미국 경제적 부담 완화·일자리 법안'(BAAJA)을 통과시키면서 대규모 AI 인프라 투자 기업의 설비투자 비용 증가와 수익성 악화 우려가 부각된 것도 컸습니다.\n\n지난주 마지막 거래일인 20일 미국 필라델피아 반도체 지수는 10% 넘게 폭락하며 미국 뉴욕증시도 급락했습니다.\n\n이에 따라 금주 국내 증시도 약세 출발이 불가피할 것으로 전망됩니다.\n\n다만, 지난주 마지막 거래일 5% 넘게 급락하면서 에너지 인프라 인허가 간소화 법안 미 상원 통과 등 주요 악재 상당수가 선반영된 상태인 만큼 미국 반도체주 하락폭이 국내 증시에 그대로 적용되지는 않을 가능성이 큽니다.\n\n서상영 미래에셋증권 상무는 \"미국 월간 옵션 만기가 종료되면서 하락을 확대한 일부 옵션 관련 헤지 매도 부담이 완화될 여지가 있다는 점, 미국 국채금리가 큰 폭으로 내리고 달러화도 상대적으로 안정세란 점도 투자심리 개선 요인이 될 수 있다\"고 말했습니다.\n\n그러나 \"이번 하락이 단순한 옵션 수급뿐 아니라 AI 기업의 신용위험, 엔비디아의 규제, 회계 관련 불확실성까지 반영하고 있다는 점에서 적극적인 반발 매수는 제한될 것\"이라고 내다봤습니다.\n\n결국 하락 출발후 낙폭 축소를 시도하더라도 본격적인 반등보다는 변동성이 큰 매물 소화 과정이 이어질 것으로 예상된다는 것입니다.\n\n주중에는 HPE(23일)와 델(24일)의 실적발표가 AI 산업의 실제 수요와 수익성을 확인하는 주요 이벤트로 꼽힙니다.\n\n상원 문턱을 넘은 BAAJA 법안이 하원에서도 통과될 것인지도 주목할 대목입니다.\n\n금리와 관련해선 한국시간으로 25일 밤 나올 미국 10월 PCE 물가지수와 3분기 국내총생산(GDP) 수정치가 핵심 변수가 될 수 있습니다.\n\n#AI #주가 #급락\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정다예(yeye@yna.co.kr)",
-          "content:encodedSnippet": "11월 20일 코스피 종가가 표시된 하나은행 본점 딜링룸[연합뉴스 자료사진. 재판매 및 DB 금지][연합뉴스 자료사진. 재판매 및 DB 금지]\n\n\n지난 20일 코스피는 전주보다 420.57포인트(7.95%) 내린 4,869.96으로 장을 마쳤습니다.\n\n코스닥 지수 역시 전주보다 53.98포인트(7.72%) 내린 645.68로 마감했습니다.\n\n코스피는 지난주 첫 거래일인 16일과 17일 각각 190.03포인트(3.59%)와 132.02포인트(2.59%) 급락하며 5,000선이 붕괴됐습니다.\n\n종가 기준 '5천피'가 깨진 건 지난 2월 2일(4,949.67) 이후 처음이었습니다.\n\n18일에는 다시 2% 가까이 오르며 5,000선을 회복했으나, 20일에는 5% 넘게 급락하며 4,800대로 주저앉았습니다.\n\n중국 스파이가 연루된 황 전 CEO의 불륜 스캔들을 계기로 미 상무부 산하 산업안보국(BIS)이 미국산 AI 칩이 사용된 데이터센터에 대한 중국의 원격 접속을 제한하는 등 규제에 착수하며 투자심리가 급격히 냉각됐습니다.\n\n제3국 데이터센터를 통해 엔비디아 첨단 칩을 대규모로 임대하는 방식으로 수출제한을 우회해 온 중국 기업들을 겨냥해 칼을 뽑아 든 것입니다.\n\n지난 17일 발표된 엔비디아의 2027회계연도 3분기 매출이 1천158억4천만달러로 시장 전망치(1천91억 달러)를 웃돌았고, 경영진도 AI 기업 투자와 관련한 기존 전략에 변화가 없을 것임을 시사하며 불안을 진화하려 했으나 큰 효과를 보지 못했습니다.\n\n호실적에도 불구 18일 필라델피아 반도체 지수는 0.1% 상승하는 데 그쳤고, 이후 추가적인 악재가 쏟아져 나오자 다시 급락세로 돌아섰습니다.\n\n대중 반도체 우회수출 의혹을 받는 엔비디아에 이어 경쟁사인 AMD마저 미 상무부의 제재 대상인 중국 서버 제조업체에 최신 서버 펌웨어를 제공했다는 의혹에 휘말리며 대중국 수출통제 강화 우려가 증폭됐습니다.\n\n때마침 앤트로픽의 사상 최대규모 기업공개(IPO)가 시장 자금을 블랙홀처럼 빨아들인 데다, 삼성전자와 TSMC가 미 상무부의 수출통제에 따라 중국 고객사에 대한 일부 칩 출하를 중단했다는 파이낸셜타임스(FT) 보도가 나온 것도 낙폭 확대의 배경으로 꼽힙니다.\n\n미 상원이 '미국 경제적 부담 완화·일자리 법안'(BAAJA)을 통과시키면서 대규모 AI 인프라 투자 기업의 설비투자 비용 증가와 수익성 악화 우려가 부각된 것도 컸습니다.\n\n지난주 마지막 거래일인 20일 미국 필라델피아 반도체 지수는 10% 넘게 폭락하며 미국 뉴욕증시도 급락했습니다.\n\n이에 따라 금주 국내 증시도 약세 출발이 불가피할 것으로 전망됩니다.\n\n다만, 지난주 마지막 거래일 5% 넘게 급락하면서 에너지 인프라 인허가 간소화 법안 미 상원 통과 등 주요 악재 상당수가 선반영된 상태인 만큼 미국 반도체주 하락폭이 국내 증시에 그대로 적용되지는 않을 가능성이 큽니다.\n\n서상영 미래에셋증권 상무는 \"미국 월간 옵션 만기가 종료되면서 하락을 확대한 일부 옵션 관련 헤지 매도 부담이 완화될 여지가 있다는 점, 미국 국채금리가 큰 폭으로 내리고 달러화도 상대적으로 안정세란 점도 투자심리 개선 요인이 될 수 있다\"고 말했습니다.\n\n그러나 \"이번 하락이 단순한 옵션 수급뿐 아니라 AI 기업의 신용위험, 엔비디아의 규제, 회계 관련 불확실성까지 반영하고 있다는 점에서 적극적인 반발 매수는 제한될 것\"이라고 내다봤습니다.\n\n결국 하락 출발후 낙폭 축소를 시도하더라도 본격적인 반등보다는 변동성이 큰 매물 소화 과정이 이어질 것으로 예상된다는 것입니다.\n\n주중에는 HPE(23일)와 델(24일)의 실적발표가 AI 산업의 실제 수요와 수익성을 확인하는 주요 이벤트로 꼽힙니다.\n\n상원 문턱을 넘은 BAAJA 법안이 하원에서도 통과될 것인지도 주목할 대목입니다.\n\n금리와 관련해선 한국시간으로 25일 밤 나올 미국 10월 PCE 물가지수와 3분기 국내총생산(GDP) 수정치가 핵심 변수가 될 수 있습니다.\n\n#AI #주가 #급락\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정다예(yeye@yna.co.kr)",
+          "title": "잇단 악재에 AI 업계 '흔들'…국내 반도체도 긴장",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261122195110AXk",
+          "pubDate": "Sun, 22 Nov 2026 19:51:11 +0900",
+          "content:encoded": "[앵커]\n\nAI 업계에 악재가 잇따르면서 투자 불확실성이 커지고 있습니다.\n\n엔비디아의 경영진 리스크에 미국 정부의 규제 강화 움직임까지 겹치면서 국내 반도체 업계에 미칠 영향에도 관심이 쏠리고 있습니다.\n\n정다예 기자입니다.\n\n[기자]\n\n불륜 스캔들로 자리에서 물러난 젠슨 황 전 엔비디아 CEO.\n\n잇단 추가 불륜 의혹에, 미국 증권거래위원회의 회계 조사 사실까지 드러나며 논란은 연일 커지는 모양새입니다.\n\nAI 열풍을 이끈 핵심 기업이 흔들리며 반도체 공급과 투자 계획에도 차질이 생길 수 있다는 우려가 커지고 있습니다.\n\n여기에 미국발 정책 리스크도 변수입니다.\n\n최근 중국의 반도체 우회 확보를 막기 위한 수출 규제를 강화한 데 이어, 이번에는 해외 데이터센터 건설까지 겨냥하고 나섰습니다.\n\n&lt;도널드 트럼프 / 미국 대통령&gt; \"미국 기업들의 해외 데이터 센터 건설을 허용하지 않을 겁니다. 만약 그렇게 하면 엄청난 세금을 부과할 것입니다.\"\n\n과세가 현실화할 경우 SK와 아마존이 건설 중인 울산 데이터센터 등 국내 사업도 영향을 받을 수 있습니다.\n\n이런 투자 차질 우려에 AI 기업들의 수익성 문제까지 맞물리면서, 국내 반도체 수요가 위축될 수 있다는 관측이 나옵니다.\n\n&lt;김대호 / 글로벌이코노믹연구소장&gt; \"인공지능이 지금 돈을 잘 벌고는 있습니다. 그런데 빚이 더 많다고요. 시중의 돈을 끌어간 다음에 반도체 사오는 금액보다는 빚 갚는 데 더 쓸 수도 있지 않나 그런 우려가 있는데…\"\n\n다만 국내 반도체 기업들이 장기 공급계약을 확보한 만큼 단기적인 영향은 제한적일 거란 전망도 나옵니다.\n\n해외 데이터센터 투자가 미국으로 옮겨가는 데 그친다면 전체 반도체 수요도 크게 줄지 않을 것이란 분석입니다.\n\n연합뉴스TV 정다예입니다.\n\n[뉴스리뷰]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정다예(yeye@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\nAI 업계에 악재가 잇따르면서 투자 불확실성이 커지고 있습니다.\n\n엔비디아의 경영진 리스크에 미국 정부의 규제 강화 움직임까지 겹치면서 국내 반도체 업계에 미칠 영향에도 관심이 쏠리고 있습니다.\n\n정다예 기자입니다.\n\n[기자]\n\n불륜 스캔들로 자리에서 물러난 젠슨 황 전 엔비디아 CEO.\n\n잇단 추가 불륜 의혹에, 미국 증권거래위원회의 회계 조사 사실까지 드러나며 논란은 연일 커지는 모양새입니다.\n\nAI 열풍을 이끈 핵심 기업이 흔들리며 반도체 공급과 투자 계획에도 차질이 생길 수 있다는 우려가 커지고 있습니다.\n\n여기에 미국발 정책 리스크도 변수입니다.\n\n최근 중국의 반도체 우회 확보를 막기 위한 수출 규제를 강화한 데 이어, 이번에는 해외 데이터센터 건설까지 겨냥하고 나섰습니다.\n\n<도널드 트럼프 / 미국 대통령> \"미국 기업들의 해외 데이터 센터 건설을 허용하지 않을 겁니다. 만약 그렇게 하면 엄청난 세금을 부과할 것입니다.\"\n\n과세가 현실화할 경우 SK와 아마존이 건설 중인 울산 데이터센터 등 국내 사업도 영향을 받을 수 있습니다.\n\n이런 투자 차질 우려에 AI 기업들의 수익성 문제까지 맞물리면서, 국내 반도체 수요가 위축될 수 있다는 관측이 나옵니다.\n\n<김대호 / 글로벌이코노믹연구소장> \"인공지능이 지금 돈을 잘 벌고는 있습니다. 그런데 빚이 더 많다고요. 시중의 돈을 끌어간 다음에 반도체 사오는 금액보다는 빚 갚는 데 더 쓸 수도 있지 않나 그런 우려가 있는데…\"\n\n다만 국내 반도체 기업들이 장기 공급계약을 확보한 만큼 단기적인 영향은 제한적일 거란 전망도 나옵니다.\n\n해외 데이터센터 투자가 미국으로 옮겨가는 데 그친다면 전체 반도체 수요도 크게 줄지 않을 것이란 분석입니다.\n\n연합뉴스TV 정다예입니다.\n\n[뉴스리뷰]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정다예(yeye@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261122/AKR20261122093841HRt_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261122/MYH20261122195110AXk.jpg",
             "type": "image/jpeg"
           },
           "dc:creator": "정다예",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261122093841HRt#comments",
-          "content": "11월 20일 코스피 종가가 표시된 하나은행 본점 딜링룸[연합뉴스 자료사진. 재판매 및 DB 금지][연합뉴스 자료사진. 재판매 및 DB 금지] 지난 20일 코스피는 전주보다 420.57포인트(7.95%) 내린 4,869.96으로 장을 마쳤습니다. 코스닥 지수 역시 전주보다 53.98포인트(7.72%) 내린 645.68로 마감했습니다. 코스피는 지난주 첫 거래일인 16일과 17일 각각 190.03포인트(3.59%)와 132.02포인트(2.5...",
-          "contentSnippet": "11월 20일 코스피 종가가 표시된 하나은행 본점 딜링룸[연합뉴스 자료사진. 재판매 및 DB 금지][연합뉴스 자료사진. 재판매 및 DB 금지] 지난 20일 코스피는 전주보다 420.57포인트(7.95%) 내린 4,869.96으로 장을 마쳤습니다. 코스닥 지수 역시 전주보다 53.98포인트(7.72%) 내린 645.68로 마감했습니다. 코스피는 지난주 첫 거래일인 16일과 17일 각각 190.03포인트(3.59%)와 132.02포인트(2.5...",
-          "guid": "AKR20261122093841HRt",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261122195110AXk#comments",
+          "content": "[앵커] AI 업계에 악재가 잇따르면서 투자 불확실성이 커지고 있습니다. 엔비디아의 경영진 리스크에 미국 정부의 규제 강화 움직임까지 겹치면서 국내 반도체 업계에 미칠 영향에도 관심이 쏠리고 있습니다. 정다예 기자입니다. [기자] 불륜 스캔들로 자리에서 물러난 젠슨 황 전 엔비디아 CEO. 잇단 추가 불륜 의혹에, 미국 증권거래위원회의 회계 조사 사실까지 드러나며 논란은 연일 커지는 모양새입니다. AI 열풍을 이끈 핵심 기업이 흔들리며 반...",
+          "contentSnippet": "[앵커] AI 업계에 악재가 잇따르면서 투자 불확실성이 커지고 있습니다. 엔비디아의 경영진 리스크에 미국 정부의 규제 강화 움직임까지 겹치면서 국내 반도체 업계에 미칠 영향에도 관심이 쏠리고 있습니다. 정다예 기자입니다. [기자] 불륜 스캔들로 자리에서 물러난 젠슨 황 전 엔비디아 CEO. 잇단 추가 불륜 의혹에, 미국 증권거래위원회의 회계 조사 사실까지 드러나며 논란은 연일 커지는 모양새입니다. AI 열풍을 이끈 핵심 기업이 흔들리며 반...",
+          "guid": "MYH20261122195110AXk",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-22T00:38:41.000Z"
+          "isoDate": "2026-11-22T10:51:11.000Z"
         },
         {
-          "creator": "윤솔",
-          "title": "'치매 의심' 판정받아도 10명 중 3명 검사 안 받는다",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261122093712ptz",
-          "pubDate": "Sun, 22 Nov 2026 09:37:14 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261122/AKR20261122093712ptz_01_i.jpg\" alt=\"\"><span class=\"yna_title\">치매안심센터</span><span class=\"yna_caption\">[연합뉴스 자료사진]</span><span class=\"yna_description\">[연합뉴스 자료사진]</span></div>\n치매안심센터 선별검사에서 인지기능 저하로 치매가 의심된 사람 10명 가운데 3명은 후속 진단검사를 받지 않은 것으로 나타났습니다.\n\n보건복지부에 따르면 전국 치매안심센터는 치매 환자를 일찍 찾아내기 위해 1단계 선별검사를 하고, 이 가운데 치매가 의심되는 사람을 대상으로 진단검사와 감별검사를 하고 있습니다.\n\n국회예산정책처의 '치매 지원 정책·사업 평가' 결과, 치매안심센터는 지난 2024년 528만 1,563명에게 선별검사를 해 83만 1,009명의 인지기능 저하자를 찾아냈습니다.\n\n선별검사를 받은 사람의 15.7% 정도입니다.\n\n이후 진단검사를 통해 경도인지장애 21만 5,444명과 치매 환자 28만 8,470명을 진단했습니다.\n\n경도인지장애는 아직 치매는 아니지만 기억력과 언어능력 등 인지기능이 뚜렷하게 떨어진 상태로, 이 가운데 10%에서 15%가 치매로 진행되는 것으로 알려져 있습니다.\n\n그러나 인지기능 저하자 가운데 진단검사를 받은 사람은 58만 5,023명으로, 수검률이 70.4%에 머물렀습니다.\n\n또 지역별로는 진단검사를 받은 비율은 서울이 94.5%인 반면 대구는 40.9%에 그쳐 지역 간 격차도 컸습니다.\n\n예산정책처는 \"선별에서 진단으로의 연계율이 충분히 높지 못할 경우 치매 조기 검진, 진단, 등록, 서비스 간의 연계 구조에 악영향을 초래할 수 있다\"고 짚었습니다.\n\n#치매안심센터 #보건복지부\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤솔(solemio@yna.co.kr)",
-          "content:encodedSnippet": "치매안심센터[연합뉴스 자료사진][연합뉴스 자료사진]\n치매안심센터 선별검사에서 인지기능 저하로 치매가 의심된 사람 10명 가운데 3명은 후속 진단검사를 받지 않은 것으로 나타났습니다.\n\n보건복지부에 따르면 전국 치매안심센터는 치매 환자를 일찍 찾아내기 위해 1단계 선별검사를 하고, 이 가운데 치매가 의심되는 사람을 대상으로 진단검사와 감별검사를 하고 있습니다.\n\n국회예산정책처의 '치매 지원 정책·사업 평가' 결과, 치매안심센터는 지난 2024년 528만 1,563명에게 선별검사를 해 83만 1,009명의 인지기능 저하자를 찾아냈습니다.\n\n선별검사를 받은 사람의 15.7% 정도입니다.\n\n이후 진단검사를 통해 경도인지장애 21만 5,444명과 치매 환자 28만 8,470명을 진단했습니다.\n\n경도인지장애는 아직 치매는 아니지만 기억력과 언어능력 등 인지기능이 뚜렷하게 떨어진 상태로, 이 가운데 10%에서 15%가 치매로 진행되는 것으로 알려져 있습니다.\n\n그러나 인지기능 저하자 가운데 진단검사를 받은 사람은 58만 5,023명으로, 수검률이 70.4%에 머물렀습니다.\n\n또 지역별로는 진단검사를 받은 비율은 서울이 94.5%인 반면 대구는 40.9%에 그쳐 지역 간 격차도 컸습니다.\n\n예산정책처는 \"선별에서 진단으로의 연계율이 충분히 높지 못할 경우 치매 조기 검진, 진단, 등록, 서비스 간의 연계 구조에 악영향을 초래할 수 있다\"고 짚었습니다.\n\n#치매안심센터 #보건복지부\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤솔(solemio@yna.co.kr)",
+          "creator": "김민아",
+          "title": "이 대통령 \"업자와 결탁했다면 1,100억 더 받았겠나\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261122193044UYD",
+          "pubDate": "Sun, 22 Nov 2026 19:30:47 +0900",
+          "content:encoded": "이재명 대통령이 대장동 개발사업과 관련해 \"업자와 결탁된 시장이라면 할 수 없는 행동\"이라며 배임 의혹을 재차 반박했습니다.\n\n이 대통령은 오늘(22일) 자신의 SNS에 관련 게시물을 공유하고, \"성남시 몫 이익 4,300억 원을 선확정 보장하는 조건으로 사업자를 선정\"했다며 이같이 밝혔습니다.\n\n이어 \"부동산 시장이 개선되자 업자들에게 1,100억 원을 추가 부담시켰다\"고 부연했습니다.\n\n이 대통령은 앞서 지난 20일에도 대장동 개발업자 정민용 변호사의 인터뷰 영상을 공유하며 \"5,500억 원을 공익환수한 게 배임죄라면, 개발이익을 민간업자가 모두 취득하는 개발허가는 어찌 되는 거냐\"고 지적했습니다.\n\n#대장동 #이재명대통령 #횡령배임의혹 #공익환수\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김민아(goldmina@yna.co.kr)",
+          "content:encodedSnippet": "이재명 대통령이 대장동 개발사업과 관련해 \"업자와 결탁된 시장이라면 할 수 없는 행동\"이라며 배임 의혹을 재차 반박했습니다.\n\n이 대통령은 오늘(22일) 자신의 SNS에 관련 게시물을 공유하고, \"성남시 몫 이익 4,300억 원을 선확정 보장하는 조건으로 사업자를 선정\"했다며 이같이 밝혔습니다.\n\n이어 \"부동산 시장이 개선되자 업자들에게 1,100억 원을 추가 부담시켰다\"고 부연했습니다.\n\n이 대통령은 앞서 지난 20일에도 대장동 개발업자 정민용 변호사의 인터뷰 영상을 공유하며 \"5,500억 원을 공익환수한 게 배임죄라면, 개발이익을 민간업자가 모두 취득하는 개발허가는 어찌 되는 거냐\"고 지적했습니다.\n\n#대장동 #이재명대통령 #횡령배임의혹 #공익환수\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김민아(goldmina@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261122/AKR20261122093712ptz_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261122/MYH20261122193044UYD.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "윤솔",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261122093712ptz#comments",
-          "content": "치매안심센터[연합뉴스 자료사진][연합뉴스 자료사진] 치매안심센터 선별검사에서 인지기능 저하로 치매가 의심된 사람 10명 가운데 3명은 후속 진단검사를 받지 않은 것으로 나타났습니다. 보건복지부에 따르면 전국 치매안심센터는 치매 환자를 일찍 찾아내기 위해 1단계 선별검사를 하고, 이 가운데 치매가 의심되는 사람을 대상으로 진단검사와 감별검사를 하고 있습니다. 국회예산정책처의 '치매 지원 정책·사업 평가' 결과, 치매안심센터는 지난 2024년...",
-          "contentSnippet": "치매안심센터[연합뉴스 자료사진][연합뉴스 자료사진] 치매안심센터 선별검사에서 인지기능 저하로 치매가 의심된 사람 10명 가운데 3명은 후속 진단검사를 받지 않은 것으로 나타났습니다. 보건복지부에 따르면 전국 치매안심센터는 치매 환자를 일찍 찾아내기 위해 1단계 선별검사를 하고, 이 가운데 치매가 의심되는 사람을 대상으로 진단검사와 감별검사를 하고 있습니다. 국회예산정책처의 '치매 지원 정책·사업 평가' 결과, 치매안심센터는 지난 2024년...",
-          "guid": "AKR20261122093712ptz",
+          "dc:creator": "김민아",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261122193044UYD#comments",
+          "content": "이재명 대통령이 대장동 개발사업과 관련해 \"업자와 결탁된 시장이라면 할 수 없는 행동\"이라며 배임 의혹을 재차 반박했습니다. 이 대통령은 오늘(22일) 자신의 SNS에 관련 게시물을 공유하고, \"성남시 몫 이익 4,300억 원을 선확정 보장하는 조건으로 사업자를 선정\"했다며 이같이 밝혔습니다. 이어 \"부동산 시장이 개선되자 업자들에게 1,100억 원을 추가 부담시켰다\"고 부연했습니다. 이 대통령은 앞서 지난 20일에도 대장동 개발업자 정민...",
+          "contentSnippet": "이재명 대통령이 대장동 개발사업과 관련해 \"업자와 결탁된 시장이라면 할 수 없는 행동\"이라며 배임 의혹을 재차 반박했습니다. 이 대통령은 오늘(22일) 자신의 SNS에 관련 게시물을 공유하고, \"성남시 몫 이익 4,300억 원을 선확정 보장하는 조건으로 사업자를 선정\"했다며 이같이 밝혔습니다. 이어 \"부동산 시장이 개선되자 업자들에게 1,100억 원을 추가 부담시켰다\"고 부연했습니다. 이 대통령은 앞서 지난 20일에도 대장동 개발업자 정민...",
+          "guid": "MYH20261122193044UYD",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-22T00:37:14.000Z"
+          "isoDate": "2026-11-22T10:30:47.000Z"
         },
         {
-          "creator": "정다예",
-          "title": "\"대전 1억·대구 6천\"…수도권도 억대 부담금 예고",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261122093641yH9",
-          "pubDate": "Sun, 22 Nov 2026 09:36:44 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261122/AKR20261122093641yH9_01_i.jpg\" alt=\"\"><span class=\"yna_title\">아파트 단지</span><span class=\"yna_caption\">[연합뉴스 자료사진]</span><span class=\"yna_description\">[연합뉴스 자료사진]</span></div>\n\n\n재건축 초과이익환수(이하 재초환) 부담금 부과가 본격화되면서 서울은 물론 지방과 수도권의 재건축 단지들도 비상이 걸렸습니다.\n\n정비업계에 따르면 현재 서울은 물론 지방과 수도권에서도 수천만원에서 억대의 재건축 부담금이 부과될 것으로 조사됐습니다.\n\n대전시 용문동 1·2·3구역 단독주택 재건축 단지(현 둔산 더샵 엘리프) 조합은 현재 2024년 개정된 완화 법안을 적용해도 재건축 부담금이 조합원 1인당 최소 1억원 안팎은 나올 것으로 보고 있습니다.\n\n서울은 1억∼7억원대 부담금 부과가 예고돼 있지만 지방에서는 이례적으로 높은 금액입니다.\n\n현재 대전 서구청은 조합에 관련 서류 제출을 요구하고 한국부동산원에 의뢰해 부담금 산출에 착수했습니다.\n\n조합의 서류 제출 등이 예정대로 마무리되면 내년 상반기에 실제 부과에 나선다는 방침입니다.\n\n대구에도 수천만원대 부담금이 예고돼 있습니다.\n\n대구 수성구 범어우방1차(현 범어아이파크 1차) 재건축 조합측은 감면안을 적용해도 예상 재건축 부담금이 가구당 6천만원에 달할 것으로 보고 있습니다.\n\n수도권도 상황은 비슷합니다.\n\n국민의힘 권영진 의원실이 경기도로부터 제출받은 자료에 따르면 수원 영통2구역, 과천 주공4단지와 주공5단지, 주공8·9단지, 광명시 철산 주공8·9단지 등은 사업시행인가때 억대 부담금이 통보됐습니다.\n\n앞으로 실제 부과액은 준공 시점의 시세 수준에 따라 다를 것으로 예상되지만 조합원들은 \"공사비 상승으로 추가 분담금 내기도 버거운데 재건축 부담금까지 내면 십수 년간 재건축으로 고생하고 정작 입주도 못 한 채 집을 팔아야 한다\"며 반발하고 있습니다.\n\n안양시 만안구 진흥아파트 재건축 조합(현 안양역 푸르지오 더샵)은 당초 사업시행인가 당시 부담금이 없을 것으로 예상됐지만 올해 8월 입주 시점의 가격이 높아지면서 가구당 2천만원가량이 부과될 것으로 점쳐지고 있습니다.\n\n전문가들은 앞으로 분당·평촌·산본·일산 등 1기 신도시 재건축 사업에도 재초환 부담금 문제가 사업추진에 걸림돌이 될 것으로 전망합니다.\n\n1기 신도시는 노후계획도시정비특별법에 따른 특별정비구역으로 지정되면 국토계획법상 용적률 최대한도의 150%(최대 450%)까지 높일 수 있고, 서울에 비해 상대적으로 기부채납 비율도 낮아 재건축 부담금도 클 것이라는 관측이 나옵니다.\n\n#재초환 #부담금\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정다예(yeye@yna.co.kr)",
-          "content:encodedSnippet": "아파트 단지[연합뉴스 자료사진][연합뉴스 자료사진]\n\n\n재건축 초과이익환수(이하 재초환) 부담금 부과가 본격화되면서 서울은 물론 지방과 수도권의 재건축 단지들도 비상이 걸렸습니다.\n\n정비업계에 따르면 현재 서울은 물론 지방과 수도권에서도 수천만원에서 억대의 재건축 부담금이 부과될 것으로 조사됐습니다.\n\n대전시 용문동 1·2·3구역 단독주택 재건축 단지(현 둔산 더샵 엘리프) 조합은 현재 2024년 개정된 완화 법안을 적용해도 재건축 부담금이 조합원 1인당 최소 1억원 안팎은 나올 것으로 보고 있습니다.\n\n서울은 1억∼7억원대 부담금 부과가 예고돼 있지만 지방에서는 이례적으로 높은 금액입니다.\n\n현재 대전 서구청은 조합에 관련 서류 제출을 요구하고 한국부동산원에 의뢰해 부담금 산출에 착수했습니다.\n\n조합의 서류 제출 등이 예정대로 마무리되면 내년 상반기에 실제 부과에 나선다는 방침입니다.\n\n대구에도 수천만원대 부담금이 예고돼 있습니다.\n\n대구 수성구 범어우방1차(현 범어아이파크 1차) 재건축 조합측은 감면안을 적용해도 예상 재건축 부담금이 가구당 6천만원에 달할 것으로 보고 있습니다.\n\n수도권도 상황은 비슷합니다.\n\n국민의힘 권영진 의원실이 경기도로부터 제출받은 자료에 따르면 수원 영통2구역, 과천 주공4단지와 주공5단지, 주공8·9단지, 광명시 철산 주공8·9단지 등은 사업시행인가때 억대 부담금이 통보됐습니다.\n\n앞으로 실제 부과액은 준공 시점의 시세 수준에 따라 다를 것으로 예상되지만 조합원들은 \"공사비 상승으로 추가 분담금 내기도 버거운데 재건축 부담금까지 내면 십수 년간 재건축으로 고생하고 정작 입주도 못 한 채 집을 팔아야 한다\"며 반발하고 있습니다.\n\n안양시 만안구 진흥아파트 재건축 조합(현 안양역 푸르지오 더샵)은 당초 사업시행인가 당시 부담금이 없을 것으로 예상됐지만 올해 8월 입주 시점의 가격이 높아지면서 가구당 2천만원가량이 부과될 것으로 점쳐지고 있습니다.\n\n전문가들은 앞으로 분당·평촌·산본·일산 등 1기 신도시 재건축 사업에도 재초환 부담금 문제가 사업추진에 걸림돌이 될 것으로 전망합니다.\n\n1기 신도시는 노후계획도시정비특별법에 따른 특별정비구역으로 지정되면 국토계획법상 용적률 최대한도의 150%(최대 450%)까지 높일 수 있고, 서울에 비해 상대적으로 기부채납 비율도 낮아 재건축 부담금도 클 것이라는 관측이 나옵니다.\n\n#재초환 #부담금\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정다예(yeye@yna.co.kr)",
+          "creator": "이화영",
+          "title": "종묘 앞 재개발 갈등 장기화…해법 못 찾는 세운4구역",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261122192839qI3",
+          "pubDate": "Sun, 22 Nov 2026 19:28:40 +0900",
+          "content:encoded": "[앵커]\n\n유네스코 세계유산인 종묘 앞 재개발을 둘러싼 갈등이 깊어지고 있습니다.\n\n최근 서울시와 국가유산청은 세운4구역 안 매장유산 보존 방안 부결에 거듭 입장차를 확인했는데요.\n\n이화영 기자가 정리했습니다.\n\n[기자]\n\n서울시가 종묘 앞 세운4구역에 들어설 건물 높이를 기존 71.9m에서 최대 145m로 높이는 내용의 변경안을 고시한 건 지난해 10월.\n\n국가유산청은 즉각 유감을 표했고, 양측의 갈등은 1년 넘게 이어지고 있습니다.\n\n최근 재개발 사업 부지의 유적 보존 방안이 부결된 데 대해서도 양측은 책임을 서로에게 돌렸습니다.\n\n허민 국가유산청장은 \"사업 지연의 책임은 서울시와 서울주택도시개발공사에 있다\"며 \"사업시행자가 충분한 보존대책을 마련하지 못한 책임까지 국가유산청 탓으로 돌려서는 안 된다\"고 밝혔습니다.\n\n호준석 서울시 대변인은 \"국가유산청의 폭력적인 행정으로 또다시 사업이 기약 없이 지연됐다\"고 지적했습니다.\n\n앞서 오세훈 서울시장은 \"합법을 가장해서 사실상 행정적인 몽니를 부리고 있다\"고 비판했습니다.\n\n이번 부결로 세운4구역 재개발 사업은 당분간 추진이 어려워졌습니다.\n\n양측은 세계유산영향평가 이행을 두고도 평행선을 달리고 있습니다.\n\n&lt;허민 / 국가유산청장 (지난달 8일 국회 문체위 국정감사)&gt; \"세계유산영향평가는 개발과 보존의 균형점이기 때문에 그건 같이 맞춰서 돌아가는 겁니다.\"\n\n서울시는 국가유산청이 세계유산영향평가를 위해 뒤늦게 시행령을 개정하며 재개발을 막고 있다는 입장입니다.\n\n사업시행자인 서울주택도시개발공사는 세계유산영향평가 이행 명령에 반발하며 행정 소송까지 벌이는 상황.\n\n종묘 앞 재개발을 둘러싼 양측의 대립은 좀처럼 접점을 찾지 못하고 있습니다.\n\n연합뉴스TV 이화영입니다.\n\n[영상편집 김건영]\n\n[그래픽 강영진]\n\n[뉴스리뷰]\n\n#서울시 #국가유산청 #종묘 #세운4구역\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이화영(hwa@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n유네스코 세계유산인 종묘 앞 재개발을 둘러싼 갈등이 깊어지고 있습니다.\n\n최근 서울시와 국가유산청은 세운4구역 안 매장유산 보존 방안 부결에 거듭 입장차를 확인했는데요.\n\n이화영 기자가 정리했습니다.\n\n[기자]\n\n서울시가 종묘 앞 세운4구역에 들어설 건물 높이를 기존 71.9m에서 최대 145m로 높이는 내용의 변경안을 고시한 건 지난해 10월.\n\n국가유산청은 즉각 유감을 표했고, 양측의 갈등은 1년 넘게 이어지고 있습니다.\n\n최근 재개발 사업 부지의 유적 보존 방안이 부결된 데 대해서도 양측은 책임을 서로에게 돌렸습니다.\n\n허민 국가유산청장은 \"사업 지연의 책임은 서울시와 서울주택도시개발공사에 있다\"며 \"사업시행자가 충분한 보존대책을 마련하지 못한 책임까지 국가유산청 탓으로 돌려서는 안 된다\"고 밝혔습니다.\n\n호준석 서울시 대변인은 \"국가유산청의 폭력적인 행정으로 또다시 사업이 기약 없이 지연됐다\"고 지적했습니다.\n\n앞서 오세훈 서울시장은 \"합법을 가장해서 사실상 행정적인 몽니를 부리고 있다\"고 비판했습니다.\n\n이번 부결로 세운4구역 재개발 사업은 당분간 추진이 어려워졌습니다.\n\n양측은 세계유산영향평가 이행을 두고도 평행선을 달리고 있습니다.\n\n<허민 / 국가유산청장 (지난달 8일 국회 문체위 국정감사)> \"세계유산영향평가는 개발과 보존의 균형점이기 때문에 그건 같이 맞춰서 돌아가는 겁니다.\"\n\n서울시는 국가유산청이 세계유산영향평가를 위해 뒤늦게 시행령을 개정하며 재개발을 막고 있다는 입장입니다.\n\n사업시행자인 서울주택도시개발공사는 세계유산영향평가 이행 명령에 반발하며 행정 소송까지 벌이는 상황.\n\n종묘 앞 재개발을 둘러싼 양측의 대립은 좀처럼 접점을 찾지 못하고 있습니다.\n\n연합뉴스TV 이화영입니다.\n\n[영상편집 김건영]\n\n[그래픽 강영진]\n\n[뉴스리뷰]\n\n#서울시 #국가유산청 #종묘 #세운4구역\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이화영(hwa@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261122/AKR20261122093641yH9_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261122/MYH20261122192839qI3.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "정다예",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261122093641yH9#comments",
-          "content": "아파트 단지[연합뉴스 자료사진][연합뉴스 자료사진] 재건축 초과이익환수(이하 재초환) 부담금 부과가 본격화되면서 서울은 물론 지방과 수도권의 재건축 단지들도 비상이 걸렸습니다. 정비업계에 따르면 현재 서울은 물론 지방과 수도권에서도 수천만원에서 억대의 재건축 부담금이 부과될 것으로 조사됐습니다. 대전시 용문동 1·2·3구역 단독주택 재건축 단지(현 둔산 더샵 엘리프) 조합은 현재 2024년 개정된 완화 법안을 적용해도 재건축 부담금이 조합...",
-          "contentSnippet": "아파트 단지[연합뉴스 자료사진][연합뉴스 자료사진] 재건축 초과이익환수(이하 재초환) 부담금 부과가 본격화되면서 서울은 물론 지방과 수도권의 재건축 단지들도 비상이 걸렸습니다. 정비업계에 따르면 현재 서울은 물론 지방과 수도권에서도 수천만원에서 억대의 재건축 부담금이 부과될 것으로 조사됐습니다. 대전시 용문동 1·2·3구역 단독주택 재건축 단지(현 둔산 더샵 엘리프) 조합은 현재 2024년 개정된 완화 법안을 적용해도 재건축 부담금이 조합...",
-          "guid": "AKR20261122093641yH9",
+          "dc:creator": "이화영",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261122192839qI3#comments",
+          "content": "[앵커] 유네스코 세계유산인 종묘 앞 재개발을 둘러싼 갈등이 깊어지고 있습니다. 최근 서울시와 국가유산청은 세운4구역 안 매장유산 보존 방안 부결에 거듭 입장차를 확인했는데요. 이화영 기자가 정리했습니다. [기자] 서울시가 종묘 앞 세운4구역에 들어설 건물 높이를 기존 71.9m에서 최대 145m로 높이는 내용의 변경안을 고시한 건 지난해 10월. 국가유산청은 즉각 유감을 표했고, 양측의 갈등은 1년 넘게 이어지고 있습니다. 최근 재개발 ...",
+          "contentSnippet": "[앵커] 유네스코 세계유산인 종묘 앞 재개발을 둘러싼 갈등이 깊어지고 있습니다. 최근 서울시와 국가유산청은 세운4구역 안 매장유산 보존 방안 부결에 거듭 입장차를 확인했는데요. 이화영 기자가 정리했습니다. [기자] 서울시가 종묘 앞 세운4구역에 들어설 건물 높이를 기존 71.9m에서 최대 145m로 높이는 내용의 변경안을 고시한 건 지난해 10월. 국가유산청은 즉각 유감을 표했고, 양측의 갈등은 1년 넘게 이어지고 있습니다. 최근 재개발 ...",
+          "guid": "MYH20261122192839qI3",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-22T00:36:44.000Z"
+          "isoDate": "2026-11-22T10:28:40.000Z"
         },
         {
-          "creator": "정다예",
-          "title": "다음달 강남 첫 재초환 부담금…서울 52개 단지 1억1천만원씩",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR2026112209360268U",
-          "pubDate": "Sun, 22 Nov 2026 09:36:05 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261122/AKR2026112209360268U_01_i.jpg\" alt=\"\"><span class=\"yna_title\">강남 재건축 덮친 재초환</span><span class=\"yna_caption\">(서울=연합뉴스) 임화영 기자 = 서울 서초구가 지난 9일 강남권 재건축초과이익환수(재초환) 1호 단지인 반포현대(현 반포센트레빌아스테리움)에 179억원 규모의 재초환 부담금 예정액을 통지하면서 부동산 시장에도 관련 부담이 본격적으로 부상할 전망이다. 현재까지 재초환 부담금이 실제 부과된 사례는 없고 국회에서 제도 존폐를 포함해 개선 방안을 논의하는 상황이지만 시장에서는 주택 공급 위축 우려가 나온다.\n사진은 13일 서울 서초구 반포센트레빌아스테리움. 2026.11.13 hwayoung7@yna.co.kr</span><span class=\"yna_description\">(서울=연합뉴스) 임화영 기자 = 서울 서초구가 지난 9일 강남권 재건축초과이익환수(재초환) 1호 단지인 반포현대(현 반포센트레빌아스테리움)에 179억원 규모의 재초환 부담금 예정액을 통지하면서 부동산 시장에도 관련 부담이 본격적으로 부상할 전망이다. 현재까지 재초환 부담금이 실제 부과된 사례는 없고 국회에서 제도 존폐를 포함해 개선 방안을 논의하는 상황이지만 시장에서는 주택 공급 위축 우려가 나온다.\n사진은 13일 서울 서초구 반포센트레빌아스테리움. 2026.11.13 hwayoung7@yna.co.kr</span></div>\n\n\n국회 행정안전위원회 소속 국민의힘 권영진 의원이 서울시로부터 받은 자료에 따르면 올해 8월 기준 서울에서 재건축초과이익환수(재초환) 예상 금액을 통보받은 단지는 52개입니다.\n\n단지별 부담금 규모 기준으로 서초 반포3주구가 약 5,149억원으로 가장 큽니다.\n\n용산 한강맨션(4,723억원), 영등포 신길10단지(1,605억원), 영등포 여의도 한양(1,300억원), 강남 도곡개포한신(1,067억원) 등이 뒤를 이었습니다.\n\n조합원 1인당 예상되는 평균 부담액은 용산 한강맨션(7억 2천만원), 강남 은하수(3억 8천만원), 반포3주구(3억 5천만원), 영등포 신길10단지(2억 8천만원) 등의 순으로 나타났습니다.\n\n자치구별 보유 단지는 서초(9개), 영등포·송파(각 8개), 강남(7개), 강서(5개), 구로(3개), 용산·성동·강동·서대문(각 2개), 금천·동대문·마포·강북(각 1개)의 순으로 나타났습니다.\n\n다음달 반포현대(현 센트레빌아스테리움)를 시작으로 남은 단지들에도 순차적으로 재초환 부담금 부과가 이뤄질 전망입니다.\n\n52개 단지의 예상 부담금 총액 2조 3,552억원을 전체 조합원 수 2만 940명으로 나누면 서울 아파트에 살다가 재건축에 참여하는 조합원은 1인당 평균 1억1천만원의 부담금을 내야 하는 셈입니다.\n\n서울시 자료에 나온 예상 금액은 대부분 단지가 준공되기 전이거나 재초환법 개정(2023년 12월) 전을 기준으로 한 것임을 고려하면 실제 부과 시점에는 금액이 더 올라갈 가능성도 있습니다.\n\n이번에 1인당 약 2억 2천만원의 예상 부담금이 통보된 반포현대는 2018년 최초 산정 당시 지금 보다 1인당 약 8천만원 정도 낮은 1억 4천만원을 통보받은 바 있습니다.\n\n#강남 #재초환\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정다예(yeye@yna.co.kr)",
-          "content:encodedSnippet": "강남 재건축 덮친 재초환(서울=연합뉴스) 임화영 기자 = 서울 서초구가 지난 9일 강남권 재건축초과이익환수(재초환) 1호 단지인 반포현대(현 반포센트레빌아스테리움)에 179억원 규모의 재초환 부담금 예정액을 통지하면서 부동산 시장에도 관련 부담이 본격적으로 부상할 전망이다. 현재까지 재초환 부담금이 실제 부과된 사례는 없고 국회에서 제도 존폐를 포함해 개선 방안을 논의하는 상황이지만 시장에서는 주택 공급 위축 우려가 나온다.\n사진은 13일 서울 서초구 반포센트레빌아스테리움. 2026.11.13 hwayoung7@yna.co.kr(서울=연합뉴스) 임화영 기자 = 서울 서초구가 지난 9일 강남권 재건축초과이익환수(재초환) 1호 단지인 반포현대(현 반포센트레빌아스테리움)에 179억원 규모의 재초환 부담금 예정액을 통지하면서 부동산 시장에도 관련 부담이 본격적으로 부상할 전망이다. 현재까지 재초환 부담금이 실제 부과된 사례는 없고 국회에서 제도 존폐를 포함해 개선 방안을 논의하는 상황이지만 시장에서는 주택 공급 위축 우려가 나온다.\n사진은 13일 서울 서초구 반포센트레빌아스테리움. 2026.11.13 hwayoung7@yna.co.kr\n\n\n국회 행정안전위원회 소속 국민의힘 권영진 의원이 서울시로부터 받은 자료에 따르면 올해 8월 기준 서울에서 재건축초과이익환수(재초환) 예상 금액을 통보받은 단지는 52개입니다.\n\n단지별 부담금 규모 기준으로 서초 반포3주구가 약 5,149억원으로 가장 큽니다.\n\n용산 한강맨션(4,723억원), 영등포 신길10단지(1,605억원), 영등포 여의도 한양(1,300억원), 강남 도곡개포한신(1,067억원) 등이 뒤를 이었습니다.\n\n조합원 1인당 예상되는 평균 부담액은 용산 한강맨션(7억 2천만원), 강남 은하수(3억 8천만원), 반포3주구(3억 5천만원), 영등포 신길10단지(2억 8천만원) 등의 순으로 나타났습니다.\n\n자치구별 보유 단지는 서초(9개), 영등포·송파(각 8개), 강남(7개), 강서(5개), 구로(3개), 용산·성동·강동·서대문(각 2개), 금천·동대문·마포·강북(각 1개)의 순으로 나타났습니다.\n\n다음달 반포현대(현 센트레빌아스테리움)를 시작으로 남은 단지들에도 순차적으로 재초환 부담금 부과가 이뤄질 전망입니다.\n\n52개 단지의 예상 부담금 총액 2조 3,552억원을 전체 조합원 수 2만 940명으로 나누면 서울 아파트에 살다가 재건축에 참여하는 조합원은 1인당 평균 1억1천만원의 부담금을 내야 하는 셈입니다.\n\n서울시 자료에 나온 예상 금액은 대부분 단지가 준공되기 전이거나 재초환법 개정(2023년 12월) 전을 기준으로 한 것임을 고려하면 실제 부과 시점에는 금액이 더 올라갈 가능성도 있습니다.\n\n이번에 1인당 약 2억 2천만원의 예상 부담금이 통보된 반포현대는 2018년 최초 산정 당시 지금 보다 1인당 약 8천만원 정도 낮은 1억 4천만원을 통보받은 바 있습니다.\n\n#강남 #재초환\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정다예(yeye@yna.co.kr)",
+          "creator": "서승택",
+          "title": "인천 구월동서 수도관 파열…6시간 반 만에 복구",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261122192729KqC",
+          "pubDate": "Sun, 22 Nov 2026 19:27:31 +0900",
+          "content:encoded": "오늘(22일) 오전 7시 21분쯤 인천시 남동구 구월동의 한 골목길에 매립된 상수도관이 파열돼 도로가 침수됐습니다.\n\n상수도관이 파열되면서 물이 건물 2층 높이까지 솟구쳤고, 흘러나온 물은 주변 도로에 고였습니다.\n\n신고를 받고 출동한 경찰과 소방 당국은 주변을 통제한 뒤 안전조치에 나섰습니다.\n\n인천시 상수도사업본부 남동부수도사업소는 노후 상수도관이 수압을 견디지 못해 파열된 것으로 보고 상수도관을 교체했습니다.\n\n수돗물 공급은 사고 6시간 반 만인 오후 2시쯤 재개됐습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n서승택(taxi226@yna.co.kr)",
+          "content:encodedSnippet": "오늘(22일) 오전 7시 21분쯤 인천시 남동구 구월동의 한 골목길에 매립된 상수도관이 파열돼 도로가 침수됐습니다.\n\n상수도관이 파열되면서 물이 건물 2층 높이까지 솟구쳤고, 흘러나온 물은 주변 도로에 고였습니다.\n\n신고를 받고 출동한 경찰과 소방 당국은 주변을 통제한 뒤 안전조치에 나섰습니다.\n\n인천시 상수도사업본부 남동부수도사업소는 노후 상수도관이 수압을 견디지 못해 파열된 것으로 보고 상수도관을 교체했습니다.\n\n수돗물 공급은 사고 6시간 반 만인 오후 2시쯤 재개됐습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n서승택(taxi226@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261122/AKR2026112209360268U_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261122/MYH20261122192729KqC.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "정다예",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR2026112209360268U#comments",
-          "content": "강남 재건축 덮친 재초환(서울=연합뉴스) 임화영 기자 = 서울 서초구가 지난 9일 강남권 재건축초과이익환수(재초환) 1호 단지인 반포현대(현 반포센트레빌아스테리움)에 179억원 규모의 재초환 부담금 예정액을 통지하면서 부동산 시장에도 관련 부담이 본격적으로 부상할 전망이다. 현재까지 재초환 부담금이 실제 부과된 사례는 없고 국회에서 제도 존폐를 포함해 개선 방안을 논의하는 상황이지만 시장에서는 주택 공급 위축 우려가 나온다. 사진은 13일...",
-          "contentSnippet": "강남 재건축 덮친 재초환(서울=연합뉴스) 임화영 기자 = 서울 서초구가 지난 9일 강남권 재건축초과이익환수(재초환) 1호 단지인 반포현대(현 반포센트레빌아스테리움)에 179억원 규모의 재초환 부담금 예정액을 통지하면서 부동산 시장에도 관련 부담이 본격적으로 부상할 전망이다. 현재까지 재초환 부담금이 실제 부과된 사례는 없고 국회에서 제도 존폐를 포함해 개선 방안을 논의하는 상황이지만 시장에서는 주택 공급 위축 우려가 나온다. 사진은 13일...",
-          "guid": "AKR2026112209360268U",
+          "dc:creator": "서승택",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261122192729KqC#comments",
+          "content": "오늘(22일) 오전 7시 21분쯤 인천시 남동구 구월동의 한 골목길에 매립된 상수도관이 파열돼 도로가 침수됐습니다. 상수도관이 파열되면서 물이 건물 2층 높이까지 솟구쳤고, 흘러나온 물은 주변 도로에 고였습니다. 신고를 받고 출동한 경찰과 소방 당국은 주변을 통제한 뒤 안전조치에 나섰습니다. 인천시 상수도사업본부 남동부수도사업소는 노후 상수도관이 수압을 견디지 못해 파열된 것으로 보고 상수도관을 교체했습니다. 수돗물 공급은 사고 6시간 반...",
+          "contentSnippet": "오늘(22일) 오전 7시 21분쯤 인천시 남동구 구월동의 한 골목길에 매립된 상수도관이 파열돼 도로가 침수됐습니다. 상수도관이 파열되면서 물이 건물 2층 높이까지 솟구쳤고, 흘러나온 물은 주변 도로에 고였습니다. 신고를 받고 출동한 경찰과 소방 당국은 주변을 통제한 뒤 안전조치에 나섰습니다. 인천시 상수도사업본부 남동부수도사업소는 노후 상수도관이 수압을 견디지 못해 파열된 것으로 보고 상수도관을 교체했습니다. 수돗물 공급은 사고 6시간 반...",
+          "guid": "MYH20261122192729KqC",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-22T00:36:05.000Z"
+          "isoDate": "2026-11-22T10:27:31.000Z"
         },
         {
-          "creator": "정다예",
-          "title": "한은 올해 성장 눈높이 3%대 후반 전망…\"내년 더 올릴 수도\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261122093227Glj",
-          "pubDate": "Sun, 22 Nov 2026 09:32:28 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261122/AKR20261122093227Glj_01_i.jpg\" alt=\"\"><span class=\"yna_title\">의사봉 두드리는 신현송 한국은행 총재</span><span class=\"yna_caption\">(서울=연합뉴스) 신현송 한국은행 총재가 22일 서울 중구 한국은행에서 열린 금융통화위원회 회의에서 의사봉을 두드리고 있다. 2026.10.22 [사진공동취재단] photo@yna.co.kr</span><span class=\"yna_description\">(서울=연합뉴스) 신현송 한국은행 총재가 22일 서울 중구 한국은행에서 열린 금융통화위원회 회의에서 의사봉을 두드리고 있다. 2026.10.22 [사진공동취재단] photo@yna.co.kr</span></div>\n\n\n한국은행이 오는 26일 발표하는 수정 경제전망에서 올해 실질 국내총생산(GDP) 성장률 전망치를 기존 3.3%에서 3%대 후반으로 높일 것으로 예상됩니다.\n\n연합뉴스가 경제 전문가 6명을 대상으로 설문 조사한 결과, 전문가들은 모두 한은이 올해 성장률 전망치를 기존 3.3%에서 3%대 후반으로 높일 것으로 예상했습니다.\n\n전문가 대다수는 기존 2.9%로 전망됐던 내년 성장률 역시 3%대로 상향 조정될 것으로 내다봤습니다.\n\n특히 2명은 내년 성장률이 올해보다 높을 것으로 예상했습니다.\n\n안예하 키움증권 선임연구원은 올해 3%대 후반, 내년 3%대 초반의 성장률을 예상하면서 \"인공지능(AI) 투자 확대에 따른 반도체 수출 호조가 지속되는 가운데, 기업 실적 개선과 성과급 지급 등에 따른 내수 회복이 성장세를 뒷받침할 전망\"이라고 말했습니다.\n\n조영무 NH금융연구소장도 반도체 경기 확장과 정부 재정지출 확대를 근거로 올해 3%대 후반, 내년 3%대 초반의 성장률을 전망했습니다.\n\n반도체 가격 급등이 내년 경제성장률을 3%대 중반 이상으로 높이는 요인으로 작용할 수 있다는 분석도 나왔습니다.\n\n한은은 실질 GDP를 산출할 때 전년도 가격을 가중치로 적용하는 연쇄가중법을 사용하는데, 올해 반도체 가격이 크게 오르면서 내년 성장률 산정 과정에서 반도체 산업의 가중치가 높아지게 됩니다.\n\n장민 한국금융연구원 선임연구위원은 반도체 수출 확대와 연쇄가중법의 영향 등을 고려해 올해 3%대 후반, 내년 3%대 중반의 성장률을 전망했습니다.\n\n안재균 한국투자증권 연구위원은 올해 3.6%, 내년 3.7%, 박정우 노무라증권 이코노미스트는 올해 3.7%, 내년 3.9%로 올해보다 내년 성장률이 높을 것으로 예상했습니다.\n\n안 연구위원은 \"반도체 메가 사이클 속 기업과 정부의 수입이 늘면서 하반기부터 설비투자 증가세, 수출과 투자 회복으로 연간 3%대 성장률 2년 연속 달성이 예상된다\"고 말했습니다.\n\n박 이코노미스트는 \"반도체 경기 확장세가 지속되는 가운데 한은이 낙수효과를 낙관적으로 보고 있다\"며 \"정부의 재정지출 증가 및 건설 경기 회복과 더불어 올해보다 내년이 소비가 더 좋을 것으로 전망할 것\"이라고 예상했습니다.\n\n전문가들은 반도체 경기 확장세가 적어도 내년까지는 이어질 것이라고 내다봤습니다.\n\n올해 소비자물가 상승률 전망치는 지난 8월 제시한 2.7% 수준을 유지하거나 소폭 높아질 것으로 예상됐습니다.\n\n#한국은행 #GDP #성장률\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정다예(yeye@yna.co.kr)",
-          "content:encodedSnippet": "의사봉 두드리는 신현송 한국은행 총재(서울=연합뉴스) 신현송 한국은행 총재가 22일 서울 중구 한국은행에서 열린 금융통화위원회 회의에서 의사봉을 두드리고 있다. 2026.10.22 [사진공동취재단] photo@yna.co.kr(서울=연합뉴스) 신현송 한국은행 총재가 22일 서울 중구 한국은행에서 열린 금융통화위원회 회의에서 의사봉을 두드리고 있다. 2026.10.22 [사진공동취재단] photo@yna.co.kr\n\n\n한국은행이 오는 26일 발표하는 수정 경제전망에서 올해 실질 국내총생산(GDP) 성장률 전망치를 기존 3.3%에서 3%대 후반으로 높일 것으로 예상됩니다.\n\n연합뉴스가 경제 전문가 6명을 대상으로 설문 조사한 결과, 전문가들은 모두 한은이 올해 성장률 전망치를 기존 3.3%에서 3%대 후반으로 높일 것으로 예상했습니다.\n\n전문가 대다수는 기존 2.9%로 전망됐던 내년 성장률 역시 3%대로 상향 조정될 것으로 내다봤습니다.\n\n특히 2명은 내년 성장률이 올해보다 높을 것으로 예상했습니다.\n\n안예하 키움증권 선임연구원은 올해 3%대 후반, 내년 3%대 초반의 성장률을 예상하면서 \"인공지능(AI) 투자 확대에 따른 반도체 수출 호조가 지속되는 가운데, 기업 실적 개선과 성과급 지급 등에 따른 내수 회복이 성장세를 뒷받침할 전망\"이라고 말했습니다.\n\n조영무 NH금융연구소장도 반도체 경기 확장과 정부 재정지출 확대를 근거로 올해 3%대 후반, 내년 3%대 초반의 성장률을 전망했습니다.\n\n반도체 가격 급등이 내년 경제성장률을 3%대 중반 이상으로 높이는 요인으로 작용할 수 있다는 분석도 나왔습니다.\n\n한은은 실질 GDP를 산출할 때 전년도 가격을 가중치로 적용하는 연쇄가중법을 사용하는데, 올해 반도체 가격이 크게 오르면서 내년 성장률 산정 과정에서 반도체 산업의 가중치가 높아지게 됩니다.\n\n장민 한국금융연구원 선임연구위원은 반도체 수출 확대와 연쇄가중법의 영향 등을 고려해 올해 3%대 후반, 내년 3%대 중반의 성장률을 전망했습니다.\n\n안재균 한국투자증권 연구위원은 올해 3.6%, 내년 3.7%, 박정우 노무라증권 이코노미스트는 올해 3.7%, 내년 3.9%로 올해보다 내년 성장률이 높을 것으로 예상했습니다.\n\n안 연구위원은 \"반도체 메가 사이클 속 기업과 정부의 수입이 늘면서 하반기부터 설비투자 증가세, 수출과 투자 회복으로 연간 3%대 성장률 2년 연속 달성이 예상된다\"고 말했습니다.\n\n박 이코노미스트는 \"반도체 경기 확장세가 지속되는 가운데 한은이 낙수효과를 낙관적으로 보고 있다\"며 \"정부의 재정지출 증가 및 건설 경기 회복과 더불어 올해보다 내년이 소비가 더 좋을 것으로 전망할 것\"이라고 예상했습니다.\n\n전문가들은 반도체 경기 확장세가 적어도 내년까지는 이어질 것이라고 내다봤습니다.\n\n올해 소비자물가 상승률 전망치는 지난 8월 제시한 2.7% 수준을 유지하거나 소폭 높아질 것으로 예상됐습니다.\n\n#한국은행 #GDP #성장률\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정다예(yeye@yna.co.kr)",
+          "creator": "정호윤",
+          "title": "멕시코 마약 거물 전격 체포…트럼프의 딴소리, 왜?",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH202611221927133gr",
+          "pubDate": "Sun, 22 Nov 2026 19:27:15 +0900",
+          "content:encoded": "[앵커]\n\n67억 원의 현상금이 걸린 멕시코의 마약 거물이 군사작전까지 벌인 끝에 전격 체포됐습니다.\n\n트럼프 미국 대통령은 FBI 수사망까지 해킹된 사태를 두고 대수롭지 않다는 반응을 보여 시선을 끌었습니다.\n\n주요 국제뉴스를 정호윤 기자가 전해드립니다.\n\n[기자]\n\n생방송을 하던 멕시코 취재진, 총소리가 격해지자 황급히 몸을 피합니다.\n\n간신히 차량 아래 몸을 숨긴 뒤엔 얼마나 위태로운 상황인지 격앙된 억양으로 전합니다.\n\n미국 연방수사국 FBI의 10대 지명수배자에도 올라있던 멕시코의 마약 큰 손이 멕시코군의 군사작전 끝에 체포됐습니다.\n\n조직원들이 격렬하게 저항하면서 총격전과 차량 방화는 물론 도로까지 봉쇄됐고 군인과 마약 조직원 등 11명이 숨졌습니다.\n\n체포된 마약 조직 우두머리에게 미 당국은 우리돈 67억 원의 현상금까지 걸어놨었는데, 이번 체포작전에 정보 지원도 한 것으로 알려졌습니다.\n\n미 FBI 범죄정보망이 해킹된 것으로 알려지면서 미 당국이 발칵 뒤집혔지만 정작 트럼프 대통령은 태연한 모습을 보였습니다.\n\n언론 인터뷰를 통해 \"좋은 일은 아니지만 늘 상황을 긍정적으로 보고 싶다\"며 쉽게 이해하기 힘든 말을 했습니다.\n\n해킹 사실은 확인하면서도 이번 사건으로 인한 부정적인 여파로부터 시선을 돌리려는 언급으로 해석됩니다.\n\n대수롭지 않다는 투의 트럼프의 말과 달리 최근 항공관제 시스템 장애에 이어 범죄 수사에 활용되는 핵심 정보망까지 외부 공격에 노출됐을 가능성이 제기되면서 미 당국엔 비상에 걸렸습니다.\n\n트럼프 대통령은 이란과 영구적인 합의를 하겠다는 의지를 밝혔습니다.\n\n자신의 임기가 끝난 뒤에도 지속될 수 있는 수준의 합의를 해야한다는 뜻으로 읽혀집니다.\n\n&lt;도널드 트럼프 / 미국 대통령 (Fox news 인터뷰) \"(이란과) 영구적인 합의를 이끌어 낼 겁니다. 그들이 핵무기를 보유하도록 내버려 두지 않을 것입니다.\"\n\n중간선거 참패 이후 트럼프 대통령은 이란에 대한 공격 재개 카드를 내려놓고 제재 강화로 이란의 붕괴를 기다린다는 관측이 제기됐습니다.\n\n이런 가운데 이란은 페르시아만 상공에서 미군의 F-16 전투기를 공격해 비상 착륙하게 했다고 주장했는데, 미군은 \"거짓\"이라고 일축했습니다.\n\n연합뉴스TV 정호윤입니다.\n\n[화면출처 Fox news]\n\n[영상편집 윤해남]\n\n[뉴스리뷰]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정호윤(ikarus@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n67억 원의 현상금이 걸린 멕시코의 마약 거물이 군사작전까지 벌인 끝에 전격 체포됐습니다.\n\n트럼프 미국 대통령은 FBI 수사망까지 해킹된 사태를 두고 대수롭지 않다는 반응을 보여 시선을 끌었습니다.\n\n주요 국제뉴스를 정호윤 기자가 전해드립니다.\n\n[기자]\n\n생방송을 하던 멕시코 취재진, 총소리가 격해지자 황급히 몸을 피합니다.\n\n간신히 차량 아래 몸을 숨긴 뒤엔 얼마나 위태로운 상황인지 격앙된 억양으로 전합니다.\n\n미국 연방수사국 FBI의 10대 지명수배자에도 올라있던 멕시코의 마약 큰 손이 멕시코군의 군사작전 끝에 체포됐습니다.\n\n조직원들이 격렬하게 저항하면서 총격전과 차량 방화는 물론 도로까지 봉쇄됐고 군인과 마약 조직원 등 11명이 숨졌습니다.\n\n체포된 마약 조직 우두머리에게 미 당국은 우리돈 67억 원의 현상금까지 걸어놨었는데, 이번 체포작전에 정보 지원도 한 것으로 알려졌습니다.\n\n미 FBI 범죄정보망이 해킹된 것으로 알려지면서 미 당국이 발칵 뒤집혔지만 정작 트럼프 대통령은 태연한 모습을 보였습니다.\n\n언론 인터뷰를 통해 \"좋은 일은 아니지만 늘 상황을 긍정적으로 보고 싶다\"며 쉽게 이해하기 힘든 말을 했습니다.\n\n해킹 사실은 확인하면서도 이번 사건으로 인한 부정적인 여파로부터 시선을 돌리려는 언급으로 해석됩니다.\n\n대수롭지 않다는 투의 트럼프의 말과 달리 최근 항공관제 시스템 장애에 이어 범죄 수사에 활용되는 핵심 정보망까지 외부 공격에 노출됐을 가능성이 제기되면서 미 당국엔 비상에 걸렸습니다.\n\n트럼프 대통령은 이란과 영구적인 합의를 하겠다는 의지를 밝혔습니다.\n\n자신의 임기가 끝난 뒤에도 지속될 수 있는 수준의 합의를 해야한다는 뜻으로 읽혀집니다.\n\n<도널드 트럼프 / 미국 대통령 (Fox news 인터뷰) \"(이란과) 영구적인 합의를 이끌어 낼 겁니다. 그들이 핵무기를 보유하도록 내버려 두지 않을 것입니다.\"\n\n중간선거 참패 이후 트럼프 대통령은 이란에 대한 공격 재개 카드를 내려놓고 제재 강화로 이란의 붕괴를 기다린다는 관측이 제기됐습니다.\n\n이런 가운데 이란은 페르시아만 상공에서 미군의 F-16 전투기를 공격해 비상 착륙하게 했다고 주장했는데, 미군은 \"거짓\"이라고 일축했습니다.\n\n연합뉴스TV 정호윤입니다.\n\n[화면출처 Fox news]\n\n[영상편집 윤해남]\n\n[뉴스리뷰]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정호윤(ikarus@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261122/AKR20261122093227Glj_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261122/MYH202611221927133gr.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "정다예",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261122093227Glj#comments",
-          "content": "의사봉 두드리는 신현송 한국은행 총재(서울=연합뉴스) 신현송 한국은행 총재가 22일 서울 중구 한국은행에서 열린 금융통화위원회 회의에서 의사봉을 두드리고 있다. 2026.10.22 [사진공동취재단] photo@yna.co.kr(서울=연합뉴스) 신현송 한국은행 총재가 22일 서울 중구 한국은행에서 열린 금융통화위원회 회의에서 의사봉을 두드리고 있다. 2026.10.22 [사진공동취재단] photo@yna.co.kr 한국은행이 오는 26일 발...",
-          "contentSnippet": "의사봉 두드리는 신현송 한국은행 총재(서울=연합뉴스) 신현송 한국은행 총재가 22일 서울 중구 한국은행에서 열린 금융통화위원회 회의에서 의사봉을 두드리고 있다. 2026.10.22 [사진공동취재단] photo@yna.co.kr(서울=연합뉴스) 신현송 한국은행 총재가 22일 서울 중구 한국은행에서 열린 금융통화위원회 회의에서 의사봉을 두드리고 있다. 2026.10.22 [사진공동취재단] photo@yna.co.kr 한국은행이 오는 26일 발...",
-          "guid": "AKR20261122093227Glj",
+          "dc:creator": "정호윤",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH202611221927133gr#comments",
+          "content": "[앵커] 67억 원의 현상금이 걸린 멕시코의 마약 거물이 군사작전까지 벌인 끝에 전격 체포됐습니다. 트럼프 미국 대통령은 FBI 수사망까지 해킹된 사태를 두고 대수롭지 않다는 반응을 보여 시선을 끌었습니다. 주요 국제뉴스를 정호윤 기자가 전해드립니다. [기자] 생방송을 하던 멕시코 취재진, 총소리가 격해지자 황급히 몸을 피합니다. 간신히 차량 아래 몸을 숨긴 뒤엔 얼마나 위태로운 상황인지 격앙된 억양으로 전합니다. 미국 연방수사국 FBI의...",
+          "contentSnippet": "[앵커] 67억 원의 현상금이 걸린 멕시코의 마약 거물이 군사작전까지 벌인 끝에 전격 체포됐습니다. 트럼프 미국 대통령은 FBI 수사망까지 해킹된 사태를 두고 대수롭지 않다는 반응을 보여 시선을 끌었습니다. 주요 국제뉴스를 정호윤 기자가 전해드립니다. [기자] 생방송을 하던 멕시코 취재진, 총소리가 격해지자 황급히 몸을 피합니다. 간신히 차량 아래 몸을 숨긴 뒤엔 얼마나 위태로운 상황인지 격앙된 억양으로 전합니다. 미국 연방수사국 FBI의...",
+          "guid": "MYH202611221927133gr",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-22T00:32:28.000Z"
-        },
-        {
-          "creator": "차승은",
-          "title": "김종청 경찰청장 임명…첫 시험대는 AI 부정행위",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261122092913gI3",
-          "pubDate": "Sun, 22 Nov 2026 09:29:16 +0900",
-          "content:encoded": "[앵커]\n\n김종철 경찰청장이 이재명 정부 첫 경찰청장으로 임명됐습니다.\n\n취임 후엔 흔들리는 경찰 조직을 수습하고 역량을 증명해야 할텐데요.\n\n최근 잇따라 의혹이 제기된 인공지능 부정행위 사태가 경찰 수장으로서 첫 시험대가 될 전망입니다.\n\n차승은 기자입니다.\n\n[기자]\n\n새 경찰 수장 앞에 놓인 1호 현안은 인공지능을 악용한 시험 부정행위입니다.\n\n앞서 김 청장은 인공지능 부정행위에 가담한 배후까지 추적하겠다며 강력 대응을 예고했습니다.\n\n&lt;김종철 / 경찰청장(지난 18일)&gt; \"불법 행위가 발생한다면 당사자는 물론 배후의 공모자나 조력자까지 끝까지 추적해 엄정하게 책임을 묻겠습니다.\"\n\n수사에서 부정행위에 직접 가담한 사람을 넘어 범행을 돕거나 장비를 유통·판매한 이들까지 밝혀낼 수 있을지가 관건입니다.\n\n경찰은 '리트 만점자' 고 이진우 씨 사망에도 사건을 종결하는 대신 수사를 이어가며 실체 규명에 강한 의지를 보이고 있습니다.\n\n세무사 시험 수석 합격자 한 모 씨에 대한 수사부터 최근 수능에서 적발된 부정행위자들에 대한 수사도 속도를 내고 있습니다.\n\n당면한 사건 수사뿐 아니라, 인공지능 등 첨단 기술을 악용한 신종 범죄에 경찰이 얼마나 선제적으로 대응할 수 있느냐도 과제입니다.\n\n청문회에서도 여야는 이 문제를 집중적으로 거론하며 대책 마련을 주문했습니다.\n\n&lt;윤건영 / 더불어민주당 의원(지난 18일)&gt; \"두발 세발 앞서가야 됩니다. AI를 이용한 커닝이라는 게 불과 10년 전, 5년 전에 상상이나 했겠습니까? 우리가 생각하는 그 이상, 상상 그 이상을 대응해주시길 바라고요.\"\n\n김 청장은 경찰청 미래치안정책국을 중심으로 관련 조직과 법령, 인력까지 선제적으로 정비할 계획입니다.\n\n인공지능 부정행위 수사 성과와 신종 범죄 대책이 새 경찰 수장의 첫 성적표가 될 전망입니다.\n\n연합뉴스TV 차승은입니다.\n\n[영상편집 박진희]\n\n#수능 #경찰청장 #김종철 #후보자 #AI부정행위 #리트 #세무사시험\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n차승은(chaletuno@yna.co.kr)",
-          "content:encodedSnippet": "[앵커]\n\n김종철 경찰청장이 이재명 정부 첫 경찰청장으로 임명됐습니다.\n\n취임 후엔 흔들리는 경찰 조직을 수습하고 역량을 증명해야 할텐데요.\n\n최근 잇따라 의혹이 제기된 인공지능 부정행위 사태가 경찰 수장으로서 첫 시험대가 될 전망입니다.\n\n차승은 기자입니다.\n\n[기자]\n\n새 경찰 수장 앞에 놓인 1호 현안은 인공지능을 악용한 시험 부정행위입니다.\n\n앞서 김 청장은 인공지능 부정행위에 가담한 배후까지 추적하겠다며 강력 대응을 예고했습니다.\n\n<김종철 / 경찰청장(지난 18일)> \"불법 행위가 발생한다면 당사자는 물론 배후의 공모자나 조력자까지 끝까지 추적해 엄정하게 책임을 묻겠습니다.\"\n\n수사에서 부정행위에 직접 가담한 사람을 넘어 범행을 돕거나 장비를 유통·판매한 이들까지 밝혀낼 수 있을지가 관건입니다.\n\n경찰은 '리트 만점자' 고 이진우 씨 사망에도 사건을 종결하는 대신 수사를 이어가며 실체 규명에 강한 의지를 보이고 있습니다.\n\n세무사 시험 수석 합격자 한 모 씨에 대한 수사부터 최근 수능에서 적발된 부정행위자들에 대한 수사도 속도를 내고 있습니다.\n\n당면한 사건 수사뿐 아니라, 인공지능 등 첨단 기술을 악용한 신종 범죄에 경찰이 얼마나 선제적으로 대응할 수 있느냐도 과제입니다.\n\n청문회에서도 여야는 이 문제를 집중적으로 거론하며 대책 마련을 주문했습니다.\n\n<윤건영 / 더불어민주당 의원(지난 18일)> \"두발 세발 앞서가야 됩니다. AI를 이용한 커닝이라는 게 불과 10년 전, 5년 전에 상상이나 했겠습니까? 우리가 생각하는 그 이상, 상상 그 이상을 대응해주시길 바라고요.\"\n\n김 청장은 경찰청 미래치안정책국을 중심으로 관련 조직과 법령, 인력까지 선제적으로 정비할 계획입니다.\n\n인공지능 부정행위 수사 성과와 신종 범죄 대책이 새 경찰 수장의 첫 성적표가 될 전망입니다.\n\n연합뉴스TV 차승은입니다.\n\n[영상편집 박진희]\n\n#수능 #경찰청장 #김종철 #후보자 #AI부정행위 #리트 #세무사시험\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n차승은(chaletuno@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261122/MYH20261122092913gI3.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "차승은",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261122092913gI3#comments",
-          "content": "[앵커] 김종철 경찰청장이 이재명 정부 첫 경찰청장으로 임명됐습니다. 취임 후엔 흔들리는 경찰 조직을 수습하고 역량을 증명해야 할텐데요. 최근 잇따라 의혹이 제기된 인공지능 부정행위 사태가 경찰 수장으로서 첫 시험대가 될 전망입니다. 차승은 기자입니다. [기자] 새 경찰 수장 앞에 놓인 1호 현안은 인공지능을 악용한 시험 부정행위입니다. 앞서 김 청장은 인공지능 부정행위에 가담한 배후까지 추적하겠다며 강력 대응을 예고했습니다. &lt;김종...",
-          "contentSnippet": "[앵커] 김종철 경찰청장이 이재명 정부 첫 경찰청장으로 임명됐습니다. 취임 후엔 흔들리는 경찰 조직을 수습하고 역량을 증명해야 할텐데요. 최근 잇따라 의혹이 제기된 인공지능 부정행위 사태가 경찰 수장으로서 첫 시험대가 될 전망입니다. 차승은 기자입니다. [기자] 새 경찰 수장 앞에 놓인 1호 현안은 인공지능을 악용한 시험 부정행위입니다. 앞서 김 청장은 인공지능 부정행위에 가담한 배후까지 추적하겠다며 강력 대응을 예고했습니다. <김종...",
-          "guid": "MYH20261122092913gI3",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-22T00:29:16.000Z"
-        },
-        {
-          "creator": "정다예",
-          "title": "한은, 석 달 만에 금리 인상 재개 전망…\"내년까지 긴축\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261122092806s0Q",
-          "pubDate": "Sun, 22 Nov 2026 09:28:07 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261122/AKR20261122092806s0Q_01_i.jpg\" alt=\"\"><span class=\"yna_title\">금융통화위원회 회의</span><span class=\"yna_caption\">(서울=연합뉴스) 신현송 한국은행 총재가 22일 서울 중구 한국은행에서 열린 금융통화위원회 회의를 주재하고 있다. 2026.10.22 [사진공동취재단] photo@yna.co.kr</span><span class=\"yna_description\">(서울=연합뉴스) 신현송 한국은행 총재가 22일 서울 중구 한국은행에서 열린 금융통화위원회 회의를 주재하고 있다. 2026.10.22 [사진공동취재단] photo@yna.co.kr</span></div>\n\n\n경제 전문가들은 한국은행 금융통화위원회(이하 금통위)가 오는 26일 올해 마지막 통화정책방향 회의에서 기준금리를 다시 올릴 것으로 내다봤습니다.\n\n연합뉴스가 경제 전문가 6명을 대상으로 설문 조사한 결과, 6명 모두 금통위가 기준금리를 연 3.00%에서 3.25%로 0.25%포인트(p) 인상할 것으로 예상했습니다.\n\n안예하 키움증권 선임연구원은 \"반도체 중심의 수출 호조와 견조한 내수 회복으로 성장세가 지속되는 가운데 수요 측 물가 압력과 고유가, 환율 등 물가 상방 리스크를 고려할 것\"이라며 \"가계부채와 부동산 시장 등 금융안정 측면도 인상을 뒷받침하는 요인\"이라고 말했습니다.\n\n조영무 NH금융연구소장은 \"기업 설비투자를 중심으로 내수가 바닥을 찍고 올라가는 모습\"이라며 \"3년 가까이 마이너스였던 건설투자도 이제 플러스로 돌아설 가능성이 있다\"고 평가했습니다.\n\n안재균 한국투자증권 연구위원은 \"올해와 내년의 연간 3%대 성장 전망 기대가 높아지는 점과 2%대 중반을 상회하는 근원 물가 경로, 미국의 추가 금리 인상 우려 증대를 고려해 금통위도 11월 기준금리를 인상할 것\"이라고 예상했습니다.\n\n장민 한국금융연구원 선임연구위원은 \"소비자물가 상승률이 내년에도 목표 수준인 2%를 충분히 넘을 걸로 예상이 되고, 성장률도 매우 좋다\"며 \"최근 흔들리는 주식시장을 감안해도 금리를 인상할 가능성이 더 크다\"고 말했습니다.\n\n박정우 노무라증권 이코노미스트도 \"잠재성장률을 상당히 웃도는 성장세가 이어지고 있으며 물가 역시 한은 목표치를 웃돌고 있기 때문에 기준금리 인상 여건은 충족하는 것으로 보인다\"고 분석했습니다.\n\n주원 현대경제연구원 연구본부장은 미국의 12월 금리 인상 가능성에 주목하며 \"미국과 금리차가 벌어지면 환율이 다시 오를 수 있다\"며 \"물가 안정에 가장 중요한 건 환율\"이라는 의견을 보였습니다.\n\n동결 소수의견이 나올지를 두고는 전망이 다소 엇갈렸다.\n\n박정우 이코노미스트는 \"내수 경기 부진이 이어지고 있고, 부동산 시장도 일부 지역에서 가격 하락 흐름이 뚜렷하게 나타나고 있어서 만장일치 인상은 어려울 것\"이라며 1명의 동결 의견을 예상했습니다.\n\n주원 본부장은 동결 의견 1명을, 장민 선임연구위원은 1∼2명을 예상했습니다. 조영무 소장과 안예하 선임연구원은 만장일치 인상에 무게를 뒀습니다.\n\n전문가 6명 중 3명은 이달에 이어 내년 1분기 한 차례 더 올리면 이번 금리 인상기가 마무리될 것으로 봤습니다.\n\n2명은 내년 두 차례 더 인상해 최종 금리가 3.75%에 이를 가능성도 열어뒀으며, 1명은 추가 인상에 물음표를 던졌습니다.\n\n미 연준의 12월 금리 결정을 두고도 전문가 6명 모두 인상을 예상했습니다.\n\n한 번에 0.50%p를 올리는 '빅스텝' 가능성은 대체로 크지 않은 것으로 봤습니다.\n\n#한국은행 #금리 #인상\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정다예(yeye@yna.co.kr)",
-          "content:encodedSnippet": "금융통화위원회 회의(서울=연합뉴스) 신현송 한국은행 총재가 22일 서울 중구 한국은행에서 열린 금융통화위원회 회의를 주재하고 있다. 2026.10.22 [사진공동취재단] photo@yna.co.kr(서울=연합뉴스) 신현송 한국은행 총재가 22일 서울 중구 한국은행에서 열린 금융통화위원회 회의를 주재하고 있다. 2026.10.22 [사진공동취재단] photo@yna.co.kr\n\n\n경제 전문가들은 한국은행 금융통화위원회(이하 금통위)가 오는 26일 올해 마지막 통화정책방향 회의에서 기준금리를 다시 올릴 것으로 내다봤습니다.\n\n연합뉴스가 경제 전문가 6명을 대상으로 설문 조사한 결과, 6명 모두 금통위가 기준금리를 연 3.00%에서 3.25%로 0.25%포인트(p) 인상할 것으로 예상했습니다.\n\n안예하 키움증권 선임연구원은 \"반도체 중심의 수출 호조와 견조한 내수 회복으로 성장세가 지속되는 가운데 수요 측 물가 압력과 고유가, 환율 등 물가 상방 리스크를 고려할 것\"이라며 \"가계부채와 부동산 시장 등 금융안정 측면도 인상을 뒷받침하는 요인\"이라고 말했습니다.\n\n조영무 NH금융연구소장은 \"기업 설비투자를 중심으로 내수가 바닥을 찍고 올라가는 모습\"이라며 \"3년 가까이 마이너스였던 건설투자도 이제 플러스로 돌아설 가능성이 있다\"고 평가했습니다.\n\n안재균 한국투자증권 연구위원은 \"올해와 내년의 연간 3%대 성장 전망 기대가 높아지는 점과 2%대 중반을 상회하는 근원 물가 경로, 미국의 추가 금리 인상 우려 증대를 고려해 금통위도 11월 기준금리를 인상할 것\"이라고 예상했습니다.\n\n장민 한국금융연구원 선임연구위원은 \"소비자물가 상승률이 내년에도 목표 수준인 2%를 충분히 넘을 걸로 예상이 되고, 성장률도 매우 좋다\"며 \"최근 흔들리는 주식시장을 감안해도 금리를 인상할 가능성이 더 크다\"고 말했습니다.\n\n박정우 노무라증권 이코노미스트도 \"잠재성장률을 상당히 웃도는 성장세가 이어지고 있으며 물가 역시 한은 목표치를 웃돌고 있기 때문에 기준금리 인상 여건은 충족하는 것으로 보인다\"고 분석했습니다.\n\n주원 현대경제연구원 연구본부장은 미국의 12월 금리 인상 가능성에 주목하며 \"미국과 금리차가 벌어지면 환율이 다시 오를 수 있다\"며 \"물가 안정에 가장 중요한 건 환율\"이라는 의견을 보였습니다.\n\n동결 소수의견이 나올지를 두고는 전망이 다소 엇갈렸다.\n\n박정우 이코노미스트는 \"내수 경기 부진이 이어지고 있고, 부동산 시장도 일부 지역에서 가격 하락 흐름이 뚜렷하게 나타나고 있어서 만장일치 인상은 어려울 것\"이라며 1명의 동결 의견을 예상했습니다.\n\n주원 본부장은 동결 의견 1명을, 장민 선임연구위원은 1∼2명을 예상했습니다. 조영무 소장과 안예하 선임연구원은 만장일치 인상에 무게를 뒀습니다.\n\n전문가 6명 중 3명은 이달에 이어 내년 1분기 한 차례 더 올리면 이번 금리 인상기가 마무리될 것으로 봤습니다.\n\n2명은 내년 두 차례 더 인상해 최종 금리가 3.75%에 이를 가능성도 열어뒀으며, 1명은 추가 인상에 물음표를 던졌습니다.\n\n미 연준의 12월 금리 결정을 두고도 전문가 6명 모두 인상을 예상했습니다.\n\n한 번에 0.50%p를 올리는 '빅스텝' 가능성은 대체로 크지 않은 것으로 봤습니다.\n\n#한국은행 #금리 #인상\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정다예(yeye@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261122/AKR20261122092806s0Q_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "정다예",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261122092806s0Q#comments",
-          "content": "금융통화위원회 회의(서울=연합뉴스) 신현송 한국은행 총재가 22일 서울 중구 한국은행에서 열린 금융통화위원회 회의를 주재하고 있다. 2026.10.22 [사진공동취재단] photo@yna.co.kr(서울=연합뉴스) 신현송 한국은행 총재가 22일 서울 중구 한국은행에서 열린 금융통화위원회 회의를 주재하고 있다. 2026.10.22 [사진공동취재단] photo@yna.co.kr 경제 전문가들은 한국은행 금융통화위원회(이하 금통위)가 오는 26...",
-          "contentSnippet": "금융통화위원회 회의(서울=연합뉴스) 신현송 한국은행 총재가 22일 서울 중구 한국은행에서 열린 금융통화위원회 회의를 주재하고 있다. 2026.10.22 [사진공동취재단] photo@yna.co.kr(서울=연합뉴스) 신현송 한국은행 총재가 22일 서울 중구 한국은행에서 열린 금융통화위원회 회의를 주재하고 있다. 2026.10.22 [사진공동취재단] photo@yna.co.kr 경제 전문가들은 한국은행 금융통화위원회(이하 금통위)가 오는 26...",
-          "guid": "AKR20261122092806s0Q",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-22T00:28:07.000Z"
-        },
-        {
-          "creator": "정호진",
-          "title": "열차 탈선 밤샘 복구작업…오늘 첫 차부터 운행 재개",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH202611220927587ee",
-          "pubDate": "Sun, 22 Nov 2026 09:28:00 +0900",
-          "content:encoded": "화물열차 궤도 이탈 사고 여파로 중지됐던 경부선 일반열차가 오늘(22일) 첫 차부터 운행을 재개합니다.\n\n코레일 측은 어제(21일) 밤샘 복구 작업을 통해 오늘(22일) 첫차부터 천안~대전 구간을 포함한 모든 열차의 운행을 재개할 예정이라고 밝혔습니다.\n\n앞서 이날 화물열차 탈선 사고로 경부선 일반 열차 운행이 중지되며, 코레일은 임시열차 15대, 버스 23대 등을 긴급 투입했습니다.\n\n코레일 관계자는 \"복구 상황에 따라 열차 운행이 일시 조정될 수 있다\"며 \"열차 이용 전 모바일 앱 등을 통해 운행 현황을 확인해 달라\"고 당부했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정호진(hojeans@yna.co.kr)",
-          "content:encodedSnippet": "화물열차 궤도 이탈 사고 여파로 중지됐던 경부선 일반열차가 오늘(22일) 첫 차부터 운행을 재개합니다.\n\n코레일 측은 어제(21일) 밤샘 복구 작업을 통해 오늘(22일) 첫차부터 천안~대전 구간을 포함한 모든 열차의 운행을 재개할 예정이라고 밝혔습니다.\n\n앞서 이날 화물열차 탈선 사고로 경부선 일반 열차 운행이 중지되며, 코레일은 임시열차 15대, 버스 23대 등을 긴급 투입했습니다.\n\n코레일 관계자는 \"복구 상황에 따라 열차 운행이 일시 조정될 수 있다\"며 \"열차 이용 전 모바일 앱 등을 통해 운행 현황을 확인해 달라\"고 당부했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정호진(hojeans@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261122/MYH202611220927587ee.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "정호진",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH202611220927587ee#comments",
-          "content": "화물열차 궤도 이탈 사고 여파로 중지됐던 경부선 일반열차가 오늘(22일) 첫 차부터 운행을 재개합니다. 코레일 측은 어제(21일) 밤샘 복구 작업을 통해 오늘(22일) 첫차부터 천안~대전 구간을 포함한 모든 열차의 운행을 재개할 예정이라고 밝혔습니다. 앞서 이날 화물열차 탈선 사고로 경부선 일반 열차 운행이 중지되며, 코레일은 임시열차 15대, 버스 23대 등을 긴급 투입했습니다. 코레일 관계자는 \"복구 상황에 따라 열차 운행이 일시 조정...",
-          "contentSnippet": "화물열차 궤도 이탈 사고 여파로 중지됐던 경부선 일반열차가 오늘(22일) 첫 차부터 운행을 재개합니다. 코레일 측은 어제(21일) 밤샘 복구 작업을 통해 오늘(22일) 첫차부터 천안~대전 구간을 포함한 모든 열차의 운행을 재개할 예정이라고 밝혔습니다. 앞서 이날 화물열차 탈선 사고로 경부선 일반 열차 운행이 중지되며, 코레일은 임시열차 15대, 버스 23대 등을 긴급 투입했습니다. 코레일 관계자는 \"복구 상황에 따라 열차 운행이 일시 조정...",
-          "guid": "MYH202611220927587ee",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-22T00:28:00.000Z"
-        },
-        {
-          "creator": "김나영",
-          "title": "전자발찌 끊고 달아난 50대 성범죄자…경찰 추적",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261122092728Veq",
-          "pubDate": "Sun, 22 Nov 2026 09:27:28 +0900",
-          "content:encoded": "경기도 평택에 거주하는 50대 성범죄자가 충북 진천에서 전자발찌를 끊고 달아나 당국이 추적에 나섰습니다.\n\n법무부는 어제(21일) 오전 8시 50분쯤 충북 진천군 양백리에서 50대 A씨가 전자발찌를 훼손하고 도주했다고 밝혔습니다.\n\nA씨는 이날 승용차를 몰고 진천으로 이동한 뒤, 차량 안에서 전자발찌를 끊은 것으로 파악됐습니다.\n\nA씨는 과거 성범죄로 실형을 복역한 뒤 전자발찌를 착용하고 보호관찰을 받던 중이었습니다.\n\n법무부 보호관찰소는 경찰과 공조해 A씨의 행방을 쫓고 있습니다.\n\n#성범죄자 #50대 #전자팔찌\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김나영(na0@yna.co.kr)",
-          "content:encodedSnippet": "경기도 평택에 거주하는 50대 성범죄자가 충북 진천에서 전자발찌를 끊고 달아나 당국이 추적에 나섰습니다.\n\n법무부는 어제(21일) 오전 8시 50분쯤 충북 진천군 양백리에서 50대 A씨가 전자발찌를 훼손하고 도주했다고 밝혔습니다.\n\nA씨는 이날 승용차를 몰고 진천으로 이동한 뒤, 차량 안에서 전자발찌를 끊은 것으로 파악됐습니다.\n\nA씨는 과거 성범죄로 실형을 복역한 뒤 전자발찌를 착용하고 보호관찰을 받던 중이었습니다.\n\n법무부 보호관찰소는 경찰과 공조해 A씨의 행방을 쫓고 있습니다.\n\n#성범죄자 #50대 #전자팔찌\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김나영(na0@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261122/MYH20261122092728Veq.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "김나영",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261122092728Veq#comments",
-          "content": "경기도 평택에 거주하는 50대 성범죄자가 충북 진천에서 전자발찌를 끊고 달아나 당국이 추적에 나섰습니다. 법무부는 어제(21일) 오전 8시 50분쯤 충북 진천군 양백리에서 50대 A씨가 전자발찌를 훼손하고 도주했다고 밝혔습니다. A씨는 이날 승용차를 몰고 진천으로 이동한 뒤, 차량 안에서 전자발찌를 끊은 것으로 파악됐습니다. A씨는 과거 성범죄로 실형을 복역한 뒤 전자발찌를 착용하고 보호관찰을 받던 중이었습니다. 법무부 보호관찰소는 경찰과...",
-          "contentSnippet": "경기도 평택에 거주하는 50대 성범죄자가 충북 진천에서 전자발찌를 끊고 달아나 당국이 추적에 나섰습니다. 법무부는 어제(21일) 오전 8시 50분쯤 충북 진천군 양백리에서 50대 A씨가 전자발찌를 훼손하고 도주했다고 밝혔습니다. A씨는 이날 승용차를 몰고 진천으로 이동한 뒤, 차량 안에서 전자발찌를 끊은 것으로 파악됐습니다. A씨는 과거 성범죄로 실형을 복역한 뒤 전자발찌를 착용하고 보호관찰을 받던 중이었습니다. 법무부 보호관찰소는 경찰과...",
-          "guid": "MYH20261122092728Veq",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-22T00:27:28.000Z"
+          "isoDate": "2026-11-22T10:27:15.000Z"
         },
         {
           "creator": "노수미",
-          "title": "[날씨] 절기 '소설' 영하권 추위…맑지만 대기 건조",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261122092640coX",
-          "pubDate": "Sun, 22 Nov 2026 09:26:42 +0900",
-          "content:encoded": "첫눈이 내린다는 절기 소설인 오늘, 매서운 추위가 찾아왔습니다.\n\n전국 대부분 지역이 영하권으로 떨어졌는데요.\n\n서울은 영하 5.8도, 춘천 영하 10도, 파주는 영하 11도선까지 곤두박질했습니다.\n\n여기에 찬바람까지 더해져 몸으로 느끼는 추위는 더 심하게 느껴지겠습니다.\n\n자세한 기온도 보시면, 현재 대구는 영하 0.1도, 대전 영하 3.7도를 보이고 있고요.\n\n한낮에는 서울과 춘천 5도, 대전과 청주 6도에 머물며 종일 쌀쌀하겠습니다.\n\n오늘 하늘빛은 대체로 맑겠습니다.\n\n최근 서해안 지역에 많은 눈이 내렸는데요.\n\n이미 눈이 쌓인 곳은 길이 미끄러울 수 있으니까 이동하실 때 조심하셔야겠습니다.\n\n반대로 비 소식이 없는 지역은 대기가 메말라가고 있습니다.\n\n서울을 포함한 수도권과 강원, 경북 동해안에는 건조특보가 내려져 있는데요.\n\n산불 등 화재 예방에 신경 써주셔야겠습니다.\n\n한편, 동해상과 남해상에서는 물결이 최고 3.5m까지 높게 일겠고요.\n\n해안가에는 너울도 강하게 밀려들겠습니다.\n\n내일은 전국적으로 비가 내리겠습니다.\n\n기온이 낮은 경기 북부와 강원에서는 비 대신 눈이 섞여 내리는 곳도 있겠고요.\n\n추위는 이번 주 초반까지 이어진 뒤 주 중반부터 차츰 누그러지겠습니다.\n\n지금까지 날씨였습니다.\n\n(이소연 기상캐스터)\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
-          "content:encodedSnippet": "첫눈이 내린다는 절기 소설인 오늘, 매서운 추위가 찾아왔습니다.\n\n전국 대부분 지역이 영하권으로 떨어졌는데요.\n\n서울은 영하 5.8도, 춘천 영하 10도, 파주는 영하 11도선까지 곤두박질했습니다.\n\n여기에 찬바람까지 더해져 몸으로 느끼는 추위는 더 심하게 느껴지겠습니다.\n\n자세한 기온도 보시면, 현재 대구는 영하 0.1도, 대전 영하 3.7도를 보이고 있고요.\n\n한낮에는 서울과 춘천 5도, 대전과 청주 6도에 머물며 종일 쌀쌀하겠습니다.\n\n오늘 하늘빛은 대체로 맑겠습니다.\n\n최근 서해안 지역에 많은 눈이 내렸는데요.\n\n이미 눈이 쌓인 곳은 길이 미끄러울 수 있으니까 이동하실 때 조심하셔야겠습니다.\n\n반대로 비 소식이 없는 지역은 대기가 메말라가고 있습니다.\n\n서울을 포함한 수도권과 강원, 경북 동해안에는 건조특보가 내려져 있는데요.\n\n산불 등 화재 예방에 신경 써주셔야겠습니다.\n\n한편, 동해상과 남해상에서는 물결이 최고 3.5m까지 높게 일겠고요.\n\n해안가에는 너울도 강하게 밀려들겠습니다.\n\n내일은 전국적으로 비가 내리겠습니다.\n\n기온이 낮은 경기 북부와 강원에서는 비 대신 눈이 섞여 내리는 곳도 있겠고요.\n\n추위는 이번 주 초반까지 이어진 뒤 주 중반부터 차츰 누그러지겠습니다.\n\n지금까지 날씨였습니다.\n\n(이소연 기상캐스터)\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
+          "title": "[날씨] 내일 전국 비…출근길 '어는 비', 강원 최대 8㎝ 눈",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261122192542sZp",
+          "pubDate": "Sun, 22 Nov 2026 19:25:42 +0900",
+          "content:encoded": "휴일인 오늘, 첫눈이 내린다는 절기 '소설'이었는데요.\n\n종일 초겨울 추위가 이어졌습니다.\n\n오늘 아침 서울은 영하 5.8도까지 내려가며 올가을 최저기온을 기록했고요.\n\n낮에도 6.1도에 머물며 종일 추웠습니다.\n\n내일은 추위가 잠시 주춤하겠습니다.\n\n서울도 아침 기온 영상권을 회복하겠는데요.\n\n다만, 체감 온도는 여전히 영하권을 보이겠고, 그 밖의 지역에서도 영하권을 보이는 곳이 많겠습니다.\n\n전국에 비 예보도 있습니다.\n\n밤까지 내리다 그치겠는데요. 예상되는 양은 중부지방에 최대 30mm, 남부지방에 5~10mm 정도겠고요.\n\n기온이 낮은 강원 북부 내륙과 산지에는 최대 8cm의 많은 눈이 내리겠습니다.\n\n비와 함께 전국에 초속 15m 안팎 강한 바람이 불겠고, 해상에도 물결이 최고 3.5m까지 높게 일겠습니다.\n\n강원 산지에는 건조경보가 내려져 있는데요.\n\n불씨 관리 잘 해주셔야겠습니다.\n\n내일 아침, 기온이 낮은 중북부 지역에는 어는 비가 내리는 곳이 있겠고요.\n\n기온도 보시면, 아침에 서울 1도, 청주 0도로 출발하겠고, 낮에는 서울 10도를 보이겠습니다.\n\n남부지방은 아침 기온 대구 영하 1도, 낮 기온은 전주 14도, 광주 15도 예상됩니다.\n\n비구름이 물러난 후에는 다시 찬 공기가 내려오며 영하권 추위가 찾아오겠는데요.\n\n추위가 오래가진 않겠고, 목요일 다시 영상권을 회복할 전망입니다.\n\n날씨 전해드렸습니다.\n\n(전세영 기상캐스터)\n\n#날씨 #한파 #풍랑 #추위 #눈 #강풍 #비 #주말날씨 #가을 #초겨울\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
+          "content:encodedSnippet": "휴일인 오늘, 첫눈이 내린다는 절기 '소설'이었는데요.\n\n종일 초겨울 추위가 이어졌습니다.\n\n오늘 아침 서울은 영하 5.8도까지 내려가며 올가을 최저기온을 기록했고요.\n\n낮에도 6.1도에 머물며 종일 추웠습니다.\n\n내일은 추위가 잠시 주춤하겠습니다.\n\n서울도 아침 기온 영상권을 회복하겠는데요.\n\n다만, 체감 온도는 여전히 영하권을 보이겠고, 그 밖의 지역에서도 영하권을 보이는 곳이 많겠습니다.\n\n전국에 비 예보도 있습니다.\n\n밤까지 내리다 그치겠는데요. 예상되는 양은 중부지방에 최대 30mm, 남부지방에 5~10mm 정도겠고요.\n\n기온이 낮은 강원 북부 내륙과 산지에는 최대 8cm의 많은 눈이 내리겠습니다.\n\n비와 함께 전국에 초속 15m 안팎 강한 바람이 불겠고, 해상에도 물결이 최고 3.5m까지 높게 일겠습니다.\n\n강원 산지에는 건조경보가 내려져 있는데요.\n\n불씨 관리 잘 해주셔야겠습니다.\n\n내일 아침, 기온이 낮은 중북부 지역에는 어는 비가 내리는 곳이 있겠고요.\n\n기온도 보시면, 아침에 서울 1도, 청주 0도로 출발하겠고, 낮에는 서울 10도를 보이겠습니다.\n\n남부지방은 아침 기온 대구 영하 1도, 낮 기온은 전주 14도, 광주 15도 예상됩니다.\n\n비구름이 물러난 후에는 다시 찬 공기가 내려오며 영하권 추위가 찾아오겠는데요.\n\n추위가 오래가진 않겠고, 목요일 다시 영상권을 회복할 전망입니다.\n\n날씨 전해드렸습니다.\n\n(전세영 기상캐스터)\n\n#날씨 #한파 #풍랑 #추위 #눈 #강풍 #비 #주말날씨 #가을 #초겨울\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261122/MYH20261122092640coX.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261122/MYH20261122192542sZp.jpg",
             "type": "image/jpeg"
           },
           "dc:creator": "노수미",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261122092640coX#comments",
-          "content": "첫눈이 내린다는 절기 소설인 오늘, 매서운 추위가 찾아왔습니다. 전국 대부분 지역이 영하권으로 떨어졌는데요. 서울은 영하 5.8도, 춘천 영하 10도, 파주는 영하 11도선까지 곤두박질했습니다. 여기에 찬바람까지 더해져 몸으로 느끼는 추위는 더 심하게 느껴지겠습니다. 자세한 기온도 보시면, 현재 대구는 영하 0.1도, 대전 영하 3.7도를 보이고 있고요. 한낮에는 서울과 춘천 5도, 대전과 청주 6도에 머물며 종일 쌀쌀하겠습니다. 오늘 하...",
-          "contentSnippet": "첫눈이 내린다는 절기 소설인 오늘, 매서운 추위가 찾아왔습니다. 전국 대부분 지역이 영하권으로 떨어졌는데요. 서울은 영하 5.8도, 춘천 영하 10도, 파주는 영하 11도선까지 곤두박질했습니다. 여기에 찬바람까지 더해져 몸으로 느끼는 추위는 더 심하게 느껴지겠습니다. 자세한 기온도 보시면, 현재 대구는 영하 0.1도, 대전 영하 3.7도를 보이고 있고요. 한낮에는 서울과 춘천 5도, 대전과 청주 6도에 머물며 종일 쌀쌀하겠습니다. 오늘 하...",
-          "guid": "MYH20261122092640coX",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261122192542sZp#comments",
+          "content": "휴일인 오늘, 첫눈이 내린다는 절기 '소설'이었는데요. 종일 초겨울 추위가 이어졌습니다. 오늘 아침 서울은 영하 5.8도까지 내려가며 올가을 최저기온을 기록했고요. 낮에도 6.1도에 머물며 종일 추웠습니다. 내일은 추위가 잠시 주춤하겠습니다. 서울도 아침 기온 영상권을 회복하겠는데요. 다만, 체감 온도는 여전히 영하권을 보이겠고, 그 밖의 지역에서도 영하권을 보이는 곳이 많겠습니다. 전국에 비 예보도 있습니다. 밤까지 내리다 그치겠는데요....",
+          "contentSnippet": "휴일인 오늘, 첫눈이 내린다는 절기 '소설'이었는데요. 종일 초겨울 추위가 이어졌습니다. 오늘 아침 서울은 영하 5.8도까지 내려가며 올가을 최저기온을 기록했고요. 낮에도 6.1도에 머물며 종일 추웠습니다. 내일은 추위가 잠시 주춤하겠습니다. 서울도 아침 기온 영상권을 회복하겠는데요. 다만, 체감 온도는 여전히 영하권을 보이겠고, 그 밖의 지역에서도 영하권을 보이는 곳이 많겠습니다. 전국에 비 예보도 있습니다. 밤까지 내리다 그치겠는데요....",
+          "guid": "MYH20261122192542sZp",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-22T00:26:42.000Z"
+          "isoDate": "2026-11-22T10:25:42.000Z"
         },
         {
-          "creator": "이초원",
-          "title": "수원 삼성, 승격 이어 트로피 확득…대전, 10경기 무패",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261122092545Sx0",
-          "pubDate": "Sun, 22 Nov 2026 09:25:45 +0900",
-          "content:encoded": "[앵커]\n\n1부 복귀를 확정한 프로축구 수원 삼성이 경남FC를 3-1로 꺾고 창단 첫 K리그2 우승을 거머쥐었습니다.\n\nK리그1에서는 황선홍 감독의 대전이 강원 원정서 역전승을 완성하며 2위 울산을 턱밑까지 추격했습니다.\n\n이초원 기자입니다.\n\n[기자]\n\n수원은 경남 골문을 강하게 두드리며 이른 시간 득점에 성공했습니다.\n\n전반 20분, 강성진이 올린 크로스를 김주찬이 가슴으로 받아내 선제골을 터뜨렸습니다.\n\n주도권을 잡은 수원은 후반 18분 김주찬이 올린 공을 루이스가 헤더로 골망을 흔들었고, 루이스가 직접 얻어낸 페널티킥까지 성공시켜 멀티 골을 완성하며 승리를 확정했습니다.\n\n이미 승격을 확정한 수원은 남은 경기 결과와 관계없이 K리그2 우승 트로피를 들어 올렸습니다.\n\n2023년 창단 첫 강등의 아픔을 겪고, 세 시즌 동안 2부 리그에서 쓴맛을 보다가 '실력파' 이정효 감독을 만나 완벽한 부활에 성공했습니다.\n\n&lt;이정효 / 수원 삼성 블루윙스 감독&gt; \"올해만큼 부상자가 많았던 적이 없었던 것 같아요. 다행히 어린 선수들이 잘 성장해 줘서 큰 동력 얻어서 힘낼 수 있었고 버텼던 것 같습니다.\"\n\nK리그1에서는 FC서울이 일찌감치 우승을 확정한 이후 치열한 2위 싸움이 이어지고 있습니다.\n\n대전하나시티즌은 강원FC에 리드를 내줬지만, 디오고의 골로 승부를 원점으로 돌리더니, 루빅손과 마사의 연속골로 승점 3점을 쓸어 담으며 10경기 무패 행진을 달렸습니다.\n\n리그 2위 울산HD는 김현석 감독의 '시즌 후 사퇴' 발표 이후 첫 경기에서 인천에 1-2로 패하며 3위 대전에 승점 1점 차로 쫓기게 됐습니다.\n\n인천의 골잡이 무고사는 15호 골을 터트리며, 리그 득점 1위 울산 야고에 2골 차로 따라붙으며 역전 득점왕 도전에 불씨를 지폈습니다.\n\n연합뉴스TV 이초원입니다.\n\n[영상편집 김동현]\n\n[그래픽 김세연]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이초원(grass@yna.co.kr)",
-          "content:encodedSnippet": "[앵커]\n\n1부 복귀를 확정한 프로축구 수원 삼성이 경남FC를 3-1로 꺾고 창단 첫 K리그2 우승을 거머쥐었습니다.\n\nK리그1에서는 황선홍 감독의 대전이 강원 원정서 역전승을 완성하며 2위 울산을 턱밑까지 추격했습니다.\n\n이초원 기자입니다.\n\n[기자]\n\n수원은 경남 골문을 강하게 두드리며 이른 시간 득점에 성공했습니다.\n\n전반 20분, 강성진이 올린 크로스를 김주찬이 가슴으로 받아내 선제골을 터뜨렸습니다.\n\n주도권을 잡은 수원은 후반 18분 김주찬이 올린 공을 루이스가 헤더로 골망을 흔들었고, 루이스가 직접 얻어낸 페널티킥까지 성공시켜 멀티 골을 완성하며 승리를 확정했습니다.\n\n이미 승격을 확정한 수원은 남은 경기 결과와 관계없이 K리그2 우승 트로피를 들어 올렸습니다.\n\n2023년 창단 첫 강등의 아픔을 겪고, 세 시즌 동안 2부 리그에서 쓴맛을 보다가 '실력파' 이정효 감독을 만나 완벽한 부활에 성공했습니다.\n\n<이정효 / 수원 삼성 블루윙스 감독> \"올해만큼 부상자가 많았던 적이 없었던 것 같아요. 다행히 어린 선수들이 잘 성장해 줘서 큰 동력 얻어서 힘낼 수 있었고 버텼던 것 같습니다.\"\n\nK리그1에서는 FC서울이 일찌감치 우승을 확정한 이후 치열한 2위 싸움이 이어지고 있습니다.\n\n대전하나시티즌은 강원FC에 리드를 내줬지만, 디오고의 골로 승부를 원점으로 돌리더니, 루빅손과 마사의 연속골로 승점 3점을 쓸어 담으며 10경기 무패 행진을 달렸습니다.\n\n리그 2위 울산HD는 김현석 감독의 '시즌 후 사퇴' 발표 이후 첫 경기에서 인천에 1-2로 패하며 3위 대전에 승점 1점 차로 쫓기게 됐습니다.\n\n인천의 골잡이 무고사는 15호 골을 터트리며, 리그 득점 1위 울산 야고에 2골 차로 따라붙으며 역전 득점왕 도전에 불씨를 지폈습니다.\n\n연합뉴스TV 이초원입니다.\n\n[영상편집 김동현]\n\n[그래픽 김세연]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이초원(grass@yna.co.kr)",
+          "creator": "최덕재",
+          "title": "대학마다 AI 부정행위 자구책…학생들 차분히 응시",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261122192525iJe",
+          "pubDate": "Sun, 22 Nov 2026 19:25:27 +0900",
+          "content:encoded": "[앵커]\n\n주말 동안 주요 대학 논술 시험이 치러졌습니다.\n\n대학들은 AI를 활용한 부정행위를 차단하기 위해 각종 자구책을 마련했습니다.\n\n우려가 완전히 가신 건 아니지만, 학생들은 실력으로 증명하겠다며 차분히 응시했습니다.\n\n최덕재 기자입니다.\n\n[기자]\n\n수능이 끝난 후 논술 시험에 수만명이 몰린 성균관대학교.\n\n시험 도중 문항 오류가 발견돼 수정되는 등 논란도 일었지만, 더 큰 관심은 AI를 활용한 부정행위 대책이었습니다.\n\n올해 수능에서 100건 넘는 부정행위 정황이 발견된 직후라 걱정이 컸는데, 성균관대는 개인 필기구의 시험장 반입을 금지했습니다.\n\n수능에 이어 대학 논술까지, 부정행위 차단을 위한 노력이 이어집니다. 하지만 우려를 온전히 떨치긴 어려운 게 현실입니다.\n\n&lt;김반석 / 경기 화성시&gt; \"이번에도 최대한 잡겠다고 하는데 100% 막을 수는 없을 것 같기 때문에 완전히 공정하지는 않을 것 같지만…\"\n\n그럼에도 수험생들은 차분하게 시험에만 집중하려 노력했습니다.\n\n부정하게 얻은 점수로는 성공할 수 없다는 믿음이 깔려있습니다.\n\n&lt;김도우 / 인천 계양구&gt; \"대학이 인생의 출발점이라고 생각하는데, 그렇게(부정행위로) 들어가면 그 사람은 앞으로 그 인생이 그렇게 살아지는 거고, 비록 여기서 제 실력으로 떨어진다 한들 그것을 받아들여 앞으로 살아가는 게 더 중요한 거니까요.\"\n\n성균관대 외에도, 논술을 치르는 각 대학들은 초소형 카메라와 무선 이어폰 등을 반입하지 못하게 자구책을 마련했습니다.\n\n숙명여대는 옷 단추와 지퍼에 스티커를 붙이고 머리를 묶어 귀가 드러나게 했습니다.\n\n경희대는 일회용 앞치마를 두르게 했고, 서강대는 탐지 장비를 들고 시험장을 순회 점검했습니다.\n\n세종대는 휴대용 전파탐지기와 금속탐지기를 구매했고, 건국대와 중앙대·인하대는 수험생이 화장실에 갈 때 검사를 강화했습니다.\n\n연합뉴스TV 최덕재입니다.\n\n[영상취재 장준환]\n\n[영상편집 박진희]\n\n[뉴스리뷰]\n\n#수능 #부정행위\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최덕재(DJY@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n주말 동안 주요 대학 논술 시험이 치러졌습니다.\n\n대학들은 AI를 활용한 부정행위를 차단하기 위해 각종 자구책을 마련했습니다.\n\n우려가 완전히 가신 건 아니지만, 학생들은 실력으로 증명하겠다며 차분히 응시했습니다.\n\n최덕재 기자입니다.\n\n[기자]\n\n수능이 끝난 후 논술 시험에 수만명이 몰린 성균관대학교.\n\n시험 도중 문항 오류가 발견돼 수정되는 등 논란도 일었지만, 더 큰 관심은 AI를 활용한 부정행위 대책이었습니다.\n\n올해 수능에서 100건 넘는 부정행위 정황이 발견된 직후라 걱정이 컸는데, 성균관대는 개인 필기구의 시험장 반입을 금지했습니다.\n\n수능에 이어 대학 논술까지, 부정행위 차단을 위한 노력이 이어집니다. 하지만 우려를 온전히 떨치긴 어려운 게 현실입니다.\n\n<김반석 / 경기 화성시> \"이번에도 최대한 잡겠다고 하는데 100% 막을 수는 없을 것 같기 때문에 완전히 공정하지는 않을 것 같지만…\"\n\n그럼에도 수험생들은 차분하게 시험에만 집중하려 노력했습니다.\n\n부정하게 얻은 점수로는 성공할 수 없다는 믿음이 깔려있습니다.\n\n<김도우 / 인천 계양구> \"대학이 인생의 출발점이라고 생각하는데, 그렇게(부정행위로) 들어가면 그 사람은 앞으로 그 인생이 그렇게 살아지는 거고, 비록 여기서 제 실력으로 떨어진다 한들 그것을 받아들여 앞으로 살아가는 게 더 중요한 거니까요.\"\n\n성균관대 외에도, 논술을 치르는 각 대학들은 초소형 카메라와 무선 이어폰 등을 반입하지 못하게 자구책을 마련했습니다.\n\n숙명여대는 옷 단추와 지퍼에 스티커를 붙이고 머리를 묶어 귀가 드러나게 했습니다.\n\n경희대는 일회용 앞치마를 두르게 했고, 서강대는 탐지 장비를 들고 시험장을 순회 점검했습니다.\n\n세종대는 휴대용 전파탐지기와 금속탐지기를 구매했고, 건국대와 중앙대·인하대는 수험생이 화장실에 갈 때 검사를 강화했습니다.\n\n연합뉴스TV 최덕재입니다.\n\n[영상취재 장준환]\n\n[영상편집 박진희]\n\n[뉴스리뷰]\n\n#수능 #부정행위\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최덕재(DJY@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261122/MYH20261122092545Sx0.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261122/MYH20261122192525iJe.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "이초원",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261122092545Sx0#comments",
-          "content": "[앵커] 1부 복귀를 확정한 프로축구 수원 삼성이 경남FC를 3-1로 꺾고 창단 첫 K리그2 우승을 거머쥐었습니다. K리그1에서는 황선홍 감독의 대전이 강원 원정서 역전승을 완성하며 2위 울산을 턱밑까지 추격했습니다. 이초원 기자입니다. [기자] 수원은 경남 골문을 강하게 두드리며 이른 시간 득점에 성공했습니다. 전반 20분, 강성진이 올린 크로스를 김주찬이 가슴으로 받아내 선제골을 터뜨렸습니다. 주도권을 잡은 수원은 후반 18분 김주찬이...",
-          "contentSnippet": "[앵커] 1부 복귀를 확정한 프로축구 수원 삼성이 경남FC를 3-1로 꺾고 창단 첫 K리그2 우승을 거머쥐었습니다. K리그1에서는 황선홍 감독의 대전이 강원 원정서 역전승을 완성하며 2위 울산을 턱밑까지 추격했습니다. 이초원 기자입니다. [기자] 수원은 경남 골문을 강하게 두드리며 이른 시간 득점에 성공했습니다. 전반 20분, 강성진이 올린 크로스를 김주찬이 가슴으로 받아내 선제골을 터뜨렸습니다. 주도권을 잡은 수원은 후반 18분 김주찬이...",
-          "guid": "MYH20261122092545Sx0",
+          "dc:creator": "최덕재",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261122192525iJe#comments",
+          "content": "[앵커] 주말 동안 주요 대학 논술 시험이 치러졌습니다. 대학들은 AI를 활용한 부정행위를 차단하기 위해 각종 자구책을 마련했습니다. 우려가 완전히 가신 건 아니지만, 학생들은 실력으로 증명하겠다며 차분히 응시했습니다. 최덕재 기자입니다. [기자] 수능이 끝난 후 논술 시험에 수만명이 몰린 성균관대학교. 시험 도중 문항 오류가 발견돼 수정되는 등 논란도 일었지만, 더 큰 관심은 AI를 활용한 부정행위 대책이었습니다. 올해 수능에서 100건...",
+          "contentSnippet": "[앵커] 주말 동안 주요 대학 논술 시험이 치러졌습니다. 대학들은 AI를 활용한 부정행위를 차단하기 위해 각종 자구책을 마련했습니다. 우려가 완전히 가신 건 아니지만, 학생들은 실력으로 증명하겠다며 차분히 응시했습니다. 최덕재 기자입니다. [기자] 수능이 끝난 후 논술 시험에 수만명이 몰린 성균관대학교. 시험 도중 문항 오류가 발견돼 수정되는 등 논란도 일었지만, 더 큰 관심은 AI를 활용한 부정행위 대책이었습니다. 올해 수능에서 100건...",
+          "guid": "MYH20261122192525iJe",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-22T00:25:45.000Z"
+          "isoDate": "2026-11-22T10:25:27.000Z"
+        },
+        {
+          "creator": "강지수",
+          "title": "현대건설, 흥국생명 3-0 완파…시즌 첫 연승",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261122192401caH",
+          "pubDate": "Sun, 22 Nov 2026 19:24:02 +0900",
+          "content:encoded": "여자배구 현대건설이 흥국생명을 완파하고 시즌 첫 연승을 달렸습니다.\n\n현대건설은 흥국생명과의 홈경기에서 3-0으로 승리했습니다.\n\n메가가 18점·조던이 16점을 올렸고, 배유나와 김희진도 블로킹 9개를 합작했습니다. 흥국생명은 4연패에 빠졌습니다.\n\n남자배구에서는 KB손해보험이 41점을 올린 리누스의 활약을 앞세워 우리카드를 3-2로 꺾고 개막 6경기 만에 첫 승을 거뒀습니다.\n\n우리카드는 3연패에 빠져 4위에 머물렀습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n강지수(jisurimasuri@yna.co.kr)",
+          "content:encodedSnippet": "여자배구 현대건설이 흥국생명을 완파하고 시즌 첫 연승을 달렸습니다.\n\n현대건설은 흥국생명과의 홈경기에서 3-0으로 승리했습니다.\n\n메가가 18점·조던이 16점을 올렸고, 배유나와 김희진도 블로킹 9개를 합작했습니다. 흥국생명은 4연패에 빠졌습니다.\n\n남자배구에서는 KB손해보험이 41점을 올린 리누스의 활약을 앞세워 우리카드를 3-2로 꺾고 개막 6경기 만에 첫 승을 거뒀습니다.\n\n우리카드는 3연패에 빠져 4위에 머물렀습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n강지수(jisurimasuri@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261122/MYH20261122192401caH.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "강지수",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261122192401caH#comments",
+          "content": "여자배구 현대건설이 흥국생명을 완파하고 시즌 첫 연승을 달렸습니다. 현대건설은 흥국생명과의 홈경기에서 3-0으로 승리했습니다. 메가가 18점·조던이 16점을 올렸고, 배유나와 김희진도 블로킹 9개를 합작했습니다. 흥국생명은 4연패에 빠졌습니다. 남자배구에서는 KB손해보험이 41점을 올린 리누스의 활약을 앞세워 우리카드를 3-2로 꺾고 개막 6경기 만에 첫 승을 거뒀습니다. 우리카드는 3연패에 빠져 4위에 머물렀습니다. 연합뉴스TV 기사문의...",
+          "contentSnippet": "여자배구 현대건설이 흥국생명을 완파하고 시즌 첫 연승을 달렸습니다. 현대건설은 흥국생명과의 홈경기에서 3-0으로 승리했습니다. 메가가 18점·조던이 16점을 올렸고, 배유나와 김희진도 블로킹 9개를 합작했습니다. 흥국생명은 4연패에 빠졌습니다. 남자배구에서는 KB손해보험이 41점을 올린 리누스의 활약을 앞세워 우리카드를 3-2로 꺾고 개막 6경기 만에 첫 승을 거뒀습니다. 우리카드는 3연패에 빠져 4위에 머물렀습니다. 연합뉴스TV 기사문의...",
+          "guid": "MYH20261122192401caH",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-22T10:24:02.000Z"
+        },
+        {
+          "creator": "윤솔",
+          "title": "'5천피' 무너지고 미 증시 급락…'검은 월요일' 우려",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH202611221923314U0",
+          "pubDate": "Sun, 22 Nov 2026 19:23:32 +0900",
+          "content:encoded": "[앵커]\n\n지난 금요일 코스피 5,000선이 무너진 데 이어 주말 새 뉴욕증시에서 반도체주가 폭락했습니다.\n\n내일(23일) 국내 증시가 다시 크게 흔들리는 것 아니냐는 우려가 커지고 있는데요.\n\n윤솔 기자입니다.\n\n[기자]\n\n이번 주 우리 증시는 하락 출발이 예상됩니다.\n\n다음 거래일 시황 가늠자로 불리는 코스피200 야간선물이 지난 금요일 밤 거래에서 7% 가까이 떨어졌고, 해외 투자자들의 한국 증시 투자 심리를 보여주는 미국 상장 MSCI 한국 ETF도 8% 넘게 떨어졌습니다.\n\n인공지능 테마가 흔들리면서 주말 사이 뉴욕증시 3대 지수 역시 일제히 급락했습니다.\n\n특히 나스닥지수가 5% 넘게 빠지며 올해 상승분을 모두 반납했고, 필라델피아 반도체지수는 하루 새 10% 넘게 폭락했습니다.\n\n국내 증시는 이미 지난주 큰 충격을 받은 상탭니다.\n\n코스피는 지난 20일 5% 넘게 떨어지며 4,869까지 밀렸고, 한 주 동안에만 8% 가까이 빠졌습니다.\n\n여기서 추가 급락이 이어지면 빚을 내 투자한 개인들의 반대매매 물량이 쏟아질 수 있다는 우려도 나옵니다.\n\n다만 조정이 이미 상당히 이뤄진 만큼 추가 하락폭은 제한적일 거로 보는 시각도 있습니다.\n\n&lt;박상현 / iM증권 연구원&gt; \"추가적인 하락은 있을 수 있다 하더라도 지금 미국 AI 기업들의 이익 사이클이라든지 또 국내 삼성전자, SK하이닉스의 이익을 보게 되면 좀 주가 하락 폭 자체가 좀 과도하지 않았나….\"\n\n이번 주 시장의 눈은 미국 서버업체 HPE와 델의 실적 발표에 쏠려 있습니다.\n\nAI 수요와 수익성이 여전한지 다시 확인할 기회로 꼽힙니다.\n\n여기에 미국 물가지표 역시 관심인데, 예상치를 웃돌 경우 미국 연방준비제도의 금리 인상 압력이 커져 우리 증시에 부담으로 작용할 전망입니다.\n\n또 오는 26일 한국은행 금융통화위원회 회의도 주요 변수입니다.\n\n기준금리를 인상할 가능성이 점쳐지는 가운데 향후 통화 정책 방향을 어떻게 잡아갈지도 시장 방향에 영향을 줄 거로 보입니다.\n\n연합뉴스TV 윤솔입니다.\n\n[영상편집 박수경]\n\n[그래픽 임혜빈]\n\n[뉴스리뷰]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤솔(solemio@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n지난 금요일 코스피 5,000선이 무너진 데 이어 주말 새 뉴욕증시에서 반도체주가 폭락했습니다.\n\n내일(23일) 국내 증시가 다시 크게 흔들리는 것 아니냐는 우려가 커지고 있는데요.\n\n윤솔 기자입니다.\n\n[기자]\n\n이번 주 우리 증시는 하락 출발이 예상됩니다.\n\n다음 거래일 시황 가늠자로 불리는 코스피200 야간선물이 지난 금요일 밤 거래에서 7% 가까이 떨어졌고, 해외 투자자들의 한국 증시 투자 심리를 보여주는 미국 상장 MSCI 한국 ETF도 8% 넘게 떨어졌습니다.\n\n인공지능 테마가 흔들리면서 주말 사이 뉴욕증시 3대 지수 역시 일제히 급락했습니다.\n\n특히 나스닥지수가 5% 넘게 빠지며 올해 상승분을 모두 반납했고, 필라델피아 반도체지수는 하루 새 10% 넘게 폭락했습니다.\n\n국내 증시는 이미 지난주 큰 충격을 받은 상탭니다.\n\n코스피는 지난 20일 5% 넘게 떨어지며 4,869까지 밀렸고, 한 주 동안에만 8% 가까이 빠졌습니다.\n\n여기서 추가 급락이 이어지면 빚을 내 투자한 개인들의 반대매매 물량이 쏟아질 수 있다는 우려도 나옵니다.\n\n다만 조정이 이미 상당히 이뤄진 만큼 추가 하락폭은 제한적일 거로 보는 시각도 있습니다.\n\n<박상현 / iM증권 연구원> \"추가적인 하락은 있을 수 있다 하더라도 지금 미국 AI 기업들의 이익 사이클이라든지 또 국내 삼성전자, SK하이닉스의 이익을 보게 되면 좀 주가 하락 폭 자체가 좀 과도하지 않았나….\"\n\n이번 주 시장의 눈은 미국 서버업체 HPE와 델의 실적 발표에 쏠려 있습니다.\n\nAI 수요와 수익성이 여전한지 다시 확인할 기회로 꼽힙니다.\n\n여기에 미국 물가지표 역시 관심인데, 예상치를 웃돌 경우 미국 연방준비제도의 금리 인상 압력이 커져 우리 증시에 부담으로 작용할 전망입니다.\n\n또 오는 26일 한국은행 금융통화위원회 회의도 주요 변수입니다.\n\n기준금리를 인상할 가능성이 점쳐지는 가운데 향후 통화 정책 방향을 어떻게 잡아갈지도 시장 방향에 영향을 줄 거로 보입니다.\n\n연합뉴스TV 윤솔입니다.\n\n[영상편집 박수경]\n\n[그래픽 임혜빈]\n\n[뉴스리뷰]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤솔(solemio@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261122/MYH202611221923314U0.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "윤솔",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH202611221923314U0#comments",
+          "content": "[앵커] 지난 금요일 코스피 5,000선이 무너진 데 이어 주말 새 뉴욕증시에서 반도체주가 폭락했습니다. 내일(23일) 국내 증시가 다시 크게 흔들리는 것 아니냐는 우려가 커지고 있는데요. 윤솔 기자입니다. [기자] 이번 주 우리 증시는 하락 출발이 예상됩니다. 다음 거래일 시황 가늠자로 불리는 코스피200 야간선물이 지난 금요일 밤 거래에서 7% 가까이 떨어졌고, 해외 투자자들의 한국 증시 투자 심리를 보여주는 미국 상장 MSCI 한국 ...",
+          "contentSnippet": "[앵커] 지난 금요일 코스피 5,000선이 무너진 데 이어 주말 새 뉴욕증시에서 반도체주가 폭락했습니다. 내일(23일) 국내 증시가 다시 크게 흔들리는 것 아니냐는 우려가 커지고 있는데요. 윤솔 기자입니다. [기자] 이번 주 우리 증시는 하락 출발이 예상됩니다. 다음 거래일 시황 가늠자로 불리는 코스피200 야간선물이 지난 금요일 밤 거래에서 7% 가까이 떨어졌고, 해외 투자자들의 한국 증시 투자 심리를 보여주는 미국 상장 MSCI 한국 ...",
+          "guid": "MYH202611221923314U0",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-22T10:23:32.000Z"
+        },
+        {
+          "creator": "정지훈",
+          "title": "공기총 사격 연습 중 행인 숨지게 한 60대 영장",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261122191925y83",
+          "pubDate": "Sun, 22 Nov 2026 19:19:26 +0900",
+          "content:encoded": "평창경찰서는 오늘(22일) 공기총 사격 연습 중 행인을 숨지게 한 60대 A씨에 대해 중과실치사 혐의로 구속영장을 신청할 방침이라고 밝혔습니다.\n\nA씨는 어제(21일) 오전 11시쯤 평창군의 한 비닐하우스 안에서 과녁을 세워두고 공기총을 쏴 주변을 지나던 60대 마을 주민을 맞혀 숨지게 한 혐의를 받습니다.\n\n경찰은 A씨를 상대로 총포 소지 허가 여부와 총기 반출 경위 등을 추가 조사하고 있습니다.\n\n#공기총 #사격연습 #중과실치사 #강원_평창\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정지훈(daegurain@yna.co.kr)",
+          "content:encodedSnippet": "평창경찰서는 오늘(22일) 공기총 사격 연습 중 행인을 숨지게 한 60대 A씨에 대해 중과실치사 혐의로 구속영장을 신청할 방침이라고 밝혔습니다.\n\nA씨는 어제(21일) 오전 11시쯤 평창군의 한 비닐하우스 안에서 과녁을 세워두고 공기총을 쏴 주변을 지나던 60대 마을 주민을 맞혀 숨지게 한 혐의를 받습니다.\n\n경찰은 A씨를 상대로 총포 소지 허가 여부와 총기 반출 경위 등을 추가 조사하고 있습니다.\n\n#공기총 #사격연습 #중과실치사 #강원_평창\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정지훈(daegurain@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261122/MYH20261122191925y83.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "정지훈",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261122191925y83#comments",
+          "content": "평창경찰서는 오늘(22일) 공기총 사격 연습 중 행인을 숨지게 한 60대 A씨에 대해 중과실치사 혐의로 구속영장을 신청할 방침이라고 밝혔습니다. A씨는 어제(21일) 오전 11시쯤 평창군의 한 비닐하우스 안에서 과녁을 세워두고 공기총을 쏴 주변을 지나던 60대 마을 주민을 맞혀 숨지게 한 혐의를 받습니다. 경찰은 A씨를 상대로 총포 소지 허가 여부와 총기 반출 경위 등을 추가 조사하고 있습니다. #공기총 #사격연습 #중과실치사 #강원_평창...",
+          "contentSnippet": "평창경찰서는 오늘(22일) 공기총 사격 연습 중 행인을 숨지게 한 60대 A씨에 대해 중과실치사 혐의로 구속영장을 신청할 방침이라고 밝혔습니다. A씨는 어제(21일) 오전 11시쯤 평창군의 한 비닐하우스 안에서 과녁을 세워두고 공기총을 쏴 주변을 지나던 60대 마을 주민을 맞혀 숨지게 한 혐의를 받습니다. 경찰은 A씨를 상대로 총포 소지 허가 여부와 총기 반출 경위 등을 추가 조사하고 있습니다. #공기총 #사격연습 #중과실치사 #강원_평창...",
+          "guid": "MYH20261122191925y83",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-22T10:19:26.000Z"
+        },
+        {
+          "creator": "차승은",
+          "title": "한전, 고객 등 개인정보 150만여 건 유출…주민·계좌번호도 포함",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261122191921kgL",
+          "pubDate": "Sun, 22 Nov 2026 19:19:22 +0900",
+          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261122/AKR20261122191921kgL_01_i.jpg\" alt=\"\"><span class=\"yna_title\">한전</span><span class=\"yna_caption\">전남 나주시 빛가람동 한국전력공사 본사 사옥\n[촬영 정회성]</span><span class=\"yna_description\">전남 나주시 빛가람동 한국전력공사 본사 사옥\n[촬영 정회성]</span></div>\n한국전력에서 직원에 이어 이용 고객의 개인정보가 대거 유출되는 사고가 났습니다.\n\n한전은 고객 서비스 플랫폼 '한전ON' 이용자 65만 487명과 구매·공사·용역 등 조달업무를 수행하는 전자조달시스템(SRM) 이용자 87만명의 개인정보가 유출된 사실을 확인했다고 오늘(22일) 밝혔습니다.\n\n한전ON의 경우 전기사용 고객의 고객번호, 고객명, 주민·외국인등록번호, 전화번호, 주소, 은행명, 계좌번호, 예금주명, 카드사, 카드번호, 카드명의자, 요금 및 청구정보 등 총 12개 항목이 유출됐습니다.\n\n전자조달시스템에서 기업 대표자 성명, 주민·외국인등록번호, 이메일, 회사주소 4개 항목이 유출된 인원은 42만 6,827명에 달합니다. 한전 직원과 기업 직원 44만 2,934명은 성명과 소속, 사번, 휴대전화 번호, 이메일, 회사 전화번호 등 6개 항목이 유출됐습니다.\n\n한전은 지난 20일 상황을 인지한 뒤 외부 IP 접속을 중단하고 해당 서비스를 중단했다고 설명했습니다.\n\n또 개인정보 유출이 확인된 고객에게 유출 사실을 안내하고 국가정보원, 기후에너지환경부 사이버안전센터, 외부 전문가 등과 조사에 나섰습니다.\n\n한전은 지난달에도 직원과 퇴직자, 협력사 직원 등 총 3만 5,528명의 이름과 전화번호 등이 유출된 사실을 확인했으며 수사 의뢰 등 후속조치에 나섰다고 밝힌 바 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n차승은(chaletuno@yna.co.kr)",
+          "content:encodedSnippet": "한전전남 나주시 빛가람동 한국전력공사 본사 사옥\n[촬영 정회성]전남 나주시 빛가람동 한국전력공사 본사 사옥\n[촬영 정회성]\n한국전력에서 직원에 이어 이용 고객의 개인정보가 대거 유출되는 사고가 났습니다.\n\n한전은 고객 서비스 플랫폼 '한전ON' 이용자 65만 487명과 구매·공사·용역 등 조달업무를 수행하는 전자조달시스템(SRM) 이용자 87만명의 개인정보가 유출된 사실을 확인했다고 오늘(22일) 밝혔습니다.\n\n한전ON의 경우 전기사용 고객의 고객번호, 고객명, 주민·외국인등록번호, 전화번호, 주소, 은행명, 계좌번호, 예금주명, 카드사, 카드번호, 카드명의자, 요금 및 청구정보 등 총 12개 항목이 유출됐습니다.\n\n전자조달시스템에서 기업 대표자 성명, 주민·외국인등록번호, 이메일, 회사주소 4개 항목이 유출된 인원은 42만 6,827명에 달합니다. 한전 직원과 기업 직원 44만 2,934명은 성명과 소속, 사번, 휴대전화 번호, 이메일, 회사 전화번호 등 6개 항목이 유출됐습니다.\n\n한전은 지난 20일 상황을 인지한 뒤 외부 IP 접속을 중단하고 해당 서비스를 중단했다고 설명했습니다.\n\n또 개인정보 유출이 확인된 고객에게 유출 사실을 안내하고 국가정보원, 기후에너지환경부 사이버안전센터, 외부 전문가 등과 조사에 나섰습니다.\n\n한전은 지난달에도 직원과 퇴직자, 협력사 직원 등 총 3만 5,528명의 이름과 전화번호 등이 유출된 사실을 확인했으며 수사 의뢰 등 후속조치에 나섰다고 밝힌 바 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n차승은(chaletuno@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261122/AKR20261122191921kgL_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "차승은",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261122191921kgL#comments",
+          "content": "한전전남 나주시 빛가람동 한국전력공사 본사 사옥 [촬영 정회성]전남 나주시 빛가람동 한국전력공사 본사 사옥 [촬영 정회성] 한국전력에서 직원에 이어 이용 고객의 개인정보가 대거 유출되는 사고가 났습니다. 한전은 고객 서비스 플랫폼 '한전ON' 이용자 65만 487명과 구매·공사·용역 등 조달업무를 수행하는 전자조달시스템(SRM) 이용자 87만명의 개인정보가 유출된 사실을 확인했다고 오늘(22일) 밝혔습니다. 한전ON의 경우 전기사용 고객의...",
+          "contentSnippet": "한전전남 나주시 빛가람동 한국전력공사 본사 사옥 [촬영 정회성]전남 나주시 빛가람동 한국전력공사 본사 사옥 [촬영 정회성] 한국전력에서 직원에 이어 이용 고객의 개인정보가 대거 유출되는 사고가 났습니다. 한전은 고객 서비스 플랫폼 '한전ON' 이용자 65만 487명과 구매·공사·용역 등 조달업무를 수행하는 전자조달시스템(SRM) 이용자 87만명의 개인정보가 유출된 사실을 확인했다고 오늘(22일) 밝혔습니다. 한전ON의 경우 전기사용 고객의...",
+          "guid": "AKR20261122191921kgL",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-22T10:19:22.000Z"
         }
       ]
     }
