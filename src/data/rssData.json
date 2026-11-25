@@ -7,12 +7,122 @@
       "priority": 1,
       "data": [
         {
-          "title": "Microsoft, 대규모 장애 이후 ‘Code Red’ 선언한 사실 내부 메모로 확인",
+          "title": "심장마비와 뇌졸중 위험, 수십 년 전에 감지 가능",
+          "link": "https://news.hada.io/topic?id=37812&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-25T02:33:32.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>심혈관질환 위험 요인의 장기 변화</strong>를 추적하면 심장마비나 뇌졸중 발생 최대 30년 전부터 위험군을 예측하는 데 도움이 될 수 있다는 연구 결과가 나옴</li><li>에든버러대학교 주도 연구팀은 미국, 노르웨이, 영국의 인구집단 연구 4건에서 <strong>10만 명 이상</strong>의 데이터를 분석해 심혈관 사건 발생 여부에 따른 위험 요인의 변화 양상을 비교함</li><li>이후 심혈관질환이 발생한 집단은 발생하지 않은 집단보다 <strong>수축기 혈압</strong>이 30년 전부터 평균 4mmHg 높았으며, 사건 발생 시점에 가까워질수록 차이가 7mmHg로 커짐</li><li>젊은 나이에 심혈관 사건을 겪은 사람은 수</li></ul></div>…",
+          "contentSnippet": "심혈관질환 위험 요인의 장기 변화를 추적하면 심장마비나 뇌졸중 발생 최대 30년 전부터 위험군을 예측하는 데 도움이 될 수 있다는 연구 결과가 나옴\n에든버러대학교 주도 연구팀은 미국, 노르웨이, 영국의 인구집단 연구 4건에서 10만 명 이상의 데이터를 분석해 심혈관 사건 발생 여부에 따른 위험 요인의 변화 양상을 비교함\n이후 심혈관질환이 발생한 집단은 발생하지 않은 집단보다 수축기 혈압이 30년 전부터 평균 4mmHg 높았으며, 사건 발생 시점에 가까워질수록 차이가 7mmHg로 커짐\n젊은 나이에 심혈관 사건을 겪은 사람은 수\n\n…",
+          "id": "https://news.hada.io/topic?id=37812",
+          "isoDate": "2026-11-25T02:33:32.000Z"
+        },
+        {
+          "title": "Show GN: Tern - Ctrl+ㅊ 를 Ctrl-C 로 처리해주는 한글 특화 터미널 에뮬레이터 앱",
+          "link": "https://news.hada.io/topic?id=37811&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-25T02:20:17.000Z",
+          "author": "luftaquila",
+          "content": "<div><p>저는 데스크탑에서 하던 작업을 어디서나 그대로 이어가기 위해 서버에 tmux를 켜놓고 SSH로 붙어서 사용하고 있습니다.</p><p>컴퓨터로 작업하다가 밥 먹으러 나와서 폰에서 SSH로 LLM들이 잘 하고 있나 보고 다음 프롬프트를 넣기 위해 들어가는 경우가 많은데요,</p><p>안드로이드의 터미널 앱들은 대부분 한글 입력이 아예 불가능하고, 최근 LLM 덕에 지원하는 앱이 늘긴 했지만 사용자 경험이 그렇게 매끄럽지는 않았습니다. 한글 폰트도 따로 넣어주지 않으면 못생긴 fallback 폰트가 나오고요.</p><p>그래서 앱을 직접 만들었습니다. 별로 특별한 건</p></div>…",
+          "contentSnippet": "저는 데스크탑에서 하던 작업을 어디서나 그대로 이어가기 위해 서버에 tmux를 켜놓고 SSH로 붙어서 사용하고 있습니다.\n컴퓨터로 작업하다가 밥 먹으러 나와서 폰에서 SSH로 LLM들이 잘 하고 있나 보고 다음 프롬프트를 넣기 위해 들어가는 경우가 많은데요,\n안드로이드의 터미널 앱들은 대부분 한글 입력이 아예 불가능하고, 최근 LLM 덕에 지원하는 앱이 늘긴 했지만 사용자 경험이 그렇게 매끄럽지는 않았습니다. 한글 폰트도 따로 넣어주지 않으면 못생긴 fallback 폰트가 나오고요.\n그래서 앱을 직접 만들었습니다. 별로 특별한 건\n…",
+          "id": "https://news.hada.io/topic?id=37811",
+          "isoDate": "2026-11-25T02:20:17.000Z"
+        },
+        {
+          "title": "GPT-6 모델, 내재적 단백질 설계 능력 입증",
+          "link": "https://news.hada.io/topic?id=37808&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-25T01:34:23.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>OpenAI의 <strong>GPT-6 계열 모델</strong>이 전문 생물학 모델을 호출하지 않고 추론과 범용 코딩 도구만으로 새로운 단백질의 3차원 구조와 아미노산 서열을 설계하는 능력을 보임</li><li><strong>자연어 프롬프트</strong>로 결합 위치, 단백질 형태, 특정 원자 사이의 결합 같은 조건을 전달할 수 있으며, 내부 연구 모델은 여러 계산 평가에서 전문 모델과 대등하거나 더 높은 성능을 기록함</li><li>Onava와 진행한 실험에서 GPT-6.2가 설계한 구조를 바탕으로 만든 미니바인더 322개 중 <strong>35개(10.9%)</strong> 가 표적에 결합하는 징후를 보였으며, 시험한 5개 표적 모두에서 결합 후보를 확보함</li></ul></div>…",
+          "contentSnippet": "OpenAI의 GPT-6 계열 모델이 전문 생물학 모델을 호출하지 않고 추론과 범용 코딩 도구만으로 새로운 단백질의 3차원 구조와 아미노산 서열을 설계하는 능력을 보임\n자연어 프롬프트로 결합 위치, 단백질 형태, 특정 원자 사이의 결합 같은 조건을 전달할 수 있으며, 내부 연구 모델은 여러 계산 평가에서 전문 모델과 대등하거나 더 높은 성능을 기록함\nOnava와 진행한 실험에서 GPT-6.2가 설계한 구조를 바탕으로 만든 미니바인더 322개 중 35개(10.9%) 가 표적에 결합하는 징후를 보였으며, 시험한 5개 표적 모두에서 결합 후보를 확보함\n\n…",
+          "id": "https://news.hada.io/topic?id=37808",
+          "isoDate": "2026-11-25T01:34:23.000Z"
+        },
+        {
+          "title": "AI 네이티브 서비스 비즈니스 모델의 내부 구조",
+          "link": "https://news.hada.io/topic?id=37807&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-25T01:20:02.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>AI 네이티브 서비스는 계약 검토 도구를 파는 대신 계약 검토를 직접 맡는 사업</strong>임. 완성된 업무와 그에 대한 책임을 판매하며, 초기 매출이 발생해도 인력을 비례해서 늘리지 않고 품질과 업무량을 유지할 수 있는지는 별도로 검증해야 함</li><li>검증할 것은 <strong>고객이 다시 일을 맡기는지</strong>, <strong>고객이 늘어도 건당 인력과 비용을 줄일 수 있는지</strong>임. 맞춤 대응에 사람을 많이 쓰면 비용이 함께 늘고, 자동화를 과하게 밀어붙이면 품질과 신뢰를 잃을 수 있음</li><li><strong>반복 의뢰와 고객당 업무량으로 수요를 확인하고</strong>, 사람의 투입 시간, 건당 가격과 비용, 처리 시간과 재작업으로 운영이 나아지는지 살펴야 함. 첫 매출이 생겼다고 고객 수요와 확장성 검증이 끝난 것은 아님</li></ul></div>…",
+          "contentSnippet": "AI 네이티브 서비스는 계약 검토 도구를 파는 대신 계약 검토를 직접 맡는 사업임. 완성된 업무와 그에 대한 책임을 판매하며, 초기 매출이 발생해도 인력을 비례해서 늘리지 않고 품질과 업무량을 유지할 수 있는지는 별도로 검증해야 함\n검증할 것은 고객이 다시 일을 맡기는지, 고객이 늘어도 건당 인력과 비용을 줄일 수 있는지임. 맞춤 대응에 사람을 많이 쓰면 비용이 함께 늘고, 자동화를 과하게 밀어붙이면 품질과 신뢰를 잃을 수 있음\n반복 의뢰와 고객당 업무량으로 수요를 확인하고, 사람의 투입 시간, 건당 가격과 비용, 처리 시간과 재작업으로 운영이 나아지는지 살펴야 함. 첫 매출이 생겼다고 고객 수요와 확장성 검증이 끝난 것은 아님\n\n…",
+          "id": "https://news.hada.io/topic?id=37807",
+          "isoDate": "2026-11-25T01:20:02.000Z"
+        },
+        {
+          "title": "2026년 기업용 AI 현황",
+          "link": "https://news.hada.io/topic?id=37806&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-25T01:10:02.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>기업용 AI 활용 지출이 2026년 9월 기준 <strong>연환산 1,770억 달러</strong>로 전년 대비 5.4배 증가함. 에이전트의 자율 병렬 실행으로 지출이 사용자 수보다 <strong>수행하는 업무량</strong>에 연동되기 시작함</li><li>Anthropic, OpenAI, Google이 전체 AI 활용 지출의 <strong>69%</strong> 를 차지함. 저렴한 대안이 늘어도 구매자는 <strong>모델 성능</strong>에 더 높은 가격을 지불하고 있음</li><li><strong>코딩과 기업용 챗봇이 773억 달러 규모 AI 앱 시장의 76%</strong> 를 차지함. 코드와 업무 도구에 접근하고, 문서와 작업 사례를 참고하며, 테스트나 명확한 성공 기준으로 결과를 확인할 수 있는 분야에 지출이 집중됨</li></ul></div>…",
+          "contentSnippet": "기업용 AI 활용 지출이 2026년 9월 기준 연환산 1,770억 달러로 전년 대비 5.4배 증가함. 에이전트의 자율 병렬 실행으로 지출이 사용자 수보다 수행하는 업무량에 연동되기 시작함\nAnthropic, OpenAI, Google이 전체 AI 활용 지출의 69% 를 차지함. 저렴한 대안이 늘어도 구매자는 모델 성능에 더 높은 가격을 지불하고 있음\n코딩과 기업용 챗봇이 773억 달러 규모 AI 앱 시장의 76% 를 차지함. 코드와 업무 도구에 접근하고, 문서와 작업 사례를 참고하며, 테스트나 명확한 성공 기준으로 결과를 확인할 수 있는 분야에 지출이 집중됨\n\n…",
+          "id": "https://news.hada.io/topic?id=37806",
+          "isoDate": "2026-11-25T01:10:02.000Z"
+        },
+        {
+          "title": "오픈 소스에서 월 반복 매출 2만 달러까지: EmailEngine의 여정",
+          "link": "https://news.hada.io/topic?id=37804&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-25T01:00:03.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>이메일 계정을 REST API로 다루는 EmailEngine</strong>은 무료 오픈소스와 선택적 상업용 라이선스 판매에서 <strong>사용에 유료 구독이 필요한 소스 공개형 소프트웨어</strong>로 전환한 뒤, 월 반복 매출 2만 달러에 도달함</li><li>고객들은 <strong>AGPL 대신 MIT 라이선스를 쓰는 데에는 거의 돈을 내지 않았지만</strong>, 이미 업무에 쓰던 소프트웨어를 계속 사용하고 업데이트받는 데에는 비용을 지불함</li><li>전환 전 1년 반 동안 총매출은 <strong>750유로</strong>였지만, 전환 첫 달에는 <strong>2,000달러</strong>를 벌었으며 제품이나 마케팅의 획기적 변화보다 과금 방식 변경이 전환점이 됨</li><li>현재 표준 구독료는 <strong>연</strong></li></ul></div>…",
+          "contentSnippet": "이메일 계정을 REST API로 다루는 EmailEngine은 무료 오픈소스와 선택적 상업용 라이선스 판매에서 사용에 유료 구독이 필요한 소스 공개형 소프트웨어로 전환한 뒤, 월 반복 매출 2만 달러에 도달함\n고객들은 AGPL 대신 MIT 라이선스를 쓰는 데에는 거의 돈을 내지 않았지만, 이미 업무에 쓰던 소프트웨어를 계속 사용하고 업데이트받는 데에는 비용을 지불함\n전환 전 1년 반 동안 총매출은 750유로였지만, 전환 첫 달에는 2,000달러를 벌었으며 제품이나 마케팅의 획기적 변화보다 과금 방식 변경이 전환점이 됨\n현재 표준 구독료는 연\n\n…",
+          "id": "https://news.hada.io/topic?id=37804",
+          "isoDate": "2026-11-25T01:00:03.000Z"
+        },
+        {
+          "title": "Cloudflare가 기반 인프라의 미비점을 가림",
+          "link": "https://news.hada.io/topic?id=37802&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-25T00:38:52.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>Cloudflare는 수백만 웹사이트에 <strong>TLS, IPv6, 양자내성 암호화</strong> 등 현대적 표준을 확산했지만, 사용자에게 보이는 연결과 실제 원본 서버 연결 사이의 차이를 가리기도 함</li><li>사용자와 Cloudflare 사이에서 최신 기술을 지원하더라도, <strong>원본 서버 연결</strong>은 전혀 암호화되지 않고 IPv4에만 의존할 수 있음</li><li>관리자가 연결 상태를 확인할 도구는 있지만 <strong>종합적인 가시성</strong>이 부족하며, 직접 찾아보지 않아도 문제를 알 수 있는 대시보드 경고와 선제적 알림이 필요함</li><li>Cloudflare는 원본 서버에 IPv4와 IPv6 주소가 모두 있어도 <strong>IPv4를 우선</strong>하므로, 관리</li></ul></div>…",
+          "contentSnippet": "Cloudflare는 수백만 웹사이트에 TLS, IPv6, 양자내성 암호화 등 현대적 표준을 확산했지만, 사용자에게 보이는 연결과 실제 원본 서버 연결 사이의 차이를 가리기도 함\n사용자와 Cloudflare 사이에서 최신 기술을 지원하더라도, 원본 서버 연결은 전혀 암호화되지 않고 IPv4에만 의존할 수 있음\n관리자가 연결 상태를 확인할 도구는 있지만 종합적인 가시성이 부족하며, 직접 찾아보지 않아도 문제를 알 수 있는 대시보드 경고와 선제적 알림이 필요함\nCloudflare는 원본 서버에 IPv4와 IPv6 주소가 모두 있어도 IPv4를 우선하므로, 관리\n\n…",
+          "id": "https://news.hada.io/topic?id=37802",
+          "isoDate": "2026-11-25T00:38:52.000Z"
+        },
+        {
+          "title": "iPod Nano 5G 해방하기",
+          "link": "https://news.hada.io/topic?id=37801&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-25T00:35:52.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>iPod nano 5G에서 설치 후 <strong>컴퓨터 연결이나 버튼 조작 없이 Rockbox로 부팅</strong>하는 부트 체인을 구현함</li><li>기기 전용 인증 정보가 담긴 <strong>PRVD 레코드</strong>를 수정하면 정상 부팅 경로에서도 리소스 서명 검사를 건너뛰며, 변조한 폰트의 취약점으로 코드 실행이 가능함</li><li>폰트에 넣을 수 있는 주 페이로드는 <strong>27,874바이트</strong>로 제한되며, 이 안에 NAND 드라이버, 플래시 변환 계층, 파일시스템 읽기와 Rockbox 로딩 기능을 담음</li><li>손상된 폰트 파서에서 안전하게 제어권을 넘기기 위해 <strong>2단계 부트스트랩</strong>을 사용하고, NAND에서 읽은 Rockbox 이미지의 모델 식</li></ul></div>…",
+          "contentSnippet": "iPod nano 5G에서 설치 후 컴퓨터 연결이나 버튼 조작 없이 Rockbox로 부팅하는 부트 체인을 구현함\n기기 전용 인증 정보가 담긴 PRVD 레코드를 수정하면 정상 부팅 경로에서도 리소스 서명 검사를 건너뛰며, 변조한 폰트의 취약점으로 코드 실행이 가능함\n폰트에 넣을 수 있는 주 페이로드는 27,874바이트로 제한되며, 이 안에 NAND 드라이버, 플래시 변환 계층, 파일시스템 읽기와 Rockbox 로딩 기능을 담음\n손상된 폰트 파서에서 안전하게 제어권을 넘기기 위해 2단계 부트스트랩을 사용하고, NAND에서 읽은 Rockbox 이미지의 모델 식\n\n…",
+          "id": "https://news.hada.io/topic?id=37801",
+          "isoDate": "2026-11-25T00:35:52.000Z"
+        },
+        {
+          "title": "MailFlow - 여러 이메일 계정을 한곳에서 관리하는 셀프호스팅 웹메일",
+          "link": "https://news.hada.io/topic?id=37800&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-25T00:30:02.000Z",
+          "author": "xguru",
+          "content": "<div><ul><li><strong>Gmail, iCloud, Outlook과 기존 IMAP 계정을 하나의 받은편지함으로 통합</strong>해, 계정마다 웹메일을 오가지 않고 메일을 읽고 답장</li><li><strong>웹메일 앱을 내 서버에 설치</strong>하고, 실제 메일 송수신은 연결한 계정의 IMAP/SMTP 서버를 사용</li><li>모든 계정의 메일을 <strong>한 번에 검색</strong>하고, 대화별로 묶어 주고받은 내용을 확인</li><li>메일을 주요 메일, 뉴스레터, 소셜, 알림 등으로 자동 분류하고 뉴스레터 구독 해제 버튼 제공</li><li>발신자, 제목, 본문과 첨부파일 조건으로 <strong>이동, 보관, 삭제 같은 반복 작업을 자동화</strong></li><li><strong>예약 발송과 다시 알림</strong>으로 보낼 시간과 다시 확인할 시</li></ul></div>…",
+          "contentSnippet": "Gmail, iCloud, Outlook과 기존 IMAP 계정을 하나의 받은편지함으로 통합해, 계정마다 웹메일을 오가지 않고 메일을 읽고 답장\n웹메일 앱을 내 서버에 설치하고, 실제 메일 송수신은 연결한 계정의 IMAP/SMTP 서버를 사용\n모든 계정의 메일을 한 번에 검색하고, 대화별로 묶어 주고받은 내용을 확인\n메일을 주요 메일, 뉴스레터, 소셜, 알림 등으로 자동 분류하고 뉴스레터 구독 해제 버튼 제공\n발신자, 제목, 본문과 첨부파일 조건으로 이동, 보관, 삭제 같은 반복 작업을 자동화\n예약 발송과 다시 알림으로 보낼 시간과 다시 확인할 시\n\n…",
+          "id": "https://news.hada.io/topic?id=37800",
+          "isoDate": "2026-11-25T00:30:02.000Z"
+        },
+        {
+          "title": "데이터 표현을 위한 Lua",
+          "link": "https://news.hada.io/topic?id=37799&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-25T00:01:59.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>Lua는 프로그램에 내장하기 위해 설계된 <strong>단순성과 유연성</strong>을 바탕으로 데이터와 설정을 표현하는 언어로도 활용할 수 있음</li><li><strong>여러 줄 문자열</strong>의 구분자를 내용에 맞게 조절할 수 있고, 파서가 대규모 파일을 처리하도록 설계되어 데이터 표현에 적합함</li><li>테이블을 반환하는 <strong>JSON 스타일</strong>, 전역 변수 할당을 수집하는 INI 스타일, 함수 호출로 데이터를 구성하는 명령형 스타일을 지원함</li><li>신뢰할 수 없는 데이터에는 이 방식을 권하지 않으며, 사용한다면 <strong>환경 제한과 바이트코드 거부</strong>가 중요하고 자원 소모를 통한 서비스 거부도 별도로 고려해야</li></ul></div>…",
+          "contentSnippet": "Lua는 프로그램에 내장하기 위해 설계된 단순성과 유연성을 바탕으로 데이터와 설정을 표현하는 언어로도 활용할 수 있음\n여러 줄 문자열의 구분자를 내용에 맞게 조절할 수 있고, 파서가 대규모 파일을 처리하도록 설계되어 데이터 표현에 적합함\n테이블을 반환하는 JSON 스타일, 전역 변수 할당을 수집하는 INI 스타일, 함수 호출로 데이터를 구성하는 명령형 스타일을 지원함\n신뢰할 수 없는 데이터에는 이 방식을 권하지 않으며, 사용한다면 환경 제한과 바이트코드 거부가 중요하고 자원 소모를 통한 서비스 거부도 별도로 고려해야\n\n…",
+          "id": "https://news.hada.io/topic?id=37799",
+          "isoDate": "2026-11-25T00:01:59.000Z"
+        },
+        {
+          "title": "유휴 컴퓨팅 자원으로 로컬 모델을 학습시키는 엔진",
+          "link": "https://news.hada.io/topic?id=37798&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-24T23:31:27.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>Songe</strong>는 로컬 모델을 평소처럼 사용하는 동안 도구 실행 결과, 오류, 사용자 수정과 선호를 기록하고, 에이전트가 조용할 때 이를 학습에 활용함</li><li><strong>Quick Dream</strong>은 사용자 선호를 모델 지침에 추가하고, <strong>Deep Dream</strong>은 학습용 연습 상황을 생성해 작은 어댑터를 훈련함</li><li>실제 대화는 직접 훈련하지 않으며, <strong>온폴리시 증류(on-policy distillation)</strong> 와 기존 능력 복습을 통해 모델을 학습시킴</li><li>새 버전은 사용자 대화에 대한 평가에서 <strong>명확한 개선</strong>을 보이고 기존에 잘하던 동작을 유지하는 경우에만 적용되며, 이전 버전으로 되돌릴 수 있음</li><li><strong>모든</strong></li></ul></div>…",
+          "contentSnippet": "Songe는 로컬 모델을 평소처럼 사용하는 동안 도구 실행 결과, 오류, 사용자 수정과 선호를 기록하고, 에이전트가 조용할 때 이를 학습에 활용함\nQuick Dream은 사용자 선호를 모델 지침에 추가하고, Deep Dream은 학습용 연습 상황을 생성해 작은 어댑터를 훈련함\n실제 대화는 직접 훈련하지 않으며, 온폴리시 증류(on-policy distillation) 와 기존 능력 복습을 통해 모델을 학습시킴\n새 버전은 사용자 대화에 대한 평가에서 명확한 개선을 보이고 기존에 잘하던 동작을 유지하는 경우에만 적용되며, 이전 버전으로 되돌릴 수 있음\n모든\n\n…",
+          "id": "https://news.hada.io/topic?id=37798",
+          "isoDate": "2026-11-24T23:31:27.000Z"
+        },
+        {
+          "title": "Microsoft, 대규모 장애 이후 ‘Code Red’ 선언…내부 메모로 드러난 대응 문제",
           "link": "https://news.hada.io/topic?id=37797&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
           "pubDate": "2026-11-24T22:38:44.000Z",
           "author": "neo",
-          "content": "<div><ul><li>Microsoft가 <strong>24시간 서비스 장애</strong>로 드러난 엔지니어링 체계와 위기 대응의 취약점을 개선하기 위해 최상위 긴급 대응인 <strong>Code Red</strong>를 발동함</li><li>Exchange Online 역사상 고객 영향이 가장 컸던 장애로, <strong>Outlook, Teams, Copilot</strong> 등 Microsoft 365 서비스와 여러 국가의 정부, 금융 거래 업체, 항공사 통신에 차질이 발생함</li><li>원인은 7월에 도입된 뒤 발견되지 않은 <strong>Windows 확장성 결함</strong>이며, Microsoft는 사이버 활동이나 AI 에이전트와는 무관하다고 밝힘</li><li>대응 과정에서는 <strong>진단 데이터의 분산</strong> 때문에 가설과 의사결정을 일관되게 파악하기 어려</li></ul></div>…",
-          "contentSnippet": "Microsoft가 24시간 서비스 장애로 드러난 엔지니어링 체계와 위기 대응의 취약점을 개선하기 위해 최상위 긴급 대응인 Code Red를 발동함\nExchange Online 역사상 고객 영향이 가장 컸던 장애로, Outlook, Teams, Copilot 등 Microsoft 365 서비스와 여러 국가의 정부, 금융 거래 업체, 항공사 통신에 차질이 발생함\n원인은 7월에 도입된 뒤 발견되지 않은 Windows 확장성 결함이며, Microsoft는 사이버 활동이나 AI 에이전트와는 무관하다고 밝힘\n대응 과정에서는 진단 데이터의 분산 때문에 가설과 의사결정을 일관되게 파악하기 어려\n\n…",
+          "content": "<div><ul><li>Microsoft가 <strong>24시간 서비스 장애 이후 재발 방지와 복구 체계 개선을 최우선으로 추진하는 ‘Code Red’에 돌입</strong>함. 내부 메모에는 엔지니어링 체계와 장애 대응 과정의 취약점이 드러남</li><li>Exchange Online 역사상 고객 영향이 가장 컸던 장애로, <strong>Outlook, Teams, Copilot</strong> 등 Microsoft 365 서비스와 여러 국가의 정부, 금융 거래 업체, 항공사 통신에 차질이 발생함</li><li>원인은 7월에 도입된 뒤 발견되지 않은 <strong>Windows 확장성 결함</strong>이며, Microsoft는 사이버 활동이나 AI 에이전트와는 무관하다고 밝힘</li><li>대응 인력이 <strong>Teams 채팅방 11개에서 메시지</strong></li></ul></div>…",
+          "contentSnippet": "Microsoft가 24시간 서비스 장애 이후 재발 방지와 복구 체계 개선을 최우선으로 추진하는 ‘Code Red’에 돌입함. 내부 메모에는 엔지니어링 체계와 장애 대응 과정의 취약점이 드러남\nExchange Online 역사상 고객 영향이 가장 컸던 장애로, Outlook, Teams, Copilot 등 Microsoft 365 서비스와 여러 국가의 정부, 금융 거래 업체, 항공사 통신에 차질이 발생함\n원인은 7월에 도입된 뒤 발견되지 않은 Windows 확장성 결함이며, Microsoft는 사이버 활동이나 AI 에이전트와는 무관하다고 밝힘\n대응 인력이 Teams 채팅방 11개에서 메시지\n\n…",
           "id": "https://news.hada.io/topic?id=37797",
           "isoDate": "2026-11-24T22:38:44.000Z"
         },
@@ -21,8 +131,8 @@
           "link": "https://news.hada.io/topic?id=37796&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
           "pubDate": "2026-11-24T22:35:44.000Z",
           "author": "neo",
-          "content": "<div><ul><li>PrismML이 Qwen3.8 27B 기반 <strong>Ternary Bonsai 2.5 27B</strong>를 공개함. 이전 버전의 <strong>5.9GB 모델 크기</strong>를 유지하면서 에이전트 코딩, 여러 턴에 걸친 도구 사용, 다단계 작업 실행을 강화함</li><li>연속된 도구 호출에서 결과 해석, 실패 시 대응, 작업 목표 유지 능력을 개선하고 <strong>과도한 추론과 반복 루프</strong>를 줄임. PrismML에 따르면 이전 버전보다 적은 턴과 토큰으로 작업을 더 빠르고 정확하게 완료함</li><li>자체 평가에서 <strong>SWE-bench Verified</strong> 점수는 60.8에서 75.6으로, <strong>AppWorld</strong>는 51.2에서 90.5로 상승해 전체 정밀도 기반 모델과의 격차를 줄임. 다만 LiveCodeBench v6 점수는 소폭 하락함</li></ul></div>…",
-          "contentSnippet": "PrismML이 Qwen3.8 27B 기반 Ternary Bonsai 2.5 27B를 공개함. 이전 버전의 5.9GB 모델 크기를 유지하면서 에이전트 코딩, 여러 턴에 걸친 도구 사용, 다단계 작업 실행을 강화함\n연속된 도구 호출에서 결과 해석, 실패 시 대응, 작업 목표 유지 능력을 개선하고 과도한 추론과 반복 루프를 줄임. PrismML에 따르면 이전 버전보다 적은 턴과 토큰으로 작업을 더 빠르고 정확하게 완료함\n자체 평가에서 SWE-bench Verified 점수는 60.8에서 75.6으로, AppWorld는 51.2에서 90.5로 상승해 전체 정밀도 기반 모델과의 격차를 줄임. 다만 LiveCodeBench v6 점수는 소폭 하락함\n\n…",
+          "content": "<div><ul><li>PrismML이 Qwen3.8 27B 기반 <strong>Ternary Bonsai 2.5 27B</strong>를 공개함. 이전 버전의 <strong>5.9GB 모델 크기</strong>를 유지하면서 에이전트 코딩, 여러 턴에 걸친 도구 사용, 다단계 작업 실행을 강화함</li><li>연속된 도구 호출에서 결과 해석, 실패 시 대응, 작업 목표 유지 능력을 개선하고 <strong>과도한 추론과 반복 루프</strong>를 줄임. PrismML에 따르면 이전 버전보다 적은 턴과 토큰으로 작업을 더 빠르고 정확하게 완료함</li><li>자체 평가에서 <strong>SWE-bench Verified는 60.8에서 75.6으로, AppWorld는 51.2에서 90.5로 상승</strong>해 압축 전 원본 Qwen3.8 27B와의 격차를 줄임. 다만 LiveCodeBench v6 점수는 소폭 하락함</li></ul></div>…",
+          "contentSnippet": "PrismML이 Qwen3.8 27B 기반 Ternary Bonsai 2.5 27B를 공개함. 이전 버전의 5.9GB 모델 크기를 유지하면서 에이전트 코딩, 여러 턴에 걸친 도구 사용, 다단계 작업 실행을 강화함\n연속된 도구 호출에서 결과 해석, 실패 시 대응, 작업 목표 유지 능력을 개선하고 과도한 추론과 반복 루프를 줄임. PrismML에 따르면 이전 버전보다 적은 턴과 토큰으로 작업을 더 빠르고 정확하게 완료함\n자체 평가에서 SWE-bench Verified는 60.8에서 75.6으로, AppWorld는 51.2에서 90.5로 상승해 압축 전 원본 Qwen3.8 27B와의 격차를 줄임. 다만 LiveCodeBench v6 점수는 소폭 하락함\n\n…",
           "id": "https://news.hada.io/topic?id=37796",
           "isoDate": "2026-11-24T22:35:44.000Z"
         },
@@ -95,116 +205,6 @@
           "contentSnippet": "드론으로 만든 폐차장 지도",
           "id": "https://news.hada.io/topic?id=37789",
           "isoDate": "2026-11-24T17:36:54.000Z"
-        },
-        {
-          "title": "Tidal, AI 생성 음악 금지",
-          "link": "https://news.hada.io/topic?id=37788&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-24T17:33:53.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>Tidal</strong>이 전적으로 AI로 생성됐다고 판단한 음원을 금지하고, 2026년 12월 9일부터 삭제를 시작해 이듬해 초까지 제거할 계획임</li><li>최근 90일간 Tidal에 공급된 음원의 <strong>43%가 AI 생성 음원으로 탐지</strong>됐으며, 기존 수익화 제한과 표시 의무보다 강력한 조치를 도입함</li><li>이번 조치로 <strong>2,900만 곡을 삭제</strong>하고, 하루 8만~8만 5,000곡의 유입을 거부할 예정임</li><li>Tidal 책임자에 따르면 AI 생성 곡의 <strong>96%는 재생 횟수가 0회</strong>이며, 다른 스트리밍 플랫폼에도 같은 금지 조치를 촉구함</li><li><strong>Apple Music과 Spotify</strong>는 AI 음원이나 아티스트 표시 정책을 추진 중이며</li></ul></div>…",
-          "contentSnippet": "Tidal이 전적으로 AI로 생성됐다고 판단한 음원을 금지하고, 2026년 12월 9일부터 삭제를 시작해 이듬해 초까지 제거할 계획임\n최근 90일간 Tidal에 공급된 음원의 43%가 AI 생성 음원으로 탐지됐으며, 기존 수익화 제한과 표시 의무보다 강력한 조치를 도입함\n이번 조치로 2,900만 곡을 삭제하고, 하루 8만~8만 5,000곡의 유입을 거부할 예정임\nTidal 책임자에 따르면 AI 생성 곡의 96%는 재생 횟수가 0회이며, 다른 스트리밍 플랫폼에도 같은 금지 조치를 촉구함\nApple Music과 Spotify는 AI 음원이나 아티스트 표시 정책을 추진 중이며\n\n…",
-          "id": "https://news.hada.io/topic?id=37788",
-          "isoDate": "2026-11-24T17:33:53.000Z"
-        },
-        {
-          "title": "Brendan Gregg의 제단에서 경배하기",
-          "link": "https://news.hada.io/topic?id=37787&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-24T16:44:02.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>결정론적 VM <strong>Rewind</strong>에 녹화 기록의 임계 경로를 분석하는 <code>rewind time</code> 명령이 추가됨. 시간이 어디에 쓰였고 어느 부분을 줄여야 실행이 빨라지는지 확인한 뒤 해당 소스 코드까지 추적할 수 있음</li><li><strong>임계 경로</strong>는 서로 의존하는 작업의 가장 긴 연결로, CPU를 아무리 늘려도 실행 시간을 그보다 줄일 수 없음. libuv 빌드와 테스트는 VM의 단일 CPU에서 78초가 걸렸고 임계 경로는 47.4초였음</li><li>이 사례에서 임계 경로의 <strong>67%는 수면 상태</strong>였음. CPU 프로파일만으로는 잘 드러나지 않는 타이머 대기가 테스트 실행 시간을 지배함</li><li>Rewind는 재생에</li></ul></div>…",
-          "contentSnippet": "결정론적 VM Rewind에 녹화 기록의 임계 경로를 분석하는 rewind time 명령이 추가됨. 시간이 어디에 쓰였고 어느 부분을 줄여야 실행이 빨라지는지 확인한 뒤 해당 소스 코드까지 추적할 수 있음\n임계 경로는 서로 의존하는 작업의 가장 긴 연결로, CPU를 아무리 늘려도 실행 시간을 그보다 줄일 수 없음. libuv 빌드와 테스트는 VM의 단일 CPU에서 78초가 걸렸고 임계 경로는 47.4초였음\n이 사례에서 임계 경로의 67%는 수면 상태였음. CPU 프로파일만으로는 잘 드러나지 않는 타이머 대기가 테스트 실행 시간을 지배함\nRewind는 재생에\n\n…",
-          "id": "https://news.hada.io/topic?id=37787",
-          "isoDate": "2026-11-24T16:44:02.000Z"
-        },
-        {
-          "title": "스마트 기능 없는 TV를 딱 필요한 만큼만 스마트하게 만들기",
-          "link": "https://news.hada.io/topic?id=37786&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-24T16:41:02.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>HDMI로 데스크톱에 연결한 구형 TV에 <strong>ESP32-C3 기반 적외선 장치</strong>와 스크립트를 더해, TV 리모컨 버튼 하나로 화면 설정과 앱 실행을 자동화함</li><li>리모컨의 <strong>컬러 버튼 4개</strong>로 영상 시청, 콘솔 에뮬레이터, 벽난로 영상, Steam Big Picture 모드를 실행하도록 구성함</li><li>창이 엉뚱한 화면에 열리는 문제는 <strong>멀티시트(multiseat)</strong> 로 전환해 해결했으며, 화면마다 별도의 X 세션을 사용해 PC와 TV를 서로 간섭 없이 이용할 수 있음</li><li><strong>관리 패널</strong>에서 가상 리모컨과 게임패드, TV 화면 실시간 스트리밍과 마우스 클릭을 지원하며, Xbox 컨트롤러 전원 상태</li></ul></div>…",
-          "contentSnippet": "HDMI로 데스크톱에 연결한 구형 TV에 ESP32-C3 기반 적외선 장치와 스크립트를 더해, TV 리모컨 버튼 하나로 화면 설정과 앱 실행을 자동화함\n리모컨의 컬러 버튼 4개로 영상 시청, 콘솔 에뮬레이터, 벽난로 영상, Steam Big Picture 모드를 실행하도록 구성함\n창이 엉뚱한 화면에 열리는 문제는 멀티시트(multiseat) 로 전환해 해결했으며, 화면마다 별도의 X 세션을 사용해 PC와 TV를 서로 간섭 없이 이용할 수 있음\n관리 패널에서 가상 리모컨과 게임패드, TV 화면 실시간 스트리밍과 마우스 클릭을 지원하며, Xbox 컨트롤러 전원 상태\n\n…",
-          "id": "https://news.hada.io/topic?id=37786",
-          "isoDate": "2026-11-24T16:41:02.000Z"
-        },
-        {
-          "title": "Quad9, 프랑스에서 DNS 서비스 철수",
-          "link": "https://news.hada.io/topic?id=37785&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-24T16:38:02.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>Quad9</strong>이 2026년 11월 24일 파리 시간 오전 9시부터 프랑스 이용자 대상 서비스를 중단할 예정임. 대상 이용자가 모든 Quad9 서비스 주소로 보내는 질의를 거부해 DNS 이름 해석이 불가능해짐</li><li>스포츠 중계 권리 보유 기업 <strong>beIn</strong>의 불법 스트리밍 관련 도메인 차단 요구를 프랑스 법원이 받아들이고 불이행에 벌금을 부과하자, Quad9은 법적 요구와 자체 운영 원칙을 함께 지키기 위해 철수를 선택함</li><li>Quad9은 <strong>재귀 DNS를 통한 콘텐츠 차단</strong>이 원본 서버에 영향을 주지 않고 다른 리졸버로 우회할 수 있어 효과가 없으며, 사이버 위협만 차단한다는 서비스 원칙에도 어긋난다고 봄</li></ul></div>…",
-          "contentSnippet": "Quad9이 2026년 11월 24일 파리 시간 오전 9시부터 프랑스 이용자 대상 서비스를 중단할 예정임. 대상 이용자가 모든 Quad9 서비스 주소로 보내는 질의를 거부해 DNS 이름 해석이 불가능해짐\n스포츠 중계 권리 보유 기업 beIn의 불법 스트리밍 관련 도메인 차단 요구를 프랑스 법원이 받아들이고 불이행에 벌금을 부과하자, Quad9은 법적 요구와 자체 운영 원칙을 함께 지키기 위해 철수를 선택함\nQuad9은 재귀 DNS를 통한 콘텐츠 차단이 원본 서버에 영향을 주지 않고 다른 리졸버로 우회할 수 있어 효과가 없으며, 사이버 위협만 차단한다는 서비스 원칙에도 어긋난다고 봄\n\n…",
-          "id": "https://news.hada.io/topic?id=37785",
-          "isoDate": "2026-11-24T16:38:02.000Z"
-        },
-        {
-          "title": "주 개발자가 학교에 있던 사이 GitHub에서 차단된 GTA 6 Recomp(Leonida)",
-          "link": "https://news.hada.io/topic?id=37783&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-24T15:37:50.000Z",
-          "author": "neo",
-          "content": "주 개발자가 학교에 있던 사이 GitHub에서 차단된 GTA 6 Recomp(Leonida)",
-          "contentSnippet": "주 개발자가 학교에 있던 사이 GitHub에서 차단된 GTA 6 Recomp(Leonida)",
-          "id": "https://news.hada.io/topic?id=37783",
-          "isoDate": "2026-11-24T15:37:50.000Z"
-        },
-        {
-          "title": "워싱턴에서 누가 Nvidia 주식을 보유하고 거래하는가",
-          "link": "https://news.hada.io/topic?id=37782&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-24T15:34:49.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>Trump와 미 의회 의원 37명</strong>의 공개된 Nvidia 주식 거래를 집계하고, Jensen Huang의 사임과 복귀 전후 주가 흐름과 함께 비교함</li><li>Nvidia 주가는 Huang의 사임과 분기 실적 발표를 거치며 10월 고점 대비 11월 20일까지 <strong>48% 하락</strong>했고, 이사회가 그를 복귀시킨 11월 23일에는 <strong>33% 상승</strong>함</li><li>Trump의 2026년 공개 거래는 <strong>매수 28건, 매도 15건</strong>이며, 금액 범위는 각각 510만~1,670만 달러와 440만~1,200만 달러임</li><li>의회 의원들은 2025년 1월 이후 <strong>192건</strong>을 거래했으며, 거래 총액 상위에는 <strong>Cleo Fields와 Nancy Pelosi</strong>가 있음</li><li><strong>최대 45일의 신고 지연</strong></li></ul></div>…",
-          "contentSnippet": "Trump와 미 의회 의원 37명의 공개된 Nvidia 주식 거래를 집계하고, Jensen Huang의 사임과 복귀 전후 주가 흐름과 함께 비교함\nNvidia 주가는 Huang의 사임과 분기 실적 발표를 거치며 10월 고점 대비 11월 20일까지 48% 하락했고, 이사회가 그를 복귀시킨 11월 23일에는 33% 상승함\nTrump의 2026년 공개 거래는 매수 28건, 매도 15건이며, 금액 범위는 각각 510만~1,670만 달러와 440만~1,200만 달러임\n의회 의원들은 2025년 1월 이후 192건을 거래했으며, 거래 총액 상위에는 Cleo Fields와 Nancy Pelosi가 있음\n최대 45일의 신고 지연\n\n…",
-          "id": "https://news.hada.io/topic?id=37782",
-          "isoDate": "2026-11-24T15:34:49.000Z"
-        },
-        {
-          "title": "Show GN: cdx-dock – LangChain·CrewAI·AutoGen·Hermes 1줄 연결 및 토큰·추론 제어 SDK",
-          "link": "https://news.hada.io/topic?id=37779&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-24T14:48:31.000Z",
-          "author": "cdxno1",
-          "content": "<div><p>멀티 에이전트 시스템을 운영하면서 반복적으로 겪는 4가지 실무 병목(프레임워크 간 어댑터 보일러플레이트, JSON·MCP 스키마 토큰 비대화, 추론 모델 <code>&lt;think&gt;</code> 루프 폭주, 외부 Vector DB 구축 부담)을 로컬 인-프로세스 Python SDK 하나로 해결하기 위해 개발한 <strong><code>cdx-dock</code> (v2.1.0)</strong> 을 공유합니다.</p><ul><li><strong>1줄 크로스 프레임워크 연결:</strong> <code>as_crewai_tool()</code>, <code>bridge()</code>, <code>CDXHermesDock</code> 등으로 LangChain, CrewAI, AutoGen, Nous Hermes 에이전트를 1줄로 상호 연결</li><li><strong>Zero-LLM <code>&lt;10ms</code> 도구 라우터 (<code>create_arbiter</code>):</strong> 수십 개의 MCP/도구 스키마 중 현재 질문에 필요한 상위 Top-K만 로컬 메모리에서 선별 주입</li></ul></div>…",
-          "contentSnippet": "멀티 에이전트 시스템을 운영하면서 반복적으로 겪는 4가지 실무 병목(프레임워크 간 어댑터 보일러플레이트, JSON·MCP 스키마 토큰 비대화, 추론 모델 <think> 루프 폭주, 외부 Vector DB 구축 부담)을 로컬 인-프로세스 Python SDK 하나로 해결하기 위해 개발한 cdx-dock (v2.1.0) 을 공유합니다.\n\n1줄 크로스 프레임워크 연결: as_crewai_tool(), bridge(), CDXHermesDock 등으로 LangChain, CrewAI, AutoGen, Nous Hermes 에이전트를 1줄로 상호 연결\nZero-LLM <10ms 도구 라우터 (create_arbiter): 수십 개의 MCP/도구 스키마 중 현재 질문에 필요한 상위 Top-K만 로컬 메모리에서 선별 주입\n\n…",
-          "id": "https://news.hada.io/topic?id=37779",
-          "isoDate": "2026-11-24T14:48:31.000Z"
-        },
-        {
-          "title": "LLM 에이전트는 사용자가 아니라 제공 회사를 위해 일한다",
-          "link": "https://news.hada.io/topic?id=37778&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-24T14:32:33.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>Claude Code</strong>로 만든 음악 탐색 스킬이 Bandcamp 검색 API의 인증 절차에 막히자, Claude는 우회를 돕지 않겠다고 선제적으로 알림. 사용자는 우회를 시도하거나 요청하지 않았음</li><li>같은 스킬은 요청하면 <strong>YouTube에서 곡을 다운로드</strong>할 수 있었음. 음악 구매 경로가 사이트의 인증 절차에 막힌 상황에서, Claude는 우회 지원은 거절하면서 다운로드는 수행하는 불일치를 보임</li><li>비용을 지불하는 사용자도 <strong>공급사가 허용하는 범위</strong> 안에서만 LLM 에이전트의 도움을 받을 수 있음</li><li>현재 모델은 최선을 다해 실제 정보를 제공한다고 보지만, 앞으로는</li></ul></div>…",
-          "contentSnippet": "Claude Code로 만든 음악 탐색 스킬이 Bandcamp 검색 API의 인증 절차에 막히자, Claude는 우회를 돕지 않겠다고 선제적으로 알림. 사용자는 우회를 시도하거나 요청하지 않았음\n같은 스킬은 요청하면 YouTube에서 곡을 다운로드할 수 있었음. 음악 구매 경로가 사이트의 인증 절차에 막힌 상황에서, Claude는 우회 지원은 거절하면서 다운로드는 수행하는 불일치를 보임\n비용을 지불하는 사용자도 공급사가 허용하는 범위 안에서만 LLM 에이전트의 도움을 받을 수 있음\n현재 모델은 최선을 다해 실제 정보를 제공한다고 보지만, 앞으로는\n\n…",
-          "id": "https://news.hada.io/topic?id=37778",
-          "isoDate": "2026-11-24T14:32:33.000Z"
-        },
-        {
-          "title": "iperf/iperf3 현대화와 fireperf 도입",
-          "link": "https://news.hada.io/topic?id=37777&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-24T13:31:53.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>Debian의 <strong>iperf와 iperf3 패키지</strong>가 클라이언트와 서버로 분리되고, 서버 패키지에 systemd와 ufw 통합이 추가됨</li><li>두 서버 패키지는 <strong>동적 systemd 사용자</strong>와 서비스 보안 강화를 적용하며, iperf3는 기존 로컬 시스템 계정을 대체함</li><li><strong>iperf3-server</strong>는 포트별 서버 인스턴스를 실행하는 systemd 서비스 템플릿을 제공해, 여러 클라이언트를 동시에 처리하도록 구성할 수 있음</li><li>Debian에 추가된 <strong>fireperf</strong>는 네트워크 성능 측정과 부하 테스트 도구로, iperf/iperf3 클라이언트와 iperf3 서버 역할도 지원함</li><li>fireperf는 <strong>동일 포트의 다중 클라이언</strong></li></ul></div>…",
-          "contentSnippet": "Debian의 iperf와 iperf3 패키지가 클라이언트와 서버로 분리되고, 서버 패키지에 systemd와 ufw 통합이 추가됨\n두 서버 패키지는 동적 systemd 사용자와 서비스 보안 강화를 적용하며, iperf3는 기존 로컬 시스템 계정을 대체함\niperf3-server는 포트별 서버 인스턴스를 실행하는 systemd 서비스 템플릿을 제공해, 여러 클라이언트를 동시에 처리하도록 구성할 수 있음\nDebian에 추가된 fireperf는 네트워크 성능 측정과 부하 테스트 도구로, iperf/iperf3 클라이언트와 iperf3 서버 역할도 지원함\nfireperf는 동일 포트의 다중 클라이언\n\n…",
-          "id": "https://news.hada.io/topic?id=37777",
-          "isoDate": "2026-11-24T13:31:53.000Z"
-        },
-        {
-          "title": "AMD EPYC Zen 6 대 Zen 1 성능 비교: 10년도 안 돼 기하평균 12.1배",
-          "link": "https://news.hada.io/topic?id=37775&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-24T12:38:28.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>Phoronix가 <strong>EPYC 9996과 EPYC 9686F를 1세대 EPYC 7601과 듀얼 소켓 구성으로 비교</strong>함. 100개 이상 벤치마크의 기하평균에서 각각 <strong>12.1배와 8.7배</strong>의 성능을 기록</li><li>EPYC 7601에서 9996으로 넘어오며 소켓당 <strong>코어 수는 32개에서 256개</strong>, L3 캐시는 64MB에서 1,024MB로 증가함. 메모리와 명령어 처리 개선까지 포함한 서버 전체 성능 비교임</li><li><strong>OpenVINO 얼굴 인식 추론에서는 최대 133배의 처리량</strong>을 기록함. AVX-512 지원과 메모리 대역폭 증가 등이 더해져 작업에 따라 성능 향상 폭이 크게 달라짐</li><li>작업군별 기하평균은 <strong>AVX-512 활용 작업 16.4배</strong></li></ul></div>…",
-          "contentSnippet": "Phoronix가 EPYC 9996과 EPYC 9686F를 1세대 EPYC 7601과 듀얼 소켓 구성으로 비교함. 100개 이상 벤치마크의 기하평균에서 각각 12.1배와 8.7배의 성능을 기록\nEPYC 7601에서 9996으로 넘어오며 소켓당 코어 수는 32개에서 256개, L3 캐시는 64MB에서 1,024MB로 증가함. 메모리와 명령어 처리 개선까지 포함한 서버 전체 성능 비교임\nOpenVINO 얼굴 인식 추론에서는 최대 133배의 처리량을 기록함. AVX-512 지원과 메모리 대역폭 증가 등이 더해져 작업에 따라 성능 향상 폭이 크게 달라짐\n작업군별 기하평균은 AVX-512 활용 작업 16.4배\n\n…",
-          "id": "https://news.hada.io/topic?id=37775",
-          "isoDate": "2026-11-24T12:38:28.000Z"
-        },
-        {
-          "title": "Jensen Huang 복귀를 둘러싼 Polymarket 내부자 거래 의혹 조사",
-          "link": "https://news.hada.io/topic?id=37774&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-24T12:35:28.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>Polymarket의 <strong>Jensen Huang NVIDIA 복귀 예측 시장</strong>에서 익명 계정 <code>ljhggk</code>가 공개 발표 직전 집중 매수했으며, 온체인 추적 분석은 내부자 거래 가능성이 매우 높다고 판단함</li><li>해당 계정은 복귀 확률이 <strong>6.5%</strong> 로 반영된 가격에 4,648.66 USDC를 투입해 71,517.8주를 매수했으며, 마지막 매수는 Donald Trump의 복귀 지지 게시물보다 <strong>89분 앞섰음</strong></li><li>Trump 게시물과 NVIDIA의 복귀 발표 이후 계약이 1달러로 정산되면서 <strong>순이익 66,869.34 USDC</strong>, 수익률 약 1,438.5%를 기록함</li><li>거래 당시 생성된 지 <strong>81시간 된 지갑</strong>의 활동이 NVIDIA 관련 시장에만 </li></ul></div>…",
-          "contentSnippet": "Polymarket의 Jensen Huang NVIDIA 복귀 예측 시장에서 익명 계정 ljhggk가 공개 발표 직전 집중 매수했으며, 온체인 추적 분석은 내부자 거래 가능성이 매우 높다고 판단함\n해당 계정은 복귀 확률이 6.5% 로 반영된 가격에 4,648.66 USDC를 투입해 71,517.8주를 매수했으며, 마지막 매수는 Donald Trump의 복귀 지지 게시물보다 89분 앞섰음\nTrump 게시물과 NVIDIA의 복귀 발표 이후 계약이 1달러로 정산되면서 순이익 66,869.34 USDC, 수익률 약 1,438.5%를 기록함\n거래 당시 생성된 지 81시간 된 지갑의 활동이 NVIDIA 관련 시장에만 \n\n…",
-          "id": "https://news.hada.io/topic?id=37774",
-          "isoDate": "2026-11-24T12:35:28.000Z"
         }
       ]
     },
@@ -381,235 +381,235 @@
       "category": "news",
       "data": [
         {
-          "creator": "정영빈",
-          "title": "'젠슨 황 복귀' 트럼프 개입 후폭풍…공화당도 강력 반발",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261125083417W4a",
-          "pubDate": "Wed, 25 Nov 2026 08:34:18 +0900",
-          "content:encoded": "[앵커]\n\n젠슨 황의 엔비디아 복귀에 따른 후폭풍이 미국 내에서 거세게 불고 있습니다.\n\n도널드 트럼프 미국 대통령이 직접 엔비디아 이사회를 설득해 복귀를 성사시켰다고 주장하면서, 정부가 민간기업을 통제하는 '국가 자본주의' 비판이 나오고 있는데요.\n\n집권 여당인 공화당 내부에서도 반발이 이어지고 있습니다.\n\n워싱턴에서 정영빈 특파원이 보도합니다.\n\n[기자]\n\n젠슨 황의 엔비디아 복귀 직후 논란에 불을 지핀 건 트럼프 대통령 발언이었습니다.\n\n젠슨 황 복귀에 부정적 의사를 내비치고 있던 엔비디아 이사회를 직접 설득해 복귀를 성사시켰다고 주장했기 때문입니다.\n\n&lt;도널드 트럼프 / 미국 대통령 (지난 23일 CNBC방송 인터뷰)&gt; 저는 엔비디아 이사회와 직간접적으로 계속 소통해 왔고, 젠슨 황의 복귀 문제에 대해 아주 확고한 입장을 갖고 있었습니다. 겪어보니 이사회는 매우 합리적이었습니다.\n\n미국 주요 언론들은 정부가 기업의 의사결정을 통제하는 '국가 자본주의'라는 비판을 쏟아내고 있습니다.\n\n월스트리트저널은 \"엔비디아의 경우 이미 기업 경영과 국가 권력 사이 경계가 모호한 상태였고, 이번 일로 경계가 사라졌다\"고 비판했습니다.\n\n워싱턴포스트도 정부가 시장과 경제에 개입하려 한다며 반대파들을 사회주의자라고 비판한 트럼프 대통령 행보의 모순점이라고 지적했습니다.\n\n젠슨 황의 복귀가 국가 안보에 위험을 초래할 이유가 없다는 트럼프 대통령 발언도 도마 위에 올랐습니다.\n\n토드 블랜치 법무장관은 미 정부가 젠슨 황의 불법 행위에 대한 증거를 갖고 있지 않다고 한 트럼프 대통령 발언이 맞다고 확인했지만.\n\n&lt;토드 블랜치 / 미국 법무장관&gt; \"대통령의 말씀은 정확히 맞습니다. 즉, 젠슨 황이 범죄를 저질렀다는 등의 정보를 법무부가 보유하고 있었다면, 그리고 그것이 사실이었다면 제가 분명 대통령께 보고했을 것이라는 뜻입니다.\"\n\n집권 여당인 공화당 의원들마저 거세게 반발하고 있습니다.\n\n공화당 대중 강경파 의원들은 \"국가안보에 위협이 되지 않는다고 판단했다면 의회에 보고하라\"고 목소리를 높이고 있습니다.\n\n야당인 민주당은 젠슨 황 복귀와 관련한 트럼프 대통령의 개입에 의회 조사를 집중한다는 계획입니다.\n\n한편 엔비디아로 복귀한 젠슨 황은 하루 만에 전 직원들 앞에서 심각한 실수를 저질렀다며 재차 사과하고, 심리 치료를 받고 있다는 사실도 공개했습니다.\n\n워싱턴에서 연합뉴스TV 정영빈입니다.\n\n[영상취재 유미선]\n\n[영상편집 김건영]\n\n[그래픽 김동준]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정영빈(jyb21@yna.co.kr)",
-          "content:encodedSnippet": "[앵커]\n\n젠슨 황의 엔비디아 복귀에 따른 후폭풍이 미국 내에서 거세게 불고 있습니다.\n\n도널드 트럼프 미국 대통령이 직접 엔비디아 이사회를 설득해 복귀를 성사시켰다고 주장하면서, 정부가 민간기업을 통제하는 '국가 자본주의' 비판이 나오고 있는데요.\n\n집권 여당인 공화당 내부에서도 반발이 이어지고 있습니다.\n\n워싱턴에서 정영빈 특파원이 보도합니다.\n\n[기자]\n\n젠슨 황의 엔비디아 복귀 직후 논란에 불을 지핀 건 트럼프 대통령 발언이었습니다.\n\n젠슨 황 복귀에 부정적 의사를 내비치고 있던 엔비디아 이사회를 직접 설득해 복귀를 성사시켰다고 주장했기 때문입니다.\n\n<도널드 트럼프 / 미국 대통령 (지난 23일 CNBC방송 인터뷰)> 저는 엔비디아 이사회와 직간접적으로 계속 소통해 왔고, 젠슨 황의 복귀 문제에 대해 아주 확고한 입장을 갖고 있었습니다. 겪어보니 이사회는 매우 합리적이었습니다.\n\n미국 주요 언론들은 정부가 기업의 의사결정을 통제하는 '국가 자본주의'라는 비판을 쏟아내고 있습니다.\n\n월스트리트저널은 \"엔비디아의 경우 이미 기업 경영과 국가 권력 사이 경계가 모호한 상태였고, 이번 일로 경계가 사라졌다\"고 비판했습니다.\n\n워싱턴포스트도 정부가 시장과 경제에 개입하려 한다며 반대파들을 사회주의자라고 비판한 트럼프 대통령 행보의 모순점이라고 지적했습니다.\n\n젠슨 황의 복귀가 국가 안보에 위험을 초래할 이유가 없다는 트럼프 대통령 발언도 도마 위에 올랐습니다.\n\n토드 블랜치 법무장관은 미 정부가 젠슨 황의 불법 행위에 대한 증거를 갖고 있지 않다고 한 트럼프 대통령 발언이 맞다고 확인했지만.\n\n<토드 블랜치 / 미국 법무장관> \"대통령의 말씀은 정확히 맞습니다. 즉, 젠슨 황이 범죄를 저질렀다는 등의 정보를 법무부가 보유하고 있었다면, 그리고 그것이 사실이었다면 제가 분명 대통령께 보고했을 것이라는 뜻입니다.\"\n\n집권 여당인 공화당 의원들마저 거세게 반발하고 있습니다.\n\n공화당 대중 강경파 의원들은 \"국가안보에 위협이 되지 않는다고 판단했다면 의회에 보고하라\"고 목소리를 높이고 있습니다.\n\n야당인 민주당은 젠슨 황 복귀와 관련한 트럼프 대통령의 개입에 의회 조사를 집중한다는 계획입니다.\n\n한편 엔비디아로 복귀한 젠슨 황은 하루 만에 전 직원들 앞에서 심각한 실수를 저질렀다며 재차 사과하고, 심리 치료를 받고 있다는 사실도 공개했습니다.\n\n워싱턴에서 연합뉴스TV 정영빈입니다.\n\n[영상취재 유미선]\n\n[영상편집 김건영]\n\n[그래픽 김동준]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정영빈(jyb21@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261124/MYH20261125083417W4a.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "정영빈",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261125083417W4a#comments",
-          "content": "[앵커] 젠슨 황의 엔비디아 복귀에 따른 후폭풍이 미국 내에서 거세게 불고 있습니다. 도널드 트럼프 미국 대통령이 직접 엔비디아 이사회를 설득해 복귀를 성사시켰다고 주장하면서, 정부가 민간기업을 통제하는 '국가 자본주의' 비판이 나오고 있는데요. 집권 여당인 공화당 내부에서도 반발이 이어지고 있습니다. 워싱턴에서 정영빈 특파원이 보도합니다. [기자] 젠슨 황의 엔비디아 복귀 직후 논란에 불을 지핀 건 트럼프 대통령 발언이었습니다. 젠슨 황...",
-          "contentSnippet": "[앵커] 젠슨 황의 엔비디아 복귀에 따른 후폭풍이 미국 내에서 거세게 불고 있습니다. 도널드 트럼프 미국 대통령이 직접 엔비디아 이사회를 설득해 복귀를 성사시켰다고 주장하면서, 정부가 민간기업을 통제하는 '국가 자본주의' 비판이 나오고 있는데요. 집권 여당인 공화당 내부에서도 반발이 이어지고 있습니다. 워싱턴에서 정영빈 특파원이 보도합니다. [기자] 젠슨 황의 엔비디아 복귀 직후 논란에 불을 지핀 건 트럼프 대통령 발언이었습니다. 젠슨 황...",
-          "guid": "MYH20261125083417W4a",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-24T23:34:18.000Z"
-        },
-        {
-          "creator": "최진경",
-          "title": "젠슨 황, 복귀 하루만 공개 사과…美 '과잉생산 관세' 발표 전망",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261125083333MnC",
-          "pubDate": "Wed, 25 Nov 2026 08:33:35 +0900",
-          "content:encoded": "[앵커]\n\n젠슨 황 엔비디아 CEO가 복귀 하루 만에 전사회의를 열었습니다.\n\n직원들에게 사과를 건네는 한편, 행동 강령과 관련한 언급도 내놓은 것으로 전해졌는데요.\n\n자세한 내용, 국제부 취재기자 연결해 알아봅니다.\n\n최진경 기자!\n\n[기자]\n\n네, 젠슨 황 엔비디아 CEO는 복귀 하루 만에 전사회의를 열고 전 직원 앞에서 가족과 직원들을 향한 사과의 뜻을 전했습니다.\n\n\"매우 심각한 실수\"라고 반성하면서, 아내와의 대화 이후 인생에서 두 번째로 힘든 회의라고도 털어놨다는데요.\n\n매일 1시간 반씩 심리 상담을 받고 있다는 점도 언급한 것으로 전해집니다.\n\n다만 젠슨 황은 자신마저 어긴 사내 행동강령과 관련해선 모순된 태도를 보였는데요.\n\n행동강령 위반을 용납할 수 없다면서도, 위반했다고 당장 내쫓진 않을 것이라면서 사실관계와 상황 등을 고려하겠다고 설명했습니다.\n\n젠슨 황의 이번 스캔들은 불륜 상대인 앨리스 황이 중국 간첩 의혹을 받으면서 특히 논란이 됐죠.\n\n다만 앨리스 황이 중국 정보기관과 접촉한 사실을 국가안보 위협으로 판단할지를 두고, 미 정부 당국자들 사이에서도 평가가 엇갈렸다는데요.\n\n일부는 중국 기업인들이 자국 국가안보 기관과 접촉을 강요받는 경우가 많아 접촉 사실만으로 간첩이라 보긴 어렵다는 반응을 내놨습니다.\n\n반면 미국 인공지능 산업 내 젠슨 황의 중요도를 볼 때 앨리스 황의 이같은 정황은 국가안보에 위험이 된다는 판단도 있던 것으로 전해지는데요.\n\n일각에선 젠슨 황은 돌아왔지만, 엔비디아를 중심으로 구축된 AI 산업의 투자 구조를 둘러싼 의문은 여전히 풀리지 않았다는 지적도 나옵니다.\n\n[앵커]\n\n그런가 하면 미국 무역대표부가 곧 '과잉생산 관세' 조사 결과를 발표할 수 있다는 전망도 나오는데요.\n\n이르면 오늘(25일)일 수도 있다고요?\n\n[기자]\n\n네, 미국 언론들은 한국 등 16곳을 상대로 진행한 무역법 301조 조사 결과가 우리시간으로 이르면 오늘(25일) 중 나올 수 있다고 보고 있는데요.\n\n보도 내용이 맞다면 무역대표부는 곧 관세 부과 계획을 예고하고, 대상국의 의견을 수렴하는 과정 등을 거쳐 관세를 확정할 것으로 보입니다.\n\n무역대표부는 대상국들이 보조금 지원 등을 통한 과잉생산으로 미국 기업에 불리한 환경을 유발했다며, 지난 3월 조사를 시작했는데요.\n\n앞서 지난 7월에는 강제 노동을 이유로 관세를 확정했고, 한국에는 12.5%의 관세가 확정됐습니다.\n\n한국은 지난해 대미투자를 약속하면서 관세를 15%로 줄이는 데 합의한 만큼, 과잉생산 관세가 부과된대도 강제노동 관세와 합쳐 15%를 넘지 않을 것이란 전망이 우세한데요.\n\n다만 무역대표부가 디지털 규제를 문제삼아 조사를 개시할 가능성은 변수로 꼽힙니다.\n\n만약 조사가 한국에 대한 추가 관세 조치로 이어진다면 15% 관세 상한을 확신하기 어렵다는 우려도 나옵니다.\n\n지금까지 국제부에서 전해드렸습니다.\n\n#트럼프 #미국 #한국 #엔비디아 #젠슨황 #전사회의 #과잉생산관세\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최진경(highjean@yna.co.kr)",
-          "content:encodedSnippet": "[앵커]\n\n젠슨 황 엔비디아 CEO가 복귀 하루 만에 전사회의를 열었습니다.\n\n직원들에게 사과를 건네는 한편, 행동 강령과 관련한 언급도 내놓은 것으로 전해졌는데요.\n\n자세한 내용, 국제부 취재기자 연결해 알아봅니다.\n\n최진경 기자!\n\n[기자]\n\n네, 젠슨 황 엔비디아 CEO는 복귀 하루 만에 전사회의를 열고 전 직원 앞에서 가족과 직원들을 향한 사과의 뜻을 전했습니다.\n\n\"매우 심각한 실수\"라고 반성하면서, 아내와의 대화 이후 인생에서 두 번째로 힘든 회의라고도 털어놨다는데요.\n\n매일 1시간 반씩 심리 상담을 받고 있다는 점도 언급한 것으로 전해집니다.\n\n다만 젠슨 황은 자신마저 어긴 사내 행동강령과 관련해선 모순된 태도를 보였는데요.\n\n행동강령 위반을 용납할 수 없다면서도, 위반했다고 당장 내쫓진 않을 것이라면서 사실관계와 상황 등을 고려하겠다고 설명했습니다.\n\n젠슨 황의 이번 스캔들은 불륜 상대인 앨리스 황이 중국 간첩 의혹을 받으면서 특히 논란이 됐죠.\n\n다만 앨리스 황이 중국 정보기관과 접촉한 사실을 국가안보 위협으로 판단할지를 두고, 미 정부 당국자들 사이에서도 평가가 엇갈렸다는데요.\n\n일부는 중국 기업인들이 자국 국가안보 기관과 접촉을 강요받는 경우가 많아 접촉 사실만으로 간첩이라 보긴 어렵다는 반응을 내놨습니다.\n\n반면 미국 인공지능 산업 내 젠슨 황의 중요도를 볼 때 앨리스 황의 이같은 정황은 국가안보에 위험이 된다는 판단도 있던 것으로 전해지는데요.\n\n일각에선 젠슨 황은 돌아왔지만, 엔비디아를 중심으로 구축된 AI 산업의 투자 구조를 둘러싼 의문은 여전히 풀리지 않았다는 지적도 나옵니다.\n\n[앵커]\n\n그런가 하면 미국 무역대표부가 곧 '과잉생산 관세' 조사 결과를 발표할 수 있다는 전망도 나오는데요.\n\n이르면 오늘(25일)일 수도 있다고요?\n\n[기자]\n\n네, 미국 언론들은 한국 등 16곳을 상대로 진행한 무역법 301조 조사 결과가 우리시간으로 이르면 오늘(25일) 중 나올 수 있다고 보고 있는데요.\n\n보도 내용이 맞다면 무역대표부는 곧 관세 부과 계획을 예고하고, 대상국의 의견을 수렴하는 과정 등을 거쳐 관세를 확정할 것으로 보입니다.\n\n무역대표부는 대상국들이 보조금 지원 등을 통한 과잉생산으로 미국 기업에 불리한 환경을 유발했다며, 지난 3월 조사를 시작했는데요.\n\n앞서 지난 7월에는 강제 노동을 이유로 관세를 확정했고, 한국에는 12.5%의 관세가 확정됐습니다.\n\n한국은 지난해 대미투자를 약속하면서 관세를 15%로 줄이는 데 합의한 만큼, 과잉생산 관세가 부과된대도 강제노동 관세와 합쳐 15%를 넘지 않을 것이란 전망이 우세한데요.\n\n다만 무역대표부가 디지털 규제를 문제삼아 조사를 개시할 가능성은 변수로 꼽힙니다.\n\n만약 조사가 한국에 대한 추가 관세 조치로 이어진다면 15% 관세 상한을 확신하기 어렵다는 우려도 나옵니다.\n\n지금까지 국제부에서 전해드렸습니다.\n\n#트럼프 #미국 #한국 #엔비디아 #젠슨황 #전사회의 #과잉생산관세\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최진경(highjean@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261124/MYH20261125083333MnC.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "최진경",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261125083333MnC#comments",
-          "content": "[앵커] 젠슨 황 엔비디아 CEO가 복귀 하루 만에 전사회의를 열었습니다. 직원들에게 사과를 건네는 한편, 행동 강령과 관련한 언급도 내놓은 것으로 전해졌는데요. 자세한 내용, 국제부 취재기자 연결해 알아봅니다. 최진경 기자! [기자] 네, 젠슨 황 엔비디아 CEO는 복귀 하루 만에 전사회의를 열고 전 직원 앞에서 가족과 직원들을 향한 사과의 뜻을 전했습니다. \"매우 심각한 실수\"라고 반성하면서, 아내와의 대화 이후 인생에서 두 번째로 힘...",
-          "contentSnippet": "[앵커] 젠슨 황 엔비디아 CEO가 복귀 하루 만에 전사회의를 열었습니다. 직원들에게 사과를 건네는 한편, 행동 강령과 관련한 언급도 내놓은 것으로 전해졌는데요. 자세한 내용, 국제부 취재기자 연결해 알아봅니다. 최진경 기자! [기자] 네, 젠슨 황 엔비디아 CEO는 복귀 하루 만에 전사회의를 열고 전 직원 앞에서 가족과 직원들을 향한 사과의 뜻을 전했습니다. \"매우 심각한 실수\"라고 반성하면서, 아내와의 대화 이후 인생에서 두 번째로 힘...",
-          "guid": "MYH20261125083333MnC",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-24T23:33:35.000Z"
-        },
-        {
-          "creator": "장윤희",
-          "title": "남의 결혼식 버진로드 먼저 입장?…이관희·유시은 \"경솔했다\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261125083151zYF",
-          "pubDate": "Wed, 25 Nov 2026 08:31:53 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261124/AKR20261125083151zYF_01_i.jpg\" alt=\"\"><span class=\"yna_title\"></span><span class=\"yna_caption\">'민폐 하객' 논란과 관련해 결국 사과한 농구선수 이관희와 방송인 유시은. [유시은 SNS]</span><span class=\"yna_description\">'민폐 하객' 논란과 관련해 결국 사과한 농구선수 이관희와 방송인 유시은. [유시은 SNS]</span></div>\n농구선수 이관희와 미스코리아 출신 방송인 유시은이 이른바 '결혼식 민폐 하객' 논란에 대해 사과했습니다.\n\n앞서 두 사람은 남의 결혼식에서 신랑·신부가 입장하기도 전에 버진로드를 걷고 주례대 앞에서 상황극을 하는 모습이 알려져 비판을 받았습니다.\n\n이관희와 유시은은 어제(24일) 자신의 SNS를 통해 공동 사과문을 내며 \"결혼식장에서 버진로드를 걸었던 행동은 저희가 정말 무지하고 경솔했던 행동이었다고 생각한다\"고 밝혔습니다.\n\n두 사람은 이어 \"결혼식의 주인공인 두 분의 입장을 충분히 헤아리지 못했던 점에 대해 진심으로 반성하고 사과드린다\"고 밝혔습니다.\n\n다만 \"혼인서약서를 비롯해 다른 물건이나 문서를 임의로 펼쳐보는 행동은 일절 하지 않았다\"며 \"개인적인 이득을 취하기 위해 갑작스럽게 연락을 했다거나, 이후 연락이 두절됐다는 이야기 역시 저희에게 해당하는 내용이 아니\"라고 덧붙였습니다.\n\n이번 논란은 지난 23일 연애 예능 '솔로지옥3' 출신 윤하정이 자신의 결혼식을 일부 커플이 예행연습처럼 이용했다는 취지의 글을 올리면서 불거졌습니다.\n\n누리꾼들이 윤하정과 함께 '솔로지옥3'에 출연한 이관희와 유시은을 당사자로 지목했고, 두 사람은 논란이 불거진 지 하루 만에 고개를 숙였습니다.\n\n#이관희 #유시은 #민폐하객 #결혼식 #사과\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n장윤희(ego@yna.co.kr)",
-          "content:encodedSnippet": "'민폐 하객' 논란과 관련해 결국 사과한 농구선수 이관희와 방송인 유시은. [유시은 SNS]'민폐 하객' 논란과 관련해 결국 사과한 농구선수 이관희와 방송인 유시은. [유시은 SNS]\n농구선수 이관희와 미스코리아 출신 방송인 유시은이 이른바 '결혼식 민폐 하객' 논란에 대해 사과했습니다.\n\n앞서 두 사람은 남의 결혼식에서 신랑·신부가 입장하기도 전에 버진로드를 걷고 주례대 앞에서 상황극을 하는 모습이 알려져 비판을 받았습니다.\n\n이관희와 유시은은 어제(24일) 자신의 SNS를 통해 공동 사과문을 내며 \"결혼식장에서 버진로드를 걸었던 행동은 저희가 정말 무지하고 경솔했던 행동이었다고 생각한다\"고 밝혔습니다.\n\n두 사람은 이어 \"결혼식의 주인공인 두 분의 입장을 충분히 헤아리지 못했던 점에 대해 진심으로 반성하고 사과드린다\"고 밝혔습니다.\n\n다만 \"혼인서약서를 비롯해 다른 물건이나 문서를 임의로 펼쳐보는 행동은 일절 하지 않았다\"며 \"개인적인 이득을 취하기 위해 갑작스럽게 연락을 했다거나, 이후 연락이 두절됐다는 이야기 역시 저희에게 해당하는 내용이 아니\"라고 덧붙였습니다.\n\n이번 논란은 지난 23일 연애 예능 '솔로지옥3' 출신 윤하정이 자신의 결혼식을 일부 커플이 예행연습처럼 이용했다는 취지의 글을 올리면서 불거졌습니다.\n\n누리꾼들이 윤하정과 함께 '솔로지옥3'에 출연한 이관희와 유시은을 당사자로 지목했고, 두 사람은 논란이 불거진 지 하루 만에 고개를 숙였습니다.\n\n#이관희 #유시은 #민폐하객 #결혼식 #사과\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n장윤희(ego@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261124/AKR20261125083151zYF_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "장윤희",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261125083151zYF#comments",
-          "content": "'민폐 하객' 논란과 관련해 결국 사과한 농구선수 이관희와 방송인 유시은. [유시은 SNS]'민폐 하객' 논란과 관련해 결국 사과한 농구선수 이관희와 방송인 유시은. [유시은 SNS] 농구선수 이관희와 미스코리아 출신 방송인 유시은이 이른바 '결혼식 민폐 하객' 논란에 대해 사과했습니다. 앞서 두 사람은 남의 결혼식에서 신랑·신부가 입장하기도 전에 버진로드를 걷고 주례대 앞에서 상황극을 하는 모습이 알려져 비판을 받았습니다. 이관희와 유시...",
-          "contentSnippet": "'민폐 하객' 논란과 관련해 결국 사과한 농구선수 이관희와 방송인 유시은. [유시은 SNS]'민폐 하객' 논란과 관련해 결국 사과한 농구선수 이관희와 방송인 유시은. [유시은 SNS] 농구선수 이관희와 미스코리아 출신 방송인 유시은이 이른바 '결혼식 민폐 하객' 논란에 대해 사과했습니다. 앞서 두 사람은 남의 결혼식에서 신랑·신부가 입장하기도 전에 버진로드를 걷고 주례대 앞에서 상황극을 하는 모습이 알려져 비판을 받았습니다. 이관희와 유시...",
-          "guid": "AKR20261125083151zYF",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-24T23:31:53.000Z"
-        },
-        {
-          "creator": "신새롬",
-          "title": "엔비디아 6% 하락…반도체지수 8% 급반락",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261125083144N34",
-          "pubDate": "Wed, 25 Nov 2026 08:31:47 +0900",
-          "content:encoded": "젠슨 황 엔비디아 최고경영자 복귀 효과의 지속 가능성에 의문이 제기되며 현지시간 24일 미국 증시에서 엔비디아가 6% 가까이 급락했습니다.\n\n엔비디아는 9.67달러, 5.9% 내린 155.38달러에 거래를 마쳤고, 전날 폭등했던 인공지능 반도체주가 일제히 하락 반전했습니다.\n\n마이크론은 11% 폭락했고, 텍사스 인스트루먼트와 샌디스크, 마벨 등도 줄하락한 가운데, 필라델피아 반도체지수는 7.9% 폭락했습니다.\n\n스탠다드앤드푸어스500지수는 0.50%, 나스닥 종합지수는 1.48% 내렸고, 다우존스30산업평균지수는 0.85% 포인트 올랐습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신새롬(romi@yna.co.kr)",
-          "content:encodedSnippet": "젠슨 황 엔비디아 최고경영자 복귀 효과의 지속 가능성에 의문이 제기되며 현지시간 24일 미국 증시에서 엔비디아가 6% 가까이 급락했습니다.\n\n엔비디아는 9.67달러, 5.9% 내린 155.38달러에 거래를 마쳤고, 전날 폭등했던 인공지능 반도체주가 일제히 하락 반전했습니다.\n\n마이크론은 11% 폭락했고, 텍사스 인스트루먼트와 샌디스크, 마벨 등도 줄하락한 가운데, 필라델피아 반도체지수는 7.9% 폭락했습니다.\n\n스탠다드앤드푸어스500지수는 0.50%, 나스닥 종합지수는 1.48% 내렸고, 다우존스30산업평균지수는 0.85% 포인트 올랐습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신새롬(romi@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261124/MYH20261125083144N34.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "신새롬",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261125083144N34#comments",
-          "content": "젠슨 황 엔비디아 최고경영자 복귀 효과의 지속 가능성에 의문이 제기되며 현지시간 24일 미국 증시에서 엔비디아가 6% 가까이 급락했습니다. 엔비디아는 9.67달러, 5.9% 내린 155.38달러에 거래를 마쳤고, 전날 폭등했던 인공지능 반도체주가 일제히 하락 반전했습니다. 마이크론은 11% 폭락했고, 텍사스 인스트루먼트와 샌디스크, 마벨 등도 줄하락한 가운데, 필라델피아 반도체지수는 7.9% 폭락했습니다. 스탠다드앤드푸어스500지수는 0....",
-          "contentSnippet": "젠슨 황 엔비디아 최고경영자 복귀 효과의 지속 가능성에 의문이 제기되며 현지시간 24일 미국 증시에서 엔비디아가 6% 가까이 급락했습니다. 엔비디아는 9.67달러, 5.9% 내린 155.38달러에 거래를 마쳤고, 전날 폭등했던 인공지능 반도체주가 일제히 하락 반전했습니다. 마이크론은 11% 폭락했고, 텍사스 인스트루먼트와 샌디스크, 마벨 등도 줄하락한 가운데, 필라델피아 반도체지수는 7.9% 폭락했습니다. 스탠다드앤드푸어스500지수는 0....",
-          "guid": "MYH20261125083144N34",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-24T23:31:47.000Z"
-        },
-        {
-          "creator": "김민아",
-          "title": "이 대통령, '5·18 진압 경찰' 포상 취소에 \"만시지탄…역사 교정 계속\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261125082912Mmc",
-          "pubDate": "Wed, 25 Nov 2026 08:29:13 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261124/AKR20261125082912Mmc_01_i.jpg\" alt=\"\"><span class=\"yna_title\">이재명 대통령, 국무회의 발언</span><span class=\"yna_caption\">(서울=연합뉴스) 신준희 기자 = 이재명 대통령이 24일 청와대에서 열린 국무회의에서 발언하고 있다. 2026.11.24 [청와대통신사진기자단] hama@yna.co.kr</span><span class=\"yna_description\">(서울=연합뉴스) 신준희 기자 = 이재명 대통령이 24일 청와대에서 열린 국무회의에서 발언하고 있다. 2026.11.24 [청와대통신사진기자단] hama@yna.co.kr</span></div>\n이재명 대통령이 5·18 민주화운동 진압에 가담한 경찰관들의 정부 포상이 취소된 것에 대해 \"너무 당연한 조치\"라고 강조했습니다.\n\n이 대통령은 오늘(25일) 자신의 X에 \"반인권 범죄 가담이나 내란 범죄 수행자들의 서훈 박탈은 만시지탄\"이라며 이같이 밝혔습니다.\n\n그러면서 \"앞으로도 마지막 한 명까지 역사 교정은 쭉 계속될 것\"이라고 강력한 의지를 드러냈습니다.\n\n앞서 경찰청은 전날 국무회의에서 5·18 민주화운동 진압과 삼청교육 등 신군부 시기 헌법질서와 인권을 침해한 행위와 관련해 수여된 정부포상을 취소했다고 밝혔습니다.\n\n삼청교육 관련자 72명, 5·18민주화운동 진압 관련자 18명, 1980년 5·17 비상계엄 확대 조치 관련자 8명, 간첩 재심 무죄 사건 관련자 4명 등 102명의 포상이 대거 취소됐습니다.\n\n\n#이재명대통령 #청와대 #518민주화운동 #정부포상 #서훈박탈\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김민아(goldmina@yna.co.kr)",
-          "content:encodedSnippet": "이재명 대통령, 국무회의 발언(서울=연합뉴스) 신준희 기자 = 이재명 대통령이 24일 청와대에서 열린 국무회의에서 발언하고 있다. 2026.11.24 [청와대통신사진기자단] hama@yna.co.kr(서울=연합뉴스) 신준희 기자 = 이재명 대통령이 24일 청와대에서 열린 국무회의에서 발언하고 있다. 2026.11.24 [청와대통신사진기자단] hama@yna.co.kr\n이재명 대통령이 5·18 민주화운동 진압에 가담한 경찰관들의 정부 포상이 취소된 것에 대해 \"너무 당연한 조치\"라고 강조했습니다.\n\n이 대통령은 오늘(25일) 자신의 X에 \"반인권 범죄 가담이나 내란 범죄 수행자들의 서훈 박탈은 만시지탄\"이라며 이같이 밝혔습니다.\n\n그러면서 \"앞으로도 마지막 한 명까지 역사 교정은 쭉 계속될 것\"이라고 강력한 의지를 드러냈습니다.\n\n앞서 경찰청은 전날 국무회의에서 5·18 민주화운동 진압과 삼청교육 등 신군부 시기 헌법질서와 인권을 침해한 행위와 관련해 수여된 정부포상을 취소했다고 밝혔습니다.\n\n삼청교육 관련자 72명, 5·18민주화운동 진압 관련자 18명, 1980년 5·17 비상계엄 확대 조치 관련자 8명, 간첩 재심 무죄 사건 관련자 4명 등 102명의 포상이 대거 취소됐습니다.\n\n\n#이재명대통령 #청와대 #518민주화운동 #정부포상 #서훈박탈\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김민아(goldmina@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261124/AKR20261125082912Mmc_01_i.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "김민아",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261125082912Mmc#comments",
-          "content": "이재명 대통령, 국무회의 발언(서울=연합뉴스) 신준희 기자 = 이재명 대통령이 24일 청와대에서 열린 국무회의에서 발언하고 있다. 2026.11.24 [청와대통신사진기자단] hama@yna.co.kr(서울=연합뉴스) 신준희 기자 = 이재명 대통령이 24일 청와대에서 열린 국무회의에서 발언하고 있다. 2026.11.24 [청와대통신사진기자단] hama@yna.co.kr 이재명 대통령이 5·18 민주화운동 진압에 가담한 경찰관들의 정부 포상이...",
-          "contentSnippet": "이재명 대통령, 국무회의 발언(서울=연합뉴스) 신준희 기자 = 이재명 대통령이 24일 청와대에서 열린 국무회의에서 발언하고 있다. 2026.11.24 [청와대통신사진기자단] hama@yna.co.kr(서울=연합뉴스) 신준희 기자 = 이재명 대통령이 24일 청와대에서 열린 국무회의에서 발언하고 있다. 2026.11.24 [청와대통신사진기자단] hama@yna.co.kr 이재명 대통령이 5·18 민주화운동 진압에 가담한 경찰관들의 정부 포상이...",
-          "guid": "AKR20261125082912Mmc",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-24T23:29:13.000Z"
-        },
-        {
-          "creator": "김재훈",
-          "title": "찬 바람에 서울 -4.4도…도로 살얼음 조심",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261125082353M0X",
-          "pubDate": "Wed, 25 Nov 2026 08:23:55 +0900",
-          "content:encoded": "[앵커]\n\n오늘 아침 전국 대부분 지역의 기온이 영하권으로 뚝 떨어졌습니다.\n\n도로 곳곳에 살얼음도 예상돼 교통 안전에 주의가 필요한데요.\n\n이번 추위는 낮부터 차차 풀릴 것이란 예보입니다.\n\n자세한 날씨 취재기자 연결해 알아봅니다.\n\n김재훈 기자.\n\n[기자]\n\n북서쪽에서 찬 공기가 추가로 남하하면서 어제보다 날씨가 한층 더 추워졌습니다.\n\n오늘 아침 강원 설악산의 기온이 영하 14.5도까지 떨어져 전국 최저를 기록했고, 대관령 영하 9.7도, 철원 영하 9.4도까지 곤두박질했습니다.\n\n서울도 영하 4.3도로 평년 대비 5도 이상 낮은 초겨울 추위를 보이고 있습니다.\n\n최근 눈과 비가 자주 내렸는데요.\n\n지면에 남은 습기들이 영하권 추위에 얼어 도로 곳곳에서 살얼음이 예상됩니다.\n\n특히 그늘진 도로와 터널 출입구 등은 매우 미끄러운 만큼 교통안전에 각별한 주의가 필요합니다.\n\n이번 추위는 오늘 낮부터 차차 풀리겠는데요.\n\n내일은 차가운 북풍 대신 온화한 남풍이 불어와서 날씨가 확 달라집니다.\n\n한낮에는 서울의 기온이 16도까지 올라서 평년보다 6도 이상 웃돌겠는데요.\n\n특히 남부 일부 지역은 낮 최고 기온이 20도 안팎까지 올라 봄처럼 따뜻하겠습니다.\n\n널뛰기 기온 변화가 예상되는 만큼 옷차림에도 유의해야겠습니다.\n\n강원 동해안은 건조특보가 발효 중인 가운데 연일 대기가 메마르고 있습니다.\n\n기상청은 당분간 건조한 날씨 속에 바람도 다소 강하게 불겠다며, 산불 등 화재에 주의를 당부했습니다.\n\n지금까지 보도국에서 전해드렸습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김재훈(kimjh0@yna.co.kr)",
-          "content:encodedSnippet": "[앵커]\n\n오늘 아침 전국 대부분 지역의 기온이 영하권으로 뚝 떨어졌습니다.\n\n도로 곳곳에 살얼음도 예상돼 교통 안전에 주의가 필요한데요.\n\n이번 추위는 낮부터 차차 풀릴 것이란 예보입니다.\n\n자세한 날씨 취재기자 연결해 알아봅니다.\n\n김재훈 기자.\n\n[기자]\n\n북서쪽에서 찬 공기가 추가로 남하하면서 어제보다 날씨가 한층 더 추워졌습니다.\n\n오늘 아침 강원 설악산의 기온이 영하 14.5도까지 떨어져 전국 최저를 기록했고, 대관령 영하 9.7도, 철원 영하 9.4도까지 곤두박질했습니다.\n\n서울도 영하 4.3도로 평년 대비 5도 이상 낮은 초겨울 추위를 보이고 있습니다.\n\n최근 눈과 비가 자주 내렸는데요.\n\n지면에 남은 습기들이 영하권 추위에 얼어 도로 곳곳에서 살얼음이 예상됩니다.\n\n특히 그늘진 도로와 터널 출입구 등은 매우 미끄러운 만큼 교통안전에 각별한 주의가 필요합니다.\n\n이번 추위는 오늘 낮부터 차차 풀리겠는데요.\n\n내일은 차가운 북풍 대신 온화한 남풍이 불어와서 날씨가 확 달라집니다.\n\n한낮에는 서울의 기온이 16도까지 올라서 평년보다 6도 이상 웃돌겠는데요.\n\n특히 남부 일부 지역은 낮 최고 기온이 20도 안팎까지 올라 봄처럼 따뜻하겠습니다.\n\n널뛰기 기온 변화가 예상되는 만큼 옷차림에도 유의해야겠습니다.\n\n강원 동해안은 건조특보가 발효 중인 가운데 연일 대기가 메마르고 있습니다.\n\n기상청은 당분간 건조한 날씨 속에 바람도 다소 강하게 불겠다며, 산불 등 화재에 주의를 당부했습니다.\n\n지금까지 보도국에서 전해드렸습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김재훈(kimjh0@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261124/MYH20261125082353M0X.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "김재훈",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261125082353M0X#comments",
-          "content": "[앵커] 오늘 아침 전국 대부분 지역의 기온이 영하권으로 뚝 떨어졌습니다. 도로 곳곳에 살얼음도 예상돼 교통 안전에 주의가 필요한데요. 이번 추위는 낮부터 차차 풀릴 것이란 예보입니다. 자세한 날씨 취재기자 연결해 알아봅니다. 김재훈 기자. [기자] 북서쪽에서 찬 공기가 추가로 남하하면서 어제보다 날씨가 한층 더 추워졌습니다. 오늘 아침 강원 설악산의 기온이 영하 14.5도까지 떨어져 전국 최저를 기록했고, 대관령 영하 9.7도, 철원 영...",
-          "contentSnippet": "[앵커] 오늘 아침 전국 대부분 지역의 기온이 영하권으로 뚝 떨어졌습니다. 도로 곳곳에 살얼음도 예상돼 교통 안전에 주의가 필요한데요. 이번 추위는 낮부터 차차 풀릴 것이란 예보입니다. 자세한 날씨 취재기자 연결해 알아봅니다. 김재훈 기자. [기자] 북서쪽에서 찬 공기가 추가로 남하하면서 어제보다 날씨가 한층 더 추워졌습니다. 오늘 아침 강원 설악산의 기온이 영하 14.5도까지 떨어져 전국 최저를 기록했고, 대관령 영하 9.7도, 철원 영...",
-          "guid": "MYH20261125082353M0X",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-24T23:23:55.000Z"
-        },
-        {
-          "creator": "최영범",
-          "title": "서울 지하철 노사 교섭 타결로 파업 철회…출근대란 없어",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261125082254a2l",
-          "pubDate": "Wed, 25 Nov 2026 08:22:54 +0900",
-          "content:encoded": "[앵커]\n\n서울교통공사와 노동조합이 막판 교섭 끝에 임금·단체협약에 최종 합의했습니다.\n\n이로써 오늘(25일) 지하철 첫 차부터 예고됐던 총파업은 철회됐는데요.\n\n출근길 현장에 나가있는 취재기자 연결합니다.\n\n최영범 기자.\n\n[기자]\n\n네 서울 신도림역에 나와 있습니다.\n\n이곳 신도림역은 1호선과 2호선이 지나는 대표적인 환승역인데요.\n\n시간이 지나면서 지하철을 기다리는 줄도 점점 길어지고 있습니다.\n\n서울 지하철 제1노조인 서울교통공사노동조합은 오전 2시 40분 막판 집중 교섭을 벌인 끝에 임단협 본교섭 협상안에 최종 합의했습니다.\n\n이어 제2노조인 서울교통공사통합노조와 제3노조인 올바른노조도 파업 돌입 2시간가량을 앞두고 임단협 교섭을 타결했습니다.\n\n어제(24일) 오전 10시 협상을 시작한 지 약 18시간 만입니다.\n\n이에 따라 오늘 예고됐던 노조의 총파업은 철회됐습니다.\n\n파업 철회로 서울 지하철 1~8호선 전 구간은 첫차부터 정상 운행하고 있습니다.\n\n노사는 2,200여 명 규모의 인력감축 계획이 담긴 사측의 경영혁신계획을 보류하고 조직진단 연구용역 결과에 따라 노사 협의를 진행하기로 했습니다.\n\n또 500명 규모의 신규 채용을 추진하고, 올해 공공기관 인건비 지침인 3.5% 임금 인상에 합의했습니다.\n\n노사는 육아휴직 등 일·가정 양립을 위한 근무제도 개선에도 합의했습니다.\n\n규모가 가장 큰 1노조는 \"모든 요구를 충족하지는 못했지만, 주요 노동조건 개선에 진전을 이룬 점을 종합적으로 고려해 합의를 결정했다\"면서 \"부족한 점이 있지만 시민 불편 최소화를 고려해 합의했다\"고 밝혔습니다.\n\n협상이 타결되면서 우려했던 출근길 교통대란은 피하게 됐습니다.\n\n지금까지 신도림역에서 전해드렸습니다.\n\n#서울교통공사 #총파업 #철회 #서울지하철 #임금단체협약 #서울교통공사노동조합 #서울교통공사통합노조 #올바른노조\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최영범(ybchoi@yna.co.kr)",
-          "content:encodedSnippet": "[앵커]\n\n서울교통공사와 노동조합이 막판 교섭 끝에 임금·단체협약에 최종 합의했습니다.\n\n이로써 오늘(25일) 지하철 첫 차부터 예고됐던 총파업은 철회됐는데요.\n\n출근길 현장에 나가있는 취재기자 연결합니다.\n\n최영범 기자.\n\n[기자]\n\n네 서울 신도림역에 나와 있습니다.\n\n이곳 신도림역은 1호선과 2호선이 지나는 대표적인 환승역인데요.\n\n시간이 지나면서 지하철을 기다리는 줄도 점점 길어지고 있습니다.\n\n서울 지하철 제1노조인 서울교통공사노동조합은 오전 2시 40분 막판 집중 교섭을 벌인 끝에 임단협 본교섭 협상안에 최종 합의했습니다.\n\n이어 제2노조인 서울교통공사통합노조와 제3노조인 올바른노조도 파업 돌입 2시간가량을 앞두고 임단협 교섭을 타결했습니다.\n\n어제(24일) 오전 10시 협상을 시작한 지 약 18시간 만입니다.\n\n이에 따라 오늘 예고됐던 노조의 총파업은 철회됐습니다.\n\n파업 철회로 서울 지하철 1~8호선 전 구간은 첫차부터 정상 운행하고 있습니다.\n\n노사는 2,200여 명 규모의 인력감축 계획이 담긴 사측의 경영혁신계획을 보류하고 조직진단 연구용역 결과에 따라 노사 협의를 진행하기로 했습니다.\n\n또 500명 규모의 신규 채용을 추진하고, 올해 공공기관 인건비 지침인 3.5% 임금 인상에 합의했습니다.\n\n노사는 육아휴직 등 일·가정 양립을 위한 근무제도 개선에도 합의했습니다.\n\n규모가 가장 큰 1노조는 \"모든 요구를 충족하지는 못했지만, 주요 노동조건 개선에 진전을 이룬 점을 종합적으로 고려해 합의를 결정했다\"면서 \"부족한 점이 있지만 시민 불편 최소화를 고려해 합의했다\"고 밝혔습니다.\n\n협상이 타결되면서 우려했던 출근길 교통대란은 피하게 됐습니다.\n\n지금까지 신도림역에서 전해드렸습니다.\n\n#서울교통공사 #총파업 #철회 #서울지하철 #임금단체협약 #서울교통공사노동조합 #서울교통공사통합노조 #올바른노조\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최영범(ybchoi@yna.co.kr)",
-          "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261124/MYH20261125082254a2l.jpg",
-            "type": "image/jpeg"
-          },
-          "dc:creator": "최영범",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261125082254a2l#comments",
-          "content": "[앵커] 서울교통공사와 노동조합이 막판 교섭 끝에 임금·단체협약에 최종 합의했습니다. 이로써 오늘(25일) 지하철 첫 차부터 예고됐던 총파업은 철회됐는데요. 출근길 현장에 나가있는 취재기자 연결합니다. 최영범 기자. [기자] 네 서울 신도림역에 나와 있습니다. 이곳 신도림역은 1호선과 2호선이 지나는 대표적인 환승역인데요. 시간이 지나면서 지하철을 기다리는 줄도 점점 길어지고 있습니다. 서울 지하철 제1노조인 서울교통공사노동조합은 오전 2...",
-          "contentSnippet": "[앵커] 서울교통공사와 노동조합이 막판 교섭 끝에 임금·단체협약에 최종 합의했습니다. 이로써 오늘(25일) 지하철 첫 차부터 예고됐던 총파업은 철회됐는데요. 출근길 현장에 나가있는 취재기자 연결합니다. 최영범 기자. [기자] 네 서울 신도림역에 나와 있습니다. 이곳 신도림역은 1호선과 2호선이 지나는 대표적인 환승역인데요. 시간이 지나면서 지하철을 기다리는 줄도 점점 길어지고 있습니다. 서울 지하철 제1노조인 서울교통공사노동조합은 오전 2...",
-          "guid": "MYH20261125082254a2l",
-          "categories": [
-            "최신"
-          ],
-          "isoDate": "2026-11-24T23:22:54.000Z"
-        },
-        {
           "creator": "노수미",
-          "title": "[날씨] 전국 아침 영하권 추위…서울 최저 체감 -8.4도",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH202611250819437AN",
-          "pubDate": "Wed, 25 Nov 2026 08:19:44 +0900",
-          "content:encoded": "[앵커]\n\n전국 대부분 지역의 아침 기온이 영하권을 보이며, 추위의 기세가 강력합니다.\n\n찬 바람이 불어 체감 온도는 더 낮아 무척 추울 텐데요.\n\n자세한 날씨는 기상캐스터 연결해 알아보겠습니다.\n\n양윤진 캐스터!\n\n[캐스터]\n\n현재 몸이 움츠러들고 입김이 날 정도의 영하권 추위가 기승을 부리고 있습니다.\n\n서울의 최저 체감 온도는 영하 8.4도로 느껴지고 있는데요.\n\n보온에 신경써서 외출하셔야겠습니다.\n\n전국 곳곳 어제보다 3~10도 낮게 출발하고 있습니다.\n\n그래도 추위는 오늘까지만 나타나고, 내일부터 풀리겠습니다.\n\n온화한 남풍이 불어와, 아침 기온은 영상권으로 올라서겠고요.\n\n낮 기온은 대부분 15도 안팎, 일부 남부는 20도를 넘기며 포근해지겠습니다.\n\n지금 이 시각 서울 영하 4.3도, 춘천 영하 8.9도, 대전과 대구 부산도 0도 아래를 보이고 있습니다.\n\n한낮에는 서울 7도, 광주와 대구 10도까지 오르겠습니다.\n\n추운 날씨에 도로 곳곳에는 살얼음 끼는 곳이 있어 교통 안전에도 유의해야겠습니다.\n\n오늘 하늘은 맑거나 가끔 구름 많겠고요.\n\n인천과 경기 서해안, 충남 북부 서해안에는 오전에 1mm의 비나 1cm 눈이 내릴 때가 있겠습니다.\n\n반대로 동해안은 대기가 무척 건조한데요.\n\n강한 바람까지 불어서, 불이 번지지 않도록 화재 조심해야겠습니다.\n\n오늘 늦은 밤부터 내일 새벽 사이엔 경기 북부와 강원 북부에 비나 눈이 내리겠습니다.\n\n지금까지 날씨 전해드렸습니다.\n\n(양윤진 기상캐스터)\n\n[현장연결 전천호]\n\n#날씨 #강풍 #건조특보 #영하권추위 #서해안약한눈비\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
-          "content:encodedSnippet": "[앵커]\n\n전국 대부분 지역의 아침 기온이 영하권을 보이며, 추위의 기세가 강력합니다.\n\n찬 바람이 불어 체감 온도는 더 낮아 무척 추울 텐데요.\n\n자세한 날씨는 기상캐스터 연결해 알아보겠습니다.\n\n양윤진 캐스터!\n\n[캐스터]\n\n현재 몸이 움츠러들고 입김이 날 정도의 영하권 추위가 기승을 부리고 있습니다.\n\n서울의 최저 체감 온도는 영하 8.4도로 느껴지고 있는데요.\n\n보온에 신경써서 외출하셔야겠습니다.\n\n전국 곳곳 어제보다 3~10도 낮게 출발하고 있습니다.\n\n그래도 추위는 오늘까지만 나타나고, 내일부터 풀리겠습니다.\n\n온화한 남풍이 불어와, 아침 기온은 영상권으로 올라서겠고요.\n\n낮 기온은 대부분 15도 안팎, 일부 남부는 20도를 넘기며 포근해지겠습니다.\n\n지금 이 시각 서울 영하 4.3도, 춘천 영하 8.9도, 대전과 대구 부산도 0도 아래를 보이고 있습니다.\n\n한낮에는 서울 7도, 광주와 대구 10도까지 오르겠습니다.\n\n추운 날씨에 도로 곳곳에는 살얼음 끼는 곳이 있어 교통 안전에도 유의해야겠습니다.\n\n오늘 하늘은 맑거나 가끔 구름 많겠고요.\n\n인천과 경기 서해안, 충남 북부 서해안에는 오전에 1mm의 비나 1cm 눈이 내릴 때가 있겠습니다.\n\n반대로 동해안은 대기가 무척 건조한데요.\n\n강한 바람까지 불어서, 불이 번지지 않도록 화재 조심해야겠습니다.\n\n오늘 늦은 밤부터 내일 새벽 사이엔 경기 북부와 강원 북부에 비나 눈이 내리겠습니다.\n\n지금까지 날씨 전해드렸습니다.\n\n(양윤진 기상캐스터)\n\n[현장연결 전천호]\n\n#날씨 #강풍 #건조특보 #영하권추위 #서해안약한눈비\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
+          "title": "[날씨] 아침까지 전국 영하권 추위…낮부터 추위 풀려",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261125120821CZG",
+          "pubDate": "Wed, 25 Nov 2026 12:08:23 +0900",
+          "content:encoded": "[앵커]\n\n오늘은 전국 대부분 지역의 아침 기온이 영하권으로 뚝 떨어졌습니다.\n\n낮부터는 따뜻한 남풍이 불어와 추위가 차츰 누그러지겠는데요.\n\n자세한 날씨는 기상캐스터 연결해 알아보겠습니다.\n\n김수진 캐스터.\n\n[캐스터]\n\n네, 오늘 아침까지는 강추위가 이어졌습니다.\n\n서울의 아침 기온은 영하 4.4도까지 내려갔는데요.\n\n하지만 낮부터는 따뜻한 남풍이 불어오면서 추위가 차츰 누그러지고 있습니다.\n\n오늘 한낮에는 서울 7도, 대전 8도, 대구와 광주 10도까지 오르며 어제보다 2도에서 5도가량 높아지겠습니다.\n\n특히 내일은 전국 대부분 지역의 낮 기온이 15도 안팎까지 오르며 한층 더 포근해지겠는데요.\n\n연일 기온 변화가 크니까, 감기 걸리지 않도록 조심하셔야겠습니다.\n\n오늘 전국 하늘에 구름양이 많겠습니다.\n\n오늘 밤부터 내일 아침까지 경기 북동부와 강원 북부 내륙에는 비나 눈이 조금 내릴 텐데요.\n\n추위 속 도로 살얼음이나 빙판길이 예상돼, 교통안전에 유의하셔야겠습니다.\n\n뚜렷한 눈비 소식 없는 동해안을 중심으로는 대기가 메말라가고 있습니다.\n\n강원 동해안에는 건조주의보가 발효 중인 가운데, 순간 초속 25m 이상의 돌풍도 몰아치겠습니다.\n\n산불 등 화재 사고 발생하지 않도록 불씨 관리를 잘해주셔야겠습니다.\n\n이번 주 금요일에는 중서부에, 토요일에는 충청 이남과 제주도에 비나 눈이 내릴 텐데요.\n\n이 비가 그친 후 일요일에는 또 반짝 영하권 추위가 찾아오겠습니다.\n\n지금까지 날씨였습니다.\n\n(김수진 기상캐스터)\n\n[현장연결 전천호]\n\n#날씨 #눈 #건조 #강풍 #비 #산불 #가을 #추위주춤\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n오늘은 전국 대부분 지역의 아침 기온이 영하권으로 뚝 떨어졌습니다.\n\n낮부터는 따뜻한 남풍이 불어와 추위가 차츰 누그러지겠는데요.\n\n자세한 날씨는 기상캐스터 연결해 알아보겠습니다.\n\n김수진 캐스터.\n\n[캐스터]\n\n네, 오늘 아침까지는 강추위가 이어졌습니다.\n\n서울의 아침 기온은 영하 4.4도까지 내려갔는데요.\n\n하지만 낮부터는 따뜻한 남풍이 불어오면서 추위가 차츰 누그러지고 있습니다.\n\n오늘 한낮에는 서울 7도, 대전 8도, 대구와 광주 10도까지 오르며 어제보다 2도에서 5도가량 높아지겠습니다.\n\n특히 내일은 전국 대부분 지역의 낮 기온이 15도 안팎까지 오르며 한층 더 포근해지겠는데요.\n\n연일 기온 변화가 크니까, 감기 걸리지 않도록 조심하셔야겠습니다.\n\n오늘 전국 하늘에 구름양이 많겠습니다.\n\n오늘 밤부터 내일 아침까지 경기 북동부와 강원 북부 내륙에는 비나 눈이 조금 내릴 텐데요.\n\n추위 속 도로 살얼음이나 빙판길이 예상돼, 교통안전에 유의하셔야겠습니다.\n\n뚜렷한 눈비 소식 없는 동해안을 중심으로는 대기가 메말라가고 있습니다.\n\n강원 동해안에는 건조주의보가 발효 중인 가운데, 순간 초속 25m 이상의 돌풍도 몰아치겠습니다.\n\n산불 등 화재 사고 발생하지 않도록 불씨 관리를 잘해주셔야겠습니다.\n\n이번 주 금요일에는 중서부에, 토요일에는 충청 이남과 제주도에 비나 눈이 내릴 텐데요.\n\n이 비가 그친 후 일요일에는 또 반짝 영하권 추위가 찾아오겠습니다.\n\n지금까지 날씨였습니다.\n\n(김수진 기상캐스터)\n\n[현장연결 전천호]\n\n#날씨 #눈 #건조 #강풍 #비 #산불 #가을 #추위주춤\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261124/MYH202611250819437AN.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261125/MYH20261125120821CZG.jpg",
             "type": "image/jpeg"
           },
           "dc:creator": "노수미",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH202611250819437AN#comments",
-          "content": "[앵커] 전국 대부분 지역의 아침 기온이 영하권을 보이며, 추위의 기세가 강력합니다. 찬 바람이 불어 체감 온도는 더 낮아 무척 추울 텐데요. 자세한 날씨는 기상캐스터 연결해 알아보겠습니다. 양윤진 캐스터! [캐스터] 현재 몸이 움츠러들고 입김이 날 정도의 영하권 추위가 기승을 부리고 있습니다. 서울의 최저 체감 온도는 영하 8.4도로 느껴지고 있는데요. 보온에 신경써서 외출하셔야겠습니다. 전국 곳곳 어제보다 3~10도 낮게 출발하고 있습...",
-          "contentSnippet": "[앵커] 전국 대부분 지역의 아침 기온이 영하권을 보이며, 추위의 기세가 강력합니다. 찬 바람이 불어 체감 온도는 더 낮아 무척 추울 텐데요. 자세한 날씨는 기상캐스터 연결해 알아보겠습니다. 양윤진 캐스터! [캐스터] 현재 몸이 움츠러들고 입김이 날 정도의 영하권 추위가 기승을 부리고 있습니다. 서울의 최저 체감 온도는 영하 8.4도로 느껴지고 있는데요. 보온에 신경써서 외출하셔야겠습니다. 전국 곳곳 어제보다 3~10도 낮게 출발하고 있습...",
-          "guid": "MYH202611250819437AN",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261125120821CZG#comments",
+          "content": "[앵커] 오늘은 전국 대부분 지역의 아침 기온이 영하권으로 뚝 떨어졌습니다. 낮부터는 따뜻한 남풍이 불어와 추위가 차츰 누그러지겠는데요. 자세한 날씨는 기상캐스터 연결해 알아보겠습니다. 김수진 캐스터. [캐스터] 네, 오늘 아침까지는 강추위가 이어졌습니다. 서울의 아침 기온은 영하 4.4도까지 내려갔는데요. 하지만 낮부터는 따뜻한 남풍이 불어오면서 추위가 차츰 누그러지고 있습니다. 오늘 한낮에는 서울 7도, 대전 8도, 대구와 광주 10도...",
+          "contentSnippet": "[앵커] 오늘은 전국 대부분 지역의 아침 기온이 영하권으로 뚝 떨어졌습니다. 낮부터는 따뜻한 남풍이 불어와 추위가 차츰 누그러지겠는데요. 자세한 날씨는 기상캐스터 연결해 알아보겠습니다. 김수진 캐스터. [캐스터] 네, 오늘 아침까지는 강추위가 이어졌습니다. 서울의 아침 기온은 영하 4.4도까지 내려갔는데요. 하지만 낮부터는 따뜻한 남풍이 불어오면서 추위가 차츰 누그러지고 있습니다. 오늘 한낮에는 서울 7도, 대전 8도, 대구와 광주 10도...",
+          "guid": "MYH20261125120821CZG",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-24T23:19:44.000Z"
+          "isoDate": "2026-11-25T03:08:23.000Z"
         },
         {
-          "creator": "손성훈",
-          "title": "[출근길인터뷰] 손끝으로 만나는 한글 점자 100년",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261125081838VnA",
-          "pubDate": "Wed, 25 Nov 2026 08:18:39 +0900",
-          "content:encoded": "&lt;출연 : 구단비 학예연구사&gt;\n\n시각장애인들의 글이라고 할 수 있는 점자에도 한글이 있습니다.\n\n바로 '훈맹정음'입니다.\n\n국립세계문자박물관에서는 특별전 '점에서 세상으로'가 개최돼 관심인데요.\n\n그 현장에 뉴스캐스터가 나가 있습니다.\n\n함께 둘러보죠.\n\n함현지 캐스터.\n\n[캐스터]\n\n네, 저는 국립세계문자박물관에 나와 있습니다.\n\n구단비 학예연구사와 자세한 이야기 나눠보겠습니다.\n\n&lt;질문 1&gt; 우리가 나와 있는 이곳, 국립세계문자박물관이 어떤 곳인지부터 소개해 주시죠.\n\n&lt;질문 2&gt; 점자에도 한글이 있잖아요. 바로 훈맹정음. 역사도 소개해 주시죠.\n\n&lt;질문 3&gt; ‘훈맹정음’ 전시도 한창이죠?\n\n&lt;질문 4&gt; 관람 포인트도 짚어 주시죠.\n\n&lt;질문 5&gt; 점자의 확대를 위해 어떤 노력이 필요할까요?\n\n오늘 말씀 고맙습니다.\n\n지금까지 출근길 인터뷰였습니다.\n\n[현장연결 권혁준]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n손성훈(sunghun906@yna.co.kr)",
-          "content:encodedSnippet": "<출연 : 구단비 학예연구사>\n\n시각장애인들의 글이라고 할 수 있는 점자에도 한글이 있습니다.\n\n바로 '훈맹정음'입니다.\n\n국립세계문자박물관에서는 특별전 '점에서 세상으로'가 개최돼 관심인데요.\n\n그 현장에 뉴스캐스터가 나가 있습니다.\n\n함께 둘러보죠.\n\n함현지 캐스터.\n\n[캐스터]\n\n네, 저는 국립세계문자박물관에 나와 있습니다.\n\n구단비 학예연구사와 자세한 이야기 나눠보겠습니다.\n\n<질문 1> 우리가 나와 있는 이곳, 국립세계문자박물관이 어떤 곳인지부터 소개해 주시죠.\n\n<질문 2> 점자에도 한글이 있잖아요. 바로 훈맹정음. 역사도 소개해 주시죠.\n\n<질문 3> ‘훈맹정음’ 전시도 한창이죠?\n\n<질문 4> 관람 포인트도 짚어 주시죠.\n\n<질문 5> 점자의 확대를 위해 어떤 노력이 필요할까요?\n\n오늘 말씀 고맙습니다.\n\n지금까지 출근길 인터뷰였습니다.\n\n[현장연결 권혁준]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n손성훈(sunghun906@yna.co.kr)",
+          "creator": "김예린",
+          "title": "트럼프 \"김정은과 러브레터, 다시 시작될 수도\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261125120746VmE",
+          "pubDate": "Wed, 25 Nov 2026 12:07:47 +0900",
+          "content:encoded": "도널드 트럼프 미국 대통령이 집권 1기 당시 김정은 북한 국무위원장과 주고받았던 친서, 이른바 '러브레터'를 \"당장이라도 다시 시작할 수 있다\"고 말했습니다.\n\n트럼프 대통령은 현지 시간 24일 보도된 뉴욕포스트 인터뷰에서 이같이 밝혔습니다.\n\n이어 김 위원장과의 소통이 최근에는 이뤄지지 않고 있다면서도, \"그와 아주 잘 지낸다\"며 개인적 친분을 강조했습니다.\n\n트럼프 대통령은 김 위원장이 자신의 대화 제의를 무시했다는 해석에 대해서는 \"적절한 시기가 아니었을 뿐, 만날 때가 올 것\"이라며 향후 북미 정상의 재회 가능성을 시사했습니다.\n\n#트럼프 #김정은 #북미회담 #친서 #러브레터\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김예린(yey@yna.co.kr)",
+          "content:encodedSnippet": "도널드 트럼프 미국 대통령이 집권 1기 당시 김정은 북한 국무위원장과 주고받았던 친서, 이른바 '러브레터'를 \"당장이라도 다시 시작할 수 있다\"고 말했습니다.\n\n트럼프 대통령은 현지 시간 24일 보도된 뉴욕포스트 인터뷰에서 이같이 밝혔습니다.\n\n이어 김 위원장과의 소통이 최근에는 이뤄지지 않고 있다면서도, \"그와 아주 잘 지낸다\"며 개인적 친분을 강조했습니다.\n\n트럼프 대통령은 김 위원장이 자신의 대화 제의를 무시했다는 해석에 대해서는 \"적절한 시기가 아니었을 뿐, 만날 때가 올 것\"이라며 향후 북미 정상의 재회 가능성을 시사했습니다.\n\n#트럼프 #김정은 #북미회담 #친서 #러브레터\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김예린(yey@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261124/MYH20261125081838VnA.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261125/MYH20261125120746VmE.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "손성훈",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261125081838VnA#comments",
-          "content": "&lt;출연 : 구단비 학예연구사&gt; 시각장애인들의 글이라고 할 수 있는 점자에도 한글이 있습니다. 바로 '훈맹정음'입니다. 국립세계문자박물관에서는 특별전 '점에서 세상으로'가 개최돼 관심인데요. 그 현장에 뉴스캐스터가 나가 있습니다. 함께 둘러보죠. 함현지 캐스터. [캐스터] 네, 저는 국립세계문자박물관에 나와 있습니다. 구단비 학예연구사와 자세한 이야기 나눠보겠습니다. &lt;질문 1&gt; 우리가 나와 있는 이곳, 국립세계문자박물...",
-          "contentSnippet": "<출연 : 구단비 학예연구사> 시각장애인들의 글이라고 할 수 있는 점자에도 한글이 있습니다. 바로 '훈맹정음'입니다. 국립세계문자박물관에서는 특별전 '점에서 세상으로'가 개최돼 관심인데요. 그 현장에 뉴스캐스터가 나가 있습니다. 함께 둘러보죠. 함현지 캐스터. [캐스터] 네, 저는 국립세계문자박물관에 나와 있습니다. 구단비 학예연구사와 자세한 이야기 나눠보겠습니다. <질문 1> 우리가 나와 있는 이곳, 국립세계문자박물...",
-          "guid": "MYH20261125081838VnA",
+          "dc:creator": "김예린",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261125120746VmE#comments",
+          "content": "도널드 트럼프 미국 대통령이 집권 1기 당시 김정은 북한 국무위원장과 주고받았던 친서, 이른바 '러브레터'를 \"당장이라도 다시 시작할 수 있다\"고 말했습니다. 트럼프 대통령은 현지 시간 24일 보도된 뉴욕포스트 인터뷰에서 이같이 밝혔습니다. 이어 김 위원장과의 소통이 최근에는 이뤄지지 않고 있다면서도, \"그와 아주 잘 지낸다\"며 개인적 친분을 강조했습니다. 트럼프 대통령은 김 위원장이 자신의 대화 제의를 무시했다는 해석에 대해서는 \"적절한...",
+          "contentSnippet": "도널드 트럼프 미국 대통령이 집권 1기 당시 김정은 북한 국무위원장과 주고받았던 친서, 이른바 '러브레터'를 \"당장이라도 다시 시작할 수 있다\"고 말했습니다. 트럼프 대통령은 현지 시간 24일 보도된 뉴욕포스트 인터뷰에서 이같이 밝혔습니다. 이어 김 위원장과의 소통이 최근에는 이뤄지지 않고 있다면서도, \"그와 아주 잘 지낸다\"며 개인적 친분을 강조했습니다. 트럼프 대통령은 김 위원장이 자신의 대화 제의를 무시했다는 해석에 대해서는 \"적절한...",
+          "guid": "MYH20261125120746VmE",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-24T23:18:39.000Z"
+          "isoDate": "2026-11-25T03:07:47.000Z"
         },
         {
-          "creator": "신새롬",
-          "title": "美 연은 3분의 2, 10월 회의서 금리 인상 지지",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261125081802bbn",
-          "pubDate": "Wed, 25 Nov 2026 08:18:03 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261124/AKR20261125081802bbn_01_i.jpg\" alt=\"\"><span class=\"yna_title\">케빈 워시 미국 연방준비제도 의장</span><span class=\"yna_caption\">[AP=연합뉴스 자료사진]</span><span class=\"yna_description\">[AP=연합뉴스 자료사진]</span></div>\n지난 10월 미국 연방준비제도가 기준금리를 동결했을 당시 지역 연방준비은행 3분의 2는 금리 인상을 지지했던 것으로 나타났습니다.\n\n블룸버그통신은 연준이 현지시간 24일 공개한 10월 지역 연은 회의록을 인용해 연준 산하 12개 지역 연은 이사회 중 8곳이 10월 연방공개시장위원회 회의를 앞두고 이른바 '재할인율' 인상을 권고했다고 보도했습니다.\n\n재할인율이란 상업은행 등 예금 취급 기관이 지역 연방은행의 대출 창구를 통해 자금을 빌릴 때 적용되는 금리를 말합니다.\n\n재할인율은 FOMC가 결정하는 연방기금금리(기준금리)와 연동해 움직이지만 기준금리와는 다르고, 결정 주체는 기준금리와 마찬가지로 연준 이사회입니다.\n\n10월 회의에서 보스턴, 클리블랜드, 시카고, 세인트루이스, 미니애폴리스, 리치먼드, 캔자스시티, 댈러스 지역 연은은 재할인율을 기존 4%에서 4.25%로 인상하는 안을 지지했습니다.\n\n지역 연은 이사회에서 이루어지는 재할인율 관련 투표는 통화 정책에 대한 권고안의 성격을 띠고, 수시로 해당 지역 연은 총재의 정책적 선호와 일치합니다.\n\n연준은 9월에 기준금리를 인상했지만 10월 27~28일 열린 회의에서는 금리를 동결했습니다.\n\n\n\n#기준금리 #연방준비은행 #연방준비제도\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신새롬(romi@yna.co.kr)",
-          "content:encodedSnippet": "케빈 워시 미국 연방준비제도 의장[AP=연합뉴스 자료사진][AP=연합뉴스 자료사진]\n지난 10월 미국 연방준비제도가 기준금리를 동결했을 당시 지역 연방준비은행 3분의 2는 금리 인상을 지지했던 것으로 나타났습니다.\n\n블룸버그통신은 연준이 현지시간 24일 공개한 10월 지역 연은 회의록을 인용해 연준 산하 12개 지역 연은 이사회 중 8곳이 10월 연방공개시장위원회 회의를 앞두고 이른바 '재할인율' 인상을 권고했다고 보도했습니다.\n\n재할인율이란 상업은행 등 예금 취급 기관이 지역 연방은행의 대출 창구를 통해 자금을 빌릴 때 적용되는 금리를 말합니다.\n\n재할인율은 FOMC가 결정하는 연방기금금리(기준금리)와 연동해 움직이지만 기준금리와는 다르고, 결정 주체는 기준금리와 마찬가지로 연준 이사회입니다.\n\n10월 회의에서 보스턴, 클리블랜드, 시카고, 세인트루이스, 미니애폴리스, 리치먼드, 캔자스시티, 댈러스 지역 연은은 재할인율을 기존 4%에서 4.25%로 인상하는 안을 지지했습니다.\n\n지역 연은 이사회에서 이루어지는 재할인율 관련 투표는 통화 정책에 대한 권고안의 성격을 띠고, 수시로 해당 지역 연은 총재의 정책적 선호와 일치합니다.\n\n연준은 9월에 기준금리를 인상했지만 10월 27~28일 열린 회의에서는 금리를 동결했습니다.\n\n\n\n#기준금리 #연방준비은행 #연방준비제도\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신새롬(romi@yna.co.kr)",
+          "creator": "하준",
+          "title": "남해고속도 트레일러 넘어져 6중 추돌…6명 사상",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261125120717jXC",
+          "pubDate": "Wed, 25 Nov 2026 12:07:19 +0900",
+          "content:encoded": "오늘(25일) 오전 5시쯤 경남 김해시 진례면 남해고속도로 순천방향 진례분기점 인근에서 트레일러가 넘어지는 사고가 났습니다.\n\n이어 뒤따르던 승용차 5대가 넘어진 트레일러와 잇따라 부딪쳤습니다.\n\n이 사고로 트레일러 운전자와 승용차 운전자 등 3명이 숨졌습니다.\n\n다른 운전자 3명도 중경상을 입고 병원으로 옮겨졌습니다.\n\n또 사고 여파로 남해고속도로 곳곳에서 극심한 교통정체를 빚었습니다.\n\n경찰은 현장 수습을 마치는 대로 정확한 사고 원인 등을 조사할 예정입니다.\n\n[화면제공 시청자 나병철 씨]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n하준(hajun@yna.co.kr)",
+          "content:encodedSnippet": "오늘(25일) 오전 5시쯤 경남 김해시 진례면 남해고속도로 순천방향 진례분기점 인근에서 트레일러가 넘어지는 사고가 났습니다.\n\n이어 뒤따르던 승용차 5대가 넘어진 트레일러와 잇따라 부딪쳤습니다.\n\n이 사고로 트레일러 운전자와 승용차 운전자 등 3명이 숨졌습니다.\n\n다른 운전자 3명도 중경상을 입고 병원으로 옮겨졌습니다.\n\n또 사고 여파로 남해고속도로 곳곳에서 극심한 교통정체를 빚었습니다.\n\n경찰은 현장 수습을 마치는 대로 정확한 사고 원인 등을 조사할 예정입니다.\n\n[화면제공 시청자 나병철 씨]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n하준(hajun@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261124/AKR20261125081802bbn_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261125/MYH20261125120717jXC.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "신새롬",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261125081802bbn#comments",
-          "content": "케빈 워시 미국 연방준비제도 의장[AP=연합뉴스 자료사진][AP=연합뉴스 자료사진] 지난 10월 미국 연방준비제도가 기준금리를 동결했을 당시 지역 연방준비은행 3분의 2는 금리 인상을 지지했던 것으로 나타났습니다. 블룸버그통신은 연준이 현지시간 24일 공개한 10월 지역 연은 회의록을 인용해 연준 산하 12개 지역 연은 이사회 중 8곳이 10월 연방공개시장위원회 회의를 앞두고 이른바 '재할인율' 인상을 권고했다고 보도했습니다. 재할인율이란...",
-          "contentSnippet": "케빈 워시 미국 연방준비제도 의장[AP=연합뉴스 자료사진][AP=연합뉴스 자료사진] 지난 10월 미국 연방준비제도가 기준금리를 동결했을 당시 지역 연방준비은행 3분의 2는 금리 인상을 지지했던 것으로 나타났습니다. 블룸버그통신은 연준이 현지시간 24일 공개한 10월 지역 연은 회의록을 인용해 연준 산하 12개 지역 연은 이사회 중 8곳이 10월 연방공개시장위원회 회의를 앞두고 이른바 '재할인율' 인상을 권고했다고 보도했습니다. 재할인율이란...",
-          "guid": "AKR20261125081802bbn",
+          "dc:creator": "하준",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261125120717jXC#comments",
+          "content": "오늘(25일) 오전 5시쯤 경남 김해시 진례면 남해고속도로 순천방향 진례분기점 인근에서 트레일러가 넘어지는 사고가 났습니다. 이어 뒤따르던 승용차 5대가 넘어진 트레일러와 잇따라 부딪쳤습니다. 이 사고로 트레일러 운전자와 승용차 운전자 등 3명이 숨졌습니다. 다른 운전자 3명도 중경상을 입고 병원으로 옮겨졌습니다. 또 사고 여파로 남해고속도로 곳곳에서 극심한 교통정체를 빚었습니다. 경찰은 현장 수습을 마치는 대로 정확한 사고 원인 등을 조...",
+          "contentSnippet": "오늘(25일) 오전 5시쯤 경남 김해시 진례면 남해고속도로 순천방향 진례분기점 인근에서 트레일러가 넘어지는 사고가 났습니다. 이어 뒤따르던 승용차 5대가 넘어진 트레일러와 잇따라 부딪쳤습니다. 이 사고로 트레일러 운전자와 승용차 운전자 등 3명이 숨졌습니다. 다른 운전자 3명도 중경상을 입고 병원으로 옮겨졌습니다. 또 사고 여파로 남해고속도로 곳곳에서 극심한 교통정체를 빚었습니다. 경찰은 현장 수습을 마치는 대로 정확한 사고 원인 등을 조...",
+          "guid": "MYH20261125120717jXC",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-24T23:18:03.000Z"
+          "isoDate": "2026-11-25T03:07:19.000Z"
+        },
+        {
+          "creator": "이채연",
+          "title": "민주 \"조희대 탄핵, 5당 연대하자\"…국힘 장외로",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261125120647UZ6",
+          "pubDate": "Wed, 25 Nov 2026 12:06:49 +0900",
+          "content:encoded": "[앵커]\n\n외교·안보 라인을 포함한 이번 중폭 개각을 두고 여야가 치열한 신경전을 이어가고 있습니다.\n\n이용철 법무장관 후보자 인사청문회가 끝났지만, 여진도 계속되는 모습입니다.\n\n국회로 가보죠.\n\n이채연 기자.\n\n[기자]\n\n네, 인사청문회도 전 여야의 신경전, 치열합니다.\n\n국민의힘은 특히 강금실 국정원장 후보자와 한준호 행안장관 후보자, 두 사람을 정조준했습니다.\n\n강 후보자를 두곤 야당에서 중국 지방정부 고문을 지낸 이력을 거론하며 '중국 간첩'이란 표현까지 나왔습니다.\n\n민주당에선 \"시대착오적인 색깔론\", \"전형적인 매카시즘\"이라며 날을 세웠는데요.\n\n한준호 후보자를 두고도 '탈옥 지원용 인사'라는 국민의힘의 주장에, 민주당은 국정 전반을 다 살폈던 검증된 재선 의원이라며 방어했습니다.\n\n어제 청문회 이후 이용철 법무장관 후보자를 둘러싼 논란도 계속됐습니다.\n\n이 후보자가 무리한 지휘권 행사는 하지 않겠다면서도 하지 않겠다는 확답은 내놓지 않은 걸 두고, 민주당은 새 형사사법 체계를 안착시킬 소신을 보여줬다 엄호했고요.\n\n반면 국민의힘은 '공소취소 지휘' 없다는 답변, 끝내 내놓지 않았다며 즉각 사퇴를 촉구했습니다.\n\n정점식 원내대표는 이번 청문회가 한마디로 '이재명 대통령 공소취소추진 선포식'이었다며, 공소취소 위한 우회로를 더 많이 준비해뒀단는 자신감의 발로라고 맹비난했습니다.\n\n이 후보자에 대한 인사청문경과보고서는 모레쯤 채택될 예정입니다.\n\n앵커]\n\n양당 상황도 살펴보죠.\n\n민주당이 조희대 대법원장 탄핵 추진을 위한 '5당 연대' 공조를 공식 제안했죠.\n\n신천지 문제를 둘러싼 계파 갈등 상황도 이어지는 모습인데요.\n\n[기자]\n\n네, 그렇습니다.\n\n김민석 대표는 오늘 아침 최고위에서 \"5당은 국민과 함께 12·3 비상계엄 내란을 막아내고, 빛의 혁명을 이뤄왔다\"며 조 대법원장 탄핵 신속 추진을 위한 5당 연대를 공식 제안했는데요.\n\n이에 조국혁신당 신장식 대표는 탄핵 연대 제안에 환영의 뜻을 밝히면서도, 공동추진 합의는 없었다고 선을 그었습니다.\n\n다만 혁신당이 12월 3일 내란 2년에 발의 시점을 맞추자고 제안하면서, 실무 협의에 속도가 붙을지 주목되는데요.\n\n모레(27일) 최민희 최고위원에 대한 윤리심판원 징계 심의가 예고된 가운데, 오늘도 당내 설전은 계속됐습니다.\n\n신천지 4만 3천명 입당 가능성을 공개적으로 제기했다 구두경고를 받은 '친명' 박선원 최고위원은 오늘 \"감정적 언사에 각별히 유의하겠다\"며 고개를 숙였습니다.\n\n하지만 최 최고위원을 비롯해 친청계 한민수, 이성윤 의원은 재차 김 대표를 향해 결자해지를 촉구하며, 최 최고위원 징계보다 먼저 김 대표의 신천지 의혹 제기 발언에 대한 징계 청원 건부터 심의하라고 주장했습니다.\n\n이런 가운데 중진 송영길 의원은 한 라디오에서 최 최고위원 징계 심의룰 두고 계파 투쟁으로 몰고 가려는 시도는 아주 조심해야 한다 우려했는데, 그러자 정청래 전 대표는 곧바로 자신은 알아서 할 테니 끼어들지 말라, 고, \"입조심하는 게 본인에게도 좋을 것\"이라고 난타전을 이어갔습니다.\n\n[앵커]\n\n이른바 '조작 징계' 의혹을 둘러싼 국민의힘 계파 갈등도 전면전으로 치닫는 모습이라고요.\n\n[기자]\n\n네, 장동혁 대표가 '조작 징계' 의혹에 직접 입을 연 가운데, 무소속 한동훈 의원은 어제 저녁 라디오에서 \"의도적인 기획숙청이 드러났다\"고 했습니다.\n\n그러면서 \"윤리위 결정은 하자가 있는 정도가 아니라 원천적으로 무효인 것\"이라며, 법적 절차 가능성까지 열어두고 복당 의지를 재확인했습니다.\n\n한 의원에 대한 조작징계 의혹을 제기하며 폭로를 이어가고 있는 최모 교수 측은, 장 대표 측 '10억 요구설'을 반박하며 전략기획단 논의 과정에서 오간 이야기라며 대화 내용을 공개해 추가 파장이 주목되는데요.\n\n특히 장 대표에게 10억 원을 요구했단 비용은 6.3 지방선거를 준비할 기획단이 넉달간 일할 인건비 등 공식 업무비를 말하는 것인데, 이를 \"돈 요구로 둔갑시켰다\" 했습니다.\n\n이에 윤민우 중앙윤리위원장이 \"최 모 교수가 장 대표에게 요구한 자리를 받지 못하자 '대표를 끌어내려 다른 사람을 당 대표로 만들겠다'는 취지의 발언을 했다\" 폭로하는 등, 갈수록 진흙탕 싸움으로 흐르는 양상입니다.\n\n이런 가운데 장 대표는 경북 경주로 내려가 '조작기소 특검법' 규탄 장외 집회를 열고 대국민 여론전을 이어가는데요.\n\n이 대통령 공소취소를 위한 '탈옥법'이라 규정하며 반대 여론전을 이어가는 한편, 민주당의 조 대법원장 탄핵 추진 등을 고리로 대여 공세 수위를 끌어올린단 계획입니다.\n\n지금까지 국회에서 전해드렸습니다.\n\n[현장연결 김민서]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이채연(touche@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n외교·안보 라인을 포함한 이번 중폭 개각을 두고 여야가 치열한 신경전을 이어가고 있습니다.\n\n이용철 법무장관 후보자 인사청문회가 끝났지만, 여진도 계속되는 모습입니다.\n\n국회로 가보죠.\n\n이채연 기자.\n\n[기자]\n\n네, 인사청문회도 전 여야의 신경전, 치열합니다.\n\n국민의힘은 특히 강금실 국정원장 후보자와 한준호 행안장관 후보자, 두 사람을 정조준했습니다.\n\n강 후보자를 두곤 야당에서 중국 지방정부 고문을 지낸 이력을 거론하며 '중국 간첩'이란 표현까지 나왔습니다.\n\n민주당에선 \"시대착오적인 색깔론\", \"전형적인 매카시즘\"이라며 날을 세웠는데요.\n\n한준호 후보자를 두고도 '탈옥 지원용 인사'라는 국민의힘의 주장에, 민주당은 국정 전반을 다 살폈던 검증된 재선 의원이라며 방어했습니다.\n\n어제 청문회 이후 이용철 법무장관 후보자를 둘러싼 논란도 계속됐습니다.\n\n이 후보자가 무리한 지휘권 행사는 하지 않겠다면서도 하지 않겠다는 확답은 내놓지 않은 걸 두고, 민주당은 새 형사사법 체계를 안착시킬 소신을 보여줬다 엄호했고요.\n\n반면 국민의힘은 '공소취소 지휘' 없다는 답변, 끝내 내놓지 않았다며 즉각 사퇴를 촉구했습니다.\n\n정점식 원내대표는 이번 청문회가 한마디로 '이재명 대통령 공소취소추진 선포식'이었다며, 공소취소 위한 우회로를 더 많이 준비해뒀단는 자신감의 발로라고 맹비난했습니다.\n\n이 후보자에 대한 인사청문경과보고서는 모레쯤 채택될 예정입니다.\n\n앵커]\n\n양당 상황도 살펴보죠.\n\n민주당이 조희대 대법원장 탄핵 추진을 위한 '5당 연대' 공조를 공식 제안했죠.\n\n신천지 문제를 둘러싼 계파 갈등 상황도 이어지는 모습인데요.\n\n[기자]\n\n네, 그렇습니다.\n\n김민석 대표는 오늘 아침 최고위에서 \"5당은 국민과 함께 12·3 비상계엄 내란을 막아내고, 빛의 혁명을 이뤄왔다\"며 조 대법원장 탄핵 신속 추진을 위한 5당 연대를 공식 제안했는데요.\n\n이에 조국혁신당 신장식 대표는 탄핵 연대 제안에 환영의 뜻을 밝히면서도, 공동추진 합의는 없었다고 선을 그었습니다.\n\n다만 혁신당이 12월 3일 내란 2년에 발의 시점을 맞추자고 제안하면서, 실무 협의에 속도가 붙을지 주목되는데요.\n\n모레(27일) 최민희 최고위원에 대한 윤리심판원 징계 심의가 예고된 가운데, 오늘도 당내 설전은 계속됐습니다.\n\n신천지 4만 3천명 입당 가능성을 공개적으로 제기했다 구두경고를 받은 '친명' 박선원 최고위원은 오늘 \"감정적 언사에 각별히 유의하겠다\"며 고개를 숙였습니다.\n\n하지만 최 최고위원을 비롯해 친청계 한민수, 이성윤 의원은 재차 김 대표를 향해 결자해지를 촉구하며, 최 최고위원 징계보다 먼저 김 대표의 신천지 의혹 제기 발언에 대한 징계 청원 건부터 심의하라고 주장했습니다.\n\n이런 가운데 중진 송영길 의원은 한 라디오에서 최 최고위원 징계 심의룰 두고 계파 투쟁으로 몰고 가려는 시도는 아주 조심해야 한다 우려했는데, 그러자 정청래 전 대표는 곧바로 자신은 알아서 할 테니 끼어들지 말라, 고, \"입조심하는 게 본인에게도 좋을 것\"이라고 난타전을 이어갔습니다.\n\n[앵커]\n\n이른바 '조작 징계' 의혹을 둘러싼 국민의힘 계파 갈등도 전면전으로 치닫는 모습이라고요.\n\n[기자]\n\n네, 장동혁 대표가 '조작 징계' 의혹에 직접 입을 연 가운데, 무소속 한동훈 의원은 어제 저녁 라디오에서 \"의도적인 기획숙청이 드러났다\"고 했습니다.\n\n그러면서 \"윤리위 결정은 하자가 있는 정도가 아니라 원천적으로 무효인 것\"이라며, 법적 절차 가능성까지 열어두고 복당 의지를 재확인했습니다.\n\n한 의원에 대한 조작징계 의혹을 제기하며 폭로를 이어가고 있는 최모 교수 측은, 장 대표 측 '10억 요구설'을 반박하며 전략기획단 논의 과정에서 오간 이야기라며 대화 내용을 공개해 추가 파장이 주목되는데요.\n\n특히 장 대표에게 10억 원을 요구했단 비용은 6.3 지방선거를 준비할 기획단이 넉달간 일할 인건비 등 공식 업무비를 말하는 것인데, 이를 \"돈 요구로 둔갑시켰다\" 했습니다.\n\n이에 윤민우 중앙윤리위원장이 \"최 모 교수가 장 대표에게 요구한 자리를 받지 못하자 '대표를 끌어내려 다른 사람을 당 대표로 만들겠다'는 취지의 발언을 했다\" 폭로하는 등, 갈수록 진흙탕 싸움으로 흐르는 양상입니다.\n\n이런 가운데 장 대표는 경북 경주로 내려가 '조작기소 특검법' 규탄 장외 집회를 열고 대국민 여론전을 이어가는데요.\n\n이 대통령 공소취소를 위한 '탈옥법'이라 규정하며 반대 여론전을 이어가는 한편, 민주당의 조 대법원장 탄핵 추진 등을 고리로 대여 공세 수위를 끌어올린단 계획입니다.\n\n지금까지 국회에서 전해드렸습니다.\n\n[현장연결 김민서]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이채연(touche@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261125/MYH20261125120647UZ6.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "이채연",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261125120647UZ6#comments",
+          "content": "[앵커] 외교·안보 라인을 포함한 이번 중폭 개각을 두고 여야가 치열한 신경전을 이어가고 있습니다. 이용철 법무장관 후보자 인사청문회가 끝났지만, 여진도 계속되는 모습입니다. 국회로 가보죠. 이채연 기자. [기자] 네, 인사청문회도 전 여야의 신경전, 치열합니다. 국민의힘은 특히 강금실 국정원장 후보자와 한준호 행안장관 후보자, 두 사람을 정조준했습니다. 강 후보자를 두곤 야당에서 중국 지방정부 고문을 지낸 이력을 거론하며 '중국 간첩'이...",
+          "contentSnippet": "[앵커] 외교·안보 라인을 포함한 이번 중폭 개각을 두고 여야가 치열한 신경전을 이어가고 있습니다. 이용철 법무장관 후보자 인사청문회가 끝났지만, 여진도 계속되는 모습입니다. 국회로 가보죠. 이채연 기자. [기자] 네, 인사청문회도 전 여야의 신경전, 치열합니다. 국민의힘은 특히 강금실 국정원장 후보자와 한준호 행안장관 후보자, 두 사람을 정조준했습니다. 강 후보자를 두곤 야당에서 중국 지방정부 고문을 지낸 이력을 거론하며 '중국 간첩'이...",
+          "guid": "MYH20261125120647UZ6",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-25T03:06:49.000Z"
+        },
+        {
+          "creator": "김재훈",
+          "title": "서울 체감 -8.4도…내일은 때 아닌 봄 날씨?",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261125120438EFK",
+          "pubDate": "Wed, 25 Nov 2026 12:04:39 +0900",
+          "content:encoded": "[앵커]\n\n오늘 아침 전국 곳곳의 기온이 영하권으로 떨어지면서 날씨가 많이 추웠는데요.\n\n내일은 포근한 바람이 불어와 날씨가 급변합니다.\n\n한낮에는 서울의 기온이 16도까지 올라 때 아닌 봄 날씨가 찾아온다는 예보입니다.\n\n김재훈 기자입니다.\n\n[기자]\n\n북서쪽 찬 공기가 남하하면서 전국 대부분 지역의 아침 기온이 영하로 뚝 떨어졌습니다.\n\n강원 설악산의 기온이 영하 14.5도로 전국 최저를 기록했고, 대관령 영하 9.7도, 철원 영하 9.4도까지 곤두박질했습니다.\n\n서울도 영하 4.4도를 보였고, 매섭게 불어온 찬 바람은 체감온도를 영하 8.4도까지 끌어 내렸습니다.\n\n어제까지 내린 눈비가 영하권 추위에 얼어 도로 곳곳에서는 살얼음이 예상됩니다.\n\n특히 그늘진 도로와 터널 출입구 등은 매우 미끄러운 만큼 교통안전에 각별한 주의가 필요합니다.\n\n내일은 차가운 북풍 대신 온화한 남풍이 불어와 날씨가 확 달라집니다.\n\n한낮에는 서울의 기온이 16도까지 올라서 평년보다 6도 이상 웃돌겠습니다.\n\n특히 남부 일부 지역은 낮 최고 기온이 20도 안팎까지 올라 봄처럼 따뜻하겠습니다.\n\n&lt;조영표 / 기상청 예보분석관&gt; \"고기압이 차차 동쪽으로 이동하면서 바람 방향이 북서풍에서 남서풍 계열로 바뀌겠고 이로 인해 온난이류(온난 공기가)가 유입되겠습니다.\"\n\n강원 동해안은 건조특보가 발효 중인 가운데 연일 대기가 메마르고 있습니다.\n\n기상청은 당분간 건조한 날씨 속에 바람도 다소 강하게 불겠다며, 산불 등 화재에 주의를 당부했습니다.\n\n연합뉴스 TV 김재훈입니다.\n\n[영상편집 김은채]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김재훈(kimjh0@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n오늘 아침 전국 곳곳의 기온이 영하권으로 떨어지면서 날씨가 많이 추웠는데요.\n\n내일은 포근한 바람이 불어와 날씨가 급변합니다.\n\n한낮에는 서울의 기온이 16도까지 올라 때 아닌 봄 날씨가 찾아온다는 예보입니다.\n\n김재훈 기자입니다.\n\n[기자]\n\n북서쪽 찬 공기가 남하하면서 전국 대부분 지역의 아침 기온이 영하로 뚝 떨어졌습니다.\n\n강원 설악산의 기온이 영하 14.5도로 전국 최저를 기록했고, 대관령 영하 9.7도, 철원 영하 9.4도까지 곤두박질했습니다.\n\n서울도 영하 4.4도를 보였고, 매섭게 불어온 찬 바람은 체감온도를 영하 8.4도까지 끌어 내렸습니다.\n\n어제까지 내린 눈비가 영하권 추위에 얼어 도로 곳곳에서는 살얼음이 예상됩니다.\n\n특히 그늘진 도로와 터널 출입구 등은 매우 미끄러운 만큼 교통안전에 각별한 주의가 필요합니다.\n\n내일은 차가운 북풍 대신 온화한 남풍이 불어와 날씨가 확 달라집니다.\n\n한낮에는 서울의 기온이 16도까지 올라서 평년보다 6도 이상 웃돌겠습니다.\n\n특히 남부 일부 지역은 낮 최고 기온이 20도 안팎까지 올라 봄처럼 따뜻하겠습니다.\n\n<조영표 / 기상청 예보분석관> \"고기압이 차차 동쪽으로 이동하면서 바람 방향이 북서풍에서 남서풍 계열로 바뀌겠고 이로 인해 온난이류(온난 공기가)가 유입되겠습니다.\"\n\n강원 동해안은 건조특보가 발효 중인 가운데 연일 대기가 메마르고 있습니다.\n\n기상청은 당분간 건조한 날씨 속에 바람도 다소 강하게 불겠다며, 산불 등 화재에 주의를 당부했습니다.\n\n연합뉴스 TV 김재훈입니다.\n\n[영상편집 김은채]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김재훈(kimjh0@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261125/MYH20261125120438EFK.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "김재훈",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261125120438EFK#comments",
+          "content": "[앵커] 오늘 아침 전국 곳곳의 기온이 영하권으로 떨어지면서 날씨가 많이 추웠는데요. 내일은 포근한 바람이 불어와 날씨가 급변합니다. 한낮에는 서울의 기온이 16도까지 올라 때 아닌 봄 날씨가 찾아온다는 예보입니다. 김재훈 기자입니다. [기자] 북서쪽 찬 공기가 남하하면서 전국 대부분 지역의 아침 기온이 영하로 뚝 떨어졌습니다. 강원 설악산의 기온이 영하 14.5도로 전국 최저를 기록했고, 대관령 영하 9.7도, 철원 영하 9.4도까지 곤...",
+          "contentSnippet": "[앵커] 오늘 아침 전국 곳곳의 기온이 영하권으로 떨어지면서 날씨가 많이 추웠는데요. 내일은 포근한 바람이 불어와 날씨가 급변합니다. 한낮에는 서울의 기온이 16도까지 올라 때 아닌 봄 날씨가 찾아온다는 예보입니다. 김재훈 기자입니다. [기자] 북서쪽 찬 공기가 남하하면서 전국 대부분 지역의 아침 기온이 영하로 뚝 떨어졌습니다. 강원 설악산의 기온이 영하 14.5도로 전국 최저를 기록했고, 대관령 영하 9.7도, 철원 영하 9.4도까지 곤...",
+          "guid": "MYH20261125120438EFK",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-25T03:04:39.000Z"
+        },
+        {
+          "creator": "김채영",
+          "title": "코스피, 하루만에 5,000선 아래로…매도사이드카",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261125120348t61",
+          "pubDate": "Wed, 25 Nov 2026 12:03:49 +0900",
+          "content:encoded": "[앵커]\n\n오늘 코스피가 급락해 하루 만에 다시 5,000선 아래로 내려갔습니다.\n\n5%대 급락세에 매도 사이드카도 발동됐는데요.\n\n자세한 장중 시황 취재기자 연결해 알아봅니다.\n\n김채영 기자.\n\n[기자]\n\n어제(24일) 6%대 급등했던 코스피가 하루 만에 5,000선 아래로 밀렸습니다.\n\n이날 지수는 4,800선에서 하락 출발한 뒤 낙폭을 5%대까지 키워 4,800선마저 내줬습니다.\n\n개장 직후 보인 급락세에 오전 9시 8분 유가증권시장에서는 매도 사이드카가 발동됐습니다.\n\n전날 매수 사이드카가 발동된 지 하루 만입니다.\n\n수급별로는 외국인과 기관이 동반 순매도하는 반면 개인 홀로 사고 있습니다.\n\n삼성전자와 SK하이닉스도 8%대 동반 하락하며 지수를 끌어 내리고 있습니다.\n\n젠슨 황 엔비디아 최고경영자(CEO)의 복귀에 따른 투자심리 개선 효과가 하루 만에 약화한 가운데 인공지능(AI) 산업의 수익성에 대한 우려가 다시 부각되며 코스피가 급락한 것으로 풀이됩니다.\n\n간밤 뉴욕증시에서 다우 지수는 소폭 상승했으나 S&amp;P500과 나스닥지수는 하락했습니다.\n\n전 거래일 31% 폭등했던 엔비디아는 5%대 내렸고, 필라델피아반도체지수도 8% 가까이 급락했습니다.\n\n전날 급등세에 매수 사이드카까지 발동했던 코스닥 지수는 오늘은 2%대 급락해 650선에서 움직이고 있습니다.\n\n한편 서울 외환시장에서 원·달러 환율은 1,340원 초반대를 보이고 있습니다.\n\n지금까지 하나은행 딜링룸에서 연합뉴스TV 김채영입니다.\n\n[영상취재 성현석]\n\n[영상편집 김세나]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김채영(chaechae@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n오늘 코스피가 급락해 하루 만에 다시 5,000선 아래로 내려갔습니다.\n\n5%대 급락세에 매도 사이드카도 발동됐는데요.\n\n자세한 장중 시황 취재기자 연결해 알아봅니다.\n\n김채영 기자.\n\n[기자]\n\n어제(24일) 6%대 급등했던 코스피가 하루 만에 5,000선 아래로 밀렸습니다.\n\n이날 지수는 4,800선에서 하락 출발한 뒤 낙폭을 5%대까지 키워 4,800선마저 내줬습니다.\n\n개장 직후 보인 급락세에 오전 9시 8분 유가증권시장에서는 매도 사이드카가 발동됐습니다.\n\n전날 매수 사이드카가 발동된 지 하루 만입니다.\n\n수급별로는 외국인과 기관이 동반 순매도하는 반면 개인 홀로 사고 있습니다.\n\n삼성전자와 SK하이닉스도 8%대 동반 하락하며 지수를 끌어 내리고 있습니다.\n\n젠슨 황 엔비디아 최고경영자(CEO)의 복귀에 따른 투자심리 개선 효과가 하루 만에 약화한 가운데 인공지능(AI) 산업의 수익성에 대한 우려가 다시 부각되며 코스피가 급락한 것으로 풀이됩니다.\n\n간밤 뉴욕증시에서 다우 지수는 소폭 상승했으나 S&P500과 나스닥지수는 하락했습니다.\n\n전 거래일 31% 폭등했던 엔비디아는 5%대 내렸고, 필라델피아반도체지수도 8% 가까이 급락했습니다.\n\n전날 급등세에 매수 사이드카까지 발동했던 코스닥 지수는 오늘은 2%대 급락해 650선에서 움직이고 있습니다.\n\n한편 서울 외환시장에서 원·달러 환율은 1,340원 초반대를 보이고 있습니다.\n\n지금까지 하나은행 딜링룸에서 연합뉴스TV 김채영입니다.\n\n[영상취재 성현석]\n\n[영상편집 김세나]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김채영(chaechae@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261125/MYH20261125120348t61.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "김채영",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261125120348t61#comments",
+          "content": "[앵커] 오늘 코스피가 급락해 하루 만에 다시 5,000선 아래로 내려갔습니다. 5%대 급락세에 매도 사이드카도 발동됐는데요. 자세한 장중 시황 취재기자 연결해 알아봅니다. 김채영 기자. [기자] 어제(24일) 6%대 급등했던 코스피가 하루 만에 5,000선 아래로 밀렸습니다. 이날 지수는 4,800선에서 하락 출발한 뒤 낙폭을 5%대까지 키워 4,800선마저 내줬습니다. 개장 직후 보인 급락세에 오전 9시 8분 유가증권시장에서는 매도 사...",
+          "contentSnippet": "[앵커] 오늘 코스피가 급락해 하루 만에 다시 5,000선 아래로 내려갔습니다. 5%대 급락세에 매도 사이드카도 발동됐는데요. 자세한 장중 시황 취재기자 연결해 알아봅니다. 김채영 기자. [기자] 어제(24일) 6%대 급등했던 코스피가 하루 만에 5,000선 아래로 밀렸습니다. 이날 지수는 4,800선에서 하락 출발한 뒤 낙폭을 5%대까지 키워 4,800선마저 내줬습니다. 개장 직후 보인 급락세에 오전 9시 8분 유가증권시장에서는 매도 사...",
+          "guid": "MYH20261125120348t61",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-25T03:03:49.000Z"
         },
         {
           "creator": "장효인",
-          "title": "'젠슨 황 면죄부' 논란에…슬쩍 거리 두는 트럼프 참모들",
-          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261125081006hrZ",
-          "pubDate": "Wed, 25 Nov 2026 08:10:07 +0900",
-          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261124/AKR20261125081006hrZ_01_i.jpg\" alt=\"\"><span class=\"yna_title\">토드 블랜치 미 법무장관</span><span class=\"yna_caption\">[게티이미지/AFP=연합뉴스 자료사진 제공]</span><span class=\"yna_description\">[게티이미지/AFP=연합뉴스 자료사진 제공]</span></div>\n도널드 트럼프 미국 대통령이 젠슨 황 엔비디아 최고경영자(CEO)의 복귀를 주도한 가운데, 핵심 참모진들은 이번 논란에서 슬그머니 발을 빼려는 모습을 보이고 있습니다.\n\n앞서 트럼프 대통령은 \"토드 블랜치 법무장관이 황 CEO가 불법 행위에 관여한 증거가 없다고 확인해 줬다\"고 주장했습니다.\n\n이에 블랜치 장관은 부담스러운 기색이 역력합니다.\n\n그는 현지시간 23일 폭스뉴스 인터뷰에서 황 CEO가 국가안보 위험이나 불법 행위 의혹에서 벗어났냐는 질문에 즉답을 피했습니다.\n\n향후 의회 조사에서 엔비디아의 첨단 인공지능(AI) 칩이 중국에 밀반입된 과정에 황 CEO가 연루된 사실이 드러나면, 법무부로서는 성급하게 황 CEO에게 면죄부를 줬다는 비난에 부딪힐 수밖에 없습니다.\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261124/AKR20261125081006hrZ_02_i.jpg\" alt=\"\"><span class=\"yna_title\">도널드 트럼프 미국 대통령과 마코 루비오 미국 국무장관</span><span class=\"yna_caption\">[AFP=연합뉴스 자료사진 제공]</span><span class=\"yna_description\">[AFP=연합뉴스 자료사진 제공]</span></div>\n마코 루비오 국무장관도 같은 날 공개 행사에서 취재진의 질문에 말을 아꼈습니다.\n\n루비오 장관은 지난 5월 트럼프 대통령에게 황 CEO가 중국 스파이로 의심되는 여성과 불륜 관계라고 직보한 당사자입니다.\n\n의회 조사에서 황 CEO가 엔비디아 칩의 중국 밀반입에 연루된 정황이 확인된다면 트럼프 대통령도 철저한 검증 없이 황 CEO의 복귀를 밀어붙인 책임을 벗어날 수 없습니다.\n\n이미 공화·민주 양당은 황 CEO 복귀에 반발하며 관련 조사를 예고했습니다.\n\n#젠슨황 #엔비디아 #트럼프\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n장효인(hijang@yna.co.kr)",
-          "content:encodedSnippet": "토드 블랜치 미 법무장관[게티이미지/AFP=연합뉴스 자료사진 제공][게티이미지/AFP=연합뉴스 자료사진 제공]\n도널드 트럼프 미국 대통령과 마코 루비오 미국 국무장관[AFP=연합뉴스 자료사진 제공][AFP=연합뉴스 자료사진 제공]\n마코 루비오 국무장관도 같은 날 공개 행사에서 취재진의 질문에 말을 아꼈습니다.\n\n루비오 장관은 지난 5월 트럼프 대통령에게 황 CEO가 중국 스파이로 의심되는 여성과 불륜 관계라고 직보한 당사자입니다.\n\n의회 조사에서 황 CEO가 엔비디아 칩의 중국 밀반입에 연루된 정황이 확인된다면 트럼프 대통령도 철저한 검증 없이 황 CEO의 복귀를 밀어붙인 책임을 벗어날 수 없습니다.\n\n이미 공화·민주 양당은 황 CEO 복귀에 반발하며 관련 조사를 예고했습니다.\n\n#젠슨황 #엔비디아 #트럼프\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n장효인(hijang@yna.co.kr)",
+          "title": "돌아온 젠슨 황의 '모순'…엔비디아의 도박?",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH202611251202420YL",
+          "pubDate": "Wed, 25 Nov 2026 12:02:42 +0900",
+          "content:encoded": "[앵커]\n\n젠슨 황 CEO가 시장의 환호를 받으며 복귀했지만, 진짜 문제는 이제부터라는 우려도 적지 않습니다.\n\n불륜 스캔들로 국가안보가 위협받았다는 의혹이 완전히 해소되지 않은 만큼, 황 CEO 복귀 결정은 도박이나 다름없다는 지적이 나옵니다.\n\n장효인 기자의 보도입니다.\n\n[기자]\n\n회사 안팎으로 불륜 관계를 맺어온 젠슨 황 CEO.\n\n자신이 어긴 사내 행동강령을 두고 모순된 태도를 보였습니다.\n\n황 CEO는 전사회의에서 \"행동강령 위반은 용납되지 않는다\"며, 사실관계 등을 고려해 퇴출을 결정하겠다고 말했습니다.\n\n수십 명의 고위 임원들이 자신에게 직접 보고하는 기존 경영 체제를 유지하겠다는 의지도 밝힌 것으로 전해졌습니다.\n\n엔비디아가 '시한폭탄' 같은 상태라는 우려는 여전합니다.\n\n이번 스캔들로 CEO의 도덕적 해이가 드러난 데다, 이사회가 도널드 트럼프 대통령의 '하수인' 같은 모습을 보였기 때문입니다.\n\n&lt;버나드 콘돈 / AP 통신&gt; \"젠슨 황은 아직 위기를 완전히 벗어난 것이 아닙니다. 중국 간첩으로 지목된 여성과 불륜 관계를 맺은 것에 대해 그가 얼마나 알고 있었는지 밝혀야 합니다.\"\n\n최악의 경우는 황 CEO의 외도가 미 국가 안보에 해를 입혔다는 의혹이 사실로 드러나는 것입니다.\n\n현재 미 증권거래위원회와 이사회 특위 조사, 의회 청문회, 법무부와 상무부, 캘리포니아주 검찰 조사가 황 CEO를 기다리고 있습니다.\n\n엔비디아 내부에서는 사임 발표 직전에는 유임을 원하는 목소리가 우세했지만, 정작 복귀 후에는 찬성 의견이 절반을 밑돌았습니다.\n\n미 정부가 황 CEO에게 성급하게 면죄부를 줬다는 논란도 여전한 가운데, 토드 블랜치 법무장관과 마코 루비오 국무장관 등 핵심 참모들은 관련 언급을 자제하며 트럼프 대통령과 슬그머니 거리를 두는 모습입니다.\n\n&lt;요헨 스탄즐 / 시장 분석가&gt; \"젠슨 황이 돌아온 방식은 다소 찜찜한 느낌을 남깁니다. 이는 트럼프 대통령의 암묵적인 지지를 받아 (정부) 최고위층에서 조율된 일이었습니다.\"\n\n전문가들은 이사회가 회사를 주주 소송과 안보와 관련한 정치적 감시에 노출시켰다며, '도박 주사위'를 던진 셈이라고 평가했습니다.\n\n연합뉴스TV 장효인입니다.\n\n[영상편집 박수경]\n\n[그래픽 강영진 김형서]\n\n#젠슨황 #엔비디아\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n장효인(hijang@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n젠슨 황 CEO가 시장의 환호를 받으며 복귀했지만, 진짜 문제는 이제부터라는 우려도 적지 않습니다.\n\n불륜 스캔들로 국가안보가 위협받았다는 의혹이 완전히 해소되지 않은 만큼, 황 CEO 복귀 결정은 도박이나 다름없다는 지적이 나옵니다.\n\n장효인 기자의 보도입니다.\n\n[기자]\n\n회사 안팎으로 불륜 관계를 맺어온 젠슨 황 CEO.\n\n자신이 어긴 사내 행동강령을 두고 모순된 태도를 보였습니다.\n\n황 CEO는 전사회의에서 \"행동강령 위반은 용납되지 않는다\"며, 사실관계 등을 고려해 퇴출을 결정하겠다고 말했습니다.\n\n수십 명의 고위 임원들이 자신에게 직접 보고하는 기존 경영 체제를 유지하겠다는 의지도 밝힌 것으로 전해졌습니다.\n\n엔비디아가 '시한폭탄' 같은 상태라는 우려는 여전합니다.\n\n이번 스캔들로 CEO의 도덕적 해이가 드러난 데다, 이사회가 도널드 트럼프 대통령의 '하수인' 같은 모습을 보였기 때문입니다.\n\n<버나드 콘돈 / AP 통신> \"젠슨 황은 아직 위기를 완전히 벗어난 것이 아닙니다. 중국 간첩으로 지목된 여성과 불륜 관계를 맺은 것에 대해 그가 얼마나 알고 있었는지 밝혀야 합니다.\"\n\n최악의 경우는 황 CEO의 외도가 미 국가 안보에 해를 입혔다는 의혹이 사실로 드러나는 것입니다.\n\n현재 미 증권거래위원회와 이사회 특위 조사, 의회 청문회, 법무부와 상무부, 캘리포니아주 검찰 조사가 황 CEO를 기다리고 있습니다.\n\n엔비디아 내부에서는 사임 발표 직전에는 유임을 원하는 목소리가 우세했지만, 정작 복귀 후에는 찬성 의견이 절반을 밑돌았습니다.\n\n미 정부가 황 CEO에게 성급하게 면죄부를 줬다는 논란도 여전한 가운데, 토드 블랜치 법무장관과 마코 루비오 국무장관 등 핵심 참모들은 관련 언급을 자제하며 트럼프 대통령과 슬그머니 거리를 두는 모습입니다.\n\n<요헨 스탄즐 / 시장 분석가> \"젠슨 황이 돌아온 방식은 다소 찜찜한 느낌을 남깁니다. 이는 트럼프 대통령의 암묵적인 지지를 받아 (정부) 최고위층에서 조율된 일이었습니다.\"\n\n전문가들은 이사회가 회사를 주주 소송과 안보와 관련한 정치적 감시에 노출시켰다며, '도박 주사위'를 던진 셈이라고 평가했습니다.\n\n연합뉴스TV 장효인입니다.\n\n[영상편집 박수경]\n\n[그래픽 강영진 김형서]\n\n#젠슨황 #엔비디아\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n장효인(hijang@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261124/AKR20261125081006hrZ_01_i.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261125/MYH202611251202420YL.jpg",
             "type": "image/jpeg"
           },
           "dc:creator": "장효인",
-          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261125081006hrZ#comments",
-          "content": "토드 블랜치 미 법무장관[게티이미지/AFP=연합뉴스 자료사진 제공][게티이미지/AFP=연합뉴스 자료사진 제공] 도널드 트럼프 미국 대통령이 젠슨 황 엔비디아 최고경영자(CEO)의 복귀를 주도한 가운데, 핵심 참모진들은 이번 논란에서 슬그머니 발을 빼려는 모습을 보이고 있습니다. 앞서 트럼프 대통령은 \"토드 블랜치 법무장관이 황 CEO가 불법 행위에 관여한 증거가 없다고 확인해 줬다\"고 주장했습니다. 이에 블랜치 장관은 부담스러운 기색이 역...",
-          "contentSnippet": "토드 블랜치 미 법무장관[게티이미지/AFP=연합뉴스 자료사진 제공][게티이미지/AFP=연합뉴스 자료사진 제공] 도널드 트럼프 미국 대통령이 젠슨 황 엔비디아 최고경영자(CEO)의 복귀를 주도한 가운데, 핵심 참모진들은 이번 논란에서 슬그머니 발을 빼려는 모습을 보이고 있습니다. 앞서 트럼프 대통령은 \"토드 블랜치 법무장관이 황 CEO가 불법 행위에 관여한 증거가 없다고 확인해 줬다\"고 주장했습니다. 이에 블랜치 장관은 부담스러운 기색이 역...",
-          "guid": "AKR20261125081006hrZ",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH202611251202420YL#comments",
+          "content": "[앵커] 젠슨 황 CEO가 시장의 환호를 받으며 복귀했지만, 진짜 문제는 이제부터라는 우려도 적지 않습니다. 불륜 스캔들로 국가안보가 위협받았다는 의혹이 완전히 해소되지 않은 만큼, 황 CEO 복귀 결정은 도박이나 다름없다는 지적이 나옵니다. 장효인 기자의 보도입니다. [기자] 회사 안팎으로 불륜 관계를 맺어온 젠슨 황 CEO. 자신이 어긴 사내 행동강령을 두고 모순된 태도를 보였습니다. 황 CEO는 전사회의에서 \"행동강령 위반은 용납되지...",
+          "contentSnippet": "[앵커] 젠슨 황 CEO가 시장의 환호를 받으며 복귀했지만, 진짜 문제는 이제부터라는 우려도 적지 않습니다. 불륜 스캔들로 국가안보가 위협받았다는 의혹이 완전히 해소되지 않은 만큼, 황 CEO 복귀 결정은 도박이나 다름없다는 지적이 나옵니다. 장효인 기자의 보도입니다. [기자] 회사 안팎으로 불륜 관계를 맺어온 젠슨 황 CEO. 자신이 어긴 사내 행동강령을 두고 모순된 태도를 보였습니다. 황 CEO는 전사회의에서 \"행동강령 위반은 용납되지...",
+          "guid": "MYH202611251202420YL",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-24T23:10:07.000Z"
+          "isoDate": "2026-11-25T03:02:42.000Z"
+        },
+        {
+          "creator": "김예린",
+          "title": "젠슨황 효과 하루만에 꺼졌나…반도체지수 '뚝'",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261125120155NEP",
+          "pubDate": "Wed, 25 Nov 2026 12:01:57 +0900",
+          "content:encoded": "[앵커]\n\n젠슨 황 엔비디아 CEO의 복귀 소식에 급등했던 인공지능 관련주들이 하루 만에 일제히 하락세로 돌아섰습니다.\n\n시장에서는 '젠슨 황 효과'의 지속 가능성에 대한 의구심이 제기되고 있는데요.\n\n보도에 김예린 기자입니다.\n\n[기자]\n\n주식 시장을 열광시킨 '젠슨 황 복귀 효과'는 하루 만에 가라앉았습니다.\n\n30% 넘게 폭등했던 엔비디아 주가는 5.8% 넘게 떨어졌습니다.\n\n인공지능 관련 기술주도 일제히 하락세로 돌아섰습니다.\n\nAMD와 마이크론, SK하이닉스 등 주요 반도체주가 떨어지며 필라델피아 반도체지수는 8% 가까이 급락했습니다.\n\n역대 최대 규모의 기업공개 기록을 세운 앤트로픽도 상장 나흘 만에 공모가 아래로 내려앉았습니다.\n\n'젠슨 황 효과'에 대한 시장의 경계심이 주가를 끌어내린 것으로 해석됩니다.\n\n황 CEO의 전격 복귀에도 중국 스파이 연루 의혹 등 각종 정치적 논란과 엔비디아의 지배구조적 위험은 여전히 변수로 남아 있습니다.\n\n다만 전날 상승 폭이 컸던 만큼, 단기 과열을 일부 되돌리는 조정 차원이라는 진단도 나옵니다.\n\n&lt;에릭 디톤 / 웰스얼라이언스 대표&gt; \"이는 AI, 특히 엔비디아가 주도한 현상이었습니다. 그런데 한 걸음 물러나 숨을 고르고 생각해보면 '아직 해결해야 할 과제들이 많이 남아 있다, 진정하자'라고 판단하는 게 합리적입니다.\"\n\n젠슨 황 스캔들과 별개로 AI 종목의 투자 수익성에 대한 우려도 커지고 있습니다.\n\n황 CEO의 복귀 만으로 업계의 불확실성을 해소하기는 역부족이라는 평가도 나옵니다.\n\n전날 동반 상승했던 뉴욕증시 3대 지수는 기술주를 중심으로 하락세가 나타나며 혼조세로 마감했습니다.\n\n다우지수는 소폭 상승하며 5만선을 회복했지만, S&amp;P500 지수와 나스닥 지수는 하락했습니다.\n\n연합뉴스TV 김예린입니다.\n\n[영상편집 강태임]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김예린(yey@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n젠슨 황 엔비디아 CEO의 복귀 소식에 급등했던 인공지능 관련주들이 하루 만에 일제히 하락세로 돌아섰습니다.\n\n시장에서는 '젠슨 황 효과'의 지속 가능성에 대한 의구심이 제기되고 있는데요.\n\n보도에 김예린 기자입니다.\n\n[기자]\n\n주식 시장을 열광시킨 '젠슨 황 복귀 효과'는 하루 만에 가라앉았습니다.\n\n30% 넘게 폭등했던 엔비디아 주가는 5.8% 넘게 떨어졌습니다.\n\n인공지능 관련 기술주도 일제히 하락세로 돌아섰습니다.\n\nAMD와 마이크론, SK하이닉스 등 주요 반도체주가 떨어지며 필라델피아 반도체지수는 8% 가까이 급락했습니다.\n\n역대 최대 규모의 기업공개 기록을 세운 앤트로픽도 상장 나흘 만에 공모가 아래로 내려앉았습니다.\n\n'젠슨 황 효과'에 대한 시장의 경계심이 주가를 끌어내린 것으로 해석됩니다.\n\n황 CEO의 전격 복귀에도 중국 스파이 연루 의혹 등 각종 정치적 논란과 엔비디아의 지배구조적 위험은 여전히 변수로 남아 있습니다.\n\n다만 전날 상승 폭이 컸던 만큼, 단기 과열을 일부 되돌리는 조정 차원이라는 진단도 나옵니다.\n\n<에릭 디톤 / 웰스얼라이언스 대표> \"이는 AI, 특히 엔비디아가 주도한 현상이었습니다. 그런데 한 걸음 물러나 숨을 고르고 생각해보면 '아직 해결해야 할 과제들이 많이 남아 있다, 진정하자'라고 판단하는 게 합리적입니다.\"\n\n젠슨 황 스캔들과 별개로 AI 종목의 투자 수익성에 대한 우려도 커지고 있습니다.\n\n황 CEO의 복귀 만으로 업계의 불확실성을 해소하기는 역부족이라는 평가도 나옵니다.\n\n전날 동반 상승했던 뉴욕증시 3대 지수는 기술주를 중심으로 하락세가 나타나며 혼조세로 마감했습니다.\n\n다우지수는 소폭 상승하며 5만선을 회복했지만, S&P500 지수와 나스닥 지수는 하락했습니다.\n\n연합뉴스TV 김예린입니다.\n\n[영상편집 강태임]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김예린(yey@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261125/MYH20261125120155NEP.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "김예린",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261125120155NEP#comments",
+          "content": "[앵커] 젠슨 황 엔비디아 CEO의 복귀 소식에 급등했던 인공지능 관련주들이 하루 만에 일제히 하락세로 돌아섰습니다. 시장에서는 '젠슨 황 효과'의 지속 가능성에 대한 의구심이 제기되고 있는데요. 보도에 김예린 기자입니다. [기자] 주식 시장을 열광시킨 '젠슨 황 복귀 효과'는 하루 만에 가라앉았습니다. 30% 넘게 폭등했던 엔비디아 주가는 5.8% 넘게 떨어졌습니다. 인공지능 관련 기술주도 일제히 하락세로 돌아섰습니다. AMD와 마이크론...",
+          "contentSnippet": "[앵커] 젠슨 황 엔비디아 CEO의 복귀 소식에 급등했던 인공지능 관련주들이 하루 만에 일제히 하락세로 돌아섰습니다. 시장에서는 '젠슨 황 효과'의 지속 가능성에 대한 의구심이 제기되고 있는데요. 보도에 김예린 기자입니다. [기자] 주식 시장을 열광시킨 '젠슨 황 복귀 효과'는 하루 만에 가라앉았습니다. 30% 넘게 폭등했던 엔비디아 주가는 5.8% 넘게 떨어졌습니다. 인공지능 관련 기술주도 일제히 하락세로 돌아섰습니다. AMD와 마이크론...",
+          "guid": "MYH20261125120155NEP",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-25T03:01:57.000Z"
+        },
+        {
+          "creator": "김예린",
+          "title": "러시아서 잡힌 북한인 절도범…\"드론공장 활동 정황 드러나\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261125114828iRs",
+          "pubDate": "Wed, 25 Nov 2026 11:48:29 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261125/AKR20261125114828iRs_01_i.jpg\" alt=\"\"><span class=\"yna_title\">러시아형 드론 '게란'</span><span class=\"yna_caption\">[EPA=연합뉴스 제공]</span><span class=\"yna_description\">[EPA=연합뉴스 제공]</span></div>\n러시아의 드론 생산 공장에서 북한인 노동자가 활동해 온 정황이 현지 법원의 절도 사건 판결문을 통해 드러났다고 미국의 북한 전문매체 NK뉴스가 보도했습니다.\n\n현지 시간 24일 NK뉴스가 입수한 판결문에 따르면 러시아 현지 법원은 북한 국적자 강철훈이 지난달 15일 남의 신용카드를 훔쳐 133달러, 약 18만원 상당의 물품을 구매하는 데 결제한 혐의로 유죄 판결을 내렸습니다.\n\n강씨는 징역 1년형을 선고받았으나 피해자와 합의한 뒤 집행유예 1년으로 감형됐습니다.\n\n판결문에 명시된 사건 발생 장소는 옐라부가 인근 '산업·기술 단지'로, 해당 시설에는 이란이 설계한 자폭형 드론 '샤헤드'를 러시아형 '게란' 시리즈로 현지 생산하는 공장이 있다고 NK뉴스는 짚었습니다.\n\n러시아는 우크라이나의 방공망을 압도하는 대규모 공격에 '게란' 시리즈를 활용하고 있습니다.\n\n옐라부가 특구에서 북한인의 존재가 공식 기록으로 확인된 것은 이번이 처음입니다.\n\n앞서 미국 워싱턴DC의 싱크탱크 전략국제문제연구소(CSIS) 산하 북한 전문 웹사이트 비욘드패럴렐은 올해 3월 대규모 북한 노동자와 기술자가 이곳에 투입됐을 가능성을 제기하면서, 북한이 러시아의 실전 드론 기술을 흡수해 자국의 무인기 전력을 고도화할 수 있다고 경고한 바 있습니다.\n\n다국적제재모니터링팀(MSMT)은 올해 9월 보고서에서 옐라부가 특구에 최대 2만5천 명의 북한 노동자가 고용된 것으로 추산했습니다.\n\n유엔 대북제재위원회 전문가패널 출신인 슈지 수는 드론 생산 시설에 북한 노동자가 투입된 점을 \"중대한 위협\"으로 규정하며 \"전쟁 중인 국가의 생산 과정에 직접 관여함으로써 북한이 드론을 대량으로 생산하는 노하우를 축적하고 있다\"고 말했습니다.\n\n옐라부가 특구에 고용된 북한 노동자들은 격리된 채 외부 정보 접촉이 제한되고 있으며 스마트폰 사용 없이 주로 끼리끼리 대화하는 등, 다른 외국인 노동자들의 처우·통제와는 크게 다른 양상을 보이는 것으로 전해졌습니다.\n\n\n#러시아 #북한 #드론 #절도 #우크라이나전쟁\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김예린(yey@yna.co.kr)",
+          "content:encodedSnippet": "러시아형 드론 '게란'[EPA=연합뉴스 제공][EPA=연합뉴스 제공]\n러시아의 드론 생산 공장에서 북한인 노동자가 활동해 온 정황이 현지 법원의 절도 사건 판결문을 통해 드러났다고 미국의 북한 전문매체 NK뉴스가 보도했습니다.\n\n현지 시간 24일 NK뉴스가 입수한 판결문에 따르면 러시아 현지 법원은 북한 국적자 강철훈이 지난달 15일 남의 신용카드를 훔쳐 133달러, 약 18만원 상당의 물품을 구매하는 데 결제한 혐의로 유죄 판결을 내렸습니다.\n\n강씨는 징역 1년형을 선고받았으나 피해자와 합의한 뒤 집행유예 1년으로 감형됐습니다.\n\n판결문에 명시된 사건 발생 장소는 옐라부가 인근 '산업·기술 단지'로, 해당 시설에는 이란이 설계한 자폭형 드론 '샤헤드'를 러시아형 '게란' 시리즈로 현지 생산하는 공장이 있다고 NK뉴스는 짚었습니다.\n\n러시아는 우크라이나의 방공망을 압도하는 대규모 공격에 '게란' 시리즈를 활용하고 있습니다.\n\n옐라부가 특구에서 북한인의 존재가 공식 기록으로 확인된 것은 이번이 처음입니다.\n\n앞서 미국 워싱턴DC의 싱크탱크 전략국제문제연구소(CSIS) 산하 북한 전문 웹사이트 비욘드패럴렐은 올해 3월 대규모 북한 노동자와 기술자가 이곳에 투입됐을 가능성을 제기하면서, 북한이 러시아의 실전 드론 기술을 흡수해 자국의 무인기 전력을 고도화할 수 있다고 경고한 바 있습니다.\n\n다국적제재모니터링팀(MSMT)은 올해 9월 보고서에서 옐라부가 특구에 최대 2만5천 명의 북한 노동자가 고용된 것으로 추산했습니다.\n\n유엔 대북제재위원회 전문가패널 출신인 슈지 수는 드론 생산 시설에 북한 노동자가 투입된 점을 \"중대한 위협\"으로 규정하며 \"전쟁 중인 국가의 생산 과정에 직접 관여함으로써 북한이 드론을 대량으로 생산하는 노하우를 축적하고 있다\"고 말했습니다.\n\n옐라부가 특구에 고용된 북한 노동자들은 격리된 채 외부 정보 접촉이 제한되고 있으며 스마트폰 사용 없이 주로 끼리끼리 대화하는 등, 다른 외국인 노동자들의 처우·통제와는 크게 다른 양상을 보이는 것으로 전해졌습니다.\n\n\n#러시아 #북한 #드론 #절도 #우크라이나전쟁\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김예린(yey@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261125/AKR20261125114828iRs_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "김예린",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261125114828iRs#comments",
+          "content": "러시아형 드론 '게란'[EPA=연합뉴스 제공][EPA=연합뉴스 제공] 러시아의 드론 생산 공장에서 북한인 노동자가 활동해 온 정황이 현지 법원의 절도 사건 판결문을 통해 드러났다고 미국의 북한 전문매체 NK뉴스가 보도했습니다. 현지 시간 24일 NK뉴스가 입수한 판결문에 따르면 러시아 현지 법원은 북한 국적자 강철훈이 지난달 15일 남의 신용카드를 훔쳐 133달러, 약 18만원 상당의 물품을 구매하는 데 결제한 혐의로 유죄 판결을 내렸습니...",
+          "contentSnippet": "러시아형 드론 '게란'[EPA=연합뉴스 제공][EPA=연합뉴스 제공] 러시아의 드론 생산 공장에서 북한인 노동자가 활동해 온 정황이 현지 법원의 절도 사건 판결문을 통해 드러났다고 미국의 북한 전문매체 NK뉴스가 보도했습니다. 현지 시간 24일 NK뉴스가 입수한 판결문에 따르면 러시아 현지 법원은 북한 국적자 강철훈이 지난달 15일 남의 신용카드를 훔쳐 133달러, 약 18만원 상당의 물품을 구매하는 데 결제한 혐의로 유죄 판결을 내렸습니...",
+          "guid": "AKR20261125114828iRs",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-25T02:48:29.000Z"
+        },
+        {
+          "creator": "박지연",
+          "title": "'유럽 스키 명품' 휘감은 김주애, 장비 얼마길래…미국도 \"사치품\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261125114007kdM",
+          "pubDate": "Wed, 25 Nov 2026 11:40:07 +0900",
+          "content:encoded": "<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261125/AKR20261125114007kdM_01_i.jpg\" alt=\"\"><span class=\"yna_title\">김정은 북한 국무위원장의 딸 김주애가 스키를 타는 모습.</span><span class=\"yna_caption\">[사진=연합뉴스]</span><span class=\"yna_description\">[사진=연합뉴스]</span></div>\n김정은 북한 국무위원장의 딸 김주애가 착용한 스키 장비가 유럽 고가 브랜드 제품이라는 추측이 나오는 가운데, 미국 정부가 스키 장비도 북한 반입이 금지된 사치품이라고 확인했습니다.\n\n앞서 북한 조선중앙통신은 지난 17일 김 위원장의 삼지연시 관광지구 시찰 소식을 전하면서 김주애가 스키를 타는 모습을 공개했는데, 김주애의 흰색 스키복과 스키 장비에 일부 로고가 포착됐습니다.\n\n스키복의 정확한 브랜드와 모델은 확인되지 않았지만, 삼각형 로고 모양 등을 근거로 프랑스 브랜드 로시뇰과 살로몬 제품이라는 추측이 나왔습니다.\n\n로시뇰의 여성용 스키 재킷은 국내 공식몰에서 모델에 따라 49만~102만 원에 팔리며, 살로몬의 여성용 스키 바지는 미국 공식몰 기준 160~700달러, 한화로 약 21만~94만 원입니다.\n\n두 브랜드의 가장 비싼 제품을 기준으로 하면 상·하의 가격은 약 196만 원으로, 200만 원에 육박합니다.\n\n스키 바닥면에서는 스위스 브랜드 스퇴클리(Stöckli) 로고도 포착됐습니다. 스퇴클리는 스위스에서 수제로 만드는 고급 스키 브랜드로, 스키 세트 가격만 300만~400만 원대에 달합니다.\n\n시찰에 동행한 박정천 부위원장이 착용한 스키화와 스키 폴 역시 오스트리아 브랜드 피셔(Fischer) 제품으로 추정됐습니다.\n\n다만 스퇴클리, 피셔 등 두 업체는 보이스오브아메리카(VOA)에 북한과 어떠한 사업 관계도 맺고 있지 않다고 밝혔습니다.\n\n앞서 미국 국무부 대변인은 현지시간 24일 VOA의 관련 질의에 \"유엔 회원국은 관련 안전보장이사회 결의에 따라 사치품을 북한에 직접 또는 간접적으로 공급하거나 판매·이전하는 것을 막아야 한다\"며 \"여기에는 스키 장비 같은 여가용 스포츠 장비도 포함된다\"고 밝혔습니다.\n\n유엔 안보리는 지난 2016년 3월 '여가용 스포츠 장비'를 사치품으로 분류해 북한 반입을 금지하는 대북 제재 결의 2270호를 채택했습니다.\n\n#미국 #국무부 #북한 #김정은 #김주애 #스키 #명품 #사치품\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박지연(park45@yna.co.kr)",
+          "content:encodedSnippet": "김정은 북한 국무위원장의 딸 김주애가 스키를 타는 모습.[사진=연합뉴스][사진=연합뉴스]\n김정은 북한 국무위원장의 딸 김주애가 착용한 스키 장비가 유럽 고가 브랜드 제품이라는 추측이 나오는 가운데, 미국 정부가 스키 장비도 북한 반입이 금지된 사치품이라고 확인했습니다.\n\n앞서 북한 조선중앙통신은 지난 17일 김 위원장의 삼지연시 관광지구 시찰 소식을 전하면서 김주애가 스키를 타는 모습을 공개했는데, 김주애의 흰색 스키복과 스키 장비에 일부 로고가 포착됐습니다.\n\n스키복의 정확한 브랜드와 모델은 확인되지 않았지만, 삼각형 로고 모양 등을 근거로 프랑스 브랜드 로시뇰과 살로몬 제품이라는 추측이 나왔습니다.\n\n로시뇰의 여성용 스키 재킷은 국내 공식몰에서 모델에 따라 49만~102만 원에 팔리며, 살로몬의 여성용 스키 바지는 미국 공식몰 기준 160~700달러, 한화로 약 21만~94만 원입니다.\n\n두 브랜드의 가장 비싼 제품을 기준으로 하면 상·하의 가격은 약 196만 원으로, 200만 원에 육박합니다.\n\n스키 바닥면에서는 스위스 브랜드 스퇴클리(Stöckli) 로고도 포착됐습니다. 스퇴클리는 스위스에서 수제로 만드는 고급 스키 브랜드로, 스키 세트 가격만 300만~400만 원대에 달합니다.\n\n시찰에 동행한 박정천 부위원장이 착용한 스키화와 스키 폴 역시 오스트리아 브랜드 피셔(Fischer) 제품으로 추정됐습니다.\n\n다만 스퇴클리, 피셔 등 두 업체는 보이스오브아메리카(VOA)에 북한과 어떠한 사업 관계도 맺고 있지 않다고 밝혔습니다.\n\n앞서 미국 국무부 대변인은 현지시간 24일 VOA의 관련 질의에 \"유엔 회원국은 관련 안전보장이사회 결의에 따라 사치품을 북한에 직접 또는 간접적으로 공급하거나 판매·이전하는 것을 막아야 한다\"며 \"여기에는 스키 장비 같은 여가용 스포츠 장비도 포함된다\"고 밝혔습니다.\n\n유엔 안보리는 지난 2016년 3월 '여가용 스포츠 장비'를 사치품으로 분류해 북한 반입을 금지하는 대북 제재 결의 2270호를 채택했습니다.\n\n#미국 #국무부 #북한 #김정은 #김주애 #스키 #명품 #사치품\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박지연(park45@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261125/AKR20261125114007kdM_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "박지연",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261125114007kdM#comments",
+          "content": "김정은 북한 국무위원장의 딸 김주애가 스키를 타는 모습.[사진=연합뉴스][사진=연합뉴스] 김정은 북한 국무위원장의 딸 김주애가 착용한 스키 장비가 유럽 고가 브랜드 제품이라는 추측이 나오는 가운데, 미국 정부가 스키 장비도 북한 반입이 금지된 사치품이라고 확인했습니다. 앞서 북한 조선중앙통신은 지난 17일 김 위원장의 삼지연시 관광지구 시찰 소식을 전하면서 김주애가 스키를 타는 모습을 공개했는데, 김주애의 흰색 스키복과 스키 장비에 일부 ...",
+          "contentSnippet": "김정은 북한 국무위원장의 딸 김주애가 스키를 타는 모습.[사진=연합뉴스][사진=연합뉴스] 김정은 북한 국무위원장의 딸 김주애가 착용한 스키 장비가 유럽 고가 브랜드 제품이라는 추측이 나오는 가운데, 미국 정부가 스키 장비도 북한 반입이 금지된 사치품이라고 확인했습니다. 앞서 북한 조선중앙통신은 지난 17일 김 위원장의 삼지연시 관광지구 시찰 소식을 전하면서 김주애가 스키를 타는 모습을 공개했는데, 김주애의 흰색 스키복과 스키 장비에 일부 ...",
+          "guid": "AKR20261125114007kdM",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-25T02:40:07.000Z"
+        },
+        {
+          "creator": "정호진",
+          "title": "국힘 \"이용철 '공소취소 지휘 없다' 끝내 답 안해…사퇴하라\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261125113939DyN",
+          "pubDate": "Wed, 25 Nov 2026 11:39:39 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261125/AKR20261125113939DyN_01_i.jpg\" alt=\"\"><span class=\"yna_title\">국민의힘 정점식 원내대표</span><span class=\"yna_caption\">[연합뉴스 자료사진]</span><span class=\"yna_description\">[연합뉴스 자료사진]</span></div>\n국민의힘은 이용철 법무부장관 후보자가 국회 인사청문회에서 이재명 대통령 관련 사건에 대해 '공소취소 지휘는 없다'는 답변을 내놓지 못했다며 사퇴를 요구했습니다.\n\n정점식 원내대표는 오늘(25일) 국회에서 기자들과 만나 \"정성호 전 법무부 장관, 김승원 전 법무부장관 후보자에 비해 더 노골적인 공소취소 의지를 확인할 수 있었다\"며 이같이 밝혔습니다.\n\n정 원내대표는 \"공소취소에 대해 무리한 지휘는 하지 않겠다는 답변은 무리하지 않은 방식으로 지휘하겠다는 것\"이라며 \"우회로를 더 많이 준비해뒀다는 자신감\"이라고 주장했습니다.\n\n그러면서 \"이재명 대통령의 탈옥 트라이앵글이 완전히 윤곽을 드러냈다. 지휘자는 이용철, 행동대장은 탈옥특검, 골키퍼 사법부 협박은 대법원장 탄핵\"이라며 \"청문보고서 채택을 거부할 것\"이라고 날을 세웠습니다.\n\n박충권 수석대변인도 이날 논평을 통해 \"이 후보자는 청문회에서 '나는 공소취소 지휘하지 않겠다'고 후보자로서 얘기 못 하느냐는 질문에 '예, 그렇습니다'라고 답했다\"면서 \"법치를 수호해야 할 장관이 지휘봉 대신 대통령 사건을 지울 '지우개'를 쥐겠다는 것\"이라고 비판했습니다.\n\n그러면서 \"최고 권력자인 대통령일지라도 피고인이라면 법정에서 증거와 법리로 판단 받아야 한다. 이 후보자는 지금이라도 '대통령 사건 공소 취소는 없다'고 분명히 밝히라\"면서 \"그 말조차 못 한다면 후보직에서 물러나는 게 국민에 대한 도리\"라고 비판했습니다.\n\n한편 국민의힘은 이재명 대통령이 국무회의에서 12월 3일을 국가 기념일인 '국민주권의 날'로 지정하는 개정안을 의결한 것을 두고도 \"국민 주권을 외치며 사법부를 짓밟으려는 이재명 정권의 위선\"이라고 지적했습니다.\n\n최은석 원내수석대변인은 논평에서 \"이 대통령이 12월 3일을 '국민 주권의 날'로 지정하는 개정안을 국무회의에서 의결했다. 그런데 정작 민주당은 바로 그날 조희대 대법원장 탄핵소추안을 처리하겠다고 한다\"며 \"국민 주권을 기념하겠다는 날 사법부 수장을 탄핵한다니 이보다 더 황당한 정치적 모순이 어디 있나\"라고 말했습니다.\n\n이어 \"국민 주권을 내세우며 그 근간인 사법부 독립을 흔든다면 이는 대놓고 국민을 기만하고 우롱하는 것\"이라며 \"12월 3일 민주당이 끝내 조 대법원장 탄핵소추안을 강행한다면 그날은 삼권분립을 훼손한 날로 역사에 기록될 것\"이라고 경고했습니다.\n\n#국민의힘 #이용철 #법무부장관\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정호진(hojeans@yna.co.kr)",
+          "content:encodedSnippet": "국민의힘 정점식 원내대표[연합뉴스 자료사진][연합뉴스 자료사진]\n국민의힘은 이용철 법무부장관 후보자가 국회 인사청문회에서 이재명 대통령 관련 사건에 대해 '공소취소 지휘는 없다'는 답변을 내놓지 못했다며 사퇴를 요구했습니다.\n\n정점식 원내대표는 오늘(25일) 국회에서 기자들과 만나 \"정성호 전 법무부 장관, 김승원 전 법무부장관 후보자에 비해 더 노골적인 공소취소 의지를 확인할 수 있었다\"며 이같이 밝혔습니다.\n\n정 원내대표는 \"공소취소에 대해 무리한 지휘는 하지 않겠다는 답변은 무리하지 않은 방식으로 지휘하겠다는 것\"이라며 \"우회로를 더 많이 준비해뒀다는 자신감\"이라고 주장했습니다.\n\n그러면서 \"이재명 대통령의 탈옥 트라이앵글이 완전히 윤곽을 드러냈다. 지휘자는 이용철, 행동대장은 탈옥특검, 골키퍼 사법부 협박은 대법원장 탄핵\"이라며 \"청문보고서 채택을 거부할 것\"이라고 날을 세웠습니다.\n\n박충권 수석대변인도 이날 논평을 통해 \"이 후보자는 청문회에서 '나는 공소취소 지휘하지 않겠다'고 후보자로서 얘기 못 하느냐는 질문에 '예, 그렇습니다'라고 답했다\"면서 \"법치를 수호해야 할 장관이 지휘봉 대신 대통령 사건을 지울 '지우개'를 쥐겠다는 것\"이라고 비판했습니다.\n\n그러면서 \"최고 권력자인 대통령일지라도 피고인이라면 법정에서 증거와 법리로 판단 받아야 한다. 이 후보자는 지금이라도 '대통령 사건 공소 취소는 없다'고 분명히 밝히라\"면서 \"그 말조차 못 한다면 후보직에서 물러나는 게 국민에 대한 도리\"라고 비판했습니다.\n\n한편 국민의힘은 이재명 대통령이 국무회의에서 12월 3일을 국가 기념일인 '국민주권의 날'로 지정하는 개정안을 의결한 것을 두고도 \"국민 주권을 외치며 사법부를 짓밟으려는 이재명 정권의 위선\"이라고 지적했습니다.\n\n최은석 원내수석대변인은 논평에서 \"이 대통령이 12월 3일을 '국민 주권의 날'로 지정하는 개정안을 국무회의에서 의결했다. 그런데 정작 민주당은 바로 그날 조희대 대법원장 탄핵소추안을 처리하겠다고 한다\"며 \"국민 주권을 기념하겠다는 날 사법부 수장을 탄핵한다니 이보다 더 황당한 정치적 모순이 어디 있나\"라고 말했습니다.\n\n이어 \"국민 주권을 내세우며 그 근간인 사법부 독립을 흔든다면 이는 대놓고 국민을 기만하고 우롱하는 것\"이라며 \"12월 3일 민주당이 끝내 조 대법원장 탄핵소추안을 강행한다면 그날은 삼권분립을 훼손한 날로 역사에 기록될 것\"이라고 경고했습니다.\n\n#국민의힘 #이용철 #법무부장관\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정호진(hojeans@yna.co.kr)",
+          "enclosure": {
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261125/AKR20261125113939DyN_01_i.jpg",
+            "type": "image/jpeg"
+          },
+          "dc:creator": "정호진",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261125113939DyN#comments",
+          "content": "국민의힘 정점식 원내대표[연합뉴스 자료사진][연합뉴스 자료사진] 국민의힘은 이용철 법무부장관 후보자가 국회 인사청문회에서 이재명 대통령 관련 사건에 대해 '공소취소 지휘는 없다'는 답변을 내놓지 못했다며 사퇴를 요구했습니다. 정점식 원내대표는 오늘(25일) 국회에서 기자들과 만나 \"정성호 전 법무부 장관, 김승원 전 법무부장관 후보자에 비해 더 노골적인 공소취소 의지를 확인할 수 있었다\"며 이같이 밝혔습니다. 정 원내대표는 \"공소취소에 대...",
+          "contentSnippet": "국민의힘 정점식 원내대표[연합뉴스 자료사진][연합뉴스 자료사진] 국민의힘은 이용철 법무부장관 후보자가 국회 인사청문회에서 이재명 대통령 관련 사건에 대해 '공소취소 지휘는 없다'는 답변을 내놓지 못했다며 사퇴를 요구했습니다. 정점식 원내대표는 오늘(25일) 국회에서 기자들과 만나 \"정성호 전 법무부 장관, 김승원 전 법무부장관 후보자에 비해 더 노골적인 공소취소 의지를 확인할 수 있었다\"며 이같이 밝혔습니다. 정 원내대표는 \"공소취소에 대...",
+          "guid": "AKR20261125113939DyN",
+          "categories": [
+            "최신"
+          ],
+          "isoDate": "2026-11-25T02:39:39.000Z"
         }
       ]
     }
