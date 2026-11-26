@@ -7,6 +7,126 @@
       "priority": 1,
       "data": [
         {
+          "title": "재미를 위해, 수익 없이 작은 태평양 섬에 공중전화 설치하기",
+          "link": "https://news.hada.io/topic?id=37910&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-26T17:37:28.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>Norfolk Island에서 이동통신망을 운영하는 팀이 <strong>산타와 무료 통화</strong>하는 서비스를 구현하기 위해, 공중전화가 없던 섬에 <strong>Nortel Millennium</strong>을 설치함</li><li>미국에서 구한 공중전화를 섬으로 운반하고 <strong><code>mm_manager</code></strong> 로 설정했으며, 북미 번호 체계를 전제로 한 제약을 수정해 프로젝트에 반영함</li><li><strong>HOHOHO(464646)</strong> 로 전화하면 무료로 Santa Bridge에 연결되며, 사전 녹음 인사말을 거쳐 <strong>OpenAI API</strong>로 산타와 대화함</li><li>산타 통화뿐 아니라 <strong>모든 Norfone 번호로 무료 통화</strong>할 수 있도록 설정하고, 비바람을 막는 외함과 새 브랜드 디자인을 적용함</li><li>설치한</li></ul></div>…",
+          "contentSnippet": "Norfolk Island에서 이동통신망을 운영하는 팀이 산타와 무료 통화하는 서비스를 구현하기 위해, 공중전화가 없던 섬에 Nortel Millennium을 설치함\n미국에서 구한 공중전화를 섬으로 운반하고 mm_manager 로 설정했으며, 북미 번호 체계를 전제로 한 제약을 수정해 프로젝트에 반영함\nHOHOHO(464646) 로 전화하면 무료로 Santa Bridge에 연결되며, 사전 녹음 인사말을 거쳐 OpenAI API로 산타와 대화함\n산타 통화뿐 아니라 모든 Norfone 번호로 무료 통화할 수 있도록 설정하고, 비바람을 막는 외함과 새 브랜드 디자인을 적용함\n설치한\n\n…",
+          "id": "https://news.hada.io/topic?id=37910",
+          "isoDate": "2026-11-26T17:37:28.000Z"
+        },
+        {
+          "title": "45°C 냉각수 입구 온도가 칠러를 퇴장시켰다. 대부분은 아직 눈치채지 못했다",
+          "link": "https://news.hada.io/topic?id=37909&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-26T17:34:28.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>Nvidia의 45°C 냉각수 입구 온도</strong> 지원으로, 기존 30~35°C 액체 냉각 환경에서 필요했던 칠러 없이도 운영할 수 있는 데이터센터가 늘어날 수 있음</li><li><strong>드라이 쿨러와 두 개의 폐회로</strong>로 서버 열을 외부에 방출하고, 가장 더운 시간대에는 물을 이용한 단열 냉각 보조로 대응하는 구성이 가능함</li><li>공개 추정치와 공급업체 모델링에서는 기존 칠러와 냉각탑 조합 대비 <strong>냉각 에너지 50~70% 절감</strong>을 예상하며, 전체 데이터센터 전력 절감 폭은 초기 PUE와 기후에 따라 10~20%임</li><li>드라이 쿨러는 정상 운전 중 외부 물을 사실상 사용하지 않아 <strong>연간 물 소</strong></li></ul></div>…",
+          "contentSnippet": "Nvidia의 45°C 냉각수 입구 온도 지원으로, 기존 30~35°C 액체 냉각 환경에서 필요했던 칠러 없이도 운영할 수 있는 데이터센터가 늘어날 수 있음\n드라이 쿨러와 두 개의 폐회로로 서버 열을 외부에 방출하고, 가장 더운 시간대에는 물을 이용한 단열 냉각 보조로 대응하는 구성이 가능함\n공개 추정치와 공급업체 모델링에서는 기존 칠러와 냉각탑 조합 대비 냉각 에너지 50~70% 절감을 예상하며, 전체 데이터센터 전력 절감 폭은 초기 PUE와 기후에 따라 10~20%임\n드라이 쿨러는 정상 운전 중 외부 물을 사실상 사용하지 않아 연간 물 소\n\n…",
+          "id": "https://news.hada.io/topic?id=37909",
+          "isoDate": "2026-11-26T17:34:28.000Z"
+        },
+        {
+          "title": "Moat: OpenRouter를 대체하는 서비스",
+          "link": "https://news.hada.io/topic?id=37908&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-26T16:36:29.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>Moat</strong>는 멤버십 요금을 내고 AI 모델을 할인된 사용량 요금으로 이용하는 서비스로, 회원들의 사용량을 모아 확보한 구매력을 기반으로 도매 가격을 제공함</li><li>멤버십은 <strong>연간 결제 시 월 5달러</strong>이며 연 60달러를 청구함. 월 단위 결제는 10달러이고, 모델 사용료는 별도로 부과됨</li><li><strong>5시간/주간/월간 사용 한도</strong>가 없고 라우터 수수료도 받지 않음. 무제한 정액제가 아니라 할인된 단가로 사용량에 따라 지불하는 구조임</li><li>모든 모델을 <strong>전체 가중치</strong>로 제공하고 자체 벤치마크를 수행하며, 여러 제공업체 중 선택할 필요 없이 모델마다 하나의 가격을</li></ul></div>…",
+          "contentSnippet": "Moat는 멤버십 요금을 내고 AI 모델을 할인된 사용량 요금으로 이용하는 서비스로, 회원들의 사용량을 모아 확보한 구매력을 기반으로 도매 가격을 제공함\n멤버십은 연간 결제 시 월 5달러이며 연 60달러를 청구함. 월 단위 결제는 10달러이고, 모델 사용료는 별도로 부과됨\n5시간/주간/월간 사용 한도가 없고 라우터 수수료도 받지 않음. 무제한 정액제가 아니라 할인된 단가로 사용량에 따라 지불하는 구조임\n모든 모델을 전체 가중치로 제공하고 자체 벤치마크를 수행하며, 여러 제공업체 중 선택할 필요 없이 모델마다 하나의 가격을\n\n…",
+          "id": "https://news.hada.io/topic?id=37908",
+          "isoDate": "2026-11-26T16:36:29.000Z"
+        },
+        {
+          "title": "Tell HN: 행복한 추수감사절 보내세요",
+          "link": "https://news.hada.io/topic?id=37907&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-26T16:33:29.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>친구, 가족과 함께 멋진 하루를 보내길 바라며, 그렇지 않더라도 멋진 하루로 만들어 보길 바람</li></ul></div>",
+          "contentSnippet": "친구, 가족과 함께 멋진 하루를 보내길 바라며, 그렇지 않더라도 멋진 하루로 만들어 보길 바람",
+          "id": "https://news.hada.io/topic?id=37907",
+          "isoDate": "2026-11-26T16:33:29.000Z"
+        },
+        {
+          "title": "Lean 4로 작성한 일반화 리만 가설 증명, 1,700만 줄에서 7만 6천 줄로 축소",
+          "link": "https://news.hada.io/topic?id=37904&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-26T15:00:41.000Z",
+          "author": "neo",
+          "content": "Lean 4로 작성한 일반화 리만 가설 증명, 1,700만 줄에서 7만 6천 줄로 축소",
+          "contentSnippet": "Lean 4로 작성한 일반화 리만 가설 증명, 1,700만 줄에서 7만 6천 줄로 축소",
+          "id": "https://news.hada.io/topic?id=37904",
+          "isoDate": "2026-11-26T15:00:41.000Z"
+        },
+        {
+          "title": "재무부 CIO, 본업 대신 바이브 코딩에 너무 바쁜 상태 #147",
+          "link": "https://news.hada.io/topic?id=37903&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-26T14:41:16.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>Legatum 게임 저장소의 이슈 #147</strong>에서 재무부 CIO가 FinCEN 서비스를 복구하는 대신 게임을 바이브 코딩하고 있다는 비판이 나옴</li><li>댓글에 인용된 Catherine Rampell의 게시물에 따르면 <strong>FinCEN 의심거래보고(SAR) 일괄 제출 장애</strong>가 이어졌으며, 이후 일부 수동 제출과 금융기관용 FI Portal도 작동하지 않음</li><li>같은 게시물은 FinCEN이 <strong>사이버 보안 침해를 인정했다</strong>고 전하며, CIO가 사흘간 Civilization 복제 게임을 개발한 것으로 보인다고 비판함</li><li>토론에서는 <strong>근무시간 중 개발했다는 증거</strong>와 Claude 사용료의 부담 주체를 묻는 질문도 나옴.</li></ul></div>…",
+          "contentSnippet": "Legatum 게임 저장소의 이슈 #147에서 재무부 CIO가 FinCEN 서비스를 복구하는 대신 게임을 바이브 코딩하고 있다는 비판이 나옴\n댓글에 인용된 Catherine Rampell의 게시물에 따르면 FinCEN 의심거래보고(SAR) 일괄 제출 장애가 이어졌으며, 이후 일부 수동 제출과 금융기관용 FI Portal도 작동하지 않음\n같은 게시물은 FinCEN이 사이버 보안 침해를 인정했다고 전하며, CIO가 사흘간 Civilization 복제 게임을 개발한 것으로 보인다고 비판함\n토론에서는 근무시간 중 개발했다는 증거와 Claude 사용료의 부담 주체를 묻는 질문도 나옴.\n\n…",
+          "id": "https://news.hada.io/topic?id=37903",
+          "isoDate": "2026-11-26T14:41:16.000Z"
+        },
+        {
+          "title": "Euro-Office, Nextcloud Office Desktop 앱으로 데스크톱에 진출",
+          "link": "https://news.hada.io/topic?id=37902&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-26T14:38:16.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>Euro-Office 기반 Nextcloud Office Desktop 앱</strong>이 다운로드 가능한 버전으로 공개됨. Windows, macOS, Linux에서 무료 오픈소스 오피스를 사용할 수 있음</li><li>문서, 스프레드시트, 프레젠테이션, PDF 편집기를 갖추고 <strong>Microsoft Office 형식과 개방형 문서 형식</strong>에 높은 호환성을 제공함</li><li><strong>오프라인 편집</strong>으로 인터넷 연결이나 온라인 도구 장애와 무관하게 로컬 파일 작업을 이어갈 수 있으며, 컴퓨터에 보관할 파일과 클라우드에 둘 파일을 선택할 수 있음</li><li><strong>Nextcloud Hub 연동</strong>으로 온라인 파일에 접근하고 팀과 실시간 공동 편집이 가능하며, 하</li></ul></div>…",
+          "contentSnippet": "Euro-Office 기반 Nextcloud Office Desktop 앱이 다운로드 가능한 버전으로 공개됨. Windows, macOS, Linux에서 무료 오픈소스 오피스를 사용할 수 있음\n문서, 스프레드시트, 프레젠테이션, PDF 편집기를 갖추고 Microsoft Office 형식과 개방형 문서 형식에 높은 호환성을 제공함\n오프라인 편집으로 인터넷 연결이나 온라인 도구 장애와 무관하게 로컬 파일 작업을 이어갈 수 있으며, 컴퓨터에 보관할 파일과 클라우드에 둘 파일을 선택할 수 있음\nNextcloud Hub 연동으로 온라인 파일에 접근하고 팀과 실시간 공동 편집이 가능하며, 하\n\n…",
+          "id": "https://news.hada.io/topic?id=37902",
+          "isoDate": "2026-11-26T14:38:16.000Z"
+        },
+        {
+          "title": "Lions의 Unix 해설서가 20년 동안 몰래 복사된 이유",
+          "link": "https://news.hada.io/topic?id=37901&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-26T14:35:16.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>John Lions의 Unix 해설서</strong>는 운영체제를 실제 코드로 가르치기 위해 1976년 작성한 Unix Version 6 커널 강의 노트에서 출발함</li><li><strong>AT&amp;T가 1979년 발표한 Version 7 라이선스 조건</strong>은 소스 코드를 공개하거나 논의하는 수업을 제한했고, Lions의 책 배포도 엄격히 통제됨</li><li>컴퓨터과학 학생들은 정식판이 나오기 전 약 <strong>20년 동안 무단 복사본</strong>으로 공부했으며, 이 책은 한 세대가 직접 운영체제를 만드는 법을 배우는 데 기여함</li><li>Unix 공동체 인사들이 출판 허가를 꾸준히 요청한 끝에 <strong>SCO가 승인</strong>했고, Peer-to-Peer Communications가 <strong>1996년 정식</strong></li></ul></div>…",
+          "contentSnippet": "John Lions의 Unix 해설서는 운영체제를 실제 코드로 가르치기 위해 1976년 작성한 Unix Version 6 커널 강의 노트에서 출발함\nAT&T가 1979년 발표한 Version 7 라이선스 조건은 소스 코드를 공개하거나 논의하는 수업을 제한했고, Lions의 책 배포도 엄격히 통제됨\n컴퓨터과학 학생들은 정식판이 나오기 전 약 20년 동안 무단 복사본으로 공부했으며, 이 책은 한 세대가 직접 운영체제를 만드는 법을 배우는 데 기여함\nUnix 공동체 인사들이 출판 허가를 꾸준히 요청한 끝에 SCO가 승인했고, Peer-to-Peer Communications가 1996년 정식\n\n…",
+          "id": "https://news.hada.io/topic?id=37901",
+          "isoDate": "2026-11-26T14:35:16.000Z"
+        },
+        {
+          "title": "Rustc의 차세대 트레이트 해결기 최적화",
+          "link": "https://news.hada.io/topic?id=37900&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-26T14:03:51.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>Rust 1.102.0에 도입될 <strong>차세대 트레이트 해결기</strong>는 기존 구현의 건전성 버그를 줄이기 위한 교체 작업이며, 안정화 막바지에는 <strong>성능</strong>이 주요 걸림돌이었음</li><li>트레이트 해결기는 타입이 특정 트레이트 조건을 만족하는지 <code>impl</code>, 컴파일러 내장 규칙, <code>where</code> 조건으로 증명하며, 하나의 질의가 여러 <strong>하위 질의</strong>로 확장될 수 있음</li><li>Rust 타입 시스템은 <strong>튜링 완전</strong>하므로 단일 질의도 복잡한 계산으로 이어질 수 있고, 새 해결기의 달라진 가정이 기존 코드에 큰 성능 회귀를 일으키기도 함</li><li>최적화는 <strong>캐싱</strong>과 단순 질의의 <strong>캐시 우회</strong>를 함께 사용함. 캐시</li></ul></div>…",
+          "contentSnippet": "Rust 1.102.0에 도입될 차세대 트레이트 해결기는 기존 구현의 건전성 버그를 줄이기 위한 교체 작업이며, 안정화 막바지에는 성능이 주요 걸림돌이었음\n트레이트 해결기는 타입이 특정 트레이트 조건을 만족하는지 impl, 컴파일러 내장 규칙, where 조건으로 증명하며, 하나의 질의가 여러 하위 질의로 확장될 수 있음\nRust 타입 시스템은 튜링 완전하므로 단일 질의도 복잡한 계산으로 이어질 수 있고, 새 해결기의 달라진 가정이 기존 코드에 큰 성능 회귀를 일으키기도 함\n최적화는 캐싱과 단순 질의의 캐시 우회를 함께 사용함. 캐시\n\n…",
+          "id": "https://news.hada.io/topic?id=37900",
+          "isoDate": "2026-11-26T14:03:51.000Z"
+        },
+        {
+          "title": "Intel One Mono - 개발자 가독성을 고려한 고정폭 글꼴",
+          "link": "https://news.hada.io/topic?id=37899&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-26T13:31:48.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>Intel One Mono</strong>는 명확성과 가독성, 개발자의 필요를 고려한 고정폭 글꼴군으로, 오픈소스 글꼴 라이선스에 따라 무료로 제공됨</li><li><strong>저시력 및 법적 시각장애 기준에 해당하는 개발자 패널</strong>이 설계 단계마다 피드백을 제공했으며, 피로와 눈의 부담, 코딩 오류를 줄이는 것을 목표로 설계됨</li><li>라틴 문자를 사용하는 <strong>200개 이상의 언어</strong>를 지원하며, Light, Regular, Medium, Bold 네 가지 굵기와 각각의 이탤릭체를 제공함</li><li><strong>프로그래밍 합자</strong>와 연산자에 맞춰 높이를 조정하는 콜론 등 OpenType 기능을 지원하며, 프로그래밍 합자는 기본적으로 비활</li></ul></div>…",
+          "contentSnippet": "Intel One Mono는 명확성과 가독성, 개발자의 필요를 고려한 고정폭 글꼴군으로, 오픈소스 글꼴 라이선스에 따라 무료로 제공됨\n저시력 및 법적 시각장애 기준에 해당하는 개발자 패널이 설계 단계마다 피드백을 제공했으며, 피로와 눈의 부담, 코딩 오류를 줄이는 것을 목표로 설계됨\n라틴 문자를 사용하는 200개 이상의 언어를 지원하며, Light, Regular, Medium, Bold 네 가지 굵기와 각각의 이탤릭체를 제공함\n프로그래밍 합자와 연산자에 맞춰 높이를 조정하는 콜론 등 OpenType 기능을 지원하며, 프로그래밍 합자는 기본적으로 비활\n\n…",
+          "id": "https://news.hada.io/topic?id=37899",
+          "isoDate": "2026-11-26T13:31:48.000Z"
+        },
+        {
+          "title": "minipg: PostgreSQL을 단일 실행 파일로 실행하기",
+          "link": "https://news.hada.io/topic?id=37897&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-26T12:37:38.000Z",
+          "author": "neo",
+          "content": "<div><ul><li><strong>minipg</strong>는 별도 서버 설정 없이 PostgreSQL을 실행하는 단일 실행 파일로, 명령에 서버가 필요하면 자동으로 시작하고 유휴 상태가 되면 종료함</li><li><strong><code>.pgdb</code> 디렉터리</strong> 하나에 데이터, 설정, 인증 정보, Postgres 버전을 함께 보관하며, 해당 디렉터리를 열어 psql 셸을 사용할 수 있음</li><li>내장된 <strong><code>postgres:18-alpine</code> 이미지</strong>의 바이너리를 h9로 실행하며, Linux 커널 부팅이나 VM 이미지, Docker가 필요하지 않음</li><li>정적 Linux 바이너리는 CI에서 <strong>별도 권한이나 장치 없이</strong> 사용할 수 있으며, <code>/dev/kvm</code>이 없으면 h9의 네이티브 백엔드로 실행함</li><li>아직 <strong>초</strong></li></ul></div>…",
+          "contentSnippet": "minipg는 별도 서버 설정 없이 PostgreSQL을 실행하는 단일 실행 파일로, 명령에 서버가 필요하면 자동으로 시작하고 유휴 상태가 되면 종료함\n.pgdb 디렉터리 하나에 데이터, 설정, 인증 정보, Postgres 버전을 함께 보관하며, 해당 디렉터리를 열어 psql 셸을 사용할 수 있음\n내장된 postgres:18-alpine 이미지의 바이너리를 h9로 실행하며, Linux 커널 부팅이나 VM 이미지, Docker가 필요하지 않음\n정적 Linux 바이너리는 CI에서 별도 권한이나 장치 없이 사용할 수 있으며, /dev/kvm이 없으면 h9의 네이티브 백엔드로 실행함\n아직 초\n\n…",
+          "id": "https://news.hada.io/topic?id=37897",
+          "isoDate": "2026-11-26T12:37:38.000Z"
+        },
+        {
+          "title": "NFS2ROOT: Linux 커널 NFS 서버에 12년간 존재한 인증 전 원격 루트 취약점",
+          "link": "https://news.hada.io/topic?id=37896&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-26T12:34:38.000Z",
+          "author": "neo",
+          "content": "<div><ul><li>Linux 커널 NFS 서버 <code>nfsd</code>의 <strong>CVE-2026-99362</strong>는 인증 없이 커널 힙을 덮어쓸 수 있는 취약점으로, OpenSec은 이를 후속 공격과 연계해 원격 루트 셸을 획득함</li><li>공격 대상은 <strong>NFSv4.1 또는 4.2</strong>를 제공하며 TCP 2049 포트에 접근 가능한 미패치 Linux 호스트임. Linux 3.16에 도입된 취약점으로 심각도는 <strong>CVSS 9.8</strong>임</li><li>클라이언트가 응답 캐시를 0바이트로 줄인 뒤 전체 응답을 복사하게 만드는 방식으로, TCP 연결 하나에서 <strong>힙 객체 경계 밖 61바이트</strong>를 덮어쓸 수 있음</li><li>수정 버전은 <strong>6.12.117, 6.18.61, 7.3.2, 7.4-rc1</strong>이며 업데이트 후 재부팅이</li></ul></div>…",
+          "contentSnippet": "Linux 커널 NFS 서버 nfsd의 CVE-2026-99362는 인증 없이 커널 힙을 덮어쓸 수 있는 취약점으로, OpenSec은 이를 후속 공격과 연계해 원격 루트 셸을 획득함\n공격 대상은 NFSv4.1 또는 4.2를 제공하며 TCP 2049 포트에 접근 가능한 미패치 Linux 호스트임. Linux 3.16에 도입된 취약점으로 심각도는 CVSS 9.8임\n클라이언트가 응답 캐시를 0바이트로 줄인 뒤 전체 응답을 복사하게 만드는 방식으로, TCP 연결 하나에서 힙 객체 경계 밖 61바이트를 덮어쓸 수 있음\n수정 버전은 6.12.117, 6.18.61, 7.3.2, 7.4-rc1이며 업데이트 후 재부팅이\n\n…",
+          "id": "https://news.hada.io/topic?id=37896",
+          "isoDate": "2026-11-26T12:34:38.000Z"
+        },
+        {
           "title": "Show GN: 배럴 - 광고 차단 브라우저와 다운로드 매니저를 하나로 합친 Android 앱",
           "link": "https://news.hada.io/topic?id=37894&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
           "pubDate": "2026-11-26T10:59:54.000Z",
@@ -37,12 +157,12 @@
           "isoDate": "2026-11-26T10:33:17.000Z"
         },
         {
-          "title": "보존된 UI 스타일 가이드 모음",
+          "title": "1980년대부터 현재까지, UI 디자인 가이드 69종 모음",
           "link": "https://news.hada.io/topic?id=37889&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
           "pubDate": "2026-11-26T09:34:05.000Z",
           "author": "neo",
-          "content": "<div><ul><li><strong>1980년대 초부터 현재까지</strong> 여러 회사의 UI 스타일 가이드와 인터페이스 지침을 모은 컬렉션으로, 데스크톱과 모바일 등 다양한 플랫폼을 아우름</li><li><strong>Apple, Windows, Android</strong>의 여러 시기별 지침을 제공하며, 초기 Lisa와 Macintosh부터 Aqua, iOS, Material Design, 현재 공식 가이드까지 포함함</li><li><strong>Amiga, NeXTSTEP, Newton, Palm OS</strong> 등 과거 플랫폼뿐 아니라 CDE, OPEN LOOK, SGI 같은 UNIX 환경과 Java의 GUI 설계 문서도 수록함</li><li>자료는 <strong>PDF, 웹사이트 미러, Internet Archive</strong> 등의 형태로 제공되며, 일부 플랫폼은 초안과 개정판도 함께 볼</li></ul></div>…",
-          "contentSnippet": "1980년대 초부터 현재까지 여러 회사의 UI 스타일 가이드와 인터페이스 지침을 모은 컬렉션으로, 데스크톱과 모바일 등 다양한 플랫폼을 아우름\nApple, Windows, Android의 여러 시기별 지침을 제공하며, 초기 Lisa와 Macintosh부터 Aqua, iOS, Material Design, 현재 공식 가이드까지 포함함\nAmiga, NeXTSTEP, Newton, Palm OS 등 과거 플랫폼뿐 아니라 CDE, OPEN LOOK, SGI 같은 UNIX 환경과 Java의 GUI 설계 문서도 수록함\n자료는 PDF, 웹사이트 미러, Internet Archive 등의 형태로 제공되며, 일부 플랫폼은 초안과 개정판도 함께 볼\n\n…",
+          "content": "<div><ul><li><strong>1980년대 초부터 현재까지 UI 스타일 가이드 69종을 모은 아카이브</strong>. 데스크톱과 모바일 등 여러 플랫폼의 설계 지침을 통해, 시대와 회사별 인터페이스 원칙을 비교해 볼 수 있음</li><li><strong>Apple, Windows, Android</strong>의 여러 시기별 지침을 제공하며, 초기 Lisa와 Macintosh부터 Aqua, iOS, Material Design, 현재 공식 가이드까지 포함함</li><li><strong>Amiga, NeXTSTEP, Newton, Palm OS</strong> 등 과거 플랫폼뿐 아니라 CDE, OPEN LOOK, SGI 같은 UNIX 환경과 Java의 GUI 설계 문서도 수록함</li><li>자료는 <strong>PDF, 웹사이트 미러, Internet Archive</strong> 등의 형태로 제공되며, 일부 </li></ul></div>…",
+          "contentSnippet": "1980년대 초부터 현재까지 UI 스타일 가이드 69종을 모은 아카이브. 데스크톱과 모바일 등 여러 플랫폼의 설계 지침을 통해, 시대와 회사별 인터페이스 원칙을 비교해 볼 수 있음\nApple, Windows, Android의 여러 시기별 지침을 제공하며, 초기 Lisa와 Macintosh부터 Aqua, iOS, Material Design, 현재 공식 가이드까지 포함함\nAmiga, NeXTSTEP, Newton, Palm OS 등 과거 플랫폼뿐 아니라 CDE, OPEN LOOK, SGI 같은 UNIX 환경과 Java의 GUI 설계 문서도 수록함\n자료는 PDF, 웹사이트 미러, Internet Archive 등의 형태로 제공되며, 일부 \n\n…",
           "id": "https://news.hada.io/topic?id=37889",
           "isoDate": "2026-11-26T09:34:05.000Z"
         },
@@ -67,12 +187,12 @@
           "isoDate": "2026-11-26T07:49:27.000Z"
         },
         {
-          "title": "OpenAI, GPT-6.2 사용량 축소: Astra는 한도에 40%, Sol은 25% 더 빨리 도달",
+          "title": "OpenAI, GPT-6.2 과금 오류 수정으로 실사용량 축소",
           "link": "https://news.hada.io/topic?id=37885&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
           "pubDate": "2026-11-26T07:31:56.000Z",
           "author": "neo",
-          "content": "<div><ul><li>GPT-6.2 출시 당시 <strong>과금 오류</strong>로 대부분 사용자의 Astra와 Sol 사용량에 잘못된 할인이 적용됐으며, 이를 수정함</li><li>수정 이후에는 <strong>같은 작업도 요금제 사용 한도를 더 많이 소모</strong>함</li><li>지난주 대비 사용 한도에 도달하는 속도가 <strong>GPT-6.2 Astra는 40%, Sol은 25% 빨라짐</strong></li><li>수정 후에도 <strong>6 Astra와 6.1 Sol보다는 더 많이 사용할 수 있을 것으로 보임</strong></li><li><strong>다른 모델은 영향을 받지 않았으며</strong>, 과거 사용분의 차액은 청구하지 않음</li></ul><hr><h2>과금 오류 수정과 사용 한도 변화</h2><ul><li><strong>GPT-6.2 출시 당시</strong> 대부분 사용자의 GPT-6.2 Astra와 Sol 사용량에 잘못된 할인이 적용됐으</li></ul></div>…",
-          "contentSnippet": "GPT-6.2 출시 당시 과금 오류로 대부분 사용자의 Astra와 Sol 사용량에 잘못된 할인이 적용됐으며, 이를 수정함\n수정 이후에는 같은 작업도 요금제 사용 한도를 더 많이 소모함\n지난주 대비 사용 한도에 도달하는 속도가 GPT-6.2 Astra는 40%, Sol은 25% 빨라짐\n수정 후에도 6 Astra와 6.1 Sol보다는 더 많이 사용할 수 있을 것으로 보임\n다른 모델은 영향을 받지 않았으며, 과거 사용분의 차액은 청구하지 않음\n\n과금 오류 수정과 사용 한도 변화\n\nGPT-6.2 출시 당시 대부분 사용자의 GPT-6.2 Astra와 Sol 사용량에 잘못된 할인이 적용됐으\n\n…",
+          "content": "<div><ul><li>GPT-6.2 출시 당시 <strong>대부분 사용자의 Astra와 Sol 사용량에 잘못된 할인이 적용된 오류</strong>를 수정함. 이제 같은 작업을 수행해도 요금제의 사용 한도를 더 많이 소모함</li><li>지난주와 비교하면 <strong>GPT-6.2 Astra는 40%, Sol은 25% 더 빨리 사용 한도에 도달</strong>하게 됨</li><li>수정 후에도 <strong>GPT-6 Astra와 GPT-6.1 Sol보다는 더 많은 작업을 수행할 수 있을 것</strong>이라고 안내</li><li><strong>다른 모델은 영향을 받지 않으며</strong>, 과거 사용분의 차액을 소급 청구하지 않음</li><li>보상으로 <strong>Go, Plus, Pro, Business 이용자 모두에게 사용 한도 초기화 기회 1회</strong>를 추가할 예정</li></ul><hr><h2>과금 오류 수정과</h2></div>…",
+          "contentSnippet": "GPT-6.2 출시 당시 대부분 사용자의 Astra와 Sol 사용량에 잘못된 할인이 적용된 오류를 수정함. 이제 같은 작업을 수행해도 요금제의 사용 한도를 더 많이 소모함\n지난주와 비교하면 GPT-6.2 Astra는 40%, Sol은 25% 더 빨리 사용 한도에 도달하게 됨\n수정 후에도 GPT-6 Astra와 GPT-6.1 Sol보다는 더 많은 작업을 수행할 수 있을 것이라고 안내\n다른 모델은 영향을 받지 않으며, 과거 사용분의 차액을 소급 청구하지 않음\n보상으로 Go, Plus, Pro, Business 이용자 모두에게 사용 한도 초기화 기회 1회를 추가할 예정\n\n과금 오류 수정과\n…",
           "id": "https://news.hada.io/topic?id=37885",
           "isoDate": "2026-11-26T07:31:56.000Z"
         },
@@ -85,126 +205,6 @@
           "contentSnippet": "hex.pm의 비인증 요청 처리 취약점으로 공격자가 웹 서버 6대에서 명령을 실행함. 2026년 11월 23일 공격 발생 후 20분 안에 트래픽 차단과 수정 배포를 진행함\n패키지 변조, 데이터베이스 변경, 지속적인 접근 흔적은 발견되지 않음. 다만 데이터베이스 읽기 로그가 없어 개인정보와 인증 정보의 열람 가능성은 배제할 수 없음\n공격은 Erlang 형식 요청에 위조 Elixir 구조체를 넣고, 오류 로깅 과정의 Inspect와 열거 프로토콜, DBConnection.Stream의 로그 콜백을 연결해 OS 명령 실행에 도달함\n이용자는 비밀번호 변경과 2FA 재설정이\n\n…",
           "id": "https://news.hada.io/topic?id=37884",
           "isoDate": "2026-11-26T07:03:51.000Z"
-        },
-        {
-          "title": "미국 배심원단, Huawei의 사기 및 이란 제재 위반 혐의에 유죄 평결",
-          "link": "https://news.hada.io/topic?id=37883&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-26T06:33:07.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>뉴욕 연방 배심원단이 <strong>Huawei와 자회사 3곳</strong>에 영업비밀 절취 공모, 사기, 이란 제재 위반 등 여러 혐의로 유죄 평결을 내림</li><li>다만 가장 중대한 혐의였던 <strong>조직범죄 공모</strong>에는 무죄를 평결했으며, 기업들은 유죄 혐의에 대해 벌금, 자산 몰수, 피해 배상 처분을 받을 수 있음</li><li>검찰에 따르면 Huawei는 <strong>Skycom</strong> 명의로 이란 사업을 운영하면서 은행과 미국 정부 등에 사업 관계와 제재 준수 여부를 거짓으로 알려, 수십억 달러와 달러 결제 서비스에 접근함</li><li>영업비밀 절취 관련 사건에는 <strong>T-Mobile의 Tappy 시험 로봇</strong>, Cisco 라우터 소스 코드 등</li></ul></div>…",
-          "contentSnippet": "뉴욕 연방 배심원단이 Huawei와 자회사 3곳에 영업비밀 절취 공모, 사기, 이란 제재 위반 등 여러 혐의로 유죄 평결을 내림\n다만 가장 중대한 혐의였던 조직범죄 공모에는 무죄를 평결했으며, 기업들은 유죄 혐의에 대해 벌금, 자산 몰수, 피해 배상 처분을 받을 수 있음\n검찰에 따르면 Huawei는 Skycom 명의로 이란 사업을 운영하면서 은행과 미국 정부 등에 사업 관계와 제재 준수 여부를 거짓으로 알려, 수십억 달러와 달러 결제 서비스에 접근함\n영업비밀 절취 관련 사건에는 T-Mobile의 Tappy 시험 로봇, Cisco 라우터 소스 코드 등\n\n…",
-          "id": "https://news.hada.io/topic?id=37883",
-          "isoDate": "2026-11-26T06:33:07.000Z"
-        },
-        {
-          "title": "과학자들은 인공지능 에이전트에 대해 어디까지 허용 범위를 정해야 할까요?",
-          "link": "https://news.hada.io/topic?id=37880&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-26T05:35:14.000Z",
-          "author": "axis0",
-          "content": "<div><ul><li>Ai2 의 Kyle Wiggers 가 huggingface.co 에 올린 글임.</li><li>게시일은 2026년 11월 25일.</li><li>자연과학, 응용과학, 사회과학 분야 과학자 17명대상으로 AI 에이전트의 책임 있는 개발에 대해 인터뷰했다고 함.</li><li>연구자가 에이전트 도움을 어디서 반길지, 무엇이 잘못될 수 있는지, 자기 연구에 에이전트를 맡기려면 어떤 안전장치가 필요한지 물었다고 함.</li><li>그 시스템은 도구를 쓰고, 자율의 정도를 달리하며 연구 일을 할 수 있다고 함.</li><li>연구 일을 AI 에 맡겨도 그 일이 어떻게 이뤄지는지에 대한 과학자의 책임은 없어지지 않는다고 함.</li></ul></div>",
-          "contentSnippet": "Ai2 의 Kyle Wiggers 가 huggingface.co 에 올린 글임.\n게시일은 2026년 11월 25일.\n자연과학, 응용과학, 사회과학 분야 과학자 17명대상으로 AI 에이전트의 책임 있는 개발에 대해 인터뷰했다고 함.\n연구자가 에이전트 도움을 어디서 반길지, 무엇이 잘못될 수 있는지, 자기 연구에 에이전트를 맡기려면 어떤 안전장치가 필요한지 물었다고 함.\n그 시스템은 도구를 쓰고, 자율의 정도를 달리하며 연구 일을 할 수 있다고 함.\n연구 일을 AI 에 맡겨도 그 일이 어떻게 이뤄지는지에 대한 과학자의 책임은 없어지지 않는다고 함.",
-          "id": "https://news.hada.io/topic?id=37880",
-          "isoDate": "2026-11-26T05:35:14.000Z"
-        },
-        {
-          "title": "Tell HN: Ask HN 게시물이 다시 많아졌습니다",
-          "link": "https://news.hada.io/topic?id=37879&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-26T05:31:55.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><code>/ask</code> 페이지에 게시물이 14개 또는 19개만 표시되거나 페이지 이동 기능이 사라지는 현상이 있었음</li><li>원인으로 추정되는 문제는 <code>/ask</code>가 첫 화면 생성에 쓰는 <strong>상위 1,500개 게시물 순위 목록</strong>에서 게시물을 가져온다는 점임. URL 없는 텍스트 게시물의 비율이 줄어 Ask HN 피드에 충분한 게시물이 공급되지 않은 것으로 보이며, 해결책은 <strong>Ask HN 전용 순위 목록</strong>을 별도로 계산하는 것임</li><li>여기서 <strong>Ask HN은 URL 없이 제출된 텍스트 게시물</strong>을 통칭함. 제목이 <code>Tell HN</code>으로 시작하거나 특정 접두사가 없는 게시물도 포함됨</li></ul></div>…",
-          "contentSnippet": "/ask 페이지에 게시물이 14개 또는 19개만 표시되거나 페이지 이동 기능이 사라지는 현상이 있었음\n원인으로 추정되는 문제는 /ask가 첫 화면 생성에 쓰는 상위 1,500개 게시물 순위 목록에서 게시물을 가져온다는 점임. URL 없는 텍스트 게시물의 비율이 줄어 Ask HN 피드에 충분한 게시물이 공급되지 않은 것으로 보이며, 해결책은 Ask HN 전용 순위 목록을 별도로 계산하는 것임\n여기서 Ask HN은 URL 없이 제출된 텍스트 게시물을 통칭함. 제목이 Tell HN으로 시작하거나 특정 접두사가 없는 게시물도 포함됨\n\n…",
-          "id": "https://news.hada.io/topic?id=37879",
-          "isoDate": "2026-11-26T05:31:55.000Z"
-        },
-        {
-          "title": "Show GN: 하루뇌운동 - 60세 이상을 위한 매일 2분 두뇌 측정과 시간 제한 없는 훈련 게임",
-          "link": "https://news.hada.io/topic?id=37878&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-26T04:58:44.000Z",
-          "author": "mygsoft",
-          "content": "<div><p>혼자 만들고 있는 안드로이드 앱 '하루뇌운동'(영문명 Steady Brain)을 2.0으로 거의 새로 만들어서 올렸습니다. 60세 이상 분들이 매일 아침 5~10분, 자기 페이스로 두뇌 상태를 확인하고 게임으로 훈련하는 앱입니다. Play에서 설치하면 가입이나 로그인 없이 바로 써 보실 수 있고 기본 기능은 무료입니다. 구독은 없고, 한 번 결제하는 평생 이용권만 있습니다.</p><h3>왜 다시 만들었나</h3><p>1.0은 매일 게임 조합이 바뀌었고, 16개 게임을 공식 하나로 채점했고, 원본 기록도 남기지 않았습니다. 그래서 그래프가 있어도 \"어제보다 나아졌다\"는 걸 믿을 수 없었습니다. 구조부터 다시 짜기로 했고, 그 전에 이미 잘되는 앱들을 시니어 분들이 어떻게 평가하는지부터 봤습니다.</p></div>…",
-          "contentSnippet": "혼자 만들고 있는 안드로이드 앱 '하루뇌운동'(영문명 Steady Brain)을 2.0으로 거의 새로 만들어서 올렸습니다. 60세 이상 분들이 매일 아침 5~10분, 자기 페이스로 두뇌 상태를 확인하고 게임으로 훈련하는 앱입니다. Play에서 설치하면 가입이나 로그인 없이 바로 써 보실 수 있고 기본 기능은 무료입니다. 구독은 없고, 한 번 결제하는 평생 이용권만 있습니다.\n왜 다시 만들었나\n1.0은 매일 게임 조합이 바뀌었고, 16개 게임을 공식 하나로 채점했고, 원본 기록도 남기지 않았습니다. 그래서 그래프가 있어도 \"어제보다 나아졌다\"는 걸 믿을 수 없었습니다. 구조부터 다시 짜기로 했고, 그 전에 이미 잘되는 앱들을 시니어 분들이 어떻게 평가하는지부터 봤습니다.\n…",
-          "id": "https://news.hada.io/topic?id=37878",
-          "isoDate": "2026-11-26T04:58:44.000Z"
-        },
-        {
-          "title": "Ubuntu의 느린 보안 대응",
-          "link": "https://news.hada.io/topic?id=37876&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-26T03:32:06.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>Ubuntu의 <strong>Linux 커널 취약점 패치 지연</strong>을 두고 oss-security 메일링 리스트에서 우려가 나옴</li><li>TCP 스택의 원격 메모리 손상 취약점 <strong>NoisyTCP(CVE-2026-99288)</strong> 는 세부 내용 공개 9일 뒤에도 Ubuntu 수정본이 없었으며, 다른 배포판은 공개 당시 이미 수정본을 제공했음</li><li>AMD 가상화에 영향을 주는 <strong>KVM 호스트 탈출 취약점(CVE-2026-99312)</strong> 도 11월 18일 공개 이후 게시물 작성 시점까지 수정본이 없었음</li><li>또 다른 원격 TCP 메모리 손상 취약점 <strong>CVE-2026-98432</strong>는 수정본 제공까지 여러 주가 걸렸고, 실제 공격에 악용됐을 가능성을 시사하는 </li></ul></div>…",
-          "contentSnippet": "Ubuntu의 Linux 커널 취약점 패치 지연을 두고 oss-security 메일링 리스트에서 우려가 나옴\nTCP 스택의 원격 메모리 손상 취약점 NoisyTCP(CVE-2026-99288) 는 세부 내용 공개 9일 뒤에도 Ubuntu 수정본이 없었으며, 다른 배포판은 공개 당시 이미 수정본을 제공했음\nAMD 가상화에 영향을 주는 KVM 호스트 탈출 취약점(CVE-2026-99312) 도 11월 18일 공개 이후 게시물 작성 시점까지 수정본이 없었음\n또 다른 원격 TCP 메모리 손상 취약점 CVE-2026-98432는 수정본 제공까지 여러 주가 걸렸고, 실제 공격에 악용됐을 가능성을 시사하는 \n\n…",
-          "id": "https://news.hada.io/topic?id=37876",
-          "isoDate": "2026-11-26T03:32:06.000Z"
-        },
-        {
-          "title": "1인 조직이 온다",
-          "link": "https://news.hada.io/topic?id=37871&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-26T02:00:02.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>AI 에이전트와 지식 생산 시스템을 운영하면 혼자서도 연구기관처럼 일할 수 있음</strong>. 보고서 한 편의 작성을 돕는 데서 나아가, 조사와 정리, 발행을 지속적으로 수행하는 조직을 만드는 방식임</li><li>전문가의 역할은 모든 결과물을 직접 만드는 데서 <strong>자신의 안목과 판단을 시스템의 규칙으로 옮기는 일</strong>로 바뀜. 출처 선정, 사실 확인, 글쓰기 기준을 정해 수많은 결과물에 반복 적용함</li><li><strong>Digital Embassy</strong>는 매일 뉴스 2만 5,000건을 읽고 외교 전문 22건을 발행하며, <strong>Diplopedia</strong>는 대사 2,000명 이상의 전기를 다룸. 개별 조사와 집필을 반복 가능한 시스템으로 확장한 사례임</li></ul></div>…",
-          "contentSnippet": "AI 에이전트와 지식 생산 시스템을 운영하면 혼자서도 연구기관처럼 일할 수 있음. 보고서 한 편의 작성을 돕는 데서 나아가, 조사와 정리, 발행을 지속적으로 수행하는 조직을 만드는 방식임\n전문가의 역할은 모든 결과물을 직접 만드는 데서 자신의 안목과 판단을 시스템의 규칙으로 옮기는 일로 바뀜. 출처 선정, 사실 확인, 글쓰기 기준을 정해 수많은 결과물에 반복 적용함\nDigital Embassy는 매일 뉴스 2만 5,000건을 읽고 외교 전문 22건을 발행하며, Diplopedia는 대사 2,000명 이상의 전기를 다룸. 개별 조사와 집필을 반복 가능한 시스템으로 확장한 사례임\n\n…",
-          "id": "https://news.hada.io/topic?id=37871",
-          "isoDate": "2026-11-26T02:00:02.000Z"
-        },
-        {
-          "title": "우리가 알던 기능 발견 방식의 종말",
-          "link": "https://news.hada.io/topic?id=37870&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-26T01:50:02.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>AI는 사용자가 새 기능을 더 잘 찾도록 돕는 데서 나아가, 기능을 직접 찾을 필요 자체를 줄일 수 있음</strong>. 사용자가 원하는 결과를 말하면 AI가 필요한 기능을 골라 실행하는 방식으로 제품 사용이 바뀜</li><li>기존 제품은 가치를 늘리려면 기능을 추가해야 하지만, 사용자를 넓히려면 더 단순해져야 하는 모순을 안고 있었음. <strong>기능을 늘릴수록 복잡해지고, 새로 유입된 사용자는 그 기능을 배울 의지가 더 적음</strong></li><li>변화의 핵심은 버튼을 프롬프트 창으로 바꾸는 것이 아니라 <strong>소프트웨어를 조작하는 주체가 사람에서 AI로 옮겨가는 것</strong>임. 에이전트가 API와 MCP로 다른 제품의 기능을 호출하면 사용자가 해당 앱을 열지 않아도 됨</li></ul></div>…",
-          "contentSnippet": "AI는 사용자가 새 기능을 더 잘 찾도록 돕는 데서 나아가, 기능을 직접 찾을 필요 자체를 줄일 수 있음. 사용자가 원하는 결과를 말하면 AI가 필요한 기능을 골라 실행하는 방식으로 제품 사용이 바뀜\n기존 제품은 가치를 늘리려면 기능을 추가해야 하지만, 사용자를 넓히려면 더 단순해져야 하는 모순을 안고 있었음. 기능을 늘릴수록 복잡해지고, 새로 유입된 사용자는 그 기능을 배울 의지가 더 적음\n변화의 핵심은 버튼을 프롬프트 창으로 바꾸는 것이 아니라 소프트웨어를 조작하는 주체가 사람에서 AI로 옮겨가는 것임. 에이전트가 API와 MCP로 다른 제품의 기능을 호출하면 사용자가 해당 앱을 열지 않아도 됨\n\n…",
-          "id": "https://news.hada.io/topic?id=37870",
-          "isoDate": "2026-11-26T01:50:02.000Z"
-        },
-        {
-          "title": "지금 효과를 내는 B2B GTM 전략 5가지와 실제 사례",
-          "link": "https://news.hada.io/topic?id=37868&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-26T01:40:02.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>이미 효과가 있는 고객 확보 채널을 AI와 자동화로 확장</strong>한 B2B 성장 사례 5가지를 소개함. 광고 운영, 실무자의 추천, 구매 경로 분석, 대면 행사, 해커톤에 각각 다른 방식을 적용함</li><li><strong>incident.io</strong>는 Claude 기반 자율 광고 에이전시로 캠페인 제작과 운영을 자동화함. 특정 잠재 고객사에 맞춘 캠페인 준비 시간을 기존 2~3일에서 3분으로 줄임</li><li><strong>Granola</strong>는 실제 제품을 사용하는 실무자 200명 이상을 앰배서더로 확보하고, 이들의 LinkedIn 게시물을 광고로 확산함. 평균 참여도는 Granola의 다른 LinkedIn 광고 대비 <strong>10배</strong>임</li><li><strong>Clay</strong>는 여러 </li></ul></div>…",
-          "contentSnippet": "이미 효과가 있는 고객 확보 채널을 AI와 자동화로 확장한 B2B 성장 사례 5가지를 소개함. 광고 운영, 실무자의 추천, 구매 경로 분석, 대면 행사, 해커톤에 각각 다른 방식을 적용함\nincident.io는 Claude 기반 자율 광고 에이전시로 캠페인 제작과 운영을 자동화함. 특정 잠재 고객사에 맞춘 캠페인 준비 시간을 기존 2~3일에서 3분으로 줄임\nGranola는 실제 제품을 사용하는 실무자 200명 이상을 앰배서더로 확보하고, 이들의 LinkedIn 게시물을 광고로 확산함. 평균 참여도는 Granola의 다른 LinkedIn 광고 대비 10배임\nClay는 여러 \n\n…",
-          "id": "https://news.hada.io/topic?id=37868",
-          "isoDate": "2026-11-26T01:40:02.000Z"
-        },
-        {
-          "title": "AI 검색 메타 분석 - 2026년 4분기",
-          "link": "https://news.hada.io/topic?id=37867&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-26T01:30:02.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>AI 검색 이용이 확대</strong>되고 있지만, 이를 Google 검색의 대체 비율로 환산하기는 어려움. 이용자는 검색엔진과 챗봇을 오가며, 검토한 연구에서는 Google 이용 감소를 확인할 근거를 찾지 못함</li><li><strong>AI 답변은 외부 사이트로 향하는 클릭을 줄임</strong>. 한 무작위 실험에서는 AI Overview가 나타날 때 자연 검색 외부 클릭이 <strong>39.8% 감소</strong>했지만, 감소 폭은 답변 형식과 검색어, 이용 맥락에 따라 다름</li><li><strong>검색, 출처 인용, 브랜드 언급, 방문과 구매는 서로 다른 단계</strong>임. AI가 페이지를 인용해도 브랜드를 언급하거나 이용자가 방문한다는 보장은 없어, 단계별 성과를 나눠 봐야 함</li></ul></div>…",
-          "contentSnippet": "AI 검색 이용이 확대되고 있지만, 이를 Google 검색의 대체 비율로 환산하기는 어려움. 이용자는 검색엔진과 챗봇을 오가며, 검토한 연구에서는 Google 이용 감소를 확인할 근거를 찾지 못함\nAI 답변은 외부 사이트로 향하는 클릭을 줄임. 한 무작위 실험에서는 AI Overview가 나타날 때 자연 검색 외부 클릭이 39.8% 감소했지만, 감소 폭은 답변 형식과 검색어, 이용 맥락에 따라 다름\n검색, 출처 인용, 브랜드 언급, 방문과 구매는 서로 다른 단계임. AI가 페이지를 인용해도 브랜드를 언급하거나 이용자가 방문한다는 보장은 없어, 단계별 성과를 나눠 봐야 함\n\n…",
-          "id": "https://news.hada.io/topic?id=37867",
-          "isoDate": "2026-11-26T01:30:02.000Z"
-        },
-        {
-          "title": "2026 앱 수익화 현황: 앱이 월 500달러에서 100만 달러까지 성장하는 방법",
-          "link": "https://news.hada.io/topic?id=37866&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-26T01:20:03.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>Superwall에서 수익이 발생한 앱 9,770개</strong>의 12개월 데이터를 분석한 결과, 약 <strong>4개 중 1개가 다음 매출 구간으로 성장</strong>함. 상위 앱은 결제 유도 화면을 더 많이 보여주기보다 <strong>노출당 수익</strong>을 높임</li><li>낮은 매출 구간과 높은 구간을 비교하면 결제 유도 화면의 구매 전환율은 <strong>2.9%와 6.4%</strong>, 체험 후 유료 전환율은 <strong>20%와 31%</strong> 로 차이가 남. 상위 구간은 결제 이탈률도 낮음</li><li>상위 앱의 실험 성공률이 더 높지는 않으며, 차이는 <strong>실험 횟수</strong>에 있음. 월 50만 달러 수준의 앱은 연간 약 72회, 월 500달러 미만 앱은 1.4회 실험함</li><li><strong>무료 체험, 체험 종료</strong></li></ul></div>…",
-          "contentSnippet": "Superwall에서 수익이 발생한 앱 9,770개의 12개월 데이터를 분석한 결과, 약 4개 중 1개가 다음 매출 구간으로 성장함. 상위 앱은 결제 유도 화면을 더 많이 보여주기보다 노출당 수익을 높임\n낮은 매출 구간과 높은 구간을 비교하면 결제 유도 화면의 구매 전환율은 2.9%와 6.4%, 체험 후 유료 전환율은 20%와 31% 로 차이가 남. 상위 구간은 결제 이탈률도 낮음\n상위 앱의 실험 성공률이 더 높지는 않으며, 차이는 실험 횟수에 있음. 월 50만 달러 수준의 앱은 연간 약 72회, 월 500달러 미만 앱은 1.4회 실험함\n무료 체험, 체험 종료\n\n…",
-          "id": "https://news.hada.io/topic?id=37866",
-          "isoDate": "2026-11-26T01:20:03.000Z"
-        },
-        {
-          "title": "바이럴 제품 출시의 비밀",
-          "link": "https://news.hada.io/topic?id=37865&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-26T01:10:01.000Z",
-          "author": "neo",
-          "content": "<div><ul><li><strong>X에서 화제가 되는 스타트업 제품 출시는 우연보다 준비의 결과</strong>임. 좋은 제품과 영상만 올리는 데 그치지 않고, 수주에서 수개월 동안 문구와 이야기, 지인과 파트너의 확산 참여까지 설계함</li><li>회사와 창업자, 직원, 출시 영상과 문구가 <strong>일관된 이야기</strong>를 전달해야 하며, 그 이야기는 사업의 본질과 인터넷에서 주목받는 흐름에 모두 맞아야 함</li><li>지인과 커뮤니티의 지원은 중요한 확산 수단이지만 반복 요청에는 한계가 있음. <strong>평소 교류하며 사전 체험과 피드백 기회를 제공하고, 출시 시점에 맞춰 참여를 요청</strong>해야 함</li><li>유료 인플루언서 활용의</li></ul></div>…",
-          "contentSnippet": "X에서 화제가 되는 스타트업 제품 출시는 우연보다 준비의 결과임. 좋은 제품과 영상만 올리는 데 그치지 않고, 수주에서 수개월 동안 문구와 이야기, 지인과 파트너의 확산 참여까지 설계함\n회사와 창업자, 직원, 출시 영상과 문구가 일관된 이야기를 전달해야 하며, 그 이야기는 사업의 본질과 인터넷에서 주목받는 흐름에 모두 맞아야 함\n지인과 커뮤니티의 지원은 중요한 확산 수단이지만 반복 요청에는 한계가 있음. 평소 교류하며 사전 체험과 피드백 기회를 제공하고, 출시 시점에 맞춰 참여를 요청해야 함\n유료 인플루언서 활용의\n\n…",
-          "id": "https://news.hada.io/topic?id=37865",
-          "isoDate": "2026-11-26T01:10:01.000Z"
-        },
-        {
-          "title": "락 포이즈닝을 폐지하자",
-          "link": "https://news.hada.io/topic?id=37863&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-26T01:03:32.000Z",
-          "author": "neo",
-          "content": "<div><ul><li>Rust의 <strong>뮤텍스 포이즈닝</strong>은 패닉으로 깨진 불변식을 보호하려는 장치지만, 실제 코드에서는 복구보다 교착 상태와 연쇄 실패를 유발하는 사례가 많다는 비판을 받음</li><li><strong><code>PoisonError</code>가 락 가드를 소유</strong>하므로 오류를 보관하거나 변환하는 동안에도 락이 유지되며, 오류 처리 경로에서 같은 뮤텍스를 다시 잠그면 교착 상태가 발생할 수 있음</li><li>패닉을 잡고 계속 실행하는 환경에서 <strong><code>lock().unwrap()</code></strong> 은 프로세스를 종료하지도 정상 동작을 회복시키지도 못한 채, 이후 모든 락 획득을 패닉으로 바꿀 수 있음</li><li>표준 라이브러리 내부와 여러 주요 라이</li></ul></div>…",
-          "contentSnippet": "Rust의 뮤텍스 포이즈닝은 패닉으로 깨진 불변식을 보호하려는 장치지만, 실제 코드에서는 복구보다 교착 상태와 연쇄 실패를 유발하는 사례가 많다는 비판을 받음\nPoisonError가 락 가드를 소유하므로 오류를 보관하거나 변환하는 동안에도 락이 유지되며, 오류 처리 경로에서 같은 뮤텍스를 다시 잠그면 교착 상태가 발생할 수 있음\n패닉을 잡고 계속 실행하는 환경에서 lock().unwrap() 은 프로세스를 종료하지도 정상 동작을 회복시키지도 못한 채, 이후 모든 락 획득을 패닉으로 바꿀 수 있음\n표준 라이브러리 내부와 여러 주요 라이\n\n…",
-          "id": "https://news.hada.io/topic?id=37863",
-          "isoDate": "2026-11-26T01:03:32.000Z"
         }
       ]
     },
@@ -381,235 +381,235 @@
       "category": "news",
       "data": [
         {
-          "creator": "박수주",
-          "title": "임웅순 \"한미동맹 굳건\"…외교·통일 '원팀' 강조도",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261126205857XCf",
-          "pubDate": "Thu, 26 Nov 2026 20:58:59 +0900",
-          "content:encoded": "[앵커]\n\n외교·안보부처 수장으로 지명된 후보자들이 오늘(26일) 일제히 국회 인사청문회 준비에 돌입했습니다.\n\n굳건한 한미동맹과 한반도 평화 공존 등의 메시지를 내세웠는데요.\n\n외교·통일부의 '원팀' 체제도 강조했습니다.\n\n박수주 기자입니다.\n\n[기자]\n\n인사청문회 준비 사무실에 처음 출근한 임웅순 외교부 장관 후보자.\n\n안보 후속 협의와 정보 공유 제한 등 한미 간 꼬인 실타래를 풀 적임자로 지명된 그는 한미동맹의 굳건함을 강조했습니다.\n\n&lt;임웅순 /  외교부 장관 후보자&gt; \"어떤 특정 현안에 휘둘릴 정도로 한미동맹이 취약하지 않다고 생각하고요. 양국이 어떤 문제든 지혜롭게 헤쳐나갈 수 있을 것으로…\"\n\n정동영 통일부 장관과 이종석 국정원장의 동반 퇴진을 놓고 '미국에 편중된 인사'라는 해석이 나온 데는 동의하지 않았습니다.\n\n&lt;임웅순 /  외교부 장관 후보자&gt; \"우리에게는 한미동맹도 중요하고 한중관계도 중요하다고 생각합니다.\"\n\n3선 국회의원이자 정무수석 출신으로 통일부 장관에 내정된 홍익표 후보자는 '한반도 평화 공존' 목표를 향해 서두르지도, 멈추지도 않겠다는 포부를 밝혔습니다.\n\n특히 그간 한미 정보 공유나 대북정책을 두고 빚어진 부처 간 갈등 논란에 대해 두 후보자는 모두 문제가 없다는 점을 강조했습니다.\n\n홍 후보자는 2005년 자신이 공저자로 발간한 연구보고서 내용을 '자기 표절'해 박사학위논문을 취득했다는 의혹에 대해서도 해명했습니다.\n\n&lt;홍익표 /  통일부 장관 후보자&gt; \"당시에 윤리규정과 관련된 정확한 규정이 없었고요. 두 개의 논문이 사실은 선후관계 없이 거의 동시에 쓰인 논문이었기 때문에…\"\n\n'친중 논란'으로 야당의 반대가 거센 강금실 국정원장 내정자도 인사청문회 준비 사무실에 처음 출근했습니다.\n\n다만, 취재진에 별도의 모습을 드러내지는 않았습니다.\n\n&lt;취재진&gt; \"지명 소감 한마디만 부탁드립니다. (...)\"\n\n강 내정자는 정보·방첩 분야 경력이 전무한 점이나 중국 지방정부의 특별고문을 맡았던 이력에 대해 별다른 해명을 내놓지 않고 있어, 청문 과정에서 대응이 주목됩니다.\n\n연합뉴스TV 박수주입니다.\n\n[영상취재 김동화 김세완 정진우]\n\n[영상편집 강태임]\n\n[그래픽 박혜령]\n\n[뉴스리뷰]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박수주(sooju@yna.co.kr)",
-          "content:encodedSnippet": "[앵커]\n\n외교·안보부처 수장으로 지명된 후보자들이 오늘(26일) 일제히 국회 인사청문회 준비에 돌입했습니다.\n\n굳건한 한미동맹과 한반도 평화 공존 등의 메시지를 내세웠는데요.\n\n외교·통일부의 '원팀' 체제도 강조했습니다.\n\n박수주 기자입니다.\n\n[기자]\n\n인사청문회 준비 사무실에 처음 출근한 임웅순 외교부 장관 후보자.\n\n안보 후속 협의와 정보 공유 제한 등 한미 간 꼬인 실타래를 풀 적임자로 지명된 그는 한미동맹의 굳건함을 강조했습니다.\n\n<임웅순 /  외교부 장관 후보자> \"어떤 특정 현안에 휘둘릴 정도로 한미동맹이 취약하지 않다고 생각하고요. 양국이 어떤 문제든 지혜롭게 헤쳐나갈 수 있을 것으로…\"\n\n정동영 통일부 장관과 이종석 국정원장의 동반 퇴진을 놓고 '미국에 편중된 인사'라는 해석이 나온 데는 동의하지 않았습니다.\n\n<임웅순 /  외교부 장관 후보자> \"우리에게는 한미동맹도 중요하고 한중관계도 중요하다고 생각합니다.\"\n\n3선 국회의원이자 정무수석 출신으로 통일부 장관에 내정된 홍익표 후보자는 '한반도 평화 공존' 목표를 향해 서두르지도, 멈추지도 않겠다는 포부를 밝혔습니다.\n\n특히 그간 한미 정보 공유나 대북정책을 두고 빚어진 부처 간 갈등 논란에 대해 두 후보자는 모두 문제가 없다는 점을 강조했습니다.\n\n홍 후보자는 2005년 자신이 공저자로 발간한 연구보고서 내용을 '자기 표절'해 박사학위논문을 취득했다는 의혹에 대해서도 해명했습니다.\n\n<홍익표 /  통일부 장관 후보자> \"당시에 윤리규정과 관련된 정확한 규정이 없었고요. 두 개의 논문이 사실은 선후관계 없이 거의 동시에 쓰인 논문이었기 때문에…\"\n\n'친중 논란'으로 야당의 반대가 거센 강금실 국정원장 내정자도 인사청문회 준비 사무실에 처음 출근했습니다.\n\n다만, 취재진에 별도의 모습을 드러내지는 않았습니다.\n\n<취재진> \"지명 소감 한마디만 부탁드립니다. (...)\"\n\n강 내정자는 정보·방첩 분야 경력이 전무한 점이나 중국 지방정부의 특별고문을 맡았던 이력에 대해 별다른 해명을 내놓지 않고 있어, 청문 과정에서 대응이 주목됩니다.\n\n연합뉴스TV 박수주입니다.\n\n[영상취재 김동화 김세완 정진우]\n\n[영상편집 강태임]\n\n[그래픽 박혜령]\n\n[뉴스리뷰]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박수주(sooju@yna.co.kr)",
+          "creator": "윤형섭",
+          "title": "푸틴 \"AI, 강력한 무기 될 수도…독자모델 개발\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR202611270225020YB",
+          "pubDate": "Fri, 27 Nov 2026 02:25:03 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261126/AKR202611270225020YB_01_i.jpg\" alt=\"\"><span class=\"yna_title\">AI 콘퍼런스에서 연설하는 푸틴 러시아 대통령</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n블라디미르 푸틴 러시아 대통령이 현지시간 26일 인공지능(AI) 기술이 강력한 무기가 될 수 있다며 기술 개발에 박차를 가할 것을 지시했습니다.\n\n러시아 관영 타스 통신에 따르면 푸틴 대통령은 이날 열린 AI 저니 콘퍼런스에서 \"AI는 군사 분야를 비롯해 인간의 손에서 훨씬 더 강력한 무기가 될 수 있다\"고 말했습니다.\n\n그러면서 \"러시아는 독자적인 AI 기반 모델을 계속 개발하고 이를 우선시할 것\"이라고 강조했습니다.\n\n푸틴 대통령은 국가 AI 개발 전략을 개정하고 이 분야의 국가행동계획을 승인할 것을 지시했습니다.\n\n\n#푸틴 #ai #러시아\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤형섭(yhs931@yna.co.kr)",
+          "content:encodedSnippet": "AI 콘퍼런스에서 연설하는 푸틴 러시아 대통령[연합뉴스 제공][연합뉴스 제공]\n블라디미르 푸틴 러시아 대통령이 현지시간 26일 인공지능(AI) 기술이 강력한 무기가 될 수 있다며 기술 개발에 박차를 가할 것을 지시했습니다.\n\n러시아 관영 타스 통신에 따르면 푸틴 대통령은 이날 열린 AI 저니 콘퍼런스에서 \"AI는 군사 분야를 비롯해 인간의 손에서 훨씬 더 강력한 무기가 될 수 있다\"고 말했습니다.\n\n그러면서 \"러시아는 독자적인 AI 기반 모델을 계속 개발하고 이를 우선시할 것\"이라고 강조했습니다.\n\n푸틴 대통령은 국가 AI 개발 전략을 개정하고 이 분야의 국가행동계획을 승인할 것을 지시했습니다.\n\n\n#푸틴 #ai #러시아\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤형섭(yhs931@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261126/MYH20261126205857XCf.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261126/AKR202611270225020YB_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "박수주",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261126205857XCf#comments",
-          "content": "[앵커] 외교·안보부처 수장으로 지명된 후보자들이 오늘(26일) 일제히 국회 인사청문회 준비에 돌입했습니다. 굳건한 한미동맹과 한반도 평화 공존 등의 메시지를 내세웠는데요. 외교·통일부의 '원팀' 체제도 강조했습니다. 박수주 기자입니다. [기자] 인사청문회 준비 사무실에 처음 출근한 임웅순 외교부 장관 후보자. 안보 후속 협의와 정보 공유 제한 등 한미 간 꼬인 실타래를 풀 적임자로 지명된 그는 한미동맹의 굳건함을 강조했습니다. &lt;임...",
-          "contentSnippet": "[앵커] 외교·안보부처 수장으로 지명된 후보자들이 오늘(26일) 일제히 국회 인사청문회 준비에 돌입했습니다. 굳건한 한미동맹과 한반도 평화 공존 등의 메시지를 내세웠는데요. 외교·통일부의 '원팀' 체제도 강조했습니다. 박수주 기자입니다. [기자] 인사청문회 준비 사무실에 처음 출근한 임웅순 외교부 장관 후보자. 안보 후속 협의와 정보 공유 제한 등 한미 간 꼬인 실타래를 풀 적임자로 지명된 그는 한미동맹의 굳건함을 강조했습니다. <임...",
-          "guid": "MYH20261126205857XCf",
+          "dc:creator": "윤형섭",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR202611270225020YB#comments",
+          "content": "AI 콘퍼런스에서 연설하는 푸틴 러시아 대통령[연합뉴스 제공][연합뉴스 제공] 블라디미르 푸틴 러시아 대통령이 현지시간 26일 인공지능(AI) 기술이 강력한 무기가 될 수 있다며 기술 개발에 박차를 가할 것을 지시했습니다. 러시아 관영 타스 통신에 따르면 푸틴 대통령은 이날 열린 AI 저니 콘퍼런스에서 \"AI는 군사 분야를 비롯해 인간의 손에서 훨씬 더 강력한 무기가 될 수 있다\"고 말했습니다. 그러면서 \"러시아는 독자적인 AI 기반 모델...",
+          "contentSnippet": "AI 콘퍼런스에서 연설하는 푸틴 러시아 대통령[연합뉴스 제공][연합뉴스 제공] 블라디미르 푸틴 러시아 대통령이 현지시간 26일 인공지능(AI) 기술이 강력한 무기가 될 수 있다며 기술 개발에 박차를 가할 것을 지시했습니다. 러시아 관영 타스 통신에 따르면 푸틴 대통령은 이날 열린 AI 저니 콘퍼런스에서 \"AI는 군사 분야를 비롯해 인간의 손에서 훨씬 더 강력한 무기가 될 수 있다\"고 말했습니다. 그러면서 \"러시아는 독자적인 AI 기반 모델...",
+          "guid": "AKR202611270225020YB",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-26T11:58:59.000Z"
+          "isoDate": "2026-11-26T17:25:03.000Z"
         },
         {
-          "creator": "김선홍",
-          "title": "30일 법관회의서 '사법권 독립 촉구' 발의 계획",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261126205504tzF",
-          "pubDate": "Thu, 26 Nov 2026 20:55:05 +0900",
-          "content:encoded": "여권에서 대법원장 탄핵을 추진 중인 가운데 오는 30일에 열리는 전국법관대표회의에 사법권 독립을 요구하는 안건이 현장에서 추가로 제기될 전망입니다.\n\n서울중앙지법 법관대표인 정용신 부장판사는 오늘(26일) 법원 내부망 코트넷에 '사법권 독립과 재판 독립 침해 중단 촉구 발의안'을 올렸습니다.\n\n제안 배경에 대해 정 판사는 \"헌법과 법률에 따라 독립적으로 수행한 재판을 이유로 법관 탄핵을 추진하는 것은 사법권 독립과 권력 분립이라는 헌법적 가치를 훼손하는 일\"이라고 설명했습니다.\n\n정 판사는 해당 안건을 이번 법관회의 당일 현장에서 발의할 계획으로, 발의자를 제외한 법관대표 9명 이상의 동의가 있으면 채택됩니다.\n\n#더불어민주당 #전국법관대표회의 #대법원장\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김선홍(redsun@yna.co.kr)",
-          "content:encodedSnippet": "여권에서 대법원장 탄핵을 추진 중인 가운데 오는 30일에 열리는 전국법관대표회의에 사법권 독립을 요구하는 안건이 현장에서 추가로 제기될 전망입니다.\n\n서울중앙지법 법관대표인 정용신 부장판사는 오늘(26일) 법원 내부망 코트넷에 '사법권 독립과 재판 독립 침해 중단 촉구 발의안'을 올렸습니다.\n\n제안 배경에 대해 정 판사는 \"헌법과 법률에 따라 독립적으로 수행한 재판을 이유로 법관 탄핵을 추진하는 것은 사법권 독립과 권력 분립이라는 헌법적 가치를 훼손하는 일\"이라고 설명했습니다.\n\n정 판사는 해당 안건을 이번 법관회의 당일 현장에서 발의할 계획으로, 발의자를 제외한 법관대표 9명 이상의 동의가 있으면 채택됩니다.\n\n#더불어민주당 #전국법관대표회의 #대법원장\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김선홍(redsun@yna.co.kr)",
+          "creator": "윤형섭",
+          "title": "미 추수감사절 폭풍에 30만곳 정전…항공편도 결항",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261127013958fo2",
+          "pubDate": "Fri, 27 Nov 2026 01:39:58 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261126/AKR20261127013958fo2_01_i.jpg\" alt=\"\"><span class=\"yna_title\">25일(현지시간) 미국 뉴욕 맨해튼 어퍼웨스트사이드에서 열린 제100회 메이시스 추수감사절 퍼레이드를 앞두고 작업자들이 준비하는 모습.</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n미국 최대 명절 중 하나인 추수감사절인 현지시간 26일 미 동부 지역에 폭우와 강풍을 동반한 폭풍이 몰아치면서 대규모 정전과 항공편 결항 등 피해가 잇따랐습니다.\n\n미 일간 뉴욕타임스(NYT)에 따르면 이날 오전 노스캐롤라이나주를 강타한 폭풍은 내륙으로 이동했으며, 이날 중 미 북동부 지역까지 북상할 것으로 예보됐습니다.\n\n미국 정전 현황 집계 사이트 파워아우티지에 따르면 이날 오전 노스캐롤라이나주에서 뉴저지주에 이르는 지역에서 30만곳 이상의 가구와 사업장에 전력 공급이 끊겼습니다.\n\n항공편 추적 사이트 플라이트어웨어는 이날 오전 미국 국내선과 미국을 오가는 국제선 항공편 348편이 결항하고 372편이 지연된 것으로 집계했습니다.\n\n#미국 #추수감사절 #정전\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤형섭(yhs931@yna.co.kr)",
+          "content:encodedSnippet": "25일(현지시간) 미국 뉴욕 맨해튼 어퍼웨스트사이드에서 열린 제100회 메이시스 추수감사절 퍼레이드를 앞두고 작업자들이 준비하는 모습.[연합뉴스 제공][연합뉴스 제공]\n미국 최대 명절 중 하나인 추수감사절인 현지시간 26일 미 동부 지역에 폭우와 강풍을 동반한 폭풍이 몰아치면서 대규모 정전과 항공편 결항 등 피해가 잇따랐습니다.\n\n미 일간 뉴욕타임스(NYT)에 따르면 이날 오전 노스캐롤라이나주를 강타한 폭풍은 내륙으로 이동했으며, 이날 중 미 북동부 지역까지 북상할 것으로 예보됐습니다.\n\n미국 정전 현황 집계 사이트 파워아우티지에 따르면 이날 오전 노스캐롤라이나주에서 뉴저지주에 이르는 지역에서 30만곳 이상의 가구와 사업장에 전력 공급이 끊겼습니다.\n\n항공편 추적 사이트 플라이트어웨어는 이날 오전 미국 국내선과 미국을 오가는 국제선 항공편 348편이 결항하고 372편이 지연된 것으로 집계했습니다.\n\n#미국 #추수감사절 #정전\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤형섭(yhs931@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261126/MYH20261126205504tzF.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261126/AKR20261127013958fo2_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "김선홍",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261126205504tzF#comments",
-          "content": "여권에서 대법원장 탄핵을 추진 중인 가운데 오는 30일에 열리는 전국법관대표회의에 사법권 독립을 요구하는 안건이 현장에서 추가로 제기될 전망입니다. 서울중앙지법 법관대표인 정용신 부장판사는 오늘(26일) 법원 내부망 코트넷에 '사법권 독립과 재판 독립 침해 중단 촉구 발의안'을 올렸습니다. 제안 배경에 대해 정 판사는 \"헌법과 법률에 따라 독립적으로 수행한 재판을 이유로 법관 탄핵을 추진하는 것은 사법권 독립과 권력 분립이라는 헌법적 가치...",
-          "contentSnippet": "여권에서 대법원장 탄핵을 추진 중인 가운데 오는 30일에 열리는 전국법관대표회의에 사법권 독립을 요구하는 안건이 현장에서 추가로 제기될 전망입니다. 서울중앙지법 법관대표인 정용신 부장판사는 오늘(26일) 법원 내부망 코트넷에 '사법권 독립과 재판 독립 침해 중단 촉구 발의안'을 올렸습니다. 제안 배경에 대해 정 판사는 \"헌법과 법률에 따라 독립적으로 수행한 재판을 이유로 법관 탄핵을 추진하는 것은 사법권 독립과 권력 분립이라는 헌법적 가치...",
-          "guid": "MYH20261126205504tzF",
+          "dc:creator": "윤형섭",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261127013958fo2#comments",
+          "content": "25일(현지시간) 미국 뉴욕 맨해튼 어퍼웨스트사이드에서 열린 제100회 메이시스 추수감사절 퍼레이드를 앞두고 작업자들이 준비하는 모습.[연합뉴스 제공][연합뉴스 제공] 미국 최대 명절 중 하나인 추수감사절인 현지시간 26일 미 동부 지역에 폭우와 강풍을 동반한 폭풍이 몰아치면서 대규모 정전과 항공편 결항 등 피해가 잇따랐습니다. 미 일간 뉴욕타임스(NYT)에 따르면 이날 오전 노스캐롤라이나주를 강타한 폭풍은 내륙으로 이동했으며, 이날 중 ...",
+          "contentSnippet": "25일(현지시간) 미국 뉴욕 맨해튼 어퍼웨스트사이드에서 열린 제100회 메이시스 추수감사절 퍼레이드를 앞두고 작업자들이 준비하는 모습.[연합뉴스 제공][연합뉴스 제공] 미국 최대 명절 중 하나인 추수감사절인 현지시간 26일 미 동부 지역에 폭우와 강풍을 동반한 폭풍이 몰아치면서 대규모 정전과 항공편 결항 등 피해가 잇따랐습니다. 미 일간 뉴욕타임스(NYT)에 따르면 이날 오전 노스캐롤라이나주를 강타한 폭풍은 내륙으로 이동했으며, 이날 중 ...",
+          "guid": "AKR20261127013958fo2",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-26T11:55:05.000Z"
+          "isoDate": "2026-11-26T16:39:58.000Z"
         },
         {
-          "creator": "김태욱",
-          "title": "강유정 \"한한령 해제 후속대책 최우선…K-컬쳐 그늘 살필 것\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261126204538wzr",
-          "pubDate": "Thu, 26 Nov 2026 20:45:38 +0900",
-          "content:encoded": "[앵커]\n\n강유정 문화체육관광부 장관 후보자가 오늘(26일) 처음 인사청문회 준비단 사무실로 출근했습니다.\n\n최우선 현안으로 한중 FTA 협상 타결로 인한 '한한령' 해제 기대감과 후속 조치를 꼽았습니다.\n\n김태욱 기자입니다.\n\n[기자]\n\n장관 후보 지명 사흘 만에 인사청문회 준비단 첫 출근길에 나선 강유정 후보자.\n\n한강 작가의 소설 '눈 한 송이가 녹는 동안'을 언급하며, 일상 속 문화예술의 의미를 먼저 말했습니다.\n\n강 후보자는 한·중 FTA 타결 이후 한·중 관계의 얼음이 녹기 시작했다며, 최우선 현안으로 '한한령' 해제 기대감에 따른 후속대책 마련을 꼽았습니다.\n\n&lt;강유정 / 문체부 장관 후보자&gt; \"해빙기에 정말 민과 관이 합동으로 조직을 만들어서, 국민에게 단비를 내려줄 수 있게 그 부분에 가장 먼저 좀 신경을 쓰고 싶습니다.\"\n\n이어 문화·예술·체육·관광 분야 종사자들 사이에 발생하고 있는 양극화 문제도 깊이 살피겠다고 강조했습니다.\n\n&lt;강유정 / 문체부 장관 후보자&gt; \"공정하게 좀 더 기회가 가야 될 부분 무엇보다 마음껏 문화·체육·관광 이 분야에서 자신의 꿈을 펼칠 수 있는 기반을 다지는 데 애를 쓰도록 하겠습니다.\"\n\n또 자신이 문화 예술 현장에서 20년 이상 종사한 적임자라며, 행정 경험이 부족하다는 지적에 대해서는 애정과 관심을 갖고 속도감 있게 정책을 추진하겠다고 밝혔습니다.\n\n&lt;강유정 / 문체부 장관 후보자&gt; \"대한국민의 취향이 글로벌 인덱스가 되고, 세계 선도 지표가 되고 있습니다. 이 한국 문화의 중흥기를 꾸준히 이어갈 수 있도록 최선의 노력을 다하겠습니다.\"\n\n문화 평론과 학계, 국회를 거쳐 이재명 정부의 '스피커' 역할을 맡아온 강유정 후보자.\n\n인사청문회를 뚫고 10년 만이자 역대 세 번째 여성 문체부 장관에 이름을 올릴 수 있을지 주목됩니다.\n\n연합뉴스TV 김태욱입니다.\n\n[영상취재 송철홍]\n\n[영상편집 이승훈]\n\n[뉴스리뷰]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김태욱(tw@yna.co.kr)",
-          "content:encodedSnippet": "[앵커]\n\n강유정 문화체육관광부 장관 후보자가 오늘(26일) 처음 인사청문회 준비단 사무실로 출근했습니다.\n\n최우선 현안으로 한중 FTA 협상 타결로 인한 '한한령' 해제 기대감과 후속 조치를 꼽았습니다.\n\n김태욱 기자입니다.\n\n[기자]\n\n장관 후보 지명 사흘 만에 인사청문회 준비단 첫 출근길에 나선 강유정 후보자.\n\n한강 작가의 소설 '눈 한 송이가 녹는 동안'을 언급하며, 일상 속 문화예술의 의미를 먼저 말했습니다.\n\n강 후보자는 한·중 FTA 타결 이후 한·중 관계의 얼음이 녹기 시작했다며, 최우선 현안으로 '한한령' 해제 기대감에 따른 후속대책 마련을 꼽았습니다.\n\n<강유정 / 문체부 장관 후보자> \"해빙기에 정말 민과 관이 합동으로 조직을 만들어서, 국민에게 단비를 내려줄 수 있게 그 부분에 가장 먼저 좀 신경을 쓰고 싶습니다.\"\n\n이어 문화·예술·체육·관광 분야 종사자들 사이에 발생하고 있는 양극화 문제도 깊이 살피겠다고 강조했습니다.\n\n<강유정 / 문체부 장관 후보자> \"공정하게 좀 더 기회가 가야 될 부분 무엇보다 마음껏 문화·체육·관광 이 분야에서 자신의 꿈을 펼칠 수 있는 기반을 다지는 데 애를 쓰도록 하겠습니다.\"\n\n또 자신이 문화 예술 현장에서 20년 이상 종사한 적임자라며, 행정 경험이 부족하다는 지적에 대해서는 애정과 관심을 갖고 속도감 있게 정책을 추진하겠다고 밝혔습니다.\n\n<강유정 / 문체부 장관 후보자> \"대한국민의 취향이 글로벌 인덱스가 되고, 세계 선도 지표가 되고 있습니다. 이 한국 문화의 중흥기를 꾸준히 이어갈 수 있도록 최선의 노력을 다하겠습니다.\"\n\n문화 평론과 학계, 국회를 거쳐 이재명 정부의 '스피커' 역할을 맡아온 강유정 후보자.\n\n인사청문회를 뚫고 10년 만이자 역대 세 번째 여성 문체부 장관에 이름을 올릴 수 있을지 주목됩니다.\n\n연합뉴스TV 김태욱입니다.\n\n[영상취재 송철홍]\n\n[영상편집 이승훈]\n\n[뉴스리뷰]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김태욱(tw@yna.co.kr)",
+          "creator": "윤형섭",
+          "title": "미 과잉생산 관세에 중국 반발…무역휴전 다시 시험대",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR2026112701262578z",
+          "pubDate": "Fri, 27 Nov 2026 01:26:26 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261126/AKR2026112701262578z_01_i.jpg\" alt=\"\"><span class=\"yna_title\">도널드 트럼프 미국 대통령과 시진핑 중국 국가주석</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n도널드 트럼프 미국 행정부가 중국의 산업 과잉생산을 겨냥해 새로운 관세 부과안을 내놓으며 미중 무역 휴전이 다시 시험대에 오른 모습입니다.\n\n다음 달 미국 마이애미에서 트럼프 미 대통령과 시진핑 중국 국가주석의 올해 네 번째 정상회담이 예정된 가운데, 미국이 대중 관세 압박 카드를 꺼내 들고 중국이 대응 가능성을 경고하며 양국 무역 갈등이 재점화할 수 있다는 우려가 나옵니다.\n\n미국 무역대표부는 현지시간 25일 무역법 301조에 따른 산업 과잉생산 조사 결과를 토대로 중국과 한국, 일본, 유럽연합(EU) 등 14개 경제 주체에 추가 관세를 부과하는 방안을 발표했습니다.\n\n특히 중국에 대해선 최대 20%의 관세율을 제시하면서 내년 1월 10일 만료되는 미중 무역 휴전이 연장되지 않을 경우 이를 최대 40%로 높일 가능성도 열어뒀습니다.\n\n미중은 지난해 트럼프 행정부의 고율 관세 부과와 중국의 희토류 수출 통제 등으로 격화한 무역 전쟁을 일단 멈추기로 합의했으나 이를 둘러싼 갈등의 불씨는 여전히 남아 있는 상태입니다.\n\n미국은 중국의 희토류 등 핵심 광물 공급이 수출 통제 이전 수준으로 회복되지 않은 데 대해 불만을 제기해왔으며 중국에 미국산 농산물 구매 확대 약속을 충실히 이행할 것도 요구하고 있습니다.\n\n중국은 즉각 반발하며 대응 가능성을 경고했습니다.\n\n허야둥 중국 상무부 대변인은 26일 정례브리핑에서 미국의 조치를 국제경제질서를 심각하게 훼손하고 세계무역기구(WTO) 규칙을 위반하는 일방주의 행위로 규정하며 \"중국은 이에 단호히 반대한다\"고 밝혔습니다.\n\n#미국 #중국 #무역 #관세\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤형섭(yhs931@yna.co.kr)",
+          "content:encodedSnippet": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석[연합뉴스 제공][연합뉴스 제공]\n도널드 트럼프 미국 행정부가 중국의 산업 과잉생산을 겨냥해 새로운 관세 부과안을 내놓으며 미중 무역 휴전이 다시 시험대에 오른 모습입니다.\n\n다음 달 미국 마이애미에서 트럼프 미 대통령과 시진핑 중국 국가주석의 올해 네 번째 정상회담이 예정된 가운데, 미국이 대중 관세 압박 카드를 꺼내 들고 중국이 대응 가능성을 경고하며 양국 무역 갈등이 재점화할 수 있다는 우려가 나옵니다.\n\n미국 무역대표부는 현지시간 25일 무역법 301조에 따른 산업 과잉생산 조사 결과를 토대로 중국과 한국, 일본, 유럽연합(EU) 등 14개 경제 주체에 추가 관세를 부과하는 방안을 발표했습니다.\n\n특히 중국에 대해선 최대 20%의 관세율을 제시하면서 내년 1월 10일 만료되는 미중 무역 휴전이 연장되지 않을 경우 이를 최대 40%로 높일 가능성도 열어뒀습니다.\n\n미중은 지난해 트럼프 행정부의 고율 관세 부과와 중국의 희토류 수출 통제 등으로 격화한 무역 전쟁을 일단 멈추기로 합의했으나 이를 둘러싼 갈등의 불씨는 여전히 남아 있는 상태입니다.\n\n미국은 중국의 희토류 등 핵심 광물 공급이 수출 통제 이전 수준으로 회복되지 않은 데 대해 불만을 제기해왔으며 중국에 미국산 농산물 구매 확대 약속을 충실히 이행할 것도 요구하고 있습니다.\n\n중국은 즉각 반발하며 대응 가능성을 경고했습니다.\n\n허야둥 중국 상무부 대변인은 26일 정례브리핑에서 미국의 조치를 국제경제질서를 심각하게 훼손하고 세계무역기구(WTO) 규칙을 위반하는 일방주의 행위로 규정하며 \"중국은 이에 단호히 반대한다\"고 밝혔습니다.\n\n#미국 #중국 #무역 #관세\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤형섭(yhs931@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261126/MYH20261126204538wzr.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261126/AKR2026112701262578z_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "김태욱",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261126204538wzr#comments",
-          "content": "[앵커] 강유정 문화체육관광부 장관 후보자가 오늘(26일) 처음 인사청문회 준비단 사무실로 출근했습니다. 최우선 현안으로 한중 FTA 협상 타결로 인한 '한한령' 해제 기대감과 후속 조치를 꼽았습니다. 김태욱 기자입니다. [기자] 장관 후보 지명 사흘 만에 인사청문회 준비단 첫 출근길에 나선 강유정 후보자. 한강 작가의 소설 '눈 한 송이가 녹는 동안'을 언급하며, 일상 속 문화예술의 의미를 먼저 말했습니다. 강 후보자는 한·중 FTA 타...",
-          "contentSnippet": "[앵커] 강유정 문화체육관광부 장관 후보자가 오늘(26일) 처음 인사청문회 준비단 사무실로 출근했습니다. 최우선 현안으로 한중 FTA 협상 타결로 인한 '한한령' 해제 기대감과 후속 조치를 꼽았습니다. 김태욱 기자입니다. [기자] 장관 후보 지명 사흘 만에 인사청문회 준비단 첫 출근길에 나선 강유정 후보자. 한강 작가의 소설 '눈 한 송이가 녹는 동안'을 언급하며, 일상 속 문화예술의 의미를 먼저 말했습니다. 강 후보자는 한·중 FTA 타...",
-          "guid": "MYH20261126204538wzr",
+          "dc:creator": "윤형섭",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR2026112701262578z#comments",
+          "content": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석[연합뉴스 제공][연합뉴스 제공] 도널드 트럼프 미국 행정부가 중국의 산업 과잉생산을 겨냥해 새로운 관세 부과안을 내놓으며 미중 무역 휴전이 다시 시험대에 오른 모습입니다. 다음 달 미국 마이애미에서 트럼프 미 대통령과 시진핑 중국 국가주석의 올해 네 번째 정상회담이 예정된 가운데, 미국이 대중 관세 압박 카드를 꺼내 들고 중국이 대응 가능성을 경고하며 양국 무역 갈등이 재점화할 수 있다는 ...",
+          "contentSnippet": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석[연합뉴스 제공][연합뉴스 제공] 도널드 트럼프 미국 행정부가 중국의 산업 과잉생산을 겨냥해 새로운 관세 부과안을 내놓으며 미중 무역 휴전이 다시 시험대에 오른 모습입니다. 다음 달 미국 마이애미에서 트럼프 미 대통령과 시진핑 중국 국가주석의 올해 네 번째 정상회담이 예정된 가운데, 미국이 대중 관세 압박 카드를 꺼내 들고 중국이 대응 가능성을 경고하며 양국 무역 갈등이 재점화할 수 있다는 ...",
+          "guid": "AKR2026112701262578z",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-26T11:45:38.000Z"
+          "isoDate": "2026-11-26T16:26:26.000Z"
         },
         {
-          "creator": "김채영",
-          "title": "코스피, 금리인상에 뒷심 부족…4,700선은 회복",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261126204403QK0",
-          "pubDate": "Thu, 26 Nov 2026 20:44:04 +0900",
-          "content:encoded": "[앵커]\n\n전날 6% 넘게 급락했던 코스피가 소폭 올라 4,700선을 회복한 채 마감했습니다.\n\n장 초반 4,780선까지 올랐지만 장 후반 상승분 대부분을 반납했습니다.\n\n김채영 기자입니다.\n\n[기자]\n\n전날 6% 넘게 급락하며 4,700선 아래로 밀렸던 코스피가 소폭 상승했습니다.\n\n이날 지수는 4,740선에서 상승 출발해 한때 오름폭을 2%대로 키워 4,800선까지 오르기도 했습니다.\n\n하지만 이내 상승 탄력이 떨어졌고, 장 마감 직전 상승분을 대거 반납했으나 4,700선은 회복한 채 마감했습니다.\n\n수급별로는 개인과 외국인이 동반 순매도한 반면 기관 홀로 샀습니다.\n\n삼성전자와 SK하이닉스는 나란히 오르며 지수 반등에 힘을 보탰습니다.\n\n간밤 뉴욕증시에서 기술주가 장중 급락세를 딛고 낙폭을 줄인 점도 투자심리 회복에 영향을 줬습니다.\n\n엔비디아는 장중 9% 넘게 밀렸다가 약 4%대 하락으로 마감했고, 필라델피아반도체지수도 장중 약 8% 하락 후 0.65% 하락으로 낙폭을 줄였습니다.\n\n다만 인공지능(AI) 투자 수익성에 대한 의구심과 메모리 반도체 공급 과잉 우려 등 시장의 불안 요인은 여전합니다.\n\n증권가에서도 이번 상승을 추세 전환보다는 기술적 반등으로 평가하고 있습니다.\n\n&lt;강진혁 / 신한투자증권 연구원&gt; \"아무래도 기술적 반등 성격이 크긴 하죠. (전 거래일에) 좀 크게 내렸다 보니까 거기에 따라서 반발 매수세가 들어오는 게 있기는 하고요. 4분기 실적 시즌 때 빅테크·AI 종목들이 수익성이나 현금 창출력을 보여주면 반등을 좀 모색해볼 수 있는 계기는 되지 않을까 싶습니다.\"\n\n이런 가운데 한국은행이 기준금리를 0.25%포인트 올려 연 3.25%로 결정하고 향후 추가 금리 인상 가능성까지 제시해 국내에서도 추가 긴축에 따른 증시 부담이 커지고 있습니다.\n\n전날 2% 넘게 하락했던 코스닥도 소폭 반등해 650선에서 마감했습니다.\n\n한편 서울 외환시장에서 원·달러 환율은 오후 3시반 기준 1,342.7원을 보였습니다.\n\n연합뉴스TV 김채영입니다.\n\n[영상취재 김태현]\n\n[영상편집 김세나]\n\n[그래픽 이예지]\n\n[뉴스리뷰]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김채영(chaechae@yna.co.kr)",
-          "content:encodedSnippet": "[앵커]\n\n전날 6% 넘게 급락했던 코스피가 소폭 올라 4,700선을 회복한 채 마감했습니다.\n\n장 초반 4,780선까지 올랐지만 장 후반 상승분 대부분을 반납했습니다.\n\n김채영 기자입니다.\n\n[기자]\n\n전날 6% 넘게 급락하며 4,700선 아래로 밀렸던 코스피가 소폭 상승했습니다.\n\n이날 지수는 4,740선에서 상승 출발해 한때 오름폭을 2%대로 키워 4,800선까지 오르기도 했습니다.\n\n하지만 이내 상승 탄력이 떨어졌고, 장 마감 직전 상승분을 대거 반납했으나 4,700선은 회복한 채 마감했습니다.\n\n수급별로는 개인과 외국인이 동반 순매도한 반면 기관 홀로 샀습니다.\n\n삼성전자와 SK하이닉스는 나란히 오르며 지수 반등에 힘을 보탰습니다.\n\n간밤 뉴욕증시에서 기술주가 장중 급락세를 딛고 낙폭을 줄인 점도 투자심리 회복에 영향을 줬습니다.\n\n엔비디아는 장중 9% 넘게 밀렸다가 약 4%대 하락으로 마감했고, 필라델피아반도체지수도 장중 약 8% 하락 후 0.65% 하락으로 낙폭을 줄였습니다.\n\n다만 인공지능(AI) 투자 수익성에 대한 의구심과 메모리 반도체 공급 과잉 우려 등 시장의 불안 요인은 여전합니다.\n\n증권가에서도 이번 상승을 추세 전환보다는 기술적 반등으로 평가하고 있습니다.\n\n<강진혁 / 신한투자증권 연구원> \"아무래도 기술적 반등 성격이 크긴 하죠. (전 거래일에) 좀 크게 내렸다 보니까 거기에 따라서 반발 매수세가 들어오는 게 있기는 하고요. 4분기 실적 시즌 때 빅테크·AI 종목들이 수익성이나 현금 창출력을 보여주면 반등을 좀 모색해볼 수 있는 계기는 되지 않을까 싶습니다.\"\n\n이런 가운데 한국은행이 기준금리를 0.25%포인트 올려 연 3.25%로 결정하고 향후 추가 금리 인상 가능성까지 제시해 국내에서도 추가 긴축에 따른 증시 부담이 커지고 있습니다.\n\n전날 2% 넘게 하락했던 코스닥도 소폭 반등해 650선에서 마감했습니다.\n\n한편 서울 외환시장에서 원·달러 환율은 오후 3시반 기준 1,342.7원을 보였습니다.\n\n연합뉴스TV 김채영입니다.\n\n[영상취재 김태현]\n\n[영상편집 김세나]\n\n[그래픽 이예지]\n\n[뉴스리뷰]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김채영(chaechae@yna.co.kr)",
+          "creator": "김동혁",
+          "title": "롤러코스터 날씨…오늘 포근, 주말은 또 찬 바람",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261127010232nSm",
+          "pubDate": "Fri, 27 Nov 2026 01:02:34 +0900",
+          "content:encoded": "[앵커]\n\n요즘 기온이 롤러코스터처럼 크게 오르내리고 있습니다.\n\n오늘(27일)까지도 온화한 가을 날씨가 나타나겠지만, 주말부터는 다시 매서운 찬 바람이 몰아칠 전망입니다.\n\n김동혁 기자입니다.\n\n[기자]\n\n찬 바람이 물러간 도심 거리는 다시 늦가을 풍경이 펼쳐졌습니다.\n\n몸을 꽁꽁 싸매던 겉옷은 한결 가벼워졌고, 추위로 미뤘던 산책을 즐기기도 합니다.\n\n제주에서는 낮 수은주가 20.3도를 기록했습니다.\n\n서울도 15도를 넘겼고, 대부분 지역에서 평년을 크게 웃도는 날씨를 보였습니다.\n\n차가운 북풍 대신 상대적으로 따뜻한 남서쪽 공기가 들어오기 때문인데, 금요일도 온화한 바람이 계속되겠습니다.\n\n다만, 비구름이 지나가며 중부와 호남 등에서 약하게 비가 내릴 때가 있겠습니다.\n\n&lt;강혜미 / 기상청 예보분석관&gt; \"27일 금요일은 차차 북쪽을 지나는 기압골의 영향으로 오전부터 수도권과 강원도, 오후에는 그 밖의 지역에도 비가 조금 내리는 곳이 있겠고 소강상태를 보이는 곳도 많겠습니다.\"\n\n주말에는 다시 북쪽에서 찬 바람이 내려오는 등 날씨가 급변합니다.\n\n토요일 낮 기온은 금요일과 비교해 최대 10도가량 뚝 떨어지겠습니다.\n\n서쪽으로 눈비 구름도 유입되면서 토요일 경기 남서부와 충청, 호남과 영남, 제주 등에서 비가 내리겠습니다.\n\n전북 동부에서 최고 3㎝의 눈이 쌓이기도 하는 등, 주말에 차량으로 이동할 때는 미끄럼 사고가 없도록 조심해야 합니다.\n\n강원 동해안은 건조특보 속에 당분간 강풍이 불 전망입니다.\n\n기상청은 강풍특보가 내려질 정도로 돌풍이 몰아치겠다며, 산불이 나지 않도록 주의해 달라고 당부했습니다.\n\n연합뉴스TV 김동혁입니다.\n\n[영상취재 성현석]\n\n[영상편집 이예림]\n\n#날씨 #추위 #눈 #비 #겨울 #가을\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김동혁(dhkim1004@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n요즘 기온이 롤러코스터처럼 크게 오르내리고 있습니다.\n\n오늘(27일)까지도 온화한 가을 날씨가 나타나겠지만, 주말부터는 다시 매서운 찬 바람이 몰아칠 전망입니다.\n\n김동혁 기자입니다.\n\n[기자]\n\n찬 바람이 물러간 도심 거리는 다시 늦가을 풍경이 펼쳐졌습니다.\n\n몸을 꽁꽁 싸매던 겉옷은 한결 가벼워졌고, 추위로 미뤘던 산책을 즐기기도 합니다.\n\n제주에서는 낮 수은주가 20.3도를 기록했습니다.\n\n서울도 15도를 넘겼고, 대부분 지역에서 평년을 크게 웃도는 날씨를 보였습니다.\n\n차가운 북풍 대신 상대적으로 따뜻한 남서쪽 공기가 들어오기 때문인데, 금요일도 온화한 바람이 계속되겠습니다.\n\n다만, 비구름이 지나가며 중부와 호남 등에서 약하게 비가 내릴 때가 있겠습니다.\n\n<강혜미 / 기상청 예보분석관> \"27일 금요일은 차차 북쪽을 지나는 기압골의 영향으로 오전부터 수도권과 강원도, 오후에는 그 밖의 지역에도 비가 조금 내리는 곳이 있겠고 소강상태를 보이는 곳도 많겠습니다.\"\n\n주말에는 다시 북쪽에서 찬 바람이 내려오는 등 날씨가 급변합니다.\n\n토요일 낮 기온은 금요일과 비교해 최대 10도가량 뚝 떨어지겠습니다.\n\n서쪽으로 눈비 구름도 유입되면서 토요일 경기 남서부와 충청, 호남과 영남, 제주 등에서 비가 내리겠습니다.\n\n전북 동부에서 최고 3㎝의 눈이 쌓이기도 하는 등, 주말에 차량으로 이동할 때는 미끄럼 사고가 없도록 조심해야 합니다.\n\n강원 동해안은 건조특보 속에 당분간 강풍이 불 전망입니다.\n\n기상청은 강풍특보가 내려질 정도로 돌풍이 몰아치겠다며, 산불이 나지 않도록 주의해 달라고 당부했습니다.\n\n연합뉴스TV 김동혁입니다.\n\n[영상취재 성현석]\n\n[영상편집 이예림]\n\n#날씨 #추위 #눈 #비 #겨울 #가을\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김동혁(dhkim1004@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261126/MYH20261126204403QK0.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261126/MYH20261127010232nSm.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "김채영",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261126204403QK0#comments",
-          "content": "[앵커] 전날 6% 넘게 급락했던 코스피가 소폭 올라 4,700선을 회복한 채 마감했습니다. 장 초반 4,780선까지 올랐지만 장 후반 상승분 대부분을 반납했습니다. 김채영 기자입니다. [기자] 전날 6% 넘게 급락하며 4,700선 아래로 밀렸던 코스피가 소폭 상승했습니다. 이날 지수는 4,740선에서 상승 출발해 한때 오름폭을 2%대로 키워 4,800선까지 오르기도 했습니다. 하지만 이내 상승 탄력이 떨어졌고, 장 마감 직전 상승분을 대...",
-          "contentSnippet": "[앵커] 전날 6% 넘게 급락했던 코스피가 소폭 올라 4,700선을 회복한 채 마감했습니다. 장 초반 4,780선까지 올랐지만 장 후반 상승분 대부분을 반납했습니다. 김채영 기자입니다. [기자] 전날 6% 넘게 급락하며 4,700선 아래로 밀렸던 코스피가 소폭 상승했습니다. 이날 지수는 4,740선에서 상승 출발해 한때 오름폭을 2%대로 키워 4,800선까지 오르기도 했습니다. 하지만 이내 상승 탄력이 떨어졌고, 장 마감 직전 상승분을 대...",
-          "guid": "MYH20261126204403QK0",
+          "dc:creator": "김동혁",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261127010232nSm#comments",
+          "content": "[앵커] 요즘 기온이 롤러코스터처럼 크게 오르내리고 있습니다. 오늘(27일)까지도 온화한 가을 날씨가 나타나겠지만, 주말부터는 다시 매서운 찬 바람이 몰아칠 전망입니다. 김동혁 기자입니다. [기자] 찬 바람이 물러간 도심 거리는 다시 늦가을 풍경이 펼쳐졌습니다. 몸을 꽁꽁 싸매던 겉옷은 한결 가벼워졌고, 추위로 미뤘던 산책을 즐기기도 합니다. 제주에서는 낮 수은주가 20.3도를 기록했습니다. 서울도 15도를 넘겼고, 대부분 지역에서 평년을...",
+          "contentSnippet": "[앵커] 요즘 기온이 롤러코스터처럼 크게 오르내리고 있습니다. 오늘(27일)까지도 온화한 가을 날씨가 나타나겠지만, 주말부터는 다시 매서운 찬 바람이 몰아칠 전망입니다. 김동혁 기자입니다. [기자] 찬 바람이 물러간 도심 거리는 다시 늦가을 풍경이 펼쳐졌습니다. 몸을 꽁꽁 싸매던 겉옷은 한결 가벼워졌고, 추위로 미뤘던 산책을 즐기기도 합니다. 제주에서는 낮 수은주가 20.3도를 기록했습니다. 서울도 15도를 넘겼고, 대부분 지역에서 평년을...",
+          "guid": "MYH20261127010232nSm",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-26T11:44:04.000Z"
+          "isoDate": "2026-11-26T16:02:34.000Z"
         },
         {
           "creator": "박준혁",
-          "title": "이 대통령, 강금실 등 국회 인사청문요청서 재가",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261126204211DPv",
-          "pubDate": "Thu, 26 Nov 2026 20:42:13 +0900",
-          "content:encoded": "이재명 대통령이 강금실 국가정보원장 후보자를 포함해 최근 지명한 장관 후보자들에 대한 인사청문요청서를 재가했습니다.\n\n청문 요청 대상은 강 후보자와 임웅순 외교부 장관 후보자, 홍익표 통일부 장관 후보자, 한준호 행정안전부 장관 후보자, 강유정 문화체육관광부 장관 후보자 등 모두 5명입니다.\n\n인사청문회법에 따르면 국회는 요청안을 접수하고 20일 안에 청문 절차를 마쳐야 합니다.\n\n시한까지 송부하지 않을 경우 이 대통령은 재송부 요청을 할 수 있고, 이에 응하지 않으면 그대로 임명할 수 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박준혁(baktoyou@yna.co.kr)",
-          "content:encodedSnippet": "이재명 대통령이 강금실 국가정보원장 후보자를 포함해 최근 지명한 장관 후보자들에 대한 인사청문요청서를 재가했습니다.\n\n청문 요청 대상은 강 후보자와 임웅순 외교부 장관 후보자, 홍익표 통일부 장관 후보자, 한준호 행정안전부 장관 후보자, 강유정 문화체육관광부 장관 후보자 등 모두 5명입니다.\n\n인사청문회법에 따르면 국회는 요청안을 접수하고 20일 안에 청문 절차를 마쳐야 합니다.\n\n시한까지 송부하지 않을 경우 이 대통령은 재송부 요청을 할 수 있고, 이에 응하지 않으면 그대로 임명할 수 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박준혁(baktoyou@yna.co.kr)",
+          "title": "CJ올리브영, 업무시스템 해킹으로 개인정보 유출",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261127005224OSY",
+          "pubDate": "Fri, 27 Nov 2026 00:52:24 +0900",
+          "content:encoded": "CJ올리브영이 자사 업무 시스템이 해킹돼 임직원과 고객 일부의 개인정보가 유출됐다고 밝혔습니다.\n\n올리브영은 어제(26일) 홈페이지를 통해 \"지난 23일 회사 업무시스템에 대한 외부의 비인가 접근이 발생해 일부 자료에 포함된 고객님의 개인정보 일부가 유출되었음을 확인했다\"고 공지했습니다.\n\n해킹으로 임직원 639명과 일반 고객 45명 등 총 790명의 회원번호가 유출됐는데, 일부의 경우 성명과 생년월일, 전화번호 등도 유출됐습니다.\n\n올리브영은 유출 확인 즉시 네트워크를 격리하고 보안조치를 취했다며 추가 피해방지에 최선의 노력을 다하겠다고 밝혔습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박준혁(baktoyou@yna.co.kr)",
+          "content:encodedSnippet": "CJ올리브영이 자사 업무 시스템이 해킹돼 임직원과 고객 일부의 개인정보가 유출됐다고 밝혔습니다.\n\n올리브영은 어제(26일) 홈페이지를 통해 \"지난 23일 회사 업무시스템에 대한 외부의 비인가 접근이 발생해 일부 자료에 포함된 고객님의 개인정보 일부가 유출되었음을 확인했다\"고 공지했습니다.\n\n해킹으로 임직원 639명과 일반 고객 45명 등 총 790명의 회원번호가 유출됐는데, 일부의 경우 성명과 생년월일, 전화번호 등도 유출됐습니다.\n\n올리브영은 유출 확인 즉시 네트워크를 격리하고 보안조치를 취했다며 추가 피해방지에 최선의 노력을 다하겠다고 밝혔습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박준혁(baktoyou@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261126/MYH20261126204211DPv.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261126/MYH20261127005224OSY.jpg",
             "type": "image/jpeg"
           },
           "dc:creator": "박준혁",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261126204211DPv#comments",
-          "content": "이재명 대통령이 강금실 국가정보원장 후보자를 포함해 최근 지명한 장관 후보자들에 대한 인사청문요청서를 재가했습니다. 청문 요청 대상은 강 후보자와 임웅순 외교부 장관 후보자, 홍익표 통일부 장관 후보자, 한준호 행정안전부 장관 후보자, 강유정 문화체육관광부 장관 후보자 등 모두 5명입니다. 인사청문회법에 따르면 국회는 요청안을 접수하고 20일 안에 청문 절차를 마쳐야 합니다. 시한까지 송부하지 않을 경우 이 대통령은 재송부 요청을 할 수 ...",
-          "contentSnippet": "이재명 대통령이 강금실 국가정보원장 후보자를 포함해 최근 지명한 장관 후보자들에 대한 인사청문요청서를 재가했습니다. 청문 요청 대상은 강 후보자와 임웅순 외교부 장관 후보자, 홍익표 통일부 장관 후보자, 한준호 행정안전부 장관 후보자, 강유정 문화체육관광부 장관 후보자 등 모두 5명입니다. 인사청문회법에 따르면 국회는 요청안을 접수하고 20일 안에 청문 절차를 마쳐야 합니다. 시한까지 송부하지 않을 경우 이 대통령은 재송부 요청을 할 수 ...",
-          "guid": "MYH20261126204211DPv",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261127005224OSY#comments",
+          "content": "CJ올리브영이 자사 업무 시스템이 해킹돼 임직원과 고객 일부의 개인정보가 유출됐다고 밝혔습니다. 올리브영은 어제(26일) 홈페이지를 통해 \"지난 23일 회사 업무시스템에 대한 외부의 비인가 접근이 발생해 일부 자료에 포함된 고객님의 개인정보 일부가 유출되었음을 확인했다\"고 공지했습니다. 해킹으로 임직원 639명과 일반 고객 45명 등 총 790명의 회원번호가 유출됐는데, 일부의 경우 성명과 생년월일, 전화번호 등도 유출됐습니다. 올리브영은...",
+          "contentSnippet": "CJ올리브영이 자사 업무 시스템이 해킹돼 임직원과 고객 일부의 개인정보가 유출됐다고 밝혔습니다. 올리브영은 어제(26일) 홈페이지를 통해 \"지난 23일 회사 업무시스템에 대한 외부의 비인가 접근이 발생해 일부 자료에 포함된 고객님의 개인정보 일부가 유출되었음을 확인했다\"고 공지했습니다. 해킹으로 임직원 639명과 일반 고객 45명 등 총 790명의 회원번호가 유출됐는데, 일부의 경우 성명과 생년월일, 전화번호 등도 유출됐습니다. 올리브영은...",
+          "guid": "MYH20261127005224OSY",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-26T11:42:13.000Z"
+          "isoDate": "2026-11-26T15:52:24.000Z"
         },
         {
-          "creator": "임혜준",
-          "title": "[이시각헤드라인] 11월 26일 뉴스리뷰",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261126203253EHJ",
-          "pubDate": "Thu, 26 Nov 2026 20:32:54 +0900",
-          "content:encoded": "■'AI 커닝' 세무사 수석합격자 구속영장 신청■\n\nAI를 활용해 세무사 시험에서 부정행위를 저지른 수석 합격자에 대해 경찰이 구속영장을 신청했습니다.\n\n국가시험의 공정성을 훼손한 사안의 중대성과 증거인멸 우려 등이 고려됐습니다.\n\n■'리트 만점자' 강제수사…공범 여부 추적■\n\n리트 만점자 故 이진우 씨의 시험 부정행위 의혹과 관련해 경찰이 이 씨의 생전 주거지 등을 압수수색했습니다.\n\n이 씨가 사망한 가운데 경찰은 성명불상의 공범을 피의자로 적시해 영장을 발부받았습니다.\n\n■이 대통령, 강금실 등 인사청문요청서 재가■\n\n이재명 대통령이 강금실 국정원장 후보자와 임웅순 외교부 장관 후보자 등 5명에 대한 인사청문요청서를 재가했습니다.\n\n국회는 요청서 접수 후 20일 이내에 청문절차를 마쳐야 합니다.\n\n■30일 법관회의서 '사법권 독립' 발의 추진■\n\n여권이 대법원장 탄핵을 추진하는 가운데 오는 30일 전국법관대표회의에서 사법권 독립을 촉구하는 안건 발의가 추진됩니다.\n\n재판을 이유로 한 법관 탄핵 추진은 권력분립의 헌법적 가치를 훼손한다는 취지입니다.\n\n■기준금리 3.25%로 인상…내년 성장률 4.1% 전망■\n\n한국은행이 기준금리를 연 3.25%로 인상하며 추가 인상 가능성도 열어뒀습니다.\n\n내년 경제성장률 전망치는 기존 2.9%에서 4.1%로 대폭 높였습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n임혜준(junelim@yna.co.kr)",
-          "content:encodedSnippet": "■'AI 커닝' 세무사 수석합격자 구속영장 신청■\n\nAI를 활용해 세무사 시험에서 부정행위를 저지른 수석 합격자에 대해 경찰이 구속영장을 신청했습니다.\n\n국가시험의 공정성을 훼손한 사안의 중대성과 증거인멸 우려 등이 고려됐습니다.\n\n■'리트 만점자' 강제수사…공범 여부 추적■\n\n리트 만점자 故 이진우 씨의 시험 부정행위 의혹과 관련해 경찰이 이 씨의 생전 주거지 등을 압수수색했습니다.\n\n이 씨가 사망한 가운데 경찰은 성명불상의 공범을 피의자로 적시해 영장을 발부받았습니다.\n\n■이 대통령, 강금실 등 인사청문요청서 재가■\n\n이재명 대통령이 강금실 국정원장 후보자와 임웅순 외교부 장관 후보자 등 5명에 대한 인사청문요청서를 재가했습니다.\n\n국회는 요청서 접수 후 20일 이내에 청문절차를 마쳐야 합니다.\n\n■30일 법관회의서 '사법권 독립' 발의 추진■\n\n여권이 대법원장 탄핵을 추진하는 가운데 오는 30일 전국법관대표회의에서 사법권 독립을 촉구하는 안건 발의가 추진됩니다.\n\n재판을 이유로 한 법관 탄핵 추진은 권력분립의 헌법적 가치를 훼손한다는 취지입니다.\n\n■기준금리 3.25%로 인상…내년 성장률 4.1% 전망■\n\n한국은행이 기준금리를 연 3.25%로 인상하며 추가 인상 가능성도 열어뒀습니다.\n\n내년 경제성장률 전망치는 기존 2.9%에서 4.1%로 대폭 높였습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n임혜준(junelim@yna.co.kr)",
+          "creator": "정주희",
+          "title": "최민희 '징계 수위' 촉각…與 내홍 중대 분수령",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261127005136WYH",
+          "pubDate": "Fri, 27 Nov 2026 00:51:36 +0900",
+          "content:encoded": "[앵커]\n\n더불어민주당 윤리심판원이 오늘(27일) 최민희 최고위원에 대한 징계를 결정할 전망입니다.\n\n친정청래계로 분류되는 최 최고위원은 김민석 대표의 '신천지 의혹' 제기를 강하게 비판해 왔는데요.\n\n징계 수위에 따라 계파 갈등이 전면전으로 치달을 수 있다는 관측에 당내 긴장감이 고조되고 있습니다.\n\n정주희 기자입니다.\n\n[기자]\n\n사진·영상 기자들을 '하이에나 떼'에 빗대며 논란에 휩싸였던 더불어민주당 최민희 최고위원.\n\n&lt;최민희 / 더불어민주당 최고위원 (지난 11일)&gt; \"부적절한 표현에 대해 기자님들에게 사과의 말씀드립니다.\"\n\n이튿날에는, 한 달 전 비공개 간담회에서 이 대통령이 윤석열 탄핵에 반대했다는 취지로 발언한 사실이 드러나 결국 윤리감찰을 받았습니다.\n\n&lt;최민희 / 더불어민주당 최고위원 (지난 16일)&gt; \"대통령님께 누를 끼쳤습니다. 다시 한번 깊이 사과드립니다.\"\n\n중앙당 윤리심판원의 결정을 앞두고 당내 의견은 엇갈리고 있습니다.\n\n일각에서는 최 최고위원이 지난해 국정감사 기간 '딸 결혼식 축의금' 논란으로 이미 경고 처분을 받은데다, 동료 의원들을 향한 비방 등도 징계 사유에 포함된 만큼 중징계가 불가피하다는 주장이 나옵니다.\n\n'당원자격정지' 이상의 중징계가 내려질 경우 최고위원직도 박탈될 수 있습니다.\n\n반면 친청계 등에서는 김민석 대표의 '신천지 의혹' 제기가 더 중대한 해당 행위라며, 징계의 형평성을 들어 김 대표에 대한 징계 심의도 촉구하고 있습니다.\n\n'신천지 의혹'을 둘러싼 내홍에 최 최고위원 징계 문제까지 맞물리며 자칫 당내 갈등이 걷잡을 수 없이 커질 것이란 우려도 깊어지고 있습니다.\n\n&lt;정성호 / 더불어민주당 의원 (CBS라디오 '박성태의 뉴스쇼')&gt; \"징계 수준을 결정하는 과정에서 그렇고 최고 지도부가 (윤리심판원과) 좀 여러가지 대화를 나눴으면 좋겠습니다.\"\n\n&lt;김영진 / 더불어민주당 의원 (SBS라디오 '김태현의 정치쇼')&gt; \"김민석 대표나 정청래 전 대표나 이제는 좀 마무리할 때가 됐다, 통합과 승리를 위한 대승적 판단과 결단이…\"\n\n중진 의원 12명이 만찬 회동을 갖고 전·현직 대표 간 갈등을 중재하는 데 나섰지만, 정작 당사자인 김민석 대표와 정청래 전 대표는 모두 불참했습니다.\n\n지지층까지 크게 분열된 가운데, 최민희 최고위원에 대한 징계는 민주당 내홍의 중대 분수령이 될 것으로 보입니다.\n\n연합뉴스TV 정주희입니다.\n\n[영상취재 김성수 박태범 김상훈 홍수호]\n\n[영상편집 이애련]\n\n[그래픽 임혜빈]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정주희(gee@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\n더불어민주당 윤리심판원이 오늘(27일) 최민희 최고위원에 대한 징계를 결정할 전망입니다.\n\n친정청래계로 분류되는 최 최고위원은 김민석 대표의 '신천지 의혹' 제기를 강하게 비판해 왔는데요.\n\n징계 수위에 따라 계파 갈등이 전면전으로 치달을 수 있다는 관측에 당내 긴장감이 고조되고 있습니다.\n\n정주희 기자입니다.\n\n[기자]\n\n사진·영상 기자들을 '하이에나 떼'에 빗대며 논란에 휩싸였던 더불어민주당 최민희 최고위원.\n\n<최민희 / 더불어민주당 최고위원 (지난 11일)> \"부적절한 표현에 대해 기자님들에게 사과의 말씀드립니다.\"\n\n이튿날에는, 한 달 전 비공개 간담회에서 이 대통령이 윤석열 탄핵에 반대했다는 취지로 발언한 사실이 드러나 결국 윤리감찰을 받았습니다.\n\n<최민희 / 더불어민주당 최고위원 (지난 16일)> \"대통령님께 누를 끼쳤습니다. 다시 한번 깊이 사과드립니다.\"\n\n중앙당 윤리심판원의 결정을 앞두고 당내 의견은 엇갈리고 있습니다.\n\n일각에서는 최 최고위원이 지난해 국정감사 기간 '딸 결혼식 축의금' 논란으로 이미 경고 처분을 받은데다, 동료 의원들을 향한 비방 등도 징계 사유에 포함된 만큼 중징계가 불가피하다는 주장이 나옵니다.\n\n'당원자격정지' 이상의 중징계가 내려질 경우 최고위원직도 박탈될 수 있습니다.\n\n반면 친청계 등에서는 김민석 대표의 '신천지 의혹' 제기가 더 중대한 해당 행위라며, 징계의 형평성을 들어 김 대표에 대한 징계 심의도 촉구하고 있습니다.\n\n'신천지 의혹'을 둘러싼 내홍에 최 최고위원 징계 문제까지 맞물리며 자칫 당내 갈등이 걷잡을 수 없이 커질 것이란 우려도 깊어지고 있습니다.\n\n<정성호 / 더불어민주당 의원 (CBS라디오 '박성태의 뉴스쇼')> \"징계 수준을 결정하는 과정에서 그렇고 최고 지도부가 (윤리심판원과) 좀 여러가지 대화를 나눴으면 좋겠습니다.\"\n\n<김영진 / 더불어민주당 의원 (SBS라디오 '김태현의 정치쇼')> \"김민석 대표나 정청래 전 대표나 이제는 좀 마무리할 때가 됐다, 통합과 승리를 위한 대승적 판단과 결단이…\"\n\n중진 의원 12명이 만찬 회동을 갖고 전·현직 대표 간 갈등을 중재하는 데 나섰지만, 정작 당사자인 김민석 대표와 정청래 전 대표는 모두 불참했습니다.\n\n지지층까지 크게 분열된 가운데, 최민희 최고위원에 대한 징계는 민주당 내홍의 중대 분수령이 될 것으로 보입니다.\n\n연합뉴스TV 정주희입니다.\n\n[영상취재 김성수 박태범 김상훈 홍수호]\n\n[영상편집 이애련]\n\n[그래픽 임혜빈]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n정주희(gee@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261126/MYH20261126203253EHJ.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261126/MYH20261127005136WYH.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "임혜준",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261126203253EHJ#comments",
-          "content": "■'AI 커닝' 세무사 수석합격자 구속영장 신청■ AI를 활용해 세무사 시험에서 부정행위를 저지른 수석 합격자에 대해 경찰이 구속영장을 신청했습니다. 국가시험의 공정성을 훼손한 사안의 중대성과 증거인멸 우려 등이 고려됐습니다. ■'리트 만점자' 강제수사…공범 여부 추적■ 리트 만점자 故 이진우 씨의 시험 부정행위 의혹과 관련해 경찰이 이 씨의 생전 주거지 등을 압수수색했습니다. 이 씨가 사망한 가운데 경찰은 성명불상의 공범을 피의자로 적시...",
-          "contentSnippet": "■'AI 커닝' 세무사 수석합격자 구속영장 신청■ AI를 활용해 세무사 시험에서 부정행위를 저지른 수석 합격자에 대해 경찰이 구속영장을 신청했습니다. 국가시험의 공정성을 훼손한 사안의 중대성과 증거인멸 우려 등이 고려됐습니다. ■'리트 만점자' 강제수사…공범 여부 추적■ 리트 만점자 故 이진우 씨의 시험 부정행위 의혹과 관련해 경찰이 이 씨의 생전 주거지 등을 압수수색했습니다. 이 씨가 사망한 가운데 경찰은 성명불상의 공범을 피의자로 적시...",
-          "guid": "MYH20261126203253EHJ",
+          "dc:creator": "정주희",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261127005136WYH#comments",
+          "content": "[앵커] 더불어민주당 윤리심판원이 오늘(27일) 최민희 최고위원에 대한 징계를 결정할 전망입니다. 친정청래계로 분류되는 최 최고위원은 김민석 대표의 '신천지 의혹' 제기를 강하게 비판해 왔는데요. 징계 수위에 따라 계파 갈등이 전면전으로 치달을 수 있다는 관측에 당내 긴장감이 고조되고 있습니다. 정주희 기자입니다. [기자] 사진·영상 기자들을 '하이에나 떼'에 빗대며 논란에 휩싸였던 더불어민주당 최민희 최고위원. &lt;최민희 / 더불어민...",
+          "contentSnippet": "[앵커] 더불어민주당 윤리심판원이 오늘(27일) 최민희 최고위원에 대한 징계를 결정할 전망입니다. 친정청래계로 분류되는 최 최고위원은 김민석 대표의 '신천지 의혹' 제기를 강하게 비판해 왔는데요. 징계 수위에 따라 계파 갈등이 전면전으로 치달을 수 있다는 관측에 당내 긴장감이 고조되고 있습니다. 정주희 기자입니다. [기자] 사진·영상 기자들을 '하이에나 떼'에 빗대며 논란에 휩싸였던 더불어민주당 최민희 최고위원. <최민희 / 더불어민...",
+          "guid": "MYH20261127005136WYH",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-26T11:32:54.000Z"
+          "isoDate": "2026-11-26T15:51:36.000Z"
         },
         {
-          "creator": "노수미",
-          "title": "[날씨] 내일 기온 껑충 '낮 최고 22도'…중부 곳곳 비 조금",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261126203205m6y",
-          "pubDate": "Thu, 26 Nov 2026 20:32:06 +0900",
-          "content:encoded": "오늘 초겨울 추위는 사라지고 포근한 늦가을 날씨가 나타났습니다.\n\n서울의 낮 기온 15.1도까지 올라서, 어제보다 7도가량 높았는데요.\n\n내일은 오늘보다 기온이 더 오릅니다.\n\n일부 남부지방은 20도에 육박해 따뜻하겠습니다.\n\n내일 중부지방을 중심으로 비가 조금 내리겠는데요.\n\n양은 1mm 안팎으로 적겠고요.\n\n밤에는 전북과 경북 북부에도 비가 내리는 곳이 있겠습니다.\n\n주말인 토요일에는 충청 이남을 중심으로 비나 눈이 내리겠는데요.\n\n비의 양은 5mm 안팎으로 많지 않겠습니다.\n\n다만, 전북 동부에는 최대 3cm, 제주 산지에는 최대 5cm의 눈이 내려 쌓이겠습니다.\n\n내일까지는 포근하겠지만, 주말에 눈비가 내리며 기온이 점차 내려가겠고요.\n\n휴일에는 서울 아침 기온이 다시 영하권으로 내려가며, 반짝 추위가 찾아오겠습니다.\n\n한편, 내일까지 중부지방에는 바람이 강하게 불겠습니다.\n\n강원 산지와 동해안에는 건조특보가 발효 중인데요.\n\n화재 사고 나지 않도록 주의하셔야겠습니다.\n\n내일 기온도 보시면, 아침에 서울 9도로 출발하겠고, 한낮에는 서울 16도, 청주 19도까지 오르겠습니다.\n\n남부지방은 아침 기온 전주 10도,  낮 기온은 대구 20도, 제주는 22도까지 오르겠습니다.\n\n월요일 낮부터는 다시 15도 안팎 포근한 날씨가 찾아올 전망입니다.\n\n날씨 전해드렸습니다.\n\n(전세영 기상캐스터)\n\n#날씨 #한파 #풍랑 #추위 #눈 #강풍 #비 #주말날씨 #가을 #초겨울\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
-          "content:encodedSnippet": "오늘 초겨울 추위는 사라지고 포근한 늦가을 날씨가 나타났습니다.\n\n서울의 낮 기온 15.1도까지 올라서, 어제보다 7도가량 높았는데요.\n\n내일은 오늘보다 기온이 더 오릅니다.\n\n일부 남부지방은 20도에 육박해 따뜻하겠습니다.\n\n내일 중부지방을 중심으로 비가 조금 내리겠는데요.\n\n양은 1mm 안팎으로 적겠고요.\n\n밤에는 전북과 경북 북부에도 비가 내리는 곳이 있겠습니다.\n\n주말인 토요일에는 충청 이남을 중심으로 비나 눈이 내리겠는데요.\n\n비의 양은 5mm 안팎으로 많지 않겠습니다.\n\n다만, 전북 동부에는 최대 3cm, 제주 산지에는 최대 5cm의 눈이 내려 쌓이겠습니다.\n\n내일까지는 포근하겠지만, 주말에 눈비가 내리며 기온이 점차 내려가겠고요.\n\n휴일에는 서울 아침 기온이 다시 영하권으로 내려가며, 반짝 추위가 찾아오겠습니다.\n\n한편, 내일까지 중부지방에는 바람이 강하게 불겠습니다.\n\n강원 산지와 동해안에는 건조특보가 발효 중인데요.\n\n화재 사고 나지 않도록 주의하셔야겠습니다.\n\n내일 기온도 보시면, 아침에 서울 9도로 출발하겠고, 한낮에는 서울 16도, 청주 19도까지 오르겠습니다.\n\n남부지방은 아침 기온 전주 10도,  낮 기온은 대구 20도, 제주는 22도까지 오르겠습니다.\n\n월요일 낮부터는 다시 15도 안팎 포근한 날씨가 찾아올 전망입니다.\n\n날씨 전해드렸습니다.\n\n(전세영 기상캐스터)\n\n#날씨 #한파 #풍랑 #추위 #눈 #강풍 #비 #주말날씨 #가을 #초겨울\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n노수미(luxiumei88@yna.co.kr)",
+          "creator": "윤형섭",
+          "title": "경찰, 세무냥이 구속영장 신청…\"사회 파급력 커\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261127005001p1i",
+          "pubDate": "Fri, 27 Nov 2026 00:50:02 +0900",
+          "content:encoded": "[앵커]\n\nAI를 이용해 세무사 시험에서 부정행위를 저지른 뒤 자백한 한 모 씨에 대해 경찰이 구속영장을 신청했습니다.\n\n경찰은 사회적 파급력이 크고, 한 씨가 증거인멸·도주 우려가 있다고 보고 구속 필요성이 있다고 판단했습니다.\n\n윤형섭 기자입니다.\n\n[기자]\n\n세무사 시험에서 AI를 이용해 부정행위를 저지른 뒤 자수한 한 모 씨에 대해 경찰이 구속영장을 신청했습니다.\n\n위계에 의한 공무집행방해 등 혐의입니다.\n\n지난 17일 한 씨에 대한 첫 소환조사가 이뤄진 지 9일 만입니다.\n\n&lt;한 모 씨 / 세무사 시험 부정행위 피의자 (지난 17일)&gt; \"시험을 준비해 오신 수험생분들과 관계자 분들께 진심으로 죄송합니다. 제가 한 일을 숨기지 않고 수사 기관에 사실대로 말씀드리겠습니다.\"\n\n한 씨는 세무사 시험에서 부정행위를 시인하고 지난 15일 서울경찰청에 자수서를 냈지만, 경찰은 한 씨가 자수했더라도 구속수사가 필요하다고 봤습니다.\n\n국가시험의 공정성을 훼손해 사회적 파급력이 매우 크고, 사안이 중대하다고 판단한 겁니다.\n\n경찰은 또 증거인멸을 시도할 가능성이 있고 도주 우려도 배제하기 어렵다는 점도 고려했는데, 한 씨는 자수 당시 범행에 사용한 장비를 제출했지만 장비 일부는 이미 파손된 상태였습니다.\n\n특히 자수했다는 이유로 선처할 경우 모방범죄가 확산할 수 있다는 우려도 작용한 걸로 전해졌습니다.\n\n한 씨는 63회 세무사 시험에서 초소형 카메라와 AI 등을 이용해 부정행위를 저지른 혐의를 받으며, 세무사 시험에 합격한 뒤에도 범행 도구를 보관하고 다른 시험을 준비한 정황도 포착됐습니다.\n\n경찰은 전자기기 포렌식 등을 통해 범행 방식과 공범 여부 등에 대한 수사를 이어가고 있습니다.\n\n연합뉴스TV 윤형섭입니다.\n\n[영상편집 박상규]\n\n#인공지능 #구속영장 #경찰 #부정행위 #세무냥이 #세무사시험 #사전구속\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤형섭(yhs931@yna.co.kr)",
+          "content:encodedSnippet": "[앵커]\n\nAI를 이용해 세무사 시험에서 부정행위를 저지른 뒤 자백한 한 모 씨에 대해 경찰이 구속영장을 신청했습니다.\n\n경찰은 사회적 파급력이 크고, 한 씨가 증거인멸·도주 우려가 있다고 보고 구속 필요성이 있다고 판단했습니다.\n\n윤형섭 기자입니다.\n\n[기자]\n\n세무사 시험에서 AI를 이용해 부정행위를 저지른 뒤 자수한 한 모 씨에 대해 경찰이 구속영장을 신청했습니다.\n\n위계에 의한 공무집행방해 등 혐의입니다.\n\n지난 17일 한 씨에 대한 첫 소환조사가 이뤄진 지 9일 만입니다.\n\n<한 모 씨 / 세무사 시험 부정행위 피의자 (지난 17일)> \"시험을 준비해 오신 수험생분들과 관계자 분들께 진심으로 죄송합니다. 제가 한 일을 숨기지 않고 수사 기관에 사실대로 말씀드리겠습니다.\"\n\n한 씨는 세무사 시험에서 부정행위를 시인하고 지난 15일 서울경찰청에 자수서를 냈지만, 경찰은 한 씨가 자수했더라도 구속수사가 필요하다고 봤습니다.\n\n국가시험의 공정성을 훼손해 사회적 파급력이 매우 크고, 사안이 중대하다고 판단한 겁니다.\n\n경찰은 또 증거인멸을 시도할 가능성이 있고 도주 우려도 배제하기 어렵다는 점도 고려했는데, 한 씨는 자수 당시 범행에 사용한 장비를 제출했지만 장비 일부는 이미 파손된 상태였습니다.\n\n특히 자수했다는 이유로 선처할 경우 모방범죄가 확산할 수 있다는 우려도 작용한 걸로 전해졌습니다.\n\n한 씨는 63회 세무사 시험에서 초소형 카메라와 AI 등을 이용해 부정행위를 저지른 혐의를 받으며, 세무사 시험에 합격한 뒤에도 범행 도구를 보관하고 다른 시험을 준비한 정황도 포착됐습니다.\n\n경찰은 전자기기 포렌식 등을 통해 범행 방식과 공범 여부 등에 대한 수사를 이어가고 있습니다.\n\n연합뉴스TV 윤형섭입니다.\n\n[영상편집 박상규]\n\n#인공지능 #구속영장 #경찰 #부정행위 #세무냥이 #세무사시험 #사전구속\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤형섭(yhs931@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261126/MYH20261126203205m6y.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261126/MYH20261127005001p1i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "노수미",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261126203205m6y#comments",
-          "content": "오늘 초겨울 추위는 사라지고 포근한 늦가을 날씨가 나타났습니다. 서울의 낮 기온 15.1도까지 올라서, 어제보다 7도가량 높았는데요. 내일은 오늘보다 기온이 더 오릅니다. 일부 남부지방은 20도에 육박해 따뜻하겠습니다. 내일 중부지방을 중심으로 비가 조금 내리겠는데요. 양은 1mm 안팎으로 적겠고요. 밤에는 전북과 경북 북부에도 비가 내리는 곳이 있겠습니다. 주말인 토요일에는 충청 이남을 중심으로 비나 눈이 내리겠는데요. 비의 양은 5mm...",
-          "contentSnippet": "오늘 초겨울 추위는 사라지고 포근한 늦가을 날씨가 나타났습니다. 서울의 낮 기온 15.1도까지 올라서, 어제보다 7도가량 높았는데요. 내일은 오늘보다 기온이 더 오릅니다. 일부 남부지방은 20도에 육박해 따뜻하겠습니다. 내일 중부지방을 중심으로 비가 조금 내리겠는데요. 양은 1mm 안팎으로 적겠고요. 밤에는 전북과 경북 북부에도 비가 내리는 곳이 있겠습니다. 주말인 토요일에는 충청 이남을 중심으로 비나 눈이 내리겠는데요. 비의 양은 5mm...",
-          "guid": "MYH20261126203205m6y",
+          "dc:creator": "윤형섭",
+          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261127005001p1i#comments",
+          "content": "[앵커] AI를 이용해 세무사 시험에서 부정행위를 저지른 뒤 자백한 한 모 씨에 대해 경찰이 구속영장을 신청했습니다. 경찰은 사회적 파급력이 크고, 한 씨가 증거인멸·도주 우려가 있다고 보고 구속 필요성이 있다고 판단했습니다. 윤형섭 기자입니다. [기자] 세무사 시험에서 AI를 이용해 부정행위를 저지른 뒤 자수한 한 모 씨에 대해 경찰이 구속영장을 신청했습니다. 위계에 의한 공무집행방해 등 혐의입니다. 지난 17일 한 씨에 대한 첫 소환조...",
+          "contentSnippet": "[앵커] AI를 이용해 세무사 시험에서 부정행위를 저지른 뒤 자백한 한 모 씨에 대해 경찰이 구속영장을 신청했습니다. 경찰은 사회적 파급력이 크고, 한 씨가 증거인멸·도주 우려가 있다고 보고 구속 필요성이 있다고 판단했습니다. 윤형섭 기자입니다. [기자] 세무사 시험에서 AI를 이용해 부정행위를 저지른 뒤 자수한 한 모 씨에 대해 경찰이 구속영장을 신청했습니다. 위계에 의한 공무집행방해 등 혐의입니다. 지난 17일 한 씨에 대한 첫 소환조...",
+          "guid": "MYH20261127005001p1i",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-26T11:32:06.000Z"
+          "isoDate": "2026-11-26T15:50:02.000Z"
         },
         {
-          "creator": "김민아",
-          "title": "이 대통령 \"7대 SEED 프로젝트 속도 내야\"",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261126203109ghp",
-          "pubDate": "Thu, 26 Nov 2026 20:31:10 +0900",
-          "content:encoded": "이재명 대통령이 \"7대 SEED(시드) 프로젝트는 좀 더 속도를 내야 한다\"고 밝혔습니다.\n\n이 대통령은 오늘(26일) 청와대에서 수석보좌관회의를 열고 \"오늘의 한 걸음 차이는 훗날 100걸음, 또 1,000걸음의 격차로 벌어질 수 있다\"며 이같이 말했습니다.\n\n'7대 시드 프로젝트'는 미래 성장 동력 확보를 위해 정부가 추진 중인 청정에너지, 첨단 공급망, 첨단기술 육성 계획입니다.\n\n이 대통령은 또 연말을 맞아 국민이 체감할 수 있는 국정 성과를 주문했습니다.\n\n이 대통령은 \"행정 편의주의나 부처 간 칸막이 때문에 과제 이행이 지체되고 있는 건 아닌지 철저하게 살펴봐야 한다\"고 당부했습니다.\n\n#청와대 #이재명대통령 #수석보좌관회의 #7대SEED프로젝트 #국정성과\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김민아(goldmina@yna.co.kr)",
-          "content:encodedSnippet": "이재명 대통령이 \"7대 SEED(시드) 프로젝트는 좀 더 속도를 내야 한다\"고 밝혔습니다.\n\n이 대통령은 오늘(26일) 청와대에서 수석보좌관회의를 열고 \"오늘의 한 걸음 차이는 훗날 100걸음, 또 1,000걸음의 격차로 벌어질 수 있다\"며 이같이 말했습니다.\n\n'7대 시드 프로젝트'는 미래 성장 동력 확보를 위해 정부가 추진 중인 청정에너지, 첨단 공급망, 첨단기술 육성 계획입니다.\n\n이 대통령은 또 연말을 맞아 국민이 체감할 수 있는 국정 성과를 주문했습니다.\n\n이 대통령은 \"행정 편의주의나 부처 간 칸막이 때문에 과제 이행이 지체되고 있는 건 아닌지 철저하게 살펴봐야 한다\"고 당부했습니다.\n\n#청와대 #이재명대통령 #수석보좌관회의 #7대SEED프로젝트 #국정성과\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김민아(goldmina@yna.co.kr)",
+          "creator": "윤형섭",
+          "title": "ESS 3차 중앙계약시장 우선협상대상자 선정…14곳 구축",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261127003633axY",
+          "pubDate": "Fri, 27 Nov 2026 00:36:34 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261126/AKR20261127003633axY_01_i.jpg\" alt=\"\"><span class=\"yna_title\">SK온의 에너지저장장치(ESS) 통합 솔루션 '그리드온'</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n기후에너지환경부와 전력거래소가 제3차 에너지저장장치(ESS) 중앙계약시장 우선협상 대상자를 선정했다고 26일 밝혔습니다.\n\n이번 3차 중앙계약시장엔 60여개 업체가 도전한 것으로 알려졌는데, 선정된 사업자가 어느 곳인지는 공개되지 않았습니다.\n\n정부는 전력수급기본계획(전기본)에 따른 ESS 도입 목표를 달성하기 위해 이번까지 3차례 중앙계약시장을 열고 ESS 발전사업자를 선정해왔습니다.\n\n현행 11차 전기본에 따라 단기에 필요한 물량은 그간 세 번의 중앙계약시장으로 어느 정도 충족될 것으로 보입니다.\n\n3차 중앙계약시장 입찰 공고 물량은 육지 1,100MW(메가와트), 제주 80MW 등 총 1,180MW로, 배터리 저장 용량으로 환산하면 약 7.08GWh(기가와트시)입니다.\n\n이번에 우선협상 대상자가 선정된 물량은 전남 6곳, 전북 5곳, 충남 1곳, 제주 2곳 등 총 14개소의 1,194MW로 공고 물량보다 약간 많은데, 공고 물량의 105%까지 낙찰할 수 있다고 기후부는 설명했습니다.\n\n3차 중앙계약시장은 1차와 2차를 합친 것보다 물량이 많고, 이른바 '배터리 3사' 가운데 LG에너지솔루션이 기존에 확보된 물량을 공급하는 데 집중하겠다면서 불참을 선언해 주목됐습니다.\n\n각각 삼성SDI와 SK온이 물량의 절반 이상을 가져간 1차와 2차 때는 가격이 결정 요소가 되면서 발전사업자들과 배터리업체들이 '제살깎아먹기 저가 출혈 경쟁'을 벌였다는 평가가 많았습니다.\n\n물량이 최종 확정되는 것은 다음달 4일 이후로, 사업자들은 내년 8월까지 발전사업 허가를 취득하고 2029년 2월까지 설비를 구축해야 합니다.\n\n기후부는 4차 중앙계약시장을 내년 상반기 개설할 계획입니다.\n\n#ESS #에너지 #기후부\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤형섭(yhs931@yna.co.kr)",
+          "content:encodedSnippet": "SK온의 에너지저장장치(ESS) 통합 솔루션 '그리드온'[연합뉴스 제공][연합뉴스 제공]\n기후에너지환경부와 전력거래소가 제3차 에너지저장장치(ESS) 중앙계약시장 우선협상 대상자를 선정했다고 26일 밝혔습니다.\n\n이번 3차 중앙계약시장엔 60여개 업체가 도전한 것으로 알려졌는데, 선정된 사업자가 어느 곳인지는 공개되지 않았습니다.\n\n정부는 전력수급기본계획(전기본)에 따른 ESS 도입 목표를 달성하기 위해 이번까지 3차례 중앙계약시장을 열고 ESS 발전사업자를 선정해왔습니다.\n\n현행 11차 전기본에 따라 단기에 필요한 물량은 그간 세 번의 중앙계약시장으로 어느 정도 충족될 것으로 보입니다.\n\n3차 중앙계약시장 입찰 공고 물량은 육지 1,100MW(메가와트), 제주 80MW 등 총 1,180MW로, 배터리 저장 용량으로 환산하면 약 7.08GWh(기가와트시)입니다.\n\n이번에 우선협상 대상자가 선정된 물량은 전남 6곳, 전북 5곳, 충남 1곳, 제주 2곳 등 총 14개소의 1,194MW로 공고 물량보다 약간 많은데, 공고 물량의 105%까지 낙찰할 수 있다고 기후부는 설명했습니다.\n\n3차 중앙계약시장은 1차와 2차를 합친 것보다 물량이 많고, 이른바 '배터리 3사' 가운데 LG에너지솔루션이 기존에 확보된 물량을 공급하는 데 집중하겠다면서 불참을 선언해 주목됐습니다.\n\n각각 삼성SDI와 SK온이 물량의 절반 이상을 가져간 1차와 2차 때는 가격이 결정 요소가 되면서 발전사업자들과 배터리업체들이 '제살깎아먹기 저가 출혈 경쟁'을 벌였다는 평가가 많았습니다.\n\n물량이 최종 확정되는 것은 다음달 4일 이후로, 사업자들은 내년 8월까지 발전사업 허가를 취득하고 2029년 2월까지 설비를 구축해야 합니다.\n\n기후부는 4차 중앙계약시장을 내년 상반기 개설할 계획입니다.\n\n#ESS #에너지 #기후부\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤형섭(yhs931@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261126/MYH20261126203109ghp.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261126/AKR20261127003633axY_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "김민아",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261126203109ghp#comments",
-          "content": "이재명 대통령이 \"7대 SEED(시드) 프로젝트는 좀 더 속도를 내야 한다\"고 밝혔습니다. 이 대통령은 오늘(26일) 청와대에서 수석보좌관회의를 열고 \"오늘의 한 걸음 차이는 훗날 100걸음, 또 1,000걸음의 격차로 벌어질 수 있다\"며 이같이 말했습니다. '7대 시드 프로젝트'는 미래 성장 동력 확보를 위해 정부가 추진 중인 청정에너지, 첨단 공급망, 첨단기술 육성 계획입니다. 이 대통령은 또 연말을 맞아 국민이 체감할 수 있는 국정 ...",
-          "contentSnippet": "이재명 대통령이 \"7대 SEED(시드) 프로젝트는 좀 더 속도를 내야 한다\"고 밝혔습니다. 이 대통령은 오늘(26일) 청와대에서 수석보좌관회의를 열고 \"오늘의 한 걸음 차이는 훗날 100걸음, 또 1,000걸음의 격차로 벌어질 수 있다\"며 이같이 말했습니다. '7대 시드 프로젝트'는 미래 성장 동력 확보를 위해 정부가 추진 중인 청정에너지, 첨단 공급망, 첨단기술 육성 계획입니다. 이 대통령은 또 연말을 맞아 국민이 체감할 수 있는 국정 ...",
-          "guid": "MYH20261126203109ghp",
+          "dc:creator": "윤형섭",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261127003633axY#comments",
+          "content": "SK온의 에너지저장장치(ESS) 통합 솔루션 '그리드온'[연합뉴스 제공][연합뉴스 제공] 기후에너지환경부와 전력거래소가 제3차 에너지저장장치(ESS) 중앙계약시장 우선협상 대상자를 선정했다고 26일 밝혔습니다. 이번 3차 중앙계약시장엔 60여개 업체가 도전한 것으로 알려졌는데, 선정된 사업자가 어느 곳인지는 공개되지 않았습니다. 정부는 전력수급기본계획(전기본)에 따른 ESS 도입 목표를 달성하기 위해 이번까지 3차례 중앙계약시장을 열고 E...",
+          "contentSnippet": "SK온의 에너지저장장치(ESS) 통합 솔루션 '그리드온'[연합뉴스 제공][연합뉴스 제공] 기후에너지환경부와 전력거래소가 제3차 에너지저장장치(ESS) 중앙계약시장 우선협상 대상자를 선정했다고 26일 밝혔습니다. 이번 3차 중앙계약시장엔 60여개 업체가 도전한 것으로 알려졌는데, 선정된 사업자가 어느 곳인지는 공개되지 않았습니다. 정부는 전력수급기본계획(전기본)에 따른 ESS 도입 목표를 달성하기 위해 이번까지 3차례 중앙계약시장을 열고 E...",
+          "guid": "AKR20261127003633axY",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-26T11:31:10.000Z"
+          "isoDate": "2026-11-26T15:36:34.000Z"
         },
         {
-          "creator": "박진형",
-          "title": "[뉴스프라임] 조희대 탄핵 공방 지속…강금실 청문회 격돌 예고",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261126202213mKi",
-          "pubDate": "Thu, 26 Nov 2026 20:22:15 +0900",
-          "content:encoded": "&lt;출연 : 김진욱 전 더불어민주당 대변인 · 권신일 대진대 초빙교수&gt;\n\n조희대 대법원장 탄핵을 둘러싼 여야 공방이 이어지고 있습니다.\n\n한편, 개각 후보자들의 인사청문회 준비가 본격화한 가운데 야당은 강금실 국정원장 후보자에 대한 낙마 공세를 이어갔는데요.\n\n김진욱 전 더불어민주당 대변인, 권신일 대진대 초빙교수와 살펴보겠습니다.\n\n&lt;질문 1&gt; 조희대 대법원장 탄핵을 둘러싼 여야 대립이 이어지고 있고, 민주당은 범여권으로 공동전선을 넓히고 있습니다. 김민석 대표는 12·3 비상계엄 국면에 함께 대응했던 정당들과 연대하겠다는 뜻을 재차 강조했습니다. 국민의힘은 조 대법원장에 대한 각 탄핵 사유가 성립이 안되는데, 이를 긁어모은다고 탄핵 사유가 되느냐는 입장인데요?\n\n&lt;질문 2&gt; 민주당이 조 대법원장 탄핵 추진에 속도를 내는 가운데, 민주당 중진 정성호 의원이 “당론으로 결정됐으니까 따라가겠지만 그 책임, 최종적 후과에 대한 책임은 여당이 져야 한다”고 말했습니다. 그러면서 \"탄핵 이후까지도 염두에 두면서 국민들을 충분히 설득하고 명분을 더 쌓아야 한다\"고 덧붙였는데요. 민주당에서 나온 신중한 입장은 어떻게 들으셨습니까?\n\n&lt;질문 3&gt; '조작 기소 특검법'에 따라 특검을 지휘할 후보자 추천 절차가 마무리됐습니다. 민주당은 이임성 변호사를, 조국혁신당은 이정훈 변호사를 추천했습니다. 국민의힘은 '공소취소라는 결론을 정해놓은 사기도박판'에 들어갈 이유가 없다' 후보자 추천을 끝내 거부했는데요. 각 당의 선택, 어떻게 평가하세요?\n\n&lt;질문 4&gt; 이재명 대통령은 추천된 이임성, 이정훈 두 후보 가운데 한 명을 사흘 이내에 특별검사로 임명해야 하는데요. 수사의 중립성 논란을 의식해 임명권을 행사하지 않을 수도 있을까요? 이 경우 두 후보자 중 연장자인 이임성 변호사가 특검을 진두지휘하게 되는 거죠?\n\n&lt;질문 5&gt; 이재명 대통령이 강금실 국정원장 후보를 포함해 개각 후보들에 대한 청문요구서를 재가했습니다. 국민의힘은 강금실 후보자의 중국 지방정부 고문 이력과 사드 배치 반대, 국가보안법 폐지 관련 과거 입장 등을 문제 삼고 있습니다. 하지만 민주당은 시대착오적인 색깔론이라며 국정원의 정치적 중립성과 민주적 통제를 강화할 적임자라고 맞서고 있는데요. 과연 최초의 여성 법무부 장관으로 발탁된 데 이어, 최초의 여성 국정원장이 될 수 있을까요?\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박진형(jin@yna.co.kr)",
-          "content:encodedSnippet": "<출연 : 김진욱 전 더불어민주당 대변인 · 권신일 대진대 초빙교수>\n\n조희대 대법원장 탄핵을 둘러싼 여야 공방이 이어지고 있습니다.\n\n한편, 개각 후보자들의 인사청문회 준비가 본격화한 가운데 야당은 강금실 국정원장 후보자에 대한 낙마 공세를 이어갔는데요.\n\n김진욱 전 더불어민주당 대변인, 권신일 대진대 초빙교수와 살펴보겠습니다.\n\n<질문 1> 조희대 대법원장 탄핵을 둘러싼 여야 대립이 이어지고 있고, 민주당은 범여권으로 공동전선을 넓히고 있습니다. 김민석 대표는 12·3 비상계엄 국면에 함께 대응했던 정당들과 연대하겠다는 뜻을 재차 강조했습니다. 국민의힘은 조 대법원장에 대한 각 탄핵 사유가 성립이 안되는데, 이를 긁어모은다고 탄핵 사유가 되느냐는 입장인데요?\n\n<질문 2> 민주당이 조 대법원장 탄핵 추진에 속도를 내는 가운데, 민주당 중진 정성호 의원이 “당론으로 결정됐으니까 따라가겠지만 그 책임, 최종적 후과에 대한 책임은 여당이 져야 한다”고 말했습니다. 그러면서 \"탄핵 이후까지도 염두에 두면서 국민들을 충분히 설득하고 명분을 더 쌓아야 한다\"고 덧붙였는데요. 민주당에서 나온 신중한 입장은 어떻게 들으셨습니까?\n\n<질문 3> '조작 기소 특검법'에 따라 특검을 지휘할 후보자 추천 절차가 마무리됐습니다. 민주당은 이임성 변호사를, 조국혁신당은 이정훈 변호사를 추천했습니다. 국민의힘은 '공소취소라는 결론을 정해놓은 사기도박판'에 들어갈 이유가 없다' 후보자 추천을 끝내 거부했는데요. 각 당의 선택, 어떻게 평가하세요?\n\n<질문 4> 이재명 대통령은 추천된 이임성, 이정훈 두 후보 가운데 한 명을 사흘 이내에 특별검사로 임명해야 하는데요. 수사의 중립성 논란을 의식해 임명권을 행사하지 않을 수도 있을까요? 이 경우 두 후보자 중 연장자인 이임성 변호사가 특검을 진두지휘하게 되는 거죠?\n\n<질문 5> 이재명 대통령이 강금실 국정원장 후보를 포함해 개각 후보들에 대한 청문요구서를 재가했습니다. 국민의힘은 강금실 후보자의 중국 지방정부 고문 이력과 사드 배치 반대, 국가보안법 폐지 관련 과거 입장 등을 문제 삼고 있습니다. 하지만 민주당은 시대착오적인 색깔론이라며 국정원의 정치적 중립성과 민주적 통제를 강화할 적임자라고 맞서고 있는데요. 과연 최초의 여성 법무부 장관으로 발탁된 데 이어, 최초의 여성 국정원장이 될 수 있을까요?\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박진형(jin@yna.co.kr)",
+          "creator": "윤형섭",
+          "title": "ECB 차기 총재에 '비둘기파' 스페인 데코스 낙점",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261127001702cac",
+          "pubDate": "Fri, 27 Nov 2026 00:17:03 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261126/AKR20261127001702cac_01_i.jpg\" alt=\"\"><span class=\"yna_title\">파블로 에르난데스 데코스</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n스페인 출신인 파블로 에르난데스 데코스 국제결제은행(BIS) 사무총장이 차기 유럽중앙은행(ECB) 총재로 사실상 결정됐다고 영국 일간 파이낸셜타임스가 현지시간 26일 보도했습니다.\n\n유럽 정상들의 ECB 총재 선임 논의를 잘 안다는 소식통들은 유로존(유로화 사용 21개국) 국가 대부분이 데코스를 밀고 있으며 대세가 기울자 네덜란드가 막판에 자국 인사 클라스 크놋에 대한 지지를 철회했다고 전했습니다.\n\n롭 예턴 네덜란드 총리는 이날 다른 회원국 정상들에게 \"합의를 지지할 것\"이라고 말했다고 전해졌습니다.\n\n유럽 정상들은 이르면 이날 데코스를 차기 ECB 총재로 선정하는 데 합의하고 내달 EU 정상회의에서 최종 확정할 것으로 전망됩니다.\n\n#유럽연합 #은행 #총재 #기준금리 #경제 #금리\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤형섭(yhs931@yna.co.kr)",
+          "content:encodedSnippet": "파블로 에르난데스 데코스[연합뉴스 제공][연합뉴스 제공]\n스페인 출신인 파블로 에르난데스 데코스 국제결제은행(BIS) 사무총장이 차기 유럽중앙은행(ECB) 총재로 사실상 결정됐다고 영국 일간 파이낸셜타임스가 현지시간 26일 보도했습니다.\n\n유럽 정상들의 ECB 총재 선임 논의를 잘 안다는 소식통들은 유로존(유로화 사용 21개국) 국가 대부분이 데코스를 밀고 있으며 대세가 기울자 네덜란드가 막판에 자국 인사 클라스 크놋에 대한 지지를 철회했다고 전했습니다.\n\n롭 예턴 네덜란드 총리는 이날 다른 회원국 정상들에게 \"합의를 지지할 것\"이라고 말했다고 전해졌습니다.\n\n유럽 정상들은 이르면 이날 데코스를 차기 ECB 총재로 선정하는 데 합의하고 내달 EU 정상회의에서 최종 확정할 것으로 전망됩니다.\n\n#유럽연합 #은행 #총재 #기준금리 #경제 #금리\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤형섭(yhs931@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261126/MYH20261126202213mKi.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261126/AKR20261127001702cac_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "박진형",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261126202213mKi#comments",
-          "content": "&lt;출연 : 김진욱 전 더불어민주당 대변인 · 권신일 대진대 초빙교수&gt; 조희대 대법원장 탄핵을 둘러싼 여야 공방이 이어지고 있습니다. 한편, 개각 후보자들의 인사청문회 준비가 본격화한 가운데 야당은 강금실 국정원장 후보자에 대한 낙마 공세를 이어갔는데요. 김진욱 전 더불어민주당 대변인, 권신일 대진대 초빙교수와 살펴보겠습니다. &lt;질문 1&gt; 조희대 대법원장 탄핵을 둘러싼 여야 대립이 이어지고 있고, 민주당은 범여권으로 공...",
-          "contentSnippet": "<출연 : 김진욱 전 더불어민주당 대변인 · 권신일 대진대 초빙교수> 조희대 대법원장 탄핵을 둘러싼 여야 공방이 이어지고 있습니다. 한편, 개각 후보자들의 인사청문회 준비가 본격화한 가운데 야당은 강금실 국정원장 후보자에 대한 낙마 공세를 이어갔는데요. 김진욱 전 더불어민주당 대변인, 권신일 대진대 초빙교수와 살펴보겠습니다. <질문 1> 조희대 대법원장 탄핵을 둘러싼 여야 대립이 이어지고 있고, 민주당은 범여권으로 공...",
-          "guid": "MYH20261126202213mKi",
+          "dc:creator": "윤형섭",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261127001702cac#comments",
+          "content": "파블로 에르난데스 데코스[연합뉴스 제공][연합뉴스 제공] 스페인 출신인 파블로 에르난데스 데코스 국제결제은행(BIS) 사무총장이 차기 유럽중앙은행(ECB) 총재로 사실상 결정됐다고 영국 일간 파이낸셜타임스가 현지시간 26일 보도했습니다. 유럽 정상들의 ECB 총재 선임 논의를 잘 안다는 소식통들은 유로존(유로화 사용 21개국) 국가 대부분이 데코스를 밀고 있으며 대세가 기울자 네덜란드가 막판에 자국 인사 클라스 크놋에 대한 지지를 철회했다...",
+          "contentSnippet": "파블로 에르난데스 데코스[연합뉴스 제공][연합뉴스 제공] 스페인 출신인 파블로 에르난데스 데코스 국제결제은행(BIS) 사무총장이 차기 유럽중앙은행(ECB) 총재로 사실상 결정됐다고 영국 일간 파이낸셜타임스가 현지시간 26일 보도했습니다. 유럽 정상들의 ECB 총재 선임 논의를 잘 안다는 소식통들은 유로존(유로화 사용 21개국) 국가 대부분이 데코스를 밀고 있으며 대세가 기울자 네덜란드가 막판에 자국 인사 클라스 크놋에 대한 지지를 철회했다...",
+          "guid": "AKR20261127001702cac",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-26T11:22:15.000Z"
+          "isoDate": "2026-11-26T15:17:03.000Z"
         },
         {
-          "creator": "박진형",
-          "title": "[앵커리포트] 수능만점자 인터뷰는 옛말…신원 공개 모두 거부",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261126201837GfS",
-          "pubDate": "Thu, 26 Nov 2026 20:18:38 +0900",
-          "content:encoded": "\"국·영·수 교과서 위주로 공부했다\"거나, 1999학년도 최초 만점자의 \"인기 그룹 H.O.T.를 잘 모른다\"는 일화처럼, 예전엔 수능 만점자 인터뷰는 늘 화제였습니다.\n\n그런데 올해 가채점 만점자가 최소 3명 나왔지만, 모두 신원 공개를 거부하며 모습을 감췄습니다.\n\n축하 대신 부정행위 의심부터 받을까 두려운 씁쓸한 현실.\n\n세무사와 리트 시험을 덮친 AI 부정행위 여파 속에, 이제는 보건의료 국시에서도 의혹이 제기됐습니다.\n\n간호사 국시 일부 과목 만점자가 1년 새 최대 30배 넘게 뛰고, 의사·치과의사 국시에서도 급증한 겁니다.\n\n복지부는 난이도 변화일 뿐 전체 점수 분포엔 이상이 없다는 입장입니다.\n\n하지만 정부의 528개 국가시험 전수조사가 산업인력공단 시험에만 한정되면서, 정작 보건의료 국시는 점검 대상에서 빠졌습니다.\n\n초소형 카메라와 스마트안경까지 동원된 AI 부정행위는 이미 시험장 한복판에 들어와 있는데, 정부 대응은 '소 잃고 외양간 고치기'마저 허술합니다.\n\n정직하게 땀 흘린 수험생이 스스로 결백을 입증해야 하는 현실.\n\n의심의 화살을 수험생에게 돌리기 전에, 빈틈없는 감독 방법부터 세워야 합니다.\n\n지금까지 앵커리포트였습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박진형(jin@yna.co.kr)",
-          "content:encodedSnippet": "\"국·영·수 교과서 위주로 공부했다\"거나, 1999학년도 최초 만점자의 \"인기 그룹 H.O.T.를 잘 모른다\"는 일화처럼, 예전엔 수능 만점자 인터뷰는 늘 화제였습니다.\n\n그런데 올해 가채점 만점자가 최소 3명 나왔지만, 모두 신원 공개를 거부하며 모습을 감췄습니다.\n\n축하 대신 부정행위 의심부터 받을까 두려운 씁쓸한 현실.\n\n세무사와 리트 시험을 덮친 AI 부정행위 여파 속에, 이제는 보건의료 국시에서도 의혹이 제기됐습니다.\n\n간호사 국시 일부 과목 만점자가 1년 새 최대 30배 넘게 뛰고, 의사·치과의사 국시에서도 급증한 겁니다.\n\n복지부는 난이도 변화일 뿐 전체 점수 분포엔 이상이 없다는 입장입니다.\n\n하지만 정부의 528개 국가시험 전수조사가 산업인력공단 시험에만 한정되면서, 정작 보건의료 국시는 점검 대상에서 빠졌습니다.\n\n초소형 카메라와 스마트안경까지 동원된 AI 부정행위는 이미 시험장 한복판에 들어와 있는데, 정부 대응은 '소 잃고 외양간 고치기'마저 허술합니다.\n\n정직하게 땀 흘린 수험생이 스스로 결백을 입증해야 하는 현실.\n\n의심의 화살을 수험생에게 돌리기 전에, 빈틈없는 감독 방법부터 세워야 합니다.\n\n지금까지 앵커리포트였습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박진형(jin@yna.co.kr)",
+          "creator": "윤형섭",
+          "title": "\"이란 드론, 쿠웨이트 공격…이탈리아인 2명 사망\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR20261127001634qVy",
+          "pubDate": "Fri, 27 Nov 2026 00:16:36 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261126/AKR20261127001634qVy_01_i.jpg\" alt=\"\"><span class=\"yna_title\">이란의 드론</span><span class=\"yna_caption\">[연합뉴스 제공]</span><span class=\"yna_description\">[연합뉴스 제공]</span></div>\n쿠웨이트 국방부는 현지시간 26일 이란 드론이 자국 필수시설을 공격해 인명과 재산 피해가 발생했다고 밝혔습니다.\n\n쿠웨이트 국방부는 드론 요격 과정에서 떨어진 파편으로 최소 4명이 다쳤으며 이 중 2명은 병원에서 사망한 것으로 알려졌습니다.\n\n중국 관영 신화통신에 따르면 쿠웨이트 정부가 밝힌 부상자는 쿠웨이트인 1명, 이탈리아인 2명, 파키스탄인 1명으로 모두 병원으로 옮겨졌습니다.\n\n이탈리아 안사 통신은 이 가운데 이탈리아인 2명이 사망했으며, 이들은 독일 방산기업 라인메탈에서 일하는 기술자로 알려졌다고 보도했습니다.\n\n쿠웨이트 국방부는 영공을 침범해 온 이란 드론이 여러 대라고 밝혔으며, 공격받은 필수 시설에 대해선 설명하지 않았습니다.\n\n이란은 지난 18일 쿠웨이트 알리 알살렘 미국 공군기지를 드론으로 공격하는 등 최근 쿠웨이트와 바레인 등 미군이 주둔한 걸프 국가들을 상대로 공격을 재개했습니다.\n\n#이란 #쿠웨이트 #드론 #전쟁 #미국\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤형섭(yhs931@yna.co.kr)",
+          "content:encodedSnippet": "이란의 드론[연합뉴스 제공][연합뉴스 제공]\n쿠웨이트 국방부는 현지시간 26일 이란 드론이 자국 필수시설을 공격해 인명과 재산 피해가 발생했다고 밝혔습니다.\n\n쿠웨이트 국방부는 드론 요격 과정에서 떨어진 파편으로 최소 4명이 다쳤으며 이 중 2명은 병원에서 사망한 것으로 알려졌습니다.\n\n중국 관영 신화통신에 따르면 쿠웨이트 정부가 밝힌 부상자는 쿠웨이트인 1명, 이탈리아인 2명, 파키스탄인 1명으로 모두 병원으로 옮겨졌습니다.\n\n이탈리아 안사 통신은 이 가운데 이탈리아인 2명이 사망했으며, 이들은 독일 방산기업 라인메탈에서 일하는 기술자로 알려졌다고 보도했습니다.\n\n쿠웨이트 국방부는 영공을 침범해 온 이란 드론이 여러 대라고 밝혔으며, 공격받은 필수 시설에 대해선 설명하지 않았습니다.\n\n이란은 지난 18일 쿠웨이트 알리 알살렘 미국 공군기지를 드론으로 공격하는 등 최근 쿠웨이트와 바레인 등 미군이 주둔한 걸프 국가들을 상대로 공격을 재개했습니다.\n\n#이란 #쿠웨이트 #드론 #전쟁 #미국\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤형섭(yhs931@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261126/MYH20261126201837GfS.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261126/AKR20261127001634qVy_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "박진형",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261126201837GfS#comments",
-          "content": "\"국·영·수 교과서 위주로 공부했다\"거나, 1999학년도 최초 만점자의 \"인기 그룹 H.O.T.를 잘 모른다\"는 일화처럼, 예전엔 수능 만점자 인터뷰는 늘 화제였습니다. 그런데 올해 가채점 만점자가 최소 3명 나왔지만, 모두 신원 공개를 거부하며 모습을 감췄습니다. 축하 대신 부정행위 의심부터 받을까 두려운 씁쓸한 현실. 세무사와 리트 시험을 덮친 AI 부정행위 여파 속에, 이제는 보건의료 국시에서도 의혹이 제기됐습니다. 간호사 국시 일부...",
-          "contentSnippet": "\"국·영·수 교과서 위주로 공부했다\"거나, 1999학년도 최초 만점자의 \"인기 그룹 H.O.T.를 잘 모른다\"는 일화처럼, 예전엔 수능 만점자 인터뷰는 늘 화제였습니다. 그런데 올해 가채점 만점자가 최소 3명 나왔지만, 모두 신원 공개를 거부하며 모습을 감췄습니다. 축하 대신 부정행위 의심부터 받을까 두려운 씁쓸한 현실. 세무사와 리트 시험을 덮친 AI 부정행위 여파 속에, 이제는 보건의료 국시에서도 의혹이 제기됐습니다. 간호사 국시 일부...",
-          "guid": "MYH20261126201837GfS",
+          "dc:creator": "윤형섭",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR20261127001634qVy#comments",
+          "content": "이란의 드론[연합뉴스 제공][연합뉴스 제공] 쿠웨이트 국방부는 현지시간 26일 이란 드론이 자국 필수시설을 공격해 인명과 재산 피해가 발생했다고 밝혔습니다. 쿠웨이트 국방부는 드론 요격 과정에서 떨어진 파편으로 최소 4명이 다쳤으며 이 중 2명은 병원에서 사망한 것으로 알려졌습니다. 중국 관영 신화통신에 따르면 쿠웨이트 정부가 밝힌 부상자는 쿠웨이트인 1명, 이탈리아인 2명, 파키스탄인 1명으로 모두 병원으로 옮겨졌습니다. 이탈리아 안사 ...",
+          "contentSnippet": "이란의 드론[연합뉴스 제공][연합뉴스 제공] 쿠웨이트 국방부는 현지시간 26일 이란 드론이 자국 필수시설을 공격해 인명과 재산 피해가 발생했다고 밝혔습니다. 쿠웨이트 국방부는 드론 요격 과정에서 떨어진 파편으로 최소 4명이 다쳤으며 이 중 2명은 병원에서 사망한 것으로 알려졌습니다. 중국 관영 신화통신에 따르면 쿠웨이트 정부가 밝힌 부상자는 쿠웨이트인 1명, 이탈리아인 2명, 파키스탄인 1명으로 모두 병원으로 옮겨졌습니다. 이탈리아 안사 ...",
+          "guid": "AKR20261127001634qVy",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-26T11:18:38.000Z"
+          "isoDate": "2026-11-26T15:16:36.000Z"
         },
         {
-          "creator": "김주영",
-          "title": "올해 종부세 대상 73만명…집값 상승에 19만명↑",
-          "link": "https://www.yonhapnewstv.co.kr/news/MYH20261126201739sos",
-          "pubDate": "Thu, 26 Nov 2026 20:17:40 +0900",
-          "content:encoded": "[앵커]\n\n올해 주택분 종합부동산세 고지 대상자가 73만명으로, 1년 새 19만명 가까이 늘었습니다.\n\n서울을 중심으로 수도권 집값이 급등한 영향인데요.\n\n개인당 주택분 종부세 평균 세액도 200만원에 육박했습니다.\n\n김주영 기자입니다.\n\n[기자]\n\n올해 주택분 종합부동산세 고지 인원은 72만6천명.\n\n작년보다 약 34% 증가했습니다.\n\n고지 세액도 6천억원 늘어난 2조3천억원으로 집계됐는데, 인원과 세액 모두 2022년 이후 4년 만에 최대 규모입니다.\n\n올해 종부세 제도에 큰 변화가 없었던 만큼, 집값 상승에 따른 영향으로 분석됩니다.\n\n실제로 올해 전국 공동주택 공시가격은 약 9%, 서울은 18% 넘게 올랐는데, 서울에서만 종부세 고지 인원이 13만1천명 늘었습니다.\n\n전체 주택분 종부세 고지 인원 10명 중 6명 이상이 서울에 몰려 있고, 수도권으로 범위를 넓히면 86%를 넘어섭니다.\n\n개인 납세자의 1인당 평균 세액도 199만4천원으로 200만원에 육박했습니다.\n\n특히 눈에 띄는 건 1세대 1주택자의 세 부담입니다.\n\n1세대 1주택자 고지 인원은 23만1천명으로 지난해보다 53% 늘었습니다.\n\n고지 세액은 평균 158만6천원으로 1년 새 42% 넘게 증가하며, 집값이 급등했던 2021년 수준마저 넘어섰습니다.\n\n최근 집값 상승세를 고려하면 내년에는 종부세 부담이 더 커질 가능성도 있습니다.\n\n다만 정부는 같은 1주택자라도 자신이 보유한 집에 직접 거주하는 사람에게 세제 혜택을 더 주겠다는 방침입니다.\n\n&lt;이형일 / 부총리 겸 재정경제부 장관(지난 23일)&gt; \"거주용 주택에 대해서는 인센티브가 들어가야 된다, 이 부분에 대해서는 저희가 여전히 동일한 입장을 갖고 있다…\"\n\n올해 고지된 종부세는 다음 달 15일까지 납부해야 합니다.\n\n연합뉴스TV 김주영입니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김주영(ju0@yna.co.kr)",
-          "content:encodedSnippet": "[앵커]\n\n올해 주택분 종합부동산세 고지 대상자가 73만명으로, 1년 새 19만명 가까이 늘었습니다.\n\n서울을 중심으로 수도권 집값이 급등한 영향인데요.\n\n개인당 주택분 종부세 평균 세액도 200만원에 육박했습니다.\n\n김주영 기자입니다.\n\n[기자]\n\n올해 주택분 종합부동산세 고지 인원은 72만6천명.\n\n작년보다 약 34% 증가했습니다.\n\n고지 세액도 6천억원 늘어난 2조3천억원으로 집계됐는데, 인원과 세액 모두 2022년 이후 4년 만에 최대 규모입니다.\n\n올해 종부세 제도에 큰 변화가 없었던 만큼, 집값 상승에 따른 영향으로 분석됩니다.\n\n실제로 올해 전국 공동주택 공시가격은 약 9%, 서울은 18% 넘게 올랐는데, 서울에서만 종부세 고지 인원이 13만1천명 늘었습니다.\n\n전체 주택분 종부세 고지 인원 10명 중 6명 이상이 서울에 몰려 있고, 수도권으로 범위를 넓히면 86%를 넘어섭니다.\n\n개인 납세자의 1인당 평균 세액도 199만4천원으로 200만원에 육박했습니다.\n\n특히 눈에 띄는 건 1세대 1주택자의 세 부담입니다.\n\n1세대 1주택자 고지 인원은 23만1천명으로 지난해보다 53% 늘었습니다.\n\n고지 세액은 평균 158만6천원으로 1년 새 42% 넘게 증가하며, 집값이 급등했던 2021년 수준마저 넘어섰습니다.\n\n최근 집값 상승세를 고려하면 내년에는 종부세 부담이 더 커질 가능성도 있습니다.\n\n다만 정부는 같은 1주택자라도 자신이 보유한 집에 직접 거주하는 사람에게 세제 혜택을 더 주겠다는 방침입니다.\n\n<이형일 / 부총리 겸 재정경제부 장관(지난 23일)> \"거주용 주택에 대해서는 인센티브가 들어가야 된다, 이 부분에 대해서는 저희가 여전히 동일한 입장을 갖고 있다…\"\n\n올해 고지된 종부세는 다음 달 15일까지 납부해야 합니다.\n\n연합뉴스TV 김주영입니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김주영(ju0@yna.co.kr)",
+          "creator": "박준혁",
+          "title": "\"10월 호르무즈 인근 선박 공격 30건 넘어…전쟁 발발 후 최다\"",
+          "link": "https://www.yonhapnewstv.co.kr/news/AKR202611270012461HW",
+          "pubDate": "Fri, 27 Nov 2026 00:12:48 +0900",
+          "content:encoded": "\n<div class=\"ynaobject ynaimage ynatype_01\"><img class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20261126/AKR202611270012461HW_01_i.jpg\" alt=\"\"><span class=\"yna_title\">호르무즈 해협에서 공격을 받아 연기가 피어 오르는 LPG 운반선</span><span class=\"yna_caption\">[AFP 연합뉴스. 재판매 및 DB 금지]</span><span class=\"yna_description\">[AFP 연합뉴스. 재판매 및 DB 금지]</span></div>\n지난달 호르무즈 해협과 인근 페르시아만, 오만만에서 접수된 상선 공격 신고 건수가 30건을 넘어 지난 2월 말 미국과 이스라엘의 이란 공격 이후 월간 기준 가장 많은 것으로 나타났습니다.\n\n현지시간 26일 영국 해사무역기구(UKMTO) 주간 보고서와 미국 CNN 방송 등에 따르면, UKMTO는 지난달 해당 해역에서 30건이 넘는 공격 신고를 접수했습니다.\n\n개전 초인 3월을 제외하고는 그동안 이 지역에서 신고 건수는 매월 10여건 안팎이었으나 30건을 넘은 것은 이번이 처음인데, UKMTO는 일부 선박이 신고를 꺼리는 경향도 있어 실제 피격 건수가 이보다 많을 수 있다고 지적했습니다.\n\nUKMTO는 이날도 아랍에미리트(UAE) 두바이 서쪽 50해리 해상에서 미확인 발사체가 유조선에 가까이 접근해 폭발했다는 선장의 보고를 전했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박준혁(baktoyou@yna.co.kr)",
+          "content:encodedSnippet": "호르무즈 해협에서 공격을 받아 연기가 피어 오르는 LPG 운반선[AFP 연합뉴스. 재판매 및 DB 금지][AFP 연합뉴스. 재판매 및 DB 금지]\n지난달 호르무즈 해협과 인근 페르시아만, 오만만에서 접수된 상선 공격 신고 건수가 30건을 넘어 지난 2월 말 미국과 이스라엘의 이란 공격 이후 월간 기준 가장 많은 것으로 나타났습니다.\n\n현지시간 26일 영국 해사무역기구(UKMTO) 주간 보고서와 미국 CNN 방송 등에 따르면, UKMTO는 지난달 해당 해역에서 30건이 넘는 공격 신고를 접수했습니다.\n\n개전 초인 3월을 제외하고는 그동안 이 지역에서 신고 건수는 매월 10여건 안팎이었으나 30건을 넘은 것은 이번이 처음인데, UKMTO는 일부 선박이 신고를 꺼리는 경향도 있어 실제 피격 건수가 이보다 많을 수 있다고 지적했습니다.\n\nUKMTO는 이날도 아랍에미리트(UAE) 두바이 서쪽 50해리 해상에서 미확인 발사체가 유조선에 가까이 접근해 폭발했다는 선장의 보고를 전했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n박준혁(baktoyou@yna.co.kr)",
           "enclosure": {
-            "url": "https://media.yonhapnewstv.co.kr/article/MYH/20261126/MYH20261126201739sos.jpg",
+            "url": "https://media.yonhapnewstv.co.kr/article/AKR/20261126/AKR202611270012461HW_01_i.jpg",
             "type": "image/jpeg"
           },
-          "dc:creator": "김주영",
-          "comments": "https://www.yonhapnewstv.co.kr/news/MYH20261126201739sos#comments",
-          "content": "[앵커] 올해 주택분 종합부동산세 고지 대상자가 73만명으로, 1년 새 19만명 가까이 늘었습니다. 서울을 중심으로 수도권 집값이 급등한 영향인데요. 개인당 주택분 종부세 평균 세액도 200만원에 육박했습니다. 김주영 기자입니다. [기자] 올해 주택분 종합부동산세 고지 인원은 72만6천명. 작년보다 약 34% 증가했습니다. 고지 세액도 6천억원 늘어난 2조3천억원으로 집계됐는데, 인원과 세액 모두 2022년 이후 4년 만에 최대 규모입니다...",
-          "contentSnippet": "[앵커] 올해 주택분 종합부동산세 고지 대상자가 73만명으로, 1년 새 19만명 가까이 늘었습니다. 서울을 중심으로 수도권 집값이 급등한 영향인데요. 개인당 주택분 종부세 평균 세액도 200만원에 육박했습니다. 김주영 기자입니다. [기자] 올해 주택분 종합부동산세 고지 인원은 72만6천명. 작년보다 약 34% 증가했습니다. 고지 세액도 6천억원 늘어난 2조3천억원으로 집계됐는데, 인원과 세액 모두 2022년 이후 4년 만에 최대 규모입니다...",
-          "guid": "MYH20261126201739sos",
+          "dc:creator": "박준혁",
+          "comments": "https://www.yonhapnewstv.co.kr/news/AKR202611270012461HW#comments",
+          "content": "호르무즈 해협에서 공격을 받아 연기가 피어 오르는 LPG 운반선[AFP 연합뉴스. 재판매 및 DB 금지][AFP 연합뉴스. 재판매 및 DB 금지] 지난달 호르무즈 해협과 인근 페르시아만, 오만만에서 접수된 상선 공격 신고 건수가 30건을 넘어 지난 2월 말 미국과 이스라엘의 이란 공격 이후 월간 기준 가장 많은 것으로 나타났습니다. 현지시간 26일 영국 해사무역기구(UKMTO) 주간 보고서와 미국 CNN 방송 등에 따르면, UKMTO는 지...",
+          "contentSnippet": "호르무즈 해협에서 공격을 받아 연기가 피어 오르는 LPG 운반선[AFP 연합뉴스. 재판매 및 DB 금지][AFP 연합뉴스. 재판매 및 DB 금지] 지난달 호르무즈 해협과 인근 페르시아만, 오만만에서 접수된 상선 공격 신고 건수가 30건을 넘어 지난 2월 말 미국과 이스라엘의 이란 공격 이후 월간 기준 가장 많은 것으로 나타났습니다. 현지시간 26일 영국 해사무역기구(UKMTO) 주간 보고서와 미국 CNN 방송 등에 따르면, UKMTO는 지...",
+          "guid": "AKR202611270012461HW",
           "categories": [
             "최신"
           ],
-          "isoDate": "2026-11-26T11:17:40.000Z"
+          "isoDate": "2026-11-26T15:12:48.000Z"
         }
       ]
     }
